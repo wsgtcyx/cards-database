@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/029",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/029",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/029"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/029"
     },
     name: {
         en: "Musharna",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sonnecchia costantemente, sognando.\nQuando si sveglia è di pessimo umore,\nquindi è meglio tenersi a debita distanza.",
         de: "Es schlummert und träumt immerzu. Wenn es\ngeweckt wird, bekommt es schlechte Laune.\nDeshalb sollte man es lieber in Ruhe lassen.",
         "pt-br": "Ele dorme e sonha o tempo todo. É melhor deixar assim se ele acabou de acordar, pois é um mau humor terrível quando recém-acordado.",
-        "zh-tw": "總是在打瞌睡作夢。\n剛睡醒的時候會鬧脾氣，\n所以最好別去招惹牠。"
+        "zh-tw": "總是在打瞌睡作夢。\n剛睡醒的時候會鬧脾氣，\n所以最好別去招惹牠。",
+        ja: "いつも まどろみ 夢を 見ている。 寝起きは とっても 不機嫌に なるので そっとして おこう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Cozzata Zen",
                 de: "Zen-Kopfstoß",
                 "pt-br": "Cabeçada Zen",
-                "zh-tw": "意念頭錘"
+                "zh-tw": "意念頭錘",
+                ja: "しねんのずつき"
             },
             damage: 50
         }

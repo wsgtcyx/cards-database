@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/059"
     },
     name: {
         en: "Bronzong",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bronzong",
         de: "Bronzong",
         'pt-br': "Bronzong",
+        ja: "ドータクン",
         ko: "동탁군",
         "zh-tw": "青銅鐘",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bronzel",
         "pt-br": "Bronzor",
         "zh-tw": "銅鏡怪",
+        ja: "ドーミラー",
     },
     description: {
         en: "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È stato venerato per secoli come Pokémon che\nporta la pioggia. A volte lo si trova sepolto nel terreno.",
         de: "Vor Urzeiten wurden sie als Regenmacher verehrt.\nManchmal findet man eines von ihnen im Boden vergraben.",
         'pt-br': "Nas idades antigas, este Pokémon era reverenciado\ncomo aquele que fazia chover. Ele foi descoberto\nenterrado no chão.",
+        ja: "雨雲を 呼べる ポケモンとして 大昔から まつられていた。 ときどき 地面に 埋められている。",
         ko: "비구름을 부르는 포켓몬으로\n아주 옛날부터 떠받들어졌다.\n가끔 땅에 묻혀 있다.",
         "zh-tw": "在過去的時代，這只神奇寶貝被尊為帶來雨水的使者。被發現埋在地下。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스",
                 "zh-tw": "精神"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
             }

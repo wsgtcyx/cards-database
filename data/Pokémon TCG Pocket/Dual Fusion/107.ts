@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/107",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/107",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/107"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/107"
     },
     name: {
         en: "Eevee",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Spuren der Evolution",
                 "pt-br": "Sinais de Evolução",
                 "zh-tw": "進化預兆",
-                ja: "Signs of Evolution",
+                ja: "しんかのきざし",
                 ko: "Signs of Evolution"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Nimm 1 zufällige Karte, die sich aus Evoli entwickelt, aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque 1 carta aleatória que evolua de Eevee do seu baralho na sua mão.",
                 "zh-tw": "從自己的牌庫隨機將1張從「伊布」進化而來的卡加入手牌。",
-                ja: "Put a random card that evolves from Eevee from your deck into your hand.",
+                ja: "「イーブイ」から進化するカードを、自分の山札からランダムに1枚、手札に加える。",
                 ko: "Put a random card that evolves from Eevee from your deck into your hand."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Um sich jeder Umgebung perfekt anpassen zu können, ist es in der Lage, sich zu verschiedenen Pokémon zu entwickeln.",
         "pt-br": "Sua capacidade de evoluir para muitas formas permite que se adapte fácil e perfeitamente a qualquer ambiente.",
         "zh-tw": "為了能瞬即適應環境的變化，身體裏蘊藏著許多種進化的可能性。",
-        ja: "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
         ko: "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment."
     }
 };

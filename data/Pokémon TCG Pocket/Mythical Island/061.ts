@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/061"
     },
     name: {
         en: "Eevee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Eevee",
         de: "Evoli",
         'pt-br': "Eevee",
+        ja: "イーブイ",
         ko: "이브이",
         "zh-tw": "伊布"
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente.",
         de: "Um sich jeder Umgebung perfekt anpassen zu\nkönnen, ist es in der Lage, sich zu verschiedenen\nPokémon zu entwickeln.",
         'pt-br': "Sua capacidade de evoluir para muitas formas\npermite que se adapte fácil e perfeitamente\na qualquer ambiente.",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
         ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다.",
         "zh-tw": "它進化成多種形態的能力使其能夠順利、完美地適應任何環境。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Passi Regolari",
                 de: "Dauerschritte",
                 'pt-br': "Passos Contínuos",
+                ja: "れんぞくステップ",
                 ko: "연속스텝",
                 "zh-tw": "連續步驟"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×20ダメージ。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 20 點傷害。"
             }

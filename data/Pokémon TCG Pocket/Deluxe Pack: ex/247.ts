@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/247",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/247",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/247",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/247"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/247",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/247"
     },
     name: {
         en: "Nihilego",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Anego",
         "pt-br": "Nihilego",
         "zh-tw": "虛吾伊德",
+        ja: "ウツロイド",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Una forma di vita proveniente da un altro mondo, fu soprannominata\nun UB e si pensa che produca a\nforte neurotossina.",
         "de": "Man nannte es eine Lebensform aus einer anderen Welt\nein UB und soll ein produzieren\nstarkes Neurotoxin.",
         "pt-br": "Uma forma de vida de outro mundo, foi apelidada\num UB e é pensado para produzir um\nneurotoxina forte.",
-        "zh-tw": "來自異世界的生命體，被稱為\n一個 UB 並被認為會產生一個\n強神經毒素。"
+        "zh-tw": "來自異世界的生命體，被稱為\n一個 UB 並被認為會產生一個\n強神經毒素。",
+        ja: "ＵＢと 呼ばれる 別世界の 生命体。 強い 神経毒を 持っていると 考えられる。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Altro Veleno",
                 "de": "Mehr Gift",
                 "pt-br": "Mais veneno",
-                "zh-tw": "更多毒藥"
+                "zh-tw": "更多毒藥",
+                ja: "ポイズンアップ"
             },
             effect: {
                 en: "Your opponent's Active Pokémon takes +10 damage from being Poisoned.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario subisce +10 danni se viene avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners erleidet durch die Vergiftung +10 Schaden.",
                 "pt-br": "O Pokémon Ativo do seu oponente sofre +10 de dano ao ser Envenenado.",
-                "zh-tw": "對手的活躍寶可夢因中毒而受到+10傷害。"
+                "zh-tw": "對手的活躍寶可夢因中毒而受到+10傷害。",
+                ja: "このポケモンがいるかぎり、相手のバトルポケモンが受けるどくのダメージを+10する。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Nuova ondata",
                 "de": "Neue Welle",
                 "pt-br": "Nova Onda",
-                "zh-tw": "新浪潮"
+                "zh-tw": "新浪潮",
+                ja: "ニューウェーブ"
             },
             damage: 30,
             cost: ["Darkness", "Colorless"],
@@ -75,7 +81,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/007",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/007",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/007"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/007"
     },
     name: {
         en: "Golduck",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nuota con grazia sui fiumi e sui laghi tranquilli e lenti che gli piacciono tanto.",
         de: "Es schwimmt anmutig auf den ruhigen, langsam fließenden Flüssen und Seen entlang, die es so liebt.",
         "pt-br": "Ele nada graciosamente nos rios e lagos calmos e lentos dos quais tanto gosta.",
-        "zh-tw": "它在它所喜愛的安靜、緩慢的河流和湖泊中優雅地遊動。"
+        "zh-tw": "它在它所喜愛的安靜、緩慢的河流和湖泊中優雅地遊動。",
+        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神強念"
+                "zh-tw": "精神強念",
+                ja: "サイコキネシス"
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的戰鬥寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "對手的戰鬥寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
             },
             damage: "20+"
         }

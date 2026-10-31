@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/008",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/008",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/008"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/008"
     },
     name: {
         en: "Vespiquen",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Wadribie",
         "pt-br": "Combee",
         "zh-tw": "三蜜蜂",
-        ja: "Combee",
+        ja: "ミツハニー",
         ko: "Combee"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Honigrausch",
                 "pt-br": "Adrenalina de Mel",
                 "zh-tw": "蜜之猛攻",
-                ja: "Honey Rush",
+                ja: "ハニーラッシュ",
                 ko: "Honey Rush"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Zeige deinem Gegner alle Honig-Karten auf deiner Hand und diese Attacke fügt für jede auf diese Weise gezeigte Karte 50 Schadenspunkte zu.",
                 "pt-br": "Revele todas as cartas Mel Doce na sua mão, e este ataque causa 50 pontos de dano para cada carta que você revelou dessa forma.",
                 "zh-tw": "在給對手看過自己的手牌的所有「甜甜蜜」後,造成給對手看過的張數×50點傷害。",
-                ja: "Reveal all of the Sweet Honey in your hand, and this attack does 50 damage for each card you revealed in this way.",
+                ja: "自分の手札にある「あまいミツ」をすべて相手に見せ、見せた枚数×50ダメージ。",
                 ko: "Reveal all of the Sweet Honey in your hand, and this attack does 50 damage for each card you revealed in this way."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Sein Rumpf fungiert als Wabe für die Larven, die es mithilfe verschiedener Pheromone frei herumkommandieren kann.",
         "pt-br": "Guarda sua colônia em células do seu corpo e libera vários feromônios para que as larvas cumpram suas exigências.",
         "zh-tw": "身體是孩子們的巢穴。會釋放出各式各樣的費洛蒙，自由自在地控制孩子們。",
-        ja: "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+        ja: "胴体は 子供たちの 巣穴。 いろんな フェロモンを だして 子供たちを 自由に 操る。",
         ko: "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding."
     }
 };

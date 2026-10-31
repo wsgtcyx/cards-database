@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/066",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/066",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/066",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/066"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/066",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/066"
 	},
 	name: {
 		en: "Flareon ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Flareon-ex",
 		de: "Flamara-ex",
 		"pt-br": "Flareon ex",
-		"zh-tw": "火伊布ex"
+		"zh-tw": "火伊布ex",
+		ja: "ブースターex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Eevee",
 		de: "Evoli",
 		"pt-br": "Eevee",
-		"zh-tw": "伊布"
+		"zh-tw": "伊布",
+		ja: "イーブイ"
 	},
 	stage: "Stage1",
 	suffix: "EX",
@@ -47,7 +50,8 @@ const card: Card = {
 				it: "Combustione",
 				de: "Verbrennen",
 				"pt-br": "Combustão",
-				"zh-tw": "燃燒"
+				"zh-tw": "燃燒",
+				ja: "バーンアップ"
 			},
 			effect: {
 				en: "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
@@ -56,7 +60,8 @@ const card: Card = {
 				it: "Una sola volta durante il tuo turno, puoi assegnare un'Energia {R} dalla tua pila degli scarti a questo Pokémon. Se lo fai, infliggi 20 danni a questo Pokémon.",
 				de: "Einmal während deines Zuges kannst du diesem Pokémon eine {R}-Energie von deinem Ablagestapel hinzufügen. Wenn du dies tust, füge diesem Pokémon 20 Schadenspunkte zu.",
 				"pt-br": "Uma vez durante o seu turno, você pode associar uma Energia {R} da sua pilha de descarte a este Pokémon. Se fizer isso, cause 20 de dano a este Pokémon.",
-				"zh-tw": "在你的回合中，你可以將你的棄牌堆中的一個 {R} 能量附加到這只神奇寶貝上。如果這樣做，則對該寶可夢造成 20 點傷害。"
+				"zh-tw": "在你的回合中，你可以將你的棄牌堆中的一個 {R} 能量附加到這只神奇寶貝上。如果這樣做，則對該寶可夢造成 20 點傷害。",
+				ja: "自分の番に1回使える。自分のトラッシュから{R}エネルギーを1個、このポケモンにつける。その後、このポケモンに20ダメージ。"
 			}
 		}
 	],
@@ -69,7 +74,8 @@ const card: Card = {
 				it: "Giro del fuoco",
 				de: "Feuerspin",
 				"pt-br": "Giro de Fogo",
-				"zh-tw": "火旋"
+				"zh-tw": "火旋",
+				ja: "ほのおのうず"
 			},
 			damage: 130,
 			cost: ["Fire", "Fire", "Colorless"],
@@ -80,7 +86,8 @@ const card: Card = {
 				it: "Scarta 2 Energie {R} da questo Pokémon.",
 				de: "Lege 2 {R}-Energien von diesem Pokémon ab.",
 				"pt-br": "Descarte 2 {R} Energias deste Pokémon.",
-				"zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
+				"zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
+				ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
 			}
 		}
 	],

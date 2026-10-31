@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/199"
     },
     name: {
         en: "Sudowoodo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mogelbaum",
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
+        ja: "ウソッキー",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Anche se finge sempre di essere un albero,\nla sua composizione appare più simile a\nroccia che alla vegetazione.",
         "de": "Obwohl es immer vorgibt, ein Baum zu sein,\nseine Zusammensetzung scheint ähnlicher zu sein\nFelsen als zur Vegetation.",
         "pt-br": "Embora sempre finja ser uma árvore,\nsua composição parece mais semelhante a\nrocha do que à vegetação.",
-        "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。"
+        "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。",
+        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Combattere la testata",
                 "de": "Kampf gegen den Kopfstoß",
                 "pt-br": "Lutando cabeçada",
-                "zh-tw": "格鬥頭撞"
+                "zh-tw": "格鬥頭撞",
+                ja: "とうしのずつき"
             },
             damage: "20+",
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 30 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 30 de dano a mais.",
-                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 30 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

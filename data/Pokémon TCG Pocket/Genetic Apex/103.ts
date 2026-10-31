@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/103"
     },
     name: {
         en: "Zapdos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Zapdos",
         de: "Zapdos",
         'pt-br': "Zapdos",
+        ja: "サンダー",
         ko: "썬더",
         "zh-tw": "閃電鳥",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Rombotuono",
                 de: "Tosender Donner",
                 'pt-br': "Trovão Devastador",
+                ja: "らくらい",
                 ko: "낙뢰",
                 "zh-tw": "憤怒的雷霆"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 30 danni a uno dei tuoi Pokémon in panchina.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 30 pontos de dano a 1 dos seus Pokémon no Banco.",
+                ja: "自分のベンチポケモン1匹にも30ダメージ。",
                 ko: "자신의 벤치 포켓몬 1마리에게도 30데미지를 준다.",
                 "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 30 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "È in grado di controllare l'elettricità a\nsuo piacimento. Secondo le leggende,\nfa il nido fra nere nubi temporalesche.",
         de: "Zapdos kann Elektrizität manipulieren.\nÜberlieferungen nach soll sein Nest inmitten\npechschwarzer Gewitterwolken liegen.",
         'pt-br': "Este Pokémon tem controle absoluto da eletricidade.\nCertas lendas afirmam que Zapdos faz seu ninho nas\nprofundezas escuras de nuvens de tempestades.",
+        ja: "電気を 自在に 操る。 真っ黒な 雷雲の 中に 巣があると 言い伝えられている。",
         ko: "전기를 자유로이 조종한다.\n새까만 번개 구름 안에\n거처가 있다고 전해지고 있다.",
         "zh-tw": "該寶可夢完全掌控電力。有關於閃電鳥在漆黑的雷雲深處築巢的傳說。"
     },

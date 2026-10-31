@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/203",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/203",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/203"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/203",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/203"
     },
     name: {
         en: "Stoutland",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bissbark",
         "pt-br": "Stoutland",
         "zh-tw": "長毛狗",
+        ja: "ムーランド",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Terribark",
         "pt-br": "Herdier",
         "zh-tw": "哈約克",
+        ja: "ハーデリア",
     },
     description: {
         en: "Stoutland is immensely proud of its impressive\nmoustache. It's said that moustache length is what\ndetermines social standing among this species.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Stoutland è immensamente orgogliosa delle sue impressionanti prestazioni\nbaffi. Si dice che la lunghezza dei baffi sia cosa\ndetermina la posizione sociale di questa specie.",
         "de": "Stoutland ist ungemein stolz auf seine beeindruckende\nSchnurrbart. Man sagt, dass es auf die Schnurrbartlänge ankommt\nbestimmt die soziale Stellung dieser Art.",
         "pt-br": "Stoutland está imensamente orgulhosa de sua impressionante\nbigode. Dizem que o comprimento do bigode é o que\ndetermina a posição social entre esta espécie.",
-        "zh-tw": "斯托特蘭為其令人印象深刻的\n小鬍子。據說鬍子的長度是多少\n決定了該物種的社會地位。"
+        "zh-tw": "斯托特蘭為其令人印象深刻的\n小鬍子。據說鬍子的長度是多少\n決定了該物種的社會地位。",
+        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Morso pericoloso",
                 "de": "Gefährlicher Biss",
                 "pt-br": "Mordida Perigosa",
-                "zh-tw": "危險的咬傷"
+                "zh-tw": "危險的咬傷",
+                ja: "デンジャラスバイト"
             },
             damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, questo attacco infligge 70 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, este ataque causará 70 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢是基礎寶可夢，則這次攻擊造成的傷害增加 70 點。"
+                "zh-tw": "如果對手的活躍寶可夢是基礎寶可夢，則這次攻擊造成的傷害增加 70 點。",
+                ja: "相手のバトルポケモンがたねポケモンなら、70ダメージ追加。"
             }
         }],
     weaknesses: [{

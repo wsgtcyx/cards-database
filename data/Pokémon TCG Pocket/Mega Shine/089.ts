@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/089",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/089",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/089"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/089"
     },
     name: {
         en: "Phantump",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon venne alla luce quando lo spirito di un bambino deceduto possedeva un ceppo di albero. Ora vaga per la foresta in cerca di amici.",
         de: "Dieses Pokémon entstand, als der Geist eines verstorbenen Kindes einen Baumstumpf besaß. Jetzt wandert es durch den Wald auf der Suche nach Freunden.",
         "pt-br": "Este Pokémon surgiu quando o espírito de uma criança falecida possuía um toco de árvore. Agora ele vagueia pela floresta em busca de amigos.",
-        "zh-tw": "當死去的孩子的靈魂附在樹樁上時，就會出現這種寶可夢。它現在在森林裡徘徊尋找朋友。"
+        "zh-tw": "當死去的孩子的靈魂附在樹樁上時，就會出現這種寶可夢。它現在在森林裡徘徊尋找朋友。",
+        ja: "死んだ 子供の 魂が 切り株に 宿った ポケモン。 森を さまよい 仲間を 探す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 10
         }

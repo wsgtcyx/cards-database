@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/344",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/344",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/344",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/344"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/344",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/344"
 	},
 	name: {
         en: "Mars",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mars",
         "pt-br": "Marte",
         "zh-tw": "夥星",
+        ja: "マーズ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Il tuo avversario mescola la sua mano nel suo mazzo e pesca una carta per ciascuno dei punti rimanenti necessari per vincere.",
         "de": "Ihr Gegner mischt seine Hand in sein Deck und zieht eine Karte für jeden seiner verbleibenden Punkte, die er zum Sieg benötigt.",
         "pt-br": "Seu oponente embaralha a mão no baralho e compra uma carta para cada um dos pontos restantes necessários para vencer.",
-        "zh-tw": "你的對手將他們的手牌洗入牌庫，並根據獲勝所需的剩餘點數抽一張牌。"
+        "zh-tw": "你的對手將他們的手牌洗入牌庫，並根據獲勝所需的剩餘點數抽一張牌。",
+        ja: "相手の手札をすべて山札にもどす。相手は相手自身の勝つために必要な残りポイントの数ぶん、山札を引く。"
     },
     trainerType: "Supporter"
 };

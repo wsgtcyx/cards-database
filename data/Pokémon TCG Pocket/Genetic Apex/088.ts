@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/088"
     },
     name: {
         en: "Frogadier",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Frogadier",
         de: "Amphizel",
         'pt-br': "Frogadier",
+        ja: "ゲコガシラ",
         ko: "개굴반장",
         "zh-tw": "呱頭蛙",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Froakie",
         "de": "Froxy",
         "pt-br": "Froakie",
-        "zh-tw": "呱呱泡蛙"
+        "zh-tw": "呱呱泡蛙",
+        ja: "ケロマツ"
     },
     attacks: [{
             cost: ["Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Gocciolacqua",
                 de: "Spritzwasser",
                 'pt-br': "Gotejo",
+                ja: "みずきり",
                 ko: "물수제비",
                 "zh-tw": "水滴"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Lancia dei sassi racchiusi in bolle di schiuma.\nÈ talmente preciso da riuscire a colpire\nuna lattina vuota a 30 m di distanza.",
         de: "Es kann kleine in Blasen gehüllte Steine mit\nsolcher Präzision werfen, dass es selbst\n30 m entfernte Dosen problemlos trifft.",
         'pt-br': "Pode atirar seixos cobertos em bolhas com\ncontrole preciso, atingindo latas vazias a\n30 metros de distância.",
+        ja: "泡で 包んだ 小石を 投げる 技を 使う。３０メートル 先の 空き缶に 当てる コントロール。",
         ko: "거품으로 싸인 돌멩이를 던지는\n기술을 쓴다. 30m 앞에 있는\n빈 캔을 맞출 정도로 컨트롤이 좋다.",
         "zh-tw": "它可以通過精確控制投擲覆蓋著氣泡的鵝卵石，將空罐子擊中最遠一百英尺。"
     },

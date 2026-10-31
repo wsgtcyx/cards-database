@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/099",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/099"
     },
     name: {
         en: "Celebi ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Celebi-ex",
         "pt-br": "Celebi ex",
         "zh-tw": "時拉比ex",
+        ja: "セレビィex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",
@@ -34,7 +36,8 @@ const card: Card = {
                 "it": "Fioritura potente",
                 "de": "Kraftvolle Blüte",
                 "pt-br": "Flor poderosa",
-                "zh-tw": "強力綻放"
+                "zh-tw": "強力綻放",
+                ja: "パワフルブルーム"
             },
             damage: "50×",
             cost: ["Grass", "Colorless"],
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Lancia una moneta per ogni Energia assegnata a questo Pokémon. Questo attacco infligge 50 danni per ogni testa.",
                 "de": "Wirf eine Münze für jede an dieses Pokémon angelegte Energie. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda para cada Energia ligada a este Pokémon. Este ataque causa 50 de dano para cada cabeça.",
-                "zh-tw": "為該神奇寶貝所附加的每個能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。"
+                "zh-tw": "為該神奇寶貝所附加的每個能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。",
+                ja: "このポケモンのエネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/064"
     },
     name: {
         en: "Palpitoad",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mebrana",
         "pt-br": "Palpitoad",
         "zh-tw": "藍蟾蜍",
+        ja: "ガマガル",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schallquap",
         "pt-br": "Tympole",
         "zh-tw": "圓蝌蚪",
+        ja: "オタマロ",
     },
     description: {
         en: "On occasion, their cries are sublimely pleasing to\nthe ear. Palpitoad with larger lumps on their\nbodies can sing with a wider range of sounds.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "A volte, le loro grida sono estremamente piacevoli\nl'orecchio. Palpitoad con grumi più grandi sui loro\ni corpi possono cantare con una gamma più ampia di suoni.",
         "de": "Gelegentlich sind ihre Schreie überaus erfreulich\ndas Ohr. Palpitoad mit größeren Klumpen auf ihrem\nKörper können mit einem größeren Spektrum an Klängen singen.",
         "pt-br": "Ocasionalmente, seus gritos são sublimemente agradáveis\na orelha. Palpitoad com caroços maiores em seus\ncorpos podem cantar com uma gama mais ampla de sons.",
-        "zh-tw": "有時，他們的哭聲令人無比愉悅\n耳朵。心悸蟾蜍身上有較大的腫塊\n身體可以用更廣泛的聲音唱歌。"
+        "zh-tw": "有時，他們的哭聲令人無比愉悅\n耳朵。心悸蟾蜍身上有較大的腫塊\n身體可以用更廣泛的聲音唱歌。",
+        ja: "きれいな 声で 鳴くこともある。 体の 突起が 大きいほど 広い 音域で 鳴けるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ipervoce",
                 "de": "Hyperstimme",
                 "pt-br": "Hiper Voz",
-                "zh-tw": "超級語音"
+                "zh-tw": "超級語音",
+                ja: "ハイパーボイス"
             },
             damage: 60,
             cost: ["Water", "Water", "Colorless"]

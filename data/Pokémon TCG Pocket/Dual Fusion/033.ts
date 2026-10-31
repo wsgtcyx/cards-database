@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/033",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/033",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/033"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/033"
     },
     name: {
         en: "Dewgong",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Jurob",
         "pt-br": "Seel",
         "zh-tw": "小海獅",
-        ja: "Seel",
+        ja: "パウワウ",
         ko: "Seel"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Doppelsturm",
                 "pt-br": "Nevasca Dupla",
                 "zh-tw": "二重暴雪",
-                ja: "Dual Blizzard",
+                ja: "デュアルブリザード",
                 ko: "Dual Blizzard"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Lege 2 {W}-Energien von diesem Pokémon ab und diese Attacke fügt 2 Pokémon deines Gegners 60 Schadenspunkte zu.",
                 "pt-br": "Descarte 2 Energias {W} deste Pokémon, e este ataque causa 60 pontos de dano a 2 dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的2個{W}能量丟棄,對手的2隻寶可夢受到60點傷害。",
-                ja: "Discard 2 {W} Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon.",
+                ja: "このポケモンから{W}エネルギーを2個トラッシュし、相手のポケモン2匹に60ダメージ。",
                 ko: "Discard 2 {W} Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Des Nachts, wenn die Wassertemperatur fällt, schwimmt es auf der Suche nach Nahrung umher. Tagsüber schläft es im seichten Meereswasser.",
         "pt-br": "Durante o dia, dorme sob águas rasas no oceano. Ao anoitecer, quando a água esfria, sai à procura de alimento.",
         "zh-tw": "會在水溫變低的夜晚為了尋找食物而四處游動。白天會在淺海的海底睡覺。",
-        ja: "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s colder.",
+        ja: "水の 温度が 下がる 夜 食べものを 求め 泳ぎまわる。 昼間は 浅い 海底で 寝る。",
         ko: "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s colder."
     }
 };

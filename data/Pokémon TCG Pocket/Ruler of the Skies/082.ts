@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/082",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/082",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/082"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/082"
     },
     name: {
         en: "Armaldo",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Vive sulla terraferma, ma è un abile nuotatore.\nSi tuffa in mare alla ricerca di prede, che abbatte\ncon i suoi artigli affilati.",
         de: "Es lebt an Land, kann aber auch gut schwimmen.\nZum Jagen taucht es ins Meer und erledigt Beute\nmit seinen scharfen Klauen.",
         "pt-br": "Embora viva em terra firme, também é um excelente nadador. Mergulha no oceano em busca de presas, usando suas garras afiadas para abatê-las.",
-        "zh-tw": "生活在陸地上，但也擅長游泳。\n會為了尋找獵物而潛入海中，\n用銳利的爪子解決對方。"
+        "zh-tw": "生活在陸地上，但也擅長游泳。\n會為了尋找獵物而潛入海中，\n用銳利的爪子解決對方。",
+        ja: "陸地で 生活するが 泳ぎも 得意。 獲物を 求めて 海に 潜り 鋭い ツメで しとめる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Queda Abissal",
                 "zh-tw": "擊落深淵",
                 "it": "Lancio nell'Abisso",
-                "de": "Abgrundtiefer Fall"
+                "de": "Abgrundtiefer Fall",
+                ja: "ならくおとし"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Descarte todas as Energias deste Pokémon. Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, Nocauteie o Pokémon no lugar que você escolheu.",
                 "zh-tw": "將這隻寶可夢身上的能量全部丟棄。選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,將位於所選位置的寶可夢昏厥。",
                 "it": "Rimuovi tutte le Energie assegnate a questo Pokémon. Scegli una posizione tra quella attiva e quelle nella panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, metti KO il Pokémon che si trova in quella posizione.",
-                "de": "Lege alle Energien von diesem Pokémon ab. Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Mache das Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners kampfunfähig."
+                "de": "Lege alle Energien von diesem Pokémon ab. Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Mache das Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners kampfunfähig.",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンをきぜつさせる。"
             }
         }
     ],

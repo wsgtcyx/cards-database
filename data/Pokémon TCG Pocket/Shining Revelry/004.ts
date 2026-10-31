@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/004"
     },
     name: {
         en: "Pinsir",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pinsir",
         de: "Pinsir",
         'pt-br': "Pinsir",
+        ja: "カイロス",
         ko: "쁘사이저",
         "zh-tw": "凱羅斯"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "I Pinsir si giudicano a vicenda in base alle corna.\nQuelli con corna grosse e imponenti hanno\npiù successo con gli esemplari dell'altro sesso.",
         de: "Der Status eines Pinsirs hängt von seinen Hörnern\nab. Je dicker und stattlicher diese sind, desto\nbeliebter ist es beim anderen Geschlecht.",
         'pt-br': "Estes Pokémon se julgam de acordo com\nsuas pinças. As pinças mais grossas e notáveis\nsão mais populares com o gênero oposto.",
+        ja: "ツノで 互いを 格付けする。 太く 立派な ツノを 持つ カイロスほど 異性に 人気。",
         ko: "뿔로 서로의 등급을 매긴다.\n굵고 훌륭한 뿔을 가진\n쁘사이저일수록 이성에게 인기다.",
         "zh-tw": "這些神奇寶貝通過鉗子來判斷彼此。更厚、更令人印象深刻的鉗子更受異性歡迎。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Ghigliottina Impietosa",
             de: "Guillotinenrage",
             'pt-br': "Guilhotina Descontrolada",
+            ja: "ギロチンラッシュ",
             ko: "자르기러시",
             "zh-tw": "斷頭台衝刺"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Lancia una moneta finché non esce croce. Questo attacco infligge 40 danni in più ogni volta che esce testa.",
             de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 40 Schadenspunkte mehr pro Kopf zu.",
             'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 40 pontos de dano a mais para cada cara.",
+            ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
             ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 추가한다.",
             "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/131",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/131"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/131"
     },
     name: {
         en: "Chansey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Chaneira",
         "pt-br": "Chansey",
         "zh-tw": "吉利蛋",
+        ja: "ラッキー",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon gentile depone uova altamente nutrienti\ne li condivide con Pokémon o persone feriti.",
         "de": "Dieses freundliche Pokémon legt sehr nahrhafte Eier\nund teilt sie mit verletzten Pokémon oder Menschen.",
         "pt-br": "Este gentil Pokémon põe ovos altamente nutritivos\ne os compartilha com Pokémon ou pessoas feridas.",
-        "zh-tw": "這只善良的神奇寶貝會產下營養豐富的蛋\n並與受傷的神奇寶貝或人分享。"
+        "zh-tw": "這只善良的神奇寶貝會產下營養豐富的蛋\n並與受傷的神奇寶貝或人分享。",
+        ja: "傷ついた ポケモンや 人がいると 栄養満点の タマゴを産み 分け与える 優しい ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scrunch",
                 "de": "Knirschen",
                 "pt-br": "Amassar",
-                "zh-tw": "緊縮"
+                "zh-tw": "緊縮",
+                ja: "まるまる"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos causados a este Pokémon por ataques.",
-                "zh-tw": "拋一枚硬幣。如果正面，則在對手的下一個回合中，阻止攻擊對該神奇寶貝造成的所有傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，則在對手的下一個回合中，阻止攻擊對該神奇寶貝造成的所有傷害。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。"
             }
         }],
     weaknesses: [{

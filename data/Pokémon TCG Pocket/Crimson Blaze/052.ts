@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/052"
     },
     name: {
         en: "Mega Steelix ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Steelix-ex",
         "de": "Mega-Stahlos-ex",
         "pt-br": "Mega Steelix ex",
-        "zh-tw": "超級大鋼蛇ex"
+        "zh-tw": "超級大鋼蛇ex",
+        ja: "メガハガネールex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Onix",
         "de": "Onix",
         "pt-br": "Onix",
-        "zh-tw": "大岩蛇"
+        "zh-tw": "大岩蛇",
+        ja: "イワーク"
     },
     description: {
         en: "To protect itself from opponents' attacks, it uses\nmagnetism to control pieces of its hard outer\nshell that have flaked off.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Per proteggersi dagli attacchi degli avversari, utilizza\nmagnetismo per controllare pezzi del suo duro esterno\nguscio che si è sfaldato.",
         "de": "Um sich vor gegnerischen Angriffen zu schützen, nutzt es\nMagnetismus, um Teile seiner harten Außenseite zu kontrollieren\nSchale, die abgeplatzt ist.",
         "pt-br": "Para se proteger dos ataques dos oponentes, ele usa\nmagnetismo para controlar pedaços de seu exterior duro\ncasca que se descascou.",
-        "zh-tw": "為了保護自己免受對手的攻擊，它使用\n磁性來控制其硬質外殼的各個部分\n已經剝落的外殼。"
+        "zh-tw": "為了保護自己免受對手的攻擊，它使用\n磁性來控制其硬質外殼的各個部分\n已經剝落的外殼。",
+        ja: "はがれおちた 硬い 身体の 表面を 磁力で 操り 相手からの 攻撃を 防ぐ。"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Rotolamento Adamantino",
                 "de": "Adamantisches Rollen",
                 "pt-br": "Rolamento Adamantino",
-                "zh-tw": "精金軋製"
+                "zh-tw": "精金軋製",
+                ja: "アダマントローリング"
             },
             damage: 120,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce danni dagli attacchi e non ha debolezza.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon Schaden durch Angriffe und hat keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá danos de ataques e não terá Fraqueza.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到攻擊傷害並且沒有弱點。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到攻擊傷害並且沒有弱點。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。"
             }
         }],
     weaknesses: [{

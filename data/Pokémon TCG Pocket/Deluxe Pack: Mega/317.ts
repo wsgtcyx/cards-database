@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/317",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/317",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/317",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/317"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/317",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/317"
     },
     name: {
         en: "Trapinch",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es gräbt im Sand und zermalmt dabei mit seinem großen Kiefer störende Felsen. Sein Bau hat die Form eines Trichters.",
         "pt-br": "Ao cavar na areia, suas gigantescas mandíbulas esmagam qualquer pedra que esteja obstruindo o caminho. Constrói ninhos em forma de funil.",
         "zh-tw": "一邊用大大的顎把礙事的岩石咬碎，一邊挖沙子。巢穴的形狀就像研磨缽一樣。",
-        ja: "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.",
+        ja: "大きな 顎で 邪魔な 岩を 砕きながら 砂を 掘る。 巣穴の 形は スリ鉢状。",
         ko: "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
                 "zh-tw": "擲泥",
-                ja: "Mud-Slap",
+                ja: "どろかけ",
                 ko: "Mud-Slap"
             },
             damage: 10

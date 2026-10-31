@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/053",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/053",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/053"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/053"
     },
     name: {
         en: "Magneton",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sono formati da più Magnemite collegati tra loro. Appaiono frequentemente quando le macchie solari si manifestano.",
         de: "Sie werden durch mehrere miteinander verbundene Magnetilo gebildet. Sie treten häufig auf, wenn Sonnenflecken aufflammen.",
         "pt-br": "Eles são formados por vários Magnemite interligados. Eles freqüentemente aparecem quando as manchas solares aumentam.",
-        "zh-tw": "它們是由多個 小磁怪 連接在一起形成的。它們經常在太陽黑子爆發時出現。"
+        "zh-tw": "它們是由多個 小磁怪 連接在一起形成的。它們經常在太陽黑子爆發時出現。",
+        ja: "連結した タイプの コイルは 太陽の 黒点が 多いとき たくさん 現れると 言われる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Magnetebomba",
                 de: "Magnetstoß",
                 "pt-br": "Explosão Magnética",
-                "zh-tw": "磁力爆破"
+                "zh-tw": "磁力爆破",
+                ja: "マグネブラスト"
             },
             damage: 50
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/058"
     },
     name: {
         en: "Golduck",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golduck",
         de: "Entoron",
         'pt-br': "Golduck",
+        ja: "ゴルダック",
         ko: "골덕",
         "zh-tw": "哥達鴨",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Psyduck",
         "de": "Enton",
         "pt-br": "Psyduck",
-        "zh-tw": "可達鴨"
+        "zh-tw": "可達鴨",
+        ja: "コダック"
     },
     attacks: [{
             cost: ["Water", "Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Acquataglio",
                 de: "Aquaschneide",
                 'pt-br': "Aqua Gume",
+                ja: "アクアエッジ",
                 ko: "아쿠아에지",
                 "zh-tw": "水色邊緣"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Quando nuota a tutta velocità con i suoi\nlunghi arti palmati, la fronte gli si illumina.",
         de: "Wenn es mit den Schwimmflossen an seinen\nlangen Gliedmaßen schnell durchs Wasser\nschwimmt, beginnt seine Stirn zu glühen.",
         'pt-br': "Quando nada o mais rápido possível usando suas\nlongas membranas, a testa deste Pokémon\nde alguma forma começa a brilhar.",
+        ja: "水かきのついた 長い 手足を 使い 全力で 泳ぎだすと なぜか 額が 光り輝く。",
         ko: "물갈퀴가 달린 긴 손발을 써서\n전력으로 헤엄치면\n왠지 이마에서 빛이 반짝인다.",
         "zh-tw": "當它用長長的帶蹼的四肢全速游泳時，它的前額不知何故開始發光。"
     },

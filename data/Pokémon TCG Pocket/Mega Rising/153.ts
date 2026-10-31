@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/153",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/153",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/153"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/153",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/153"
     },
     name: {
         en: "Drapion",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Piondragi",
         "pt-br": "Drapion",
         "zh-tw": "龍王蠍",
+        ja: "ドラピオン",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Pionskora",
         "pt-br": "Skorupi",
         "zh-tw": "鉗尾蠍",
+        ja: "スコルピ",
     },
     description: {
         en: "It's so vicious that it's called the Sand Demon.\nYet when confronted by Hippowdon, Drapion\nkeeps a low profile and will never pick a fight.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "È così feroce che viene chiamato il Demone della Sabbia.\nTuttavia, quando viene affrontato da Hippowdon, Drapion\nmantiene un profilo basso e non litigherà mai.",
         "de": "Er ist so bösartig, dass er Sanddämon genannt wird.\nDoch als er mit Hippowdon konfrontiert wurde, Drapion\nhält sich bedeckt und wird niemals einen Streit beginnen.",
         "pt-br": "É tão cruel que é chamado de Demônio da Areia.\nNo entanto, quando confrontado por Hippowdon, Drapion\nmantém um perfil discreto e nunca vai brigar.",
-        "zh-tw": "它的兇惡程度如此之高，以至於被稱為“沙魔”。\n然而，當面對希波頓時，德拉皮恩\n保持低調，絕不會挑釁。"
+        "zh-tw": "它的兇惡程度如此之高，以至於被稱為“沙魔”。\n然而，當面對希波頓時，德拉皮恩\n保持低調，絕不會挑釁。",
+        ja: "砂の悪魔と 呼ばれるほど 獰猛だが カバルドンには ケンカも 売らず おとなしい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Veleno stordente",
                 "de": "Betäubungsgift",
                 "pt-br": "Veneno de atordoamento",
-                "zh-tw": "眩暈毒藥"
+                "zh-tw": "眩暈毒藥",
+                ja: "しんけいどく"
             },
             damage: 50,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è avvelenato e paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt vergiftet und gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Envenenado e Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍神奇寶貝現在中毒並麻痺。"
+                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍神奇寶貝現在中毒並麻痺。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/127"
     },
     name: {
         en: "Wugtrio ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schligdri-ex",
         "pt-br": "Wugtrio ex",
         "zh-tw": "三海地鼠ex",
+        ja: "ウミトリオex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schligda",
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
+        ja: "ウミディグダ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Fai un salto ovunque",
                 "de": "Pop-out überall",
                 "pt-br": "Destaque-se o tempo todo",
-                "zh-tw": "整個過程中彈出"
+                "zh-tw": "整個過程中彈出",
+                ja: "あちこちとびだす"
             },
             cost: ["Water", "Water", "Water"],
             effect: {
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "1 dei Pokémon del tuo avversario viene scelto a caso 3 volte. Per ogni volta che viene scelto un Pokémon, infliggigli 50 danni.",
                 "de": "1 Pokémon deines Gegners wird dreimal zufällig ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 50 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente 3 vezes. Para cada vez que um Pokémon for escolhido, cause 50 de dano a ele.",
-                "zh-tw": "隨機選擇 1 只對手的神奇寶貝 3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。"
+                "zh-tw": "隨機選擇 1 只對手的神奇寶貝 3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。",
+                ja: "相手のポケモンがランダムに3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。"
             }
         }],
     weaknesses: [{

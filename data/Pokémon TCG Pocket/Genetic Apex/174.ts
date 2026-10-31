@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/174",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/174",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/174",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/174"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/174",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/174"
     },
     name: {
         en: "Grimer",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grimer",
         de: "Sleima",
         'pt-br': "Grimer",
+        ja: "ベトベター",
         ko: "질퍽이",
         "zh-tw": "臭泥",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Velenogas",
                 de: "Giftwolke",
                 'pt-br': "Gás Venenoso",
+                ja: "どくガス",
                 ko: "독가스",
                 "zh-tw": "毒氣"
             },
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Un Pokémon nato dalla melma. Predilige\ni posti sporchi perché gli permettono\ndi aumentare la sua carica batterica.",
         de: "Diese aus Schlamm entstandenen Pokémon\nscharen sich an dreckigen Orten, um ihre\nkörpereigenen Bakterien zu kultivieren.",
         'pt-br': "Nascidos no lodo, esses Pokémon agora\nreúnem-se em locais poluídos e aumentam\na quantidade de bactérias em seus corpos.",
+        ja: "ヘドロが ポケモンになった。 汚い 場所に 集まって 体の ばい菌を 増やしていく。",
         ko: "오물이 포켓몬이 되었다.\n더러운 장소에 모여\n몸의 세균을 번식시킨다.",
         "zh-tw": "這些神奇寶貝從污泥中誕生，現在聚集在污染的地方並增加了體內的細菌。"
     },

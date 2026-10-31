@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/333",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/333",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/333",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/333"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/333",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/333"
 	},
 	name: {
         en: "Lyra",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lyra",
         "pt-br": "Lyra",
         "zh-tw": "琴音",
+        ja: "コトネ",
     },
     illustrator: "yuu",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Scambia il tuo Pokémon attivo che ha danni con 1 dei tuoi Pokémon in panchina.",
         "de": "Tausche dein Aktives Pokémon, das Schaden hat, gegen eines deiner Bank-Pokémon aus.",
         "pt-br": "Troque o seu Pokémon Ativo que apresenta dano por 1 dos seus Pokémon no Banco.",
-        "zh-tw": "將受到傷害的活躍寶可夢與 1 只後備寶可夢交換。"
+        "zh-tw": "將受到傷害的活躍寶可夢與 1 只後備寶可夢交換。",
+        ja: "ダメージを受けている自分のバトルポケモンを、ベンチポケモンと入れ替える。"
     },
     trainerType: "Supporter"
 };

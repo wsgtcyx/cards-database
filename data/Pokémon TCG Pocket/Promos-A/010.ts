@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/010"
     },
     name: {
         en: "Mewtwo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mewtwo",
         de: "Mewtu",
         'pt-br': "Mewtwo",
+        ja: "ミュウツー",
         ko: "뮤츠",
         "zh-tw": "超夢"
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Forzacolpo",
                 de: "Powerschuss",
                 'pt-br': "Explosão Poderosa",
+                ja: "パワーブラスト",
                 ko: "파워블라스트",
                 "zh-tw": "能量衝擊波"
             },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {P} da questo Pokémon.",
                 de: "Lege 2 {P}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {P} deste Pokémon.",
+                ja: "このポケモンから{P}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {P}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。"
             }
@@ -58,6 +62,7 @@ const card: Card = {
         it: "Creato da uno scienziato dopo anni di\norribili esperimenti di ingegneria genetica.",
         de: "Dieses Pokémon ist das Resultat eines jahrelangen\nund skrupellosen Experimentes.",
         'pt-br': "Foi criado por cientistas através de anos\nde experimentos genéticos terríveis com\nmanipulação de DNA.",
+        ja: "１人の 科学者が 何年も 恐ろしい 遺伝子 研究を 続けた 結果 誕生した。",
         ko: "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다.",
         "zh-tw": "它是由一位科學家在經歷了多年的可怕經歷後創造出來的\n基因剪接和 DNA 工程實驗。"
     },

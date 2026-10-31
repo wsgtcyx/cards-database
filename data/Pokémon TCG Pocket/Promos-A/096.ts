@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/096",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/096",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/096"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/096"
     },
     name: {
         en: "Houndoom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hundemon",
         "pt-br": "Houndoom",
         "zh-tw": "黑魯加",
+        ja: "ヘルガー",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Houndour",
         "de": "Hunduster",
         "pt-br": "Houndour",
-        "zh-tw": "戴魯比"
+        "zh-tw": "戴魯比",
+        ja: "デルビル"
     },
     description: {
         en: "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Se vieni bruciato dalle fiamme spara dalle sue\nbocca, il dolore non andrà mai via.",
         "de": "Wenn Sie von den Flammen verbrannt werden, schießt es daraus\nMund, der Schmerz wird nie verschwinden.",
         "pt-br": "Se você for queimado pelas chamas, elas dispararão de seu\nboca, a dor nunca irá embora.",
-        "zh-tw": "如果你被它噴出的火焰燒傷\n嘴裡的疼痛永遠不會消失。"
+        "zh-tw": "如果你被它噴出的火焰燒傷\n嘴裡的疼痛永遠不會消失。",
+        ja: "口から 吹き出す 炎で 火傷すると いつまでたっても 傷口が うずいてしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Scorrimento in immersione",
                 "de": "Tauchender Schlag",
                 "pt-br": "Mergulho",
-                "zh-tw": "潛水滑動"
+                "zh-tw": "潛水滑動",
+                ja: "スナッチダイブ"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta una carta a caso dalla mano del tuo avversario.",
                 "de": "Wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória da mão do seu oponente.",
-                "zh-tw": "隨機丟棄對手手上的一張牌。"
+                "zh-tw": "隨機丟棄對手手上的一張牌。",
+                ja: "相手の手札からランダムに枚トラッシュ。"
             }
         }],
     weaknesses: [{

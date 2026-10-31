@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/161",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/161",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/161",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/161"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/161",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/161"
 	},
 	name: {
 		en: "Misdreavus",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Misdreavus",
 		de: "Traunfugil",
 		"pt-br": "Misdreavus",
-		"zh-tw": "夢妖"
+		"zh-tw": "夢妖",
+		ja: "ムウマ"
 	},
 	illustrator: "Sumiyoshi Kizuki",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia.",
 		de: "Ein Pokémon, das Menschen mitten in der Nacht\nerschreckt. Es sammelt die Angst als seine Energie.",
 		"pt-br": "Este Pokémon assusta pessoas no meio da noite.\nAcumula o medo para usar como energia.",
+		ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。",
 		ko: "한밤중에 사람을 놀라게 하고\n무서워하는 마음을 모아 자신의\n에너지로 만드는 포켓몬이다.",
 		"zh-tw": "這只神奇寶貝會在半夜嚇到人們。它聚集恐懼作為能量。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Borbottio",
 				de: "Grummeln",
 				"pt-br": "Resmungo",
+				ja: "つぶやく",
 				ko: "중얼거리기",
 				"zh-tw": "咕噥"
 			},

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/099",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/099"
     },
     name: {
         en: "Phanpy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Phanpy",
         "pt-br": "Phanpy",
         "zh-tw": "小小象",
+        ja: "ゴマゾウ",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon vive e nidifica sulla riva di un fiume.\nDopo aver giocato nel fango, non sarà in grado di farlo\nsistemarsi a meno che non si lavi il corpo.",
         "de": "Dieses Pokémon lebt und nistet an einem Flussufer.\nNach dem Spielen im Schlamm wird es nicht mehr möglich sein\nBeruhige dich, es sei denn, es wäscht seinen Körper.",
         "pt-br": "Este Pokémon vive e nidifica nas margens de um rio.\nDepois de brincar na lama, não conseguirá\nacalme-se a menos que lave seu corpo.",
-        "zh-tw": "這只神奇寶貝在河岸上生活和築巢。\n玩泥巴之後就不行了\n除非它清洗身體，否則就安定下來。"
+        "zh-tw": "這只神奇寶貝在河岸上生活和築巢。\n玩泥巴之後就不行了\n除非它清洗身體，否則就安定下來。",
+        ja: "川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Carica spericolata",
                 "de": "Rücksichtsloser Angriff",
                 "pt-br": "Carga imprudente",
-                "zh-tw": "魯莽衝鋒"
+                "zh-tw": "魯莽衝鋒",
+                ja: "とつげき"
             },
             damage: 30,
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             }
         }],
     weaknesses: [{

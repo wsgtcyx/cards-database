@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/021",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/021",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/021"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/021"
     },
     name: {
         en: "Sprigatito",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Es verzaubert alle in seiner Umgebung mit dem süßen Duft, der von ihm ausgeht. Dieser wird durch Sonnenschein noch intensiver.",
         "pt-br": "O aroma doce que exala de seu corpo encanta todos à sua volta. O cheiro fica mais forte quando esse Pokémon está no sol.",
         "zh-tw": "會用身體發出甜甜香氣，讓周圍的一切為之傾倒。照到陽光後香氣會變得更濃郁。",
-        ja: "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.",
+        ja: "体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。",
         ko: "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
     },
     stage: "Basic",
@@ -56,7 +57,7 @@ const card: Card = {
                 "pt-br": "Folhagem",
                 "zh-tw": "樹葉",
                 ko: "나뭇잎",
-                ja: "Leafage"
+                ja: "このは"
             },
             damage: 20,
             cost: [

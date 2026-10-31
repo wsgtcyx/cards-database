@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/084",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/084",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/084"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/084",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/084"
     },
     name: {
         en: "Cyclizar",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Mopex",
         'pt-br': "Cyclizar",
         "zh-tw": "摩托蜥",
+        ja: "モトトカゲ",
         ko: "모토마"
     },
     illustrator: "AKIRA EGAWA",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Può scattare a oltre 70 mph mentre trasporta un essere umano. Il calore corporeo del cavaliere riscalda la schiena di Cyclizar e solleva lo spirito del Pokémon.",
         "de": "Es kann mit einer Geschwindigkeit von über 70 Meilen pro Stunde sprinten, während es einen Menschen trägt. Die Körperwärme des Reiters wärmt den Rücken von Mopex und hebt den Geist des Pokémon.",
         "pt-br": "Ele pode correr a mais de 70 mph enquanto carrega um humano. O calor do corpo do cavaleiro aquece as costas de Cyclizar e eleva o espírito do Pokémon.",
-        "zh-tw": "它載人時可以以超過 70 英里/小時的速度衝刺。騎士的體溫溫暖了 摩托蜥 的背部並提升了寶可夢的精神。"
+        "zh-tw": "它載人時可以以超過 70 英里/小時的速度衝刺。騎士的體溫溫暖了 摩托蜥 的背部並提升了寶可夢的精神。",
+        ja: "人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Mitfahrkumpel",
                 "pt-br": "Amigo de condução",
                 "zh-tw": "駕駛夥伴",
+                ja: "バディドライブ",
                 pt: "Carona Amiga"
             },
             damage: "40+",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Wenn du eine Unterstützerkarte während dieses Zuges aus deiner Hand gespielt hast, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你在本回合中從手牌中打出了支持者卡，則此攻擊造成的傷害增加 60 點。",
+                ja: "この番、手札からサポートを出して使っていたなら、60ダメージ追加。",
                 pt: "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 60 pontos de dano a mais."
             },
         },

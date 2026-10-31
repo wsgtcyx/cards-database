@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/010"
     },
     name: {
         en: "Ponyta",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ponyta",
         de: "Ponita",
         'pt-br': "Ponyta",
+        ja: "ポニータ",
         ko: "포니타",
         "zh-tw": "小火馬",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Appena nato non è un buon corridore, ma col tempo\nirrobustisce le sue zampe rincorrendo i suoi simili.",
         de: "Nach der Geburt fällt ihm das Laufen schwer.\nDie Wettrennen, die es sich mit seinen Freunden\nliefert, stärken jedoch seine Beinmuskulatur.",
         'pt-br': "Nasce sem saber correr muito bem, mas, à medida\nque corre com outros da sua espécie, suas pernas\nvão ficando mais fortes.",
+        ja: "生まれたばかりは 走るのが へた。 仲間と かけっこを するうちに 足腰が 強く 育っていく。",
         ko: "갓 태어났을 때는 달리는 것이 서툴다.\n동료와 달리기 경주를 하는 사이에\n하반신이 튼튼하게 성장한다.",
         "zh-tw": "剛出生的時候是不能正常運行的。當它與其他同類賽跑時，它的腿會變得更加強壯。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Pestone",
                 de: "Stampfer",
                 'pt-br': "Pisotear",
+                ja: "ふみつけ",
                 ko: "짓밟기",
                 "zh-tw": "跺腳"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             }

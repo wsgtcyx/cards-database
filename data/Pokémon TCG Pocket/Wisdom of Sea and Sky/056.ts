@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/056"
     },
     name: {
         en: "Octillery",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Octillery",
         "pt-br": "Octillery",
         "zh-tw": "章魚桶",
+        ja: "オクタン",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Remoraid",
         "pt-br": "Remoraid",
         "zh-tw": "鐵炮魚",
+        ja: "テッポウオ",
     },
     description: {
         en: "Its instinct is to bury itself in holes. It often steals\nthe nesting holes of others to sleep in them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo istinto è quello di seppellirsi nelle buche. Ruba spesso\ni nidi degli altri per dormirci dentro.",
         "de": "Sein Instinkt besteht darin, sich in Löchern zu vergraben. Es wird oft geklaut\ndie Nisthöhlen anderer, um darin zu schlafen.",
         "pt-br": "Seu instinto é enterrar-se em buracos. Muitas vezes rouba\nos ninhos de outros para dormir neles.",
-        "zh-tw": "它的本能就是把自己埋進洞裡。經常偷東西\n別人的巢穴，讓他們睡在裡面。"
+        "zh-tw": "它的本能就是把自己埋進洞裡。經常偷東西\n別人的巢穴，讓他們睡在裡面。",
+        ja: "穴に 入りたがる 性質で ほかの ポケモンが 作った 巣穴を 横取りして 眠る。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ottazooka",
                 "de": "Octazooka",
                 "pt-br": "Octazooka",
-                "zh-tw": "八祖岡"
+                "zh-tw": "八祖岡",
+                ja: "オクタンほう"
             },
             damage: 50,
             cost: ["Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se il Pokémon difensore tenta di usare un attacco, il tuo avversario lancia una moneta. Se esce croce, l'attacco non avviene. Questo effetto dura finché il Pokémon difensore non lascia il punto attivo e non si accumula.",
                 "de": "Wenn das verteidigende Pokémon versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt. Dieser Effekt hält an, bis das verteidigende Pokémon die aktive Position verlässt, und ist nicht stapelbar.",
                 "pt-br": "Se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece. Este efeito dura até o Pokémon Defensor sair do Ponto Ativo e não se acumula.",
-                "zh-tw": "如果防守的神奇寶貝嘗試使用攻擊，你的對手會擲硬幣。如果是反面，則不會發生該攻擊。該效果會持續到防御寶可夢離開活動區域為止，並且不會疊加。"
+                "zh-tw": "如果防守的神奇寶貝嘗試使用攻擊，你的對手會擲硬幣。如果是反面，則不會發生該攻擊。該效果會持續到防御寶可夢離開活動區域為止，並且不會疊加。",
+                ja: "このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。この効果は、このワザを受けたポケモンがバトル場をはなれるまで続き、重ならない。"
             }
         }],
     weaknesses: [{

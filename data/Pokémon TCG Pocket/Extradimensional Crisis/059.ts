@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/059"
     },
     name: {
         en: "Oranguru",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kommandutan",
         "pt-br": "Oranguru",
         "zh-tw": "智揮猩",
+        ja: "ヤレユータン",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Normalmente trascorre il suo tempo meditando nel\ncime degli alberi. Lancia Poké Ball e ne dà altre\nI Pokémon ordinano come vogliono.",
         "de": "Normalerweise verbringt es seine Zeit mit Meditation\nBaumwipfel. Es wirft Pokébälle und gibt andere\nPokémon bestellt nach Belieben.",
         "pt-br": "Normalmente passa seu tempo meditando no\ncopas das árvores. Ele joga Pokébolas e dá outras\nPokémon ordena como quiser.",
-        "zh-tw": "它通常花時間冥想\n樹梢。它會扔出精靈球並給予其他人\n神奇寶貝隨心所欲地命令。"
+        "zh-tw": "它通常花時間冥想\n樹梢。它會扔出精靈球並給予其他人\n神奇寶貝隨心所欲地命令。",
+        ja: "普段は 木の上で 瞑想して 過ごす。 勝手にモンスターボールを 投げて ポケモンに 命令する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Martella dentro",
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
-                "zh-tw": "錘入"
+                "zh-tw": "錘入",
+                ja: "ぶちかます"
             },
             damage: 70,
             cost: ["Colorless", "Colorless", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/063",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/063",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/063",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/063"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/063",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/063"
 	},
 	name: {
 		en: "Arcanine ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Arcanine-ex",
 		de: "Arkani-ex",
 		"pt-br": "Arcanine ex",
-		"zh-tw": "風速狗ex"
+		"zh-tw": "風速狗ex",
+		ja: "ウインディex"
 	},
 	illustrator: "PLANETA Saito",
 	category: "Pokemon",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Growlithe",
 		de: "Fukano",
 		"pt-br": "Growlithe",
-		"zh-tw": "卡蒂狗"
+		"zh-tw": "卡蒂狗",
+		ja: "ガーディ"
 	},
 	suffix: "EX",
 	attacks: [
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Assalto Infernale",
 				de: "Inferno-Ansturm",
 				"pt-br": "Investida Infernal",
+				ja: "もうかのとっしん",
 				ko: "맹화의돌진",
 				"zh-tw": "地獄突襲"
 			},
@@ -56,6 +60,7 @@ const card: Card = {
 				it: "Questo Pokémon infligge anche 20 danni a se stesso.",
 				de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
 				"pt-br": "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+				ja: "このポケモンにも20ダメージ。",
 				ko: "이 포켓몬에게도 20데미지를 준다.",
 				"zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
 			},

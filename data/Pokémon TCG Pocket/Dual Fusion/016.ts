@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/016",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/016",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/016"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/016"
     },
     name: {
         en: "Charmander",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Glut",
                 "pt-br": "Brasa",
                 "zh-tw": "火花",
-                ja: "Ember",
+                ja: "ひのこ",
                 ko: "Ember"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
-                ja: "Discard a {R} Energy from this Pokémon.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "Discard a {R} Energy from this Pokémon."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Die Flamme an seiner Schwanzspitze zeigt seine Lebensenergie an. Geht es ihm nicht gut, wird die Flamme schwächer.",
         "pt-br": "A chama em sua cauda é um indicador da sua força vital. Se Charmander enfraquecer, a chama arderá com menos intensidade.",
         "zh-tw": "尾巴上燃燒的火焰是小火龍生命力的象徵。在牠沒有活力時，火勢會變弱。",
-        ja: "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
+        ja: "尻尾で 燃える 炎は 生命力の 表れ。 元気がないと 炎は 弱まる。",
         ko: "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly."
     }
 };

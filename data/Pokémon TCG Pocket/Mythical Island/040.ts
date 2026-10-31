@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/040"
     },
     name: {
         en: "Slurpuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Slurpuff",
         de: "Sabbaione",
         'pt-br': "Slurpuff",
+        ja: "ペロリーム",
         ko: "나루림",
         "zh-tw": "胖甜妮",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flauschling",
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
+        ja: "ペロッパフ",
     },
     description: {
         en: "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "È in grado di comprendere lo stato fisico e\nmentale altrui dall'odore. Questa capacità\npotrebbe essere molto utile in campo medico.",
         de: "Es kann die körperliche und seelische Verfassung\nanderer anhand ihres Körpergeruchs erkennen.\nDies versucht man für die Medizin zu nutzen.",
         'pt-br': "Pelo aroma de uma pessoa, consegue detectar sua condição física e mental.\nEspera-se que um dia esta técnica tenha muitas aplicações na medicina.",
+        ja: "体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。",
         ko: "체취로 몸과 마음의 상태를\n알아낸다. 의료계에서 응용될\n것으로 기대되고 있다.",
         "zh-tw": "通過吸收一個人的氣味，它可以嗅出他的精神和身體狀況。希望這項技能能有許多醫學應用。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Magicolpo",
                 de: "Magischer Schuss",
                 'pt-br': "Tiro Mágico",
+                ja: "マジカルショット",
                 ko: "매지컬숏",
                 "zh-tw": "魔法射擊"
             },

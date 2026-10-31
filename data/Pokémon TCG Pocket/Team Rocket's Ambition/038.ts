@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/038",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/038",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/038"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/038"
     },
     name: {
         en: "Team Rocket's Ekans",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Molto comune nelle zone erbose Rileva eventuali pericoli tramite i movimenti repentini della lingua.",
         de: "Ein Pokemon, das in hohem Gras weit verbreitet ist. Es schnellt mit seiner Zunge vor und zurück, um Gefahr in seiner Umgebung aufzuspüren.",
         "pt-br": "Muito comum em pradarias e lugares similares. Projeta a língua para dentro e para fora para detectar perigos ao seu redor.",
-        "zh-tw": "大量棲息於草地等處。會快速顫動吐出的舌頭，藉此感知周遭的危險。"
+        "zh-tw": "大量棲息於草地等處。會快速顫動吐出的舌頭，藉此感知周遭的危險。",
+        ja: "草地などに 多く 生息する。 舌を チロチロ させて まわりの 危険を 感じとる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Oscurizanna",
                 de: "Fänge der Dunkelheit",
                 "pt-br": "Presa Sombria",
-                "zh-tw": "暗之牙"
+                "zh-tw": "暗之牙",
+                ja: "やみのキバ"
             },
             damage: 40
         }

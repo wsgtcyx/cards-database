@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/116",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/116",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/116"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/116",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/116"
     },
     name: {
         en: "Dratini",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È nato grande per cominciare. Cambia ripetutamente la pelle mentre si allunga costantemente.",
         de: "Von Anfang an wird es groß geboren. Während es immer länger wird, häutet es sich immer wieder.",
         "pt-br": "Para começar, nasce grande. Ele troca de pele repetidamente à medida que cresce continuamente.",
-        "zh-tw": "它一開始就很大。隨著它不斷變長，它會不斷地蛻皮。"
+        "zh-tw": "它一開始就很大。隨著它不斷變長，它會不斷地蛻皮。",
+        ja: "生まれたときから すでに 大きい。 脱皮を 繰り返しては どんどん 育って 長くなる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Schianto",
                 de: "Slam",
                 "zh-tw": "摔打",
-                "pt-br": "Pancada Brusca"
+                "pt-br": "Pancada Brusca",
+                ja: "たたきつける"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
-                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/121",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/121"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/121"
     },
     name: {
         en: "Bagon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bagon",
         "de": "Kindwurm",
         "pt-br": "Bagon",
-        "zh-tw": "寶貝龍"
+        "zh-tw": "寶貝龍",
+        ja: "タツベイ"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua convinzione che un giorno sarà in grado di volare lo è\napparentemente l'influenza delle informazioni trasportate\nnei suoi geni.",
         "de": "Sein Glaube, dass es eines Tages fliegen kann, ist\noffenbar der Einfluss der übermittelten Informationen\nin seinen Genen.",
         "pt-br": "Sua crença de que um dia poderá voar é\naparentemente a influência da informação transportada\nem seus genes.",
-        "zh-tw": "它堅信自己有一天能夠飛翔，這是\n顯然是所攜帶信息的影響\n在它的基因中。"
+        "zh-tw": "它堅信自己有一天能夠飛翔，這是\n顯然是所攜帶信息的影響\n在它的基因中。",
+        ja: "いつか 飛べると 信じているのは 遺伝子の 中の 情報が 影響 しているから らしい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Colorless"]

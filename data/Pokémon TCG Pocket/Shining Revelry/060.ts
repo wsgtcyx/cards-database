@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/060"
     },
     name: {
         en: "Jigglypuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Jigglypuff",
         de: "Pummeluff",
         'pt-br': "Jigglypuff",
+        ja: "プリン",
         ko: "푸린",
         "zh-tw": "胖丁"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gonfia la pancia per cantare una melodia\nmisteriosa che fa addormentare chiunque l'ascolti.",
         de: "Es kann tief einatmen und seinen Bauch mit Luft\nfüllen, um ein sonderbares Lied anzustimmen.\nWer dieses hört, schläft auf der Stelle ein.",
         'pt-br': "Infla seu estômago e canta uma melodia misteriosa.\nSe você ouvir esta melodia,\nacabará dormindo na mesma hora.",
+        ja: "大きく お腹を 膨らませて 不思議な メロディーを 歌う。 聞くと すぐに 眠くなるぞ。",
         ko: "배를 크게 부풀려서\n신비한 멜로디를 노래한다.\n들으면 바로 졸음이 쏟아진다.",
         "zh-tw": "它的胃膨脹得很厲害，唱著神秘的旋律。如果你聽到這個旋律，你會立刻昏昏欲睡。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Rotolamento",
             de: "Walzer",
             'pt-br': "Rolagem",
+            ja: "ころがる",
             ko: "구르기",
             "zh-tw": "推出"
         },

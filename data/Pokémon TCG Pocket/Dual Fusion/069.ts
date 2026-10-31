@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/069",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/069",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/069"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/069"
     },
     name: {
         en: "Rhyhorn",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Sprungangriff",
                 "pt-br": "Bote",
                 "zh-tw": "撞倒",
-                ja: "Lunge Out",
+                ja: "つきたおし",
                 ko: "Lunge Out"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Das Revier dieses Pokémon hat einen Radius von 10 km. Sobald es jedoch losrennt, scheint es zu vergessen, wo dieses anfängt und aufhört.",
         "pt-br": "Rhyhorn reivindica uma área com mais de dez quilômetros de raio como seu território, mas dizem que, ao correr, esquece onde ele fica.",
         "zh-tw": "獨角犀牛把半徑10公里的範圍當作地盤，但那奔跑起來就會忘記自己的地盤在哪裡。",
-        ja: "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however.",
+        ja: "半径１０キロメートルの 範囲を 縄張りにしているが 走っていると 縄張りを 忘れてしまうらしい。",
         ko: "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however."
     }
 };

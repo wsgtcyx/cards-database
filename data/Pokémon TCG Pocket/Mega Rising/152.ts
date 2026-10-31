@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/152",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/152",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/152",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/152"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/152",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/152"
     },
     name: {
         en: "Skorupi",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pionskora",
         "pt-br": "Skorupi",
         "zh-tw": "鉗尾蠍",
+        ja: "スコルピ",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Attacca usando gli artigli sulla coda. Una volta bloccato\nnella sua presa, la sua preda non è in grado di muoversi\nIl veleno dei Pokémon penetra.",
         "de": "Es greift mit den Krallen an seinem Schwanz an. Einmal verschlossen\nIn seinem Griff kann sich seine Beute nicht so fortbewegen\nDas Gift des Pokémon dringt ein.",
         "pt-br": "Ele ataca usando as garras da cauda. Uma vez bloqueado\nem suas garras, sua presa é incapaz de se mover, pois isso\nO veneno do Pokémon penetra.",
-        "zh-tw": "它使用尾巴上的爪子進行攻擊。一旦鎖定\n在它的控制下，它的獵物無法移動\n寶可夢的毒液滲入體內。"
+        "zh-tw": "它使用尾巴上的爪子進行攻擊。一旦鎖定\n在它的控制下，它的獵物無法移動\n寶可夢的毒液滲入體內。",
+        ja: "毒のある しっぽの ツメで 襲いかかる。 挟まれると 毒が 染みて 動けなくなる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso di insetto",
                 "de": "Insektenstich",
                 "pt-br": "Mordida de inseto",
-                "zh-tw": "蟲咬"
+                "zh-tw": "蟲咬",
+                ja: "むしくい"
             },
             damage: 20,
             cost: ["Darkness"]

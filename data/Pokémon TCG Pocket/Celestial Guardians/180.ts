@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/180",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/180"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/180",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/180"
     },
     name: {
         en: "Decidueye ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Decidueye-ex",
         de: "Silvarro-ex",
         'pt-br': "Decidueye ex",
+        ja: "ジュナイパーex",
         ko: "모크나이퍼 ex",
         "zh-tw": "狙射樹梟ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
+        ja: "フクスロー",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Freccia Spietata",
                 de: "Wundschuss",
                 'pt-br': "Perfurar a Ferida",
+                ja: "きずをうちぬく",
                 ko: "상처노려쏘기",
                 "zh-tw": "刺穿痛苦"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 100 danni a un Pokémon danneggiato dell'avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners, dem bereits Schaden zugefügt wurde, 100 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 100 pontos de dano a 1 dos Pokémon do seu oponente que estiver danificado.",
+                ja: "ダメージを受けている相手のポケモン1匹に100ダメージ。",
                 ko: "데미지를 받고 있는 상대의 포켓몬 1마리에게 100데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只受到傷害的神奇寶貝造成 100 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 'pt-br': "Folha Navalha",
+                ja: "はっぱカッター",
                 ko: "잎날가르기",
                 "zh-tw": "剃刀葉"
             },

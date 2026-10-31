@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/204",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/204",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/204",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/204"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/204",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/204"
     },
     name: {
         en: "Nosepass",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nasgnet",
         "pt-br": "Nosepass",
         "zh-tw": "朝北鼻",
+        ja: "ノズパス",
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si muove meno di un pollice all'anno, ma quando\nè in un ingorgo, girerà e perforerà nel\nterra in una frazione di secondo.",
         "de": "Es bewegt sich weniger als einen Zoll pro Jahr, aber wann\nWenn es feststeckt, dreht es sich und bohrt sich nach unten\nim Bruchteil einer Sekunde auf den Boden fallen.",
         "pt-br": "Ele se move menos de um centímetro por ano, mas quando\nestá em apuros, ele irá girar e se aprofundar no\nchão em uma fração de segundo.",
-        "zh-tw": "它每年移動不到一英寸，但是當\n它陷入困境，它會旋轉並鑽入\n瞬間落地。"
+        "zh-tw": "它每年移動不到一英寸，但是當\n它陷入困境，它會旋轉並鑽入\n瞬間落地。",
+        ja: "１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 10,
             cost: ["Colorless"]

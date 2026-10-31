@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/180",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/180"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/180",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/180"
     },
     name: {
         en: "Yanmega ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Yanmega-ex",
         de: "Yanmega-ex",
         'pt-br': "Yanmega ex",
+        ja: "メガヤンマex",
         ko: "메가자리 ex",
         "zh-tw": "遠古巨蜓ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Yanma",
         "pt-br": "Yanma",
         "zh-tw": "蜻蜻蜓",
+        ja: "ヤンヤンマ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Eterelama",
                 de: "Luftschnitt",
                 'pt-br': "Golpe de Ar",
+                ja: "エアスラッシュ",
                 ko: "에어슬래시",
                 "zh-tw": "空氣斬"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Descarta 1 Energía aleatoria de este Pokémon.",
                 it: "Rimuovi un'Energia a caso da questo Pokémon.",
                 de: "Lege 1 zufällige Energie von diesem Pokémon ab.",
+                ja: "このポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的隨機能量。"

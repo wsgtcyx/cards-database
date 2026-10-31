@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/053"
     },
     name: {
         en: "Probopass",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Probopass",
         "de": "Voluminas",
         "pt-br": "Probopass",
-        "zh-tw": "大朝北鼻"
+        "zh-tw": "大朝北鼻",
+        ja: "ダイノーズ"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Nosepass",
         "de": "Nasgnet",
         "pt-br": "Nosepass",
-        "zh-tw": "朝北鼻"
+        "zh-tw": "朝北鼻",
+        ja: "ノズパス"
     },
     description: {
         en: "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Emana un forte magnetismo da ogni parte.\nControlla tre piccole unità chiamate Mini-Nasi.",
         "de": "Es strahlt überall starken Magnetismus aus.\nEs steuert drei kleine Einheiten, sogenannte Mini-Nasen.",
         "pt-br": "Ele exala forte magnetismo por toda parte.\nEle controla três pequenas unidades chamadas Mini-Noses.",
-        "zh-tw": "渾身上下都散發著強烈的磁性。\n它控制著三個稱為“迷你鼻子”的小單位。"
+        "zh-tw": "渾身上下都散發著強烈的磁性。\n它控制著三個稱為“迷你鼻子”的小單位。",
+        ja: "全身から 強い 磁力を 出している。 ３個の チビノーズと 呼ばれる ユニットを 操る。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Turbo metallizzato",
                 "de": "Metallischer Turbo",
                 "pt-br": "Turbo Metálico",
-                "zh-tw": "金屬渦輪"
+                "zh-tw": "金屬渦輪",
+                ja: "メタルターボ"
             },
             damage: 40,
             cost: ["Metal", "Metal"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Prendi 2 Energie {M} dalla tua Zona Energetica e assegnale a 1 dei tuoi Pokémon in panchina.",
                 "de": "Nimm 2 {M}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue 2 {M} Energias da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。"
+                "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。",
+                ja: "自分のエネルギーゾーンから{M}エネルギーを2個出し、ベンチポケモン1匹につける。"
             }
         }],
     weaknesses: [{

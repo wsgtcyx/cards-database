@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/143",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/143",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/143"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/143"
     },
     name: {
         en: "Type: Null",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È stato creato sul modello di un Pokémon\nmitologico. È stato necessario dotarlo di una\nmaschera per tenere a freno la sua potenza.",
         de: "Typ:Null ist eine künstliche Nachbildung eines\nPokémon aus einer alten Sage. Die Maske dient\ndazu, seine Kräfte unter Kontrolle zu halten.",
         "pt-br": "Ele foi modelado com base em um Pokémon mítico. A sua máscara restringe o seu poder para mantê-lo sob controle.",
-        "zh-tw": "以神話中的寶可夢為原型所\n創造出的寶可夢，被戴上了\n抑制力量失控的面罩。"
+        "zh-tw": "以神話中的寶可夢為原型所\n創造出的寶可夢，被戴上了\n抑制力量失控的面罩。",
+        ja: "神話の ポケモンを モデルに つくられたが 力の 暴走を 抑える マスクを 着けられている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 40
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/005",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/005",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/005"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/005"
     },
     name: {
         en: "Metapod",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Raupy",
         "pt-br": "Caterpie",
         "zh-tw": "綠毛蟲",
-        ja: "Caterpie",
+        ja: "キャタピー",
         ko: "Caterpie"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "In seiner harten Schale ist ein weicher Körper. Einem brutalen Angriff hat es nichts entgegenzusetzen.",
         "pt-br": "Apesar de estar envolto em um casco espesso, o interior do seu corpo é frágil, e por isso não aguenta ataques muito fortes.",
         "zh-tw": "雖然有堅硬的外殼，但因為殼裡的身體很軟，所以無法抵抗強力的攻擊。",
-        ja: "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+        ja: "硬い 殻に 包まれているが 中身は 軟らかいので 強い 攻撃には 耐えられない。",
         ko: "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack."
     },
     attacks: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
-                ja: "Ram",
+                ja: "ぶつかる",
                 ko: "Ram"
             },
             damage: 30

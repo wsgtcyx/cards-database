@@ -85,7 +85,7 @@ rarity。pilot 必须验证：
 
 用户明确把下游纳入范围时，一次同步必须同时覆盖：
 
-- 七语 `locales/card/*.json` 与真实图片语言；
+- 目标语言 `locales/card/*.json`（日语为 `ja`）与真实图片语言；
 - set/pack 配置、单包 `isSharePack` 或多包归属；
 - `cardRarity.additions.json` 与 runtime loader；
 - 卡片详情 metadata、catalog filter、collection 排序和 gacha 卡池。
@@ -117,3 +117,5 @@ QR provenance 绑定其实际使用的 entity mapping 子集。完整实体表�
 - 使用仓库既定的包管理器和 lockfile；不得为方便本地运行再引入第二套依赖真源。
 - 前置报告保持不可变；生成独立 final audit，绑定 canonical/localization/image/R2/downstream
   证据 hash。已有 R2 对象只有在 receipt、公开字节 hash 和 headers 全部一致时才能复用。
+
+日语新增/修正的来源、审计、原图尺寸和真实联调遵循 [日语契约](../../add-pocket-translations/references/japanese.md)。语言数量从本批次配置和已发布下游配置读取，不把七语/八语旧数字作为上限。

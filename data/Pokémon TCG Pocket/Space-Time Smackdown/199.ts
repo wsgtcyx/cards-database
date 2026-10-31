@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/199"
     },
     name: {
         en: "Mismagius ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mismagius-ex",
         de: "Traunmagil-ex",
         'pt-br': "Mismagius ex",
+        ja: "ムウマージex",
         ko: "무우마직 ex",
         "zh-tw": "夢妖魔ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Magillusione",
                 de: "Magischer Wahn",
                 'pt-br': "Delusão Mágica",
+                ja: "マジカルトリップ",
                 ko: "매지컬트립",
                 "zh-tw": "魔法錯覺"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"

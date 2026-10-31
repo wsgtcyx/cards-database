@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/041"
     },
     name: {
         en: "Krookodile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rabigator",
         "pt-br": "Krookodile",
         "zh-tw": "流氓鱷",
+        ja: "ワルビアル",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Rokkaiman",
         "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
+        ja: "ワルビル",
     },
     description: {
         en: "After clamping down with its powerful jaws, it\ntwists its body around to rip its prey in half.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dopo aver stretto con le sue potenti mascelle, esso\ngira il suo corpo per squarciare la preda a metà.",
         "de": "Nachdem er es mit seinen kräftigen Backen festgeklemmt hat\ndreht seinen Körper herum, um seine Beute in zwei Hälften zu zerreißen.",
         "pt-br": "Depois de apertar com suas poderosas mandíbulas, ele\ntorce seu corpo para rasgar sua presa ao meio.",
-        "zh-tw": "用其強大的鉗口鉗住後，\n扭轉身體將獵物撕成兩半。"
+        "zh-tw": "用其強大的鉗口鉗住後，\n扭轉身體將獵物撕成兩半。",
+        ja: "強力な アゴで かみつくと そのまま 思い切り 身体を ひねり 獲物を 切断する。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanne da bracconaggio",
                 "de": "Reißzähne wildern",
                 "pt-br": "Presas de caça furtiva",
-                "zh-tw": "偷獵尖牙"
+                "zh-tw": "偷獵尖牙",
+                ja: "ひっこぬきファング"
             },
             damage: 90,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Per ogni testa viene scelta una carta a caso dalla mano del tuo avversario. Il tuo avversario rivela quella carta e la mischia nel suo mazzo.",
                 "de": "Wirf 3 Münzen. Für jeden Kopf wird eine zufällige Karte aus der Hand deines Gegners ausgewählt. Dein Gegner deckt diese Karte auf und mischt sie in sein Deck.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, uma carta é escolhida aleatoriamente da mão do seu oponente. Seu oponente revela aquela carta e embaralha-a em seu baralho.",
-                "zh-tw": "翻轉 3 個硬幣。對於每個頭，從對手的手上隨機選擇一張牌。你的對手展示該牌並將其洗入他們的牌庫中。"
+                "zh-tw": "翻轉 3 個硬幣。對於每個頭，從對手的手上隨機選擇一張牌。你的對手展示該牌並將其洗入他們的牌庫中。",
+                ja: "コインを3回投げ、オモテの数ぶん、相手の手札がランダムに選ばれ、そのカードのオモテを見て、相手の山札にもどす。"
             }
         }],
     weaknesses: [{

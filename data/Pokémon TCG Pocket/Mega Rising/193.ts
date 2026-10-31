@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/193",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/193"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/193",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/193"
     },
     name: {
         en: "Skitty",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Eneco",
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
+        ja: "エネコ",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mostra il suo lato carino rincorrendosi la coda\nfino ad avere le vertigini.",
         "de": "Es zeigt seine süße Seite, indem es seinem eigenen Schwanz nachjagt\nbis es schwindelig wird.",
         "pt-br": "Ele mostra seu lado fofo perseguindo o próprio rabo\naté ficar tonto.",
-        "zh-tw": "它追逐自己的尾巴，展現可愛的一面\n直到頭暈。"
+        "zh-tw": "它追逐自己的尾巴，展現可愛的一面\n直到頭暈。",
+        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gioca in modo duro",
                 "de": "Rau spielen",
                 "pt-br": "Jogue duro",
-                "zh-tw": "玩粗暴"
+                "zh-tw": "玩粗暴",
+                ja: "じゃれつく"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

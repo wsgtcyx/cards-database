@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/092",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/092",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/092",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/092"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/092",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/092"
 	},
 	name: {
 		en: "Kingdra ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Kingdra-ex",
 		de: "Seedraking-ex",
 		"pt-br": "Kingdra ex",
-		"zh-tw": "刺龍王ex"
+		"zh-tw": "刺龍王ex",
+		ja: "キングドラex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Seadra",
 		de: "Seemon",
 		"pt-br": "Seadra",
-		"zh-tw": "海刺龍"
+		"zh-tw": "海刺龍",
+		ja: "シードラ"
 	},
 	stage: "Stage2",
 	suffix: "EX",
@@ -46,7 +49,8 @@ const card: Card = {
 				it: "Prigione tempestosa",
 				de: "Stürmisches Gefängnis",
 				"pt-br": "Prisão Tempestuosa",
-				"zh-tw": "風雨飄搖的監獄"
+				"zh-tw": "風雨飄搖的監獄",
+				ja: "ストームジェイル"
 			},
 			damage: 90,
 			cost: ["Water", "Water"],
@@ -57,7 +61,8 @@ const card: Card = {
 				it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
 				de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
 				"pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-				"zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+				"zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+				ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
 			}
 		}
 	],

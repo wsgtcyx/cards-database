@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/060"
     },
     name: {
         en: "Charizard ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Glurak-ex",
         "pt-br": "Charizard ex",
         "zh-tw": "噴火龍ex",
+        ja: "リザードンex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
+        ja: "リザード",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Stoke",
                 "de": "Schüren",
                 "pt-br": "Stoke",
-                "zh-tw": "斯托克"
+                "zh-tw": "斯托克",
+                ja: "もえあがる"
             },
             cost: ["Fire"],
             effect: {
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Prendi 3 Energie {R} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 "de": "Nimm 3 {R}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue 3 {R} Energias da sua Zona de Energia e ligue-as a este Pokémon.",
-                "zh-tw": "從你的能量區取出 3 個 {R} 能量並將其附加到這只神奇寶貝身上。"
+                "zh-tw": "從你的能量區取出 3 個 {R} 能量並將其附加到這只神奇寶貝身上。",
+                ja: "自分のエネルギーゾーンから{R}エネルギーを3個出し、このポケモンにつける。"
             }
         }, {
             name: {
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Artiglieria a vapore",
                 "de": "Dampfartillerie",
                 "pt-br": "Artilharia a Vapor",
-                "zh-tw": "蒸汽火砲"
+                "zh-tw": "蒸汽火砲",
+                ja: "ばくねつほう"
             },
             damage: 150,
             cost: ["Fire", "Fire", "Fire", "Colorless", "Colorless"]

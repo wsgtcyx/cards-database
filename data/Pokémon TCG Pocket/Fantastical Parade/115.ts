@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/115",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/115"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/115"
     },
     name: {
         en: "Ferroseed",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ferroseed",
         "de": "Kastadur",
         "pt-br": "Ferroseed",
-        "zh-tw": "種子鐵球"
+        "zh-tw": "種子鐵球",
+        ja: "テッシード"
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le grotte muschiose sono le loro dimore preferite.\nGli enzimi contenuti nei muschi aiutano i Ferroseed\nle punte diventano grandi e forti.",
         "de": "Moosbewachsene Höhlen sind ihre bevorzugte Behausung.\nIn Moosen enthaltene Enzyme helfen Ferroseed\nDie Ähren werden groß und stark.",
         "pt-br": "Cavernas cobertas de musgo são suas habitações preferidas.\nAs enzimas contidas nos musgos ajudam o Ferroseed\nos espinhos ficam grandes e fortes.",
-        "zh-tw": "長滿青苔的洞穴是他們最喜歡的住所。\n苔蘚中含有的酶有助於 Ferroseed\n穗狀花序長得又大又強。"
+        "zh-tw": "長滿青苔的洞穴是他們最喜歡的住所。\n苔蘚中含有的酶有助於 Ferroseed\n穗狀花序長得又大又強。",
+        ja: "苔むした 洞窟を 好む。 苔が 含む 酵素が 棘を 大きく 丈夫に 育むのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 10,
             cost: ["Colorless"]

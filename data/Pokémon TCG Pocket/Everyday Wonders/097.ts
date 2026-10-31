@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/097",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/097",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/097"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/097"
     },
     name: {
         en: "Slowbro",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Se il morsicacoda Shellder viene respinto in una dura battaglia, questo Pokémon ritorna ad essere un normale Slowpoke.",
         de: "Wenn das Schwanz beißende Muschas in einem harten Kampf abgeworfen wird, verwandelt sich dieses Pokémon in ein gewöhnliches Flegmon zurück.",
         "pt-br": "Se o Shellder, que morde a cauda, ​​for derrubado em uma batalha dura, este Pokémon voltará a ser um Slowpoke comum.",
-        "zh-tw": "如果咬尾大舌貝在激烈的戰鬥中被甩掉，這隻寶可夢就會恢復為普通的呆呆獸。"
+        "zh-tw": "如果咬尾大舌貝在激烈的戰鬥中被甩掉，這隻寶可夢就會恢復為普通的呆呆獸。",
+        ja: "激しい 戦いで 尻尾に 噛みついた シェルダーが 外れると もとの ヤドンに 戻ってしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psicoraggio",
                 de: "Psystrahl",
                 "pt-br": "Feixe Psíquico",
-                "zh-tw": "幻象光線"
+                "zh-tw": "幻象光線",
+                ja: "サイケこうせん"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 70
         }

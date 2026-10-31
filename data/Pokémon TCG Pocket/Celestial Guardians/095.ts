@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/095"
     },
     name: {
         en: "Gurdurr",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gurdurr",
         de: "Strepoli",
         'pt-br': "Gurdurr",
+        ja: "ドテッコツ",
         ko: "토쇠골",
         "zh-tw": "鐵骨土人",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Praktibalk",
         "pt-br": "Timburr",
         "zh-tw": "搬運小匠",
+        ja: "ドッコラー",
     },
     description: {
         en: "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Sfoggia i suoi muscoli facendo a gara con i suoi simili e con\nMachoke. Chi perde sparisce dalla circolazione per un po'.",
         de: "Strepoli und Maschock treffen sich regelmäßig\nzum Muskelvergleich. Wer schlecht abschneidet,\nlässt sich danach eine Weile nicht mehr blicken.",
         'pt-br': "Exibe seus músculos para Machoke e outros Gurdurr.\nSe não conseguir ficar à altura de outros Pokémon,\nsome por um tempo.",
+        ja: "仲間や ゴーリキーと 筋肉を 自慢 しあう。 負けたほうは しばらく 姿を 見せなくなる。",
         ko: "동료나 근육몬과 서로\n근육을 자랑한다. 진 쪽은\n당분간 모습을 감춘다.",
         "zh-tw": "它向馬喬克和其他古都人展示自己的肌肉。如果它無法與其他神奇寶貝相媲美，它會暫時處於低位。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Forza",
                 de: "Stärke",
                 'pt-br': "Força",
+                ja: "かいりき",
                 ko: "괴력",
                 "zh-tw": "力量"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/136"
     },
     name: {
         en: "Bibarel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bibarel",
         de: "Bidifas",
         'pt-br': "Bibarel",
+        ja: "ビーダル",
         ko: "비버통",
         "zh-tw": "大尾狸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bidiza",
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
+        ja: "ビッパ",
     },
     description: {
         en: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Costruisce con zelo la tana in riva ai corsi d'acqua,\nlevigando radici e rami con gli affilati incisivi.",
         de: "Emsig durchbeißt es mit seinen scharfen Vorderzähnen\nWurzeln und Äste und baut daraus sein Nest.",
         'pt-br': "Ele monta seu ninho com pilhas de galhos e raízes\nde árvores que cortou com seus incisivos.",
+        ja: "鋭い 前歯で 削り取った 木の枝や 根っこを 積み上げて 水辺に せっせと 巣を 作る。",
         ko: "예리한 앞니로 갉아 얻은\n나뭇가지나 뿌리를 쌓아\n물가에 부지런히 보금자리를 만든다.",
         "zh-tw": "它忙著用鋒利的門牙切下的成堆的樹枝和樹根築巢。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },

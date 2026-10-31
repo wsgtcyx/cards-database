@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/016"
     },
     name: {
         en: "Wormadam",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wormadam",
         de: "Burmadame",
         'pt-br': "Wormadam",
+        ja: "ミノマダム",
         ko: "도롱마담",
         "zh-tw": "結草貴婦",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Burmy",
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
+        ja: "ミノムッチ",
     },
     description: {
         en: "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Il suo aspetto dipende dal luogo in cui si evolve.\nTutto ciò che ha intorno va a costituire il suo corpo.",
         de: "Die Umgebung, in der es sich entwickelt, bestimmt\nsein Aussehen. Es formt seinen Körper mithilfe\nder umliegenden Materialien.",
         'pt-br': "Muda de aparência dependendo do local\nde sua evolução. Os materiais que tiver\nà mão se tornam parte de seu corpo.",
+        ja: "進化した 場所によって 姿が 変わる。身近にある 材料が 体の 一部に なるのだ。",
         ko: "진화한 장소에 따라 모습이\n바뀐다. 가까이 있는 재료가\n몸의 일부가 된다.",
         "zh-tw": "它的外觀會根據它的進化位置而變化。手上的材料變成了它身體的一部分。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Verdetaglio",
                 de: "Blattschere",
                 'pt-br': "Folha Cortante",
+                ja: "はっぱぎり",
                 ko: "잎사귀베기",
                 "zh-tw": "切葉機"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             }

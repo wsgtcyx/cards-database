@@ -13,10 +13,10 @@
 
 ## 2. 必须同步的表面
 
-- 七个 `locales/card/*.json`：`en/de/es/fr/it/pt/zh-TW`，目标 set key 集完全一致；`pt`
+- 目标 `locales/card/*.json`：`en/de/es/fr/it/pt/zh-TW`，启用日语时还包括 `ja`，目标 set key 集完全一致；`pt`
   可映射 R2 `pt-br`，但不得迁移其他旧 set。
 - `lib/config/cardRarity.additions.json`：逐卡写真实 rarity code，合并后 key 与英语卡表完全相等。
-- `lib/config/sets.ts` 与 `lib/config/packs.ts`：按现有排序加入 set、collection、pack、八语 UI 文案。
+- `lib/config/sets.ts` 与 `lib/config/packs.ts`：按现有排序加入 set、collection、pack、当前已启用语言的 UI 文案。
 - `data/decks/card-entities.json` 与 `card-filter-index.json`：与英语卡表保持同一完整 key 集；
   filter index 绑定 cards-database repository、HEAD 与响应 digest。
 - QR 只在实际使用的 entity mapping digest 变化时重生成；完整实体表新增但 QR 子集不变时，只更新
@@ -38,7 +38,7 @@
 
 ## 4. 强制断言
 
-1. 七语卡表各自包含恰好 total 个目标 set key，且全量 card key 集一致。
+1. 目标语言卡表各自包含恰好 total 个目标 set key，且全量 card key 集一致。
 2. 英语卡表、合并 rarity、entity 和 filter index key 集完全一致。
 3. 从目标 pack pool 实际抽五张，全部属于该 set，数量和第五张 rarity contract 正确。
 4. set/pack/catalog/collection/card-detail/deck-builder 测试通过。

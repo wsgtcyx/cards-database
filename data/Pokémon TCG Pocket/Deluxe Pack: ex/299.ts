@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/299",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/299",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/299",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/299"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/299",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/299"
 	},
 	name: {
 		en: "Arceus ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Arceus-ex",
 		de: "Arceus-ex",
 		"pt-br": "Arceus ex",
-		"zh-tw": "阿爾宙斯ex"
+		"zh-tw": "阿爾宙斯ex",
+		ja: "アルセウスex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -38,6 +40,7 @@ const card: Card = {
 				it: "Lustro Mitologico",
 				de: "Sagenhafter Glanz",
 				"pt-br": "Esplendor Mitológico",
+				ja: "しんわのかがやき",
 				ko: "신화의 반짝임",
 				"zh-tw": "傳說中的光澤"
 			},
@@ -48,6 +51,7 @@ const card: Card = {
 				it: "Questo Pokémon non può essere influenzato da condizioni speciali.",
 				de: "Dieses Pokémon kann nicht von Speziellen Zuständen betroffen werden.",
 				"pt-br": "Este Pokémon não pode ser afetado por quaisquer Condições Especiais.",
+				ja: "このポケモンは特殊状態にならない。",
 				ko: "이 포켓몬은 특수 상태가 되지 않는다.",
 				"zh-tw": "該神奇寶貝不會受到任何特殊條件的影響。"
 			}
@@ -62,6 +66,7 @@ const card: Card = {
 				it: "Forza Suprema",
 				de: "Ultimative Macht",
 				"pt-br": "Força Suprema",
+				ja: "アルティメットフォース",
 				ko: "얼티메이트 포스",
 				"zh-tw": "終極力量"
 			},
@@ -74,6 +79,7 @@ const card: Card = {
 				it: "Questo attacco infligge 20 danni in più per ogni Pokémon nella tua panchina.",
 				de: "Diese Attacke fügt für jedes Pokémon auf deiner Bank 20 Schadenspunkte mehr zu.",
 				"pt-br": "Este ataque causa 20 pontos de dano a mais para cada um dos seus Pokémon no Banco.",
+				ja: "自分のベンチポケモンの数×20ダメージ追加。",
 				ko: "자신의 벤치 포켓몬의 수 × 20데미지를 추가한다.",
 				"zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 20 點額外傷害。"
 			}

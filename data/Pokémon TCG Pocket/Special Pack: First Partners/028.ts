@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/028",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/028"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/028"
     },
     name: {
         en: "Mew",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "Psychic",
+                ja: "サイコキネシス",
                 ko: "Psychic"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。",
-                ja: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
         "pt-br": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
         "zh-tw": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-        ja: "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+        ja: "いまでも まぼろしの ポケモンと いわれる。そのすがたを みたものは ぜんこくでも ほとんど いない。",
         ko: "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
     }
 };

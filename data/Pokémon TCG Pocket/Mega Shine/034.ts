@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/034",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/034"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/034"
     },
     name: {
         en: "Dugtrio",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nella lotta, scava tunnel nel terreno per sorprendere\nil nemico attaccandolo da una direzione imprevedibile.",
         de: "Im Kampf gräbt es sich ein und attackiert den\nGegner aus einer unvorhersehbaren Richtung.",
         "pt-br": "Na batalha, ele escava o solo e ataca o inimigo desavisado de uma direção inesperada.",
-        "zh-tw": "在戰鬥中，它會挖掘地面並從意想不到的方向攻擊毫無戒心的敵人。"
+        "zh-tw": "在戰鬥中，它會挖掘地面並從意想不到的方向攻擊毫無戒心的敵人。",
+        ja: "地中を 掘りすすんで 相手が 油断しているところを 別の 場所から 攻撃する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Pantanobomba",
                 de: "Schlammbombe",
                 "pt-br": "Bomba de Lama",
-                "zh-tw": "泥巴炸彈"
+                "zh-tw": "泥巴炸彈",
+                ja: "どろばくだん"
             },
             damage: 60
         }

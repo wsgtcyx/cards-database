@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/229",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/229",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/229",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/229"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/229",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/229"
     },
     name: {
         en: "Gigalith ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Cannone Megatone",
                 de: "Megaton-Kanone",
                 "pt-br": "Canhão Megaton",
-                "zh-tw": "百萬噸加農炮"
+                "zh-tw": "百萬噸加農炮",
+                ja: "メガトンキャノン"
             },
             effect: {
                 en: "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo attacco infligge 140 danni a 1 dei Pokémon del tuo avversario. Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 140 Schadenspunkte zu. Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Este ataque causa 140 pontos de dano a 1 dos Pokémon do seu oponente. Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "對手的1隻寶可夢受到140點傷害。在下個自己的回合,這隻寶可夢無法使用招式。"
+                "zh-tw": "對手的1隻寶可夢受到140點傷害。在下個自己的回合,這隻寶可夢無法使用招式。",
+                ja: "相手のポケモン1匹に140ダメージ。次の自分の番、このポケモンはワザが使えない。"
             }
         }
     ],

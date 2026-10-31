@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/311",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/311",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/311",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/311"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/311",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/311"
 	},
 	name: {
         en: "Elemental Switch",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Elementartausch",
         "pt-br": "Substituição Elemental",
         "zh-tw": "元素置換",
+        ja: "エレメンタルつけかえ",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Sposta un'Energia {R}, {W} o {L} da 1 dei tuoi Pokémon in panchina al tuo Pokémon attivo.",
         "de": "Verschiebe eine {R}-, {W}- oder {L}-Energie von einem deiner Bank-Pokémon zu deinem Aktiven Pokémon.",
         "pt-br": "Mova uma energia {R}, {W} ou {L} de 1 dos seus Pokémon no Banco para o seu Pokémon Ativo.",
-        "zh-tw": "將你的 1 個後備神奇寶貝的 {R}、{W} 或 {L} 能量移動到你的活躍神奇寶貝上。"
+        "zh-tw": "將你的 1 個後備神奇寶貝的 {R}、{W} 或 {L} 能量移動到你的活躍神奇寶貝上。",
+        ja: "自分のベンチポケモンから{R}または{W}または{L}エネルギーを1個選び、バトルポケモンにつけ替える。"
     },
     trainerType: "Item"
 };

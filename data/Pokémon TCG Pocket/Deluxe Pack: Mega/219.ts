@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/219",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/219",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/219",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/219"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/219",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/219"
     },
     name: {
         en: "Serena",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Nimm 1 zufälliges Mega-Entwicklungs-Pokémon-ex aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 1 Pokémon ex de Megaevolução aleatório do seu baralho na sua mão.",
         "zh-tw": "從自己的牌庫隨機將1張「超級進化寶可夢ex」加入手牌。",
-        ja: "Put a random Mega Evolution Pokémon ex from your deck into your hand.",
+        ja: "自分の山札から「メガシンカex」をランダムに1枚、手札に加える。",
         ko: "Put a random Mega Evolution Pokémon ex from your deck into your hand."
     },
     trainerType: "Supporter"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/033"
     },
     name: {
         en: "Drifloon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drifloon",
         de: "Driftlon",
         'pt-br': "Drifloon",
+        ja: "フワンテ",
         ko: "흔들풍손",
         "zh-tw": "飄飄球"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si dice che i bambini piccoli possano scomparire nel nulla\nse tengono un Drifloon scambiandolo per un palloncino.",
         de: "So manches kleine Kind soll schon verschwunden\nsein, weil es ein Driftlon festhielt, das es mit\neinem Ballon verwechselt hatte.",
         'pt-br': "Diz-se por aí que se uma criança confundir Drifloon\ncom um balão e o segurar, poderá acabar desaparecendo.",
+        ja: "風船と 間違えて フワンテを 持っていた 小さな 子どもが 消えてしまうことが あるという。",
         ko: "풍선으로 착각해 흔들풍손을\n가지고 있었던 어린아이가\n사라지는 경우가 있다고 한다.",
         "zh-tw": "有傳言說，任何將 Drifloon 誤認為氣球並抓住它的孩子都可能會失踪。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Carica",
             de: "Ramme",
             'pt-br': "Aríete",
+            ja: "ぶつかる",
             ko: "부딪치기",
             "zh-tw": "內存"
         },

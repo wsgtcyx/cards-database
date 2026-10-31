@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/005"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/005"
     },
     name: {
         en: "Pidgey",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È docile e preferisce evitare i conflitti. Ma se viene\ndisturbato, contrattacca ferocemente.",
         de: "Reizt man dieses an sich gutmütige Pokémon,\nwehrt es sich wütend.",
         "pt-br": "É dócil e prefere evitar conflitos. Se perturbado, porém, pode contra-atacar ferozmente.",
-        "zh-tw": "它個性溫順，喜歡避免衝突。然而，如果受到干擾，它可能會猛烈反擊。"
+        "zh-tw": "它個性溫順，喜歡避免衝突。然而，如果受到干擾，它可能會猛烈反擊。",
+        ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 "pt-br": "Bicada",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 30
         }

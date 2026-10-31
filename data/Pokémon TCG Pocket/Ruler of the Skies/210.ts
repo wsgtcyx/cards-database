@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/210",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/210",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/210",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/210"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/210",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/210"
     },
     name: {
         en: "Minun",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Poiché odia l'acqua, quando piove si rifugia sotto i cornicioni. Incita i compagni con pompon di scintille.",
         de: "Da es Wasser verabscheut, versteckt es sich bei Regen unter Dachvorsprüngen. Es setzt Pompons aus Funken zum Anfeuern ein.",
         "pt-br": "Detesta água, por isso se esconde sob as calhas das casas quando chove. Torce com pompons feitos de fagulhas.",
-        "zh-tw": "討厭碰到水，一旦下起雨\n就會到屋簷下避雨。\n會用火花彩球幫夥伴加油。"
+        "zh-tw": "討厭碰到水，一旦下起雨\n就會到屋簷下避雨。\n會用火花彩球幫夥伴加油。",
+        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Amico Scintilla",
                 de: "Kumpel Spark",
                 "pt-br": "Fagulha Amiga",
-                "zh-tw": "拍檔電光"
+                "zh-tw": "拍檔電光",
+                ja: "バディスパーク"
             },
             effect: {
                 en: "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se Plusle è nella tua panchina, questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Wenn sich Plusle auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Se Plusle estiver no seu Banco, este ataque também causará 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "若自己的備戰區有「正電拍拍」,則對手的所有備戰寶可夢也受到10點傷害。"
+                "zh-tw": "若自己的備戰區有「正電拍拍」,則對手的所有備戰寶可夢也受到10點傷害。",
+                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。"
             },
             damage: 30
         }

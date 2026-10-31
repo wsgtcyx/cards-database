@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/117",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/117"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/117"
     },
     name: {
         en: "Swirlix",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flauschling",
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
+        ja: "ペロッパフ",
     },
     illustrator: "Kurata So",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il dolce odore dei profumi di zucchero filato\nLa soffice pelliccia di Swirlix. Questo Pokémon sputa\ncorda appiccicosa per aggrovigliare i suoi nemici.",
         "de": "Der süße Duft von Zuckerwatte-Parfums\nDas flauschige Fell von Swirlix. Dieses Pokémon spuckt aus\nklebrige Schnur, um seine Feinde zu verheddern.",
         "pt-br": "O doce cheiro dos perfumes de algodão doce\nO pelo fofo de Swirlix. Este Pokémon cospe\ncorda pegajosa para emaranhar seus inimigos.",
-        "zh-tw": "棉花糖香水的甜甜氣味\n漩渦的毛茸茸的皮毛。這只神奇寶貝會吐出\n用來纏住敵人的粘繩。"
+        "zh-tw": "棉花糖香水的甜甜氣味\n漩渦的毛茸茸的皮毛。這只神奇寶貝會吐出\n用來纏住敵人的粘繩。",
+        ja: "ふわふわの 体毛は 綿飴の ように 甘い におい。 べたつく 糸を 出して 敵を 絡めとる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Guardia di cotone",
                 "de": "Baumwollschutz",
                 "pt-br": "Protetor de algodão",
-                "zh-tw": "棉衛士"
+                "zh-tw": "棉衛士",
+                ja: "コットンガード"
             },
             damage: 10,
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/047"
     },
     name: {
         en: "Brionne",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Brionne",
         de: "Marikeck",
         'pt-br': "Brionne",
+        ja: "オシャマリ",
         ko: "키요공",
         "zh-tw": "花漾海獅",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Robball",
         "pt-br": "Popplio",
         "zh-tw": "球球海獅",
+        ja: "アシマリ",
     },
     description: {
         en: "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si emoziona quando assiste a una danza che non conosce ancora\ne si esercita con impegno finché non la impara alla perfezione.",
         de: "Sieht es einen Tanz, den es nicht kennt, wird es ganz\naufgeregt. Dann übt es fleißig, bis es ihn gemeistert hat.",
         'pt-br': "Este Pokémon fica animado ao ver uma dança\nque não conhece. Pratica arduamente e se esforça\nbastante até conseguir aprendê-la.",
+        ja: "知らないダンスを 見ると 興奮。 踊れるように なるまで 懸命に 練習する 努力家 だよ。",
         ko: "모르는 댄스를 보면 흥분한다.\n출 수 있을 때까지 열심히\n연습하는 노력가다.",
         "zh-tw": "當它看到不認識的舞蹈時，它會變得興奮。這位勤奮的工人刻苦練習，直到學會那種舞蹈。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 'pt-br': "Onda Borrifante",
+                ja: "スプラッシュ",
                 ko: "스플래시",
                 "zh-tw": "波浪飛濺"
             },

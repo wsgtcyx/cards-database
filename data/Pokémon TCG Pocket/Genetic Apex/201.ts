@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/201",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/201",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/201"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/201",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/201"
     },
     name: {
         en: "Lickitung",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lickitung",
         de: "Schlurp",
         'pt-br': "Lickitung",
+        ja: "ベロリンガ",
         ko: "내루미",
         "zh-tw": "大舌頭",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Leccata Infinita",
                 de: "Dauerschlecker",
                 'pt-br': "Lambida Contínua",
+                ja: "れんぞくベロベロ",
                 ko: "연속낼름낼름",
                 "zh-tw": "連續舔"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 60 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 60데미지를 준다.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 60 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "La sua saliva appiccicosa provoca\nun prurito terribile che non dà tregua\nse le parti leccate non vengono ripulite.",
         de: "Wäscht man sich nach der Berührung mit seinem\nklebrigen Speichel nicht, setzt bald ein starker\nJuckreiz ein, der nicht mehr zu stoppen ist.",
         'pt-br': "Se você entrar em contato com a saliva grudenta\ndeste Pokémon e não se limpar, sentirá uma\ncoceira intensa. E a coceira não parará.",
+        ja: "ネバネバした 唾液に 触れたまま 放っておくと ものすごい 痒みが はじまり とまらなくなるぞ。",
         ko: "끈적끈적한 타액에 접촉한 후\n그대로 방치하면 굉장히 가렵고\n급기야 멈출 수 없게 된다.",
         "zh-tw": "如果這只神奇寶貝粘稠的唾液沾到你身上而你又不把它清理掉，就會出現強烈的瘙癢感。而且瘙癢感也不會消失。"
     },

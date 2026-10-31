@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/061"
     },
     name: {
         en: "Panpour",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sodamak",
         "pt-br": "Panpour",
         "zh-tw": "冷水猴",
+        ja: "ヒヤップ",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'acqua immagazzinata all'interno del ciuffo sulla sua testa è piena di\nnutrienti. Le piante che ricevono la sua acqua diventano grandi.",
         "de": "Das im Büschel auf seinem Kopf gespeicherte Wasser ist voll\nNährstoffe. Pflanzen, die das Wasser aufnehmen, werden groß.",
         "pt-br": "A água armazenada dentro do tufo em sua cabeça está cheia de\nnutrientes. As plantas que recebem sua água crescem grandes.",
-        "zh-tw": "它頭上的絨毛里儲存的水充滿了\n營養素。吸收水分的植物會長得很大。"
+        "zh-tw": "它頭上的絨毛里儲存的水充滿了\n營養素。吸收水分的植物會長得很大。",
+        ja: "頭の ふさに ためた 水は 栄養 たっぷり。 植物に かけると 大きく 育つのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo",
                 "de": "Schlagen",
                 "pt-br": "Bater",
-                "zh-tw": "打"
+                "zh-tw": "打",
+                ja: "たたく"
             },
             damage: 10,
             cost: ["Colorless"]

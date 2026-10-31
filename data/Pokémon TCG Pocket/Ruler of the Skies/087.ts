@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/087",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/087",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/087"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/087"
     },
     name: {
         en: "Timburr",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Lotta brandendo una trave di legno. Quando arriva a portarla senza sforzo, l'evoluzione è vicina.",
         de: "Es kämpft, indem es einen Holzbalken schwingt. Fällt es ihm leicht, den schweren Balken zu tragen, ist seine Entwicklung nah.",
         "pt-br": "Luta girando um pedaço de madeira. Quando consegue manipular madeira pesada sem nenhuma dificuldade, está prestes a evoluir.",
-        "zh-tw": "會亂揮木材來戰鬥。如果可以\n不費勁地搬起沉重的木材，\n就代表牠即將要進化了。"
+        "zh-tw": "會亂揮木材來戰鬥。如果可以\n不費勁地搬起沉重的木材，\n就代表牠即將要進化了。",
+        ja: "角材を 振り回して 戦う。 重い 角材を 苦もなく 持つようになると 進化は 近い。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Confrontarsi",
                 de: "Konfrontieren",
                 "pt-br": "Confrontar",
-                "zh-tw": "正面對決"
+                "zh-tw": "正面對決",
+                ja: "がちんこ"
             },
             damage: 30
         }

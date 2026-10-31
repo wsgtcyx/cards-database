@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/162",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/162",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/162"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/162",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/162"
     },
     name: {
         en: "Clobbopus",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clobbopus",
         de: "Klopptopus",
         'pt-br': "Clobbopus",
+        ja: "タタッコ",
         ko: "때때무노",
         "zh-tw": "拳拳蛸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Noccapugno",
                 de: "Knöchelhieb",
                 'pt-br': "Soco com Punho",
+                ja: "げんこつ",
                 ko: "꿀밤",
                 "zh-tw": "指節拳"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Si spinge sulla terraferma in cerca di cibo.\nÈ molto curioso e colpisce con i tentacoli\ntutto quello che entra nel suo campo visivo.",
         de: "Zur Futtersuche kommt es an Land. Es ist sehr\nneugierig, weshalb es alles, was es sieht,\nzunächst einmal mit seinen Tentakeln haut.",
         'pt-br': "Este Pokémon é muito curioso, mas seu método de\ninvestigar as coisas é socando-as com seus tentáculos.\nSó vem para a terra firme à procura de comida.",
+        ja: "餌を 求め 地上に 上がる。 好奇心旺盛で 目にしたものは とりあえず 触手で 殴る。",
         ko: "먹이를 찾아 지상으로 올라온다.\n호기심이 왕성해서 눈에 들어오는 것은\n일단 촉수로 때리고 본다.",
         "zh-tw": "它很好奇，但它調查事物的手段是嘗試用觸手猛擊它們。對食物的尋找是將其帶到陸地上的原因。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/121",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/121"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/121"
     },
     name: {
         en: "Haunter",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Haunter",
         de: "Alpollo",
         'pt-br': "Haunter",
+        ja: "ゴースト",
         ko: "고우스트",
         "zh-tw": "鬼斯通",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Gastly",
         "de": "Nebulak",
         "pt-br": "Gastly",
-        "zh-tw": "鬼斯"
+        "zh-tw": "鬼斯",
+        ja: "ゴース"
     },
     attacks: [{
             cost: ["Psychic"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fuocofatuo",
                 de: "Irrlicht",
                 'pt-br': "Fogo Fátuo",
+                ja: "おにび",
                 ko: "도깨비불",
                 "zh-tw": "鬼火"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Adora stare in agguato nei luoghi bui e toccare\nle spalle delle vittime con le sue mani gassose.\nIl suo tocco causa brividi incontenibili.",
         de: "Es lauert gern im Dunkeln und tippt Leuten mit\nseiner gasförmigen Hand auf die Schulter.\nSeine Berührung erzeugt endloses Schaudern.",
         'pt-br': "Gosta de se esconder no escuro e bater nos\nombros dos outros com sua mão gasosa.\nSeu toque causa arrepios que não acabam mais.",
+        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
         ko: "어둠을 틈타 가스로 된 손을 뻗쳐\n사람의 어깨를 두드리기 좋아한다.\n그 손에 닿으면 떨림이 멈추지 않는다.",
         "zh-tw": "牠喜歡潛伏在黑暗中，用氣態的手輕拍肩膀。它的觸碰引起無盡的顫抖。"
     },

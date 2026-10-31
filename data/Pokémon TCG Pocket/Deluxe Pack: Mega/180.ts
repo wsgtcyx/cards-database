@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/180",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/180",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/180"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/180",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/180"
     },
     name: {
         en: "Meowth",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Glänzende Dinge faszinieren es. Findet es etwas Schimmerndes, leuchtet auch die Münze an seinem Kopf aus unbekanntem Grund auf.",
         "pt-br": "Ama coisas reluzentes. Quando vê um objeto brilhante, a moeda dourada na sua cabeça brilha também.",
         "zh-tw": "非常喜歡耀眼的發光物。找到發光物時，不知為何額頭的金幣也會跟著發光。",
-        ja: "It loves things that sparkle. When it sees a shiny\nobject, the gold coin on its head shines, too.",
+        ja: "眩しく 光るものが 大好き。 光るものを 見つけたとき なぜか 額の小判も 輝く。",
         ko: "It loves things that sparkle. When it sees a shiny\nobject, the gold coin on its head shines, too."
     },
     stage: "Basic",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Unbekümmerte Schritte",
                 "pt-br": "Passos Folgados",
                 "zh-tw": "隨興起舞",
-                ja: "Carefree Steps",
+                ja: "きままにステップ",
                 ko: "Carefree Steps"
             },
             effect: {
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Wenn diesem Pokémon durch Attacken Schaden zugefügt wird, wirf 1 Münze. Verhindere bei Kopf jenen Schaden.",
                 "pt-br": "Se qualquer dano for causado a este Pokémon por ataques, jogue uma moeda. Se sair cara, previna aquele dano.",
                 "zh-tw": "當這隻寶可夢受到招式的傷害時,自己擲1次硬幣。若為正面,則這隻寶可夢不會受到該傷害。",
-                ja: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+                ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
                 ko: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Wohl fühlen",
                 "pt-br": "Sensação Boa",
                 "zh-tw": "好心情",
-                ja: "Feelin' Fine",
+                ja: "じょうきげん",
                 ko: "Feelin' Fine"
             },
             cost: [
@@ -93,7 +94,7 @@ const card: Card = {
                 de: "Ziehe 1 Karte.",
                 "pt-br": "Compre carta.",
                 "zh-tw": "從自己的牌庫抽出張卡。",
-                ja: "Draw a card.",
+                ja: "自分の山札を枚引く。",
                 ko: "Draw a card."
             }
         }

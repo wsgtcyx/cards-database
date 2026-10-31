@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/036"
     },
     name: {
         en: "Mega Swampert ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Swampert-ex",
         "de": "Mega-Sumpex-ex",
         "pt-br": "Mega Swampert ex",
-        "zh-tw": "超級巨沼怪ex"
+        "zh-tw": "超級巨沼怪ex",
+        ja: "メガラグラージex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Marshtomp",
         "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "沼躍魚"
+        "zh-tw": "沼躍魚",
+        ja: "ヌマクロー"
     },
     description: {
         en: "Its arms are hard as rock. With one swing, it can\nbreak an enormous boulder into pieces.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue braccia sono dure come la roccia. Con un solo colpo è possibile\nfare a pezzi un enorme masso.",
         "de": "Seine Arme sind steinhart. Mit einem Schwung gelingt es\nZerbrich einen riesigen Felsbrocken in Stücke.",
         "pt-br": "Seus braços são duros como pedra. Com um golpe, ele pode\nquebrar uma pedra enorme em pedaços.",
-        "zh-tw": "它的手臂堅硬如岩石。只需一揮，就可以\n將一塊巨大的巨石打碎。"
+        "zh-tw": "它的手臂堅硬如岩石。只需一揮，就可以\n將一塊巨大的巨石打碎。",
+        ja: "岩の ように 硬い 腕を 一振り するだけで 巨大な 岩を コナゴナに 砕くぞ。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Distruttore dalle armi potenti",
                 "de": "Stark bewaffneter Zerstörer",
                 "pt-br": "Destruidor de Armas Fortes",
-                "zh-tw": "強力毀滅者"
+                "zh-tw": "強力毀滅者",
+                ja: "ゴウワンバスター"
             },
             damage: 150,
             cost: ["Water", "Water", "Water"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Scarta 2 Energie casuali tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 "de": "Lege 2 zufällige Energien von der Energie ab, die an alle Pokémon (dein und die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte 2 Energias aleatórias dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有神奇寶貝（你的和對手的）所附加的能量中隨機丟棄 2 個能量。"
+                "zh-tw": "從所有神奇寶貝（你的和對手的）所附加的能量中隨機丟棄 2 個能量。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに2個トラッシュ。"
             }
         }],
     weaknesses: [{

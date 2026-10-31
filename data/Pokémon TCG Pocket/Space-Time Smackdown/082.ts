@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/082"
     },
     name: {
         en: "Rhyperior",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rhyperior",
         de: "Rihornior",
         'pt-br': "Rhyperior",
+        ja: "ドサイドン",
         ko: "거대코뿌리",
         "zh-tw": "超甲狂犀",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Rizeros",
         "pt-br": "Rhydon",
         "zh-tw": "鑽角犀獸",
+        ja: "サイドン",
     },
     description: {
         en: "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Inserisce delle rocce o dei Roggenrola nelle cavità dei suoi\npalmi e poi li lancia. Può caricarne fino a tre per braccio.",
         de: "Es bestückt die Vertiefungen in seinen Händen\nmit Felsen oder Kiesling und feuert sie daraus ab.\nIn jeder Hand hat es Platz für drei Geschosse.",
         'pt-br': "Pode carregar até três projéteis por braço dentro\ndos buracos em suas mãos, de onde dispara tanto pedras\nquanto Roggenrola.",
+        ja: "手の 穴に 岩や ダンゴロを 詰めて 発射。 装填できる 数は 片腕に つき ３つ。",
         ko: "손에 난 구멍에 바위나 단굴을\n끼운 뒤 발사한다. 장전할 수 있는\n수는 한쪽 팔당 3개씩이다.",
         "zh-tw": "它每隻手臂最多可以將三枚射彈裝入其手中的孔中。從這些洞中噴出的可能是岩石，也可能是羅根羅拉。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Oscillamonte",
                 de: "Bergschwinger",
                 'pt-br': "Tacada Montanhosa",
+                ja: "マウンテンスイング",
                 ko: "마운틴스윙",
                 "zh-tw": "山地鞦韆"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Descarta las 3 primeras cartas de tu baraja.",
                 it: "Scarta le prime 3 carte del tuo mazzo.",
                 de: "Lege die obersten 3 Karten deines Decks ab.",
+                ja: "自分の山札を上から3枚トラッシュ。",
                 ko: "자신의 덱을 위에서부터 3장 트래쉬한다.",
                 'pt-br': "Descarte as 3 cartas de cima do seu baralho.",
                 "zh-tw": "丟棄你牌組頂的 3 張牌。"

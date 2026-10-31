@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/080",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/080",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/080"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/080"
     },
     name: {
         en: "Team Rocket's Articuno ex",
@@ -39,7 +40,8 @@ const card: Card = {
                 it: "Alagelata",
                 de: "Frostschwinge",
                 "pt-br": "Asa de Gelo",
-                "zh-tw": "冰之翼"
+                "zh-tw": "冰之翼",
+                ja: "アイスウイング"
             },
             damage: 40
         },
@@ -52,7 +54,8 @@ const card: Card = {
                 it: "Bufera di Grandine",
                 de: "Eisiger Sturm",
                 "pt-br": "Toró de Granizo",
-                "zh-tw": "冰雪風暴"
+                "zh-tw": "冰雪風暴",
+                ja: "ひょうせつのあらし"
             },
             effect: {
                 en: "This attack also does 20 damage to each of your Benched Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella tua panchina.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "自己的所有備戰寶可夢也受到20點傷害。"
+                "zh-tw": "自己的所有備戰寶可夢也受到20點傷害。",
+                ja: "自分のベンチポケモン全員にも20ダメージ。"
             },
             damage: 130
         }

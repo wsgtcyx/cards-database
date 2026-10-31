@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/175",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/175"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/175",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/175"
     },
     name: {
         en: "Slurpuff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sabbaione",
         "pt-br": "Slurpuff",
         "zh-tw": "胖甜妮",
+        ja: "ペロリーム",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flauschling",
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
+        ja: "ペロッパフ",
     },
     description: {
         en: "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Assorbendo l'odore di una persona, può fiutarne l'odore\ncondizione mentale e fisica. Lo si spera\nquesta abilità avrà molte applicazioni mediche.",
         "de": "Indem es den Geruch einer Person aufnimmt, kann es sie erschnüffeln\ngeistige und körperliche Verfassung. Das ist zu hoffen\nDiese Fähigkeit wird viele medizinische Anwendungen haben.",
         "pt-br": "Ao absorver o cheiro de uma pessoa, ele pode farejar seu\ncondição mental e física. Espera-se que\nessa habilidade terá muitas aplicações médicas.",
-        "zh-tw": "通過吸收人的氣味，它可以嗅出他們的氣味\n精神和身體狀況。希望\n這項技能將有許多醫學應用。"
+        "zh-tw": "通過吸收人的氣味，它可以嗅出他們的氣味\n精神和身體狀況。希望\n這項技能將有許多醫學應用。",
+        ja: "体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "30+",
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 60 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/163",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/163"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/163",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/163"
     },
     name: {
         en: "Shinx",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shinx",
         de: "Sheinux",
         'pt-br': "Shinx",
+        ja: "コリンク",
         ko: "꼬링크",
         "zh-tw": "小貓怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando si muove, le contrazioni dei suoi muscoli producono\nelettricità. Se si sente minacciato, il suo corpo si illumina.",
         de: "Mit jeder Bewegung erzeugt es durch das Strecken\nund Zusammenziehen seiner Muskeln Elektrizität.\nSteckt es in der Klemme, leuchtet es.",
         'pt-br': "A expansão e contração de seus músculos\ngera eletricidade. Ele brilha quando está em perigo.",
+        ja: "体を 動かすたびに 筋肉が 伸び縮みして 電気が 生まれる。 ピンチになると 体が 輝く。",
         ko: "몸을 움직일 때마다 근육이 늘어났다\n줄어들었다 하여 전기가 발생한다.\n궁지에 몰리면 몸이 빛난다.",
         "zh-tw": "其肌肉的伸展和收縮會產生電力。當遇到困難時它會發光。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Nascondino",
                 de: "Verstecken",
                 'pt-br': "Esconder",
+                ja: "かくれる",
                 ko: "숨기",
                 "zh-tw": "隱藏"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/099",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/099"
     },
     name: {
         en: "Misdreavus",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ama mordere e strappare i capelli alle persone\ndietro senza preavviso, solo per vederli\nreazioni scioccate.",
         "de": "Es liebt es, Menschen in die Haare zu beißen und auszureißen\nohne Vorwarnung zurück, nur um sie zu sehen\nschockierte Reaktionen.",
         "pt-br": "Ele adora morder e arrancar o cabelo das pessoas\natrás sem avisar, só para ver seus\nreações chocadas.",
-        "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。"
+        "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。",
+        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Doppio giro",
                 "de": "Doppelter Spin",
                 "pt-br": "Giro Duplo",
-                "zh-tw": "雙旋轉"
+                "zh-tw": "雙旋轉",
+                ja: "ダブルスピン"
             },
             damage: "20×",
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             }
         }],
     weaknesses: [{

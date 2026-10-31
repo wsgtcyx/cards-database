@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/050"
     },
     name: {
         en: "Garbodor",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Garbodor",
         "de": "Deponitox",
         "pt-br": "Garbodor",
-        "zh-tw": "灰塵山"
+        "zh-tw": "灰塵山",
+        ja: "ダストダス"
     },
     illustrator: "Aya Kusube",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Trubbish",
         "de": "Unratütox",
         "pt-br": "Trubbish",
-        "zh-tw": "破破袋"
+        "zh-tw": "破破袋",
+        ja: "ヤブクロン"
     },
     description: {
         en: "This Pokémon eats trash, which turns into poison\ninside its body. The main component of the\npoison depends on what sort of trash was eaten.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon mangia la spazzatura, che si trasforma in veleno\nall'interno del suo corpo. Il componente principale del\nil veleno dipende da che tipo di spazzatura è stata mangiata.",
         "de": "Dieses Pokémon frisst Müll, der sich in Gift verwandelt\nin seinem Körper. Der Hauptbestandteil der\nGift hängt davon ab, welche Art von Müll gegessen wurde.",
         "pt-br": "Este Pokémon come lixo, que se transforma em veneno\ndentro de seu corpo. O principal componente do\no veneno depende do tipo de lixo que foi comido.",
-        "zh-tw": "這個神奇寶貝吃垃圾會變成毒藥\n在它的身體裡面。主要組成部分\n有毒取決於吃的是哪種垃圾。"
+        "zh-tw": "這個神奇寶貝吃垃圾會變成毒藥\n在它的身體裡面。主要組成部分\n有毒取決於吃的是哪種垃圾。",
+        ja: "食った ゴミが 体内で 毒に 変化する。 食う ゴミ しだいで 毒の 主成分も 変わる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Spray acido",
                 "de": "Säurespray",
                 "pt-br": "Spray ácido",
-                "zh-tw": "酸噴霧"
+                "zh-tw": "酸噴霧",
+                ja: "アシッドボム"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
             }
         }],
     weaknesses: [{

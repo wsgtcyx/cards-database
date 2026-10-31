@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/065"
     },
     name: {
         en: "Zangoose",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sengo",
         "pt-br": "Zangoose",
         "zh-tw": "貓鼬斬",
+        ja: "ザングース",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È l'arcinemico di Seviper. Per minacciarli\nincontra, apre a ventaglio i suoi artigli\nzampe anteriori.",
         "de": "Es ist Sevipers Erzrivale. Diese zu bedrohen\nes begegnet, es breitet seine Krallen aus\nVorderpfoten.",
         "pt-br": "É o arquirrival de Seviper. Para ameaçar aqueles\nencontra, espalha as garras em seu\npatas dianteiras.",
-        "zh-tw": "這是塞維珀的主要競爭對手。去威脅那些\n它遇到了，它就會張開爪子\n前爪。"
+        "zh-tw": "這是塞維珀的主要競爭對手。去威脅那些\n它遇到了，它就會張開爪子\n前爪。",
+        ja: "ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Contrattacco",
                 "de": "Gegenangriff",
                 "pt-br": "Contra-ataque",
-                "zh-tw": "反擊"
+                "zh-tw": "反擊",
+                ja: "はんげき"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, infliggi 20 danni al Pokémon attaccante.",
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
-                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
+                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"]

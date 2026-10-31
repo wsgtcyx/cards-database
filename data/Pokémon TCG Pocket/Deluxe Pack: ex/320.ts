@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/320",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/320",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/320",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/320"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/320",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/320"
 	},
 	name: {
         en: "Giant Cape",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Riesige Robe",
         "pt-br": "Capa Gigante",
         "zh-tw": "大斗蓬",
+        ja: "大きなマント",
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Il Pokémon a cui è assegnata questa carta ottiene +20 HP.",
         "de": "Das Pokémon, an das diese Karte angelegt ist, erhält +20 HP.",
         "pt-br": "O Pokémon ao qual esta carta está anexada recebe +20 HP.",
-        "zh-tw": "貼有這張卡的神奇寶貝HP+20。"
+        "zh-tw": "貼有這張卡的神奇寶貝HP+20。",
+        ja: "このカードをつけているポケモンの最大HPを+20する。"
     },
     trainerType: "Tool"
 };

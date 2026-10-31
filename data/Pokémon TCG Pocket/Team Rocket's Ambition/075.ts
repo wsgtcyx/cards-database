@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/075",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/075",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/075"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/075"
     },
     name: {
         en: "Team Rocket's Tinkaton",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "É capace di brandire il suo martello pesante oltre 100 kg come se niente fosse. Se vede qualcosa che gli piace, lo ruba e lo porta nella sua tana.",
         de: "Granforgita schwingt den über 100 kg schweren Hammer mühelos umher. Es schleppt alles mit sich nach Hause, was ihm gefällt.",
         "pt-br": "O seu martelo chega a pesar 100 kg. Apesar disso, Tinkaton sai com ele por ai como se não fosse nada, roubando o que lhe convém e levando tudo pra casa.",
-        "zh-tw": "會輕鬆地揮舞著超過１００公斤的錘子來奪取想要的東西，然後帶回自己的住處。"
+        "zh-tw": "會輕鬆地揮舞著超過１００公斤的錘子來奪取想要的東西，然後帶回自己的住處。",
+        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Martello Battipalo",
                 de: "Rammender Hammer",
                 "pt-br": "Martelo Empilhador",
-                "zh-tw": "打樁錘"
+                "zh-tw": "打樁錘",
+                ja: "くいうちハンマー"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 {C} more, and its Retreat Cost is 2 {C} more.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il costo degli attacchi usati dal Pokémon difensore e il suo costo di ritirata aumentano di 2 {C}.",
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um 2 {C}, und seine Rückzugskosten erhöhen sich um 2 {C}.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 2 {C} a mais e o Custo de Recuo dele será 2 {C} a mais.",
-                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量與撤退所需的能量,增加2個{C}能量。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量與撤退所需的能量,增加2個{C}能量。",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーとにげるためのエネルギーを、{C}エネルギー2個ぶん多くする。"
             },
             damage: 80
         }

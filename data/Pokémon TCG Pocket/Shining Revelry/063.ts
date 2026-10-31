@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/063"
     },
     name: {
         en: "Lickilicky",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lickilicky",
         de: "Schlurplek",
         'pt-br': "Lickilicky",
+        ja: "ベロベルト",
         ko: "내룸벨트",
         "zh-tw": "大舌舔"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Lickitung",
         "de": "Schlurp",
         "pt-br": "Lickitung",
-        "zh-tw": "大舌頭"
+        "zh-tw": "大舌頭",
+        ja: "ベロリンガ"
     },
     description: {
         en: "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La sua lingua può misteriosamente allungarsi\nfino a molte volte la lunghezza del corpo.\nAncora non si è capito come faccia.",
         de: "Seine sonderbare Zunge kann sich bis auf ein\nVielfaches seiner Körpergröße ausdehnen.\nNiemand weiß, wie das möglich ist.",
         'pt-br': "A língua estranha de Lickilicky pode esticar e ficar\nmais longa do que seu corpo. Ninguém jamais descobriu\ncomo a língua deste Pokémon pode esticar tanto.",
+        ja: "体の 何倍もの 長さまで 伸びる 不思議な ベロを もつ。 その 不思議は 未解明のまま。",
         ko: "몸의 몇 배의 길이로 늘어나는\n신비한 혀를 가졌다.\n그 비밀은 아직 밝혀지지 않았다.",
         "zh-tw": "Lickilicky 奇怪的舌頭可以伸展到其身體長度的許多倍。到目前為止，還沒有人知道 Lickilicky 的舌頭是如何伸展的。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Rotolamento",
             de: "Walzer",
             'pt-br': "Rolagem",
+            ja: "ころがる",
             ko: "구르기",
             "zh-tw": "推出"
         },

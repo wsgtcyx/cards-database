@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/114"
     },
     name: {
         en: "Honchkrow",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kramshef",
         "pt-br": "Honchkrow",
         "zh-tw": "烏鴉頭頭",
+        ja: "ドンカラス",
     },
     illustrator: "Shiburingaru",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
+        ja: "ヤミカラス",
     },
     description: {
         en: "It is merciless by nature. It is said that it never\nforgives the mistakes of its Murkrow followers.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "È spietato per natura. Si dice che non accada mai\nperdona gli errori dei suoi seguaci Murkrow.",
         "de": "Es ist von Natur aus gnadenlos. Es wird gesagt, dass es nie so ist\nverzeiht die Fehler seiner Murkrow-Anhänger.",
         "pt-br": "É impiedoso por natureza. Diz-se que nunca\nperdoa os erros de seus seguidores de Murkrow.",
-        "zh-tw": "它本質上是無情的。據說從來沒有\n原諒其暗鴉追隨者的錯誤。"
+        "zh-tw": "它本質上是無情的。據說從來沒有\n原諒其暗鴉追隨者的錯誤。",
+        ja: "情け容赦ない 性格。 子分の ヤミカラスの 失敗は 絶対に 許さないと 言われる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Taglierino Oscuro",
                 "de": "Dunkler Schneider",
                 "pt-br": "Cortador Sombrio",
-                "zh-tw": "黑暗切割者"
+                "zh-tw": "黑暗切割者",
+                ja: "ダークカッター"
             },
             damage: 60,
             cost: ["Darkness", "Colorless"]

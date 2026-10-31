@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/010",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/010",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/010"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/010"
     },
     name: {
         en: "Turtwig",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
-                ja: "Razor Leaf",
+                ja: "はっぱカッター",
                 ko: "Razor Leaf"
             },
             cost: [
@@ -68,7 +69,7 @@ const card: Card = {
         de: "Der Panzer auf seinem Rücken besteht aus Lehm und wird härter, wenn das Pokémon Wasser trinkt. Es lebt an Seen.",
         "pt-br": "Feita de terra, a casca em suas costas endurece quando bebe água. Vive perto de lagos.",
         "zh-tw": "背上的甲殼是由泥土形成的。喝水後會變得堅硬。棲息在湖邊。",
-        ja: "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+        ja: "土で できた 背中の 甲羅は 水を 飲むと さらに 硬くなる。 湖の ほとりで 暮らしている。",
         ko: "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes."
     }
 };

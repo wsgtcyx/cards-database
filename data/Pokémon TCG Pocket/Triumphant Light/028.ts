@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/028"
     },
     name: {
         en: "Manectric",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Manectric",
         de: "Voltenso",
         'pt-br': "Manectric",
+        ja: "ライボルト",
         ko: "썬더볼트",
         "zh-tw": "雷電獸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Frizelbliz",
         "pt-br": "Electrike",
         "zh-tw": "落雷獸",
+        ja: "ラクライ",
     },
     description: {
         en: "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "L'elettricità gli stimola i muscoli rendendolo più\nveloce e inoltre allevia i suoi dolori muscolari\nfacendolo tornare rapidamente in forma.",
         de: "Da es seine Muskeln mit Elektrizität stimuliert,\nkann es sich sehr schnell bewegen.\nAuch Muskelkater heilt es sofort mit Strom.",
         'pt-br': "Estimula eletricamente os próprios músculos para\nmover-se mais rapidamente. Alivia também as suas dores\ncom eletricidade, para se recuperar mais rápido.",
+        ja: "電気で 筋肉を 刺激するので 素早く 動ける。 筋肉痛も 電気で ほぐすので すぐ 治る。",
         ko: "전기로 근육을 자극해서\n재빠르게 움직일 수 있다. 근육통도\n전기로 풀기 때문에 금방 낫는다.",
         "zh-tw": "它用電流刺激自己的肌肉，因此可以快速移動。它還可以通過電來緩解疼痛，因此也可以很快恢復。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Flash",
                 de: "Blitz",
                 'pt-br': "Clarão",
+                ja: "フラッシュ",
                 ko: "플래시",
                 "zh-tw": "閃光"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, se il Pokémon difensore prova a usare un attacco, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non avviene.",
                 de: "Wenn das Verteidigende Pokémon während des nächsten Zuges deines Gegners versucht, eine Attacke einzusetzen, wirft dein Gegner 1 Münze. Bei Zahl wird jene Attacke nicht ausgeführt.",
                 'pt-br': "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se sair coroa, aquele ataque não acontecerá.",
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다.",
                 "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
             }

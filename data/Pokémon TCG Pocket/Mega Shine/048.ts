@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/048"
     },
     name: {
         en: "Kartana",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nel nostro mondo il suo aspetto appare strano\ne minaccioso, ma sembra che in quello da cui\nproviene sia una creatura molto comune.",
         de: "In dieser Welt wirkt sein Aussehen gefährlich\nund fremdartig, doch in seiner ursprünglichen\nWelt ist es ein ganz gewöhnliches Lebewesen.",
         "pt-br": "Embora seja estranho a este mundo e seja um perigo aqui, aparentemente é um organismo comum no mundo onde normalmente vive.",
-        "zh-tw": "在這個世界是危險的異類，\n但在原本棲息的世界裡，\n牠似乎是常見的普通生物。"
+        "zh-tw": "在這個世界是危險的異類，\n但在原本棲息的世界裡，\n牠似乎是常見的普通生物。",
+        ja: "この世界では 異質で 危険だが 本来 棲んでいる 世界では 普通に 見かける 生物らしい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Thrash Metal",
                 de: "Thrash Metal",
                 "pt-br": "Thrash Metal",
-                "zh-tw": "死亡迅斬"
+                "zh-tw": "死亡迅斬",
+                ja: "デスラッシュ"
             },
             damage: 40
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/075"
     },
     name: {
         en: "Adaman",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Damon",
         de: "Diam",
         'pt-br': "Ádamo",
+        ja: "セキ",
         ko: "찬석",
         "zh-tw": "剛石",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Durante il prossimo turno del tuo avversario, tutti i tuoi Pokémon {M} subiscono -20 danni dagli attacchi dei Pokémon avversari.",
         de: "Während des nächsten Zuges deines Gegners werden allen deinen {M}-Pokémon durch Attacken von Pokémon deines Gegners − 20 Schadenspunkte zugefügt.",
         'pt-br': "Durante o próximo turno do seu oponente, todos os seus Pokémon {M} receberão −20 pontos de dano de ataques dos Pokémon do seu oponente.",
+        ja: "次の相手の番、自分の{M}ポケモン全員が、相手のポケモンから受けるワザのダメージを-20する。",
         ko: "상대의 다음 차례에 자신의 {M}포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지를 -20한다.",
         "zh-tw": "在你對手的下一個回合中，你所有的 {M} 個神奇寶貝因對手神奇寶貝的攻擊而受到 -20 點傷害。"
     },

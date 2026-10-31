@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/008"
     },
     name: {
         en: "Flareon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flamara",
         "pt-br": "Flareon",
         "zh-tw": "火伊布",
+        ja: "ブースター",
     },
     illustrator: "Eri Yamaki",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "L'aria inalata viene trasportata nella sua sacca di fiamma, riscaldata e\nesalato come fuoco che raggiunge oltre i 3.000 gradi\nFahrenheit.",
         "de": "Die eingeatmete Luft wird zu seinem Flammensack transportiert, erhitzt und\nausgeatmet als Feuer, das über 3.000 Grad erreicht\nFahrenheit.",
         "pt-br": "O ar inalado é transportado para o seu saco de chamas, aquecido e\nexalado como fogo que atinge mais de 3.000 graus\nFahrenheit.",
-        "zh-tw": "吸入的空氣被帶到其火焰囊中，被加熱，並\n呼出的火焰溫度高達 3000 度以上\n華氏度。"
+        "zh-tw": "吸入的空氣被帶到其火焰囊中，被加熱，並\n呼出的火焰溫度高達 3000 度以上\n華氏度。",
+        ja: "吸いこんだ 空気を 体内の 炎袋に 送りこみ 1700度の 炎にして 吹く。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Assistere il riscaldatore",
                 "de": "Unterstützende Heizung",
                 "pt-br": "Aquecedor Auxiliar",
-                "zh-tw": "輔助加熱器"
+                "zh-tw": "輔助加熱器",
+                ja: "アシストヒーター"
             },
             damage: 40,
             cost: ["Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {R} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon in panchina.",
                 "de": "Nimm eine {R}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {R} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、ベンチポケモンにつける。"
             }
         }],
     weaknesses: [{

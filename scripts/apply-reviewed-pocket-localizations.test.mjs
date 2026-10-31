@@ -65,7 +65,8 @@ const card = {
         name: { en: "Ember" },
         effect: {
             en: englishEffect,
-            fr: "Ancien texte {R}."
+            fr: "Ancien texte {R}.",
+            ja: "Attach 1 {R} Energy."
         }
     }]
 }
@@ -540,4 +541,71 @@ test('reviewed writer rejects extra worktree drift beyond the predecessor-derive
 	} finally {
 		fs.rmSync(fixture.root, { recursive: true, force: true })
 	}
+})
+
+test('reviewed Japanese fill and correction preserve dry-run, CAS and idempotency', () => {
+ const fixture = createFixture()
+ try {
+  const artifact = writeArtifact(fixture, [
+   fillDecision(fixture, { locale: 'ja', value: '森にすんでいる。' }),
+   correctionDecision(fixture, { locale: 'ja', expectedCurrent: 'Attach 1 {R} Energy.', value: 'このポケモンに{R}エネルギーを1個つける。' }),
+  ])
+  const preview = run(fixture, artifact)
+  assert.equal(preview.status, 0, preview.stderr)
+  assert.equal(fs.readFileSync(fixture.cardFile, 'utf8'), fixture.cardSource)
+  const applied = run(fixture, artifact, ['--write', '--base-ref', fixture.baseRef])
+  assert.equal(applied.status, 0, applied.stderr)
+  const source = fs.readFileSync(fixture.cardFile, 'utf8')
+  assert.match(source, /ja: "森にすんでいる。"/u)
+  assert.match(source, /ja: "このポケモンに\{R\}エネルギーを1個つける。"/u)
+  const repeated = run(fixture, artifact, ['--write', '--base-ref', fixture.baseRef])
+  assert.equal(repeated.status, 0, repeated.stderr)
+  assert.equal(JSON.parse(repeated.stdout).summary.alreadyAppliedDecisions, 2)
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
+test('Japanese token exceptions require an exact field binding and verified evidence', () => {
+ const fixture = createFixture()
+ try {
+  const decision = correctionDecision(fixture, { path: 'attacks[0].effect', locale: 'ja', expectedCurrent: 'Attach 1 {R} Energy.', expectedEnglish: 'Attach 1 {R} Energy.', value: '{R}{R}エネルギーをつける。' })
+  const exception = { entityId: decision.entityId, path: decision.path, locale: 'ja', expectedEnglishTokens: ['R'], localizedTokens: ['R', 'R'], reason: 'Fixture card-face review distinguishes a target type from the Energy amount.', evidence: decision.evidence }
+  const strict = run(fixture, writeArtifact(fixture, [decision]))
+  assert.notEqual(strict.status, 0)
+  assert.match(strict.stderr, /energy token mismatch/)
+  for (const patch of [
+   { entityId: 'T-002' }, { path: 'name' }, { locale: 'fr' }, { reason: '' },
+   { expectedEnglishTokens: ['R', 'R'] }, { localizedTokens: ['R'] },
+   { evidence: [{ ...decision.evidence[0], locator: 'unreviewed' }] },
+  ]) {
+   const invalid = run(fixture, writeArtifact(fixture, [{ ...decision, tokenException: { ...exception, ...patch } }]))
+   assert.notEqual(invalid.status, 0, JSON.stringify(patch))
+   assert.match(invalid.stderr, /tokenException|token exception/)
+   assert.equal(fs.readFileSync(fixture.cardFile, 'utf8'), fixture.cardSource)
+  }
+  const artifact = writeArtifact(fixture, [{ ...decision, tokenException: exception }])
+  const applied = run(fixture, artifact, ['--write', '--base-ref', fixture.baseRef])
+  assert.equal(applied.status, 0, applied.stderr)
+  const report = JSON.parse(applied.stdout)
+  assert.equal(report.summary.tokenExceptions, 1)
+  assert.deepEqual(report.results[0].tokenException, exception)
+  assert.match(fs.readFileSync(fixture.cardFile, 'utf8'), /ja: "\{R\}\{R\}エネルギーをつける。"/)
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
+test('Japanese token exceptions cannot bypass English CAS, unknown tokens or unchanged multisets', () => {
+ for (const patch of [
+  { expectedEnglish: 'Attach 2 {R} Energy.' },
+  { value: '{UNKNOWN}エネルギー' },
+  { value: '{R}エネルギー' },
+ ]) {
+  const fixture = createFixture()
+  try {
+   const decision = correctionDecision(fixture, { path: 'attacks[0].effect', locale: 'ja', expectedCurrent: 'Attach 1 {R} Energy.', expectedEnglish: 'Attach 1 {R} Energy.', value: '{R}{R}エネルギー', ...patch })
+   decision.tokenException = { entityId: decision.entityId, path: decision.path, locale: 'ja', expectedEnglishTokens: ['R'], localizedTokens: ['R', 'R'], reason: 'Exact fixture review', evidence: decision.evidence }
+   const result = run(fixture, writeArtifact(fixture, [decision]))
+   assert.notEqual(result.status, 0)
+   assert.match(result.stderr, /English CAS mismatch|unknown token|unused token exception/)
+   assert.equal(fs.readFileSync(fixture.cardFile, 'utf8'), fixture.cardSource)
+  } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+ }
 })

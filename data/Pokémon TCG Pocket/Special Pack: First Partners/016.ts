@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/016",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/016",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/016"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/016"
     },
     name: {
         en: "Chespin",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Nadelrakete",
                 "pt-br": "Míssil de Espinhos",
                 "zh-tw": "飛彈針",
-                ja: "Pin Missile",
+                ja: "ミサイルばり",
                 ko: "Pin Missile"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Wirf 4 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲4次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "Flip 4 coins. This attack does 20 damage for each heads.",
+                ja: "コインを4回投げ、オモテの数×20ダメージ。",
                 ko: "Flip 4 coins. This attack does 20 damage for each heads."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Wenn es seine Kraft auf die sonst eher weichen Stacheln auf seinem Kopf konzentriert, werden diese robust genug, um damit selbst Felsen zu durchdringen.",
         "pt-br": "Os espinhos em sua cabeça geralmente são macios. Quando ele os flexiona, as pontas tornam-se tão duras e afiadas que podem perfurar pedras.",
         "zh-tw": "頭上的刺平時很柔軟，一旦使力就會變得尖銳，甚至能刺穿岩石。",
-        ja: "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+        ja: "普段 やわらかい 頭の トゲは 力を こめると 鋭く とがり 岩をも つらぬくほど 硬くなる。",
         ko: "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock."
     }
 };

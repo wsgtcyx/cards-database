@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/087",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/087",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/087"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/087"
     },
     name: {
         en: "Professor Sada",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Assegna 3 diversi tipi di Energia dalla tua pila degli scarti ai tuoi Pokémon antichi nel modo che preferisci.",
         de: "Verbinde 3 verschiedene Arten von Energie aus deinem Ablagestapel nach Belieben mit deinem Uralten-Pokémon.",
         "pt-br": "Ligue 3 tipos diferentes de Energia da sua pilha de descarte aos seus Pokémon Antigos da maneira que desejar.",
-        "zh-tw": "以您喜歡的任何方式將您的棄牌堆中的 3 種不同類型的能量附加到您的古代寶可夢上。"
+        "zh-tw": "以您喜歡的任何方式將您的棄牌堆中的 3 種不同類型的能量附加到您的古代寶可夢上。",
+        ja: "自分のトラッシュからそれぞれちがうタイプのエネルギーを3個選び、「古代」のポケモンに好きなようにつける。"
     },
     trainerType: "Supporter"
 };

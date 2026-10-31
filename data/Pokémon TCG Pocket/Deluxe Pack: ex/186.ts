@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/186",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/186"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/186"
     },
     name: {
         en: "Milcery",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hokumil",
         "pt-br": "Milcery",
         "zh-tw": "小仙奶",
+        ja: "マホミル",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è nato dal dolce odore\nparticelle nell'aria. Il suo corpo è fatto di crema.",
         "de": "Dieses Pokémon wurde aus süß riechendem geboren\nPartikel in der Luft. Sein Körper besteht aus Creme.",
         "pt-br": "Este Pokémon nasceu de um cheiro doce\npartículas no ar. Seu corpo é feito de creme.",
-        "zh-tw": "這只神奇寶貝是從甜味中誕生的\n空氣中的顆粒。它的身體是由奶油製成的。"
+        "zh-tw": "這只神奇寶貝是從甜味中誕生的\n空氣中的顆粒。它的身體是由奶油製成的。",
+        ja: "クリームで できた 体を もつ。 空気中の 甘い 香りの 成分が 集まって 生まれた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

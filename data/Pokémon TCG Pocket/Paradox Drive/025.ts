@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/025",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/025",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/025"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/025"
     },
     name: {
         en: "Scream Tail",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Assomiglia a un Pokémon misterioso descritto in una rivista sul paranormale come Jigglypuff di un miliardo di anni fa.",
         de: "Es ähnelt einem mysteriösen Pokémon, das in einer paranormalen Zeitschrift als Pummeluff von vor einer Milliarde Jahren beschrieben wurde.",
         "pt-br": "Assemelha-se a um Pokémon misterioso descrito em uma revista paranormal como Jigglypuff de um bilhão de anos atrás.",
-        "zh-tw": "它類似於十億年前超自然雜誌中描述為 胖丁 的神秘寶可夢。"
+        "zh-tw": "它類似於十億年前超自然雜誌中描述為 胖丁 的神秘寶可夢。",
+        ja: "１０億年前の プリンと オカルト雑誌が 紹介した 謎の ポケモンに 似ている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Urlo di tiro",
                 de: "Verhexendes Geschrei",
                 "pt-br": "Grito de enxotamento",
-                "zh-tw": "退敵絕哮"
+                "zh-tw": "退敵絕哮",
+                ja: "がなりおいだす"
             },
             effect: {
                 en: "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Se esce testa entrambi, scarta il Pokémon attivo del tuo avversario.",
                 de: "Wirf 2 Münzen. Wenn beide Köpfe sind, wirf das Aktive Pokémon deines Gegners ab.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem cara, descarte o Pokémon Ativo do seu oponente.",
-                "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍寶可夢。"
+                "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍寶可夢。",
+                ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをトラッシュ。"
             }
         }
     ],

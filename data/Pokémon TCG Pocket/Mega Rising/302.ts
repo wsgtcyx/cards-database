@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/302",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/302",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/302",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/302"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/302",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/302"
     },
     name: {
         en: "Zapdos",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zapdos",
         "pt-br": "Zapdos",
         "zh-tw": "閃電鳥",
+        ja: "サンダー",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon ha il controllo completo su\nelettricità. Ci sono storie di Zapdos che si annidano qui\nle profondità oscure di nubi temporalesche nere come la pece.",
         "de": "Dieses Pokémon hat die vollständige Kontrolle über\nStrom. Es gibt Geschichten über Zapdos, die dort nisten\ndie dunklen Tiefen pechschwarzer Gewitterwolken.",
         "pt-br": "Este Pokémon tem controle total sobre\neletricidade. Existem histórias de Zapdos fazendo ninhos em\nas profundezas escuras das nuvens negras de trovoada.",
-        "zh-tw": "這只神奇寶貝完全控制\n電力。有 Zapdos 築巢的故事\n漆黑的雷雨雲的黑暗深處。"
+        "zh-tw": "這只神奇寶貝完全控制\n電力。有 Zapdos 築巢的故事\n漆黑的雷雨雲的黑暗深處。",
+        ja: "電気を 自在に 操る。 真っ黒な 雷雲の 中に 巣があると 言い伝えられている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Tuono furioso",
                 "de": "Wütender Donner",
                 "pt-br": "Trovão Furioso",
-                "zh-tw": "憤怒的雷霆"
+                "zh-tw": "憤怒的雷霆",
+                ja: "らくらい"
             },
             damage: 100,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 30 danni a 1 dei tuoi Pokémon in panchina.",
                 "de": "Dieser Angriff fügt außerdem 1 deiner Bank-Pokémon 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 de dano a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 30 點傷害。"
+                "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 30 點傷害。",
+                ja: "自分のベンチポケモン1匹にも30ダメージ。"
             }
         }],
     weaknesses: [{

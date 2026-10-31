@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/201",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/201",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/201",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/201"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/201",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/201"
     },
     name: {
         en: "Swanna ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 "pt-br": "Asa a Jato",
                 "zh-tw": "噴射之翼",
                 "it": "Ala Jet",
-                "de": "Jet-Flügel"
+                "de": "Jet-Flügel",
+                ja: "ジェットウイング"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。"
+                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
+                ja: "次の自分の番、このポケモンはワザが使えない。"
             },
             damage: 140
         }

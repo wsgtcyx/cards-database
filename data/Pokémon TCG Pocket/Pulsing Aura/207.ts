@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/207",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/207",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/207",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/207"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/207",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/207"
     },
     name: {
         en: "Combusken",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando lotta, il suo fuoco interiore diventa\nincandescente. Sferra calci di notevole potenza\ndistruttiva.",
         de: "Im Kampf lodert sein inneres Feuer hoch auf. Wo seine\nmächtigen Tritte landen, wächst kein Gras mehr.",
         "pt-br": "Durante uma batalha, a chama quente em seu corpo aumenta. Seus chutes têm um poder destrutivo extraordinário.",
-        "zh-tw": "戰鬥時，它體內的熾熱火焰會增加。其踢腿具有超凡的破壞力。"
+        "zh-tw": "戰鬥時，它體內的熾熱火焰會增加。其踢腿具有超凡的破壞力。",
+        ja: "戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Calcinvolo",
                 de: "Turmkick",
                 "pt-br": "Chute de Pulo Alto",
-                "zh-tw": "飛膝踢"
+                "zh-tw": "飛膝踢",
+                ja: "とびひざげり"
             },
             damage: 50
         }

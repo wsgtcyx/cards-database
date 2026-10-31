@@ -34,7 +34,7 @@ locale、图片、R2、API 和下游作为同一条 fail-closed 流水线处理�
    → public byte/hash/header verify。无本次 receipt 的既有 key 不覆盖；完全相同且证据齐全才复用。
 5. 运行 set audit、仓库 validate/test/diff check，并本地验证全部名称 locale、完整规则 locale、
    代表卡与 search 精确总数。生产 API 404 是部署边界，不能被下游 fallback 掩盖。
-6. 若包含 `tcgp`，原子同步七语 JSON、逐卡 rarity、set/pack、entity/filter、QR mapping digest
+6. 若包含 `tcgp`，原子同步目标语言 JSON（含已启用的 `ja`）、逐卡 rarity、set/pack、entity/filter、QR mapping digest
    和静态素材；运行真实五卡抽包、全量测试/build 与桌面/移动端视觉 smoke。竞技 Deck 快照仍由
    独立自动化维护。
 
@@ -43,3 +43,5 @@ locale、图片、R2、API 和下游作为同一条 fail-closed 流水线处理�
 只有 ID 连续、所有审计通过、R2 receipts/public verify 数量精确、API/下游 key 集一致、视觉素材
 清晰且实际渲染正常时才声明完成。分别报告 name/full-rule/image locale、对象数、测试、未解决项、
 两个仓库最终 status，以及 commit/push/deploy 是否执行。
+
+涉及日语时，读取 [日语契约](../add-pocket-translations/references/japanese.md)。图片按现有其他语言规格生成，不新增未经用户要求的分辨率门槛。

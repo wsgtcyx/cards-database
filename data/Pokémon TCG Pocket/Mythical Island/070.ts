@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/070"
     },
     name: {
         en: "Serperior",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Serperior",
         de: "Serpiroyal",
         'pt-br': "Serperior",
+        ja: "ジャローダ",
         ko: "샤로다",
         "zh-tw": "君主蛇",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Efoserp",
         "pt-br": "Servine",
         "zh-tw": "青藤蛇",
+        ja: "ジャノビー",
     },
     description: {
         en: "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Dà il meglio di sé solo contro chi non\nresta intimidito dal suo nobile sguardo.",
         de: "Im Kampf zeigt es nur Gegnern, die seinem\nedlen Blick standhalten, seine wahre Kraft.",
         'pt-br': "Dá o máximo de si somente contra oponentes fortes\nque não são perturbados pelo brilho intenso dos olhos\nnobres de Serperior.",
+        ja: "ジャローダの 気高い 瞳で 射すくめられても 平気な 強い 相手にだけ 本気を 出す。",
         ko: "샤로다의 고상한 눈동자로\n쏘아보아도 태연할 정도로 강한\n상대에게만 진정한 실력을 발휘한다.",
         "zh-tw": "它只會在面對強大的對手時全力以赴，而這些對手不會被蛇皮里奧高貴的目光所困擾。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Signore della Giungla",
                 de: "Dschungelherrschaft",
                 'pt-br': "Totem da Selva",
+                ja: "みつりんのぬし",
                 ko: "밀림의 주인",
                 "zh-tw": "叢林圖騰"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 it: "Ogni Energia {G} assegnata ai tuoi Pokémon {G} fornisce due Energie {G}. Questo effetto non è cumulabile.",
                 de: "Jede an deine {G}-Pokémon angelegte {G}-Energie liefert 2 {G}-Energien. Der Effekt stapelt sich nicht.",
                 'pt-br': "Cada Energia {G} ligada aos seus Pokémon {G} fornecerá 2 Energias {G}. Este efeito não acumula.",
+                ja: "このポケモンがいるかぎり、自分の場の{G}ポケモンについているすべての{G}エネルギーは、それぞれ{G}エネルギー2個ぶんとしてはたらく。この特性は重ならない。",
                 ko: "이 포켓몬이 있는 한, 자신의 필드의 {G}포켓몬에게 붙어 있는 모든 {G}에너지는 각각 {G}에너지 2개분으로 작용한다. 이 특성은 중복되지 않는다.",
                 "zh-tw": "您的 {G} 神奇寶貝身上附加的每個 {G} 能量可提供 2 個 {G} 能量。該效果不疊加。"
             }
@@ -76,6 +82,7 @@ const card: Card = {
                 it: "Solarraggio",
                 de: "Solarstrahl",
                 'pt-br': "Raio Solar",
+                ja: "ソーラービーム",
                 ko: "솔라빔",
                 "zh-tw": "太陽光束"
             },

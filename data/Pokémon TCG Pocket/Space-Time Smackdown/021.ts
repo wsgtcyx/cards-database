@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/021"
     },
     name: {
         en: "Mow Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom Taglio",
         de: "Schneid-Rotom",
         'pt-br': "Rotom Corte",
+        ja: "カットロトム",
         ko: "커트로토무",
         "zh-tw": "切割洛托姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il tagliaerba è uno degli elettrodomestici che hanno\nreso possibile la creazione del Pokédex Rotom.",
         de: "Der Rasenmäher ist eines der elektrischen\nHaushaltsgeräte, die zur Entwicklung des\nRotom-Pokédex führten.",
         'pt-br': "O cortador de grama é um dos eletrodomésticos\nque levaram ao desenvolvimento do Pokédex Rotom.",
+        ja: "ロトム図鑑が 誕生する きっかけとなった 家電製品の ひとつが 芝刈り機なのだ。",
         ko: "로토무도감이 만들어진\n계기가 된 가전제품 중 하나가\n바로 잔디깎이였다.",
         "zh-tw": "割草機是推動 Rotom Dex 發展的家用電器之一。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Calopotenza",
                 de: "Energiesperre",
                 'pt-br': "Corte de Energia",
+                ja: "エナジーカット",
                 ko: "에너지커트",
                 "zh-tw": "能源切斷"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             }

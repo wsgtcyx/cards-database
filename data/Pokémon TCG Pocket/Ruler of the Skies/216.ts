@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/216",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/216",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/216"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/216",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/216"
     },
     name: {
         en: "Koffing",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il gas tossico è trattenuto nel suo corpo sottile a forma di palloncino, quindi può causare massicce esplosioni.",
         de: "In seinem dünnen, ballonförmigen Körper sind giftige Gase enthalten, die zu massiven Explosionen führen können.",
         "pt-br": "O gás tóxico é mantido dentro de seu corpo fino em forma de balão, podendo causar explosões massivas.",
-        "zh-tw": "有毒氣體儲存在其薄薄的氣球狀體內，因此會造成大規模爆炸。"
+        "zh-tw": "有毒氣體儲存在其薄薄的氣球狀體內，因此會造成大規模爆炸。",
+        ja: "薄い バルーン状の 体に 猛毒の ガスが 詰まっているので ときどき 大爆発を 起こす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bombagas",
                 de: "Gasbombe",
                 "pt-br": "Bomba Gasosa",
-                "zh-tw": "臭屁炸彈"
+                "zh-tw": "臭屁炸彈",
+                ja: "おならボム"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也受到10點傷害。"
+                "zh-tw": "這隻寶可夢也受到10點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             },
             damage: 30
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/067"
     },
     name: {
         en: "Leftovers",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Überreste",
         "pt-br": "Sobras",
         "zh-tw": "吃剩的東西",
+        ja: "たべのこし",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Alla fine del tuo turno, se il Pokémon a cui è assegnata questa carta è in posizione attiva, cura quel Pokémon da 10 danni.",
         "de": "Wenn sich am Ende deines Zuges das Pokémon, an das diese Karte angelegt ist, an der aktiven Stelle befindet, heile 10 Schadenspunkte bei diesem Pokémon.",
         "pt-br": "No final do seu turno, se o Pokémon ao qual esta carta está ligada estiver no Ponto Ativo, cure 10 pontos de dano desse Pokémon.",
-        "zh-tw": "自己的回合結束時，如果這張卡所附著的寶可夢位於活躍位置，則該寶可夢迴复 10 點傷害。"
+        "zh-tw": "自己的回合結束時，如果這張卡所附著的寶可夢位於活躍位置，則該寶可夢迴复 10 點傷害。",
+        ja: "自分の番の終わりに、このカードをつけているポケモンがバトル場にいるなら、そのポケモンのHPを10回復。"
     },
     trainerType: "Tool"
 };

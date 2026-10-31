@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/086",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/086",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/086"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/086"
     },
     name: {
         en: "Electric Generator",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Elektrischer Generator",
         "pt-br": "Gerador Elétrico",
         "zh-tw": "電氣發生器",
+        ja: "エレキジェネレーター",
         pt: "Gerador Elétrico"
     },
     illustrator: "Toyste Beach",
@@ -31,7 +33,8 @@ const card: Card = {
         "it": "Lancia una moneta. Se esce testa, prendi un'Energia Lightning dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon Lightning in panchina.",
         "de": "Wirf eine Münze. Bei „Kopf“ nimm eine Lightning-Energie aus deiner Energiezone und lege sie an eines deiner Lightning-Pokémon auf deiner Bank an.",
         "pt-br": "Jogue uma moeda. Se der cara, pegue uma Energia Lightning da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Lightning no Banco.",
-        "zh-tw": "拋一枚硬幣。如果正面，從你的能量區域取出一個閃電能量並將其附加到你的1 隻後備閃電寶可夢上。"
+        "zh-tw": "拋一枚硬幣。如果正面，從你的能量區域取出一個閃電能量並將其附加到你的1 隻後備閃電寶可夢上。",
+        ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。"
     },
     trainerType: "Item",
 };

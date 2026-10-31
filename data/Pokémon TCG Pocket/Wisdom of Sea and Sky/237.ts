@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/237",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/237",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/237",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/237"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/237",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/237"
     },
     name: {
         en: "Mismagius ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunmagil-ex",
         "pt-br": "Mismagius ex",
         "zh-tw": "夢妖魔ex",
+        ja: "ムウマージex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Magica illusione",
                 "de": "Magische Täuschung",
                 "pt-br": "Ilusão Mágica",
-                "zh-tw": "魔法錯覺"
+                "zh-tw": "魔法錯覺",
+                ja: "マジカルトリップ"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

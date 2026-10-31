@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/137",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/137"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/137"
     },
     name: {
         en: "Spinda",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Spinda",
         "de": "Pandir",
         "pt-br": "Spinda",
-        "zh-tw": "晃晃斑"
+        "zh-tw": "晃晃斑",
+        ja: "パッチール"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il modello di spot di ogni Spinda è diverso. Con il suo\nmovimenti incerti, elude gli avversari\nattacca brillantemente!",
         "de": "Das Fleckenmuster jedes Spindas ist anders. Mit seinem\nstolpernde Bewegungen, es weicht den Gegnern aus\ngreift brillant an!",
         "pt-br": "O padrão de pontos de cada Spinda é diferente. Com seu\nmovimentos cambaleantes, ele evita os adversários\nataca brilhantemente!",
-        "zh-tw": "每個 Spinda 的斑點圖案都不同。以其\n動作跌跌撞撞，躲避對手\n攻擊華麗！"
+        "zh-tw": "每個 Spinda 的斑點圖案都不同。以其\n動作跌跌撞撞，躲避對手\n攻擊華麗！",
+        ja: "１匹ずつ ブチ模様は 異なる。 フラフラした 動きで 相手の 攻撃を 絶妙に かわすぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Passi in bilico",
                 "de": "Schwankende Schritte",
                 "pt-br": "Passos oscilantes",
-                "zh-tw": "搖搖欲墜的腳步"
+                "zh-tw": "搖搖欲墜的腳步",
+                ja: "フラフラステップ"
             },
             damage: 40,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon viene confuso.",
                 "de": "Dieses Pokémon ist jetzt verwirrt.",
                 "pt-br": "Este Pokémon agora está Confuso.",
-                "zh-tw": "這只神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "這只神奇寶貝現在處於混亂狀態。",
+                ja: "このポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

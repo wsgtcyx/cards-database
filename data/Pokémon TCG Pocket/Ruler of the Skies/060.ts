@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/060",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/060",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/060"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/060"
     },
     name: {
         en: "Helioptile",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Possiede un organo con cui genera energia\nelettrica fotovoltaica. Se viene disturbato mentre\nla produce, si stressa e si indebolisce.",
         de: "Es kann aus Sonnenlicht Elektrizität erzeugen.\nUnterbricht man es jedoch bei diesem Prozess,\nverliert es vor lauter Stress all seine Kraft.",
         "pt-br": "A eletricidade deste Pokémon é gerada através da luz solar. Se este processo for interrompido, Helioptile se estressará tanto que ficará enfraquecido.",
-        "zh-tw": "擁有太陽能發電的結構。\n如果有人打擾牠發電，\n牠就會因心理壓力而衰弱。"
+        "zh-tw": "擁有太陽能發電的結構。\n如果有人打擾牠發電，\n牠就會因心理壓力而衰弱。",
+        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Calcio Aereo",
                 de: "Sprungtritt",
                 "pt-br": "Voadora",
-                "zh-tw": "跳踢"
+                "zh-tw": "跳踢",
+                ja: "ジャンプキック"
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "對手的1隻寶可夢受到10點傷害。"
+                "zh-tw": "對手的1隻寶可夢受到10點傷害。",
+                ja: "相手のポケモン1匹に10ダメージ。"
             }
         }
     ],

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/217",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/217",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/217"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/217",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/217"
     },
     name: {
         en: "Absol",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A causa della sua capacità di percepire i disastri\nè stato considerato erroneamente un Pokémon\nportatore di disgrazie.",
         de: "Absol kann Gefahr verspüren, weshalb Menschen\nirrtümlicherweise dachten, dieses Pokémon\nbringe ihnen Unheil.",
         "pt-br": "Devido à capacidade deste Pokémon de detectar o perigo, as pessoas confundiram Absol com um portador da destruição.",
-        "zh-tw": "由於擁有察覺危險的能力，\n因此牠被人們誤解是\n會招來災禍的寶可夢。"
+        "zh-tw": "由於擁有察覺危險的能力，\n因此牠被人們誤解是\n會招來災禍的寶可夢。",
+        ja: "危険を 察知する 能力を 持つがゆえに 人からは 災いを もたらす ポケモンと 誤解された。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Artigli Nefasti",
                 de: "Unheilvolle Klaue",
                 "pt-br": "Garra Tenebrosa",
-                "zh-tw": "不祥之爪"
+                "zh-tw": "不祥之爪",
+                ja: "ふきつなツメ"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il tuo avversario rivela la sua mano. Scegli una carta Aiuto che trovi lì e scartala.",
                 de: "Wirf eine Münze. Bei „Kopf“ zeigt Ihr Gegner seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，你的對手就會亮出他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，你的對手就會亮出他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
+                ja: "コインを1回投げオモテなら、相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。"
             },
             damage: 50
         }

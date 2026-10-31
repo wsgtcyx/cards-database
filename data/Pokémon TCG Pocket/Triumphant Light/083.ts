@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/083"
     },
     name: {
         en: "Glaceon ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Glaceon-ex",
         de: "Glaziola-ex",
         'pt-br': "Glaceon ex",
+        ja: "グレイシアex",
         ko: "글레이시아 ex",
         "zh-tw": "冰伊布ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Terreno Innevato",
                 de: "Schneefeld",
                 'pt-br': "Terreno Nevado",
+                ja: "スノーフィールド",
                 ko: "스노 필드",
                 "zh-tw": "雪地"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Durante il controllo Pokémon, se questo Pokémon è in posizione attiva, infliggi 10 danni al Pokémon attivo del tuo avversario.",
                 de: "Wenn dieses Pokémon beim Pokémon-Check in der Aktiven Position ist, füge dem Aktiven Pokémon deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Durante o Checape Pokémon, se este Pokémon estiver no Campo Ativo, cause 10 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のバトルポケモンに10ダメージ。",
                 ko: "이 포켓몬이 배틀필드에 있는 한, 포켓몬 체크 때마다 상대의 배틀 포켓몬에게 10데미지를 준다.",
                 "zh-tw": "寶可夢檢查時，如果該寶可夢位於活躍位置，則對對手的活躍寶可夢造成 10 點傷害。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Ventogelido",
                 de: "Polarwind",
                 'pt-br': "Vento Gelado",
+                ja: "フリーズウインド",
                 ko: "프리즈윈드",
                 "zh-tw": "冰冷的風"
             },

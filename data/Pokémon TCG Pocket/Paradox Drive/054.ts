@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/054",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/054",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/054"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/054"
     },
     name: {
         en: "Gouging Fire",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Assomiglia ad un Pokémon inquietante mostrato una volta in una rivista sul paranormale. Si diceva che quel Pokémon fosse uno Entei rigenerato da un fossile.",
         de: "Es ähnelt einem unheimlichen Pokémon, das einmal in einer paranormalen Zeitschrift gezeigt wurde. Bei diesem Pokémon soll es sich um ein aus einem Fossil regeneriertes Entei gehandelt haben.",
         "pt-br": "Assemelha-se a um Pokémon misterioso que já foi mostrado em uma revista paranormal. Dizia-se que esse Pokémon era um Entei regenerado de um fóssil.",
-        "zh-tw": "它類似於超自然雜誌中曾經出現過的怪異寶可夢。據說那隻寶可夢是由化石再生的炎帝。"
+        "zh-tw": "它類似於超自然雜誌中曾經出現過的怪異寶可夢。據說那隻寶可夢是由化石再生的炎帝。",
+        ja: "化石から 復元された エンテイ と オカルト雑誌が 掲載した 怪しい ポケモンに 似ている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Interruzione rovente",
                 de: "Sengende Unterbrechung",
                 "pt-br": "Interrupção Escaldante",
-                "zh-tw": "炙火遮天"
+                "zh-tw": "炙火遮天",
+                ja: "あぶりさえぎる"
             },
             effect: {
                 en: "Discard 2 Energy from this Pokémon. During your opponent's next turn, this Pokémon takes -30 damage from attacks.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scarta due Energie da questo Pokémon. Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi.",
                 de: "Lege 2 Energien von diesem Pokémon ab. Während des nächsten Zuges deines Gegners erleidet dieses Pokémon -30 Schaden durch Angriffe.",
                 "pt-br": "Descarte 2 Energias deste Pokémon. Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
-                "zh-tw": "丟棄該寶可夢的 2 點能量。在對手的下一個回合中，這隻寶可夢受到的攻擊傷害為-30。"
+                "zh-tw": "丟棄該寶可夢的 2 點能量。在對手的下一個回合中，這隻寶可夢受到的攻擊傷害為-30。",
+                ja: "このポケモンからエネルギーを2個選び、トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-30する。"
             },
             damage: 100
         }

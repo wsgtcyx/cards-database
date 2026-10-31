@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/181",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/181",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/181",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/181"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/181",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/181"
     },
     name: {
         en: "Pidgeotto",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
+        ja: "ポッポ",
     },
     description: {
         en: "Very protective of its sprawling territorial area,\nthis Pokémon will fiercely peck at any intruder.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Molto protettivo nei confronti della sua vasta area territoriale,\nquesto Pokémon beccherà ferocemente qualsiasi intruso.",
         "de": "Sehr beschützerisch für sein weitläufiges Territorium,\nDieses Pokémon wird jeden Eindringling heftig angreifen.",
         "pt-br": "Muito protetor da sua extensa área territorial,\neste Pokémon bicará ferozmente qualquer intruso.",
-        "zh-tw": "非常保護其廣闊的領土面積，\n這只神奇寶貝會猛烈地啄食任何入侵者。"
+        "zh-tw": "非常保護其廣闊的領土面積，\n這只神奇寶貝會猛烈地啄食任何入侵者。",
+        ja: "広い 縄張りを 持っており 侵入する 邪魔者は 徹底的に つつかれてしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ala di velocità",
                 "de": "Geschwindigkeitsflügel",
                 "pt-br": "Asa de velocidade",
-                "zh-tw": "速度之翼"
+                "zh-tw": "速度之翼",
+                ja: "スピードウイング"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

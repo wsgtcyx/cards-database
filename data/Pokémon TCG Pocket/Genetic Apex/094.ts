@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/094"
     },
     name: {
         en: "Pikachu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pikachu",
         de: "Pikachu",
         'pt-br': "Pikachu",
+        ja: "ピカチュウ",
         ko: "피카츄",
         "zh-tw": "皮卡丘"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 'pt-br': "Roída",
+                ja: "かじる",
                 ko: "갉기",
                 "zh-tw": "啃"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
         de: "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
         'pt-br': "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+        ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
         ko: "양 볼에는 전기를 저장하는 주머니가 있다.\n화가 나면 저장한 전기를 단숨에 방출한다.",
         "zh-tw": "當它被激怒時，它會立即釋放臉頰眼袋中儲存的能量。"
     },

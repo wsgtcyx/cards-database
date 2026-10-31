@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/036"
     },
     name: {
         en: "Salazzle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Salazzle",
         de: "Amfira",
         'pt-br': "Salazzle",
+        ja: "エンニュート",
         ko: "염뉴트",
         "zh-tw": "焰后蜥",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Molunk",
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
+        ja: "ヤトウモリ",
     },
     description: {
         en: "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Trasforma gli avversari in seguaci stordendoli con del\ngas tossico per poi sedurli con movenze ammalianti.",
         de: "Zuerst benebelt es Gegner mit Giftgas, um sie\ndanach mit fesselnden Körperbewegungen zu\nbetören und zu ergebenen Dienern zu machen.",
         'pt-br': "Salazzle deixa os oponentes zonzos com seu\ngás venenoso, depois os cativa com movimentos\nfascinantes para transformá-los em servos leais.",
+        ja: "毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。",
         ko: "독가스에 어질어질해진 상대를\n요염한 몸놀림으로 유혹해서\n충실한 부하로 만들어 버린다.",
         "zh-tw": "薩拉茲用毒氣讓對手頭暈目眩，然後用誘人的動作迷惑他們，將他們變成忠誠的僕人。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Veleno Ardente",
                 de: "Glühendes Gift",
                 'pt-br': "Veneno Ardente",
+                ja: "ヒートポイズン",
                 ko: "히트포이즌",
                 "zh-tw": "加熱毒藥"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado y Quemado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato e bruciato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist verbrannt.",
+                ja: "相手のバトルポケモンをどくとやけどにする。",
                 ko: "상대의 배틀 포켓몬을 독과 화상으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado e Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在中毒並燃燒。"

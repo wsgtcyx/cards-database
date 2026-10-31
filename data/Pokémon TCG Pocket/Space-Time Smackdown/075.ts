@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/075"
     },
     name: {
         en: "Uxie",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Uxie",
         de: "Selfe",
         'pt-br': "Uxie",
+        ja: "ユクシー",
         ko: "유크시",
         "zh-tw": "由克希",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Noto come \"Essere della conoscenza\". Pare che\nfaccia perdere la memoria a chiunque lo fissi.",
         de: "\"Das wissende Wesen\". Es soll die Erinnerungen\nderer löschen, die ihm in die Augen sehen.",
         'pt-br': "Este Pokémon é conhecido como o ser de conhecimento\ne dizem que pode apagar a memória daqueles\nque veem os seus olhos.",
+        ja: "知識の神と 呼ばれている。 目を 合わせた 者の 記憶を 消してしまう 力を 持つという。",
         ko: "지식의 신이라 불리고 있다.\n눈을 마주친 사람의 기억을 지워\n버리는 힘을 가지고 있다고 한다.",
         "zh-tw": "被稱為“知識的存在”。據說\n它可以抹去那些看過的人的記憶\n它的眼睛。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Carica Mentale",
                 de: "Gedankenantrieb",
                 'pt-br': "Impulso Mental",
+                ja: "マインドブースト",
                 ko: "마인드부스트",
                 "zh-tw": "心靈提升"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Prendi un'Energia {P} dalla tua Zona Energia e assegnala a Mesprit o Azelf.",
                 de: "Lege 1 {P}-Energie aus deinem Energiebereich an Vesprit oder Tobutz an.",
                 'pt-br': "Pegue 1 Energia {P} da sua Zona de Energia e ligue-a a Mesprit ou Azelf.",
+                ja: "自分のエネルギーゾーンから{P}エネルギーを1個出し、「エムリット」または「アグノム」につける。",
                 ko: "자신의 에너지존에서 {P}에너지를 1개 내보내 「엠라이트」 또는 「아그놈」에게 붙인다.",
                 "zh-tw": "從你的能量區獲取 {P} 能量並將其附加到 Mesprit 或 Azelf 上。"
             }

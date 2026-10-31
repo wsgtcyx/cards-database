@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/064"
     },
     name: {
         en: "Seel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Seel",
         de: "Jurob",
         'pt-br': "Seel",
+        ja: "パウワウ",
         ko: "쥬쥬",
         "zh-tw": "小海獅",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Grazie al suo spesso strato di grasso nuota\ntranquillamente nell'acqua gelida. Nei mari\ncaldi rischia facilmente lo sfinimento.",
         de: "Kalte Meere machen ihm dank seiner dicken\nFettschicht nichts aus. Wärmere Gewässer\nsetzen ihm hingegen sehr zu.",
         'pt-br': "Graças a sua gordura, os mares gelados não\nincomodam este Pokémon, mas ele fica cansado\nfacilmente em águas mornas.",
+        ja: "分厚い 脂肪の おかげで 寒い 海も へっちゃらだけど 暖かい 海では ちょっと バテやすいのだ。",
         ko: "두꺼운 지방 덕분에\n추운 바다는 문제없지만\n따뜻한 바다에서 쉽게 지친다.",
         "zh-tw": "由於其脂肪很厚，寒冷的海水根本不會打擾它，但在溫暖的海水中它很容易感到疲倦。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/070"
     },
     name: {
         en: "Elekid",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Elekid",
         "pt-br": "Elekid",
         "zh-tw": "電擊怪",
+        ja: "エレキッド",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando si avvicina una tempesta, questo Pokémon ottiene\nirrequieto. Una volta che Elekid sente il suono del tuono,\ndiventa completamente turbolento.",
         "de": "Wenn ein Sturm naht, bekommt dieses Pokémon\nunruhig. Sobald Elekid das Geräusch des Donners hört,\nes wird richtig krawallig.",
         "pt-br": "Quando uma tempestade se aproxima, este Pokémon fica\ninquieto. Assim que Elekid ouve o som do trovão,\nfica totalmente turbulento.",
-        "zh-tw": "當暴風雨臨近時，這只神奇寶貝會得到\n焦躁不安。一旦埃萊克德聽到雷聲，\n它變得非常吵鬧。"
+        "zh-tw": "當暴風雨臨近時，這只神奇寶貝會得到\n焦躁不安。一旦埃萊克德聽到雷聲，\n它變得非常吵鬧。",
+        ja: "嵐が 近づくと 落ち着きが なくなる。 雷の 音が 聞こえると たまらず 騒ぎだす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Tiro Zappy",
                 "de": "Zappy Shot",
                 "pt-br": "Tiro Zappy",
-                "zh-tw": "活力射擊"
+                "zh-tw": "活力射擊",
+                ja: "ぴりぴりショット"
             },
             effect: {
                 en: "This attack does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹に20ダメージ。"
             }
         }],
     retreat: 0,

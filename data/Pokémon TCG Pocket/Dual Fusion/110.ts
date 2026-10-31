@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/110",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/110",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/110"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/110"
     },
     name: {
         en: "Porygon-Z",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Porygon2",
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
-        ja: "Porygon2",
+        ja: "ポリゴン2",
         ko: "Porygon2"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Turbosmash",
                 "pt-br": "Golpe Exaustivo",
                 "zh-tw": "超頻擊碎",
-                ja: "Overdrive Smash",
+                ja: "オーバースマッシュ",
                 ko: "Overdrive Smash"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Während deines nächsten Zuges fügt die Attacke Turbosmash von diesem Pokémon + 50 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Golpe Exaustivo deste Pokémon causará + 50 pontos de dano.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢「超頻擊碎」的傷害+50點。",
-                ja: "During your next turn, this Pokémon's Overdrive Smash attack does +50 damage.",
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+50する。",
                 ko: "During your next turn, this Pokémon's Overdrive Smash attack does +50 damage."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Um das Pokémon zu verbessern, wurde eine zusätzliche Software installiert, die aber offenbar fehlerhaft war. Seitdem bewegt es sich seltsam.",
         "pt-br": "Um programa adicional foi instalado para criar um Pokémon mais avançado, mas parece que estava defeituoso. Porygon-Z se move de forma estranha por causa disso.",
         "zh-tw": "以成為更優秀的寶可夢為目標所新追加的程式好像狀況不佳，使得動作變得很奇怪。",
-        ja: "An additional program was installed to create a more advanced Pokémon, but it was apparently flawed. Porygon-Z moves oddly as a result.",
+        ja: "さらに 優れた ポケモンを 目指し 追加した プログラムに 不具合が あったらしく 動きが おかしい。",
         ko: "An additional program was installed to create a more advanced Pokémon, but it was apparently flawed. Porygon-Z moves oddly as a result."
     }
 };

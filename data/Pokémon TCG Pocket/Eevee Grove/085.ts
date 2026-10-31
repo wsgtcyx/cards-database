@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/085",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/085"
     },
     name: {
         en: "Hau",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tali",
         "pt-br": "Hibi",
         "zh-tw": "哈烏",
+        ja: "ハウ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante questo turno, gli attacchi usati dal tuo Decidueye ex, Incineroar ex o Primarina ex infliggono +30 danni al Pokémon attivo del tuo avversario.",
         "de": "Während dieser Runde fügen Angriffe deines Decidueye-Ex, Incineroar-Ex oder Primarina-Ex dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
         "pt-br": "Durante este turno, os ataques usados ​​pelo seu Decidueye ex, Incineroar ex ou Primarina ex causam +30 de dano ao Pokémon Ativo do seu oponente.",
-        "zh-tw": "這個回合中，你的決斗眼超級、焚火吼超級、原體超級的攻擊對對手的現役寶可夢造成 +30 點傷害。"
+        "zh-tw": "這個回合中，你的決斗眼超級、焚火吼超級、原體超級的攻擊對對手的現役寶可夢造成 +30 點傷害。",
+        ja: "この番、自分の「ジュナイパーex」「ガオガエンex」「アシレーヌex」が使うワザの、相手のバトルポケモンへのダメージを+30する。"
     },
     trainerType: "Supporter"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/024"
     },
     name: {
         en: "Cherrim",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kinoso",
         "pt-br": "Cherrim",
         "zh-tw": "櫻花兒",
+        ja: "チェリム",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kikugi",
         "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
+        ja: "チェリンボ",
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dopo aver assorbito molta luce solare, Cherrim prende\nquesto modulo. È pieno di energia mentre è così,\ne la sua vivacità durerà fino al tramonto.",
         "de": "Nachdem Cherrim viel Sonnenlicht absorbiert hat, nimmt er es auf\ndieses Formular. Es ist voller Energie, während es so ist,\nund seine Lebendigkeit wird bis zum Sonnenuntergang anhalten.",
         "pt-br": "Depois de absorver bastante luz solar, Cherrim leva\neste formulário. Está cheio de energia enquanto está assim,\ne sua vivacidade continuará até o pôr do sol.",
-        "zh-tw": "吸收充足的陽光後，Cherrim 採取\n這種形式。這樣一來就充滿了能量，\n它的熱鬧將會持續到日落。"
+        "zh-tw": "吸收充足的陽光後，Cherrim 採取\n這種形式。這樣一來就充滿了能量，\n它的熱鬧將會持續到日落。",
+        ja: "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bomba di semi",
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
-                "zh-tw": "種子炸彈"
+                "zh-tw": "種子炸彈",
+                ja: "タネばくだん"
             },
             damage: 40,
             cost: ["Colorless"]

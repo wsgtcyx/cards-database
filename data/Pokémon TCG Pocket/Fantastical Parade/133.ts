@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/133",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/133"
     },
     name: {
         en: "Swellow",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Swellow",
         "de": "Schwalboss",
         "pt-br": "Swellow",
-        "zh-tw": "大王燕"
+        "zh-tw": "大王燕",
+        ja: "オオスバメ"
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Taillow",
         "de": "Schwalbini",
         "pt-br": "Taillow",
-        "zh-tw": "傲骨燕"
+        "zh-tw": "傲骨燕",
+        ja: "スバメ"
     },
     description: {
         en: "It dives at a steep angle as soon as it spots its\nprey. It catches its prey with sharp claws.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si tuffa con un angolo ripido non appena lo vede\npreda. Cattura la preda con artigli affilati.",
         "de": "Es taucht in einem steilen Winkel ab, sobald es es entdeckt\nBeute. Es fängt seine Beute mit scharfen Krallen.",
         "pt-br": "Ele mergulha em um ângulo íngreme assim que avista seu\npresa. Ele captura suas presas com garras afiadas.",
-        "zh-tw": "一旦發現它的踪跡，它就會以陡峭的角度俯衝\n獵物。它用鋒利的爪子捕捉獵物。"
+        "zh-tw": "一旦發現它的踪跡，它就會以陡峭的角度俯衝\n獵物。它用鋒利的爪子捕捉獵物。",
+        ja: "森に 住む 獲物を 見つけると 上空から 急降下。 鋭い ツメで 捕まえる。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Respingere il vento",
                 "de": "Wind abwehren",
                 "pt-br": "Repelindo o Vento",
-                "zh-tw": "驅風"
+                "zh-tw": "驅風",
+                ja: "むしよけウインド"
             },
             effect: {
                 en: "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi mettere in panchina il Pokémon Base attivo del tuo avversario. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
                 "de": "Einmal während deines Zuges kannst du das Aktive Basis-Pokémon deines Gegners auf die Bank tauschen. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar o Pokémon Básico Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "在你的回合中，你可以將對手的活躍基礎神奇寶貝移至替補席上一次。 （你的對手選擇新的活躍神奇寶貝。）"
+                "zh-tw": "在你的回合中，你可以將對手的活躍基礎神奇寶貝移至替補席上一次。 （你的對手選擇新的活躍神奇寶貝。）",
+                ja: "自分の番に1回使える。相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Attacco d'ala",
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
-                "zh-tw": "翼攻擊"
+                "zh-tw": "翼攻擊",
+                ja: "つばさでうつ"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/120",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/120",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/120"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/120",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/120"
     },
     name: {
         en: "Heatran",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heatran",
         de: "Heatran",
         'pt-br': "Heatran",
+        ja: "ヒードラン",
         ko: "히드런",
         "zh-tw": "席多藍恩",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive nelle cavità dei vulcani. Scava con i suoi piedi\na croce per scalare pareti e arrampicarsi sui soffitti.",
         de: "Es lebt in vulkanischen Höhlen. Mit seinen kreuzförmigen\nKlauen kann es sogar an der Decke laufen.",
         'pt-br': "Ele habita crateras vulcânicas. Ele escava com seus pés\nem forma de cruz para rastejar em telhados e paredes.",
+        ja: "火山の 洞穴に 生息。 十字の ツメを 食いこませて 壁や 天井を はい回る。",
         ko: "화산의 동굴에서 서식한다.\n십자형의 발톱을 박아서\n벽이나 천장을 돌아다닌다.",
         "zh-tw": "它棲息在火山洞穴中。它用十字形的腳挖洞，在天花板和牆壁上爬行。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ferrazione",
                 de: "Stahltackle",
                 'pt-br': "Colisão de Aço",
+                ja: "こうてつタックル",
                 ko: "강철태클",
                 "zh-tw": "鋼製漁具"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+                ja: "このポケモンにも20ダメージ。",
                 ko: "이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/377",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/377",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/377",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/377"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/377",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/377"
     },
     name: {
         en: "Elegant Cape",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Das Phase-1-Pokémon, an das diese Karte angelegt ist, erhält +30 KP.",
         "pt-br": "O Pokémon Estágio 1 ao qual esta carta está ligada recebe +30 PS.",
         "zh-tw": "附有這張卡的1階進化寶可夢的最大HP+30。",
-        ja: "The Stage 1 Pokémon this card is attached to gets +30 HP.",
+        ja: "このカードをつけている1進化ポケモンの最大HPを+30する。",
         ko: "The Stage 1 Pokémon this card is attached to gets +30 HP."
     },
     trainerType: "Tool"

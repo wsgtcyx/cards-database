@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/025"
     },
     name: {
         en: "Vulpix",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vulpix",
         "de": "Vulpix",
         "pt-br": "Vulpix",
-        "zh-tw": "六尾"
+        "zh-tw": "六尾",
+        ja: "ロコン"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Da giovane ha sei splendide code. Quando\ncresce, spuntano diverse nuove code.",
         "de": "Als junges Tier hat es sechs wunderschöne Schwänze. Wenn es\nwächst, mehrere neue Schwänze sprießen.",
         "pt-br": "Enquanto jovem, tem seis lindas caudas. Quando\ncresce, várias novas caudas brotam.",
-        "zh-tw": "年輕時，它有六條華麗的尾巴。當它\n長大了，又長出了幾條新的尾巴。"
+        "zh-tw": "年輕時，它有六條華麗的尾巴。當它\n長大了，又長出了幾條新的尾巴。",
+        ja: "子どもだが ６本の しっぽが 美しい。 成長すると さらに しっぽが 増える。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Carbone vivo",
                 "de": "Lebende Kohle",
                 "pt-br": "Carvão Vivo",
-                "zh-tw": "生煤"
+                "zh-tw": "生煤",
+                ja: "ひだね"
             },
             damage: 30,
             cost: ["Fire", "Colorless"]

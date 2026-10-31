@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/045"
     },
     name: {
         en: "Flareon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Flareon",
         de: "Flamara",
         'pt-br': "Flareon",
+        ja: "ブースター",
         ko: "부스터",
         "zh-tw": "火伊布",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     attacks: [{
             cost: ["Fire", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Lanciafiamme",
                 de: "Flammenwurf",
                 'pt-br': "Lança-chamas",
+                ja: "かえんほうしゃ",
                 ko: "화염방사",
                 "zh-tw": "噴火器"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 1 個 {R} 能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "L'aria che inspira si infiamma passando per la\nsacca ardente che ha nel corpo, per poi essere\nespirata alla temperatura di 1.700 ºC.",
         de: "Es speichert Atemluft in einem Flammensack.\nDort erhitzt es sie auf 1700 °C, um sie als\nFlammen auszuspucken.",
         'pt-br': "O ar inalado é transportado para sua bolsa\nde chamas, aquecido e exalado quando\no fogo atinge mais de 1600 ºC.",
+        ja: "吸いこんだ 空気を 体内の 炎袋に 送りこみ 1700度の 炎にして 吹く。",
         ko: "들이마신 공기를 체내의\n불꽃 주머니에 보내\n1700도의 불꽃으로 내뿜는다.",
         "zh-tw": "吸入的空氣被帶到其火囊中，被加熱，並以高達 3,000 華氏度以上的火焰的形式呼出。"
     },

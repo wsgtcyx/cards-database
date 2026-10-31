@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/032"
     },
     name: {
         en: "Charmander",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Charmander",
         it: "Charmander",
         de: "Glumanda",
+        ja: "ヒトカゲ",
         ko: "파이리",
         'pt-br': "Charmander",
         "zh-tw": "小火龍"
@@ -32,6 +34,7 @@ const card: Card = {
         es: "Prefiere las cosas calientes. Dicen que cuando\nllueve le sale vapor de la punta de la cola.",
         it: "Ama le cose calde. Si dice che quando piove\ngli esca vapore dalla punta della coda.",
         de: "Dieses Pokémon bevorzugt heiße Dinge.\nBei Regen soll seine Schwanzspitze dampfen.",
+        ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。",
         ko: "뜨거운 것을 좋아하는 성격이다.\n비에 젖으면 꼬리 끝에서\n연기가 난다고 한다.",
         'pt-br': "Prefere coisas quentes. Quando chove, dizem\nque solta vapor pela ponta de sua cauda.",
         "zh-tw": "它對熱的東西有偏愛。下雨的時候，\n據說蒸汽從它的尾尖噴出。"
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Ascuas",
                 it: "Braciere",
                 de: "Glut",
+                ja: "ひのこ",
                 ko: "불꽃세례",
                 'pt-br': "Brasa",
                 "zh-tw": "餘燼"
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Descarta 1 Energía {R} de este Pokémon.",
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/061",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/061",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/061"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/061"
     },
     name: {
         en: "Furfrou",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se non viene tagliato, il suo pelo continua\na crescere a dismisura. Si lascia tosare\nsolamente dalle persone di cui si fida.",
         de: "Trimmt man sein Fell nicht regelmäßig, wächst es\nohne Unterlass. Allerdings lässt es sich nur von\njemandem frisieren, dem es traut.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais, mas só permitirá que alguém de sua confiança o corte.",
-        "zh-tw": "如果放著不管，體毛就會\n不斷變長，但牠只允許\n信賴的人幫自己修剪。"
+        "zh-tw": "如果放著不管，體毛就會\n不斷變長，但牠只允許\n信賴的人幫自己修剪。",
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Foltopelo",
                 de: "Fellkleid",
                 "pt-br": "Casaco de pele",
-                "zh-tw": "毛皮大衣"
+                "zh-tw": "毛皮大衣",
+                ja: "ファーコート"
             },
             effect: {
                 en: "This Pokémon takes -20 damage from attacks.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe -20 pontos de dano de ataques.",
-                "zh-tw": "該寶可夢受到的攻擊傷害為 -20。"
+                "zh-tw": "該寶可夢受到的攻擊傷害為 -20。",
+                ja: "このポケモンが受けるワザのダメージを-20する。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Doppia testata",
                 de: "Doppelter Kopfstoß",
                 "pt-br": "Cabeçada Dupla",
-                "zh-tw": "二連頭錘"
+                "zh-tw": "二連頭錘",
+                ja: "にどずつき"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads.",
@@ -81,7 +86,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。"
             },
             damage: "30x"
         }

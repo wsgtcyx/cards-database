@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/031"
     },
     name: {
         en: "Mew",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mew",
         de: "Mew",
         'pt-br': "Mew",
+        ja: "ミュウ",
         ko: "뮤",
         "zh-tw": "夢幻",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Poiché sa usare qualsiasi mossa,\nmolti scienziati ritengono che Mew\nsia l'antenato di tutti i Pokémon.",
         de: "Es beherrscht alle möglichen Attacken, daher sieht\nman in ihm den Vorfahren aller Pokémon.",
         'pt-br': "Como pode usar todos os tipos de movimentos,\nmuitos cientistas acreditam que Mew seja\no ancestral dos Pokémon.",
+        ja: "あらゆる 技を 使うため ポケモンの 先祖と 考える 学者が たくさん いる。",
         ko: "모든 기술을 사용하기 때문에\n포켓몬의 조상이라고 생각하는\n학자가 많다.",
         "zh-tw": "因為它可以使用各種招式，許多科學家認為喵是神奇寶貝的祖先。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Psicosoffiata",
                 de: "Psycho-Offenlegung",
                 'pt-br': "Relatório Psíquico",
+                ja: "サイコリポート",
                 ko: "사이코리포트",
                 "zh-tw": "心理報告"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Il tuo avversario mostra le carte che ha in mano.",
                 de: "Dein Gegner zeigt dir seine Handkarten.",
                 'pt-br': "Seu oponente revela a mão dele.",
+                ja: "相手の手札のオモテをすべて見る。",
                 ko: "상대의 패의 앞면을 모두 본다.",
                 "zh-tw": "你的對手亮出了他們的牌。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/079",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/079",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/079"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/079"
     },
     name: {
         en: "Lechonk",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Ferkuli",
         "pt-br": "Lechonk",
         "zh-tw": "愛吃豚",
+        ja: "グルトン",
         pt: "Lechonk",
         'es-mx': "Lechonk"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Questo Pokémon disprezza tutto tranne il cibo più pregiato. Il suo corpo emana un profumo erbaceo che i Pokémon insetti detestano.",
         "de": "Dieses Pokémon verschmäht alles außer den besten Nahrungsmitteln. Sein Körper verströmt einen kräuterartigen Duft, den Käfer-Pokémon verabscheuen.",
         "pt-br": "Este Pokémon rejeita todos os alimentos, exceto os melhores. Seu corpo exala um cheiro de erva que os Pokémon insetos detestam.",
-        "zh-tw": "這種寶可夢拒絕一切食物，除了最好的食物。它的身體散發出寶可夢討厭的草本氣味。"
+        "zh-tw": "這種寶可夢拒絕一切食物，除了最好的食物。它的身體散發出寶可夢討厭的草本氣味。",
+        ja: "選りすぐりの エサしか 食べない。 体から 虫ポケモンが 嫌う ハーブのような 香りを 放つ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,7 +50,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Colorless"],

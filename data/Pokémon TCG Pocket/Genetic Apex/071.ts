@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/071"
     },
     name: {
         en: "Seadra",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Seadra",
         de: "Seemon",
         'pt-br': "Seadra",
+        ja: "シードラ",
         ko: "시드라",
         "zh-tw": "海刺龍",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Horsea",
         "de": "Seeper",
         "pt-br": "Horsea",
-        "zh-tw": "墨海馬"
+        "zh-tw": "墨海馬",
+        ja: "タッツー"
     },
     attacks: [{
             cost: ["Water", "Water", "Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Idrofreccia",
                 de: "Wasserpfeil",
                 'pt-br': "Flecha d'Água",
+                ja: "ウォーターアロー",
                 ko: "워터애로",
                 "zh-tw": "水箭"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に50ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 50데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
             }
@@ -71,6 +76,7 @@ const card: Card = {
         it: "Il maschio si occupa dei piccoli. Quando li alleva, il\nveleno degli aculei dorsali diventa denso e potente.",
         de: "Männlichen Seemon obliegt es, den Nachwuchs\ngroßzuziehen. In diesem Zeitraum ist das Gift in\nihren Rückenstacheln stärker und dickflüssiger.",
         'pt-br': "São os machos que cuidam das crias. Enquanto\nSeadra criam os mais jovens, os espinhos em suas\ncostas secretam um veneno mais grosso e potente.",
+        ja: "オスが 子どもを 育てる。 子育て中は 背中の トゲの 毒素が 強く 濃くなるのだ。",
         ko: "수컷이 새끼를 기른다.\n새끼를 기르는 동안 등에 난\n가시의 독소는 강해지고 짙어진다.",
         "zh-tw": "養育後代的是雄性。當海德拉撫養幼崽時，它們背上的刺會分泌出更濃烈的毒液。"
     },

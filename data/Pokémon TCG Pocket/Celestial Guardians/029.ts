@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/029"
     },
     name: {
         en: "Talonflame",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Talonflame",
         de: "Fiaro",
         'pt-br': "Talonflame",
+        ja: "ファイアロー",
         ko: "파이어로",
         "zh-tw": "烈箭鷹",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Dartignis",
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
+        ja: "ヒノヤコマ",
     },
     description: {
         en: "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Le sue capacità di volo sono stupefacenti.\nRiesce a volare con estrema facilità anche\ndopo aver afferrato una preda di oltre 100 kg.",
         de: "Es verfügt über erstklassige Flugfertigkeiten und kann\nselbst mit ergriffener Beute, die mehr als 100 kg wiegt,\nproblemlos umherfliegen.",
         'pt-br': "Suas técnicas de voo são de alto nível. Voa facilmente,\nmesmo carregando uma presa de quase 100 kg.",
+        ja: "飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。",
         ko: "비행 능력은 톱클래스다.\n100kg 이상의 먹이를 잡은 채로도\n가뿐히 날아다닌다.",
         "zh-tw": "它具有一流的飛行能力。即使攜帶重量超過 220 磅的獵物，它也能輕鬆飛行。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Alafiamma",
                 de: "Feuerflügel",
                 'pt-br': "Asa de Fogo",
+                ja: "ほのおのつばさ",
                 ko: "불꽃날개",
                 "zh-tw": "火翼"
             },

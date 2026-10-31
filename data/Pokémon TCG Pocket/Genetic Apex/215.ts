@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/215",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/215"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/215"
     },
     name: {
         en: "Dubwool",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dubwool",
         de: "Zwollock",
         'pt-br': "Dubwool",
+        ja: "バイウールー",
         ko: "배우르",
         "zh-tw": "毛毛角羊",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Wooloo",
         "de": "Wolly",
         "pt-br": "Wooloo",
-        "zh-tw": "毛辮羊"
+        "zh-tw": "毛辮羊",
+        ja: "ウールー"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "I tappeti realizzati con i suoi peli sono\ntalmente elastici che saltandoci sopra\nsi rimbalza come su un trampolino.",
         de: "Spannt man einen aus den elastischen Haaren\nvon Zwollock gewobenen Teppich auf, kann man\ndarauf hüpfen wie auf einem Trampolin.",
         'pt-br': "Tece um tapete feito de sua lã elástica, e o resultado\né algo semelhante a um trampolim. Você começará\na pular assim que pisar nele.",
+        ja: "弾力の ある 毛で 織った カーペットは トランポリンみたいで 乗れば ピョンピョン 跳ねるのだ。",
         ko: "탄력 있는 털로 짜낸\n카펫은 트램펄린 같아서\n올라가면 통통 튀어 오르게 된다.",
         "zh-tw": "用有彈性的羊毛編織地毯，最終會得到更接近蹦床的東西。當你踏上它的那一刻，你就會開始彈跳。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/127"
     },
     name: {
         en: "Kommo-o",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kommo-o",
         de: "Grandiras",
         'pt-br': "Kommo-o",
+        ja: "ジャラランガ",
         ko: "짜랑고우거",
         "zh-tw": "杖尾鱗甲龍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Mediras",
         "pt-br": "Hakamo-o",
         "zh-tw": "鱗甲龍",
+        ja: "ジャランゴ",
     },
     description: {
         en: "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando si imbatte in un nemico, fa risuonare le squame della\ncoda per spaventarlo. Lotta solo contro chi non si lascia intimorire.",
         de: "Trifft es auf einen Gegner, rasselt es drohend mit\nseinen Schwanzschuppen. Nur wenn dieser davon\nunbeeindruckt bleibt, kämpft es mit ihm.",
         'pt-br': "Bate as escamas da cauda para perturbar seus oponentes.\nEste Pokémon só batalha contra aqueles que não\nse deixam abalar por essa demonstração.",
+        ja: "敵に 出会うと しっぽの ウロコを 打ち鳴らし 威嚇。 怖気づかない 強者だけを 相手に 戦う。",
         ko: "상대와 마주치면 꼬리의 비늘로\n소리를 내어 위협한다. 이에 겁먹지 않은\n강자만을 상대로 싸운다.",
         "zh-tw": "它會敲打尾部鱗片來​​震懾對手。這只神奇寶貝只會與那些在這場展示面前堅定不移的人戰鬥。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Clamorsquame",
                 de: "Schuppenrasseln",
                 'pt-br': "Batida de Escamas",
+                ja: "スケイルノイズ",
                 ko: "스케일노이즈",
                 "zh-tw": "叮噹作響的鱗片"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce +30 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken + 30 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá +30 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを+30する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 +30한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害+30。"
             }

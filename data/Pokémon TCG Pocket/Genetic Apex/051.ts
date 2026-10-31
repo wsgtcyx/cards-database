@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/051"
     },
     name: {
         en: "Sizzlipede",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sizzlipede",
         de: "Thermopod",
         'pt-br': "Sizzlipede",
+        ja: "ヤクデ",
         ko: "태우지네",
         "zh-tw": "燒火蚣",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 'pt-br': "Roída",
+                ja: "かじる",
                 ko: "갉기",
                 "zh-tw": "啃"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Genera calore grazie ai gas combustibili\naccumulati nel suo corpo. Le parti gialle\ndel suo addome sono particolarmente calde.",
         de: "Mit dem entzündlichen Gas in seinem Körper\nerzeugt es Hitze. Die gelben Stellen an seinem\nBauch werden besonders heiß.",
         'pt-br': "Seu corpo armazena gás inflamável, que usa para\ngerar calor. As marcas amarelas na sua barriga\nficam especialmente quentes.",
+        ja: "体に 溜めた 可燃ガスで 発熱。 とくに お腹の 黄色い 部分が 熱いのだ。",
         ko: "몸속에 모아둔 가연성 가스로\n열을 낸다. 특히 배 쪽의\n노란 부분이 뜨겁다.",
         "zh-tw": "它在體內儲存可燃氣體並用它來產生熱量。它腹部的黃色部分變得特別熱。"
     },

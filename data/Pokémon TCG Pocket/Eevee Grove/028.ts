@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/028"
     },
     name: {
         en: "Espeon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Psiana",
         "pt-br": "Espeon",
         "zh-tw": "太陽伊布",
+        ja: "エーフィ",
     },
     illustrator: "Ryota Murayama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La punta della coda biforcuta trema quando lo è\nprevedere la prossima mossa del suo avversario.",
         "de": "Die Spitze seines gegabelten Schwanzes zittert, wenn er in Bewegung ist\nden nächsten Zug seines Gegners vorherzusagen.",
         "pt-br": "A ponta de sua cauda bifurcada estremece quando é\nprevendo o próximo movimento do seu oponente.",
-        "zh-tw": "它的分叉尾巴尖端會在它顫抖時顫抖\n預測對手的下一步行動。"
+        "zh-tw": "它的分叉尾巴尖端會在它顫抖時顫抖\n預測對手的下一步行動。",
+        ja: "相手の 動きを 予知するとき ふたまたに なっている 尻尾の 先は 微妙に 揺れている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Schiacciamento energetico",
                 "de": "Energie-Crush",
                 "pt-br": "Esmagamento de energia",
-                "zh-tw": "能量粉碎"
+                "zh-tw": "能量粉碎",
+                ja: "エナジークラッシュ"
             },
             damage: "20×",
             cost: ["Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni per ogni Energia assegnata a tutti i Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 20 Schadenspunkte für jede Energie zu, die an alle Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente.",
-                "zh-tw": "對手所有寶可夢身上所附加的能量每有 1 點，此攻擊就會造成 20 點傷害。"
+                "zh-tw": "對手所有寶可夢身上所附加的能量每有 1 點，此攻擊就會造成 20 點傷害。",
+                ja: "相手のポケモン全員のエネルギーの数×20ダメージ。"
             }
         }],
     weaknesses: [{

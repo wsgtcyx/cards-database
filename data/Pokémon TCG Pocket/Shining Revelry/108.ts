@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/108",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/108"
     },
     name: {
         en: "Charizard ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Charizard-ex",
         de: "Glurak-ex",
         'pt-br': "Charizard ex",
+        ja: "リザードンex",
         ko: "리자몽 ex",
         "zh-tw": "噴火龍ex"
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "火恐龍"
+        "zh-tw": "火恐龍",
+        ja: "リザード"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
             it: "Attizzatoio",
             de: "Anheizen",
             'pt-br': "Carregar",
+            ja: "もえあがる",
             ko: "타오르기",
             "zh-tw": "斯托克"
         },
@@ -55,6 +59,7 @@ const card: Card = {
             it: "Prendi 3 Energie {R} dalla tua Zona Energia e assegnale a questo Pokémon.",
             de: "Lege 3 {R}-Energien aus deinem Energiebereich an dieses Pokémon an.",
             'pt-br': "Pegue 3 Energias {R} da sua Zona de Energia e ligue-as a este Pokémon.",
+            ja: "自分のエネルギーゾーンから{R}エネルギーを3個出し、このポケモンにつける。",
             ko: "자신의 에너지존에서 {R}에너지를 3개 내보내 이 포켓몬에게 붙인다.",
             "zh-tw": "從你的能量區取出 3 個 {R} 能量並將其附加到這只神奇寶貝身上。"
         }
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Artiglieria Vapore",
             de: "Dampfgeschütz",
             'pt-br': "Artilharia de Vapor",
+            ja: "ばくねつほう",
             ko: "타오르는대포",
             "zh-tw": "蒸汽火砲"
         },

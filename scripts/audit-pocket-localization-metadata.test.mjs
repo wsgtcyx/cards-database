@@ -141,3 +141,35 @@ test('metadata audit reports structural TypeScript failures as machine JSON', ()
 		fs.rmSync(fixture.root, { recursive: true, force: true })
 	}
 })
+
+test('Japanese inventory is explicit and does not silently pass an unsupported locale', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const result = run(fixture, ['--locales', 'ja'])
+  const report = JSON.parse(result.stdout)
+  assert.equal(result.status, 2)
+  assert.deepEqual(report.targetLocales, ['ja'])
+  assert.equal(report.summary.missingValues, 8)
+  assert.ok(report.issues.every(issue => issue.locale === 'ja'))
+  assert.equal(run(fixture, ['--locales', 'jp']).status, 1)
+  assert.equal(run(fixture, ['--locales', 'ja,ja']).status, 1)
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
+test('Japanese audit rejects English rules and unresolved game tags', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const file = path.join(fixture.root, 'data/Pocket/Fixture Set/001.ts')
+  fs.writeFileSync(file, `const card = {
+    name: { en: "Bulbasaur", ja: "フシギダネ" },
+    image: { en: "https://example.invalid/en/001", ja: "https://example.invalid/en/001" },
+    attacks: [{ name: { en: "Tackle", ja: "たいあたり" }, effect: { en: "Draw 1 card.", ja: "Draw 1 card." } }],
+    description: { en: "Seed Pokemon", ja: '[Text:CardName id="0"]' }
+  }; export default card`)
+  const report = JSON.parse(run(fixture, ['--locales', 'ja']).stdout)
+  assert.ok(report.issues.some(issue => issue.path === 'attacks[0].effect' && issue.kind === 'english-fallback'))
+  assert.ok(report.issues.some(issue => issue.path === 'description' && issue.kind === 'unresolved-markup'))
+  assert.ok(report.issues.some(issue => issue.path === 'image' && issue.kind === 'image-fallback'))
+  assert.ok(!report.issues.some(issue => issue.scope === 'card' && issue.path === 'name'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/038"
     },
     name: {
         en: "Misdreavus",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Misdreavus",
         de: "Traunfugil",
         'pt-br': "Misdreavus",
+        ja: "ムウマ",
         ko: "무우마",
         "zh-tw": "夢妖",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         it: "Un Pokémon che terrorizza la gente nel cuore della\nnotte. Assorbe la paura per usarla come energia.",
         de: "Ein Pokémon, das Menschen mitten in der Nacht\nerschreckt. Es sammelt die Angst als seine Energie.",
         'pt-br': "Este Pokémon assusta pessoas no meio da noite.\nAcumula o medo para usar como energia.",
+        ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。",
         ko: "한밤중에 사람을 놀라게 하고\n무서워하는 마음을 모아 자신의\n에너지로 만드는 포켓몬이다.",
         "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Stordiraggio",
                 de: "Konfusstrahl",
                 'pt-br': "Raio da Confusão",
+                ja: "あやしいひかり",
                 ko: "이상한빛",
                 "zh-tw": "迷惑雷"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"

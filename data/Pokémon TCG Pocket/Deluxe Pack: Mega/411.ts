@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/411",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/411",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/411",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/411"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/411",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/411"
     },
     name: {
         en: "Mega Charizard X ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "Charmeleon",
+        ja: "リザード",
         ko: "Charmeleon"
     },
     stage: "Stage2",
@@ -60,7 +61,7 @@ const card: Card = {
                 de: "Wütender Brand",
                 "pt-br": "Labareda Violenta",
                 "zh-tw": "激狂火焰",
-                ja: "Raging Blaze",
+                ja: "レイジングブレイズ",
                 ko: "Raging Blaze"
             },
             effect: {
@@ -71,7 +72,7 @@ const card: Card = {
                 de: "Wenn die verbleibenden KP dieses Pokémon 110 oder weniger betragen, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se o PS restante deste Pokémon for 110 ou menos, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢的剩餘HP為110以下,則增加80點傷害。",
-                ja: "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage.",
+                ja: "このポケモンの残りHPが110以下なら、80ダメージ追加。",
                 ko: "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
             },
             damage: "100+"

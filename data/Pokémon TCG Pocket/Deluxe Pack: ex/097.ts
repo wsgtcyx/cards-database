@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/097",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/097"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/097"
     },
     name: {
         en: "Magikarp",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     illustrator: "Mitsuhiro Arita",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un Pokémon sottodimensionato e patetico. Potrebbe\nsaltare in alto in rare occasioni ma mai di più\npiù di sette piedi.",
         "de": "Ein schwaches, erbärmliches Pokémon. Es kann sein\nSpringe in seltenen Fällen hoch, aber nie öfter\nals sieben Fuß.",
         "pt-br": "Um Pokémon patético e pouco poderoso. Pode\npular alto em raras ocasiões, mas nunca mais\ndo que sete pés.",
-        "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。"
+        "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。",
+        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Salta fuori",
                 "de": "Spring raus",
                 "pt-br": "Salte",
-                "zh-tw": "跳出"
+                "zh-tw": "跳出",
+                ja: "はねにげ"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

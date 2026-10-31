@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/189",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/189",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/189"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/189",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/189"
     },
     name: {
         en: "Grovyle",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Geckarbor",
         "pt-br": "Treecko",
         "zh-tw": "木守宮",
-        ja: "Treecko",
+        ja: "キモリ",
         ko: "Treecko"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Hinterhältige Klinge",
                 "pt-br": "Disparo Afiado",
                 "zh-tw": "狙擊刀鋒",
-                ja: "Slicing Snipe",
+                ja: "スナイプエッジ",
                 ko: "Slicing Snipe"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢受到50點傷害。",
-                ja: "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン1匹に50ダメージ。",
                 ko: "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Es verfügt über eine erstaunliche Sprungkraft und bewegt sich auf hohen Bäumen mit Leichtigkeit von Ast zu Ast fort.",
         "pt-br": "Grovyle salta de galho em galho em grandes árvores com total facilidade, impulsionando-se com velocidade e força impressionantes.",
         "zh-tw": "會在大樹的枝頭間靈巧地跳躍移動。爆發力十分驚人。",
-        ja: "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force.",
+        ja: "大木の 枝から枝へ 身軽に 飛び移り 移動する。 驚異的な 瞬発力。",
         ko: "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force."
     }
 };

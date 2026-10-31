@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/032",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/032"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/032"
     },
     name: {
         en: "Grumpig",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Amplifica i suoi poteri psichici con le sue perle nere.\nSi esibisce anche in danze bizzarre per controllare\ni suoi nemici.",
         de: "Mit schwarzen Perlen verstärkt es seine Psycho-Kräfte.\nMit einem Tanz kontrolliert es seine Gegner.",
         "pt-br": "Ele usa pérolas negras para amplificar seu poder psíquico. Faz uma dança estranha para controlar as mentes dos inimigos.",
-        "zh-tw": "它使用黑珍珠來增強自己的精神力量。它透過一種奇怪的舞蹈來控制敵人的思想。"
+        "zh-tw": "它使用黑珍珠來增強自己的精神力量。它透過一種奇怪的舞蹈來控制敵人的思想。",
+        ja: "黒真珠で サイコパワーを 強め 奇妙な ステップで 相手の 心を 操るぞ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Danza Bizzarra",
                 de: "Wiegender Tanz",
                 "pt-br": "Dança Oscilante",
-                "zh-tw": "晃晃舞"
+                "zh-tw": "晃晃舞",
+                ja: "ゆさぶるダンス"
             },
             effect: {
                 en: "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se il tuo avversario ha esattamente 2, 4 o 6 carte in mano, questo attacco infligge 40 danni in più.",
                 de: "Wenn Ihr Gegner genau 2, 4 oder 6 Karten auf der Hand hat, verursacht dieser Angriff 40 weitere Schadenspunkte.",
                 "pt-br": "Se o seu oponente tiver exatamente 2, 4 ou 6 cartas na mão, este ataque causa 40 de dano a mais.",
-                "zh-tw": "如果對手的手牌剛好有 2、4 或 6 張，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的手牌剛好有 2、4 或 6 張，則此攻擊造成的傷害增加 40 點。",
+                ja: "相手の手札が2枚・4枚・6枚なら、40ダメージ追加。"
             },
             damage: "40+"
         }

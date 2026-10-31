@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/025"
     },
     name: {
         en: "Pikachu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pikachu",
         de: "Pikachu",
         'pt-br': "Pikachu",
+        ja: "ピカチュウ",
         ko: "피카츄",
         "zh-tw": "皮卡丘"
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
         de: "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
         'pt-br': "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+        ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
         ko: "양 볼에는 전기를 저장하는 주머니가 있다.\n화가 나면 저장한 전기를 단숨에 방출한다.",
         "zh-tw": "當它被激怒時，它會立即釋放臉頰眼袋中儲存的能量。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Elettroruota",
                 de: "Rundparcours",
                 'pt-br': "Circuito Circular",
+                ja: "エレキサークル",
                 ko: "일렉트릭서클",
                 "zh-tw": "環形電路"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni per ogni Pokémon {L} nella tua panchina.",
                 de: "Diese Attacke fügt für jedes {L}-Pokémon auf deiner Bank 10 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon causa 10 pontos de dano para cada Pokémon {L} no seu Banco.",
+                ja: "自分のベンチの{L}ポケモンの数×10ダメージ。",
                 ko: "자신의 벤치의 {L}포켓몬의 수 × 10데미지를 준다.",
                 "zh-tw": "此攻擊對你後備的每隻 {L} 神奇寶貝造成 10 點傷害。"
             }

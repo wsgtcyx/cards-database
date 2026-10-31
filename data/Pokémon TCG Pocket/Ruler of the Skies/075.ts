@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/075",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/075",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/075"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/075"
     },
     name: {
         en: "Woobat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Svolazza emettendo ultrasuoni in cerca\ndi Pokémon di tipo Coleottero, di cui si nutre.",
         de: "Es fliegt umher und sendet Ultraschallwellen aus,\num Käfer-Pokémon aufzuspüren, welche ihm als\nNahrung dienen.",
         "pt-br": "Emite ondas ultrassônicas quando voa por aí, procurando por sua presa: os Pokémon inseto.",
-        "zh-tw": "一邊發出超音波，一邊\n飛來飛去尋找蟲寶可夢\n來填飽自己的肚子。"
+        "zh-tw": "一邊發出超音波，一邊\n飛來飛去尋找蟲寶可夢\n來填飽自己的肚子。",
+        ja: "超音波を 放ちながら フラフラと 飛びまわり エサの 虫ポケモンを 探している。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Aerasoio",
                 de: "Windschnitt",
                 "zh-tw": "空氣利刃",
-                "pt-br": "Cortador de Ar"
+                "pt-br": "Cortador de Ar",
+                ja: "エアカッター"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
-                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。"
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 40
         }

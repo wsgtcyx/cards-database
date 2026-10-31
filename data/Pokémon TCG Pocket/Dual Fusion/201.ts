@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/201",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/201",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/201"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/201",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/201"
     },
     name: {
         en: "Morpeko",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Energiespendendes Rad",
                 "pt-br": "Roda Energizante",
                 "zh-tw": "能量車輪",
-                ja: "Energizer Wheel",
+                ja: "エネしゃりん",
                 ko: "Energizer Wheel"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Verschiebe 2 {D}-Energien von diesem Pokémon auf 1 Pokémon auf deiner Bank.",
                 "pt-br": "Mova 2 Energias {D} deste Pokémon para 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢身上的2個{D}能量,改附於1隻備戰寶可夢身上。",
-                ja: "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon.",
+                ja: "このポケモンから{D}エネルギーを2個、ベンチポケモン1匹につけ替える。",
                 ko: "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Wenn es Hunger hat, gerät sein Hormonhaushalt aus dem Gleichgewicht und die Elektro-Energie in seinen Backentaschen nimmt den Typ Unlicht an.",
         "pt-br": "A fome causou um desequilíbrio hormonal neste Pokémon. A energia do tipo Elétrico armazenada em suas bochechas se transformou em energia do tipo Sombrio.",
         "zh-tw": "因飢餓而導致的荷爾蒙失調，在頰囊中的電能轉化成了惡屬性的能量。",
-        ja: "Hunger has disrupted this Pokémon’s hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy.",
+        ja: "空腹で ホルモンバランスが 乱れて 頬袋の エネルギーが 電気から 悪タイプに 変わった。",
         ko: "Hunger has disrupted this Pokémon’s hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy."
     }
 };

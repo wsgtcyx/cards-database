@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/202",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/202"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/202",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/202"
     },
     name: {
         en: "Herdier",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Terribark",
         "pt-br": "Herdier",
         "zh-tw": "哈約克",
+        ja: "ハーデリア",
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Yorkleff",
         "pt-br": "Lillipup",
         "zh-tw": "小約克",
+        ja: "ヨーテリー",
     },
     description: {
         en: "The black fur that covers this Pokémon's body\nis dense and springy. Even sharp fangs bounce\nright off.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La pelliccia nera che ricopre il corpo di questo Pokémon\nè denso ed elastico. Anche le zanne affilate rimbalzano\nsubito.",
         "de": "Das schwarze Fell, das den Körper dieses Pokémon bedeckt\nist dicht und federnd. Sogar scharfe Reißzähne hüpfen\nsofort los.",
         "pt-br": "O pelo preto que cobre o corpo deste Pokémon\né denso e elástico. Até as presas afiadas saltam\nimediatamente.",
-        "zh-tw": "覆蓋這只神奇寶貝身體的黑色皮毛\n緻密且有彈性。即使鋒利的獠牙也會彈跳\n馬上。"
+        "zh-tw": "覆蓋這只神奇寶貝身體的黑色皮毛\n緻密且有彈性。即使鋒利的獠牙也會彈跳\n馬上。",
+        ja: "体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Rimbalzo della testata",
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
-                "zh-tw": "頭撞彈跳"
+                "zh-tw": "頭撞彈跳",
+                ja: "とびだしヘッド"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

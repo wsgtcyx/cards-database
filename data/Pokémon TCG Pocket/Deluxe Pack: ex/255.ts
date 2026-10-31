@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/255",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/255",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/255",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/255"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/255",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/255"
     },
     name: {
         en: "Excadrill",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Stalobor",
         "pt-br": "Excadrill",
         "zh-tw": "龍頭地鼠",
+        ja: "ドリュウズ",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Rotomurf",
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
+        ja: "モグリュー",
     },
     description: {
         en: "It's not uncommon for tunnels that appear to\nhave formed naturally to actually be a result\nof Excadrill's rampant digging.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non è raro che i tunnel sembrino farlo\nsi sono formati naturalmente per essere effettivamente un risultato\ndegli scavi dilaganti di Excadrill.",
         "de": "Es ist nicht ungewöhnlich, dass Tunnel so aussehen\nhaben sich auf natürliche Weise gebildet, um tatsächlich ein Ergebnis zu sein\nvon Excadrills zügellosem Graben.",
         "pt-br": "Não é incomum que túneis que parecem\nse formaram naturalmente para realmente ser um resultado\nda escavação desenfreada de Excadrill.",
-        "zh-tw": "隧道的情況並不少見\n自然形成的實際結果\n埃卡德里爾猖獗的挖掘活動"
+        "zh-tw": "隧道的情況並不少見\n自然形成的實際結果\n埃卡德里爾猖獗的挖掘活動",
+        ja: "自然の 洞窟に 見えても ドリュウズが 掘り荒らした 跡と いうことも よくある 話だ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 50,
             cost: ["Metal"]

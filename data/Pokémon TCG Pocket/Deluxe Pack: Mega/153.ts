@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/153",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/153",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/153",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/153"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/153",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/153"
     },
     name: {
         en: "Galarian Meowth",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Je dunkler die Münze an seiner Stirn, desto fester ist sie und desto mehr Respekt hat seine Gruppe vor ihm. Es ist tapfer und kennt keine Angst.",
         "pt-br": "Estes Pokémon ousados têm moedas nas testas. Moedas escuras são mais resistentes, e moedas resistentes são mais respeitadas entre os Meowth.",
         "zh-tw": "額頭上的金幣越黑就越硬，也越能受到夥伴的尊敬。性情勇猛，什麼都不怕。",
-        ja: "These daring Pokémon have coins on their\nforeheads. Darker coins are harder, and harder\ncoins garner more respect among Meowth.",
+        ja: "額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。",
         ko: "These daring Pokémon have coins on their\nforeheads. Darker coins are harder, and harder\ncoins garner more respect among Meowth."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Schlitzer",
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
-                ja: "Slash",
+                ja: "きりさく",
                 ko: "Slash"
             },
             damage: 20,

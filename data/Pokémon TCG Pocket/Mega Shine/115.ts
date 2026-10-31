@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/115",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/115",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/115"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/115"
     },
     name: {
         en: "Mega Scizor ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Mazzata Repentina",
                 de: "Kugelschwung",
                 "pt-br": "Socão Disparado",
-                "zh-tw": "子彈強擊"
+                "zh-tw": "子彈強擊",
+                ja: "バレットスラッガー"
             },
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Se questo Pokémon è passato dalla tua panchina al posto attivo in questo turno, questo attacco infligge 50 danni in più.",
                 de: "Wenn dieses Pokémon in diesem Zug von deiner Bank auf den aktiven Platz verschoben wurde, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon for movido do seu Banco para o Local Ativo neste turno, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果本回合這只寶可夢從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果本回合這只寶可夢從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 50 點。",
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、50ダメージ追加。"
             },
             damage: "100+"
         }

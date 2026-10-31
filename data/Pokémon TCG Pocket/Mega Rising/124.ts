@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/124",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/124"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/124",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/124"
     },
     name: {
         en: "Hitmonchan ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nockchan-ex",
         "pt-br": "Hitmonchan ex",
         "zh-tw": "快拳郎ex",
+        ja: "エビワラーex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Dritto veloce",
                 "de": "Schnell geradeaus",
                 "pt-br": "Direto rápido",
-                "zh-tw": "快速直行"
+                "zh-tw": "快速直行",
+                ja: "クイックストレート"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Il danno di questo attacco non è influenzato dalla debolezza.",
                 "de": "Der Schaden dieses Angriffs wird durch Schwäche nicht beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado pela Fraqueza.",
-                "zh-tw": "該攻擊的傷害不受虛弱影響。"
+                "zh-tw": "該攻擊的傷害不受虛弱影響。",
+                ja: "このワザのダメージは弱点を計算しない。"
             }
         }],
     weaknesses: [{

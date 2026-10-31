@@ -126,7 +126,7 @@ describe('B4 catalog metadata regressions', () => {
 			'pt-br': 'Vulpix de Alola',
 			'zh-tw': '阿羅拉六尾',
 			ko: '알로라 식스테일',
-			ja: 'アローラ ロコン',
+			ja: 'アローラロコン',
 		})
 		expect(alolanNinetalesEx.name).toEqual({
 			en: 'Alolan Ninetales ex',
@@ -137,8 +137,8 @@ describe('B4 catalog metadata regressions', () => {
 			'pt-br': 'Ninetales de Alola ex',
 			'zh-tw': '阿羅拉九尾ex',
 			ko: '알로라 나인테일 ex',
-			ja: 'アローラ キュウコンex',
+			ja: 'アローラキュウコンex',
 		})
-		expect(alolanNinetalesEx.evolveFrom?.ja).toBe('アローラ ロコン')
+		expect(alolanNinetalesEx.evolveFrom?.ja).toBe('アローラロコン')
 	})
 })

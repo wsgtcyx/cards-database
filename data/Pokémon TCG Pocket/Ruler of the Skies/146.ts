@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/146",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/146",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/146"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/146"
     },
     name: {
         en: "Claw Fossil",
@@ -32,7 +33,8 @@ const card: Card = {
         "pt-br": "Jogue esta carta como se fosse um Pokémon {C} Básico com PS 40. A qualquer momento, durante o seu turno, você poderá descartar esta carta do jogo. Esta carta não pode recuar.",
         "zh-tw": "這張卡可作為HP40的{C}屬性的基礎寶可夢放置於場上。 若在自己的回合中,則可將場上的這張卡丟棄。 這張卡無法撤退。",
         "it": "Gioca questa carta come se fosse un Pokémon Base {C} con 40 PS. Durante il tuo turno, in qualsiasi momento, puoi scartare questa carta dal gioco. Questa carta non può ritirarsi.",
-        "de": "Spiele diese Karte, als ob sie ein Basis-{C}-Pokémon mit 40 KP wäre. Du kannst diese Karte jederzeit während deines Zuges aus dem Spiel nehmen und auf deinen Ablagestapel legen. Diese Karte kann sich nicht zurückziehen."
+        "de": "Spiele diese Karte, als ob sie ein Basis-{C}-Pokémon mit 40 KP wäre. Du kannst diese Karte jederzeit während deines Zuges aus dem Spiel nehmen und auf deinen Ablagestapel legen. Diese Karte kann sich nicht zurückziehen.",
+        ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。"
     },
     trainerType: "Item"
 };

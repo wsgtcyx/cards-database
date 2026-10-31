@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/203",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/203",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/203"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/203",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/203"
     },
     name: {
         en: "Kangaskhan",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kangaskhan",
         de: "Kangama",
         'pt-br': "Kangaskhan",
+        ja: "ガルーラ",
         ko: "캥카",
         "zh-tw": "袋獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Stordipugno",
                 de: "Irrschlag",
                 'pt-br': "Soco Estonteante",
+                ja: "ピヨピヨパンチ",
                 ko: "잼잼펀치",
                 "zh-tw": "眩暈拳"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 30 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Ha un agile gioco di gambe, nonostante si porti\nappresso il cucciolo nel marsupio ventrale.\nIntimidisce gli avversari con jab velocissimi.",
         de: "Obwohl es sein Junges im Beutel trägt, bewegt\nsich dieses Pokémon äußerst leichtfüßig. Gegner\nschreckt Kangama mit blitzschnellen Schlägen ab.",
         'pt-br': "Apesar de carregar seu bebê na bolsa em\nsua barriga, Kangaskhan é veloz. Intimida\nseus oponentes com golpes rápidos.",
+        ja: "腹の 袋に 子どもが いるが フットワークは とても 軽い。 素早いジャブで 相手を 威嚇。",
         ko: "배의 주머니에 새끼가 있지만\n발놀림은 매우 가볍다.\n재빠른 잽으로 상대를 위협한다.",
         "zh-tw": "儘管袋鼠肚子上懷著孩子，但袋鼠的腳步卻很快。它通過快速刺擊來恐嚇對手。"
     },

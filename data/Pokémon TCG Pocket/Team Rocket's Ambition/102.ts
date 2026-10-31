@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/102",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/102",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/102"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/102"
     },
     name: {
         en: "Mawile",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le sue corna d'acciaio si sono trasformate in enormi mascelle, con cui morde i nemici.",
         de: "Sein riesiger Kiefer hat sich aus stählernen Hörnern entwickelt. Mit ihm beißt es seine Gegner.",
         "pt-br": "Mastiga de boca aberta. Suas enormes mandibulas, na verdade, são chifres de aco que se transformaram.",
-        "zh-tw": "大嘴娃能用自己那由鋼角變化而成的巨大顎部將對手一口緊緊咬住。"
+        "zh-tw": "大嘴娃能用自己那由鋼角變化而成的巨大顎部將對手一口緊緊咬住。",
+        ja: "鋼の ツノが 変形して できた 大きな アゴで 相手に がぶりと 噛みつくのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Mandibola Cavernosa",
                 de: "Riesiger Biss",
                 "pt-br": "Mastigada Cavernosa",
-                "zh-tw": "深咬"
+                "zh-tw": "深咬",
+                ja: "ばっくりバイト"
             },
             damage: 50
         }

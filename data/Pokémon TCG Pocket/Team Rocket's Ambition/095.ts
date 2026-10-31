@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/095",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/095",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/095"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/095"
     },
     name: {
         en: "Vulpix",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Man mano che cresce, le sue sei calde code sviluppano una pelliccia sempre più bella.",
         de: "Während es wächst, wird das Fell seiner sechs warmen Schweife noch schöner und weicher.",
         "pt-br": "Conforme vai crescendo, suas seis caudas quentinhas tornam-se mais belas, com uma pelugem ainda mais luxuosa.",
-        "zh-tw": "隨著身體的成長，溫暖的６根尾巴的毛髮也會變得更漂亮。"
+        "zh-tw": "隨著身體的成長，溫暖的６根尾巴的毛髮也會變得更漂亮。",
+        ja: "温かい ６本の 尻尾は 体が 育つごとに 毛並みが 良くなり 美しく なっていく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Immobile",
                 de: "Stillhalten",
                 "pt-br": "Ficar Parado",
-                "zh-tw": "紋絲不動"
+                "zh-tw": "紋絲不動",
+                ja: "じっとする"
             },
             effect: {
                 en: "Heal 20 damage from this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 pontos de dano deste Pokémon.",
-                "zh-tw": "將這隻寶可夢恢復20HP。"
+                "zh-tw": "將這隻寶可夢恢復20HP。",
+                ja: "このポケモンのHPを20回復。"
             }
         }
     ],

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/376",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/376",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/376",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/376"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/376",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/376"
     },
     name: {
         en: "Metal Core Barrier",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Wenn diese Karte an 1 deiner Pokémon angelegt ist, lege sie am Ende des Zuges deines Gegners auf deinen Ablagestapel. Dem {M}-Pokémon, an das diese Karte angelegt ist, werden -50 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt.",
         "pt-br": "Se esta carta estiver ligada a 1 dos seus Pokémon, descarte-a no final do turno do seu oponente. O Pokémon {M} ao qual esta carta está ligada recebe −50 pontos de dano de ataques dos Pokémon do seu oponente.",
         "zh-tw": "將寶可夢身上所附有的這張卡,在對手的回合結束時丟棄。 附有這張卡的{M}寶可夢,受到對手的寶可夢招式的傷害-50點。",
-        ja: "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The {M} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon.",
+        ja: "ポケモンについているこのカードは、相手の番の終わりにトラッシュ。 このカードをつけている{M}ポケモンが、相手のポケモンから受けるワザのダメージを-50する。",
         ko: "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The {M} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon."
     },
     trainerType: "Tool"

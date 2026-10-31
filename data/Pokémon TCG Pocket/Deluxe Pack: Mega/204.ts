@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/204",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/204",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/204",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/204"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/204",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/204"
     },
     name: {
         en: "Deceptive Needle",
@@ -34,7 +35,7 @@ const card: Card = {
         "pt-br": "No final do seu turno, se o Pokémon {D} ao qual esta carta está ligada estiver no Campo Ativo, cause 10 pontos de dano ao Pokémon Ativo do seu oponente.",
         "zh-tw": "在自己的回合結束時,若附有這張卡的{D}寶可夢在戰鬥場上,則對手的戰鬥寶可夢受到10點傷害。",
         it: "Alla fine del tuo turno, se il Pokémon {D} a cui è assegnata questa carta è in posizione attiva, infliggi 10 danni al Pokémon attivo del tuo avversario.",
-        ja: "At the end of your turn, if the {D} Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
+        ja: "自分の番の終わりに、このカードをつけている{D}ポケモンがバトル場にいるなら、相手のバトルポケモンに10ダメージ。",
         ko: "At the end of your turn, if the {D} Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
     },
     trainerType: "Tool"

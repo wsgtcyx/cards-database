@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/051"
     },
     name: {
         en: "Steelix",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Steelix",
         "de": "Stahlos",
         "pt-br": "Steelix",
-        "zh-tw": "大鋼蛇"
+        "zh-tw": "大鋼蛇",
+        ja: "ハガネール"
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Onix",
         "de": "Onix",
         "pt-br": "Onix",
-        "zh-tw": "大岩蛇"
+        "zh-tw": "大岩蛇",
+        ja: "イワーク"
     },
     description: {
         en: "It is thought its body transformed as a result of\niron accumulating internally from swallowing soil.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si pensa che il suo corpo si sia trasformato a causa di\nferro che si accumula internamente ingerendo il terreno.",
         "de": "Es wird angenommen, dass sich sein Körper dadurch verändert hat\nEisen, das sich durch das Verschlucken von Erde im Inneren ansammelt.",
         "pt-br": "Pensa-se que seu corpo se transformou como resultado de\nferro se acumulando internamente ao engolir terra.",
-        "zh-tw": "人們認為它的身體由於\n鐵因吞嚥土壤而在內部積聚。"
+        "zh-tw": "人們認為它的身體由於\n鐵因吞嚥土壤而在內部積聚。",
+        ja: "土と 一緒に 飲みこんだ 鉄分が 溜まっていって 体が 変化したとも 考えられる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Difensore di metallo",
                 "de": "Metallverteidiger",
                 "pt-br": "Defensor Metálico",
-                "zh-tw": "金屬後衛"
+                "zh-tw": "金屬後衛",
+                ja: "メタルディフェンダー"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon non ha debolezze.",
                 "de": "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon não terá Fraqueza.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝沒有弱點。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝沒有弱點。",
+                ja: "次の相手の番、このポケモンの弱点を、すべてなくす。"
             }
         }],
     weaknesses: [{

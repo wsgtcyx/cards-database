@@ -32,7 +32,8 @@ const set: Set = {
 				it: "Suicune",
 				de: "Suicune",
 				"pt-br": "Suicune",
-				"zh-tw": "水君"
+				"zh-tw": "水君",
+				ja: "未知なる水域"
 			}
 		}
 	},

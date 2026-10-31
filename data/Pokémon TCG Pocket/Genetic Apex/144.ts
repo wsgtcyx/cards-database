@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/144",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/144"
     },
     name: {
         en: "Machoke",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Machoke",
         de: "Maschock",
         'pt-br': "Machoke",
+        ja: "ゴーリキー",
         ko: "근육몬",
         "zh-tw": "豪力",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Machop",
         "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "腕力"
+        "zh-tw": "腕力",
+        ja: "ワンリキー"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Forza",
                 de: "Stärke",
                 'pt-br': "Força",
+                ja: "かいりき",
                 ko: "괴력",
                 "zh-tw": "力量"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Il suo corpo muscoloso è così forte che usa\nuna cintura per contenere la sua potenza.",
         de: "Dieses Pokémon ist superstark. Es kann sich nur\nmit einem kraftregulierenden Gürtel bewegen.",
         'pt-br': "Sua massa muscular é tão poderosa que ele\nprecisa usar um cinto de economia de energia\npara controlar seus movimentos.",
+        ja: "すごく 強靭な 肉体なので パワーセーブ ベルトを つけて 強さを 制御している。",
         ko: "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다.",
         "zh-tw": "它肌肉發達的身體如此強大，必須佩戴節能帶才能調節其動作。"
     },

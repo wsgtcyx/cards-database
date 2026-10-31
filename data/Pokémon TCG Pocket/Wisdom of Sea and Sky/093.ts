@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/093"
     },
     name: {
         en: "Sudowoodo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mogelbaum",
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
+        ja: "ウソッキー",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Anche se finge sempre di essere un albero,\nla sua composizione appare più simile a\nroccia che alla vegetazione.",
         "de": "Obwohl es immer vorgibt, ein Baum zu sein,\nseine Zusammensetzung scheint ähnlicher zu sein\nFelsen als zur Vegetation.",
         "pt-br": "Embora sempre finja ser uma árvore,\nsua composição parece mais semelhante a\nrocha do que à vegetação.",
-        "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。"
+        "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。",
+        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio di roccia",
                 "de": "Steinwurf",
                 "pt-br": "Lançamento de pedra",
-                "zh-tw": "扔石頭"
+                "zh-tw": "扔石頭",
+                ja: "いわおとし"
             },
             damage: 50,
             cost: ["Fighting", "Fighting"]

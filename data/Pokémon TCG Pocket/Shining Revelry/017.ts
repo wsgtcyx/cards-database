@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/017"
     },
     name: {
         en: "Floatzel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Floatzel",
         de: "Bojelin",
         'pt-br': "Floatzel",
+        ja: "フローゼル",
         ko: "플로젤",
         "zh-tw": "浮潛鼬"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bamelin",
         "pt-br": "Buizel",
         "zh-tw": "泳圈鼬",
+        ja: "ブイゼル",
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Col galleggiante gonfio, può trasportare delle\npersone sul dorso. Per immergersi lo sgonfia.",
         de: "Mit gefüllter Schwimmblase kann es Menschen\nauf seinem Rücken tragen. Lässt es Luft aus ihr\nheraus, taucht es unter.",
         'pt-br': "Com sua bolsa de flutuação inflada, pode transportar\npessoas nas costas. Esvazia a bolsa antes de mergulhar.",
+        ja: "浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。",
         ko: "부낭을 부풀리면 사람을\n등에 태울 수 있다.\n부낭을 오그라들게 하여 잠수한다.",
         "zh-tw": "當浮囊膨脹時，它可以背著人。它在潛水前將囊放氣。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Idrofreccia",
             de: "Wasserpfeil",
             'pt-br': "Flecha d'Água",
+            ja: "ウォーターアロー",
             ko: "워터애로",
             "zh-tw": "水箭"
         },
@@ -65,6 +70,7 @@ const card: Card = {
             it: "Questo attacco infligge 30 danni a uno dei Pokémon del tuo avversario.",
             de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
             'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
+            ja: "相手のポケモン1匹に30ダメージ。",
             ko: "상대의 포켓몬 1마리에게 30데미지를 준다.",
             "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。"
         }

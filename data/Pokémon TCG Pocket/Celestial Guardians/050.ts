@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/050"
     },
     name: {
         en: "Wishiwashi",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wishiwashi",
         de: "Lusardin",
         'pt-br': "Wishiwashi",
+        ja: "ヨワシ",
         ko: "약어리",
         "zh-tw": "弱丁魚",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Presi singolarmente sono estremamente deboli.\nCiò li ha portati ad acquisire l'abilità di formare\nun banco quando affrontano il nemico.",
         de: "Weil es alleine unheimlich schwach ist, hat es die\nFähigkeit erworben, einen Schwarm zu formen.\nSo kann es sich seinen Gegnern stellen.",
         'pt-br': "Quando estão sozinhos, são extremamente fracos.\nFormam cardumes para confrontar os seus oponentes.",
+        ja: "１匹では とても ひ弱なため 群れることで 敵に 立ち向かう 能力を 獲得した。",
         ko: "1마리로는 너무나도 허약해서\n무리를 지어 상대에게 맞서는\n능력을 습득했다.",
         "zh-tw": "就個人而言，他們非常弱。他們通過聚集到學校來對抗對手。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cerca Famiglia",
                 de: "Familienruf",
                 'pt-br': "Chamar a Família",
+                ja: "なかまをよぶ",
                 ko: "동료부르기",
                 "zh-tw": "呼叫家人"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Prendi un Wishiwashi o Wishiwashi-ex a caso dal tuo mazzo e mettilo nella tua panchina.",
                 de: "Lege von den Karten Lusardin und Lusardin-ex 1 zufällige aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 carta aleatória dentre Wishiwashi ou Wishiwashi ex do seu baralho no seu Banco.",
+                ja: "自分の山札から「ヨワシ」または「ヨワシex」をランダムに1枚、ベンチに出す。",
                 ko: "자신의 덱에서 「약어리」 또는 「약어리 ex」 랜덤으로 1장 벤치로 내보낸다.",
                 "zh-tw": "將 1 名隨機的 Wishiwashi 或 Wishiwashi ex 從你的牌組放到你的替補席上。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/104",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/104"
     },
     name: {
         en: "Dusclops",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zwirrklop",
         "pt-br": "Dusclops",
         "zh-tw": "彷徨夜靈",
+        ja: "サマヨール",
     },
     illustrator: "Kazuma Koda",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Zwirrlicht",
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
+        ja: "ヨマワル",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Cerca i fuochi fatui alla deriva e li succhia\nnel suo corpo vuoto. Quello che succede dentro è\nun mistero.",
         "de": "Es sucht nach treibenden Irrlichtern und saugt sie aus\nin seinen leeren Körper. Was im Inneren passiert, ist\nein Geheimnis.",
         "pt-br": "Ele procura fogos-fátuos à deriva e os suga\nem seu corpo vazio. O que acontece lá dentro é\num mistério.",
-        "zh-tw": "它尋找漂浮的鬼火併吸走它們\n進入它空虛的身體。裡面發生的事情是\n一個謎。"
+        "zh-tw": "它尋找漂浮的鬼火併吸走它們\n進入它空虛的身體。裡面發生的事情是\n一個謎。",
+        ja: "さまよっている 人魂を 見つけ 空っぽの 体内に 吸いこむ。 吸いこまれて どうなるかは 謎。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fuoco fatuo",
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
-                "zh-tw": "鬼火"
+                "zh-tw": "鬼火",
+                ja: "おにび"
             },
             damage: 30,
             cost: ["Psychic"]

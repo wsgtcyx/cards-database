@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/191"
     },
     name: {
         en: "Loudred",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krakeelo",
         "pt-br": "Loudred",
         "zh-tw": "吼爆彈",
+        ja: "ドゴーム",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flurmel",
         "pt-br": "Whismur",
         "zh-tw": "咕妞妞",
+        ja: "ゴニョニョ",
     },
     description: {
         en: "The force of this Pokémon's loud voice isn't just\nthe sound—it's also the wave of air pressure that\nblows opponents away and damages them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La forza della voce forte di questo Pokémon non è eccezionale\nil suono... è anche l'onda della pressione dell'aria\nspazza via gli avversari e li danneggia.",
         "de": "Die Kraft der lauten Stimme dieses Pokémon ist nicht einfach\ndas Geräusch – es ist auch die Welle des Luftdrucks\nbläst Gegner weg und fügt ihnen Schaden zu.",
         "pt-br": "A força da voz alta deste Pokémon não é apenas\no som - é também a onda de pressão do ar que\nafasta os oponentes e os causa danos.",
-        "zh-tw": "這只神奇寶貝響亮聲音的力量不僅僅是\n聲音——也是氣壓波\n將對手吹走並對其造成傷害。"
+        "zh-tw": "這只神奇寶貝響亮聲音的力量不僅僅是\n聲音——也是氣壓波\n將對手吹走並對其造成傷害。",
+        ja: "大声は 聴覚だけでなく 空気の 圧力となり 敵を 吹きとばし ダメージを 与える。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ipervoce",
                 "de": "Hyperstimme",
                 "pt-br": "Hiper Voz",
-                "zh-tw": "超級語音"
+                "zh-tw": "超級語音",
+                ja: "ハイパーボイス"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

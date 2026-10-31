@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/046"
     },
     name: {
         en: "Glaceon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Glaceon",
         de: "Glaziola",
         'pt-br': "Glaceon",
+        ja: "グレイシア",
         ko: "글레이시아",
         "zh-tw": "冰伊布",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Può modificare a piacimento la sua temperatura\ncorporea. Così può congelare l'umidità dell'aria\ne creare cristalli di ghiaccio intorno a sé.",
         de: "Es kann seine Körpertemperatur frei regulieren.\nIndem es die Wasserbestandteile der Luft\ngefrieren lässt, wirbelt es Diamantstaub auf.",
         'pt-br': "Pode controlar a temperatura de seu corpo\ncomo bem entender. Isso permite congelar a umidade\nna atmosfera, criando flocos de pó de diamante.",
+        ja: "体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。",
         ko: "체온을 자유자재로 컨트롤해\n대기의 수분을 얼려서\n다이아몬드더스트를 일으킨다.",
         "zh-tw": "它可以隨意控制自己的體溫。這使得它能夠凍結大氣中的水分，產生鑽石塵埃。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Geloraggio",
                 de: "Eisstrahl",
                 'pt-br': "Raio Congelante",
+                ja: "れいとうビーム",
                 ko: "냉동빔",
                 "zh-tw": "冰光束"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"

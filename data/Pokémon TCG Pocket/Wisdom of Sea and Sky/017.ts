@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/017"
     },
     name: {
         en: "Sunflora",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sonnflora",
         "pt-br": "Sunflora",
         "zh-tw": "向日花怪",
+        ja: "キマワリ",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sonnkern",
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
+        ja: "ヒマナッツ",
     },
     description: {
         en: "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Di giorno corre freneticamente\nmodo, ma si ferma completamente quando\nil sole tramonta.",
         "de": "Tagsüber herrscht Hektik\nArt und Weise, aber es kommt völlig zum Stillstand, wenn\ndie Sonne geht unter.",
         "pt-br": "Durante o dia, ele corre em uma agitação\nmaneira, mas para completamente quando\no sol se põe.",
-        "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。"
+        "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。",
+        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Raggio solare",
                 "de": "Sonnenstrahl",
                 "pt-br": "Raio Solar",
-                "zh-tw": "太陽光束"
+                "zh-tw": "太陽光束",
+                ja: "ソーラービーム"
             },
             damage: 70,
             cost: ["Grass", "Grass"]

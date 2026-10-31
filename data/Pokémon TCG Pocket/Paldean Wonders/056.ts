@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/056",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/056",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/056"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/056"
     },
     name: {
         en: "Primeape",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Rasaff",
         "pt-br": "Primeape",
         "zh-tw": "火爆猴",
+        ja: "オコリザル",
         pt: "Primeape"
     },
     illustrator: "Shin Nagasawa",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
+        ja: "マンキー",
         pt: "Mankey"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Alcuni ricercatori teorizzano che Primeape rimanga arrabbiato anche quando si trova all'interno di una Poké Ball.",
         "de": "Einige Forscher gehen davon aus, dass Rasaff auch dann wütend bleibt, wenn er sich in einem Pokéball befindet.",
         "pt-br": "Alguns pesquisadores teorizam que Primeape permanece com raiva mesmo dentro de uma Pokébola.",
-        "zh-tw": "一些研究人員推測，即使在寶可夢球內，火爆猴 仍然會生氣。"
+        "zh-tw": "一些研究人員推測，即使在寶可夢球內，火爆猴 仍然會生氣。",
+        ja: "ある研究者の 学説では モンスターボールの 中でも オコリザルは 怒っているらしい。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Raserei",
                 "pt-br": "Raiva",
                 "zh-tw": "憤怒",
+                ja: "いかり",
                 pt: "Ira"
             },
             damage: "30+",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Diese Attacke fügt zusätzlichen Schaden in Höhe des Schadens zu, der diesem Pokémon bereits zugefügt wurde.",
                 'pt-br': "Este ataque causa dano a mais, equivalente ao dano que este Pokémon tiver nele.",
                 "zh-tw": "這次攻擊造成的傷害等於該寶可夢對其造成的傷害。",
+                ja: "このポケモンが受けているダメージぶん、ダメージ追加。",
                 ko: "이 포켓몬이 받고 있는 데미지만큼 데미지를 추가한다."
             },
         },

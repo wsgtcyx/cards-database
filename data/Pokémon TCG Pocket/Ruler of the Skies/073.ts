@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/073",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/073",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/073"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/073"
     },
     name: {
         en: "Chimecho",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "I suoi versi riecheggiano dentro il corpo vuoto, creando una piacevole melodia che usa per confondere e allontanare i nemici.",
         de: "Sein Ruf hallt im Hohlraum seines Körpers wider und wird zu einem wunderschönen Klang, der Gegner erschreckt und verjagt.",
         "pt-br": "Seus sons ecoam dentro de seu corpo oco e emergem como lindas notas para assustar e repelir inimigos.",
-        "zh-tw": "叫聲會在身體的空洞裡\n迴盪出美麗的音色，\n趕走被嚇到的敵人。"
+        "zh-tw": "叫聲會在身體的空洞裡\n迴盪出美麗的音色，\n趕走被嚇到的敵人。",
+        ja: "鳴き声は 体の 空洞で 響き合って きれいな 音色になり 敵を驚かせ 追いはらう。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Extrasenso",
                 de: "Sondersensor",
                 "zh-tw": "神通力",
-                "pt-br": "Extrassensorial"
+                "pt-br": "Extrassensorial",
+                ja: "じんつうりき"
             },
             effect: {
                 en: "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Se você tiver o mesmo número de cartas na sua mão que seu oponente, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若自己的手牌與對手的手牌張數相同,則增加40點傷害。",
                 "it": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 40 danni in più.",
-                "de": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 40 Schadenspunkte mehr zu."
+                "de": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 40 Schadenspunkte mehr zu.",
+                ja: "自分の手札と相手の手札が同じ枚数なら、40ダメージ追加。"
             },
             damage: "40+"
         }

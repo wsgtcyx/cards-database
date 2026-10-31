@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/058"
     },
     name: {
         en: "Corphish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krebscorps",
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
+        ja: "ヘイガニ",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "In origine era un Pokémon venuto da lontano che fuggì\nallo stato selvatico. Può adattarsi al fiume più sporco.",
         "de": "Ursprünglich war es ein Pokémon aus der Ferne, das entkam\nin die Wildnis. Es kann sich an den schmutzigsten Fluss anpassen.",
         "pt-br": "Era originalmente um Pokémon de longe que escapou\npara a natureza. Pode se adaptar ao rio mais sujo.",
-        "zh-tw": "原本是一隻從遠處逃走的神奇寶貝\n到野外。它能適應最髒的河流。"
+        "zh-tw": "原本是一隻從遠處逃走的神奇寶貝\n到野外。它能適應最髒的河流。",
+        ja: "外国から やってきた ポケモンが 野生化した。 どんなに 汚い 川でも 適応してしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/004"
     },
     name: {
         en: "Steenee",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Frubaila",
         "pt-br": "Steenee",
         "zh-tw": "甜舞妮",
+        ja: "アママイコ",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Frubberl",
         "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
+        ja: "アマカジ",
     },
     description: {
         en: "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Steenee diffonde un dolce profumo che\nfa sentire gli altri rinvigoriti. Questo stesso\nil profumo è popolare per gli antitraspiranti.",
         "de": "Steenee verbreitet einen süßen Duft\nsorgt dafür, dass sich andere gestärkt fühlen. Das Gleiche\nDuft ist für Antitranspirantien beliebt.",
         "pt-br": "Steenee espalha um perfume doce que\nfaz os outros se sentirem revigorados. Este mesmo\nperfume é popular para antitranspirantes.",
-        "zh-tw": "Steene 散發出甜美的香氣\n讓別人感到精神振奮。這個同樣的\n香味在止汗劑中很受歡迎。"
+        "zh-tw": "Steene 散發出甜美的香氣\n讓別人感到精神振奮。這個同樣的\n香味在止汗劑中很受歡迎。",
+        ja: "元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Passo delle foglie",
                 "de": "Blattschritt",
                 "pt-br": "Passo Folha",
-                "zh-tw": "葉步"
+                "zh-tw": "葉步",
+                ja: "リーフステップ"
             },
             damage: 40,
             cost: ["Grass"]

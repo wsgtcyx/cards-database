@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/280",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/280",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/280",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/280"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/280",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/280"
     },
     name: {
         en: "Farfetch'd",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Porenta",
         "pt-br": "Farfetch'd",
         "zh-tw": "大蔥鴨",
+        ja: "カモネギ",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il gambo che questo Pokémon porta nelle sue ali serve\ncome una spada per abbattere gli avversari. In modo terribile\nsituazione, il gambo può anche servire come cibo.",
         "de": "Der Stiel, den dieses Pokémon in seinen Flügeln trägt, dient dazu\nals Schwert, um Gegner niederzuschlagen. In einer schlimmen Situation\nIn bestimmten Situationen kann der Stängel auch als Nahrung dienen.",
         "pt-br": "O talo que este Pokémon carrega em suas asas serve\ncomo uma espada para derrubar oponentes. Em uma situação terrível\nsituação, o talo também pode servir de alimento.",
-        "zh-tw": "這只神奇寶貝翅膀上的莖是用來服務的\n作為砍倒對手的利劍。在一個可怕的\n這種情況下，莖也可以當食物。"
+        "zh-tw": "這只神奇寶貝翅膀上的莖是用來服務的\n作為砍倒對手的利劍。在一個可怕的\n這種情況下，莖也可以當食物。",
+        ja: "羽で もつ 茎を 刀のように 操り 敵を 切り捨てる。 いざと いうときは エサに する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Schiaffo di porri",
                 "de": "Lauch-Schlag",
                 "pt-br": "Tapa de alho-poró",
-                "zh-tw": "韭菜拍打"
+                "zh-tw": "韭菜拍打",
+                ja: "ネギでたたく"
             },
             damage: 40,
             cost: ["Colorless"]

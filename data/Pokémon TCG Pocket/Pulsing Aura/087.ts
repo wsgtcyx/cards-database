@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/087",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/087",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/087"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/087"
     },
     name: {
         en: "Dwebble",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A volte, quando non riesce a trovare una pietra\nadatta, usa come sua dimora i pori\ndi Hippowdon.",
         de: "Wenn es keinen Stein findet, der sich als Haus\neignet, lässt es sich manchmal in den Öffnungen\nim Körper eines Hippoterus’ nieder.",
         "pt-br": "Ele primeiro tenta encontrar uma rocha para viver, mas se não houver rochas adequadas para serem encontradas, Dwebble pode se mudar para os portos de um Hippowdon.",
-        "zh-tw": "如果找不到大小合適\n的石頭來當成自己的家，\n牠也會住到河馬獸的洞裡。"
+        "zh-tw": "如果找不到大小合適\n的石頭來當成自己的家，\n牠也會住到河馬獸的洞裡。",
+        ja: "家に ちょうどいい 小石が 見つからないと カバルドンの 穴に 棲んでしまうことも。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 20
         }

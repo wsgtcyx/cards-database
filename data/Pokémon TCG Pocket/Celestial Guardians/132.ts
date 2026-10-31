@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/132"
     },
     name: {
         en: "Hawlucha",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hawlucha",
         de: "Resladero",
         'pt-br': "Hawlucha",
+        ja: "ルチャブル",
         ko: "루차불",
         "zh-tw": "摔角鷹人",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Al momento di sferrare il suo elegante colpo\ndi grazia, si libra in volo grazie alle sue ali. Affina\nquesta tecnica nel bosco in cui è nato e cresciuto.",
         de: "Mithilfe seiner Flügel springt es behände umher\nund erledigt Gegner so mit eleganten Attacken.\nDiese Technik trainiert es in seinem Heimatwald.",
         'pt-br': "Seus movimentos elegantes de finalização, que consistem\nem saltos ágeis com o uso de suas asas, são refinados\nna floresta onde nasceu e cresceu.",
+        ja: "翼を 使い 軽やかに 跳び 相手を 華麗に 仕留める 技は 生まれ育った 森で 磨かれる。",
         ko: "날개를 사용해 가볍게 도약하여\n상대를 화려하게 마무리하는 기술은\n나고 자란 숲에서 다듬어진다.",
         "zh-tw": "它優雅的終結動作——用翅膀靈活地跳躍——是在它出生和長大的森林中磨練出來的。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pressa della Giustizia",
                 de: "Justified Press",
                 'pt-br': "Aperto Justificado",
+                ja: "せいぎのプレス",
                 ko: "정의의프레스",
                 "zh-tw": "正當新聞"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon {D}, questo attacco infligge 30 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein {D}-Pokémon ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {D}, este ataque causará 30 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが{D}ポケモンなら、30ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 {D}포켓몬이라면 30데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝是{D}神奇寶貝，則此攻擊造成的傷害增加 30 點。"
             }

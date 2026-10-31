@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/012"
     },
     name: {
         en: "Torterra",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Torterra",
         de: "Chelterrar",
         'pt-br': "Torterra",
+        ja: "ドダイトス",
         ko: "토대부기",
         "zh-tw": "土台龜",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Chelcarain",
         "pt-br": "Grotle",
         "zh-tw": "樹林龜",
+        ja: "ハヤシガメ",
     },
     description: {
         en: "Ancient people imagined that beneath the ground dwelt a gigantic Torterra.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "In tempi antichissimi si credeva che\nsottoterra dimorasse un gigantesco Torterra.",
         de: "In alten Zeiten malten die Menschen sich aus, dass sich\nein riesiges Chelterrar unter der Erde befinde.",
         'pt-br': "Povos antigos acreditavam que um Torterra gigante\nvivia embaixo da terra.",
+        ja: "大昔の 人々は 大地の 下には 巨大な ドダイトスが いると 空想していた。",
         ko: "오랜 옛날 사람들은 대지\n밑에 거대한 토대부기가\n있다고 공상했었다.",
         "zh-tw": "古人想像地下有一個巨大的托爾特拉。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Radicalbero",
                 de: "Flora-Statue",
                 'pt-br': "Planta Mortal",
+                ja: "ハードプラント",
                 ko: "하드플랜트",
                 "zh-tw": "瘋狂植物"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, questo Pokémon non può usare Radicalbero.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon Flora-Statue nicht einsetzen.",
                 'pt-br': "Durante o seu próximo turno, este Pokémon não poderá usar Planta Mortal.",
+                ja: "次の自分の番、このポケモンは「ハードプラント」が使えない。",
                 ko: "자신의 다음 차례에 이 포켓몬은 「하드플랜트」 사용할 수 없다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法使用瘋狂植物。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/093",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/093",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/093"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/093"
     },
     name: {
         en: "Ferroseed",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Durchbohren",
                 "pt-br": "Perfurar",
                 "zh-tw": "突刺",
-                ja: "Pierce",
+                ja: "つきさす",
                 ko: "Pierce"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
         de: "Es schützt sich, indem es Dornen verschießt. Ein Kastadur muss jahrelang trainieren, um präzise zielen zu können.",
         "pt-br": "Defende-se lançando espinhos, mas sua mira não costuma ser muito boa nas primeiras tentativas e só melhora depois de muito treino.",
         "zh-tw": "會發射尖刺來保護自己，需要反覆訓練才能將尖刺準確地朝向目標。",
-        ja: "It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.",
+        ja: "棘を 飛ばして 身を 守る。 狙った 方向に 飛ばすには たくさんの 訓練が 必要。",
         ko: "It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/270",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/270",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/270",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/270"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/270",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/270"
     },
     name: {
         en: "Giovanni",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Giovanni",
         de: "Giovanni",
         'pt-br': "Giovanni",
+        ja: "サカキ",
         ko: "비주기",
         "zh-tw": "坂木",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Durante questo turno, gli attacchi usati dai tuoi Pokémon infliggono +10 danni al Pokémon attivo del tuo avversario.",
         de: "Während dieses Zuges fügen die Attacken deiner Pokémon dem Aktiven Pokémon deines Gegners + 10 Schadenspunkte zu.",
         'pt-br': "Durante este turno, os ataques usados pelos seus Pokémon causam +10 pontos de dano ao Pokémon Ativo do seu oponente.",
+        ja: "この番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+10する。",
         ko: "이 차례에 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +10한다.",
         "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的活躍寶可夢造成+10點傷害。"
     },

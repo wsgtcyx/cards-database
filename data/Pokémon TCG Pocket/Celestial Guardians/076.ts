@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/076"
     },
     name: {
         en: "Oricorio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Oricorio",
         de: "Choreogel",
         'pt-br': "Oricorio",
+        ja: "オドリドリ",
         ko: "춤추새",
         "zh-tw": "花舞鳥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Forma di un Oricorio che si è nutrito di Nettare\nrosa. Aumenta le sue energie mentali con placidi\npassi di danza e poi scatena i suoi poteri psichici.",
         de: "Dieses Choreogel hat Rosa Nektar geschlürft.\nMit eleganten Tanzschritten erhöht es seine\nPsycho-Kräfte, ehe es diese freisetzt.",
         'pt-br': "Esta forma de Oricorio bebericou néctar rosa.\nEleva a mente com os passos suaves da sua dança\ne depois libera energia psíquica.",
+        ja: "うすもものミツを 吸った 姿。 緩やかな ステップで 精神を 高め サイコパワーを 放つ。",
         ko: "연분홍꿀을 빨아들인 모습.\n사뿐한 스텝으로 정신력을 높여서\n사이코 파워를 방출한다.",
         "zh-tw": "這種形式的 Oricorio 正在啜飲粉紅色的花蜜。它用輕柔的舞步提升心靈，然後釋放心靈能量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Accecadanza",
                 de: "Verwirrender Tanz",
                 'pt-br': "Dança Fascinante",
+                ja: "げんわくダンス",
                 ko: "미혹댄스",
                 "zh-tw": "炫舞"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"

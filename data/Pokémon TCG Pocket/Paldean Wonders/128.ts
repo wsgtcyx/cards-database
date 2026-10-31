@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/128",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/128",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/128"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/128"
     },
     name: {
         en: "Raikou ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Raikou-ex",
         "pt-br": "Raikou ex",
         "zh-tw": "雷公ex",
+        ja: "ライコウex",
         pt: "Raikou ex",
         'es-mx': "Raikou"
     },
@@ -39,7 +41,8 @@ const card: Card = {
                 "it": "Impulso leggendario",
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
-                "zh-tw": "傳奇脈搏"
+                "zh-tw": "傳奇脈搏",
+                ja: "でんせつのこどう"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -48,7 +51,8 @@ const card: Card = {
                 "it": "Alla fine del tuo turno, se questo Pokémon è in posizione attiva, pesca una carta.",
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
-                "zh-tw": "在你的回合結束時，如果這隻寶可夢位於戰鬥場，抽一張卡。"
+                "zh-tw": "在你的回合結束時，如果這隻寶可夢位於戰鬥場，抽一張卡。",
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。"
             }
         }],
     attacks: [{
@@ -59,7 +63,8 @@ const card: Card = {
                 "it": "Proiettile Voltaico",
                 "de": "Voltaische Kugel",
                 "pt-br": "Bala Voltaica",
-                "zh-tw": "伏打子彈"
+                "zh-tw": "伏打子彈",
+                ja: "ボルテージバレット"
             },
             damage: 60,
             cost: ["Lightning", "Lightning"],
@@ -70,7 +75,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 10 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 10 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 10 點傷害。",
+                ja: "相手のベンチポケモン1匹にも10ダメージ。"
             }
         }],
     weaknesses: [{

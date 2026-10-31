@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/062"
     },
     name: {
         en: "Miltank",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Miltank",
         "pt-br": "Miltank",
         "zh-tw": "大奶罐",
+        ja: "ミルタンク",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Miltank produce latte altamente nutriente, quindi è così\nhanno sostenuto la vita di persone e altri\nPokémon fin dai tempi antichi.",
         "de": "Miltank produziert hochnährstoffreiche Milch\nunterstützt das Leben von Menschen und anderen\nPokémon seit der Antike.",
         "pt-br": "Miltank produz leite altamente nutritivo, por isso é\ntem apoiado a vida de pessoas e outros\nPokémon desde os tempos antigos.",
-        "zh-tw": "Miltank 生產高營養牛奶，因此\n一直在支持人們和其他人的生活\n自古以來的神奇寶貝。"
+        "zh-tw": "Miltank 生產高營養牛奶，因此\n一直在支持人們和其他人的生活\n自古以來的神奇寶貝。",
+        ja: "栄養満点の ミルクを 出すことから 古くから 人間と ポケモンの 暮らしを 支えてきた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frenesia rotolante",
                 "de": "Rollende Raserei",
                 "pt-br": "Frenesi rolante",
-                "zh-tw": "滾滾狂亂"
+                "zh-tw": "滾滾狂亂",
+                ja: "ころがりフィーバー"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Finché questo Pokémon non lascia la posizione attiva, il suo attacco Frenesia Rotolante infligge +30 danni. Questo effetto è cumulabile.",
                 "de": "Bis dieses Pokémon den aktiven Bereich verlässt, verursacht der Angriff „Rollende Raserei“ dieses Pokémon +30 Schaden. Dieser Effekt ist stapelbar.",
                 "pt-br": "Até que este Pokémon deixe o Ponto Ativo, o ataque Rolling Frenzy deste Pokémon causa +30 de dano. Este efeito acumula.",
-                "zh-tw": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。"
+                "zh-tw": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。",
+                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ころがりフィーバー」のダメージを+30する。この効果は重なる。"
             }
         }],
     weaknesses: [{

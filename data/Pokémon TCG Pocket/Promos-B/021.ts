@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/021",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/021",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/021"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/021"
     },
     name: {
         en: "Onix",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Scava nel terreno a una velocità di 80 km/h\ncontorcendo e agitando il corpo grande\ne possente.",
         de: "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet.",
         "pt-br": "Ele rapidamente perfura o solo a 80 km/h, contorcendo-se e torcendo seu corpo maciço e robusto.",
-        "zh-tw": "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。"
+        "zh-tw": "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。",
+        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Coda Esplosiva",
                 de: "Schwanzschmetterer",
                 "pt-br": "Pancada de Cauda",
-                "zh-tw": "長尾擊碎"
+                "zh-tw": "長尾擊碎",
+                ja: "テールスマッシュ"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 90
         }

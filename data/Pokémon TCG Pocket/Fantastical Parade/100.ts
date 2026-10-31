@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/100"
     },
     name: {
         en: "Galarian Obstagoon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Obstagoon di Galar",
         "de": "Galar-Barrikadax",
         "pt-br": "Obstagoon de Galar",
-        "zh-tw": "伽勒爾堵攔熊"
+        "zh-tw": "伽勒爾堵攔熊",
+        ja: "ガラルタチフサグマ"
     },
     illustrator: "kodama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Linoone di Galar",
         "de": "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
-        "zh-tw": "伽勒爾直衝熊"
+        "zh-tw": "伽勒爾直衝熊",
+        ja: "ガラルマッスグマ"
     },
     description: {
         en: "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si è evoluto dopo aver sperimentato numerosi combattimenti.\nIncrociando le braccia lancia un grido\nfarebbe trasalire qualsiasi avversario.",
         "de": "Es entwickelte sich nach zahlreichen Kämpfen.\nWährend es die Arme verschränkt, stößt es einen Schrei aus\nwürde jeden Gegner zusammenzucken lassen.",
         "pt-br": "Ele evoluiu depois de passar por inúmeras lutas.\nAo cruzar os braços, solta um grito que\nfaria qualquer oponente recuar.",
-        "zh-tw": "它是在經歷了無數次戰鬥後進化而來的。\n它交叉著雙臂，發出一聲大喊：\n會讓任何對手退縮。"
+        "zh-tw": "它是在經歷了無數次戰鬥後進化而來的。\n它交叉著雙臂，發出一聲大喊：\n會讓任何對手退縮。",
+        ja: "ケンカを 繰り返し 進化。 腕をクロスし 叫ぶ 雄叫びは どんな 相手も 怯ませるぞ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo spietato",
                 "de": "Gnadenloser Schlag",
                 "pt-br": "Ataque Impiedoso",
-                "zh-tw": "無情打擊"
+                "zh-tw": "無情打擊",
+                ja: "むじひないちげき"
             },
             damage: "70+",
             cost: ["Darkness", "Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario ha dei danni su di sé, questo attacco infligge 50 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners Schaden hat, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente sofrer dano, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 50 點。",
+                ja: "相手のバトルポケモンがダメージを受けているなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/034"
     },
     name: {
         en: "Marshtomp",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Marshtomp",
         "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "沼躍魚"
+        "zh-tw": "沼躍魚",
+        ja: "ヌマクロー"
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mudkip",
         "de": "Hydropi",
         "pt-br": "Mudkip",
-        "zh-tw": "水躍魚"
+        "zh-tw": "水躍魚",
+        ja: "ミズゴロウ"
     },
     description: {
         en: "It is at its best when on muddy ground that offers\npoor footing. It quickly overwhelms opponents\nthat are bogged down and unable to move.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dà il meglio di sé quando si trova sul terreno fangoso che offre\npessimo appoggio. Travolge rapidamente gli avversari\nche sono impantanati e incapaci di muoversi.",
         "de": "Es ist am besten, wenn es sich auf schlammigem Untergrund befindet\nschlechter Stand. Es überwältigt Gegner schnell\ndie festsitzen und sich nicht bewegen können.",
         "pt-br": "Está no seu melhor quando em terreno lamacento que oferece\npéssimos pés. Ele rapidamente domina os oponentes\nque estão atolados e incapazes de se mover.",
-        "zh-tw": "當在泥濘的地面上時它是最好的\n立足點差。很快就壓倒了對手\n陷入困境無法移動。"
+        "zh-tw": "當在泥濘的地面上時它是最好的\n立足點差。很快就壓倒了對手\n陷入困境無法移動。",
+        ja: "ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Navigare",
                 "de": "Surfen",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/093",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/093",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/093"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/093"
     },
     name: {
         en: "Rotom ex",
@@ -48,7 +49,7 @@ const card: Card = {
                 "zh-tw": "廢品電光",
                 it: "Rottami Scintillanti",
                 de: "Schrottfunken",
-                ja: "Junk Spark",
+                ja: "ジャンクスパーク",
                 ko: "Junk Spark"
             },
             effect: {
@@ -59,7 +60,7 @@ const card: Card = {
                 "zh-tw": "增加自己的棄牌區的物品卡張數×10點傷害。",
                 it: "Questo attacco infligge 10 danni in più per ogni carta Strumento nella tua pila degli scarti.",
                 de: "Diese Attacke fügt für jede Itemkarte in deinem Ablagestapel 10 Schadenspunkte mehr zu.",
-                ja: "This attack does 10 more damage for each Item card in your discard pile.",
+                ja: "自分のトラッシュにあるグッズの枚数×10ダメージ追加。",
                 ko: "This attack does 10 more damage for each Item card in your discard pile."
             },
             damage: "30+"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/109"
     },
     name: {
         en: "Manaphy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Manaphy",
         "pt-br": "Manaphy",
         "zh-tw": "瑪納霏",
+        ja: "マナフィ",
     },
     illustrator: "MINAMINAMI Take",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Nasce con un potere meraviglioso che gli consente di legarsi\ncon qualsiasi tipo di Pokémon.",
         "de": "Es wird mit einer wundersamen Kraft geboren, die es verbindet\nmit jeder Art von Pokémon.",
         "pt-br": "Nasce com um poder maravilhoso que lhe permite unir-se\ncom qualquer tipo de Pokémon.",
-        "zh-tw": "它與生俱來就有一種奇妙的力量，可以讓它結合在一起\n與任何種類的神奇寶貝。"
+        "zh-tw": "它與生俱來就有一種奇妙的力量，可以讓它結合在一起\n與任何種類的神奇寶貝。",
+        ja: "生まれたときから 備わっている 不思議な 力を 使うと どんな ポケモンとも 心が 通い合う。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Regalo oceanico",
                 "de": "Ozeanisches Geschenk",
                 "pt-br": "Presente Oceânico",
-                "zh-tw": "海洋禮物"
+                "zh-tw": "海洋禮物",
+                ja: "うみのおくりもの"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scegli 2 dei tuoi Pokémon in panchina. Per ognuno di questi Pokémon, prendi un'Energia {W} dalla tua Zona Energetica e assegnala a quel Pokémon.",
                 "de": "Wähle 2 deiner Bank-Pokémon. Nimm für jedes dieser Pokémon eine {W}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Escolha 2 dos seus Pokémon no Banco. Para cada um desses Pokémon, pegue uma Energia {W} da sua Zona de Energia e ligue-a àquele Pokémon.",
-                "zh-tw": "選擇 2 個後備神奇寶貝。對於每一個神奇寶貝，從你的能量區獲取一個 {W} 能量並將其附加到該神奇寶貝上。"
+                "zh-tw": "選擇 2 個後備神奇寶貝。對於每一個神奇寶貝，從你的能量區獲取一個 {W} 能量並將其附加到該神奇寶貝上。",
+                ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{W}エネルギーを出し、1個ずつつける。"
             }
         }],
     weaknesses: [{

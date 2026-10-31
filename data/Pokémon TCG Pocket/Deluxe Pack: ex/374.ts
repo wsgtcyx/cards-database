@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/374",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/374",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/374",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/374"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/374",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/374"
 	},
 	name: {
         en: "Lillie",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lilly",
         "pt-br": "Lílian",
         "zh-tw": "莉莉艾",
+        ja: "リーリエ",
     },
     illustrator: "yuu",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 60 danni da 1 dei tuoi Pokémon di Fase 2.",
         "de": "Heile 60 Schadenspunkte bei 1 deiner Stufe-2-Pokémon.",
         "pt-br": "Cure 60 de dano de 1 dos seus Pokémon do Estágio 2.",
-        "zh-tw": "治療 1 只 2 階段神奇寶貝造成的 60 點傷害。"
+        "zh-tw": "治療 1 只 2 階段神奇寶貝造成的 60 點傷害。",
+        ja: "自分の2進化ポケモン1匹のHPを60回復。"
     },
     trainerType: "Supporter"
 };

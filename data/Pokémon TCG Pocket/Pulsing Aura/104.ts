@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/104",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/104",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/104"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/104"
     },
     name: {
         en: "Seviper",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Affila di continuo la lama della sua coda sulle rocce\nper renderla taglientissima. È un acerrimo nemico di\nZangoose.",
         de: "Es hält die Klinge an seinem Schweif scharf,\nindem es sie ständig an Steinen wetzt. Es ist\nder Erzfeind von Sengo.",
         "pt-br": "O polimento constante torna o fio da lâmina na cauda extremamente afiado. É o arquirrival de Zangoose.",
-        "zh-tw": "不斷的拋光使得其尾部的刀刃極其鋒利。這是貓鼬斬的主要競爭對手。"
+        "zh-tw": "不斷的拋光使得其尾部的刀刃極其鋒利。這是貓鼬斬的主要競爭對手。",
+        ja: "尻尾の 刀は いつも 岩で 研いでいるので 切れ味 ばつぐん。 ザングースとは 因縁の あいだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Velenpuntura",
                 de: "Gifthieb",
                 "pt-br": "Golpe Envenenado",
-                "zh-tw": "毒擊"
+                "zh-tw": "毒擊",
+                ja: "どくづき"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的戰鬥寶可夢現在中毒了。"
+                "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             },
             damage: 20
         }

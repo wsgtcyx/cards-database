@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/031"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/031"
     },
     name: {
         en: "Veluza",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Agiluza",
         "pt-br": "Veluza",
         "zh-tw": "輕身鱈",
+        ja: "ミガルーサ",
         pt: "Veluza"
     },
     illustrator: "Oswaldo KATO",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Veluza ha eccellenti capacità rigenerative. Perde la carne in eccesso dal corpo per aumentare la sua agilità, quindi carica la preda.",
         "de": "Agiluza verfügt über hervorragende Regenerationsfähigkeiten. Es wirft überschüssiges Fleisch von seinem Körper ab, um seine Beweglichkeit zu steigern, und greift dann seine Beute an.",
         "pt-br": "Veluza possui excelentes capacidades regenerativas. Ele tira a carne restante de seu corpo para aumentar sua agilidade e depois ataca sua presa.",
-        "zh-tw": "輕身鱈具有出色的再生能力。它會從身體上脫落多餘的肉來增強敏捷性，然後向獵物衝鋒。"
+        "zh-tw": "輕身鱈具有出色的再生能力。它會從身體上脫落多餘的肉來增強敏捷性，然後向獵物衝鋒。",
+        ja: "高い 再生能力を 持つ。 体の 贅肉を 捨てて 身軽になり 獲物に 突撃。"
     },
     stage: "Basic",
     attacks: [
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Spirale di spargimento",
                 "de": "Haarausfallspirale",
                 "pt-br": "Espiral de derramamento",
-                "zh-tw": "脫落螺旋"
+                "zh-tw": "脫落螺旋",
+                ja: "ダイエットスクリュー"
             },
             damage: "90",
             cost: ["Water", "Colorless", "Colorless", "Colorless"],
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Se non hai carte nel tuo mazzo, questo attacco può essere utilizzato per 1 Energia Water.",
                 "de": "Wenn Sie keine Karten in Ihrem Deck haben, kann dieser Angriff für 1 Wasserenergie verwendet werden.",
                 "pt-br": "Se você não tiver cartas em seu baralho, este ataque pode ser usado por 1 Energia Água.",
-                "zh-tw": "如果你的牌組中沒有卡牌，則此攻擊可以消耗 1 點水能量。"
+                "zh-tw": "如果你的牌組中沒有卡牌，則此攻擊可以消耗 1 點水能量。",
+                ja: "このワザは、自分の山札が1枚もないなら、{W}エネルギー1個で使える。"
             },
         },
     ],

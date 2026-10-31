@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/087",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/087"
     },
     name: {
         en: "Luxio",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Luxio",
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
+        ja: "ルクシオ",
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
+        ja: "コリンク",
     },
     description: {
         en: "By gathering their tails together, they collectively\ngenerate powerful electricity from their claws.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Riunendo insieme le code, si riuniscono collettivamente\ngenerano una potente elettricità dai loro artigli.",
         "de": "Indem sie ihre Schwänze zusammenziehen, bilden sie ein Kollektiv\nerzeugen aus ihren Klauen starke Elektrizität.",
         "pt-br": "Ao juntarem suas caudas, eles coletivamente\ngerar eletricidade poderosa com suas garras.",
-        "zh-tw": "通過將尾巴聚集在一起，它們集體\n從它們的爪子中產生強大的電力。"
+        "zh-tw": "通過將尾巴聚集在一起，它們集體\n從它們的爪子中產生強大的電力。",
+        ja: "仲間と 尻尾を つなげると より 強力な 電撃を ツメから 出すことが できる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 30,
             cost: ["Lightning"]

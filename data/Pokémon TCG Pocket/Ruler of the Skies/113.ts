@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/113",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/113",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/113"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/113"
     },
     name: {
         en: "Archaludon",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Scava buchi nelle montagne in cerca di cibo. È talmente robusto che non si fa un graffio neanche se viene travolto da una frana.",
         de: "Auf der Suche nach Futter gräbt es in den Bergen Löcher. Es ist so robust, dass es ihm auch nichts ausmacht, wenn diese über ihm einstürzen.",
         "pt-br": "Cava buracos em montanhas em busca de comida. É tão robusto que, mesmo que fique preso em uma caverna, não ficará incomodado.",
-        "zh-tw": "會在山裡挖洞來尋找食物。\n身體非常堅硬，即使遇到\n洞穴坍塌也能毫不會在意。"
+        "zh-tw": "會在山裡挖洞來尋找食物。\n身體非常堅硬，即使遇到\n洞穴坍塌也能毫不會在意。",
+        ja: "山中で 穴を 掘り エサを 探す。 落盤に 巻きこまれても へっちゃらなくらい 頑丈。※ ブルーベリー学園での冒険で出会うことができます。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Lâmina Devastadora",
                 "zh-tw": "憤怒之刃",
                 "it": "Lama Furente",
-                "de": "Wutklinge"
+                "de": "Wutklinge",
+                ja: "いかりのやいば"
             },
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 80 more damage.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢有受到傷害,則增加80點傷害。",
                 "it": "Se questo Pokémon è danneggiato, questo attacco infligge 80 danni in più.",
-                "de": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 80 Schadenspunkte mehr zu."
+                "de": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+                ja: "このポケモンがダメージを受けているなら、80ダメージ追加。"
             },
             damage: "80+"
         }

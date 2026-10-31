@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/048"
     },
     name: {
         en: "Goomy",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le corna di Goomy sono eccellenti organi sensoriali che coprono tutti e cinque i sensi di Goomy. Goomy rileva il pericolo derivante dal movimento dell'aria.",
         de: "Die Hörner von Viscora sind ausgezeichnete Sinnesorgane, die alle fünf Sinne von Viscora abdecken. Viscora erkennt Gefahren durch Luftbewegungen.",
         "pt-br": "Os chifres de Goomy são excelentes órgãos sensoriais que cobrem todos os cinco sentidos de Goomy. Goomy detecta o perigo do movimento do ar.",
-        "zh-tw": "黏黏寶的角是優秀的感覺器官，涵蓋了黏黏寶的所有五種感官。 黏黏寶 從空氣的流動中察覺到危險。"
+        "zh-tw": "黏黏寶的角是優秀的感覺器官，涵蓋了黏黏寶的所有五種感官。 黏黏寶 從空氣的流動中察覺到危險。",
+        ja: "ツノは 五感の すべてを まかなう 優れた 感覚器官。 空気の 動きで 危険を 感じとる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fuggi Fuggi",
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
-                "zh-tw": "踩"
+                "zh-tw": "踩",
+                ja: "ふむ"
             },
             damage: 20
         }

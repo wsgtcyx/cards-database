@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/072"
     },
     name: {
         en: "Milotic",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Milotic",
         "pt-br": "Milotic",
         "zh-tw": "美納斯",
+        ja: "ミロカロス",
     },
     illustrator: "YASHIRO Nanaco",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Barschwa",
         "pt-br": "Feebas",
         "zh-tw": "醜醜魚",
+        ja: "ヒンバス",
     },
     description: {
         en: "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Milotic ha fornito ispirazione a molti artisti.\nÈ stato anche definito il più\nbellissimi Pokémon in assoluto.",
         "de": "Milotic hat viele Künstler inspiriert.\nEs wurde sogar als das meiste bezeichnet\nwunderschönes Pokémon von allen.",
         "pt-br": "Milotic inspirou muitos artistas.\nFoi até referido como o mais\nlindo Pokémon de todos.",
-        "zh-tw": "米洛蒂奇為許多藝術家提供了靈感。\n甚至被稱為最\n美麗的神奇寶貝。"
+        "zh-tw": "米洛蒂奇為許多藝術家提供了靈感。\n甚至被稱為最\n美麗的神奇寶貝。",
+        ja: "もっとも 美しい ポケモンとも 呼ばれ 多くの 芸術家に インスピレーションを 与えてきた。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Increspature curative",
                 "de": "Heilende Wellen",
                 "pt-br": "Ondulações de Cura",
-                "zh-tw": "療愈漣漪"
+                "zh-tw": "療愈漣漪",
+                ja: "いやしのはもん"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi curare 60 danni da 1 dei tuoi Pokémon {W}.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 60 Schadenspunkte von 1 deiner {W} Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá curar 60 de dano de 1 dos seus {W} Pokémon.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以從你的 1 只 {W} 神奇寶貝那裡治療 60 點傷害。"
+                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以從你的 1 只 {W} 神奇寶貝那裡治療 60 點傷害。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の{W}ポケモン1匹のHPを60回復。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Bordo acquatico",
                 "de": "Aqua Edge",
                 "pt-br": "Borda Aqua",
-                "zh-tw": "水色邊緣"
+                "zh-tw": "水色邊緣",
+                ja: "アクアエッジ"
             },
             damage: 60,
             cost: ["Water", "Colorless"]

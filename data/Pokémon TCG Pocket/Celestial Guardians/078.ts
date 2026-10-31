@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/078"
     },
     name: {
         en: "Cutiefly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cutiefly",
         de: "Wommel",
         'pt-br': "Cutiefly",
+        ja: "アブリー",
         ko: "에블리",
         "zh-tw": "萌虻",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Adora il nettare e il polline. Lo si vede spesso nei prati\nmentre bisticcia con i Butterfree per accaparrarsi il cibo.",
         de: "Es liebt Blütenstaub und Nektar. Schwirrt es auf der\nSuche nach Futter durch Blumenbeete, handelt es sich\noft Reibereien mit Smettbo ein.",
         'pt-br': "Néctar e pólen são favoritos em seu cardápio.\nEm campos floridos, briga com Butterfree\npor causa de comida.",
+        ja: "花のミツと 花粉が 好物。 花畑で エサを 巡り バタフリーと 小競り合いをしている。",
         ko: "꽃의 꿀과 화분을 좋아한다.\n꽃밭에서 먹이를 두고\n버터플과 옥신각신한다.",
         "zh-tw": "花蜜和花粉是它最喜歡的食物。在花叢中，它與蝴蝶因食物發生小衝突。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 'pt-br': "Asa",
+                ja: "はばたく",
                 ko: "홰치기",
                 "zh-tw": "皮瓣"
             },

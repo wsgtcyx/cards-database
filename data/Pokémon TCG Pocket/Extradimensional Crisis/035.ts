@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/035"
     },
     name: {
         en: "Sandygast",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
+        ja: "スナバァ",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se perde la pala, vi attaccherà qualcosa\naltrimenti, come un ramo, da fare nella sua testa\nfarlo finché non trova un'altra pala.",
         "de": "Wenn es seine Schaufel verliert, bleibt etwas hängen\nsonst – wie ein Zweig – in seinem Kopf zu machen\ntun, bis es eine andere Schaufel findet.",
         "pt-br": "Se perder a pá, vai enfiar alguma coisa\noutra coisa - como um galho - em sua cabeça para fazer\nfaça até encontrar outra pá.",
-        "zh-tw": "如果它失去了鏟子，它會粘上一些東西\n否則——就像一根樹枝——在它的頭腦中製造\n這樣做，直到找到另一把鏟子。"
+        "zh-tw": "如果它失去了鏟子，它會粘上一些東西\n否則——就像一根樹枝——在它的頭腦中製造\n這樣做，直到找到另一把鏟子。",
+        ja: "スコップを なくすと 木の枝などを 代わりに 挿し 新たな スコップが 見つかるまで 気を 紛らわす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di sabbia",
                 "de": "Sandiger Schuss",
                 "pt-br": "Tiro arenoso",
-                "zh-tw": "桑迪射擊"
+                "zh-tw": "桑迪射擊",
+                ja: "サンドショット"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

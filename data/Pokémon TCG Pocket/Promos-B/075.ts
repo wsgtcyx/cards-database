@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/075",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/075",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/075"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/075"
     },
     name: {
         en: "Quagsire",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "A causa del suo atteggiamento rilassato e spensierato, mentre nuota spesso sbatte la testa contro i massi del letto dei fiumi e gli scafi delle barche.",
         de: "Aufgrund seiner entspannten und unbekümmerten Haltung stößt er beim Schwimmen häufig mit dem Kopf an Felsbrocken im Flussbett und Bootsrümpfen.",
         "pt-br": "Devido à sua atitude relaxada e despreocupada, muitas vezes bate a cabeça nas pedras do leito dos rios e nos cascos dos barcos enquanto nada.",
-        "zh-tw": "由於其輕鬆、無憂無慮的態度，它在游泳時經常將頭撞到河床巨石和船體上。"
+        "zh-tw": "由於其輕鬆、無憂無慮的態度，它在游泳時經常將頭撞到河床巨石和船體上。",
+        ja: "のんびりとした 性格で 泳いでいては 川底の 岩や 船底に 頭を ぶつけている。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Stampa energetica",
                 de: "Energiepresse",
                 "pt-br": "Imprensa de Energia",
-                "zh-tw": "能量壓制"
+                "zh-tw": "能量壓制",
+                ja: "エナジープレス"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
             },
             damage: "40+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/084",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/084"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/084",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/084"
     },
     name: {
         en: "Ampharos",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ampharos",
         "pt-br": "Ampharos",
         "zh-tw": "電龍",
+        ja: "デンリュウ",
     },
     illustrator: "Megumi Mizutani",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waaty",
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
+        ja: "モココ",
     },
     description: {
         en: "When it gets dark, the light from its bright,\nshiny tail can be seen from far away on the\nocean's surface.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando fa buio, la luce è brillante,\nla coda lucida può essere vista da lontano sul\nsuperficie dell'oceano.",
         "de": "Wenn es dunkel wird, geht das Licht aus seinem hellen,\nDer glänzende Schwanz ist schon von weitem zu sehen\nMeeresoberfläche.",
         "pt-br": "Quando escurece, a luz brilha,\ncauda brilhante pode ser vista de longe no\nsuperfície do oceano.",
-        "zh-tw": "當天黑時，燈光從明亮處發出，\n從遠處就可以看到閃亮的尾巴\n海洋表面。"
+        "zh-tw": "當天黑時，燈光從明亮處發出，\n從遠處就可以看到閃亮的尾巴\n海洋表面。",
+        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Proiettile zapping",
                 "de": "Kugel zappen",
                 "pt-br": "Bala Zapping",
-                "zh-tw": "電擊子彈"
+                "zh-tw": "電擊子彈",
+                ja: "ビリリバレット"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "1 dei Pokémon nella panchina del tuo avversario viene scelto a caso. Questo attacco gli infligge anche 20 danni.",
                 "de": "1 Pokémon auf der Bank deines Gegners wird zufällig ausgewählt. Dieser Angriff fügt ihm außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 20 de dano.",
-                "zh-tw": "隨機選擇 1 只對手後備神奇寶貝。這次攻擊也會對其造成 20 點傷害。"
+                "zh-tw": "隨機選擇 1 只對手後備神奇寶貝。這次攻擊也會對其造成 20 點傷害。",
+                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。"
             }
         }],
     weaknesses: [{

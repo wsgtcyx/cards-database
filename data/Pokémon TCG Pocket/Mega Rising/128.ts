@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/128",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/128"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/128"
     },
     name: {
         en: "Hippopotas",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hippopotas",
         "pt-br": "Hippopotas",
         "zh-tw": "沙河馬",
+        ja: "ヒポポタス",
     },
     illustrator: "Yuya Oka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si avvolge nella sabbia per allontanare i germi.\nViaggia facilmente attraverso le sabbie del deserto.",
         "de": "Zur Abwehr von Keimen hüllt es sich in Sand.\nEs bewegt sich problemlos durch den Sand der Wüste.",
         "pt-br": "Ele se envolve em areia para afastar os germes.\nEle viaja facilmente pelas areias do deserto.",
-        "zh-tw": "它用沙子包裹自己以抵禦細菌。\n它可以輕鬆地穿過沙漠的沙子。"
+        "zh-tw": "它用沙子包裹自己以抵禦細菌。\n它可以輕鬆地穿過沙漠的沙子。",
+        ja: "砂で 体を 覆うことで ばい菌から 身を 守る。 砂漠の 砂の 中を 移動。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di fango",
                 "de": "Schlammschuss",
                 "pt-br": "Tiro de lama",
-                "zh-tw": "泥彈"
+                "zh-tw": "泥彈",
+                ja: "マッドショット"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

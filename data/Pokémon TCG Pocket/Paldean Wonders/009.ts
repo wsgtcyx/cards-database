@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/009",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/009",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/009"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/009"
     },
     name: {
         en: "Arboliva",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Olithena",
         "pt-br": "Arboliva",
         "zh-tw": "奧利瓦",
+        ja: "オリーヴァ",
         pt: "Arboliva"
     },
     illustrator: "Kouki Saitou",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Olivinio",
         "pt-br": "Dolliv",
         "zh-tw": "奧利紐",
+        ja: "オリーニョ",
         pt: "Dolliv",
         'es-mx': "Dolliv"
     },
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Questo Pokémon calmo è molto compassionevole. Condividerà il suo delizioso olio ricco di sostanze nutritive con i Pokémon indeboliti.",
         "de": "Dieses ruhige Pokémon ist sehr mitfühlend. Es wird sein köstliches, nährstoffreiches Öl mit geschwächten Pokémon teilen.",
         "pt-br": "Este Pokémon calmo é muito compassivo. Ele compartilhará seu óleo delicioso e rico em nutrientes com Pokémon enfraquecidos.",
-        "zh-tw": "這隻冷靜的寶可夢非常富有同情心。它會與虛弱的寶可夢分享美味且營養豐富的油。"
+        "zh-tw": "這隻冷靜的寶可夢非常富有同情心。它會與虛弱的寶可夢分享美味且營養豐富的油。",
+        ja: "穏やかで とても 慈悲深い。 栄養豊富な 美味しい オイルを 弱った ポケモンに 分け与える。"
     },
     stage: "Stage2",
     abilities: [
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Guarigione extra",
                 "de": "Zusätzliche Heilung",
                 "pt-br": "Cura Extra",
-                "zh-tw": "額外治療"
+                "zh-tw": "額外治療",
+                ja: "エクストラヒール"
             },
             effect: {
                 en: "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon.",
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi curare 60 danni da 1 dei tuoi Pokémon ex a cui sono assegnate delle Energie. Se lo fai, scarta un'Energia casuale da quel Pokémon.",
                 "de": "Einmal während deines Zuges kannst du 60 Schadenspunkte von einem deiner Ex-Pokémon heilen, an das mindestens eine Energie angelegt ist. Wenn du dies tust, wirf eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Uma vez durante o seu turno, você pode curar 60 de dano de 1 dos seus Pokémon ex que tenha alguma Energia ligada. Se fizer isso, descarte uma Energia aleatória daquele Pokémon.",
-                "zh-tw": "在你的回合中，你可以治療 1 隻帶有能量的寶可夢 {ex}造成的 60 點傷害。如果這樣做，則丟棄該寶可夢的隨機能量。"
+                "zh-tw": "在你的回合中，你可以治療 1 隻帶有能量的寶可夢 {ex}造成的 60 點傷害。如果這樣做，則丟棄該寶可夢的隨機能量。",
+                ja: "自分の番に1回使える。エネルギーがついている自分の「ポケモンex」1匹のHPを60回復。その後、そのポケモンからエネルギーをランダムに1個トラッシュ。"
             },
         },
     ],
@@ -81,6 +87,7 @@ const card: Card = {
                 de: "Samenbomben",
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
+                ja: "タネばくだん",
                 'es-mx': "Bomba Semilla",
                 pt: "Bomba de Sementes"
             },

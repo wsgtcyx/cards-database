@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/045"
     },
     name: {
         en: "Pheromosa",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schabelle",
         "pt-br": "Pheromosa",
         "zh-tw": "費洛美螂",
+        ja: "フェローチェ",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Una forma di vita che vive in un altro mondo, il suo corpo\nè sottile ed elastica, ma possiede anche\ngrande potere.",
         "de": "Eine Lebensform, die in einer anderen Welt lebt, ihrem Körper\nist dünn und geschmeidig, besitzt aber auch\ngroße Macht.",
         "pt-br": "Uma forma de vida que vive em outro mundo, seu corpo\né fino e flexível, mas também possui\ngrande poder.",
-        "zh-tw": "生活在異世界的生命體，其身體\n薄而柔軟，但它還具有\n偉大的力量。"
+        "zh-tw": "生活在異世界的生命體，其身體\n薄而柔軟，但它還具有\n偉大的力量。",
+        ja: "別世界に 棲む 生命体。 細く しなやかな 身体 だが 強いパワーを 秘めている 様子。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Salta il blues",
                 "de": "Jump Blues",
                 "pt-br": "Salto Azul",
-                "zh-tw": "跳躍藍調"
+                "zh-tw": "跳躍藍調",
+                ja: "ジャンプブルース"
             },
             damage: 20,
             cost: ["Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。"
             }
         }],
     weaknesses: [{

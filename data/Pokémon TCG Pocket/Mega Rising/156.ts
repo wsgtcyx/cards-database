@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/156",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/156"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/156",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/156"
     },
     name: {
         en: "Zweilous",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Duodino",
         "pt-br": "Zweilous",
         "zh-tw": "雙首暴龍",
+        ja: "ジヘッド",
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kapuno",
         "pt-br": "Deino",
         "zh-tw": "單首龍",
+        ja: "モノズ",
     },
     description: {
         en: "The two heads have different likes and dislikes.\nBecause the heads fight with each other, Zweilous\ngets stronger without needing to rely on others.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le due teste hanno simpatie e antipatie diverse.\nPerché le teste combattono tra loro, Zweilous\ndiventa più forte senza bisogno di fare affidamento sugli altri.",
         "de": "Die beiden Köpfe haben unterschiedliche Vorlieben und Abneigungen.\nWeil die Köpfe miteinander kämpfen, Zweilous\nwird stärker, ohne dass man sich auf andere verlassen muss.",
         "pt-br": "As duas cabeças têm gostos e desgostos diferentes.\nPorque as cabeças brigam entre si, Zweilous\nfica mais forte sem precisar depender de outros.",
-        "zh-tw": "兩個頭有不同的好惡。\n因為頭顱互相爭鬥，Zweilous\n不需要依靠別人就能變得更強大。"
+        "zh-tw": "兩個頭有不同的好惡。\n因為頭顱互相爭鬥，Zweilous\n不需要依靠別人就能變得更強大。",
+        ja: "２つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna dell'Oscurità",
                 "de": "Dunkelheitszahn",
                 "pt-br": "Presa da Escuridão",
-                "zh-tw": "黑暗之牙"
+                "zh-tw": "黑暗之牙",
+                ja: "やみのキバ"
             },
             damage: 40,
             cost: ["Darkness", "Darkness"]

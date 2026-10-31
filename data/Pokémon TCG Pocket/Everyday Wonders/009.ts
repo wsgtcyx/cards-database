@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/009",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/009",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/009"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/009"
     },
     name: {
         en: "Ninetales",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Dotato di nove code e di una pelliccia dorata,\nsi dice che viva 1000 anni.",
         de: "Es hat neun lange Schweife und sein Fell glänzt\ngülden. Man sagt, es soll 1 000 Jahre alt werden.",
         "pt-br": "Tem nove caudas longas e pêlo que brilha em ouro. Diz-se que vive 1.000 anos.",
-        "zh-tw": "它有九條長尾巴，毛皮閃閃發光。據說可以活一千年。"
+        "zh-tw": "它有九條長尾巴，毛皮閃閃發光。據說可以活一千年。",
+        ja: "黄金に 輝く 体毛と ９本の 長い 尻尾を 持つ。 １０００年は 生きると 言われる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Danza della brace",
                 de: "Gluttanz",
                 "pt-br": "Dança da Brasa",
-                "zh-tw": "火花舞"
+                "zh-tw": "火花舞",
+                ja: "ひのこのまい"
             },
             effect: {
                 en: "Flip 9 coins. This attack does 20 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 9 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 9 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 9 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 9 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 9 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを9回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

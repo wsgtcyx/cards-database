@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/043",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/043",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/043"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/043"
     },
     name: {
         en: "Huntail",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Vive nelle profondità marine. Secondo le\nleggende, quando un Huntail si arena sulla riva\nè segno che sta per accadere una disgrazia.",
         de: "Es lebt in der Tiefsee. Einer Überlieferung\nzufolge geschieht etwas Unheilvolles, wenn\nein Aalabyss am Strand auftaucht.",
         "pt-br": "Os mares profundos são o seu habitat. De acordo com a tradição, quando Huntail chegar à costa, algo infeliz acontecerá.",
-        "zh-tw": "棲息在深海中。傳說如果\n有獵斑魚被沖上沙灘，\n就會有不好的事發生。"
+        "zh-tw": "棲息在深海中。傳說如果\n有獵斑魚被沖上沙灘，\n就會有不好的事發生。",
+        ja: "深海に 生息。 ハンテールが 浜に 打ちあがると 不吉なことが 起こるという 言い伝えが ある。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Idrosplash",
                 de: "Hydroplatscher",
                 "pt-br": "Hidroborrifada",
-                "zh-tw": "水炮濺射"
+                "zh-tw": "水炮濺射",
+                ja: "ハイドロスプラッシュ"
             },
             damage: 70
         }

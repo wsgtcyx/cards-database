@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/069"
     },
     name: {
         en: "Shaymin",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shaymin",
         de: "Shaymin",
         'pt-br': "Shaymin",
+        ja: "シェイミ",
         ko: "쉐이미",
         "zh-tw": "謝米",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Può dissolvere le tossine nell'aria per mutare\nall'istante una terra arida in un rigoglioso campo fiorito.",
         de: "Es kann die Luft von Giften reinigen und Ödland\nin ein üppig blühendes Blumenfeld verwandeln.",
         'pt-br': "Pode dissolver toxinas no ar para instantaneamente\ntransformar terras arruinadas em campos\nde flores deslumbrantes.",
+        ja: "大気の 毒素を 分解して 荒れた 大地を 一瞬のうちに 花畑にする 力を 持つ。",
         ko: "대기의 독소를 분해해서\n거칠어진 대지를 일순간에\n꽃밭으로 만드는 힘을 가지고 있다.",
         "zh-tw": "它可以溶解空氣中的毒素，讓荒蕪的土地瞬間變成茂盛的花田。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Supporto Celeste",
                 de: "Himmelshilfe",
                 'pt-br': "Suporte Celeste",
+                ja: "スカイサポート",
                 ko: "스카이 서포트",
                 "zh-tw": "天空支持"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Fintanto che questo Pokémon è nella tua panchina, il costo di ritirata del tuo Pokémon Base attivo è ridotto di 1.",
                 de: "Solange sich dieses Pokémon auf deiner Bank befindet, verringern sich die Rückzugskosten deines Aktiven Basis-Pokémon um 1.",
                 'pt-br': "Enquanto este Pokémon estiver no seu Banco, o custo de Recuo do seu Pokémon Básico Ativo será 1 a menos.",
+                ja: "このポケモンがベンチにいるかぎり、自分のバトル場のたねポケモンのにげるためのエネルギーを、1個少なくする。",
                 ko: "이 포켓몬이 벤치에 있는 한, 자신의 배틀필드의 Basic Pokémon기본 포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다.",
                 "zh-tw": "只要這只神奇寶貝在你的替補席上，你的活躍基礎神奇寶貝的撤退成本就會減少 1。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 'pt-br': "Asa",
+                ja: "はばたく",
                 ko: "홰치기",
                 "zh-tw": "皮瓣"
             },

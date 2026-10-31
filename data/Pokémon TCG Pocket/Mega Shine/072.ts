@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/072",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/072",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/072"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/072"
     },
     name: {
         en: "Groudon",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Pokémon leggendario che rappresenta la terra. Dopo\naver sfidato Kyogre, è caduto in un sonno profondo.",
         de: "Dieses Legendäre Pokémon soll das Land verkörpern.\nEs ist in einen Schlaf gefallen, nachdem es mit Kyogre\ngekämpft hat.",
         "pt-br": "Diz-se que este Pokémon lendário representa a terra. Adormeceu depois de duelar com Kyogre.",
-        "zh-tw": "據說這隻傳說中的寶可夢代表了這片土地。它在決鬥 蓋歐卡 後進入睡眠狀態。"
+        "zh-tw": "據說這隻傳說中的寶可夢代表了這片土地。它在決鬥 蓋歐卡 後進入睡眠狀態。",
+        ja: "カイオーガと 死闘の末 長い 眠りに ついた。大地の 化身と 言われる 伝説の ポケモン。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Furia di Gaia",
                 de: "Gaia-Ausbruch",
                 "pt-br": "Disparo de Gaia",
-                "zh-tw": "蓋亞爆破"
+                "zh-tw": "蓋亞爆破",
+                ja: "ガイアブラスト"
             },
             effect: {
                 en: "Discard 2 random Energy from among the Energy attached to all of your Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scarta due Energie casuali tra quelle assegnate a tutti i tuoi Pokémon.",
                 de: "Lege 2 zufällige Energien der an alle deine Pokémon angelegten Energien ab.",
                 "pt-br": "Descarte 2 Energias aleatórias dentre as Energias ligadas a todos os seus Pokémon.",
-                "zh-tw": "從你所有的寶可夢所附帶的能量中隨機丟棄 2 個能量。"
+                "zh-tw": "從你所有的寶可夢所附帶的能量中隨機丟棄 2 個能量。",
+                ja: "自分のポケモン全員についているエネルギーからランダムに2個トラッシュ。"
             },
             damage: 130
         }

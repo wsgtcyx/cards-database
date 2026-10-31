@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/113",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/113"
     },
     name: {
         en: "Gothorita",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hypnomorba",
         "pt-br": "Gothorita",
         "zh-tw": "哥德小童",
+        ja: "ゴチミル",
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Mollimorba",
         "pt-br": "Gothita",
         "zh-tw": "哥德寶寶",
+        ja: "ゴチム",
     },
     description: {
         en: "Using its psychic power, it arranges pebbles to\nform the shapes of constellations. Some people\nbelieve this Pokémon came from outer space.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usando il suo potere psichico, dispone i sassolini\nformano le forme delle costellazioni. Alcune persone\ncredono che questo Pokémon provenga dallo spazio.",
         "de": "Mit seiner psychischen Kraft ordnet es Kieselsteine an\nbilden die Formen von Sternbildern. Einige Leute\nIch glaube, dass dieses Pokémon aus dem Weltraum stammt.",
         "pt-br": "Usando seu poder psíquico, ele organiza pedras para\nformar as formas das constelações. Algumas pessoas\nacredito que este Pokémon veio do espaço sideral.",
-        "zh-tw": "它利用其精神力量排列鵝卵石\n形成星座的形狀。有些人\n相信這只神奇寶貝來自外太空。"
+        "zh-tw": "它利用其精神力量排列鵝卵石\n形成星座的形狀。有些人\n相信這只神奇寶貝來自外太空。",
+        ja: "サイコパワーで 小石を 並べて 星座を 作る。 宇宙から 来たと 考える 人も いる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Schiaffo",
                 "de": "Schlagen",
                 "pt-br": "Tapa",
-                "zh-tw": "拍擊"
+                "zh-tw": "拍擊",
+                ja: "ビンタ"
             },
             damage: 30,
             cost: ["Psychic"]

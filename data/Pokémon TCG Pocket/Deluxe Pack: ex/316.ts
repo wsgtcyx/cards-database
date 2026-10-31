@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/316",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/316",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/316",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/316"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/316",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/316"
 	},
 	name: {
 		en: "Pokémon Communication",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Comunicazione Pokémon",
 		de: "Pokémon-Kommunikation",
 		"pt-br": "Comunicação Pokémon",
-		"zh-tw": "寶可夢通信"
+		"zh-tw": "寶可夢通信",
+		ja: "ポケモン通信"
 	},
 	illustrator: "Ayaka Yoshida",
 	rarity: "Two Diamond",
@@ -31,6 +33,7 @@ const card: Card = {
 		it: "Scegli un Pokémon fra quelli che hai in mano e sostituiscilo con un Pokémon a caso del mazzo.",
 		de: "Wähle 1 Pokémon aus deiner Hand und tausche es mit 1 zufälligen Pokémon aus deinem Deck aus.",
 		"pt-br": "Escolha 1 Pokémon na sua mão e troque-o por 1 Pokémon aleatório no seu baralho.",
+		ja: "自分の手札からポケモンを枚選び、山札にあるランダムなポケモン枚と入れ替える。",
 		ko: "자신의 패에서 포켓몬을 1장 선택해서 덱에서 랜덤하게 포켓몬 1장과 교체한다.",
 		"zh-tw": "選擇你手中的一隻神奇寶貝，然後將其與你牌組中隨機的一隻神奇寶貝進行交換。"
 	},

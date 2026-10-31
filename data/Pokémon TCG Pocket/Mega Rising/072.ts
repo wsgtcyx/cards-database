@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/072"
     },
     name: {
         en: "Frogadier",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
+        ja: "ゲコガシラ",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
+        ja: "ケロマツ",
     },
     description: {
         en: "Its swiftness is unparalleled.\nIt can scale a tower of more\nthan 2,000 feet in a minute's time.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La sua rapidità non ha eguali.\nPuò scalare una torre di più\npiù di 2.000 piedi in un minuto.",
         "de": "Seine Schnelligkeit ist beispiellos.\nEs kann einen Turm von mehr erklimmen\nmehr als 2.000 Fuß in einer Minute.",
         "pt-br": "Sua rapidez é incomparável.\nEle pode escalar uma torre de mais\nmais de 2.000 pés em um minuto.",
-        "zh-tw": "其速度之快是無與倫比的。\n它可以攀爬更多的塔\n一分鐘內超過 2,000 英尺。"
+        "zh-tw": "其速度之快是無與倫比的。\n它可以攀爬更多的塔\n一分鐘內超過 2,000 英尺。",
+        ja: "身軽さは だれにも 負けない。 ６００メートルを 超える タワーの 天辺まで １分で 登りきる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Rimbalzo",
                 "de": "Prallen",
                 "pt-br": "Quicar",
-                "zh-tw": "彈跳"
+                "zh-tw": "彈跳",
+                ja: "とびはねる"
             },
             damage: 40,
             cost: ["Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

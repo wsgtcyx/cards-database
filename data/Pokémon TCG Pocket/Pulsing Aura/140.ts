@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/140",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/140",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/140"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/140"
     },
     name: {
         en: "Audino",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon dal cuore tenero è in grado di\npercepire le condizioni fisiche e mentali\ndi chi tocca con le antenne.",
         de: "Berührt dieses herzensgute Pokémon jemanden\nmit seinen Fühlern, kann es dessen körperliche\nVerfassung und Gemütszustand ertasten.",
         "pt-br": "Este Pokémon tem um coração bondoso. Ao tocar com seus sensores, Audino pode avaliar os sentimentos e condições físicas de outras criaturas.",
-        "zh-tw": "心地善良的寶可夢。透過\n用觸角觸碰，就能了解\n對方的情緒和身體狀況。"
+        "zh-tw": "心地善良的寶可夢。透過\n用觸角觸碰，就能了解\n對方的情緒和身體狀況。",
+        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Luce Curativa",
                 de: "Heilendes Licht",
                 "pt-br": "Luz de Cura",
-                "zh-tw": "治癒之光"
+                "zh-tw": "治癒之光",
+                ja: "いやしのひかり"
             },
             effect: {
                 en: "Heal 10 damage from each of your Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Cura 10 danni da ciascuno dei tuoi Pokémon.",
                 de: "Heile 10 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Cure 10 pontos de dano de cada um dos seus Pokémon.",
-                "zh-tw": "治療每隻寶可夢造成的 10 點傷害。"
+                "zh-tw": "治療每隻寶可夢造成的 10 點傷害。",
+                ja: "自分のポケモン全員のHPを10回復。"
             },
             damage: 40
         }

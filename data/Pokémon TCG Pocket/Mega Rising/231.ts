@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/231",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/231",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/231",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/231"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/231",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/231"
     },
     name: {
         en: "Chandelure",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Skelabra",
         "pt-br": "Chandelure",
         "zh-tw": "水晶燈火靈",
+        ja: "シャンデラ",
     },
     illustrator: "REND",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Laternecto",
         "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
+        ja: "ランプラー",
     },
     description: {
         en: "In homes illuminated by Chandelure instead of\nlights, funerals were a constant occurrence—\nor so it's said.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Nelle case illuminate da Chandelure invece\nluci, i funerali erano un evento costante...\no almeno così si dice.",
         "de": "In Häusern wird die Beleuchtung durch Kronleuchter ersetzt\nLichter, Beerdigungen waren an der Tagesordnung –\nso heißt es zumindest.",
         "pt-br": "Em casas iluminadas por Chandelure em vez de\nluzes, funerais eram uma ocorrência constante -\nou assim é dito.",
-        "zh-tw": "在被枝形吊燈照亮的家中，而不是\n燈光、葬禮時常發生——\n至少是這麼說的。"
+        "zh-tw": "在被枝形吊燈照亮的家中，而不是\n燈光、葬禮時常發生——\n至少是這麼說的。",
+        ja: "シャンデラを 灯りの かわりに していた 屋敷では 葬式が 絶えることが なかった という。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lenta cottura",
                 "de": "Langsam anbraten",
                 "pt-br": "Sear Lento",
-                "zh-tw": "慢烤"
+                "zh-tw": "慢烤",
+                ja: "じわじわあぶる"
             },
             effect: {
                 en: "Once during your turn, you may discard the top card of your opponent's deck.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi scartare la prima carta del mazzo del tuo avversario.",
                 "de": "Einmal während deines Zuges darfst du die oberste Karte des Decks deines Gegners abwerfen.",
                 "pt-br": "Uma vez durante o seu turno, você pode descartar a carta do topo do baralho do seu oponente.",
-                "zh-tw": "在你的回合中，你可以丟棄對手牌組頂牌一次。"
+                "zh-tw": "在你的回合中，你可以丟棄對手牌組頂牌一次。",
+                ja: "自分の番に1回使える。相手の山札を上から1枚トラッシュ。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Colpo di calore",
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
-                "zh-tw": "熱風"
+                "zh-tw": "熱風",
+                ja: "ヒートブラスト"
             },
             damage: 80,
             cost: ["Fire", "Fire"]

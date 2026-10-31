@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/057"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/057"
     },
     name: {
         en: "Electivire",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electivire",
         de: "Elevoltek",
         'pt-br': "Electivire",
+        ja: "エレキブル",
         ko: "에레키블",
         "zh-tw": "電擊魔獸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Elektek",
         "pt-br": "Electabuzz",
         "zh-tw": "電擊獸",
+        ja: "エレブー",
     },
     description: {
         en: "The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Produce una quantità di elettricità direttamente\nproporzionale alla sua frequenza cardiaca.\nDurante la lotta il voltaggio si alza all'istante.",
         de: "Wie viel Strom es erzeugt, ist abhängig von\nseinem Puls. Im Kampf steigt Elevolteks\nelektrische Spannung schlagartig an.",
         'pt-br': "A quantidade de energia elétrica que este Pokémon\nproduz é proporcional à sua pulsação. A voltagem\naumenta drasticamente quando Electivire está batalhando.",
+        ja: "発電量は 心拍数と 比例する。 戦いになると 一気に ボルテージが 上がるのだ。",
         ko: "발전량은 심박 수에 비례한다.\n싸움이 시작되면\n단숨에 전압이 올라간다.",
         "zh-tw": "該神奇寶貝產生的電能與其脈衝頻率成正比。當 Electiire 處於戰斗狀態時，電壓會跳躍。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ipervoltaggio",
                 de: "Knisternde Spannung",
                 'pt-br': "Voltagem Empolgante",
+                ja: "エキサイトボルト",
                 ko: "익사이팅볼트",
                 "zh-tw": "勵磁電壓"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Se questo Pokémon ha almeno 2 Energie {L} extra assegnate, questo attacco infligge 80 danni in più.",
                 de: "Wenn an dieses Pokémon mindestens 2 extra {L}-Energien angelegt sind, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {L} extra ligada a ele, este ataque causará 80 pontos de dano a mais.",
+                ja: "追加で{L}エネルギーが2個ついているなら、80ダメージ追加。",
                 ko: "{L}에너지 2개가 추가로 붙어 있다면 80데미지를 추가한다.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {L} 能量，則此攻擊造成的傷害增加 80 點。"
             }

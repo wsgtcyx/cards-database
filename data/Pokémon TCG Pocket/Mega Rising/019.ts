@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/019"
     },
     name: {
         en: "Maractus",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Maracamba",
         "pt-br": "Maractus",
         "zh-tw": "沙鈴仙人掌",
+        ja: "マラカッチ",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le regioni aride sono il loro habitat. Si muovono\nritmicamente, emettendo un suono simile alle maracas.",
         "de": "Trockengebiete sind ihr Lebensraum. Sie bewegen sich\nrhythmisch und erzeugt einen Maracas-ähnlichen Klang.",
         "pt-br": "As regiões áridas são o seu habitat. Eles se movem\nritmicamente, fazendo um som semelhante ao das maracas.",
-        "zh-tw": "乾旱地區是它們的棲息地。他們移動\n有節奏地發出類似於沙錘的聲音。"
+        "zh-tw": "乾旱地區是它們的棲息地。他們移動\n有節奏地發出類似於沙錘的聲音。",
+        ja: "乾燥した 土地で 暮らす。 体を リズミカルに 動かすと マラカスのような 音を 奏でる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Danza abbagliante",
                 "de": "Blendender Tanz",
                 "pt-br": "Dança Deslumbrante",
-                "zh-tw": "炫舞"
+                "zh-tw": "炫舞",
+                ja: "げんわくダンス"
             },
             damage: 40,
             cost: ["Grass", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

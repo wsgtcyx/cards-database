@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/035",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/035"
     },
     name: {
         en: "Rapidash ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Ponita",
         "pt-br": "Ponyta",
         "zh-tw": "小火馬",
-        ja: "Ponyta",
+        ja: "ポニータ",
         ko: "Ponyta"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Lodersprint",
                 "pt-br": "Corrida de Flamas",
                 "zh-tw": "閃焰疾衝",
-                ja: "Sprinting Flare",
+                ja: "フレアスプリンター",
                 ko: "Sprinting Flare"
             },
             damage: 110,
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
-                ja: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
             }
         }

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/110",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/110",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/110",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/110"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/110",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/110"
 	},
 	name: {
 		en: "Froakie",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Froakie",
 		de: "Froxy",
 		"pt-br": "Froakie",
-		"zh-tw": "呱呱泡蛙"
+		"zh-tw": "呱呱泡蛙",
+		ja: "ケロマツ"
 	},
 	illustrator: "Aya Kusube",
 	category: "Pokemon",
@@ -36,6 +38,7 @@ const card: Card = {
 				it: "Tonfo",
 				de: "Plumps",
 				"pt-br": "Baque",
+				ja: "はねまわる",
 				ko: "돌아다니며 뛰기",
 				"zh-tw": "翻牌"
 			},
@@ -57,6 +60,7 @@ const card: Card = {
 		it: "Dal petto e dalla schiena secerne una schiuma che gli\npermette di attutire i danni causati dagli attacchi nemici.",
 		de: "Es stößt aus Brust und Rücken elastische Blasen aus,\nmit denen es gegnerische Angriffe abfängt und so\nden erlittenen Schaden verringert.",
 		"pt-br": "Liberam bolhas flexíveis do peito e das costas.\nAs bolhas reduzem os danos que sofreriam\nao serem atacados.",
+		ja: "胸と 背中から 泡を 出す。 弾力のある 泡で 攻撃を 受け止めて ダメージを 減らす。",
 		ko: "가슴과 등에서 거품을 내뿜는다.\n탄력 있는 거품으로 공격을\n막아내고 데미지를 줄인다.",
 		"zh-tw": "它從胸部和背部分泌出靈活的氣泡。氣泡可以減少受到攻擊時受到的傷害。"
 	}

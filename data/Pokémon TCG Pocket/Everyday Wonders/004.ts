@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/004",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/004",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/004"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/004"
     },
     name: {
         en: "Cacnea",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Cacnea vive in zone aride, dove non piove quasi mai.\nIl suo fiore giallo sboccia una volta all’anno.",
         de: "Es wächst an trockenen Orten mit wenig Niederschlag.\nNur einmal im Jahr bildet es eine gelbe Blüte.",
         "pt-br": "Vive em locais áridos. Suas flores amarelas florescem uma vez por ano.",
-        "zh-tw": "它生活在乾旱的地方。它的黃色花朵每年開放一次。"
+        "zh-tw": "它生活在乾旱的地方。它的黃色花朵每年開放一次。",
+        ja: "雨が 少ない 乾燥した 地域に 生息。 １年に １回 黄色の 花を 咲かせる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Aculeopuntura",
                 de: "Stachelstich",
                 "pt-br": "Ferroada de Espinhos",
-                "zh-tw": "針刺"
+                "zh-tw": "針刺",
+                ja: "トゲでさす"
             },
             damage: 10
         }

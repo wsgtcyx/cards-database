@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/045"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/045"
     },
     name: {
         en: "Scrafty",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È un Pokémon violento, ma al tempo stesso\nmolto dedito alla famiglia, ai membri del proprio\ngruppo e al suo territorio.",
         de: "Diesem ungestümen Pokémon liegen Freunde,\nFamilie und Revier sehr am Herzen.",
         "pt-br": "Este Pokémon pode ser rude, mas cuida muito bem de sua família, de seus amigos e de seu território.",
-        "zh-tw": "性情很粗暴，但牠是一種\n對自己的家族、群體的夥伴\n以及地盤十分重視的寶可夢。"
+        "zh-tw": "性情很粗暴，但牠是一種\n對自己的家族、群體的夥伴\n以及地盤十分重視的寶可夢。",
+        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Calcinvolo",
                 de: "Turmkick",
                 "pt-br": "Chute de Pulo Alto",
-                "zh-tw": "飛膝踢"
+                "zh-tw": "飛膝踢",
+                ja: "とびひざげり"
             },
             damage: 70
         }

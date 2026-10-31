@@ -26,7 +26,7 @@ import { fileURLToPath } from 'node:url'
 import ts from 'typescript'
 
 import {
-	TARGET_LOCALES,
+	REVIEW_LOCALES,
 	findProperty,
 	findVariableObject,
 	parseFieldPath,
@@ -138,7 +138,7 @@ function validateDecision(rawDecision, index, sources) {
 	if (decision.file.includes('\\')) throw new Error(`${label}.file must use repository-relative POSIX separators`)
 	assertNonEmptyString(decision.path, `${label}.path`)
 	parseFieldPath(decision.path)
-	if (!TARGET_LOCALES.includes(decision.locale)) throw new Error(`${label}.locale must be one of ${TARGET_LOCALES.join(', ')}`)
+	if (!REVIEW_LOCALES.includes(decision.locale)) throw new Error(`${label}.locale must be one of ${REVIEW_LOCALES.join(', ')}`)
 	if (decision.mode !== 'fill' && decision.mode !== 'correction') throw new Error(`${label}.mode must be fill or correction`)
 	if (!Object.hasOwn(decision, 'expectedCurrent')) throw new Error(`${label}.expectedCurrent is required`)
 	if (decision.mode === 'fill' && decision.expectedCurrent !== null) throw new Error(`${label}: fill requires expectedCurrent: null`)
@@ -158,6 +158,24 @@ function validateDecision(rawDecision, index, sources) {
 		const evidenceHash = assertNonEmptyString(evidence.sha256, `${evidenceLabel}.sha256`).toLowerCase()
 		if (evidenceHash !== source.sha256) throw new Error(`${evidenceLabel}.sha256 does not match sources.${sourceId}.sha256`)
 		assertNonEmptyString(evidence.locator, `${evidenceLabel}.locator`)
+	}
+	if (decision.tokenException !== undefined) {
+		const exception = assertPlainObject(decision.tokenException, `${label}.tokenException`)
+		if (decision.entityKind !== 'card' || decision.locale !== 'ja'
+			|| exception.entityId !== decision.entityId || exception.path !== decision.path || exception.locale !== decision.locale) {
+			throw new Error(`${label}.tokenException must match this Japanese card, field and locale`)
+		}
+		assertNonEmptyString(exception.reason, `${label}.tokenException.reason`)
+		for (const key of ['expectedEnglishTokens', 'localizedTokens']) {
+			if (!Array.isArray(exception[key]) || exception[key].some(token => !ENERGY_TOKENS.has(token))) {
+				throw new Error(`${label}.tokenException.${key} must contain only energy tokens`)
+			}
+		}
+		if (!Array.isArray(exception.evidence) || exception.evidence.length === 0
+			|| exception.evidence.some(item => !decision.evidence.some(verified => verified.sourceId === item.sourceId
+				&& verified.sha256 === item.sha256 && verified.locator === item.locator))) {
+			throw new Error(`${label}.tokenException.evidence must reference this decision's verified evidence`)
+		}
 	}
 	return decision
 }
@@ -179,7 +197,7 @@ function validateArtifactContents(repoRoot, artifact, label) {
 		if (duplicates.has(key)) throw new Error(`Duplicate localization decision: ${decision.file} ${decision.path} ${decision.locale}`)
 		duplicates.add(key)
 	}
-	const localeOrder = new Map(TARGET_LOCALES.map((locale, index) => [locale, index]))
+	const localeOrder = new Map(REVIEW_LOCALES.map((locale, index) => [locale, index]))
 	decisions.sort((left, right) => left.decision.file.localeCompare(right.decision.file)
 		|| left.decision.path.localeCompare(right.decision.path)
 		|| localeOrder.get(left.decision.locale) - localeOrder.get(right.decision.locale))
@@ -248,11 +266,17 @@ function energyTokens(value, label) {
 	return tokens.sort()
 }
 
-function assertTokenBinding(expectedEnglish, localized, label) {
+function assertTokenBinding(expectedEnglish, localized, label, exception) {
 	const englishTokens = energyTokens(expectedEnglish, `${label}.expectedEnglish`)
 	const localizedTokens = energyTokens(localized, `${label}.value`)
-	if (JSON.stringify(englishTokens) !== JSON.stringify(localizedTokens)) {
-		throw new Error(`${label}: energy token mismatch (${englishTokens.join(',') || 'none'} != ${localizedTokens.join(',') || 'none'})`)
+	if (JSON.stringify(englishTokens) === JSON.stringify(localizedTokens)) {
+		if (exception) throw new Error(`${label}: unused token exception`)
+		return
+	}
+	if (!exception) throw new Error(`${label}: energy token mismatch (${englishTokens.join(',') || 'none'} != ${localizedTokens.join(',') || 'none'})`)
+	if (JSON.stringify([...exception.expectedEnglishTokens].sort()) !== JSON.stringify(englishTokens)
+		|| JSON.stringify([...exception.localizedTokens].sort()) !== JSON.stringify(localizedTokens)) {
+		throw new Error(`${label}: token exception does not match the exact English and localized token multisets`)
 	}
 }
 
@@ -269,7 +293,7 @@ function insertLocale(source, sourceFile, languageObject, locale, value) {
 	const objectText = source.slice(languageObject.getStart(sourceFile), languageObject.getEnd())
 	const lastProperty = languageObject.properties.at(-1)
 	if (!lastProperty) throw new Error('Localized object must contain an English property before a locale can be added')
-	const localeOrder = ['en', ...TARGET_LOCALES]
+	const localeOrder = ['en', ...REVIEW_LOCALES]
 	const targetRank = localeOrder.indexOf(locale)
 	const nextPropertyIndex = languageObject.properties.findIndex(property => {
 		const rank = localeOrder.indexOf(propertyName(property))
@@ -331,7 +355,7 @@ function patchDecision(source, filename, decision, index) {
 	const english = staticString(propertyInitializer(findProperty(target, 'en')), sourceFile)
 	if (english === undefined) throw new Error(`${label}: target path has no literal English value`)
 	if (english !== decision.expectedEnglish) throw new Error(`${label}: English CAS mismatch`)
-	assertTokenBinding(english, decision.value, label)
+	assertTokenBinding(english, decision.value, label, decision.tokenException)
 	const localeProperty = findProperty(target, decision.locale)
 	const localeInitializer = propertyInitializer(localeProperty)
 	const current = staticString(localeInitializer, sourceFile)
@@ -561,6 +585,7 @@ export function runReviewedLocalizationApply({
 			locale: decision.locale,
 			mode: decision.mode,
 			status: patched.status,
+			...(decision.tokenException ? { tokenException: decision.tokenException } : {}),
 		})
 	}
 	const changed = [...staged.values()].filter(entry => entry.original !== entry.next)
@@ -594,6 +619,7 @@ export function runReviewedLocalizationApply({
 			changedFiles: changed.length,
 			fills: results.filter(result => result.mode === 'fill').length,
 			corrections: results.filter(result => result.mode === 'correction').length,
+			tokenExceptions: results.filter(result => result.tokenException).length,
 		},
 		results,
 	}

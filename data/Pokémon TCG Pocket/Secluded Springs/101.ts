@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/101"
     },
     name: {
         en: "Infernape ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Panferno-ex",
         "pt-br": "Infernape ex",
         "zh-tw": "烈焰猴ex",
+        ja: "ゴウカザルex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Panpyro",
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
+        ja: "モウカザル",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Blitz di bagliori",
                 "de": "Flare Blitz",
                 "pt-br": "Blitz Flamejante",
-                "zh-tw": "耀斑閃電戰"
+                "zh-tw": "耀斑閃電戰",
+                ja: "フレアドライブ"
             },
             damage: 140,
             cost: ["Fire", "Fire"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie {R} da questo Pokémon.",
                 "de": "Lege alle {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as energias {R} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーをすべてトラッシュ。"
             }
         }],
     weaknesses: [{

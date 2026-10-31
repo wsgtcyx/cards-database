@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/202",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/202",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/202"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/202",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/202"
     },
     name: {
         en: "Mega Audino ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Bagliore Premuroso",
                 de: "Herzlicher Glanz",
                 "pt-br": "Brilho Sincero",
-                "zh-tw": "溫馨閃耀"
+                "zh-tw": "溫馨閃耀",
+                ja: "ハートフルシャイン"
             },
             effect: {
                 en: "Heal 30 damage from each of your Pokémon.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Cura 30 danni da ciascuno dei tuoi Pokémon.",
                 de: "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Cure 30 de dano de cada um dos seus Pokémon.",
-                "zh-tw": "治療每隻寶可夢造成的 30 點傷害。"
+                "zh-tw": "治療每隻寶可夢造成的 30 點傷害。",
+                ja: "自分のポケモン全員のHPを30回復。"
             },
             damage: 90
         }

@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Gardiens Astraux",
 		it: "Guardiani Astrali",
 		'pt-br': "Guardiões Celestiais",
+		ja: "イーブイガーデン",
 		ko: '쌍천의 수호자',
 		'zh-tw': "伊布樹林"
 	},

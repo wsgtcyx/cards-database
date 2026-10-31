@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/213",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/213",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/213",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/213"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/213",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/213"
     },
     name: {
         en: "Roggenrola",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si muove reagendo ai rumori. È tiepido al tatto\nper via del nucleo di energia al suo interno.",
         de: "Es bewegt sich stets auf Geräuschquellen zu.\nDank seines Energiekerns fühlt es sich immer\nleicht warm an, wenn man es berührt.",
         "pt-br": "Ao detectar um ruído, começa a se mover. O núcleo de energia dentro deste Pokémon faz com que ele seja morno ao toque.",
-        "zh-tw": "會對聲音產生反應而動起來。\n在能量核心的影響下，\n牠摸起來暖暖的。"
+        "zh-tw": "會對聲音產生反應而動起來。\n在能量核心的影響下，\n牠摸起來暖暖的。",
+        ja: "音に 反応し 動きだす。 エネルギーコアの 影響で 触ると すこし 温かい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
-                "zh-tw": "擲泥"
+                "zh-tw": "擲泥",
+                ja: "どろかけ"
             },
             damage: 30
         }

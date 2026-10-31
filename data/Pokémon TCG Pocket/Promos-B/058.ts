@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/058",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/058",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/058"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/058"
     },
     name: {
         en: "Tepig",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon è un ghiottone famelico. Usa il suo eccellente senso dell'olfatto per trovare il cibo, quindi lo cuoce fino a renderlo croccante prima di mangiarlo.",
         de: "Dieses Pokémon ist ein gefräßiger Vielfraß. Es nutzt seinen hervorragenden Geruchssinn, um Nahrung zu finden und diese vor dem Verzehr knusprig zuzubereiten.",
         "pt-br": "Este Pokémon é um glutão voraz. Ele usa seu excelente olfato para encontrar comida e depois cozinha até ficar crocante antes de comer.",
-        "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。"
+        "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。",
+        ja: "食いしん坊の 大食漢。 よく利く 鼻で エサを 見つけだし こんがり 焼きあげてから いただく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fuocospiro",
                 de: "Feuerhauch",
                 "pt-br": "Hálito de Fogo",
-                "zh-tw": "吹火"
+                "zh-tw": "吹火",
+                ja: "ひをふく"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "10+"
         }

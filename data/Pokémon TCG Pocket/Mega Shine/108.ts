@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/108",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/108",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/108"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/108"
     },
     name: {
         en: "Axew",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se vedi strani segni di denti su massi o alberi, significa che probabilmente uno Axew vive nelle vicinanze.",
         de: "Wenn Sie auf Felsbrocken oder Bäumen seltsame Zahnspuren sehen, bedeutet das, dass wahrscheinlich ein Milza in der Nähe lebt.",
         "pt-br": "Se você vir marcas peculiares de dentes em pedras ou árvores, significa que provavelmente um Axew mora nas proximidades.",
-        "zh-tw": "如果您在巨石或樹木上看到特殊的齒痕，則表示 牙牙 很可能居住在附近。"
+        "zh-tw": "如果您在巨石或樹木上看到特殊的齒痕，則表示 牙牙 很可能居住在附近。",
+        ja: "岩や 樹木に 独特の 歯形を 見かけたら 近くに キバゴが 棲んでいるはずだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Zannaffilata",
                 de: "Scharfe Fänge",
                 "pt-br": "Presa Afiada",
-                "zh-tw": "銳利之牙"
+                "zh-tw": "銳利之牙",
+                ja: "するどいキバ"
             },
             damage: 40
         }

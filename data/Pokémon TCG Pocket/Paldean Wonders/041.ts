@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/041"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/041"
     },
     name: {
         en: "Tadbulb",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Blipp",
         "pt-br": "Tadbulb",
         "zh-tw": "光蚪仔",
+        ja: "ズピカ",
         pt: "Tadbulb"
     },
     illustrator: "Saya Tsuruta",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Galleggia sfruttando l'elettricità immagazzinata nel suo corpo. Quando ci sono nuvole temporalesche, Tadbulb galleggerà più in alto da terra.",
         "de": "Es schwimmt mit der in seinem Körper gespeicherten Elektrizität. Wenn Gewitterwolken in der Nähe sind, schwebt Blipp höher über dem Boden.",
         "pt-br": "Ele flutua usando a eletricidade armazenada em seu corpo. Quando há nuvens de trovoada, o Tadbulb flutuará mais alto do solo.",
-        "zh-tw": "它利用體內儲存的電力漂浮。當雷雨雲出現時，光蚪仔 會漂浮在離地面更高的地方。"
+        "zh-tw": "它利用體內儲存的電力漂浮。當雷雨雲出現時，光蚪仔 會漂浮在離地面更高的地方。",
+        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Elektroball",
                 "pt-br": "Bola Eletro",
                 "zh-tw": "電球",
+                ja: "エレキボール",
                 pt: "Bola Elétrica"
             },
             damage: 20,

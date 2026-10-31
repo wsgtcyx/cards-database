@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/064",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/064",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/064"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/064"
     },
     name: {
         en: "Small Balloon",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Il costo di ritirata del Pokémon Base a cui è assegnata questa carta è pari a 1 in meno.",
         de: "Die Rückzugskosten des Basis-Pokémon, an das diese Karte angelegt ist, betragen 1 weniger.",
         "pt-br": "O Custo de Recuo do Pokémon Básico ao qual esta carta está ligada é 1 a menos.",
-        "zh-tw": "這張卡所附著的基礎寶可夢的撤退費用減少 1。"
+        "zh-tw": "這張卡所附著的基礎寶可夢的撤退費用減少 1。",
+        ja: "このカードをつけているたねポケモンのにげるためのエネルギーを、1個少なくする。"
     },
     trainerType: "Tool"
 };

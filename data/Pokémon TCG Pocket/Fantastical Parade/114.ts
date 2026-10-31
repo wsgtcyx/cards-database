@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/114"
     },
     name: {
         en: "Excadrill",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Excadrill",
         "de": "Stalobor",
         "pt-br": "Excadrill",
-        "zh-tw": "龍頭地鼠"
+        "zh-tw": "龍頭地鼠",
+        ja: "ドリュウズ"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Drilbur",
         "de": "Rotomurf",
         "pt-br": "Drilbur",
-        "zh-tw": "螺釘地鼠"
+        "zh-tw": "螺釘地鼠",
+        ja: "モグリュー"
     },
     description: {
         en: "Its drill, which has evolved into steel, is strong\nenough to bore through iron plates. This\nPokémon is a great help in tunnel construction.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La sua punta, che si è evoluta in acciaio, è forte\nabbastanza da forare piastre di ferro. Questo\nI Pokémon sono di grande aiuto nella costruzione dei tunnel.",
         "de": "Sein Bohrer, der sich zu Stahl entwickelt hat, ist stark\ngenug, um Eisenplatten zu durchbohren. Dies\nPokémon ist eine große Hilfe beim Tunnelbau.",
         "pt-br": "Sua broca, que evoluiu para aço, é forte\no suficiente para perfurar placas de ferro. Isto\nPokémon é uma grande ajuda na construção de túneis.",
-        "zh-tw": "它的鑽頭已進化為鋼，堅固\n足以穿透鐵板。這個\n神奇寶貝對隧道建設有很大幫助。"
+        "zh-tw": "它的鑽頭已進化為鋼，堅固\n足以穿透鐵板。這個\n神奇寶貝對隧道建設有很大幫助。",
+        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Artiglio Tagliente",
                 "de": "Schlagklaue",
                 "pt-br": "Garra Cortante",
-                "zh-tw": "斬擊利爪"
+                "zh-tw": "斬擊利爪",
+                ja: "スラッシュクロー"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]

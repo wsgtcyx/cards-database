@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/119",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/119",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/119"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/119"
     },
     name: {
         en: "Pawniard",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Incalza il nemico con le lame che ha sul corpo,\ne le mantiene sempre taglienti affilandole con\npietre di fiume.",
         de: "Es treibt Gegner mit seinen scharfen Klingen in\ndie Ecke. Diese schärft es an den Felsen eines\nFlussbettes.",
         "pt-br": "Ele usa pedras de rio para manter as pontas das lâminas cobrindo seu corpo. Essas lâminas afiadas permitem derrubar oponentes.",
-        "zh-tw": "揮舞銳利的刀刃將敵人\n逼向絕境。會用河灘的\n石頭來精心保養刀刃。"
+        "zh-tw": "揮舞銳利的刀刃將敵人\n逼向絕境。會用河灘的\n石頭來精心保養刀刃。",
+        ja: "鋭い 刃を 操り 敵を 追い詰める。 河原の 石で 体の 刃を 手入れする。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tagliuzzamento",
                 de: "Zerhäckseln",
                 "pt-br": "Dilacerar",
-                "zh-tw": "切"
+                "zh-tw": "切",
+                ja: "きる"
             },
             damage: 10
         }

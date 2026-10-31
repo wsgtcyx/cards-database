@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/129",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/129",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/129"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/129"
     },
     name: {
         en: "Eevee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo codice genetico è irregolare. Potrebbe mutare se esposto alle radiazioni delle pietre elementali.",
         de: "Sein genetischer Code ist unregelmäßig. Es kann mutieren, wenn es der Strahlung von Elementsteinen ausgesetzt wird.",
         "pt-br": "Seu código genético é irregular. Ele pode sofrer mutação se for exposto à radiação das pedras elementares.",
-        "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。"
+        "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。",
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Calcio Aereo",
                 de: "Sprungtritt",
                 "pt-br": "Voadora",
-                "zh-tw": "跳踢"
+                "zh-tw": "跳踢",
+                ja: "ジャンプキック"
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。",
+                ja: "相手のポケモン1匹に10ダメージ。"
             }
         }
     ],

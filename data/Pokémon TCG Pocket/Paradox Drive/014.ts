@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/014",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/014"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/014"
     },
     name: {
         en: "Pawmi",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I cuscinetti delle zampe sono organi che scaricano elettricità. Pawmi spara elettricità dalle zampe anteriori mentre sta instabile sulle zampe posteriori.",
         de: "Die Ballen seiner Pfoten sind elektrisch ableitende Organe. Pamo feuert Elektrizität aus seinen Vorderpfoten ab, während es unsicher auf seinen Hinterbeinen steht.",
         "pt-br": "As almofadas de suas patas são órgãos que descarregam eletricidade. Pawmi dispara eletricidade com suas patas dianteiras enquanto fica instável nas patas traseiras.",
-        "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。"
+        "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
+        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 "pt-br": "Mordida",
-                "zh-tw": "咬住"
+                "zh-tw": "咬住",
+                ja: "かみつく"
             },
             damage: 30
         }

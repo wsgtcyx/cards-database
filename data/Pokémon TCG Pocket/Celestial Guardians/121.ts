@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/121",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/121"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/121"
     },
     name: {
         en: "Klefki",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Klefki",
         de: "Clavion",
         'pt-br': "Klefki",
+        ja: "クレッフィ",
         ko: "클레피",
         "zh-tw": "鑰圈兒",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando ha finito di assorbire gli ioni metallici\nda una chiave la getta via subito, ma se una\ngli va davvero a genio la conserva per decenni.",
         de: "Sobald es die Metall-Ionen eines Schlüssels eingesaugt hat,\nwirft es ihn einfach weg. Seine Lieblingsschlüssel behält es\njedoch viele Jahre.",
         'pt-br': "Depois de absorver os íons metálicos de uma chave, este\nPokémon a descarta sem pensar duas vezes. No entanto,\nguarda suas chaves preferidas por várias décadas.",
+        ja: "金属イオンを 吸い取った カギは あっさり 捨てるが お気に入りは 何十年も 持ち続けている。",
         ko: "금속 이온을 모두 흡수한 열쇠는\n보통 미련 없이 버려 버리지만\n마음에 들면 몇십 년이고 가지고 다닌다.",
         "zh-tw": "一旦它吸收了鑰匙的金屬離子，它就會毫不猶豫地丟棄鑰匙。然而，它將在幾十年內保留它所青睞的鑰匙。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Apertura",
                 de: "Aufschließen",
                 'pt-br': "Destrancar",
+                ja: "アンロック",
                 ko: "언록",
                 "zh-tw": "開鎖"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe 1 Karte.",
                 'pt-br': "Compre 1 carta.",
+                ja: "自分の山札を枚引く。",
                 ko: "자신의 덱을 1장 뽑는다.",
                 "zh-tw": "畫一張卡片。"
             }

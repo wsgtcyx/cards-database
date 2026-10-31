@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/109",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/109",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/109"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/109"
     },
     name: {
         en: "Mega Metagross ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 "pt-br": "Chumbo Grosso",
                 "zh-tw": "機槍猛擊",
                 "it": "Pugnolashnikov",
-                "de": "Repetierschlag"
+                "de": "Repetierschlag",
+                ja: "ガトリングスラッグ"
             },
             effect: {
                 en: "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
@@ -59,7 +61,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an dieses Pokémon angelegte {M}-Energie 10 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
                 "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。",
-                "it": "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon."
+                "it": "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon.",
+                ja: "このポケモンの{M}エネルギーの数×10ダメージ追加。"
             },
             damage: "100+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/028"
     },
     name: {
         en: "Whimsicott",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Whimsicott",
         de: "Elfun",
         'pt-br': "Whimsicott",
+        ja: "エルフーン",
         ko: "엘풍",
         "zh-tw": "風妖精",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Cottonee",
         "de": "Waumboll",
         "pt-br": "Cottonee",
-        "zh-tw": "木棉球"
+        "zh-tw": "木棉球",
+        ja: "モンメン"
     },
     attacks: [{
             cost: ["Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Si diverte a spargere cotone ovunque.\nSe gli si versa dell'acqua addosso, diventa\ntroppo pesante per muoversi e si arrende.",
         de: "Es verstreut Watte, um Leute zu ärgern. Es hört\ndamit auf, wenn es nass wird, weil es dann zu\nschwer ist und sich nicht mehr bewegen kann.",
         'pt-br': "Gosta de pregar peças, espalhando algodão por todo canto.\nSe este Pokémon se molhar, ficará pesado demais para se mover\ne será obrigado a lidar com as consequências das suas traquinagens.",
+        ja: "綿を まき散らし イタズラする。 水を かけると 重くなって 動けなくなり 観念するぞ。",
         ko: "솜을 흩뿌리며 장난을 친다.\n물을 끼얹으면 무거워져서\n움직일 수 없게 되어 포기한다.",
         "zh-tw": "它像惡作劇一樣把棉花撒得到處都是。如果它被弄濕了，它就會變得太重而無法移動，並且別無選擇，只能為它的惡作劇負責。"
     },

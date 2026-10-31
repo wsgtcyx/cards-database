@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/001",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/001",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/001"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/001"
     },
     name: {
         en: "Wurmple",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive nelle foreste e tra l’erba alta. Se è attaccato,\nusa gli aculei velenosi che ha sulla parte posteriore.",
         de: "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil.",
         "pt-br": "Vive em meio a mato alto e nas florestas. Ele repele os ataques erguendo os espinhos nas costas.",
-        "zh-tw": "棲息在森林和草叢裡。\n受到敵人的襲擊時，\n會用尾部的毒刺來對抗。"
+        "zh-tw": "棲息在森林和草叢裡。\n受到敵人的襲擊時，\n會用尾部的毒刺來對抗。",
+        ja: "森や 草むらに 生息。 敵に 襲われた ときは お尻の 毒の トゲで 対抗する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 "pt-br": "Roída",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かじる"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/093"
     },
     name: {
         en: "Galvantula",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voltula",
         "pt-br": "Galvantula",
         "zh-tw": "電蜘蛛",
+        ja: "デンチュラ",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wattzapf",
         "pt-br": "Joltik",
         "zh-tw": "電電蟲",
+        ja: "バチュル",
     },
     description: {
         en: "It lays traps of electrified threads near the nests\nof bird Pokémon, aiming to snare chicks that are\nnot yet good at flying.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Piazza trappole di fili elettrizzati vicino ai nidi\ndi Pokémon uccello, con l'obiettivo di intrappolare i pulcini che lo sono\nnon ancora bravo a volare.",
         "de": "Es legt Fallen aus elektrifizierten Fäden in der Nähe der Nester\nvon Vogel-Pokémon, die darauf abzielen, Küken zu fangen\nnoch nicht gut im Fliegen.",
         "pt-br": "Coloca armadilhas de fios eletrificados perto dos ninhos\nde Pokémon pássaros, com o objetivo de capturar filhotes que estão\nainda não é bom em voar.",
-        "zh-tw": "它在巢穴附近放置帶電線陷阱\n鳥類神奇寶貝，旨在誘捕小雞\n還不擅長飛行。"
+        "zh-tw": "它在巢穴附近放置帶電線陷阱\n鳥類神奇寶貝，旨在誘捕小雞\n還不擅長飛行。",
+        ja: "飛ぶのが ヘタな ヒナを 狙い 鳥ポケモンの 巣の 近くに 電気の 糸で 罠を 張るぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Palla elettrica",
                 "de": "Elektroball",
                 "pt-br": "Bola Eletro",
-                "zh-tw": "電球"
+                "zh-tw": "電球",
+                ja: "エレキボール"
             },
             damage: 50,
             cost: ["Lightning"]

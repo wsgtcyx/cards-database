@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/031"
     },
     name: {
         en: "Boltund",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bellektro",
         "pt-br": "Boltund",
         "zh-tw": "逐電犬",
+        ja: "パルスワン",
     },
     illustrator: "Tomomi Ozaki",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Voldi",
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
+        ja: "ワンパチ",
     },
     description: {
         en: "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon genera elettricità e canalizza\nnelle sue gambe per mantenerle forti.\nBoltund può correre senza sosta per tre giorni interi.",
         "de": "Dieses Pokémon erzeugt Elektrizität und Kanäle\nes in seine Beine, um sie stark zu halten.\nBoltund kann drei volle Tage lang ununterbrochen laufen.",
         "pt-br": "Este Pokémon gera eletricidade e canaliza\nem suas pernas para mantê-las fortes.\nBoltund pode funcionar sem parar por três dias inteiros.",
-        "zh-tw": "這個神奇寶貝會產生電力和通道\n它進入它的腿以保持它們的力量。\nBoltund 可以不間斷地運行三天。"
+        "zh-tw": "這個神奇寶貝會產生電力和通道\n它進入它的腿以保持它們的力量。\nBoltund 可以不間斷地運行三天。",
+        ja: "電気を つくって 脚に 送り 走りを アシスト。 三日三晩 休まず 走れるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Scintilla ribelle",
                 "de": "Trotziger Funke",
                 "pt-br": "Faísca desafiadora",
-                "zh-tw": "挑釁火花"
+                "zh-tw": "挑釁火花",
+                ja: "まけんきスパーク"
             },
             damage: 70,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha dei danni, questo attacco può essere usato per 1 Energia {L}.",
                 "de": "Wenn dieses Pokémon Schaden hat, kann dieser Angriff für 1 {L} Energie verwendet werden.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque poderá ser usado por 1 {L} Energia.",
-                "zh-tw": "如果該神奇寶貝受到傷害，則該攻擊可消耗 1 {L} 點能量。"
+                "zh-tw": "如果該神奇寶貝受到傷害，則該攻擊可消耗 1 {L} 點能量。",
+                ja: "このワザは、このポケモンがダメージを受けているなら、{L}エネルギー1個で使える。"
             }
         }],
     weaknesses: [{

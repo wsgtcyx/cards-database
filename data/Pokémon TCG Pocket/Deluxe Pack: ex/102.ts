@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/102",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/102",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/102",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/102"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/102",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/102"
 	},
 	name: {
 		en: "Corphish",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Corphish",
 		de: "Krebscorps",
 		"pt-br": "Corphish",
-		"zh-tw": "龍蝦小兵"
+		"zh-tw": "龍蝦小兵",
+		ja: "ヘイガニ"
 	},
 	illustrator: "chibi",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Non importa quanto sia sporca l'acqua del fiume, lo farà\nadattarsi e prosperare. Ha una forte volontà di sopravvivere.",
 		de: "Egal wie schmutzig das Wasser im Fluss ist, es wird es tun\nanpassen und gedeihen. Es hat einen starken Überlebenswillen.",
 		"pt-br": "Não importa quão suja seja a água do rio, ela irá\nadaptar e prosperar. Tem uma forte vontade de sobreviver.",
-		"zh-tw": "不管河裡的水有多髒，它都會\n適應並茁壯成長。它有強烈的求生意志。"
+		"zh-tw": "不管河裡的水有多髒，它都會\n適應並茁壯成長。它有強烈的求生意志。",
+		ja: "どんなに 水が 汚れた 川でも 適応して 増えていく タフな 生命力の 持ち主。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Presa a morsa",
 				de: "Schraubstockgriff",
 				"pt-br": "Torno Grip",
-				"zh-tw": "虎鉗夾具"
+				"zh-tw": "虎鉗夾具",
+				ja: "はさむ"
 			},
 			damage: 30,
 			cost: ["Water", "Colorless"]

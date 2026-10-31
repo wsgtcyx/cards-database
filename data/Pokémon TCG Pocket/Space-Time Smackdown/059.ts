@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/059"
     },
     name: {
         en: "Luxio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Luxio",
         de: "Luxio",
         'pt-br': "Luxio",
+        ja: "ルクシオ",
         ko: "럭시오",
         "zh-tw": "勒克貓",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
+        ja: "コリンク",
     },
     description: {
         en: "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Dalla punta degli artigli affilati rilascia\nuna corrente elettrica così intensa che\ngli basta sfiorare i nemici per metterli KO.",
         de: "Durch die Spitzen seiner scharfen Krallen strömt Elektrizität.\nSelbst kleine Kratzer verursachen Ohnmacht.",
         'pt-br': "Uma poderosa eletricidade flui pelas pontas\nde suas garras afiadas. Um pequeno arranhão\né suficiente para causar desmaios nos inimigos.",
+        ja: "鋭い ツメの 先には 強い 電気が 流れており ほんの少し かするだけで 相手を気絶させる。",
         ko: "날카로운 발톱의 끝에는\n강한 전기가 흐르고 있어서\n살짝 스치는 것만으로 상대를 기절시킨다.",
         "zh-tw": "強大的電流穿過它鋒利的爪子的尖端。輕微的抓傷會使敵人昏厥。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Artigli Elettrici",
                 de: "Elektrokrallen",
                 'pt-br': "Garras Elétricas",
+                ja: "でんきのツメ",
                 ko: "전기발톱",
                 "zh-tw": "電爪"
             },

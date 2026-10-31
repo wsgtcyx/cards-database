@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/273",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/273",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/273",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/273"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/273",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/273"
     },
     name: {
         en: "Squirtle",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Fühlt es sich bedroht, verkriecht es sich in seinen Panzer und spuckt Wasser aus seinem Maul.",
         "pt-br": "Quando este Pokémon sente-se ameaçado, esconde-se dentro do seu casco e lança água pela boca.",
         "zh-tw": "當牠遇到危險的時候，會將四肢收回甲殼裡保護自己，同時從嘴裡噴出水來。",
-        ja: "When it feels threatened, it draws its limbs inside\nits shell and sprays water from its mouth.",
+        ja: "危なくなると 甲羅に 手足を 引っこめて 身を 守りながら 口から 水を 吹き出している。",
         ko: "When it feels threatened, it draws its limbs inside\nits shell and sprays water from its mouth."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Schweifvertrimmer",
                 "pt-br": "Surra de Cauda",
                 "zh-tw": "擺尾拍擊",
-                ja: "Tail Whap",
+                ja: "しっぽではたく",
                 ko: "Tail Whap"
             },
             damage: 40,

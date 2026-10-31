@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/079",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/079"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/079"
     },
     name: {
         en: "Togetic",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Togetic",
         "pt-br": "Togetic",
         "zh-tw": "波克基古",
+        ja: "トゲチック",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Togepi",
         "pt-br": "Togepi",
         "zh-tw": "波克比",
+        ja: "トゲピー",
     },
     description: {
         en: "They say that it will appear before kindhearted,\ncaring people and shower them with happiness.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dicono che apparirà prima di buon cuore,\nprendersi cura delle persone e inondarle di felicità.",
         "de": "Sie sagen, dass es vor gutherzigen Menschen erscheinen wird,\nFürsorgliche Menschen und überschütte sie mit Glück.",
         "pt-br": "Dizem que aparecerá diante de pessoas de bom coração,\ncuidar das pessoas e regá-las de felicidade.",
-        "zh-tw": "都說它會出現在善良的人面前，\n關愛人們並為他們帶來幸福。"
+        "zh-tw": "都說它會出現在善良的人面前，\n關愛人們並為他們帶來幸福。",
+        ja: "心優しい 人の 前に 幸せを もたらすため 姿を 現すと 言われている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Immersione veloce",
                 "de": "Speed-Tauchgang",
                 "pt-br": "Mergulho rápido",
-                "zh-tw": "快速潛水"
+                "zh-tw": "快速潛水",
+                ja: "スピードひこう"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/095"
     },
     name: {
         en: "Starmie ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Starmie-ex",
         "pt-br": "Starmie ex",
         "zh-tw": "寶石海星ex",
+        ja: "スターミーex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sterndu",
         "pt-br": "Staryu",
         "zh-tw": "海星星",
+        ja: "ヒトデマン",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Idrospruzzo",
                 "de": "Hydro Splash",
                 "pt-br": "Hidro respingo",
-                "zh-tw": "水濺"
+                "zh-tw": "水濺",
+                ja: "ハイドロスプラッシュ"
             },
             damage: 90,
             cost: ["Water", "Water"]

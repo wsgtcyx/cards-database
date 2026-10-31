@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/367",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/367",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/367",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/367"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/367",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/367"
     },
     name: {
         en: "Quick-Grow Extract",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Wähle 1 deiner {G}-Pokémon im Spiel. Lege ein zufälliges {G}-Pokémon aus deinem Deck, das sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es zu entwickeln. Du kannst diese Karte nicht während deines ersten Zuges einsetzen oder Pokémon entwickeln, die während dieses Zuges ins Spiel gebracht wurden.",
         "pt-br": "Escolha 1 dos seus Pokémon {G} em jogo. Coloque um Pokémon {G} aleatório do seu baralho que evolua daquele Pokémon sobre aquele Pokémon para evoluí-lo. Você não pode usar esta carta durante o seu primeiro turno ou em um Pokémon que entrou em jogo neste turno.",
         "zh-tw": "選擇1隻自己的場上的{G}寶可夢,從自己的牌庫隨機將1張從該寶可夢進化而來的{G}寶可夢,放置於該寶可夢身上完成進化。(無法對自己的最初回合或剛使出的寶可夢使用。)",
-        ja: "Choose 1 of your {G} Pokémon in play. Put a random {G} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn.",
+        ja: "自分の場の{G}ポケモンを1匹選び、そのポケモンから進化する{G}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)",
         ko: "Choose 1 of your {G} Pokémon in play. Put a random {G} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
     },
     trainerType: "Item"

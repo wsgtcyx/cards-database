@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/012"
     },
     name: {
         en: "Magmortar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magmortar",
         de: "Magbrant",
         'pt-br': "Magmortar",
+        ja: "ブーバーン",
         ko: "마그마번",
         "zh-tw": "鴨嘴炎獸",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Magmar",
         "de": "Magmar",
         "pt-br": "Magmar",
-        "zh-tw": "鴨嘴火獸"
+        "zh-tw": "鴨嘴火獸",
+        ja: "ブーバー"
     },
     description: {
         en: "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando respira profondamente, le fiamme all'interno del\nsuo ventre aumentano d'intensità, raggiungendo i 2.000 ºC.",
         de: "Holt es tief Luft, werden die Flammen in seinem Bauch\nstärker und erreichen eine Temperatur von 2000 ºC.",
         'pt-br': "Quando Magmortar respira fundo, o fogo na sua barriga\nse intensifica, chegando a atingir temperaturas superiores\na 2.000 ºC.",
+        ja: "大きく 息を 吸いこむと 腹の 中の 炎が 勢いを 増して 摂氏２０００度に 達する。",
         ko: "크게 숨을 들이쉬면 배 안의\n불꽃이 더욱 거세어져서\n섭씨 2000도에 달하게 된다.",
         "zh-tw": "當瑪格莫塔深吸一口氣時，其腹部燃燒的火焰會加劇，溫度升至 3,600 華氏度以上。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Bomba Fumogena",
             de: "Rauchbombe",
             'pt-br': "Bomba de Fumaça",
+            ja: "えんばく",
             ko: "스모크봄",
             "zh-tw": "煙霧彈"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Durante il prossimo turno del tuo avversario, se il Pokémon difensore prova a usare un attacco, il tuo avversario lancia una moneta. Se esce croce, quell'attacco non avviene.",
             de: "Wenn das Verteidigende Pokémon während des nächsten Zuges deines Gegners versucht, eine Attacke einzusetzen, wirft dein Gegner 1 Münze. Bei Zahl wird jene Attacke nicht ausgeführt.",
             'pt-br': "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se sair coroa, aquele ataque não acontecerá.",
+            ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
             ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다.",
             "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
         }

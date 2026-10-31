@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/083",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/083",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/083"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/083"
     },
     name: {
         en: "Gengar",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
-        ja: "Haunter",
+        ja: "ゴースト",
         ko: "Haunter"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Dämmergift",
                 "pt-br": "Veneno do Crepúsculo",
                 "zh-tw": "薄暮之毒",
-                ja: "Twilight Poison",
+                ja: "ゆうやみどく",
                 ko: "Twilight Poison"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und schläft.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒與睡眠。",
-                ja: "Your opponent's Active Pokémon is now Poisoned and Asleep.",
+                ja: "相手のバトルポケモンをどくとねむりにする。",
                 ko: "Your opponent's Active Pokémon is now Poisoned and Asleep."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Um Beute zu erlegen, versteckt es sich in deren Schatten und wartet still auf eine günstige Gelegenheit.",
         "pt-br": "Este Pokémon aguarda pela oportunidade perfeita para se esconder na sombra de sua presa e roubar a vida dela.",
         "zh-tw": "會躲進獵物的影子裡，然後靜靜地等待奪取性命的絕佳時機。",
-        ja: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+        ja: "命を 奪おうと 決めた 獲物の 影に 潜り込み じっと チャンスを 狙ってる。",
         ko: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/117",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/117"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/117"
     },
     name: {
         en: "Houndour",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hunduster",
         "pt-br": "Houndour",
         "zh-tw": "戴魯比",
+        ja: "デルビル",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È abbastanza intelligente da cacciare in branco. Utilizza a\nvarietà di grida per comunicare con gli altri.",
         "de": "Es ist klug genug, in Rudeln zu jagen. Es verwendet a\nVielzahl von Schreien für die Kommunikation mit anderen.",
         "pt-br": "É inteligente o suficiente para caçar em matilhas. Ele usa um\nvariedade de gritos para se comunicar com outras pessoas.",
-        "zh-tw": "它足夠聰明，可以成群狩獵。它使用一個\n與他人交流的各種哭聲。"
+        "zh-tw": "它足夠聰明，可以成群狩獵。它使用一個\n與他人交流的各種哭聲。",
+        ja: "様々な 鳴き声を 使い分け 仲間と コミュニケーションしながら 狩りを おこなう 賢さを持つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 40,
             cost: ["Darkness", "Darkness"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/029"
     },
     name: {
         en: "Petilil",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Petilil",
         de: "Lilminip",
         'pt-br': "Petilil",
+        ja: "チュリネ",
         ko: "치릴리",
         "zh-tw": "百合根娃娃",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Macchia",
                 de: "Klecks",
                 'pt-br': "Borrão",
+                ja: "ちょっとすいとる",
                 ko: "조금흡수",
                 "zh-tw": "印跡"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 10 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Se le foglie sul suo capo cadono, ricrescono subito. Sono\nmolto amare, ma se masticate rimettono subito in forze.",
         de: "Die Blätter auf seinem Kopf schmecken äußerst\nbitter, wirken aber erfrischend. Fallen sie aus,\nwachsen sie sofort nach.",
         'pt-br': "As folhas em sua cabeça crescem imediatamente\nde volta mesmo quando caem. Essas folhas amargas\nrefrescam aqueles que as comem.",
+        ja: "抜け落ちても すぐに 生えてくる 頭の 葉っぱは とても 苦いが かじれば すぐ 元気に なれる。",
         ko: "빠져도 바로 자라나는\n머리의 잎사귀는 아주 쓰지만\n갉아 먹으면 바로 기운이 난다.",
         "zh-tw": "它頭上的葉子即使掉下來也會重新長出來。這些苦澀的葉子讓吃它們的人感到清爽。"
     },

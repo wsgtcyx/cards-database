@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/286",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/286",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/286",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/286"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/286",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/286"
     },
     name: {
         en: "Eevee",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua capacità di evolversi in molte forme glielo consente\nadattarsi agevolmente e perfettamente a qualsiasi ambiente.",
         "de": "Seine Fähigkeit, sich in viele Formen zu entwickeln, ermöglicht es ihm\npassen sich jeder Umgebung reibungslos und perfekt an.",
         "pt-br": "Sua capacidade de evoluir em muitas formas permite que ele\nadapta-se suavemente e perfeitamente a qualquer ambiente.",
-        "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。"
+        "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Raccogliere",
                 "de": "Sammeln",
                 "pt-br": "Coletar",
-                "zh-tw": "收集"
+                "zh-tw": "收集",
+                ja: "もってくる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を枚引く。"
             }
         }],
     weaknesses: [{

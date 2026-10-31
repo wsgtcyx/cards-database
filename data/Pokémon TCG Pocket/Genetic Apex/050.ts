@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/050"
     },
     name: {
         en: "Salazzle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Salazzle",
         de: "Amfira",
         'pt-br': "Salazzle",
+        ja: "エンニュート",
         ko: "염뉴트",
         "zh-tw": "焰后蜥",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Salandit",
         "de": "Molunk",
         "pt-br": "Salandit",
-        "zh-tw": "夜盜火蜥"
+        "zh-tw": "夜盜火蜥",
+        ja: "ヤトウモリ"
     },
     attacks: [{
             cost: ["Fire", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Artigli Infuocati",
                 de: "Feuerkrallen",
                 'pt-br': "Garras de Fogo",
+                ja: "ほのおのツメ",
                 ko: "불꽃의발톱",
                 "zh-tw": "火爪"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Trasforma gli avversari in seguaci stordendoli con del\ngas tossico per poi sedurli con movenze ammalianti.",
         de: "Zuerst benebelt es Gegner mit Giftgas, um sie\ndanach mit fesselnden Körperbewegungen zu\nbetören und zu ergebenen Dienern zu machen.",
         'pt-br': "Salazzle deixa os oponentes zonzos com seu\ngás venenoso, depois os cativa com movimentos\nfascinantes para transformá-los em servos leais.",
+        ja: "毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。",
         ko: "독가스에 어질어질해진 상대를\n요염한 몸놀림으로 유혹해서\n충실한 부하로 만들어 버린다.",
         "zh-tw": "薩拉茲用毒氣讓對手頭暈目眩，然後用誘人的動作迷惑他們，將他們變成忠誠的僕人。"
     },

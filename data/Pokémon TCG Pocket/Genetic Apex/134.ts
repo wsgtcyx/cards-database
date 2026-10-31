@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/134",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/134"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/134"
     },
     name: {
         en: "Swoobat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Swoobat",
         de: "Fletiamo",
         'pt-br': "Swoobat",
+        ja: "ココロモリ",
         ko: "맘박쥐",
         "zh-tw": "心蝙蝠",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Woobat",
         "de": "Fleknoil",
         "pt-br": "Woobat",
-        "zh-tw": "滾滾蝙蝠"
+        "zh-tw": "滾滾蝙蝠",
+        ja: "コロモリ"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Cuorestampo",
                 de: "Herzstempel",
                 'pt-br': "Estampa de Coração",
+                ja: "ハートスタンプ",
                 ko: "하트스탬프",
                 "zh-tw": "心形印記"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Dopo aver emesso delle potentissime onde sonore\nè così stanco da non poter volare per un po'.",
         de: "Hat es besonders starke Ultraschallwellen\nausgestoßen, wird es so müde, dass es für\neine Weile nicht fliegen kann.",
         'pt-br': "Emitir ondas sonoras poderosas faz com\nque fique cansado. Depois, não consegue\nvoar por um tempo.",
+        ja: "超強力な 音波を 放ったあとは 疲れて しばらく 飛べなくなるよ。",
         ko: "아주 강력한 음파를\n내보낸 후에는 지쳐서\n당분간 날 수 없게 된다.",
         "zh-tw": "發出強大的聲波使其疲憊不堪。之後，它將會有一段時間無法飛翔。"
     },

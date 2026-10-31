@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/068"
     },
     name: {
         en: "Memory Light",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Gedächtnislicht",
         "pt-br": "Lâmpada da Memória",
         "zh-tw": "記憶燈泡",
+        ja: "メモリーライト",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Il Pokémon a cui è assegnata questa carta può usare qualsiasi attacco delle sue evoluzioni precedenti. (Hai ancora bisogno dell'energia necessaria per utilizzare ogni attacco.)",
         "de": "Das Pokémon, an das diese Karte angelegt ist, kann jede Attacke aus seinen vorherigen Entwicklungen verwenden. (Sie benötigen immer noch die nötige Energie, um jeden Angriff auszuführen.)",
         "pt-br": "O Pokémon ao qual esta carta está ligada pode usar qualquer ataque de suas evoluções anteriores. (Você ainda precisa da energia necessária para usar cada ataque.)",
-        "zh-tw": "這張卡所附著的神奇寶貝可以使用其先前進化中的任何攻擊。 （你仍然需要必要的能量來使用每次攻擊。）"
+        "zh-tw": "這張卡所附著的神奇寶貝可以使用其先前進化中的任何攻擊。 （你仍然需要必要的能量來使用每次攻擊。）",
+        ja: "このカードをつけているポケモンは、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]"
     },
     trainerType: "Tool"
 };

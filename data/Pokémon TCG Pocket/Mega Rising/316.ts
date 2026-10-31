@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/316",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/316",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/316",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/316"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/316",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/316"
     },
     name: {
         en: "Bidoof",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bidiza",
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
+        ja: "ビッパ",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Con nervi d’acciaio, nulla può turbarlo. Lo è\npiù agile e attivo di quanto sembri.",
         "de": "Mit Nerven aus Stahl kann es nichts aus der Ruhe bringen. Es ist\nagiler und aktiver als es scheint.",
         "pt-br": "Com nervos de aço, nada pode perturbá-lo. É\nmais ágil e ativo do que parece.",
-        "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它是\n比看上去更加敏捷和活躍。"
+        "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它是\n比看上去更加敏捷和活躍。",
+        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Super Zanna",
                 "de": "Super Fang",
                 "pt-br": "Super Presa",
-                "zh-tw": "超級尖牙"
+                "zh-tw": "超級尖牙",
+                ja: "いかりのまえば"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Dimezza i PS rimanenti del Pokémon attivo del tuo avversario, arrotondati per difetto.",
                 "de": "Halbiere die verbleibenden HP des Aktiven Pokémon deines Gegners, abgerundet.",
                 "pt-br": "Reduza pela metade o HP restante do Pokémon Ativo do seu oponente, arredondado para baixo.",
-                "zh-tw": "將對手的活躍寶可夢的剩餘生命值減半，向下舍入。"
+                "zh-tw": "將對手的活躍寶可夢的剩餘生命值減半，向下舍入。",
+                ja: "相手のバトルポケモンの残りHPを、半分(切り捨て)にする。"
             }
         }],
     weaknesses: [{

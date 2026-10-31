@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/033",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/033",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/033"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/033"
     },
     name: {
         en: "Starmie",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Risucchia il plancton mentre nuota nel mare\nfacendo ruotare il suo corpo ad alta velocità.",
         de: "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton.",
         "pt-br": "Starmie nada girando seu corpo em alta velocidade. Enquanto este Pokémon navega pelo oceano, vai absorvendo plânctons minúsculos.",
-        "zh-tw": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。"
+        "zh-tw": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。",
+        ja: "体を 高速で 回転させ 海を 泳ぎながら 小さな プランクトンを 吸収する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Veloce",
                 de: "Schnell",
                 "pt-br": "Ataque Veloz",
-                "zh-tw": "高速星星"
+                "zh-tw": "高速星星",
+                ja: "スピードスター"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Il danno di questo attacco non è influenzato dalla debolezza o da eventuali effetti sul Pokémon attivo del tuo avversario.",
                 de: "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
-                "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。"
+                "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。",
+                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。"
             },
             damage: 60
         }

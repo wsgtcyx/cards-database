@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/069",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/069",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/069"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/069"
     },
     name: {
         en: "Mr. Mime",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È un ottimo mimo. Con le onde che emette\ndalle dita può creare una barriera che lo\nprotegge da molti attacchi.",
         de: "Es ist für die Pantomime geboren. Zur Abwehr\nunterschiedlichster Angriffe erzeugt es mit einem\nKraftfeld aus seinen Fingerspitzen Schutzwände.",
         "zh-tw": "擅長表演默劇。\n用手指放出的波動製造牆壁，\n保護自己免於大多數的攻擊。",
-        "pt-br": "Conhecido por suas técnicas de pantomima de alto nível. este Pokémon se protege de todos os tipos de ataque, emitindo auras de seus dedos para criar paredes."
+        "pt-br": "Conhecido por suas técnicas de pantomima de alto nível. este Pokémon se protege de todos os tipos de ataque, emitindo auras de seus dedos para criar paredes.",
+        ja: "パントマイムが 得意。 指から 出した 波動で 壁を つくり あまたの 攻撃から 身を守る。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Dança Sincronizada",
                 "zh-tw": "同步舞",
                 "it": "Danza Sincronizzata",
-                "de": "Synchrontanz"
+                "de": "Synchrontanz",
+                ja: "シンクロダンス"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem a mesma quantidade de Energia ligadas a eles, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢與對手的戰鬥寶可夢身上的能量數量相同,則增加40點傷害。",
                 "it": "del tuo Se questo Pokémon e il Pokémon attivo avversario hanno la stessa quantità di Energie assegnate, questo attacco infligge 40 danni in più.",
-                "de": "Wenn an dieses Pokémon genauso viel Energie angelegt ist wie an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu."
+                "de": "Wenn an dieses Pokémon genauso viel Energie angelegt ist wie an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu.",
+                ja: "このポケモンと相手のバトルポケモンのエネルギーの数が同じなら、40ダメージ追加。"
             },
             damage: "40+"
         }

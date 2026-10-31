@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/398",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/398",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/398",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/398"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/398",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/398"
     },
     name: {
         en: "Training Area",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Attacken von Phase-1-Pokémon im Spiel (deine und die deines Gegners) fügen dem Aktiven Pokémon des Gegners +10 Schadenspunkte zu.",
         "pt-br": "Os ataques usados pelos Pokémon Estágio 1 em jogo (seus e do seu oponente) causam +10 pontos de dano ao Pokémon Ativo do seu oponente.",
         "zh-tw": "雙方場上的1階進化寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+10點。",
-        ja: "Attacks used by Stage 1 Pokémon in play (both yours and your opponent's) do +10 damage to the opponent's Active Pokémon.",
+        ja: "おたがいの場の1進化ポケモンが使うワザの、相手のバトルポケモンへのダメージを+10する。",
         ko: "Attacks used by Stage 1 Pokémon in play (both yours and your opponent's) do +10 damage to the opponent's Active Pokémon."
     },
     trainerType: "Stadium"

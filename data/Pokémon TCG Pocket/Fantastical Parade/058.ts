@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/058"
     },
     name: {
         en: "Galarian Ponyta",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ponyta di Galar",
         "de": "Galar-Ponita",
         "pt-br": "Ponyta de Galar",
-        "zh-tw": "伽勒爾小火馬"
+        "zh-tw": "伽勒爾小火馬",
+        ja: "ガラルポニータ"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon ti guarderà negli occhi e leggerà\nil contenuto del tuo cuore. Se trova il male lì,\nsi nasconde subito.",
         "de": "Dieses Pokémon wird dir in die Augen schauen und lesen\nder Inhalt deines Herzens. Wenn es dort Böses findet,\nes versteckt sich sofort.",
         "pt-br": "Este Pokémon olhará nos seus olhos e lerá\no conteúdo do seu coração. Se encontrar o mal lá,\nele prontamente se esconde.",
-        "zh-tw": "這個神奇寶貝會看著你的眼睛並閱讀\n你內心的內容。如果它在那裡發現邪惡，\n它很快就躲了起來。"
+        "zh-tw": "這個神奇寶貝會看著你的眼睛並閱讀\n你內心的內容。如果它在那裡發現邪惡，\n它很快就躲了起來。",
+        ja: "瞳を 覗いて 心を 読む。 よこしまな 気持ちを 見つけると たちまち 姿を 消してしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 10,
             cost: ["Colorless"]

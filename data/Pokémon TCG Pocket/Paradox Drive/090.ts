@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/090",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/090",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/090"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/090"
     },
     name: {
         en: "Miraidon ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Guida leggendaria",
                 de: "Legendärer Antrieb",
                 "pt-br": "Unidade Lendária",
-                "zh-tw": "傳說進擊"
+                "zh-tw": "傳說進擊",
+                ja: "でんせつのしんげき"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando metti questo Pokémon dalla tua mano nella tua panchina, puoi scambiarlo con il tuo Pokémon attivo. Se lo fai, sposta tutta la tua Energia in gioco su questo Pokémon.",
                 de: "Wenn du dieses Pokémon einmal während deines Zuges aus deiner Hand auf deine Bank legst, kannst du es mit deinem Aktiven Pokémon vertauschen. Wenn du dies tust, bewege deine gesamte Energie im Spiel zu diesem Pokémon.",
                 "pt-br": "Uma vez durante o seu turno, ao colocar este Pokémon da sua mão no Banco, você poderá trocá-lo pelo seu Pokémon Ativo. Se fizer isso, mova toda a sua Energia em jogo para este Pokémon.",
-                "zh-tw": "在你的回合中，當你將這隻寶可夢從你的手牌放到你的替補席上時，你可以將它與你的活躍寶可夢交換。如果這樣做，請將場上所有能量轉移到這隻寶可夢身上。"
+                "zh-tw": "在你的回合中，當你將這隻寶可夢從你的手牌放到你的替補席上時，你可以將它與你的活躍寶可夢交換。如果這樣做，請將場上所有能量轉移到這隻寶可夢身上。",
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。このポケモンをバトルポケモンと入れ替える。その後、自分の場のエネルギーをすべて、このポケモンにつけ替える。"
             }
         }
     ],
@@ -63,7 +66,8 @@ const card: Card = {
                 it: "Raggio adrone",
                 de: "Hadron Ray",
                 "pt-br": "Raio de Hádron",
-                "zh-tw": "強子射線"
+                "zh-tw": "強子射線",
+                ja: "ハドロンレイ"
             },
             effect: {
                 en: "This attack does 20 more damage for each {L} Energy attached to this Pokémon.",
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata a questo Pokémon.",
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede {L}-Energie zu, die an dieses Pokémon angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada {L} Energia ligada a este Pokémon.",
-                "zh-tw": "該寶可夢身上每有 {L} 點能量，該攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該寶可夢身上每有 {L} 點能量，該攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンの{L}エネルギーの数×20ダメージ追加。"
             },
             damage: "20+"
         }

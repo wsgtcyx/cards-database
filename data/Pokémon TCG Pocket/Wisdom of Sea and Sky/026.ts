@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/026"
     },
     name: {
         en: "Ninetales",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ninetales",
         "de": "Vulnona",
         "pt-br": "Ninetales",
-        "zh-tw": "九尾"
+        "zh-tw": "九尾",
+        ja: "キュウコン"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vulpix",
         "de": "Vulpix",
         "pt-br": "Vulpix",
-        "zh-tw": "六尾"
+        "zh-tw": "六尾",
+        ja: "ロコン"
     },
     description: {
         en: "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che viva 1.000 anni e ciascuna delle sue code\nè carico di poteri soprannaturali.",
         "de": "Es wird gesagt, dass jeder seiner Schwänze 1.000 Jahre alt wird\nist voller übernatürlicher Kräfte.",
         "pt-br": "Diz-se que vive 1.000 anos, e cada uma de suas caudas\nestá carregado de poderes sobrenaturais.",
-        "zh-tw": "據說它的壽命是1000歲，它的每條尾巴\n充滿了超自然的力量。"
+        "zh-tw": "據說它的壽命是1000歲，它的每條尾巴\n充滿了超自然的力量。",
+        ja: "しっぽの １本 １本に 神通力が 込められている。 １０００年 生きると 言われる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Respiro bruciante",
                 "de": "Sengender Atem",
                 "pt-br": "Hálito escaldante",
-                "zh-tw": "灼熱的呼吸"
+                "zh-tw": "灼熱的呼吸",
+                ja: "しゃくねつのいぶき"
             },
             damage: 120,
             cost: ["Fire", "Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
+                ja: "次の自分の番、このポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

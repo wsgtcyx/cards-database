@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/039"
     },
     name: {
         en: "Swirlix",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Swirlix",
         de: "Flauschling",
         'pt-br': "Swirlix",
+        ja: "ペロッパフ",
         ko: "나룸퍼프",
         "zh-tw": "綿綿泡芙",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Mangia ogni giorno una quantità di zucchero\npari al peso del suo corpo. Quando il suo livello\ndi glucosio cala troppo, diventa di cattivo umore.",
         de: "Die Menge an Zucker, die es pro Tag verschlingt,\nentspricht seinem Körpergewicht. Bekommt es\nnicht genügend Zucker, wird es unausstehlich.",
         'pt-br': "Come o equivalente ao seu próprio peso em açúcar todos os dias.\nSe não consumir açúcar suficiente, ficará absurdamente mal-humorado.",
+        ja: "１日に 食べる 砂糖は 自分の 体重と 同じ。 糖分が 足りないと ひどく 不機嫌になる。",
         ko: "하루에 자신의 체중만큼의\n설탕을 먹는다. 당분이\n부족하면 매우 기분이 나빠진다.",
         "zh-tw": "它每天吃掉與自身重量相同的糖。如果它沒有得到足夠的糖，它就會變得非常暴躁。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Vento di Fata",
                 de: "Feenbrise",
                 'pt-br': "Vento de Fada",
+                ja: "ようせいのかぜ",
                 ko: "요정의바람",
                 "zh-tw": "仙風"
             },

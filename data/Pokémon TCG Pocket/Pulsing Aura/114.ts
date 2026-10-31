@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/114",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/114",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/114"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/114"
     },
     name: {
         en: "Zarude",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se si staccano, le liane del suo corpo diventano\nnutrimento per il suolo, favorendo lo sviluppo\ndelle piante della foresta.",
         de: "Reißen die an seinem Körper wachsenden Ranken\nab, werden sie zu Nährstoffen für den Boden,\nwas den Pflanzen im Wald zum Wachstum verhilft.",
         "pt-br": "Depois que as vinhas do corpo de Zarude são arrancadas, elas se tornam nutrientes no solo. Isso ajuda as plantas da floresta a crescer.",
-        "zh-tw": "生長在身上的藤蔓斷落後\n會化為土壤的養分，\n孕育森林裡的各種植物。"
+        "zh-tw": "生長在身上的藤蔓斷落後\n會化為土壤的養分，\n孕育森林裡的各種植物。",
+        ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rivalsa Oscura",
                 de: "Finstere Vergeltung",
                 "pt-br": "Vingança Umbrosa",
-                "zh-tw": "暗黑報復"
+                "zh-tw": "暗黑報復",
+                ja: "ダークリベンジ"
             },
             effect: {
                 en: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se uno qualsiasi dei tuoi Pokémon {D} è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 80 danni in più.",
                 de: "Wenn eines deiner {D} Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon {D} foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 de dano a mais.",
-                "zh-tw": "如果你的任一隻 {D} 寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 80 點。"
+                "zh-tw": "如果你的任一隻 {D} 寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 80 點。",
+                ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。"
             },
             damage: "40+"
         }

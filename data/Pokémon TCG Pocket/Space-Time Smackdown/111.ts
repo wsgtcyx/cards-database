@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/111",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/111"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/111"
     },
     name: {
         en: "Skarmory",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Skarmory",
         de: "Panzaeron",
         'pt-br': "Skarmory",
+        ja: "エアームド",
         ko: "무장조",
         "zh-tw": "盔甲鳥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le piume perse da Skarmory sono utilizzate\nper produrre spade. Per questo è molto\napprezzato come motivo degli stemmi nobiliari.",
         de: "Es wird gern als Vorlage für Wappenmotive\ngenutzt, da aus den Federn, die ihm ausfallen,\nSchwerter hergestellt werden.",
         'pt-br': "As pessoas forjam espadas com as penas que caíram\nde Skarmory, por isso, a imagem deste Pokémon é\num elemento popular em brasões.",
+        ja: "抜け落ちた 羽根から 剣が 作られることから 紋章の 図案として 人気が 高い。",
         ko: "빠진 깃털로 검을\n만들 수 있어서 문장\n도안으로 인기가 많다.",
         "zh-tw": "人們用斯卡莫里脫落的羽毛製作劍，因此這只神奇寶貝是紋章設計中的流行元素。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Arti Metallici",
                 de: "Metallarme",
                 'pt-br': "Braços Metálicos",
+                ja: "メタルアームズ",
                 ko: "메탈암즈",
                 "zh-tw": "金屬武器"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più.",
                 de: "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
                 ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 30데미지를 추가한다.",
                 "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 30 點。"
             }

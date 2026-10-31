@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/191",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/191",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/191"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/191"
     },
     name: {
         en: "Quilava",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Feurigel",
         "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
-        ja: "Cyndaquil",
+        ja: "ヒノアラシ",
         ko: "Cyndaquil"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Hitzewelle",
                 "pt-br": "Onda de Calor",
                 "zh-tw": "熱風",
-                ja: "Heat Wave",
+                ja: "ねっぷう",
                 ko: "Heat Wave"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
-                ja: "Your opponent's Active Pokémon is now Burned.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "Your opponent's Active Pokémon is now Burned."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Das Fell dieses Pokémon ist nicht entflammbar. Feuer-Angriffe jeglicher Art machen ihm nichts aus.",
         "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. É capaz de resistir a qualquer ataque de fogo.",
         "zh-tw": "一身的毛皮因不會燃燒，無論任何火焰攻擊都能安然無恙。",
-        ja: "The fur covering this Pokémon’s body never burns, no matter what. It can shrug off any kind of fire attack.",
+        ja: "体を 覆う 毛皮は ぜったいに 燃えたりしない。 どんな 炎攻撃も 平気だ。",
         ko: "The fur covering this Pokémon’s body never burns, no matter what. It can shrug off any kind of fire attack."
     }
 };

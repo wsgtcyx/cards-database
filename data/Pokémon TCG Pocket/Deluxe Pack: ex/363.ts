@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/363",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/363",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/363",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/363"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/363",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/363"
 	},
 	name: {
         en: "Palkia ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Palkia-ex",
         "pt-br": "Palkia ex",
         "zh-tw": "帕路奇亞ex",
+        ja: "パルキアex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 30,
             cost: ["Water"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Tempesta dimensionale",
                 "de": "Dimensionssturm",
                 "pt-br": "Tempestade Dimensional",
-                "zh-tw": "次元風暴"
+                "zh-tw": "次元風暴",
+                ja: "ディメンションストーム"
             },
             damage: 150,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Scarta 3 Energie {W} da questo Pokémon. Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 "de": "Lege 3 {W}-Energien von diesem Pokémon ab. Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Descarte 3 {W} Energias deste Pokémon. Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "丟棄該神奇寶貝的 3 個 {W} 能量。這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。"
+                "zh-tw": "丟棄該神奇寶貝的 3 個 {W} 能量。這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。",
+                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のベンチポケモン全員にも20ダメージ。"
             }
         }],
     weaknesses: [{

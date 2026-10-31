@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/341",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/341",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/341",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/341"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/341",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/341"
 	},
 	name: {
         en: "Iono",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Enigmara",
         "pt-br": "Kissera",
         "zh-tw": "奇樹",
+        ja: "ナンジャモ",
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Ogni giocatore mescola le carte che ha in mano nel proprio mazzo, poi pesca altrettante carte.",
         "de": "Jeder Spieler mischt die Karten auf seiner Hand in sein Deck und zieht dann entsprechend viele Karten.",
         "pt-br": "Cada jogador embaralha as cartas de sua mão em seu baralho e, em seguida, compra aquela quantidade de cartas.",
-        "zh-tw": "每個玩家將手中的牌洗入自己的牌庫，然後抽出相應數量的牌。"
+        "zh-tw": "每個玩家將手中的牌洗入自己的牌庫，然後抽出相應數量的牌。",
+        ja: "おたがいのプレイヤーは、それぞれ手札をすべて山札にもどす。その後、それぞれもどした枚数ぶん、山札を引く。"
     },
     trainerType: "Supporter"
 };

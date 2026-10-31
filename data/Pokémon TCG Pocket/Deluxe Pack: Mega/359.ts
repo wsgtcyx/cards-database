@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/359",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/359",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/359",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/359"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/359",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/359"
     },
     name: {
         en: "Lillipup",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Yorkleff ist deutlich intelligenter als die meisten Kinder und vergisst nie, wenn man ihm Zuneigung entgegenbringt oder es schlecht behandelt.",
         "pt-br": "Este Pokémon é muito mais esperto do que uma criança comum. Lillipup não vai esquecer o amor que recebe, nem qualquer abuso que sofra.",
         "zh-tw": "比一般的小孩子都還要聰明。對於自己得到的關愛，或是受到的傷害牠都不會忘記。",
-        ja: "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.",
+        ja: "並みの 子ども よりも ずっと 利口。 受けた 愛情も された 仕打ちも 忘れないのだ。",
         ko: "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
                 "zh-tw": "小狗滿地跑",
-                ja: "Puppy Pile",
+                ja: "こいぬまみれ",
                 ko: "Puppy Pile"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Zeige deinem Gegner alle deine Pokémon im Spiel und auf deiner Hand mit der Attacke Welpenhaufen. Diese Attacke fügt für jedes auf diese Weise gezeigte Pokémon 20 Schadenspunkte mehr zu.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Pilha de Filhotes, e este ataque causa 20 pontos de dano para cada Pokémon que você revelou dessa forma.",
                 "zh-tw": "在給對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的寶可夢後,造成給對手看過的寶可夢的數量×20點傷害。",
-                ja: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
                 ko: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
             },
             damage: "20x"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/270",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/270",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/270",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/270"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/270",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/270"
     },
     name: {
         en: "Copycat",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nachahmerin",
         "pt-br": "Imitadora",
         "zh-tw": "模仿少女",
+        ja: "モノマネむすめ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Mescola la tua mano nel tuo mazzo. Pesca una carta per ogni carta nella mano del tuo avversario.",
         "de": "Mische deine Hand in dein Deck. Ziehe für jede Karte in der Hand deines Gegners eine Karte.",
         "pt-br": "Embaralhe sua mão em seu deck. Compre uma carta para cada carta na mão do seu oponente.",
-        "zh-tw": "將你的手牌洗入牌庫。對手手上每有一張牌，就抽一張牌。"
+        "zh-tw": "將你的手牌洗入牌庫。對手手上每有一張牌，就抽一張牌。",
+        ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。"
     },
     trainerType: "Supporter"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/016"
     },
     name: {
         en: "Sunkern",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sonnkern",
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
+        ja: "ヒマナッツ",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Cade improvvisamente dal cielo al mattino.\nSapendo che è debole, si nutre semplicemente finché non si evolve.",
         "de": "Es fällt morgens plötzlich vom Himmel.\nDa es weiß, dass es schwach ist, ernährt es sich einfach, bis es sich entwickelt.",
         "pt-br": "De repente, cai do céu pela manhã.\nSabendo que está fraco, simplesmente se alimenta até evoluir.",
-        "zh-tw": "早上它突然從天上掉下來。\n它知道自己很弱，只是簡單地進食，直到進化為止。"
+        "zh-tw": "早上它突然從天上掉下來。\n它知道自己很弱，只是簡單地進食，直到進化為止。",
+        ja: "ある朝 突然 降ってくる。 弱いのを 知っており 進化まで ひたすら 栄養を ためこむ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Macchia",
                 "de": "Fleck",
                 "pt-br": "Borrão",
-                "zh-tw": "印跡"
+                "zh-tw": "印跡",
+                ja: "ちょっとすいとる"
             },
             damage: 20,
             cost: ["Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 10 danni.",
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
+                ja: "このポケモンのHPを10回復。"
             }
         }],
     weaknesses: [{

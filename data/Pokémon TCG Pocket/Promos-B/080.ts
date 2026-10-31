@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/080",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/080",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/080"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/080"
     },
     name: {
         en: "Mega Houndoom ex", fr: "Méga-Démolosse-ex", es: "Mega-Houndoom ex", it: "Mega Houndoom-ex", de: "Mega-Hundemon-ex",
@@ -31,7 +32,8 @@ const card: Card = {
         cost: ["Colorless", "Fire", "Fire"],
         name: {
             en: "Grimhound Flare", fr: "Feu du Molosse Infernal", es: "Llamarada del Cerbero", it: "Grimhound Flare", de: "Grimhound Flare",
-            "pt-br": "Chama Malévola", "zh-tw": "地獄犬閃焰"
+            "pt-br": "Chama Malévola", "zh-tw": "地獄犬閃焰",
+            ja: "ヘルハウンドフレア"
         },
         effect: {
             en: "Flip 3 coins. This attack does 80 damage for each heads.",
@@ -40,7 +42,8 @@ const card: Card = {
             it: "Flip 3 coins. This attack does 80 damage for each heads.",
             de: "Flip 3 coins. This attack does 80 damage for each heads.",
             "pt-br": "Jogue 3 moedas. Este ataque causa 80 pontos de dano para cada cara.",
-            "zh-tw": "擲3次硬幣，造成正面出現的次數×80點傷害。"
+            "zh-tw": "擲3次硬幣，造成正面出現的次數×80點傷害。",
+            ja: "コインを3回投げ、オモテの数×80ダメージ。"
         },
         damage: "80×"
     }],

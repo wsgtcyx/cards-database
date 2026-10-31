@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/060"
     },
     name: {
         en: "Wobbuffet",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Wobbuffet",
         "de": "Woingenau",
         "pt-br": "Wobbuffet",
-        "zh-tw": "果然翁"
+        "zh-tw": "果然翁",
+        ja: "ソーナンス"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Per tenere nascosta la coda nera come la pece, vive tranquillamente\nnell'oscurità. Non è mai il primo ad attaccare.",
         "de": "Um seinen pechschwarzen Schwanz zu verbergen, lebt er ruhig\nin der Dunkelheit. Es ist nie der Erste, anzugreifen.",
         "pt-br": "Para manter sua cauda preta escondida, ele vive em silêncio\nna escuridão. Nunca é o primeiro a atacar.",
-        "zh-tw": "為了隱藏漆黑的尾巴，它安靜地生活著\n在黑暗中。它永遠不會首先進攻。"
+        "zh-tw": "為了隱藏漆黑的尾巴，它安靜地生活著\n在黑暗中。它永遠不會首先進攻。",
+        ja: "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Capovolgi",
                 "de": "Umdrehen",
                 "pt-br": "Virar",
-                "zh-tw": "翻轉"
+                "zh-tw": "翻轉",
+                ja: "おきあがりアタック"
             },
             damage: 80,
             cost: ["Psychic", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             }
         }],
     weaknesses: [{

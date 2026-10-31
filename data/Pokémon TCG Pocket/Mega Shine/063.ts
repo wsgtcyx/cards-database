@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/063",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/063",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/063"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/063"
     },
     name: {
         en: "Cinccino",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il grasso particolarmente oleoso prodotto dal\nsuo corpo è molto efficace contro le irritazioni\ncutanee.",
         de: "Aus seinem Körper tritt besonders schmieriges\nÖl aus, das für Menschen, die unter trockener\nHaut leiden, von großem Nutzen ist.",
         "pt-br": "O óleo que escorre de seu corpo é muito suave. Para pessoas com problemas de pele, este óleo é um tratamento eficaz.",
-        "zh-tw": "從全身滲出的油非常滑。\n對於因為肌膚乾燥而\n煩惱的人也很有效果。"
+        "zh-tw": "從全身滲出的油非常滑。\n對於因為肌膚乾燥而\n煩惱的人也很有效果。",
+        ja: "全身から 染み出す 油は とても なめらか。 肌荒れに 悩む 人にも 効果的なのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Schiaffetto",
                 de: "Sanfter Hieb",
                 "pt-br": "Tapinha",
-                "zh-tw": "重摑"
+                "zh-tw": "重摑",
+                ja: "ひっぱたく"
             },
             damage: 60
         }

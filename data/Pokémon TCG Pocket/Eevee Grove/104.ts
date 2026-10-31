@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/104",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/104"
     },
     name: {
         en: "Articuno ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arktos-ex",
         "pt-br": "Articuno ex",
         "zh-tw": "急凍鳥ex",
+        ja: "フリーザーex",
     },
     illustrator: "PLANETA Saito",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Ala di ghiaccio",
                 "de": "Eisflügel",
                 "pt-br": "Asa de Gelo",
-                "zh-tw": "冰翼"
+                "zh-tw": "冰翼",
+                ja: "アイスウイング"
             },
             damage: 40,
             cost: ["Water", "Colorless"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Bufera di neve",
                 "de": "Schneesturm",
                 "pt-br": "Nevasca",
-                "zh-tw": "暴風雪"
+                "zh-tw": "暴風雪",
+                ja: "ふぶき"
             },
             damage: 80,
             cost: ["Water", "Water", "Water"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
+                "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。",
+                ja: "相手のベンチポケモン全員にも10ダメージ。"
             }
         }],
     weaknesses: [{

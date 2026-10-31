@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/039",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/039",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/039"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/039"
     },
     name: {
         en: "Pawmo",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Pamamo",
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
+        ja: "パモット",
         'es-mx': "Pawmo",
         pt: "Pawmo"
     },
@@ -36,6 +38,7 @@ const card: Card = {
         de: "Pamo",
         'pt-br': "Pawmi",
         "zh-tw": "布撥",
+        ja: "パモ",
         ko: "빠모"
     },
     description: {
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Pawmo utilizza una tecnica di combattimento unica in cui usa le zampe anteriori per colpire i nemici e colpirli simultaneamente con l'elettricità proveniente dai polpastrelli.",
         "de": "Pamamo verwendet eine einzigartige Kampftechnik, bei der es seine Vorderpfoten nutzt, um Feinde zu schlagen und sie gleichzeitig mit Elektrizität aus seinen Pfotenballen zu belasten.",
         "pt-br": "Pawmo usa uma técnica de luta única na qual usa suas patas dianteiras para atacar os inimigos e acertá-los com eletricidade de suas patas simultaneamente.",
-        "zh-tw": "布土撥使用一種獨特的戰鬥技術，它用前爪攻擊敵人，同時用爪墊上的電流擊打敵人。"
+        "zh-tw": "布土撥使用一種獨特的戰鬥技術，它用前爪攻擊敵人，同時用爪墊上的電流擊打敵人。",
+        ja: "手のひらで 打撃を 加えつつ 肉球で 電撃を 浴びせる 独特の 格闘技を 使う。"
     },
     stage: "Stage1",
     attacks: [
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Kopf-Blitz",
                 "pt-br": "Parafuso de cabeça",
                 "zh-tw": "頭部螺栓",
+                ja: "ヘッドボルト",
                 pt: "Raio de Cabeça",
                 'es-mx': "Rayo Capital"
             },

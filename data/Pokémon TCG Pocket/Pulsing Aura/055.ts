@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/055",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/055",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/055"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/055"
     },
     name: {
         en: "Voltorb",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Rotola per spostarsi. Se il terreno è\nirregolare, può esplodere all'improvviso\na causa dell'urto contro un dosso.",
         de: "Es bewegt sich rollend fort. Rollt es über\nunebenen Boden, kann es plötzlich explodieren.",
         "pt-br": "Ele rola para se mover. Quando o solo está\ndesnivelado, um solavanco repentino após\num baque pode fazê-lo explodir.",
-        "zh-tw": "它滾動移動。如果地面不平坦，撞擊到凸塊時突然的震動可能會導致爆炸。"
+        "zh-tw": "它滾動移動。如果地面不平坦，撞擊到凸塊時突然的震動可能會導致爆炸。",
+        ja: "転がって 移動するので 地面が デコボコだと ショックで 爆発してしまう。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tiro a Scoppio Singolo",
                 de: "Einzelschussballern",
                 "pt-br": "Explosão Única",
-                "zh-tw": "單爆炸彈"
+                "zh-tw": "單爆炸彈",
+                ja: "いっぱつボム"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 50
         }

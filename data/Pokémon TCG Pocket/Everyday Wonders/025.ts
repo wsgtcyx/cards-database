@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/025",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/025",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/025"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/025"
     },
     name: {
         en: "Yamper",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È un golosone e aiuta gli uomini in cambio\ndi ghiottonerie. Corre di qua e di là\nemettendo scintille da tutto il corpo.",
         de: "Im Austausch gegen Leckerlis hilft dieser kleine\nVielfraß Menschen bei der Arbeit. Beim Rennen\nwird es von knisternder Elektrizität umhüllt.",
         "pt-br": "Este Pokémon guloso só ajuda as pessoas no seu trabalho porque quer guloseimas. Enquanto funciona, ele estala com eletricidade.",
-        "zh-tw": "因為想要得到零食而\n幫助人類工作的貪吃鬼。\n總是帶著電火花跑來跑去。"
+        "zh-tw": "因為想要得到零食而\n幫助人類工作的貪吃鬼。\n總是帶著電火花跑來跑去。",
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Cucciolata",
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
-                "zh-tw": "小狗滿地跑"
+                "zh-tw": "小狗滿地跑",
+                ja: "こいぬまみれ"
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Rivela tutti i tuoi Pokémon in gioco e nella tua mano che hanno l'attacco Cuccioli Pile, e questo attacco infligge 20 danni per ogni Pokémon che hai rivelato in questo modo.",
                 de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
-                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。"
+                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。"
             },
             damage: "20x"
         }

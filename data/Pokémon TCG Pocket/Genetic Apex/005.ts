@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/005"
     },
     name: {
         en: "Caterpie",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Caterpie",
         de: "Raupy",
         'pt-br': "Caterpie",
+        ja: "キャタピー",
         ko: "캐터피",
         "zh-tw": "綠毛蟲",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Trovamico",
                 de: "Freunde finden",
                 'pt-br': "Encontre um Amigo",
+                ja: "ともだちをさがす",
                 ko: "친구찾기",
                 "zh-tw": "找朋友"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Prendi un Pokémon {G} a caso dal tuo mazzo e aggiungilo alle carte che hai in mano.",
                 de: "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand.",
                 'pt-br': "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
+                ja: "自分の山札から{G}ポケモンをランダムに1枚、手札に加える。",
                 ko: "자신의 덱에서 {G}포켓몬을 랜덤으로 1장 패로 가져온다.",
                 "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Per proteggersi emette un puzzo terribile dalle\nantenne sul capo, con cui tiene lontani i nemici.",
         de: "Als Schutz vor Feinden sondert es einen übel\nriechenden Gestank mit seinen Antennen ab.",
         'pt-br': "Para se proteger, libera um fedor horrível das\nantenas na cabeça para afastar seus inimigos.",
+        ja: "頭の 触角から 強烈な においを だして 敵を 追いはらい 身を守る。",
         ko: "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다.",
         "zh-tw": "為了保護自己，它會從頭上的天線釋放出可怕的惡臭來驅趕敵人。"
     },

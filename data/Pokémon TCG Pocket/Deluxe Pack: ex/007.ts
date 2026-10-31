@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/007"
     },
     name: {
         en: "Weedle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hornliu",
         "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
+        ja: "ビードル",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si trova spesso nelle foreste e nelle praterie.\nHa una punta affilata e tossica di circa due pollici\nsopra la sua testa.",
         "de": "Häufig in Wäldern und Grasland zu finden.\nEs hat einen scharfen, giftigen Stachel von etwa fünf Zentimetern Länge\nauf dem Kopf.",
         "pt-br": "Frequentemente encontrado em florestas e pastagens.\nTem uma farpa afiada e tóxica de cerca de cinco centímetros\nno topo de sua cabeça.",
-        "zh-tw": "常見於森林和草原。\n它有一個大約兩英寸長的鋒利有毒倒鉤\n在它的頭頂上。"
+        "zh-tw": "常見於森林和草原。\n它有一個大約兩英寸長的鋒利有毒倒鉤\n在它的頭頂上。",
+        ja: "森や 草地に 多く 生息。 頭の 先に ５センチぐらいの 小さく 鋭い 毒針を持つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Moltiplicare",
                 "de": "Multiplizieren",
                 "pt-br": "Multiplicar",
-                "zh-tw": "乘"
+                "zh-tw": "乘",
+                ja: "ふえる"
             },
             cost: ["Grass"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti 1 Weedle a caso dal tuo mazzo nella tua panchina.",
                 "de": "Lege 1 zufälliges Unkraut aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Weedle aleatório do seu deck no seu Banco.",
-                "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。"
+                "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。",
+                ja: "自分の山札から「ビードル」をランダムに1枚、ベンチに出す。"
             }
         }],
     weaknesses: [{

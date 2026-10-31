@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/102",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/102",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/102"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/102"
     },
     name: {
         en: "Iron Thorns",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Einige seiner Merkmale decken sich mit einem Objekt, das in einem gewissen Expeditionsbericht als Eisendorn dokumentiert wurde.",
         "pt-br": "Alguns dos seus traços mais notáveis são os mesmos de um objeto chamado de Espinhos Férreos em um certo diário de expedição.",
         "zh-tw": "有一部分的特徵與某本探險記裡以鐵荊棘來介紹的物體一致。",
-        ja: "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
+        ja: "ある 探検記で テツノイバラと 紹介されている 物体と 一致する 特徴が ある。",
         ko: "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Binärdonner",
                 "pt-br": "Trovão Binário",
                 "zh-tw": "雙雷電",
-                ja: "Binary Thunder",
+                ja: "バイナリサンダー",
                 ko: "Binary Thunder"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加40點傷害。",
-                ja: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage.",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、40ダメージ追加。",
                 ko: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage."
             },
             damage: "40+"

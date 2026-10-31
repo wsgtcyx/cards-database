@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/035"
     },
     name: {
         en: "Beheeyem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Beheeyem",
         de: "Megalon",
         'pt-br': "Beheeyem",
+        ja: "オーベム",
         ko: "벰크",
         "zh-tw": "大宇怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Pygraulon",
         "pt-br": "Elgyem",
         "zh-tw": "小灰怪",
+        ja: "リグレー",
     },
     description: {
         en: "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Per qualche strano motivo, nelle fattorie in cui\ncompare un Beheeyem sparisce sempre un Dubwool.",
         de: "Jedes Mal, wenn ein Megalon auf einer Farm\nauftaucht, verschwindet bald darauf ein\nZwollock unter mysteriösen Umständen.",
         'pt-br': "Sempre que um Beheeyem visita uma fazenda,\num Dubwool desaparece misteriosamente.",
+        ja: "オーベムが 現れた 牧場 からは いつの間にか バイウールーが １匹 姿を 消してしまう。",
         ko: "벰크가 나타난 목장에서는\n배우르 1마리가\n어느샌가 모습을 감춘다.",
         "zh-tw": "每當巨獸造訪農場時，杜布羊毛就會神秘消失。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Sollevamente",
                 de: "Gedankenstoß",
                 'pt-br': "Tomada Mental",
+                ja: "マインドジャック",
                 ko: "마인드잭",
                 "zh-tw": "心靈傑克"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
                 ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다.",
                 "zh-tw": "這次攻擊對對手的後備神奇寶貝每造成 20 點額外傷害。"
             }

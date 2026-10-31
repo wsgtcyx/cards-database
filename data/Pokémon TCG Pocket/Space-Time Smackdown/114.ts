@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/114"
     },
     name: {
         en: "Bastiodon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bastiodon",
         de: "Bollterus",
         'pt-br': "Bastiodon",
+        ja: "トリデプス",
         ko: "바리톱스",
         "zh-tw": "護城龍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schilterus",
         "pt-br": "Shieldon",
         "zh-tw": "盾甲龍",
+        ja: "タテトプス",
     },
     description: {
         en: "The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Prima che venisse rigenerato si riteneva\nerroneamente che le grandi e solide\nossa del muso facessero parte del dorso.",
         de: "Als man Fossilien noch nicht zurückverwandeln\nkonnte, war man der Ansicht, sein großer, harter\nGesichtsknochen sei sein Rücken.",
         'pt-br': "Os ossos de seu rosto são enormes e resistentes e,\npor isso, eram confundidos com sua espinha\naté este Pokémon ser restaurado.",
+        ja: "顔の骨が でかくて 硬いので 復元が 成功するまで 背骨と 勘違い されていた。",
         ko: "얼굴의 뼈가 크고 딱딱해서\n복원에 성공할 때까지\n등뼈라고 잘못 알려져 있었다.",
         "zh-tw": "它的臉部骨骼巨大且堅硬，因此被誤認為是它的脊柱，直到這只神奇寶貝被成功修復後。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Muso Corazzato",
                 de: "Kopfschutz",
                 'pt-br': "Grade de Proteção",
+                ja: "がんめんガード",
                 ko: "얼굴가드",
                 "zh-tw": "守衛燒烤架"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se questo Pokémon subisce danni da qualsiasi attacco, lancia una moneta. Se esce testa, questo Pokémon subisce -100 danni da quell'attacco.",
                 de: "Wenn diesem Pokémon durch Attacken Schaden zugefügt wird, wirf 1 Münze. Bei Kopf werden diesem Pokémon durch diese Attacke − 100 Schadenspunkte zugefügt.",
                 'pt-br': "Se qualquer dano for causado a este Pokémon por ataques, jogue uma moeda. Se sair cara, este Pokémon receberá −100 pontos de dano daquele ataque.",
+                ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンが受けるワザのダメージを-100する。",
                 ko: "이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬이 받는 기술의 데미지를 -100한다.",
                 "zh-tw": "如果這只神奇寶貝受到攻擊造成的傷害，則擲硬幣。如果正面，該寶可夢因這次攻擊受到 -100 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Scuotitesta",
                 de: "Headbangen",
                 'pt-br': "Baque de Cabeça",
+                ja: "ヘッドバング",
                 ko: "헤드뱅",
                 "zh-tw": "頭撞"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/068",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/068",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/068"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/068"
     },
     name: {
         en: "Mabosstiff",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Mastifioso",
         "pt-br": "Mabosstiff",
         "zh-tw": "獒教父",
+        ja: "マフィティフ",
         pt: "Mabosstiff"
     },
     illustrator: "KIYOTAKA OSHIYAMA",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Mobtiff",
         "pt-br": "Maschiff",
         "zh-tw": "偶叫獒",
+        ja: "オラチフ",
         pt: "Maschiff"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Mabosstiff ama giocare con i bambini. Anche se solitamente è gentile, assume un aspetto intimidatorio quando protegge la sua famiglia.",
         "de": "Mastifioso liebt es, mit Kindern zu spielen. Obwohl es normalerweise sanftmütig ist, wirkt es einschüchternd, wenn es seine Familie beschützt.",
         "pt-br": "Mabosstiff adora brincar com crianças. Embora geralmente gentil, assume uma aparência intimidadora ao proteger sua família.",
-        "zh-tw": "獒教父 喜歡和孩子們一起玩。雖然通常很溫和，但在保護家人時卻顯得令人生畏。"
+        "zh-tw": "獒教父 喜歡和孩子們一起玩。雖然通常很溫和，但在保護家人時卻顯得令人生畏。",
+        ja: "子どもと 遊ぶことが 大好き。 普段は 温厚だが 家族を 守るとき 形相が 変わる。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Wilder Tackle",
                 "pt-br": "Equipamento Selvagem",
                 "zh-tw": "狂野鏟球",
+                ja: "ワイルドタックル",
                 pt: "Investida Feroz"
             },
             damage: "110",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。",
                 pt: "Este Pokémon também causa 20 pontos de dano a si mesmo."
             },
         },

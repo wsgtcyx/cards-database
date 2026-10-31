@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/027"
     },
     name: {
         en: "Galvantula",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voltula",
         "pt-br": "Galvantula",
         "zh-tw": "電蜘蛛",
+        ja: "デンチュラ",
     },
     illustrator: "otumami",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wattzapf",
         "pt-br": "Joltik",
         "zh-tw": "電電蟲",
+        ja: "バチュル",
     },
     description: {
         en: "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Lancia la pelliccia elettrizzata dal suo addome\nmezzo di attacco. Gli avversari colpiti dalla pelliccia potrebbero\nessere dentro per tre giorni e notti interi di paralisi.",
         "de": "Es schleudert elektrifiziertes Fell aus seinem Hinterleib\nAngriffsmittel. Vom Fell getroffene Gegner könnten\ndrei volle Tage und Nächte lang gelähmt sein.",
         "pt-br": "Ele lança pelos eletrificados de seu abdômen enquanto\nmeio de ataque. Os oponentes atingidos pelo pelo poderiam\npassar três dias inteiros e três noites de paralisia.",
-        "zh-tw": "它從腹部發射帶電的毛皮作為其\n攻擊手段。被毛皮擊中的對手可以\n整整癱瘓了三天三夜。"
+        "zh-tw": "它從腹部發射帶電的毛皮作為其\n攻擊手段。被毛皮擊中的對手可以\n整整癱瘓了三天三夜。",
+        ja: "電気を 帯びた お腹の 毛を 飛ばして 攻撃。 毛が 刺さると 三日三晩 全身が 痺れる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Scossa elettrica",
                 "de": "Stromschlag",
                 "pt-br": "Choque Elétrico",
-                "zh-tw": "電擊"
+                "zh-tw": "電擊",
+                ja: "サンダーショック"
             },
             damage: 70,
             cost: ["Lightning", "Lightning"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie assegnate a questo Pokémon. Il Pokémon attivo del tuo avversario è ora paralizzato.",
                 "de": "Lege alle an dieses Pokémon angelegten Energien ab. Das aktive Pokémon deines Gegners ist jetzt gelähmt.",
                 "pt-br": "Descarte todas as Energias ligadas a este Pokémon. O Pokémon Ativo do seu oponente agora está Paralisado.",
-                "zh-tw": "丟棄該神奇寶貝所附帶的所有能量。你對手的主動神奇寶貝現在陷入麻痺狀態。"
+                "zh-tw": "丟棄該神奇寶貝所附帶的所有能量。你對手的主動神奇寶貝現在陷入麻痺狀態。",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/148",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/148",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/148"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/148",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/148"
     },
     name: {
         en: "Dragalge ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Algitt",
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
-        ja: "Skrelp",
+        ja: "クズモー",
         ko: "Skrelp"
     },
     stage: "Stage1",
@@ -54,7 +55,7 @@ const card: Card = {
                 de: "Giftdorn",
                 "pt-br": "Ponto Venenoso",
                 "zh-tw": "毒刺",
-                ja: "Poison Point",
+                ja: "どくのトゲ",
                 ko: "Poison Point"
             },
             effect: {
@@ -65,7 +66,7 @@ const card: Card = {
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, ist das Angreifende Pokémon jetzt vergiftet.",
                 "pt-br": "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, o Pokémon Atacante agora estará Envenenado.",
                 "zh-tw": "這隻寶可夢在戰鬥場上受到對手的寶可夢招式的傷害時,將使用招式的寶可夢中毒。",
-                ja: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。",
                 ko: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
                 "zh-tw": "龍之鞭打",
-                ja: "Draconic Whip",
+                ja: "ドラゴンウィップ",
                 ko: "Draconic Whip"
             },
             damage: 80,

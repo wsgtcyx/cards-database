@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/235",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/235",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/235",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/235"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/235",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/235"
     },
     name: {
         en: "Alolan Muk ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Sleimok-ex",
         "pt-br": "Muk de Alola ex",
         "zh-tw": "阿羅拉臭臭泥ex",
+        ja: "アローラベトベトンex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Alola-Sleima",
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
+        ja: "アローラベトベター",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Panico chimico",
                 "de": "Chemische Panik",
                 "pt-br": "Pânico Químico",
-                "zh-tw": "化學恐慌"
+                "zh-tw": "化學恐慌",
+                ja: "ケミカルパニック"
             },
             damage: 80,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Viene scelta casualmente 1 condizione speciale tra Addormentato, Bruciato, Confuso, Paralizzato e Avvelenato e il Pokémon attivo del tuo avversario è ora influenzato da quella condizione speciale. Eventuali condizioni speciali che già influenzano quel Pokémon non verranno scelte.",
                 "de": "1 besonderer Zustand aus den Kategorien „Schlafend“, „Verbrannt“, „verwirrt“, „gelähmt“ und „vergiftet“ wird zufällig ausgewählt und das aktive Pokémon deines Gegners ist nun von diesem besonderen Zustand betroffen. Alle besonderen Bedingungen, die dieses Pokémon bereits betreffen, werden nicht ausgewählt.",
                 "pt-br": "1 Condição Especial entre Adormecido, Queimado, Confuso, Paralisado e Envenenado é escolhida aleatoriamente, e o Pokémon Ativo do seu oponente agora é afetado por essa Condição Especial. Quaisquer Condições Especiais que já afetem esse Pokémon não serão escolhidas.",
-                "zh-tw": "從睡眠、燒傷、混亂、麻痺和中毒中隨機選擇 1 個特殊狀態，對手的活躍神奇寶貝現在受到該特殊狀態的影響。任何已經影響該神奇寶貝的特殊情況都不會被選擇。"
+                "zh-tw": "從睡眠、燒傷、混亂、麻痺和中毒中隨機選擇 1 個特殊狀態，對手的活躍神奇寶貝現在受到該特殊狀態的影響。任何已經影響該神奇寶貝的特殊情況都不會被選擇。",
+                ja: "どく・やけど・ねむり・マヒ・こんらんの中からランダムに1つが選ばれ、相手のバトルポケモンをその特殊状態にする。すでに受けている特殊状態は、選ばれない。"
             }
         }],
     weaknesses: [{

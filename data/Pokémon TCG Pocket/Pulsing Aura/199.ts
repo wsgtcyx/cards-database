@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/199",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/199",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/199"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/199"
     },
     name: {
         en: "Zoroark ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Granzuccata",
                 de: "Rabiate Krallen",
                 "pt-br": "Pancada Brutal",
-                "zh-tw": "擊倒在地"
+                "zh-tw": "擊倒在地",
+                ja: "ビートダウン"
             },
             effect: {
                 en: "This attack does 30 damage for each of your Benched {D} Pokémon.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni per ciascuno dei tuoi Pokémon {D} in panchina.",
                 de: "Dieser Angriff fügt jedem deiner {D}-Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon {D} no Banco.",
-                "zh-tw": "此攻擊對你的每隻後備 {D} 寶可夢造成 30 點傷害。"
+                "zh-tw": "此攻擊對你的每隻後備 {D} 寶可夢造成 30 點傷害。",
+                ja: "自分のベンチの{D}ポケモンの数×30ダメージ。"
             },
             damage: "30x"
         }

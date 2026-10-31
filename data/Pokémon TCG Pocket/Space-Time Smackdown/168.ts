@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/168",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/168",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/168",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/168"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/168",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/168"
     },
     name: {
         en: "Cresselia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cresselia",
         de: "Cresselia",
         'pt-br': "Cresselia",
+        ja: "クレセリア",
         ko: "크레세리아",
         "zh-tw": "克雷色利亞"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Volando rilascia un velo di particelle brillanti.\nSi dice che rappresenti la luna crescente.",
         de: "Seine Flügel geben schimmernde Partikel ab,\ndie wie ein Schleier herabrieseln. Man sagt,\nes verkörpere die Mondsichel.",
         'pt-br': "Suas asas liberam partículas brilhantes como um véu.\nDizem que representa a lua crescente.",
+        ja: "飛行するときは ベールのような 羽から 光る 粒子を 出す。 三日月の化身と 呼ばれている。",
         ko: "비행할 때는 베일 같은\n날개에서 빛나는 입자를 낸다.\n초승달의 화신으로 불리고 있다.",
         "zh-tw": "閃亮的粒子像面紗一樣從翅膀上釋放出來。據說它代表新月。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cura Lunare",
                 de: "Mondlichtabsorption",
                 'pt-br': "Ganho de Luar",
+                ja: "ムーンライトゲイン",
                 ko: "문라이트게인",
                 "zh-tw": "月光增益"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
             }

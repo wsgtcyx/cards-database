@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/195",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/195",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/195"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/195"
     },
     name: {
         en: "Typhlosion ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 "pt-br": "Inferno Destrutivo",
                 "zh-tw": "破壞業火",
                 "it": "Incendio Distruttivo",
-                "de": "Verzehrendes Inferno 110"
+                "de": "Verzehrendes Inferno 110",
+                ja: "はかいのごうか"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。"
+                "zh-tw": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
             },
             damage: 110
         }

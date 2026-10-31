@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/055",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/055",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/055"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/055"
     },
     name: {
         en: "Mankey",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
+        ja: "マンキー",
         pt: "Mankey"
     },
     illustrator: "nagimiso",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "È estremamente veloce ad arrabbiarsi. Potrebbe essere docile un momento, per poi dimenarsi l'istante successivo.",
         "de": "Es ist extrem schnell wütend. Es könnte in einem Moment fügsam sein und im nächsten Moment um sich schlagen.",
         "pt-br": "É extremamente rápido ficar com raiva. Poderia ser dócil em um momento e se debater no instante seguinte.",
-        "zh-tw": "它非常容易生氣。它可能在某一時刻還很溫順，但下一秒就會猛烈地攻擊。"
+        "zh-tw": "它非常容易生氣。它可能在某一時刻還很溫順，但下一秒就會猛烈地攻擊。",
+        ja: "普段は 機嫌が 良くても ちょっとしたことで いきなり 暴れだすから 怖いのだ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Kratzfurie",
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "狂怒橫掃",
+                ja: "みだれひっかき",
                 'es-mx': "Garras Furiosas",
                 pt: "Golpes de Fúria"
             },
@@ -60,6 +64,7 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Diese Attacke fügt 10 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。",
+                ja: "コインを3回投げ、オモテの数×10ダメージ。",
                 pt: "Jogue 3 moedas. Este ataque causa 10 pontos de dano para cada cara.",
                 'es-mx': "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
             },

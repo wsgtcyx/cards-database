@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/040"
     },
     name: {
         en: "Pupitar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pupitar",
         de: "Pupitar",
         'pt-br': "Pupitar",
+        ja: "サナギラス",
         ko: "데기라스",
         "zh-tw": "沙基拉斯",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Larvitar",
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
+        ja: "ヨーギラス",
     },
     description: {
         en: "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Il suo corpo è ricoperto da un guscio duro come\nla roccia ed è molto forte. Quando si infuria, è\ncapace di abbattere persino una montagna.",
         de: "Es ist sehr stark und hat einen steinharten Panzer.\nGerät es außer Kontrolle, kann es Berge dem\nErdboden gleichmachen.",
         'pt-br': "Seu casco é duro como rocha e muito forte.\nSuas pancadas podem derrubar uma montanha.",
+        ja: "岩盤のような 硬い 殻に 覆われているが 力は 強く 暴れると 山も 崩れてしまう。",
         ko: "암반 같은 단단한 껍질로\n둘러싸여 있지만 힘이 강해서\n난동을 부리면 산도 무너져 버린다.",
         "zh-tw": "它的外殼堅硬如基岩，而且也非常堅固。其一擊可推山倒。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Attacco Veloce",
                 de: "Tempoangriff",
                 'pt-br': "Ataque em Velocidade",
+                ja: "スピードアタック",
                 ko: "스피드어택",
                 "zh-tw": "速度攻擊"
             },

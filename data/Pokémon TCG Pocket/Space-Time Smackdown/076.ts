@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/076"
     },
     name: {
         en: "Mesprit",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mesprit",
         de: "Vesprit",
         'pt-br': "Mesprit",
+        ja: "エムリット",
         ko: "엠라이트",
         "zh-tw": "艾姆利多",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Detto \"Essere delle emozioni\". Ha insegnato agli\nuomini la nobiltà di tristezza, gioia e dolore.",
         de: "\"Das fühlende Wesen\". Es lehrt die Menschen\ndie Ideale von Trauer, Schmerz und Freude.",
         'pt-br': "Este Pokémon é conhecido como o ser de emoção\ne ensinou aos humanos a nobreza do sofrimento,\nda dor e da alegria.",
+        ja: "悲しみの 苦しさと 喜びの 尊さを 人々に 教えた。 感情の神と 呼ばれている。",
         ko: "슬픔의 괴로움과 즐거움의 소중함을\n사람들에게 가르쳐 주었다.\n감정의 신이라 불리고 있다.",
         "zh-tw": "被稱為“情感的存在”。它教導了\n人類是悲傷、痛苦和歡樂的高貴。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Scoppio Supremo",
                 de: "Allmächtiger Schuss",
                 'pt-br': "Explosão Suprema",
+                ja: "ゴッドブラスト",
                 ko: "갓블라스트",
                 "zh-tw": "至尊爆炸"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Puoi usare questo attacco solo se hai Uxie e Azelf in panchina. Rimuovi tutte le Energie assegnate a questo Pokémon.",
                 de: "Du kannst diese Attacke nur einsetzen, wenn du Selfe und Tobutz auf deiner Bank hast. Lege alle Energien von diesem Pokémon ab.",
                 'pt-br': "Você só pode usar este ataque se tiver Uxie e Azelf no seu Banco. Descarte todas as Energias deste Pokémon.",
+                ja: "このワザは、自分のベンチに「ユクシー」「アグノム」がいるときにしか使えない。このポケモンからエネルギーをすべてトラッシュ。",
                 ko: "이 기술은 자신의 벤치에 「유크시」「아그놈」 있을 때만 사용할 수 있다. 이 포켓몬에서 에너지를 모두 트래쉬한다.",
                 "zh-tw": "僅當您的替補席上有 Uxie 和 Azelf 時，您才能使用此攻擊。丟棄該神奇寶貝的所有能量。"
             }

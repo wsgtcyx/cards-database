@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/189",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/189"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/189",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/189"
     },
     name: {
         en: "Linoone",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Geradaks",
         "pt-br": "Linoone",
         "zh-tw": "直衝熊",
+        ja: "マッスグマ",
     },
     illustrator: "match",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Zigzachs",
         "pt-br": "Zigzagoon",
         "zh-tw": "蛇紋熊",
+        ja: "ジグザグマ",
     },
     description: {
         en: "It uses its explosive speed and razor-sharp claws\nto bring down prey. Running along winding\npaths is not its strong suit.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usa la sua velocità esplosiva e gli artigli affilati come rasoi\nper abbattere la preda. Correndo lungo un percorso tortuoso\ni percorsi non sono il suo punto forte.",
         "de": "Es nutzt seine explosive Geschwindigkeit und seine messerscharfen Krallen\nBeute erlegen. Kurvenreich entlanglaufen\nWege sind nicht seine Stärke.",
         "pt-br": "Ele usa sua velocidade explosiva e garras afiadas\npara derrubar a presa. Correndo ao longo do sinuoso\npaths não é seu forte.",
-        "zh-tw": "它利用爆炸性的速度和鋒利的爪子\n打倒獵物。沿著蜿蜒的道路奔跑\n路徑不是它的強項。"
+        "zh-tw": "它利用爆炸性的速度和鋒利的爪子\n打倒獵物。沿著蜿蜒的道路奔跑\n路徑不是它的強項。",
+        ja: "抜群の 瞬発力と するどいツメで 獲物を しとめる。 曲がった 道を 走るのは 下手。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Testata a getto",
                 "de": "Jet-Kopfstoß",
                 "pt-br": "Cabeçada de jato",
-                "zh-tw": "噴射頭撞"
+                "zh-tw": "噴射頭撞",
+                ja: "ジェットヘッド"
             },
             damage: 40,
             cost: ["Colorless"]

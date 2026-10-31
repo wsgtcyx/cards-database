@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/018"
     },
     name: {
         en: "Vanillite",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Gelatini",
         "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
+        ja: "バニプッチ",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Incapace di sopravvivere nelle zone calde, si crea da sola\nconfortevole espirando aria abbastanza fredda da\ncausare la neve. Si nasconde nella neve per dormire.",
         "de": "Da es in heißen Gegenden nicht überlebensfähig ist, macht es sich selbst\nangenehm, indem Sie Luft ausatmen, die kalt genug ist\nSchnee verursachen. Es vergräbt sich im Schnee, um zu schlafen.",
         "pt-br": "Incapaz de sobreviver em áreas quentes, torna-se\nconfortável expirando ar frio o suficiente para\ncausar neve. Ele se enterra na neve para dormir.",
-        "zh-tw": "無法在炎熱地區生存，它使自己\n通過呼吸足夠冷的空氣來舒適\n導致下雪。它鑽進雪裡睡覺。"
+        "zh-tw": "無法在炎熱地區生存，它使自己\n通過呼吸足夠冷的空氣來舒適\n導致下雪。它鑽進雪裡睡覺。",
+        ja: "暑い 土地では 暮らせない。 冷気を 吐いて 雪を 降らせ 積もった 中に 潜って 眠る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "10+",
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

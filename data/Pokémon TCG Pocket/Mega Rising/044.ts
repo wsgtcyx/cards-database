@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/044"
     },
     name: {
         en: "Heatmor",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Furnifraß",
         "pt-br": "Heatmor",
         "zh-tw": "熔蟻獸",
+        ja: "クイタラン",
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Una fiamma funge da lingua, sciogliendosi attraverso il\nduro guscio di Durant in modo che Heatmor possa divorarlo\nle loro viscere.",
         "de": "Eine Flamme dient als seine Zunge und schmilzt durch die Flamme\nharte Schale von Durant, damit Heatmor es verschlingen kann\nihr Inneres.",
         "pt-br": "Uma chama serve como sua língua, derretendo através do\ncasca dura de Durant para que Heatmor possa devorar\nsuas entranhas.",
-        "zh-tw": "火焰作為它的舌頭，融化在\n杜蘭特的硬殼，以便 Heatmor 可以吞噬\n他們的內心。"
+        "zh-tw": "火焰作為它的舌頭，融化在\n杜蘭特的硬殼，以便 Heatmor 可以吞噬\n他們的內心。",
+        ja: "炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frusta della lingua",
                 "de": "Zungenpeitsche",
                 "pt-br": "Chicote de língua",
-                "zh-tw": "舌鞭"
+                "zh-tw": "舌鞭",
+                ja: "ベロのムチ"
             },
             cost: ["Fire"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
+                ja: "相手のベンチポケモン1匹に30ダメージ。"
             }
         }],
     weaknesses: [{

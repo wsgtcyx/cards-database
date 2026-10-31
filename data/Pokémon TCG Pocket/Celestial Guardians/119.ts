@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/119",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/119"
     },
     name: {
         en: "Excadrill",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Excadrill",
         de: "Stalobor",
         'pt-br': "Excadrill",
+        ja: "ドリュウズ",
         ko: "몰드류",
         "zh-tw": "龍頭地鼠",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Rotomurf",
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
+        ja: "モグリュー",
     },
     description: {
         en: "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che le grotte all'apparenza naturali siano in realtà\nspesso il risultato degli scavi forsennati effettuati da Excadrill.",
         de: "Viele Tunnel, die aussehen, als wären sie natürlich\nentstanden, gehen wohl eigentlich auf Stalobor zurück,\ndie sich durch die Erde gegraben haben.",
         'pt-br': "Alguns túneis que parecem ter sido formados\nnaturalmente, na verdade, foram criados a partir\ndas escavações de Excadrill.",
+        ja: "自然の 洞窟に 見えても ドリュウズが 掘り荒らした 跡と いうことも よくある 話だ。",
         ko: "자연적으로 생긴 동굴로 보이지만\n사실은 몰드류가 파낸 흔적인\n경우는 흔히 있는 일이다.",
         "zh-tw": "看似自然形成的隧道實際上是 Excadrill 瘋狂挖掘的結果，這種情況並不少見。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 'pt-br': "Talho",
+                ja: "きりさく",
                 ko: "베어가르기",
                 "zh-tw": "削減"
             },

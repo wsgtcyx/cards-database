@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/015"
     },
     name: {
         en: "Tentacool",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tentacha",
         "pt-br": "Tentacool",
         "zh-tw": "瑪瑙水母",
+        ja: "メノクラゲ",
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Tentacool non è un nuotatore particolarmente forte.\nVa alla deriva sulla superficie dei mari poco profondi\ncerca la preda.",
         "de": "Tentacool ist kein besonders starker Schwimmer.\nDabei treibt es über die Oberfläche flacher Meere\nsucht nach Beute.",
         "pt-br": "Tentacool não é um nadador particularmente forte.\nEle flutua pela superfície de mares rasos à medida que\nprocura por presas.",
-        "zh-tw": "Tentacool 並不是一個特別擅長游泳的人。\n它在淺海表面漂流\n尋找獵物。"
+        "zh-tw": "Tentacool 並不是一個特別擅長游泳的人。\n它在淺海表面漂流\n尋找獵物。",
+        ja: "泳ぐ 力は 強くは ない。 浅い 海の 水面を 漂いながら 獲物を 探す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Puntura di veleno",
                 "de": "Giftstich",
                 "pt-br": "Picada Venenosa",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒刺",
+                ja: "どくばり"
             },
             damage: 20,
             cost: ["Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

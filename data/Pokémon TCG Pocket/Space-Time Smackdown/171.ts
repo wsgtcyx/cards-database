@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/171",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/171"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/171"
     },
     name: {
         en: "Hippopotas",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hippopotas",
         de: "Hippopotas",
         'pt-br': "Hippopotas",
+        ja: "ヒポポタス",
         ko: "히포포타스",
         "zh-tw": "沙河馬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Chiude le narici e poi avanza nella sabbia in tutta\ntranquillità. Vive in gruppi di una decina di esemplari.",
         de: "Dieses Pokémon schließt seine Nasenlöcher und\nreist dann durch den Sand. Es lebt in Kolonien\nmit einer Größe von circa zehn Hippopotas.",
         'pt-br': "Ele aperta as narinas enquanto viaja pela areia\ncomo se estivesse andando.\nEles formam colônias com cerca de 10.",
+        ja: "鼻の 穴を ピタリと 閉じてから 砂の中を 歩くように 進む。 10匹程度の 群れで 暮らす。",
         ko: "콧구멍을 꽉 막고\n모래 속을 걸어 다니듯 이동한다.\n10마리 정도가 무리 지어 생활한다.",
         "zh-tw": "它緊緊閉上鼻孔，然後像走路一樣穿過沙子。它們形成大約 10 個的群體。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },

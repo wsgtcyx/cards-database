@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/054"
     },
     name: {
         en: "Lillipup",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Yorkleff",
         "pt-br": "Lillipup",
         "zh-tw": "小約克",
+        ja: "ヨーテリー",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è coraggioso ma anche cauto.\nUtilizza la morbida pelliccia che gli ricopre il viso per collezionare\ninformazioni sui suoi dintorni.",
         "de": "Dieses Pokémon ist mutig, aber auch vorsichtig.\nZum Sammeln nutzt es das weiche Fell, das sein Gesicht bedeckt\nInformationen über die Umgebung.",
         "pt-br": "Este Pokémon é corajoso, mas também cauteloso.\nEle usa o pelo macio que cobre seu rosto para coletar\ninformações sobre seu entorno.",
-        "zh-tw": "這只神奇寶貝很勇敢，但也很謹慎。\n它利用覆蓋其面部的柔軟皮毛來收集\n有關其周圍環境的信息。"
+        "zh-tw": "這只神奇寶貝很勇敢，但也很謹慎。\n它利用覆蓋其面部的柔軟皮毛來收集\n有關其周圍環境的信息。",
+        ja: "勇敢 かつ 慎重。 顔を 覆う 柔らかい 毛で まわりの 情報を キャッチ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Colorless"]

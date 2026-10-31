@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/086",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/086",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/086"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/086"
     },
     name: {
         en: "Milotic ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Carica acquatica",
                 de: "Aqua-Ladung",
                 "pt-br": "Carga Aqua",
-                "zh-tw": "水流充能"
+                "zh-tw": "水流充能",
+                ja: "アクアチャージ"
             },
             effect: {
                 en: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi prendere un'Energia {W} dalla tua Zona Energetica e assegnarla a questo Pokémon.",
                 de: "Einmal während deines Zuges kannst du eine {W}-Energie aus deiner Energiezone nehmen und sie an dieses Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia {W} da sua Zona de Energia e anexá-la a este Pokémon.",
-                "zh-tw": "在你的回合中，你可以從你的能量區域取出一個{W}能量並將其附加到這隻寶可夢身上。"
+                "zh-tw": "在你的回合中，你可以從你的能量區域取出一個{W}能量並將其附加到這隻寶可夢身上。",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。"
             }
         }
     ],
@@ -74,7 +77,8 @@ const card: Card = {
                 it: "Idropulsar",
                 de: "Aquawelle",
                 "pt-br": "Pulso d'Água",
-                "zh-tw": "水之波動"
+                "zh-tw": "水之波動",
+                ja: "みずのはどう"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è addormentato.",
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             },
             damage: 80
         }

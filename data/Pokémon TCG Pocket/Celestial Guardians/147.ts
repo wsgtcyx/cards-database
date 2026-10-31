@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/147",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/147"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/147",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/147"
     },
     name: {
         en: "Leaf Cape",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mantello Silvestre",
         de: "Blätterumhang",
         'pt-br': "Capa de Folha",
+        ja: "リーフマント",
         ko: "리프망토",
         "zh-tw": "葉綠斗蓬",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Il Pokémon {G} a cui è assegnata questa carta ha +30 PS.",
         de: "Das {G}-Pokémon, an das diese Karte angelegt ist, erhält + 30 KP.",
         'pt-br': "O Pokémon {G} ao qual esta carta está ligada recebe +30 PS.",
+        ja: "このカードをつけている{G}ポケモンの最大HPを+30する。",
         ko: "이 카드를 붙이고 있는 {G}포켓몬의 최대 HP를 +30한다.",
         "zh-tw": "這張卡所附著的{G}寶可夢HP+30。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/058"
     },
     name: {
         en: "Aipom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Come faceva sempre di più con la coda, con le mani\nè diventato goffo. Fa il suo nido in alto\nle cime degli alberi.",
         "de": "Wie es immer mehr mit seinem Schwanz und seinen Händen tat\nwurde ungeschickt. Es baut sein Nest hoch oben\ndie Baumwipfel.",
         "pt-br": "À medida que fazia mais e mais com a cauda, as mãos\nficou desajeitado. Faz seu ninho no alto\nas copas das árvores.",
-        "zh-tw": "當它越來越多地用尾巴做事時，它的雙手\n變得笨拙。它把巢築在高處\n樹梢。"
+        "zh-tw": "當它越來越多地用尾巴做事時，它的雙手\n變得笨拙。它把巢築在高處\n樹梢。",
+        ja: "シッポで いろんなことを していたら 手先は 不器用に なってしまった。 高い 木の上に 巣を 作る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Doppio colpo",
                 "de": "Doppelter Treffer",
                 "pt-br": "Golpe Duplo",
-                "zh-tw": "雙重打擊"
+                "zh-tw": "雙重打擊",
+                ja: "ダブルアタック"
             },
             damage: "20×",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             }
         }],
     weaknesses: [{

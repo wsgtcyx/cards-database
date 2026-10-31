@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/414",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/414",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/414",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/414"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/414",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/414"
     },
     name: {
         en: "Mega Blastoise ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
-        ja: "Wartortle",
+        ja: "カメール",
         ko: "Wartortle"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Dreifachbeschuss",
                 "pt-br": "Bombardeio Triplo",
                 "zh-tw": "三重轟裂",
-                ja: "Triple Bombardment",
+                ja: "トリプルボンバード",
                 ko: "Triple Bombardment"
             },
             damage: 130,
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mindestens 3 extra {W}-Energien angelegt sind, fügt diese Attacke auch 2 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 3 Energias {W} extras ligadas a ele, este ataque também causará 50 pontos de dano a 2 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "若額外附有3個{W}能量,則對手的2隻備戰寶可夢也各受到50點傷害。",
-                ja: "If this Pokémon has at least 3 extra {W} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon.",
+                ja: "追加で{W}エネルギーが3個ついているなら、相手のベンチポケモン2匹にも、それぞれ50ダメージ。",
                 ko: "If this Pokémon has at least 3 extra {W} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
             }
         }

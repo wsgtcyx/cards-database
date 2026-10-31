@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/044"
     },
     name: {
         en: "Sableye",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zobiris",
         "pt-br": "Sableye",
         "zh-tw": "勾魂眼",
+        ja: "ヤミラミ",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I materiali delle gemme che ha mangiato galleggiano sul\nsuperficie del suo corpo e può formare un infinito\nnumero di modelli tra gli individui.",
         "de": "Materialien aus Edelsteinen, die es gefressen hat, schweben dorthin\nOberfläche seines Körpers und kann ein Unendliches bilden\nAnzahl der Muster zwischen Individuen.",
         "pt-br": "Os materiais das gemas que ele comeu flutuam para o\nsuperfície de seu corpo e pode formar um infinito\nnúmero de padrões entre os indivíduos.",
-        "zh-tw": "牠吃掉的寶石材料會漂浮到\n它的身體表面可以形成無限大的\n個體之間的模式數量。"
+        "zh-tw": "牠吃掉的寶石材料會漂浮到\n它的身體表面可以形成無限大的\n個體之間的模式數量。",
+        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Graffio",
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
-                "zh-tw": "划痕"
+                "zh-tw": "划痕",
+                ja: "ひっかく"
             },
             damage: 30,
             cost: ["Darkness"]

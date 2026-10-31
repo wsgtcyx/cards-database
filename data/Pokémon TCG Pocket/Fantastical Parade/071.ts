@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/071"
     },
     name: {
         en: "Pumpkaboo",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pumpkaboo",
         "de": "Irrbis",
         "pt-br": "Pumpkaboo",
-        "zh-tw": "南瓜精"
+        "zh-tw": "南瓜精",
+        ja: "バケッチャ"
     },
     illustrator: "Mousho",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La luce che esce dai fori del\nla zucca può ipnotizzare e controllare le persone\ne i Pokémon che lo vedono.",
         "de": "Das Licht, das aus den Löchern im\nKürbis kann Menschen hypnotisieren und kontrollieren\nund Pokémon, die es sehen.",
         "pt-br": "A luz que sai dos buracos do\nabóbora pode hipnotizar e controlar as pessoas\ne Pokémon que o veem.",
-        "zh-tw": "光線從孔洞中射出\n南瓜可以催眠和控制人\n以及看到它的神奇寶貝。"
+        "zh-tw": "光線從孔洞中射出\n南瓜可以催眠和控制人\n以及看到它的神奇寶貝。",
+        ja: "かぼちゃの 穴から 照らしている 光は 見た 人や ポケモンを 催眠状態にして 操る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 20,
             cost: ["Psychic"]

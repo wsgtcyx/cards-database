@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/082"
     },
     name: {
         en: "Mareep",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
+        ja: "メリープ",
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il suo vello cresce continuamente. In estate,\nil vello è completamente caduto, ma ricresce\nuna settimana.",
         "de": "Sein Fell wächst kontinuierlich. Im Sommer,\nDas Vlies ist vollständig abgeworfen, wächst aber wieder nach\neine Woche.",
         "pt-br": "Seu velo cresce continuamente. No verão,\no velo está totalmente solto, mas volta a crescer\numa semana.",
-        "zh-tw": "它的羊毛不斷生長。在夏天，\n羊毛完全脫落，但又重新長出來\n一周。"
+        "zh-tw": "它的羊毛不斷生長。在夏天，\n羊毛完全脫落，但又重新長出來\n一周。",
+        ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Calcio posteriore",
                 "de": "Hinterer Tritt",
                 "pt-br": "Chute traseiro",
-                "zh-tw": "後踢"
+                "zh-tw": "後踢",
+                ja: "うしろげり"
             },
             damage: 10,
             cost: ["Lightning"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/028"
     },
     name: {
         en: "Meditite",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Meditie",
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
+        ja: "アサナン",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non salta mai il suo allenamento quotidiano di yoga. Si intensifica\nla sua forza interiore attraverso la meditazione.",
         "de": "Es lässt sein tägliches Yoga-Training nie aus. Es steigert sich\nseine innere Stärke durch Meditation.",
         "pt-br": "Ele nunca pula seu treinamento diário de ioga. Isso aumenta\nsua força interior através da meditação.",
-        "zh-tw": "它從不跳過日常瑜伽訓練。它提高了\n通過冥想獲得內在的力量。"
+        "zh-tw": "它從不跳過日常瑜伽訓練。它提高了\n通過冥想獲得內在的力量。",
+        ja: "毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Inciampare",
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
-                "zh-tw": "絆倒"
+                "zh-tw": "絆倒",
+                ja: "ころばす"
             },
             damage: "10+",
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
+                ja: "コインを1回投げオモテなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

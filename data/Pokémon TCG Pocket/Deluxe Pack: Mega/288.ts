@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/288",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/288",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/288",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/288"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/288",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/288"
     },
     name: {
         en: "Frigibax",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Es lebt in Wäldern und Felsgebieten. Mit der Kraft seiner Rückenflosse kühlt es sein Nest wie eine Gefriertruhe herunter.",
         "pt-br": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, resfria seu ninho da mesma forma que um refrigerador.",
         "zh-tw": "棲息在岩石地帶或森林裡。會用背鰭的力量將巢穴裡的溫度降到如冷凍庫般寒冷。",
-        ja: "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator.",
+        ja: "岩場や 森林に 生息する。 背びれの 力で 巣穴の中を 冷凍庫のように 冷やしている。",
         ko: "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
     },
     stage: "Basic",
@@ -57,7 +58,7 @@ const card: Card = {
                 "zh-tw": "寒意",
                 "es-mx": "Frialdad",
                 pt: "Frio",
-                ja: "Chilly",
+                ja: "ひんやり",
                 ko: "Chilly"
             },
             damage: 20,

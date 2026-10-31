@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/049"
     },
     name: {
         en: "Spiritomb",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Spiritomb",
         de: "Kryppuk",
         'pt-br': "Spiritomb",
+        ja: "ミカルゲ",
         ko: "화강돌",
         "zh-tw": "花岩怪"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "A causa del suo comportamento molesto\nè stato imprigionato in una Roccianima\ncon un misterioso incantesimo.",
         de: "Aufgrund seiner ständigen Untaten wurde es mit\nmysteriösen Künsten an einen Spiritkern gebunden.",
         'pt-br': "Sua constante malvadeza e seus delitos causaram\nsua ligação a uma pedra por um feitiço misterioso.",
+        ja: "いつも 悪さばかり していたら 不思議な 術で 本体を 要石に 縛りつけられた。",
         ko: "항상 나쁜 짓만 하고 있었기에\n신비한 술법에 의해 본모습을\n쐐기돌에 속박당했다.",
         "zh-tw": "它不斷的惡作劇和惡行導致它被一個神秘的咒語束縛在一個奇怪的基石上。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Stordiraggio",
             de: "Konfusstrahl",
             'pt-br': "Raio da Confusão",
+            ja: "あやしいひかり",
             ko: "이상한빛",
             "zh-tw": "迷惑雷"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido.",
             it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso.",
             de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
+            ja: "コインを1回投げオモテなら、相手のバトルポケモンをこんらんにする。",
             ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.",
             'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Confuso.",
             "zh-tw": "拋一枚硬幣。如果出現正面，則對手的活躍神奇寶貝現在處於混亂狀態。"

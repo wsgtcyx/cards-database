@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/073"
     },
     name: {
         en: "Alolan Meowth",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
+        ja: "アローラニャース",
     },
     illustrator: "Mina Nakai",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È abituato al lusso perché\nviveva con i reali di Alola. Come a\nrisultato, è molto esigente riguardo al cibo.",
         "de": "Es ist an Luxus gewöhnt, weil es\nlebte früher mit dem Alola-Königshaus zusammen. Als\nDas Ergebnis ist, dass es beim Essen sehr wählerisch ist.",
         "pt-br": "Está acostumado ao luxo porque\ncostumava viver com a realeza de Alola. Como um\nresultado, é muito exigente com a comida.",
-        "zh-tw": "它習慣於奢侈，因為它\n曾經和阿羅拉皇室住在一起。作為一個\n結果，它對食物非常挑剔。"
+        "zh-tw": "它習慣於奢侈，因為它\n曾經和阿羅拉皇室住在一起。作為一個\n結果，它對食物非常挑剔。",
+        ja: "むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Intromettersi",
                 "de": "Einmischen",
                 "pt-br": "Intromissão",
-                "zh-tw": "插手"
+                "zh-tw": "插手",
+                ja: "ちょっかいをだす"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scarta una carta Oggetto Pokémon casuale dalla mano del tuo avversario.",
                 "de": "Wirf eine zufällige Pokémon-Ausrüstungskarte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória de Ferramenta Pokémon da mão do seu oponente.",
-                "zh-tw": "從對手的手牌中隨機捨棄一張神奇寶貝工具卡。"
+                "zh-tw": "從對手的手牌中隨機捨棄一張神奇寶貝工具卡。",
+                ja: "相手の手札から「ポケモンのどうぐ」をランダムに枚トラッシュ。"
             }
         }],
     weaknesses: [{

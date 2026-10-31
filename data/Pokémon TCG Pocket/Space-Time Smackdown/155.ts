@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/155",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/155"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/155",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/155"
     },
     name: {
         en: "Mars",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Martes",
         de: "Mars",
         'pt-br': "Marte",
+        ja: "マーズ",
         ko: "마스",
         "zh-tw": "夥星",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Il tuo avversario rimischia le carte che ha in mano nel proprio mazzo e pesca una carta per ogni punto che deve ancora ottenere per vincere.",
         de: "Dein Gegner mischt seine Handkarten in sein Deck und zieht 1 Karte für jeden Punkt, der ihm zum Sieg fehlt.",
         'pt-br': "Seu oponente embaralha a própria mão no baralho dele e compra 1 carta para cada um dos pontos restantes que precisa para vencer.",
+        ja: "相手の手札をすべて山札にもどす。相手は相手自身の勝つために必要な残りポイントの数ぶん、山札を引く。",
         ko: "상대의 패를 모두 덱으로 되돌린다. 상대는 상대 자신이 이기기 위해 필요한 남은 포인트의 수만큼 덱을 뽑는다.",
         "zh-tw": "你的對手將他們的手牌洗入牌庫，並根據獲勝所需的剩餘點數抽一張牌。"
     },

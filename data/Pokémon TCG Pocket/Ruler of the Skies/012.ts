@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/012",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/012",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/012"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/012"
     },
     name: {
         en: "Karrablast",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Scioglie la conchiglia di Shelmet con il liquido\nche spruzza dalla bocca e ne mangia il contenuto.",
         de: "Es nutzt die Flüssigkeit aus seinem Mund,\num die Muschel von Schnuthelm aufzulösen.\nDann verspeist es den Inhalt.",
         "pt-br": "Cospe um líquido de sua boca para derreter a concha de Shelmet. Karrablast não come a concha, apenas o conteúdo dela.",
-        "zh-tw": "用嘴裡吐出的液體\n來融化小嘴蝸的殼，\n只會去吃裡面的身體。"
+        "zh-tw": "用嘴裡吐出的液體\n來融化小嘴蝸的殼，\n只會去吃裡面的身體。",
+        ja: "口から 吐き出す 液体で チョボマキの 殻を 溶かす。 中身 だけを いただくのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 "pt-br": "Bicada",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 30
         }

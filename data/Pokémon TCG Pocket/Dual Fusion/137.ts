@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/137",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/137",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/137"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/137"
     },
     name: {
         en: "Raboot",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Hopplo",
         "pt-br": "Scorbunny",
         "zh-tw": "炎兔兒",
-        ja: "Scorbunny",
+        ja: "ヒバニー",
         ko: "Scorbunny"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "Headbutt",
+                ja: "ずつき",
                 ko: "Headbutt"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Sprungtrainer",
                 "pt-br": "Instrutor Saltitante",
                 "zh-tw": "跳躍指導",
-                ja: "Jumping Coach",
+                ja: "ジャンピングコーチ",
                 ko: "Jumping Coach"
             },
             effect: {
@@ -92,7 +93,7 @@ const card: Card = {
                 de: "Solange dieses Pokémon im Spiel ist, wirf 3 Münzen mehr, wenn dein Pokémon die Attacke Hasensprung einsetzen.",
                 "pt-br": "Enquanto este Pokémon estiver em jogo, jogue 3 moedas a mais para o ataque Salto do Coelho usado pelos seus Pokémon.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的寶可夢使用的招式「兔兒跳」擲硬幣的次數增加3次。",
-                ja: "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon.",
+                ja: "このポケモンがいるかぎり、自分のポケモンが使うワザ「ラビットジャンプ」で投げるコインの数を、3回多くする。",
                 ko: "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
             },
             type: "Ability"
@@ -106,7 +107,7 @@ const card: Card = {
         de: "Dank seines flauschigen Fells kann es leichter Feuer-Energie aufbauen und dadurch noch heißere Flammen ausstoßen.",
         "pt-br": "Graças ao seu pelo macio e fofinho, Raboot consegue aquecer rapidamente sua energia de fogo e produzir chamas mais poderosas.",
         "zh-tw": "蓬鬆的體毛幫助牠迅速 提升火之能量的溫度 釋放出更強烈的火焰。",
-        ja: "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.",
+        ja: "ふかふかの 体毛の おかげで 炎エネルギーを 温めやすく さらに 強い 炎を 出せる。",
         ko: "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power."
     }
 };

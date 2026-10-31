@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/200",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/200"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/200",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/200"
     },
     name: {
         en: "Dodrio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dodrio",
         de: "Dodri",
         'pt-br': "Dodrio",
+        ja: "ドードリオ",
         ko: "두트리오",
         "zh-tw": "嘟嘟利",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Doduo",
         "de": "Dodu",
         "pt-br": "Doduo",
-        "zh-tw": "嘟嘟"
+        "zh-tw": "嘟嘟",
+        ja: "ドードー"
     },
     attacks: [{
             cost: ["Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Perforbecco",
                 de: "Bohrschnabel",
                 'pt-br': "Bico Broca",
+                ja: "ドリルくちばし",
                 ko: "회전부리",
                 "zh-tw": "鑽啄"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Occorre fare attenzione a tutte le sue tre teste,\naltrimenti si rischia d'essere colpiti duramente.",
         de: "Lässt ein Feind auch nur einen der\ndrei Köpfe für nur eine Sekunde aus\nden Augen, wird er sofort gepickt.",
         'pt-br': "Um inimigo que tire os olhos de qualquer uma\ndas três cabeças, mesmo que por apenas um\nsegundo, será bicado gravemente.",
+        ja: "３つの 頭が 見ている前で わずかでも すきを 見せると クチバシで 激しく つつかれる。",
         ko: "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다.",
         "zh-tw": "敵人如果將目光從三個頭中的任何一個身上移開——哪怕只是一秒鐘——都會被狠狠地啄一下。"
     },

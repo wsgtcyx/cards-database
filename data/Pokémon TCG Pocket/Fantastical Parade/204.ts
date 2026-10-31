@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/204",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/204",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/204",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/204"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/204",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/204"
     },
     name: {
         en: "Meowth",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Meowth",
         "de": "Mauzi",
         "pt-br": "Meowth",
-        "zh-tw": "喵喵"
+        "zh-tw": "喵喵",
+        ja: "ニャース"
     },
     illustrator: "Teeziro",
     rarity: "Three Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ama le cose che brillano. Quando vede un brillante\noggetto, brilla anche la moneta d'oro sulla sua testa.",
         "de": "Es liebt Dinge, die funkeln. Wenn es ein glänzendes sieht\nGegenstand, auch die Goldmünze auf dem Kopf glänzt.",
         "pt-br": "Ele adora coisas que brilham. Quando vê um brilho\nobjeto, a moeda de ouro em sua cabeça também brilha.",
-        "zh-tw": "牠喜歡閃閃發光的東西。當它看到閃閃發光的時候\n物體，頭上的金幣也閃閃發光。"
+        "zh-tw": "牠喜歡閃閃發光的東西。當它看到閃閃發光的時候\n物體，頭上的金幣也閃閃發光。",
+        ja: "眩しく 光るものが 大好き。 光るものを 見つけたとき なぜか 額の小判も 輝く。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Passi spensierati",
                 "de": "Sorglose Schritte",
                 "pt-br": "Passos despreocupados",
-                "zh-tw": "無憂無慮的腳步"
+                "zh-tw": "無憂無慮的腳步",
+                ja: "きままにステップ"
             },
             effect: {
                 en: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Se gli attacchi infliggono danni a questo Pokémon, lancia una moneta. Se esce testa, previeni il danno.",
                 "de": "Wenn diesem Pokémon durch Angriffe Schaden zugefügt wird, wirf eine Münze. Wenn Köpfe, verhindern Sie diesen Schaden.",
                 "pt-br": "Se algum dano for causado a este Pokémon por ataques, jogue uma moeda. Se der cara, evite esse dano.",
-                "zh-tw": "如果這只神奇寶貝受到攻擊造成的傷害，則擲硬幣。如果是正面，請防止損壞。"
+                "zh-tw": "如果這只神奇寶貝受到攻擊造成的傷害，則擲硬幣。如果是正面，請防止損壞。",
+                ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Mi sento bene",
                 "de": "Fühlt sich gut an",
                 "pt-br": "Me sentindo bem",
-                "zh-tw": "感覺很好"
+                "zh-tw": "感覺很好",
+                ja: "じょうきげん"
             },
             cost: ["Colorless"],
             effect: {
@@ -74,7 +80,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を枚引く。"
             }
         }],
     weaknesses: [{

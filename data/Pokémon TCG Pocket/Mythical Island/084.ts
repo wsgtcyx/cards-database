@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/084",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/084"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/084",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/084"
     },
     name: {
         en: "Aerodactyl ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Aerodactyl-ex",
         de: "Aerodactyl-ex",
         'pt-br': "Aerodactyl ex",
+        ja: "プテラex",
         ko: "프테라 ex",
         "zh-tw": "化石翼龍ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Altbernstein",
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
+        ja: "ひみつのコハク",
     },
     suffix: "EX",
     abilities: [{
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Editto Primordiale",
                 de: "Gesetz der Urzeit",
                 'pt-br': "Lei Rudimentar",
+                ja: "げんしのさだめ",
                 ko: "원시의결정",
                 "zh-tw": "原始法則"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Il tuo avversario non può giocare Pokémon dalla sua mano per far evolvere il Pokémon in posizione attiva.",
                 de: "Dein Gegner kann keine Pokémon aus seiner Hand spielen, um sein Aktives Pokémon zu entwickeln.",
                 'pt-br': "O seu oponente não poderá jogar nenhum Pokémon da mão dele para evoluir o Pokémon Ativo dele.",
+                ja: "このポケモンがいるかぎり、相手は手札からポケモンを出して、バトルポケモンを進化させられない。",
                 ko: "이 포켓몬이 있는 한, 상대는 패에서 포켓몬을 꺼내서 배틀 포켓몬을 진화시킬 수 없다.",
                 "zh-tw": "你的對手不能使用手中的任何神奇寶貝來進化他們的活躍神奇寶貝。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Schiacciaterra",
                 de: "Schollenbrecher",
                 'pt-br': "Aperto de Terra",
+                ja: "ランドクラッシュ",
                 ko: "랜드크래시",
                 "zh-tw": "土地擠壓"
             },

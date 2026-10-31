@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/013"
     },
     name: {
         en: "Heatran",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heatran",
         de: "Heatran",
         'pt-br': "Heatran",
+        ja: "ヒードラン",
         ko: "히드런",
         "zh-tw": "席多藍恩",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive nelle cavità dei vulcani. Scava con i suoi piedi\na croce per scalare pareti e arrampicarsi sui soffitti.",
         de: "Es lebt in vulkanischen Höhlen. Mit seinen kreuzförmigen\nKlauen kann es sogar an der Decke laufen.",
         'pt-br': "Ele habita crateras vulcânicas. Ele escava com seus pés\nem forma de cruz para rastejar em telhados e paredes.",
+        ja: "火山の 洞穴に 生息。 十字の ツメを 食いこませて 壁や 天井を はい回る。",
         ko: "화산의 동굴에서 서식한다.\n십자형의 발톱을 박아서\n벽이나 천장을 돌아다닌다.",
         "zh-tw": "它棲息在火山洞穴中。它用十字形的腳挖洞，在天花板和牆壁上爬行。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Agilità Simbiotica",
                 de: "Tempokopplung",
                 'pt-br': "Elo de Velocidade",
+                ja: "スピードリンク",
                 ko: "스피드 링크",
                 "zh-tw": "極速鏈接"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, questo Pokémon non ha costo di ritirata.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon não terá custo de Recuo.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，則該神奇寶貝沒有撤退成本。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Colpo Furibondo",
                 de: "Tobender Wutangriff",
                 'pt-br': "Golpe Cabeça Furiosa",
+                ja: "ぶちぎれボンバー",
                 ko: "대노봄버",
                 "zh-tw": "狂暴的瘋狂打擊"
             },
@@ -80,6 +86,7 @@ const card: Card = {
                 it: "Se questo Pokémon è danneggiato, questo attacco infligge 40 danni in più.",
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon estiver danificado, este ataque causará 40 pontos de dano a mais.",
+                ja: "このポケモンがダメージを受けているなら、40ダメージ追加。",
                 ko: "이 포켓몬이 데미지를 받고 있다면 40데미지를 추가한다.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 40 點傷害。"
             }

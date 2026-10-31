@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/021"
     },
     name: {
         en: "Pyroar",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pyroar",
         "de": "Pyroleo",
         "pt-br": "Pyroar",
-        "zh-tw": "火炎獅"
+        "zh-tw": "火炎獅",
+        ja: "カエンジシ"
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Litleo",
         "de": "Leufeo",
         "pt-br": "Litleo",
-        "zh-tw": "小獅獅"
+        "zh-tw": "小獅獅",
+        ja: "シシコ"
     },
     description: {
         en: "The females of a pride work together to bring\ndown prey. It's thanks to them that their pride\ndoesn't starve.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le femmine di un orgoglio lavorano insieme per portare\ngiù la preda. È grazie a loro che il loro orgoglio\nnon muore di fame.",
         "de": "Die Weibchen eines Rudels arbeiten bei der Zucht zusammen\nherunterliegende Beute. Ihnen ist es zu verdanken, dass sie stolz sind\nverhungert nicht.",
         "pt-br": "As fêmeas de um bando trabalham juntas para trazer\npresa. É graças a eles que seu orgulho\nnão passa fome.",
-        "zh-tw": "獅群中的雌性共同努力，帶來\n下來的獵物。多虧了他們，他們的驕傲\n不會挨餓。"
+        "zh-tw": "獅群中的雌性共同努力，帶來\n下來的獵物。多虧了他們，他們的驕傲\n不會挨餓。",
+        ja: "群れの メスが 協力して 獲物を 仕留める。 メスたちの おかげで 群れが 飢えないのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo di calore",
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
-                "zh-tw": "熱風"
+                "zh-tw": "熱風",
+                ja: "ヒートブラスト"
             },
             damage: 70,
             cost: ["Fire", "Fire"]

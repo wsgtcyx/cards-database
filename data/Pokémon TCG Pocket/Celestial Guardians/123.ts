@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/123",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/123",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/123"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/123"
     },
     name: {
         en: "Magearna",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magearna",
         de: "Magearna",
         'pt-br': "Magearna",
+        ja: "マギアナ",
         ko: "마기아나",
         "zh-tw": "瑪機雅娜",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sincronizzando la sua coscienza a quella degli\naltri, riesce a capire il loro stato d'animo. Grazie\na quest'abilità si prende cura degli esseri umani.",
         de: "Es synchronisiert sein Bewusstsein mit dem anderer,\num ihre Gefühle zu verstehen. Dadurch fällt es ihm leicht,\nMenschen zu helfen.",
         'pt-br': "Sincroniza sua consciência com os outros para entender\nseus sentimentos. Essa capacidade faz com que seja útil\npara cuidar de pessoas.",
+        ja: "意識を 同調させて 相手の 気持ちを 理解。 人の お世話を するのに 便利な 能力。",
         ko: "의식을 동조시켜 상대의\n마음을 이해한다. 사람을\n도울 때 편리한 능력이다.",
         "zh-tw": "它將自己的意識與他人同步以理解他們的感受。這種能力使其對於照顧人很有用。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cannone Argenteo",
                 de: "Silberkanone",
                 'pt-br': "Canhão Prateado",
+                ja: "シルバーカノン",
                 ko: "실버캐논",
                 "zh-tw": "銀炮"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario ha un'abilità, questo attacco infligge 40 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners eine Fähigkeit hat, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente tiver uma Habilidade, este ataque causará 40 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが特性を持っているなら、40ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 특성을 가지고 있다면 40데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍寶可夢擁有能力，則這次攻擊造成的傷害增加 40 點。"
             }

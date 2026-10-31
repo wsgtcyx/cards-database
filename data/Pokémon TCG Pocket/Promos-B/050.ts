@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/050",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/050",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/050"
     },
     name: {
         en: "Meloetta",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Controlla a suo piacimento le emozioni di coloro che ascoltano\ni suoi singolari vocalizzi.",
         de: "Wer die Melodie hört, die es in einer speziellen Stimmlage\nvon sich gibt, steht voll in seinem Bann.",
         "pt-br": "Suas melodias são cantadas com um método especial de vocalização que consegue controlar os sentimentos de quem a ouve.",
-        "zh-tw": "它的旋律是用一種特殊的發聲方法來唱的，可以控制聽者的感情。"
+        "zh-tw": "它的旋律是用一種特殊的發聲方法來唱的，可以控制聽者的感情。",
+        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Canto strano",
                 de: "Seltsamer Gesang",
                 "pt-br": "Canto Estranho",
-                "zh-tw": "神奇歌聲"
+                "zh-tw": "神奇歌聲",
+                ja: "ふしぎなうたごえ"
             },
             effect: {
                 en: "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "All'inizio del tuo turno, se questo Pokémon è in posizione attiva, metti nella tua mano un Pokémon {P} casuale dal tuo mazzo.",
                 de: "Wenn sich dieses Pokémon zu Beginn deines Zuges an der aktiven Stelle befindet, nimm ein zufälliges {P}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "No início do seu turno, se este Pokémon estiver no Ponto Ativo, coloque um Pokémon {P} aleatório do seu baralho na sua mão.",
-                "zh-tw": "在你的回合開始時，如果這只寶可夢位於活躍位置，則從你的牌組中隨機將一隻 {P} 寶可夢置入你的手牌。"
+                "zh-tw": "在你的回合開始時，如果這只寶可夢位於活躍位置，則從你的牌組中隨機將一隻 {P} 寶可夢置入你的手牌。",
+                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Psicosparo",
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
-                "zh-tw": "精神射擊"
+                "zh-tw": "精神射擊",
+                ja: "サイコショット"
             },
             damage: 50
         }

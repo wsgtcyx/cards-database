@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/040"
     },
     name: {
         en: "Shellos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shellos",
         de: "Schalellos",
         'pt-br': "Shellos",
+        ja: "カラナクシ",
         ko: "깝질무",
         "zh-tw": "無殼海兔",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "In passato aveva una conchiglia sul dorso.\nLa sua specie è strettamente imparentata\ncon quella di Shellder e altri Pokémon simili.",
         de: "Vor langer Zeit hatte es eine Muschelschale\nauf dem Rücken. Diese Art ist eng verwandt\nmit Pokémon wie Muschas.",
         'pt-br': "Antigamente, tinha uma concha em suas costas.\nEsta espécie está fortemente relacionada a\nPokémon como Shellder.",
+        ja: "昔は 背中に 貝がらを 背負っていた。 シェルダーなどに 近い 種類の ポケモン。",
         ko: "옛날에는 등에\n조개껍질을 지고 있었다.\n셀러 등과 가까운 종류의 포켓몬.",
         "zh-tw": "很久以前，它的背上曾經有一個殼。這個物種與貝殼怪等神奇寶貝有密切關係。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 'pt-br': "Tapa de Lama",
+                ja: "どろかけ",
                 ko: "진흙뿌리기",
                 "zh-tw": "拍泥"
             },

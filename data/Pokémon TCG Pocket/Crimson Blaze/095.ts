@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/095"
     },
     name: {
         en: "Sandslash",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sandslash",
         "de": "Sandamer",
         "pt-br": "Sandslash",
-        "zh-tw": "穿山王"
+        "zh-tw": "穿山王",
+        ja: "サンドパン"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "穿山鼠"
+        "zh-tw": "穿山鼠",
+        ja: "サンド"
     },
     description: {
         en: "It climbs trees by hooking on with its sharp claws.\nSandslash shares the berries it gathers, dropping\nthem down to Sandshrew waiting below the tree.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si arrampica sugli alberi agganciandosi con i suoi artigli affilati.\nSandslash condivide le bacche che raccoglie, lasciandole cadere\nli scesero a Sandshrew aspettando sotto l'albero.",
         "de": "Es klettert auf Bäume, indem es sich mit seinen scharfen Krallen daran festhält.\nSandslash teilt die Beeren, die er sammelt, und lässt sie fallen\nsie hinunter zu Sandshrew, der unter dem Baum wartete.",
         "pt-br": "Ele sobe em árvores prendendo-se com suas garras afiadas.\nSandslash compartilha as frutas que coleta, deixando cair\neles até Sandshrew esperando embaixo da árvore.",
-        "zh-tw": "它通過用鋒利的爪子鉤住樹木來爬樹。\nSandslash 分享它收集的漿果，掉落\n他們來到樹下等候的山鼠那裡。"
+        "zh-tw": "它通過用鋒利的爪子鉤住樹木來爬樹。\nSandslash 分享它收集的漿果，掉落\n他們來到樹下等候的山鼠那裡。",
+        ja: "鋭い ツメを ひっかけて 木を 登る。 下で 待つ サンドたちに 木の実を 落とし 分け与えるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Taglio",
                 "de": "Schneiden",
                 "pt-br": "Corte",
-                "zh-tw": "切"
+                "zh-tw": "切",
+                ja: "いあいぎり"
             },
             damage: 50,
             cost: ["Fighting"]

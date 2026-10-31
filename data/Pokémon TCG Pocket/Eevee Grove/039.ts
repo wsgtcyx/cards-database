@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/039"
     },
     name: {
         en: "Whiscash",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Welsar",
         "pt-br": "Whiscash",
         "zh-tw": "鯰魚王",
+        ja: "ナマズン",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schmerbe",
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
+        ja: "ドジョッチ",
     },
     description: {
         en: "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "È estremamente protettivo nei confronti del suo territorio. Se presente\nil nemico si avvicina, attacca usando tremori feroci.",
         "de": "Es schützt sein Territorium äußerst. Wenn überhaupt\nWenn sich ein Feind nähert, greift er mit heftigen Erschütterungen an.",
         "pt-br": "É extremamente protetor com seu território. Se houver\ninimigo se aproxima, ele ataca usando tremores violentos.",
-        "zh-tw": "它非常保護自己的領土。如果有的話\n敵人接近時，它會使用惡毒的震動進行攻擊。"
+        "zh-tw": "它非常保護自己的領土。如果有的話\n敵人接近時，它會使用惡毒的震動進行攻擊。",
+        ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Terremoto",
                 "de": "Erdbeben",
                 "pt-br": "Terremoto",
-                "zh-tw": "地震"
+                "zh-tw": "地震",
+                ja: "じしん"
             },
             damage: 130,
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 10 danni a ciascuno dei tuoi Pokémon in panchina.",
                 "de": "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你的每隻後備神奇寶貝造成 10 點傷害。"
+                "zh-tw": "這次攻擊還會對你的每隻後備神奇寶貝造成 10 點傷害。",
+                ja: "自分のベンチポケモン全員にも10ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/052",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/052",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/052"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/052"
     },
     name: {
         en: "Wigglytuff",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La pelliccia ricca e soffice che ricopre il suo corpo è così bella che chiunque la senta non può smettere di toccarla.",
         de: "Das üppige, flauschige Fell, das seinen Körper bedeckt, fühlt sich so gut an, dass jeder, der es spürt, nicht aufhören kann, es zu berühren.",
         "pt-br": "O pelo rico e fofo que cobre seu corpo é tão gostoso que qualquer um que o sente não consegue parar de tocá-lo.",
-        "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。"
+        "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。",
+        ja: "ふわふわの 体毛に 触ると 手触りが とても 良いので 離れられなくなってしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Espansione",
                 de: "Ausdehnen",
                 "pt-br": "Expandir",
-                "zh-tw": "膨脹*"
+                "zh-tw": "膨脹*",
+                ja: "ふくらむ"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             },
             damage: 50
         }

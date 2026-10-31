@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/018",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/018"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/018"
     },
     name: {
         en: "Iron Thorns",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Alcune delle sue caratteristiche degne di nota corrispondono a quelle di un oggetto nominato all'interno di un certo diario di spedizione come Spineferree.",
         de: "Einige seiner bemerkenswerten Merkmale stimmen mit denen eines Objekts überein, das in einem bestimmten Expeditionstagebuch als Eisendorn bezeichnet wird.",
         "pt-br": "Algumas de suas características notáveis ​​correspondem às de um objeto nomeado em um determinado diário de expedição como Espinhos Férreos.",
-        "zh-tw": "它的一些顯著特徵與某個探險日誌中命名為 鐵荊棘 的物體的特徵相符。"
+        "zh-tw": "它的一些顯著特徵與某個探險日誌中命名為 鐵荊棘 的物體的特徵相符。",
+        ja: "ある 探検記で テツノイバラと 紹介されている 物体と 一致する 特徴が ある。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tuono binario",
                 de: "Binärer Donner",
                 "pt-br": "Trovão Binário",
-                "zh-tw": "雙雷電"
+                "zh-tw": "雙雷電",
+                ja: "バイナリサンダー"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 40 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、40ダメージ追加。"
             },
             damage: "40+"
         }

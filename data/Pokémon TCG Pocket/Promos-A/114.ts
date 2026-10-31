@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/114",
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/114",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/114",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/114"
 	},
 	name: {
 		en: "Machamp",
@@ -17,7 +18,8 @@ const card: Card = {
 		it: "Machamp",
 		de: "Machomei",
 		"pt-br": "Machamp",
-		"zh-tw": "怪力"
+		"zh-tw": "怪力",
+		ja: "カイリキー"
 	},
 	illustrator: "Naoki Saito",
 	rarity: "One Diamond",
@@ -31,7 +33,8 @@ const card: Card = {
 		it: "Machoke",
 		de: "Maschock",
 		"pt-br": "Machoke",
-		"zh-tw": "豪力"
+		"zh-tw": "豪力",
+		ja: "ゴーリキー"
 	},
 	description: {
 		en: "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
@@ -40,6 +43,7 @@ const card: Card = {
 		it: "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
 		de: "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
 		"pt-br": "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+		ja: "４本の腕を すばやく 動かし あらゆる 角度から 休むことなく パンチや チョップを 叩きこむ。",
 		ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
 		"zh-tw": "它迅速揮動四隻手臂，從各個角度不斷地出拳和砍擊，震撼對手。"
 	},
@@ -53,7 +57,8 @@ const card: Card = {
 				it: "Pugno Uragano",
 				de: "Hurrikanhieb",
 				"pt-br": "Soco Furacão",
-				"zh-tw": "颶風拳"
+				"zh-tw": "颶風拳",
+				ja: "ハリケーンパンチ"
 			},
 			damage: "50x",
 			cost: ["Fighting", "Fighting", "Fighting"],
@@ -64,7 +69,8 @@ const card: Card = {
 				it: "Lancia 4 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
 				de: "Wirf 4 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
-				"zh-tw": "翻轉4個硬幣。每出現1次正面，這個招式造成50點傷害。"
+				"zh-tw": "翻轉4個硬幣。每出現1次正面，這個招式造成50點傷害。",
+				ja: "コインを4回投げ、オモテの数×50ダメージ。"
 			}
 		}
 	],

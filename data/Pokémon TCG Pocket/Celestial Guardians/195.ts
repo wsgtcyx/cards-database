@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/195",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/195"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/195"
     },
     name: {
         en: "Sophocles",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chrys",
         de: "Chrys",
         'pt-br': "Chris",
+        ja: "マーマネ",
         ko: "마마네",
         "zh-tw": "馬瑪內",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Durante questo turno, gli attacchi usati dal tuo Golem[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ], Vikavolt o Togedemaru infliggono +30 danni al Pokémon attivo dell'avversario.",
         de: "Während dieses Zuges fügen die Attacken deines [Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ]Geowaz, Donarion oder Togedemaru dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
         'pt-br': "Durante este turno, os ataques usados pelos seus Golem[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ], Vikavolt ou Togedemaru causam +30 pontos de dano ao Pokémon Ativo do seu oponente.",
+        ja: "この番、自分の「アローラゴローニャ」「クワガノン」「トゲデマル」が使うワザの、相手のバトルポケモンへのダメージを+30する。",
         ko: "이 차례에 자신의 「[Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ][Text:Char v=\"FOUR-PER-EM-SPACE\" ]딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.",
         "zh-tw": "這個回合中，你的阿羅拉傀儡、維卡伏特或託格德瑪魯使用的攻擊對對手的活躍寶可夢造成 +30 點傷害。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/060"
     },
     name: {
         en: "Alolan Graveler",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Graveler di Alola",
         de: "Alola-Georok",
         'pt-br': "Graveler de Alola",
+        ja: "アローラゴローン",
         ko: "알로라데구리",
         "zh-tw": "阿羅拉隆隆石",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Kleinstein",
         "pt-br": "Geodude de Alola",
         "zh-tw": "阿羅拉小拳石",
+        ja: "アローライシツブテ",
     },
     description: {
         en: "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando i Graveler lottano fra di loro, provocano lampi e botti.\nGli abitanti di Alola li chiamano fuochi artificiali di terra.",
         de: "Streiten sie sich untereinander, erzeugen sie ein lautes\nKnallen und grelles Leuchten, das von Einheimischen\n\"Felsenfeuerwerk\" genannt wird.",
         'pt-br': "Quando dois Graveler brigam, enchem o ambiente\nde clarões e estalos. São chamados de fogos\nde artifício terrestres.",
+        ja: "ゴローン同士 争うと あたりに 光と 爆音がする。 地元の 人は 陸花火と 呼んでいる。",
         ko: "데구리끼리 싸우면 주변에\n빛과 폭음이 난다. 그 지방 사람은\n육지 불꽃놀이라고 부른다.",
         "zh-tw": "當兩個 Graveler 互相爭鬥時，它會充滿\n周圍閃爍著光和聲音。\n人們稱其為“人間煙花”。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Impatto Pesante",
                 de: "Schwerer Einschlag",
                 'pt-br': "Impacto Pesado",
+                ja: "ヘビーインパクト",
                 ko: "헤비임팩트",
                 "zh-tw": "重擊"
             },

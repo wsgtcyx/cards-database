@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/001",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/001"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/001"
     },
     name: {
         en: "Bulbasaur",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Egelsamen",
                 "pt-br": "Semente Sanguessuga",
                 "zh-tw": "寄生種子",
-                ja: "Leech Seed",
+                ja: "やどりぎのタネ",
                 ko: "Leech Seed"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復10HP。",
-                ja: "Heal 10 damage from this Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "Heal 10 damage from this Pokémon."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Dieses Pokémon trägt von Geburt an einen Samen auf dem Rücken, der im Laufe der Zeit keimt und wächst.",
         "pt-br": "Esse Pokémon já nasce com uma semente nas costas. Aos poucos, a semente cresce.",
         "zh-tw": "從出生的時候開始，背上就有一顆植物種子。這顆種子會漸漸長大。",
-        ja: "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+        ja: "生まれたときから 背中に 植物の タネが あって 少しずつ 大きく 育つ。",
         ko: "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger."
     }
 };

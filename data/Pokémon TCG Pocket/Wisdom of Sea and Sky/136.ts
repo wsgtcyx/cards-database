@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/136"
     },
     name: {
         en: "Porygon2",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Porygon2",
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
+        ja: "ポリゴン2",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Porygon",
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
+        ja: "ポリゴン",
     },
     description: {
         en: "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo è un Porygon che è stato aggiornato con qualcosa di speciale\ndati. Porygon2 si sviluppa imparando a conoscere\nmolti argomenti diversi da solo.",
         "de": "Dies ist ein Porygon, der mit etwas Besonderem aktualisiert wurde\nDaten. Porygon2 entwickelt sich durch Lernen\nviele verschiedene Themen für sich.",
         "pt-br": "Este é um Porygon que foi atualizado com especial\ndados. Porygon2 se desenvolve aprendendo sobre\nmuitos assuntos diferentes por conta própria.",
-        "zh-tw": "這是一個經過特殊更新的 Porygon\n數據。 Porygon2 通過學習來發展自己\n許多不同的主題都是獨立的。"
+        "zh-tw": "這是一個經過特殊更新的 Porygon\n數據。 Porygon2 通過學習來發展自己\n許多不同的主題都是獨立的。",
+        ja: "ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Evoluzione buggy",
                 "de": "Buggy-Evolution",
                 "pt-br": "Evolução de Buggy",
-                "zh-tw": "越野車進化"
+                "zh-tw": "越野車進化",
+                ja: "バグしんか"
             },
             effect: {
                 en: "Whenever you attach an Energy from your Energy Zone to this Pokémon, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Ogni volta che assegni un'Energia dalla tua Zona d'Energia a questo Pokémon, metti una carta a caso dal tuo mazzo che si evolve da questo Pokémon a questo Pokémon per farlo evolvere.",
                 "de": "Immer wenn du eine Energie aus deiner Energiezone an dieses Pokémon anlegst, lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln.",
                 "pt-br": "Sempre que você associar uma Energia da sua Zona de Energia a este Pokémon, coloque uma carta aleatória do seu baralho que evolui deste Pokémon neste Pokémon para evoluí-lo.",
-                "zh-tw": "每當你將能量區中的能量附加到該神奇寶貝上時，從你的牌組中隨機放置一張由該神奇寶貝進化的卡牌到該神奇寶貝上以使其進化。"
+                "zh-tw": "每當你將能量區中的能量附加到該神奇寶貝上時，從你的牌組中隨機放置一張由該神奇寶貝進化的卡牌到該神奇寶貝上以使其進化。",
+                ja: "自分のエネルギーゾーンからこのポケモンにエネルギーをつけるたび、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Attacco rotante",
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
-                "zh-tw": "旋轉攻擊"
+                "zh-tw": "旋轉攻擊",
+                ja: "かいてんアタック"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

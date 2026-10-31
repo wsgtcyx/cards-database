@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/186",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/186"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/186"
     },
     name: {
         en: "Pidgey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pidgey",
         de: "Taubsi",
         'pt-br': "Pidgey",
+        ja: "ポッポ",
         ko: "구구",
         "zh-tw": "波波",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Raffica",
                 de: "Windstoß",
                 'pt-br': "Lufada de Vento",
+                ja: "かぜおこし",
                 ko: "바람일으키기",
                 "zh-tw": "陣風"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Molto comune in boschi e foreste, sbatte le ali\na livello del suolo per sollevare sabbia accecante.",
         de: "Ein vorwiegend in Wäldern lebendes Pokémon,\ndas zur Verteidigung mit den Flügeln Sand aufwirbelt.",
         'pt-br': "Uma visão comum nas florestas. Ele agita suas\nasas no chão para levantar uma areia cegante.",
+        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。",
         ko: "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다.",
         "zh-tw": "森林和樹林中常見的景象。它在地面上拍打翅膀，揚起令人眼花繚亂的沙子。"
     },

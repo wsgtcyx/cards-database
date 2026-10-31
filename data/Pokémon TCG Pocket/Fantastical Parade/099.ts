@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/099",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/099"
     },
     name: {
         en: "Galarian Linoone",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Linoone di Galar",
         "de": "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
-        "zh-tw": "伽勒爾直衝熊"
+        "zh-tw": "伽勒爾直衝熊",
+        ja: "ガラルマッスグマ"
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Zigzagoon di Galar",
         "de": "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
-        "zh-tw": "伽勒爾蛇紋熊"
+        "zh-tw": "伽勒爾蛇紋熊",
+        ja: "ガラルジグザグマ"
     },
     description: {
         en: "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon molto aggressivo lo farà incautamente\nsfidare avversari più forti di lui.",
         "de": "Dieses sehr aggressive Pokémon wird rücksichtslos sein\nFordern Sie Gegner heraus, die stärker sind als Sie selbst.",
         "pt-br": "Este Pokémon muito agressivo irá imprudentemente\ndesafiar adversários mais fortes do que ele.",
-        "zh-tw": "這種非常具有攻擊性的神奇寶貝會魯莽地\n挑戰比自己更強的對手。"
+        "zh-tw": "這種非常具有攻擊性的神奇寶貝會魯莽地\n挑戰比自己更強的對手。",
+        ja: "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio posteriore",
                 "de": "Hinterer Tritt",
                 "pt-br": "Chute traseiro",
-                "zh-tw": "後踢"
+                "zh-tw": "後踢",
+                ja: "うしろげり"
             },
             damage: 40,
             cost: ["Darkness"]

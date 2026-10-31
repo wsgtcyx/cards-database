@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/193",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/193"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/193",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/193"
     },
     name: {
         en: "Volkner",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Corrado",
         de: "Volkner",
         'pt-br': "Volkner",
+        ja: "デンジ",
         ko: "전진",
         "zh-tw": "電次",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scegli uno dei tuoi Electivire o Luxray. Assegna a quel Pokémon 2 Energie {L} dalla tua pila degli scarti.",
         de: "Wähle 1 deiner Elevoltek oder Luxtra. Lege 2 {L}-Energien aus deinem Ablagestapel an jenes Pokémon an.",
         'pt-br': "Escolha 1 dos seus Electivire ou Luxray. Ligue 2 Energias {L} da sua pilha de descarte àquele Pokémon.",
+        ja: "自分の「エレキブル」または「レントラー」を1匹選ぶ。自分のトラッシュから{L}エネルギーを2個、そのポケモンにつける。",
         ko: "자신의 「에레키블」 또는 「렌트라」 1마리 선택한다. 자신의 트래쉬에서 {L}에너지를 2개 그 포켓몬에게 붙인다.",
         "zh-tw": "選擇您的 Electivire 或 Luxray 之一。從你的棄牌堆中將 2 個 {L} 能量附加到該神奇寶貝上。"
     },

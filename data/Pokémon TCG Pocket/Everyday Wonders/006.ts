@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/006",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/006",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/006"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/006"
     },
     name: {
         en: "Petilil",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se le foglie sulla sua testa vengono potate regolarmente, questo Pokémon può crescere fino ad assumere una forma bella e paffuta.",
         de: "Wenn die Blätter auf seinem Kopf regelmäßig beschnitten werden, kann dieses Pokémon zu einer schönen, prallen Form heranwachsen.",
         "pt-br": "Se as folhas de sua cabeça forem podadas com regularidade, este Pokémon pode crescer e adquirir uma forma rechonchuda e fina.",
-        "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。"
+        "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。",
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Doppioturbo",
                 de: "Doppeldreher",
                 "pt-br": "Giro Duplo",
-                "zh-tw": "雙重旋轉"
+                "zh-tw": "雙重旋轉",
+                ja: "ダブルスピン"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

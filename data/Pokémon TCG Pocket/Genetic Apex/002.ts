@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/002"
     },
     name: {
         en: "Ivysaur",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ivysaur",
         de: "Bisaknosp",
         'pt-br': "Ivysaur",
+        ja: "フシギソウ",
         ko: "이상해풀",
         "zh-tw": "妙蛙草",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Bulbasaur",
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
-        "zh-tw": "妙蛙種子"
+        "zh-tw": "妙蛙種子",
+        ja: "フシギダネ"
     },
     attacks: [{
             cost: ["Grass", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 'pt-br': "Folha Navalha",
+                ja: "はっぱカッター",
                 ko: "잎날가르기",
                 "zh-tw": "剃刀葉"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Il bulbo sulla schiena è cresciuto così tanto da\nimpedirgli di alzarsi in piedi sulle zampe posteriori.",
         de: "Sobald die Knospe auf seinem Rücken\ngroß wird, kann Bisaknosp nicht mehr\nauf zwei Beinen stehen.",
         'pt-br': "À medida que o bulbo nas costas deste Pokémon\ncresce, ele parece perder a capacidade de se sustentar\napenas nas pernas de trás.",
+        ja: "背中の つぼみが 大きく 育ってくると ２本脚で 立つことが できなくなるらしい。",
         ko: "등에 있는 봉오리가 크게\n자라면 두 다리로\n설 수 없게 되는 듯하다.",
         "zh-tw": "當它背上的球莖變大時，它似乎就失去了後腿站立的能力。"
     },

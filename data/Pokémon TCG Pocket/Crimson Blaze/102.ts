@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/102"
     },
     name: {
         en: "Aegislash",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Aegislash",
         "de": "Durengard",
         "pt-br": "Aegislash",
-        "zh-tw": "堅盾劍怪"
+        "zh-tw": "堅盾劍怪",
+        ja: "ギルガルド"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Crown",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Doublade",
         "de": "Duokles",
         "pt-br": "Doublade",
-        "zh-tw": "雙劍鞘"
+        "zh-tw": "雙劍鞘",
+        ja: "ニダンギル"
     },
     description: {
         en: "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "C'era una volta un re con un Aegislash\nregnava sulla terra. Alla fine i suoi Pokémon\nlo privò della vita e il suo regno cadde con lui.",
         "de": "Es war einmal ein König mit einem Aegislash\nregierte über das Land. Sein Pokémon schließlich\nraubte ihm das Leben und sein Königreich fiel mit ihm.",
         "pt-br": "Era uma vez um rei com um Aegislash\nreinou sobre a terra. Seu Pokémon eventualmente\ndrenou sua vida e seu reino caiu com ele.",
-        "zh-tw": "從前，有一位擁有神盾的國王\n統治了這片土地。他的神奇寶貝最終\n耗盡了他的生命，他的王國也隨之滅亡。"
+        "zh-tw": "從前，有一位擁有神盾的國王\n統治了這片土地。他的神奇寶貝最終\n耗盡了他的生命，他的王國也隨之滅亡。",
+        ja: "昔 ギルガルドを 連れた 王が 国を 支配 していたが やがて 生気を 吸われ 国も 滅びた。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metallo maledetto",
                 "de": "Verfluchtes Metall",
                 "pt-br": "Metal Amaldiçoado",
-                "zh-tw": "被詛咒的金屬"
+                "zh-tw": "被詛咒的金屬",
+                ja: "カースドメタル"
             },
             effect: {
                 en: "Attacks used by your {P} Pokémon and {M} Pokémon do +30 damage to your opponent's Active Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Gli attacchi usati dai tuoi Pokémon {P} e dai Pokémon {M} infliggono +30 danni al Pokémon attivo del tuo avversario.",
                 "de": "Angriffe deiner {P}-Pokémon und {M}-Pokémon fügen dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
                 "pt-br": "Os ataques usados pelos seus Pokémon {P} e {M} causam +30 de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "你的{P}神奇寶貝和{M}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+30傷害。"
+                "zh-tw": "你的{P}神奇寶貝和{M}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+30傷害。",
+                ja: "このポケモンがいるかぎり、自分の{P}または{M}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Lama per affettare",
                 "de": "Schneidklinge",
                 "pt-br": "Lâmina de corte",
-                "zh-tw": "切片刀片"
+                "zh-tw": "切片刀片",
+                ja: "スライスブレード"
             },
             damage: 70,
             cost: ["Metal", "Colorless", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/137",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/137"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/137"
     },
     name: {
         en: "Gumshoos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gumshoos",
         de: "Manguspektor",
         'pt-br': "Gumshoos",
+        ja: "デカグース",
         ko: "형사구스",
         "zh-tw": "貓鼬探長",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Mangunior",
         "pt-br": "Yungoos",
         "zh-tw": "貓鼬少",
+        ja: "ヤングース",
     },
     description: {
         en: "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Appena trova una traccia della sua preda, si\napposta pazientemente fino al calar del sole.",
         de: "Findet Manguspektor Spuren potenzieller Beute,\nlegt es sich geduldig auf die Lauer und verharrt\nbis Sonnenuntergang am selben Ort.",
         'pt-br': "Assim que encontrar sinais de alguma presa, vigiará\npacientemente o local, esperando até que o sol se ponha.",
+        ja: "獲物の 痕跡を 見つけると 日が 落ちるまで その場に 留まり 忍耐強く 張り込み続ける。",
         ko: "먹잇감의 흔적을 발견하면\n해가 떨어질 때까지 그 자리에 머물며\n끈질기게 잠복한다.",
         "zh-tw": "一旦發現獵物的踪跡，它就會耐心地標定位置，等到太陽下山。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Scuotitesta",
                 de: "Headbangen",
                 'pt-br': "Baque de Cabeça",
+                ja: "ヘッドバング",
                 ko: "헤드뱅",
                 "zh-tw": "頭撞"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/128",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/128",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/128"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/128"
     },
     name: {
         en: "Rika",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "從自己的能量區抽出2個{F}能量,附於1隻「鯰魚王」或者「帕底亞土王」身上。",
         it: "Crea 2 Energie {F} dalla tua Zona Energia e assegnale a uno dei tuoi Whiscash o dei tuoi Clodsire di Paldea.",
         de: "Generiere 2 {F}-Energien in deinem Energiebereich und lege sie an 1 deiner Welsar oder Paldea-Suelord an.",
-        ja: "Produce 2 {F} Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire.",
+        ja: "自分のエネルギーゾーンから{F}エネルギーを2個出し、「ナマズン」または「パルデアドオー」1匹につける。",
         ko: "Produce 2 {F} Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire."
     }
 };

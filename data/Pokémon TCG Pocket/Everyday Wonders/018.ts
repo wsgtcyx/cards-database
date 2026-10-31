@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/018",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/018"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/018"
     },
     name: {
         en: "Luvdisc",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Durante il periodo riproduttivo, numerosi Luvdisc si\nriuniscono intorno alla barriera corallina, colorando\nl’acqua di rosa.",
         de: "Während der Laichzeit versammeln sich zahllose\nLiebiskus in den Korallenriffen. Daher erstrahlt\ndas Wasser rosa.",
         "pt-br": "Durante a época de desova, inúmeros Luvdisc se reúnem nos recifes de coral, tornando as águas rosadas.",
-        "zh-tw": "在產卵季節，無數的愛心魚聚集在珊瑚礁上，將海水變成粉紅色。"
+        "zh-tw": "在產卵季節，無數的愛心魚聚集在珊瑚礁上，將海水變成粉紅色。",
+        ja: "繁殖シーズンには たくさんの ラブカスが サンゴ礁に 集まり 海面が ピンク色に 染まる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 30
         }

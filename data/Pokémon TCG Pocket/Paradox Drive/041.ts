@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/041"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/041"
     },
     name: {
         en: "Pawniard",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Con i suoi simili forma gruppi capeggiati da\nun Bisharp. Si allena quotidianamente sognando\nun giorno di diventare il capo del gruppo.",
         de: "Gladiantri bilden Gruppen mit einem Caesurio\nan der Spitze. Jedes von ihnen trainiert hart,\num irgendwann selbst Anführer zu werden.",
         "pt-br": "Um pacote desses Pokémon se forma para servir um chefe Bisharp. Cada Pawniard treina diligentemente, sonhando em um dia assumir a liderança.",
-        "zh-tw": "以劈斬司令為首領組成族群。\n目標是有朝一日能統領同類，\n所以每天都在不懈地鍛鍊。"
+        "zh-tw": "以劈斬司令為首領組成族群。\n目標是有朝一日能統領同類，\n所以每天都在不懈地鍛鍊。",
+        ja: "キリキザンを ボスとした 群れを つくる。 群れを 率いる ことを 夢見て 日々 鍛錬を 積む。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 "pt-br": "Talho",
-                "zh-tw": "劈開"
+                "zh-tw": "劈開",
+                ja: "きりさく"
             },
             damage: 30
         }

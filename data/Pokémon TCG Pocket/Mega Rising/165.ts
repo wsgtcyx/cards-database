@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/165",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/165",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/165"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/165",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/165"
     },
     name: {
         en: "Grimmsnarl",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Olangaar",
         "pt-br": "Grimmsnarl",
         "zh-tw": "長毛巨魔",
+        ja: "オーロンゲ",
     },
     illustrator: "DOM",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Pelzebub",
         "pt-br": "Morgrem",
         "zh-tw": "詐唬魔",
+        ja: "ギモー",
     },
     description: {
         en: "It lives deep within the forest. Even after evolving\ninto this splendid form, it hasn't given up on its\npetty misdeeds and pranks.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Vive nel profondo della foresta. Anche dopo l'evoluzione\nin questa splendida forma, non ha rinunciato alla sua\npiccoli misfatti e scherzi.",
         "de": "Es lebt tief im Wald. Auch nach der Weiterentwicklung\nin diese herrliche Form gebracht hat, hat es nicht aufgegeben\nKleinigkeiten und Streiche.",
         "pt-br": "Ele vive nas profundezas da floresta. Mesmo depois de evoluir\nnesta forma esplêndida, não desistiu de sua\npequenos delitos e brincadeiras.",
-        "zh-tw": "它生活在森林深處。即使進化後\n進入這個輝煌的形式，它並沒有放棄它的\n輕微的錯誤行為和惡作劇。"
+        "zh-tw": "它生活在森林深處。即使進化後\n進入這個輝煌的形式，它並沒有放棄它的\n輕微的錯誤行為和惡作劇。",
+        ja: "森の 奥深くに 暮らしている。 立派に 進化しても くだらない 悪さと 悪戯は やめないのだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Distruggilo",
                 "de": "Machen Sie Schluss",
                 "pt-br": "Destruir",
-                "zh-tw": "鎮壓"
+                "zh-tw": "鎮壓",
+                ja: "たたきつぶす"
             },
             damage: 100,
             cost: ["Darkness", "Darkness", "Darkness"]

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/013"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/013"
     },
     name: {
         en: "Seaking",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Perfora con il suo corno le rocce sul letto dei\nfiumi, costruendo tane che proteggono le Uova\ndalla corrente.",
         de: "Es laicht in Löchern, die es mit seinem Horn in\nFelsen des Flussbettes gebohrt hat, damit seine\nEier nicht vom Wasser fortgespült werden.",
         "pt-br": "Usando seu chifre, ele faz buracos nas pedras do leito dos rios, fazendo ninhos para evitar que seus ovos sejam levados pela água.",
-        "zh-tw": "金魚王之所以會用角挖穿\n河底的岩石來築巢，是為了\n防止產下的卵被水流沖走。"
+        "zh-tw": "金魚王之所以會用角挖穿\n河底的岩石來築巢，是為了\n防止產下的卵被水流沖走。",
+        ja: "ツノで 川底の 岩を くりぬき 巣をつくるのは 産みつけた タマゴが 流されないように するためだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Proiettile acquatico",
                 de: "Aqua Bullet",
                 "pt-br": "Bala Aqua",
-                "zh-tw": "水子彈"
+                "zh-tw": "水子彈",
+                ja: "アクアバレット"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 20 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。"
             },
             damage: 30
         }

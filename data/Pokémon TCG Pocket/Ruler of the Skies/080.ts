@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/080",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/080",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/080"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/080"
     },
     name: {
         en: "Hariyama",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Pesta i piedi sul terreno per accumulare energia.\nCon uno dei suoi schiaffi può far prendere il volo\na un camion di 10 t.",
         de: "Es stampft auf den Boden, um Energie zu\ngenerieren. Ein einziger Armschlag reicht aus, um\neinen 10 t schweren LKW durch die Luft zu wirbeln.",
         "pt-br": "Pisoteia o chão para acumular energia. Pode mandar um caminhão de 10 toneladas pelos ares com um soco direto.",
-        "zh-tw": "會用雙腳踩地積蓄力量，\n一拳就能打飛\n10噸重的卡車。"
+        "zh-tw": "會用雙腳踩地積蓄力量，\n一拳就能打飛\n10噸重的卡車。",
+        ja: "両足で 地面を 踏み鳴らして パワーを ためる。張り手 １発で １０トン トラックを 吹っ飛ばす。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 de: "Schleuderwurf",
                 "pt-br": "Arremesso Articulado",
                 "zh-tw": "逆轉摔",
-                "it": "Rotolancio"
+                "it": "Rotolancio",
+                ja: "うっちゃり"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes +50 damage from attacks.",
@@ -68,7 +71,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken + 50 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá +50 pontos de dano de ataques.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害+50點。",
-                "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce +50 danni dagli attacchi."
+                "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce +50 danni dagli attacchi.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを+50する。"
             },
             damage: 120
         }

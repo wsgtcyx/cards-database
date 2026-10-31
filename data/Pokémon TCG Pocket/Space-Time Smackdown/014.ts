@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/014"
     },
     name: {
         en: "Kricketune",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kricketune",
         de: "Zirpeise",
         'pt-br': "Kricketune",
+        ja: "コロトック",
         ko: "귀뚤톡크",
         "zh-tw": "音箱蟀",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Zirpurze",
         "pt-br": "Kricketot",
         "zh-tw": "圓法師",
+        ja: "コロボーシ",
     },
     description: {
         en: "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Usa delle cavità all'interno del proprio corpo come\ncasse di risonanza per produrre melodie affascinanti.",
         de: "Seinen wunderschönen Ruf erzeugt es mithilfe eines\nHohlraums im Körper, der als Verstärker fungiert.",
         'pt-br': "Ao permitir que seu choro ressoe no espaço oco\nde sua barriga, produz um som cativante.",
+        ja: "体の 中にある 空洞で 音を 反響させることで きれいな 鳴き声に なるのだ。",
         ko: "몸 안에 있는 빈 공간으로\n소리를 메아리치게 해\n아름다운 울음소리가 된다.",
         "zh-tw": "通過讓它的叫聲在腹部的空腔中產生共鳴，它會發出迷人的聲音。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Incantomelodia",
                 de: "Zaubermelodie",
                 'pt-br': "Melodia Hipnotizante",
+                ja: "トランスメロディ",
                 ko: "트랜스멜로디",
                 "zh-tw": "迷人的旋律"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"

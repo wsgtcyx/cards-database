@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/007"
     },
     name: {
         en: "Phantump",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Phantump",
         de: "Paragoni",
         'pt-br': "Phantump",
+        ja: "ボクレー",
         ko: "나목령",
         "zh-tw": "小木靈",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Questo Pokémon è nato quando l'anima di un bambino\nsmarritosi nel bosco è entrata nel ceppo di un albero.",
         de: "Die Seele eines Kindes, das sich im Wald verlief\nund dabei ums Leben kam, nistete sich in einem\nBaumstumpf ein und wurde zu diesem Pokémon.",
         'pt-br': "Quando uma criança perdida faleceu na floresta,\nseu espírito possuiu um toco de árvore e ressurgiu\ncomo este Pokémon.",
+        ja: "森で さまよい 命を 落とした 子どもの 魂が 切り株に 宿り ポケモンに 生まれ変わった。",
         ko: "숲속을 헤매다 목숨을 잃은\n아이의 영혼이 나무 그루터기에\n씌어 포켓몬으로 다시 태어났다.",
         "zh-tw": "一個迷失的孩子在森林中喪生後，他們的靈魂附身在一個樹樁上，導致靈魂重生為這只神奇寶貝。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Uncino",
                 de: "Haken",
                 'pt-br': "Gancho",
+                ja: "ひっかける",
                 ko: "걸기",
                 "zh-tw": "鉤"
             },

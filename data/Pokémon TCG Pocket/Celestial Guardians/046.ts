@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/046"
     },
     name: {
         en: "Popplio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Popplio",
         de: "Robball",
         'pt-br': "Popplio",
+        ja: "アシマリ",
         ko: "누리공",
         "zh-tw": "球球海獅",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Grazie all'allenamento quotidiano, i palloncini che gonfia\ncon il naso diventano a poco a poco sempre più grandi.",
         de: "Dank seines täglichen Trainings gelingt es ihm,\nmit seiner Nase immer größere Blasen zu erzeugen.",
         'pt-br': "Os balões que cria com seu nariz ficam cada vez\nmaiores à medida que pratica dia após dia.",
+        ja: "鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。",
         ko: "코로 부풀리는 벌룬은\n매일 연습을 반복하면서\n조금씩 커진다.",
         "zh-tw": "隨著它日復一日的練習，它用鼻子吹的氣球變得越來越大。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },

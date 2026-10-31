@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/039",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/039",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/039"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/039"
     },
     name: {
         en: "Basculin",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Steinhaupt",
                 "pt-br": "Cabeça de Pedra",
                 "zh-tw": "堅硬腦袋",
-                ja: "Rock Head",
+                ja: "いしあたま",
                 ko: "Rock Head"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá −30 pontos de dano de ataques.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害-30點。",
-                ja: "During your opponent's next turn, this Pokémon takes −30 damage from attacks.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
                 ko: "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Sie schließen sich mit gleichfarbigen Artgenossen zu Schwärmen zusammen. Ihre Erzfeinde sind Schwärme von rotlinigen Barschuft.",
         "pt-br": "Estes Pokémon formam cardumes com outros da mesma cor. O maior inimigo de um cardume de Basculin azuis é um de Basculin vermelhos.",
         "zh-tw": "會依體色集結成群。最大的敵人是紅色的野蠻鱸魚的群體。",
-        ja: "These Pokémon form schools with others of the same color. The greatest foe of a school of blue Basculin is a school of red Basculin.",
+        ja: "同じ色で 集まり 群れる。 いちばんの 敵は 赤い色の バスラオの 群れなのだ。",
         ko: "These Pokémon form schools with others of the same color. The greatest foe of a school of blue Basculin is a school of red Basculin."
     }
 };

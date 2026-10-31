@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/003",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/003",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/003"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/003"
     },
     name: {
         en: "Snivy",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Per sua natura non ama vivere in gruppo. Nelle attività quotidiane, usa con maestria le sue liane al posto delle braccia corte.",
         de: "Es schließt sich nicht gern zu Gruppen zusammen. Statt seiner kurzen Arme nutzt es im Alltag seine Ranken, die es geschickt kontrollieren kann.",
         "pt-br": "Este Pokémon prefere evitar multidões. No dia a dia, controla suas vinhas com habilidade para compensar seus braços curtos.",
-        "zh-tw": "生性不愛群體行動。在生活中會靈巧操縱藤蔓來代替短短的手臂。"
+        "zh-tw": "生性不愛群體行動。在生活中會靈巧操縱藤蔓來代替短短的手臂。",
+        ja: "群れることを 好まない 性質。 短い 腕の 代わりに ツルを 器用に 操り 暮らしている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fogliamerang",
                 de: "Blätter-Bumerang",
                 "pt-br": "Folha Bumerangue",
-                "zh-tw": "飛葉回力鏢"
+                "zh-tw": "飛葉回力鏢",
+                ja: "はっぱブーメラン"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
-                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

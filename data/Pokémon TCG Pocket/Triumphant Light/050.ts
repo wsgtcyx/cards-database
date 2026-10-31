@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/050"
     },
     name: {
         en: "Crobat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Crobat",
         de: "Iksbat",
         'pt-br': "Crobat",
+        ja: "クロバット",
         ko: "크로뱃",
         "zh-tw": "叉字蝠",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Golbat",
         "de": "Golbat",
         "pt-br": "Golbat",
-        "zh-tw": "大嘴蝠"
+        "zh-tw": "大嘴蝠",
+        ja: "ゴルバット"
     },
     description: {
         en: "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target's neck.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Le due zampe si sono mutate in ali. Vola verso\nla preda ad alta velocità senza fare alcun\nrumore e le affonda le zanne nella nuca.",
         de: "Seine zwei Beine wurden zu Flügeln. Es fliegt\nschnell und lautlos zu seiner Beute, um ihr dann\ndie Zähne in den Nacken zu bohren.",
         'pt-br': "Suas duas pernas se transformaram em asas.\nSilenciosamente, Crobat voa de forma ágil em direção\nà sua presa e afunda seus dentes na nuca de seu alvo.",
+        ja: "両足が 羽に 変化。 音を たてずに 高速で 飛び 獲物の うなじに キバを たてる。",
         ko: "양발이 날개로 변화했다.\n소리를 내지 않고 고속으로 날아\n먹이의 목덜미에 이빨을 꽂는다.",
         "zh-tw": "它的兩條腿都變成了翅膀。鱷魚無聲地迅速飛向獵物，並將尖牙咬入目標的頸背。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Astuzia Simbiotica",
                 de: "Trickkopplung",
                 'pt-br': "Elo de Traquinagem",
+                ja: "トリックリンク",
                 ko: "트릭 링크",
                 "zh-tw": "狡猾的鏈接"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se hai in gioco Arceus o Arceus-ex, puoi infliggere 30 danni al Pokémon attivo del tuo avversario.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, kannst du einmal während deines Zuges dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 'pt-br': "Uma vez durante o seu turno, se você tiver Arceus ou Arceus ex em jogo, você poderá causar 30 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、自分の番に1回使える。相手のバトルポケモンに30ダメージ。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다.",
                 "zh-tw": "在你的回合中，如果你有阿爾宙斯或阿爾宙斯 ex 在場，你可以對對手的活躍神奇寶貝造成 30 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Oscurizanna",
                 de: "Fänge der Dunkelheit",
                 'pt-br': "Presa Sombria",
+                ja: "やみのキバ",
                 ko: "어둠엄니",
                 "zh-tw": "黑暗之牙"
             },

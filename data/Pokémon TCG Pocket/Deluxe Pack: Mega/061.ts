@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/061",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/061",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/061"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/061"
     },
     name: {
         en: "Vaporeon ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "Eevee",
+        ja: "イーブイ",
         ko: "Eevee"
     },
     stage: "Stage1",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Starrer Strom",
                 "pt-br": "Fluxo Congelado",
                 "zh-tw": "嚴寒水流",
-                ja: "Frozen Flow",
+                ja: "いてつくすいりゅう",
                 ko: "Frozen Flow"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du das Aktive Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá mandar o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。將對手的戰鬥寶可夢與備戰寶可夢互換。[[由對手選擇放置於戰鬥場的寶可夢。]]",
-                ja: "Once during your turn, if this Pokémon is in the Active Spot, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
                 ko: "Once during your turn, if this Pokémon is in the Active Spot, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
             }
         }
@@ -86,7 +87,7 @@ const card: Card = {
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
                 "zh-tw": "飛濺",
-                ja: "Wave Splash",
+                ja: "スプラッシュ",
                 ko: "Wave Splash"
             },
             damage: 80

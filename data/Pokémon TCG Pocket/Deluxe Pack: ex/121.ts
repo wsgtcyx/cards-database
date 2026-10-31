@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/121",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/121",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/121",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/121"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/121",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/121"
 	},
 	name: {
 		en: "Crabominable ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Crabominable-ex",
 		de: "Krawell-ex",
 		"pt-br": "Crabominable ex",
-		"zh-tw": "好勝毛蟹ex"
+		"zh-tw": "好勝毛蟹ex",
+		ja: "ケケンカニex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Crabrawler",
 		de: "Krabbox",
 		"pt-br": "Crabrawler",
-		"zh-tw": "好勝蟹"
+		"zh-tw": "好勝蟹",
+		ja: "マケンカニ"
 	},
 	stage: "Stage1",
 	suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Colpi Irrefrenabili",
 				de: "Unersättliches Prügeln",
 				"pt-br": "Golpe Insaciável",
+				ja: "がつがつボンバー",
 				ko: "더욱더욱봄버",
 				"zh-tw": "貪得無厭的打擊"
 			},
@@ -58,6 +62,7 @@ const card: Card = {
 				it: "Durante il tuo prossimo turno, l'attacco Colpi Irrefrenabili di questo Pokémon infligge +40 danni.",
 				de: "Während deines nächsten Zuges fügt die Attacke Unersättliches Prügeln von diesem Pokémon + 40 Schadenspunkte zu.",
 				"pt-br": "Durante o seu próximo turno, o ataque Golpe Insaciável deste Pokémon causará + 40 pontos de dano.",
+				ja: "次の自分の番、このポケモンの「がつがつボンバー」のダメージを+40する。",
 				ko: "자신의 다음 차례에 이 포켓몬의 「더욱더욱봄버」의 데미지를 +40한다.",
 				"zh-tw": "在你的下一個回合中，這只神奇寶貝的貪得無厭攻擊造成+40點傷害。"
 			}

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/097",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/097"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/097"
     },
     name: {
         en: "Gible",
@@ -41,7 +42,8 @@ const card: Card = {
         it: "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
         de: "Dieses Pokémon lebt in Höhlen, die Erdwärme ausgesetzt sind. Wenn Feinde sich nähern, springt es heraus und beißt mit seinem großen Maul zu.",
         "pt-br": "Faz ninhos em buracos horizontais que são aquecidos pelo calor geotérmico. Inimigos que se aproximam demais serão atacados e mordidos.",
-        "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。"
+        "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。",
+        ja: "地熱で 温められた 横穴で 暮らす。 敵が 近づくと 穴から 飛び出して 大口で かみつく。"
     },
     attacks: [
         {
@@ -55,7 +57,8 @@ const card: Card = {
                 it: "Riduttore",
                 de: "Bodycheck",
                 "pt-br": "Desmantelar",
-                "zh-tw": "猛撞"
+                "zh-tw": "猛撞",
+                ja: "とっしん"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -64,7 +67,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也受到10點傷害。"
+                "zh-tw": "這隻寶可夢也受到10點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             },
             damage: 30
         }

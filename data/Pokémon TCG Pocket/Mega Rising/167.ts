@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/167",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/167",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/167"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/167",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/167"
     },
     name: {
         en: "Ferrothorn",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tentantel",
         "pt-br": "Ferrothorn",
         "zh-tw": "堅果啞鈴",
+        ja: "ナットレイ",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kastadur",
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
+        ja: "テッシード",
     },
     description: {
         en: "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue punte sono più dure dell'acciaio. Questo Pokémon\nstriscia attraverso le pareti rocciose trafiggendo le punte\nsulle antenne nella pietra.",
         "de": "Seine Spitzen sind härter als Stahl. Dieses Pokémon\nkriecht über Felswände, indem es die Stacheln durchsticht\nauf seinen Fühlern in den Stein.",
         "pt-br": "Suas pontas são mais duras que o aço. Este Pokémon\nrasteja pelas paredes rochosas apunhalando os espinhos\nem suas antenas na pedra.",
-        "zh-tw": "它的尖刺比鋼還硬。這只寶可夢\n通過刺穿尖刺爬過岩壁\n用它的觸角進入石頭。"
+        "zh-tw": "它的尖刺比鋼還硬。這只寶可夢\n通過刺穿尖刺爬過岩壁\n用它的觸角進入石頭。",
+        ja: "鋼より 硬い 棘を もつ。 触手の 棘を 突き刺し 岩壁を 這って 移動する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 50,
             cost: ["Metal", "Metal"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

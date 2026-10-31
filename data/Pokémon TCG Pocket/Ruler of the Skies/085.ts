@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/085",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/085",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/085"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/085"
     },
     name: {
         en: "Drilbur",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso,\nmentre si apre un passaggio scavando con le unghie.",
         de: "Es führt seine beiden Klauen zusammen, dreht sich rapide um\ndie eigene Achse und gräbt sich ratzfatz durch das Erdreich.",
         "pt-br": "Ele abre seu caminho agilmente pelo solo ao unir ambas as garras e girá-las em alta velocidade.",
-        "zh-tw": "只要將兩手的爪子疊在一起，\n並高速旋轉身體，\n便能以驚人的速度在地底前進。"
+        "zh-tw": "只要將兩手的爪子疊在一起，\n並高速旋轉身體，\n便能以驚人的速度在地底前進。",
+        ja: "両手の ツメを 重ね合わせて 体を 高速 回転させると 猛スピードで 地中を 進む。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
-                "zh-tw": "擲泥"
+                "zh-tw": "擲泥",
+                ja: "どろかけ"
             },
             damage: 20
         }

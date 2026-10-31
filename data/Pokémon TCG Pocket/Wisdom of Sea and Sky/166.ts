@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/166",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/166"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/166"
     },
     name: {
         en: "Magby",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magby",
         "pt-br": "Magby",
         "zh-tw": "鴨嘴寶寶",
+        ja: "ブビィ",
     },
     illustrator: "Makura Tami",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è ancora piccolo e timido.\nOgni volta che Magby si emoziona o si sorprende,\nfiamme fuoriescono dalla sua bocca e dal suo naso.",
         "de": "Dieses Pokémon ist noch klein und schüchtern.\nImmer wenn Magby aufgeregt oder überrascht ist,\nAus seinem Mund und seiner Nase strömen Flammen.",
         "pt-br": "Este Pokémon ainda é pequeno e tímido.\nSempre que Magby fica animado ou surpreso,\nchamas vazam de sua boca e nariz.",
-        "zh-tw": "這只神奇寶貝還很小，而且膽怯。\n每當瑪格比感到興奮或驚訝時，\n火焰從它的嘴和鼻子中洩漏出來。"
+        "zh-tw": "這只神奇寶貝還很小，而且膽怯。\n每當瑪格比感到興奮或驚訝時，\n火焰從它的嘴和鼻子中洩漏出來。",
+        ja: "まだまだ 小さく 臆病。 興奮したり びっくりすると 鼻や 口から 火が もれる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio Tostato",
                 "de": "Toasty Toss",
                 "pt-br": "Lançamento quentinho",
-                "zh-tw": "烤麵包"
+                "zh-tw": "烤麵包",
+                ja: "ぽかぽかトス"
             },
             effect: {
                 en: "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {R} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon Base in panchina.",
                 "de": "Nimm eine {R}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {R} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
-                "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備基礎神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備基礎神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、ベンチのたねポケモンにつける。"
             }
         }],
     retreat: 0,

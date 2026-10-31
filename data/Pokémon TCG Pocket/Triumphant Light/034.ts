@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/034"
     },
     name: {
         en: "Unown",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Unown",
         de: "Icognito",
         'pt-br': "Unown",
+        ja: "アンノーン",
         ko: "안농",
         "zh-tw": "未知圖騰",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il corpo piatto e sottile sta sempre attaccato ai muri.\nPare che la forma abbia un preciso significato.",
         de: "Sein flacher, dünner Körper hängt immer an Wänden.\nSeine Form scheint eine Bedeutung zu haben.",
         'pt-br': "Seu corpo delgado e plano fica sempre colado\nnas paredes. Sua forma parece ter algum propósito.",
+        ja: "体自体は 薄っぺらく いつも 壁に 張りついている。 形に なにか 意味があるらしい。",
         ko: "몸 자체는 굉장히 얇고\n항상 벽에 들러붙어 있다.\n모습에는 뭔가 의미가 있는 듯하다.",
         "zh-tw": "它扁平、薄薄的身體總是貼在牆上。它的形狀似乎有某種含義。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "CONTROLLO",
                 de: "CHECK",
                 'pt-br': "CHECAR",
+                ja: "CHECK [チェック]",
                 ko: "CHECK 체크",
                 "zh-tw": "查看"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi scegliere uno dei giocatori. Guarda la prima carta del mazzo di quel giocatore.",
                 de: "Einmal während deines Zuges kannst du einen Spieler auswählen. Schau dir die oberste Karte des Decks dieses Spielers an.",
                 'pt-br': "Uma vez durante o seu turno, você poderá escolher um dos jogadores. Olhe 1 carta de cima do baralho daquele jogador.",
+                ja: "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から枚見て、もとにもどす。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신 또는 상대 중 하나를 선택해서 선택된 플레이어의 덱을 위에서부터 1장 보고 원래대로 되돌린다.",
                 "zh-tw": "在你的回合中，你可以選擇任一玩家。查看該玩家牌組頂牌。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Introforza",
                 de: "Kraftreserve",
                 'pt-br': "Poder Oculto",
+                ja: "めざめるパワー",
                 ko: "잠재파워",
                 "zh-tw": "隱藏的力量"
             },

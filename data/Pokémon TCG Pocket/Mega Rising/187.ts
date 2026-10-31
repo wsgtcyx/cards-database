@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/187",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/187",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/187",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/187"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/187",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/187"
     },
     name: {
         en: "Miltank",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Miltank",
         "pt-br": "Miltank",
         "zh-tw": "大奶罐",
+        ja: "ミルタンク",
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon ha bisogno di essere munto ogni giorno,\naltrimenti si ammalerà. Il sapore del latte Miltank\ncambia con le stagioni.",
         "de": "Dieses Pokémon muss jeden Tag gemolken werden,\nsonst wird es krank. Der Geschmack von Miltank-Milch\nändert sich mit den Jahreszeiten.",
         "pt-br": "Este Pokémon precisa ser ordenhado todos os dias,\nou então ficará doente. O sabor do leite Miltank\nmuda com as estações.",
-        "zh-tw": "這個神奇寶貝每天都需要擠奶，\n不然就會生病。 Miltank牛奶的味道\n隨著季節的變化。"
+        "zh-tw": "這個神奇寶貝每天都需要擠奶，\n不然就會生病。 Miltank牛奶的味道\n隨著季節的變化。",
+        ja: "毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di corpo",
                 "de": "Bodyslam",
                 "pt-br": "Batida Corporal",
-                "zh-tw": "身體猛擊"
+                "zh-tw": "身體猛擊",
+                ja: "のしかかり"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

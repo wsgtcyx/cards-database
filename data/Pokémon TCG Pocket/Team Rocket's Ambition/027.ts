@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/027",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/027",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/027"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/027"
     },
     name: {
         en: "Team Rocket's Drowzee",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Quando fiuta con il suo grande naso, riesce a localizzare chi dorme e a capire che sogni sta facendo.",
         de: "Wenn es mit seiner großen Nase zuckt, kann es feststellen, wo jemand schläft und was er gerade träumt.",
         "pt-br": "Quando contrai seu nariz, consegue saber onde alguém está dormindo e com o que está sonhando.",
-        "zh-tw": "據說當牠抽動凸出的鼻子，無論是誰在哪裡做著什麼夢，都會被牠知道得一清二楚。"
+        "zh-tw": "據說當牠抽動凸出的鼻子，無論是誰在哪裡做著什麼夢，都會被牠知道得一清二楚。",
+        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Borbottio",
                 de: "Grummeln",
                 "pt-br": "Resmungo",
-                "zh-tw": "囈語"
+                "zh-tw": "囈語",
+                ja: "つぶやく"
             },
             damage: 40
         }

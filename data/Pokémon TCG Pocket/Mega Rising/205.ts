@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/205",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/205"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/205"
     },
     name: {
         en: "Braviary",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Washakwil",
         "pt-br": "Braviary",
         "zh-tw": "勇士雄鷹",
+        ja: "ウォーグル",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Geronimatz",
         "pt-br": "Rufflet",
         "zh-tw": "毛頭小鷹",
+        ja: "ワシボン",
     },
     description: {
         en: "For the sake of its friends, this brave warrior of\nthe sky will not stop battling, even if injured.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Per il bene dei suoi amici, questo coraggioso guerriero\nil cielo non smetterà di lottare, anche se ferito.",
         "de": "Zum Wohle seiner Freunde, dieser tapfere Krieger\nDer Himmel wird nicht aufhören zu kämpfen, selbst wenn er verletzt ist.",
         "pt-br": "Pelo bem dos seus amigos, este bravo guerreiro de\no céu não vai parar de lutar, mesmo ferido.",
-        "zh-tw": "為了朋友，這位勇敢的戰士\n天空不會停止戰鬥，哪怕受傷。"
+        "zh-tw": "為了朋友，這位勇敢的戰士\n天空不會停止戰鬥，哪怕受傷。",
+        ja: "仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 80,
             cost: ["Colorless", "Colorless", "Colorless"]

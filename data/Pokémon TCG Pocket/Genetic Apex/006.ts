@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/006"
     },
     name: {
         en: "Metapod",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Metapod",
         de: "Safcon",
         'pt-br': "Metapod",
+        ja: "トランセル",
         ko: "단데기",
         "zh-tw": "鐵甲蛹",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Caterpie",
         "de": "Raupy",
         "pt-br": "Caterpie",
-        "zh-tw": "綠毛蟲"
+        "zh-tw": "綠毛蟲",
+        ja: "キャタピー"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Coleomorso",
                 de: "Käferbiss",
                 'pt-br': "Picada",
+                ja: "むしくい",
                 ko: "벌레먹기",
                 "zh-tw": "蟲咬"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "In attesa di evolversi, l'unica cosa che può\nfare è indurire la sua corazza, quindi rimane\nimmobile per evitare di essere attaccato.",
         de: "In diesem Zustand wartet es auf die Entwicklung.\nEs kann nur seinen Panzer erhärten, daher bewegt\nes sich nicht, um nicht angegriffen zu werden.",
         'pt-br': "Metapod está aguardando o momento certo para\nevoluir. Neste estágio, só consegue endurecer,\nentão permanece imóvel para evitar ataques.",
+        ja: "進化を 待っている 状態。 硬くなる ことしか できないので 襲われないよう じっとしている。",
         ko: "진화를 기다리고 있는 상태다.\n단단해지는 것밖에 할 수 없어서\n공격받지 않도록 꿈쩍 않고 있다.",
         "zh-tw": "它正在等待進化的時刻。在這個階段，它只能變硬，所以它保持不動以避免攻擊。"
     },

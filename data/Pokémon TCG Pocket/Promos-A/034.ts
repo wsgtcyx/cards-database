@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/034"
     },
     name: {
         en: "Piplup",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Piplup",
         de: "Plinfa",
         'pt-br': "Piplup",
+        ja: "ポッチャマ",
         ko: "팽도리",
         "zh-tw": "波加曼",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Molto orgoglioso. Difficile farci amicizia\nperché non ascolta mai i consigli dell'Allenatore.",
         de: "Einmischung kann es gar nicht leiden. Es ist bockig\nund fasst nur schwer Zutrauen zu seinem Trainer.",
         'pt-br': "Estes Pokémon não gostam que tomem conta deles.\nÉ muito difícil criar laços com eles,\npois não costumam obedecer aos seus Treinadores.",
+        ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。",
         ko: "신세를 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다.",
         "zh-tw": "它不喜歡被照顧。很難\n與它建立聯繫，因為它不聽它的訓練師的話。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pausa",
                 de: "Nickerchen",
                 'pt-br': "Soneca",
+                ja: "ひとやすみ",
                 ko: "잠시 쉬기",
                 "zh-tw": "午睡"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
             }

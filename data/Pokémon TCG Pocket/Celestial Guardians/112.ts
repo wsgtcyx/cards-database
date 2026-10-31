@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/112",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/112",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/112"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/112"
     },
     name: {
         en: "Absol",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Absol",
         de: "Absol",
         'pt-br': "Absol",
+        ja: "アブソル",
         ko: "앱솔",
         "zh-tw": "阿勃梭魯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Corre veloce come il vento attraverso colline\ne campi. Il suo corno ricurvo è in grado di\nprevedere con precisione le calamità naturali.",
         de: "Schnell wie der Wind rauscht es über Felder und Berge.\nSein gebogenes Horn ist sehr sensibel gegenüber\nherannahenden Naturkatastrophen.",
         'pt-br': "Absol dispara por campos e montanhas, rápido\ncomo o vento. Seu chifre arqueado é altamente sensível\naos sinais de desastres naturais.",
+        ja: "風のように 野山を 駆けぬける。 弓なりの ツノは 自然災害の 予兆を 敏感に 感じとる。",
         ko: "바람처럼 산과 들을 달려나간다.\n초승달 모양의 뿔은 자연재해의\n징조를 민감하게 감지한다.",
         "zh-tw": "阿勃索爾疾馳如風，穿過田野和山脈。它彎曲的弓狀角對自然災害的警告信號非常敏感。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Artigli Invisibili",
                 de: "Klammheimliche Klaue",
                 'pt-br': "Garra Despercebida",
+                ja: "アサシンクロー",
                 ko: "어새신클로",
                 "zh-tw": "看不見的利爪"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è influenzato da una condizione speciale, questo attacco infligge 60 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners von einem Speziellen Zustand betroffen ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver afetado por uma Condição Especial, este ataque causará 60 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが特殊状態なら、60ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 특수 상태라면 60데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝受到特殊狀態的影響，則此攻擊造成的傷害增加 60 點。"
             }

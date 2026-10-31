@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/089",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/089"
     },
     name: {
         en: "Tyrunt",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tyrunt",
         "de": "Balgoras",
         "pt-br": "Tyrunt",
-        "zh-tw": "寶寶暴龍"
+        "zh-tw": "寶寶暴龍",
+        ja: "チゴラス"
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Fossilmascella",
         "de": "Kieferfossil",
         "pt-br": "Fóssil de Mandíbula",
-        "zh-tw": "顎之化石"
+        "zh-tw": "顎之化石",
+        ja: "アゴの化石"
     },
     description: {
         en: "This Pokémon is selfish and likes to be pampered.\nIt can also inflict grievous wounds on its Trainer\njust by playing around.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon è egoista e ama essere coccolato.\nPuò anche infliggere gravi ferite al suo Allenatore\nsemplicemente giocando.",
         "de": "Dieses Pokémon ist egoistisch und lässt sich gerne verwöhnen.\nEs kann seinem Trainer auch schwere Wunden zufügen\neinfach durch Herumspielen.",
         "pt-br": "Este Pokémon é egoísta e gosta de ser mimado.\nEle também pode causar ferimentos graves em seu Treinador\napenas brincando.",
-        "zh-tw": "這只神奇寶貝很自私，喜歡被寵愛。\n它還可以對其訓練師造成嚴重傷害\n只是玩玩而已。"
+        "zh-tw": "這只神奇寶貝很自私，喜歡被寵愛。\n它還可以對其訓練師造成嚴重傷害\n只是玩玩而已。",
+        ja: "わがままだが 甘えん坊。 じゃれてるだけで トレーナーに 大けがを 負わせてしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Martella dentro",
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
-                "zh-tw": "錘入"
+                "zh-tw": "錘入",
+                ja: "ぶちかます"
             },
             damage: 60,
             cost: ["Fighting", "Fighting"]

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/083",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/083",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/083"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/083"
     },
     name: {
         en: "Squawkabilly",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Krawalloro",
         "pt-br": "Squawkabilly",
         "zh-tw": "怒鸚哥",
+        ja: "イキリンコ",
         pt: "Squawkabilly",
         'es-mx': "Squawkabilly"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Gli stormi dalle piume verdi hanno la massima influenza. Quando sono fuori a cercare cibo la mattina e la sera, diventa molto rumoroso.",
         "de": "Grüngefiederte Herden haben den größten Einfluss. Wenn sie morgens und abends auf Futtersuche sind, kann es sehr laut werden.",
         "pt-br": "Os bandos de penas verdes são os que têm maior influência. Quando eles estão procurando comida de manhã e à noite, fica muito barulhento.",
-        "zh-tw": "綠羽毛的羊群占主導地位。當他們早上和晚上出去尋找食物時，會變得非常吵鬧。"
+        "zh-tw": "綠羽毛的羊群占主導地位。當他們早上和晚上出去尋找食物時，會變得非常吵鬧。",
+        ja: "緑色の 羽の イキリンコが 最大勢力。 エサを 探す 朝と 晩は とても 騒がしい。"
     },
     stage: "Basic",
     attacks: [
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Attacco rapido",
                 de: "Quick Attack",
                 "pt-br": "Ataque Rápido",
-                "zh-tw": "快速攻擊"
+                "zh-tw": "快速攻擊",
+                ja: "でんこうせっか"
             },
             damage: "30+",
             cost: ["Colorless", "Colorless"],
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 'es-mx': "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
                 pt: "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
             },

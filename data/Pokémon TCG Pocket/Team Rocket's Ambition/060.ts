@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/060",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/060"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/060"
     },
     name: {
         en: "Team Rocket's Meowth",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Ama gli oggetti scintillanti. Se nota qualcosa che brilla, anche la moneta sulla sua fronte risplende.",
         de: "Glänzende Dinge faszinieren es. Findet es etwas Schimmerndes, leuchtet auch die Münze an seinem Kopf aus unbekanntem Grund auf.",
         "pt-br": "Ama coisas reluzentes. Quando vê um objeto brilhante, a moeda dourada na sua cabeça brilha também.",
-        "zh-tw": "非常喜歡耀眼的發光物。找到發光物時，不知為何額頭的金幣也會跟著發光。"
+        "zh-tw": "非常喜歡耀眼的發光物。找到發光物時，不知為何額頭的金幣也會跟著發光。",
+        ja: "眩しく 光るものが 大好き。 光るものを 見つけたとき なぜか 額の小判も 輝く。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 "pt-br": "Arranhão",
-                "zh-tw": "抓"
+                "zh-tw": "抓",
+                ja: "ひっかく"
             },
             damage: 30
         }

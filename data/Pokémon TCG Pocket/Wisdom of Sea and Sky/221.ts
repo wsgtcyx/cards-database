@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/221",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/221",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/221"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/221",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/221"
     },
     name: {
         en: "Mankey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
+        ja: "マンキー",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vive in gruppi sulle cime degli alberi. Se lo perde di vista\nsuo gruppo, si infuria per la sua solitudine.",
         "de": "Er lebt in Gruppen in den Baumwipfeln. Wenn es aus den Augen verliert\nseiner Gruppe wird es wütend über seine Einsamkeit.",
         "pt-br": "Vive em grupos nas copas das árvores. Se perder de vista\nseu grupo, fica furioso com sua solidão.",
-        "zh-tw": "它成群生活在樹頂。如果它失去了視線\n它的群體，它因孤獨而變得憤怒。"
+        "zh-tw": "它成群生活在樹頂。如果它失去了視線\n它的群體，它因孤獨而變得憤怒。",
+        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Concentrarsi sul pugno",
                 "de": "Fokusfaust",
                 "pt-br": "Punho Foco",
-                "zh-tw": "聚焦拳頭"
+                "zh-tw": "聚焦拳頭",
+                ja: "きあいづき"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

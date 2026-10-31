@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/002",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/002",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/002"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/002"
     },
     name: {
         en: "Tangrowth",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Più il territorio in cui vive è caldo, più le sue liane\ncrescono velocemente. Quando si allungano\ntroppo, le taglia per accorciarle.",
         de: "Je wärmer sein Lebensraum ist, desto schneller\nwachsen seine Ranken. Werden sie zu lang,\nkürzt Tangoloss sie, indem es sie abreißt.",
         "pt-br": "O crescimento da videira é acelerado para Tangrowth que vivem em climas quentes. Se as vinhas crescerem muito, Tangrowth as encurta, arrancando partes delas.",
-        "zh-tw": "棲息的地方越溫暖，藤蔓就會\n長得越快。當藤蔓變得太長時，\n就會自己扯斷它來調整長度。"
+        "zh-tw": "棲息的地方越溫暖，藤蔓就會\n長得越快。當藤蔓變得太長時，\n就會自己扯斷它來調整長度。",
+        ja: "暖かい 土地で 暮らす ものほど ツルの 伸びが 早い。 伸びると 自ら ちぎって 短くする。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 "pt-br": "Chicote de Vinha",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 80
         }

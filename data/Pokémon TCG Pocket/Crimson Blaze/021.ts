@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/021"
     },
     name: {
         en: "Basculin",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Basculin",
         "de": "Barschuft",
         "pt-br": "Basculin",
-        "zh-tw": "野蠻鱸魚"
+        "zh-tw": "野蠻鱸魚",
+        ja: "バスラオ"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I pescatori adorano la lotta che questo Pokémon affronta\nil gancio. E ce ne sono sempre altri da catturare—\nmolte persone li rilasciano illegalmente nei laghi.",
         "de": "Angler lieben den Kampf, den dieses Pokémon führt\nder Haken. Und es gibt immer noch mehr zu fangen –\nViele Menschen setzen sie illegal in Seen frei.",
         "pt-br": "Os pescadores adoram a luta que este Pokémon trava\no gancho. E sempre há mais para capturar—\nmuitas pessoas os liberam ilicitamente nos lagos.",
-        "zh-tw": "釣魚者喜歡這只神奇寶貝的戰鬥\n鉤子。而且總是有更多的東西可以捕捉——\n許多人將它們非法釋放到湖泊中。"
+        "zh-tw": "釣魚者喜歡這只神奇寶貝的戰鬥\n鉤子。而且總是有更多的東西可以捕捉——\n許多人將它們非法釋放到湖泊中。",
+        ja: "タフな ファイトが 釣り人に 大人気。 無断で 池に 放すので どんどん 増える。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo a sorpresa",
                 "de": "Überraschungsschlag",
                 "pt-br": "Greve Surpresa",
-                "zh-tw": "奇襲"
+                "zh-tw": "奇襲",
+                ja: "きしゅうこうげき"
             },
             damage: "40+",
             cost: ["Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è passato dalla tua panchina al posto attivo in questo turno, questo attacco infligge 40 danni in più.",
                 "de": "Wenn dieses Pokémon in diesem Zug von deiner Bank auf den aktiven Platz verschoben wurde, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon for movido do seu Banco para o Local Ativo neste turno, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果本回合這只神奇寶貝從你的替補席移至活躍位置，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果本回合這只神奇寶貝從你的替補席移至活躍位置，則這次攻擊造成的傷害增加 40 點。",
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

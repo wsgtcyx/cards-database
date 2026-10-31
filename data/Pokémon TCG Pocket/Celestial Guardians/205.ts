@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/205",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/205"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/205"
     },
     name: {
         en: "Passimian ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Passimian-ex",
         de: "Quartermak-ex",
         'pt-br': "Passimian ex",
+        ja: "ナゲツケサルex",
         ko: "내던숭이 ex",
         "zh-tw": "投擲猴ex",
     },
@@ -37,6 +39,7 @@ const card: Card = {
                 it: "Passaggio di Testimone",
                 de: "Offload-Pass",
                 'pt-br': "Passe do Desapego",
+                ja: "オフロードパス",
                 ko: "오프로드 패스",
                 "zh-tw": "卸載通行證"
             },
@@ -47,6 +50,7 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, sposta tutte le Energie {F} da questo Pokémon a uno di quelli nella tua panchina.",
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird, verschiebe alle {F}-Energien von diesem Pokémon auf 1 Pokémon auf deiner Bank.",
                 'pt-br': "Se este Pokémon estiver no Campo Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, mova todas as Energias {F} deste Pokémon para 1 dos seus Pokémon no Banco.",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、このポケモンから{F}エネルギーをすべて、ベンチポケモン1匹につけ替える。",
                 ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 이 포켓몬에서 {F}에너지를 모두 벤치 포켓몬 1마리에게 바꿔 붙인다.",
                 "zh-tw": "如果這只神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則將該神奇寶貝的所有 {F} 能量移至你後備的 1 只神奇寶貝。"
             }
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Movimento Sismico",
                 de: "Geowurf",
                 'pt-br': "Arremesso Sísmico",
+                ja: "ちきゅうなげ",
                 ko: "지구던지기",
                 "zh-tw": "地震拋擲"
             },

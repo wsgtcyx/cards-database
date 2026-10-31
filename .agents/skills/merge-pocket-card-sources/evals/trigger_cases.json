@@ -3,7 +3,8 @@
   "should_trigger": [
     "PokeOS、RaenonX 和卡图对这个新 set 的规则字段有冲突，请合并 canonical 并生成 provenance。",
     "没有单一来源覆盖全部卡牌机制，请按字段保留候选和 review evidence。",
-    "先审计新卡集的多来源数据并把 unresolved conflicts 清零，暂时不要发布。"
+    "先审计新卡集的多来源数据并把 unresolved conflicts 清零，暂时不要发布。",
+    "日语规则模板与真实日语卡面有冲突，请按字段保存候选和证据并裁决。"
   ],
   "should_not_trigger": [
     "添加整个 Pocket set，包括 R2、API、tcgp 配置和本地页面 smoke。",

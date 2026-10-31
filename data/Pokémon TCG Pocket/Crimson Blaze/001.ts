@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/001"
     },
     name: {
         en: "Bulbasaur",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bulbasaur",
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
-        "zh-tw": "妙蛙種子"
+        "zh-tw": "妙蛙種子",
+        ja: "フシギダネ"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mentre è giovane, utilizza le sostanze nutritive che contiene\nimmagazzinato nel seme sul dorso per poter crescere.",
         "de": "Solange es jung ist, nutzt es die vorhandenen Nährstoffe\nim Samen auf seinem Rücken gespeichert, um zu wachsen.",
         "pt-br": "Embora seja jovem, utiliza os nutrientes que são\narmazenado na semente em suas costas para crescer.",
-        "zh-tw": "當它還年輕的時候，它會利用\n儲存在其背上的種子中以便生長。"
+        "zh-tw": "當它還年輕的時候，它會利用\n儲存在其背上的種子中以便生長。",
+        ja: "生まれて しばらくの あいだ 背中の タネに つまった 栄養を とって 育つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Grass"]

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/034",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/034"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/034"
     },
     name: {
         en: "Smoliv",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon converte le sostanze nutritive in olio, che immagazzina nel frutto sulla sua testa. Può facilmente passare un'intera settimana senza mangiare o bere.",
         de: "Dieses Pokémon wandelt Nährstoffe in Öl um, das es in der Frucht auf seinem Kopf speichert. Es kann problemlos eine ganze Woche ohne Essen und Trinken auskommen.",
         "pt-br": "Este Pokémon converte nutrientes em óleo, que armazena na fruta que tem na cabeça. Pode facilmente passar uma semana inteira sem comer ou beber.",
-        "zh-tw": "這種寶可夢將營養物質轉化為油，並將其儲存在頭上的果實中。很容易就可以連續一週不吃不喝。"
+        "zh-tw": "這種寶可夢將營養物質轉化為油，並將其儲存在頭上的果實中。很容易就可以連續一週不吃不喝。",
+        ja: "栄養を オイルにして 頭の 実に 蓄える。 飲まず食わずでも １週間は へっちゃら。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Nutrienti",
                 de: "Nährstoffe",
                 "pt-br": "Nutrientes",
-                "zh-tw": "營養素"
+                "zh-tw": "營養素",
+                ja: "えいようそ"
             },
             effect: {
                 en: "Heal 20 damage from 1 of your Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Cura 20 danni da 1 dei tuoi Pokémon.",
                 de: "Heile 20 Schadenspunkte bei 1 deiner Pokémon.",
                 "pt-br": "Cure 20 de dano de 1 dos seus Pokémon.",
-                "zh-tw": "治療你的 1 只寶可夢造成的 20 點傷害。"
+                "zh-tw": "治療你的 1 只寶可夢造成的 20 點傷害。",
+                ja: "自分のポケモン1匹のHPを20回復。"
             }
         }
     ],

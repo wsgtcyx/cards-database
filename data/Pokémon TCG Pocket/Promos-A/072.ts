@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/072"
     },
     name: {
         en: "Alolan Grimer",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grimer di Alola",
         de: "Alola-Sleima",
         'pt-br': "Grimer de Alola",
+        ja: "アローラベトベター",
         ko: "알로라질퍽이",
         "zh-tw": "阿羅拉臭泥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Negli impianti di smaltimento rifiuti di Alola ne vivono circa\n100 esemplari che lavorano sodo mangiando rifiuti in quantità.",
         de: "Die Müllanlagen Alolas beherbergen rund hundert\nExemplare dieses Pokémon. Sie sind fleißig dabei,\nriesige Mengen an Müll zu vertilgen.",
         'pt-br': "Há cerca de cem deles vivendo no lixão de Alola.\nEles todos trabalham duro e comem muito lixo.",
+        ja: "アローラの ゴミ処分場 には 100匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。",
         ko: "알로라의 쓰레기 처리장에서는\n약 100마리가 살고 있다. 모두\n쓰레기를 많이 먹는 유능한 일꾼이다.",
         "zh-tw": "他們大約有一百多人居住在\n阿羅拉的垃圾處理場。他們都很難\n吃大量垃圾的工人。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Velenogas",
                 de: "Giftwolke",
                 'pt-br': "Gás Venenoso",
+                ja: "どくガス",
                 ko: "독가스",
                 "zh-tw": "毒氣"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

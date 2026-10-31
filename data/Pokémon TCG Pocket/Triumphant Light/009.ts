@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/009"
     },
     name: {
         en: "Carnivine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Carnivine",
         de: "Venuflibis",
         'pt-br': "Carnivine",
+        ja: "マスキッパ",
         ko: "무스틈니",
         "zh-tw": "尖牙籠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Attira le prede con il dolce aroma della saliva e poi\nle ingoia. Impiega un giorno per mangiare una preda.",
         de: "Sein süßlich riechender Speichel zieht Beute an,\ndie es frisst. Es braucht einen Tag, sie zu fressen.",
         'pt-br': "Atrai presas com sua saliva doce e depois as mastiga.\nLeva um dia inteiro para comer uma presa.",
+        ja: "甘い においの だえきで 獲物を おびき寄せ おおあごで がぶり。 １日 かけて 獲物を 食べる。",
         ko: "달콤한 냄새의 타액으로 먹이를\n끌어들여 큰 턱으로 꿀꺽한다.\n하루에 걸쳐 먹이를 먹는다.",
         "zh-tw": "它用帶有甜味的唾液吸引獵物，然後將其咀嚼下來。吃掉獵物需要一整天的時間。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Potenza Simbiotica",
                 de: "Kraftkopplung",
                 'pt-br': "Elo de Poder",
+                ja: "パワーリンク",
                 ko: "파워 링크",
                 "zh-tw": "電源連接"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, gli attacchi usati da questo Pokémon infliggono +30 danni al Pokémon attivo del tuo avversario.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, fügen die von diesem Pokémon eingesetzten Attacken dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon causarão +30 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 Arceus+30[/Ctrl:NoBreak]한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，該神奇寶貝使用的攻擊會對對手的活躍神奇寶貝造成 +30 點傷害。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 'pt-br': "Chicote de Vinha",
+                ja: "つるのムチ",
                 ko: "덩굴채찍",
                 "zh-tw": "藤鞭"
             },

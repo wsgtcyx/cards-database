@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/040",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/040",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/040"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/040"
     },
     name: {
         en: "Walrein",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Le sue zanne continuano a crescere per tutta la\nvita. Se si spezzano mentre lotta, tornano\nforti e robuste nell’arco di un anno.",
         de: "Die Stoßzähne wachsen sein Leben lang. Selbst,\nwenn sie im Kampf abbrechen, erreichen sie nach\nnur einem Jahr wieder ihre alte imposante Größe.",
         "pt-br": "As presas de Walrein continuam crescendo ao longo de sua vida. Se forem quebradas em batalha, crescem de volta em cerca de um ano.",
-        "zh-tw": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。"
+        "zh-tw": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。",
+        ja: "キバは 一生 伸び続ける。 戦いで 折れても １年あれば もとの 立派な キバに もどる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Tormenta Bloccante",
                 "pt-br": "Bloqueio Nevasca",
                 "zh-tw": "暴雪封鎖",
-                "de": "Blizzardsperre"
+                "de": "Blizzardsperre",
+                ja: "ブリザードロック"
             },
             effect: {
                 en: "Your opponent can't use any Supporter cards from their hand during their next turn.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Il tuo avversario non può utilizzare alcuna carta Aiuto dalla sua mano durante il suo prossimo turno.",
                 de: "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
                 "pt-br": "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele.",
-                "zh-tw": "在下個對手的回合,對手無法從手牌使出支援者卡。"
+                "zh-tw": "在下個對手的回合,對手無法從手牌使出支援者卡。",
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。"
             },
             damage: 110
         }

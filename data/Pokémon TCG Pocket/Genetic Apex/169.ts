@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/169",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/169",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/169"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/169",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/169"
     },
     name: {
         en: "Nidoran♂",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidoran ♂",
         de: "Nidoran♂",
         'pt-br': "Nidoran♂",
+        ja: "ニドラン♂",
         ko: "니드런♂",
         "zh-tw": "尼多朗",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Il corno sulla fronte è estremamente\nvelenoso. Di indole circospetta, rizza\ncostantemente le sue grandi orecchie.",
         de: "Das Horn auf seiner Stirn enthält ein starkes Gift.\nDieses Pokémon ist sehr vorsichtig und stellt\nseine großen Ohren stets wachsam auf.",
         'pt-br': "O chifre na testa dos Nidoran machos contém\num veneno poderoso. Trata-se de um Pokémon\ncauteloso, sempre esticando suas grandes orelhas.",
+        ja: "額の ツノには 猛毒がある。 警戒心が 強く 大きな 耳を つねに そばだてている。",
         ko: "이마의 뿔에는 맹독이 있다.\n경계심이 강해서 커다란\n귀를 늘 쫑긋 세우고 있다.",
         "zh-tw": "雄性尼多蘭額頭上的角含有劇毒。這是一隻非常謹慎的神奇寶貝，總是拉緊它的大耳朵。"
     },

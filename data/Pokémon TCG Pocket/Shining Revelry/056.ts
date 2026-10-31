@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/056"
     },
     name: {
         en: "Revavroom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Revavroom",
         de: "Knattatox",
         'pt-br': "Revavroom",
+        ja: "ブロロローム",
         ko: "부르르룸",
         "zh-tw": "普隆隆姆"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Varoom",
         "de": "Knattox",
         "pt-br": "Varoom",
-        "zh-tw": "噗隆隆"
+        "zh-tw": "噗隆隆",
+        ja: "ブロロン"
     },
     description: {
         en: "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Produce energia facendo esplodere\nnei suoi otto cilindri un gas che forma\nmescolando tossine e minerali delle rocce.",
         de: "Mit seinen nunmehr acht Zylindern lässt es ein\nGasgemisch aus Gift und Gesteinsmineralien\nexplodieren, um daraus Energie zu gewinnen.",
         'pt-br': "Cria um gás a partir de veneno e minerais de pedras.\nEntão, detona o gás em seus cilindros,\nque agora são oito, para gerar energia.",
+        ja: "毒素と 岩の 成分を 混ぜた ガスを ８つに 増えた シリンダーで 爆発させ エネルギーを 作る。",
         ko: "독소와 바위 성분이 섞인 가스를\n8개로 늘어난 실린더에서 폭발시켜\n에너지를 만들어 낸다.",
         "zh-tw": "它利用岩石中的毒物和礦物質產生氣體。然後它引爆其氣瓶（現在有八個）中的氣體來產生能量。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Derapata Rotante",
             de: "Rotationsdrift",
             'pt-br': "Derrapada Giratória",
+            ja: "スピンドリフト",
             ko: "스핀드리프트",
             "zh-tw": "旋轉漂移"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
             de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
             'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+            ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
             ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
             "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
         }

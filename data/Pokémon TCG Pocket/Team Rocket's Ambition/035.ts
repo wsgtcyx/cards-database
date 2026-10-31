@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/035",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/035"
     },
     name: {
         en: "Cubone",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Indossa il teschio della madre defunca. A volte capita che pianga vedendola in sogno, ma a ogni lacrima versata diventa più forte.",
         de: "Es trägt den Schädel seiner verstorbenen Mutter. Manchmal weint Tragosso, während es träumt, doch jede vergossene Träne macht es stärker.",
         "pt-br": "Este Pokémon usa o crânio de sua falecida mãe. Às vezes, os sonhos de Cubone o fazem chorar, mas cada lágrima que derrama só o torna mais forte.",
-        "zh-tw": "頭上戴著死去母親的頭骨。雖然有時會因為作夢而哭泣，但每次流淚後都會變得更強。"
+        "zh-tw": "頭上戴著死去母親的頭骨。雖然有時會因為作夢而哭泣，但每次流淚後都會變得更強。",
+        ja: "死んだ 母親の 骨を 被る。 夢を 見て 泣くことも あるけど 涙を 流すたびに 強くなる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colpo d'Osso",
                 de: "Knochenprügel",
                 "pt-br": "Surra de Osso",
-                "zh-tw": "骨頭打擊"
+                "zh-tw": "骨頭打擊",
+                ja: "ホネなぐり"
             },
             damage: 20
         }

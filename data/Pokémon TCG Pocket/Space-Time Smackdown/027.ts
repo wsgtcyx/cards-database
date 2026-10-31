@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/027"
     },
     name: {
         en: "Chimchar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chimchar",
         de: "Panflam",
         'pt-br': "Chimchar",
+        ja: "ヒコザル",
         ko: "불꽃숭이",
         "zh-tw": "小火焰猴",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le fiamme sulla coda, alimentate dai gas della\npancia, non si spengono neppure quando piove.",
         de: "Das Feuer an seinem Hinterteil wird durch Gase\nim Bauch genährt. Selbst Regen löscht es nicht.",
         'pt-br': "Sua cauda flamejante é alimentada pelos gases\ngerados em seu estômago.\nNem mesmo a chuva consegue apagar o fogo.",
+        ja: "お尻の 炎は お腹で 作られた ガスが 燃料。 雨に ぬれても 消えない。",
         ko: "엉덩이의 불꽃은 배에서\n만들어진 가스가 연료다.\n비에 젖어도 꺼지지 않는다.",
         "zh-tw": "它燃燒的後端由腹部產生的氣體提供燃料。即使下雨也無法撲滅大火。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

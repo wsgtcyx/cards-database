@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/003",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/003",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/003"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/003"
     },
     name: {
         en: "Volbeat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Fa lampeggiare la luce sul retro per comunicare con altri Volbeat. Ama il dolce aroma sprigionato da Illumise.",
         de: "Das Licht auf der Rückseite blinkt, um mit anderen Volbeat zu kommunizieren. Es liebt das süße Aroma, das Illumise verströmt.",
         "pt-br": "Ele pisca a luz na parte traseira para se comunicar com outro Volbeat. Adora o aroma doce exalado por Illumise.",
-        "zh-tw": "它後面的燈會閃爍，以便與其他 電螢蟲 進行通訊。牠喜歡甜甜螢散發出的甜美香氣。"
+        "zh-tw": "它後面的燈會閃爍，以便與其他 電螢蟲 進行通訊。牠喜歡甜甜螢散發出的甜美香氣。",
+        ja: "お尻の 光を 点滅させて 仲間と 会話する。 イルミーゼの 出す 甘い 香りが 大好き。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Stordiraggio",
                 de: "Konfusstrahl",
                 "pt-br": "Raio da Confusão",
-                "zh-tw": "奇異之光"
+                "zh-tw": "奇異之光",
+                ja: "あやしいひかり"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/255",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/255",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/255",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/255"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/255",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/255"
     },
     name: {
         en: "Dolliv",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Olini",
         "pt-br": "Smoliv",
         "zh-tw": "迷你芙",
-        ja: "Smoliv",
+        ja: "ミニーブ",
         ko: "Smoliv"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Bereitwillig teilt dieses Pokémon sein köstliches, frisch duftendes Öl mit anderen. Seit langer Zeit schon lebt es Seite an Seite mit den Menschen.",
         "pt-br": "Dolliv compartilha o seu delicioso azeite fresco e aromático com os outros. Esta espécie coexiste com humanos há muito tempo.",
         "zh-tw": "會分享自己香氣新鮮、美味可口的油。自古以來就與人類共存，直到現在。",
-        ja: "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+        ja: "フレッシュな 香りの 美味しい オイルを 分けてくれる。 古くから 人間と 共存してきた。",
         ko: "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone."
     },
     stage: "Stage1",
@@ -68,7 +69,7 @@ const card: Card = {
                 "zh-tw": "種子炸彈",
                 "es-mx": "Bomba Semilla",
                 pt: "Bomba de Sementes",
-                ja: "Seed Bomb",
+                ja: "タネばくだん",
                 ko: "Seed Bomb"
             },
             damage: 40,

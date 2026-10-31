@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/409",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/409",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/409",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/409"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/409",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/409"
     },
     name: {
         en: "Mega Venusaur ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
-        ja: "Ivysaur",
+        ja: "フシギソウ",
         ko: "Ivysaur"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Krisenblüte",
                 "pt-br": "Florescimento Crítico",
                 "zh-tw": "危機綻放",
-                ja: "Critical Bloom",
+                ja: "クライシスブルーム",
                 ko: "Critical Bloom"
             },
             damage: 120,
@@ -71,7 +72,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und schläft.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒與睡眠。",
-                ja: "Your opponent's Active Pokémon is now Poisoned and Asleep.",
+                ja: "相手のバトルポケモンをどくとねむりにする。",
                 ko: "Your opponent's Active Pokémon is now Poisoned and Asleep."
             }
         }

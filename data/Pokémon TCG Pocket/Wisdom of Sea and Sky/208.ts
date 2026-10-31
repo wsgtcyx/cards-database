@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/208",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/208",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/208"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/208",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/208"
     },
     name: {
         en: "Umbreon ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nachtara-ex",
         "pt-br": "Umbreon ex",
         "zh-tw": "月亮伊布ex",
+        ja: "ブラッキーex",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Inseguimento oscuro",
                 "de": "Dunkle Verfolgungsjagd",
                 "pt-br": "Perseguição Negra",
-                "zh-tw": "黑暗追逐"
+                "zh-tw": "黑暗追逐",
+                ja: "ダークチェイス"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi mettere in posizione attiva 1 dei Pokémon nella panchina del tuo avversario che ha dei danni su di esso.",
                 "de": "Einmal während deines Zuges kannst du, wenn sich dieses Pokémon an der Aktiven Stelle befindet, 1 Pokémon auf der Bank deines Gegners, das Schaden hat, an die Aktive Stelle tauschen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá trocar 1 dos Pokémon no Banco do seu oponente que tenha dano para o Ponto Ativo.",
-                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍區，你可以將對手後備隊的 1 只受到傷害的神奇寶貝切換到活躍區。"
+                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍區，你可以將對手後備隊的 1 只受到傷害的神奇寶貝切換到活躍區。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のベンチのダメージを受けているポケモンを1匹選び、バトルポケモンと入れ替える。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Zanna dell'Oscurità",
                 "de": "Dunkelheitszahn",
                 "pt-br": "Presa da Escuridão",
-                "zh-tw": "黑暗之牙"
+                "zh-tw": "黑暗之牙",
+                ja: "やみのキバ"
             },
             damage: 80,
             cost: ["Darkness", "Darkness"]

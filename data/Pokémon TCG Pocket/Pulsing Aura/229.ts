@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/229",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/229",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/229",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/229"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/229",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/229"
     },
     name: {
         en: "Hitmonchan ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Diretto Repentino",
                 de: "Schneller Boxschlag",
                 "pt-br": "Golpe Lépido",
-                "zh-tw": "快速直拳"
+                "zh-tw": "快速直拳",
+                ja: "クイックストレート"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Il danno di questo attacco non è influenzato dalla debolezza.",
                 de: "Der Schaden dieses Angriffs wird durch Schwäche nicht beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado pela Fraqueza.",
-                "zh-tw": "該攻擊的傷害不受虛弱影響。"
+                "zh-tw": "該攻擊的傷害不受虛弱影響。",
+                ja: "このワザのダメージは弱点を計算しない。"
             },
             damage: 50
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/090"
     },
     name: {
         en: "Makuhita",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Makuhita",
         de: "Makuhita",
         'pt-br': "Makuhita",
+        ja: "マクノシタ",
         ko: "마크탕",
         "zh-tw": "幕下力士",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si rafforza allenandosi duramente. La sua grande forza\ndi volontà gli permette di resistere a qualsiasi attacco.",
         de: "Sein hartes Training macht es stärker. Es ist ein\nwillensstarkes Pokémon, das jedem Angriff\ntrotzen kann.",
         'pt-br': "Torna-se mais forte ao passar por um treinamento\nintenso. É um Pokémon corajoso, capaz de aguentar\nqualquer ataque.",
+        ja: "きびしい けいこを 繰り返して 強くなる。どんな 攻撃にも 耐える 根性の ポケモン。",
         ko: "힘든 수행을 반복하며 강해진다.\n어떤 공격도 참아 내는\n근성의 포켓몬이다.",
         "zh-tw": "通過忍受嚴酷的訓練，它會變得更加強大。是能夠抵禦任何攻擊的勇敢寶可夢。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Spintonata",
                 de: "Stoß",
                 'pt-br': "Tapa Empurrão",
+                ja: "はりて",
                 ko: "뺨때리기",
                 "zh-tw": "拍擊推"
             },

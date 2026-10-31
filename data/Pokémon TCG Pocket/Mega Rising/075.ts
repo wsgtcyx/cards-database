@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/075"
     },
     name: {
         en: "Avalugg",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arktilas",
         "pt-br": "Avalugg",
         "zh-tw": "冰岩怪",
+        ja: "クレベース",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Arktip",
         "pt-br": "Bergmite",
         "zh-tw": "冰寶",
+        ja: "カチコール",
     },
     description: {
         en: "This Pokémon uses its massive icy body to flatten\nanything that gets in its way. When it's floating\nout on the ocean, it looks exactly like drift ice.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon usa il suo enorme corpo ghiacciato per appiattirsi\ntutto ciò che si intromette. Quando galleggia\nsull'oceano, sembra esattamente ghiaccio alla deriva.",
         "de": "Dieses Pokémon nutzt seinen massiven, eisigen Körper, um es flach zu machen\nalles, was ihm in die Quere kommt. Wenn es schwimmt\nDraußen auf dem Meer sieht es genauso aus wie Treibeis.",
         "pt-br": "Este Pokémon usa seu enorme corpo gelado para achatar\nqualquer coisa que fique no seu caminho. Quando está flutuando\nno oceano, parece exatamente com gelo flutuante.",
-        "zh-tw": "這只神奇寶貝利用其巨大的冰冷身體來壓平\n任何妨礙它的東西。當它漂浮的時候\n在海洋上，它看起來就像流冰一樣。"
+        "zh-tw": "這只神奇寶貝利用其巨大的冰冷身體來壓平\n任何妨礙它的東西。當它漂浮的時候\n在海洋上，它看起來就像流冰一樣。",
+        ja: "氷の 巨体で 邪魔者は すべて 圧し潰す。 海に 浮かぶ 姿は 流氷 そっくり。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barriera antigelo",
                 "de": "Frostbarriere",
                 "pt-br": "Barreira de Gelo",
-                "zh-tw": "冰霜屏障"
+                "zh-tw": "冰霜屏障",
+                ja: "フロストバリア"
             },
             damage: 70,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

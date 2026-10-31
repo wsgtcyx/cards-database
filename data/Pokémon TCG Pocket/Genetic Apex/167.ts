@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/167",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/167",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/167"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/167",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/167"
     },
     name: {
         en: "Nidorina",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidorina",
         de: "Nidorina",
         'pt-br': "Nidorina",
+        ja: "ニドリーナ",
         ko: "니드리나",
         "zh-tw": "尼多娜",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Nidoran ♀",
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
-        "zh-tw": "尼多蘭"
+        "zh-tw": "尼多蘭",
+        ja: "ニドラン♀"
     },
     attacks: [{
             cost: ["Darkness"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Si pensa che il corno sulla fronte si sia\natrofizzato per evitare che Nidorina\npunga i suoi cuccioli quando li nutre.",
         de: "Man geht davon aus, dass sich das Horn auf\nihrem Kopf zurückgebildet hat, damit sie ihre\nJungen nicht beim Füttern verletzen.",
         'pt-br': "O chifre em sua cabeça atrofiou. Acredita-se que\nisso aconteceu para que os filhotes de Nidorina\nnão fossem espetados enquanto a mãe os alimenta.",
+        ja: "額の ツノは 子どもに エサを 与えるときに 刺さらないよう 退化したと 考えられている。",
         ko: "이마의 뿔은 새끼에게 먹이를\n줄 때 찌르지 않도록\n퇴화했다고 추측되고 있다.",
         "zh-tw": "它頭上的角已經萎縮了。人們認為，這樣做是為了讓尼多麗娜的孩子們在母親餵奶時不會被戳到。"
     },

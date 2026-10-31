@@ -80,7 +80,7 @@ fallback、括号/分隔符、规则 token multiset，以及同 canonical 名称
 ## Hard rules
 
 - 默认只新增缺失语言键。修复已有错误必须有显式 correction scope、固定来源和 review overlay。
-- 语言顺序固定：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw`。
+- 语言顺序固定：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw/ja`。
 - 译名必须可追溯到官方来源，避免不确定翻译进入仓库。
 - name、full-rule、image 三种 locale coverage 分开验收，禁止互相代替。
 
@@ -100,3 +100,5 @@ fallback、括号/分隔符、规则 token multiset，以及同 canonical 名称
 - Celestial Guardians
 - Secluded Springs
 - 其它新增子目录
+
+日语批次必须同时遵循 [japanese.md](japanese.md)，显式执行 `audit-pocket-localization-metadata.mjs --locales ja`；不能以历史六语审计通过代替日语验收。

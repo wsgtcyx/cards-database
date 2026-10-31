@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/037"
     },
     name: {
         en: "Heatmor",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Furnifraß",
         "pt-br": "Heatmor",
         "zh-tw": "熔蟻獸",
+        ja: "クイタラン",
     },
     illustrator: "match",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "C'è un buco nella coda che gli permette di entrare\nl'aria di cui ha bisogno per mantenere acceso il fuoco. Se il\nbuco viene bloccato, questo Pokémon si ammalerà.",
         "de": "In seinem Schwanz befindet sich ein Loch, durch das er einziehen kann\ndie Luft, die es braucht, um sein Feuer am Brennen zu halten. Wenn die\nWenn das Loch blockiert wird, wird dieses Pokémon krank.",
         "pt-br": "Há um buraco na cauda que permite que ele puxe\no ar de que necessita para manter o fogo aceso. Se o\nburaco for bloqueado, este Pokémon ficará doente.",
-        "zh-tw": "它的尾巴上有一個洞，可以讓它吸入\n保持火焰燃燒所需的空氣。如果\n洞被堵住了，這只神奇寶貝就會生病。"
+        "zh-tw": "它的尾巴上有一個洞，可以讓它吸入\n保持火焰燃燒所需的空氣。如果\n洞被堵住了，這只神奇寶貝就會生病。",
+        ja: "しっぽの 穴から 空気を 取りこみ 炎を 燃やす。 穴を 塞がれると 具合が 悪くなる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Calore da tostatura",
                 "de": "Rösthitze",
                 "pt-br": "Calor de torrefação",
-                "zh-tw": "烘烤熱量"
+                "zh-tw": "烘烤熱量",
+                ja: "あぶりやき"
             },
             damage: "30+",
             cost: ["Fire", "Fire"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è bruciato, questo attacco infligge 60 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners verbrannt ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Queimado, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢被燒毀，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果對手的活躍寶可夢被燒毀，則這次攻擊造成的傷害增加 60 點。",
+                ja: "相手のバトルポケモンがやけどなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

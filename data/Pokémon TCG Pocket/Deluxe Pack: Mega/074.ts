@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/074",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/074",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/074"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/074"
     },
     name: {
         en: "Sobble",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es ist extrem vorsichtig. Wenn sich ein Kampf nicht vermeiden lässt, greift es erst an, nachdem es sich getarnt hat.",
         "pt-br": "É um Pokémon muito cauteloso. Quando não tem outra saída a não ser batalhar, esconde-se antes de atacar.",
         "zh-tw": "警戒心十分強。遇到無論如何都得戰鬥時，會先讓身影消失再發動攻擊。",
-        ja: "It’s a very cautious Pokémon. When it has no choice but to battle, it hides itself before attacking.",
+        ja: "警戒心が 強く どうしても 戦わないと いけない ときは 姿を 消してから 攻撃する。",
         ko: "It’s a very cautious Pokémon. When it has no choice but to battle, it hides itself before attacking."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Freunde finden",
                 "pt-br": "Encontre um Amigo",
                 "zh-tw": "尋找朋友",
-                ja: "Find a Friend",
+                ja: "ともだちをさがす",
                 ko: "Find a Friend"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Nimm 1 zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從自己的牌庫隨機將張寶可夢卡加入手牌。",
-                ja: "Put a random Pokémon from your deck into your hand.",
+                ja: "自分の山札からポケモンをランダムに枚、手札に加える。",
                 ko: "Put a random Pokémon from your deck into your hand."
             }
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/087",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/087"
     },
     name: {
         en: "Regirock",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Regirock",
         de: "Regirock",
         'pt-br': "Regirock",
+        ja: "レジロック",
         ko: "레지락",
         "zh-tw": "雷吉洛克"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le varie parti del suo corpo sono costituite\nda rocce. Nel caso in cui si sgretoli, può\nricomporre il suo organismo con nuove pietre.",
         de: "Sein Körper besteht vollständig aus Steinen.\nWenn Teile davon abbröckeln, ersetzt Regirock\ndiese einfach durch neue Steine.",
         'pt-br': "Cada parte do corpo de Regirock é feito de rocha.\nÀ medida que partes do seu corpo erodem, este Pokémon\nfixa pedras em si mesmo para consertar os pedaços que perdeu.",
+        ja: "体の あらゆる 部分が 岩で できている。 体が 削れても 自分で 岩を つけて 治す。",
         ko: "몸의 모든 부분이 바위로 되어 있다.\n몸이 깎이더라도\n스스로 바위를 붙여서 치료한다.",
         "zh-tw": "雷吉洛克身體的每一部分都是石頭製成的。當身體的一部分被侵蝕時，這只神奇寶貝會將岩石粘在自己身上以修復失去的部分。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Esoscheletro",
                 de: "Exoskelett",
                 'pt-br': "Exoesqueleto",
+                ja: "かたいからだ",
                 ko: "딱딱한몸",
                 "zh-tw": "外骨骼"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −20 pontos de dano de ataques.",
+                ja: "このポケモンが受けるワザのダメージを-20する。",
                 ko: "이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Macignata",
                 de: "Felsenquetscher",
                 'pt-br': "Rocha Esmagadora",
+                ja: "ロックスマッシュ",
                 ko: "록스매시",
                 "zh-tw": "巨石粉碎"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/007"
     },
     name: {
         en: "Morelull",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Morelull",
         de: "Bubungus",
         'pt-br': "Morelull",
+        ja: "ネマシュ",
         ko: "자마슈",
         "zh-tw": "睡睡菇",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "I cappelli sul suo capo sono molto gustosi e i\nPokémon che vivono nei boschi se ne cibano.\nPer fortuna, ricrescono nel giro di una notte.",
         de: "Sein Pilzhut ist sehr schmackhaft. Er wird zwar\nhäufig von den Pokémon des Waldes verspeist,\nwächst aber über Nacht wieder nach.",
         'pt-br': "Os Pokémon que vivem nas florestas se alimentam dos chapéus na\ncabeça de Morelull. Os chapéus crescem novamente durante a noite.",
+        ja: "頭の 傘は とても 美味しい。 森の ポケモンたちに 食べられるが 一晩で 再生する。",
         ko: "머리의 갓은 매우 맛있다.\n숲속의 포켓몬들에게 먹히지만\n하룻밤 만에 재생한다.",
         "zh-tw": "生活在森林裡的神奇寶貝會吃莫雷魯爾頭上美味的帽子。帽子在一夜之間重新生長。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/022"
     },
     name: {
         en: "Chewtle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chewtle",
         de: "Kamehaps",
         'pt-br': "Chewtle",
+        ja: "カムカメ",
         ko: "깨물부기",
         "zh-tw": "咬咬龜",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Il suo grande incisivo sta ancora crescendo\ne, quando gli causa prurito, questo Pokémon\ngioca a mordicchiare il corno dei suoi simili.",
         de: "Juckt sein noch im Wachstum befindlicher großer\nVorderzahn, schnappt es nach dem Horn eines\nArtgenossen und tobt mit diesem herum.",
         'pt-br': "Seu grande incisivo ainda está em crescimento.\nQuando o dente coça, este Pokémon morde o chifre\nde outro Chewtle e os dois entram em uma briga danada.",
+        ja: "大きな 前歯は まだ 生えかけ。 歯が かゆいときは 仲間の ツノに パクリと 噛みつき じゃれあう。",
         ko: "커다란 앞니는 난 지 얼마 되지 않았다.\n이빨이 가려울 때는 동료의 뿔을\n덥석 물면서 장난을 친다.",
         "zh-tw": "它的大門牙仍在長出。當牙齒發癢時，這只神奇寶貝會咬住另一隻咀嚼的角，兩隻神奇寶貝就會打鬥。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },

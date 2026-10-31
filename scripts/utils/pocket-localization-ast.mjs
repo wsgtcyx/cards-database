@@ -2,6 +2,7 @@ import path from 'node:path'
 import ts from 'typescript'
 
 export const TARGET_LOCALES = Object.freeze(['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw'])
+export const REVIEW_LOCALES = Object.freeze([...TARGET_LOCALES, 'ja'])
 
 export function parseTypeScript(source, filename) {
 	const sourceFile = ts.createSourceFile(filename, source, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)

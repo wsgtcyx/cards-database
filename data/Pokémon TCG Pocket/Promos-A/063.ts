@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/063"
     },
     name: {
         en: "Rayquaza",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rayquaza",
         de: "Rayquaza",
         'pt-br': "Rayquaza",
+        ja: "レックウザ",
         ko: "레쿠쟈",
         "zh-tw": "烈空坐"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive nello strato di ozono oltre le nuvole\ne non può essere avvistato da terra.",
         de: "Es lebt in der Ozonschicht hoch über den Wolken\nund kann vom Boden aus nicht gesehen werden.",
         'pt-br': "Ele vive na camada de ozônio muito acima das nuvens\ne não pode ser visto do solo.",
+        ja: "雲より はるか上の オゾン層に 生息しているため 地上から 姿を 見ることは できない。",
         ko: "구름보다 아득히 먼 위의 오존층에\n서식하고 있기 때문에 지상에서\n모습을 볼 수 없다.",
         "zh-tw": "它生活在遠高於雲層的臭氧層中\n從地面上看不到。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Raffica a Spirale",
                 de: "Spiralsturmangriff",
                 'pt-br': "Arremetida Espiral",
+                ja: "スパイラルラッシュ",
                 ko: "스파이럴러시",
                 "zh-tw": "螺旋衝刺"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni in più ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu.",
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano a mais para cada cara.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。此攻擊對每個頭造成 30 點額外傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/079",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/079",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/079"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/079"
     },
     name: {
         en: "Riolu",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha il potere peculiare di poter vedere le emozioni, come la gioia e la rabbia, sotto forma di onde.",
         de: "Es hat die besondere Fähigkeit, Emotionen wie Freude und Wut in Form von Wellen zu sehen.",
         "pt-br": "Tem o poder peculiar de poder ver emoções, como alegria e raiva, em forma de ondas.",
-        "zh-tw": "它具有一種特殊的力量，能夠以波浪的形式看到情緒，例如喜悅和憤怒。"
+        "zh-tw": "它具有一種特殊的力量，能夠以波浪的形式看到情緒，例如喜悅和憤怒。",
+        ja: "喜びや 怒りと いった 感情を 波の形 として 見分ける 不思議な力を 持つ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugno Combattente",
                 de: "Kampffaust",
                 "pt-br": "Punhos de Guerreiro",
-                "zh-tw": "鬥志之拳"
+                "zh-tw": "鬥志之拳",
+                ja: "とうしのこぶし"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 30 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 30 de dano a mais.",
-                "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 30 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。"
             },
             damage: "10+"
         }

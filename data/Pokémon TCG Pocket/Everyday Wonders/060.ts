@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/060",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/060",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/060"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/060"
     },
     name: {
         en: "Hisuian Zoroark ex",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Zoroark de Hisui ex",
         "zh-tw": "洗翠索羅亞克ex",
         ko: "히스이 조로아크 ex",
-        ja: "ヒスイ ゾロアークex"
+        ja: "ヒスイゾロアークex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -38,7 +39,7 @@ const card: Card = {
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
         ko: "히스이 조로아",
-        ja: "ヒスイ ゾロア"
+        ja: "ヒスイゾロア"
     },
     stage: "Stage1",
     attacks: [
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Illusione dispettosa",
                 de: "Boshafte Illusion",
                 "pt-br": "Ilusão Maliciosa",
-                "zh-tw": "怨恨幻影"
+                "zh-tw": "怨恨幻影",
+                ja: "うらみのげんえい"
             },
             effect: {
                 en: "This attack does 20 more damage for each Pokémon in your discard pile.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Pokémon nella tua pila degli scarti.",
                 de: "Dieser Angriff fügt jedem Pokémon in deinem Ablagestapel 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon na sua pilha de descarte.",
-                "zh-tw": "此攻擊對你棄牌堆中的每個寶可夢造成 20 點額外傷害。"
+                "zh-tw": "此攻擊對你棄牌堆中的每個寶可夢造成 20 點額外傷害。",
+                ja: "自分のトラッシュにあるポケモンの枚数×20ダメージ追加。"
             },
             damage: "80+"
         }

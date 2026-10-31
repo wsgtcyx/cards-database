@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/008"
     },
     name: {
         en: "Trevenant",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Trevenant",
         de: "Trombork",
         'pt-br': "Trevenant",
+        ja: "オーロット",
         ko: "대로트",
         "zh-tw": "朽木妖",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Paragoni",
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
+        ja: "ボクレー",
     },
     description: {
         en: "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Gli esseri umani lo temono perché mangia chi abbatte gli alberi.\nTuttavia è sempre gentile con i Pokémon che vivono nei boschi.",
         de: "Es wird dafür gefürchtet, Menschen zu fressen,\ndie Bäume im Wald fällen. Zu den Pokémon,\ndie den Wald bewohnen, ist es aber stets nett.",
         'pt-br': "Este Pokémon é temido porque acreditam que devorará\nqualquer pessoa que ousar cortar árvores na sua floresta.\nPorém, é muito gentil com os outros Pokémon da floresta.",
+        ja: "森の 木を 伐り倒す 人間を 食べると 恐れられているが 森で 暮らす ポケモンたちには 優しい。",
         ko: "숲에서 나무를 베는 인간을\n잡아먹는다는 공포의 대상이지만\n숲속에 사는 포켓몬들에게는 상냥하다.",
         "zh-tw": "人們害怕它，因為相信它會吞噬任何試圖在其森林中砍伐樹木的人，但對於與它共享森林的神奇寶貝來說，它是友善的。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lacerartiglio",
                 de: "Klauenschlitzer",
                 'pt-br': "Golpe de Garra",
+                ja: "ツメできりさく",
                 ko: "발톱 베어가르기",
                 "zh-tw": "利爪斬"
             },

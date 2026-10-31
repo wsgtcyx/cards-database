@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/048",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/048",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/048"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/048"
     },
     name: {
         en: "Bruxish",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando i raggi solari si riflettono sull'acqua increspata dallo stridore dei suoi denti, producono bagliori accecanti.",
         de: "Wenn Sonnenlicht von den Wellen reflektiert wird, die durch sein Zähneknirschen entstehen, glitzert das Wasser um es herum blendend hell.",
         "pt-br": "Quando a luz do sol reflete nas marolas criadas por Bruxish ao ranger seus dentes, a água ao seu redor brilha intensamente.",
-        "zh-tw": "磨牙時會泛起波紋，當陽光\n反射在上面時，周圍的水會\n閃起令人目眩神迷的亮光。"
+        "zh-tw": "磨牙時會泛起波紋，當陽光\n反射在上面時，周圍的水會\n閃起令人目眩神迷的亮光。",
+        ja: "歯ぎしりで 起こる 波紋に 陽の光が 反射するとき まわりの 水は 眩いばかりに きらめく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 "pt-br": "Mordida",
-                "zh-tw": "咬住"
+                "zh-tw": "咬住",
+                ja: "かみつく"
             },
             damage: 30
         }

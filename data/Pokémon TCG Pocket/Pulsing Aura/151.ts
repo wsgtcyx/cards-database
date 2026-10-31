@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/151",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/151",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/151",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/151"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/151",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/151"
     },
     name: {
         en: "Cheren",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Durante il prossimo turno del tuo avversario, tutti i tuoi Watchog e Stoutland subiscono -100 danni dagli attacchi dei Pokémon ex del tuo avversario.",
         de: "Während des nächsten Zuges deines Gegners erleiden alle deine Kukmarda und Bissbark -100 Schaden durch Angriffe des Ex-Pokémon deines Gegners.",
         "pt-br": "Durante o próximo turno do seu oponente, todos os seus Watchog e Stoutland sofrerão -100 de dano de ataques do Pokémon ex do seu oponente.",
-        "zh-tw": "在對手的下一個回合中，你所有的 步哨鼠 和 長毛狗 因對手前寶可夢的攻擊而受到 -100 點傷害。"
+        "zh-tw": "在對手的下一個回合中，你所有的 步哨鼠 和 長毛狗 因對手前寶可夢的攻擊而受到 -100 點傷害。",
+        ja: "次の相手の番、自分の「ミルホッグ」「ムーランド」全員が、相手の「ポケモンex」から受けるワザのダメージを-100する。"
     },
     trainerType: "Supporter"
 };

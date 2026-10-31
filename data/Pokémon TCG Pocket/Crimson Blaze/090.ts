@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/090"
     },
     name: {
         en: "Vileplume",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vileplume",
         "de": "Giflor",
         "pt-br": "Vileplume",
-        "zh-tw": "霸王花"
+        "zh-tw": "霸王花",
+        ja: "ラフレシア"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Gloom",
         "de": "Duflor",
         "pt-br": "Gloom",
-        "zh-tw": "臭臭花"
+        "zh-tw": "臭臭花",
+        ja: "クサイハナ"
     },
     description: {
         en: "It has the world's largest petals. With every step,\nthe petals shake out heavy clouds of toxic pollen.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha i petali più grandi del mondo. Ad ogni passo,\ni petali scuotono pesanti nubi di polline tossico.",
         "de": "Es hat die größten Blütenblätter der Welt. Mit jedem Schritt,\nDie Blütenblätter schütteln schwere Wolken giftiger Pollen aus.",
         "pt-br": "Possui as maiores pétalas do mundo. A cada passo,\nas pétalas sacodem pesadas nuvens de pólen tóxico.",
-        "zh-tw": "它擁有世界上最大的花瓣。每一步，\n花瓣抖落出大量有毒花粉。"
+        "zh-tw": "它擁有世界上最大的花瓣。每一步，\n花瓣抖落出大量有毒花粉。",
+        ja: "世界一 大きな 花びらは 歩くたびに 揺れて 大量の 毒花粉を ばらまいてしまう。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Profumo rilassante",
                 "de": "Beruhigender Duft",
                 "pt-br": "Aroma calmante",
-                "zh-tw": "舒緩香氣"
+                "zh-tw": "舒緩香氣",
+                ja: "アロマスリープ"
             },
             damage: 80,
             cost: ["Grass", "Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

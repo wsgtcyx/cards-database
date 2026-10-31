@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/287",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/287",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/287",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/287"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/287",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/287"
     },
     name: {
         en: "Bellsprout",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bellsprout",
         "de": "Knofensa",
         "pt-br": "Bellsprout",
-        "zh-tw": "喇叭芽"
+        "zh-tw": "喇叭芽",
+        ja: "マダツボミ"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Anche se il suo corpo è estremamente magro, lo è\nincredibilmente veloce nel catturare la preda.",
         "de": "Obwohl sein Körper extrem dünn ist, ist er es\nunglaublich schnell, wenn er seine Beute fängt.",
         "pt-br": "Mesmo que seu corpo seja extremamente magro, ele é\nincrivelmente rápido ao capturar sua presa.",
-        "zh-tw": "儘管它的身體極其瘦弱，\n捕捉獵物時速度驚人。"
+        "zh-tw": "儘管它的身體極其瘦弱，\n捕捉獵物時速度驚人。",
+        ja: "ひょろっとした 体つきだが 獲物を 捕らえるときの 動きは 目にも とまらないほど 素早い。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frusta di vite",
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 20,
             cost: ["Grass"]

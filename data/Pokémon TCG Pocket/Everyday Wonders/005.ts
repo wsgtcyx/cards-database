@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/005"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/005"
     },
     name: {
         en: "Tropius",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Dal suo collo crescevano frutti deliziosi perché mangiava sempre lo stesso tipo di frutto.",
         de: "Um seinen Hals wuchsen köstliche Früchte, weil er immer die gleiche Obstsorte aß.",
         "pt-br": "Frutas deliciosas cresciam em seu pescoço porque ele sempre comia o mesmo tipo de fruta.",
-        "zh-tw": "因為它總是吃同一種水果，所以它的脖子上長出了美味的水果。"
+        "zh-tw": "因為它總是吃同一種水果，所以它的脖子上長出了美味的水果。",
+        ja: "いつも 同じ 果物ばかり 食べていたら のど元に とても 美味しい 果物が 生えてきた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Solarraggio",
                 de: "Solarstrahl",
                 "pt-br": "Raio Solar",
-                "zh-tw": "日光束"
+                "zh-tw": "日光束",
+                ja: "ソーラービーム"
             },
             damage: 50
         }

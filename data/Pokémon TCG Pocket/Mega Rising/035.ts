@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/035"
     },
     name: {
         en: "Blaziken",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lohgock",
         "pt-br": "Blaziken",
         "zh-tw": "火焰雞",
+        ja: "バシャーモ",
     },
     illustrator: "GOSSAN",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Jungglut",
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
+        ja: "ワカシャモ",
     },
     description: {
         en: "When facing a tough foe, it looses flames from\nits wrists. Its powerful legs let it jump clear\nover buildings.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando affronta un nemico duro, sprigiona fiamme\ni suoi polsi. Le sue zampe potenti gli permettono di saltare\nsopra gli edifici.",
         "de": "Wenn es einem harten Gegner gegenübersteht, löst es Flammen aus\nseine Handgelenke. Seine kräftigen Beine lassen ihn klar springen\nüber Gebäuden.",
         "pt-br": "Ao enfrentar um inimigo difícil, ele solta chamas\nseus pulsos. Suas pernas poderosas permitem que ele salte\nsobre edifícios.",
-        "zh-tw": "當面對強敵時，它會釋放火焰\n它的手腕。它有力的腿讓它跳躍得更清楚\n建築物上方。"
+        "zh-tw": "當面對強敵時，它會釋放火焰\n它的手腕。它有力的腿讓它跳躍得更清楚\n建築物上方。",
+        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio fiammeggiante",
                 "de": "Blaze-Kick",
                 "pt-br": "Chute Flamejante",
-                "zh-tw": "火焰踢"
+                "zh-tw": "火焰踢",
+                ja: "ブレイズキック"
             },
             damage: 100,
             cost: ["Fire", "Fire"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {R} da questo Pokémon.",
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

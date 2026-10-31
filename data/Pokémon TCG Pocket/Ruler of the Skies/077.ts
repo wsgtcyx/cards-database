@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/077",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/077",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/077"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/077"
     },
     name: {
         en: "Hoopa",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Usa i suoi anelli per intrappolare qualunque cosa\ngli piaccia e teletrasportarla in un luogo segreto.",
         de: "Mithilfe seiner Ringe hortet es Dinge, die ihm gefallen,\nan einem geheimen Ort. Es teleportiert diese, indem es\nsie durch seine Ringe bewegt.",
         "pt-br": "Pega coisas de que gosta e passa-as pelo seu arco para teletransportá-las para um lugar secreto.",
-        "zh-tw": "用圓環將喜歡的東西\n傳送到秘密的住處，\n會鑽進圓環瞬間移動。"
+        "zh-tw": "用圓環將喜歡的東西\n傳送到秘密的住處，\n會鑽進圓環瞬間移動。",
+        ja: "気に入った ものを リングを 使い 秘密の 住処へ 集めている。 リングを 潜って テレポートする。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Anel Travesso",
                 "zh-tw": "惡作劇圓環",
                 "it": "Anello Monello",
-                "de": "Schabernackring"
+                "de": "Schabernackring",
+                ja: "いたずらリング"
             },
             effect: {
                 en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Prima di infliggere danni, rimischia tutti gli Oggetti Pokémon assegnati a ciascuno dei Pokémon del tuo avversario nel suo mazzo.",
                 de: "Bevor du Schaden zufügst, mische alle Pokémon-Ausrüstungen von jedem Pokémon deines Gegners in sein Deck.",
                 "pt-br": "Antes de causar dano, embaralhe todas as Ferramentas Pokémon de cada um dos Pokémon do seu oponente no baralho dele.",
-                "zh-tw": "在造成傷害前,將對手的所有寶可夢身上的「寶可夢道具」卡全部放回對手的牌庫。"
+                "zh-tw": "在造成傷害前,將對手的所有寶可夢身上的「寶可夢道具」卡全部放回對手的牌庫。",
+                ja: "ダメージを与える前に、相手のポケモン全員から「ポケモンのどうぐ」をすべて、相手の山札にもどす。"
             },
             damage: 20
         }

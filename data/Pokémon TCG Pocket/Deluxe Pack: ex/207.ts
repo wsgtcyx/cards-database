@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/207",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/207",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/207",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/207"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/207",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/207"
     },
     name: {
         en: "Gabite",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Knarksel",
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
+        ja: "ガバイト",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kaumalat",
         "pt-br": "Gible",
         "zh-tw": "圓陸鯊",
+        ja: "フカマル",
     },
     description: {
         en: "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "In rari casi, fa la muta e perde le squame.\nMedicina contenente le sue scaglie come ingrediente\nfarà sentire rinvigorito un corpo stanco.",
         "de": "In seltenen Fällen häutet es sich und wirft seine Schuppen ab.\nArzneimittel, das seine Schuppen als Zutat enthält\nsorgt dafür, dass sich ein müder Körper belebt fühlt.",
         "pt-br": "Em casos raros, ele muda e perde suas escamas.\nMedicamento contendo suas escamas como ingrediente\nfará com que um corpo cansado se sinta revigorado.",
-        "zh-tw": "在極少數情況下，它會蛻皮並脫落鱗片。\n以其鱗片為成分的藥物\n會讓疲憊的身體感到充滿活力。"
+        "zh-tw": "在極少數情況下，它會蛻皮並脫落鱗片。\n以其鱗片為成分的藥物\n會讓疲憊的身體感到充滿活力。",
+        ja: "稀に 脱皮し ウロコが 剥げる。 その成分が 含まれる 薬は 疲れた 体を ギンギンにする。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Falce affilata",
                 "de": "Scharfe Sense",
                 "pt-br": "Foice Afiada",
-                "zh-tw": "鋒利的鐮刀"
+                "zh-tw": "鋒利的鐮刀",
+                ja: "するどいカマ"
             },
             damage: 30,
             cost: ["Fighting"]

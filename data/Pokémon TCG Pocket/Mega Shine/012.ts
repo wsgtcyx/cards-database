@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/012",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/012",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/012"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/012"
     },
     name: {
         en: "Magmar",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Sulla superficie del corpo di questo Pokémon compaiono fiamme tremolanti simili a quelle del sole.",
         de: "Auf der Körperoberfläche dieses Pokémon erscheinen flackernde Flammen, die denen der Sonne ähneln.",
         "pt-br": "Chamas oscilantes semelhantes às do sol aparecem na superfície do corpo deste Pokémon.",
-        "zh-tw": "這隻寶可夢的身體表面出現了類似太陽的波動火焰。"
+        "zh-tw": "這隻寶可夢的身體表面出現了類似太陽的波動火焰。",
+        ja: "体の 表面には 太陽と 同じような 炎の ゆらめきが 発生している。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Codabotta",
                 de: "Schweifvertrimmer",
                 "pt-br": "Surra de Cauda",
-                "zh-tw": "擺尾拍擊"
+                "zh-tw": "擺尾拍擊",
+                ja: "しっぽではたく"
             },
             damage: 30
         }

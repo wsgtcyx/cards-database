@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/045"
     },
     name: {
         en: "Relicanth",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Relicanth",
         "pt-br": "Relicanth",
         "zh-tw": "古空棘魚",
+        ja: "ジーランス",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scaglie dure come la roccia e vesciche natatorie piene di olio\npermetti a questo Pokémon di sopravvivere all'acqua intensa\npressione del mare profondo.",
         "de": "Steinharte Schuppen und ölgefüllte Schwimmblasen\nErlaube diesem Pokémon, das intensive Wasser zu überleben\nDruck der Tiefsee.",
         "pt-br": "Escamas duras e bexigas natatórias cheias de óleo\npermita que este Pokémon sobreviva à água intensa\npressão do mar profundo.",
-        "zh-tw": "堅硬的鱗片和充滿油的魚鰾\n讓這只神奇寶貝在激烈的水中生存\n深海的壓力。"
+        "zh-tw": "堅硬的鱗片和充滿油的魚鰾\n讓這只神奇寶貝在激烈的水中生存\n深海的壓力。",
+        ja: "岩のように 硬い ウロコと 脂の 詰まった 浮袋で 深海の 水圧に 耐える。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Prendere nota",
                 "de": "Notieren",
                 "pt-br": "Derrubar",
-                "zh-tw": "記錄下來"
+                "zh-tw": "記錄下來",
+                ja: "とっしん"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             }
         }],
     weaknesses: [{

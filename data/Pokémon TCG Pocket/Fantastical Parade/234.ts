@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/234",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/234"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/234",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/234"
     },
     name: {
         en: "Protective Poncho",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Poncho Protettivo",
         "de": "Schützender Poncho",
         "pt-br": "Poncho Protetor",
-        "zh-tw": "守護披風"
+        "zh-tw": "守護披風",
+        ja: "まもりのポンチョ"
     },
     illustrator: "Toyste Beach",
     rarity: "Crown",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Fintanto che il Pokémon a cui è assegnata questa carta è nella tua panchina, previeni tutti i danni inflitti a quel Pokémon dagli attacchi e dalle abilità del tuo avversario.",
         "de": "Solange sich das Pokémon, an das diese Karte angelegt ist, auf deiner Bank befindet, verhindere sämtlichen Schaden, der diesem Pokémon durch die Angriffe und Fähigkeiten deines Gegners zugefügt wird.",
         "pt-br": "Enquanto o Pokémon ao qual esta carta está ligada estiver no seu Banco, evite todos os danos causados ​​a esse Pokémon pelos ataques e habilidades do seu oponente.",
-        "zh-tw": "只要這張卡所附著的神奇寶貝在你的替補席上，就可以防止對手的攻擊和能力對該神奇寶貝造成的所有傷害。"
+        "zh-tw": "只要這張卡所附著的神奇寶貝在你的替補席上，就可以防止對手的攻擊和能力對該神奇寶貝造成的所有傷害。",
+        ja: "このカードをつけているポケモンは、ベンチにいるかぎり、相手のワザや特性のダメージを受けない。"
     },
     trainerType: "Tool"
 };

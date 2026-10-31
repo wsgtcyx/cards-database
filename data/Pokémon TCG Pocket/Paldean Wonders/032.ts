@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/032",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/032"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/032"
     },
     name: {
         en: "Dondozo",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Heerashai",
         'pt-br': "Dondozo",
         "zh-tw": "吃吼霸",
+        ja: "ヘイラッシャ",
         ko: "어써러셔"
     },
     illustrator: "Souichirou Gunjima",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Tratta Tatsugiri come il suo capo e lo segue lealmente. Sebbene potente, Dondozo apparentemente non è molto intelligente.",
         "de": "Es behandelt Nigiragi wie seinen Chef und folgt ihm loyal. Obwohl der Heerashai leistungsstark ist, ist er offenbar nicht sehr intelligent.",
         "pt-br": "Trata Tatsugiri como seu chefe e o segue lealmente. Embora poderoso, Dondozo aparentemente não é muito inteligente.",
-        "zh-tw": "它對待米立龍就像對待自己的老闆一樣，並忠誠地追隨它。雖然功能強大，但 吃吼霸 顯然不是很聰明。"
+        "zh-tw": "它對待米立龍就像對待自己的老闆一樣，並忠誠地追隨它。雖然功能強大，但 吃吼霸 顯然不是很聰明。",
+        ja: "シャリタツを 親分のように 慕っている。 力持ちだが 頭は あまり 良くないらしい。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Gigastoß",
                 "pt-br": "Giga Impacto",
                 "zh-tw": "千兆影響",
+                ja: "ギガインパクト",
                 pt: "Gigaimpacto"
             },
             damage: "120",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢無法攻擊。",
+                ja: "次の自分の番、このポケモンはワザが使えない。",
                 pt: "Durante o seu próximo turno, este Pokémon não poderá atacar."
             },
         },

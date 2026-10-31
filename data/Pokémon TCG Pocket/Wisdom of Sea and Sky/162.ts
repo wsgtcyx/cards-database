@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/162",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/162",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/162"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/162",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/162"
     },
     name: {
         en: "Chikorita",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Endivie",
         "pt-br": "Chikorita",
         "zh-tw": "菊草葉",
+        ja: "チコリータ",
     },
     illustrator: "Keisin",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un dolce aroma si diffonde delicatamente dalle foglie\ntesta. È docile e ama prendere i raggi del sole.",
         "de": "Ein süßer Duft weht sanft aus dem Blatt\nKopf. Er ist fügsam und liebt es, Sonnenstrahlen aufzusaugen.",
         "pt-br": "Um aroma doce emana suavemente da folha em seu\ncabeça. É dócil e adora absorver os raios solares.",
-        "zh-tw": "一股甜甜的香氣從它的葉子上輕輕地飄來\n頭。它性格溫順，喜歡吸收陽光。"
+        "zh-tw": "一股甜甜的香氣從它的葉子上輕輕地飄來\n頭。它性格溫順，喜歡吸收陽光。",
+        ja: "頭の葉っぱから ほのかに 甘い 香りが 漂う。 おとなしくて 日差しを 浴びるのが 大好き。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 20,
             cost: ["Grass"]

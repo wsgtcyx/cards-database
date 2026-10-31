@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/129",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/129"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/129"
     },
     name: {
         en: "Porygon-Z",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Porygon-Z",
         de: "Porygon-Z",
         'pt-br': "Porygon-Z",
+        ja: "ポリゴンZ",
         ko: "폴리곤Z",
         "zh-tw": "多邊獸Ｚ",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Porygon2",
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
+        ja: "ポリゴン2",
     },
     description: {
         en: "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Da quando gli è stato installato un programma che gli permette\ndi viaggiare in altre dimensioni, mostra un comportamento instabile.",
         de: "Seit eine neue Software installiert wurde, die es\nzu interdimensionalen Reisen befähigen sollte,\nwurde sein Verhalten instabil.",
         'pt-br': "Porygon-Z tem um programa instalado permitindo\nque se desloque entre dimensões. Porém, este programa\ncausou uma certa instabilidade em seu comportamento.",
+        ja: "異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。",
         ko: "다른 공간에 드나들 수 있는\n프로그램을 추가한 결과\n움직임이 불안정해졌다.",
         "zh-tw": "Porygon-Z 安裝了一個程序，允許它在維度之間移動，但該程序也導致了 Porygon-Z 行為的不穩定。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Raggio Glitch",
                 de: "Glitch-Strahl",
                 'pt-br': "Raio Bugado",
+                ja: "バグビーム",
                 ko: "버그빔",
                 "zh-tw": "越野車梁"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Cambia il tipo della prossima Energia generata per il tuo avversario con uno a caso fra quelli elencati di seguito: , , , , , , o .",
                 de: "Ändere den Typ der Energie, die für deinen Gegner als Nächstes generiert wird, zufällig zu 1 der folgenden: , , , , , , oder .",
                 'pt-br': "Mude o tipo da próxima Energia que será gerada para seu oponente para 1 das seguintes Energias aleatoriamente: , , , , , , ou .",
+                ja: "相手の次に発生するエネルギーのタイプを、{G} {R} {W} {L} {P} {F} {D} {M}の中からランダムな1つに変える。",
                 ko: "상대의 다음에 발생하는 에너지의 타입을 중에서 1가지로 랜덤하게 바꾼다.",
                 "zh-tw": "將為對手生成的下一個能量類型隨機更改為以下其中一種：{G}、{R}、{W}、{L}、{P}、{F}、{D}或{M}。"
             }

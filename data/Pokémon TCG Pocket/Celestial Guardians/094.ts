@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/094"
     },
     name: {
         en: "Timburr",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Timburr",
         de: "Praktibalk",
         'pt-br': "Timburr",
+        ja: "ドッコラー",
         ko: "으랏차",
         "zh-tw": "搬運小匠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gli piace dare una mano nei lavori edili, e quando vengono\ninterrotti per la pioggia, si sfoga facendo roteare la sua trave.",
         de: "Es hilft gern auf Baustellen aus. Bleiben diese bei Regen\ngeschlossen, macht es seinem Ärger Luft, indem es\nseinen Holzbalken schwingt.",
         'pt-br': "Adora ajudar em projetos de construções. Adora tanto\nque, se a chuva interromper o trabalho, balança\nsua madeira para todos os lados e faz birra.",
+        ja: "建築の 手伝いが 好き。 雨で 工事が 休みの 日は 角材を 振りまわし 暴れる。",
         ko: "건축 일을 돕는 것을 좋아한다.\n비가 내려서 공사를 쉬는 날에는\n각목을 휘두르며 날뛴다.",
         "zh-tw": "牠喜歡幫助建築項目。它非常喜歡它，如果下雨導致工作停止，它就會搖晃圓木並發脾氣。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pugno Rotante",
                 de: "Korkenzieherhieb",
                 'pt-br': "Soco Saca-rolha",
+                ja: "どつく",
                 ko: "쥐어박기",
                 "zh-tw": "螺旋沖頭"
             },

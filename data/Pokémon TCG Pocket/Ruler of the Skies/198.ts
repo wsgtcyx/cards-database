@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/198",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/198",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/198",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/198"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/198",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/198"
     },
     name: {
         en: "Mega Gallade ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 "pt-br": "Lâmina Ressonante",
                 "zh-tw": "共鳴刃",
                 "it": "Lama Risonante",
-                "de": "Resonanzklinge"
+                "de": "Resonanzklinge",
+                ja: "レゾナンスブレード"
             },
             effect: {
                 en: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Se hai giocato una carta Aiuto dalla tua mano durante questo turno, questo attacco infligge 50 danni in più.",
                 de: "Wenn du in diesem Zug eine Unterstützerkarte aus deiner Hand gespielt hast, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 pontos de dano a mais.",
-                "zh-tw": "在這個回合,若從手牌使出了支援者卡,則增加50點傷害。"
+                "zh-tw": "在這個回合,若從手牌使出了支援者卡,則增加50點傷害。",
+                ja: "この番、手札からサポートを出して使っていたなら、50ダメージ追加。"
             },
             damage: "100+"
         }

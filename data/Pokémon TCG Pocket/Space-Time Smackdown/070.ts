@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/070"
     },
     name: {
         en: "Duskull",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Duskull",
         de: "Zwirrlicht",
         'pt-br': "Duskull",
+        ja: "ヨマワル",
         ko: "해골몽",
         "zh-tw": "夜巡靈",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si racconta che questo Pokémon porti via nella\nnotte i bambini che sono stati disobbedienti.",
         de: "Man sagt, es suche sich unartige Kinder und\nverschleppe sie nachts an einen unbekannten Ort.",
         'pt-br': "Captura crianças malcriadas que não obedecem aos pais.\nOu pelo menos é o que dizem.",
+        ja: "いいつけを 守らない 子供を 見つけると 夜中に どこかへ 連れていくと いわれている。",
         ko: "말을 잘 안 듣는 아이를\n발견하면 한밤중에 어딘가로\n데려간다고 전해진다.",
         "zh-tw": "如果它發現不聽父母的話的壞孩子，它就會把他們偷走——至少是這麼說的。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuocofatuo",
                 de: "Irrlicht",
                 'pt-br': "Fogo Fátuo",
+                ja: "おにび",
                 ko: "도깨비불",
                 "zh-tw": "鬼火"
             },

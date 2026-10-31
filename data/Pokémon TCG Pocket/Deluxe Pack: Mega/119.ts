@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/119",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/119",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/119"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/119"
     },
     name: {
         en: "Brambleghast",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Weherba",
         "pt-br": "Bramblin",
         "zh-tw": "納噬草",
-        ja: "Bramblin",
+        ja: "アノクサ",
         ko: "Bramblin"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Diese Pokémon durchstreifen Trockenzonen. In sehr seltenen Fällen treten sie massenhaft auf und begraben eine ganze Stadt unter sich.",
         "pt-br": "Brambleghast perambulam por regiões áridas. Em raras ocasiões, infestações em massa destes Pokémon são capazes de soterrar uma cidade inteira.",
         "zh-tw": "會在乾燥地帶流浪。有極低的機率會大量出現，把一整座城鎮塞得滿滿滿。",
-        ja: "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.",
+        ja: "乾燥地帯を 放浪する。 ごくまれに 大量発生して 町ひとつを 埋めつくしてしまう。",
         ko: "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Schmerz erdulden",
                 "pt-br": "Acatar a Dor",
                 "zh-tw": "收下傷害",
-                ja: "Accept Pain",
+                ja: "いたみをもらう",
                 ko: "Accept Pain"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn sich dieses Pokémon auf deiner Bank befindet, kannst du 30 Schadenspunkte, die deinem Aktiven Pokémon bereits zugefügt wurden, auf dieses Pokémon übertragen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá mover 30 pontos de dano do seu Pokémon Ativo para este Pokémon.",
                 "zh-tw": "若這隻寶可夢在備戰區,則在自己的回合時可使用1次。將自己的戰鬥寶可夢已受到的傷害移動30點至這隻寶可夢身上。",
-                ja: "Once during your turn, if this Pokémon is on your Bench, you may move 30 damage that your Active Pokémon has on it to this Pokémon.",
+                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。自分のバトルポケモンが受けているダメージを30、このポケモンに移し替える。",
                 ko: "Once during your turn, if this Pokémon is on your Bench, you may move 30 damage that your Active Pokémon has on it to this Pokémon."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Spukschuss",
                 "pt-br": "Tiro Assustador",
                 "zh-tw": "陰森射擊",
-                ja: "Spooky Shot",
+                ja: "ホロウショット",
                 ko: "Spooky Shot"
             },
             damage: 60

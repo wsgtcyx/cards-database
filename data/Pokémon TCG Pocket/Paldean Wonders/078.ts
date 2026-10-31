@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/078",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/078",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/078"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/078"
     },
     name: {
         en: "Gholdengo ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Monetigo-ex",
         'pt-br': "Gholdengo ex",
         "zh-tw": "賽富豪ex",
+        ja: "サーフゴーex",
         ko: "타부자고"
     },
     suffix: "EX",
@@ -36,6 +38,7 @@ const card: Card = {
         de: "Gierspenst",
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
+        ja: "コレクレー",
         pt: "Gimmighoul",
         'es-mx': "Gimmighoul"
     },
@@ -49,7 +52,8 @@ const card: Card = {
                 "it": "Spesa veloce",
                 "de": "Ausgabenrausch",
                 "pt-br": "Corrida de gastos",
-                "zh-tw": "消費熱潮"
+                "zh-tw": "消費熱潮",
+                ja: "ばらまきラッシュ"
             },
             cost: ["Metal"],
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "it": "1 dei Pokémon del tuo avversario viene scelto casualmente per ogni Energia Metal assegnata a questo Pokémon. Per ogni volta che viene scelto un Pokémon, infliggigli 40 danni.",
                 "de": "Für jede an dieses Pokémon angelegte Metal-Energie wird zufällig 1 Pokémon deines Gegners ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 40 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente para cada Energia Metal ligada a este Pokémon. Para cada vez que um Pokémon for escolhido, cause 40 de dano a ele.",
-                "zh-tw": "對手的寶可夢每附有一個金屬能量，就會隨機選出 1 隻對手的寶可夢。每選擇一隻寶可夢，就會對其造成 40 點傷害。"
+                "zh-tw": "對手的寶可夢每附有一個金屬能量，就會隨機選出 1 隻對手的寶可夢。每選擇一隻寶可夢，就會對其造成 40 點傷害。",
+                ja: "このポケモンの{M}エネルギーの数ぶん、相手のポケモンがランダムに選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。"
             }
         },
     ],

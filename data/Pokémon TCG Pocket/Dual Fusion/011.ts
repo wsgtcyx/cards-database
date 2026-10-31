@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/011",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/011",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/011"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/011"
     },
     name: {
         en: "Foongus",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Verprügler",
                 "pt-br": "Pulso",
                 "zh-tw": "敲擊",
-                ja: "Beat",
+                ja: "たたく",
                 ko: "Beat"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Einer Theorie zufolge fand der Entwickler des Pokéballs Gefallen an Tarnpignon. Jedoch konnte dies bisher nicht bestätigt werden.",
         "pt-br": "Existe uma teoria de que o desenvolvedor da atual Poké Bola gostava muito de Foongus, mas isso não foi confirmado.",
         "zh-tw": "據說開發精靈球的人很喜歡哎呀球菇，但不知是真是假。",
-        ja: "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.",
+        ja: "モンスターボールの 開発者は タマゲタケが 好きだったという 説が あるが 真偽は 不明。",
         ko: "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed."
     }
 };

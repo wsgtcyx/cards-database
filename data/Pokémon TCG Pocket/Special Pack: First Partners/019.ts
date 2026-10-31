@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/019",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/019",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/019"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/019"
     },
     name: {
         en: "Rowlet",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "Tackle",
+                ja: "たいあたり",
                 ko: "Tackle"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
         de: "Ein wachsames und nachtaktives Pokémon. Tagsüber sammelt es per Photosynthese Kräfte, um fit für die Nacht zu sein.",
         "pt-br": "Este Pokémon cauteloso usa a fotossíntese para armazenar energia durante o dia, tornando-se ativo à noite.",
         "zh-tw": "警戒心很強。白天利用光合作用積蓄力量，到了夜晚才開始活動。",
-        ja: "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+        ja: "警戒心が 強い。 昼は 光合成で 力を 溜めて 夜になったら 活動開始。",
         ko: "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night."
     }
 };

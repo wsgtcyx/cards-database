@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/031"
     },
     name: {
         en: "Swinub",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Swinub",
         de: "Quiekel",
         'pt-br': "Swinub",
+        ja: "ウリムー",
         ko: "꾸꾸리",
         "zh-tw": "小山豬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Scava con il muso nel terreno per scovare\ndel cibo. Talvolta scopre sorgenti d'acqua calda.",
         de: "Auf Nahrungssuche wühlt es sich mit der Nase\ndurch den Erdboden. Manchmal entdeckt es\ndabei auch heiße Quellen.",
         'pt-br': "Ele esfrega o focinho no chão para encontrar\ne cavar alimento. Algumas vezes, descobre fontes\nde água quente.",
+        ja: "エサを 探すため 鼻を こすり合わせ 地面を 掘っている。 たまに 温泉を 掘り当てる。",
         ko: "먹이를 찾기 위해 코를\n바닥에 비벼 땅을 파고 있다.\n가끔 온천을 찾아낸다.",
         "zh-tw": "它用鼻子在地上摩擦來尋找和挖掘食物。有時它會發現溫泉。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

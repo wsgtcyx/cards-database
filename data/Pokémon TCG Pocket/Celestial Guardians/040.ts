@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/040"
     },
     name: {
         en: "Alolan Vulpix",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vulpix di Alola",
         de: "Alola-Vulpix",
         'pt-br': "Vulpix de Alola",
+        ja: "アローラロコン",
         ko: "알로라식스테일",
         "zh-tw": "阿羅拉六尾"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha imparato a utilizzare la potenza del ghiaccio dopo aver vissuto\nper anni sui monti coperti da nevi perenni della regione di Alola.",
         de: "Es hat lange in den allzeit schneebedeckten Bergen\nAlolas gelebt und sich dort über die Jahre die Kraft\ndes Eises angeeignet.",
         'pt-br': "Após muitos anos nas montanhas sempre nevadas\nde Alola, este Vulpix ganhou domínio sobre o gelo.",
+        ja: "アローラ地方の 万年雪が 積もる 山で 長年 暮らすうち 氷の 能力を 手に入れた。",
         ko: "알로라지방의 만년설이\n쌓인 산에서 오랫동안 살면서\n얼음의 능력을 손에 넣었다.",
         "zh-tw": "在阿羅拉白雪皚皚的山脈中度過了漫長的歲月後，這只六尾已經獲得了駕馭冰雪的力量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Richiamo del Freddo",
                 de: "Kälteruf",
                 'pt-br': "Invocar Frio",
+                ja: "れいきをよぶ",
                 ko: "냉기부르기",
                 "zh-tw": "呼喚寒冷"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Prendi un'Energia {W} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 'pt-br': "Pegue 1 Energia {W} da sua Zona de Energia e ligue-a a este Pokémon.",
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {W}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出一個{W}能量並將其附加到這只神奇寶貝身上。"
             }

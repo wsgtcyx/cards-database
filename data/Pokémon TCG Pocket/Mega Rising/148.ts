@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/148",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/148"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/148",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/148"
     },
     name: {
         en: "Murkrow",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
+        ja: "ヤミカラス",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se notato, attirerà una persona incauta\nnell'inseguirlo, quindi perdere l'inseguitore\nsentieri di montagna.",
         "de": "Wenn es entdeckt wird, lockt es eine unvorsichtige Person an\nin die Verfolgung hinein und verliere dann den Verfolger\nBergpfade.",
         "pt-br": "Se for detectado, atrairá uma pessoa incauta\nem persegui-lo, então perca o perseguidor\ntrilhas de montanha.",
-        "zh-tw": "如果被發現，它會引誘粗心的人\n去追它，然後失去追趕者\n山間小道。"
+        "zh-tw": "如果被發現，它會引誘粗心的人\n去追它，然後失去追趕者\n山間小道。",
+        ja: "ヤミカラスを 見かけて 不用意に 後を つけていくと 迷わされ 山道に 置いてけぼりに される。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scivolare",
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
-                "zh-tw": "滑行"
+                "zh-tw": "滑行",
+                ja: "かっくう"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"]

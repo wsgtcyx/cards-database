@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/004"
     },
     name: {
         en: "Tangela",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tangela",
         de: "Tangela",
         'pt-br': "Tangela",
+        ja: "モンジャラ",
         ko: "덩쿠리",
         "zh-tw": "蔓藤怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall'infinito anche dopo essere state recise.",
         de: "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen.",
         'pt-br': "Esconde-se sob um emaranhado de trepadeiras que\ncrescem sem parar mesmo se forem arrancadas.\nA verdadeira aparência deste Pokémon permanece um mistério.",
+        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。",
         ko: "잘려도 잘려도 무한으로 늘어나는\n덩굴 속의 정체는\n아직 밝혀지지 않았다.",
         "zh-tw": "隱藏在纏結的藤蔓之下，即使藤蔓被扯斷，藤蔓也會不停地生長，這只神奇寶貝的真實面貌仍然是個謎。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 'pt-br': "Chicote de Vinha",
+                ja: "つるのムチ",
                 ko: "덩굴채찍",
                 "zh-tw": "藤鞭"
             },

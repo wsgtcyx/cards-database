@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/053"
     },
     name: {
         en: "Magnezone",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magnezone",
         de: "Magnezone",
         'pt-br': "Magnezone",
+        ja: "ジバコイル",
         ko: "자포코일",
         "zh-tw": "自爆磁怪",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
+        ja: "レアコイル",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Vola per il cielo inviando misteriose onde\nelettromagnetiche e ricevendo onde sconosciute.",
         de: "Es heißt, dass es beim Herumfliegen mysteriöse Funkwellen\naussende und unbekannte Wellen empfange.",
         'pt-br': "Dizem que enquanto voa pelo céu, emite ondas\neletromagnéticas misteriosas enquanto recebe\nondas desconhecidas.",
+        ja: "怪電波を 発信 しながら 空を 飛び回り 未知の 電波を 受信 していると いう。",
         ko: "괴전파를 발신하며 하늘을 날면서\n미지의 전파를 수신한다고 한다.",
         "zh-tw": "當它在天空中疾馳時，這只神奇寶貝似乎在接收來歷不明的信號，同時發射目的不明的信號。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Tuonobomba",
                 de: "Donnerkeil",
                 'pt-br': "Explosão de Trovões",
+                ja: "サンダーブラスト",
                 ko: "썬더블라스트",
                 "zh-tw": "雷霆衝擊"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia {L} da questo Pokémon.",
                 de: "Lege 1 {L}-Energie von diesem Pokémon ab.",
                 'pt-br': "Descarte 1 Energia {L} deste Pokémon.",
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {L}에너지를 1개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 {L} 能量。"
             }

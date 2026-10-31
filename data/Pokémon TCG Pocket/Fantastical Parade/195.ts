@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/195",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/195"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/195"
     },
     name: {
         en: "Blacephalon ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Blacephalon-ex",
         "de": "Kopplosio-ex",
         "pt-br": "Blacephalon ex",
-        "zh-tw": "砰頭小丑ex"
+        "zh-tw": "砰頭小丑ex",
+        ja: "ズガドーンex"
     },
     illustrator: "YASHIRO Nanaco",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Cantare",
                 "de": "Versengen",
                 "pt-br": "Singe",
-                "zh-tw": "辛格"
+                "zh-tw": "辛格",
+                ja: "こがす"
             },
             cost: ["Fire"],
             effect: {
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"
+                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
+                ja: "相手のバトルポケモンをやけどにする。"
             }
         }, {
             name: {
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Pop-punk",
                 "de": "Pop-Punk",
                 "pt-br": "Pop Punk",
-                "zh-tw": "流行朋克"
+                "zh-tw": "流行朋克",
+                ja: "ポップパンク"
             },
             damage: 140,
             cost: ["Fire", "Fire", "Fire"],
@@ -66,7 +71,8 @@ const card: Card = {
                 "it": "Scarta 3 Energie {R} da questo Pokémon.",
                 "de": "Lege 3 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 3 {R} Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 3 個 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 3 個 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを3個トラッシュ。"
             }
         }],
     weaknesses: [{

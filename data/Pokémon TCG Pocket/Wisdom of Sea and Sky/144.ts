@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/144",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/144"
     },
     name: {
         en: "Dunsparce",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dummisel",
         "pt-br": "Dunsparce",
         "zh-tw": "土龍弟弟",
+        ja: "ノコッチ",
     },
     illustrator: "Kazuma Koda",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Crea labirinti in luoghi bui. Quando avvistato,\nfugge nel terreno scavando con la coda.",
         "de": "Es schafft Labyrinthe an dunklen Orten. Wenn entdeckt,\nEs flüchtet in den Boden, indem es mit seinem Schwanz gräbt.",
         "pt-br": "Cria labirintos em locais escuros. Quando avistado,\nele foge para o chão cavando com a cauda.",
-        "zh-tw": "它在黑暗的地方創造迷宮。當被發現時，\n它用尾巴挖洞逃入地下。"
+        "zh-tw": "它在黑暗的地方創造迷宮。當被發現時，\n它用尾巴挖洞逃入地下。",
+        ja: "暗い場所に 迷路を 作る。 だれかに みられると 尻尾で 地面を 掘って 逃げようとする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lampo improvviso",
                 "de": "Plötzlicher Blitz",
                 "pt-br": "Flash repentino",
-                "zh-tw": "突然閃光"
+                "zh-tw": "突然閃光",
+                ja: "スネークフラッシュ"
             },
             damage: 20,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/085",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/085",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/085"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/085"
     },
     name: {
         en: "Flamigo",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Flaminkno",
         'pt-br': "Flamigo",
         "zh-tw": "纏紅鶴",
+        ja: "カラミンゴ",
         ko: "꼬이밍고"
     },
     illustrator: "kantaro",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Grazie ad un loro comportamento chiamato “sincronizzazione”, un intero stormo di questi Pokémon può attaccare simultaneamente in perfetta armonia.",
         "de": "Dank ihres Verhaltens, das als „Synchronisieren“ bekannt ist, kann ein ganzer Schwarm dieser Pokémon gleichzeitig und in perfekter Harmonie angreifen.",
         "pt-br": "Graças a um comportamento conhecido como “sincronização”, um bando inteiro desses Pokémon pode atacar simultaneamente em perfeita harmonia.",
-        "zh-tw": "由於它們的「同步」行為，整群寶可夢可以完美和諧地同時攻擊。"
+        "zh-tw": "由於它們的「同步」行為，整群寶可夢可以完美和諧地同時攻擊。",
+        ja: "シンクロと呼ばれる 習性により 群れの 全員が 一糸乱れず 一斉に 攻撃してくる。"
     },
     stage: "Basic",
     attacks: [
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Attacco d'ala",
                 de: "Wing Attack",
                 "pt-br": "Ataque de asa",
-                "zh-tw": "翼攻擊"
+                "zh-tw": "翼攻擊",
+                ja: "つばさでうつ"
             },
             damage: "50",
             cost: ["Colorless", "Colorless"],

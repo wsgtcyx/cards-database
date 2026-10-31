@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/050"
     },
     name: {
         en: "Magikarp",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "In un lontano passato, era un po 'più forte di\ni discendenti orribilmente deboli che esistono oggi.",
         "de": "In der fernen Vergangenheit war es etwas stärker als\ndie schrecklich schwachen Nachkommen, die es heute gibt.",
         "pt-br": "No passado distante, era um pouco mais forte do que\nos descendentes terrivelmente fracos que existem hoje.",
-        "zh-tw": "在遙遠的過去，它比\n今天存在的極其弱小的後代。"
+        "zh-tw": "在遙遠的過去，它比\n今天存在的極其弱小的後代。",
+        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Evoluzione della cascata",
                 "de": "Wasserfallentwicklung",
                 "pt-br": "Evolução da Cachoeira",
-                "zh-tw": "瀑布進化"
+                "zh-tw": "瀑布進化",
+                ja: "たきのぼりしんか"
             },
             cost: ["Water", "Water", "Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti una carta a caso dal tuo mazzo che si evolve da questo Pokémon a questo Pokémon per farlo evolvere.",
                 "de": "Lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln.",
                 "pt-br": "Coloque uma carta aleatória do seu baralho que evolui deste Pokémon neste Pokémon para evoluí-lo.",
-                "zh-tw": "從你的牌組中隨機放置一張由該神奇寶貝進化而來的卡牌到該神奇寶貝上以使其進化。"
+                "zh-tw": "從你的牌組中隨機放置一張由該神奇寶貝進化而來的卡牌到該神奇寶貝上以使其進化。",
+                ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/025",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/025",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/025"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/025"
     },
     name: {
         en: "Wiglett",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Schligda",
         'pt-br': "Wiglett",
         "zh-tw": "海地鼠",
+        ja: "ウミディグダ",
         ko: "바다그다"
     },
     illustrator: "Shin Nagasawa",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Sebbene assomigli a Diglett, Wiglett è una specie completamente diversa. La somiglianza sembra essere un risultato casuale dell'adattamento ambientale.",
         "de": "Obwohl es wie Digda aussieht, ist Schligda eine völlig andere Spezies. Die Ähnlichkeit scheint ein zufälliges Ergebnis der Anpassung an die Umwelt zu sein.",
         "pt-br": "Embora se pareça com Diglett, Wiglett é uma espécie totalmente diferente. A semelhança parece ser um resultado coincidente da adaptação ambiental.",
-        "zh-tw": "雖然它看起來像 地鼠，但 海地鼠 是一個完全不同的物種。這種相似性似乎是環境適應的巧合結果。"
+        "zh-tw": "雖然它看起來像 地鼠，但 海地鼠 是一個完全不同的物種。這種相似性似乎是環境適應的巧合結果。",
+        ja: "ディグダに 似るが まるで 別の 種類。 生息 環境に 適応して 偶然 似たらしい。"
     },
     stage: "Basic",
     attacks: [
@@ -46,7 +49,8 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: "20",
             cost: ["Water"],

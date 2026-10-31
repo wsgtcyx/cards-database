@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/184",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/184",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/184",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/184"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/184",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/184"
     },
     name: {
         en: "Lunala ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lunala-ex",
         "pt-br": "Lunala ex",
         "zh-tw": "露奈雅拉ex",
+        ja: "ルナアーラex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Cosmoem",
         "de": "Cosmovum",
         "pt-br": "Cosmoem",
-        "zh-tw": "科斯莫姆"
+        "zh-tw": "科斯莫姆",
+        ja: "コスモウム"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Connessione psichica",
                 "de": "Psychische Verbindung",
                 "pt-br": "Conexão Psíquica",
-                "zh-tw": "心靈連接"
+                "zh-tw": "心靈連接",
+                ja: "サイココネクト"
             },
             effect: {
                 en: "Once during your turn, you may move all {P} Energy from 1 of your Benched {P} Pokémon to your Active Pokémon.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi spostare tutte le Energie {P} da 1 dei tuoi Pokémon {P} in panchina al tuo Pokémon attivo.",
                 "de": "Einmal während deines Zuges kannst du die gesamte {P}-Energie von einem deiner {P}-Pokémon auf deiner Bank auf dein aktives Pokémon übertragen.",
                 "pt-br": "Uma vez durante o seu turno, você pode mover toda a Energia {P} de 1 dos seus Pokémon {P} no Banco para o seu Pokémon Ativo.",
-                "zh-tw": "在你的回合中，你可以將所有 {P} 能量從你的 1 個後備 {P} 神奇寶貝轉移到你的活躍神奇寶貝上。"
+                "zh-tw": "在你的回合中，你可以將所有 {P} 能量從你的 1 個後備 {P} 神奇寶貝轉移到你的活躍神奇寶貝上。",
+                ja: "自分の番に1回使える。自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトルポケモンにつけ替える。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Esplosione lunare",
                 "de": "Mondexplosion",
                 "pt-br": "Explosão Lunar",
-                "zh-tw": "月球爆炸"
+                "zh-tw": "月球爆炸",
+                ja: "ルナブラスト"
             },
             damage: 100,
             cost: ["Psychic", "Colorless", "Colorless"]

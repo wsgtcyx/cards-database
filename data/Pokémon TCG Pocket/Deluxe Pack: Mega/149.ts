@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/149",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/149",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/149",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/149"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/149",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/149"
     },
     name: {
         en: "Hoopa ex",
@@ -47,7 +48,7 @@ const card: Card = {
                 "zh-tw": "暗影子彈",
                 it: "Dardombra",
                 de: "Schattenkugel",
-                ja: "Shadow Bullet",
+                ja: "シャドーバレット",
                 ko: "Shadow Bullet"
             },
             effect: {
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
-                ja: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
             },
             damage: 30
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Dynamitstoß",
                 "pt-br": "Soco Dinamite",
                 "zh-tw": "炸藥拳",
-                ja: "Dynamite Punch",
+                ja: "ダイナマイトパンチ",
                 ko: "Dynamite Punch"
             },
             effect: {
@@ -88,7 +89,7 @@ const card: Card = {
                 de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到20點傷害。",
-                ja: "This Pokémon also does 20 damage to itself.",
+                ja: "このポケモンにも20ダメージ。",
                 ko: "This Pokémon also does 20 damage to itself."
             },
             damage: 100

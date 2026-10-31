@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/079",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/079"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/079"
     },
     name: {
         en: "Machop",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Machop",
         "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "腕力"
+        "zh-tw": "腕力",
+        ja: "ワンリキー"
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sempre pieno di potere, passa il tempo\nsollevamento massi. Farlo lo rende ancora più forte.",
         "de": "Stets voller Kraft vertreibt es die Zeit\nHeben von Felsbrocken. Dadurch wird es noch stärker.",
         "pt-br": "Sempre cheio de poder, passa o tempo\nlevantando pedras. Fazer isso o torna ainda mais forte.",
-        "zh-tw": "總是充滿力量，流逝時間\n舉起巨石。這樣做會讓它變得更加強大。"
+        "zh-tw": "總是充滿力量，流逝時間\n舉起巨石。這樣做會讓它變得更加強大。",
+        ja: "いつも パワフル。 体力が 有り余っているので 暇つぶしに 岩を持ち上げ さらに 強くなる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frantumare",
                 "de": "Zerschmettern",
                 "pt-br": "Quebrar",
-                "zh-tw": "粉碎"
+                "zh-tw": "粉碎",
+                ja: "たたきこわす"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta uno Stadio in gioco.",
                 "de": "Wirf ein im Spiel befindliches Stadion ab.",
                 "pt-br": "Descarte um Estádio em jogo.",
-                "zh-tw": "丟棄正在進行中的體育場。"
+                "zh-tw": "丟棄正在進行中的體育場。",
+                ja: "場に出ているスタジアムをトラッシュ。"
             }
         }],
     weaknesses: [{

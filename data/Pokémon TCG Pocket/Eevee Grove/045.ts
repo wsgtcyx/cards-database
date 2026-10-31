@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/045"
     },
     name: {
         en: "Purrloin",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
+        ja: "チョロネコ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Avversari che vengono attratti dalla sua adorabile\ncomportamento viene via con graffi pungenti\ni suoi artigli e l'orgoglio pungente delle sue risate.",
         "de": "Gegner, die sich von seiner Liebenswürdigkeit anziehen lassen\nVerhalten kommt mit stechenden Kratzern weg\nseine Krallen und der stechende Stolz seines Lachens.",
         "pt-br": "Oponentes que são atraídos por seu adorável\ncomportamento sai com arranhões dolorosos de\nsuas garras e o orgulho pungente de sua risada.",
-        "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。"
+        "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。",
+        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Atterramento giocoso",
                 "de": "Spielerischer Knockdown",
                 "pt-br": "Nocaute brincalhão",
-                "zh-tw": "有趣的擊倒"
+                "zh-tw": "有趣的擊倒",
+                ja: "じゃれおとす"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scarta tutti gli Strumenti Pokémon dal Pokémon attivo del tuo avversario.",
                 "de": "Lege alle Pokémon-Werkzeuge vom aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。"
+                "zh-tw": "丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。",
+                ja: "相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/244",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/244",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/244",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/244"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/244",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/244"
     },
     name: {
         en: "Treecko",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es kann selbst Wände blitzschnell emporklettern. Mit seinem Schwanz misst es die Luftfeuchtigkeit, um das Wetter des nächsten Tages vorherzusagen.",
         "pt-br": "Treecko consegue escalar superfícies verticais com facilidade. Usa a cauda para sentir a umidade do ar e prever o clima do dia seguinte.",
         "zh-tw": "在垂直的牆壁上也能輕快地攀爬。會用尾巴感知空氣的濕度，以此來判斷明天的天氣。",
-        ja: "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day’s weather.",
+        ja: "垂直の 壁も すいすい 登る。 尻尾で 空気の 湿度を 感じ 明日の 天気を 当てる。",
         ko: "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day’s weather."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Klaps",
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
-                ja: "Pound",
+                ja: "はたく",
                 ko: "Pound"
             },
             damage: 20

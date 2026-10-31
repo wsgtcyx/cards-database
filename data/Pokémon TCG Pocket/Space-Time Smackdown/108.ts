@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/108",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/108"
     },
     name: {
         en: "Toxicroak",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Toxicroak",
         de: "Toxiquak",
         'pt-br': "Toxicroak",
+        ja: "ドクロッグ",
         ko: "독개굴",
         "zh-tw": "毒骷蛙",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Glibunkel",
         "pt-br": "Croagunk",
         "zh-tw": "不良蛙",
+        ja: "グレッグル",
     },
     description: {
         en: "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Con il suo corpo flessibile schiva l'attacco del\nnemico e lo trafigge al volo con spine velenose.",
         de: "Mit seinem geschmeidigen Körper weicht es\nAttacken aus und durchbricht die Deckung des\nGegners, um mit seinen Giftklauen zuzustechen.",
         'pt-br': "Balançando e desviando dos ataques dos inimigos,\neste Pokémon usa seu corpo flexível para se aproximar\ne, em seguida, atacar com suas garras venenosas.",
+        ja: "柔らかい 体で 相手の 攻撃を かわしながら ふところに 飛び込み 毒の トゲを 突き刺す。",
         ko: "유연한 몸으로 상대의 공격을 피하며\n깊숙이 뛰어들어 독가시를 꿰찌른다.",
         "zh-tw": "它搖擺著躲避敵人的攻擊，將靈活的身體緊緊地纏繞在一起，然後用有毒的爪子猛扑出去。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rissa",
                 de: "Gruppenprügler",
                 'pt-br': "Abater em Grupo",
+                ja: "みんなでしばく",
                 ko: "다함께 때려잡기",
                 "zh-tw": "團體毆打"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta per ogni Pokémon che hai in gioco. Questo attacco infligge 40 danni ogni volta che esce testa.",
                 de: "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 40 pontos de dano para cada cara.",
+                ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×40ダメージ。",
                 ko: "자신의 필드의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 40× 40데미지를[/Ctrl:NoBreak] 준다.",
                 "zh-tw": "為遊戲中的每個神奇寶貝投一枚硬幣。這次攻擊對每個頭造成 40 點傷害。"
             }

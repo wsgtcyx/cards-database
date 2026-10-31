@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/101"
     },
     name: {
         en: "Stunky",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Stunky",
         "de": "Skunkapuh",
         "pt-br": "Stunky",
-        "zh-tw": "臭鼬噗"
+        "zh-tw": "臭鼬噗",
+        ja: "スカンプー"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il fluido disgustoso che esce dalla sua parte posteriore è così disgustoso che\npuò far sentire le persone nauseate fino a un miglio e un\nquarto di distanza.",
         "de": "Die üble Flüssigkeit aus seinem Hinterteil ist so abscheulich, dass es\nkann dazu führen, dass sich Menschen bis zu einer Entfernung von einer Meile und einer Meile unwohl fühlen\nViertel entfernt.",
         "pt-br": "O fluido imundo que sai de sua parte traseira é tão nojento que\npode fazer as pessoas se sentirem enjoadas até um quilômetro e meio\nquarto de distância.",
-        "zh-tw": "從它尾部流出的污濁液體令人作嘔\n可以讓人感到噁心一英里\n四分之一遠。"
+        "zh-tw": "從它尾部流出的污濁液體令人作嘔\n可以讓人感到噁心一英里\n四分之一遠。",
+        ja: "お尻から 飛ばす 液体の 臭いは ２キロも 離れた 人が 具合を 悪くするほど くさい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Fluido spray",
                 "de": "Sprühflüssigkeit",
                 "pt-br": "Fluido de pulverização",
-                "zh-tw": "噴霧液"
+                "zh-tw": "噴霧液",
+                ja: "しるをとばす"
             },
             damage: 30,
             cost: ["Darkness", "Colorless"]

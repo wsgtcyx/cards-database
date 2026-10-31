@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/044"
     },
     name: {
         en: "Magmar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magmar",
         de: "Magmar",
         'pt-br': "Magmar",
+        ja: "ブーバー",
         ko: "마그마",
         "zh-tw": "鴨嘴火獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Magma-Pugno",
                 de: "Magmahieb",
                 'pt-br': "Soco de Magma",
+                ja: "マグマパンチ",
                 ko: "마그마펀치",
                 "zh-tw": "岩漿沖床"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Abbatte le sue prede con le fiamme, ma\nfinisce per carbonizzarle accidentalmente,\ncon suo grande rammarico.",
         de: "Magmar erlegt seine Beute mit Feuer. Manchmal\nröstet es diese zu seinem Bedauern so stark,\ndass sie versehentlich verkohlt.",
         'pt-br': "Magmar incendeia suas presas, mas sempre se\narrepende ao perceber que as reduziu a cinzas.",
+        ja: "炎で 獲物を しとめる。 ついつい 焼きすぎて 黒コゲに してしまい 後悔する。",
         ko: "불꽃으로 먹이를 꼼짝 못 하게 한다.\n무의식중에 너무 오래 익혀서\n까맣게 태우고는 후회한다.",
         "zh-tw": "瑪格瑪用火消滅獵物。但一旦它意識到自己已經把它想要的獵物燒成了焦脆的東西，它就會後悔這個習慣。"
     },

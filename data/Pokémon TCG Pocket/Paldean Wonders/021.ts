@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/021",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/021",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/021"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/021"
     },
     name: {
         en: "Chi-Yu",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Yuyu",
         "pt-br": "Chi-Yu",
         "zh-tw": "古玉魚",
+        ja: "イーユイ",
         pt: "Chi-Yu",
         'es-mx': "Chi-Yu"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "L'invidia accumulata nelle perle ricurve che hanno scatenato molteplici conflitti si è rivestita di fuoco ed è diventata un Pokémon.",
         "de": "Der in gebogenen Perlen angesammelte Neid, der mehrere Konflikte auslöste, hat sich in Feuer gehüllt und ist zu einem Pokémon geworden.",
         "pt-br": "A inveja acumulada nas contas curvas que provocaram múltiplos conflitos se revestiu de fogo e se tornou um Pokémon.",
-        "zh-tw": "彎曲的珠子中累積的嫉妒，引發了多次衝突，已經將自己包裹在火焰中，變成了寶可夢。"
+        "zh-tw": "彎曲的珠子中累積的嫉妒，引發了多次衝突，已經將自己包裹在火焰中，變成了寶可夢。",
+        ja: "多くの 争いの 火種となった 勾玉に 集まった 妬みが 炎を まとい ポケモンとなった。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Megafeuer des Neids",
                 "pt-br": "Megafogo da Inveja",
                 "zh-tw": "嫉妒之火",
+                ja: "ねたみのごうか",
                 pt: "Megafogo da Inveja"
             },
             damage: "40+",
@@ -60,6 +64,7 @@ const card: Card = {
                 de: "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
                 'es-mx': "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
                 pt: "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais."
             },

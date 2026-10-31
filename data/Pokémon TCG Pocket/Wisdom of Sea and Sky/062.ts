@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/062"
     },
     name: {
         en: "Ducklett",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Piccolente",
         "pt-br": "Ducklett",
         "zh-tw": "鴨寶寶",
+        ja: "コアルヒー",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando viene attaccato, usa le sue piume per schizzare l'acqua,\nscappare sotto la copertura degli spruzzi.",
         "de": "Wenn es angegriffen wird, spritzt es mit seinen Federn Wasser,\nunter dem Schutz des Sprays entweicht.",
         "pt-br": "Quando atacado, usa suas penas para espirrar água,\nescapando sob a cobertura do spray.",
-        "zh-tw": "當受到攻擊時，它會用羽毛濺水，\n在噴霧的掩護下逃脫。"
+        "zh-tw": "當受到攻擊時，它會用羽毛濺水，\n在噴霧的掩護下逃脫。",
+        ja: "敵に 襲われると 全身の 羽毛から 水しぶきを 出す。 水煙に 紛れて 逃げるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spruzzi di pioggia",
                 "de": "Regenspritzer",
                 "pt-br": "Respingo de chuva",
-                "zh-tw": "雨濺"
+                "zh-tw": "雨濺",
+                ja: "みずかけ"
             },
             damage: 10,
             cost: ["Colorless"]

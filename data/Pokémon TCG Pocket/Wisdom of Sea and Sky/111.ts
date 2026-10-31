@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/111",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/111"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/111"
     },
     name: {
         en: "Ariados",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ariados",
         "pt-br": "Ariados",
         "zh-tw": "阿利多斯",
+        ja: "アリアドス",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Webarak",
         "pt-br": "Spinarak",
         "zh-tw": "圓絲蛛",
+        ja: "イトマル",
     },
     description: {
         en: "Every night, it wanders around in search of\nprey, whose movements it restrains by spewing\nthreads before it bites into them with its fangs.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ogni notte va in giro alla ricerca\npreda, di cui frena i movimenti vomitando\nfili prima di morderli con le zanne.",
         "de": "Jede Nacht wandert es auf der Suche umher\nBeute, deren Bewegungen es durch Ausstoßen einschränkt\nFäden, bevor es mit seinen Reißzähnen hineinbeißt.",
         "pt-br": "Todas as noites ele vagueia em busca de\npresa, cujos movimentos ela restringe vomitando\nfios antes de mordê-los com suas presas.",
-        "zh-tw": "每天晚上，它都會四處遊蕩，尋找\n獵物，通過噴吐來限制其行動\n在它用尖牙咬住它們之前。"
+        "zh-tw": "每天晚上，它都會四處遊蕩，尋找\n獵物，通過噴吐來限制其行動\n在它用尖牙咬住它們之前。",
+        ja: "夜ごと 獲物を 求めて さ迷う。 見つけた 獲物に 糸を 吐き 身動きを 封じて キバで かじる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Legarsi",
                 "de": "Binde dich fest",
                 "pt-br": "Vincular",
-                "zh-tw": "綁定"
+                "zh-tw": "綁定",
+                ja: "しばりつける"
             },
             damage: 40,
             cost: ["Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

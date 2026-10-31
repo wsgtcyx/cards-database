@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/366",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/366",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/366",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/366"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/366",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/366"
 	},
 	name: {
         en: "Mew ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mew-ex",
         "pt-br": "Mew ex",
         "zh-tw": "夢幻ex",
+        ja: "ミュウex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Psicocolpo",
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
-                "zh-tw": "心理射擊"
+                "zh-tw": "心理射擊",
+                ja: "サイコショット"
             },
             damage: 20,
             cost: ["Psychic"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Hacking del genoma",
                 "de": "Genom-Hacking",
                 "pt-br": "Hacking de genoma",
-                "zh-tw": "基因組黑客"
+                "zh-tw": "基因組黑客",
+                ja: "ゲノムハック"
             },
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Scegli 1 degli attacchi del Pokémon attivo del tuo avversario e usalo come questo attacco.",
                 "de": "Wähle 1 Angriff des Aktiven Pokémon deines Gegners und verwende ihn als diesen Angriff.",
                 "pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
-                "zh-tw": "選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。"
+                "zh-tw": "選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。",
+                ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
             }
         }],
     weaknesses: [{

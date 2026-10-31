@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/209",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/209"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/209",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/209"
     },
     name: {
         en: "Porygon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Porygon",
         de: "Porygon",
         'pt-br': "Porygon",
+        ja: "ポリゴン",
         ko: "폴리곤",
         "zh-tw": "多邊獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Scansione Dati",
                 de: "Daten-Scan",
                 'pt-br': "Escaneamento de Dados",
+                ja: "データスキャン",
                 ko: "데이터 스캔",
                 "zh-tw": "數據掃描"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi guardare la prima carta del tuo mazzo.",
                 de: "Einmal während deines Zuges kannst du dir die oberste Karte deines Decks anschauen.",
                 'pt-br': "Uma vez durante o seu turno, você poderá olhar a carta de cima do seu baralho.",
+                ja: "自分の番に1回使える。自分の山札を上から枚見て、もとにもどす。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 1장 보고 원래대로 되돌린다.",
                 "zh-tw": "在你的回合中，你可以查看你牌組頂牌的一次。"
             }
@@ -58,6 +62,7 @@ const card: Card = {
                 it: "Affilatore",
                 de: "Schärfer",
                 'pt-br': "Afiar",
+                ja: "かくばる",
                 ko: "각지기",
                 "zh-tw": "銳化"
             },
@@ -76,6 +81,7 @@ const card: Card = {
         it: "È il primo Pokémon della storia a essere\nstato creato tramite programmi, grazie\nall'impiego di tecnologie all'avanguardia.",
         de: "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde.",
         'pt-br': "Tecnologia de ponta foi usada na criação\nde Porygon. Foi o primeiro Pokémon artificial\ncriado por meio de um programa de computador.",
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。",
         ko: "최고의 과학 기술을 사용해\n세계에서 처음으로 프로그래밍되어\n만들어진 인공 포켓몬이다.",
         "zh-tw": "Porygon 的製造採用了最先進的技術。它是第一個通過計算機編程創建的人造神奇寶貝。"
     },

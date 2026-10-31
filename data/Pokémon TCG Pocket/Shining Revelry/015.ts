@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/015"
     },
     name: {
         en: "Tentacruel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tentacruel",
         de: "Tentoxa",
         'pt-br': "Tentacruel",
+        ja: "ドククラゲ",
         ko: "독파리",
         "zh-tw": "毒刺水母"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Tentacool",
         "de": "Tentacha",
         "pt-br": "Tentacool",
-        "zh-tw": "瑪瑙水母"
+        "zh-tw": "瑪瑙水母",
+        ja: "メノクラゲ"
     },
     description: {
         en: "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Meglio fare attenzione quando le sfere rosse\nche ha sulla testa brillano intensamente, perché\nvuol dire che sta per emettere ultrasuoni.",
         de: "Leuchten die roten Kugeln auf seinem Kopf stark\nauf, ist Vorsicht geboten, da es kurz danach\nUltraschallwellen ausstoßen wird.",
         'pt-br': "Quando o orbe vermelho na cabeça de Tantacruel\nbrilha intensamente, cuidado: este Pokémon está\nprestes a disparar uma rajada de ondas ultrassônicas.",
+        ja: "頭の 赤い 玉の 光が 強くなったら 要注意。 超音波を 放つ 前触れだ。",
         ko: "머리의 빨간 구슬이\n밝게 빛나면 주의가 필요하다.\n초음파를 발산하려는 전조다.",
         "zh-tw": "當刺傷獸頭上的紅色球體發出明亮的光芒時，請小心。神奇寶貝即將發射出一陣超聲波。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Schizzi d'Onda",
             de: "Wellenplatscher",
             'pt-br': "Onda Borrifante",
+            ja: "スプラッシュ",
             ko: "스플래시",
             "zh-tw": "波浪飛濺"
         },

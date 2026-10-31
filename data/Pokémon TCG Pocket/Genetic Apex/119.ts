@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/119",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/119"
     },
     name: {
         en: "Slowbro",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Slowbro",
         de: "Lahmus",
         'pt-br': "Slowbro",
+        ja: "ヤドラン",
         ko: "야도란",
         "zh-tw": "呆殼獸",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Slowpoke",
         "de": "Flegmon",
         "pt-br": "Slowpoke",
-        "zh-tw": "呆呆獸"
+        "zh-tw": "呆呆獸",
+        ja: "ヤドン"
     },
     attacks: [{
             cost: ["Psychic", "Psychic", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Superpsico",
                 de: "Super-Psischlag",
                 'pt-br': "Super-raio Psíquico",
+                ja: "ちょうねんりき",
                 ko: "초염동력",
                 "zh-tw": "超級心靈螺栓"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Uno Slowpoke che si trovava in\nmare in cerca di cibo fu morso da\nuno Shellder, evolvendosi in Slowbro.",
         de: "Als Flegmon im Meer jagen ging,\nbiss ein Muschas in seine Rute.\nDadurch entwickelte es sich zu Lahmus.",
         'pt-br': "Quando um Slowpoke foi caçar no mar, sua cauda\nfoi mordida por um Shellder. Isso fez com que evoluísse\npara um Slowbro.",
+        ja: "ヤドンが 海へ エサを 取りにいったとき シェルダーに 尻尾を かまれ ヤドランになった。",
         ko: "야돈이 바다로 먹이를\n잡으러 갔다가 셀러에게\n꼬리를 물려 야도란이 되었다.",
         "zh-tw": "當呆呆獸在海裡狩獵時，它的尾巴被剝殼者咬住了。這使得它演變成 Slowbro。"
     },

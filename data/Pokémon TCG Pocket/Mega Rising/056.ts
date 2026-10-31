@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/056"
     },
     name: {
         en: "Wailmer",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wailmer",
         "pt-br": "Wailmer",
         "zh-tw": "吼吼鯨",
+        ja: "ホエルコ",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando aspira un grande volume di acqua di mare,\ndiventa come una grande palla rimbalzante. Ne mangia una tonnellata\ndi cibo ogni giorno.",
         "de": "Wenn es eine große Menge Meerwasser ansaugt,\nes wird wie ein großer, hüpfender Ball. Es frisst eine Tonne\nEssen täglich.",
         "pt-br": "Quando suga um grande volume de água do mar,\ntorna-se como uma bola grande e saltitante. Come uma tonelada\nde comida diariamente.",
-        "zh-tw": "當它吸入大量海水時，\n它變得像一個大的有彈性的球。牠吃了一噸\n每天的食物。"
+        "zh-tw": "當它吸入大量海水時，\n它變得像一個大的有彈性的球。牠吃了一噸\n每天的食物。",
+        ja: "海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 １トンの エサを 食べる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Navigare",
                 "de": "Surfen",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

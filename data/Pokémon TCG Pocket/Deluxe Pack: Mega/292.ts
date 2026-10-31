@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/292",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/292",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/292",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/292"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/292",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/292"
     },
     name: {
         en: "Raichu",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Pikachu",
         "pt-br": "Pikachu",
         "zh-tw": "皮卡丘",
-        ja: "Pikachu",
+        ja: "ピカチュウ",
         ko: "Pikachu"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Wenn seine Backentaschen voll aufgeladen sind, stehen seine beiden Ohren senkrecht nach oben.",
         "pt-br": "Se as bolsas elétricas de suas bochechas atingem carga completa, suas duas orelhas levantam.",
         "zh-tw": "如果雙頰上的電囊儲存了飽滿的電力，兩隻耳朵就會直直地豎起。",
-        ja: "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。",
         ko: "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 "zh-tw": "進化衝擊",
                 it: "Evoshock",
                 de: "Evoschock",
-                ja: "Evoshock",
+                ja: "エボルショック",
                 ko: "Evoshock"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
-                ja: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Elektroball",
                 "pt-br": "Bola Elétrica",
                 "zh-tw": "電球",
-                ja: "Electro Ball",
+                ja: "エレキボール",
                 ko: "Electro Ball"
             },
             damage: 50

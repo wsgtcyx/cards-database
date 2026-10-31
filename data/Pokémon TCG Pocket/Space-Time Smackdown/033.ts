@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/033"
     },
     name: {
         en: "Mamoswine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mamoswine",
         de: "Mamutel",
         'pt-br': "Mamoswine",
+        ja: "マンムー",
         ko: "맘모꾸리",
         "zh-tw": "象牙豬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Keifel",
         "pt-br": "Piloswine",
         "zh-tw": "長毛豬",
+        ja: "イノムー",
     },
     description: {
         en: "This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si trova raffigurato nelle pitture rupestri di 10.000\nanni fa. Per un periodo si riteneva che fosse estinto.",
         de: "Sie sind schon auf 10 000 Jahre alten\nWandmalereien abgebildet. Es gab Zeiten,\nin denen man sie für ausgestorben hielt.",
         'pt-br': "Imagens deste Pokémon já foram encontradas em pinturas\nrupestres que remontam a 10.000 anos. Antigamente,\nacreditava-se que Mamoswine estava extinto.",
+        ja: "１万年前の 壁画にも 描かれている。 絶滅したと 考えられていた 時期もある。",
         ko: "1만 년 전의 벽화에도\n그려져 있다. 멸종되었다고\n여겨지던 시기도 있었다.",
         "zh-tw": "這種神奇寶貝可以追溯到一萬年前的壁畫中。有一段時間，人們認為它已經滅絕了。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Grassospesso",
                 de: "Speckschicht",
                 'pt-br': "Gordura Espessa",
+                ja: "あついしぼう",
                 ko: "두꺼운지방",
                 "zh-tw": "厚脂肪"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -30 danni dagli attacchi dei Pokémon {R} o {W}.",
                 de: "Diesem Pokémon werden durch Attacken von {R}- oder {W}-Pokémon − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −30 pontos de dano de ataques de Pokémon {R} ou {W}.",
+                ja: "このポケモンが、{R}または{W}ポケモンから受けるワザのダメージを-30する。",
                 ko: "이 포켓몬이 {R} 또는 {W}포켓몬으로부터 받는 기술의 데미지를 {R}-30[/Ctrl:NoBreak]한다.",
                 "zh-tw": "該神奇寶貝因 {R} 或 {W} 神奇寶貝的攻擊而受到 -30 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Piallata Gelida",
                 de: "Frostige Plättung",
                 'pt-br': "Esmagamento Congelante",
+                ja: "フロストダンプ",
                 ko: "프로스트덤프",
                 "zh-tw": "霜凍壓扁"
             },

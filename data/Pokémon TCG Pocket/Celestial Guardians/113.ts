@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/113",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/113"
     },
     name: {
         en: "Trubbish",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Trubbish",
         de: "Unratütox",
         'pt-br': "Trubbish",
+        ja: "ヤブクロン",
         ko: "깨봉이",
         "zh-tw": "破破袋",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Predilige luoghi insalubri. Sbuca fuori nelle case dove\nè stata lasciata spazzatura in giro e vi si stabilisce.",
         de: "Es liebt schmutzige Orte. Angeblich zieht es auch\nin menschliche Behausungen ein, wenn man zu viel\nMüll herumliegen lässt.",
         'pt-br': "Este Pokémon prefere lugares insalubres, e se você\nnão limpar o lixo do seu quarto, poderá até encontrá-lo\nvivendo lá dentro.",
+        ja: "不衛生な 場所が 好き。 ゴミで 汚したまま 放っておくと 部屋にも 現れて 棲みつく。",
         ko: "비위생적인 장소를 좋아한다.\n쓰레기를 어질러놓은 채 내버려 두면\n방에 나타나 그대로 눌러앉는다.",
         "zh-tw": "它最喜歡的地方是不衛生的地方。如果你把垃圾亂扔，你甚至可能會在你的房間裡發現這些神奇寶貝之一。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Botta",
                 de: "Klaps",
                 'pt-br': "Pancada",
+                ja: "はたく",
                 ko: "막치기",
                 "zh-tw": "磅"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/049",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/049"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/049"
     },
     name: {
         en: "Cufant",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Cufant può sollevare carichi del peso di cinque tonnellate. Al mattino si reca con il suo branco nelle caverne alla ricerca del minerale di cui si nutrono questi Pokémon.",
         de: "Kupfanti kann Lasten mit einem Gewicht von fünf Tonnen heben. Morgens begibt es sich mit seiner Herde in Höhlen auf der Suche nach dem Erz, von dem sich diese Pokémon ernähren.",
         "pt-br": "Cufant pode levantar cargas pesando cinco toneladas. Pela manhã, ele entra em cavernas com seu rebanho, em busca do minério de que esses Pokémon se alimentam.",
-        "zh-tw": "銅象可以舉起重達5噸的負載。早上，它會帶著羊群進入洞穴，尋找這些寶可夢賴以生存的礦石。"
+        "zh-tw": "銅象可以舉起重達5噸的負載。早上，它會帶著羊群進入洞穴，尋找這些寶可夢賴以生存的礦石。",
+        ja: "５トンの 荷物を 持ち上げられる。 朝になると 群れで 洞窟へと 向かい エサの 鉱石を 探す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Forza",
                 de: "Stärke",
                 "pt-br": "Força",
-                "zh-tw": "怪力"
+                "zh-tw": "怪力",
+                ja: "かいりき"
             },
             damage: 60
         }

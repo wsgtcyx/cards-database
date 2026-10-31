@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/060"
     },
     name: {
         en: "Chatot",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Plaudagei",
         "pt-br": "Chatot",
         "zh-tw": "聒噪鳥",
+        ja: "ペラップ",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Imita le grida degli altri Pokémon per ingannarli\nnel pensare che sia uno di loro. In questo modo non lo faranno\nattaccarlo.",
         "de": "Es ahmt die Schreie anderer Pokémon nach, um sie auszutricksen\nzu denken, dass es einer von ihnen ist. Auf diese Weise werden sie es nicht tun\ngreife es an.",
         "pt-br": "Ele imita os gritos de outros Pokémon para enganá-los\nem pensar que é um deles. Dessa forma eles não vão\natacá-lo.",
-        "zh-tw": "它模仿其他神奇寶貝的叫聲來欺騙他們\n認為它是其中之一。這樣他們就不會\n攻擊它。"
+        "zh-tw": "它模仿其他神奇寶貝的叫聲來欺騙他們\n認為它是其中之一。這樣他們就不會\n攻擊它。",
+        ja: "相手と 同じ 鳴き声を 出す ことで 仲間と 思いこませて 襲われないように しているのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Stonato",
                 "de": "Ton-taub",
                 "pt-br": "Surdo",
-                "zh-tw": "五音不全"
+                "zh-tw": "五音不全",
+                ja: "おんち"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

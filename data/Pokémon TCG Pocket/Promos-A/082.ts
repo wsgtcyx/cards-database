@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/082",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/082",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/082"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/082"
     },
     name: {
         en: "Poipole",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Venicro",
         "pt-br": "Poipole",
         "zh-tw": "毒貝比",
+        ja: "ベベノム",
     },
     illustrator: "Megumi Mizutani",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questa Ultracreatura piace abbastanza da essere\nscelto come primo partner nel proprio mondo.",
         "de": "Dieses Ultra-Biest ist durchaus beliebt\nals erster Partner in seiner eigenen Welt ausgewählt.",
         "pt-br": "Esta Ultra Besta é bastante apreciada para ser\nescolhido como primeiro parceiro no seu próprio mundo.",
-        "zh-tw": "這個終極野獸很受歡迎\n被選為自己世界中的第一個合作夥伴。"
+        "zh-tw": "這個終極野獸很受歡迎\n被選為自己世界中的第一個合作夥伴。",
+        ja: "異世界に おいては 旅立ちの パートナーに 選ばれるほど 親しまれている ウルトラビースト。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "2 passaggi",
                 "de": "2-stufig",
                 "pt-br": "2 etapas",
-                "zh-tw": "2步"
+                "zh-tw": "2步",
+                ja: "ツーステップ"
             },
             damage: "20×",
             cost: ["Darkness"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/078"
     },
     name: {
         en: "Arrokuda",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
+        ja: "サシカマス",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Abbatte le prede caricandole con\nla sua mascella dura e appuntita. Ma la vista di Arrokuda lo è\npoveri, quindi questa tattica ha un basso tasso di successo.",
         "de": "Es erlegt seine Beute, indem es in sie hineinstürmt\nsein harter, spitzer Kiefer. Aber Arrokudas Sehvermögen ist es\nschlecht, daher hat diese Taktik eine geringe Erfolgsquote.",
         "pt-br": "Ele derruba as presas atacando-as com\nsua mandíbula dura e pontiaguda. Mas a visão de Arrokuda é\npobre, então essa tática tem uma baixa taxa de sucesso.",
-        "zh-tw": "它通過沖向獵物來擊倒獵物\n它的下巴堅硬而尖。但阿羅庫達的視力是\n差，所以這個戰術成功率很低。"
+        "zh-tw": "它通過沖向獵物來擊倒獵物\n它的下巴堅硬而尖。但阿羅庫達的視力是\n差，所以這個戰術成功率很低。",
+        ja: "硬く 尖った あごで 突撃し 獲物を 仕留める。 視力が 悪いので 成功率は 低い。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Water"]

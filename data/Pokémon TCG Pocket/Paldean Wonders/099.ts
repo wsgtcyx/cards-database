@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/099",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/099"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/099"
     },
     name: {
         en: "Maushold",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Famieps",
         "pt-br": "Maushold",
         "zh-tw": "一家鼠",
+        ja: "イッカネズミ",
         pt: "Maushold"
     },
     illustrator: "Mizue",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Il piccolo è appena apparso un giorno. Vivono tutti insieme come una famiglia, ma il rapporto tra i tre non è ancora chiaro.",
         "de": "Der Kleine ist gerade eines Tages aufgetaucht. Sie leben alle wie eine Familie zusammen, doch die Beziehung der drei zueinander ist noch unklar.",
         "pt-br": "O pequeno apareceu um dia. Todos vivem juntos como uma família, mas a relação entre os três ainda não está clara.",
-        "zh-tw": "小傢伙有一天才出現。他們都像一家人一樣生活在一起，但三人之間的關係至今仍不清楚。"
+        "zh-tw": "小傢伙有一天才出現。他們都像一家人一樣生活在一起，但三人之間的關係至今仍不清楚。",
+        ja: "いつの間にか 子どもが 増えていた。 家族のように 暮らすが ３匹の 関係は 解明されていない。"
     },
     stage: "Stage1",
     attacks: [
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Tripla rosicchiatura",
                 "de": "Dreifaches Nagen",
                 "pt-br": "Roedor Triplo",
-                "zh-tw": "三重啃咬"
+                "zh-tw": "三重啃咬",
+                ja: "トリプルかじり"
             },
             damage: "60",
             cost: ["Colorless", "Colorless"],
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf 3 Münzen. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄對手的戰鬥寶可夢中的隨機能量。"
+                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄對手的戰鬥寶可夢中的隨機能量。",
+                ja: "コインを3回投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
             },
         },
     ],

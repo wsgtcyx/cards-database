@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/037",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/037",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/037"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/037"
     },
     name: {
         en: "Quilava",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Feurigel",
         "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
-        ja: "Cyndaquil",
+        ja: "ヒノアラシ",
         ko: "Cyndaquil"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Das Fell dieses Pokémon ist nicht entflammbar. Feuer-Angriffe jeglicher Art machen ihm nichts aus.",
         "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. É capaz de resistir a qualquer ataque de fogo.",
         "zh-tw": "一身的毛皮絕不會被點燃。遭受任何火焰攻擊都能安然無恙。",
-        ja: "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+        ja: "体を 覆う 毛皮は ぜったいに 燃えたりしない。 どんな 炎攻撃も 平気だ。",
         ko: "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack."
     },
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Hitzewelle",
                 "zh-tw": "熱風",
                 "pt-br": "Onda de Calor",
-                ja: "Heat Wave",
+                ja: "ねっぷう",
                 ko: "Heat Wave"
             },
             effect: {
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
-                ja: "Your opponent's Active Pokémon is now Burned.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "Your opponent's Active Pokémon is now Burned."
             },
             damage: 30

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/021"
     },
     name: {
         en: "Wimpod",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wimpod",
         de: "Reißlaus",
         'pt-br': "Wimpod",
+        ja: "コソクムシ",
         ko: "꼬시레",
         "zh-tw": "膽小蟲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Poiché mangia di tutto, anche immondizia e\nsostanze putrescenti, è detto lo spazzino della\nnatura. Attorno alla sua tana regna la pulizia.",
         de: "Sie sind natürliche Reinigungskräfte und fressen\nalles, inklusive vergammeltem Essen und Müll.\nIn der Nähe ihrer Nester ist es immer sauber.",
         'pt-br': "Este Pokémon é o faxineiro da natureza e come de tudo,\naté lixo e coisas estragadas. A área ao redor do seu ninho\nestá sempre limpa.",
+        ja: "腐ったものや ゴミでも なんでも 食べまわる 自然の 掃除屋。 巣の まわりは いつも きれい。",
         ko: "상한 것이든 쓰레기든 닥치는 대로\n먹어 치우는 자연의 청소부.\n둥지 주변은 언제나 깨끗하다.",
         "zh-tw": "它是大自然的清潔者——牠吃任何東西，包括垃圾和腐爛的東西。它巢穴附近的地面總是乾淨的。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Fuggifuggi",
                 de: "Reißaus",
                 'pt-br': "Amarelar",
+                ja: "にげごし",
                 ko: "도망태세",
                 "zh-tw": "懦弱出局"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Durante il tuo primo turno, questo Pokémon non ha costo di ritirata.",
                 de: "Während deines ersten Zuges hat dieses Pokémon keine Rückzugskosten.",
                 'pt-br': "Durante o seu primeiro turno, este Pokémon não terá custo de Recuo.",
+                ja: "最初の自分の番、このポケモンのにげるためのエネルギーを、すべてなくす。",
                 ko: "자신의 첫 번째 차례에 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
                 "zh-tw": "在你的第一個回合中，這只神奇寶貝沒有撤退費用。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 'pt-br': "Roída",
+                ja: "かじる",
                 ko: "갉기",
                 "zh-tw": "啃"
             },

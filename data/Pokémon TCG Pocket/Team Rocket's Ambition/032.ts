@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/032",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/032",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/032"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/032"
     },
     name: {
         en: "Meowstic",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando avverte un pericolo, sprigiona il suo potere psichico alla massima potenza senza curarsi di chi ha davanti.",
         de: "Wenn es Gefahr wittert, setzt es die maximale Ladung seiner Psycho-Kräfte frei. Auf Gegner nimmt es keine Rücksicht.",
         "pt-br": "Quando pressente o perigo, libera seu poder psíquico ao máximo, sem nenhuma consideração por seus oponentes.",
-        "zh-tw": "一旦感知到危險，就會釋放最高強度的精神力量，導致連自己都不會記得當時的事。"
+        "zh-tw": "一旦感知到危險，就會釋放最高強度的精神力量，導致連自己都不會記得當時的事。",
+        ja: "危険を 感じると サイコパワーを 最大出力で 放射。 相手のことなど 気にしていない。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Superpsico",
                 de: "Super-Psischlag",
                 "pt-br": "Super-raio Psíquico",
-                "zh-tw": "超念力"
+                "zh-tw": "超念力",
+                ja: "ちょうねんりき"
             },
             damage: 70
         }

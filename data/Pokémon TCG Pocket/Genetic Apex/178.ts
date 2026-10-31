@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/178",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/178",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/178",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/178"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/178",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/178"
     },
     name: {
         en: "Mawile",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mawile",
         de: "Flunkifer",
         'pt-br': "Mawile",
+        ja: "クチート",
         ko: "입치트",
         "zh-tw": "大嘴娃",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Sgranocchio",
                 de: "Knirscher",
                 'pt-br': "Mastigada",
+                ja: "かみくだく",
                 ko: "깨물어부수기",
                 "zh-tw": "緊縮"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Distrae i nemici con la sua faccia innocente,\nper poi azzannarli con le sue possenti mascelle.\nNon molla la presa a nessun costo.",
         de: "Mit seinem friedlichen Gesicht wiegt es Gegner\nin Sicherheit und beißt dann mit seinem riesigen\nKiefer zu. Danach gibt es kein Entkommen mehr.",
         'pt-br': "Usa seu rosto dócil para fazer seus inimigos\ncomplacentes e então os morde com suas\nmandíbulas enormes sem dar trégua.",
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。",
         ko: "얌전한 얼굴로 상대를 방심하게\n만들고 큰 턱으로 덥석 문다.\n한번 물면 절대로 놓지 않는다.",
         "zh-tw": "它用它看起來溫順的臉來讓敵人陷入自滿，然後用它巨大的、無情的下巴撕咬。"
     },

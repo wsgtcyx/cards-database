@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/093"
     },
     name: {
         en: "Cloyster",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cloyster",
         "de": "Austos",
         "pt-br": "Cloyster",
-        "zh-tw": "刺甲貝"
+        "zh-tw": "刺甲貝",
+        ja: "パルシェン"
     },
     illustrator: "whomor Inc.",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Shellder",
         "de": "Muschas",
         "pt-br": "Shellder",
-        "zh-tw": "大舌貝"
+        "zh-tw": "大舌貝",
+        ja: "シェルダー"
     },
     description: {
         en: "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Cloyster che vive in mari con forti correnti di marea\nsviluppano punte grandi e affilate sui loro gusci.",
         "de": "Cloyster, die in Meeren mit starken Gezeitenströmungen leben\nAuf ihrem Panzer wachsen große, scharfe Stacheln.",
         "pt-br": "Cloyster que vive em mares com fortes correntes de maré\ncrescem pontas grandes e afiadas em suas conchas.",
-        "zh-tw": "生活在潮汐洶湧的海洋中的梭蚌\n它們的殼上長出又大又尖的尖刺。"
+        "zh-tw": "生活在潮汐洶湧的海洋中的梭蚌\n它們的殼上長出又大又尖的尖刺。",
+        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 50,
             cost: ["Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

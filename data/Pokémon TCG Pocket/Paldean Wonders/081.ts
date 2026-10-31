@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/081",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/081",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/081"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/081"
     },
     name: {
         en: "Tandemaus",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Zwieps",
         "pt-br": "Tandemaus",
         "zh-tw": "一對鼠",
+        ja: "ワッカネズミ",
         pt: "Tandemaus"
     },
     illustrator: "Akira Komayama",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "La coppia resta unita, qualunque cosa accada. Dividono il cibo che trovano esattamente a metà e poi lo mangiano insieme.",
         "de": "Das Paar hält zusammen, egal was passiert. Sie teilen jedes Futter, das sie finden, genau in zwei Hälften und essen es dann gemeinsam.",
         "pt-br": "O par permanece unido, não importa o que aconteça. Eles dividem qualquer alimento que encontram exatamente pela metade e depois comem juntos.",
-        "zh-tw": "無論如何，這一對都會粘在一起。他們把找到的食物精確地分成兩半，然後一起吃。"
+        "zh-tw": "無論如何，這一對都會粘在一起。他們把找到的食物精確地分成兩半，然後一起吃。",
+        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Doppelschlag",
                 "pt-br": "Golpe Duplo",
                 "zh-tw": "雙重打擊",
+                ja: "ダブルアタック",
                 pt: "Golpe Duplo"
             },
             damage: "30×",
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。"
             },
         },
     ],

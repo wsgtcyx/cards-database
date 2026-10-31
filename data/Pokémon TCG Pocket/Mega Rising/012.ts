@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/012"
     },
     name: {
         en: "Breloom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kapilz",
         "pt-br": "Breloom",
         "zh-tw": "斗笠菇",
+        ja: "キノガッサ",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Knilz",
         "pt-br": "Shroomish",
         "zh-tw": "蘑蘑菇",
+        ja: "キノココ",
     },
     description: {
         en: "The seeds on its tail are made of toxic spores.\nIt knocks out foes with quick, virtually invisible\npunches.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "I semi sulla sua coda sono fatti di spore tossiche.\nMette KO i nemici con rapidità, praticamente invisibile\npugni.",
         "de": "Die Samen an seinem Schwanz bestehen aus giftigen Sporen.\nEs schlägt Feinde schnell und praktisch unsichtbar nieder\nSchläge.",
         "pt-br": "As sementes em sua cauda são feitas de esporos tóxicos.\nEle nocauteia inimigos com golpes rápidos e virtualmente invisíveis\nsocos.",
-        "zh-tw": "它尾巴上的種子是由有毒孢子製成的。\n它以幾乎隱形的速度擊倒敵人\n拳頭。"
+        "zh-tw": "它尾巴上的種子是由有毒孢子製成的。\n它以幾乎隱形的速度擊倒敵人\n拳頭。",
+        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bomba di semi",
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
-                "zh-tw": "種子炸彈"
+                "zh-tw": "種子炸彈",
+                ja: "タネばくだん"
             },
             damage: 40,
             cost: ["Grass"]

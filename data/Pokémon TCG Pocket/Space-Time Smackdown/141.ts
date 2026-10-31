@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/141"
     },
     name: {
         en: "Chatot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chatot",
         de: "Plaudagei",
         'pt-br': "Chatot",
+        ja: "ペラップ",
         ko: "페라페",
         "zh-tw": "聒噪鳥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Imita la voce dei nemici per far credere che\nè dei loro, evitando così di essere assalito.",
         de: "Es versucht Attacken zu entgehen, indem es den Ruf\ndes Gegners nachahmt und einen Artgenossen mimt.",
         'pt-br': "Imita os gritos dos outros Pokémon para levá-los a acreditar\nque é um deles. Assim, eles não o atacam.",
+        ja: "相手と 同じ 鳴き声を 出す ことで 仲間と 思いこませて 襲われないように しているのだ。",
         ko: "상대와 같은 울음소리를 내서\n동료라고 굳게 믿게 하여\n습격당하지 않도록 하고 있다.",
         "zh-tw": "它模仿其他神奇寶貝的叫聲，讓它們誤以為它是其中之一。這樣他們就不會攻擊它。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Furia",
                 de: "Furienschlag",
                 'pt-br': "Ataque de Fúria",
+                ja: "みだれづき",
                 ko: "마구찌르기",
                 "zh-tw": "狂怒攻擊"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 3 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 3 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+                ja: "コインを3回投げ、オモテの数×20ダメージ。",
                 ko: "동전을 3번 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
             }

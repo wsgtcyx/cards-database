@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Audit the six product locales across explicit Serie, Set, Booster, Card,
+ * Audit the selected product locales across explicit Serie, Set, Booster, Card,
  * Item, Attack, and Ability schema paths. It never infers locales from every
  * object key, so structural keys such as `id` cannot become false languages.
  */
@@ -14,6 +14,7 @@ import ts from 'typescript'
 
 import {
 	TARGET_LOCALES,
+	REVIEW_LOCALES,
 	arrayProperty,
 	findProperty,
 	findVariableObject,
@@ -64,7 +65,7 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 		})
 		return
 	}
-	for (const locale of TARGET_LOCALES) {
+	for (const locale of state.locales) {
 		const property = findProperty(object, locale)
 		const initializer = propertyInitializer(property)
 		const current = staticString(initializer, context.sourceFile)
@@ -72,6 +73,11 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 		if (!property) kind = 'missing'
 		else if (current === undefined) kind = 'non-string'
 		else if (current.trim().length === 0) kind = 'empty'
+		else if (locale === 'ja' && context.scope === 'card' && fieldPath === 'image' && current === english) kind = 'image-fallback'
+		else if (locale === 'ja' && context.scope === 'card' && fieldPath !== 'image'
+			&& /[A-Za-z]/u.test(english) && current === english) kind = 'english-fallback'
+		else if (locale === 'ja' && fieldPath !== 'image'
+			&& /\[(?:Text:|Num:|Gr:|Img:|Ctrl:)|\bTODO\b/u.test(current)) kind = 'unresolved-markup'
 		else continue
 		state.issues.push({
 			scope: context.scope,
@@ -249,7 +255,7 @@ function sortedCountObject(object) {
 
 function reportSummary(state, entities) {
 	const byScope = { series: 0, set: 0, card: 0 }
-	const byLocale = Object.fromEntries(TARGET_LOCALES.map(locale => [locale, 0]))
+	const byLocale = Object.fromEntries(state.locales.map(locale => [locale, 0]))
 	const byField = {}
 	const byKind = {}
 	for (const issue of state.issues) {
@@ -261,7 +267,8 @@ function reportSummary(state, entities) {
 	return {
 		entities,
 		localizedObjects: state.localizedObjects,
-		missingValues: state.issues.length,
+		missingValues: state.issues.filter(issue => ['missing', 'empty', 'non-string'].includes(issue.kind)).length,
+		invalidValues: state.issues.filter(issue => ['english-fallback', 'image-fallback', 'unresolved-markup'].includes(issue.kind)).length,
 		structuralErrors: state.errors.length,
 		byScope,
 		byLocale,
@@ -270,11 +277,14 @@ function reportSummary(state, entities) {
 	}
 }
 
-export function auditPocketLocalizationMetadata({ repoRoot, dataRoot }) {
+export function auditPocketLocalizationMetadata({ repoRoot, dataRoot, locales = TARGET_LOCALES }) {
+	if (!Array.isArray(locales) || !locales.length || locales.some(locale => !REVIEW_LOCALES.includes(locale)) || new Set(locales).size !== locales.length) {
+		throw new Error('locales must be unique supported Pocket locales')
+	}
 	const resolvedRepoRoot = fs.realpathSync(path.resolve(repoRoot))
 	const resolvedDataRoot = fs.realpathSync(path.resolve(resolvedRepoRoot, dataRoot))
 	relativePosix(resolvedRepoRoot, resolvedDataRoot)
-	const state = { localizedObjects: 0, issues: [], errors: [] }
+	const state = { locales, localizedObjects: 0, issues: [], errors: [] }
 	const entries = fs.readdirSync(resolvedDataRoot, { withFileTypes: true })
 	const setEntries = entries.filter(entry => entry.isFile() && entry.name.endsWith('.ts')).sort((left, right) => left.name.localeCompare(right.name))
 	const cardDirectories = entries.filter(entry => entry.isDirectory()).sort((left, right) => left.name.localeCompare(right.name))
@@ -358,13 +368,13 @@ export function auditPocketLocalizationMetadata({ repoRoot, dataRoot }) {
 
 	state.issues.sort((left, right) => left.file.localeCompare(right.file)
 		|| left.path.localeCompare(right.path)
-		|| TARGET_LOCALES.indexOf(left.locale) - TARGET_LOCALES.indexOf(right.locale))
+		|| locales.indexOf(left.locale) - locales.indexOf(right.locale))
 	state.errors.sort((left, right) => left.file.localeCompare(right.file) || left.path.localeCompare(right.path))
 	const report = {
 		schemaVersion: 1,
 		operation: 'audit-pocket-localization-metadata',
 		generatedAt: new Date().toISOString(),
-		targetLocales: [...TARGET_LOCALES],
+		targetLocales: [...locales],
 		passed: state.issues.length === 0 && state.errors.length === 0,
 		summary: reportSummary(state, entities),
 		issues: state.issues,
@@ -376,7 +386,9 @@ export function auditPocketLocalizationMetadata({ repoRoot, dataRoot }) {
 function main() {
 	const repoRoot = path.resolve(cliValue('repo-root', SCRIPT_ROOT))
 	const dataRoot = cliValue('data-root', 'data/Pokémon TCG Pocket')
-	const report = auditPocketLocalizationMetadata({ repoRoot, dataRoot })
+	const requestedLocales = cliValue('locales')
+	const locales = requestedLocales === undefined ? TARGET_LOCALES : requestedLocales.split(',')
+	const report = auditPocketLocalizationMetadata({ repoRoot, dataRoot, locales })
 	const json = `${JSON.stringify(report, null, 2)}\n`
 	const output = cliValue('output')
 	if (output) fs.writeFileSync(path.resolve(output), json)

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/215",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/215",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/215"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/215"
     },
     name: {
         en: "Fuecoco ex",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "Bite",
+                ja: "かみつく",
                 ko: "Bite"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Freche Flammen",
                 "pt-br": "Labareda Geniosa",
                 "zh-tw": "氣鼓鼓火焰",
-                ja: "Feisty Flames",
+                ja: "げきおこファイヤー",
                 ko: "Feisty Flames"
             },
             cost: [
@@ -86,7 +87,7 @@ const card: Card = {
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢有受到傷害,則增加70點傷害。",
-                ja: "If this Pokémon has damage on it, this attack does 70 more damage.",
+                ja: "このポケモンがダメージを受けているなら、70ダメージ追加。",
                 ko: "If this Pokémon has damage on it, this attack does 70 more damage."
             }
         }

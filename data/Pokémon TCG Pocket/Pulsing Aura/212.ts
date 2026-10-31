@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/212",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/212",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/212"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/212"
     },
     name: {
         en: "Zubat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive in grotte mai rischiarate dalla luce del sole.\nQuando si fa giorno, si raggruppa con i suoi\nsimili per scaldarsi mentre dorme.",
         de: "Zubat leben tief in Höhlen, wo das Sonnenlicht\nsie nicht erreicht. Bei Tagesanbruch rücken sie\nzusammen, um sich im Schlaf zu wärmen.",
         "pt-br": "Zubat vivem em cavernas, onde a luz do sol não alcança. De manhã, eles se reúnem para se aquecerem enquanto dormem.",
-        "zh-tw": "棲息在陽光照射不到的洞窟裡。\n到了早上就會和夥伴相聚，\n一邊互相取暖一邊睡覺。"
+        "zh-tw": "棲息在陽光照射不到的洞窟裡。\n到了早上就會和夥伴相聚，\n一邊互相取暖一邊睡覺。",
+        ja: "陽の 当たらない 洞窟に 棲む。 朝になると 仲間で 集まり 体を 温めあいながら 寝る。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Girotondo",
                 de: "Absatzdreher",
                 "pt-br": "Volta Giratória",
-                "zh-tw": "旋轉迴旋"
+                "zh-tw": "旋轉迴旋",
+                ja: "スピンターン"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。"
+                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             },
             damage: 10
         }

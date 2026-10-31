@@ -12,7 +12,7 @@ description: Build auditable Pokémon TCG Pocket card metadata by merging PokeOS
 
 完整读取 [source contract](references/source-contract.md) 和
 [端到端门禁](../sync-pocket-set/references/end-to-end-playbook.md)。需要卡图识别时遵循
-`$paddleocr-text-recognition`；需要 locale 补全时遵循 `$add-pocket-translations`。
+`$paddleocr-text-recognition`；日语文本、卡图与下游接入还需读取 [日语契约](../add-pocket-translations/references/japanese.md)；需要 locale 补全时遵循 `$add-pocket-translations`。
 修改触发描述或来源职责后，用 [路由用例](evals/trigger_cases.json) 回归近邻分流。
 
 - 固定完整 commit、真实 release asset、抓取时间、HTTP metadata/body SHA-256 和许可证；搜索

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/079",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/079",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/079"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/079"
     },
     name: {
         en: "Celebi", fr: "Celebi", es: "Celebi", it: "Celebi", de: "Celebi",
@@ -27,7 +28,8 @@ const card: Card = {
         type: "Ability",
         name: {
             en: "Time Recall", fr: "Rappel Temporel", es: "Retroceso en el Tiempo", it: "Richiamo temporale", de: "Zeitrückruf",
-            "pt-br": "Retorno no Tempo", "zh-tw": "時光回溯"
+            "pt-br": "Retorno no Tempo", "zh-tw": "時光回溯",
+            ja: "タイムリコール"
         },
         effect: {
             en: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
@@ -36,12 +38,13 @@ const card: Card = {
             it: "Ciascuno dei tuoi Pokémon evoluti può usare qualsiasi attacco delle sue Evoluzioni precedenti. (Hai comunque bisogno dell'Energia necessaria per usare ogni attacco.)",
             de: "Jedes deiner entwickelten Pokémon kann jede Attacke seiner vorherigen Entwicklungsstufen einsetzen. (Du benötigst weiterhin die notwendige Energie, um die jeweilige Attacke einzusetzen.)",
             "pt-br": "Cada um dos seus Pokémon evoluídos pode usar qualquer ataque de suas Evoluções anteriores. (Você ainda precisa da Energia necessária para usar cada ataque.)",
-            "zh-tw": "只要這隻寶可夢在場上，自己的所有進化寶可夢，可使用進化前持有的所有招式。[需要有足夠使用招式的能量。]"
+            "zh-tw": "只要這隻寶可夢在場上，自己的所有進化寶可夢，可使用進化前持有的所有招式。[需要有足夠使用招式的能量。]",
+            ja: "このポケモンがいるかぎり、自分の進化しているポケモン全員は、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]"
         }
     }],
     attacks: [{
         cost: ["Colorless", "Colorless"],
-        name: { en: "Smack", fr: "Claque", es: "Palmetazo", it: "Schiaffo", de: "Klatscher", "pt-br": "Estalo", "zh-tw": "掌擊" },
+        name: { en: "Smack", fr: "Claque", es: "Palmetazo", it: "Schiaffo", de: "Klatscher", "pt-br": "Estalo", "zh-tw": "掌擊", ja: "ひらてうち" },
         damage: 30
     }],
     weaknesses: [{ type: "Fire", value: "+20" }],

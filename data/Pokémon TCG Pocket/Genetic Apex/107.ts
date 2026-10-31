@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/107",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/107"
     },
     name: {
         en: "Tynamo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tynamo",
         de: "Zapplardin",
         'pt-br': "Tynamo",
+        ja: "シビシラス",
         ko: "저리어",
         "zh-tw": "麻麻小魚",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Sottocarica Minuscola",
                 de: "Mini-Stromstoß",
                 'pt-br': "Carga Pequenina",
+                ja: "プチでんき",
                 ko: "프티전기",
                 "zh-tw": "微小的電荷"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "La carica elettrica di un Tynamo è\ndebole, ma se più esemplari si uniscono\nraggiungono la potenza di un fulmine.",
         de: "Allein erzeugt es nur wenig Strom, doch wenn\nsich viele Zapplardin miteinander verbinden,\ngleicht ihre Kraft der eines Blitzes.",
         'pt-br': "Enquanto um sozinho não é tão poderoso, uma corrente\nde vários Tynamo pode ser tão forte quanto um raio.",
+        ja: "１匹の 電力は 小さいが たくさんの シビシラスが つながると 雷と 同じ 威力になる。",
         ko: "한 마리의 전력은 적지만\n많은 저리어가 연결되면\n번개와 같은 위력이 된다.",
         "zh-tw": "雖然單個 Tynamo 的力量並不大，但許多 Tynamo 的鏈條可以像閃電一樣強大。"
     },

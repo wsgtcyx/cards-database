@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/098"
     },
     name: {
         en: "Sneasel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sneasel",
         de: "Sniebel",
         'pt-br': "Sneasel",
+        ja: "ニューラ",
         ko: "포푸니",
         "zh-tw": "狃拉",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Questo scaltro Pokémon si cela\nnell'oscurità per lanciarsi sulla preda.",
         de: "Dieses hinterlistige Pokémon nutzt den Schutz der\nDunkelheit, um ahnungsloser Beute aufzulauern.",
         'pt-br': "Este Pokémon astuto se esconde na escuridão,\nesperando para atacar sua presa.",
+        ja: "自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。",
         ko: "눈에 띄지 않도록\n어둠 속에 숨어서 먹이를 습격하는\n매우 교활한 포켓몬이다.",
         "zh-tw": "這種狡猾的神奇寶貝隱藏在黑暗的掩護下，等待攻擊獵物。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Doppio Graffio",
                 de: "Doppelkratzer",
                 'pt-br': "Arranhão Duplo",
+                ja: "ダブルひっかき",
                 ko: "더블할퀴기",
                 "zh-tw": "雙划痕"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
             }

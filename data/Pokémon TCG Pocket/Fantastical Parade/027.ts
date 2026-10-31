@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/027"
     },
     name: {
         en: "Hearthflame Mask Ogerpon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ogerpon Maschera Focolare",
         "de": "Ofenmaske-Ogerpon",
         "pt-br": "Ogerpon Máscara Fornalha",
-        "zh-tw": "厄鬼椪火灶面具"
+        "zh-tw": "厄鬼椪火灶面具",
+        ja: "オーガポンかまどのめん"
     },
     illustrator: "Nurikabe",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "In questa forma, attinge al potere del fuoco.\nTrafigge i suoi nemici con l'edera ricoperta di spine.",
         "de": "In dieser Form nutzt es die Kraft des Feuers.\nEs spießt seine Feinde mit dornenbedecktem Efeu auf.",
         "pt-br": "Nesta forma, ele utiliza o poder do fogo.\nEle perfura seus inimigos com hera coberta de espinhos.",
-        "zh-tw": "在這種形式下，它利用了火的力量。\n它用長滿荊棘的常春藤來攻擊敵人。"
+        "zh-tw": "在這種形式下，它利用了火的力量。\n它用長滿荊棘的常春藤來攻擊敵人。",
+        ja: "炎の力を 引き出す 姿。 トゲの ついた ツタを 槍のように 操り 敵を 貫く。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Danza del focolare",
                 "de": "Hearthflame-Tanz",
                 "pt-br": "Dança da Chama da Lareira",
-                "zh-tw": "爐火之舞"
+                "zh-tw": "爐火之舞",
+                ja: "かまどのまい"
             },
             damage: 40,
             cost: ["Fire", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, prendi 2 Energie {R} dalla tua Zona Energetica e assegnale a 1 dei tuoi Pokémon in panchina.",
                 "de": "Wirf eine Münze. Bei „Kopf“ nimm 2 {R}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Jogue uma moeda. Se der cara, pegue 2 {R} Energias da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "拋一枚硬幣。如果正面，從你的能量區取出 2 個 {R} 能量並將其附加到你的 1 只後備神奇寶貝上。"
+                "zh-tw": "拋一枚硬幣。如果正面，從你的能量區取出 2 個 {R} 能量並將其附加到你的 1 只後備神奇寶貝上。",
+                ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、ベンチポケモン1匹につける。"
             }
         }],
     weaknesses: [{

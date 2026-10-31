@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/036",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/036",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/036"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/036"
     },
     name: {
         en: "Marowak",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Evolvendosi è diventato tutt'uno con il teschio della madre che prima indossava e ha acquisito un temperamento violento.",
         de: "Durch die Entwicklung wurde der Schädel seiner Mutter, den es stets trug, zu einem Teil von ihm und es bekam einen aggressiven Charakter.",
         "pt-br": "Quando este Pokémon evolulu, o crânio de sua mãe se fundiu a ele. Ao mesmo tempo, o temperamento de Marowak se tornou cruel.",
-        "zh-tw": "進化時，原本戴在頭上的頭骨跟著化為了牠身體的一部分。不但如此，性格也變得很凶暴。"
+        "zh-tw": "進化時，原本戴在頭上的頭骨跟著化為了牠身體的一部分。不但如此，性格也變得很凶暴。",
+        ja: "進化して 被っていた 母親の 骨が 一体化して そのうえ 凶暴な 性格に 変わった。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Castigo",
                 de: "Bestrafung",
                 "pt-br": "Punir",
-                "zh-tw": "懲治"
+                "zh-tw": "懲治",
+                ja: "こらしめる"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario ha \"Team Rocket\" nel nome, questo attacco infligge 70 danni in più.",
                 de: "Wenn „Team Rocket“ zum Namen des Aktiven Pokémon deines Gegners gehört, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver “Equipe Rocket” em seu nome, este ataque causará 70 pontos de dano a mais.",
-                "zh-tw": "若對手的戰鬥寶可夢為名稱中有「火箭隊」的寶可夢,則增加70點傷害。"
+                "zh-tw": "若對手的戰鬥寶可夢為名稱中有「火箭隊」的寶可夢,則增加70點傷害。",
+                ja: "相手のバトルポケモンが名前に「ロケット団」とつくポケモンなら、70ダメージ追加。"
             },
             damage: "50+"
         }

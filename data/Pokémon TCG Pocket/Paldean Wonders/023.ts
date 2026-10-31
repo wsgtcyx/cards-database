@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/023",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/023",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/023"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/023"
     },
     name: {
         en: "Quaxwell",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Fuentente",
         "pt-br": "Quaxwell",
         "zh-tw": "湧躍鴨",
+        ja: "ウェルカモ",
         pt: "Quaxwell"
     },
     illustrator: "kirisAki",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Kwaks",
         "pt-br": "Quaxly",
         "zh-tw": "潤水鴨",
+        ja: "クワッス",
         pt: "Quaxly"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Il laborioso Quaxwell osserva persone e Pokémon provenienti da varie regioni e incorpora i loro movimenti nelle sue coreografie.",
         "de": "Der fleißige Fuentente beobachtet Menschen und Pokémon aus verschiedenen Regionen und integriert deren Bewegungen in seine eigenen Tanzroutinen.",
         "pt-br": "O trabalhador Quaxwell observa pessoas e Pokémon de várias regiões e incorpora seus movimentos em suas próprias rotinas de dança.",
-        "zh-tw": "勤奮的湧躍鴨觀察來自不同地區的人和寶可夢，並將他們的動作融入自己的舞蹈動作中。"
+        "zh-tw": "勤奮的湧躍鴨觀察來自不同地區的人和寶可夢，並將他們的動作融入自己的舞蹈動作中。",
+        ja: "様々な 地方の ポケモンや 人の 動きを 見て 自らの 踊りに 取り入れる 努力家。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Platschende Drehung",
                 "pt-br": "Salpicos de volta",
                 "zh-tw": "濺水轉彎",
+                ja: "スプラッシュターン",
                 pt: "Giro Borrifante"
             },
             damage: "40",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 pt: "Troque este Pokémon por 1 dos seus Pokémon no Banco."
             },
         },

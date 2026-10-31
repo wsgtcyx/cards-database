@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/086"
     },
     name: {
         en: "Penny",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Cosima",
         "pt-br": "Penélope",
         "zh-tw": "牡丹",
+        ja: "ボタン",
     },
     illustrator: "Susumu Maeya",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Guarda una carta Aiuto casuale che non sia Penny dal mazzo del tuo avversario e rimescolala nel suo mazzo. Usa l'effetto di quella carta come effetto di questa carta.",
         "de": "Schauen Sie sich eine zufällige Unterstützerkarte aus dem Deck Ihres Gegners an, die nicht Penny ist, und mischen Sie sie zurück in sein Deck. Benutze den Effekt dieser Karte als Effekt dieser Karte.",
         "pt-br": "Olhe para uma carta de Apoiador aleatória que não seja Penny do baralho do seu oponente e embaralhe-a de volta no baralho dele. Use o efeito daquela carta como o efeito desta carta.",
-        "zh-tw": "從對手的牌庫中隨機查看一張非 Penny 的支持者牌，然後將其洗回到對手的牌庫中。那張卡的效果當作這張卡的效果使用。"
+        "zh-tw": "從對手的牌庫中隨機查看一張非 Penny 的支持者牌，然後將其洗回到對手的牌庫中。那張卡的效果當作這張卡的效果使用。",
+        ja: "相手の山札からサポート(「ボタン」をのぞく)をランダムに1枚、オモテを見て、相手の山札にもどす。そのサポートの効果を、このカードの効果として使う。"
     },
     trainerType: "Supporter"
 };

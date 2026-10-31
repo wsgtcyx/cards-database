@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/009",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/009",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/009"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/009"
     },
     name: {
         en: "Team Rocket's Houndoom",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "I suoi terrificanti latrati fanno tremare gli altri Pokémon, che si precipitano così nelle proprie tane.",
         de: "Wenn andere Pokémon sein gruseliges Geheul hören, erschaudern sie und eilen Hals über Kopf zurück in ihren Unterschlupf.",
         "pt-br": "Quando ouvem seus uivos misteriosos, outros Pokémon ficam assustados e voltam imediatamente para seus ninhos.",
-        "zh-tw": "聽見牠恐怖長嚎的寶可夢會渾身發抖，一溜煙地回到自己的巢裡。"
+        "zh-tw": "聽見牠恐怖長嚎的寶可夢會渾身發抖，一溜煙地回到自己的巢裡。",
+        ja: "不気味な 遠吠えを 聞いた ポケモンは 震え 一目散に 自分の 巣に 戻る。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Zanne Pirotossiche",
                 de: "Giftfeuerfänge",
                 "pt-br": "Presa de Fogo Tóxico",
-                "zh-tw": "毒熱牙"
+                "zh-tw": "毒熱牙",
+                ja: "どくねつのキバ"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned and Burned.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato e bruciato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Queimado.",
-                "zh-tw": "將對手的戰鬥寶可夢中毒與灼傷。"
+                "zh-tw": "將對手的戰鬥寶可夢中毒與灼傷。",
+                ja: "相手のバトルポケモンをどくとやけどにする。"
             },
             damage: 20
         }

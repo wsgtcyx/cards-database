@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/139",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/139",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/139"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/139"
     },
     name: {
         en: "Unfezant",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È tanto intelligente quanto orgoglioso.\nDiventare Allenatori di questo Pokémon equivale\na guadagnarsi il rispetto e l’ammirazione di tutti.",
         de: "Es ist schlau, aber auch sehr stolz. Seine Trainer\ngenießen daher generell großen Respekt.",
         "pt-br": "Esse Pokémon é inteligente e extremamente orgulhoso. Você chamará a atenção das pessoas ao se tornar seu Treinador.",
-        "zh-tw": "頭腦聰明，所以自尊心也強。\n如果能成為高傲雉雞的訓練家，\n所有人都會對你刮目相看。"
+        "zh-tw": "頭腦聰明，所以自尊心也強。\n如果能成為高傲雉雞的訓練家，\n所有人都會對你刮目相看。",
+        ja: "賢いぶん プライドも 高い。 ケンホロウの トレーナーに なれば みんなに 一目 置かれるよ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Volo",
                 de: "Fliegen",
                 "pt-br": "Voar",
-                "zh-tw": "飛翔"
+                "zh-tw": "飛翔",
+                ja: "そらをとぶ"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
-                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             },
             damage: 90
         }

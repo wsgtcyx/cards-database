@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/004",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/004",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/004"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/004"
     },
     name: {
         en: "Caterpie",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es hat Saugnäpfe an den Beinchen, mit denen es mühelos Steigungen und Mauern erklimmen kann.",
         "pt-br": "Seus pés curtos contam com ventosas que permitem que escale penhascos e paredes sem se cansar.",
         "zh-tw": "別看牠的腳很短，因為是吸盤，所以無論是斜坡還是牆壁都能輕鬆前進。",
-        ja: "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        ja: "脚は 短いが 吸盤に なっているので 坂でも 壁でも くたびれることなく 進んでいく。",
         ko: "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
     },
     abilities: [
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Wachstumsspurt",
                 "pt-br": "Estirão Acelerado",
                 "zh-tw": "成長期",
-                ja: "Quick Growth",
+                ja: "のびざかり",
                 ko: "Quick Growth"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Lege am Ende des Zuges deines Gegners, wenn dieses Pokémon in der Aktiven Position ist, eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es zu entwickeln.",
                 "pt-br": "No final do turno do seu oponente, se este Pokémon estiver no Campo Ativo, coloque uma carta aleatória do seu baralho que evolua deste Pokémon sobre este Pokémon para evoluí-lo.",
                 "zh-tw": "在對手的回合結束時,若這隻寶可夢在戰鬥場上,則從自己的牌庫隨機將1張從這隻寶可夢進化而來的卡,放置於這隻寶可夢身上完成進化。",
-                ja: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
+                ja: "相手の番の終わりに、このポケモンがバトル場にいるなら、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
                 ko: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
             }
         }
@@ -85,7 +86,7 @@ const card: Card = {
                 de: "Haken",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
-                ja: "Hook",
+                ja: "ひっかける",
                 ko: "Hook"
             },
             damage: 10

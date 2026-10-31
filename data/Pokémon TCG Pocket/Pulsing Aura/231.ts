@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/231",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/231",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/231",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/231"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/231",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/231"
     },
     name: {
         en: "Dragalge ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Velenopunto",
                 de: "Giftdorn",
                 "pt-br": "Ponto Venenoso",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒刺",
+                ja: "どくのトゲ"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, il Pokémon attaccante è avvelenato.",
                 de: "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, ist das angreifende Pokémon jetzt vergiftet.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, o Pokémon atacante ficará Envenenado.",
-                "zh-tw": "如果該寶可夢位於活動點並因對手寶可夢的攻擊而受到傷害，則攻擊的寶可夢現在會中毒。"
+                "zh-tw": "如果該寶可夢位於活動點並因對手寶可夢的攻擊而受到傷害，則攻擊的寶可夢現在會中毒。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。"
             }
         }
     ],
@@ -74,7 +77,8 @@ const card: Card = {
                 it: "Frustata del Drago",
                 de: "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
-                "zh-tw": "龍之鞭打"
+                "zh-tw": "龍之鞭打",
+                ja: "ドラゴンウィップ"
             },
             damage: 80
         }

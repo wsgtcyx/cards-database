@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/232",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/232",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/232",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/232"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/232",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/232"
     },
     name: {
         en: "Raichu",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Se le tasche elettriche sulle sue guance si caricano completamente, entrambe le orecchie rimarranno dritte.",
         de: "Wenn die elektrischen Beutel in seinen Wangen vollständig aufgeladen sind, stellen sich beide Ohren gerade auf.",
         "pt-br": "Se as bolsas elétricas em suas bochechas ficarem totalmente carregadas, ambas as orelhas ficarão retas.",
-        "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。"
+        "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。",
+        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。"
     },
     abilities: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Evochoque",
                 "zh-tw": "進化衝擊",
                 "it": "Evoshock",
-                "de": "Evoschock"
+                "de": "Evoschock",
+                ja: "エボルショック"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
-                "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+                "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }
     ],
@@ -82,7 +86,8 @@ const card: Card = {
                 it: "Energisfera",
                 de: "Elektroball",
                 "pt-br": "Bola Elétrica",
-                "zh-tw": "電球"
+                "zh-tw": "電球",
+                ja: "エレキボール"
             },
             damage: 50
         }

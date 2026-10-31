@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/054",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/054",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/054"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/054"
     },
     name: {
         en: "Munchlax",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando divora con voracità il cibo, si dimentica del cibo che ha nascosto sotto la pelliccia.",
         de: "Wenn es gefräßig Nahrung verschlingt, vergisst es die Nahrung, die es unter seinem Fell versteckt hat.",
         "pt-br": "Quando engole vorazmente a comida, esquece-se da comida que escondeu sob o pêlo.",
-        "zh-tw": "當它貪婪地吞嚥食物時，它忘記了隱藏在皮毛下的食物。"
+        "zh-tw": "當它貪婪地吞嚥食物時，它忘記了隱藏在皮毛下的食物。",
+        ja: "必死に エサを 食べているうちに 体の 毛の下に 隠していた エサのことを 忘れてしまうのだ。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Disegna avidamente",
                 de: "Hungrig zeichnen",
                 "pt-br": "Desenhe com fome",
-                "zh-tw": "吃吃抽"
+                "zh-tw": "吃吃抽",
+                ja: "がつがつドロー"
             },
             effect: {
                 en: "Draw a card.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を枚引く。"
             },
             damage: 10
         }

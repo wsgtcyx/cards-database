@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/083"
     },
     name: {
         en: "Flaaffy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Waaty",
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
+        ja: "モココ",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
+        ja: "メリープ",
     },
     description: {
         en: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "A causa della sua pelle gommosa e resistente all'elettricità,\npuò immagazzinare molta elettricità nella sua pelliccia.",
         "de": "Aufgrund seiner gummiartigen, strombeständigen Haut\nEs kann viel Strom in seinem Fell speichern.",
         "pt-br": "Devido à sua pele emborrachada e resistente à eletricidade,\nele pode armazenar muita eletricidade em seu pelo.",
-        "zh-tw": "由於其橡膠狀、耐電的皮膚，\n它的皮毛可以儲存大量的電力。"
+        "zh-tw": "由於其橡膠狀、耐電的皮膚，\n它的皮毛可以儲存大量的電力。",
+        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pugno elettrico",
                 "de": "Elektrischer Schlag",
                 "pt-br": "Soco Elétrico",
-                "zh-tw": "電動沖床"
+                "zh-tw": "電動沖床",
+                ja: "ビリリパンチ"
             },
             damage: 40,
             cost: ["Lightning", "Colorless"]

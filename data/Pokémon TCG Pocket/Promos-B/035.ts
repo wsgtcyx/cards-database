@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/035",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/035"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/035"
     },
     name: {
         en: "Charcadet",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La sua potenza di fuoco aumenta quando combatte, raggiungendo oltre 1.800 gradi Fahrenheit. Gli piacciono le bacche ricche di grassi.",
         de: "Seine Feuerkraft erhöht sich im Kampf und erreicht über 1.800 Grad Fahrenheit. Es mag Beeren, die reich an Fett sind.",
         "pt-br": "Seu poder de fogo aumenta quando luta, chegando a mais de 1.800 graus Fahrenheit. Gosta de frutas vermelhas ricas em gordura.",
-        "zh-tw": "戰鬥時火力會增強，可達華氏 1,800 度以上。牠喜歡富含脂肪的漿果。"
+        "zh-tw": "戰鬥時火力會增強，可達華氏 1,800 度以上。牠喜歡富含脂肪的漿果。",
+        ja: "戦いになると 火力が 上がり 摂氏1000度に 達する。 油分の多い 木の実を 好む。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugno",
                 de: "Boxhieb",
                 "pt-br": "Soco",
-                "zh-tw": "出拳"
+                "zh-tw": "出拳",
+                ja: "パンチ"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/058"
     },
     name: {
         en: "Bronzor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bronzor",
         de: "Bronzel",
         'pt-br': "Bronzor",
+        ja: "ドーミラー",
         ko: "동미러",
         "zh-tw": "銅鏡怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Nell'antichità si credeva che una forza misteriosa\ndimorasse nei disegni sul dorso di Bronzor.",
         de: "Früher glaubten die Menschen, dem Muster auf\nseinem Rücken wohne eine mysteriöse Kraft inne.",
         'pt-br': "Os povos antigos acreditavam que o padrão nas costas\nde Bronzor continha um poder misterioso.",
+        ja: "ドーミラーの 背中の 模様には 神秘的な 力が 宿ると 昔の 人たちは 信じていた。",
         ko: "옛날 사람들은 동미러의\n등 무늬에 신비한 힘이\n깃들어 있다고 믿었다.",
         "zh-tw": "古人相信青銅佐背上的圖案蘊含著神秘的力量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },

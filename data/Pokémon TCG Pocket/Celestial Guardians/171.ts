@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/171",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/171"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/171"
     },
     name: {
         en: "Cosmog",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cosmog",
         de: "Cosmog",
         'pt-br': "Cosmog",
+        ja: "コスモッグ",
         ko: "코스모그",
         "zh-tw": "科斯莫古",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo corpo è formato da un gas instabile. Potrebbe volare via\nal minimo soffio di vento, ma non sembra preoccuparsene.",
         de: "Da sein Körper aus Gas besteht, kann es schon\nvon einem leichten Luftzug weggeweht werden.\nAber das scheint ihm nichts auszumachen.",
         'pt-br': "Seu corpo indefeso e gasoso pode ser carregado por\nbrisas leves, mas Cosmog não parece se importar muito.",
+        ja: "頼りない ガス状の 身体は ちょっとの 風にも 流されるが 全然 気にして いない 様子。",
         ko: "의지할 곳 없는 가스 상태의 몸은\n약한 바람에도 휩쓸리지만,\n전혀 신경 쓰지 않는 듯하다.",
         "zh-tw": "儘管它無能為力，氣態的身體只要微風一吹就會被吹走，但它卻似乎並不在意。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Teletrasporto",
                 de: "Teleport",
                 'pt-br': "Teleporte",
+                ja: "テレポート",
                 ko: "순간이동",
                 "zh-tw": "傳送"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Scambia questo Pokémon con uno della tua panchina.",
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 'pt-br': "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치 포켓몬과 교체한다.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
             }

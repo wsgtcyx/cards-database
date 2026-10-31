@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/166",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/166"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/166"
     },
     name: {
         en: "Nidoran♀",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidoran ♀",
         de: "Nidoran♀",
         'pt-br': "Nidoran♀",
+        ja: "ニドラン♀",
         ko: "니드런♀",
         "zh-tw": "尼多蘭",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Cerca Famiglia",
                 de: "Familienruf",
                 'pt-br': "Chamar a Família",
+                ja: "なかまをよぶ",
                 ko: "동료부르기",
                 "zh-tw": "呼叫家人"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Prendi un Nidoran ♂ a caso dal tuo mazzo e mettilo nella tua panchina.",
                 de: "Lege 1 zufälliges Nidoran♂ aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 Nidoran♂ aleatório do seu baralho no seu Banco.",
+                ja: "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
                 ko: "자신의 덱에서 「니드런♂」를 랜덤으로 1장 벤치로 내보낸다.",
                 "zh-tw": "從你的牌組中隨機將 1 張 Nidoran♂ 放到你的替補席上。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "È più sensibile agli odori rispetto ai maschi.\nCapta le correnti d'aria con le vibrisse e si\nposiziona sottovento per cercare le prede.",
         de: "Sie sind geruchsempfindlicher als Nidoran♂.\nAuf Nahrungssuche folgen sie der Windrichtung,\ndie sie mit ihren Tasthaaren ermitteln.",
         'pt-br': "As fêmeas possuem um olfato mais aguçado.\nAo procurar por comida, usam seus bigodes para\nchecar a direção do vento e evitar predadores.",
+        ja: "オスよりも 匂いに 敏感。 ヒゲで 風向きを 確認しながら 風下で エサを 探すのだ。",
         ko: "수컷보다 냄새에 민감하다.\n수염으로 바람의 방향을 확인하면서\n흘러온 냄새로 먹이를 찾는다.",
         "zh-tw": "女性比男性對氣味更敏感。覓食時，它們會用鬍鬚檢查風向並保持在捕食者的下風處。"
     },

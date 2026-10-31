@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/040"
     },
     name: {
         en: "Diglett",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Digda",
         "pt-br": "Diglett",
         "zh-tw": "地鼠",
+        ja: "ディグダ",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vive a circa un metro sotto terra, dove...\nsi nutre delle radici delle piante. A volte appare\nfuori terra.",
         "de": "Es lebt etwa einen Meter unter der Erde, wo es ist\nernährt sich von Pflanzenwurzeln. Es erscheint manchmal\noberirdisch.",
         "pt-br": "Vive cerca de um metro abaixo do solo, onde\nalimenta-se de raízes de plantas. Às vezes aparece\nacima do solo.",
-        "zh-tw": "它住在地下一碼左右，\n以植物根部為食。有時會出現\n地上。"
+        "zh-tw": "它住在地下一碼左右，\n以植物根部為食。有時會出現\n地上。",
+        ja: "地下１メートルくらいを 掘りすすみ 木の根っこなどを かじって 生きる。 たまに 地上に 顔を出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 10,
             cost: ["Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/037"
     },
     name: {
         en: "Machop",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Machop",
         de: "Machollo",
         'pt-br': "Machop",
+        ja: "ワンリキー",
         ko: "알통몬",
         "zh-tw": "腕力"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo corpo è formato interamente da\nmuscoli. Non è più alto di un bambino,\nma può sollevare e lanciare 100 adulti.",
         de: "Sein ganzer Körper besteht aus Muskeln. Auch\nwenn es nur so groß wie ein Menschenkind ist,\nkann es 100 Erwachsene jonglieren.",
         'pt-br': "Seu corpo é inteiramente composto por músculos.\nApesar de ter o tamanho de uma criança humana,\nconsegue arremessar 100 adultos.",
+        ja: "全身が 筋肉になっており 子どもほどの 大きさしかないのに 大人 １００人を 投げ飛ばせる。",
         ko: "몸집은 어린아이만 하지만\n온몸이 근육으로 되어 있어서\n어른 100명은 날려 버릴 수 있다.",
         "zh-tw": "它的整個身體都是由肌肉組成的。儘管它只有人類兒童那麼大，但它可以將 100 個成年人拋擲出去。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Colpo Basso",
             de: "Fußkick",
             'pt-br': "Rasteira",
+            ja: "けたぐり",
             ko: "안다리걸기",
             "zh-tw": "低踢"
         },

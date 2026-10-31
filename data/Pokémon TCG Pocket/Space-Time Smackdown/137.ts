@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/137",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/137"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/137"
     },
     name: {
         en: "Buneary",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Buneary",
         de: "Haspiror",
         'pt-br': "Buneary",
+        ja: "ミミロル",
         ko: "이어롤",
         "zh-tw": "捲捲耳",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Se arrotola entrambe le orecchie significa che\nè afflitto da qualche disturbo fisico o emotivo.\nÈ segno che bisogna prendersi cura di lui.",
         de: "Sind seine beiden Ohren aufgerollt, deutet das\ndarauf hin, dass es ihm körperlich oder psychisch\nnicht gut geht und es Zuwendung braucht.",
         'pt-br': "Se as duas orelhas de Buneary estão enroladas, algo está\nerrado com seu corpo ou mente. É um sinal claro\nde que o Pokémon precisa de cuidados.",
+        ja: "左右の 耳を 丸めているときは 体や 心の 不調が 原因なので ケアが 必要。",
         ko: "양쪽 귀를 말고 있을 때는\n몸이나 마음이 좋지 않다는 뜻이므로\n관리가 필요하다.",
         "zh-tw": "如果Buneary的兩隻耳朵都捲起來，則表明它的身體或精神出了問題。這是神奇寶貝需要照顧的明確信號。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Splash",
                 de: "Platscher",
                 'pt-br': "Borrifada",
+                ja: "はねる",
                 ko: "튀어오르기",
                 "zh-tw": "濺"
             },

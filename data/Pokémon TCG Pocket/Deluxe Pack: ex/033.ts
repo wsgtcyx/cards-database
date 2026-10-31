@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/033"
     },
     name: {
         en: "Snivy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Serpifeu",
         "pt-br": "Snivy",
         "zh-tw": "藤藤蛇",
+        ja: "ツタージャ",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Essendo esposto alla luce del sole compie i suoi movimenti\npiù veloce. Usa i rampicanti più abilmente delle sue mani.",
         "de": "Seine Bewegungen entstehen durch die Einwirkung von Sonnenlicht\nschneller. Es nutzt Ranken geschickter als seine Hände.",
         "pt-br": "Estar exposto à luz solar faz com que seus movimentos\nmais rápido. Ele usa vinhas com mais habilidade do que suas mãos.",
-        "zh-tw": "暴露在陽光下使其運動\n更快。它比雙手更擅長使用藤蔓。"
+        "zh-tw": "暴露在陽光下使其運動\n更快。它比雙手更擅長使用藤蔓。",
+        ja: "太陽の 光を 浴びると いつもよりも 素早く 動ける。 手よりも ツルを うまく使う。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frusta di vite",
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

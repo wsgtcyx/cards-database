@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/047"
     },
     name: {
         en: "Turtonator",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tortunator",
         "pt-br": "Turtonator",
         "zh-tw": "爆焰龜獸",
+        ja: "バクガメス",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La causa è il consumo di zolfo nel suo habitat vulcanico\ncomposti esplosivi da sviluppare nel suo guscio.\nI suoi escrementi sono anche pericolosamente esplosivi.",
         "de": "Der Verzehr von Schwefel in seinem vulkanischen Lebensraum ist die Ursache\ndass sich in seiner Hülle explosive Verbindungen bilden.\nSein Kot ist außerdem gefährlich explosiv.",
         "pt-br": "Comer enxofre em seu habitat vulcânico é o que causa\ncompostos explosivos se desenvolvam em sua concha.\nSeus excrementos também são perigosamente explosivos.",
-        "zh-tw": "在火山棲息地吃硫磺是導致\n其殼內會形成爆炸性化合物。\n它的糞便也具有危險的爆炸性。"
+        "zh-tw": "在火山棲息地吃硫磺是導致\n其殼內會形成爆炸性化合物。\n它的糞便也具有危險的爆炸性。",
+        ja: "火山で 暮らし 食べた 硫黄が 甲羅の 爆薬の もとになる。 フンも 爆発する 危険物。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Trappola di conchiglie",
                 "de": "Muschelfalle",
                 "pt-br": "Armadilha de concha",
-                "zh-tw": "貝殼陷阱"
+                "zh-tw": "貝殼陷阱",
+                ja: "トラップシェル"
             },
             damage: 40,
             cost: ["Fire", "Fire"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, infliggi 20 danni al Pokémon attaccante.",
                 "de": "Wenn dieses Pokémon im nächsten Zug deines Gegners durch einen Angriff beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon receber dano de um ataque, cause 20 pontos de dano ao Pokémon atacante.",
-                "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 20 點傷害。"
+                "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 20 點傷害。",
+                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
             }
         }],
     weaknesses: [{

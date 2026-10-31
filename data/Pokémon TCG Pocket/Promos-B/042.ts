@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/042",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/042",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/042",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/042"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/042"
     },
     name: {
         en: "Slowpoke",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È sempre assorto, ma nessuno sa a cosa stia\npensando. Si serve della coda per pescare.",
         de: "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
         "pt-br": "Está sempre vagamente perdido em pensamentos, mas ninguém sabe no que está pensando. É bom pescar com a cauda.",
-        "zh-tw": "它总是茫然若失，却无人知道它在想什么。它擅長用尾巴釣魚。"
+        "zh-tw": "它总是茫然若失，却无人知道它在想什么。它擅長用尾巴釣魚。",
+        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭錘"
+                "zh-tw": "頭錘",
+                ja: "ずつき"
             },
             damage: 30
         }

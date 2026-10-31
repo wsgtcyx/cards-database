@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/030"
     },
     name: {
         en: "Heat Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom Calore",
         de: "Hitze-Rotom",
         'pt-br': "Rotom Calor",
+        ja: "ヒートロトム",
         ko: "히트로토무",
         "zh-tw": "加熱洛托姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Se il forno elettrico dentro cui si trova è in\ncattive condizioni, anche Rotom ne risente.",
         de: "Funktioniert der Mikrowellenherd nicht richtig,\nso leidet auch das Rotom darin.",
         'pt-br': "Se o forno de micro-ondas não estiver funcionando\ndireito, o Rotom que habita dentro dele\nse tornará letárgico.",
+        ja: "オーブンレンジ 自体の 調子が 悪いと 中に 入っている ロトムも 元気が なくなるのだ。",
         ko: "오븐레인지의 상태가 나쁘면\n안에 들어 있는 로토무도\n기운이 나지 않는다고 한다.",
         "zh-tw": "如果對流微波爐無法正常工作，那麼居住在其中的洛托姆就會變得昏昏欲睡。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Alitorovente",
                 de: "Heißer Atem",
                 'pt-br': "Bafo de Calor",
+                ja: "ヒートブレス",
                 ko: "히트브레스",
                 "zh-tw": "熱息呼吸"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             }

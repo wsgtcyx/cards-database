@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/330",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/330",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/330",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/330"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/330",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/330"
     },
     name: {
         en: "Skrelp",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es ist ein miserabler Schwimmer. Gerät es in einen heftigen Sturm und wird weit weggespült, kann es mitunter nicht mehr nach Hause zurückkehren.",
         "pt-br": "Este Pokémon nada muito mal. Ao ser surpreendido por uma tempestade violenta, pode às vezes ser arrastado para longe e não conseguir mais voltar para casa.",
         "zh-tw": "不擅長游泳，一旦被捲進狂暴的海浪，就有可能被沖到遠處而無法歸巢。",
-        ja: "This Pokémon is a poor swimmer. If it's caught in\na fierce storm, it will sometimes get washed far\naway and become unable to return to its home.",
+        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。",
         ko: "This Pokémon is a poor swimmer. If it's caught in\na fierce storm, it will sometimes get washed far\naway and become unable to return to its home."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Rasierflosse",
                 "pt-br": "Barbatana Cortante",
                 "zh-tw": "鰭快刀",
-                ja: "Razor Fin",
+                ja: "ひれカッター",
                 ko: "Razor Fin"
             },
             damage: 40,

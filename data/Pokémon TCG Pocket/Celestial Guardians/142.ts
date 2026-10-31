@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/142"
     },
     name: {
         en: "Big Malasada",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Malasada maxi",
         de: "Maxi-Malasada",
         'pt-br': "Sonho Recheado Grande",
+        ja: "おおきいマラサダ",
         ko: "큰 말라사다",
         "zh-tw": "大馬拉薩達"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura il tuo Pokémon attivo da 10 danni e guariscilo da una condizione speciale a caso.",
         de: "Heile 10 Schadenspunkte bei deinem Aktiven Pokémon, und es erholt sich von 1 zufälligen Speziellen Zustand.",
         'pt-br': "Cure 10 pontos de dano e remova Condição Especial aleatória do seu Pokémon Ativo.",
+        ja: "自分のバトルポケモンのHPを10回復し、特殊状態もランダムに1つ回復。",
         ko: "자신의 배틀 포켓몬의 HP를 10회복하고 특수 상태도 랜덤으로 1가지 회복.",
         "zh-tw": "治療 10 點傷害並從你的活躍神奇寶貝中移除隨機的特殊狀態。"
     },

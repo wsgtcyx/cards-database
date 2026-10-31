@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/075"
     },
     name: {
         en: "Starmie",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Starmie",
         de: "Starmie",
         'pt-br': "Starmie",
+        ja: "スターミー",
         ko: "아쿠스타",
         "zh-tw": "寶石海星",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Staryu",
         "de": "Sterndu",
         "pt-br": "Staryu",
-        "zh-tw": "海星星"
+        "zh-tw": "海星星",
+        ja: "ヒトデマン"
     },
     attacks: [{
             cost: ["Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 'pt-br': "Onda Borrifante",
+                ja: "スプラッシュ",
                 ko: "스플래시",
                 "zh-tw": "波浪飛濺"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Quando scatena i suoi poteri psichici, l'organo\ncentrale, detto nucleo, brilla di sette colori diversi.",
         de: "Das als Kern bezeichnete Organ dieses Pokémon\nerstrahlt in den sieben Farben des Regenbogens,\nwenn Starmie mächtige Psycho-Kräfte entfesselt.",
         'pt-br': "Este Pokémon tem um órgão que é conhecido como\nseu núcleo. Este órgão brilha em sete cores diferentes\nquando Starmie libera seus poderes psíquicos intensos.",
+        ja: "強烈な サイコパワーを 放つとき コアと 呼ばれる 器官が 七色に きらめく。",
         ko: "강렬한 사이코 파워를 발산할 때\n코어라고 불리는 기관이\n일곱 색깔로 빛난다.",
         "zh-tw": "該神奇寶貝有一個被稱為核心的器官。當海星釋放其強大的心靈力量時，該器官會發出七種顏色的光。"
     },

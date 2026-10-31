@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/078",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/078",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/078"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/078"
     },
     name: {
         en: "Whiscash",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Schmerbe",
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
-        ja: "Barboach",
+        ja: "ドジョッチ",
         ko: "Barboach"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Powerdruck",
                 "pt-br": "Compressão Poderosa",
                 "zh-tw": "力量壓制",
-                ja: "Power Press",
+                ja: "パワープレス",
                 ko: "Power Press"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mindestens 3 extra {F}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 3 Energias {F} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若額外附有3個{F}能量,則增加60點傷害。",
-                ja: "If this Pokémon has at least 3 extra {F} Energy attached, this attack does 60 more damage.",
+                ja: "追加で{F}エネルギーが3個ついているなら、60ダメージ追加。",
                 ko: "If this Pokémon has at least 3 extra {F} Energy attached, this attack does 60 more damage."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Es hat ein ausgeprägtes Revierverhalten. Nähert sich ein Feind, greift es diesen an, indem es die Erde heftig beben lässt.",
         "pt-br": "Protege seu território com muito afinco. Se algum inimigo se aproxima, ataca-o usando tremores poderosos.",
         "zh-tw": "地盤意識非常強烈， 如果有外敵靠近，就會 劇烈搖晃地面發動襲擊。",
-        ja: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+        ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。",
         ko: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors."
     }
 };

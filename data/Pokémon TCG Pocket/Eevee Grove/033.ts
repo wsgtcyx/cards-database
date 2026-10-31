@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/033"
     },
     name: {
         en: "Sylveon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Feelinara",
         "pt-br": "Sylveon",
         "zh-tw": "仙子伊布",
+        ja: "ニンフィア",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon usa le sue antenne a forma di nastro per inviare segnali\nun'aura rilassante nei suoi avversari, cancellando\nla loro ostilità.",
         "de": "Dieses Pokémon nutzt seine bandartigen Fühler zum Senden\neine beruhigende Aura auf seine Gegner, die auslöscht\nihre Feindseligkeit.",
         "pt-br": "Este Pokémon usa suas antenas em forma de fita para enviar\numa aura calmante em seus oponentes, apagando\nsua hostilidade.",
-        "zh-tw": "這只神奇寶貝用絲帶狀的觸角發送信息\n給對手帶來舒緩的光環，消除\n他們的敵意。"
+        "zh-tw": "這只神奇寶貝用絲帶狀的觸角發送信息\n給對手帶來舒緩的光環，消除\n他們的敵意。",
+        ja: "敵意を 消す 癒しの 波動を リボンのような 触角から 相手の 体に 送り込む。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Evoarmonia",
                 "de": "Evoharmony",
                 "pt-br": "Evoharmonia",
-                "zh-tw": "進化和諧"
+                "zh-tw": "進化和諧",
+                ja: "エボルハーモニー"
             },
             damage: "40+",
             cost: ["Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni in più per ogni Pokémon Evoluzione nella tua panchina.",
                 "de": "Dieser Angriff fügt jedem Evolutions-Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 danos a mais para cada Pokémon de Evolução no seu Banco.",
-                "zh-tw": "此攻擊對你替補席上的每個進化神奇寶貝造成 30 點額外傷害。"
+                "zh-tw": "此攻擊對你替補席上的每個進化神奇寶貝造成 30 點額外傷害。",
+                ja: "自分のベンチの進化ポケモンの数×30ダメージ追加。"
             }
         }],
     weaknesses: [{

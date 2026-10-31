@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/062"
     },
     name: {
         en: "Chatot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chatot",
         de: "Plaudagei",
         'pt-br': "Chatot",
+        ja: "ペラップ",
         ko: "페라페",
         "zh-tw": "聒噪鳥",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Imita la voce dei nemici per far credere che\nè dei loro, evitando così di essere assalito.",
         de: "Es versucht Attacken zu entgehen, indem es den Ruf\ndes Gegners nachahmt und einen Artgenossen mimt.",
         'pt-br': "Imita os gritos dos outros Pokémon para levá-los a acreditar\nque é um deles. Assim, eles não o atacam.",
+        ja: "相手と 同じ 鳴き声を 出す ことで 仲間と 思いこませて 襲われないように しているのだ。",
         ko: "상대와 같은 울음소리를 내서\n동료라고 굳게 믿게 하여\n습격당하지 않도록 하고 있다.",
         "zh-tw": "它模仿其他神奇寶貝的叫聲，讓它們誤以為它是其中之一。這樣他們就不會攻擊它。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Mimica",
                 de: "Mimikry",
                 'pt-br': "Mímica",
+                ja: "ものまね",
                 ko: "흉내내기",
                 "zh-tw": "模仿者"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca una carta per ogni carta nella mano del tuo avversario.",
                 de: "Mische deine Handkarten in dein Deck. Ziehe anschließend 1 Karte für jede Karte auf der Hand deines Gegners.",
                 'pt-br': "Embaralhe a sua mão no seu baralho. Compre uma carta para cada carta na mão do seu oponente.",
+                ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。",
                 ko: "자신의 패를 모두 덱으로 되돌린다. 상대의 패의 장수만큼 자신의 덱을 뽑는다.",
                 "zh-tw": "將你的手牌洗入牌庫。對手手上每有一張牌，就抽一張牌。"
             }

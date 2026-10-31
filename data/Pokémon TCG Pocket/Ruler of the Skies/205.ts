@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/205",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/205",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/205"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/205"
     },
     name: {
         en: "Mudkip",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando usa la sua grande pinna caudale, acquista rapidamente velocità nell'acqua. È forte nonostante le sue piccole dimensioni.",
         de: "Mit seiner großen Schwanzflosse nimmt er im Wasser schnell Fahrt auf. Trotz seiner geringen Größe ist es stark.",
         "pt-br": "Quando usa sua grande barbatana caudal, ganha velocidade rapidamente na água. É forte apesar do seu pequeno tamanho.",
-        "zh-tw": "當它使用大尾鰭時，它會在水中迅速加快速度。儘管它的體積很小，但它很堅固。"
+        "zh-tw": "當它使用大尾鰭時，它會在水中迅速加快速度。儘管它的體積很小，但它很堅固。",
+        ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 20
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/191"
     },
     name: {
         en: "Team Galactic Grunt",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Recluta del Team Galassia",
         de: "Rüpel von Team Galaktik",
         'pt-br': "Recruta da Equipe Galáctica",
+        ja: "ギンガ団のしたっぱ",
         ko: "갤럭시단의 조무래기",
         "zh-tw": "銀河隊手下",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Prendi una carta a caso dal tuo mazzo fra le seguenti: Glameow, Stunky e Croagunk. Poi aggiungila alle carte che hai in mano.",
         de: "Nimm von den Karten Charmian, Skunkapuh und Glibunkel 1 zufällige aus deinem Deck auf deine Hand.",
         'pt-br': "Coloque aleatoriamente 1 carta dentre Glameow, Stunky e Croagunk do seu baralho na sua mão.",
+        ja: "自分の山札から「ニャルマー」「スカンプー」「グレッグル」をランダムに1枚、手札に加える。",
         ko: "자신의 덱에서 「나옹마」「스컹뿡」「삐딱구리」 랜덤으로 1장 패로 가져온다.",
         "zh-tw": "從你的牌組中隨機將 1 只 Glameow、Stunky 或 Croagunk 置入你的手牌。"
     },

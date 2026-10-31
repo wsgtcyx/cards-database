@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/101"
     },
     name: {
         en: "Lycanroc",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lycanroc",
         de: "Wolwerock",
         'pt-br': "Lycanroc",
+        ja: "ルガルガン",
         ko: "루가루암",
         "zh-tw": "鬃岩狼人",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
+        ja: "イワンコ",
     },
     description: {
         en: "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Taglia con la criniera di rocce chi gli si avvicina.\nDisobbedisce addirittura al suo Allenatore se le\nindicazioni ricevute non sono di suo gradimento.",
         de: "Mit seiner steinernen Mähne schaltet es jeden aus,\nder sich ihm nähert. Den Anweisungen seines Trainers\nfolgt es nur, wenn diese ihm zusagen.",
         'pt-br': "Este Pokémon usa sua juba pedregosa para dilacerar\nqualquer um que se aproxime. Desobedecerá até seu\nTreinador se não gostar das ordens que lhe forem dadas.",
+        ja: "岩の たてがみで 近づくものを 切りつける。 トレーナーの 指示も 気に入らなければ 従わない。",
         ko: "바위로 된 갈기로 다가오는 자를\n베어 버린다. 트레이너의 지시도\n마음에 안 들면 따르지 않는다.",
         "zh-tw": "這只神奇寶貝用它的岩石鬃毛來砍殺任何接近的人。如果它不喜歡它所收到的命令，它甚至會違背訓練師的命令。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Zanne Sanguinarie",
                 de: "Blutfänge",
                 'pt-br': "Presa Sanguinária",
+                ja: "ブラッドファング",
                 ko: "블러드팽",
                 "zh-tw": "血牙"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario ha più PS rimanenti di questo Pokémon, questo attacco infligge 50 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners mehr verbleibende KP als dieses Pokémon hat, fügt diese Attacke 50 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente tiver mais PS restante do que este Pokémon, este ataque causará 50 pontos de dano a mais.",
+                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより多いなら、50ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 남은 HP가 이 포켓몬의 남은 HP보다 많다면 50데미지를 추가한다.",
                 "zh-tw": "如果對手的現役寶可夢的剩餘生命值比這只寶可夢多，則這次攻擊造成的傷害增加 50 點。"
             }

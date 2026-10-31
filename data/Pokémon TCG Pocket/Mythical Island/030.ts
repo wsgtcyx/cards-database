@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/030"
     },
     name: {
         en: "Dedenne",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dedenne",
         de: "Dedenne",
         'pt-br': "Dedenne",
+        ja: "デデンネ",
         ko: "데덴네",
         "zh-tw": "咚咚鼠",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "A causa del corpo piccolo, l'organo che genera\nelettricità non è molto sviluppato. Si ricarica\nassorbendo l'elettricità dalle case con la coda.",
         de: "Da es klein ist und sein elektrisches Organ nicht\nstark ausgebildet ist, zapft es mit seinem Schwanz\nin Häusern Strom ab, um sich aufzuladen.",
         'pt-br': "Este Pokémon é pequeno, e seu órgão gerador de eletricidade ainda não se desenvolveu.\nAbastece a si mesmo usando sua cauda, com a qual absorve energia das casas das pessoas.",
+        ja: "体が 小さく 発電器官が 未熟なので 人家の 電気を 尻尾で 吸い取り 充電する。",
         ko: "몸집이 작고 발전 기관이 미숙하기 때문에\n사람이 사는 집의 전기를\n꼬리를 통해 흡수해서 충전한다.",
         "zh-tw": "它體型小，發電器官還沒有發育完全，所以它用尾巴從人們家中吸取電力，給自己充電。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Tuonoshock",
                 de: "Donnerschock",
                 'pt-br': "Trovoada de Choques",
+                ja: "でんきショック",
                 ko: "전기쇼크",
                 "zh-tw": "雷霆震擊"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"

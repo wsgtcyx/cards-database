@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/005"
     },
     name: {
         en: "Venusaur ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bisaflor-ex",
         "pt-br": "Venusaur ex",
         "zh-tw": "妙蛙花ex",
+        ja: "フシギバナex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
+        ja: "フシギソウ",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 60,
             cost: ["Grass", "Colorless", "Colorless"]
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Fioritura gigante",
                 "de": "Riesenblüte",
                 "pt-br": "Flor Gigante",
-                "zh-tw": "巨型綻放"
+                "zh-tw": "巨型綻放",
+                ja: "ジャイアントブルーム"
             },
             damage: 100,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 30 danni.",
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
+                ja: "このポケモンのHPを30回復。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/085",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/085",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/085"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/085"
     },
     name: {
         en: "Throh",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È molto bravo nelle tecniche di lancio.\nIl sudore prodotto durante la lotta impregna\nla sua cintura da karate e la rende più scura.",
         de: "Es verfügt über ein exzellentes Repertoire an\nWurftechniken. Sein Gürtel färbt sich dunkler,\nje mehr Schweiß er bei Kämpfen in sich aufsaugt.",
         "pt-br": "Ele executa movimentos de arremesso com habilidade de primeira linha. Ao longo de muitas batalhas, o cinto de Throh fica mais escuro à medida que absorve o suor do usuário.",
-        "zh-tw": "能使出一流的投摔招式。\n帶子被戰鬥時流下的汗水\n浸濕，顏色越變越深。"
+        "zh-tw": "能使出一流的投摔招式。\n帶子被戰鬥時流下的汗水\n浸濕，顏色越變越深。",
+        ja: "投げ技の 腕は 一流。 戦いで かいた 汗が 染み 帯の 色が 濃く 染まっていく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Ribaltiro",
                 de: "Überkopfwurf",
                 "pt-br": "Arremesso Circular",
-                "zh-tw": "巴投"
+                "zh-tw": "巴投",
+                ja: "ともえなげ"
             },
             effect: {
                 en: "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scambia il Pokémon attivo del tuo avversario nella panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
                 de: "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "將對手的活躍寶可夢移至替補席。 （你的對手選擇新的活躍寶可夢。）"
+                "zh-tw": "將對手的活躍寶可夢移至替補席。 （你的對手選擇新的活躍寶可夢。）",
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             },
             damage: 70
         }

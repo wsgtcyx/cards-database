@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/005"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/005"
     },
     name: {
         en: "Iron Moth",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Non esistono registrazioni di questa specie catturata. Mancano dati, ma i tratti del Pokémon corrispondono a un oggetto descritto in un vecchio libro.",
         de: "Es liegen keine Aufzeichnungen über den Fang dieser Art vor. Es fehlen Daten, aber die Eigenschaften des Pokémon stimmen mit einem in einem alten Buch beschriebenen Objekt überein.",
         "pt-br": "Não existem registros desta espécie sendo capturada. Faltam dados, mas as características do Pokémon correspondem a um objeto descrito em um livro antigo.",
-        "zh-tw": "沒有該物種被捕獲的記錄。雖然缺乏數據，但寶可夢的特徵與一本舊書中描述的物體相符。"
+        "zh-tw": "沒有該物種被捕獲的記錄。雖然缺乏數據，但寶可夢的特徵與一本舊書中描述的物體相符。",
+        ja: "捕獲例は ゼロ。 データ不足。 古い 書物に 記された 物体と 特徴が 一致。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Raffica Termica",
                 de: "Thermische Böe",
                 "pt-br": "Rajada Térmica",
-                "zh-tw": "熱陣風"
+                "zh-tw": "熱陣風",
+                ja: "サーマルガスト"
             },
             effect: {
                 en: "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 more damage. If all of them are heads, this attack does 120 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 3 monete. Se esce testa 1 di loro, questo attacco infligge 20 danni in più. Se 2 di loro escono testa, questo attacco infligge 50 danni in più. Se escono tutte teste, questo attacco infligge 120 danni in più.",
                 de: "Wirf 3 Münzen. Wenn einer von ihnen „Kopf“ ist, verursacht dieser Angriff 20 weitere Schadenspunkte. Wenn 2 davon Köpfe sind, fügt dieser Angriff 50 Schadenspunkte mehr zu. Wenn alle Köpfe sind, fügt dieser Angriff 120 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue 3 moedas. Se 1 deles der cara, este ataque causa 20 de dano a mais. Se 2 deles derem cara, este ataque causa 50 de dano a mais. Se todos derem cara, este ataque causa 120 de dano a mais.",
-                "zh-tw": "翻轉 3 個硬幣。如果其中 1 個是正面，則此攻擊會造成 20 點額外傷害。如果其中 2 個是正面，則此攻擊會造成 50 點額外傷害。如果都是正面，這次攻擊會造成 120 點額外傷害。"
+                "zh-tw": "翻轉 3 個硬幣。如果其中 1 個是正面，則此攻擊會造成 20 點額外傷害。如果其中 2 個是正面，則此攻擊會造成 50 點額外傷害。如果都是正面，這次攻擊會造成 120 點額外傷害。",
+                ja: "コインを3回投げる。オモテが1回なら、20ダメージ追加。オモテが2回なら、50ダメージ追加。すべてオモテなら、120ダメージ追加。"
             },
             damage: "10+"
         }

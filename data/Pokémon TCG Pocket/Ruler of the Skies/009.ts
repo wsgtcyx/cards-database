@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/009",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/009",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/009"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/009"
     },
     name: {
         en: "Kricketune",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
         de: "Es gibt ein Dorf, wo ein Wettbewerb abgehalten wird, bei dem man Zirpeise mit ihren vielseitigen Rufen gegeneinander antreten lässt.",
         "pt-br": "Existe um vilarejo que realiza um concurso dos sons mais impressionantes e diferentes deste Pokémon.",
-        "zh-tw": "有村子會讓牠們互相\n比拼變化多端的叫聲，\n當成娛樂活動。"
+        "zh-tw": "有村子會讓牠們互相\n比拼變化多端的叫聲，\n當成娛樂活動。",
+        ja: "変幻自在の 鳴き声を 競い合わせる 鳴き比べ という 遊びを 楽しむ 村がある。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Bug Buzz",
                 de: "Bug Buzz",
                 "pt-br": "Zumbido de Inseto",
-                "zh-tw": "蟲鳴"
+                "zh-tw": "蟲鳴",
+                ja: "むしのさざめき"
             },
             damage: 50
         }

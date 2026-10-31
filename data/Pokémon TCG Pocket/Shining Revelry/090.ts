@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/090"
     },
     name: {
         en: "Red",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rosso",
         de: "Rot",
         'pt-br': "Red",
+        ja: "レッド",
         ko: "레드",
         "zh-tw": "赤紅"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Durante questo turno, gli attacchi usati dai tuoi Pokémon infliggono +20 danni al Pokémon-{ex} attivo del tuo avversario.",
         de: "Während dieses Zuges fügen die Attacken deiner Pokémon dem Aktiven Pokémon-{ex} deines Gegners + 20 Schadenspunkte zu.",
         'pt-br': "Durante este turno, os ataques usados pelos seus Pokémon causam +20 pontos de dano ao Pokémon {ex} Ativo do seu oponente.",
+        ja: "この番、自分のポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージを+20する。",
         ko: "이 차례에 자신의 포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 {ex}」에게 주는 데미지를 +20한다.",
         "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的現役寶可夢造成+20點傷害。"
     },

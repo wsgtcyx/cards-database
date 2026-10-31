@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/046"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/046"
     },
     name: {
         en: "Iron Jugulis",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È possibile che Colloferreo, un oggetto descritto in un vecchio libro, possa effettivamente essere questo Pokémon.",
         de: "Es ist möglich, dass Eisenhals, ein in einem alten Buch beschriebenes Objekt, tatsächlich dieses Pokémon ist.",
         "pt-br": "É possível que Jugulares Férreas, um objeto descrito em um livro antigo, seja na verdade este Pokémon.",
-        "zh-tw": "一本舊書中描述的物件 鐵脖頸 可能就是這隻寶可夢。"
+        "zh-tw": "一本舊書中描述的物件 鐵脖頸 可能就是這隻寶可夢。",
+        ja: "古い 書物に 記された テツノコウベという 物体は このポケモンかも しれない。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Combattimento automatizzato",
                 de: "Automatisierter Kampf",
                 "pt-br": "Combate Automatizado",
-                "zh-tw": "自動用武"
+                "zh-tw": "自動用武",
+                ja: "オートマーシャル"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, infliggi 20 danni al Pokémon attaccante.",
                 de: "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
-                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
+                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Vento sferzante",
                 de: "Blasender Wind",
                 "pt-br": "Vento forte",
-                "zh-tw": "爆破之風"
+                "zh-tw": "爆破之風",
+                ja: "ブラストウインド"
             },
             damage: 70
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/100"
     },
     name: {
         en: "Guzzlord ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Guzzlord-ex",
         "de": "Schlingking-ex",
         "pt-br": "Guzzlord ex",
-        "zh-tw": "惡食大王ex"
+        "zh-tw": "惡食大王ex",
+        ja: "アクジキングex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Grindcore",
                 "de": "Grindcore",
                 "pt-br": "Grindcore",
-                "zh-tw": "磨核"
+                "zh-tw": "磨核",
+                ja: "グラインドコア"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Lancia una moneta finché non esce croce. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
             }
         }, {
             name: {
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Buco tirannico",
                 "de": "Tyrannisches Loch",
                 "pt-br": "Buraco Tirânico",
-                "zh-tw": "強橫洞"
+                "zh-tw": "強橫洞",
+                ja: "タイラントホール"
             },
             damage: 120,
             cost: ["Darkness", "Darkness", "Darkness", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/008"
     },
     name: {
         en: "Sunflora",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sunflora",
         "de": "Sonnflora",
         "pt-br": "Sunflora",
-        "zh-tw": "向日花怪"
+        "zh-tw": "向日花怪",
+        ja: "キマワリ"
     },
     illustrator: "Saboteri",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sunkern",
         "de": "Sonnkern",
         "pt-br": "Sunkern",
-        "zh-tw": "向日種子"
+        "zh-tw": "向日種子",
+        ja: "ヒマナッツ"
     },
     description: {
         en: "Since it converts sunlight into energy, it is always\nlooking in the direction of the sun.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Poiché converte la luce solare in energia, lo è sempre\nguardando in direzione del sole.",
         "de": "Da es Sonnenlicht in Energie umwandelt, ist es immer so\nin Richtung der Sonne schauen.",
         "pt-br": "Como converte a luz solar em energia, é sempre\nolhando na direção do sol.",
-        "zh-tw": "由於它將陽光轉化為能量，因此它總是\n朝太陽的方向看。"
+        "zh-tw": "由於它將陽光轉化為能量，因此它總是\n朝太陽的方向看。",
+        ja: "浴びた 日差しを エネルギーに 変換するため 昼間は ずっと 太陽の方を 向いている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fascio a crescita rapida",
                 "de": "Schnell wachsender Strahl",
                 "pt-br": "Feixe de crescimento rápido",
-                "zh-tw": "快速生長梁"
+                "zh-tw": "快速生長梁",
+                ja: "そうじゅくビーム"
             },
             damage: "30+",
             cost: ["Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se l'Estratto a crescita rapida è nella tua pila degli scarti, questo attacco infligge 30 danni in più.",
                 "de": "Wenn sich Quick-Grow Extract in deinem Ablagestapel befindet, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se Quick-Grow Extract estiver em sua pilha de descarte, este ataque causará 30 de dano a mais.",
-                "zh-tw": "如果快速生長提取物在你的棄牌堆中，則此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "如果快速生長提取物在你的棄牌堆中，則此攻擊會造成 30 點額外傷害。",
+                ja: "自分のトラッシュに「そうじゅくエキス」があるなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

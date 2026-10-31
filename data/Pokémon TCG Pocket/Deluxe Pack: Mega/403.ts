@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/403",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/403",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/403",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/403"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/403",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/403"
     },
     name: {
         en: "Charmeleon",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "Charmander",
+        ja: "ヒトカゲ",
         ko: "Charmander"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Glutexo hat ein hitziges Gemüt und sucht ständig nach Gegnern. Es beruhigt sich nur, wenn es gewinnt.",
         "pt-br": "Tem um temperamento explosivo, por isso sempre busca oponentes para enfrentar. Não sossega enquanto não vence.",
         "zh-tw": "性情如烈火，無時無刻都在尋找要交戰的對手。得要打贏才會冷靜下來。",
-        ja: "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win.",
+        ja: "燃えたぎるような 性格で いつも 戦う 相手を 探している。 勝たないと 血が 静まらない。",
         ko: "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Zündung",
                 "pt-br": "Ignição",
                 "zh-tw": "點火",
-                ja: "Ignition",
+                ja: "イグニッション",
                 ko: "Ignition"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 {R}-Energie aus deinem Energiebereich an dein Aktives {R}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar 1 Energia {R} da sua Zona de Energia e ligá-la ao seu Pokémon {R} Ativo.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的能量區抽出1個{R}能量,附於戰鬥場的{R}寶可夢身上。",
-                ja: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。",
                 ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Schlitzer",
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
-                ja: "Slash",
+                ja: "きりさく",
                 ko: "Slash"
             },
             damage: 40

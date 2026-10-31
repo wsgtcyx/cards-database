@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/043"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/043"
     },
     name: {
         en: "Geodude",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Geodude",
         de: "Kleinstein",
         'pt-br': "Geodude",
+        ja: "イシツブテ",
         ko: "꼬마돌",
         "zh-tw": "小拳石",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Col passare degli anni le asperità del suo corpo\nvengono levigate, rendendolo perfettamente\nrotondo, e il suo carattere si fa più tranquillo.",
         de: "Mit dem Alter verliert es zunehmend seine\nKantigkeit, bis es vollkommen rund und auch\ncharakterlich immer ausgeglichener wird.",
         'pt-br': "Geodude que já viveram muito são completamente\nredondos, porque todas as irregularidades foram polidas\npelo tempo. Sua natureza também se torna calma e tranquila.",
+        ja: "長く 生きた イシツブテは 角が とれて まんまる。 性格も とても 落ち着いていて 穏やか なのだ。",
         ko: "오래 산 꼬마돌은 모가 없이\n동그랗다. 성격도 매우\n차분하고 온화하다.",
         "zh-tw": "壽命很長的晶石的所有邊緣都被磨平，直到完全變圓。他們的性格也很沉穩、安靜。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Pugnetto",
                 de: "Leichter Hieb",
                 'pt-br': "Soco de Luz",
+                ja: "なぐる",
                 ko: "치기",
                 "zh-tw": "輕拳"
             },

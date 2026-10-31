@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/009"
     },
     name: {
         en: "Dhelmise",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dhelmise",
         de: "Moruda",
         'pt-br': "Dhelmise",
+        ja: "ダダリン",
         ko: "타타륜",
         "zh-tw": "破破舵輪",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Alcune alghe, impigliandosi a dei pezzi di\nrelitti sul fondo del mare, si sono tramutate\nin questo Pokémon di tipo Spettro.",
         de: "Dieses Geister-Pokémon entstand, als sich\nvom Meeresgrund stammendes Seegras auf\nBruchstücken eines Schiffswracks ablagerte.",
         'pt-br': "Depois que um pedaço de alga marinha se fundiu\na destroços de um navio naufragado, renasceu como\neste Pokémon fantasma.",
+        ja: "海底を 漂う 藻屑が 沈没船の 部品を 取りこんで ゴーストポケモンに 生まれ変わった。",
         ko: "해저를 떠도는 해초가\n침몰선의 부품을 거두어들여서\n고스트포켓몬으로 다시 태어났다.",
         "zh-tw": "一片海藻與沈船殘骸融合後，它重生為這只幽靈神奇寶貝。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Frustata Energetica",
                 de: "Energiepeitsche",
                 'pt-br': "Chicote Energético",
+                ja: "エナジーウィップ",
                 ko: "에너지휩",
                 "zh-tw": "能量鞭"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se questo Pokémon ha almeno 3 Energie {G} extra assegnate, questo attacco infligge 70 danni in più.",
                 de: "Wenn an dieses Pokémon mindestens 3 extra {G}-Energien angelegt sind, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon tiver pelo menos 3 Energia {G} extra ligada a ele, este ataque causará 70 pontos de dano a mais.",
+                ja: "追加で{G}エネルギーが3個ついているなら、70ダメージ追加。",
                 ko: "{G}에너지 3개가 추가로 붙어 있다면 70데미지를 추가한다.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {G} 能量，則此攻擊造成的傷害增加 70 點。"
             }

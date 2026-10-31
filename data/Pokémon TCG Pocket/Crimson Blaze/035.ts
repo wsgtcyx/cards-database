@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/035"
     },
     name: {
         en: "Spritzee",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Spritzee",
         "de": "Parfi",
         "pt-br": "Spritzee",
-        "zh-tw": "粉香香"
+        "zh-tw": "粉香香",
+        ja: "シュシュプ"
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il profumo che emana il suo corpo li incanta\nche l'annusano. Le nobildonne non mancavano\namore per Spritzee.",
         "de": "Der Duft, den sein Körper verströmt, verzaubert diese\nwer es riecht. An edlen Damen mangelte es nicht\nLiebe für Spritzee.",
         "pt-br": "O perfume que seu corpo exala encanta aqueles\nquem sente o cheiro. Senhoras nobres não tinham falta de\namor por Spritzee.",
-        "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。"
+        "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。",
+        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Dolce profumo",
                 "de": "Süßer Duft",
                 "pt-br": "Aroma Doce",
-                "zh-tw": "甜香"
+                "zh-tw": "甜香",
+                ja: "あまいかおり"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Cura 20 danni da 1 dei tuoi Pokémon.",
                 "de": "Heile 20 Schadenspunkte bei 1 deiner Pokémon.",
                 "pt-br": "Cure 20 de dano de 1 dos seus Pokémon.",
-                "zh-tw": "治療你的 1 只神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療你的 1 只神奇寶貝造成的 20 點傷害。",
+                ja: "自分のポケモン1匹のHPを20回復。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/010"
     },
     name: {
         en: "Shiftry",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tengulist",
         "pt-br": "Shiftry",
         "zh-tw": "狡猾天狗",
+        ja: "ダーテング",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Blanas",
         "pt-br": "Nuzleaf",
         "zh-tw": "長鼻葉",
+        ja: "コノハナ",
     },
     description: {
         en: "It lives quietly in the deep forest. It is said to\ncreate chilly winter winds with the fans it holds.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Vive tranquillamente nella foresta profonda. Si dice\ncrea freddi venti invernali con i fan che contiene.",
         "de": "Es lebt ruhig im tiefen Wald. Es heißt\nErzeugen Sie mit den darin enthaltenen Ventilatoren kühle Winterwinde.",
         "pt-br": "Ele vive tranquilamente nas profundezas da floresta. Diz-se que\ncrie ventos frios de inverno com os ventiladores que contém.",
-        "zh-tw": "它安靜地生活在密林深處。據說\n用它所持有的風扇製造寒冷的冬風。"
+        "zh-tw": "它安靜地生活在密林深處。據說\n用它所持有的風扇製造寒冷的冬風。",
+        ja: "森の 奥で ひっそりと 暮らす。 大きな 団扇を あおぐと 木枯らしが 吹くと いわれている。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Stroncare il ciclone",
                 "de": "Erstickender Zyklon",
                 "pt-br": "Ciclone beliscador",
-                "zh-tw": "旋風分離器"
+                "zh-tw": "旋風分離器",
+                ja: "こがらしせんぷう"
             },
             damage: 70,
             cost: ["Grass", "Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta una carta a caso dalla mano del tuo avversario.",
                 "de": "Wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória da mão do seu oponente.",
-                "zh-tw": "隨機丟棄對手手上的一張牌。"
+                "zh-tw": "隨機丟棄對手手上的一張牌。",
+                ja: "相手の手札からランダムに枚トラッシュ。"
             }
         }],
     weaknesses: [{

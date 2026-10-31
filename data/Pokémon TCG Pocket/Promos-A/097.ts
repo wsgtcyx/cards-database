@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/097",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/097"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/097"
     },
     name: {
         en: "Kangaskhan",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kangama",
         "pt-br": "Kangaskhan",
         "zh-tw": "袋獸",
+        ja: "ガルーラ",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Anche se porta il suo bambino in un marsupio\nil suo ventre, Kangaskhan è veloce in piedi. Esso\nintimidisce i suoi avversari con colpi rapidi.",
         "de": "Obwohl es sein Baby in einem Beutel trägt\nMit seinem Bauch ist Kangaskhan schnell auf den Beinen. Es\nschüchtert seine Gegner mit schnellen Stößen ein.",
         "pt-br": "Embora esteja carregando seu bebê em uma bolsa\nsua barriga, Kangaskhan é rápido. Isso\nintimida seus oponentes com golpes rápidos.",
-        "zh-tw": "雖然它把寶寶裝在育兒袋裡\n坎加斯坎的腹部，腳步敏捷。它\n用快速刺拳恐嚇對手。"
+        "zh-tw": "雖然它把寶寶裝在育兒袋裡\n坎加斯坎的腹部，腳步敏捷。它\n用快速刺拳恐嚇對手。",
+        ja: "腹の 袋に 子どもが いるが フットワークは とても 軽い。 素早いジャブで 相手を 威嚇。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Taglio trasversale",
                 "de": "Querschnitt",
                 "pt-br": "Corte transversal",
-                "zh-tw": "橫切"
+                "zh-tw": "橫切",
+                ja: "ふりおろす"
             },
             damage: "20+",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Evoluzione, questo attacco infligge 40 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Evolutions-Pokémon ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則這次攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンが進化ポケモンなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

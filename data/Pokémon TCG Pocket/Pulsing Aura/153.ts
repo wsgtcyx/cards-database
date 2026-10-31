@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/153",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/153",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/153"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/153",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/153"
     },
     name: {
         en: "Fragrant Forest",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Una volta durante il turno di ogni giocatore, quel giocatore può mettere nella propria mano un Pokémon Base {G} casuale dal proprio mazzo.",
         de: "Einmal während des Zuges jedes Spielers kann dieser Spieler ein zufälliges Basis-{G}-Pokémon aus seinem Deck auf seine Hand nehmen.",
         "pt-br": "Uma vez durante o turno de cada jogador, aquele jogador pode colocar um Pokémon Básico {G} aleatório de seu baralho em sua mão.",
-        "zh-tw": "在每位玩家的回合中一次，該玩家可以將自己牌組中的隨機一隻基本 {G} 寶可夢放入手牌。"
+        "zh-tw": "在每位玩家的回合中一次，該玩家可以將自己牌組中的隨機一隻基本 {G} 寶可夢放入手牌。",
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分の山札から{G}タイプのたねポケモンをランダムに1枚、手札に加える。"
     },
     trainerType: "Stadium"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/038"
     },
     name: {
         en: "Frillish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quabbel",
         "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
+        ja: "プルリル",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Avvolge la preda tra le sue braccia simili a veli e la attira\ngiù negli abissi, cinque miglia sotto il\nsuperficie dell'oceano.",
         "de": "Es umhüllt seine Beute mit seinen schleierartigen Armen und zieht\nes bis in die Tiefe, fünf Meilen unter dem\nMeeresoberfläche.",
         "pt-br": "Ele envolve sua presa em seus braços semelhantes a véus e puxa\naté as profundezas, cinco milhas abaixo do\nsuperfície do oceano.",
-        "zh-tw": "它用面紗般的手臂包圍獵物並吸引\n它一直深入到海底五英里的深處\n海洋表面。"
+        "zh-tw": "它用面紗般的手臂包圍獵物並吸引\n它一直深入到海底五英里的深處\n海洋表面。",
+        ja: "ベールの ような 手足で 獲物を 抱きかかえ ８０００メートルの 深海へと 引きずり込む。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Assorbire",
                 "de": "Absorbieren",
                 "pt-br": "Absorver",
-                "zh-tw": "吸收"
+                "zh-tw": "吸收",
+                ja: "すいとる"
             },
             damage: 10,
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 10 danni.",
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
+                ja: "このポケモンのHPを10回復。"
             }
         }],
     weaknesses: [{

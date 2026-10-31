@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/066"
     },
     name: {
         en: "Oricorio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Oricorio",
         de: "Choreogel",
         'pt-br': "Oricorio",
+        ja: "オドリドリ",
         ko: "춤추새",
         "zh-tw": "花舞鳥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Forma di un Oricorio che si è nutrito di Nettare\ngiallo. Si avvicina all'avversario con agili passi\ndi danza e lo manda KO con pugni elettrici.",
         de: "Dieses Choreogel hat Gelben Nektar geschlürft.\nLeichten Schrittes nähert es sich Gegnern,\num sie mit Elektrohieben zu besiegen.",
         'pt-br': "Esta forma de Oricorio bebericou néctar amarelo.\nAproxima-se dos seus oponentes com passos ligeiros,\ndepois os nocauteia com socos elétricos.",
+        ja: "やまぶきのミツを 吸った 姿。 軽快な ステップで 相手に 近寄り 電撃パンチで KO。",
         ko: "진노랑꿀을 빨아들인 모습.\n경쾌한 스텝으로 상대에게 접근하여\n전격을 담은 펀치로 KO시킨다.",
         "zh-tw": "這種形式的 Oricorio 啜飲著黃色的花蜜。它以敏捷的步伐接近對手，然後用電拳將他們擊倒。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Salvaguardia",
                 de: "Bodyguard",
                 'pt-br': "Salvaguarda",
+                ja: "しんぴのまもり",
                 ko: "신비의부적",
                 "zh-tw": "保障"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-{ex} del tuo avversario.",
                 de: "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon-{ex} deines Gegners zugefügt wird.",
                 'pt-br': "Previna todo o dano causado a este Pokémon por ataques dos Pokémon {ex} do seu oponente.",
+                ja: "このポケモンは、相手の「ポケモンex」からワザのダメージを受けない。",
                 ko: "이 포켓몬은 상대의 「포켓몬 {ex}」로부터 기술의 데미지를 받지 않는다.",
                 "zh-tw": "防止對手前神奇寶貝的攻擊對該神奇寶貝造成的所有傷害。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Zzzap",
                 de: "Zzzapp!",
                 'pt-br': "Zzzap",
+                ja: "パチパチ",
                 ko: "톡톡",
                 "zh-tw": "扎普"
             },

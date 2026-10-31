@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/009"
     },
     name: {
         en: "Kakuna",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kakuna",
         de: "Kokuna",
         'pt-br': "Kakuna",
+        ja: "コクーン",
         ko: "딱충이",
         "zh-tw": "鐵殼蛹",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Weedle",
         "de": "Hornliu",
         "pt-br": "Weedle",
-        "zh-tw": "獨角蟲"
+        "zh-tw": "獨角蟲",
+        ja: "ビードル"
     },
     attacks: [{
             cost: ["Grass"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Coleomorso",
                 de: "Käferbiss",
                 'pt-br': "Picada",
+                ja: "むしくい",
                 ko: "벌레먹기",
                 "zh-tw": "蟲咬"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Quasi incapace di muoversi, questo Pokémon può\nsolo indurire il proprio guscio per proteggersi.",
         de: "Dieses Pokémon kann sich kaum bewegen.\nBei drohender Gefahr verhärtet es seinen Panzer.",
         'pt-br': "Quase incapaz de se mover, esse Pokémon\npode apenas endurecer sua carapaça para\nse proteger quando está em perigo.",
+        ja: "自分では ほとんど 動けないが 危ないときは 硬くなって 身を守っているようだ。",
         ko: "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다.",
         "zh-tw": "這種神奇寶貝幾乎無法移動，只有在遇到危險時才能硬化外殼來保護自己。"
     },

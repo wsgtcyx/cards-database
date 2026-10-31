@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/131",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/131",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/131"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/131"
     },
     name: {
         en: "Eevee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A causa del suo codice genetico anomalo, può trasformarsi improvvisamente se esposto alle radiazioni emesse dalle pietre.",
         de: "Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.",
         "pt-br": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
-        "zh-tw": "有著不規則的基因。\n石頭散發出的放射線，\n會使牠的身體發生突變。"
+        "zh-tw": "有著不規則的基因。\n石頭散發出的放射線，\n會使牠的身體發生突變。",
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rap di coda",
                 de: "Tail Rap",
                 "pt-br": "Batida de Cauda",
-                "zh-tw": "擺尾拍打"
+                "zh-tw": "擺尾拍打",
+                ja: "しっぽビンタ"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
-                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

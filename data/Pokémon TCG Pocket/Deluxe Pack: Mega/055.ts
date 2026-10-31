@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/055",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/055",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/055"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/055"
     },
     name: {
         en: "Alolan Vulpix",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Bei heißem Wetter erzeugt es mit seinen sechs Schweifen Kiesel aus Eis. Diese verteilt es in der Nähe, um seinen Körper abzukühlen.",
         "pt-br": "Quando o clima está quente, este Pokémon cria cacos de gelo com suas seis caudas e os espalha para se refrescar.",
         "zh-tw": "天氣熱的時候會用6根尾巴製造冰礫再散向周圍，藉此讓身體冷卻下來。",
-        ja: "In hot weather, this Pokémon makes ice shards\nwith its six tails and sprays them around to cool\nitself off.",
+        ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
         ko: "In hot weather, this Pokémon makes ice shards\nwith its six tails and sprays them around to cool\nitself off."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Nagen",
                 "pt-br": "Roída",
                 "zh-tw": "咬",
-                ja: "Gnaw",
+                ja: "かじる",
                 ko: "Gnaw"
             },
             damage: 20,

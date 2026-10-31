@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/106"
     },
     name: {
         en: "Barbaracle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Thanathora",
         "pt-br": "Barbaracle",
         "zh-tw": "龜足巨鎧",
+        ja: "ガメノデス",
     },
     illustrator: "Nurikabe",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bithora",
         "pt-br": "Binacle",
         "zh-tw": "龜腳腳",
+        ja: "カメテテ",
     },
     description: {
         en: "Seven Binacle come together to form one\nBarbaracle. The Binacle that serves as the head\ngives orders to those serving as the limbs.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sette Binacle si uniscono per formarne uno solo\nBarbaracolo. Il Binacolo che funge da testa\ndà ordini a coloro che fanno da membra.",
         "de": "Sieben Binakel vereinen sich zu einem\nBarbaracle. Das Binakel, das als Kopf dient\ngibt denen, die als Gliedmaßen dienen, Befehle.",
         "pt-br": "Sete Binacle se unem para formar um\nBárbara. O Bináculo que serve como cabeça\ndá ordens àqueles que servem como membros.",
-        "zh-tw": "七個 Binacle 合而為一\n野蠻人。作為頭部的 Binacle\n對那些充當肢體的人發出命令。"
+        "zh-tw": "七個 Binacle 合而為一\n野蠻人。作為頭部的 Binacle\n對那些充當肢體的人發出命令。",
+        ja: "７匹の カメテテが １匹分の 体を つくっている。 頭が 手足に 命令する 仕組み。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Taglio dinamico",
                 "de": "Dynamisches Hacken",
                 "pt-br": "Corte Dinâmico",
-                "zh-tw": "動態斬波"
+                "zh-tw": "動態斬波",
+                ja: "ばくれつチョップ"
             },
             damage: 70,
             cost: ["Fighting", "Colorless", "Colorless"]

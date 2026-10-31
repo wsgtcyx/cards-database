@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/059"
     },
     name: {
         en: "Galarian Rapidash",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Rapidash di Galar",
         "de": "Galar-Gallopa",
         "pt-br": "Rapidash de Galar",
-        "zh-tw": "伽勒爾烈焰馬"
+        "zh-tw": "伽勒爾烈焰馬",
+        ja: "ガラルギャロップ"
     },
     illustrator: "You Iribi",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ponyta di Galar",
         "de": "Galar-Ponita",
         "pt-br": "Ponyta de Galar",
-        "zh-tw": "伽勒爾小火馬"
+        "zh-tw": "伽勒爾小火馬",
+        ja: "ガラルポニータ"
     },
     description: {
         en: "Brave and prideful, this Pokémon dashes airily\nthrough the forest, its steps aided by the psychic\npower stored in the fur on its fetlocks.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Coraggioso e orgoglioso, questo Pokémon scatta con aria ariosa\nattraverso la foresta, i suoi passi aiutati dal sensitivo\npotere immagazzinato nella pelliccia sui suoi nodelli.",
         "de": "Dieses Pokémon ist mutig und stolz und stürmt unbeschwert davon\ndurch den Wald, seine Schritte werden vom Hellseher unterstützt\nKraft, die im Fell seiner Fesseln gespeichert ist.",
         "pt-br": "Corajoso e orgulhoso, este Pokémon corre alegremente\npela floresta, seus passos auxiliados pelo psíquico\npoder armazenado na pele em seus boletos.",
-        "zh-tw": "這只神奇寶貝勇敢而驕傲，輕快地衝刺\n穿過森林，它的腳步在心靈的幫助下\n球節毛皮中儲存的能量。"
+        "zh-tw": "這只神奇寶貝勇敢而驕傲，輕快地衝刺\n穿過森林，它的腳步在心靈的幫助下\n球節毛皮中儲存的能量。",
+        ja: "勇猛果敢で 誇り 高い。 足先の 毛に サイコパワーを ためて 軽やかに 森を 駆ける。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Laser fotonico",
                 "de": "Photonenlaser",
                 "pt-br": "Laser de fótons",
-                "zh-tw": "光子激光"
+                "zh-tw": "光子激光",
+                ja: "フォトンレーザー"
             },
             damage: "40+",
             cost: ["Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se hai 5 o più Energie {P} in gioco, questo attacco infligge 60 danni in più.",
                 "de": "Wenn du 5 oder mehr {P}-Energie im Spiel hast, verursacht dieser Angriff 60 Schadenspunkte mehr.",
                 "pt-br": "Se você tiver 5 ou mais {P} Energias em jogo, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果你場上有 5 或更多 {P} 能量，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果你場上有 5 或更多 {P} 能量，則此攻擊造成的傷害增加 60 點。",
+                ja: "自分の場に{P}エネルギーが5個以上あるなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

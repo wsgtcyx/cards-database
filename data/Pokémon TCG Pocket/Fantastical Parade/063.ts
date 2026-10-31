@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/063"
     },
     name: {
         en: "Ralts",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ralts",
         "de": "Trasla",
         "pt-br": "Ralts",
-        "zh-tw": "拉魯拉絲"
+        "zh-tw": "拉魯拉絲",
+        ja: "ラルトス"
     },
     illustrator: "mingo",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È molto in sintonia con le emozioni delle persone\ne Pokemon. Si nasconde se avverte ostilità.",
         "de": "Es ist stark auf die Emotionen der Menschen abgestimmt\nund Pokémon. Es versteckt sich, wenn es Feindseligkeit spürt.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas\ne Pokémon. Ele se esconde se sentir hostilidade.",
-        "zh-tw": "它高度契合人們的情緒\n和神奇寶貝。如果它感受到敵意，它就會隱藏起來。"
+        "zh-tw": "它高度契合人們的情緒\n和神奇寶貝。如果它感受到敵意，它就會隱藏起來。",
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Stordiraggio",
                 "de": "Konfusstrahl",
                 "pt-br": "Raio da Confusão",
-                "zh-tw": "迷惑雷"
+                "zh-tw": "迷惑雷",
+                ja: "あやしいひかり"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

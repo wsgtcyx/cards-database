@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/016"
     },
     name: {
         en: "Tentacruel",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tentoxa",
         "pt-br": "Tentacruel",
         "zh-tw": "毒刺水母",
+        ja: "ドククラゲ",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Tentacha",
         "pt-br": "Tentacool",
         "zh-tw": "瑪瑙水母",
+        ja: "メノクラゲ",
     },
     description: {
         en: "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando le sfere rosse sulla testa di Tentacruel si illuminano\nbrillantemente, attenzione. Il Pokémon sta per farlo\nemettere una raffica di onde ultrasoniche.",
         "de": "Wenn die roten Kugeln auf Tentacruels Kopf leuchten\nhell, pass auf. Das Pokémon steht kurz davor\nFeuern Sie einen Ultraschallwellenstoß ab.",
         "pt-br": "Quando os orbes vermelhos na cabeça de Tentacruel brilham\nbrilhantemente, cuidado. O Pokémon está prestes a\ndisparar uma explosão de ondas ultrassônicas.",
-        "zh-tw": "當刺傷克魯爾頭上的紅色球體發光時\n光明，小心。寶可夢即將\n發射一陣超聲波。"
+        "zh-tw": "當刺傷克魯爾頭上的紅色球體發光時\n光明，小心。寶可夢即將\n發射一陣超聲波。",
+        ja: "頭の 赤い 玉の 光が 強くなったら 要注意。 超音波を 放つ 前触れだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Veleno stordente",
                 "de": "Betäubungsgift",
                 "pt-br": "Veneno de atordoamento",
-                "zh-tw": "眩暈毒藥"
+                "zh-tw": "眩暈毒藥",
+                ja: "しんけいどく"
             },
             damage: 50,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è avvelenato e paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt vergiftet und gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Envenenado e Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍神奇寶貝現在中毒並麻痺。"
+                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍神奇寶貝現在中毒並麻痺。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/138"
     },
     name: {
         en: "Magnezone",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magnezone",
         "pt-br": "Magnezone",
         "zh-tw": "自爆磁怪",
+        ja: "ジバコイル",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
+        ja: "レアコイル",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Mentre sfreccia nel cielo, appare questo Pokémon\nricevere segnali di origine sconosciuta mentre\ntrasmettere segnali di scopo sconosciuto.",
         "de": "Während es durch den Himmel rast, erscheint dieses Pokémon\nwährenddessen Signale unbekannter Herkunft empfangen\nSenden von Signalen mit unbekanntem Zweck.",
         "pt-br": "À medida que avança pelo céu, este Pokémon parece\nestar recebendo sinais de origem desconhecida enquanto\ntransmitindo sinais de propósito desconhecido.",
-        "zh-tw": "當它在天空中疾馳時，這只神奇寶貝似乎\n接收到來歷不明的信號\n傳輸目的不明的信號。"
+        "zh-tw": "當它在天空中疾馳時，這只神奇寶貝似乎\n接收到來歷不明的信號\n傳輸目的不明的信號。",
+        ja: "怪電波を 発信 しながら 空を 飛び回り 未知の 電波を 受信 していると いう。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Esplosione di tuono",
                 "de": "Donnerschlag",
                 "pt-br": "Explosão de trovão",
-                "zh-tw": "雷霆衝擊"
+                "zh-tw": "雷霆衝擊",
+                ja: "サンダーブラスト"
             },
             damage: 110,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {L} da questo Pokémon.",
                 "de": "Wirf eine {L} Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {L} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {L} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {L} 能量。",
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

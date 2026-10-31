@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/106",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/106",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/106"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/106"
     },
     name: {
         en: "Bellibolt ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Cannone Folgorante",
                 de: "Starkstromkanone",
                 "pt-br": "Canhão de Alta Voltagem",
-                "zh-tw": "高壓電炮"
+                "zh-tw": "高壓電炮",
+                ja: "こうでんあつほう"
             },
             effect: {
                 en: "If you have 4 or more {L} Energy in play, this attack does 70 more damage.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Se hai 4 o più {L} Energia in gioco, questo attacco infligge 70 danni in più.",
                 de: "Wenn du 4 oder mehr {L}-Energie im Spiel hast, fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver 4 ou mais {L} Energias em jogo, este ataque causará 70 de dano a mais.",
-                "zh-tw": "如果你場上有 4 或更多 {L} 能量，則此攻擊會造成 70 點以上傷害。"
+                "zh-tw": "如果你場上有 4 或更多 {L} 能量，則此攻擊會造成 70 點以上傷害。",
+                ja: "自分の場に{L}エネルギーが4個以上あるなら、70ダメージ追加。"
             },
             damage: "70+"
         }

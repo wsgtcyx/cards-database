@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/022"
     },
     name: {
         en: "Yanmega ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Yanmega-ex",
         "pt-br": "Yanmega ex",
         "zh-tw": "遠古巨蜓ex",
+        ja: "メガヤンマex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Yanma",
         "pt-br": "Yanma",
         "zh-tw": "蜻蜻蜓",
+        ja: "ヤンヤンマ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Taglio d'aria",
                 "de": "Luftschnitt",
                 "pt-br": "Corte de Ar",
-                "zh-tw": "空氣斬"
+                "zh-tw": "空氣斬",
+                ja: "エアスラッシュ"
             },
             damage: 120,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Scarta un'Energia casuale da questo Pokémon.",
                 "de": "Lege eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia aleatória deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的隨機能量。"
+                "zh-tw": "丟棄該神奇寶貝的隨機能量。",
+                ja: "このポケモンからエネルギーをランダムに個トラッシュ。"
             }
         }],
     weaknesses: [{

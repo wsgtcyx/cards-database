@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/144",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/144",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/144"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/144"
     },
     name: {
         en: "Cosmoem",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Cosmog",
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
-        ja: "Cosmog",
+        ja: "コスモッグ",
         ko: "Cosmog"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
-                ja: "Ram",
+                ja: "ぶつかる",
                 ko: "Ram"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Es wird von einer Schale umhüllt, deren Härte Menschen vor ein Rätsel stellt. Es wächst, indem es in Sternenlicht badet.",
         "pt-br": "O crescimento deste Pokémon é nutrido pela absorção da luz das estrelas. A carapaça que o envolve é mais dura do que qualquer material conhecido.",
         "zh-tw": "將核心包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
-        ja: "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+        ja: "人知を 超えた 硬さの 殻に 包まれている。 星の 光を 浴びて 成長する。",
         ko: "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material."
     }
 };

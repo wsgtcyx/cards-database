@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/060"
     },
     name: {
         en: "Luxray",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Luxray",
         de: "Luxtra",
         'pt-br': "Luxray",
+        ja: "レントラー",
         ko: "렌트라",
         "zh-tw": "倫琴貓",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Luxio",
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
+        ja: "ルクシオ",
     },
     description: {
         en: "It can see clearly through walls to track down its prey and seek its lost young.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La sua capacità di vedere attraverso le pareti\nè utile non solo quando incalza la preda in fuga,\nma anche per trovare i suoi cuccioli smarriti.",
         de: "Es kann durch Wände sehen und spürt auf diese\nWeise Beute und verloren gegangene Junge auf.",
         'pt-br': "Pode ver claramente através de paredes para rastrear\nsuas presas e procurar seus jovens perdidos.",
+        ja: "壁の向こうも 見える 力で 逃げた 獲物を 追いつめるほかにも 迷子の 子どもを 捜したりする。",
         ko: "벽 저편까지 볼 수 있는 힘으로\n도망친 먹이를 쫓는 것 이외에도\n미아가 된 아이를 찾기도 한다.",
         "zh-tw": "它可以清晰地透過牆壁追踪獵物並尋找丟失的幼崽。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lampovolt",
                 de: "Strombolzen",
                 'pt-br': "Raio de Energia",
+                ja: "ボルテージアロー",
                 ko: "볼티지애로",
                 "zh-tw": "伏特螺栓"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Rimuovi tutte le Energie {L} da questo Pokémon. Questo attacco infligge 120 danni a uno dei Pokémon del tuo avversario.",
                 de: "Lege alle {L}-Energien von diesem Pokémon ab. Diese Attacke fügt 1 Pokémon deines Gegners 120 Schadenspunkte zu.",
                 'pt-br': "Descarte todas as Energias {L} deste Pokémon. Este ataque causa 120 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "このポケモンから{L}エネルギーをすべてトラッシュし、相手のポケモン1匹に120ダメージ。",
                 ko: "이 포켓몬에서 {L}에너지를 모두 트래쉬하고 상대의 포켓몬 1마리에게 120데미지를 준다.",
                 "zh-tw": "丟棄該神奇寶貝的所有 {L} 能量。這次攻擊對對手的 1 只神奇寶貝造成 120 點傷害。"
             }

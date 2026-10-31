@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/234",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/234"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/234",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/234"
     },
     name: {
         en: "Lapras",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Lapras",
         it: "Lapras",
         de: "Lapras",
+        ja: "ラプラス",
         ko: "라프라스",
         'pt-br': "Lapras",
         "zh-tw": "拉普拉斯"
@@ -34,6 +36,7 @@ const card: Card = {
                 es: "Hidrobomba",
                 it: "Idropompa",
                 de: "Hydropumpe",
+                ja: "ハイドロポンプ",
                 ko: "하이드로펌프",
                 'pt-br': "Jato d'Água",
                 "zh-tw": "液壓泵"
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Si este Pokémon tiene por lo menos 3 Energías {W} adicionales unidas a él, este ataque hace 70 puntos de daño más.",
                 it: "Se questo Pokémon ha almeno 3 Energie {W} extra assegnate, questo attacco infligge 70 danni in più.",
                 de: "Wenn an dieses Pokémon mindestens 3 extra {W}-Energien angelegt sind, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+                ja: "追加で{W}エネルギーが3個ついているなら、70ダメージ追加。",
                 ko: "{W}에너지 3개가 추가로 붙어 있다면 70데미지를 추가한다.",
                 'pt-br': "Se este Pokémon tiver pelo menos 3 Energia {W} extra ligada a ele, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊造成的傷害增加 70 點。"
@@ -63,6 +67,7 @@ const card: Card = {
         it: "È un Pokémon intelligente e dall'animo\ngentile. Solca i mari facendo riecheggiare\nil suo canto dolce e melodioso.",
         de: "Ein intelligentes und herzensgutes Pokémon.\nWährend es auf dem Meer schwimmt, lässt es\nseinen herrlichen Gesang erklingen.",
         'pt-br': "Este Pokémon esperto e bondoso flutua\nna superfície do oceano, enquanto sua\nlinda canção ecoa ao redor.",
+        ja: "賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。",
         ko: "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다.",
         "zh-tw": "聰明又善良的神奇寶貝，它在海面上滑行，周圍迴響著優美的歌聲。"
     },

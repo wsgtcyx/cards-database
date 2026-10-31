@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/056"
     },
     name: {
         en: "Druddigon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Druddigon",
         de: "Shardrago",
         'pt-br': "Druddigon",
+        ja: "クリムガン",
         ko: "크리만",
         "zh-tw": "赤面龍",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Vive in cavità sotterranee, ma poiché non\nriesce più a muoversi se il suo corpo si\nraffredda, non può fare a meno dei bagni di sole.",
         de: "Shardrago lebt in Grotten. Kühlt sein Körper ab,\nerstarrt es, weshalb es regelmäßig Sonnenbäder\nnehmen muss.",
         'pt-br': "Druddigon habita cavernas, mas nunca deixa de tomar um banho de sol.\nEle não é capaz de mover seu corpo se ficar com muito frio.",
+        ja: "あなぐらに 棲む。 体が 冷えると 動けなくなるので 日光浴は 欠かさない。",
         ko: "토굴에 산다. 몸이 차가워지면\n움직이지 못하기 때문에\n일광욕을 거르지 않는다.",
         "zh-tw": "德魯迪貢生活在洞穴裡，但它從不跳過日光浴——如果它的身體太冷，它就無法移動。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cartavetro",
                 de: "Rauhaut",
                 'pt-br': "Pele Áspera",
+                ja: "さめはだ",
                 ko: "까칠한피부",
                 "zh-tw": "皮膚粗糙"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
                 'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
                 ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
                 "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Dragartigli",
                 de: "Drachenklaue",
                 'pt-br': "Garra de Dragão",
+                ja: "ドラゴンクロー",
                 ko: "드래곤클로",
                 "zh-tw": "龍爪"
             },

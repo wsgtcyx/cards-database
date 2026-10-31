@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/033"
     },
     name: {
         en: "Mismagius",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunmagil",
         "pt-br": "Mismagius",
         "zh-tw": "夢妖魔",
+        ja: "ムウマージ",
     },
     illustrator: "tono",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     description: {
         en: "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo grido sembra un incantesimo. Si dice il grido\npuò raramente essere intriso di potere che dà felicità.",
         "de": "Sein Schrei klingt wie eine Beschwörung. Es heißt, der Schrei\nkann selten von glückspendender Kraft durchdrungen sein.",
         "pt-br": "Seu grito soa como um encantamento. Diz-se que o choro\nraramente pode estar imbuído do poder de dar felicidade.",
-        "zh-tw": "它的叫聲聽起來就像是咒語。據說哭聲\n可能很少充滿給予幸福的力量。"
+        "zh-tw": "它的叫聲聽起來就像是咒語。據說哭聲\n可能很少充滿給予幸福的力量。",
+        ja: "呪文のような 鳴き声だが まれに 相手を 幸せにする 効果も 秘めているという。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Prosa maledetta",
                 "de": "Verfluchte Prosa",
                 "pt-br": "Prosa Amaldiçoada",
-                "zh-tw": "被詛咒的散文"
+                "zh-tw": "被詛咒的散文",
+                ja: "のろいのことだま"
             },
             cost: ["Psychic"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Alla fine del prossimo turno del tuo avversario, infliggi 90 danni al Pokémon difensore.",
                 "de": "Füge am Ende des nächsten Zuges deines Gegners dem verteidigenden Pokémon 90 Schadenspunkte zu.",
                 "pt-br": "No final do próximo turno do seu oponente, cause 90 de dano ao Pokémon Defensor.",
-                "zh-tw": "下個對手回合結束時，對守方寶可夢造成 90 點傷害。"
+                "zh-tw": "下個對手回合結束時，對守方寶可夢造成 90 點傷害。",
+                ja: "次の相手の番の終わりに、このワザを受けたポケモンに90ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/175",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/175",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/175"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/175",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/175"
     },
     name: {
         en: "Fraxure",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Milza",
         "pt-br": "Axew",
         "zh-tw": "牙牙",
-        ja: "Axew",
+        ja: "キバゴ",
         ko: "Axew"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Mit seinen dicken Stoßzähnen zerteilt es seine Beute säuberlich. Einen Teil frisst es sofort, den Rest hebt es sich für später auf.",
         "pt-br": "Fraxure usa suas presas grossas para cortar, meticulosamente, sua caça em duas porções: uma para comer de imediato e a outra para comer depois.",
         "zh-tw": "會使用粗壯的牙齒俐落地分解獵物，然後把當下要吃的份與存糧的份分開。",
-        ja: "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.",
+        ja: "太い キバを 使って 獲物を きれいに 捌いて 食べるものと 保存する ものに 分けるのだ。",
         ko: "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later."
     },
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Drachenklaue",
                 "pt-br": "Garra de Dragão",
                 "zh-tw": "龍爪",
-                ja: "Dragon Claw",
+                ja: "ドラゴンクロー",
                 ko: "Dragon Claw"
             },
             damage: 60

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/001"
     },
     name: {
         en: "Oddish",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Oddish",
         de: "Myrapla",
         'pt-br': "Oddish",
+        ja: "ナゾノクサ",
         ko: "뚜벅쵸",
         "zh-tw": "走路草",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Inizia a muoversi quando è illuminato dalla luce\nlunare. Di notte se ne va in giro a spargere semi.",
         de: "Wird es vom Mondschein getroffen, bewegt es\nsich. Nachts wandert es weite Wege, um seine\nSamen zu verstreuen.",
         'pt-br': "Ao ser exposto à luz da lua, começa\na se mover. Aventura-se por aí durante\na noite para espalhar suas sementes.",
+        ja: "月の光を 浴びて 動きだす。 夜のあいだに タネを あちこちに ばらまくため 歩きまわる。",
         ko: "달빛을 받아 움직인다.\n밤중에 씨앗을 여기저기\n뿌리기 위해 돌아다닌다.",
         "zh-tw": "如果暴露在月光下，它就會開始移動。它在夜間四處遊蕩以傳播種子。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Macchia",
                 de: "Klecks",
                 'pt-br': "Borrão",
+                ja: "ちょっとすいとる",
                 ko: "조금흡수",
                 "zh-tw": "印跡"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 10 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
             }

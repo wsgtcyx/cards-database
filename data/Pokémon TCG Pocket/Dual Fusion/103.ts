@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/103",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/103",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/103"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/103"
     },
     name: {
         en: "Pidgeotto",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
-        ja: "Pidgey",
+        ja: "ポッポ",
         ko: "Pidgey"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Schneidender Wind",
                 "pt-br": "Vento Dilacerante",
                 "zh-tw": "利刃之風",
-                ja: "Cutting Wind",
+                ja: "カッターウインド",
                 ko: "Cutting Wind"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Die Krallen an seinen Füßen sind sehr ausgeprägt. Es kann sogar ein Owei zu seinem Nest in 100 km Entfernung tragen.",
         "pt-br": "As garras nos seus pés são bem desenvolvidas. Ele pode levar presas como Exeggcute para seu ninho a mais de 100 km de distância.",
         "zh-tw": "腳爪非常發達。曾一把抓住獵物蛋蛋，帶回１００公里外的巢穴。",
-        ja: "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+        ja: "足の ツメが 発達している。 エサの タマタマを つかんで １００キロ先の 巣まで 運ぶ。",
         ko: "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away."
     }
 };

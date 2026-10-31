@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/033",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/033",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/033"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/033"
     },
     name: {
         en: "Growlithe",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es ist sehr freundlich und treu. Durch Bellen und Beißen versucht es, Feinde zu verscheuchen.",
         "pt-br": "É muito amigável e fiel às pessoas. Tentará repelir inimigos com latidos e mordidas.",
         "zh-tw": "性格誠實，容易和人親近。遇到敵人時牠會吼叫並咬，試著把敵人趕走。",
-        ja: "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。",
         ko: "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
                 "zh-tw": "小狗滿地跑",
-                ja: "Puppy Pile",
+                ja: "こいぬまみれ",
                 ko: "Puppy Pile"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Zeige deinem Gegner alle deine Pokémon im Spiel und auf deiner Hand mit der Attacke Welpenhaufen. Diese Attacke fügt für jedes auf diese Weise gezeigte Pokémon 20 Schadenspunkte mehr zu.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Pilha de Filhotes, e este ataque causa 20 pontos de dano para cada Pokémon que você revelou dessa forma.",
                 "zh-tw": "在給對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的寶可夢後,造成給對手看過的寶可夢的數量×20點傷害。",
-                ja: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
                 ko: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
             },
             damage: "20x"

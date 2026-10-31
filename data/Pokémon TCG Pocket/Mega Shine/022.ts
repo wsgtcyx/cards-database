@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/022",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/022",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/022"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/022"
     },
     name: {
         en: "Pikachu",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando molti di questi Pokémon si riuniscono, la loro elettricità può accumularsi e causare tempeste di fulmini.",
         de: "Wenn sich mehrere dieser Pokémon versammeln, kann sich ihre Elektrizität aufbauen und Gewitter auslösen.",
         "pt-br": "Quando vários desses Pokémon se reúnem, sua eletricidade pode aumentar e causar tempestades com raios.",
-        "zh-tw": "當這些寶可夢聚集在一起時，它們的電力就會累積並引發閃電風暴。"
+        "zh-tw": "當這些寶可夢聚集在一起時，它們的電力就會累積並引發閃電風暴。",
+        ja: "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Shock Statico",
                 de: "Statischer Schock",
                 "pt-br": "Choque de Estática",
-                "zh-tw": "劈哩啪啦"
+                "zh-tw": "劈哩啪啦",
+                ja: "バチバチ"
             },
             damage: 10
         }

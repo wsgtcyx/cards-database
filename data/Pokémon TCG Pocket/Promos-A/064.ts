@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/064"
     },
     name: {
         en: "Rayquaza ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rayquaza-ex",
         de: "Rayquaza-ex",
         'pt-br': "Rayquaza ex",
+        ja: "レックウザex",
         ko: "레쿠쟈 ex",
         "zh-tw": "烈空坐ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Dragobolide",
                 de: "Draco Meteor",
                 'pt-br': "Meteoro do Dragão",
+                ja: "りゅうせいぐん",
                 ko: "용성군",
                 "zh-tw": "天龍流星"
             },
@@ -47,6 +50,7 @@ const card: Card = {
                 it: "Per 4 volte, un Pokémon avversario viene scelto a caso. Ogni volta che un Pokémon viene scelto in questo modo, subisce 40 danni.",
                 de: "4 Mal wird zufällig 1 Pokémon des Gegners ausgewählt. Füge jedes Mal, wenn ein Pokémon ausgewählt wird, diesem Pokémon 40 Schadenspunkte zu.",
                 'pt-br': "4 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 40 pontos de dano a ele.",
+                ja: "相手のポケモンがランダムに4回選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。",
                 ko: "상대의 포켓몬이 랜덤으로 4번 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 40데미지를 준다.",
                 "zh-tw": "隨機選擇 1 只對手的神奇寶貝 4 次。每選擇一隻神奇寶貝，就會對其造成 40 點傷害。"
             }

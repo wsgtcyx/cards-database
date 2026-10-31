@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/054"
     },
     name: {
         en: "Whirlipede",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Whirlipede",
         de: "Rollum",
         'pt-br': "Whirlipede",
+        ja: "ホイーガ",
         ko: "휠구",
         "zh-tw": "車輪毬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Toxiped",
         "pt-br": "Venipede",
         "zh-tw": "百足蜈蚣",
+        ja: "フシデ",
     },
     description: {
         en: "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Attacca l'avversario turbinando rapidamente su se\nstesso. Può raggiungere una velocità di circa 100 km/h.",
         de: "Rollum dreht sich mit hoher Geschwindigkeit\nund rammt seine Gegner. Dabei erreicht es\nGeschwindigkeiten von bis zu 100 km/h.",
         'pt-br': "Este Pokémon gira o corpo rapidamente e ataca seus oponentes.\nSua velocidade máxima é de pouco mais de 100 km/h.",
+        ja: "高速で 回転し 相手に 突撃。 最高時速は およそ １００キロに 達する。",
         ko: "고속으로 회전해 상대에게\n돌격한다. 최고 시속은\n약 100km에 달한다.",
         "zh-tw": "這只神奇寶貝快速旋轉並沖向對手。它的最高時速剛剛超過 60 英里/小時。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Velenospina",
                 de: "Giftstachel",
                 'pt-br': "Ferrão Venenoso",
+                ja: "どくばり",
                 ko: "독침",
                 "zh-tw": "毒刺"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

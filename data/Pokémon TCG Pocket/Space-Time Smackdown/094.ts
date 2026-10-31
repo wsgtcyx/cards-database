@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/094"
     },
     name: {
         en: "Hippowdon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hippowdon",
         de: "Hippoterus",
         'pt-br': "Hippowdon",
+        ja: "カバルドン",
         ko: "하마돈",
         "zh-tw": "河馬獸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Hippopotas",
         "pt-br": "Hippopotas",
         "zh-tw": "沙河馬",
+        ja: "ヒポポタス",
     },
     description: {
         en: "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si infuria molto facilmente. Per mostrare\nla sua forza tiene la bocca spalancata.",
         de: "Es wird überraschend schnell wütend. Als Zeichen\nseiner Stärke sperrt es sein Maul auf.",
         'pt-br': "É surpreendentemente rápido deixá-lo irritado.\nEle mantém a boca aberta como sinal de sua força.",
+        ja: "意外と 怒りっぽい ポケモンで 口を 大きく 開けることで まわりに 強さを アピールする。",
         ko: "의외로 화를 잘 내는 포켓몬으로\n입을 크게 벌려\n주위에 자신의 강함을 어필한다.",
         "zh-tw": "它非常容易生氣。它張開嘴以展示其力量。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Pressa Tellurica",
                 de: "Bodenpresse",
                 'pt-br': "Pressão Terrestre",
+                ja: "グラウンドプレス",
                 ko: "그라운드 프레스",
                 "zh-tw": "土壓機"
             },

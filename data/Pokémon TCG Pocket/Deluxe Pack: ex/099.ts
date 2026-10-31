@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/099",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/099",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/099",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/099"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/099",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/099"
 	},
 	name: {
 		en: "Vaporeon",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Vaporeon",
 		de: "Aquana",
 		"pt-br": "Vaporeon",
-		"zh-tw": "水伊布"
+		"zh-tw": "水伊布",
+		ja: "シャワーズ"
 	},
 	illustrator: "LINNE",
 	category: "Pokemon",
@@ -32,7 +34,8 @@ const card: Card = {
 		it: "Eevee",
 		de: "Evoli",
 		"pt-br": "Eevee",
-		"zh-tw": "伊布"
+		"zh-tw": "伊布",
+		ja: "イーブイ"
 	},
 	description: {
 		en: "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.",
@@ -41,6 +44,7 @@ const card: Card = {
 		it: "Vive vicino all'acqua. Sulla punta della coda ha una\npinna, per questo alcuni lo scambiano per una sirena.",
 		de: "Dieses Pokémon lebt nahe an Gewässern.\nWegen seiner fischähnlichen Schwanzflosse wird\nes manchmal für eine Meerjungfrau gehalten.",
 		"pt-br": "Este Pokémon vive perto da água. A sua longa\ncauda é coberta por uma barbatana e muitas\nvezes é confundida com a de uma sereia.",
+		ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。",
 		ko: "물가에 살지만 꼬리에\n물고기처럼 지느러미가 남아 있어서\n인어로 착각하는 사람도 있다.",
 		"zh-tw": "它生活在靠近水的地方。它的長尾巴上有脊狀鰭，經常被誤認為是美人魚的尾巴。"
 	},
@@ -55,6 +59,7 @@ const card: Card = {
 				it: "Sciacquare",
 				de: "Wegspülen",
 				"pt-br": "Lavagem",
+				ja: "おしながす",
 				ko: "흘려보내기",
 				"zh-tw": "洗掉"
 			},
@@ -65,6 +70,7 @@ const card: Card = {
 				it: "Durante il tuo turno, puoi spostare un'Energia {W} da uno dei tuoi Pokémon {W} in panchina al tuo Pokémon {W} in posizione attiva tutte le volte che vuoi.",
 				de: "Beliebig oft während deines Zuges kannst du 1 {W}-Energie von 1 {W}-Pokémon auf deiner Bank auf dein Aktives {W}-Pokémon verschieben.",
 				"pt-br": "Quantas vezes desejar durante o seu turno, você poderá mover uma Energia {W} de 1 dos seus Pokémon {W} no Banco para o seu Pokémon {W} Ativo.",
+				ja: "自分の番に何回でも使える。自分のベンチの{W}ポケモンから{W}エネルギーを1個、バトル場の{W}ポケモンにつけ替える。",
 				ko: "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 벤치의 {W}포켓몬에서 {W}에너지를 1개 배틀필드의 {W}포켓몬에게 바꿔 붙인다.",
 				"zh-tw": "在你的回合中，你可以多次將 {W} 能量從你的 1 個後備 {W} 神奇寶貝轉移到你的活躍 {W} 神奇寶貝上。"
 			}
@@ -79,6 +85,7 @@ const card: Card = {
 				it: "Schizzi d'Onda",
 				de: "Wellenplatscher",
 				"pt-br": "Onda Borrifante",
+				ja: "スプラッシュ",
 				ko: "스플래시",
 				"zh-tw": "波浪飛濺"
 			},

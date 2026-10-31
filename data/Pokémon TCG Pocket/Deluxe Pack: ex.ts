@@ -12,7 +12,7 @@ const set: Set = {
 		it: "Deluxe Pack: ex",
 		'pt-br': "Deluxe Pack: ex",
 		ko: 'Deluxe Pack: ex',
-		ja: 'ハイクラスパックex',
+		ja: "ハイクラスパック ex",
 		'zh-tw': "豪華包：ex"
 	},
 
@@ -32,7 +32,7 @@ const set: Set = {
 				it: 'Deluxe Pack EX',
 				'pt-br': 'Deluxe Pack EX',
 				ko: 'Deluxe Pack EX',
-				ja: 'ハイクラスパックEX',
+				ja: "ハイクラスパック ex",
 				'zh-tw': '豪華包 EX'
 			}
 		}

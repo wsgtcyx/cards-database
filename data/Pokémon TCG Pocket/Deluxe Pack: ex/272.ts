@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/272",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/272",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/272",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/272"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/272",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/272"
     },
     name: {
         en: "Pidgey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
+        ja: "ポッポ",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Uno spettacolo comune nelle foreste e nei boschi. Sbatte le ali\nle sue ali a livello del suolo sollevano sabbia accecante.",
         "de": "Ein häufiger Anblick in Wäldern und Wäldern. Es flattert\nSeine Flügel befinden sich auf Bodenhöhe, um blendenden Sand aufzuwirbeln.",
         "pt-br": "Uma visão comum em florestas e bosques. Ele bate\nsuas asas ao nível do solo para levantar areia ofuscante.",
-        "zh-tw": "森林和樹林中常見的景象。它拍打著\n它的翅膀在地面上，可以揚起令人眼花繚亂的沙子。"
+        "zh-tw": "森林和樹林中常見的景象。它拍打著\n它的翅膀在地面上，可以揚起令人眼花繚亂的沙子。",
+        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Patta",
                 "de": "Klappe",
                 "pt-br": "Aba",
-                "zh-tw": "皮瓣"
+                "zh-tw": "皮瓣",
+                ja: "はばたく"
             },
             damage: 20,
             cost: ["Colorless"]

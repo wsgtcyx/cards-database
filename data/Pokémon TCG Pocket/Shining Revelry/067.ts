@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/067"
     },
     name: {
         en: "Lopunny",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lopunny",
         de: "Schlapor",
         'pt-br': "Lopunny",
+        ja: "ミミロップ",
         ko: "이어롭",
         "zh-tw": "長耳兔"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Buneary",
         "de": "Haspiror",
         "pt-br": "Buneary",
-        "zh-tw": "捲捲耳"
+        "zh-tw": "捲捲耳",
+        ja: "ミミロル"
     },
     description: {
         en: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Presta sempre attenzione all'ambiente\ncircostante e in caso di pericolo sfodera\ncalci di straordinaria potenza distruttiva.",
         de: "Schlapor behält seine Umgebung stets im Auge.\nWenn Gefahr im Verzug ist, setzt es sich mit\nvernichtenden Tritten zur Wehr.",
         'pt-br': "Lopunny está constantemente monitorando seus\narredores. Se o perigo se aproxima, este Pokémon\nresponde com chutes superdestrutivos.",
+        ja: "まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。",
         ko: "주위 상황을 항상 신경 쓰고 있으며\n위험이 닥치면 무시무시한 파괴력을\n가진 킥을 날린다.",
         "zh-tw": "Lopunny 不斷監視著周圍的環境。如果危險臨近，這只神奇寶貝會用超破壞性的踢來回應。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Colpo Salterino",
             de: "Hüpfkick",
             'pt-br': "Disparada Saltitante",
+            ja: "ホッピングシュート",
             ko: "홉핑슛",
             "zh-tw": "跳投"
         },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/160",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/160",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/160",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/160"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/160",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/160"
     },
     name: {
         en: "Jasmine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Jasmin",
         "pt-br": "Jasmine",
         "zh-tw": "阿蜜",
+        ja: "ミカン",
     },
     illustrator: "En Morikura",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante il prossimo turno del tuo avversario, tutti i tuoi Steelix e Skarmory ex subiscono -50 danni dagli attacchi dei Pokémon del tuo avversario.",
         "de": "Während des nächsten Zuges deines Gegners erleiden alle deine Steelix- und Skarmory-Ex-Spieler −50 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Durante o próximo turno do seu oponente, todos os seus ex Steelix e Skarmory sofrem -50 de dano de ataques dos Pokémon do seu oponente.",
-        "zh-tw": "在你對手的下一個回合中，你所有的鋼力克斯和斯卡莫里前體都會因對手神奇寶貝的攻擊而受到−50點傷害。"
+        "zh-tw": "在你對手的下一個回合中，你所有的鋼力克斯和斯卡莫里前體都會因對手神奇寶貝的攻擊而受到−50點傷害。",
+        ja: "次の相手の番、自分の「ハガネール」「エアームドex」全員が、相手のポケモンから受けるワザのダメージを-50する。"
     },
     trainerType: "Supporter",
     boosters: ["ho-oh"]

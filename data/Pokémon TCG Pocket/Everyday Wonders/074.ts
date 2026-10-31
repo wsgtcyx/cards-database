@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/074",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/074",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/074"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/074"
     },
     name: {
         en: "Mareanie",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha eccellenti capacità rigenerative. Le zampe che uno Mareanie ha perso hanno un sapore molto amaro e astringente: non sono adatte come cibo.",
         de: "Es verfügt über hervorragende Regenerationsfähigkeiten. Beine, die ein Garstella verloren hat, haben einen sehr bitteren, adstringierenden Geschmack – sie sind nicht als Nahrung geeignet.",
         "pt-br": "Possui excelentes capacidades regenerativas. As pernas que um Mareanie perdeu têm um sabor muito amargo e adstringente – não são adequadas como alimento.",
-        "zh-tw": "它具有出色的再生能力。 好壞星 失去的腿具有非常苦澀的味道，不適合作為食物。"
+        "zh-tw": "它具有出色的再生能力。 好壞星 失去的腿具有非常苦澀的味道，不適合作為食物。",
+        ja: "再生力が とても 強い。 ちぎれた 脚は 苦味と 渋味が 強く 食材には むかない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Velenoshock",
                 de: "Giftschock",
                 "pt-br": "Venochoque",
-                "zh-tw": "毒液衝擊"
+                "zh-tw": "毒液衝擊",
+                ja: "ベノムショック"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 60 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Envenenado, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 60 點。",
+                ja: "相手のバトルポケモンがどくなら、60ダメージ追加。"
             },
             damage: "20+"
         }

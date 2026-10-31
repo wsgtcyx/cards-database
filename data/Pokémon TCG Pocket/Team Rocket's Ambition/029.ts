@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/029",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/029",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/029"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/029"
     },
     name: {
         en: "Team Rocket's Mr. Mime",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È un ottimo mimo. Con le onde che emette dalle dita può creare una barriera che lo protegge da molti attacchi.",
         de: "Es ist für die Pantomime geboren. Zur Abwehr unterschiedlichster Angriffe erzeugt es mit einem Kraftfeld aus seinen Fingerspitzen Schutzwände.",
         "pt-br": "Conhecido por suas técnicas de pantomima de alto nivel, este Pokémon se protege de todos os tipos de ataque, emitindo auras de seus dedos para críar paredes.",
-        "zh-tw": "擅長表演默劇。用手指放出的波動製造牆壁，保護自己免於大多數的攻擊。"
+        "zh-tw": "擅長表演默劇。用手指放出的波動製造牆壁，保護自己免於大多數的攻擊。",
+        ja: "パントマイムが 得意。 指から 出した 波動で 壁を つくり あまたの 攻撃から 身を守る。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Spintonata",
                 de: "Stoß",
                 "pt-br": "Tapa Empurrão",
-                "zh-tw": "巴掌撲擊"
+                "zh-tw": "巴掌撲擊",
+                ja: "はりて"
             },
             damage: 40
         }

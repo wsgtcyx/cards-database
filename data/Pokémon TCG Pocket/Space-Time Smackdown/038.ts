@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/038"
     },
     name: {
         en: "Buizel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Buizel",
         de: "Bamelin",
         'pt-br': "Buizel",
+        ja: "ブイゼル",
         ko: "브이젤",
         "zh-tw": "泳圈鼬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Facendo girare le sue code a mo' di elica\nsi sposta nell'acqua e riesce anche a\nfalciare le alghe quando rimane impigliato.",
         de: "Es lässt seine Ruten wie eine Schiffsschraube\nrotieren, um sich im Wasser fortzubewegen und\nAlgen zu zerschneiden, die an ihm haften.",
         'pt-br': "Ele gira suas duas caudas como um parafuso\npara se deslocar pela água.\nAs caudas também retalham as algas pegajosas.",
+        ja: "尻尾を スクリューのように まわし 水中を 泳ぐだけでなく まとわりつく 海草も 切れる。",
         ko: "꼬리를 스크루처럼 돌려서\n수중을 헤엄치는 것뿐만 아니라\n엉겨 붙는 해초도 자를 수 있다.",
         "zh-tw": "它像螺絲一樣旋轉兩條尾巴，在水中推進自己。尾巴還可以切掉附著的海藻。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },

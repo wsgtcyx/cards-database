@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/142"
     },
     name: {
         en: "Primeape",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Primeape",
         de: "Rasaff",
         'pt-br': "Primeape",
+        ja: "オコリザル",
         ko: "성원숭",
         "zh-tw": "火爆猴",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Mankey",
         "de": "Menki",
         "pt-br": "Mankey",
-        "zh-tw": "猴怪"
+        "zh-tw": "猴怪",
+        ja: "マンキー"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Lottadifesa",
                 de: "Zur Wehr setzen",
                 'pt-br': "Devolver Ataque",
+                ja: "やりかえす",
                 ko: "되갚기",
                 "zh-tw": "回擊"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Se questo Pokémon è danneggiato, questo attacco infligge 60 danni in più.",
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon estiver danificado, este ataque causará 60 pontos de dano a mais.",
+                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。",
                 ko: "이 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Diventa furioso se si sente osservato.\nInsegue chiunque incontri il suo sguardo.",
         de: "Spürt Rasaff, dass jemand es anblickt, wird es\nrasend vor Wut. Es verfolgt jeden, der es wagt,\nseinen Blick zu erwidern.",
         'pt-br': "Fica incrivelmente furioso se perceber que\nestá sendo observado. Persegue qualquer\num que o encarar.",
+        ja: "だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。",
         ko: "누군가의 시선을 느끼기만 해도\n대단히 화를 낸다. 그리고\n눈이 마주친 상대를 쫓아다닌다.",
         "zh-tw": "如果它感覺到有人在看它，它就會變得非常憤怒。它會追逐任何遇到它目光的人。"
     },

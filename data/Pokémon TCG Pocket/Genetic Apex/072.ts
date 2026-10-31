@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/072"
     },
     name: {
         en: "Goldeen",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Goldeen",
         de: "Goldini",
         'pt-br': "Goldeen",
+        ja: "トサキント",
         ko: "콘치",
         "zh-tw": "角金魚",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Tonfo",
                 de: "Plumps",
                 'pt-br': "Baque",
+                ja: "はねまわる",
                 ko: "돌아다니며 뛰기",
                 "zh-tw": "翻牌"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Le pinne su dorso, petto e coda ondeggiano con\ngrazia. Perciò viene chiamato \"danzatore d'acqua\".",
         de: "Seine Brust-, Rücken- und Schwanzflossen\nbewegen sich anmutig. Daher nennt man es\nden \"Wassertänzer\".",
         'pt-br': "As suas barbatanas nas costas, peito e cauda\nagitam-se com elegância na água. É por isso que\neste Pokémon é conhecido como o bailarino das águas.",
+        ja: "背びれ 胸びれ 尾びれが 優雅に たなびくので 水の踊り子 と呼ばれる。",
         ko: "등, 가슴, 꼬리지느러미가\n우아하게 나부끼기 때문에\n물의 무희라고 불린다.",
         "zh-tw": "它的背鰭、胸鰭和尾鰭在水中優雅地波動。這就是為什麼它被稱為水舞者。"
     },

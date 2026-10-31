@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/068",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/068"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/068"
     },
     name: {
         en: "Oricorio",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Forma di un Oricorio che si è nutrito di Nettare\nrosa. Aumenta le sue energie mentali con placidi\npassi di danza e poi scatena i suoi poteri psichici.",
         de: "Dieses Choreogel hat Rosa Nektar geschlürft.\nMit eleganten Tanzschritten erhöht es seine\nPsycho-Kräfte, ehe es diese freisetzt.",
         "pt-br": "Esta forma de Oricorio bebericou néctar rosa.\nEleva a mente com os passos suaves da sua dança\ne depois libera energia psíquica.",
-        "zh-tw": "這種形式的 Oricorio 正在啜飲粉紅色的花蜜。它用輕柔的舞步提升心靈，然後釋放心靈能量。"
+        "zh-tw": "這種形式的 Oricorio 正在啜飲粉紅色的花蜜。它用輕柔的舞步提升心靈，然後釋放心靈能量。",
+        ja: "うすもものミツを 吸った 姿。 緩やかな ステップで 精神を 高め サイコパワーを 放つ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Confusattacco",
                 de: "Piesacken der Taumelnden",
                 "pt-br": "Cutucar a Confusão",
-                "zh-tw": "暈眩追擊"
+                "zh-tw": "暈眩追擊",
+                ja: "めまいのついげき"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Confused, this attack does 40 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 40 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "如果對手的出戰寶可夢處於混亂狀態，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的出戰寶可夢處於混亂狀態，則這次攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンがこんらんなら、40ダメージ追加。"
             },
             damage: "20+"
         }

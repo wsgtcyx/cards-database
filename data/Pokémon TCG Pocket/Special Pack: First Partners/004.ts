@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/004",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/004",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/004"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/004"
     },
     name: {
         en: "Chikorita",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
-                ja: "Razor Leaf",
+                ja: "はっぱカッター",
                 ko: "Razor Leaf"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
         de: "Ein süßer Duft geht von dem Blatt auf seinem Kopf aus. Es ist sanftmütig und liegt gerne in der Sonne.",
         "pt-br": "Um aroma doce é liberado gentilmente da folha em sua cabeça. Ele é dócil e adora tomar banho de sol.",
         "zh-tw": "從頭上的葉子飄散出淡淡的甜甜香氣。性情溫和，喜歡待在陽光下。",
-        ja: "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
+        ja: "頭の葉っぱから ほのかに 甘い 香りが 漂う。 おとなしくて 日差しを 浴びるのが 大好き。",
         ko: "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays."
     }
 };

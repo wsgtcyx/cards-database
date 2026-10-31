@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/010"
     },
     name: {
         en: "Beedrill",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Beedrill",
         de: "Bibor",
         'pt-br': "Beedrill",
+        ja: "スピアー",
         ko: "독침붕",
         "zh-tw": "大針蜂",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Kakuna",
         "de": "Kokuna",
         "pt-br": "Kakuna",
-        "zh-tw": "鐵殼蛹"
+        "zh-tw": "鐵殼蛹",
+        ja: "コクーン"
     },
     attacks: [{
             cost: ["Grass"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Tagliospina",
                 de: "Scharfer Stich",
                 'pt-br': "Ferroada Afiada",
+                ja: "するどいはり",
                 ko: "날카로운침",
                 "zh-tw": "銳利的刺"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Possiede tre aculei velenosi sulle zampe anteriori\ne sull'addome con cui punge i nemici ripetutamente.",
         de: "Dieses Pokémon verfügt über drei Giftstachel.\nEs kann seine Gegner damit wiederholt stechen.",
         'pt-br': "Ele possui três ferrões venenosos nas patas\ndianteiras e na cauda. Eles são usados para\npicar repetidamente o inimigo.",
+        ja: "両手と お尻にある ３本の 毒針で 相手を 刺して 刺して 刺しまくって 攻撃する。",
         ko: "양손과 엉덩이에 있는 3개의\n독침으로 상대를 찌르고 찌르고\n또 찌르며 공격한다.",
         "zh-tw": "它的前腿和尾巴上有三根毒刺。它們被用來反复刺傷敵人。"
     },

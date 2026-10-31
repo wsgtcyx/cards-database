@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/104",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/104"
     },
     name: {
         en: "Zapdos ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Zapdos-ex",
         de: "Zapdos-ex",
         'pt-br': "Zapdos ex",
+        ja: "サンダーex",
         ko: "썬더 ex",
         "zh-tw": "閃電鳥ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },
@@ -49,6 +52,7 @@ const card: Card = {
                 it: "Tuonuragano",
                 de: "Donnernder Orkan",
                 'pt-br': "Furacão Trovejante",
+                ja: "ハリケーンサンダー",
                 ko: "허리케인 썬더",
                 "zh-tw": "雷霆颶風"
             },
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Lancia 4 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
                 de: "Wirf 4 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+                ja: "コインを4回投げ、オモテの数×50ダメージ。",
                 ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다.",
                 "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/093"
     },
     name: {
         en: "Frosmoth",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Frosmoth",
         de: "Mottineva",
         'pt-br': "Frosmoth",
+        ja: "モスノウ",
         ko: "모스노우",
         "zh-tw": "雪絨蛾",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Snom",
         "de": "Snomnom",
         "pt-br": "Snom",
-        "zh-tw": "雪吞蟲"
+        "zh-tw": "雪吞蟲",
+        ja: "ユキハミ"
     },
     attacks: [{
             cost: ["Water", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Polneve",
                 de: "Pulverschnee",
                 'pt-br': "Neve em Pó",
+                ja: "こなゆき",
                 ko: "눈싸라기",
                 "zh-tw": "粉雪"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Percepisce le correnti d'aria grazie alle\nantenne. Impregna di aria gelida le sue\nscaglie per farle poi cadere a mo' di nevicata.",
         de: "Mit seinen Fühlern kann es Veränderungen in der\nAtmosphäre wahrnehmen. Seinen mit Kälte\nversetzten Flügelstaub lässt es wie Schnee rieseln.",
         'pt-br': "Frosmoth sente as correntes de ar com suas\nantenas. Arremessa suas escamas no ar gélido,\nfazendo com que caiam como neve.",
+        ja: "触角で 大気の 流れを 察知する。 りんぷんに 冷気を 織り交ぜ 雪のように 降らせる。",
         ko: "더듬이로 대기의 흐름을 감지한다.\n날개 가루에 냉기를 섞어서\n눈처럼 내리게 한다.",
         "zh-tw": "霜蛾用觸角感知氣流。它的鱗片在寒冷的空氣中飄浮，使它們像雪一樣落下。"
     },

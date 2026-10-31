@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/083"
     },
     name: {
         en: "Articuno",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Articuno",
         de: "Arktos",
         'pt-br': "Articuno",
+        ja: "フリーザー",
         ko: "프리져",
         "zh-tw": "急凍鳥"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Geloraggio",
                 de: "Eisstrahl",
                 'pt-br': "Raio Congelante",
+                ja: "れいとうビーム",
                 ko: "냉동빔",
                 "zh-tw": "冰光束"
             },
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Si dice che le sue splendide ali azzurre siano\ncomposte di ghiaccio. Vola fra le montagne\ninnevate facendo ondeggiare la sua lunga coda.",
         de: "Seine wunderschönen blauen Flügel sollen aus Eis\nbestehen. Es fliegt über schneebedeckte Berge,\nwährend sein langer Schweif hinter ihm flattert.",
         'pt-br': "Dizem que as lindas asas azuis deste Pokémon\nsão feitas de gelo. Articuno sobrevoa montanhas\ncom sua longa cauda balançando atrás de si.",
+        ja: "青く 美しい 羽根は 氷で できていると 言われている。 長い 尾を たなびかせ 雪山を 飛ぶ。",
         ko: "푸르고 아름다운 날개는 얼음으로\n되어 있다고 전해진다. 긴 꼬리를\n나부끼며 설산 위를 난다.",
         "zh-tw": "據說這只神奇寶貝美麗的藍色翅膀是由冰製成的。急蟲飛過雪山，長長的尾巴在身後飄揚。"
     },

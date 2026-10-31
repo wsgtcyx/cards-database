@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/109"
     },
     name: {
         en: "Guzzlord",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Guzzlord",
         "de": "Schlingking",
         "pt-br": "Guzzlord",
-        "zh-tw": "惡食大王"
+        "zh-tw": "惡食大王",
+        ja: "アクジキング"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Una forma di vita sconosciuta chiamata UB. Potrebbe essere\ncostantemente affamato: certamente lo è sempre\ndivorando qualcosa.",
         "de": "Eine unbekannte Lebensform namens UB. Es kann sein\nständig hungrig – auf jeden Fall ist es immer so\netwas verschlingen.",
         "pt-br": "Uma forma de vida desconhecida chamada UB. Pode ser\nconstantemente com fome - certamente está sempre\ndevorando alguma coisa.",
-        "zh-tw": "一種名為 UB 的未知生命體。可能是\n不斷飢餓——當然總是\n吞噬某物。"
+        "zh-tw": "一種名為 UB 的未知生命體。可能是\n不斷飢餓——當然總是\n吞噬某物。",
+        ja: "ＵＢと 呼ばれる 未知の 生命。 常に 腹を すかせているのか ずっと なにかを 喰らっている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Breakcore",
                 "de": "Breakcore",
                 "pt-br": "Breakcore",
-                "zh-tw": "突破核心"
+                "zh-tw": "突破核心",
+                ja: "ブレイクコア"
             },
             cost: ["Darkness", "Darkness", "Darkness", "Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scarta il Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ lege das Aktive Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se der cara, descarte o Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをトラッシュ。"
             }
         }],
     weaknesses: [{

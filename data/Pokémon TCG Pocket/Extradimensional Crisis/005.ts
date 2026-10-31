@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/005"
     },
     name: {
         en: "Decidueye",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Silvarro",
         "pt-br": "Decidueye",
         "zh-tw": "狙射樹梟",
+        ja: "ジュナイパー",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
+        ja: "フクスロー",
     },
     description: {
         en: "It nocks its arrow quills and shoots them at\nopponents. When it simply can't afford to miss,\nit tugs the vine on its head to improve its focus.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Incocca le penne delle frecce e le scaglia\navversari. Quando semplicemente non può permettersi di mancare,\ntira la vite sulla testa per migliorare la sua concentrazione.",
         "de": "Es legt seine Pfeilfedern an und schießt auf sie\nGegner. Wenn es sich einfach nicht leisten kann, etwas zu verpassen,\nEs zieht die Rebe auf dem Kopf, um den Fokus zu verbessern.",
         "pt-br": "Ele coloca suas penas de flecha e as atira\noponentes. Quando simplesmente não pode perder,\nele puxa a videira pela cabeça para melhorar seu foco.",
-        "zh-tw": "它用箭羽搭箭並將其射向\n對手。當它根本無法錯過時，\n它會拉動頭上的藤蔓以提高注意力。"
+        "zh-tw": "它用箭羽搭箭並將其射向\n對手。當它根本無法錯過時，\n它會拉動頭上的藤蔓以提高注意力。",
+        ja: "矢羽を つがえ 相手に 放つ。 絶対 外せない時は 頭の ツルを引き 集中 するのだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Freccia da cecchino",
                 "de": "Scharfschützenpfeil",
                 "pt-br": "Flecha de atirador",
-                "zh-tw": "狙擊箭"
+                "zh-tw": "狙擊箭",
+                ja: "スナイピングアロー"
             },
             cost: ["Grass", "Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 70 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 70 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 70 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 70 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 70 點傷害。",
+                ja: "相手のポケモン1匹に70ダメージ。"
             }
         }],
     weaknesses: [{

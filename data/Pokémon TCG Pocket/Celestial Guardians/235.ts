@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/235",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/235",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/235",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/235"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/235",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/235"
     },
     name: {
         en: "Machamp ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Machamp-ex",
         de: "Machomei-ex",
         'pt-br': "Machamp ex",
+        ja: "カイリキーex",
         ko: "괴력몬 ex",
         "zh-tw": "怪力ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
+        ja: "ゴーリキー",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 'pt-br': "Megassoco",
+                ja: "メガトンパンチ",
                 ko: "메가톤펀치",
                 "zh-tw": "超級沖床"
             },

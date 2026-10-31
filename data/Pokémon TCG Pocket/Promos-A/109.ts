@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/109",
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/109",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/109",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/109"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/109",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/109"
 	},
 	name: {
 		en: "Eevee ex",
@@ -17,7 +18,8 @@ const card: Card = {
 		it: "Eevee-ex",
 		de: "Evoli-ex",
 		"pt-br": "Eevee ex",
-		"zh-tw": "伊布ex"
+		"zh-tw": "伊布ex",
+		ja: "イーブイex"
 	},
 	illustrator: "Kanami Ogata",
 	rarity: "Two Star",
@@ -36,7 +38,8 @@ const card: Card = {
 				it: "Veevee si evolve",
 				de: "Veevee 'volve",
 				"pt-br": "Veevee 'volve",
-				"zh-tw": "威威沃爾沃"
+				"zh-tw": "威威沃爾沃",
+				ja: "ブイブイしんか"
 			},
 			effect: {
 				en: "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Questo Pokémon può evolversi in qualsiasi Pokémon che si evolve da Eevee se lo giochi dalla tua mano su questo Pokémon. (Questo Pokémon non può evolversi durante il tuo primo turno o nel turno in cui lo giochi.)",
 				de: "Dieses Pokémon kann sich zu jedem Pokémon entwickeln, das sich aus Evoli entwickelt, wenn du es von deiner Hand auf dieses Pokémon spielst. (Dieses Pokémon kann sich weder in deinem ersten Zug noch in dem Zug, in dem du es ausspielst, weiterentwickeln.)",
 				"pt-br": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão neste Pokémon. (Este Pokémon não pode evoluir durante o seu primeiro turno ou no turno em que você o joga.)",
-				"zh-tw": "如果你從手上將伊布玩到這只神奇寶貝上，這只神奇寶貝可以進化成任何從伊布進化而來的神奇寶貝。 （該神奇寶貝在你的第一個回合或你玩它的回合中無法進化。）"
+				"zh-tw": "如果你從手上將伊布玩到這只神奇寶貝上，這只神奇寶貝可以進化成任何從伊布進化而來的神奇寶貝。 （該神奇寶貝在你的第一個回合或你玩它的回合中無法進化。）",
+				ja: "このポケモンは、「イーブイ」から進化するカードを手札から出して、このポケモンにのせて進化できる。(最初の自分の番や、出したばかりの番には進化できない。)"
 			}
 		}
 	],
@@ -58,7 +62,8 @@ const card: Card = {
 				it: "Morso",
 				de: "Beißen",
 				"pt-br": "Morder",
-				"zh-tw": "咬"
+				"zh-tw": "咬",
+				ja: "かみつく"
 			},
 			damage: 30,
 			cost: ["Colorless"]

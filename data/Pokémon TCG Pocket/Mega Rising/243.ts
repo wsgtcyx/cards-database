@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/243",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/243",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/243",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/243"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/243",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/243"
     },
     name: {
         en: "Pancham",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pam-Pam",
         "pt-br": "Pancham",
         "zh-tw": "頑皮熊貓",
+        ja: "ヤンチャム",
     },
     illustrator: "Yukihiro Tada",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Volendo assicurarmi che venga preso sul serio,\nPancham lancia sempre un'occhiataccia agli altri.\nMa se non mette a fuoco, finisce per sorridere.",
         "de": "Ich möchte sicherstellen, dass es ernst genommen wird,\nPancham wirft anderen immer einen bösen Blick zu.\nAber wenn es nicht fokussiert ist, lächelt es am Ende.",
         "pt-br": "Querendo ter certeza de que isso será levado a sério,\nPancham está sempre olhando para os outros.\nMas se não estiver focando, acaba sorrindo.",
-        "zh-tw": "想要確保它得到認真對待，\n潘查姆總是瞪別人一眼。\n但如果它不集中註意力，它就會微笑。"
+        "zh-tw": "想要確保它得到認真對待，\n潘查姆總是瞪別人一眼。\n但如果它不集中註意力，它就會微笑。",
+        ja: "なめられないように いつも 相手を 睨みつけているが 気が 緩むと つい 笑い顔に なってしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Punch",
                 "de": "Stempel",
                 "pt-br": "Soco",
-                "zh-tw": "沖床"
+                "zh-tw": "沖床",
+                ja: "パンチ"
             },
             damage: 20,
             cost: ["Colorless"]

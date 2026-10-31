@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/100",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/100",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/100"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/100"
     },
     name: {
         en: "Tadbulb",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Durch den in seinem Körper gespeicherten Strom kann es schweben. Bei Gewittern schwebt es höher über dem Boden als gewöhnlich.",
         "pt-br": "Flutua usando a eletricidade armazenada em seu corpo. Quando nuvens de tempestade sobranceiam os céus, Tadbulb flutua ainda mais alto.",
         "zh-tw": "會用蓄積在體內的電力浮在空中。出現雷雲時則能浮得比平時還要高。",
-        ja: "It floats using the electricity stored in its body.\nWhen thunderclouds are around, Tadbulb will\nfloat higher off the ground.",
+        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。",
         ko: "It floats using the electricity stored in its body.\nWhen thunderclouds are around, Tadbulb will\nfloat higher off the ground."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Ladevorgang",
                 "pt-br": "Carga",
                 "zh-tw": "充電",
-                ja: "Charge",
+                ja: "じゅうでん",
                 ko: "Charge"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出1個{L}能量,附於這隻寶可夢身上。",
-                ja: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
                 ko: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
             }
         }

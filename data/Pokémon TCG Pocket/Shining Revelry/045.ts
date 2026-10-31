@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/045"
     },
     name: {
         en: "Ekans",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ekans",
         de: "Rettan",
         'pt-br': "Ekans",
+        ja: "アーボ",
         ko: "아보",
         "zh-tw": "阿柏蛇"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Può sganciare la mandibola per ingoiare\nintere prede più grosse di lui. Dopo il pasto,\nsi arrotola su se stesso per riposarsi.",
         de: "Es hängt seinen Kiefer aus und verschlingt so\nselbst größere Beute am Stück. Danach rollt\nes sich zusammen und ruht sich aus.",
         'pt-br': "Desloca a própria mandíbula para engolir presas\nmaiores que si mesmo. Depois de uma refeição,\nse enrosca e descansa.",
+        ja: "顎を 外すことで 自分より 大きな 獲物も 丸呑みに する。 食後は 身体を 丸め 休む。",
         ko: "턱을 빼 자신보다\n큰 먹이를 통째로 삼킨다.\n식후에는 몸을 둥글게 하고 쉰다.",
         "zh-tw": "通過使下巴脫臼，它可以吞下比自己大的獵物。吃完飯後，它會蜷縮起來休息。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Carica",
             de: "Ramme",
             'pt-br': "Aríete",
+            ja: "ぶつかる",
             ko: "부딪치기",
             "zh-tw": "內存"
         },

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/041",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/041",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/041"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/041"
     },
     name: {
         en: "Chien-Pao ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Stalattite",
                 de: "Eiszapfen",
                 "pt-br": "Pingente de Gelo",
-                "zh-tw": "冰柱"
+                "zh-tw": "冰柱",
+                ja: "つらら"
             },
             damage: 20
         },
@@ -53,7 +55,8 @@ const card: Card = {
                 it: "Tuffo Glaciale",
                 de: "Eiszapfenregen",
                 "pt-br": "Mergulho Gélido",
-                "zh-tw": "冰柱俯衝"
+                "zh-tw": "冰柱俯衝",
+                ja: "アイシクルダイブ"
             },
             effect: {
                 en: "Discard all {W} Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 it: "Scarta tutte le Energie {W} da questo Pokémon. Questo attacco infligge 130 danni a 1 dei Pokémon del tuo avversario.",
                 de: "Lege alle {W}-Energien von diesem Pokémon ab. Dieser Angriff fügt 1 Pokémon deines Gegners 130 Schadenspunkte zu.",
                 "pt-br": "Descarte todas as Energias {W} deste Pokémon. Este ataque causa 130 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "丟棄該寶可夢的所有 {W} 能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。"
+                "zh-tw": "丟棄該寶可夢的所有 {W} 能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。",
+                ja: "このポケモンから{W}エネルギーをすべてトラッシュし、相手のポケモン1匹に130ダメージ。"
             }
         }
     ],

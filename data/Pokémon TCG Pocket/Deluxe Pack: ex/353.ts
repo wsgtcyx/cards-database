@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/353",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/353",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/353",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/353"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/353",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/353"
 	},
 	name: {
         en: "Red",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rot",
         "pt-br": "Red",
         "zh-tw": "赤紅",
+        ja: "レッド",
     },
     illustrator: "Teeziro",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante questo turno, gli attacchi usati dai tuoi Pokémon infliggono +20 danni al Pokémon attivo ex del tuo avversario.",
         "de": "Während dieser Runde fügen Angriffe deines Pokémon dem aktiven Pokémon ex deines Gegners +20 Schaden zu.",
         "pt-br": "Durante este turno, os ataques usados ​​pelos seus Pokémon causam +20 de dano ao Pokémon Ativo ex do seu oponente.",
-        "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的現役寶可夢造成+20點傷害。"
+        "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的現役寶可夢造成+20點傷害。",
+        ja: "この番、自分のポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージを+20する。"
     },
     trainerType: "Supporter"
 };

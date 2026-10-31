@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/230",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/230",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/230",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/230"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/230",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/230"
     },
     name: {
         en: "Growlithe",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     illustrator: "Yuu Nishida",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È molto amichevole e fedele alle persone. Ci proverà\nper respingere i nemici abbaiando e mordendo.",
         "de": "Es ist sehr freundlich und treu den Menschen gegenüber. Es wird es versuchen\num Feinde durch Bellen und Beißen abzuwehren.",
         "pt-br": "É muito amigável e fiel às pessoas. Ele vai tentar\npara repelir os inimigos latindo e mordendo.",
-        "zh-tw": "它對人非常友好和忠誠。它會嘗試\n通過吠叫和撕咬來擊退敵人。"
+        "zh-tw": "它對人非常友好和忠誠。它會嘗試\n通過吠叫和撕咬來擊退敵人。",
+        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scavare gli artigli",
                 "de": "Krallen graben",
                 "pt-br": "Cavar Garras",
-                "zh-tw": "挖爪"
+                "zh-tw": "挖爪",
+                ja: "ツメをたてる"
             },
             damage: 20,
             cost: ["Fire"]

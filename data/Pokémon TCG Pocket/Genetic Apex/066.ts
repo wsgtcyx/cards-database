@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/066"
     },
     name: {
         en: "Shellder",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shellder",
         de: "Muschas",
         'pt-br': "Shellder",
+        ja: "シェルダー",
         ko: "셀러",
         "zh-tw": "大舌貝",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Linguasberla",
                 de: "Zungenschelle",
                 'pt-br': "Tapa de Língua",
+                ja: "ベロではたく",
                 ko: "혀로 막치기",
                 "zh-tw": "舌擊"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "La conchiglia esterna è più dura del diamante.\nL'interno, invece, è sorprendentemente morbido.",
         de: "Seine Schale ist härter als Diamant. Im Inneren ist\nes jedoch überraschend weich.",
         'pt-br': "Este Pokémon é envolto em uma concha\nmais dura que diamante. O seu interior,\nporém, é surpreendentemente macio.",
+        ja: "ダイヤモンドよりも 硬い殻に 覆われている。 しかし 中は 意外と 柔らかい。",
         ko: "다이아몬드보다 단단한\n껍데기에 싸여 있지만\n속은 의외로 말랑하다.",
         "zh-tw": "它被包裹在比鑽石還硬的殼裡。然而，它的內部卻出奇的柔軟。"
     },

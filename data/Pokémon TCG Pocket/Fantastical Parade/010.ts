@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/010"
     },
     name: {
         en: "Chesnaught",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Chesnaught",
         "de": "Brigaron",
         "pt-br": "Chesnaught",
-        "zh-tw": "布里卡隆"
+        "zh-tw": "布里卡隆",
+        ja: "ブリガロン"
     },
     illustrator: "5ban Graphics",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quilladin",
         "de": "Igastarnish",
         "pt-br": "Quilladin",
-        "zh-tw": "胖胖哈力"
+        "zh-tw": "胖胖哈力",
+        ja: "ハリボーグ"
     },
     description: {
         en: "Its gentle disposition would have it avoid\nconflict, but it gives opponents a thrashing with\nits thorned fists when the situation calls for it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La sua indole gentile lo farebbe evitare\nconflitto, ma dà agli avversari una bastonata\ni suoi pugni spinosi quando la situazione lo richiede.",
         "de": "Seine sanfte Art würde es meiden\nKonflikt, aber es gibt Gegnern eine Tracht Prügel\nseine dornigen Fäuste, wenn die Situation es erfordert.",
         "pt-br": "Sua disposição gentil faria com que evitasse\nconflito, mas dá aos adversários uma surra com\nseus punhos espinhosos quando a situação exige.",
-        "zh-tw": "它的溫柔性格會避免\n衝突，但它給對手帶來了打擊\n當情況需要時，它會伸出帶刺的拳頭。"
+        "zh-tw": "它的溫柔性格會避免\n衝突，但它給對手帶來了打擊\n當情況需要時，它會伸出帶刺的拳頭。",
+        ja: "争いを 避ける 穏やかな 性格だが いざとなると トゲの こぶしで 相手を 叩きのめす。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ago Lariat",
                 "de": "Nadel-Lariat",
                 "pt-br": "Lariate de agulha",
-                "zh-tw": "針套索"
+                "zh-tw": "針套索",
+                ja: "ニードルラリアット"
             },
             damage: 80,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, infliggi 80 danni al Pokémon attaccante.",
                 "de": "Wenn dieses Pokémon im nächsten Zug deines Gegners durch einen Angriff beschädigt wird, füge dem angreifenden Pokémon 80 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon receber dano de um ataque, cause 80 de dano ao Pokémon atacante.",
-                "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 80 點傷害。"
+                "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 80 點傷害。",
+                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに80ダメージ。"
             }
         }],
     weaknesses: [{

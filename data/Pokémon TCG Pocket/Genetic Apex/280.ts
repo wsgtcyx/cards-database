@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/280",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/280",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/280",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/280"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/280",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/280"
     },
     name: {
         en: "Charizard ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Charizard-ex",
         de: "Glurak-ex",
         'pt-br': "Charizard ex",
+        ja: "リザードンex",
         ko: "리자몽 ex",
         "zh-tw": "噴火龍ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "火恐龍"
+        "zh-tw": "火恐龍",
+        ja: "リザード"
     },
     suffix: "EX",
     attacks: [{
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 'pt-br': "Talho",
+                ja: "きりさく",
                 ko: "베어가르기",
                 "zh-tw": "削減"
             },
@@ -58,6 +62,7 @@ const card: Card = {
                 it: "Tempestarossa",
                 de: "Feuerroter Sturm",
                 'pt-br': "Tempestade Carmim",
+                ja: "ぐれんのあらし",
                 ko: "홍련의바람",
                 "zh-tw": "猩紅風暴"
             },
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {R} da questo Pokémon.",
                 de: "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
             },

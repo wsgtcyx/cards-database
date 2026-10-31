@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/184",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/184",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/184",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/184"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/184",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/184"
     },
     name: {
         en: "Dragonair",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dragonair",
         de: "Dragonir",
         'pt-br': "Dragonair",
+        ja: "ハクリュー",
         ko: "신뇽",
         "zh-tw": "哈克龍",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Dratini",
         "de": "Dratini",
         "pt-br": "Dratini",
-        "zh-tw": "迷你龍"
+        "zh-tw": "迷你龍",
+        ja: "ミニリュウ"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Codasberla",
                 de: "Schweifschlag",
                 'pt-br': "Ataque de Cauda",
+                ja: "しっぽでたたく",
                 ko: "꼬리로때리기",
                 "zh-tw": "尾巴拍打"
             },
@@ -58,6 +62,7 @@ const card: Card = {
         it: "Dicono che quando il suo corpo emana\nun'aura, il tempo cambierà immediatamente.",
         de: "Man sagt, wenn sein ganzer Körper eine\nAura ausstrahle, ändere sich augenblicklich\ndas Wetter in seiner Umgebung.",
         'pt-br': "Dizem que, se o seu corpo inteiro emitir uma aura,\no clima começará a mudar instantaneamente.",
+        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
         ko: "전신에서 오라를 발산하면\n주변 날씨가 순식간에\n변한다고 한다.",
         "zh-tw": "據說，如果它全身散發出氣息，天氣就會瞬間開始變化。"
     },

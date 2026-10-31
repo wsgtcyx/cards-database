@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/171",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/171"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/171"
     },
     name: {
         en: "Giratina",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Giratina",
         "de": "Giratina",
         "pt-br": "Giratina",
-        "zh-tw": "騎拉帝納"
+        "zh-tw": "騎拉帝納",
+        ja: "ギラティナ"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che questo Pokémon viva in un mondo sul\nrovescio del nostro, dove si trova la conoscenza comune\ndistorto e strano.",
         "de": "Dieses Pokémon soll in einer Welt leben\nKehrseite von uns, wo Allgemeinwissen ist\nverzerrt und seltsam.",
         "pt-br": "Diz-se que este Pokémon vive em um mundo no\nreverso do nosso, onde o conhecimento comum é\ndistorcido e estranho.",
-        "zh-tw": "據說這只神奇寶貝生活在\n我們的另一面，常識是\n扭曲而奇怪。"
+        "zh-tw": "據說這只神奇寶貝生活在\n我們的另一面，常識是\n扭曲而奇怪。",
+        ja: "常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Levitare",
                 "de": "Schweben",
                 "pt-br": "Levitar",
-                "zh-tw": "懸浮"
+                "zh-tw": "懸浮",
+                ja: "ふゆう"
             },
             effect: {
                 en: "If this Pokémon has any Energy attached, it has no Retreat Cost.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha delle Energie assegnate, non ha costo di ritirata.",
                 "de": "Wenn an dieses Pokémon Energie angelegt ist, fallen keine Rückzugskosten an.",
                 "pt-br": "Se este Pokémon tiver alguma Energia ligada, ela não terá Custo de Recuo.",
-                "zh-tw": "如果該神奇寶貝附加了任何能量，則它沒有撤退成本。"
+                "zh-tw": "如果該神奇寶貝附加了任何能量，則它沒有撤退成本。",
+                ja: "このポケモンにエネルギーがついているなら、このポケモンのにげるためのエネルギーを、すべてなくす。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Colpo spettrale",
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
-                "zh-tw": "幽靈射擊"
+                "zh-tw": "幽靈射擊",
+                ja: "ホロウショット"
             },
             damage: 70,
             cost: ["Psychic", "Psychic", "Colorless"]

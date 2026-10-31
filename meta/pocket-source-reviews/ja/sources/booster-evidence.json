@@ -1,0 +1,82 @@
+[
+  {
+    "key": "ja/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+    "setId": "B4",
+    "boosterId": "ruler-of-the-skies",
+    "field": "logo",
+    "locale": "ja",
+    "language": "ja",
+    "width": 256,
+    "height": 113,
+    "bytes": 8170,
+    "sha256": "dca3add0dacab77a34eaf02bcbc08545dc4c85047599407bb62561fdf6cfc9bb",
+    "source": {
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_ja_JP.png",
+      "sha256": "1792f75bf076860466e39d461a75a7ef7387ddfd1cccc6078fc4de150989b065",
+      "bytes": 30873,
+      "width": 256,
+      "height": 113
+    },
+    "visualReview": "Official Japanese expansion name read from native transparent logo."
+  },
+  {
+    "key": "ja/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+    "setId": "B4",
+    "boosterId": "ruler-of-the-skies",
+    "field": "artwork_front",
+    "locale": "ja",
+    "language": "language-neutral",
+    "width": 160,
+    "height": 256,
+    "bytes": 16706,
+    "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+    "source": {
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sha256": "69883978cabd017109697ca1e794640f3faf350118ea24ee95898d92ea9eee46",
+      "bytes": 69916,
+      "width": 256,
+      "height": 256
+    },
+    "visualReview": "Game PackIcon reviewed: no language-bearing label; same deterministic pack-body crop as established project assets."
+  },
+  {
+    "key": "ja/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
+    "setId": "B4a",
+    "boosterId": "team-rockets-ambition",
+    "field": "logo",
+    "locale": "ja",
+    "language": "ja",
+    "width": 256,
+    "height": 113,
+    "bytes": 7620,
+    "sha256": "7153a58e9f99ca857fe5c6fb95d2b74365d470e8cb846c33a76086a8286b9d84",
+    "source": {
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4a_ja_JP.png",
+      "sha256": "b0d16dd932dbcca527ee81dc4ff0e702addc05eed0806fc54d3cf2c4c3f13612",
+      "bytes": 34875,
+      "width": 256,
+      "height": 113
+    },
+    "visualReview": "Official Japanese expansion name read from native transparent logo."
+  },
+  {
+    "key": "ja/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
+    "setId": "B4a",
+    "boosterId": "team-rockets-ambition",
+    "field": "artwork_front",
+    "locale": "ja",
+    "language": "language-neutral",
+    "width": 160,
+    "height": 256,
+    "bytes": 14642,
+    "sha256": "a0db9144c46d668286e16a6a689b9489be79ef4b98889bcb83d3b627e80df2a3",
+    "source": {
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN010_0010_00_000.png",
+      "sha256": "37520eea524fb8f0dcdd8d0894f1afa546ae721180bb540040b7fd9cab3eb356",
+      "bytes": 64075,
+      "width": 256,
+      "height": 256
+    },
+    "visualReview": "Game PackIcon reviewed: no language-bearing label; same deterministic pack-body crop as established project assets."
+  }
+]

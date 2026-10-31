@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/168",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/168",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/168",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/168"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/168",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/168"
     },
     name: {
         en: "Wynaut",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Hanno l’abitudine di spostarsi in gruppo.\nQuando è ora di dormire, si radunano in\nuna grotta e riposano stretti l’uno all’altro.",
         de: "Sie ziehen normalerweise im Rudel umher. Zum\nSchlafen drängen sie sich ganz eng in einer Höhle\nzusammen.",
         "pt-br": "Costumam se mover em bandos, Aglomeram-se em grupos para dormir em cavernas.",
-        "zh-tw": "具有集體行動的習性。\n睡覺的時候會在洞窟中\n和夥伴們把身體挨在一起。"
+        "zh-tw": "具有集體行動的習性。\n睡覺的時候會在洞窟中\n和夥伴們把身體挨在一起。",
+        ja: "群れで 行動する 習性。 眠る ときは 洞窟の 中で 仲間たちと 体を 寄せあう。"
     },
     attacks: [
         {
@@ -47,7 +49,8 @@ const card: Card = {
                 "pt-br": "Pisada Bloqueante",
                 "zh-tw": "踩踩干擾",
                 "it": "Impedipedata",
-                "de": "Störender Stampfer"
+                "de": "Störender Stampfer",
+                ja: "ふみふみジャマー"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
@@ -56,7 +59,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore costano 1 {C} in più.",
                 de: "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
-                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量增加1個{C}能量。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量增加1個{C}能量。",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
             },
             damage: 10
         }

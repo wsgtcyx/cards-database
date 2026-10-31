@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/220",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/220"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/220"
     },
     name: {
         en: "Lucky Mittens",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Glückshandschuhe",
         "pt-br": "Luvas Sortudas",
         "zh-tw": "幸運手套",
+        ja: "ラッキーミトン",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Ogni volta che il Pokémon del tuo avversario viene messo KO dai danni di un attacco utilizzato dal Pokémon a cui è assegnata questa carta, pesca una carta.",
         "de": "Immer wenn das Pokémon deines Gegners durch Schaden durch einen Angriff des Pokémon, an das diese Karte angelegt ist, kampfunfähig wird, ziehe eine Karte.",
         "pt-br": "Sempre que o Pokémon do seu oponente for Nocauteado pelo dano de um ataque usado pelo Pokémon ao qual esta carta está ligada, compre uma carta.",
-        "zh-tw": "每當對手的寶可夢因這張卡所附著的寶可夢的攻擊而被擊倒時，抽一張卡。"
+        "zh-tw": "每當對手的寶可夢因這張卡所附著的寶可夢的攻擊而被擊倒時，抽一張卡。",
+        ja: "このカードをつけているポケモンが使うワザのダメージで、相手のポケモンがきぜつするたび、自分の山札を1枚引く。"
     },
     trainerType: "Tool"
 };

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/168",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/168",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/168",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/168"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/168",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/168"
     },
     name: {
         en: "Bonsly",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Espelle dagli occhi l’umidità corporea in eccesso.\nSi tratta di un fenomeno fisiologico simile alla\nsudorazione.",
         de: "Überschüssiges Wasser in seinem Körper\nscheidet es über die Augen aus. Dieses ist\nvergleichbar mit dem Schweiß des Menschen.",
         "pt-br": "Dos olhos, pode expelir o excesso de umidade do corpo. Este líquido tem composição semelhante ao suor humano.",
-        "zh-tw": "會從眼睛排出體內多餘的水分。\n該成分接近人類的汗液。"
+        "zh-tw": "會從眼睛排出體內多餘的水分。\n該成分接近人類的汗液。",
+        ja: "身体の 余計な 水分を 目から 外に 出す。 その 成分は 人間の 汗に 似ている。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Attacco Lacrimoso",
                 de: "Tränenreicher Angriff",
                 "pt-br": "Golpe Choroso",
-                "zh-tw": "嗚嗚打"
+                "zh-tw": "嗚嗚打",
+                ja: "うるうるアタック"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do -30 damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -30 danni.",
                 de: "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon - 30 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão -30 pontos de dano.",
-                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-30點傷害。"
+                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-30點傷害。",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-30する。"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/141"
     },
     name: {
         en: "Noctowl",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Noctuh",
         "pt-br": "Noctowl",
         "zh-tw": "貓頭夜鷹",
+        ja: "ヨルノズク",
     },
     illustrator: "Nisota Niso",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Hoothoot",
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
+        ja: "ホーホー",
     },
     description: {
         en: "Its eyes are specially developed to enable it to\nsee clearly even in murky darkness and minimal light.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "I suoi occhi sono appositamente sviluppati per consentirgli di farlo\nvedere chiaramente anche nell'oscurità più oscura e con una luce minima.",
         "de": "Seine Augen sind speziell dafür entwickelt\nSelbst bei trüber Dunkelheit und minimalem Licht sehen Sie deutlich.",
         "pt-br": "Seus olhos são especialmente desenvolvidos para permitir-lhe\nveja claramente mesmo na escuridão turva e com pouca luz.",
-        "zh-tw": "它的眼睛經過特殊發育，使其能夠\n即使在昏暗的黑暗和微弱的光線下也能看得清楚。"
+        "zh-tw": "它的眼睛經過特殊發育，使其能夠\n即使在昏暗的黑暗和微弱的光線下也能看得清楚。",
+        ja: "特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Volare",
                 "de": "Fliegen",
                 "pt-br": "Voar",
-                "zh-tw": "飛"
+                "zh-tw": "飛",
+                ja: "そらをとぶ"
             },
             damage: 90,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     weaknesses: [{

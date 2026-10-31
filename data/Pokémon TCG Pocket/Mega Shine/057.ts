@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/057"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/057"
     },
     name: {
         en: "Druddigon",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Brutale e scaltro, si appropria delle tane scavate\nda altri Pokémon facendone la propria dimora.",
         de: "Shardrago ist grausam und gerissen. Es nimmt die\nselbstgegrabenen Höhlen anderer Pokémon ein,\num sie zu seinem Unterschlupf zu machen.",
         "pt-br": "Druddigon são cruéis e astutos. Eles passam a residir em ninhos escavados por outros Pokémon, tratando os ninhos roubados como seus próprios covis.",
-        "zh-tw": "性情凶暴且狡猾。會搶奪\n其他寶可夢挖好的巢穴，\n來當作是自己的窩。"
+        "zh-tw": "性情凶暴且狡猾。會搶奪\n其他寶可夢挖好的巢穴，\n來當作是自己的窩。",
+        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Grinfie",
                 de: "Greifer",
                 "pt-br": "Agarramento",
-                "zh-tw": "緊抓"
+                "zh-tw": "緊抓",
+                ja: "わしづかみ"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             },
             damage: 40
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/002"
     },
     name: {
         en: "Bulbasaur",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bulbasaur",
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
-        "zh-tw": "妙蛙種子"
+        "zh-tw": "妙蛙種子",
+        ja: "フシギダネ"
     },
     illustrator: "Narumi Sato",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "C'è un seme di pianta sul dorso proprio dal\ngiorno in cui questo Pokémon è nato. Il seme lentamente\ndiventa più grande.",
         "de": "Auf der Rückseite befindet sich ein Pflanzensamen\nTag, an dem dieses Pokémon geboren wird. Der Samen langsam\nwird größer.",
         "pt-br": "Há uma semente de planta em suas costas, desde o\ndia em que este Pokémon nasce. A semente lentamente\nfica maior.",
-        "zh-tw": "它的背上有一粒植物種子\n這只神奇寶貝誕生的那一天。種子慢慢地\n變大。"
+        "zh-tw": "它的背上有一粒植物種子\n這只神奇寶貝誕生的那一天。種子慢慢地\n變大。",
+        ja: "生まれたときから 背中に 植物の タネが あって 少しずつ 大きく 育つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frusta di vite",
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/057"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/057"
     },
     name: {
         en: "Wailord",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wailord",
         "pt-br": "Wailord",
         "zh-tw": "吼鯨王",
+        ja: "ホエルオー",
     },
     illustrator: "KIYOTAKA OSHIYAMA",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wailmer",
         "pt-br": "Wailmer",
         "zh-tw": "吼吼鯨",
+        ja: "ホエルコ",
     },
     description: {
         en: "The biggest of all Pokémon. It can dive to a depth\nof almost 10,000 feet on only one breath.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il più grande di tutti i Pokémon. Può immergersi in profondità\ndi quasi 10.000 piedi con un solo respiro.",
         "de": "Das größte aller Pokémon. Es kann bis in eine Tiefe tauchen\nvon fast 10.000 Fuß mit nur einem Atemzug.",
         "pt-br": "O maior de todos os Pokémon. Ele pode mergulhar a uma profundidade\nde quase 10.000 pés com apenas uma respiração.",
-        "zh-tw": "所有神奇寶貝中最大的。它可以潛到很深的地方\n只需一口氣就可以飛近 10,000 英尺。"
+        "zh-tw": "所有神奇寶貝中最大的。它可以潛到很深的地方\n只需一口氣就可以飛近 10,000 英尺。",
+        ja: "一番 大きい ポケモン。 息つぎせずに ３０００メートルの 深さまで 潜ることが できる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pompa della balena",
                 "de": "Walpumpe",
                 "pt-br": "Bomba Baleia",
-                "zh-tw": "鯨魚泵"
+                "zh-tw": "鯨魚泵",
+                ja: "ホエールポンプ"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 10 danni in più per ogni Energia {W} assegnata a questo Pokémon.",
                 "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede an dieses Pokémon angelegte {W}-Energie zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {W} ligada a este Pokémon.",
-                "zh-tw": "該寶可夢身上每附加一個 {W} 能量，該攻擊就會造成 10 點額外傷害。"
+                "zh-tw": "該寶可夢身上每附加一個 {W} 能量，該攻擊就會造成 10 點額外傷害。",
+                ja: "このポケモンの{W}エネルギーの数×10ダメージ追加。"
             }
         }],
     weaknesses: [{

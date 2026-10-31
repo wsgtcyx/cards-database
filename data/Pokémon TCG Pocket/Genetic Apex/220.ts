@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/220",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/220"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/220"
     },
     name: {
         en: "Misty",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Misty",
         it: "Misty",
         de: "Misty",
+        ja: "カスミ",
         ko: "이슬",
         'pt-br': "Misty",
         "zh-tw": "小霞",
@@ -29,6 +31,7 @@ const card: Card = {
         es: "Elige 1 de tus Pokémon {W}, y luego lanza 1 moneda hasta que salga cruz. Por cada cara, une 1 Energía {W} de tu área de Energía a ese Pokémon.",
         it: "Scegli uno dei tuoi Pokémon {W}, poi lancia una moneta finché non esce croce. Ogni volta che esce testa, prendi un'Energia {W} dalla tua Zona Energia e assegnala a quel Pokémon.",
         de: "Wähle 1 deiner {W}-Pokémon und wirf anschließend so lange 1 Münze, bis sie Zahl zeigt. Lege pro Kopf 1 {W}-Energie aus deinem Energiebereich an jenes Pokémon an.",
+        ja: "自分の{W}ポケモンを1匹選ぶ。ウラが出るまでコインを投げ、オモテの数ぶんの{W}エネルギーを自分のエネルギーゾーンから出し、そのポケモンにつける。",
         ko: "자신의 {W}포켓몬을 1마리 선택한다. 뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼의 {W}에너지를 자신의 에너지존에서 내보내 그 포켓몬에게 붙인다.",
         'pt-br': "Escolha 1 dos seus Pokémon {W}, e jogue uma moeda até sair coroa. Para cada cara, pegue uma Energia {W} da sua Zona de Energia e ligue-a àquele Pokémon.",
         "zh-tw": "選擇你的 1 個 {W} 神奇寶貝，然後擲硬幣，直到出現反面。對於每個頭，從你的能量區取出一個 {W} 能量並將其附加到該神奇寶貝上。"

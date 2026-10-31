@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/049"
     },
     name: {
         en: "Lairon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Stollrak",
         "pt-br": "Lairon",
         "zh-tw": "可多拉",
+        ja: "コドラ",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Stollunior",
         "pt-br": "Aron",
         "zh-tw": "可可多拉",
+        ja: "ココドラ",
     },
     description: {
         en: "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ama il minerale di ferro. Gruppi di loro combattono per il territorio\ncolpendosi a vicenda con i loro corpi d'acciaio.",
         "de": "Es liebt Eisenerz. Gruppen von ihnen kämpfen um Territorium\nindem sie sich gegenseitig mit ihren Stahlkörpern verprügeln.",
         "pt-br": "Adora minério de ferro. Grupos deles lutam por território\nbatendo uns nos outros com seus corpos de aço.",
-        "zh-tw": "牠喜歡鐵礦石。他們成群結隊地爭奪領土\n用他們鋼鐵般的身體互相攻擊。"
+        "zh-tw": "牠喜歡鐵礦石。他們成群結隊地爭奪領土\n用他們鋼鐵般的身體互相攻擊。",
+        ja: "鉄鉱石が 大好物。 鋼の 体を ぶつけ合って 縄張り 争いを する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Lanciati fuori",
                 "de": "Ausholen",
                 "pt-br": "Avançar",
-                "zh-tw": "向前衝出"
+                "zh-tw": "向前衝出",
+                ja: "つきたおし"
             },
             damage: 60,
             cost: ["Metal", "Metal", "Colorless"]

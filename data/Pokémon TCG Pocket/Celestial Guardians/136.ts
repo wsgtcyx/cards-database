@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/136"
     },
     name: {
         en: "Yungoos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Yungoos",
         de: "Mangunior",
         'pt-br': "Yungoos",
+        ja: "ヤングース",
         ko: "영구스",
         "zh-tw": "貓鼬少",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Lo stomaco occupa la maggior parte del suo corpo.\nSegue ogni giorno lo stesso percorso in cerca di cibo fresco.",
         de: "Sein Magen füllt beinahe seinen ganzen Körper aus.\nAuf der Suche nach frischem Futter schlägt es täglich\ndenselben Pfad ein.",
         'pt-br': "Seu estômago preenche a maior parte de seu tronco.\nPerambula o mesmo caminho todos os dias em busca\nde alimentos frescos.",
+        ja: "胴体の ほとんどが 胃袋。 毎日 同じ ルートを うろつき 新鮮な エサを 探してまわる。",
         ko: "몸의 대부분이 위장이다.\n매일 같은 경로를 배회하며\n신선한 먹이를 찾는다.",
         "zh-tw": "它的胃佔據了軀幹的大部分。它每天都在同一條路上徘徊，尋找新鮮的食物。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },

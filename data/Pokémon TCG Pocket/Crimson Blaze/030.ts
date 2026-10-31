@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/030"
     },
     name: {
         en: "Misdreavus",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Misdreavus",
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
-        "zh-tw": "夢妖"
+        "zh-tw": "夢妖",
+        ja: "ムウマ"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ama mordere e strappare i capelli alle persone\ndietro senza preavviso, solo per vederli\nreazioni scioccate.",
         "de": "Es liebt es, Menschen in die Haare zu beißen und auszureißen\nohne Vorwarnung zurück, nur um sie zu sehen\nschockierte Reaktionen.",
         "pt-br": "Ele adora morder e arrancar o cabelo das pessoas\natrás sem avisar, só para ver seus\nreações chocadas.",
-        "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。"
+        "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。",
+        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Guida",
                 "de": "Führen",
                 "pt-br": "Liderar",
-                "zh-tw": "帶領"
+                "zh-tw": "帶領",
+                ja: "みちびく"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti nella tua mano una carta Aiuto casuale dal tuo mazzo.",
                 "de": "Nimm eine zufällige Unterstützerkarte aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque uma carta de Apoiador aleatória do seu baralho na sua mão.",
-                "zh-tw": "將你牌庫中的一張隨機支持者卡置入你的手牌。"
+                "zh-tw": "將你牌庫中的一張隨機支持者卡置入你的手牌。",
+                ja: "自分の山札からサポートをランダムに1枚、手札に加える。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/033",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/033",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/033"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/033"
     },
     name: {
         en: "Tatsugiri",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Nigiragi",
         'pt-br': "Tatsugiri",
         "zh-tw": "米立龍",
+        ja: "シャリタツ",
         ko: "싸리용"
     },
     illustrator: "OKACHEKE",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Tatsugiri è un Pokémon estremamente astuto. Finge debolezza per attirare la preda, quindi ordina al suo partner di attaccare.",
         "de": "Nigiragi ist ein äußerst listiges Pokémon. Es täuscht Schwäche vor, um Beute anzulocken, und befiehlt dann seinem Partner, anzugreifen.",
         "pt-br": "Tatsugiri é um Pokémon extremamente astuto. Ele finge fraqueza para atrair a presa e depois ordena que seu parceiro ataque.",
-        "zh-tw": "米立龍 是一隻極度狡猾的寶可夢。它佯裝虛弱來引誘獵物，然後命令同伴攻擊。"
+        "zh-tw": "米立龍 是一隻極度狡猾的寶可夢。它佯裝虛弱來引誘獵物，然後命令同伴攻擊。",
+        ja: "非常に 悪賢い ポケモン。 弱ったふりで 獲物を おびき寄せ 仲間の ポケモンに 襲わせる。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Aufholjagd",
                 "pt-br": "Recuperação",
                 "zh-tw": "反彈",
+                ja: "まきかえす",
                 pt: "Responder à Altura"
             },
             damage: "20+",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
                 pt: "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais."
             },
         },

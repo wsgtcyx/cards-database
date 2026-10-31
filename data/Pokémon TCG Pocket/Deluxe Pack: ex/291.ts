@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/291",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/291",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/291",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/291"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/291",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/291"
 	},
 	name: {
         en: "Skitty",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Eneco",
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
+        ja: "エネコ",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non può impedirsi di inseguire cose in movimento,\ne corre in tondo, rincorrendosi la coda.",
         "de": "Es kann sich nicht davon abhalten, sich bewegenden Dingen nachzujagen,\nund es läuft im Kreis und jagt seinem eigenen Schwanz nach.",
         "pt-br": "Ele não consegue parar de perseguir coisas em movimento,\ne corre em círculos, perseguindo o próprio rabo.",
-        "zh-tw": "它無法阻止自己追逐移動的事物，\n它繞著圈跑，追著自己的尾巴。"
+        "zh-tw": "它無法阻止自己追逐移動的事物，\n它繞著圈跑，追著自己的尾巴。",
+        ja: "動くものを つい 追ってしまう。 自分の 尻尾を 追いかけて 同じ 場所を グルグル 回る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Colorless"]

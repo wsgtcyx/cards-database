@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/104",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/104",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/104"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/104"
     },
     name: {
         en: "Indeedee ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Veglia",
                 de: "Pass auf",
                 "pt-br": "Vigiar",
-                "zh-tw": "貼心"
+                "zh-tw": "貼心",
+                ja: "こころくばり"
             },
             effect: {
                 en: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi curare 20 danni dal tuo Pokémon attivo.",
                 de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, você pode curar 20 pontos de dano do seu Pokémon Ativo.",
-                "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍寶可夢的傷害。"
+                "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍寶可夢的傷害。",
+                ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。"
             }
         }
     ],
@@ -63,7 +66,8 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神強念"
+                "zh-tw": "精神強念",
+                ja: "サイコキネシス"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
             },
             damage: "30+"
         }

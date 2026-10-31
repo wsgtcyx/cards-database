@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/109",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/109",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/109"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/109"
     },
     name: {
         en: "Porygon2",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Porygon",
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
-        ja: "Porygon",
+        ja: "ポリゴン",
         ko: "Porygon"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "Tackle",
+                ja: "たいあたり",
                 ko: "Tackle"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Dieses künstliche Pokémon entwickelte sich mithilfe neuester Technologie. Manchmal zeigt es Reaktionen, die nicht einprogrammiert sind.",
         "pt-br": "Este Pokémon artificial evoluiu graças à ciência moderna. Às vezes, demonstra um comportamento que não está em sua programação.",
         "zh-tw": "利用最新科技進化的人工寶可夢。有時會表現出程式裡沒有的反應。",
-        ja: "This artificial Pokémon evolved thanks to cutting-edge science. It sometimes displays behavior that is not in its programming.",
+        ja: "最新科学で 進化した 人工の ポケモン。 ときどき プログラムにない 反応をみせる。",
         ko: "This artificial Pokémon evolved thanks to cutting-edge science. It sometimes displays behavior that is not in its programming."
     }
 };

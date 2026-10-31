@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/103"
     },
     name: {
         en: "Duskull",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zwirrlicht",
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
+        ja: "ヨマワル",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Rendendosi invisibile, si avvicina silenziosamente\npreda. Ha la capacità di scivolare attraverso muri spessi.",
         "de": "Es macht sich unsichtbar und schleicht sich lautlos an ihn heran\nBeute. Es hat die Fähigkeit, durch dicke Wände zu schlüpfen.",
         "pt-br": "Tornando-se invisível, ele se aproxima silenciosamente\npresa. Tem a capacidade de deslizar através de paredes grossas.",
-        "zh-tw": "它把自己隱藏起來，悄悄地潛入\n獵物。它具有穿過厚牆的能力。"
+        "zh-tw": "它把自己隱藏起來，悄悄地潛入\n獵物。它具有穿過厚牆的能力。",
+        ja: "姿を 透明に して そっと 獲物に 近寄る。 厚い 壁を 通りぬける 能力を もつ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Agguato",
                 "de": "Hinterhalt",
                 "pt-br": "Emboscada",
-                "zh-tw": "伏擊"
+                "zh-tw": "伏擊",
+                ja: "おそいかかる"
             },
             damage: "10+",
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/182",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/182",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/182"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/182",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/182"
     },
     name: {
         en: "Tauros ex",
@@ -42,7 +43,7 @@ const card: Card = {
                 de: "Wilder Tackle",
                 "pt-br": "Investida Feroz",
                 "zh-tw": "狂野衝撞",
-                ja: "Wild Tackle",
+                ja: "ワイルドタックル",
                 ko: "Wild Tackle"
             },
             damage: 90,
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Zahl fügt dieses Pokémon auch sich selbst 30 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causará 30 pontos de dano a si mesmo.",
                 "zh-tw": "擲1次硬幣若為反面,則這隻寶可夢也受到30點傷害。",
-                ja: "Flip a coin. If tails, this Pokémon also does 30 damage to itself.",
+                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。",
                 ko: "Flip a coin. If tails, this Pokémon also does 30 damage to itself."
             }
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/042",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/042",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/042"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/042"
     },
     name: {
         en: "Bisharp",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È sempre accompagnato da molti Pawniard.\nPer evitare che si verifichino ammutinamenti,\nli tiene sempre sotto stretta sorveglianza.",
         de: "Es hat stets ein Gefolge aus mehreren Gladiantri\nund achtet immer streng darauf, dass ihm keiner\nseiner Handlanger in den Rücken fällt.",
         "pt-br": "É acompanhado por uma grande comitiva de Pawniard. Bisharp fica de olho em seus lacaios, garantindo que nenhum deles sequer pense em traí-lo.",
-        "zh-tw": "率領著一大群駒刀小兵。\n為了防止手下們背叛自己，\n總是睜大著眼睛監視牠們。"
+        "zh-tw": "率領著一大群駒刀小兵。\n為了防止手下們背叛自己，\n總是睜大著眼睛監視牠們。",
+        ja: "大勢の コマタナを 従える。 手下たちが 裏切らない よう 常に 目を 光らせている。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Oscurotaglio",
                 de: "Dunkler Zerschneider",
                 "pt-br": "Cortador de Escuridão",
-                "zh-tw": "暗黑利刃"
+                "zh-tw": "暗黑利刃",
+                ja: "ダークカッター"
             },
             damage: 50
         }

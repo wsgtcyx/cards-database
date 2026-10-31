@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/073"
     },
     name: {
         en: "Celestic Town Elder",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Anziana di Memoride",
         de: "Älteste von Elyses",
         'pt-br': "Anciã da Cidade Celestic",
+        ja: "カンナギタウンの長老",
         ko: "봉신마을의 장로",
         "zh-tw": "神和鎮長老",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Prendi un Pokémon Base a caso dalla tua pila degli scarti e aggiungilo alle carte che hai in mano.",
         de: "Nimm 1 zufälliges Basis-Pokémon aus deinem Ablagestapel auf deine Hand.",
         'pt-br': "Coloque 1 Pokémon Básico aleatório da sua pilha de descarte na sua mão.",
+        ja: "自分のトラッシュからたねポケモンをランダムに1枚、手札に加える。",
         ko: "자신의 트래쉬에서 기본 포켓몬eul_reul 랜덤으로 1장 패로 가져온다.",
         "zh-tw": "從你的棄牌堆中隨機選擇 1 只基礎寶可夢加入你的手牌。"
     },

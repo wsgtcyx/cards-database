@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/052"
     },
     name: {
         en: "Liepard",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Liepard",
         de: "Kleoparda",
         'pt-br': "Liepard",
+        ja: "レパルダス",
         ko: "레파르다스",
         "zh-tw": "酷豹",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
+        ja: "チョロネコ",
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Pokémon dalla magnifica pelliccia e dalle linee aggraziate,\ndietro cui si nasconde un carattere volubile e feroce.",
         de: "Man wird schnell von seinem schönen Fell und\nseiner Anmut verleitet, aber es ist ein sehr\nlaunisches und gewalttätiges Pokémon.",
         'pt-br': "Não se deixe enganar pela sua pelugem fantástica e figura\nelegante. Este Pokémon é instável e perverso.",
+        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。",
         ko: "아름다운 털과 스타일에\n쉽게 매료되지만 변덕스럽고\n흉포한 포켓몬이다.",
         "zh-tw": "不要被它華麗的皮毛和優雅的身材所迷惑。這是一隻喜怒無常且兇​​惡的神奇寶貝。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 'pt-br': "Talho",
+                ja: "きりさく",
                 ko: "베어가르기",
                 "zh-tw": "削減"
             },

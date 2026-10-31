@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/155",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/155"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/155",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/155"
     },
     name: {
         en: "Lillie",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lylia",
         de: "Lilly",
         'pt-br': "Lílian",
+        ja: "リーリエ",
         ko: "릴리에",
         "zh-tw": "莉莉艾",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Pokémon di Fase 2 da 60 danni.",
         de: "Heile 60 Schadenspunkte bei 1 deiner Phase-2-Pokémon.",
         'pt-br': "Cure 60 pontos de dano de 1 dos seus Pokémon Estágio 2.",
+        ja: "自分の2進化ポケモン1匹のHPを60回復。",
         ko: "자신의 2진화 포켓몬 1마리의 HP를 60회복.",
         "zh-tw": "治療 1 只 2 階段神奇寶貝造成的 60 點傷害。"
     },

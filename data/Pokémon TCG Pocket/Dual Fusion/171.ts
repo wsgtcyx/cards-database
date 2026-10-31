@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/171",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/171",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/171"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/171"
     },
     name: {
         en: "Alolan Exeggutor ex",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Owei",
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
-        ja: "Exeggcute",
+        ja: "タマタマ",
         ko: "Exeggcute"
     },
     suffix: "EX",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Langhalshammer",
                 "pt-br": "Martelada Pescoçuda",
                 "zh-tw": "長頸錘",
-                ja: "Long-Neck Hammering",
+                ja: "くびながハンマー",
                 ko: "Long-Neck Hammering"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "1 Pokémon von der Bank deines Gegners wird zufällig ausgewählt. Diese Attacke fügt auch diesem Pokémon 50 Schadenspunkte zu.",
                 "pt-br": "Um dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 50 pontos de dano a ele.",
                 "zh-tw": "對手的備戰寶可夢會隨機被選擇1次,被選擇的寶可夢也受到50點傷害。",
-                ja: "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it.",
+                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、50ダメージ。",
                 ko: "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
             }
         }

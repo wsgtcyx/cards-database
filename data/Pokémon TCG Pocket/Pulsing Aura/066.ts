@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/066",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/066"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/066"
     },
     name: {
         en: "Meowstic",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Se Meowstic emette continuamente la sua potente energia psichica, danneggerà il proprio corpo.",
         de: "Wenn Psiaugon kontinuierlich seine starke psychische Energie ausstrahlt, wird es seinen eigenen Körper schädigen.",
         "pt-br": "Se Meowstic emitir continuamente sua poderosa energia psíquica, danificará seu próprio corpo.",
-        "zh-tw": "如果超能妙喵持續釋放出強大的精神能量，就會對自己的身體造成傷害。"
+        "zh-tw": "如果超能妙喵持續釋放出強大的精神能量，就會對自己的身體造成傷害。",
+        ja: "強力な サイコパワーを 出し続けていると ニャオニクスの 肉体にも ダメージが およぶ。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Orecchie sconcertanti",
                 de: "Verwirrende Ohren",
                 "pt-br": "Orelhas desconcertantes",
-                "zh-tw": "惑耳"
+                "zh-tw": "惑耳",
+                ja: "まどわすみみ"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Confused.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi confondere il Pokémon attivo del tuo avversario.",
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du das aktive Pokémon deines Gegners verwirren.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Local Ativo, você poderá confundir o Pokémon Ativo do seu oponente.",
-                "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以讓對手的活躍寶可夢陷入混亂。"
+                "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以讓對手的活躍寶可夢陷入混亂。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをこんらんにする。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Psicosparo",
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
-                "zh-tw": "精神射擊"
+                "zh-tw": "精神射擊",
+                ja: "サイコショット"
             },
             damage: 40
         }

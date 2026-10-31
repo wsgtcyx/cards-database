@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/213",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/213",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/213",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/213"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/213",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/213"
     },
     name: {
         en: "Lucario",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Lucario",
         "de": "Lucario",
         "pt-br": "Lucario",
-        "zh-tw": "路卡利歐"
+        "zh-tw": "路卡利歐",
+        ja: "ルカリオ"
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Riolu",
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
+        ja: "リオル",
     },
     description: {
         en: "It's said that no foe can remain invisible to\nLucario, since it can detect auras—even those\nof foes it could not otherwise see.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che nessun nemico possa rimanere invisibile\nLucario, poiché può rilevare le aure, anche quelle\ndi nemici che altrimenti non potrebbe vedere.",
         "de": "Es heißt, dass kein Feind für ihn unsichtbar bleiben kann\nLucario, da es Auren erkennen kann – sogar diese\nvon Feinden, die es sonst nicht sehen könnte.",
         "pt-br": "Diz-se que nenhum inimigo pode permanecer invisível para\nLucario, já que pode detectar auras – mesmo aquelas\nde inimigos que de outra forma não poderia ver.",
-        "zh-tw": "據說沒有任何敵人可以保持隱形\n路卡利歐，因為它能探測到光環——甚至是那些\n它無法看到的敵人。"
+        "zh-tw": "據說沒有任何敵人可以保持隱形\n路卡利歐，因為它能探測到光環——甚至是那些\n它無法看到的敵人。",
+        ja: "波動を キャッチすることで 見えない 相手の 姿でも 見えると 言われている。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Allenatore di combattimento",
                 "de": "Kampftrainer",
                 "pt-br": "Treinador de luta",
-                "zh-tw": "格鬥教練"
+                "zh-tw": "格鬥教練",
+                ja: "ファイティングコーチ"
             },
             effect: {
                 en: "Attacks used by your {F} Pokémon do +20 damage to your opponent's Active Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Gli attacchi usati dai tuoi Pokémon {F} infliggono +20 danni al Pokémon attivo del tuo avversario.",
                 "de": "Angriffe deines {F}-Pokémon fügen dem Aktiven Pokémon deines Gegners +20 Schaden zu.",
                 "pt-br": "Os ataques usados pelos seus Pokémon {F} causam +20 de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "你的{F}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。"
+                "zh-tw": "你的{F}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。",
+                ja: "このポケモンがいるかぎり、自分の{F}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Colpo sottomarino",
                 "de": "U-Boot-Schlag",
                 "pt-br": "Golpe Submarino",
-                "zh-tw": "潛艇打擊"
+                "zh-tw": "潛艇打擊",
+                ja: "サブマリンブロー"
             },
             damage: 40,
             cost: ["Fighting", "Fighting"]

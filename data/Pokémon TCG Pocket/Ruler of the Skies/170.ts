@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/170",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/170",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/170"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/170"
     },
     name: {
         en: "Anorith",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nuota rapidamente utilizzando le sue otto ali\ncome fossero remi di una barca. È uno degli\nantenati dei Pokémon di tipo Coleottero.",
         de: "Anorith schwimmt sehr schnell, indem es seine\nacht Flügel wie die Ruder eines Bootes bewegt.\nEs ist einer der Vorfahren von Käfer-Pokémon.",
         "pt-br": "Anorith nada rapidamente movendo suas oito asas pela água como remos de um barco. É considerado um ancestral dos atuais Pokémon de tipo Inseto.",
-        "zh-tw": "會像船槳般划動８片\n翅膀在水中快速游動。\n是蟲寶可夢祖先的一種。"
+        "zh-tw": "會像船槳般划動８片\n翅膀在水中快速游動。\n是蟲寶可夢祖先的一種。",
+        ja: "８枚の ハネを ボートの オールの ように 動かし 速く 泳げる。 虫ポケモンの 祖先の 一種。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 "pt-br": "Talho",
-                "zh-tw": "劈開"
+                "zh-tw": "劈開",
+                ja: "きりさく"
             },
             damage: 40
         }

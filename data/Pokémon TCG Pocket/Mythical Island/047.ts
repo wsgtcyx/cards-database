@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/047"
     },
     name: {
         en: "Marshadow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Marshadow",
         de: "Marshadow",
         'pt-br': "Marshadow",
+        ja: "マーシャドー",
         ko: "마샤도",
         "zh-tw": "瑪夏多"
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Si infiltra nell'ombra del nemico, copiandone i movimenti e\nla forza. L'imitazione finisce per diventare più forte dell'originale.",
         de: "Schlüpft es in den Schatten seines Gegners, um\ndessen Bewegungen und Kräfte zu imitieren,\nkann es sogar stärker als das Original werden.",
         'pt-br': "Invade as sombras dos outros e imita os seus poderes e movimentos.\nÀ medida que se aprimora, torna-se mais forte do que aqueles que está imitando.",
+        ja: "相手の 影に 潜って 動きや 力を 真似る。 真似ているうちに 本物 よりも 強くなるぞ。",
         ko: "상대 그림자에 숨어들어\n움직임이나 능력을 흉내 낸다.\n그러다가 진짜보다 강해진다.",
         "zh-tw": "它會潛入他人的陰影中並模仿他們的力量和動作。隨著它的改進，它會變得比它模仿的產品更強大。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Vendetta",
                 de: "Vergeltung",
                 'pt-br': "Vingança",
+                ja: "リベンジ",
                 ko: "리벤지",
                 "zh-tw": "復仇"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni inflitti da un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 60 danni in più.",
                 de: "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais.",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
                 ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다.",
                 "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。"
             }

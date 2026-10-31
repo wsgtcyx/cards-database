@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/182",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/182"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/182",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/182"
     },
     name: {
         en: "Melmetal",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Melmetal",
         de: "Melmetal",
         'pt-br': "Melmetal",
+        ja: "メルメタル",
         ko: "멜메탈",
         "zh-tw": "美錄梅塔",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Meltan",
         "de": "Meltan",
         "pt-br": "Meltan",
-        "zh-tw": "美錄坦"
+        "zh-tw": "美錄坦",
+        ja: "メルタン"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Patina Dura",
                 de: "Schutzschicht",
                 'pt-br': "Camada Resistente",
+                ja: "ハードコート",
                 ko: "하드코트",
                 "zh-tw": "硬塗層"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −20 pontos de dano de ataques.",
+                ja: "このポケモンが受けるワザのダメージを-20する。",
                 ko: "이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "該神奇寶貝受到的攻擊傷害為 -20。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Impatto Pesante",
                 de: "Schwerer Einschlag",
                 'pt-br': "Impacto Pesado",
+                ja: "ヘビーインパクト",
                 ko: "헤비임팩트",
                 "zh-tw": "重擊"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Alla fine della sua esistenza, si arrugginisce e\ncade a pezzi. Dopo un po' di tempo, i resti del\nsuo corpo tornano in vita sotto forma di Meltan.",
         de: "Geht sein Leben dem Ende zu, rostet sein Körper\nund fällt auseinander. Kurz darauf erwachen die\nverbliebenen Fragmente als Meltan zum Leben.",
         'pt-br': "No fim de sua vida, Melmetal enferrujará e se\ndespedaçará. Os pequenos cacos que ficarem\npara trás eventualmente renascerão como Meltan.",
+        ja: "寿命が 尽きると 体が 錆びて 崩れる。 やがて 小さな 破片が メルタンに 復活する。",
         ko: "수명이 다하면 몸이 녹슬고\n붕괴한다. 이윽고 작은 파편이\n멜탄으로 부활한다.",
         "zh-tw": "在其使用壽命結束時，美錄金屬會生鏽並分崩離析。留下的小碎片最終將重生為美錄坦。"
     },

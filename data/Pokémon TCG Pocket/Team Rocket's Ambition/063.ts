@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/063",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/063",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/063"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/063"
     },
     name: {
         en: "Happiny",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Trasporta con cura un sasso bianco e tondo trattandolo come un uovo. Adora il ricciolo che ha in testa.",
         de: "Es hält den runden, weißen Stein für ein Ei und kümmert sich um ihn. Es achtet sehr auf seine Haarlocke.",
         "pt-br": "Carrega cuidadosamente uma pedra branca e redonda que pensa ser um ovo. Fica incomodada com a aparência de seu cabelo enrolado.",
-        "zh-tw": "深信白白圓圓的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。"
+        "zh-tw": "深信白白圓圓的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
+        ja: "白くて まるい 石を タマゴと 思いこんで 大事に 持っている。 巻き毛の 形を 気にしている。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Incitamento Paffutello",
                 de: "Kugeljubel",
                 "pt-br": "Torcida Fofa",
-                "zh-tw": "福福聲援"
+                "zh-tw": "福福聲援",
+                ja: "ぷくぷくエール"
             },
             effect: {
                 en: "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, gli attacchi usati dai tuoi Pokémon infliggono +20 danni al Pokémon attivo del tuo avversario.",
                 de: "Während deines nächsten Zuges fügen Attacken deiner Pokémon dem Aktiven Pokémon deines Gegners + 20 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "在下個自己的回合,自己的寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。"
+                "zh-tw": "在下個自己的回合,自己的寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。",
+                ja: "次の自分の番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。"
             },
             damage: 10
         }

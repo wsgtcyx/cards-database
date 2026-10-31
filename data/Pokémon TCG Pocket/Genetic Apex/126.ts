@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/126",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/126"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/126",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/126"
     },
     name: {
         en: "Mr. Mime",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mr. Mime",
         de: "Pantimos",
         'pt-br': "Mr. Mime",
+        ja: "バリヤード",
         ko: "마임맨",
         "zh-tw": "魔牆人偶",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Attacco Barriera",
                 de: "Angriffsbarriere",
                 'pt-br': "Ataque Barreira",
+                ja: "バリアアタック",
                 ko: "배리어어택",
                 "zh-tw": "屏障攻擊"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Molti studiosi ritengono che abbia sviluppato mani\ncosì grandi perché gli sono utili per la mimica.",
         de: "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann.",
         'pt-br': "Suas mãos talvez não sejam grandes\npor acaso: muitos cientistas acreditam que\nas palmas se alargaram para fazer mímica.",
+        ja: "大きな 手のひらは パントマイムを するために 発達 したと 考える 学者も 多い。",
         ko: "커다란 손바닥은 팬터마임을\n하기 위해 발달했다고\n생각하는 학자도 많다.",
         "zh-tw": "它的手如此寬大可能並非巧合——許多科學家認為它的手掌變大是為了表演啞劇。"
     },

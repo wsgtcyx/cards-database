@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/095"
     },
     name: {
         en: "Bibarel ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bibarel-ex",
         de: "Bidifas-ex",
         'pt-br': "Bibarel ex",
+        ja: "ビーダルex",
         ko: "비버통 ex",
         "zh-tw": "大尾狸ex"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Bidoof",
         "de": "Bidiza",
         "pt-br": "Bidoof",
-        "zh-tw": "大牙狸"
+        "zh-tw": "大牙狸",
+        ja: "ビッパ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Pressa Spensierata",
             de: "Entspannter Druck",
             'pt-br': "Aperto Despreocupado",
+            ja: "のびのびプレス",
             ko: "유유자적 프레스",
             "zh-tw": "無憂出版社"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Cura questo Pokémon da 30 danni.",
             de: "Heile 30 Schadenspunkte bei diesem Pokémon.",
             'pt-br': "Cure 30 pontos de dano deste Pokémon.",
+            ja: "このポケモンのHPを30回復。",
             ko: "이 포켓몬의 HP를 30회복.",
             "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
         }

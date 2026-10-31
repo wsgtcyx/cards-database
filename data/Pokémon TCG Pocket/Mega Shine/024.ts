@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/024",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/024",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/024"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/024"
     },
     name: {
         en: "Electabuzz",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La ricerca sta progredendo sull'immagazzinamento dei fulmini in Electabuzz in modo che questa energia possa essere utilizzata in qualsiasi momento.",
         de: "Die Forschung zur Speicherung von Blitzen in Elektek schreitet voran, sodass diese Energie jederzeit genutzt werden kann.",
         "pt-br": "A pesquisa está progredindo no armazenamento de raios no Electabuzz para que essa energia possa ser usada a qualquer momento.",
-        "zh-tw": "在 電擊獸 中儲存閃電的研究正在進行中，以便隨時可以使用該能量。"
+        "zh-tw": "在 電擊獸 中儲存閃電的研究正在進行中，以便隨時可以使用該能量。",
+        ja: "エレブーに 雷を 溜めこませ いつでも 使えるようにする 研究が 進められている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Zuccalampo",
                 de: "Kopf-Blitz",
                 "pt-br": "Raio de Cabeça",
-                "zh-tw": "伏特頭擊"
+                "zh-tw": "伏特頭擊",
+                ja: "ヘッドボルト"
             },
             damage: 30
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/067"
     },
     name: {
         en: "Togedemaru",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Togedemaru",
         de: "Togedemaru",
         'pt-br': "Togedemaru",
+        ja: "トゲデマル",
         ko: "토게데마루",
         "zh-tw": "托戈德瑪爾",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si serve della lunga spina che ha sulla schiena\nper attirare e incamerare l'energia elettrica\ndei fulmini e dei Pokémon di tipo Elettro.",
         de: "Der Schweif an seinem Rücken absorbiert Blitze\nund Angriffe von Elektro-Pokémon. Es speichert\nden so gewonnenen Strom in Elektrotaschen.",
         'pt-br': "Com os pelos compridos em suas costas, este Pokémon\nabsorve a eletricidade de outros Pokémon elétricos.\nArmazena o que absorve em uma bolsa elétrica.",
+        ja: "背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。",
         ko: "등에 난 긴 털로 번개나\n전기포켓몬의 전격을 받아\n전기 주머니에 충전한다.",
         "zh-tw": "背上有長毛，這只神奇寶貝從其他電力神奇寶貝那裡獲取電力。它將吸收的東西儲存在電囊中。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Elettrocolpo",
                 de: "Elektrostoß",
                 'pt-br': "Pancada Elétrica",
+                ja: "エレキスマッシュ",
                 ko: "일렉트릭 스매시",
                 "zh-tw": "電擊"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             }

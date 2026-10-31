@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/085",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/085"
     },
     name: {
         en: "Hitmontop",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hitmontop",
         de: "Kapoera",
         'pt-br': "Hitmontop",
+        ja: "カポエラー",
         ko: "카포에라",
         "zh-tw": "戰舞郎",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gira su se stesso tirando calci. Se gira molto\nvelocemente può scavare una fossa nel terreno.",
         de: "Es dreht sich um sich selbst und verteilt Tritte.\nGewinnt es ausreichend an Schwung, bohrt es\nsich dabei in den Boden.",
         'pt-br': "Ele dá chutes enquanto gira. Se ele girar\nem alta velocidade, faz um caminho no chão.",
+        ja: "くるくる 回って キックをはなつ。 高速で 回っていると そのまま 地面に 潜っていく。",
         ko: "빙글빙글 돌며 킥을 날린다.\n고속으로 돌다 보면\n그대로 지면을 파고들어 간다.",
         "zh-tw": "它在旋轉時發射踢腿。如果它高速旋轉，它可能會鑽入地下。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Attacco Rotante",
                 de: "Rundumangriff",
                 'pt-br': "Ataque Giratório",
+                ja: "かいてんアタック",
                 ko: "회전어택",
                 "zh-tw": "旋轉攻擊"
             },

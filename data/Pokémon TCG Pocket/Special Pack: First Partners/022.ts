@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/022",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/022",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/022"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/022"
     },
     name: {
         en: "Grookey",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Zweigstoß",
                 "pt-br": "Cutucada com Galho",
                 "zh-tw": "木枝突刺",
-                ja: "Branch Poke",
+                ja: "えだづき",
                 ko: "Branch Poke"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
         de: "Der Rhythmus, den es mit seinem besonderen Schlägel erzeugt, versendet Schallwellen, die Pflanzen neue Vitalität verleihen können.",
         "pt-br": "Quando usa o seu graveto especial para fazer uma batida, as ondas sonoras emitem uma energia que revitaliza plantas e flores ao redor.",
         "zh-tw": "當牠用特別的木棒敲奏時，能夠給予花草活力的力量就會變成音波擴散開來。",
-        ja: "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+        ja: "特別な スティックで リズムを 刻むと 草花を 元気にする パワーが 音波になって 広がる。",
         ko: "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area."
     }
 };

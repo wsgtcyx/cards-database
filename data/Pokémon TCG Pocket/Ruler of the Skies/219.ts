@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/219",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/219",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/219",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/219"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/219",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/219"
     },
     name: {
         en: "Galarian Perrserker",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Perrserker de Galar",
         "zh-tw": "伽勒爾喵頭目",
         ko: "가라르 가라르 나이킹",
-        ja: "ガラル ガラル ニャイキング"
+        ja: "ガラルニャイキング"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -37,7 +38,7 @@ const card: Card = {
         "pt-br": "Meowth de Galar",
         "zh-tw": "伽勒爾喵喵",
         ko: "가라르 나옹",
-        ja: "ガラル ニャース"
+        ja: "ガラルニャース"
     },
     stage: "Stage1",
     description: {
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali.",
         de: "Es entwickelte sich nach einer langen Zeit voller\nKämpfe. Nun kann es seine Krallen ausfahren,\num sie als Dolche zu nutzen.",
         "pt-br": "Depois de muitas batalhas, este Pokémon desenvolveu garras perigosas que se juntam para formar adagas ao serem estendidas.",
-        "zh-tw": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
+        "zh-tw": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。",
+        ja: "戦いに 明け暮れて 進化した 結果 伸ばすと 短剣に 変わる 物騒な ツメを 手に入れた。"
     },
     abilities: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Scavare",
                 de: "Ausgraben",
                 "pt-br": "Desencavar",
-                "zh-tw": "抓取"
+                "zh-tw": "抓取",
+                ja: "つかみとる"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi mettere nella tua mano due carte Oggetto Pokémon casuali dalla tua pila degli scarti.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 2 zufällige Pokémon-Ausrüstungskarten von deinem Ablagestapel auf deine Hand nehmen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá colocar 2 cartas de Ferramenta Pokémon aleatórias da sua pilha de descarte na sua mão.",
-                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的棄牌區隨機將2張「寶可夢道具」卡加入手牌。"
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的棄牌區隨機將2張「寶可夢道具」卡加入手牌。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のトラッシュから「ポケモンのどうぐ」をランダムに2枚、手札に加える。"
             }
         }
     ],
@@ -82,7 +86,8 @@ const card: Card = {
                 it: "Ferrartigli",
                 de: "Metallklaue",
                 "pt-br": "Garra de Metal",
-                "zh-tw": "金屬爪"
+                "zh-tw": "金屬爪",
+                ja: "メタルクロー"
             },
             damage: 70
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/032"
     },
     name: {
         en: "Torracat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Torracat",
         de: "Miezunder",
         'pt-br': "Torracat",
+        ja: "ニャヒート",
         ko: "냐오히트",
         "zh-tw": "炎熱喵",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Flamiau",
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
+        ja: "ニャビー",
     },
     description: {
         en: "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando si affeziona, si lascia coccolare da chi\nlo allena, ma essendo forte e dotato di artigli\naffilati, c'è il rischio di ritrovarsi pieni di graffi.",
         de: "Zutrauliche Miezunder schmiegen sich zwar an\nihren Trainer an, da sie aber stark und ihre Krallen\nscharf sind, erleidet dieser überall Kratzwunden.",
         'pt-br': "Torracat deixa seu Treinador abraçá-lo quando a amizade\nentre eles se torna mais forte, mas, por ser um Pokémon\nforte e de garras afiadas, o Treinador ficará arranhado.",
+        ja: "なつくと トレーナーにも 甘えるが 力は 強く ツメも 鋭い。 全身 傷だらけに されるぞ。",
         ko: "친해지면 트레이너에게도 응석 부리지만,\n힘은 강하고 발톱도 날카롭다.\n온몸을 상처투성이로 만든다.",
         "zh-tw": "一旦它們變得親近，巨龍貓就會讓它的訓練師寵愛它，但它是一種強大的、利爪的神奇寶貝，所以它的訓練師身上佈滿了划痕。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Calorazione",
                 de: "Hitze-Tackle",
                 'pt-br': "Golpe de Colisão Aquecido",
+                ja: "ヒートタックル",
                 ko: "히트태클",
                 "zh-tw": "熱力鏟球"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+                ja: "このポケモンにも10ダメージ。",
                 ko: "이 포켓몬에게도 10데미지를 준다.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
             }

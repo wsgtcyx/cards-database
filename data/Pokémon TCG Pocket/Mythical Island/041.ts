@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/041"
     },
     name: {
         en: "Mankey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mankey",
         de: "Menki",
         'pt-br': "Mankey",
+        ja: "マンキー",
         ko: "망키",
         "zh-tw": "猴怪",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine.",
         de: "Es lebt mit Artgenossen in Baumkronen.\nVerliert es sie aus den Augen, wird es\nvor Einsamkeit sofort zornig.",
         'pt-br': "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso.",
+        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
         ko: "나무 위에 무리 지어 산다.\n무리에서 떨어진 망키는\n외로운 나머지 금방 화를 낸다.",
         "zh-tw": "它成群生活在樹頂。如果它看不到自己的群體，它就會因為孤獨而被激怒。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Concentrapugno",
                 de: "Fokussierfaust",
                 'pt-br': "Punho Focalizado",
+                ja: "きあいづき",
                 ko: "기합찌르기",
                 "zh-tw": "聚焦拳頭"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             }

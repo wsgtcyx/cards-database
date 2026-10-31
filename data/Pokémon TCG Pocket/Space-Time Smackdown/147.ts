@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/147",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/147"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/147",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/147"
     },
     name: {
         en: "Giant Cape",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mantello Gigante",
         de: "Riesige Robe",
         'pt-br': "Capa Gigante",
+        ja: "大きなマント",
         ko: "커다란망토",
         "zh-tw": "大斗蓬",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Il Pokémon a cui è assegnata questa carta ha +20 PS.",
         de: "Das Pokémon, an das diese Karte angelegt ist, erhält + 20 KP.",
         'pt-br': "O Pokémon ao qual esta carta está ligada recebe +20 PS.",
+        ja: "このカードをつけているポケモンの最大HPを+20する。",
         ko: "이 카드를 붙이고 있는 포켓몬의 최대 HP를 +20한다.",
         "zh-tw": "貼有這張卡的神奇寶貝HP+20。"
     },

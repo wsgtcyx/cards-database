@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/075"
     },
     name: {
         en: "Polteageist",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Polteageist",
         "de": "Mortipot",
         "pt-br": "Polteageist",
-        "zh-tw": "怖思壺"
+        "zh-tw": "怖思壺",
+        ja: "ポットデス"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sinistea",
         "de": "Fatalitee",
         "pt-br": "Sinistea",
-        "zh-tw": "來悲茶"
+        "zh-tw": "來悲茶",
+        ja: "ヤバチャ"
     },
     description: {
         en: "These Pokémon multiply by creeping into teapots\nand pouring themselves into leftover tea.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questi Pokémon si moltiplicano insinuandosi nelle teiere\ne versandosi nel tè avanzato.",
         "de": "Diese Pokémon vermehren sich, indem sie in Teekannen kriechen\nund gießen sich in übriggebliebenen Tee.",
         "pt-br": "Esses Pokémon se multiplicam entrando em bules\ne se servindo das sobras do chá.",
-        "zh-tw": "這些神奇寶貝通過爬進茶壺來繁殖\n並把自己倒進剩下的茶裡。"
+        "zh-tw": "這些神奇寶貝通過爬進茶壺來繁殖\n並把自己倒進剩下的茶裡。",
+        ja: "ティーポットに 忍びこんで 飲みかけの 紅茶の 中に 自分を 注いで 増えていく。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Tè rinfrescante",
                 "de": "Erfrischender Tee",
                 "pt-br": "Chá Refrescante",
-                "zh-tw": "提神茶"
+                "zh-tw": "提神茶",
+                ja: "リフレッシュティー"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi chiedere al tuo avversario di rimescolare la sua mano nel suo mazzo. Per ogni punto rimanente di cui il tuo avversario ha bisogno per vincere, pesca una carta.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du deinen Gegner seine Hand in sein Deck mischen lassen. Für jeden verbleibenden Punkt, den Ihr Gegner zum Gewinnen benötigt, zieht er eine Karte.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá fazer com que seu oponente embaralhe a mão dele no baralho dele. Para cada ponto restante que seu oponente precisa para vencer, ele compra uma carta.",
-                "zh-tw": "在你的回合中，當你從你的手牌中使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以讓你的對手將他們的手牌洗入他們的牌庫中。對於對手需要贏得的每一剩餘分數，他們都會抽一張牌。"
+                "zh-tw": "在你的回合中，當你從你的手牌中使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以讓你的對手將他們的手牌洗入他們的牌庫中。對於對手需要贏得的每一剩餘分數，他們都會抽一張牌。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手の手札をすべて山札にもどす。相手は相手自身の勝つために必要な残りポイントの数ぶん、山札を引く。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Colpo spettrale",
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
-                "zh-tw": "幽靈射擊"
+                "zh-tw": "幽靈射擊",
+                ja: "ホロウショット"
             },
             damage: 40,
             cost: ["Psychic"]

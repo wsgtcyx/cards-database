@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/081",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/081"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/081"
     },
     name: {
         en: "Omanyte",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Omanyte",
         de: "Amonitas",
         'pt-br': "Omanyte",
+        ja: "オムナイト",
         ko: "암나이트",
         "zh-tw": "菊石獸",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Helixfossile",
         "de": "Helixfossil",
         "pt-br": "Fóssil Espiral",
-        "zh-tw": "貝殼化石"
+        "zh-tw": "貝殼化石",
+        ja: "かいの化石"
     },
     attacks: [{
             cost: ["Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Questo Pokémon si sta rivelando un problema\nperché a volte fugge o viene liberato dopo\nessere stato rigenerato.",
         de: "Diese Pokémon entwickeln sich allmählich zu\neinem Problem, da einige wiederbelebte\nExemplare fliehen oder freigelassen werden.",
         'pt-br': "Alguns Omanyte escapam após serem restaurados\nou são soltos por pessoas na natureza. Por conta\ndisso, esta espécie está se tornando um problema.",
+        ja: "復元されたあと 逃げだしたり 逃がしてしまう ものが いるため 問題に なりつつあるのだ。",
         ko: "복원된 후 도망치거나\n놓쳐버리는 경우가 생겨서\n문제시되고 있다.",
         "zh-tw": "由於一些阿曼人在被恢復後設法逃脫或被人類釋放到野外，這個物種正在成為一個問題。"
     },

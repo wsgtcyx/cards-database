@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/186",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/186",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/186"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/186"
     },
     name: {
         en: "Swablu",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es kann nicht entspannen, solange es selbst oder seine Umgebung dreckig sind. Wenn es Schmutz bemerkt, wischt es diesen mit seinen Flügeln weg.",
         "pt-br": "Não consegue relaxar quando ele ou o ambiente não estão limpos. Ele esfrega a sujeira com as asas para removê-la.",
         "zh-tw": "如果自己和周圍不乾淨，就靜不下心來的性格。見到髒污會用羽毛擦掉。",
-        ja: "It can't relax if it or its surroundings are not clean.\nIt wipes off dirt with its wings.",
+        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
         ko: "It can't relax if it or its surroundings are not clean.\nIt wipes off dirt with its wings."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Gesang",
                 "pt-br": "Canção",
                 "zh-tw": "唱歌",
-                ja: "Sing",
+                ja: "うたう",
                 ko: "Sing"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢睡眠。",
-                ja: "Your opponent's Active Pokémon is now Asleep.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "Your opponent's Active Pokémon is now Asleep."
             }
         }

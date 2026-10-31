@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/140",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/140",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/140",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/140"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/140",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/140"
 	},
 	name: {
 		en: "Chinchou",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Chinchou",
 		de: "Lampi",
 		"pt-br": "Chinchou",
-		"zh-tw": "燈籠魚"
+		"zh-tw": "燈籠魚",
+		ja: "チョンチー"
 	},
 	illustrator: "Miki Tanaka",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Le sue antenne, evolutesi da una pinna, hanno entrambe le cose\ncariche positive e negative che li attraversano.",
 		de: "Seine Fühler, die sich aus einer Flosse entwickelt haben, haben beides\nDurch sie fließen positive und negative Ladungen.",
 		"pt-br": "Suas antenas, que evoluíram a partir de uma nadadeira, possuem tanto\ncargas positivas e negativas fluindo através deles.",
-		"zh-tw": "它的觸角由鰭演化而來，具有\n正電荷和負電荷流過它們。"
+		"zh-tw": "它的觸角由鰭演化而來，具有\n正電荷和負電荷流過它們。",
+		ja: "ひれが 変化して できた 触手は それぞれが プラスと マイナスの 電気が 流れている。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Palla fulminea",
 				de: "Blitzball",
 				"pt-br": "Bola Relâmpago",
-				"zh-tw": "閃電球"
+				"zh-tw": "閃電球",
+				ja: "ピッカリだま"
 			},
 			damage: 10,
 			cost: ["Lightning"]

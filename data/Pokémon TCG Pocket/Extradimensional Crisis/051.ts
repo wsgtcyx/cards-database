@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/051"
     },
     name: {
         en: "Ferroseed",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kastadur",
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
+        ja: "テッシード",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Assorbe il ferro che trova nella roccia aggrappandosi\nal soffitto. Spara punte quando è in pericolo.",
         "de": "Beim Anhaften nimmt es das Eisen auf, das es im Gestein findet\nbis zur Decke. Bei Gefahr schießt es Stacheln ab.",
         "pt-br": "Absorve o ferro que encontra na rocha enquanto se agarra\npara o teto. Ele atira espinhos quando está em perigo.",
-        "zh-tw": "它在粘附時吸收岩石中發現的鐵\n到天花板。當遇到危險時它會射出尖刺。"
+        "zh-tw": "它在粘附時吸收岩石中發現的鐵\n到天花板。當遇到危險時它會射出尖刺。",
+        ja: "洞穴の 天井に 突きささり 岩の 鉄分を 吸いとる。 危険がせまると トゲを 撃ち出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spike Puntura",
                 "de": "Spike Sting",
                 "pt-br": "Picada de Espigão",
-                "zh-tw": "尖刺刺痛"
+                "zh-tw": "尖刺刺痛",
+                ja: "トゲでさす"
             },
             damage: 40,
             cost: ["Metal", "Colorless"]

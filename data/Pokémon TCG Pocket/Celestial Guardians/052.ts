@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/052"
     },
     name: {
         en: "Dewpider",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dewpider",
         de: "Araqua",
         'pt-br': "Dewpider",
+        ja: "シズクモ",
         ko: "물거미",
         "zh-tw": "滴蛛",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Con l'addome gonfia una bolla d'acqua in\ncui tiene infilata la testa. Fa a gara con gli\naltri Dewpider a chi ha la bolla più grande.",
         de: "Mit dem Hinterleib füllt es eine Wasserblase auf und\nhüllt seinen Kopf darin ein. Trifft es andere Araqua,\nvergleichen sie ihre Wasserblasengröße.",
         'pt-br': "Forma uma bolha de água na parte de trás do seu corpo e,\nem seguida, cobre sua cabeça com ela. Ao se encontrarem,\ndois Dewpider vão sempre comparar os tamanhos das suas bolhas.",
+        ja: "お尻で 水泡を 膨らませて 頭を 包む。 仲間同士で 水泡の 大きさを 比べる。",
         ko: "엉덩이로 수포를 부풀려서\n머리를 감싼다. 동료끼리\n수포의 크기를 비교한다.",
         "zh-tw": "它在身體後部形成一個水泡，然後用它覆蓋頭部。遇見另一個露皮德意味著比較水泡的大小。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Uncino",
                 de: "Haken",
                 'pt-br': "Gancho",
+                ja: "ひっかける",
                 ko: "걸기",
                 "zh-tw": "鉤"
             },

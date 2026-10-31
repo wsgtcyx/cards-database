@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/026"
     },
     name: {
         en: "Magnezone",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magnezone",
         "de": "Magnezone",
         "pt-br": "Magnezone",
-        "zh-tw": "自爆磁怪"
+        "zh-tw": "自爆磁怪",
+        ja: "ジバコイル"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magneton",
         "de": "Magneton",
         "pt-br": "Magneton",
-        "zh-tw": "三合一磁怪"
+        "zh-tw": "三合一磁怪",
+        ja: "レアコイル"
     },
     description: {
         en: "Exposure to a special magnetic field changed\nMagneton's molecular structure, turning it into\nMagnezone.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "L'esposizione a uno speciale campo magnetico è cambiata\nLa struttura molecolare di Magneton, trasformandolo in\nMagnezone.",
         "de": "Die Exposition gegenüber einem speziellen Magnetfeld veränderte sich\nDie molekulare Struktur des Magnetons, die es in umwandelt\nMagnezone.",
         "pt-br": "A exposição a um campo magnético especial mudou\nA estrutura molecular do Magneton, transformando-o em\nMagnezona.",
-        "zh-tw": "暴露於特殊磁場改變\n磁子的分子結構，將其變成\n磁區。"
+        "zh-tw": "暴露於特殊磁場改變\n磁子的分子結構，將其變成\n磁區。",
+        ja: "特殊な 磁場で レアコイルの 分子 構造が 組み換えられて ジバコイルに 進化した。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo allo specchio",
                 "de": "Spiegelschuss",
                 "pt-br": "Tiro no espelho",
-                "zh-tw": "鏡面拍攝"
+                "zh-tw": "鏡面拍攝",
+                ja: "ミラーショット"
             },
             damage: 90,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se il Pokémon difensore tenta di usare un attacco, il tuo avversario lancia una moneta. Se esce croce, l'attacco non avviene.",
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
-                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
+                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
             }
         }],
     weaknesses: [{

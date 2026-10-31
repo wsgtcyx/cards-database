@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/103",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/103"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/103"
     },
     name: {
         en: "Altaria",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nelle belle giornate, ama confondersi con le poche\nnuvole in cielo e cantare con una bellissima voce di\nsoprano.",
         de: "Bei gutem Wetter mischt es sich unter die Wolken\nund genießt die Freiheit. Es hat eine entzückende\nSopranstimme.",
         "pt-br": "Em dias ensolarados, ele voa livremente pelo céu e se mistura às nuvens. Canta em um lindo soprano.",
-        "zh-tw": "陽光明媚的日子，它自由自在地飛過天空，融入雲彩之中。它以美麗的女高音歌唱。"
+        "zh-tw": "陽光明媚的日子，它自由自在地飛過天空，融入雲彩之中。它以美麗的女高音歌唱。",
+        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fare la Ola",
                 de: "Wellenreiten",
                 "pt-br": "Fazer a \"Ola\"",
-                "zh-tw": "朋友之環"
+                "zh-tw": "朋友之環",
+                ja: "ともだちのわ"
             },
             effect: {
                 en: "This attack does 20 more damage for each of your Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ciascuno dei tuoi Pokémon in panchina.",
                 de: "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada um dos seus Pokémon no Banco.",
-                "zh-tw": "此攻擊對你的每隻後備寶可夢造成 20 點額外傷害。"
+                "zh-tw": "此攻擊對你的每隻後備寶可夢造成 20 點額外傷害。",
+                ja: "自分のベンチポケモンの数×20ダメージ追加。"
             },
             damage: "20+"
         }

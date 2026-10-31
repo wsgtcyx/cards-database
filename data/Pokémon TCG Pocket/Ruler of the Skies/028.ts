@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/028",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/028",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/028"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/028"
     },
     name: {
         en: "Houndoom",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "I suoi terrificanti latrati fanno tremare gli altri Pokémon, che si precipitano così nelle proprie tane.",
         de: "Wenn andere Pokémon sein gruseliges Geheul hören, erschaudern sie und eilen Hals über Kopf zurück in ihren Unterschlupf.",
         "pt-br": "Quando ouvem seus uivos misteriosos, outros Pokémon ficam assustados e voltam imediatamente para seus ninhos.",
-        "zh-tw": "聽見牠恐怖長嚎的\n寶可夢會渾身發抖，\n一溜煙地回到自己的巢裡。"
+        "zh-tw": "聽見牠恐怖長嚎的\n寶可夢會渾身發抖，\n一溜煙地回到自己的巢裡。",
+        ja: "不気味な 遠吠えを 聞いた ポケモンは 震え 一目散に 自分の 巣に 戻る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Crunch",
                 de: "Knirschen",
                 "pt-br": "Mastigada",
-                "zh-tw": "咬碎"
+                "zh-tw": "咬碎",
+                ja: "かみくだく"
             },
             effect: {
                 en: "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機個能量丟棄。"
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
             },
             damage: 60
         }

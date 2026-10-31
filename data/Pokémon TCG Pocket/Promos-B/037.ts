@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/037",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/037"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/037"
     },
     name: {
         en: "Frigibax",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon vive nelle foreste e nelle zone scoscese. Usando la potenza della sua pinna dorsale, raffredda l'interno del suo nido come un frigorifero.",
         de: "Dieses Pokémon lebt in Wäldern und felsigen Gebieten. Mit der Kraft seiner Rückenflosse kühlt es das Innere seines Nestes wie ein Kühlschrank.",
         "pt-br": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, ele resfria o interior do ninho como uma geladeira.",
-        "zh-tw": "這種寶可夢生活在森林和崎嶇的地區。它利用背鰭的力量，像冰箱一樣冷卻巢穴內部。"
+        "zh-tw": "這種寶可夢生活在森林和崎嶇的地區。它利用背鰭的力量，像冰箱一樣冷卻巢穴內部。",
+        ja: "岩場や 森林に 生息する。 背びれの 力で 巣穴の中を 冷凍庫のように 冷やしている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Indurimento",
                 de: "Verhärten",
                 "pt-br": "Fortificar",
-                "zh-tw": "凝固"
+                "zh-tw": "凝固",
+                ja: "かたまる"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }
     ],

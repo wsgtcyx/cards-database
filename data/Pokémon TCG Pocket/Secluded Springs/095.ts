@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/095"
     },
     name: {
         en: "Krabby",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krabby",
         "pt-br": "Krabby",
         "zh-tw": "大鉗蟹",
+        ja: "クラブ",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Può essere trovato vicino al mare. Le grandi tenaglie\nricrescono se vengono strappati dalle loro orbite.",
         "de": "Es kann in der Nähe des Meeres gefunden werden. Die große Zange\nwachsen nach, wenn sie aus ihren Höhlen gerissen werden.",
         "pt-br": "Pode ser encontrado perto do mar. As grandes pinças\nvoltar a crescer se forem arrancados das órbitas.",
-        "zh-tw": "它可以在海邊附近找到。大鉗子\n如果它們被從插座中拔出，它們會重新長出來。"
+        "zh-tw": "它可以在海邊附近找到。大鉗子\n如果它們被從插座中拔出，它們會重新長出來。",
+        ja: "海の 近くで 見つかる。 大きな ハサミは もぎとっても あとから また 生えてくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Presa a morsa",
                 "de": "Schraubstockgriff",
                 "pt-br": "Torno Grip",
-                "zh-tw": "虎鉗夾具"
+                "zh-tw": "虎鉗夾具",
+                ja: "はさむ"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

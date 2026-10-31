@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/021"
     },
     name: {
         en: "Alomomola",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mamolida",
         "pt-br": "Alomomola",
         "zh-tw": "保母曼波",
+        ja: "ママンボウ",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Tiene delicatamente i Pokémon feriti e deboli nella sua\npinne. La sua speciale membrana guarisce le loro ferite.",
         "de": "Es hält verletzte und schwache Pokémon sanft in seinem Griff\nFlossen. Seine spezielle Membran heilt ihre Wunden.",
         "pt-br": "Ele gentilmente segura Pokémon feridos e fracos em seu\nbarbatanas. Sua membrana especial cura suas feridas.",
-        "zh-tw": "它溫柔地把受傷和虛弱的神奇寶貝抱在懷裡\n鰭。它的特殊膜可以治愈他們的傷口。"
+        "zh-tw": "它溫柔地把受傷和虛弱的神奇寶貝抱在懷裡\n鰭。它的特殊膜可以治愈他們的傷口。",
+        ja: "傷ついたり 弱った ポケモンを ヒレで 優しく 抱えながら 特殊な 粘膜で 治すのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Impulso dell'acqua",
                 "de": "Wasserimpuls",
                 "pt-br": "Pulso de Água",
-                "zh-tw": "水脈衝"
+                "zh-tw": "水脈衝",
+                ja: "みずのはどう"
             },
             damage: 50,
             cost: ["Water", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

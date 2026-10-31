@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/077"
     },
     name: {
         en: "Cleffa",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pii",
         "pt-br": "Cleffa",
         "zh-tw": "皮寶寶",
+        ja: "ピィ",
     },
     illustrator: "Orca",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Secondo voci locali, i Cleffa vengono visti spesso\nnei luoghi dove sono cadute le stelle cadenti.",
         "de": "Lokalen Gerüchten zufolge wird Cleffa oft gesehen\nan Orten, an denen Sternschnuppen gefallen sind.",
         "pt-br": "De acordo com rumores locais, Cleffa é frequentemente visto\nem lugares onde caíram estrelas cadentes.",
-        "zh-tw": "據當地傳聞，Cleffa 經常出現\n在流星墜落的地方。"
+        "zh-tw": "據當地傳聞，Cleffa 經常出現\n在流星墜落的地方。",
+        ja: "ピィを よく 見かける 場所は 流れ星が 落ちた 場所と 地元では うわさ されている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Chiamata scintillante",
                 "de": "Funkelnder Anruf",
                 "pt-br": "Chamada cintilante",
-                "zh-tw": "閃爍的召喚"
+                "zh-tw": "閃爍的召喚",
+                ja: "きらきらコール"
             },
             effect: {
                 en: "Put a random Pokémon from your deck into your hand.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Metti nella tua mano un Pokémon casuale dal tuo mazzo.",
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
-                "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。"
+                "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
+                ja: "自分の山札からポケモンをランダムに枚、手札に加える。"
             }
         }],
     retreat: 0,

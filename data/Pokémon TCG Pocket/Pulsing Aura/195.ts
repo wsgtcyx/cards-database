@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/195",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/195",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/195"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/195"
     },
     name: {
         en: "Mega Camerupt ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Bomba Vulcanica",
                 de: "Vulkangetöse",
                 "pt-br": "Cabum Vulcânico",
-                "zh-tw": "火山爆"
+                "zh-tw": "火山爆",
+                ja: "ボルカニックドッカン"
             },
             effect: {
                 en: "1 of your opponent's Pokémon is chosen at random. Do 160 damage to it.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Viene scelto a caso 1 dei Pokémon del tuo avversario. Infliggigli 160 danni.",
                 de: "1 Pokémon deines Gegners wird zufällig ausgewählt. Füge ihm 160 Schaden zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 160 de dano a ele.",
-                "zh-tw": "隨機選出 1 隻對手的寶可夢。對其造成 160 點傷害。"
+                "zh-tw": "隨機選出 1 隻對手的寶可夢。對其造成 160 點傷害。",
+                ja: "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、160ダメージ。"
             }
         }
     ],

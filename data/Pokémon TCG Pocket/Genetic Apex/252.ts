@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/252",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/252",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/252",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/252"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/252",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/252"
     },
     name: {
         en: "Exeggutor ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggutor-ex",
         de: "Kokowei-ex",
         'pt-br': "Exeggutor ex",
+        ja: "ナッシーex",
         ko: "나시 ex",
         "zh-tw": "椰蛋樹ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Exeggcute",
         "de": "Owei",
         "pt-br": "Exeggcute",
-        "zh-tw": "蛋蛋"
+        "zh-tw": "蛋蛋",
+        ja: "タマタマ"
     },
     suffix: "EX",
     attacks: [{
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Tropicolpo",
                 de: "Tropenschwung",
                 'pt-br': "Balanço Tropical",
+                ja: "トロピカルスイング",
                 ko: "트로피컬스윙",
                 "zh-tw": "熱帶鞦韆"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、40ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。"
             },

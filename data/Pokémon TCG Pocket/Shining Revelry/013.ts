@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/013"
     },
     name: {
         en: "Paldean Tauros",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tauros di Paldea",
         de: "Paldea-Tauros",
         'pt-br': "Tauros de Paldea",
+        ja: "パルデアケンタロス",
         ko: "팔데아켄타로스",
         "zh-tw": "帕底亞肯泰羅"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le corna arroventate dalla sua energia\nFuoco raggiungono i 1.000 ºC e causano\nal nemico trafitto sia ferite che ustioni.",
         de: "Seine Hörner erreichen mithilfe von Feuer-Energie\n1000 ºC. Spießt es damit Gegner auf, so erleiden\ndiese Verletzungen und Verbrennungen.",
         'pt-br': "Quando aquecido por energia de fogo, seus chifres podem\nchegar a mais de 980 ºC. Aqueles que forem atacados\npor eles sofrerão com feridas e queimaduras.",
+        ja: "炎のエネルギーで 熱した ツノは 摂氏1000度になり 突き刺された 敵は 傷と 火傷に 苦しむ。",
         ko: "불꽃 에너지로 가열된 뿔은\n섭씨 1000도에 달하며, 뿔에 찔린 상대는\n상처와 화상에 고통받게 된다.",
         "zh-tw": "當被火能量加熱時，它的角的溫度會超過 1,800 華氏度。被它們刺傷的人會受傷和燒傷。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Assalto Infuocato",
             de: "Flammender Tackle",
             'pt-br': "Investida Incendiária",
+            ja: "ブレイズタックル",
             ko: "블레이즈태클",
             "zh-tw": "烈焰鏟球"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Questo Pokémon infligge anche 10 danni a se stesso.",
             de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
             'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+            ja: "このポケモンにも10ダメージ。",
             ko: "이 포켓몬에게도 10데미지를 준다.",
             "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
         }

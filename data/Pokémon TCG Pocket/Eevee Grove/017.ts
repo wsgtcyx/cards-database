@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/017"
     },
     name: {
         en: "Glaceon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Glaziola",
         "pt-br": "Glaceon",
         "zh-tw": "冰伊布",
+        ja: "グレイシア",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Può controllare la temperatura corporea a piacimento.\nCiò gli consente di congelare l'umidità nel\natmosfera, creando raffiche di polvere di diamante.",
         "de": "Es kann seine Körpertemperatur nach Belieben steuern.\nDadurch kann die Feuchtigkeit im Inneren gefrieren\nAtmosphäre, die Wirbel aus Diamantstaub erzeugt.",
         "pt-br": "Ele pode controlar a temperatura corporal à vontade.\nIsso permite congelar a umidade no\natmosfera, criando rajadas de pó de diamante.",
-        "zh-tw": "它可以隨意控制自己的體溫。\n這使得它能夠凍結內部的水分\n大氣層，產生鑽石塵埃。"
+        "zh-tw": "它可以隨意控制自己的體溫。\n這使得它能夠凍結內部的水分\n大氣層，產生鑽石塵埃。",
+        ja: "体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Lama di ghiaccio",
                 "de": "Eisklinge",
                 "pt-br": "Lâmina de Gelo",
-                "zh-tw": "冰刃"
+                "zh-tw": "冰刃",
+                ja: "こおりのやいば"
             },
             cost: ["Water", "Water"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 50 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
+                ja: "相手のポケモン1匹に50ダメージ。"
             }
         }],
     weaknesses: [{

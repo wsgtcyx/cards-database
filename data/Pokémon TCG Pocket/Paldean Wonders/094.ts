@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/094",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/094"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/094"
     },
     name: {
         en: "Fuecoco",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Krokel",
         "pt-br": "Fuecoco",
         "zh-tw": "呆火鱷",
+        ja: "ホゲータ",
         pt: "Fuecoco"
     },
     illustrator: "Shimaris Yukichi",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "La sua sacca di fiamme è piccola, quindi l'energia fuoriesce continuamente. Questa energia viene rilasciata dall'ammaccatura in cima alla testa di Fuecoco e lampeggia avanti e indietro.",
         "de": "Sein Flammensack ist klein, sodass ständig Energie austritt. Diese Energie wird von der Delle auf dem Kopf von Krokel freigesetzt und flackert hin und her.",
         "pt-br": "Seu saco de chamas é pequeno, então a energia está sempre vazando. Essa energia é liberada da marca no topo da cabeça de Fuecoco e oscila para frente e para trás.",
-        "zh-tw": "它的火囊很小，所以能量總是在洩漏。這種能量從呆火鱷頭部頂部的凹痕中釋放出來，並來回閃爍。"
+        "zh-tw": "它的火囊很小，所以能量總是在洩漏。這種能量從呆火鱷頭部頂部的凹痕中釋放出來，並來回閃爍。",
+        ja: "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。"
     },
     stage: "Basic",
     attacks: [{
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Canto allegro",
                 "de": "Fröhlicher Gesang",
                 "pt-br": "Canto alegre",
-                "zh-tw": "歡快的歌聲"
+                "zh-tw": "歡快的歌聲",
+                ja: "ようきにうたう"
             },
             cost: ["Colorless"],
             effect: {
@@ -56,6 +60,7 @@ const card: Card = {
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
                 "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。",
+                ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
                 ko: "자신의 덱에서 기본 포켓몬eul_reul 랜덤으로 1장 벤치로 내보낸다."
             }
         }],

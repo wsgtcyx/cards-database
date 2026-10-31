@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/070"
     },
     name: {
         en: "Sableye",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sableye",
         de: "Zobiris",
         'pt-br': "Sableye",
+        ja: "ヤミラミ",
         ko: "깜까미",
         "zh-tw": "勾魂眼",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si costruisce la tana in grotte oscure e utilizza gli\nartigli affilati per estrarre le gemme di cui si nutre.",
         de: "Es haust in düsteren Höhlen, wo es mit seinen\nspitzen Klauen Edelsteine ausgräbt und verspeist.",
         'pt-br': "Ele habita a escuridão das cavernas. Ele usa suas garras\nafiadas para cavar pedras preciosas para se alimentar.",
+        ja: "暗い 洞窟に 住処を 作り 鋭い ツメを 使って 宝石を 掘り出しては 食べる。",
         ko: "어두운 동굴에 거처를 만들고\n예리한 손톱을 써서\n보석을 파내어 먹는다.",
         "zh-tw": "它居住在黑暗的洞穴中。它用鋒利的爪子挖掘寶石來滋養自己。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Trappola",
                 de: "Bedrängen",
                 'pt-br': "Quina",
+                ja: "おいつめる",
                 ko: "몰아붙이기",
                 "zh-tw": "角落"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 'pt-br': "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
             }

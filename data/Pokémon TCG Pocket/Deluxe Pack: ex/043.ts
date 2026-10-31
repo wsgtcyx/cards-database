@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/043",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/043",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/043",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/043"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/043",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/043"
 	},
 	name: {
 		en: "Dhelmise ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Dhelmise-ex",
 		de: "Moruda-ex",
 		"pt-br": "Dhelmise ex",
-		"zh-tw": "破破舵輪ex"
+		"zh-tw": "破破舵輪ex",
+		ja: "ダダリンex"
 	},
 	illustrator: "PLANETA Tsuji",
 	rarity: "Four Diamond",
@@ -37,6 +39,7 @@ const card: Card = {
 				it: "Colpo d'Ancora",
 				de: "Ankerschuss",
 				"pt-br": "Tiro de Âncora",
+				ja: "アンカーショット",
 				ko: "앵커샷",
 				"zh-tw": "錨定射擊"
 			},
@@ -49,6 +52,7 @@ const card: Card = {
 				it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
 				de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
 				"pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+				ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
 				ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
 				"zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
 			}

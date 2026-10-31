@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/192",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/192",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/192"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/192",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/192"
     },
     name: {
         en: "Hisuian Zoroark ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Hisui-Zorua",
         "pt-br": "Zorua de Hisui",
         "zh-tw": "洗翠索羅亞",
-        ja: "Hisuian Zorua",
+        ja: "ヒスイゾロア",
         ko: "Hisuian Zorua"
     },
     stage: "Stage1",
@@ -60,7 +61,7 @@ const card: Card = {
                 de: "Tückisches Trugbild",
                 "pt-br": "Ilusão Rancorosa",
                 "zh-tw": "怨恨幻影",
-                ja: "Spiteful Illusion",
+                ja: "うらみのげんえい",
                 ko: "Spiteful Illusion"
             },
             effect: {
@@ -71,7 +72,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes Pokémon auf deinem Ablagestapel 20 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon na sua pilha de descarte.",
                 "zh-tw": "增加自己的棄牌區的寶可夢卡的張數×20點傷害。",
-                ja: "This attack does 20 more damage for each Pokémon in your discard pile.",
+                ja: "自分のトラッシュにあるポケモンの枚数×20ダメージ追加。",
                 ko: "This attack does 20 more damage for each Pokémon in your discard pile."
             },
             damage: "80+"

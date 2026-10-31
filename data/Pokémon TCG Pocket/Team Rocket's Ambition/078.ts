@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/078",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/078",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/078"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/078"
     },
     name: {
         en: "Lechonk",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si nutre esclusivamente del cibo più pregiato. Il suo corpo emette un odore di erbe che i Pokémon Coleottero detestano.",
         de: "Es nimmt nur erlesene Kost zu sich. Sein Körper sondert einen kräuterartigen Geruch ab, den Käfer-Pokémon abstoßend finden.",
         "pt-br": "Este Pokémon rejeita todos os alimentos, exceto os melhores. Seu corpo exala um cheiro de erva que os Pokémon inseto detestam.",
-        "zh-tw": "只吃精挑細選過的食物。蟲寶可夢很討厭牠身上散發的那種聞起來像是香草的氣味。"
+        "zh-tw": "只吃精挑細選過的食物。蟲寶可夢很討厭牠身上散發的那種聞起來像是香草的氣味。",
+        ja: "選りすぐりの エサしか 食べない。 体から 虫ポケモンが 嫌う ハーブのような 香りを 放つ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭錘"
+                "zh-tw": "頭錘",
+                ja: "ずつき"
             },
             damage: 30
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/052"
     },
     name: {
         en: "Quagsire",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Morlord",
         "pt-br": "Quagsire",
         "zh-tw": "沼王",
+        ja: "ヌオー",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Felino",
         "pt-br": "Wooper",
         "zh-tw": "烏波",
+        ja: "ウパー",
     },
     description: {
         en: "It has an easygoing nature. It doesn't care if it\nbumps its head on boats and boulders\nwhile swimming.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha un carattere accomodante. Non importa se lo è\nsbatte la testa contro barche e massi\nmentre nuotava.",
         "de": "Es hat eine lockere Natur. Es ist egal, ob es so ist\nstößt mit dem Kopf gegen Boote und Felsbrocken\nbeim Schwimmen.",
         "pt-br": "Tem uma natureza descontraída. Não importa se\nbate a cabeça em barcos e pedras\nenquanto nadava.",
-        "zh-tw": "它有一種隨和的性格。它不在乎是否\n頭撞到船隻和巨石上\n游泳時。"
+        "zh-tw": "它有一種隨和的性格。它不在乎是否\n頭撞到船隻和巨石上\n游泳時。",
+        ja: "船底や 川の岩に 頭を ぶつけまくっても 気にせず 気ままに 泳いでいる のんきな ポケモン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Navigare",
                 "de": "Surfen",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 80,
             cost: ["Water", "Water", "Colorless"]

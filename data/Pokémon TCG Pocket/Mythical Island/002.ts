@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/002"
     },
     name: {
         en: "Exeggutor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggutor",
         de: "Kokowei",
         'pt-br': "Exeggutor",
+        ja: "ナッシー",
         ko: "나시",
         "zh-tw": "椰蛋樹"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Owei",
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
+        ja: "タマタマ",
     },
     description: {
         en: "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Le sue tre teste ragionano in\nmodo indipendente. Sembra\nche ciascuna pensi solo a sé.",
         de: "Jeder der drei Köpfe hat einen\neigenen Willen und scheint sich\nnur für sich selbst zu interessieren.",
         'pt-br': "Cada uma das três cabeças de Exeggutor está\npensando em coisas diferentes. Elas não parecem\nse interessar umas pelas outras.",
+        ja: "３つの 頭は べつのことを 考えている。 自分以外は あまり 興味がない ようだ。",
         ko: "3개의 머리는 서로 다른\n생각을 하고 있다. 자신 외에는\n별로 흥미가 없는 듯하다.",
         "zh-tw": "椰蛋樹的三個腦袋分別在思考著不同的想法。三人似乎對彼此都不太感興趣。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스",
                 "zh-tw": "精神"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
             }

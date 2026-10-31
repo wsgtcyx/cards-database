@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/013"
     },
     name: {
         en: "Kricketot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kricketot",
         de: "Zirpurze",
         'pt-br': "Kricketot",
+        ja: "コロボーシ",
         ko: "귀뚤뚜기",
         "zh-tw": "圓法師",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando inciampa con le sue zampe corte, le antenne si\nurtano producendo un suono simile a quello di uno xilofono.",
         de: "Seine Beine sind kurz. Stolpert es, reiben seine\nstarren Antennen aneinander und klingen dabei\nwie ein Xylofon.",
         'pt-br': "Suas pernas são curtas. Sempre que ele tropeça,\nsuas pomposas antenas estalam com um som\nparecido com um xilofone.",
+        ja: "足が 短く こけそうになるたび 硬い 触角が こすれあって 木琴のような 音が 響く。",
         ko: "다리가 짧아 넘어지려고 할 때마다\n단단한 더듬이가 서로 비벼져서\n실로폰 같은 소리가 울린다.",
         "zh-tw": "它的腿很短。每當它絆倒時，它僵硬的觸角就會發出木琴般的聲音。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Coleomorso",
                 de: "Käferbiss",
                 'pt-br': "Picada",
+                ja: "むしくい",
                 ko: "벌레먹기",
                 "zh-tw": "蟲咬"
             },

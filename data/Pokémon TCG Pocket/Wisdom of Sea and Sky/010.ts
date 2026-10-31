@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/010"
     },
     name: {
         en: "Meganium",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Meganie",
         "pt-br": "Meganium",
         "zh-tw": "大竺葵",
+        ja: "メガニウム",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Bayleef",
         "de": "Lorblatt",
         "pt-br": "Bayleef",
-        "zh-tw": "月桂葉"
+        "zh-tw": "月桂葉",
+        ja: "ベイリーフ"
     },
     description: {
         en: "The aroma that rises from its petals contains a\nsubstance that calms aggressive feelings.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "L'aroma che sale dai suoi petali contiene a\nsostanza che calma i sentimenti aggressivi.",
         "de": "Das Aroma, das aus seinen Blütenblättern aufsteigt, enthält u. a\nSubstanz, die aggressive Gefühle beruhigt.",
         "pt-br": "O aroma que sobe de suas pétalas contém uma\nsubstância que acalma sentimentos agressivos.",
-        "zh-tw": "從花瓣中升起的香氣含有\n平息攻擊性情緒的物質。"
+        "zh-tw": "從花瓣中升起的香氣含有\n平息攻擊性情緒的物質。",
+        ja: "花びらから 発散される においには 争う 気持ちを 静める 成分が 含まれる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Splendida fioritura",
                 "de": "Bloomshine",
                 "pt-br": "Brilho",
-                "zh-tw": "布盧姆希恩"
+                "zh-tw": "布盧姆希恩",
+                ja: "ブルームシャイン"
             },
             damage: 80,
             cost: ["Grass", "Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura 20 danni da ciascuno dei tuoi Pokémon.",
                 "de": "Heile 20 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Cure 20 pontos de dano de cada um dos seus Pokémon.",
-                "zh-tw": "治療每隻神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療每隻神奇寶貝造成的 20 點傷害。",
+                ja: "自分のポケモン全員のHPを20回復。"
             }
         }],
     weaknesses: [{

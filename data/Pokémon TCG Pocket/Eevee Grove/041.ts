@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/041"
     },
     name: {
         en: "Mienshao",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wie-Shu",
         "pt-br": "Mienshao",
         "zh-tw": "師父鼬",
+        ja: "コジョンド",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
+        ja: "コジョフー",
     },
     description: {
         en: "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando Mienshao si imbatte in una situazione davvero impegnativa\navversario, si alleggerirà mordendo via il\npelliccia sulle braccia.",
         "de": "Wenn Mienshao auf eine wirkliche Herausforderung stößt\nGegner, es wird sich leichter machen, indem es abbeißt\nFell auf den Armen.",
         "pt-br": "Quando Mienshao se depara com um desafio verdadeiramente desafiador\noponente, ele se aliviará mordendo o\npelos nos braços.",
-        "zh-tw": "當面哨遇到真正具有挑戰性的事情時\n對手，它會通過咬掉對手來減輕自己的重量\n手臂上有毛。"
+        "zh-tw": "當面哨遇到真正具有挑戰性的事情時\n對手，它會通過咬掉對手來減輕自己的重量\n手臂上有毛。",
+        ja: "真の 強敵と 会うと 身軽に なるため 両手の 毛を 噛み千切り 捨ててしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio basso",
                 "de": "Niedriger Tritt",
                 "pt-br": "Chute baixo",
-                "zh-tw": "低踢"
+                "zh-tw": "低踢",
+                ja: "けたぐり"
             },
             damage: 70,
             cost: ["Fighting", "Fighting"]

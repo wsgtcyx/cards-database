@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/029"
     },
     name: {
         en: "Typhlosion",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tornupto",
         "pt-br": "Typhlosion",
         "zh-tw": "火爆獸",
+        ja: "バクフーン",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Igelavar",
         "pt-br": "Quilava",
         "zh-tw": "火岩鼠",
+        ja: "マグマラシ",
     },
     description: {
         en: "If its rage peaks, it becomes so hot that anything\nthat touches it will instantly go up in flames.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Se la sua rabbia raggiunge il picco, diventa così caldo che qualsiasi cosa\nchi lo tocca andrà immediatamente in fiamme.",
         "de": "Wenn seine Wut ihren Höhepunkt erreicht, wird es so heiß, dass nichts mehr passiert\nWer es berührt, geht sofort in Flammen auf.",
         "pt-br": "Se a sua raiva atingir o pico, fica tão quente que qualquer coisa\nque o tocar irá pegar fogo instantaneamente.",
-        "zh-tw": "如果它的憤怒達到頂峰，它會變得如此灼熱，以至於任何東西\n觸碰到它就會立刻燃燒起來。"
+        "zh-tw": "如果它的憤怒達到頂峰，它會變得如此灼熱，以至於任何東西\n觸碰到它就會立刻燃燒起來。",
+        ja: "怒りが 最高潮のとき 触ったもの すべて 一瞬で 燃え上がらせるほどに 熱い。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Respiro di fuoco",
                 "de": "Feueratem",
                 "pt-br": "Sopro de Fogo",
-                "zh-tw": "火息"
+                "zh-tw": "火息",
+                ja: "バーニングブレス"
             },
             effect: {
                 en: "Once during your turn, you may make your opponent's Active Pokémon Burned.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi far bruciare il Pokémon attivo del tuo avversario.",
                 "de": "Einmal während deines Zuges kannst du das Aktive Pokémon deines Gegners verbrennen lassen.",
                 "pt-br": "Uma vez durante o seu turno, você pode fazer com que o Pokémon Ativo do seu oponente seja Queimado.",
-                "zh-tw": "在你的回合中，你可以使對手的活躍寶可夢燃燒一次。"
+                "zh-tw": "在你的回合中，你可以使對手的活躍寶可夢燃燒一次。",
+                ja: "自分の番に1回使える。相手のバトルポケモンをやけどにする。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Pugno di magma",
                 "de": "Magma-Schlag",
                 "pt-br": "Soco de Magma",
-                "zh-tw": "岩漿沖床"
+                "zh-tw": "岩漿沖床",
+                ja: "マグマパンチ"
             },
             damage: 60,
             cost: ["Fire", "Fire"]

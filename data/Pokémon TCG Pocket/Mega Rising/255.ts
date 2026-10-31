@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/255",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/255",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/255",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/255"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/255",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/255"
     },
     name: {
         en: "Mega Gyarados ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mega-Garados-ex",
         "pt-br": "Mega Gyarados ex",
         "zh-tw": "超級暴鯉龍ex",
+        ja: "メガギャラドスex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     description: {
         en: "Mega Evolution also affects its brain, leaving\nno other function except its destructive instinct\nto burn everything to cinders.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La megaevoluzione colpisce anche il suo cervello, uscendone\nnessun'altra funzione tranne il suo istinto distruttivo\nridurre tutto in cenere.",
         "de": "Mega Evolution beeinflusst auch sein Gehirn und verlässt es\nkeine andere Funktion außer seinem Zerstörungsinstinkt\nalles zu Asche verbrennen.",
         "pt-br": "A Mega Evolução também afeta seu cérebro, deixando\nnenhuma outra função exceto seu instinto destrutivo\nqueimar tudo em cinzas.",
-        "zh-tw": "超級進化也會影響它的大腦，留下\n除了破壞本能之外沒有其他功能\n把一切都燒成灰燼。"
+        "zh-tw": "超級進化也會影響它的大腦，留下\n除了破壞本能之外沒有其他功能\n把一切都燒成灰燼。",
+        ja: "メガシンカが 脳にも 作用。 すべてを 焼き尽す 破壊の 本能しか 残っていない。"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Megablaster",
                 "de": "Mega-Blaster",
                 "pt-br": "Mega Blaster",
-                "zh-tw": "超級衝擊波"
+                "zh-tw": "超級衝擊波",
+                ja: "メガブラスター"
             },
             damage: 140,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Scarta le prime 3 carte del mazzo del tuo avversario.",
                 "de": "Wirf die obersten 3 Karten des Decks deines Gegners ab.",
                 "pt-br": "Descarte as 3 primeiras cartas do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂的 3 張牌。"
+                "zh-tw": "丟棄對手牌組頂的 3 張牌。",
+                ja: "相手の山札を上から3枚トラッシュ。"
             }
         }],
     weaknesses: [{

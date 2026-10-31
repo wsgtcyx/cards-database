@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/275",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/275",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/275",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/275"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/275",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/275"
     },
     name: {
         en: "Articuno ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Articuno-ex",
         de: "Arktos-ex",
         'pt-br': "Articuno ex",
+        ja: "フリーザーex",
         ko: "프리져 ex",
         "zh-tw": "急凍鳥ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Alagelata",
                 de: "Frostschwinge",
                 'pt-br': "Asa de Gelo",
+                ja: "アイスウイング",
                 ko: "아이스윙",
                 "zh-tw": "冰翼"
             },
@@ -49,6 +52,7 @@ const card: Card = {
                 it: "Bora",
                 de: "Blizzard",
                 'pt-br': "Nevasca",
+                ja: "ふぶき",
                 ko: "눈보라",
                 "zh-tw": "暴風雪"
             },
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン全員にも10ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
                 "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
             },

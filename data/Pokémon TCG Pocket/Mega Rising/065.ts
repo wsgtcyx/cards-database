@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/065"
     },
     name: {
         en: "Seismitoad",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Branawarz",
         "pt-br": "Seismitoad",
         "zh-tw": "蟾蜍王",
+        ja: "ガマゲロゲ",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Mebrana",
         "pt-br": "Palpitoad",
         "zh-tw": "藍蟾蜍",
+        ja: "ガマガル",
     },
     description: {
         en: "This Pokémon is popular among the elderly,\nwho say the vibrations of its lumps are great\nfor massages.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon è popolare tra gli anziani,\nche dicono che le vibrazioni dei suoi grumi sono grandi\nper i massaggi.",
         "de": "Dieses Pokémon ist bei älteren Menschen beliebt,\ndie sagen, dass die Vibrationen seiner Klumpen großartig sind\nfür Massagen.",
         "pt-br": "Este Pokémon é popular entre os idosos,\nque dizem que as vibrações de seus pedaços são ótimas\npara massagens.",
-        "zh-tw": "這個神奇寶貝很受老年人歡迎，\n誰說它的塊體振動很大\n用於按摩。"
+        "zh-tw": "這個神奇寶貝很受老年人歡迎，\n誰說它的塊體振動很大\n用於按摩。",
+        ja: "コブが 起こす バイブレーションが マッサージに 良いと 老人に 大人気の ポケモンだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Punzone a spirale diviso",
                 "de": "Geteilter Spiralstanzer",
                 "pt-br": "Perfurador Espiral Dividido",
-                "zh-tw": "分體式螺旋沖頭"
+                "zh-tw": "分體式螺旋沖頭",
+                ja: "ぐるぐるパンチ"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

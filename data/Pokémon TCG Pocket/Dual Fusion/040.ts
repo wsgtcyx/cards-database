@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/040",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/040",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/040"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/040"
     },
     name: {
         en: "Froakie",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Klaps",
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
-                ja: "Pound",
+                ja: "はたく",
                 ko: "Pound"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Es wirkt unbekümmert, doch damit täuscht es nur Gegner, um sie dann plötzlich mit unbegreiflicher Geschwindigkeit zu überwältigen.",
         "pt-br": "Seu ar alegre e despreocupado é uma farsa para enganar seus oponentes. De repente, abandona a fachada e os atordoa com sua velocidade ofuscante.",
         "zh-tw": "看起來悠哉的樣子其實是欺騙敵人的演技。會冷不防地用迅雷不及掩耳的速度壓制敵人。",
-        ja: "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.",
+        ja: "呑気に 見えるが 敵を 欺く 演技。 一転 目にも留まらない スピードで 敵を 圧倒する。",
         ko: "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed."
     }
 };

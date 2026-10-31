@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/098"
     },
     name: {
         en: "Mamoswine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mamutel",
         "pt-br": "Mamoswine",
         "zh-tw": "象牙豬",
+        ja: "マンムー",
     },
     illustrator: "Uta",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Keifel",
         "pt-br": "Piloswine",
         "zh-tw": "長毛豬",
+        ja: "イノムー",
     },
     description: {
         en: "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon può essere visto nei dipinti murali\nrisalenti a 10.000 anni fa. Per un\nmentre si pensava si fosse estinto.",
         "de": "Dieses Pokémon kann auf Wandgemälden entdeckt werden\nbereits vor 10.000 Jahren. Für einen\nWährenddessen galt es als ausgestorben.",
         "pt-br": "Este Pokémon pode ser visto em pinturas de parede\ndesde há 10.000 anos. Por um\nenquanto, pensava-se que estava extinto.",
-        "zh-tw": "這種神奇寶貝可以在壁畫中看到\n追溯到一萬年前。對於一個\n同時，人們認為它已經滅絕了。"
+        "zh-tw": "這種神奇寶貝可以在壁畫中看到\n追溯到一萬年前。對於一個\n同時，人們認為它已經滅絕了。",
+        ja: "１万年前の 壁画にも 描かれている。 絶滅したと 考えられていた 時期もある。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Terremoto",
                 "de": "Erdbeben",
                 "pt-br": "Terremoto",
-                "zh-tw": "地震"
+                "zh-tw": "地震",
+                ja: "じしん"
             },
             damage: 160,
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 20 danni a ciascuno dei tuoi Pokémon in panchina.",
                 "de": "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你的每隻後備神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊還會對你的每隻後備神奇寶貝造成 20 點傷害。",
+                ja: "自分のベンチポケモン全員にも20ダメージ。"
             }
         }],
     weaknesses: [{

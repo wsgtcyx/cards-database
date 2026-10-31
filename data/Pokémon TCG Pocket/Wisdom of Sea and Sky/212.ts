@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/212",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/212"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/212"
     },
     name: {
         en: "Yanma",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Yanma",
         "pt-br": "Yanma",
         "zh-tw": "蜻蜻蜓",
+        ja: "ヤンヤンマ",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I suoi occhi possono vedere a 360 gradi senza muoverli\ntesta. Non mancherà la preda, nemmeno quelle dietro di lui.",
         "de": "Seine Augen können 360 Grad sehen, ohne ihn zu bewegen\nKopf. Es wird seine Beute nicht verfehlen – auch nicht die hinter ihm.",
         "pt-br": "Seus olhos podem ver 360 graus sem mover os olhos.\ncabeça. Ele não sentirá falta de uma presa, mesmo daqueles que estão por trás dele.",
-        "zh-tw": "它的眼睛不用移動就能看到360度\n頭。它不會錯過獵物——甚至是獵物背後的獵物。"
+        "zh-tw": "它的眼睛不用移動就能看到360度\n頭。它不會錯過獵物——甚至是獵物背後的獵物。",
+        ja: "顔を 動かさずに ３６０度 すべてを 見渡す 目を 持つので 真後ろの 獲物も 見逃さない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Inversione di marcia",
                 "de": "Kehrtwende",
                 "pt-br": "Retorno",
-                "zh-tw": "調頭"
+                "zh-tw": "調頭",
+                ja: "とんぼがえり"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

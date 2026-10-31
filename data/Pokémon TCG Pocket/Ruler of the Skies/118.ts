@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/118",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/118",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/118"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/118"
     },
     name: {
         en: "Dragonite",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nonostante la stazza, è in grado di volare.\nPuò compiere il giro del mondo in 16 ore.",
         de: "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden.",
         "pt-br": "Ele pode voar apesar de seu físico grande e volumoso. Ele circunda o globo em apenas 16 horas.",
-        "zh-tw": "儘管體型龐大，但它仍能飛。只需 16 小時即可繞地球一圈。"
+        "zh-tw": "儘管體型龐大，但它仍能飛。只需 16 小時即可繞地球一圈。",
+        ja: "大きな 体格で 空を 飛ぶ。 地球を 約１６時間で １周してしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Iper Raggio",
                 de: "Hyperstrahl",
                 "pt-br": "Hiper-raio",
-                "zh-tw": "破壞光線"
+                "zh-tw": "破壞光線",
+                ja: "はかいこうせん"
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。"
+                "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
+                ja: "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
             },
             damage: 110
         }

@@ -193,7 +193,9 @@ function parseOptionalBoolean(value: unknown): boolean | undefined {
 function normalizeSearchText(value: unknown): string {
 	return String(value ?? '')
 		.normalize('NFKD')
-		.replace(/[\u0300-\u036f]/g, '')
+		.replace(/(?<=\p{Script=Latin})\p{M}+/gu, '')
+		.normalize('NFC')
+		.replace(/[\u30a1-\u30f6]/g, char => String.fromCharCode(char.charCodeAt(0) - 0x60))
 		.toLocaleLowerCase()
 		.replace(/[^\p{L}\p{N}]+/gu, ' ')
 		.trim()

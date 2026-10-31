@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/010"
     },
     name: {
         en: "Beedrill ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bibor-ex",
         "pt-br": "Beedrill ex",
         "zh-tw": "大針蜂ex",
+        ja: "スピアーex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kokuna",
         "pt-br": "Kakuna",
         "zh-tw": "鐵殼蛹",
+        ja: "コクーン",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Lancia schiacciante",
                 "de": "Zerschmetternder Speer",
                 "pt-br": "Lança Esmagadora",
-                "zh-tw": "粉碎矛"
+                "zh-tw": "粉碎矛",
+                ja: "クラッシュスピア"
             },
             damage: 80,
             cost: ["Grass", "Grass"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
             }
         }],
     weaknesses: [{

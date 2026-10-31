@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/038"
     },
     name: {
         en: "Poliwag",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quapsel",
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
+        ja: "ニョロモ",
     },
     illustrator: "Asako Ito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Per Poliwag nuotare è più facile che camminare.\nIl motivo a vortice sulla sua pancia ne è in realtà parte\nle viscere del Pokémon si vedono attraverso la pelle.",
         "de": "Für Poliwag ist Schwimmen einfacher als Gehen.\nDas Wirbelmuster auf seinem Bauch ist tatsächlich ein Teil davon\nDie Innereien des Pokémon sind durch die Haut sichtbar.",
         "pt-br": "Para Poliwag, nadar é mais fácil do que caminhar.\nO padrão de redemoinho em sua barriga é na verdade parte\nas entranhas do Pokémon aparecendo através da pele.",
-        "zh-tw": "對於 Poliwag 來說，游泳比走路更容易。\n它腹部的漩渦圖案實際上是\n神奇寶貝的內臟透過皮膚顯現出來。"
+        "zh-tw": "對於 Poliwag 來說，游泳比走路更容易。\n它腹部的漩渦圖案實際上是\n神奇寶貝的內臟透過皮膚顯現出來。",
+        ja: "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

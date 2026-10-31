@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/237",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/237",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/237",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/237"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/237",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/237"
     },
     name: {
         en: "Paldean Wooper",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Paldea-Felino",
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
+        ja: "パルデアウパー",
     },
     illustrator: "Mori Yuu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Dopo aver perso una lotta territoriale, Wooper iniziò\nvivere sulla terra. I Pokémon sono cambiati nel tempo,\nsviluppando una pellicola velenosa per proteggere il suo corpo.",
         "de": "Nachdem er einen Territorialkampf verloren hatte, begann Wooper\nLeben an Land. Das Pokémon hat sich im Laufe der Zeit verändert,\nEs entwickelt einen Giftfilm, um seinen Körper zu schützen.",
         "pt-br": "Depois de perder uma luta territorial, Wooper começou\nvivendo na terra. O Pokémon mudou com o tempo,\ndesenvolvendo uma película venenosa para proteger seu corpo.",
-        "zh-tw": "在領土爭奪戰失敗後，伍珀開始\n生活在陸地上。神奇寶貝隨著時間的推移而改變，\n形成一層有毒的薄膜來保護它的身體。"
+        "zh-tw": "在領土爭奪戰失敗後，伍珀開始\n生活在陸地上。神奇寶貝隨著時間的推移而改變，\n形成一層有毒的薄膜來保護它的身體。",
+        ja: "縄張り争いに 敗れて 陸で 暮らすうちに 毒の 粘膜で 体を 保護するように 変わった。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di veleno",
                 "de": "Giftstoß",
                 "pt-br": "Golpe Venenoso",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒刺",
+                ja: "どくづき"
             },
             damage: 10,
             cost: ["Darkness"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/002",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/002",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/002"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/002"
     },
     name: {
         en: "Petilil",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se le foglie sulla sua testa vengono potate regolarmente, questo Pokémon può crescere fino ad assumere una forma bella e paffuta.",
         de: "Wenn die Blätter auf seinem Kopf regelmäßig beschnitten werden, kann dieses Pokémon zu einer schönen, prallen Form heranwachsen.",
         "pt-br": "Se as folhas de sua cabeça forem podadas com regularidade, este Pokémon pode crescer e adquirir uma forma rechonchuda e fina.",
-        "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。"
+        "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。",
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco a Sorpresa",
                 de: "Überraschungsangriff",
                 "pt-br": "Ataque Surpresa",
-                "zh-tw": "偷襲"
+                "zh-tw": "偷襲",
+                ja: "ふいをつく"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 30
         }

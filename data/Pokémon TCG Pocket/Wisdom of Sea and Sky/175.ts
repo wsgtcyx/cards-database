@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/175",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/175"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/175",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/175"
     },
     name: {
         en: "Wobbuffet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Woingenau",
         "pt-br": "Wobbuffet",
         "zh-tw": "果然翁",
+        ja: "ソーナンス",
     },
     illustrator: "GOTO minori",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Odia la luce e lo shock. Se attaccato, si gonfia\ncorpo per potenziare il suo contrattacco.",
         "de": "Es hasst Licht und Schock. Wenn es angegriffen wird, bläht es sich auf\nKörper, um seinen Gegenschlag zu verstärken.",
         "pt-br": "Ele odeia luz e choque. Se atacado, ele infla seu\ncorpo para bombear seu contra-ataque.",
-        "zh-tw": "它討厭光和震動。如果受到攻擊，它會膨脹\n身體來發動反擊。"
+        "zh-tw": "它討厭光和震動。如果受到攻擊，它會膨脹\n身體來發動反擊。",
+        ja: "光や ショックを 嫌う。 攻撃されると 体が ふくらみ 反撃が 強力に なる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rispondi con forza",
                 "de": "Antworte mit Nachdruck",
                 "pt-br": "Responder com firmeza",
-                "zh-tw": "強烈回复"
+                "zh-tw": "強烈回复",
+                ja: "つよめにかえす"
             },
             damage: "30+",
             cost: ["Psychic", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è stato danneggiato da un attacco durante l'ultimo turno del tuo avversario mentre era in posizione attiva, questo attacco infligge 50 danni in più.",
                 "de": "Wenn dieses Pokémon im letzten Zug deines Gegners durch einen Angriff beschädigt wurde, während es sich an der aktiven Stelle befand, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon foi danificado por um ataque durante o último turno do seu oponente enquanto ele estava no Ponto Ativo, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝在對手的最後一個回合中受到攻擊而受到傷害，則該攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果這只神奇寶貝在對手的最後一個回合中受到攻擊而受到傷害，則該攻擊造成的傷害增加 50 點。",
+                ja: "前の相手の番、このポケモンがバトル場でワザのダメージを受けていたなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

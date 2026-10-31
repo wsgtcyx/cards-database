@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/208",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/208",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/208"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/208",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/208"
     },
     name: {
         en: "Future Booster Energy Capsule",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Die Attacken des Pokémon aus der Zukunft, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners +20 Schadenspunkte zu.",
         "pt-br": "Os ataques usados pelo Pokémon Futurista ao qual esta carta está ligada causam +20 pontos de dano ao Pokémon Ativo do seu oponente.",
         "zh-tw": "附有這張卡的「未來」寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。",
-        ja: "Attacks used by the Future Pokémon this card is attached to do +20 damage to your opponent's Active Pokémon.",
+        ja: "このカードをつけている「未来」のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。",
         ko: "Attacks used by the Future Pokémon this card is attached to do +20 damage to your opponent's Active Pokémon."
     },
     trainerType: "Tool"

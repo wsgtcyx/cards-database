@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/212",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/212",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/212"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/212"
     },
     name: {
         en: "Mega Audino ex",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Herzlicher Glanz",
                 "pt-br": "Brilho Sincero",
                 "zh-tw": "溫馨閃耀",
-                ja: "Heartfelt Shine",
+                ja: "ハートフルシャイン",
                 ko: "Heartfelt Shine"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Heile 30 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Cure 30 pontos de dano de cada um dos seus Pokémon.",
                 "zh-tw": "將自己的所有寶可夢各恢復30HP。",
-                ja: "Heal 30 damage from each of your Pokémon.",
+                ja: "自分のポケモン全員のHPを30回復。",
                 ko: "Heal 30 damage from each of your Pokémon."
             }
         }

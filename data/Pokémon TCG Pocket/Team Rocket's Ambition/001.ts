@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/001",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/001"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/001"
     },
     name: {
         en: "Volbeat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Comunica con i suoi simili grazie alla luce intermittente della coda. Adora il dolce aroma di Illumise.",
         de: "Volbeat kommuniziert mit seinen Artgenossen, indem es mit dem Licht an seinem Hinterteil blinkt. Es liebt den süßen Duft von Illumise.",
         "pt-br": "Pisca a luz em seu traseiro para se comunicar com outros Volbeat. Ama o aroma doce de Illumise.",
-        "zh-tw": "會閃爍臀部的光芒來與夥伴交流。最喜歡甜甜螢放出的甜甜香氣。"
+        "zh-tw": "會閃爍臀部的光芒來與夥伴交流。最喜歡甜甜螢放出的甜甜香氣。",
+        ja: "お尻の 光を 点滅させて 仲間と 会話する。 イルミーゼの 出す 甘い 香りが 大好き。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 30
         }

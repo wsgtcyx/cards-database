@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/062"
     },
     name: {
         en: "Celesteela",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kaguron",
         "pt-br": "Celesteela",
         "zh-tw": "鐵火輝夜",
+        ja: "テッカグヤ",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Uno degli UB pericolosi, letture ad alta energia\npuò essere rilevato proveniente da entrambi\nbraccia enormi.",
         "de": "Einer der gefährlichen UBs, hohe Energiewerte\nkann von beiden erkannt werden\nriesige Arme.",
         "pt-br": "Um dos UBs perigosos, leituras de alta energia\npode ser detectado vindo de ambos os seus\nbraços enormes.",
-        "zh-tw": "危險的 UB 之一，高能量讀數\n可以檢測到來自它的兩個\n巨大的手臂。"
+        "zh-tw": "危險的 UB 之一，高能量讀數\n可以檢測到來自它的兩個\n巨大的手臂。",
+        ja: "危険な ＵＢの 一種。 巨大な 両腕から 高い エネルギー反応を 検出。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Ultra propulsori",
                 "de": "Ultra-Triebwerke",
                 "pt-br": "Ultrapropulsores",
-                "zh-tw": "超級推進器"
+                "zh-tw": "超級推進器",
+                ja: "ウルトラスラスター"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi scambiare la tua Ultracreatura attiva con 1 delle tue Ultracreature in panchina.",
                 "de": "Einmal während deines Zuges darfst du dein aktives Ultrabestie gegen eines deiner Ultrabestien auf der Bank austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar sua Ultra Besta Ativa por 1 de suas Ultra Bestas no Banco.",
-                "zh-tw": "在你的回合中，你可以將你的活躍究極異獸與你的1只後備究極異獸交換。"
+                "zh-tw": "在你的回合中，你可以將你的活躍究極異獸與你的1只後備究極異獸交換。",
+                ja: "自分の番に1回使える。自分のバトル場の「ウルトラビースト」を、ベンチの「ウルトラビースト」と入れ替える。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Moombahton",
                 "de": "Moombahton",
                 "pt-br": "Moombahton",
-                "zh-tw": "蒙巴頓"
+                "zh-tw": "蒙巴頓",
+                ja: "ムーンバートン"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -75,7 +81,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

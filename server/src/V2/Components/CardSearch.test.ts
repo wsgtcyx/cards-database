@@ -2,6 +2,14 @@ import { describe, expect, test } from 'bun:test'
 import { CatalogSearchValidationError, getCardRelations, normalizeCanonicalName, searchCatalogCards } from './CardSearch'
 
 describe('card relations', () => {
+	test('Japanese catalog search folds kana and width while preserving voiced marks', () => {
+		const ids = (q: string) => searchCatalogCards('ja', { q, pageSize: '100' }).items.map(card => card.id)
+		const garchomp = ids('ガブリアス')
+		expect(garchomp.length).toBeGreaterThan(0)
+		expect(ids('がぶりあす')).toEqual(garchomp)
+		expect(ids('ｶﾞﾌﾞﾘｱｽ')).toEqual(garchomp)
+		expect(ids('カフリアス')).toEqual([])
+	})
 	test('normalizes canonical names and returns localized stable relations', () => {
 		expect(normalizeCanonicalName('  Volt\u200B  Charge ')).toBe('volt charge')
 		const english = getCardRelations('en', 'A1-098')!

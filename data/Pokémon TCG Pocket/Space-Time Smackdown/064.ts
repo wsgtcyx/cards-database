@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/064"
     },
     name: {
         en: "Togetic",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Togetic",
         de: "Togetic",
         'pt-br': "Togetic",
+        ja: "トゲチック",
         ko: "토게틱",
         "zh-tw": "波克基古",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Togepi",
         "pt-br": "Togepi",
         "zh-tw": "波克比",
+        ja: "トゲピー",
     },
     description: {
         en: "They say that it will appear before kindhearted, caring people and shower them with happiness.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che appaia alle persone buone\ne premurose, inondandole di felicità.",
         de: "Man sagt, es zeige sich nur gutherzigen und\neinfühlsamen Menschen und überschütte sie\ndann mit Freude.",
         'pt-br': "Diz-se que ele surgirá perante pessoas afetuosas\ne de bom coração para inundá-las de felicidade.",
+        ja: "心優しい 人の 前に 幸せを もたらすため 姿を 現すと 言われている。",
         ko: "마음 착한 사람에게\n행복을 가져다주기 위해\n모습을 드러낸다고 전해진다.",
         "zh-tw": "據說它會出現在善良、有愛心的人面前，給他們帶來幸福。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Vento di Fata",
                 de: "Feenbrise",
                 'pt-br': "Vento de Fada",
+                ja: "ようせいのかぜ",
                 ko: "요정의바람",
                 "zh-tw": "仙風"
             },

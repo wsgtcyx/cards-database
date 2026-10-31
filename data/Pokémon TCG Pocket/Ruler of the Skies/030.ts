@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/030",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/030",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/030"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/030"
     },
     name: {
         en: "Psyduck",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
         de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
-        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。"
+        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Enxaqueca",
                 "zh-tw": "偏頭痛",
                 "it": "Mal di Testa",
-                "de": "Migräne"
+                "de": "Migräne",
+                ja: "へんずつう"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Confuso. Se sair coroa, este Pokémon agora estará Confuso.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢混亂。若為反面,則將這隻寶可夢混亂。",
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso. Se esce croce, questo Pokémon viene confuso.",
-                "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt. Bei Zahl ist dieses Pokémon jetzt verwirrt."
+                "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt. Bei Zahl ist dieses Pokémon jetzt verwirrt.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをこんらんにする。ウラなら、このポケモンをこんらんにする。"
             },
             damage: 10
         }

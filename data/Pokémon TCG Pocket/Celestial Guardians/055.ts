@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/055"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/055"
     },
     name: {
         en: "Bruxish",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bruxish",
         de: "Knirfish",
         'pt-br': "Bruxish",
+        ja: "ハギギシリ",
         ko: "치갈기",
         "zh-tw": "磨牙彩皮魚",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Fa stridere i denti per stimolare il proprio\ncervello e creare così onde psichiche, che\npoi emette dalla protuberanza sulla testa.",
         de: "Es knirscht stark mit den Zähnen, um sein Gehirn\nzu stimulieren. Die dabei erzeugten Psycho-Kräfte\nsetzt es über den Fortsatz an seinem Kopf frei.",
         'pt-br': "Range os dentes com muita força para estimular\no seu cérebro. Lança energia psíquica criada durante\neste processo pela protuberância em sua cabeça.",
+        ja: "強く 歯ぎしり することで 脳を 刺激。 生みだした サイコパワーを 頭の 突起から 撃ち出す。",
         ko: "강하게 이를 갈아서 뇌를 자극한다.\n이를 통해 만들어 낸 사이코 파워를\n머리의 돌기를 통해 발사한다.",
         "zh-tw": "它用很大的力氣磨牙，刺激大腦。它從頭上的突起發射出這一過程中產生的精神能量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 'pt-br': "Onda Borrifante",
+                ja: "スプラッシュ",
                 ko: "스플래시",
                 "zh-tw": "波浪飛濺"
             },

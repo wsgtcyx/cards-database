@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/018",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/018",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/018"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/018"
     },
     name: {
         en: "Sinistcha",
@@ -47,7 +48,8 @@ const card: Card = {
         "it": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede.",
         de: "Es hält sich gern an dunklen und kalten Orten auf wie etwa unter Fußböden oder hinter Regalen. Nach Sonnenuntergang geht es auf Beutejagd.",
         "pt-br": "Prefere lugares escuros e frescos, como o fundo de uma prateleira ou o espaço sob o assoalho de uma casa. Perambula em busca de presas após o pôr do sol.",
-        "zh-tw": "喜歡待在民宅的地板下或\n架子深處等陰涼的地方。\n日落後會四處徘徊尋找獵物。"
+        "zh-tw": "喜歡待在民宅的地板下或\n架子深處等陰涼的地方。\n日落後會四處徘徊尋找獵物。",
+        ja: "民家の 床下や 棚の奥など 冷暗所を 好む。 日没後 獲物を 探して 徘徊する。※ キタカミの里での冒険で出会うことができます。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Idrovampata",
                 de: "Siedewasser",
                 "zh-tw": "熱水",
-                "pt-br": "Escaldada"
+                "pt-br": "Escaldada",
+                ja: "ねっとう"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "將對手的戰鬥寶可夢灼傷。"
+                "zh-tw": "將對手的戰鬥寶可夢灼傷。",
+                ja: "相手のバトルポケモンをやけどにする。"
             },
             damage: 40
         }

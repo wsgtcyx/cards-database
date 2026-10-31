@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/030"
     },
     name: {
         en: "Litten",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Litten",
         de: "Flamiau",
         'pt-br': "Litten",
+        ja: "ニャビー",
         ko: "냐오불",
         "zh-tw": "火斑喵",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si chiude in se stesso se riceve attenzioni soffocanti. Anche\nse si affeziona, preferisce mantenere una certa distanza.",
         de: "Gegenüber Menschen, die zu aufdringlich sind,\nverschließt es sich. Übermäßiger Körperkontakt\nist für Flamiau selbst bei guten Freunden tabu.",
         'pt-br': "Se você se esforçar demais para se aproximar deste Pokémon,\nele não dará a menor bola. Mesmo que você consiga\nse aproximar, Litten continuará detestando afeto em excesso.",
+        ja: "しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。",
         ko: "집요하게 따라다니면\n마음을 열지 않는다. 친밀해져도\n과도한 스킨십은 금물이다.",
         "zh-tw": "如果你太努力地想要接近它，它就不會向你敞開。即使你們確實變得親密，給予它太多的感情仍然是禁忌。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Calorazione",
                 de: "Hitze-Tackle",
                 'pt-br': "Golpe de Colisão Aquecido",
+                ja: "ヒートタックル",
                 ko: "히트태클",
                 "zh-tw": "熱力鏟球"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+                ja: "このポケモンにも10ダメージ。",
                 ko: "이 포켓몬에게도 10데미지를 준다.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
             }

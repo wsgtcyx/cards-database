@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/241",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/241",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/241",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/241"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/241",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/241"
     },
     name: {
         en: "Butterfree",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Safcon",
         "pt-br": "Metapod",
         "zh-tw": "鐵甲蛹",
-        ja: "Metapod",
+        ja: "トランセル",
         ko: "Metapod"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es sammelt täglich Honig. Es reibt ihn in seine Beinhaare, um ihn in sein Nest zu transportieren.",
         "pt-br": "Coleta mel todos os dias. Para transportá-lo até o seu ninho, esfrega mel no pelo de suas pernas.",
         "zh-tw": "每天都忙著採集花蜜。習慣在腿部的細毛上塗滿花蜜，然後帶回巢穴裡。",
-        ja: "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+        ja: "毎日 ミツを 集めまわる。 脚の 産毛に ミツを 塗りこんで 巣に 持ち帰る 習性をもつ。",
         ko: "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
     },
     attacks: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Sonnige Brise",
                 "pt-br": "Vento Ensolarado",
                 "zh-tw": "太陽之風",
-                ja: "Sunny Wind",
+                ja: "おひさまウインド",
                 ko: "Sunny Wind"
             },
             effect: {
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復20HP。",
-                ja: "Heal 20 damage from this Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "Heal 20 damage from this Pokémon."
             },
             damage: 60

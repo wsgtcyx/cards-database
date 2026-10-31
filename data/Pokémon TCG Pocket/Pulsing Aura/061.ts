@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/061",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/061",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/061"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/061"
     },
     name: {
         en: "Toxtricity",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Le scariche elettriche che lancia strimpellando violentemente le protuberanze sul petto superano facilmente i 15.000 volt.",
         de: "Die Stromstöße, die es durch heftiges Anschlagen der Vorsprünge auf seiner Brust auslöst, überschreiten leicht 15.000 Volt.",
         "pt-br": "Os choques de eletricidade que ele lança ao tocar violentamente as saliências em seu peito excedem facilmente 15.000 volts.",
-        "zh-tw": "猛烈地敲擊胸口的突起，所釋放的電擊輕鬆超過一萬五千伏特。"
+        "zh-tw": "猛烈地敲擊胸口的突起，所釋放的電擊輕鬆超過一萬五千伏特。",
+        ja: "荒々しく 胸もとの 突起を かき鳴らして 放つ 電撃は 15000ボルトを 軽く 超える。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Shock Vendicativo",
                 de: "Racheschock",
                 "pt-br": "Choque Vingativo",
-                "zh-tw": "復仇衝擊"
+                "zh-tw": "復仇衝擊",
+                ja: "リベンジショック"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage, and your opponent's Active Pokémon is now Paralyzed.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 60 danni in più e il Pokémon attivo del tuo avversario è ora Paralizzato.",
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch den Schaden eines Angriffs kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu und das aktive Pokémon deines Gegners ist jetzt gelähmt.",
                 "pt-br": "Se algum dos seus Pokémon foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 de dano a mais e o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點，並且對手的活躍寶可夢現在陷入麻痺狀態。"
+                "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點，並且對手的活躍寶可夢現在陷入麻痺狀態。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加し、相手のバトルポケモンをマヒにする。"
             },
             damage: "40+"
         }

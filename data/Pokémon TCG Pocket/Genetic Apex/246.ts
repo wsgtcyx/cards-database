@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/246",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/246",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/246",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/246"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/246",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/246"
     },
     name: {
         en: "Meowth",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Meowth",
         de: "Mauzi",
         'pt-br': "Meowth",
+        ja: "ニャース",
         ko: "나옹",
         "zh-tw": "喵喵"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Giornopaga",
                 de: "Zahltag",
                 'pt-br': "Dia de Pagamento",
+                ja: "ネコにこばん",
                 ko: "고양이돈받기",
                 "zh-tw": "發薪日"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe 1 Karte.",
                 'pt-br': "Compre 1 carta.",
+                ja: "自分の山札を枚引く。",
                 ko: "자신의 덱을 1장 뽑는다.",
                 "zh-tw": "畫一張卡片。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Di giorno non fa che dormire, mentre la notte\nperlustra il suo territorio con gli occhi luccicanti.",
         de: "Es schläft den ganzen Tag. Nachts patrouilliert es\nsein Revier mit glühenden Augen.",
         'pt-br': "Tudo o que este Pokémon faz é dormir\ndurante o dia. À noite, patrulha seu\nterritório com seus olhos brilhantes.",
+        ja: "昼間は 寝てばかりいる。 夜になると 目が 輝き 縄張りを 歩きまわる。",
         ko: "낮에는 거의 잠만 잔다.\n밤이 되면 눈을 반짝이며\n영역을 돌아다닌다.",
         "zh-tw": "它所做的就是在白天睡覺。晚上，它眼睛會發光，在自己的領地巡邏。"
     },

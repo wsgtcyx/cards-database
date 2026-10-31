@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/089",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/089"
     },
     name: {
         en: "Granbull",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Granbull",
         "pt-br": "Granbull",
         "zh-tw": "布魯皇",
+        ja: "グランブル",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Snubbull",
         "pt-br": "Snubbull",
         "zh-tw": "布魯",
+        ja: "ブルー",
     },
     description: {
         en: "While it has powerful jaws, it doesn't care for\ndisputes, so it rarely has a chance to display\ntheir might.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sebbene abbia mascelle potenti, non gli importa\ncontroversie, quindi raramente ha la possibilità di essere esposto\nla loro potenza.",
         "de": "Obwohl es kräftige Kiefer hat, ist es ihm egal\nStreitigkeiten, daher hat es selten eine Chance zur Anzeige\nihre Macht.",
         "pt-br": "Embora tenha mandíbulas poderosas, não se importa com\ndisputas, por isso raramente tem a chance de exibir\nseu poder.",
-        "zh-tw": "雖然它有強大的下巴，但它並不關心\n爭議，所以很少有機會展示\n他們的力量。"
+        "zh-tw": "雖然它有強大的下巴，但它並不關心\n爭議，所以很少有機會展示\n他們的力量。",
+        ja: "アゴの 力は 強力だが 争いを 好まないので 滅多に 披露する 機会は ないのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Affronto selvaggio",
                 "de": "Wildes Tackle",
                 "pt-br": "Equipamento Selvagem",
-                "zh-tw": "狂野鏟球"
+                "zh-tw": "狂野鏟球",
+                ja: "ワイルドタックル"
             },
             damage: 100,
             cost: ["Psychic", "Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

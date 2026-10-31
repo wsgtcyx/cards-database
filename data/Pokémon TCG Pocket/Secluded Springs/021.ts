@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/021"
     },
     name: {
         en: "Feebas",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Barschwa",
         "pt-br": "Feebas",
         "zh-tw": "醜醜魚",
+        ja: "ヒンバス",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sebbene poco attraente e impopolare, questo\nLa meravigliosa vitalità dei Pokémon lo ha reso un\noggetto di ricerca.",
         "de": "Dies ist zwar unattraktiv und unbeliebt\nDie wunderbare Vitalität von Pokémon hat es zu einem gemacht\nGegenstand der Forschung.",
         "pt-br": "Embora pouco atraente e impopular, este\nA maravilhosa vitalidade do Pokémon tornou-o um\nobjeto de pesquisa.",
-        "zh-tw": "儘管沒有吸引力且不受歡迎，但這\n神奇寶貝神奇的生命力使其成為\n研究課題。"
+        "zh-tw": "儘管沒有吸引力且不受歡迎，但這\n神奇寶貝神奇的生命力使其成為\n研究課題。",
+        ja: "見た目が 悪いので 人気はないが 脅威の 生命力が あり 研究対象には なっている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Salta fuori",
                 "de": "Spring raus",
                 "pt-br": "Salte",
-                "zh-tw": "跳出"
+                "zh-tw": "跳出",
+                ja: "はねにげ"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

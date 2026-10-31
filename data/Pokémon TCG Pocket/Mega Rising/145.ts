@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/145",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/145"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/145"
     },
     name: {
         en: "Rolycoly",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Klonkett",
         "pt-br": "Rolycoly",
         "zh-tw": "小炭仔",
+        ja: "タンドン",
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pezzi della superficie del corpo di questo Pokémon\nche sono invecchiati e sfaldati hanno molto tempo\nstato utilizzato come combustibile alternativo al carbone.",
         "de": "Brocken der Körperoberfläche dieses Pokémon\ndie schon lange alt und abgeblättert sind\nals Brennstoff als Alternative zu Kohle verwendet.",
         "pt-br": "Pedaços da superfície do corpo deste Pokémon\nque envelheceram e descamaram há muito tempo\ntem sido usado como combustível como alternativa ao carvão.",
-        "zh-tw": "這只神奇寶貝身體表面的大塊\n那些已經變老、剝落的東西早已\n被用作燃料作為煤炭的替代品。"
+        "zh-tw": "這只神奇寶貝身體表面的大塊\n那些已經變老、剝落的東西早已\n被用作燃料作為煤炭的替代品。",
+        ja: "古くなり 剥がれ落ちた 体の 表面は 石炭の 代わりに 燃料として 使われてきた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 20,
             cost: ["Fighting"]

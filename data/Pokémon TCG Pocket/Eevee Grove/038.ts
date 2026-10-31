@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/038"
     },
     name: {
         en: "Barboach",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schmerbe",
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
+        ja: "ドジョッチ",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I suoi due baffi forniscono un radar sensibile. Anche dentro\nacque fangose, può rilevare la posizione della sua preda.",
         "de": "Seine beiden Whisker sorgen für ein empfindliches Radar. Sogar in\nIn schlammigen Gewässern kann es den Standort seiner Beute erkennen.",
         "pt-br": "Seus dois bigodes fornecem um radar sensível. Mesmo em\náguas lamacentas, ele pode detectar a localização de sua presa.",
-        "zh-tw": "它的兩根鬍鬚提供了靈敏的雷達。即使在\n渾水中，它可以探測獵物的位置。"
+        "zh-tw": "它的兩根鬍鬚提供了靈敏的雷達。即使在\n渾水中，它可以探測獵物的位置。",
+        ja: "２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di fango",
                 "de": "Schlammschuss",
                 "pt-br": "Tiro de lama",
-                "zh-tw": "泥彈"
+                "zh-tw": "泥彈",
+                ja: "マッドショット"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

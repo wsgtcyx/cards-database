@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/154",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/154",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/154"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/154",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/154"
     },
     name: {
         en: "Haunter",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
+        ja: "ゴースト",
     },
     illustrator: "Nisota Niso",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
+        ja: "ゴース",
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Gli piace nascondersi nell'oscurità e toccare le spalle\ncon una mano gassosa. Il suo tocco provoca infinite\ntremante.",
         "de": "Es lauert gerne im Dunkeln und tippt sich auf die Schultern\nmit einer gasförmigen Hand. Seine Berührung verursacht Unendlichkeit\nschaudernd.",
         "pt-br": "Ele gosta de se esconder no escuro e bater nos ombros\ncom uma mão gasosa. Seu toque causa infinitas\nestremecendo.",
-        "zh-tw": "牠喜歡潛伏在黑暗中拍拍肩膀\n用氣手。它的觸動引發無盡的\n顫抖。"
+        "zh-tw": "牠喜歡潛伏在黑暗中拍拍肩膀\n用氣手。它的觸動引發無盡的\n顫抖。",
+        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fuoco fatuo",
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
-                "zh-tw": "鬼火"
+                "zh-tw": "鬼火",
+                ja: "おにび"
             },
             damage: 30,
             cost: ["Psychic"]

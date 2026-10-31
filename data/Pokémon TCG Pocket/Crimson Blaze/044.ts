@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/044"
     },
     name: {
         en: "Mienshao",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mienshao",
         "de": "Wie-Shu",
         "pt-br": "Mienshao",
-        "zh-tw": "師父鼬"
+        "zh-tw": "師父鼬",
+        ja: "コジョンド"
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mienfoo",
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
-        "zh-tw": "功夫鼬"
+        "zh-tw": "功夫鼬",
+        ja: "コジョフー"
     },
     description: {
         en: "Delivered at blinding speeds, kicks from this\nPokémon can shatter massive boulders into\ntiny pieces.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Consegnato a velocità accecante, calcia da questo\nI Pokémon possono frantumare enormi massi\npiccoli pezzi.",
         "de": "Mit unglaublicher Geschwindigkeit ausgeführt, Kicks davon\nPokémon können riesige Felsbrocken zerschmettern\nwinzige Stücke.",
         "pt-br": "Entregue em velocidades ofuscantes, chutes disso\nPokémon podem quebrar pedras enormes em\npequenos pedaços.",
-        "zh-tw": "以令人眼花繚亂的速度交付，由此而來\n神奇寶貝可以將巨大的巨石粉碎成\n小碎片。"
+        "zh-tw": "以令人眼花繚亂的速度交付，由此而來\n神奇寶貝可以將巨大的巨石粉碎成\n小碎片。",
+        ja: "目にも 止まらぬ スピードで 繰りだす 蹴りは 巨大な 岩も 木っ端みじんに 砕く。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Spazzata bassa",
                 "de": "Niedriger Sweep",
                 "pt-br": "Varredura baixa",
-                "zh-tw": "低掃頻"
+                "zh-tw": "低掃頻",
+                ja: "ローキック"
             },
             damage: 50,
             cost: ["Fighting"]

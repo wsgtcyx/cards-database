@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/103",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/103"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/103"
     },
     name: {
         en: "Qwilfish",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I pescatori esperti dicono che cercano di catturare Qwilfish nel breve istante in cui questi Pokémon diventano indifesi subito dopo aver lanciato aculei velenosi.",
         de: "Erfahrene Fischer sagen, dass sie versuchen, Baldorfish in dem kurzen Moment zu fangen, in dem diese Pokémon wehrlos werden, kurz nachdem sie giftige Stacheln abgefeuert haben.",
         "pt-br": "Pescadores experientes dizem que tentam capturar Qwilfish no breve momento em que esses Pokémon ficam indefesos logo após lançarem espinhos venenosos.",
-        "zh-tw": "經驗豐富的漁民表示，他們試圖在這些寶可夢發射毒刺後變得毫無防禦能力的短暫瞬間捕獲 千針魚。"
+        "zh-tw": "經驗豐富的漁民表示，他們試圖在這些寶可夢發射毒刺後變得毫無防禦能力的短暫瞬間捕獲 千針魚。",
+        ja: "毒針を 撃ち出した 直後の 無防備な 状態を 狙うと ベテランの 漁師は 語る。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Aculeoraffica",
                 de: "Stachelsturm",
                 "pt-br": "Arremetida Espinhosa",
-                "zh-tw": "尖刺猛攻"
+                "zh-tw": "尖刺猛攻",
+                ja: "とげラッシュ"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 40 danni per ogni testa.",
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa 40 de dano para cada cabeça.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點傷害。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。"
             },
             damage: "40x"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/067",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/067"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/067"
     },
     name: {
         en: "Pawniard",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Qualsiasi scheggiatura nelle sue lame gli sarebbe fatale. Dopo ogni battaglia, mantiene diligentemente le sue lame utilizzando la sua pietra per affilare preferita.",
         de: "Jeder Splitter in seinen Klingen wäre für ihn tödlich. Nach jedem Kampf pflegt es seine Klingen fleißig mit seinem Lieblings-Schleifstein.",
         "pt-br": "Quaisquer lascas em suas lâminas seriam fatais para ele. Após cada batalha, ele mantém suas lâminas diligentemente usando sua pedra de amolar favorita.",
-        "zh-tw": "刀片上的任何碎片都會對其造成致命的影響。每次戰鬥結束後，它都會用它最喜歡的磨刀石勤奮地維護刀片。"
+        "zh-tw": "刀片上的任何碎片都會對其造成致命的影響。每次戰鬥結束後，它都會用它最喜歡的磨刀石勤奮地維護刀片。",
+        ja: "刃の 刃こぼれは 命取り。 戦いが 終わると お気に入りの 砥石で 念入りに 手入れする。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Cerca Famiglia",
                 de: "Familienruf",
                 "pt-br": "Chamar a Família",
-                "zh-tw": "呼朋引伴"
+                "zh-tw": "呼朋引伴",
+                ja: "なかまをよぶ"
             },
             effect: {
                 en: "Put 1 random Basic Pokémon from your deck onto your Bench.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un Pokémon Base a caso dal tuo mazzo e mettilo nella tua panchina.",
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
-                "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。"
+                "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。",
+                ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。"
             }
         }
     ],

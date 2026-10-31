@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/035"
     },
     name: {
         en: "Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom",
         de: "Rotom",
         'pt-br': "Rotom",
+        ja: "ロトム",
         ko: "로토무",
         "zh-tw": "洛托姆"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo corpo simile all'elettricità può introdursi in alcuni\napparecchi, di cui prende il controllo per combinare guai.",
         de: "Sein Körper ähnelt Elektrizität und erlaubt es ihm,\nin einige Geräte einzudringen, um dann damit für\nChaos zu sorgen.",
         'pt-br': "Seu corpo elétrico pode penetrar em alguns tipos\nde máquinas e assumir o controle para fazer malvadezas.",
+        ja: "電気のような 体は 一部の 機械に 入り込むことが できる。そして その体で いたずらする。",
         ko: "전기 같은 몸은\n일부 기계에 들어갈 수 있다.\n그리고 그 몸으로 장난을 친다.",
         "zh-tw": "其電力般的身體可以進入某些機器並進行控制以進行惡作劇。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Agilità Simbiotica",
                 de: "Tempokopplung",
                 'pt-br': "Elo de Velocidade",
+                ja: "スピードリンク",
                 ko: "스피드 링크",
                 "zh-tw": "極速鏈接"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, questo Pokémon non ha costo di ritirata.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon não terá custo de Recuo.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，則該神奇寶貝沒有撤退成本。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Scattattacco",
                 de: "Spurtangriff",
                 'pt-br': "Ataque Arremetida",
+                ja: "とびだしアタック",
                 ko: "대시어택",
                 "zh-tw": "衝刺攻擊"
             },
@@ -79,6 +85,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹に20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게 20데미지를 준다.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。"
             }

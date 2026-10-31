@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/013"
     },
     name: {
         en: "Larvesta",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Larvesta",
         de: "Ignivor",
         'pt-br': "Larvesta",
+        ja: "メラルバ",
         ko: "활화르바",
         "zh-tw": "燃燒蟲",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Veniva chiamato la \"larva che ha rubato\nil sole\". Con le fiamme che lancia dalle\ncorna può tagliare anche lastre di ferro.",
         de: "Man nannte es die \"Larve, welche die Sonne\nstahl\". Die Flammen, die es aus seinen Hörnern\nfeuert, können selbst Eisenplatten zerteilen.",
         'pt-br': "Este Pokémon era chamado de \"Larva que Roubou o Sol\". O fogo\nque Larvesta expele de seus chifres pode cortar uma placa de ferro.",
+        ja: "太陽を 盗んだ 幼虫と 呼ばれていた。 ツノから 噴き出す 炎は 鉄板も 焼き切る。",
         ko: "태양을 훔친 유충이라 불렸었다.\n뿔을 통해 분출하는 불꽃은\n철판도 끊어 버릴 수 있다.",
         "zh-tw": "這只神奇寶貝被稱為偷走太陽的幼蟲。幼蟲從角噴出的火焰可以直接切穿鐵片。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fuoco Continuo",
                 de: "Glühen",
                 'pt-br': "Combustão",
+                ja: "かえん",
                 ko: "화염",
                 "zh-tw": "燃燒"
             },

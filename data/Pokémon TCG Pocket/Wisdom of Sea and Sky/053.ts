@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/053"
     },
     name: {
         en: "Qwilfish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Baldorfish",
         "pt-br": "Qwilfish",
         "zh-tw": "千針魚",
+        ja: "ハリーセン",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Fai attenzione se questo Pokémon inizia ad aspirare\nacqua: presto attaccherà disperdendo le sostanze tossiche\nspine che crescono su tutto il corpo.",
         "de": "Seien Sie vorsichtig, wenn dieses Pokémon anfängt einzusaugen\nWasser – es wird bald angreifen, indem es das Gift verstreut\nStacheln, die über den ganzen Körper wachsen.",
         "pt-br": "Tenha cuidado se este Pokémon começar a sugar\nágua - em breve atacará, espalhando o tóxico\nespinhos que crescem por todo o seu corpo.",
-        "zh-tw": "如果這只神奇寶貝開始吸入，請小心\n水——它很快就會通過散佈有毒物質進行攻擊\n全身長出尖刺。"
+        "zh-tw": "如果這只神奇寶貝開始吸入，請小心\n水——它很快就會通過散佈有毒物質進行攻擊\n全身長出尖刺。",
+        ja: "水を 飲みこみはじめたら 危険。 全身に 生えている 毒針を まき散らし 襲いかかってくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Puntura di veleno",
                 "de": "Giftstich",
                 "pt-br": "Picada Venenosa",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒刺",
+                ja: "どくばり"
             },
             damage: 20,
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

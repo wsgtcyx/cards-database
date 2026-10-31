@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/089",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/089"
     },
     name: {
         en: "Growlithe",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",
@@ -31,7 +33,8 @@ const card: Card = {
         "it": "Ha una natura coraggiosa e affidabile. Senza paura\nresiste a nemici più grandi e più forti.",
         "de": "Es hat eine mutige und vertrauenswürdige Natur. Es furchtlos\nhält größeren und stärkeren Feinden stand.",
         "pt-br": "Tem uma natureza corajosa e confiável. Sem medo\nenfrenta inimigos maiores e mais fortes.",
-        "zh-tw": "它具有勇敢和值得信賴的本性。它無所畏懼\n能夠對抗更大更強的敵人。"
+        "zh-tw": "它具有勇敢和值得信賴的本性。它無所畏懼\n能夠對抗更大更強的敵人。",
+        ja: "自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。"
     },
     stage: "Basic",
     attacks: [{
@@ -42,7 +45,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"]

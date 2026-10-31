@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/082"
     },
     name: {
         en: "Omastar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Omastar",
         de: "Amoroso",
         'pt-br': "Omastar",
+        ja: "オムスター",
         ko: "암스타",
         "zh-tw": "多刺菊石獸",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Omanyte",
         "de": "Amonitas",
         "pt-br": "Omanyte",
-        "zh-tw": "菊石獸"
+        "zh-tw": "菊石獸",
+        ja: "オムナイト"
     },
     attacks: [{
             cost: ["Water", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Gorgo Antico",
                 de: "Urzeitsog",
                 'pt-br': "Redemoinho Ancestral",
+                ja: "こだいのうずしお",
                 ko: "고대의 바다회오리",
                 "zh-tw": "遠古漩渦"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
                 de: "Während des nächsten Zuges deines Gegners kann das Verteidigende Pokémon nicht angreifen.",
                 'pt-br': "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá atacar.",
+                ja: "次の相手の番、このワザを受けたポケモンはワザが使えない。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能攻擊。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Si dice si sia estinto per via della conchiglia\ngrossa e pesante che, rendendo i suoi movimenti\nimpacciati, gli impediva di catturare le prede.",
         de: "Es starb wohl aus, weil seine Bewegungen durch\ndas große, schwere Gehäuse so langsam wurden,\ndass es keine Beute mehr fangen konnte.",
         'pt-br': "Por conta de seu grande casco, Omastar é\npesado e não se move rápido. Dizem que entrou\nem extinção porque era incapaz de conseguir comida.",
+        ja: "大きく 重い 殻のせいで 動きが 鈍くなり 獲物を 獲れずに 絶滅した という。",
         ko: "크고 무거운 껍질 때문에\n움직임이 둔해져서\n먹이를 잡지 못해 멸종했다고 한다.",
         "zh-tw": "由於受到又大又重的砲彈的壓迫，奧馬斯塔無法快速移動。有人說它滅絕是因為它無法捕捉食物。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/038",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/038",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/038"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/038"
     },
     name: {
         en: "Pawmi",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Pamo",
         'pt-br': "Pawmi",
         "zh-tw": "布撥",
+        ja: "パモ",
         ko: "빠모"
     },
     illustrator: "kantaro",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "I cuscinetti delle zampe sono organi che scaricano elettricità. Pawmi spara elettricità dalle zampe anteriori mentre sta instabile sulle zampe posteriori.",
         "de": "Die Ballen seiner Pfoten sind elektrisch ableitende Organe. Pamo feuert Elektrizität aus seinen Vorderpfoten ab, während es unsicher auf seinen Hinterbeinen steht.",
         "pt-br": "As almofadas de suas patas são órgãos que descarregam eletricidade. Pawmi dispara eletricidade com suas patas dianteiras enquanto fica instável nas patas traseiras.",
-        "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。"
+        "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
+        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Zufälliger Funke",
                 "pt-br": "Faísca Aleatória",
                 "zh-tw": "隨機火花",
+                ja: "でんじスパーク",
                 pt: "Fagulha Aleatória"
             },
             cost: ["Lightning"],
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。",
+                ja: "相手のポケモン1匹に10ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             },
         },

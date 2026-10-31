@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/271",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/271",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/271",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/271"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/271",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/271"
     },
     name: {
         en: "Lisia",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Xenia",
         "pt-br": "Elisia",
         "zh-tw": "琉琪亞",
+        ja: "ルチア",
     },
     illustrator: "Cona Nitanda",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Metti nella tua mano 2 Pokémon Base casuali con 50 HP o meno dal tuo mazzo.",
         "de": "Nimm 2 zufällige Basis-Pokémon mit 50 HP oder weniger aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 2 Pokémon Básicos aleatórios com 50 HP ou menos do seu baralho na sua mão.",
-        "zh-tw": "從你的卡組中隨機將 2 只 HP 50 以下的基礎寶可夢加入手牌。"
+        "zh-tw": "從你的卡組中隨機將 2 只 HP 50 以下的基礎寶可夢加入手牌。",
+        ja: "自分の山札から、HPが50以下のたねポケモンをランダムに2枚、手札に加える。"
     },
     trainerType: "Supporter"
 };

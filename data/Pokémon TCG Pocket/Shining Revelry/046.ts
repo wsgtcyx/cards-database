@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/046"
     },
     name: {
         en: "Arbok",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Arbok",
         de: "Arbok",
         'pt-br': "Arbok",
+        ja: "アーボック",
         ko: "아보크",
         "zh-tw": "阿柏怪"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ekans",
         "de": "Rettan",
         "pt-br": "Ekans",
-        "zh-tw": "阿柏蛇"
+        "zh-tw": "阿柏蛇",
+        ja: "アーボ"
     },
     description: {
         en: "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Spiazza l'avversario con il disegno sul ventre,\npoi gli si avvinghia rapidamente e aspetta\nche il suo battito cardiaco si fermi.",
         de: "Es schüchtert seinen Gegner mit dem Muster auf seinem\nBauch ein und nimmt ihn dann in den Würgegriff, bis es\nkeinen Widerstand mehr spürt.",
         'pt-br': "Após atordoar os seus oponentes com as marcas\nem seu estômago, enrola-os rapidamente contra seu\ncorpo e espera eles pararem de se mover.",
+        ja: "お腹の 模様で ひるませると 素早く 身体で 締め上げて 相手の 鼓動が 止まるのを 待つ。",
         ko: "배의 무늬로 풀이 죽게 한 뒤\n재빠르게 몸으로 조여서\n상대의 고동이 멈추기를 기다린다.",
         "zh-tw": "用腹部的圖案擊暈對手後，它會迅速將對手包裹在自己的身體中，等待他們停止移動。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Dentevelenoso",
             de: "Gifthauer",
             'pt-br': "Dente Venenoso",
+            ja: "どくのキバ",
             ko: "독이빨",
             "zh-tw": "毒牙"
         },
@@ -65,6 +70,7 @@ const card: Card = {
             es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
             it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
             de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+            ja: "相手のバトルポケモンをどくにする。",
             ko: "상대의 배틀 포켓몬을 독으로 만든다.",
             'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
             "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/186",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/186"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/186"
     },
     name: {
         en: "Weavile ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Weavile-ex",
         de: "Snibunna-ex",
         'pt-br': "Weavile ex",
+        ja: "マニューラex",
         ko: "포푸니라 ex",
         "zh-tw": "瑪狃拉ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Sniebel",
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
+        ja: "ニューラ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Unghie Graffianti",
                 de: "Kratzende Krallen",
                 'pt-br': "Unhas Arranhadoras",
+                ja: "スクラッチネイル",
                 ko: "스크래치네일",
                 "zh-tw": "抓指甲"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è danneggiato, questo attacco infligge 40 danni in più.",
                 de: "Wenn dem Aktiven Pokémon deines Gegners bereits Schaden zugefügt wurde, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 40 pontos de dano a mais.",
+                ja: "相手のバトルポケモンがダメージを受けているなら、40ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 40데미지를 추가한다.",
                 "zh-tw": "如果對手的出戰寶可夢受到傷害，則這次攻擊造成的傷害增加 40 點。"
             }

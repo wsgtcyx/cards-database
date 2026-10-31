@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/032"
     },
     name: {
         en: "Ho-Oh",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ho-Oh",
         "de": "Ho-Oh",
         "pt-br": "Ho-Oh",
-        "zh-tw": "鳳王"
+        "zh-tw": "鳳王",
+        ja: "ホウオウ"
     },
     illustrator: "Ryota Murayama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si rivelerà davanti ad un Allenatore dal cuore puro\nsplendendo le sue ali luminose, color arcobaleno.",
         "de": "Es wird sich vor einem reinherzigen Trainer offenbaren\nseine leuchtenden, regenbogenfarbenen Flügel strahlen.",
         "pt-br": "Ele se revelará diante de um Treinador de coração puro ao\nbrilhando suas asas brilhantes da cor do arco-íris.",
-        "zh-tw": "它將在純潔的訓練師面前展現自己\n閃耀著明亮的彩虹色翅膀。"
+        "zh-tw": "它將在純潔的訓練師面前展現自己\n閃耀著明亮的彩虹色翅膀。",
+        ja: "心正しき トレーナーの 前に 七色の 翼を 光らせながら 姿を 現すと 伝えられる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Beata Brucia",
                 "de": "Gesegneter Brand",
                 "pt-br": "Abençoado Queimadura",
-                "zh-tw": "祝福燃燒"
+                "zh-tw": "祝福燃燒",
+                ja: "ホーリーバーン"
             },
             damage: 100,
             cost: ["Fire", "Fire", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Cura ciascuno dei tuoi Pokémon Base in panchina da 30 danni.",
                 "de": "Heile 30 Schadenspunkte bei jedem deiner Basis-Pokémon auf deiner Bank.",
                 "pt-br": "Cure 30 de dano de cada um dos seus Pokémon Básicos no Banco.",
-                "zh-tw": "每隻後備基礎神奇寶貝可治療 30 點傷害。"
+                "zh-tw": "每隻後備基礎神奇寶貝可治療 30 點傷害。",
+                ja: "自分のベンチのたねポケモン全員のHPを30回復。"
             }
         }],
     weaknesses: [{

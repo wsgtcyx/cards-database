@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/034"
     },
     name: {
         en: "Combusken",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Jungglut",
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
+        ja: "ワカシャモ",
     },
     illustrator: "GOSSAN",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flemmli",
         "pt-br": "Torchic",
         "zh-tw": "火稚雞",
+        ja: "アチャモ",
     },
     description: {
         en: "During a battle, the hot flame in its body increases.\nIts kicks have outstanding destructive power.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Durante una battaglia, la fiamma calda nel suo corpo aumenta.\nI suoi calci hanno un potere distruttivo eccezionale.",
         "de": "Während eines Kampfes verstärkt sich die heiße Flamme in seinem Körper.\nSeine Tritte haben eine herausragende Zerstörungskraft.",
         "pt-br": "Durante uma batalha, a chama quente em seu corpo aumenta.\nSeus chutes têm um poder destrutivo extraordinário.",
-        "zh-tw": "戰鬥時，它體內的熾熱火焰會增加。\n其踢腿具有超凡的破壞力。"
+        "zh-tw": "戰鬥時，它體內的熾熱火焰會增加。\n其踢腿具有超凡的破壞力。",
+        ja: "戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio in salto alto",
                 "de": "Hochsprung-Kick",
                 "pt-br": "Chute de salto em altura",
-                "zh-tw": "跳高踢腿"
+                "zh-tw": "跳高踢腿",
+                ja: "とびひざげり"
             },
             damage: 50,
             cost: ["Fire", "Fire"]

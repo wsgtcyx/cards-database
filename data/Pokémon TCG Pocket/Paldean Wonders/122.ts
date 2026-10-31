@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/122",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/122",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/122"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/122"
     },
     name: {
         en: "Gimmighoul",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Gierspenst",
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
+        ja: "コレクレー",
         pt: "Gimmighoul",
         'es-mx': "Gimmighoul"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Vive all'interno di un vecchio scrigno del tesoro. A volte viene lasciato negli angoli dei negozi perché nessuno si rende conto che in realtà è un Pokémon.",
         "de": "Es lebt in einer alten Schatztruhe. Manchmal bleibt es in der Ecke eines Ladens liegen, weil niemand merkt, dass es sich tatsächlich um ein Pokémon handelt.",
         "pt-br": "Ele vive dentro de um antigo baú de tesouro. Às vezes, ele fica nas esquinas das lojas porque ninguém percebe que é realmente um Pokémon.",
-        "zh-tw": "它住在一個古老的寶箱裡。有時它會被留在商店角落，因為沒有人意識到它實際上是一隻寶可夢。"
+        "zh-tw": "它住在一個古老的寶箱裡。有時它會被留在商店角落，因為沒有人意識到它實際上是一隻寶可夢。",
+        ja: "古びた 宝箱の中に 棲む。 ポケモンと 気づかれず 道具屋の 片隅に 置かれていることがある。"
     },
     stage: "Basic",
     attacks: [{
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Dauermünzwurf",
                 "pt-br": "Lançamento Contínuo de Moedas",
                 "zh-tw": "連續拋硬幣",
+                ja: "れんぞくコインなげ",
                 pt: "Jogadas de Moeda Contínuas"
             },
             effect: {
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×20ダメージ。",
                 pt: "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara."
             },
             damage: "20×"

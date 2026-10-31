@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/006",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/006",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/006"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/006"
     },
     name: {
         en: "Totodile",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "Bite",
+                ja: "かみつく",
                 ko: "Bite"
             },
             cost: [
@@ -68,7 +69,7 @@ const card: Card = {
         de: "Seine kräftigen, gut entwickelten Kiefer können alles zermalmen. Selbst sein Trainer muss sich vor ihm in Acht nehmen.",
         "pt-br": "Suas poderosas e bem desenvolvidas mandíbulas são capazes de esmagar qualquer coisa. Até mesmo seu Treinador deve ter cuidado.",
         "zh-tw": "強而有力且發達的顎，連任何東西都能咬碎。因此就算是牠的訓練家也要當心。",
-        ja: "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+        ja: "発達した アゴは パワフルで なんでも かみくだいて しまうので 親のトレーナーでも 要注意。",
         ko: "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful."
     }
 };

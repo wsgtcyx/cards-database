@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/192",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/192",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/192"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/192",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/192"
     },
     name: {
         en: "Exploud",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krawumms",
         "pt-br": "Exploud",
         "zh-tw": "爆音怪",
+        ja: "バクオング",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Krakeelo",
         "pt-br": "Loudred",
         "zh-tw": "吼爆彈",
+        ja: "ドゴーム",
     },
     description: {
         en: "This Pokémon can do more than just shout. To\ncommunicate with others of its kind, it'll emit all\nsorts of sounds from the holes in its body.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon può fare molto di più che limitarsi a urlare. A\ncomunica con altri della sua specie, emetterà tutto\ntipi di suoni provenienti dai buchi del suo corpo.",
         "de": "Dieses Pokémon kann mehr als nur schreien. Zu\nWenn man mit anderen seiner Art kommuniziert, wird es alles aussenden\nverschiedene Geräusche aus den Löchern in seinem Körper.",
         "pt-br": "Este Pokémon pode fazer mais do que apenas gritar. Para\nse comunicar com outros de sua espécie, ele emitirá todos\ntipos de sons vindos dos buracos em seu corpo.",
-        "zh-tw": "這個神奇寶貝可以做的不僅僅是喊叫。至\n與同類的其他人交流，它會釋放出所有\n各種聲音從它身體上的孔洞中傳出。"
+        "zh-tw": "這個神奇寶貝可以做的不僅僅是喊叫。至\n與同類的其他人交流，它會釋放出所有\n各種聲音從它身體上的孔洞中傳出。",
+        ja: "大声だけじゃない。 体の 穴から いろいろな 音色を 出し 仲間と 意思疎通を するのだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ruggito tonante",
                 "de": "Dröhnendes Brüllen",
                 "pt-br": "Rugido estrondoso",
-                "zh-tw": "轟鳴轟鳴"
+                "zh-tw": "轟鳴轟鳴",
+                ja: "だいばくおん"
             },
             damage: 90,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questi non potrà giocare alcuna carta Oggetto dalla sua mano.",
                 "de": "Während des nächsten Zuges deines Gegners kann er keine Gegenstandskarten aus seiner Hand spielen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da sua mão.",
-                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。"
+                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。",
+                ja: "次の相手の番、相手は手札からグッズを出して使えない。"
             }
         }],
     weaknesses: [{

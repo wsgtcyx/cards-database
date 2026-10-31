@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/048"
     },
     name: {
         en: "Sobble",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È un Pokémon molto cauto. Quando non ha altra scelta che combattere, si nasconde prima di attaccare.",
         de: "Es ist ein sehr vorsichtiges Pokémon. Wenn es keine andere Wahl hat, als zu kämpfen, versteckt es sich, bevor es angreift.",
         "pt-br": "É um Pokémon muito cauteloso. Quando não tem escolha a não ser lutar, ele se esconde antes de atacar.",
-        "zh-tw": "是非常謹慎的寶可夢。當它別無選擇只能戰鬥時，它會在攻擊前隱藏自己。"
+        "zh-tw": "是非常謹慎的寶可夢。當它別無選擇只能戰鬥時，它會在攻擊前隱藏自己。",
+        ja: "警戒心が 強く どうしても 戦わないと いけない ときは 姿を 消してから 攻撃する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Trovamico",
                 de: "Freunde finden",
                 "pt-br": "Encontre um Amigo",
-                "zh-tw": "尋找朋友"
+                "zh-tw": "尋找朋友",
+                ja: "ともだちをさがす"
             },
             effect: {
                 en: "Put a random Pokémon from your deck into your hand.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Metti nella tua mano un Pokémon casuale dal tuo mazzo.",
                 de: "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
-                "zh-tw": "從你的牌組中隨機將一隻寶可夢放入你的手牌。"
+                "zh-tw": "從你的牌組中隨機將一隻寶可夢放入你的手牌。",
+                ja: "自分の山札からポケモンをランダムに枚、手札に加える。"
             }
         }
     ],

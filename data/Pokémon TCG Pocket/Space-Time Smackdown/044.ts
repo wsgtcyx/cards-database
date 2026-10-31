@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/044"
     },
     name: {
         en: "Snover",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Snover",
         de: "Shnebedeck",
         'pt-br': "Snover",
+        ja: "ユキカブリ",
         ko: "눈쓰개",
         "zh-tw": "雪笠怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "In inverno scende fino ai piedi delle\nmontagne, ma in primavera se ne torna\nsulle cime montuose dove c'è ancora neve.",
         de: "In der kalten Jahreszeit steigt es bis zum Fuß\nder Berge hinab. Im Frühjahr kehrt es auf die\nGipfel zurück, wo noch Schnee liegt.",
         'pt-br': "Durante as temporadas frias, migra para as partes baixas\nda montanha. Na primavera, retorna para o cume nevado.",
+        ja: "寒い 季節は 山の ふもとまで 降りてくるが 春に なると 雪が 残る 山頂に 戻っていく。",
         ko: "추운 계절에는 산기슭까지\n내려오지만 봄이 되면\n눈이 남아 있는 산 정상으로 돌아간다.",
         "zh-tw": "在寒冷的季節，它會遷徙到山的下游。春天，它又回到了白雪覆蓋的山頂。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Geloscheggia",
                 de: "Eissplitter",
                 'pt-br': "Caco de Gelo",
+                ja: "こおりのつぶて",
                 ko: "얼음뭉치",
                 "zh-tw": "冰碎片"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon {F}, questo attacco infligge 30 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein {F}-Pokémon ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {F}, este ataque causará 30 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが{F}ポケモンなら、30ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 {F}포켓몬이라면 30데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍寶可夢是{F}寶可夢，則此攻擊造成的傷害增加 30 點。"
             }

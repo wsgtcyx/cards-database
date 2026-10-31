@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/110",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/110",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/110",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/110"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/110"
     },
     name: {
         en: "Meowscarada ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Maskagato-ex",
         'pt-br': "Meowscarada ex",
         "zh-tw": "魔幻假面喵ex",
+        ja: "マスカーニャex",
         ko: "마스카나"
     },
     suffix: "EX",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Feliospa",
         'pt-br': "Floragato",
         "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ",
         ko: "나로테"
     },
     dexId: [908],
@@ -48,7 +51,8 @@ const card: Card = {
                 "it": "Trucco dei fiori",
                 "de": "Blumentrick",
                 "pt-br": "Truque de flores",
-                "zh-tw": "花戲法"
+                "zh-tw": "花戲法",
+                ja: "トリックフラワー"
             },
             cost: ["Grass"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Scegli un posto tra il posto attivo e la panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, infliggi 70 danni al Pokémon nel punto che hai scelto.",
                 "de": "Wählen Sie einen Platz aus dem aktiven Platz und der Bank Ihres Gegners. Füge am Ende des nächsten Zuges deines Gegners dem Pokémon an der von dir gewählten Stelle 70 Schadenspunkte zu.",
                 "pt-br": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
-                "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。"
+                "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
+                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。"
             },
         },
         {
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Solarstrahl",
                 "pt-br": "Raio Solar",
                 "zh-tw": "太陽光束",
+                ja: "ソーラービーム",
                 'es-mx': "Rayo Solar",
                 pt: "Raio Solar"
             },

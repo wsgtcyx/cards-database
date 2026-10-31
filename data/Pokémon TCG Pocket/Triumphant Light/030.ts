@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/030"
     },
     name: {
         en: "Clefable",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clefable",
         de: "Pixi",
         'pt-br': "Clefable",
+        ja: "ピクシー",
         ko: "픽시",
         "zh-tw": "皮可西",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Piepi",
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
+        ja: "ピッピ",
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Timido Pokémon Fata, molto raro a\nvedersi. Scappa e si nasconde non\nappena avverte la presenza delle persone.",
         de: "Ein feenhaftes und scheues Pokémon,\ndas sofort die Flucht ergreift, wenn es\nMenschen wahrnimmt.",
         'pt-br': "Um tímido Pokémon fada raramente visto,\ncorre e esconde-se assim que percebe\na presença de pessoas.",
+        ja: "妖精の 仲間で めったに 人前に 出てこない。 気配を 感じて すぐに 逃げてしまうようだ。",
         ko: "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다.",
         "zh-tw": "罕見的膽怯的精靈寶可夢，一旦感覺到有人就會逃跑並躲起來。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Forza Lunare",
                 de: "Mondgewalt",
                 'pt-br': "Explosão Lunar",
+                ja: "ムーンフォース",
                 ko: "문포스",
                 "zh-tw": "月之疾風"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -30 danni.",
                 de: "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon − 30 Schadenspunkte zu.",
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −30 pontos de dano.",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-30する。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -30한다.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成-30點傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/079",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/079"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/079"
     },
     name: {
         en: "Barraskewda",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Barrakiefa",
         "pt-br": "Barraskewda",
         "zh-tw": "戽斗尖梭",
+        ja: "カマスジョー",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
+        ja: "サシカマス",
     },
     description: {
         en: "It spins its tail fins to propel itself, surging\nforward at speeds of over 100 knots before\nramming prey and spearing into them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ruota le pinne caudali per spingersi, impennandosi\navanti a velocità superiori a 100 nodi prima\nsperonando la preda e trafiggendola.",
         "de": "Es dreht seine Schwanzflossen, um sich fortzubewegen\nVorwärts mit Geschwindigkeiten von über 100 Knoten\nBeute rammen und in sie hineinspießen.",
         "pt-br": "Ele gira suas barbatanas caudais para se impulsionar, surgindo\navançar a velocidades superiores a 100 nós antes\natacando as presas e atacando-as.",
-        "zh-tw": "它旋轉尾鰭來推動自己，洶湧澎湃\n之前以超過100節的速度前進\n撞擊獵物並用矛刺入其中。"
+        "zh-tw": "它旋轉尾鰭來推動自己，洶湧澎湃\n之前以超過100節的速度前進\n撞擊獵物並用矛刺入其中。",
+        ja: "尾びれを 回転させ 一気に 突撃。 １００ノットを 超える 速度で 獲物を つらぬくぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Doppio bordo",
                 "de": "Doppelte Kante",
                 "pt-br": "Borda Dupla",
-                "zh-tw": "雙刃"
+                "zh-tw": "雙刃",
+                ja: "すてみタックル"
             },
             damage: 80,
             cost: ["Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/096",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/096",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/096"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/096"
     },
     name: {
         en: "Sandaconda",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La sabbia che emette contiene ghiaia tagliente e appuntita, che in realtà è solo sabbia che la saliva di Sandaconda ha indurito in forme irregolari.",
         de: "Der Sand, den es ausspuckt, enthält scharfen, spitzen Kies, bei dem es sich eigentlich nur um Sand handelt, den der Speichel von Sanaconda zu unregelmäßigen Formen verhärtet hat.",
         "pt-br": "A areia que ele vomita contém cascalho afiado e pontiagudo, que na verdade é apenas areia que a saliva de Sandaconda endureceu em formas irregulares.",
-        "zh-tw": "它噴出的沙子裡含有鋒利、尖尖的礫石，其實只是沙螺蟒的唾液硬化成不規則形狀的沙子。"
+        "zh-tw": "它噴出的沙子裡含有鋒利、尖尖的礫石，其實只是沙螺蟒的唾液硬化成不規則形狀的沙子。",
+        ja: "吐き出す 砂に 混ざる 鋭く 尖った 砂利は 唾液で 砂が いびつに 固まったものだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Super Turbosabbia",
                 de: "Super-Sandwirbel",
                 "pt-br": "Superataque de Areia",
-                "zh-tw": "狂撥沙"
+                "zh-tw": "狂撥沙",
+                ja: "すごいすなかけ"
             },
             effect: {
                 en: "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, se il Pokémon difensore tenta di usare un attacco, il tuo avversario lancia una moneta. Se esce croce, l'attacco non avviene.",
                 de: "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
-                "zh-tw": "在對手的下一個回合中，如果防御寶可夢嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
+                "zh-tw": "在對手的下一個回合中，如果防御寶可夢嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
             },
             damage: 70
         }

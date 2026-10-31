@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/139",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/139"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/139"
     },
     name: {
         en: "Bewear",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bewear",
         de: "Kosturso",
         'pt-br': "Bewear",
+        ja: "キテルグマ",
         ko: "이븐곰",
         "zh-tw": "穿著熊",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Velursi",
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
+        ja: "ヌイコグマ",
     },
     description: {
         en: "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Cerca di abbracciare chi considera suo amico in\nsegno di affetto, ma bisogna guardarsi dalla sua\nstretta, talmente potente da frantumare le ossa.",
         de: "Es drückt seine Zuneigung durch Umarmungen aus.\nDas ist ebenso sympathisch wie gefährlich, da diese\nzu Knochenbrüchen führen können.",
         'pt-br': "Ao aceitar a sua amizade, este Pokémon tentará mostrar\nafeição com um abraço. Deixar-se abraçar por Bewear\npode ser perigoso, já que poderá deixar seus ossos em pedaços.",
+        ja: "仲間と 認めると 愛情を 示すために 抱きしめようとするが 骨を 砕かれるので 危険。",
         ko: "동료로 인정하면 애정을\n표현하기 위해 껴안으려 하지만\n뼈가 으스러질 수 있으므로 위험하다.",
         "zh-tw": "一旦它接受你作為朋友，它就會嘗試用擁抱來表達它的愛意。讓它這麼做是很危險的——它很容易就會打碎你的骨頭。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Collera",
                 de: "Rappel",
                 'pt-br': "Petulância",
+                ja: "あばれまわる",
                 ko: "날뛰기",
                 "zh-tw": "發脾氣"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Este Pokémon pasa a estar Confundido.",
                 it: "Questo Pokémon viene confuso.",
                 de: "Dieses Pokémon ist jetzt verwirrt.",
+                ja: "このポケモンをこんらんにする。",
                 ko: "이 포켓몬을 혼란으로 만든다.",
                 'pt-br': "Este Pokémon agora está Confuso.",
                 "zh-tw": "這只神奇寶貝現在處於混亂狀態。"

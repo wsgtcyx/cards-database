@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/029"
     },
     name: {
         en: "Clefairy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clefairy",
         de: "Piepi",
         'pt-br': "Clefairy",
+        ja: "ピッピ",
         ko: "삐삐",
         "zh-tw": "皮皮",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
         de: "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll ein glückliches Leben verheißen.",
         'pt-br': "Acredita-se que a felicidade virá para aqueles\nque virem um grupo de Clefairy dançando sob\na lua cheia.",
+        ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。",
         ko: "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
         "zh-tw": "據說，看到Clefairy在滿月下跳舞的人會得到幸福。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Schiaffo",
                 de: "Klatscher",
                 'pt-br': "Estalo",
+                ja: "ひらてうち",
                 ko: "수벽치기",
                 "zh-tw": "斯馬克"
             },

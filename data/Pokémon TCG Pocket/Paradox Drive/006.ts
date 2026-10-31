@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/006",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/006",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/006"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/006"
     },
     name: {
         en: "Psyduck",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se il suo mal di testa cronico raggiunge il picco, può mostrare strani poteri. Sembra incapace di ricordare un episodio del genere.",
         de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
-        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。"
+        "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 10
         }

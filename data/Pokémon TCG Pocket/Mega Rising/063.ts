@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/063"
     },
     name: {
         en: "Tympole",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schallquap",
         "pt-br": "Tympole",
         "zh-tw": "圓蝌蚪",
+        ja: "オタマロ",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Utilizza le onde sonore per comunicare\naltri del suo genere. Persone e altri Pokémon\nla specie non può sentire le sue grida di avvertimento.",
         "de": "Zur Kommunikation nutzt es Schallwellen\nandere seiner Art. Menschen und andere Pokémon\nArten können ihre Warnrufe nicht hören.",
         "pt-br": "Ele usa ondas sonoras para se comunicar com\noutros de seu tipo. Pessoas e outros Pokémon\nespécies não conseguem ouvir seus gritos de alerta.",
-        "zh-tw": "它利用聲波與\n其他同類。人和其他神奇寶貝\n物種聽不到它的警告叫聲。"
+        "zh-tw": "它利用聲波與\n其他同類。人和其他神奇寶貝\n物種聽不到它的警告叫聲。",
+        ja: "音波で 仲間と 連絡する。 警戒の 鳴き声は 人や ほかの ポケモンには 聞こえない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Schiaffo di fango",
                 "de": "Schlammklatsch",
                 "pt-br": "Tapa de lama",
-                "zh-tw": "拍泥"
+                "zh-tw": "拍泥",
+                ja: "どろかけ"
             },
             damage: 30,
             cost: ["Water", "Colorless"]

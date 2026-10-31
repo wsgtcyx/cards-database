@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/119",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/119"
     },
     name: {
         en: "Doublade",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Doublade",
         "de": "Duokles",
         "pt-br": "Doublade",
-        "zh-tw": "雙劍鞘"
+        "zh-tw": "雙劍鞘",
+        ja: "ニダンギル"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Honedge",
         "de": "Gramokles",
         "pt-br": "Honedge",
-        "zh-tw": "獨劍鞘"
+        "zh-tw": "獨劍鞘",
+        ja: "ヒトツキ"
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le due spade utilizzano una strategia di rapidità\nalternando attacco e difesa\nabbattere la loro preda.",
         "de": "Die beiden Schwerter verfolgen eine schnelle Strategie\nWechsel zwischen Angriff und Verteidigung\nbringen ihre Beute zur Strecke.",
         "pt-br": "As duas espadas empregam uma estratégia de rapidamente\nalternando entre ataque e defesa para\nderrubar suas presas.",
-        "zh-tw": "兩把劍採用了快速的策略\n攻防交替\n打倒他們的獵物。"
+        "zh-tw": "兩把劍採用了快速的策略\n攻防交替\n打倒他們的獵物。",
+        ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Doppie lame",
                 "de": "Doppelklingen",
                 "pt-br": "Lâminas Duplas",
-                "zh-tw": "雙刀片"
+                "zh-tw": "雙刀片",
+                ja: "にだんぎり"
             },
             damage: "40×",
             cost: ["Metal", "Metal"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa.",
                 "de": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
+                ja: "コインを2回投げ、オモテの数×40ダメージ。"
             }
         }],
     weaknesses: [{

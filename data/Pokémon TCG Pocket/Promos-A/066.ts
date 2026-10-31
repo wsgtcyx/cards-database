@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/066"
     },
     name: {
         en: "Mimikyu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mimikyu",
         de: "Mimigma",
         'pt-br': "Mimikyu",
+        ja: "ミミッキュ",
         ko: "따라큐",
         "zh-tw": "謎擬Ｑ",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive nell'ombra, lontano dalla luce del sole. Quando appare davanti\nalle persone si nasconde sotto un panno che somiglia a un Pikachu.",
         de: "Es lebt an dunklen Orten ohne Sonnenlicht.\nMenschen zeigt es sich nur, wenn es mit einem\nLumpen bedeckt ist, der aussieht wie ein Pikachu.",
         'pt-br': "Este Pokémon vive em lugares escuros livres da luz do sol.\nQuando aparece diante de humanos, esconde-se sob\num pano parecido com Pikachu.",
+        ja: "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。",
         ko: "볕이 들지 않는 어두운 곳에 산다.\n사람들 앞에 나타날 때는\n피카츄를 본뜬 천으로 온몸을 가린다.",
         "zh-tw": "這只神奇寶貝生活在未受污染的黑暗地方\n陽光。當它出現在人類面前時，它卻隱藏起來\n自己被包裹在一塊類似皮卡丘的布下。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Botta Spettrale",
                 de: "Schattenschlag",
                 'pt-br': "Batida Sombria",
+                ja: "シャドーヒット",
                 ko: "섀도히트",
                 "zh-tw": "暗影打擊"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei tuoi Pokémon.",
                 de: "Diese Attacke fügt auch 1 deiner Pokémon 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos seus Pokémon.",
+                ja: "自分のポケモン1匹にも20ダメージ。",
                 ko: "자신의 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊還會對你的 1 只神奇寶貝造成 20 點傷害。"
             }

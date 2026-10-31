@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/015"
     },
     name: {
         en: "Salazzle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Amfira",
         "pt-br": "Salazzle",
         "zh-tw": "焰后蜥",
+        ja: "エンニュート",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Molunk",
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
+        ja: "ヤトウモリ",
     },
     description: {
         en: "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Salazzle fa girare la testa ai suoi avversari\ngas velenoso, poi li affascina con la sua seduzione\nmovimenti per trasformarli in servitori fedeli.",
         "de": "Salazzle macht seine Gegner benommen\ngiftiges Gas und fesselt sie dann mit Verlockung\nBewegungen, um sie zu treuen Dienern zu machen.",
         "pt-br": "Salazzle deixa seus oponentes tontos com\ngás venenoso, então os cativa com sedutores\nmovimentos para transformá-los em servidores leais.",
-        "zh-tw": "薩拉澤 (Salazzle) 讓對手頭暈目眩\n有毒氣體，然後用誘惑迷惑他們\n將他們變成忠誠的僕人的運動。"
+        "zh-tw": "薩拉澤 (Salazzle) 讓對手頭暈目眩\n有毒氣體，然後用誘惑迷惑他們\n將他們變成忠誠的僕人的運動。",
+        ja: "毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Combustione",
                 "de": "Verbrennung",
                 "pt-br": "Combustão",
-                "zh-tw": "燃燒"
+                "zh-tw": "燃燒",
+                ja: "かえん"
             },
             damage: 40,
             cost: ["Fire"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/054"
     },
     name: {
         en: "Genesect",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Genesect",
         "de": "Genesect",
         "pt-br": "Genesect",
-        "zh-tw": "蓋諾賽克特"
+        "zh-tw": "蓋諾賽克特",
+        ja: "ゲノセクト"
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo antico Pokémon insetto è stato alterato dal Team\nPlasma. Hanno potenziato il cannone sul dorso.",
         "de": "Dieses uralte Käfer-Pokémon wurde vom Team verändert\nPlasma. Sie haben die Kanone auf der Rückseite verbessert.",
         "pt-br": "Este antigo Pokémon bug foi alterado pela equipe\nPlasma. Eles atualizaram o canhão nas costas.",
-        "zh-tw": "這個古老的昆蟲神奇寶貝被團隊改變了\n血漿。他們升級了背上的大砲。"
+        "zh-tw": "這個古老的昆蟲神奇寶貝被團隊改變了\n血漿。他們升級了背上的大砲。",
+        ja: "プラズマ団によって 改造された 古代の むしポケモン。 背中の 大砲が パワーアップした。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Esplosione di metallo",
                 "de": "Metallexplosion",
                 "pt-br": "Explosão Metálica",
-                "zh-tw": "金屬爆破"
+                "zh-tw": "金屬爆破",
+                ja: "メタルブラスト"
             },
             damage: "10+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Energia {M} assegnata a questo Pokémon.",
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {M}-Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
-                "zh-tw": "該神奇寶貝每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該神奇寶貝每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

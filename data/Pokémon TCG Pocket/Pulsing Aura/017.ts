@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/017",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/017",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/017"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/017"
     },
     name: {
         en: "Leavanny",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Questo Pokémon gentile ha un forte istinto protettivo. Le foglie sulle sue braccia sono abbastanza affilate da tagliare a metà un grosso albero con un solo colpo.",
         de: "Dieses sanfte Pokémon hat starke Beschützerinstinkte. Die Blätter an seinen Armen sind scharf genug, um einen dicken Baum mit einem Schlag in zwei Hälften zu schneiden.",
         "pt-br": "Este gentil Pokémon tem fortes instintos de proteção. As folhas em seus braços são afiadas o suficiente para cortar uma árvore grossa ao meio com um só golpe.",
-        "zh-tw": "性格溫和的寶可夢有著強烈的保護本能。它手臂上的葉子非常鋒利，一擊就能將一棵粗大的樹切成兩半。"
+        "zh-tw": "性格溫和的寶可夢有著強烈的保護本能。它手臂上的葉子非常鋒利，一擊就能將一棵粗大的樹切成兩半。",
+        ja: "温厚で 庇護欲が 強い。 葉っぱの 腕は 大木を 一刀両断する 切れ味だ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "飛葉快刀"
+                "zh-tw": "飛葉快刀",
+                ja: "はっぱカッター"
             },
             damage: 100
         }

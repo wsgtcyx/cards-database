@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/159",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/159",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/159",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/159"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/159",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/159"
     },
     name: {
         en: "Accelgor",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Si è liberato della conchiglia, diventando più\nleggero. Le membrane a forma di fasce che\nricoprono il suo corpo evitano che si secchi.",
         de: "Seit es seine Muschel abgestreift hat, ist es viel\nleichter und agiler. Es umhüllt sich mit einer\nSchleimhaut, die es vor dem Austrocknen schützt.",
         "pt-br": "Ao abandonar sua concha, este Pokémon se tornou mais ágil. Para não se desidratar, envolve seu corpo com tiras de membrana.",
-        "zh-tw": "脫殼後變得更輕巧了。\n為了防止乾燥，會將\n帶狀的黏膜裹在身上。"
+        "zh-tw": "脫殼後變得更輕巧了。\n為了防止乾燥，會將\n帶狀的黏膜裹在身上。",
+        ja: "殻を 脱ぎ捨て 身軽に なった。 帯状の 粘膜を 体に 巻きつけ 乾燥を 防ぐ。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Mordifuggi",
                 "pt-br": "Adornar e Cobrir",
                 "zh-tw": "打完就閃",
-                "de": "Peinigen und Abhauen"
+                "de": "Peinigen und Abhauen",
+                ja: "なぐってドロン"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato e paralizzato. Rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Paralisado. Embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒與麻痺。將這隻寶可夢與附加的卡,全部放回牌庫。",
-                "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist paralysiert. Mische dieses Pokémon und alle angelegten Karten in dein Deck."
+                "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist paralysiert. Mische dieses Pokémon und alle angelegten Karten in dein Deck.",
+                ja: "相手のバトルポケモンをどくとマヒにする。このポケモンと、ついているすべてのカードを、山札にもどす。"
             },
             damage: 50
         }

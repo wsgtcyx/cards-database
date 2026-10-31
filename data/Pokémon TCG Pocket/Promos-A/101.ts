@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/101",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/101",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/101",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/101"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/101",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/101"
 	},
 	name: {
 		en: "Latias",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Latias",
 		de: "Latias",
 		"pt-br": "Latias",
-		"zh-tw": "拉帝亞斯"
+		"zh-tw": "拉帝亞斯",
+		ja: "ラティアス"
 	},
 	illustrator: "Yuu Nishida",
 	rarity: "One Star",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Comunica usando la telepatia. Il suo corpo lo è\nricoperto di piumino che rifrange la luce per fare\nè invisibile.",
 		de: "Es kommuniziert mittels Telepathie. Sein Körper ist\nMit Daunen bedeckt, die das Licht brechen\nes unsichtbar.",
 		"pt-br": "Ele se comunica por telepatia. Seu corpo é\ncoberto de penugem que refrata a luz para fazer\né invisível.",
-		"zh-tw": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。"
+		"zh-tw": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。",
+		ja: "テレパシーで 気持ちを 通わせる。 光を 屈折させる 羽毛で 体を 包み 姿を 消す。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Voli che attraversano",
 				de: "Kreuzungsflüge",
 				"pt-br": "Cruzando Voos",
-				"zh-tw": "過境航班"
+				"zh-tw": "過境航班",
+				ja: "クロスフライト"
 			},
 			damage: "20+",
 			cost: ["Psychic"],
@@ -56,7 +60,8 @@ const card: Card = {
 				it: "Se Latios è nella tua panchina, questo attacco infligge 20 danni in più.",
 				de: "Wenn Latios auf deiner Bank ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
 				"pt-br": "Se Latios estiver no seu banco, este ataque causará 20 de dano a mais.",
-				"zh-tw": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。"
+				"zh-tw": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。",
+				ja: "自分のベンチに「ラティオス」がいるなら、20ダメージ追加。"
 			}
 		}
 	],

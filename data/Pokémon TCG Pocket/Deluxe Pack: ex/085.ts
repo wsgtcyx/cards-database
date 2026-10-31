@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/085",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/085",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/085",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/085"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/085",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/085"
 	},
 	name: {
 		en: "Wartortle",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Wartortle",
 		de: "Schillok",
 		"pt-br": "Wartortle",
-		"zh-tw": "卡咪龜"
+		"zh-tw": "卡咪龜",
+		ja: "カメール"
 	},
 	illustrator: "Nelnal",
 	category: "Pokemon",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Squirtle",
 		de: "Schiggy",
 		"pt-br": "Squirtle",
-		"zh-tw": "傑尼龜"
+		"zh-tw": "傑尼龜",
+		ja: "ゼニガメ"
 	},
 	attacks: [
 		{
@@ -45,6 +48,7 @@ const card: Card = {
 				it: "Schizzi d'Onda",
 				de: "Wellenplatscher",
 				"pt-br": "Onda Borrifante",
+				ja: "スプラッシュ",
 				ko: "스플래시",
 				"zh-tw": "波浪飛濺"
 			},
@@ -66,6 +70,7 @@ const card: Card = {
 		it: "È considerato un simbolo di longevità. Se c'è del\nmuschio sul suo guscio, significa che è molto anziano.",
 		de: "Es gilt als Symbol für Langlebigkeit.\nSehr alte Exemplare erkennt man daran,\ndass ihr Panzer mit Algen übersät ist.",
 		"pt-br": "É um símbolo estabelecido de longevidade.\nSe seu casco possui algas, Wartortle é muito velho.",
+		ja: "長生きの シンボルと されている。 甲羅に 苔が ついているのは とくに 長生きの カメールだ。",
 		ko: "장수의 상징으로 여겨진다.\n등껍질에 이끼가 붙어 있는 것은\n특히 장수한 어니부기다.",
 		"zh-tw": "它被認為是長壽的象徵。如果它的殼上有藻類，那麼疣龜就很老了。"
 	}

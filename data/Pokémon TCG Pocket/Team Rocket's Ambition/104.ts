@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/104",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/104",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/104"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/104"
     },
     name: {
         en: "Swellow",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
         de: "Findet es Beute, stürzt es sich aus großer Höhe darauf und packt sie mit seinen spitzen Krallen.",
         "pt-br": "Ele mergulha em um ângulo Íngreme assim que avista sua presa. Ele captura suas presas com garras afiadas.",
-        "zh-tw": "發現居住在森林裡的獵物時，會從高空俯衝而下，用銳利的爪子捕捉獵物。"
+        "zh-tw": "發現居住在森林裡的獵物時，會從高空俯衝而下，用銳利的爪子捕捉獵物。",
+        ja: "森に 住む 獲物を 見つけると 上空から 急降下。 鋭い ツメで 捕まえる。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vento Respingente",
                 de: "Zurückwerfender Wind",
                 "pt-br": "Vento Repelente",
-                "zh-tw": "防蟲之風"
+                "zh-tw": "防蟲之風",
+                ja: "むしよけウインド"
             },
             effect: {
                 en: "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi spostare il Pokémon Base attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
                 de: "Einmal während deines Zuges kannst du das Aktive Basis-Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, você poderá mandar o Pokémon Básico Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "在自己的回合時，可使用1次。將對手的戰鬥場的基礎寶可夢與備戰寶可夢互換。（由對手選擇放置於戰鬥場的寶可夢。）"
+                "zh-tw": "在自己的回合時，可使用1次。將對手的戰鬥場的基礎寶可夢與備戰寶可夢互換。（由對手選擇放置於戰鬥場的寶可夢。）",
+                ja: "自分の番に1回使える。相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Attacco d'Ala",
                 de: "Flügelschlag",
                 "pt-br": "Ataque de Asa",
-                "zh-tw": "翅膀攻擊"
+                "zh-tw": "翅膀攻擊",
+                ja: "つばさでうつ"
             },
             damage: 50
         }

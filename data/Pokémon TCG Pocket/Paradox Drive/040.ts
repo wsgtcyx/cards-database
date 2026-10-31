@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/040",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/040",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/040"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/040"
     },
     name: {
         en: "Sableye",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le sostanze contenute nelle gemme che\ningerisce emergono a livello epidermico e\nformano i motivi più disparati.",
         de: "Die Substanzen der Edelsteine, die es frisst,\nverfestigen sich an seiner Körperoberfläche,\nwobei unendlich viele Musterungen entstehen.",
         "pt-br": "Os materiais das gemas que ele comeu flutuam na superfície de seu corpo e podem formar um número infinito de padrões entre os indivíduos.",
-        "zh-tw": "吃下的寶石成分會在身體\n表面浮現出來。所形成的\n花紋有無限多種變化。"
+        "zh-tw": "吃下的寶石成分會在身體\n表面浮現出來。所形成的\n花紋有無限多種變化。",
+        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Regalo gioiello",
                 de: "Juwelenbesetztes Geschenk",
                 "pt-br": "Presente com joias",
-                "zh-tw": "寶石好禮"
+                "zh-tw": "寶石好禮",
+                ja: "ジュエルギフト"
             },
             effect: {
                 en: "Take a random Energy from among {G}, {R}, {W}, {L}, {P}, {F}, {D}, and {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un'Energia casuale tra {G}, {R}, {W}, {L}, {P}, {F}, {D} e {M} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon in panchina.",
                 de: "Nimm eine zufällige Energie aus {G}, {R}, {W}, {L}, {P}, {F}, {D} und {M} Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma energia aleatória entre {G}, {R}, {W}, {L}, {P}, {F}, {D} e {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "從你的能量區的{G}、{R}、{W}、{L}、{P}、{F}、{D}和{M}能量隨機抽取一個能量，並將其附加到你的1隻後備寶可夢。"
+                "zh-tw": "從你的能量區的{G}、{R}、{W}、{L}、{P}、{F}、{D}和{M}能量隨機抽取一個能量，並將其附加到你的1隻後備寶可夢。",
+                ja: "自分のエネルギーゾーンから{G}{R}{W}{L}{P}{F}{D}{M}エネルギーの中からランダムに1個出し、ベンチポケモンにつける。"
             }
         }
     ],

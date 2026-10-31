@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/031"
     },
     name: {
         en: "Alakazam",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Alakazam",
         de: "Simsala",
         'pt-br': "Alakazam",
+        ja: "フーディン",
         ko: "후딘",
         "zh-tw": "胡地"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Kadabra",
         "de": "Kadabra",
         "pt-br": "Kadabra",
-        "zh-tw": "勇基拉"
+        "zh-tw": "勇基拉",
+        ja: "ユンゲラー"
     },
     description: {
         en: "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Possiede un intelletto estremamente elevato\ne si dice sia in grado di ricordare ogni evento\ndella sua vita, dalla nascita alla morte.",
         de: "Es verfügt über extrem hohe Intelligenz und soll\nsich an alles erinnern können, was zwischen seiner\nGeburt und seinem Tod passiert.",
         'pt-br': "Tem um nível de inteligência incrivelmente alto.\nAlguns dizem que Alakazam se lembra de tudo\nque acontece na sua vida, do nascimento até a morte.",
+        ja: "非常に 高い 知能を 持つ。 生まれてから 死ぬまでの できごとを すべて 覚えている という。",
         ko: "매우 높은 지능을 지녔다.\n태어나서 죽을 때까지 일어나는 일을\n모두 기억한다고 한다.",
         "zh-tw": "它具有令人難以置信的高水平智力。有人說阿拉卡扎姆記得發生在它身上的一切，從出生到死亡。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Oppressione Psichica",
             de: "Psychounterdrückung",
             'pt-br': "Supressão Psíquica",
+            ja: "サイコサプレッション",
             ko: "사이코 서프레션",
             "zh-tw": "心靈壓制"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario che ha delle Energie assegnate.",
             de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners, an das mindestens 1 Energie angelegt ist, 20 Schadenspunkte zu.",
             'pt-br': "Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente que tiver alguma Energia ligada a ele.",
+            ja: "エネルギーがついている相手のベンチポケモン全員にも20ダメージ。",
             ko: "에너지가 붙어 있는 상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
             "zh-tw": "此攻擊還會對對手後備戰中每隻帶有能量的神奇寶貝造成 20 點傷害。"
         }

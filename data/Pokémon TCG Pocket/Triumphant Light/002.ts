@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/002"
     },
     name: {
         en: "Burmy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Burmy",
         de: "Burmy",
         'pt-br': "Burmy",
+        ja: "ミノムッチ",
         ko: "도롱충이",
         "zh-tw": "結草兒",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Per ripararsi dal freddo e dai venti invernali\nsi copre con un manto fatto di rami e foglie.",
         de: "Um sich vor dem eisigen Winterwind zu schützen,\nlegt es sich unter einen Umhang aus Ästen und Laub.",
         'pt-br': "Para se proteger dos ventos gelados do inverno, cobre-se\ncom um manto feito de galhos e folhas.",
+        ja: "冷たい 木枯らしを 防ぐため 小枝や 落ち葉を 材料に ミノを 作り 体を 覆う。",
         ko: "차가운 초겨울 바람을 막으려고\n작은 가지나 낙엽을 재료로\n도롱이를 만들어 몸을 감싼다.",
         "zh-tw": "為了躲避寒冷的冬風，它覆蓋了\n它本身穿著一件由樹枝和樹葉製成的斗篷。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },

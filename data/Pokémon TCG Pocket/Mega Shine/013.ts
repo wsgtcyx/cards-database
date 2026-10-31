@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/013"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/013"
     },
     name: {
         en: "Magmortar",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Abitano nei crateri vulcanici. Si dice che solo una coppia di Magmortar abiterà ogni vulcano.",
         de: "Sie leben in Vulkankratern. Es wird gesagt, dass auf jedem Vulkan nur ein einziges Paar Magbrant leben wird.",
         "pt-br": "Eles vivem em crateras vulcânicas. Diz-se que apenas um único par de Magmortar habitará qualquer vulcão.",
-        "zh-tw": "他們居住在火山口中。據說任何一座火山上都只有一對 鴨嘴炎獸。"
+        "zh-tw": "他們居住在火山口中。據說任何一座火山上都只有一對 鴨嘴炎獸。",
+        ja: "火山の 火口に 棲む。 １つの 火山には ひとつがいの ブーバーンしかいないと いわれる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vulcano Voltaico",
                 de: "Donnernder Vulkan",
                 "pt-br": "Vulcão Trovejante",
-                "zh-tw": "雷鳴火山"
+                "zh-tw": "雷鳴火山",
+                ja: "らいめいボルケーノ"
             },
             effect: {
                 en: "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se Electivire è nella tua panchina, questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Wenn sich Elevoltek auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Se Electivire estiver no seu Banco, este ataque também causará 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "如果電擊魔獸在你的替補席上，這次攻擊也會對對手的替補席上的每隻寶可夢造成20點傷害。"
+                "zh-tw": "如果電擊魔獸在你的替補席上，這次攻擊也會對對手的替補席上的每隻寶可夢造成20點傷害。",
+                ja: "自分のベンチに「エレキブル」がいるなら、相手のベンチポケモン全員にも20ダメージ。"
             },
             damage: 70
         }

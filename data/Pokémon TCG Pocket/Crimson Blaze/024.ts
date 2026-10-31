@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/024"
     },
     name: {
         en: "Magnemite",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magnemite",
         "de": "Magnetilo",
         "pt-br": "Magnemite",
-        "zh-tw": "小磁怪"
+        "zh-tw": "小磁怪",
+        ja: "コイル"
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le onde elettromagnetiche emesse dalle unità\nai lati della sua testa espellono l'antigravità, che\ngli permette di galleggiare.",
         "de": "Die von den Einheiten ausgesendeten elektromagnetischen Wellen\nan den Seiten seines Kopfes stoßen Antigravitation aus, die\nlässt es schweben.",
         "pt-br": "As ondas eletromagnéticas emitidas pelas unidades\nnas laterais de sua cabeça expelem antigravidade, que\npermite que ele flutue.",
-        "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。"
+        "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。",
+        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Palla elettrica",
                 "de": "Elektroball",
                 "pt-br": "Bola Eletro",
-                "zh-tw": "電球"
+                "zh-tw": "電球",
+                ja: "エレキボール"
             },
             damage: 30,
             cost: ["Lightning"]

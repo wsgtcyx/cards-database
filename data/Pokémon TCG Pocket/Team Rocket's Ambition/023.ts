@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/023",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/023"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/023"
     },
     name: {
         en: "Zebstrika",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando sentono il rombo di un tuono, seguono in gruppo le nubi temporalesche per permettere ai Blitzle della mandria di caricarsi di elettricità.",
         de: "Hören sie Donnergrollen, jagen sie in der Herde den Gewitterwolken hinterher, damit die Elezeba in ihren Reihen daraus Strom tanken können.",
         "pt-br": "Assim que a manada escuta um trovão, persegue as nuvens carregadas para que os Blitzle do grupo possam usar os raios e recarregar suas energías.",
-        "zh-tw": "為了讓群體裡的斑斑馬能透過雷電充電，只要一聽到雷鳴聲，就會成群追趕雷雲。"
+        "zh-tw": "為了讓群體裡的斑斑馬能透過雷電充電，只要一聽到雷鳴聲，就會成群追趕雷雲。",
+        ja: "雷鳴を 聞くと 群れの シママが 雷から 充電できるように 群れで 雷雲を 追いかける。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Dinamocalcio",
                 de: "Stromtritt",
                 "pt-br": "Chute Zap",
-                "zh-tw": "電氣踢"
+                "zh-tw": "電氣踢",
+                ja: "エレキック"
             },
             damage: 50
         }

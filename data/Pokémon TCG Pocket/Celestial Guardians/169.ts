@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/169",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/169",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/169"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/169",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/169"
     },
     name: {
         en: "Sandygast",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sandygast",
         de: "Sankabuh",
         'pt-br': "Sandygast",
+        ja: "スナバァ",
         ko: "모래꿍",
         "zh-tw": "沙丘娃",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Se gli capita di perdere la paletta si infila in testa un ramo o\nun altro oggetto per distrarsi in attesa di trovarne una nuova.",
         de: "Wenn es seine Schaufel verliert, steckt es etwas\nanderes in seinen Kopf, zum Beispiel einen Zweig.\nSo lenkt es sich ab, bis es eine neue findet.",
         'pt-br': "Se perder sua pá, colocará qualquer coisa na cabeça,\ncomo um graveto, até encontrar outra.",
+        ja: "スコップを なくすと 木の枝などを 代わりに 挿し 新たな スコップが 見つかるまで 気を 紛らわす。",
         ko: "삽을 잃어버리면\n나뭇가지 등을 대신 꽂고 다니며\n새로운 삽을 찾을 때까지 마음을 달랜다.",
         "zh-tw": "如果它丟了鏟子，它就會把別的東西——比如樹枝——插在自己的頭上湊合，直到找到另一把鏟子。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Vibrazione",
                 de: "Schwingung",
                 'pt-br': "Vibração",
+                ja: "しんどう",
                 ko: "진동",
                 "zh-tw": "振動"
             },

@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/364",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/364",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/364",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/364"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/364",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/364"
 	},
 	name: {
         en: "Pikachu ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pikachu-ex",
         "pt-br": "Pikachu ex",
         "zh-tw": "皮卡丘ex",
+        ja: "ピカチュウex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Circuito circolare",
                 "de": "Kreisschaltung",
                 "pt-br": "Circuito Círculo",
-                "zh-tw": "環形電路"
+                "zh-tw": "環形電路",
+                ja: "エレキサークル"
             },
             damage: "30×",
             cost: ["Lightning", "Lightning"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni per ciascuno dei tuoi Pokémon {L} in panchina.",
                 "de": "Dieser Angriff fügt jedem {L}-Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon {L} no Banco.",
-                "zh-tw": "此攻擊對你的每個後備 {L} 神奇寶貝造成 30 點傷害。"
+                "zh-tw": "此攻擊對你的每個後備 {L} 神奇寶貝造成 30 點傷害。",
+                ja: "自分のベンチの{L}ポケモンの数×30ダメージ。"
             }
         }],
     weaknesses: [{

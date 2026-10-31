@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/117",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/117"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/117"
     },
     name: {
         en: "Bronzong",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bronzong",
         de: "Bronzong",
         'pt-br': "Bronzong",
+        ja: "ドータクン",
         ko: "동탁군",
         "zh-tw": "青銅鐘",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bronzel",
         "pt-br": "Bronzor",
         "zh-tw": "銅鏡怪",
+        ja: "ドーミラー",
     },
     description: {
         en: "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È stato venerato per secoli come Pokémon che\nporta la pioggia. A volte lo si trova sepolto nel terreno.",
         de: "Vor Urzeiten wurden sie als Regenmacher verehrt.\nManchmal findet man eines von ihnen im Boden vergraben.",
         'pt-br': "Nas idades antigas, este Pokémon era reverenciado\ncomo aquele que fazia chover. Ele foi descoberto\nenterrado no chão.",
+        ja: "雨雲を 呼べる ポケモンとして 大昔から まつられていた。 ときどき 地面に 埋められている。",
         ko: "비구름을 부르는 포켓몬으로\n아주 옛날부터 떠받들어졌다.\n가끔 땅에 묻혀 있다.",
         "zh-tw": "在過去的時代，這只神奇寶貝被尊為帶來雨水的使者。被發現埋在地下。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Pressadifesa",
                 de: "Schutzdruck",
                 'pt-br': "Aperto Protetor",
+                ja: "ガードプレス",
                 ko: "가드프레스",
                 "zh-tw": "守衛壓力機"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/166",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/166",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/166"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/166"
     },
     name: {
         en: "Blue's Provocation",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "這張卡只有在自己的場上有「妙蛙花」或者「噴火龍」或者「水箭龜」或者「大比鳥」時才可使用。 選擇1隻對手的備戰寶可夢,與戰鬥寶可夢互換。",
         it: "Puoi usare questa carta solo se hai Venusaur, Charizard, Blastoise o Pidgeot in gioco. Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
         de: "Du kannst diese Karte nur einsetzen, wenn du Bisaflor, Glurak, Turtok oder Tauboss im Spiel hast. Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein.",
-        ja: "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+        ja: "このカードは、自分の場に「フシギバナ」または「リザードン」または「カメックス」または「ピジョット」がいるときにしか使えない。 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
         ko: "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
     }
 };

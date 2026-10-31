@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/019"
     },
     name: {
         en: "Jynx",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rossana",
         "pt-br": "Jynx",
         "zh-tw": "迷唇姐",
+        ja: "ルージュラ",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue strane grida sembrano il linguaggio umano.\nCi sono alcuni musicisti che compongono canzoni\nper far cantare Jynx.",
         "de": "Seine seltsamen Schreie klingen wie menschliche Sprache.\nEs gibt einige Musiker, die Lieder komponieren\ndamit Jynx singen kann.",
         "pt-br": "Seus gritos estranhos soam como linguagem humana.\nExistem alguns músicos que compõem músicas\npara Jynx cantar.",
-        "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。"
+        "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。",
+        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Danza abbagliante",
                 "de": "Blendender Tanz",
                 "pt-br": "Dança Deslumbrante",
-                "zh-tw": "炫舞"
+                "zh-tw": "炫舞",
+                ja: "げんわくダンス"
             },
             damage: 40,
             cost: ["Water", "Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/073"
     },
     name: {
         en: "Toucannon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Toucannon",
         de: "Tukanon",
         'pt-br': "Toucannon",
+        ja: "ドデカバシ",
         ko: "왕큰부리",
         "zh-tw": "銃嘴大鳥",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Trumbeak",
         "de": "Trompeck",
         "pt-br": "Trumbeak",
-        "zh-tw": "喇叭啄鳥"
+        "zh-tw": "喇叭啄鳥",
+        ja: "ケララッパ"
     },
     description: {
         en: "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "I Toucannon comunicano tra di loro sbattendo i becchi. La forza\ne il numero dei colpi indicano i sentimenti che vogliono esprimere.",
         de: "Sie kommunizieren miteinander, indem sie ihre\nSchnäbel gegeneinanderschlagen. Stärke und\nAnzahl der Schläge übermitteln ihre Gefühle.",
         'pt-br': "Batem os bicos com outros de sua espécie\npara se comunicar. A quantidade e a força das bicadas\ndemonstram como estão se sentindo.",
+        ja: "仲間と クチバシを 叩き合わせて コミュニケーション。 叩く 強さや 回数で 気持ちを 伝えあう。",
         ko: "동료와 부리를 부딪히며\n커뮤니케이션한다. 부딪히는 강도나\n횟수로 기분을 전달한다.",
         "zh-tw": "它們用喙與同類進行交流。\n攻擊的強度和次數可以告訴對方他們的感受。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Cannonbecco",
                 de: "Schnabelkanone",
                 'pt-br': "Bico Explosivo",
+                ja: "くちばしキャノン",
                 ko: "부리캐논",
                 "zh-tw": "喙爆炸"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Queimado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在被燒毀。"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/048"
     },
     name: {
         en: "Liepard",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Liepard",
         "de": "Kleoparda",
         "pt-br": "Liepard",
-        "zh-tw": "酷豹"
+        "zh-tw": "酷豹",
+        ja: "レパルダス"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Purrloin",
         "de": "Felilou",
         "pt-br": "Purrloin",
-        "zh-tw": "扒手貓"
+        "zh-tw": "扒手貓",
+        ja: "チョロネコ"
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non lasciarti ingannare dalla sua pelliccia splendida ed elegante\nfigura. Questo è un Pokémon lunatico e feroce.",
         "de": "Lassen Sie sich nicht von seinem wunderschönen Fell und seiner Eleganz täuschen\nFigur. Dies ist ein launisches und bösartiges Pokémon.",
         "pt-br": "Não se deixe enganar pelo seu pelo lindo e elegante\nfigura. Este é um Pokémon temperamental e cruel.",
-        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。"
+        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。",
+        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ruba e fuggi",
                 "de": "Schnappen und fliehen",
                 "pt-br": "Arrebatar e Fugir",
-                "zh-tw": "搶奪與逃跑"
+                "zh-tw": "搶奪與逃跑",
+                ja: "うばってドロン"
             },
             damage: 60,
             cost: ["Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il tuo avversario rivela una carta casuale dalla sua mano e la mescola nel suo mazzo. Rimischia questo Pokémon nel tuo mazzo.",
                 "de": "Dein Gegner deckt eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck. Mische dieses Pokémon in dein Deck.",
                 "pt-br": "Seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho. Embaralhe este Pokémon no seu baralho.",
-                "zh-tw": "你的對手從手中隨機展示一張牌並將其洗入牌庫。將這只神奇寶貝洗入你的牌庫。"
+                "zh-tw": "你的對手從手中隨機展示一張牌並將其洗入牌庫。將這只神奇寶貝洗入你的牌庫。",
+                ja: "相手の手札からランダムに1枚、オモテを見て、山札にもどす。このポケモンを山札にもどす。"
             }
         }],
     weaknesses: [{

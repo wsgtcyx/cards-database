@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/328",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/328",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/328",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/328"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/328",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/328"
 	},
 	name: {
         en: "Erika",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Erika",
         "pt-br": "Érica",
         "zh-tw": "莉佳",
+        ja: "エリカ",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 50 danni da 1 dei tuoi Pokémon {G}.",
         "de": "Heile 50 Schadenspunkte bei 1 deiner {G}-Pokémon.",
         "pt-br": "Cure 50 de dano de 1 dos seus Pokémon {G}.",
-        "zh-tw": "治療你的 1 只 {G} 神奇寶貝造成的 50 點傷害。"
+        "zh-tw": "治療你的 1 只 {G} 神奇寶貝造成的 50 點傷害。",
+        ja: "自分の{G}ポケモン1匹のHPを50回復。"
     },
     trainerType: "Supporter"
 };

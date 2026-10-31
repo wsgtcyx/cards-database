@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/290",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/290",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/290",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/290"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/290",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/290"
     },
     name: {
         en: "Rowlet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bauz",
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
+        ja: "モクロー",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Manda le sue piume, che sono altrettanto affilate\ncome lame, volando in attacco. Le sue gambe sono forti,\nquindi anche i suoi calci sono formidabili.",
         "de": "Es schickt seine Federn, die ebenso scharf sind\nals Klingen, die im Angriff fliegen. Seine Beine sind stark,\nDaher sind auch seine Tritte beeindruckend.",
         "pt-br": "Ele envia suas penas, que são tão afiadas\ncomo lâminas, voando em ataque. Suas pernas são fortes,\nentão seus chutes também são formidáveis.",
-        "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。"
+        "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。",
+        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Immersione di abilità",
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
-                "zh-tw": "技能潛水"
+                "zh-tw": "技能潛水",
+                ja: "ちょくげきひこう"
             },
             cost: ["Grass"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。",
+                ja: "相手のポケモン1匹に10ダメージ。"
             }
         }],
     weaknesses: [{

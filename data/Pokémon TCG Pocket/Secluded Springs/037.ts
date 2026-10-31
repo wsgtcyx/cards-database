@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/037"
     },
     name: {
         en: "Latios",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Latios",
         "pt-br": "Latios",
         "zh-tw": "拉帝歐斯",
+        ja: "ラティオス",
     },
     illustrator: "rika",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Capisce il linguaggio umano ed è altamente\nintelligente. È un Pokémon tenero quello\nnon ama combattere.",
         "de": "Es versteht die menschliche Sprache und ist sehr gut\nintelligent. Es ist ein zartes Pokémon\nkämpft nicht gern.",
         "pt-br": "Ele entende a fala humana e é altamente\ninteligente. É um Pokémon gentil que\nnão gosta de lutar.",
-        "zh-tw": "它能理解人類的語言並且具有高度\n聰明。這是一隻溫柔的神奇寶貝\n不喜歡打鬥。"
+        "zh-tw": "它能理解人類的語言並且具有高度\n聰明。這是一隻溫柔的神奇寶貝\n不喜歡打鬥。",
+        ja: "高い 知能を 持ち 人間の 言葉を 理解する。 争いを 嫌う 優しい ポケモンだ。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Galleggiante fantastico",
                 "de": "Fantastisches Schweben",
                 "pt-br": "Flutuante Fantástico",
-                "zh-tw": "夢幻漂浮"
+                "zh-tw": "夢幻漂浮",
+                ja: "むげんフロート"
             },
             effect: {
                 en: "If you have Latias in play, this Pokémon has no Retreat Cost.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Se hai Latias in gioco, questo Pokémon non ha costo di ritirata.",
                 "de": "Wenn du Latias im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
                 "pt-br": "Se você tiver Latias em jogo, este Pokémon não terá custo de Recuo.",
-                "zh-tw": "如果你有拉帝亞斯在場，這只神奇寶貝沒有撤退成本。"
+                "zh-tw": "如果你有拉帝亞斯在場，這只神奇寶貝沒有撤退成本。",
+                ja: "自分の場に「ラティアス」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Epurazione della lucentezza",
                 "de": "Glanzreinigung",
                 "pt-br": "Purga de brilho",
-                "zh-tw": "光澤淨化"
+                "zh-tw": "光澤淨化",
+                ja: "ラスターパージ"
             },
             damage: 120,
             cost: ["Psychic", "Psychic", "Psychic"],
@@ -75,7 +81,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie da questo Pokémon.",
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的所有能量。"
+                "zh-tw": "丟棄該神奇寶貝的所有能量。",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/061"
     },
     name: {
         en: "Poliwrath",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Poliwrath",
         de: "Quappo",
         'pt-br': "Poliwrath",
+        ja: "ニョロボン",
         ko: "강챙이",
         "zh-tw": "蚊香泳士",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Poliwhirl",
         "de": "Quaputzi",
         "pt-br": "Poliwhirl",
-        "zh-tw": "蚊香君"
+        "zh-tw": "蚊香君",
+        ja: "ニョロゾ"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Respinta",
                 de: "Gegenangriff",
                 'pt-br': "Contra-ataque",
+                ja: "はんげき",
                 ko: "반격",
                 "zh-tw": "反擊"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
                 'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
                 ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
                 "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 'pt-br': "Megassoco",
+                ja: "メガトンパンチ",
                 ko: "메가톤펀치",
                 "zh-tw": "超級沖床"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Il suo corpo è un ammasso di muscoli. Nuota\nanche nei mari più freddi frantumando il ghiaccio\nfluttuante con le braccia vigorose per farsi strada.",
         de: "Sein ganzer Körper besteht fast nur aus Muskeln.\nIn kalten Meeren zerschlägt es mit seinen starken\nArmen Treibeis, um voranzukommen.",
         'pt-br': "Seu corpo é puro músculo. Quando nada por mares\ngelados, Poliwrath usa seus braços incríveis para\nesmagar o gelo à frente e abrir caminho.",
+        ja: "全身が 筋肉の 塊。 寒い 海でも たくましい 腕で 流氷を 砕き 突き進む。",
         ko: "전신이 근육 덩어리다.\n추운 바다에서도 늠름한 팔로\n유빙을 부수며 힘차게 나아간다.",
         "zh-tw": "它的身體是堅實的肌肉。當在寒冷的海洋中游泳時，波利瓦斯會用其令人印象深刻的手臂擊碎流冰並向前推進。"
     },

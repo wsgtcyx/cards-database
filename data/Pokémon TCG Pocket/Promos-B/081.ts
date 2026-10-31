@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/081",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/081",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/081"
     },
     name: {
         en: "Carvanha",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane dei Carvanha.",
         de: "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
         "pt-br": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
-        "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。"
+        "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。",
+        ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Acquagetto",
                 de: "Wasserdüse",
                 "pt-br": "Aqua Jato",
-                "zh-tw": "水流噴射"
+                "zh-tw": "水流噴射",
+                ja: "アクアジェット"
             },
             effect: {
                 en: "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 隻寶可夢造成 10 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 隻寶可夢造成 10 點傷害。",
+                ja: "相手のベンチポケモン1匹にも10ダメージ。"
             },
             damage: 10
         }

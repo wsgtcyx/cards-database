@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/043"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/043"
     },
     name: {
         en: "Meditite",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Meditite",
         de: "Meditie",
         'pt-br': "Meditite",
+        ja: "アサナン",
         ko: "요가랑",
         "zh-tw": "瑪沙那",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Non rinuncia mai alla sua ora di yoga\nquotidiana. La meditazione gli permette\ndi aumentare la sua forza interiore.",
         de: "Es vergisst nie sein tägliches Yogatraining.\nDurch Meditation erhöht es seine innere Stärke.",
         'pt-br': "Nunca perde um dia de ioga.\nAumenta sua força interior com meditação.",
+        ja: "毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。",
         ko: "매일 요가 수행을 거르지 않는다.\n명상을 통해서 정신력을 높인다.",
         "zh-tw": "它從不跳過日常瑜伽訓練。它通過冥想增強其內在力量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Calcio",
                 de: "Tritt",
                 'pt-br': "Chute",
+                ja: "キック",
                 ko: "킥",
                 "zh-tw": "踢"
             },

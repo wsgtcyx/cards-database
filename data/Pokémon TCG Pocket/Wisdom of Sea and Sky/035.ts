@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/035"
     },
     name: {
         en: "Darumaka",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flampion",
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
+        ja: "ダルマッカ",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Deriva il suo potere dal fuoco che brucia all'interno\nil suo corpo. Se il fuoco diminuisce, questo Pokémon lo farà\naddormentarsi immediatamente.",
         "de": "Seine Kraft bezieht es aus dem Feuer, das im Inneren brennt\nsein Körper. Wenn das Feuer nachlässt, wird dieses Pokémon es tun\nsofort einschlafen.",
         "pt-br": "Seu poder deriva do fogo queimando dentro\nseu corpo. Se o fogo diminuir, este Pokémon irá\nadormecer imediatamente.",
-        "zh-tw": "它的力量來自於內部燃燒的火焰\n它的身體。如果火勢減弱，這只神奇寶貝將會\n立即入睡。"
+        "zh-tw": "它的力量來自於內部燃燒的火焰\n它的身體。如果火勢減弱，這只神奇寶貝將會\n立即入睡。",
+        ja: "体の 中で 燃える 炎が パワーの 源。 火が 小さく なると たちまち 眠ってしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 30,
             cost: ["Fire", "Colorless"]

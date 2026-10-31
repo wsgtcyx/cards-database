@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/070",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/070",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/070"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/070"
     },
     name: {
         en: "Milotic ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Barschwa",
         "pt-br": "Feebas",
         "zh-tw": "醜醜魚",
-        ja: "Feebas",
+        ja: "ヒンバス",
         ko: "Feebas"
     },
     stage: "Stage1",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Aqualadung",
                 "pt-br": "Carga Aquática",
                 "zh-tw": "水流充能",
-                ja: "Aqua Charge",
+                ja: "アクアチャージ",
                 ko: "Aqua Charge"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la a este Pokémon.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{W}能量,附於這隻寶可夢身上。",
-                ja: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。",
                 ko: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
             }
         }
@@ -87,7 +88,7 @@ const card: Card = {
                 de: "Aquawelle",
                 "pt-br": "Pulso d'Água",
                 "zh-tw": "水之波動",
-                ja: "Water Pulse",
+                ja: "みずのはどう",
                 ko: "Water Pulse"
             },
             effect: {
@@ -98,7 +99,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢睡眠。",
-                ja: "Your opponent's Active Pokémon is now Asleep.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "Your opponent's Active Pokémon is now Asleep."
             },
             damage: 80

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/002"
     },
     name: {
         en: "Mega Pinsir ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mega-Pinsir-ex",
         "pt-br": "Mega Pinsir ex",
         "zh-tw": "超級凱羅斯ex",
+        ja: "メガカイロスex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'influenza della Mega Evoluzione lo lascia in a\nstato di continua eccitazione. Trafigge i nemici\ncon le sue due grandi corna prima di triturarle.",
         "de": "Der Einfluss von Mega Evolution lässt es in einem\nZustand ständiger Aufregung. Es durchdringt Feinde\nmit seinen zwei großen Hörnern, bevor er sie zerfetzt.",
         "pt-br": "A influência da Mega Evolução deixa-o em uma\nestado de excitação constante. Ele perfura os inimigos\ncom seus dois grandes chifres antes de triturá-los.",
-        "zh-tw": "超級進化的影響使其陷入了困境\n持續興奮的狀態。它刺穿敵人\n用它的兩個大角，然後將它們撕碎。"
+        "zh-tw": "超級進化的影響使其陷入了困境\n持續興奮的狀態。它刺穿敵人\n用它的兩個大角，然後將它們撕碎。",
+        ja: "メガシンカの 影響で 常に 興奮。 2本の 大角で 敵を 刺し貫いてから 引き裂く。"
     },
     stage: "Basic",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Forbici critiche",
                 "de": "Kritische Schere",
                 "pt-br": "Tesoura Crítica",
-                "zh-tw": "關鍵剪刀"
+                "zh-tw": "關鍵剪刀",
+                ja: "クリティカルシザー"
             },
             damage: "80+",
             cost: ["Grass", "Grass", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 70 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 70 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 70 點額外傷害。",
+                ja: "コインを1回投げオモテなら、70ダメージ追加。"
             }
         }],
     weaknesses: [{

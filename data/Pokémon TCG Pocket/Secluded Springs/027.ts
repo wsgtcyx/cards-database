@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/027"
     },
     name: {
         en: "Eelektrik",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zapplalek",
         "pt-br": "Eelektrik",
         "zh-tw": "麻麻鰻",
+        ja: "シビビール",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Zapplardin",
         "pt-br": "Tynamo",
         "zh-tw": "麻麻小魚",
+        ja: "シビシラス",
     },
     description: {
         en: "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si avvolgono attorno ai nemici e li colpiscono\norgani generatori di elettricità che sembrano semplici\nessere modelli circolari.",
         "de": "Sie schlingen sich um Feinde und schocken sie mit ihnen\nStrom erzeugende Organe, die einfach erscheinen\nkreisförmige Muster sein.",
         "pt-br": "Eles se enrolam em torno dos inimigos e os chocam com\nórgãos geradores de eletricidade que parecem simplesmente\nser padrões circulares.",
-        "zh-tw": "他們盤繞敵人並用\n看似簡單的發電器官\n為圓形圖案。"
+        "zh-tw": "他們盤繞敵人並用\n看似簡單的發電器官\n為圓形圖案。",
+        ja: "丸い 模様が 発電 器官。相手に 巻きついてから 模様を 押しつけて 電気を 流すのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Palla elettrica",
                 "de": "Elektroball",
                 "pt-br": "Bola Eletro",
-                "zh-tw": "電球"
+                "zh-tw": "電球",
+                ja: "エレキボール"
             },
             damage: 50,
             cost: ["Lightning", "Colorless"]

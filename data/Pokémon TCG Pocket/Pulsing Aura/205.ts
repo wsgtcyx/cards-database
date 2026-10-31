@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/205",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/205",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/205"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/205"
     },
     name: {
         en: "Cottonee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si difende creando una nuvola di cotone. A volte viene\ntrasportato fino all'altro capo del mondo dai tifoni.",
         de: "Sie schützen sich, indem sie Watte verstreuen.\nManche werden vom Wind bis ans andere Ende\nder Welt getragen.",
         "pt-br": "Dispara algodão do seu corpo para se proteger.\nSe este Pokémon for carregado por um furacão,\npode ir parar do outro lado da Terra.",
-        "zh-tw": "它從體內射出棉花來保護自己。如果它遇到颶風強度的風，它可能會被送到地球的另一邊。"
+        "zh-tw": "它從體內射出棉花來保護自己。如果它遇到颶風強度的風，它可能會被送到地球的另一邊。",
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "飛葉快刀"
+                "zh-tw": "飛葉快刀",
+                ja: "はっぱカッター"
             },
             damage: 20
         }

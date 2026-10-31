@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/031"
     },
     name: {
         en: "Mismagius",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mismagius",
         "de": "Traunmagil",
         "pt-br": "Mismagius",
-        "zh-tw": "夢妖魔"
+        "zh-tw": "夢妖魔",
+        ja: "ムウマージ"
     },
     illustrator: "Ligton",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Misdreavus",
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
-        "zh-tw": "夢妖"
+        "zh-tw": "夢妖",
+        ja: "ムウマ"
     },
     description: {
         en: "Its cries sound like incantations to torment the\nfoe. It appears where you least expect it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue grida sembrano incantesimi per tormentare i\nnemico. Appare dove meno te lo aspetti.",
         "de": "Seine Schreie klingen wie Beschwörungsformeln zur Qual\nFeind. Es erscheint dort, wo Sie es am wenigsten erwarten.",
         "pt-br": "Seus gritos soam como encantamentos para atormentar o\ninimigo. Aparece onde você menos espera.",
-        "zh-tw": "它的叫聲聽起來就像是在折磨人的咒語\n敵人。它會出現在您最意想不到的地方。"
+        "zh-tw": "它的叫聲聽起來就像是在折磨人的咒語\n敵人。它會出現在您最意想不到的地方。",
+        ja: "じゅもんの ような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Potenza immagazzinata",
                 "de": "Gespeicherte Energie",
                 "pt-br": "Energia Armazenada",
-                "zh-tw": "儲存電量"
+                "zh-tw": "儲存電量",
+                ja: "アシストパワー"
             },
             damage: 60,
             cost: ["Psychic", "Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Sposta tutte le Energie {P} da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 "de": "Verschiebe alle {P}-Energien von diesem Pokémon auf 1 deiner Bank-Pokémon.",
                 "pt-br": "Mova todas as Energias {P} deste Pokémon para 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將這只神奇寶貝的所有 {P} 能量轉移到你後備的 1 只神奇寶貝上。"
+                "zh-tw": "將這只神奇寶貝的所有 {P} 能量轉移到你後備的 1 只神奇寶貝上。",
+                ja: "このポケモンから{P}エネルギーをすべて、ベンチポケモン1匹につけ替える。"
             }
         }],
     weaknesses: [{

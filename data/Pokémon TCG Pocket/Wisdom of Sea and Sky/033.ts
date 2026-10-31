@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/033"
     },
     name: {
         en: "Entei",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Entei",
         "pt-br": "Entei",
         "zh-tw": "炎帝",
+        ja: "エンテイ",
     },
     illustrator: "kodama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un Pokémon che corre per tutto il territorio. Si dice\nquello nasce ogni volta che appare un nuovo vulcano.",
         "de": "Ein Pokémon, das durch das Land rast. Es heißt\ndass man jedes Mal geboren wird, wenn ein neuer Vulkan auftaucht.",
         "pt-br": "Um Pokémon que corre pela terra. É dito\naquele nasce toda vez que surge um novo vulcão.",
-        "zh-tw": "在陸地上奔跑的寶可夢。據說\n每當一座新火山出現時，這個火山就會誕生。"
+        "zh-tw": "在陸地上奔跑的寶可夢。據說\n每當一座新火山出現時，這個火山就會誕生。",
+        ja: "新しい 火山が できるたび 生まれてくると 伝えられる 大地を 駆け巡る ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Forte chiarore",
                 "de": "Starkes Aufflackern",
                 "pt-br": "Sinalizador Forte",
-                "zh-tw": "強耀斑"
+                "zh-tw": "強耀斑",
+                ja: "ストロングフレア"
             },
             damage: 110,
             cost: ["Fire", "Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, scarta due Energie casuali assegnate a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Zahl“ wirf 2 zufällige Energien von diesem Pokémon ab.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, descarte 2 Energias aleatórias deste Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果出現反面，則丟棄該神奇寶貝的 2 個隨機能量。"
+                "zh-tw": "拋一枚硬幣。如果出現反面，則丟棄該神奇寶貝的 2 個隨機能量。",
+                ja: "コインを1回投げウラなら、このポケモンからエネルギーをランダムに2個トラッシュ。"
             }
         }],
     weaknesses: [{

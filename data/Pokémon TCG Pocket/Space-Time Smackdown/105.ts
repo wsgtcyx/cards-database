@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/105"
     },
     name: {
         en: "Skorupi",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Skorupi",
         de: "Pionskora",
         'pt-br': "Skorupi",
+        ja: "スコルピ",
         ko: "스콜피",
         "zh-tw": "鉗尾蠍",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si nasconde nella sabbia e aspetta immobile la\npreda. Lui e Sizzlipede hanno antenati in comune.",
         de: "Dieses Pokémon vergräbt sich im Sand und\nlauert dort regungslos seiner Beute auf.\nEs ist artverwandt mit Thermopod.",
         'pt-br': "Após se enterrar na areia, espera pacientemente\numa presa se aproximar. Este Pokémon e Sizzlipede\ntêm uma descendência em comum.",
+        ja: "砂に 体を 埋め じっと 獲物を 待ち続けている。 ヤクデと 祖先が 近い。",
         ko: "모래에 몸을 파묻은 채\n가만히 먹이를 기다린다.\n태우지네와 조상이 가깝다.",
         "zh-tw": "鑽入沙子後，它耐心地等待獵物靠近。這只神奇寶貝和西毛足蟲有著共同的血統。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Perforare",
                 de: "Durchbohren",
                 'pt-br': "Perfurar",
+                ja: "つきさす",
                 ko: "궤찌르기",
                 "zh-tw": "刺穿"
             },

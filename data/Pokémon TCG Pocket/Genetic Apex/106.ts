@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/106"
     },
     name: {
         en: "Zebstrika",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Zebstrika",
         de: "Zebritz",
         'pt-br': "Zebstrika",
+        ja: "ゼブライカ",
         ko: "제브라이카",
         "zh-tw": "雷電斑馬",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Blitzle",
         "de": "Elezeba",
         "pt-br": "Blitzle",
-        "zh-tw": "斑斑馬"
+        "zh-tw": "斑斑馬",
+        ja: "シママ"
     },
     attacks: [{
             cost: ["Lightning"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Tuonolancia",
                 de: "Donnerspeer",
                 'pt-br': "Lança do Trovão",
+                ja: "サンダーアロー",
                 ko: "썬더애로",
                 "zh-tw": "雷霆之矛"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に30ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 30데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。"
             }
@@ -71,6 +76,7 @@ const card: Card = {
         it: "Ha un temperamento sanguigno.\nQuando si arrabbia dalla criniera\nlancia saette in ogni direzione.",
         de: "Ein stürmischer Geselle. Wenn es\nwütend ist, feuert es über seine Mähne\nin alle Richtungen Stromsalven ab.",
         'pt-br': "Quando esse Pokémon mal-humorado fica\nnervoso, dispara raios de sua crina em\ntodas as direções.",
+        ja: "激しい 気性の 持ち主。 荒ぶると たてがみから 雷を 四方八方に 放電する。",
         ko: "격렬한 기질의 소유자.\n날뛰면 갈기에서 번개를\n사방팔방으로 방전한다.",
         "zh-tw": "當這只脾氣暴躁的神奇寶貝狂奔時，它會從鬃毛中向四面八方射出閃電。"
     },

@@ -40,6 +40,7 @@ if (paddleCaller && !path.isAbsolute(paddleCaller)) {
 }
 
 const languageIds = {
+    ja: "ja-JP",
     de: "de-DE",
     it: "it-IT",
     fr: "fr-FR",
@@ -48,6 +49,7 @@ const languageIds = {
     "zh-tw": "zh-Hant"
 };
 const tesseractIds = {
+    ja: "jpn",
     de: "deu+eng",
     it: "ita+eng",
     fr: "fra+eng",
@@ -58,8 +60,18 @@ const tesseractIds = {
 const input = JSON.parse(await readFile(downloadsFile, "utf8"));
 const records = input.records.filter((record) =>
     locales.includes(record.locale) &&
-    (cards.size === 0 || cards.has(record.id) || cards.has(record.id.split("-")[1]))
+    (cards.size === 0 || cards.has(record.id) || cards.has(record.id.split("-").at(-1)))
 );
+
+const identities = new Set();
+for (const record of records) {
+    if (!/^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*-[0-9]{3}$/.test(record.id)) {
+        throw new Error(`invalid card ID: ${record.id}`);
+    }
+    const identity = `${record.locale}:${record.id}`;
+    if (identities.has(identity)) throw new Error(`duplicate card: ${identity}`);
+    identities.add(identity);
+}
 
 for (const locale of locales) {
     if (!languageIds[locale] || (!skipTesseract && !tesseractIds[locale])) {
@@ -115,10 +127,10 @@ function normalizePaddleResult(payload, record) {
 
 const manifest = [];
 await mapLimit(records, concurrency, async (record) => {
-    const number = record.id.split("-")[1];
+    const cardId = record.id;
     const localeDir = path.join(workDir, record.locale);
     await mkdir(localeDir, { recursive: true });
-    const imagePath = path.join(localeDir, `${number}.png`);
+    const imagePath = path.join(localeDir, `${cardId}.png`);
     const response = await fetch(record.sourceUrl);
     if (!response.ok) {
         throw new Error(`${record.id}/${record.locale}: HTTP ${response.status}`);
@@ -175,17 +187,19 @@ for (const locale of locales) {
     ], { stdio: "inherit" });
 
     const vision = JSON.parse(await readFile(visionWorkOutput, "utf8"));
-    const visionByNumber = new Map(
+    const visionByCardId = new Map(
         vision.map((result) => [path.basename(result.path, ".png"), result])
     );
     const normalizedVision = localeRecords.map((record) => {
-        const number = record.id.split("-")[1];
-        const result = visionByNumber.get(number);
+        const cardId = record.id;
+        const result = visionByCardId.get(cardId);
         return {
             id: record.id,
             locale,
             sourceSha256: record.sourceSha256,
-            ...(result?.error ? { error: result.error } : { lines: result?.lines ?? [] })
+            ...(result?.error || !result?.lines?.length
+                ? { error: result?.error || "No recognized text for card image" }
+                : { lines: result.lines })
         };
     });
     await writeFile(
@@ -220,8 +234,8 @@ for (const locale of locales) {
     if (paddleCaller) {
         const paddle = new Array(localeRecords.length);
         await mapLimit(localeRecords.map((record, index) => ({ record, index })), paddleConcurrency, async ({ record, index }) => {
-            const number = record.id.split("-")[1];
-            const rawOutput = path.join(workDir, `paddleocr-${locale}-${number}.json`);
+            const cardId = record.id;
+            const rawOutput = path.join(workDir, `paddleocr-${locale}-${cardId}.json`);
             try {
                 await execFileAsync("python", [
                     paddleCaller,

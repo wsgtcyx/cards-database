@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/164",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/164",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/164"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/164",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/164"
     },
     name: {
         en: "Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom",
         de: "Rotom",
         'pt-br': "Rotom",
+        ja: "ロトム",
         ko: "로토무",
         "zh-tw": "洛托姆"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo corpo simile all'elettricità può introdursi in alcuni\napparecchi, di cui prende il controllo per combinare guai.",
         de: "Sein Körper ähnelt Elektrizität und erlaubt es ihm,\nin einige Geräte einzudringen, um dann damit für\nChaos zu sorgen.",
         'pt-br': "Seu corpo elétrico pode penetrar em alguns tipos\nde máquinas e assumir o controle para fazer malvadezas.",
+        ja: "電気のような 体は 一部の 機械に 入り込むことが できる。そして その体で いたずらする。",
         ko: "전기 같은 몸은\n일부 기계에 들어갈 수 있다.\n그리고 그 몸으로 장난을 친다.",
         "zh-tw": "其電力般的身體可以進入某些機器並進行控制以進行惡作劇。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Laserassalto",
                 de: "Offensiv-Laser",
                 'pt-br': "Laser de Ataque",
+                ja: "アサルトレーザー",
                 ko: "어솔트레이저",
                 "zh-tw": "突擊激光"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più.",
                 de: "Wenn an das Aktive Pokémon deines Gegners eine Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
+                ja: "相手のバトルポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
                 ko: "상대의 배틀 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 30데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝附有神奇寶貝工具，則此攻擊造成的傷害增加 30 點。"
             }

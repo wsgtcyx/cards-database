@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/266",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/266",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/266",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/266"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/266",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/266"
     },
     name: {
         en: "Erika",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Erika",
         de: "Erika",
         'pt-br': "Érica",
+        ja: "エリカ",
         ko: "민화",
         "zh-tw": "莉佳",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Pokémon {G} da 50 danni.",
         de: "Heile 50 Schadenspunkte bei 1 deiner\n{G}-Pokémon.",
         'pt-br': "Cure 50 pontos de dano de 1 dos seus Pokémon {G}.",
+        ja: "自分の{G}ポケモン1匹のHPを50回復。",
         ko: "자신의 {G}포켓몬 1마리의 HP를 50회복.",
         "zh-tw": "治療你的 1 只 {G} 神奇寶貝造成的 50 點傷害。"
     },

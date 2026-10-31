@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/199"
     },
     name: {
         en: "Fisher",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Angler",
         "pt-br": "Pescador",
         "zh-tw": "釣魚者",
+        ja: "釣り人",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Lancia 3 monete. Per ogni testa, un Pokémon {W} viene scelto a caso dalla tua pila degli scarti e aggiunto alla tua mano.",
         "de": "Wirf 3 Münzen. Für jeden Kopf wird ein {W}-Pokémon zufällig aus deinem Ablagestapel ausgewählt und auf deine Hand genommen.",
         "pt-br": "Jogue 3 moedas. Para cada cara, um Pokémon {W} é escolhido aleatoriamente da sua pilha de descarte e colocado na sua mão.",
-        "zh-tw": "翻轉 3 個硬幣。對於每個頭，從你的棄牌堆中隨機選擇一個 {W} 神奇寶貝並將其放入你的手上。"
+        "zh-tw": "翻轉 3 個硬幣。對於每個頭，從你的棄牌堆中隨機選擇一個 {W} 神奇寶貝並將其放入你的手上。",
+        ja: "コインを3回投げ、オモテの数ぶん、自分のトラッシュから{W}ポケモンがランダムに選ばれ、そのカードを手札に加える。"
     },
     trainerType: "Supporter",
     boosters: ["lugia"]

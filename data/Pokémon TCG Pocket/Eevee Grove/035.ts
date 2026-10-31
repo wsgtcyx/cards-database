@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/035"
     },
     name: {
         en: "Mimikyu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mimigma",
         "pt-br": "Mimikyu",
         "zh-tw": "謎擬Ｑ",
+        ja: "ミミッキュ",
     },
     illustrator: "Eri Yamaki",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon vive in luoghi oscuri non toccati\nluce solare. Quando appare davanti agli umani, si nasconde\nsotto un panno che ricorda un Pikachu.",
         "de": "Dieses Pokémon lebt an dunklen, unberührten Orten\nSonnenlicht. Wenn es vor den Menschen erscheint, versteckt es sich\nselbst unter einem Tuch, das einem Pikachu ähnelt.",
         "pt-br": "Este Pokémon vive em locais escuros, intocados por\nluz solar. Quando aparece diante dos humanos, esconde\n-se sob um pano que lembra um Pikachu.",
-        "zh-tw": "這只神奇寶貝生活在未受污染的黑暗地方\n陽光。當它出現在人類面前時，它卻隱藏起來\n自己被包裹在一塊類似皮卡丘的布下。"
+        "zh-tw": "這只神奇寶貝生活在未受污染的黑暗地方\n陽光。當它出現在人類面前時，它卻隱藏起來\n自己被包裹在一塊類似皮卡丘的布下。",
+        ja: "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Prova a imitare",
                 "de": "Versuchen Sie zu imitieren",
                 "pt-br": "Tente imitar",
-                "zh-tw": "嘗試模仿"
+                "zh-tw": "嘗試模仿",
+                ja: "まねてみる"
             },
             cost: ["Psychic", "Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scegli 1 degli attacchi del Pokémon attivo del tuo avversario e usalo come questo attacco.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wähle 1 Angriff des Aktiven Pokémon deines Gegners und verwende ihn als diesen Angriff.",
                 "pt-br": "Jogue uma moeda. Se sair cara, escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
-                "zh-tw": "拋一枚硬幣。如果正面，則選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。"
+                "zh-tw": "拋一枚硬幣。如果正面，則選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
             }
         }],
     weaknesses: [{

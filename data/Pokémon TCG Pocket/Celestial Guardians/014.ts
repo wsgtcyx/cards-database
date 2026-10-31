@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/014"
     },
     name: {
         en: "Fomantis",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Fomantis",
         de: "Imantis",
         'pt-br': "Fomantis",
+        ja: "カリキリ",
         ko: "짜랑랑",
         "zh-tw": "偽螳草",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Detesta chiunque disturbi le sue pennichelle\ndiurne. Standosene al sole accumula energia\nche poi rilascia in forma di potenti raggi.",
         de: "Es wird nicht gern beim Mittagsschlaf gestört.\nMithilfe der Energie, die es beim Sonnenbaden\nsammelt, kann es Strahlen abfeuern.",
         'pt-br': "Fomantis odeia que interrompam suas sonecas. Dispara\nraios usando a energia que armazena enquanto toma sol.",
+        ja: "昼寝の 邪魔を されるのが 大嫌い。 日光浴で 溜めた エネルギーで ビームを 撃ち出す。",
         ko: "낮잠을 방해받는 것을 매우 싫어한다.\n일광욕으로 모은 에너지로\n빔을 발사할 수 있다.",
         "zh-tw": "Fomantis 討厭小睡被打擾。它利用沐浴在陽光下收集的能量發射光束。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fogliame",
                 de: "Blattwerk",
                 'pt-br': "Folhagem",
+                ja: "このは",
                 ko: "나뭇잎",
                 "zh-tw": "葉子"
             },

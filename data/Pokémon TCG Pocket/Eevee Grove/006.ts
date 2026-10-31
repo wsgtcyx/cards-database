@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/006"
     },
     name: {
         en: "Applin",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Knapfel",
         "pt-br": "Applin",
         "zh-tw": "啃果蟲",
+        ja: "カジッチュ",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Cresce mangiando la polpa di una mela.\nApplin utilizza i propri fluidi corporei per rafforzarsi\nla buccia della mela ed evitare che marcisca.",
         "de": "Es wächst, indem es das Fruchtfleisch eines Apfels isst.\nZur Kräftigung nutzt Applin seine eigene Körperflüssigkeit\ndie Schale des Apfels und verhindern, dass er verrottet.",
         "pt-br": "Ela cresce comendo a polpa de uma maçã.\nApplin usa seu próprio fluido corporal para fortalecer\na casca da maçã e evitar que apodreça.",
-        "zh-tw": "它通過吃蘋果肉來生長。\n阿普林利用自身的體液來強化\n蘋果皮並防止其腐爛。"
+        "zh-tw": "它通過吃蘋果肉來生長。\n阿普林利用自身的體液來強化\n蘋果皮並防止其腐爛。",
+        ja: "りんごの 果肉を 食べて 育つ。 体液で 皮の 強度を 高めつつ 腐らないようにする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 20,
             cost: ["Grass"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/097",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/097"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/097"
     },
     name: {
         en: "Natu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Natu",
         "pt-br": "Natu",
         "zh-tw": "天然雀",
+        ja: "ネイティ",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Poiché le sue ali non sono ancora completamente sviluppate, deve farlo\nspero di andare in giro. Sta sempre fissando\na qualcosa.",
         "de": "Da seine Flügel noch nicht vollständig ausgewachsen sind, muss es das tun\nHop, um herumzukommen. Es starrt immer\nbei etwas.",
         "pt-br": "Como suas asas ainda não estão totalmente desenvolvidas, ele precisa\npule para se locomover. Está sempre olhando\nem alguma coisa.",
-        "zh-tw": "因為它的翅膀還沒有完全長出來，所以它必須\n跳來跳去。它總是凝視著\n在某件事上。"
+        "zh-tw": "因為它的翅膀還沒有完全長出來，所以它必須\n跳來跳去。它總是凝視著\n在某件事上。",
+        ja: "羽が 育ちきって おらず 飛び跳ねるようにして 移動する。 いつも なにかを 見つめている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 10,
             cost: ["Colorless"]

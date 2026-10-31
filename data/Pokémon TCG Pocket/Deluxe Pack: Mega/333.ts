@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/333",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/333",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/333",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/333"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/333",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/333"
     },
     name: {
         en: "Roaring Moon",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Laut einem Artikel einer fragwürdigen Zeitschrift hat dieses Pokémon etwas mit einem Phänomen zu tun, das in einer bestimmten Region auftritt.",
         "pt-br": "Segundo um artigo de uma revista duvidosa, este Pokémon tem alguma conexão com um fenômeno que ocorre em uma certa região.",
         "zh-tw": "根據可疑雜誌的報導來看，這種寶可夢好像跟某個地區會發生的現象有關連。",
-        ja: "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.",
+        ja: "怪しい 雑誌の 記事によると ある 地方で 起こる 現象に 関連する ポケモンらしい。",
         ko: "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
     },
     abilities: [
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Gebrüll der Urzeit",
                 "pt-br": "Rugido Ancestral",
                 "zh-tw": "古代戰吼",
-                ja: "Ancient Roar",
+                ja: "こだいのおたけび",
                 ko: "Ancient Roar"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank spielst, kannst du das Aktive Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá mandar o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "在自己的回合,當從手牌將這張卡放置於備戰區時,可使用1次。將對手的戰鬥寶可夢與備戰寶可夢互換。[[由對手選擇放置於戰鬥場的寶可夢。]]",
-                ja: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
                 ko: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
             }
         }
@@ -87,7 +88,7 @@ const card: Card = {
                 de: "Wind der Finsternis",
                 "pt-br": "Vento da Escuridão",
                 "zh-tw": "暗之風",
-                ja: "Wind of Darkness",
+                ja: "やみのかぜ",
                 ko: "Wind of Darkness"
             },
             damage: 70

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/152",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/152",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/152",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/152"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/152",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/152"
     },
     name: {
         en: "Sweet Honey",
@@ -36,7 +37,7 @@ const card: Card = {
         "zh-tw": "選擇1隻自己的寶可夢。擲硬幣直到出現反面,將那隻寶可夢恢復正面出現的次數×20點傷害相同數值的HP。",
         it: "Scegli uno dei tuoi Pokémon, poi lancia una moneta finché non esce croce. Ogni volta che esce testa, cura quel Pokémon da 20 danni.",
         de: "Wähle 1 deiner Pokémon und wirf anschließend so lange 1 Münze, bis sie Zahl zeigt. Heile pro Kopf 20 Schadenspunkte bei jenem Pokémon.",
-        ja: "Choose 1 of your Pokémon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pokémon.",
+        ja: "自分のポケモンを1匹選ぶ。ウラが出るまでコインを投げ、オモテの数×20ダメージぶん、そのポケモンのHPを回復。",
         ko: "Choose 1 of your Pokémon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pokémon."
     }
 };

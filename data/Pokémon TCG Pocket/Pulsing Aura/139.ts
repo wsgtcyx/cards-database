@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/139",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/139",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/139"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/139"
     },
     name: {
         en: "Stoutland",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Va molto fiero dei suoi splendidi baffi. Si dice\nche la loro lunghezza determini la sua\nsuperiorità o inferiorità rispetto ai suoi simili.",
         de: "Seinen üppigen Schnauzbart trägt es mit Stolz.\nAngeblich entscheidet dessen Länge über die\nRangordnung innerhalb dieser Pokémon-Art.",
         "pt-br": "Stoutland está imensamente orgulhoso de seu impressionante bigode. Diz-se que o comprimento do bigode é o que determina a posição social desta espécie.",
-        "zh-tw": "以氣派的鬍鬚為傲的寶可夢。\n據說在夥伴之間的階級地位\n就取決於鬍鬚的長度。"
+        "zh-tw": "以氣派的鬍鬚為傲的寶可夢。\n據說在夥伴之間的階級地位\n就取決於鬍鬚的長度。",
+        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Zanne Combattenti",
                 de: "Kämpfende Reißzähne",
                 "pt-br": "Caninos de Luta",
-                "zh-tw": "鬥志之牙"
+                "zh-tw": "鬥志之牙",
+                ja: "とうしのキバ"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 70 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 70 de dano a mais.",
-                "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。"
+                "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。"
             },
             damage: "70+"
         }

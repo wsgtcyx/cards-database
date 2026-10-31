@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/113",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/113",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/113"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/113"
     },
     name: {
         en: "Single Strike Urshifu",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo credo è sconfiggere l’avversario con un\ncolpo solo. Si lancia sul nemico e lo colpisce con\nun pugno potenziato al massimo dall’allenamento.",
         de: "Es ist darauf spezialisiert, Gegner mit nur einem\nTreffer zu bezwingen, indem es sie schlagartig\nanfällt und einen fokussierten Hieb austeilt.",
         "pt-br": "Esta forma de Urshifu acredita fortemente no nocaute de um golpe. Sua estratégia é saltar perto dos inimigos e desferir um golpe devastador com o punho endurecido.",
-        "zh-tw": "一擊必殺是牠的信念。\n會衝進對手的懷裡，不留情地\n用千錘百煉的拳頭給予一擊。"
+        "zh-tw": "一擊必殺是牠的信念。\n會衝進對手的懷裡，不留情地\n用千錘百煉的拳頭給予一擊。",
+        ja: "一撃必殺が 信条。 相手の 懐に 飛びこみ 鍛えられた 拳を 叩きこむ。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Doppio tipo",
                 de: "Doppelter Typ",
                 "pt-br": "Tipo Duplo",
-                "zh-tw": "雙重屬性"
+                "zh-tw": "雙重屬性",
+                ja: "ダブルタイプ"
             },
             effect: {
                 en: "As long as this Pokémon is in play, it is {F} and {D} type.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Finché questo Pokémon è in gioco, è di tipo {F} e {D}.",
                 de: "Solange dieses Pokémon im Spiel ist, ist es vom Typ {F} und {D}.",
                 "pt-br": "Enquanto este Pokémon estiver em jogo, ele será do tipo {F} e {D}.",
-                "zh-tw": "只要這隻寶可夢在場，它就是{F}和{D}類型。"
+                "zh-tw": "只要這隻寶可夢在場，它就是{F}和{D}類型。",
+                ja: "このポケモンは、場にいるかぎり{F}と{D}の2つのタイプになる。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Forzacolpo",
                 de: "Powerschuss",
                 "pt-br": "Explosão Poderosa",
-                "zh-tw": "力量爆破"
+                "zh-tw": "力量爆破",
+                ja: "パワーブラスト"
             },
             effect: {
                 en: "Discard a {D} Energy from this Pokémon.",
@@ -92,7 +97,8 @@ const card: Card = {
                 it: "Scarta un'Energia {D} da questo Pokémon.",
                 de: "Wirf eine {D}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {D} deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的 {D} 能量。"
+                "zh-tw": "丟棄該寶可夢的 {D} 能量。",
+                ja: "このポケモンから{D}エネルギーを1個トラッシュ。"
             },
             damage: 110
         }

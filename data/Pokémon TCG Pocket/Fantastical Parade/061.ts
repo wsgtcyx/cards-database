@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/061"
     },
     name: {
         en: "Snubbull",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Snubbull",
         "de": "Snubbull",
         "pt-br": "Snubbull",
-        "zh-tw": "布魯"
+        "zh-tw": "布魯",
+        ja: "ブルー"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I suoi ringhi mettono a disagio i suoi avversari. Questo\ni Pokémon rilassati tendono a dormire metà giornata.",
         "de": "Sein Knurren verunsichert seine Gegner. Dies\nEntspannte Pokémon neigen dazu, den halben Tag zu schlafen.",
         "pt-br": "Seus rosnados deixam seus oponentes inquietos. Isto\nPokémon descontraídos tendem a dormir metade do dia.",
-        "zh-tw": "它的咆哮讓對手感到不安。這個\n悠閒的神奇寶貝往往會睡半天。"
+        "zh-tw": "它的咆哮讓對手感到不安。這個\n悠閒的神奇寶貝往往會睡半天。",
+        ja: "唸り声は 相手を 不安に させる。 普段は のんびり屋で １日の 半分は 寝ているよ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Zanna affilata",
                 "de": "Scharfer Fangzahn",
                 "pt-br": "Presa Afiada",
-                "zh-tw": "尖牙"
+                "zh-tw": "尖牙",
+                ja: "するどいキバ"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

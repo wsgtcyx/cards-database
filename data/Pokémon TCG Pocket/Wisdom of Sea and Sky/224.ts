@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/224",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/224",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/224"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/224",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/224"
     },
     name: {
         en: "Nidorina",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nidorina",
         "pt-br": "Nidorina",
         "zh-tw": "尼多娜",
+        ja: "ニドリーナ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",
+        ja: "ニドラン♀",
     },
     description: {
         en: "The horn on its head has atrophied. It's thought\nthat this happens so Nidorina's children won't get\npoked while their mother is feeding them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il corno sulla sua testa si è atrofizzato. È pensato\nche questo accade in modo che i figli di Nidorina non capiscano\npunzecchiati mentre la madre li dava da mangiare.",
         "de": "Das Horn auf seinem Kopf ist verkümmert. Es ist gedacht\ndass dies geschieht, damit Nidorinas Kinder es nicht bekommen\nstocherte, während ihre Mutter sie fütterte.",
         "pt-br": "O chifre em sua cabeça atrofiou. É pensado\nque isso aconteça para que os filhos de Nidorina não recebam\ncutucados enquanto a mãe os alimenta.",
-        "zh-tw": "它頭上的角已經萎縮了。是以為\n發生這種情況是為了讓尼多麗娜的孩子們不會受到\n當他們的母親餵他們的時候被戳了。"
+        "zh-tw": "它頭上的角已經萎縮了。是以為\n發生這種情況是為了讓尼多麗娜的孩子們不會受到\n當他們的母親餵他們的時候被戳了。",
+        ja: "額の ツノは 子どもに エサを 与えるときに 刺さらないよう 退化したと 考えられている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 30,
             cost: ["Darkness"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/105"
     },
     name: {
         en: "Blitzle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Blitzle",
         de: "Elezeba",
         'pt-br': "Blitzle",
+        ja: "シママ",
         ko: "줄뮤마",
         "zh-tw": "斑斑馬",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Dinamocalcio",
                 de: "Stromtritt",
                 'pt-br': "Chute Zap",
+                ja: "エレキック",
                 ko: "일렉트릭킥",
                 "zh-tw": "電擊踢"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Appare quando il cielo si riempie di fulmini e saette.\nAccumula elettricità attirando i fulmini con la criniera.",
         de: "Es erscheint, wenn Gewitterwolken den\nHimmel verdunkeln. Es fängt mit seiner\nMähne Blitze und hortet ihre Energie.",
         'pt-br': "Surge quando nuvens de tempestade cobrem\no céu. Pode capturar raios com sua crina e\narmazenar a eletricidade.",
+        ja: "雷雲で 空が 覆われると 現れる。たてがみで 雷を キャッチして 電気を ためる。",
         ko: "번개 구름이 하늘을 뒤덮으면\n나타난다. 갈기로 번개를\n붙잡아 전기를 모은다.",
         "zh-tw": "當雷雲遮蓋天空時，它就會出現。它可以用鬃毛捕捉閃電並儲存電力。"
     },

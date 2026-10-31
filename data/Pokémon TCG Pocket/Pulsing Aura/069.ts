@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/069",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/069"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/069"
     },
     name: {
         en: "Hatenna",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Percepisce i sentimenti degli altri esseri viventi. Fai attenzione a non esporlo a forti emozioni per troppo tempo, altrimenti finirà per esaurirsi.",
         de: "Es spürt die Gefühle anderer Lebewesen. Achten Sie darauf, es nicht zu lange starken Emotionen auszusetzen, sonst wird es am Ende erschöpft sein.",
         "pt-br": "Ele sente os sentimentos de outras criaturas vivas. Tenha cuidado para não expô-lo a emoções fortes por muito tempo, ou ele acabará exausto.",
-        "zh-tw": "它能感知其他生物的感受。注意不要讓它長時間暴露在強烈的情緒中，否則它最終會精疲力盡。"
+        "zh-tw": "它能感知其他生物的感受。注意不要讓它長時間暴露在強烈的情緒中，否則它最終會精疲力盡。",
+        ja: "生き物の 気持ちを キャッチする。 強い 感情を 浴び続けると くたびれてしまうため 要注意。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fuggi Fuggi",
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
-                "zh-tw": "踩"
+                "zh-tw": "踩",
+                ja: "ふむ"
             },
             damage: 10
         }

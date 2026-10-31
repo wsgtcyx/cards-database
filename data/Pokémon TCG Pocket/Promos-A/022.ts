@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/022"
     },
     name: {
         en: "Jigglypuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Jigglypuff",
         de: "Pummeluff",
         'pt-br': "Jigglypuff",
+        ja: "プリン",
         ko: "푸린",
         "zh-tw": "胖丁",
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Canto",
                 de: "Gesang",
                 'pt-br': "Canção",
+                ja: "うたう",
                 ko: "노래하기",
                 "zh-tw": "唱歌"
             },
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
@@ -57,6 +61,7 @@ const card: Card = {
         it: "Quando i suoi occhioni rotondi tremolano, canta\nuna misteriosa melodia che fa addormentare.",
         de: "Wenn seine Kulleraugen zu flackern beginnen,\nsingt es ein mysteriöses, wohlklingendes Lied,\ndas Zuhörer in Schlaf versetzt.",
         'pt-br': "Quando seus enormes olhos ficam pesados,\ncanta uma melodia misteriosa e relaxante,\nfazendo com que os inimigos adormeçam.",
+        ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。",
         ko: "초롱초롱한 눈동자가 흔들릴 때\n졸음이 쏟아지게 하는 이상하고\n기분 좋은 노래를 부른다.",
         "zh-tw": "當它巨大的眼睛擺動時，它會唱出神秘的歌聲\n舒緩的旋律可以讓敵人入睡。"
     },

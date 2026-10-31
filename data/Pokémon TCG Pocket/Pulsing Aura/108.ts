@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/108",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/108",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/108"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/108"
     },
     name: {
         en: "Amoonguss",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Amoonguss imita le Poké Ball. Non è ancora chiaro se questo mimetismo sia efficace contro altri Pokémon.",
         de: "Hutsassa ahmt Pokébälle nach. Es ist noch nicht klar, ob diese Mimikry gegen andere Pokémon wirksam ist.",
         "pt-br": "Amoonguss imita Pokébolas. Ainda não está claro se este mimetismo é eficaz contra outros Pokémon.",
-        "zh-tw": "敗露球菇 模仿寶可夢球。目前尚不清楚這種模仿是否對其他寶可夢有效。"
+        "zh-tw": "敗露球菇 模仿寶可夢球。目前尚不清楚這種模仿是否對其他寶可夢有效。",
+        ja: "モンスターボールに 擬態するが ポケモンに 対して 効果が あるのかは よくわかっていない。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Spore Pericolose",
                 de: "Gefährliche Sporen",
                 "pt-br": "Esporos Perigosos",
-                "zh-tw": "險惡孢子"
+                "zh-tw": "險惡孢子",
+                ja: "あぶないほうし"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è avvelenato e paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt vergiftet und gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Envenenado e Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍寶可夢現在中毒並麻痺。"
+                "zh-tw": "拋一枚硬幣。如果正面，對手的活躍寶可夢現在中毒並麻痺。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。"
             },
             damage: 30
         }

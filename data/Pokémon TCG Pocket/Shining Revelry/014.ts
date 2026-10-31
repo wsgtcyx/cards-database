@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/014"
     },
     name: {
         en: "Tentacool",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tentacool",
         de: "Tentacha",
         'pt-br': "Tentacool",
+        ja: "メノクラゲ",
         ko: "왕눈해",
         "zh-tw": "瑪瑙水母"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Non essendo molto abile a nuotare, va in cerca\ndi prede fluttuando in acque poco profonde.",
         de: "Da Tentacha kein besonders guter Schwimmer ist,\ntreibt es in seichten Gewässern an der\nWasseroberfläche und sucht nach Beute.",
         'pt-br': "Tentacool não nada particularmente bem.\nFlutua pela superfície de águas rasas\nenquanto procura por sua presa.",
+        ja: "泳ぐ 力は 強くは ない。 浅い 海の 水面を 漂いながら 獲物を 探す。",
         ko: "헤엄치는 힘은 강하지 않다.\n얕은 바다 수면을 떠다니면서\n먹이를 찾는다.",
         "zh-tw": "Tentacool 並不是一個特別擅長游泳的人。當它尋找獵物時，它會在淺海表面漂流。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Spruzzapioggia",
             de: "Regenplatscher",
             'pt-br': "Chuva Borrifante",
+            ja: "みずかけ",
             ko: "물뿌리기",
             "zh-tw": "雨濺"
         },

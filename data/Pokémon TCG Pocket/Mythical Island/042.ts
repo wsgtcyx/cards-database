@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/042"
     },
     name: {
         en: "Primeape",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Primeape",
         de: "Rasaff",
         'pt-br': "Primeape",
+        ja: "オコリザル",
         ko: "성원숭",
         "zh-tw": "火爆猴",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
+        ja: "マンキー",
     },
     description: {
         en: "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Diventa furioso se si sente osservato.\nInsegue chiunque incontri il suo sguardo.",
         de: "Spürt Rasaff, dass jemand es anblickt, wird es\nrasend vor Wut. Es verfolgt jeden, der es wagt,\nseinen Blick zu erwidern.",
         'pt-br': "Fica incrivelmente furioso se perceber que\nestá sendo observado. Persegue qualquer\num que o encarar.",
+        ja: "だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。",
         ko: "누군가의 시선을 느끼기만 해도\n대단히 화를 낸다. 그리고\n눈이 마주친 상대를 쫓아다닌다.",
         "zh-tw": "如果它感覺到有人在看它，它就會變得非常憤怒。它會追逐任何遇到它目光的人。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Pugno",
                 de: "Boxhieb",
                 'pt-br': "Soco",
+                ja: "パンチ",
                 ko: "펀치",
                 "zh-tw": "沖床"
             },

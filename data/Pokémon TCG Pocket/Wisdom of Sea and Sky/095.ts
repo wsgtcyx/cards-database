@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/095"
     },
     name: {
         en: "Gliscor",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Skorgro",
         "pt-br": "Gliscor",
         "zh-tw": "天蠍王",
+        ja: "グライオン",
     },
     illustrator: "Shiburingaru",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Skorgla",
         "pt-br": "Gligar",
         "zh-tw": "天蠍",
+        ja: "グライガー",
     },
     description: {
         en: "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Osserva la preda mentre pende capovolto\nrami. Quando si presenta l'occasione,\npiomba!",
         "de": "Es beobachtet Beute, während es kopfüber hängt\nZweige. Wenn sich die Chance bietet,\nes schwappt!",
         "pt-br": "Ele observa a presa enquanto está pendurado invertido\nfiliais. Quando a oportunidade se apresenta,\nele desce!",
-        "zh-tw": "它倒掛在空中觀察獵物\n分支機構。當機會出現時，\n它猛撲！"
+        "zh-tw": "它倒掛在空中觀察獵物\n分支機構。當機會出現時，\n它猛撲！",
+        ja: "尻尾で 木の枝に ぶら下がり 獲物を 観察する。すきを 見て 上空から 襲いかかる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna affilata",
                 "de": "Scharfer Fangzahn",
                 "pt-br": "Presa Afiada",
-                "zh-tw": "尖牙"
+                "zh-tw": "尖牙",
+                ja: "するどいキバ"
             },
             damage: 60,
             cost: ["Colorless", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/088"
     },
     name: {
         en: "Cranidos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cranidos",
         de: "Koknodon",
         'pt-br': "Cranidos",
+        ja: "ズガイドス",
         ko: "두개도스",
         "zh-tw": "頭蓋龍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Kopffossil",
         "pt-br": "Fóssil Crânio",
         "zh-tw": "頭蓋化石",
+        ja: "ずがいの化石",
     },
     description: {
         en: "A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Pokémon che esisteva in epoca antica, dotato di un cranio duro\ne resistente ma dall'intelligenza non altrettanto sviluppata.",
         de: "Dieses urzeitliche Pokémon war trotz seines\nharten, robusten Schädels nicht sehr schlau.",
         'pt-br': "É um Pokémon primitivo e sem inteligência\nque possui um crânio duro e resistente.",
+        ja: "太古の ポケモン。 硬くて 丈夫な 頭蓋骨を 持つが 頭は 相当に 悪かった。",
         ko: "태곳적 포켓몬. 딱딱하고\n튼튼한 두개골을 가졌지만\n머리는 정말 나빴다.",
         "zh-tw": "它是一種原始神奇寶貝，擁有堅硬的頭骨，內部缺乏任何智慧。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

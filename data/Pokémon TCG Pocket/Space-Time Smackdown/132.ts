@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/132"
     },
     name: {
         en: "Starly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Starly",
         de: "Staralili",
         'pt-br': "Starly",
+        ja: "ムックル",
         ko: "찌르꼬",
         "zh-tw": "姆克兒",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sorvola i campi in grandi stormi a caccia di Pokémon\nColeottero. Il suo canto è alquanto fastidioso.",
         de: "Auf der Suche nach Käfer-Pokémon fliegen Schwärme\nvon ihnen durchs Land. Ihr Ruf erzeugt großen Lärm.",
         'pt-br': "Juntam-se ao redor de montanhas e campos,\ncaçando Pokémon inseto. Seu canto é barulhento\ne irritante.",
+        ja: "むしポケモンを ねらって 野山を 大勢の 群れで 飛び回る。 鳴き声が とても やかましい。",
         ko: "벌레포켓몬을 노리고 산과 들을\n많은 무리로 날아다닌다.\n울음소리가 무척 시끄럽다.",
         "zh-tw": "它們成群結隊地在山脈和田野周圍追逐蟲子神奇寶貝。他們的歌聲吵鬧而煩人。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Spennata",
                 de: "Pflücker",
                 'pt-br': "Colher",
+                ja: "ついばむ",
                 ko: "쪼아대기",
                 "zh-tw": "採摘"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Prima di infliggere danni, scarta tutti gli Oggetti Pokémon dal Pokémon attivo del tuo avversario.",
                 de: "Bevor du Schaden zufügst, lege alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
                 ko: "데미지를 주기 전에 상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다.",
                 "zh-tw": "在造成傷害之前，丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。"
             }

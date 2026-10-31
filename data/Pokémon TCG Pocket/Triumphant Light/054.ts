@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/054"
     },
     name: {
         en: "Magneton",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magneton",
         de: "Magneton",
         'pt-br': "Magneton",
+        ja: "レアコイル",
         ko: "레어코일",
         "zh-tw": "三合一磁怪",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
+        ja: "コイル",
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Tre Magnemite sono uniti da una\npotente forza magnetica. Se ci si\navvicina troppo, le orecchie fischiano.",
         de: "Drei Magnetilo sind durch ein starkes\nMagnetfeld verbunden. In seiner Nähe\nbekommt man Ohrensausen.",
         'pt-br': "Três Magnemite estão vinculados por uma força\nmagnética muito poderosa. Se você chegar\nmuito perto, ficará com dor de ouvido.",
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。",
         ko: "3개의 코일은 강한 자력으로\n연결되어 있다. 가까이 다가가면\n강한 귀울림에 시달리게 된다.",
         "zh-tw": "三個磁鐵礦通過強大的磁力連接在一起。如果距離太近，就會出現耳痛。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Attacco Rotolante",
                 de: "Rollender Angriff",
                 'pt-br': "Golpe Rolador",
+                ja: "ボールアタック",
                 ko: "볼어택",
                 "zh-tw": "滾動攻擊"
             },

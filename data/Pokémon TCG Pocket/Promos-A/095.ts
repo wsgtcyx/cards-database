@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/095",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/095",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/095"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/095"
     },
     name: {
         en: "Chinchou",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lampi",
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
+        ja: "チョンチー",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue antenne, evolutesi da una pinna, hanno entrambe le cose\ncariche positive e negative che li attraversano.",
         "de": "Seine Fühler, die sich aus einer Flosse entwickelt haben, haben beides\nDurch sie fließen positive und negative Ladungen.",
         "pt-br": "Suas antenas, que evoluíram a partir de uma nadadeira, possuem tanto\ncargas positivas e negativas fluindo através deles.",
-        "zh-tw": "它的觸角由鰭演化而來，具有\n正電荷和負電荷流過它們。"
+        "zh-tw": "它的觸角由鰭演化而來，具有\n正電荷和負電荷流過它們。",
+        ja: "ひれが 変化して できた 触手は それぞれが プラスと マイナスの 電気が 流れている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Bagliore attirante",
                 "de": "Verlockender Glanz",
                 "pt-br": "Brilho atraente",
-                "zh-tw": "誘人的光芒"
+                "zh-tw": "誘人的光芒",
+                ja: "さそうひかり"
             },
             cost: ["Lightning"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, metti in posizione attiva 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wechselst du 1 Pokémon auf der Bank deines Gegners in die aktive Position.",
                 "pt-br": "Jogue uma moeda. Se der cara, troque 1 dos Pokémon do Banco do seu oponente para o Ponto Ativo.",
-                "zh-tw": "拋一枚硬幣。如果正面，則將對手的 1 只後備神奇寶貝切換到活動位置。"
+                "zh-tw": "拋一枚硬幣。如果正面，則將對手的 1 只後備神奇寶貝切換到活動位置。",
+                ja: "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

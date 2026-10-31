@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/180",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/180"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/180",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/180"
     },
     name: {
         en: "Pidgey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
+        ja: "ポッポ",
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È docile e preferisce evitare i conflitti.\nSe disturbato, tuttavia, può contrattaccare ferocemente.",
         "de": "Es ist fügsam und geht Konflikten lieber aus dem Weg.\nWenn es jedoch gestört wird, kann es heftig zurückschlagen.",
         "pt-br": "É dócil e prefere evitar conflitos.\nSe perturbado, porém, pode contra-atacar ferozmente.",
-        "zh-tw": "它性格溫順，喜歡避免衝突。\n然而，如果受到干擾，它可能會猛烈反擊。"
+        "zh-tw": "它性格溫順，喜歡避免衝突。\n然而，如果受到干擾，它可能會猛烈反擊。",
+        ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

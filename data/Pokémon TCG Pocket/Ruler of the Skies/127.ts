@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/127",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/127",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/127"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/127"
     },
     name: {
         en: "Hydrapple",
@@ -47,7 +48,8 @@ const card: Card = {
         "it": "Un gruppo di Appliserpi capricciose che occupa un unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza.",
         de: "Es entfaltet seine wahre Stärke, wenn sich die zusammenlebende launische Gruppe sogenannter „Schlangel“ ausnahmsweise mal einig ist.",
         "pt-br": "Essas serpentes temperamentais se uniram. Nas raras ocasiões em que seus humores se alinham, seu verdadeiro poder é liberado.",
-        "zh-tw": "由善變的蛇蟲蟲們聚集同住\n在一起，偶爾心靈相通時，\n就會發揮出真正的力量。"
+        "zh-tw": "由善變的蛇蟲蟲們聚集同住\n在一起，偶爾心靈相通時，\n就會發揮出真正的力量。",
+        ja: "気まぐれな オロチュたちの 寄り合い 所帯。 まれに 気持ちが 合うと 本来の 力を 発揮する。※ ブルーベリー学園での冒険で出会うことができます。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Irregolaser",
                 de: "Launenlaser",
                 "zh-tw": "隨機光",
-                "pt-br": "Feixe Volúvel"
+                "pt-br": "Feixe Volúvel",
+                ja: "きまぐレーザー"
             },
             effect: {
                 en: "Flip 2 coins. If all of them are heads, this attack does 100 more damage.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 100 danni in più.",
                 "pt-br": "Jogue 2 moedas. Se todas elas saírem cara, este ataque causará 100 pontos de dano a mais.",
                 "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。",
-                "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."
+                "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu.",
+                ja: "コインを2回投げ、すべてオモテなら、100ダメージ追加。"
             },
             damage: "100+"
         }

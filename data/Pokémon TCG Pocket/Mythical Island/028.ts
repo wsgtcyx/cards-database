@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/028"
     },
     name: {
         en: "Joltik",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Joltik",
         de: "Wattzapf",
         'pt-br': "Joltik",
+        ja: "バチュル",
         ko: "파쪼옥",
         "zh-tw": "電電蟲",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Si aggrappa al corpo di altri Pokémon\ne ne assorbe l'energia elettrostatica.\nNon può produrre elettricità da sé.",
         de: "Wattzapf heftet sich an andere Pokémon und\nsaugt ihnen statische Elektrizität ab. Es selbst\nkann keinen Strom produzieren.",
         'pt-br': "Joltik podem ser encontrados agarrados a outros Pokémon, absorvendo\nenergia estática, já que não conseguem produzir sua própria eletricidade.",
+        ja: "ポケモンの 体に くっついて 静電気を 吸い取る。 自分では 電気を つくることが できない。",
         ko: "포켓몬의 몸에 들러붙어\n정전기를 흡수한다.\n스스로는 전기를 만들 수 없다.",
         "zh-tw": "喬提克被發現粘在其他神奇寶貝身上。它會吸收靜電，因為它本身無法產生電荷。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Coleomorso",
                 de: "Käferbiss",
                 'pt-br': "Picada",
+                ja: "むしくい",
                 ko: "벌레먹기",
                 "zh-tw": "蟲咬"
             },

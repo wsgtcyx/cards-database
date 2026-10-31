@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/095"
     },
     name: {
         en: "Gallade ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gallade-ex",
         de: "Galagladi-ex",
         'pt-br': "Gallade ex",
+        ja: "エルレイドex",
         ko: "엘레이드 ex",
         "zh-tw": "艾路雷朵ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Kirlia",
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
+        ja: "キルリア",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lama Energetica",
                 de: "Energieklinge",
                 'pt-br': "Lâmina Energizada",
+                ja: "エナジーブレード",
                 ko: "에너지 블레이드",
                 "zh-tw": "充能之刃"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
             }

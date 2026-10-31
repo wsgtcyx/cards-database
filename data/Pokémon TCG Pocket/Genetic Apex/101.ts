@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/101"
     },
     name: {
         en: "Electabuzz",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electabuzz",
         de: "Elektek",
         'pt-br': "Electabuzz",
+        ja: "エレブー",
         ko: "에레브",
         "zh-tw": "電擊獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Tuonopugno",
                 de: "Donnerschlag",
                 'pt-br': "Soco Trovoada",
+                ja: "かみなりパンチ",
                 ko: "번개펀치",
                 "zh-tw": "雷霆拳"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu. Bei Zahl fügt dieses Pokémon auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais. Se sair coroa, este Pokémon também causará 20 pontos de dano a si mesmo.",
+                ja: "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Molte centrali elettriche utilizzano\nPokémon di tipo Terra per difendersi\ndagli Electabuzz a caccia di elettricità.",
         de: "In vielen Elektrizitätswerken werden Pokémon\nvom Typ Boden eingesetzt, um Elektek davon\nabzuhalten, den dortigen Strom anzuzapfen.",
         'pt-br': "Muitas usinas mantêm Pokémon de tipo Terrestre\npor perto. Fazem isso para protegê-las de Electabuzz\nque aparecem em busca de eletricidade.",
+        ja: "電気を 狙う エレブーの 対策に じめんポケモンを 置く 発電所は 多い。",
         ko: "전기를 노리는 에레브를\n퇴치하고자 땅포켓몬을 두는\n발전소도 많다.",
         "zh-tw": "許多發電廠都飼養著地面型神奇寶貝，以防御前來尋求電力的電擊獸。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/030"
     },
     name: {
         en: "Swoobat",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fletiamo",
         "pt-br": "Swoobat",
         "zh-tw": "心蝙蝠",
+        ja: "ココロモリ",
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Fleknoil",
         "pt-br": "Woobat",
         "zh-tw": "滾滾蝙蝠",
+        ja: "コロモリ",
     },
     description: {
         en: "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "L'emissione di potenti onde sonore lo stanca.\nSuccessivamente, non sarà in grado di volare per a\npoco tempo.",
         "de": "Das Aussenden starker Schallwellen ermüdet es.\nDanach wird es für eine Weile nicht mehr fliegen können\neine Weile.",
         "pt-br": "Emitir ondas sonoras poderosas cansa.\nDepois disso, não será capaz de voar por um\npouco tempo.",
-        "zh-tw": "發出強大的聲波使其疲憊不堪。\n之後一段時間內將無法飛行\n一會兒。"
+        "zh-tw": "發出強大的聲波使其疲憊不堪。\n之後一段時間內將無法飛行\n一會兒。",
+        ja: "超強力な 音波を 放ったあとは 疲れて しばらく 飛べなくなるよ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Psicocolpo",
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
-                "zh-tw": "心理射擊"
+                "zh-tw": "心理射擊",
+                ja: "サイコショット"
             },
             damage: 40,
             cost: ["Psychic"]

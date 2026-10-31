@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/128",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/128"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/128"
     },
     name: {
         en: "Pikachu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     illustrator: "Mitsuhiro Arita",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando è arrabbiato, scarica immediatamente il\nenergia immagazzinata nelle sacche delle sue guance.",
         "de": "Wenn es verärgert ist, entlädt es sich sofort\nEnergie, die in den Beuteln in seinen Wangen gespeichert ist.",
         "pt-br": "Quando está irritado, ele imediatamente descarrega o\nenergia armazenada nas bolsas em suas bochechas.",
-        "zh-tw": "當它被激怒時，它會立即釋放\n能量儲存在臉頰的眼袋裡。"
+        "zh-tw": "當它被激怒時，它會立即釋放\n能量儲存在臉頰的眼袋裡。",
+        ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rosicchiare",
                 "de": "Nagen",
                 "pt-br": "Roer",
-                "zh-tw": "啃"
+                "zh-tw": "啃",
+                ja: "かじる"
             },
             damage: 20,
             cost: ["Lightning"]

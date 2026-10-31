@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/095",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/095",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/095"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/095"
     },
     name: {
         en: "Silicobra",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le grandi narici di Silicobra sono specializzate per spruzzare sabbia, quindi questo Pokémon non è molto bravo a distinguere i diversi odori.",
         de: "Die großen Nasenlöcher von Salanga sind auf das Versprühen von Sand spezialisiert, daher ist dieses Pokémon nicht sehr gut darin, verschiedene Gerüche zu unterscheiden.",
         "pt-br": "As narinas grandes de Silicobra são especializadas para borrifar areia, então este Pokémon não é muito bom em distinguir cheiros diferentes.",
-        "zh-tw": "沙包蛇的大鼻孔專門用於噴沙，因此這隻寶可夢不太擅長區分不同的氣味。"
+        "zh-tw": "沙包蛇的大鼻孔專門用於噴沙，因此這隻寶可夢不太擅長區分不同的氣味。",
+        ja: "大きな 鼻の穴は 砂を 噴射することに 特化したため 匂いを 嗅ぎ分けることは 苦手。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭錘"
+                "zh-tw": "頭錘",
+                ja: "ずつき"
             },
             damage: 30
         }

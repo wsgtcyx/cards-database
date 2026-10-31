@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/010",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/010",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/010"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/010"
     },
     name: {
         en: "Bramblin",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Weherba",
         "pt-br": "Bramblin",
         "zh-tw": "納噬草",
+        ja: "アノクサ",
         pt: "Bramblin"
     },
     illustrator: "Miki Tanaka",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Nemmeno Bramblin sa dove è diretto mentre precipita attraverso la natura selvaggia, sospinto dal vento. Detesta bagnarsi.",
         "de": "Nicht einmal Weherba weiß, wohin es geht, während es vom Wind verweht durch die Wildnis taumelt. Es hasst es, nass zu werden.",
         "pt-br": "Nem mesmo Bramblin sabe para onde está indo enquanto cai pela selva, levado pelo vento. Ele detesta se molhar.",
-        "zh-tw": "當它被風吹過時，連 納噬草 也不知道它要去哪裡。它討厭被淋濕。"
+        "zh-tw": "當它被風吹過時，連 納噬草 也不知道它要去哪裡。它討厭被淋濕。",
+        ja: "風に吹かれて 荒野を 転がり 行き先は 自分でも わからない。 体が 濡れるのが 大嫌い。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Walzer",
                 "pt-br": "Sair da cama",
                 "zh-tw": "推出",
+                ja: "ころがる",
                 pt: "Rolagem",
                 'es-mx': "Rodada"
             },

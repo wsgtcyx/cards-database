@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/167",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/167",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/167"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/167",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/167"
     },
     name: {
         en: "Kirlia",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kirlia",
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
+        ja: "キルリア",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
+        ja: "ラルトス",
     },
     description: {
         en: "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha un potere psichico che gli consente di distorcere\nlo spazio circostante e vedere nel futuro.",
         "de": "Es verfügt über eine psychische Kraft, die es ihm ermöglicht, zu verzerren\nden Raum um sich herum und blicke in die Zukunft.",
         "pt-br": "Tem um poder psíquico que lhe permite distorcer\no espaço ao seu redor e ver o futuro.",
-        "zh-tw": "它擁有一種精神力量，可以扭曲\n周圍的空間並展望未來。"
+        "zh-tw": "它擁有一種精神力量，可以扭曲\n周圍的空間並展望未來。",
+        ja: "サイコパワーを 操り まわりの 空間を ねじ曲げる ことで 未来を 見通す ことが できる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Schiaffo",
                 "de": "Schlagen",
                 "pt-br": "Tapa",
-                "zh-tw": "拍擊"
+                "zh-tw": "拍擊",
+                ja: "ビンタ"
             },
             damage: 20,
             cost: ["Colorless"]

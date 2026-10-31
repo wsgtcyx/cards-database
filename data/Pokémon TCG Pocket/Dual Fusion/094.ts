@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/094",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/094",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/094"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/094"
     },
     name: {
         en: "Ferrothorn",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Kastadur",
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
-        ja: "Ferroseed",
+        ja: "テッシード",
         ko: "Ferroseed"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Einhämmern",
                 "pt-br": "Martelada",
                 "zh-tw": "頭突",
-                ja: "Hammer In",
+                ja: "ぶちかます",
                 ko: "Hammer In"
             },
             cost: [
@@ -82,7 +83,7 @@ const card: Card = {
         de: "Es kratzt mit seinen Dornen Kerben in Felswände und extrahiert dann mit den Dornenspitzen an seinen Schlingen Nährstoffe aus dem Gestein.",
         "pt-br": "Este Pokémon roça os seus espinhos nas rochas, depois usa as pontas das suas antenas para absorver os nutrientes que encontra dentro das pedras.",
         "zh-tw": "用尖刺刺裂岩壁之後，牠會用觸手的尖端接觸裂縫吸收營養。",
-        ja: "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+        ja: "トゲで 岩盤に キズを つけると 触手の 先端を あてて 栄養を 吸収する。",
         ko: "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone."
     }
 };

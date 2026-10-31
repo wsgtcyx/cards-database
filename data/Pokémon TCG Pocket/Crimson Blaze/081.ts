@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/081",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/081"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/081"
     },
     name: {
         en: "Clemont",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Lem",
         "de": "Citro",
         "pt-br": "Clemont",
-        "zh-tw": "希特隆"
+        "zh-tw": "希特隆",
+        ja: "シトロン"
     },
     illustrator: "Teeziro",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Metti nella tua mano 2 carte casuali tra Magneton, Heliolisk e Zaino di Lem dal tuo mazzo.",
         "de": "Nimm 2 zufällige Karten aus Magneton, Heliolisk und Clemonts Rucksack aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 2 cartas aleatórias entre Magneton, Heliolisk e Clemont's Backpack do seu deck em sua mão.",
-        "zh-tw": "從你的牌組中隨機將 2 張磁力怪、日光蟲和克萊蒙背包放入你的手牌。"
+        "zh-tw": "從你的牌組中隨機將 2 張磁力怪、日光蟲和克萊蒙背包放入你的手牌。",
+        ja: "自分の山札から「レアコイル」「エレザード」「シトロンのリュック」をランダムに2枚、手札に加える。"
     },
     trainerType: "Supporter"
 };

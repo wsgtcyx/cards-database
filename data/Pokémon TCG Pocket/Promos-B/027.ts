@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/027",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/027",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/027"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/027"
     },
     name: {
         en: "Plusle",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon assorbe l'elettricità dai pali del telefono. Mette in cortocircuito l'elettricità immagazzinata nel suo corpo per creare rumori.",
         de: "Dieses Pokémon absorbiert Elektrizität von Telefonmasten. Es schließt die in seinem Körper gespeicherte Elektrizität kurz und erzeugt Geräusche.",
         "pt-br": "Este Pokémon absorve eletricidade de postes telefônicos. Ele causa um curto-circuito na eletricidade armazenada dentro de seu corpo para criar ruídos.",
-        "zh-tw": "這隻寶可夢從電線桿吸收電力。它使體內儲存的電流短路，從而產生噪音。"
+        "zh-tw": "這隻寶可夢從電線桿吸收電力。它使體內儲存的電流短路，從而產生噪音。",
+        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Elettrocoda",
                 de: "Stromschweif",
                 "pt-br": "Cauda Elétrica",
-                "zh-tw": "電尾"
+                "zh-tw": "電尾",
+                ja: "でんきしっぽ"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 10
         }

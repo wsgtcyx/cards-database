@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/040"
     },
     name: {
         en: "Krokorok",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rokkaiman",
         "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
+        ja: "ワルビル",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Ganovil",
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
+        ja: "メグロコ",
     },
     description: {
         en: "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Protetti da sottili membrane, i loro occhi possono vedere\nanche nel cuore della notte. Vivono in gruppi di\nalcuni individui.",
         "de": "Geschützt durch dünne Membranen können ihre Augen sehen\nsogar mitten in der Nacht. Sie leben in Gruppen von\nein paar Einzelpersonen.",
         "pt-br": "Protegidos por membranas finas, seus olhos podem ver\nmesmo na calada da noite. Eles vivem em grupos de\nalguns indivíduos.",
-        "zh-tw": "它們的眼睛受到薄膜的保護，可以看到東西\n即使是在夜深人靜的時候。他們成群結隊地生活\n幾個人。"
+        "zh-tw": "它們的眼睛受到薄膜的保護，可以看到東西\n即使是在夜深人靜的時候。他們成群結隊地生活\n幾個人。",
+        ja: "薄い 膜で 被われている 両目は 真夜中でも 見える。数匹の 群れで 暮らしている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pugno leggero",
                 "de": "Leichter Schlag",
                 "pt-br": "Soco Leve",
-                "zh-tw": "輕拳"
+                "zh-tw": "輕拳",
+                ja: "なぐる"
             },
             damage: 40,
             cost: ["Darkness", "Colorless"]

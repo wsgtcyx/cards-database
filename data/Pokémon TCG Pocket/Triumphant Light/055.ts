@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/055"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/055"
     },
     name: {
         en: "Magnezone",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magnezone",
         de: "Magnezone",
         'pt-br': "Magnezone",
+        ja: "ジバコイル",
         ko: "자포코일",
         "zh-tw": "自爆磁怪",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
+        ja: "レアコイル",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Vola per il cielo inviando misteriose onde\nelettromagnetiche e ricevendo onde sconosciute.",
         de: "Es heißt, dass es beim Herumfliegen mysteriöse Funkwellen\naussende und unbekannte Wellen empfange.",
         'pt-br': "Dizem que enquanto voa pelo céu, emite ondas\neletromagnéticas misteriosas enquanto recebe\nondas desconhecidas.",
+        ja: "怪電波を 発信 しながら 空を 飛び回り 未知の 電波を 受信 していると いう。",
         ko: "괴전파를 발신하며 하늘을 날면서\n미지의 전파를 수신한다고 한다.",
         "zh-tw": "當它在天空中疾馳時，這只神奇寶貝似乎在接收來歷不明的信號，同時發射目的不明的信號。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Tenacia Simbiotica",
                 de: "Widerstandskopplung",
                 'pt-br': "Elo de Resiliência",
+                ja: "ガードリンク",
                 ko: "가드 링크",
                 "zh-tw": "彈性鏈接"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, questo Pokémon subisce -30 danni dagli attacchi.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon receberá −30 pontos de dano de ataques.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが受けるワザのダメージを-30する。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Raggiopotenza",
                 de: "Power-Strahl",
                 'pt-br': "Raio de Poder",
+                ja: "パワービーム",
                 ko: "파워빔",
                 "zh-tw": "動力光束"
             },

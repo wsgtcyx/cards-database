@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/022",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/022",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/022"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/022"
     },
     name: {
         en: "Espathra",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Emette potere psichico dagli spazi tra i suoi fronzoli multicolori e scatta a velocità superiori a 120 mph.",
         de: "Es strahlt psychische Kraft aus den Lücken zwischen seinen bunten Rüschen aus und sprintet mit Geschwindigkeiten von mehr als 120 Meilen pro Stunde.",
         "pt-br": "Ele emite poder psíquico pelas lacunas entre seus babados multicoloridos e corre a velocidades superiores a 190 km/h.",
-        "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。"
+        "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。",
+        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fotocollisione",
                 de: "Lumina-Absturz",
                 "pt-br": "Lumina Crash",
-                "zh-tw": "琉光冲激"
+                "zh-tw": "琉光冲激",
+                ja: "ルミナコリジョン"
             },
             effect: {
                 en: "During your next turn, the Defending Pokémon takes +50 damage from attacks.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, il Pokémon difensore subisce +50 danni dagli attacchi.",
                 de: "Während deines nächsten Zuges erleidet das verteidigende Pokémon +50 Schaden durch Angriffe.",
                 "pt-br": "Durante o seu próximo turno, o Pokémon Defensor sofre +50 de dano de ataques.",
-                "zh-tw": "在你的下一個回合中，防禦寶可夢受到攻擊的傷害+50。"
+                "zh-tw": "在你的下一個回合中，防禦寶可夢受到攻擊的傷害+50。",
+                ja: "次の自分の番、このワザを受けたポケモンが受けるワザのダメージを+50する。"
             },
             damage: 50
         }

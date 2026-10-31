@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/070"
     },
     name: {
         en: "Pokémon Center Lady",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Addetta del Centro Pokémon",
         de: "Pokémon-Center-Dame",
         'pt-br': "Dama do Centro Pokémon",
+        ja: "ポケモンセンターのお姉さん",
         ko: "포켓몬센터 직원",
         "zh-tw": "寶可夢中心的姐姐"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Pokémon da 30 danni. Quel Pokémon guarisce da tutte le condizioni speciali.",
         de: "Heile 30 Schadenspunkte bei 1 deiner Pokémon, und es erholt sich von allen Speziellen Zuständen.",
         'pt-br': "Cure 30 pontos de dano de 1 dos seus Pokémon, e ele se recupera de todas as Condições Especiais.",
+        ja: "自分のポケモン1匹のHPを30回復し、特殊状態もすべて回復。",
         ko: "자신의 포켓몬 1마리의 HP를 30회복하고 특수 상태도 모두 회복.",
         "zh-tw": "治療你的 1 只神奇寶貝造成的 30 點傷害，並且它會從所有特殊狀況中恢復。"
     },

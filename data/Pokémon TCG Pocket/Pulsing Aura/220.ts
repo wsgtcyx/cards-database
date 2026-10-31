@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/220",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/220",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/220"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/220"
     },
     name: {
         en: "Chansey",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Un Pokémon altruista che depone\nuova molto nutrienti e le condivide\ncon persone o Pokémon feriti.",
         de: "Ein freundliches Pokémon, das nahrhafte Eier\nlegt, um diese mit verletzten Pokémon und\nMenschen zu teilen.",
         "pt-br": "Este Pokémon gentil bota ovos bastante nutritivos\ne os compartilha com pessoas ou Pokémon feridos.",
-        "zh-tw": "這種善良的寶可夢會產下營養豐富的蛋，並與受傷的寶可夢或人類分享。"
+        "zh-tw": "這種善良的寶可夢會產下營養豐富的蛋，並與受傷的寶可夢或人類分享。",
+        ja: "傷ついた ポケモンや 人がいると 栄養満点の タマゴを産み 分け与える 優しい ポケモン。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Cura Ferite",
                 de: "Wunden verbinden",
                 "pt-br": "Ligar Ferida",
-                "zh-tw": "療傷"
+                "zh-tw": "療傷",
+                ja: "きずをなおす"
             },
             effect: {
                 en: "Heal 30 damage from 1 of your Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Cura 30 danni da 1 dei tuoi Pokémon.",
                 de: "Heile 30 Schadenspunkte bei 1 deiner Pokémon.",
                 "pt-br": "Cure 30 de dano de 1 dos seus Pokémon.",
-                "zh-tw": "治療你的 1 隻寶可夢造成的 30 點傷害。"
+                "zh-tw": "治療你的 1 隻寶可夢造成的 30 點傷害。",
+                ja: "自分のポケモン1匹のHPを30回復。"
             }
         }
     ],

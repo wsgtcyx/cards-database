@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/030"
     },
     name: {
         en: "Ponyta",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ponita",
         "pt-br": "Ponyta",
         "zh-tw": "小火馬",
+        ja: "ポニータ",
     },
     illustrator: "Jiro Sasumo",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se sei stato accettato da Ponyta, sarà bruciato\nla criniera misteriosamente non è più calda al tatto.",
         "de": "Wenn Sie von Ponyta akzeptiert wurden, brennt es\nMeine Mähne fühlt sich seltsamerweise nicht mehr heiß an.",
         "pt-br": "Se você foi aceito por Ponyta, está queimando\na juba misteriosamente não está mais quente ao toque.",
-        "zh-tw": "如果你被 Ponyta 接受了，它就會燃燒\n鬃毛摸起來不再那麼熱了。"
+        "zh-tw": "如果你被 Ponyta 接受了，它就會燃燒\n鬃毛摸起來不再那麼熱了。",
+        ja: "ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Combustione",
                 "de": "Verbrennung",
                 "pt-br": "Combustão",
-                "zh-tw": "燃燒"
+                "zh-tw": "燃燒",
+                ja: "かえん"
             },
             damage: 40,
             cost: ["Fire", "Fire"]

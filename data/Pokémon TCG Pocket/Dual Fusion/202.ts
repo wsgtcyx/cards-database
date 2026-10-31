@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/202",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/202",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/202"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/202",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/202"
     },
     name: {
         en: "Solgaleo",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Cosmovum",
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
-        ja: "Cosmoem",
+        ja: "コスモウム",
         ko: "Cosmoem"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Sonnenkreis-Klauen",
                 "pt-br": "Garras do Sol",
                 "zh-tw": "日輪之爪",
-                ja: "Claws of the Sunne",
+                ja: "にちりんのツメ",
                 ko: "Claws of the Sunne"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jeden von dir erhaltenen Punkt 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada ponto que você recebeu.",
                 "zh-tw": "增加自己已經獲得的分數×30點傷害。",
-                ja: "This attack does 30 more damage for each point you have gotten.",
+                ja: "自分がすでにとったポイントの数×30ダメージ追加。",
                 ko: "This attack does 30 more damage for each point you have gotten."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Wenn sein ganzer Körper Licht ausstrahlt, nimmt er eine sonnenähnliche Gestalt an und kann so das Dunkel vertreiben und die Welt erhellen.",
         "pt-br": "Quando seu corpo irradia luz, este Pokémon quase poderia ser confundido com o próprio sol, eliminando toda a escuridão e iluminando o mundo.",
         "zh-tw": "當牠全身放出猛烈的光芒，變成如同太陽一樣的身姿時，便會掃去黑暗，照亮世界。",
-        ja: "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
+        ja: "全身から 光を 発して まるで 太陽の 姿になると 闇を 消して 世界を 照らす。",
         ko: "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world."
     }
 };

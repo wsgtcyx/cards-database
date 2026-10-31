@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/136"
     },
     name: {
         en: "Magneton",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
+        ja: "レアコイル",
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
+        ja: "コイル",
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Tre Magnemite sono legati da un forte magnetismo\nforza. Se ti avvicini troppo ti verranno mal d'orecchi.",
         "de": "Drei Magnemite sind durch einen starken Magneten verbunden\nKraft. Wenn Sie zu nahe kommen, treten Ohrenschmerzen auf.",
         "pt-br": "Três Magnemite estão ligadas por um forte campo magnético\nforça. Dores de ouvido ocorrerão se você chegar muito perto.",
-        "zh-tw": "三個磁鐵礦通過強磁性連接在一起\n力。如果距離太近，就會出現耳痛。"
+        "zh-tw": "三個磁鐵礦通過強磁性連接在一起\n力。如果距離太近，就會出現耳痛。",
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Carica Volt",
                 "de": "Volt-Ladung",
                 "pt-br": "Carga Volt",
-                "zh-tw": "電壓充電"
+                "zh-tw": "電壓充電",
+                ja: "ボルトチャージ"
             },
             effect: {
                 en: "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi prendere un'Energia {L} dalla tua Zona Energetica e assegnarla a questo Pokémon.",
                 "de": "Einmal während deines Zuges kannst du eine {L}-Energie aus deiner Energiezone nehmen und sie an dieses Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia {L} da sua Zona de Energia e associá-la a este Pokémon.",
-                "zh-tw": "在你的回合中，你可以從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。"
+                "zh-tw": "在你的回合中，你可以從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Attacco rotante",
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
-                "zh-tw": "旋轉攻擊"
+                "zh-tw": "旋轉攻擊",
+                ja: "かいてんアタック"
             },
             damage: 60,
             cost: ["Lightning", "Colorless", "Colorless", "Colorless"]

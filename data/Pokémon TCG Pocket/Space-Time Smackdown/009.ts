@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/009"
     },
     name: {
         en: "Roserade",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Roserade",
         de: "Roserade",
         'pt-br': "Roserade",
+        ja: "ロズレイド",
         ko: "로즈레이드",
         "zh-tw": "羅絲雷朵",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Roselia",
         "pt-br": "Roselia",
         "zh-tw": "毒薔薇",
+        ja: "ロゼリア",
     },
     description: {
         en: "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Stordisce l'avversario con il profumo intenso dei suoi\nfiori e lo colpisce con le sue fruste piene di spine.",
         de: "Mit dem süßlichen Duft seiner Blüten betört es\nseine Gegner, bevor es sie mit dornigen Ranken\nheftig auspeitscht.",
         'pt-br': "Depois de cativar seus oponentes com seu aroma doce,\ngolpeia-os com seus chicotes espinhosos.",
+        ja: "かぐわしい 花の 香りで 相手を 惑わせ いばらの ムチで 激しく 打ちつける。",
         ko: "향긋한 꽃향기로\n상대를 혼란스럽게 한 다음\n가시 채찍으로 세차게 때린다.",
         "zh-tw": "用甜美的氣味迷惑對手後，用帶刺的鞭子抽打他們。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Frustata Velenosa",
                 de: "Giftpeitsche",
                 'pt-br': "Chicote Venenoso",
+                ja: "どくのムチ",
                 ko: "독채찍",
                 "zh-tw": "毒鞭"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

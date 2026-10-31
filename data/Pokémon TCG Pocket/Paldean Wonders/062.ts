@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/062",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/062",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/062"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/062"
     },
     name: {
         en: "Ting-Lu",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Dinglu",
         "pt-br": "Ting-Lu",
         "zh-tw": "古鼎鹿",
+        ja: "ディンルー",
         pt: "Ting-Lu"
     },
     illustrator: "AKIRA EGAWA",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Abbassa lentamente la sua testa estremamente pesante sul terreno, spaccando la terra con enormi fessure che corrono oltre 160 piedi di profondità.",
         "de": "Langsam senkt es seinen überaus schweren Kopf auf den Boden und reißt die Erde mit riesigen Rissen auf, die über 160 Fuß tief sind.",
         "pt-br": "Ele lentamente traz sua cabeça extremamente pesada para o chão, abrindo a terra com enormes fissuras que chegam a mais de 50 metros de profundidade.",
-        "zh-tw": "它慢慢地將極其沉重的頭放在地上，將大地劈開，裂開深達 160 英尺的巨大裂縫。"
+        "zh-tw": "它慢慢地將極其沉重的頭放在地上，將大地劈開，裂開深達 160 英尺的巨大裂縫。",
+        ja: "とても 重たい 頭を ゆっくり 振り下ろし 深さ５０メートルの 長大な 地割れを 引き起こす。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Arroganter Einschlag",
                 "pt-br": "Impacto Arrogante",
                 "zh-tw": "傲慢的衝擊力",
+                ja: "ごうまんインパクト",
                 pt: "Impacto da Soberba"
             },
             damage: 130,
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Se i PS rimanenti di questo Pokémon sono 60 o meno, questo attacco non ha alcun effetto.",
                 "de": "Wenn die verbleibenden HP dieses Pokémon 60 oder weniger betragen, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Se o HP restante deste Pokémon for 60 ou menos, este ataque não fará nada.",
-                "zh-tw": "如果這隻寶可夢的剩餘生命值為 60 或更少，則此攻擊無效。"
+                "zh-tw": "如果這隻寶可夢的剩餘生命值為 60 或更少，則此攻擊無效。",
+                ja: "このポケモンの残りHPが60以下なら、このワザは失敗。"
             },
         },
     ],

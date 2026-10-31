@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/087",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/087"
     },
     name: {
         en: "Girafarig",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Girafarig",
         "pt-br": "Girafarig",
         "zh-tw": "麒麟奇",
+        ja: "キリンリキ",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La coda di Girafarig ha una testa piccola. È istintivo\nmorde qualsiasi nemico che si avvicina al Pokémon\nda dietro.",
         "de": "Girafarigs Schwanz hat einen kleinen Kopf. Es instinktiv\nbeißt jeden Gegner an, der sich dem Pokémon nähert\nvon hinten.",
         "pt-br": "A cauda do Girafarig tem uma cabeça pequena. Instintivamente\nmorde qualquer inimigo que se aproxime do Pokémon\npor trás.",
-        "zh-tw": "吉拉法里格的尾巴有一個小頭。它本能地\n咬住任何接近神奇寶貝的敵人\n從後面。"
+        "zh-tw": "吉拉法里格的尾巴有一個小頭。它本能地\n咬住任何接近神奇寶貝的敵人\n從後面。",
+        ja: "尻尾にも 小さな 頭がある。 背後から 近づく 敵がいると 本能的に 噛みついてくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Psicoraggio",
                 "de": "Psybeam",
                 "pt-br": "Raio Psíquico",
-                "zh-tw": "心電束"
+                "zh-tw": "心電束",
+                ja: "サイケこうせん"
             },
             damage: 50,
             cost: ["Psychic", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

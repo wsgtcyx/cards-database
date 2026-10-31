@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/048",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/048",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/048"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/048"
     },
     name: {
         en: "Team Rocket's Tinkatink",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Forgia il suo martello colpendo ripetutamente dei pezzi di ferraglia. Se non è soddisfatto del risultato, ricomincia più e più volte da capo.",
         de: "Es stellt seinen Hammer her, indem es Eisenspäne zusammenstampft. Diesen Vorgang wiederholt es so oft, bis es mit dem Ergebnis zufrieden ist.",
         "pt-br": "Este Pokémon usa ferro sucateado para fazer um martelo. Vai refazê-lo o quanto for preciso até ficar contente com o resultado.",
-        "zh-tw": "敲打鐵屑來製作錘子。直到做出自己滿意的作品前，會一次又一次地重做。"
+        "zh-tw": "敲打鐵屑來製作錘子。直到做出自己滿意的作品前，會一次又一次地重做。",
+        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Affondo Lungo",
                 de: "Sprungangriff",
                 "pt-br": "Bote",
-                "zh-tw": "撞倒"
+                "zh-tw": "撞倒",
+                ja: "つきたおし"
             },
             damage: 20
         }

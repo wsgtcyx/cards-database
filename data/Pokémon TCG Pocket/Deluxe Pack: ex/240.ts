@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/240",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/240",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/240",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/240"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/240",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/240"
     },
     name: {
         en: "Umbreon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nachtara",
         "pt-br": "Umbreon",
         "zh-tw": "月亮伊布",
+        ja: "ブラッキー",
     },
     illustrator: "Ryota Murayama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando esposti all'aura della luna, gli anelli sulla sua\nil corpo si illumina debolmente e acquisisce un potere misterioso.",
         "de": "Wenn es der Aura des Mondes ausgesetzt wird, bilden sich die Ringe auf ihm\nDer Körper leuchtet schwach und erhält eine geheimnisvolle Kraft.",
         "pt-br": "Quando expostos à aura da lua, os anéis em sua\ncorpo brilha levemente e ganha um poder misterioso.",
-        "zh-tw": "當暴露在月球的光環下時，其上的光環\n身體隱隱發光，獲得了神秘的力量。"
+        "zh-tw": "當暴露在月球的光環下時，其上的光環\n身體隱隱發光，獲得了神秘的力量。",
+        ja: "月の 波動を 体に 浴びると 輪っか模様が ほのかに 輝き 不思議な 力に 目覚めるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Legatura oscura",
                 "de": "Dunkle Bindung",
                 "pt-br": "Ligação Negra",
-                "zh-tw": "黑暗束縛"
+                "zh-tw": "黑暗束縛",
+                ja: "ブラックバインド"
             },
             damage: 40,
             cost: ["Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se il Pokémon difensore è un Pokémon Base, non può attaccare durante il prossimo turno del tuo avversario.",
                 "de": "Wenn das verteidigende Pokémon ein Basis-Pokémon ist, kann es im nächsten Zug deines Gegners nicht angreifen.",
                 "pt-br": "Se o Pokémon Defensor for um Pokémon Básico, ele não poderá atacar durante o próximo turno do seu oponente.",
-                "zh-tw": "如果防守寶可夢是基礎寶可夢，則在對手的下一個回合中它不能攻擊。"
+                "zh-tw": "如果防守寶可夢是基礎寶可夢，則在對手的下一個回合中它不能攻擊。",
+                ja: "次の相手の番、このワザを受けたたねポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

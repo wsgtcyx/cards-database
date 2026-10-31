@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/125",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/125"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/125"
     },
     name: {
         en: "Jangmo-o",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Jangmo-o",
         de: "Miniras",
         'pt-br': "Jangmo-o",
+        ja: "ジャラコ",
         ko: "짜랑꼬",
         "zh-tw": "心鱗寶",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Impara a lottare facendo cozzare la squama che\nha sulla testa con quella dei suoi simili. In questo\nmodo affina le sue mosse e tempra il suo spirito.",
         de: "Durch Aneinanderschlagen ihrer Kopfschuppen\nbringen sie einander das Kämpfen bei. Dadurch\nverbessern sich ihre Attacken und ihre Stimmung.",
         'pt-br': "Aprendem a lutar ao bater as escamas\nde suas cabeças. O duelo fortalece\ntanto suas habilidades quanto seu espírito.",
+        ja: "頭の ウロコを 仲間同士で ぶつけ合い 戦い方を 学ぶ。 技と 気持ちが 鍛えられる。",
         ko: "머리의 비늘을 동료끼리\n부딪히며 싸우는 법을 배운다.\n이를 통해 기술과 정신을 단련한다.",
         "zh-tw": "它們通過將頭部的鱗片撞在一起來學習戰鬥。決鬥增強了他們的技能和精神。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

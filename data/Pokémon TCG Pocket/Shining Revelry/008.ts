@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/008"
     },
     name: {
         en: "Charmander",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Charmander",
         de: "Glumanda",
         'pt-br': "Charmander",
+        ja: "ヒトカゲ",
         ko: "파이리",
         "zh-tw": "小火龍"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ama le cose calde. Si dice che quando piove\ngli esca vapore dalla punta della coda.",
         de: "Dieses Pokémon bevorzugt heiße Dinge.\nBei Regen soll seine Schwanzspitze dampfen.",
         'pt-br': "Prefere coisas quentes. Quando chove, dizem\nque solta vapor pela ponta de sua cauda.",
+        ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。",
         ko: "뜨거운 것을 좋아하는 성격이다.\n비에 젖으면 꼬리 끝에서\n연기가 난다고 한다.",
         "zh-tw": "它對熱的東西有偏愛。據說下雨時，蒸汽會從它的尾尖噴出。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuoco Continuo",
                 de: "Glühen",
                 'pt-br': "Combustão",
+                ja: "かえん",
                 ko: "화염",
                 "zh-tw": "燃燒"
             },

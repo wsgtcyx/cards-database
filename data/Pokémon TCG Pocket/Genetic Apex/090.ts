@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/090"
     },
     name: {
         en: "Pyukumuku",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pyukumuku",
         de: "Gufa",
         'pt-br': "Pyukumuku",
+        ja: "ナマコブシ",
         ko: "해무기",
         "zh-tw": "拳海參",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Spruzzapioggia",
                 de: "Regenplatscher",
                 'pt-br': "Chuva Borrifante",
+                ja: "みずかけ",
                 ko: "물뿌리기",
                 "zh-tw": "雨濺"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Vive vicino alle spiagge in acque calde e poco\nprofonde. Quando si imbatte in un nemico, lo\nattacca espellendo gli organi interni dalla bocca.",
         de: "Es lebt in warmen Küstengewässern. Trifft es auf\neinen Gegner, öffnet es den Mund und lässt zum\nAngriff seine Organe hervorschnellen.",
         'pt-br': "Vive em águas rasas e quentes. Se encontra\num inimigo, cospe seus órgãos internos\npara enchê-lo de socos.",
+        ja: "温かい 浅瀬で 暮らす。 敵に 出会うと 体内器官を 口から 出して 殴りつける。",
         ko: "따뜻하고 얕은 여울에 산다.\n상대와 마주치면 체내 기관을\n입으로 뿜어서 때려눕힌다.",
         "zh-tw": "它生活在溫暖的淺水中。如果遇到敵人，它會吐出內臟來攻擊敵人。"
     },

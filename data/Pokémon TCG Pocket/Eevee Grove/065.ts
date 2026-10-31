@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/065"
     },
     name: {
         en: "Greedent",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schlaraffel",
         "pt-br": "Greedent",
         "zh-tw": "藏飽栗鼠",
+        ja: "ヨクバリス",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Raffel",
         "pt-br": "Skwovet",
         "zh-tw": "貪心栗鼠",
+        ja: "ホシガリス",
     },
     description: {
         en: "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon scappa con un mucchio di bacche cadute avvolgendole\nnella sua coda, che è circa il doppio della lunghezza del suo corpo.",
         "de": "Dieses Pokémon macht sich mit haufenweise heruntergefallenen Beeren davon, indem es es einwickelt\nsie in seinem Schwanz, der ungefähr doppelt so lang wie sein Körper ist.",
         "pt-br": "Este Pokémon foge com montes de frutas caídas embrulhando-as\nem sua cauda, que tem aproximadamente o dobro do comprimento de seu corpo.",
-        "zh-tw": "這只神奇寶貝通過包裹掉落的漿果堆逃跑\n它們在它的尾巴上，尾巴的長度大約是它身體的兩倍。"
+        "zh-tw": "這只神奇寶貝通過包裹掉落的漿果堆逃跑\n它們在它的尾巴上，尾巴的長度大約是它身體的兩倍。",
+        ja: "体の 約２倍の 長さの 尻尾で 木から 落とした 木の実を ごっそり 包んで 持ち去るぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna potenziata",
                 "de": "Verbesserter Fangzahn",
                 "pt-br": "Presa Aprimorada",
-                "zh-tw": "強化方牙"
+                "zh-tw": "強化方牙",
+                ja: "きょうかまえば"
             },
             damage: "50+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più.",
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

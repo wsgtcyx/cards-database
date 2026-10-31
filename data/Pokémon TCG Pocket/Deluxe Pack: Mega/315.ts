@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/315",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/315",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/315",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/315"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/315",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/315"
     },
     name: {
         en: "Gimmighoul",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Es haust in einer alten Schatztruhe und landet manchmal bei Antiquitätenhändlern in der Ladenecke, da man es nicht als Pokémon erkennt.",
         "pt-br": "Vive dentro de um velho baú de tesouro. Às vezes, fica esquecido nos cantos das lojas porque ninguém percebe que, na verdade, é um Pokémon.",
         "zh-tw": "棲息在老舊的寶箱中，有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。",
-        ja: "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+        ja: "古びた 宝箱の中に 棲む。 ポケモンと 気づかれず 道具屋の 片隅に 置かれていることがある。",
         ko: "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
     },
     stage: "Basic",
@@ -56,7 +57,7 @@ const card: Card = {
                 "pt-br": "Jogadas de Moeda Contínuas",
                 "zh-tw": "連續擲幣",
                 pt: "Jogadas de Moeda Contínuas",
-                ja: "Continuous Coin Toss",
+                ja: "れんぞくコインなげ",
                 ko: "Continuous Coin Toss"
             },
             damage: "20x",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×20點傷害。",
                 pt: "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
-                ja: "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×20ダメージ。",
                 ko: "Flip a coin until you get tails. This attack does 20 damage for each heads."
             }
         }

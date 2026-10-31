@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/097",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/097"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/097"
     },
     name: {
         en: "Piloswine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Keifel",
         "pt-br": "Piloswine",
         "zh-tw": "長毛豬",
+        ja: "イノムー",
     },
     illustrator: "Midori Harada",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Quiekel",
         "pt-br": "Swinub",
         "zh-tw": "小山豬",
+        ja: "ウリムー",
     },
     description: {
         en: "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Se carica un nemico, i peli sulla sua schiena\nstare dritto. È molto sensibile al suono.",
         "de": "Wenn es auf einen Feind zustürmt, fallen ihm die Haare auf dem Rücken weg\nsteh aufrecht. Es ist sehr geräuschempfindlich.",
         "pt-br": "Se atacar um inimigo, os pelos das costas\nfique em pé. É muito sensível ao som.",
-        "zh-tw": "如果它沖向敵人，它背上的毛\n站直。它對聲音非常敏感。"
+        "zh-tw": "如果它沖向敵人，它背上的毛\n站直。它對聲音非常敏感。",
+        ja: "相手 めがけて 突進するとき 背中の 体毛が 逆立つ。 音に ものすごく 敏感。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Rimbalzo della testata",
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
-                "zh-tw": "頭撞彈跳"
+                "zh-tw": "頭撞彈跳",
+                ja: "とびだしヘッド"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"]

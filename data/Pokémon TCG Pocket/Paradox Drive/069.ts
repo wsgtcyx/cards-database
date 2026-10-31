@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/069",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/069"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/069"
     },
     name: {
         en: "Ancient Booster Energy Capsule",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Il Pokémon Antico a cui è assegnata questa carta ottiene +40 HP.",
         de: "Das Ancient-Pokémon, an das diese Karte angelegt ist, erhält +40 HP.",
         "pt-br": "O Pokémon Antigo ao qual esta carta está anexada recebe +40 HP.",
-        "zh-tw": "這張卡所附著的古代寶可夢HP+40。"
+        "zh-tw": "這張卡所附著的古代寶可夢HP+40。",
+        ja: "このカードをつけている「古代」のポケモンの最大HPを+40する。"
     },
     trainerType: "Tool"
 };

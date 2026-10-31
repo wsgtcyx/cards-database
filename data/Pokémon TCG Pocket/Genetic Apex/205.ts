@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/205",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/205"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/205"
     },
     name: {
         en: "Ditto",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ditto",
         de: "Ditto",
         'pt-br': "Ditto",
+        ja: "メタモン",
         ko: "메타몽",
         "zh-tw": "百變怪",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Copia Universale",
                 de: "Alleskopierer",
                 'pt-br': "Cópia Sem Limite",
+                ja: "どこでもコピー",
                 ko: "어디서든복사",
                 "zh-tw": "複製任何內容"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Scegli un attacco dei Pokémon del tuo avversario e usalo al posto di questo attacco. Se questo Pokémon non ha l'Energia necessaria per quell'attacco, questo attacco non ha effetto.",
                 de: "Wähle 1 Attacke der Pokémon deines Gegners und setze sie als diese Attacke ein. Wenn dieses Pokémon nicht die für jene Attacke notwendige Energie hat, hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Escolha 1 dos ataques dos Pokémon do seu oponente e use como este ataque. Se este Pokémon não tiver a Energia necessária para atacar, este ataque não fará nada.",
+                ja: "相手の場のポケモンが持っているワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。",
                 ko: "상대 필드의 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다. 선택한 기술에 필요한 에너지가 이 포켓몬에게 붙어 있지 않으면 이 기술은 실패한다.",
                 "zh-tw": "選擇對手寶可夢的1只攻擊，作為這次攻擊。如果該神奇寶貝沒有使用該攻擊所需的能量，則該攻擊不會執行任何操作。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Sa trasformarsi in maniera perfetta, ma se\nlo si fa ridere perde subito il travestimento.",
         de: "Seine Verwandlungskunst ist perfekt. Bringt man\nes jedoch zum Lachen, fliegt seine Tarnung auf.",
         'pt-br': "Sua capacidade de transformação é perfeita.\nNo entanto, se o fizerem rir, ele não poderá\nmanter seu disfarce.",
+        ja: "変身は 完璧なのだが 笑わされて 力が 抜けると 変身は 解けてしまう。",
         ko: "변신은 완벽하지만\n웃는 바람에 힘이 빠지면\n변신이 풀려 버리고 만다.",
         "zh-tw": "其變形能力堪稱完美。然而，如果讓它笑，它就無法保持其偽裝。"
     },

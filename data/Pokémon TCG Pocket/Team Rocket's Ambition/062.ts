@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/062",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/062",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/062"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/062"
     },
     name: {
         en: "Team Rocket's Kecleon",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Cambia colore per mimetizzarsi e sorprendere la preda. ll disegno sulla pancia rimane sempre visibile.",
         de: "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich.",
         "pt-br": "Muda de cor para se misturar ao ambiente e surpreender a presa. No entanto, não consegue fazer as marcas na sua barriga desaparecerem.",
-        "zh-tw": "能夠改變體色，融入景色中，偷偷地靠近獵物。但腹部的花紋是不會消失的。"
+        "zh-tw": "能夠改變體色，融入景色中，偷偷地靠近獵物。但腹部的花紋是不會消失的。",
+        ja: "体の 色を 変えて 景色に 溶けこみ 獲物に 忍び寄る。 お腹の 模様は 消せないのだ。"
     },
     abilities: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Spionaggio",
                 de: "Spionage",
                 "pt-br": "Operação Espião",
-                "zh-tw": "間諜行動"
+                "zh-tw": "間諜行動",
+                ja: "スパイかつどう"
             },
             effect: {
                 en: "Once during your turn, you may look at a random card from your opponent's hand.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi guardare una carta a caso fra quelle nella mano del tuo avversario.",
                 de: "Einmal während deines Zuges kannst du dir 1 zufällige Karte aus der Hand deines Gegners anschauen.",
                 "pt-br": "Uma vez durante o seu turno, você pode olhar 1 carta aleatória da mão do seu oponente.",
-                "zh-tw": "在自己的回合時,可使用1次。從對手的手牌隨機查看1張卡的正面。"
+                "zh-tw": "在自己的回合時,可使用1次。從對手的手牌隨機查看1張卡的正面。",
+                ja: "自分の番に1回使える。相手の手札からランダムに1枚、オモテを見る。"
             }
         }
     ],
@@ -71,7 +75,8 @@ const card: Card = {
                 it: "Nascondicolpo",
                 de: "Versteckschlag",
                 "pt-br": "Bate e Esconde",
-                "zh-tw": "打擊躲藏"
+                "zh-tw": "打擊躲藏",
+                ja: "なぐってかくれる"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -80,7 +85,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
-                "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+                "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             },
             damage: 40
         }

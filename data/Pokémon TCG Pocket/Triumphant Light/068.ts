@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/068"
     },
     name: {
         en: "Staraptor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Staraptor",
         de: "Staraptor",
         'pt-br': "Staraptor",
+        ja: "ムクホーク",
         ko: "찌르호크",
         "zh-tw": "姆克鷹",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Staravia",
         "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
+        ja: "ムクバード",
     },
     description: {
         en: "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Non appena si evolve, lascia lo stormo e affronta la\nvita da solo. Le sue ali sono estremamente robuste.",
         de: "Entwickelt sich Staravia zu Staraptor, verlässt es\nden Schwarm und lebt allein. Die Spannweite\nseiner Flügel ist gigantisch.",
         'pt-br': "Quando um Staravia evolui para Staraptor,\ndeixa o bando para viver sozinho. Têm asas robustas.",
+        ja: "ムクホークに なると 群れから 離れて １匹で 生きていく。 強靭な 翼を 持っている。",
         ko: "찌르호크가 되면 무리에서\n떨어져 혼자서 살아간다.\n강인한 날개를 가지고 있다.",
         "zh-tw": "當 Staravia 進化成 Staraptor 時，它們會離開羊群獨自生活。它們有堅固的翅膀。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Baldeali",
                 de: "Sturzflug",
                 'pt-br': "Pássaro Bravo",
+                ja: "ブレイブバード",
                 ko: "브레이브버드",
                 "zh-tw": "勇敢的鳥"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+                ja: "このポケモンにも20ダメージ。",
                 ko: "이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
             }

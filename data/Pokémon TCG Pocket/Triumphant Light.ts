@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Lumière Triomphale",
 		it: "Luce Trionfale",
 		'pt-br': "Luz Triunfante",
+		ja: "超克の光",
 		ko: '초극의 빛',
 		'zh-tw': "凱旋之光"
 	},

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/159",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/159",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/159",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/159"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/159",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/159"
     },
     name: {
         en: "Metang",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Tanhel",
         "pt-br": "Beldum",
         "zh-tw": "鐵啞鈴",
-        ja: "Beldum",
+        ja: "ダンバル",
         ko: "Beldum"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es liebt Mineralien, die Magnetfelder erzeugen, weshalb es Nasgnet mit einem Tempo von 100 km/h hinterherjagt.",
         "pt-br": "Adora minerais magnéticos, então persegue Nosepass a velocidades que ultrapassam 100 km/h.",
         "zh-tw": "非常喜歡能放出磁力的礦物。會以１００公里的時速窮追朝北鼻。",
-        ja: "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+        ja: "磁力を 放つ 鉱物が 好物。 時速 １００キロで ノズパスを 追いつめるぞ。",
         ko: "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph."
     },
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Patronenhieb",
                 "zh-tw": "子彈拳",
                 "pt-br": "Soco Projétil",
-                ja: "Bullet Punch",
+                ja: "バレットパンチ",
                 ko: "Bullet Punch"
             },
             effect: {
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte mehr pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano a mais para cada cara.",
                 "zh-tw": "擲2次硬幣,增加正面出現的次數×20點傷害。",
-                ja: "Flip 2 coins. This attack does 20 more damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×20ダメージ追加。",
                 ko: "Flip 2 coins. This attack does 20 more damage for each heads."
             },
             damage: "30+"

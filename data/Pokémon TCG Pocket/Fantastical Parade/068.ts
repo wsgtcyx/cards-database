@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/068"
     },
     name: {
         en: "Lampent",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Lampent",
         "de": "Laternecto",
         "pt-br": "Lampent",
-        "zh-tw": "燈火幽靈"
+        "zh-tw": "燈火幽靈",
+        ja: "ランプラー"
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Litwick",
         "de": "Lichtel",
         "pt-br": "Litwick",
-        "zh-tw": "燭光靈"
+        "zh-tw": "燭光靈",
+        ja: "ヒトモシ"
     },
     description: {
         en: "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Gli spiriti che assorbe alimentano il suo fuoco funesto. Si blocca\nintorno agli ospedali in attesa che le persone muoiano.",
         "de": "Die Geister, die es aufnimmt, schüren sein unheilvolles Feuer. Es hängt\nrund um Krankenhäuser, die darauf warten, dass Menschen weitergeben.",
         "pt-br": "Os espíritos que absorve alimentam seu fogo sinistro. Ele trava\nem torno de hospitais esperando que as pessoas falecessem.",
-        "zh-tw": "它吸收的靈魂助長了它的惡火。它掛了\n醫院周圍等待著人們過去。"
+        "zh-tw": "它吸收的靈魂助長了它的惡火。它掛了\n醫院周圍等待著人們過去。",
+        ja: "魂を 吸いとり 火を灯す。 人が 死ぬのを 待つため 病院を うろつくようになった。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Piccolo rancore",
                 "de": "Kleiner Groll",
                 "pt-br": "Rancor mesquinho",
-                "zh-tw": "小怨恨"
+                "zh-tw": "小怨恨",
+                ja: "ちょっとうらむ"
             },
             damage: 30,
             cost: ["Psychic"]

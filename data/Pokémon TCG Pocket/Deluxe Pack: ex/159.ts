@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/159",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/159",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/159",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/159"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/159",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/159"
 	},
 	name: {
 		en: "Mew ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Mew-ex",
 		de: "Mew-ex",
 		"pt-br": "Mew ex",
-		"zh-tw": "夢幻ex"
+		"zh-tw": "夢幻ex",
+		ja: "ミュウex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",
@@ -36,6 +38,7 @@ const card: Card = {
 				it: "Psicosparo",
 				de: "Psychoschuss",
 				"pt-br": "Tiro Psíquico",
+				ja: "サイコショット",
 				ko: "사이코숏",
 				"zh-tw": "心理射擊"
 			},
@@ -50,6 +53,7 @@ const card: Card = {
 				it: "Hacking del Genoma",
 				de: "Genom-Hacking",
 				"pt-br": "Hackear Genoma",
+				ja: "ゲノムハック",
 				ko: "게놈핵",
 				"zh-tw": "基因組黑客"
 			},
@@ -61,6 +65,7 @@ const card: Card = {
 				it: "Scegli un attacco del Pokémon attivo del tuo avversario e usalo al posto di questo attacco.",
 				de: "Wähle 1 Attacke des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.",
 				"pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
+				ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。",
 				ko: "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다.",
 				"zh-tw": "選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。"
 			}

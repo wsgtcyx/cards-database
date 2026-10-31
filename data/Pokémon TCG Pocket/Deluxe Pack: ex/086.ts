@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/086"
     },
     name: {
         en: "Wartortle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
+        ja: "カメール",
     },
     illustrator: "Nelnal",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Squirtle",
         "de": "Schiggy",
         "pt-br": "Squirtle",
-        "zh-tw": "傑尼龜"
+        "zh-tw": "傑尼龜",
+        ja: "ゼニガメ"
     },
     description: {
         en: "It is recognized as a symbol of longevity. If its\nshell has algae on it, that Wartortle is very old.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "È riconosciuto come simbolo di longevità. Se è\nla conchiglia ha delle alghe sopra, quel Wartortle è molto antico.",
         "de": "Es gilt als Symbol für Langlebigkeit. Wenn es so ist\nAuf der Schale sind Algen, die Wartortle ist sehr alt.",
         "pt-br": "É reconhecido como um símbolo de longevidade. Se for\nconcha contém algas, que Wartortle é muito antigo.",
-        "zh-tw": "它被認為是長壽的象徵。如果它的\n殼上有藻類，那疣龜很老了。"
+        "zh-tw": "它被認為是長壽的象徵。如果它的\n殼上有藻類，那疣龜很老了。",
+        ja: "長生きの シンボルと されている。 甲羅に 苔が ついているのは とくに 長生きの カメールだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Spruzzo dell'onda",
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
-                "zh-tw": "波浪飛濺"
+                "zh-tw": "波浪飛濺",
+                ja: "スプラッシュ"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/113",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/113",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/113"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/113"
     },
     name: {
         en: "Klefki",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Früher wurden Clavion von Adelsfamilien als Wächter für Tresorschlüssel geschätzt und über Generationen hinweg weitergegeben und umhegt.",
         "pt-br": "Antigamente, famílias nobres confiavam as chaves de seus cofres a um Klefki. Este Klefki era passado de geração em geração, sendo sempre muito bem cuidado.",
         "zh-tw": "過去的貴族會將掌管金庫鑰匙的鑰圈兒一代代地傳承下去，並對其呵護備至。",
-        ja: "In the past, noble families entrusted their vault\nkeys to a Klefki. They passed the Klefki down\nthrough the generations, taking good care of it.",
+        ja: "昔の 貴族は 金庫の カギを 管理させる クレッフィを 代々 引き継ぎ 大切に 扱った。",
         ko: "In the past, noble families entrusted their vault\nkeys to a Klefki. They passed the Klefki down\nthrough the generations, taking good care of it."
     },
     stage: "Basic",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Zerlegende Schlüssel",
                 "pt-br": "Chaves do Desmantelamento",
                 "zh-tw": "分解鑰匙",
-                ja: "Dismantling Keys",
+                ja: "ぶんかいのカギ",
                 ko: "Dismantling Keys"
             },
             effect: {
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn sich dieses Pokémon auf deiner Bank befindet, kannst du alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel legen. Wenn du das machst, lege dieses Pokémon auf deinen Ablagestapel.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá descartar todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente. Se fizer isso, descarte este Pokémon.",
                 "zh-tw": "若這隻寶可夢在備戰區,則在自己的回合時可使用1次。將對手的戰鬥寶可夢身上附加的「寶可夢道具」丟棄。然後,將這隻寶可夢丟棄。",
-                ja: "Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon.",
+                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュ。その後、このポケモンをトラッシュ。",
                 ko: "Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Haken",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
-                ja: "Hook",
+                ja: "ひっかける",
                 ko: "Hook"
             },
             damage: 20,

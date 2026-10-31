@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/032",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/032"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/032"
     },
     name: {
         en: "Alolan Vulpix",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
         ko: "알로라 식스테일",
-        ja: "アローラ ロコン"
+        ja: "アローラロコン"
     },
     illustrator: "nagimiso",
     rarity: "None",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando fa caldo, questo Pokémon crea frammenti di ghiaccio con le sue sei code e li spruzza intorno per rinfrescarsi.",
         de: "Bei heißem Wetter bildet dieses Pokémon mit seinen sechs Schwänzen Eissplitter und versprüht diese, um sich abzukühlen.",
         "pt-br": "Em clima quente, este Pokémon faz pedaços de gelo com suas seis caudas e os espalha para se refrescar.",
-        "zh-tw": "在炎熱的天氣裡，這隻寶可夢會用六條尾巴製造冰碎片並將其噴灑到周圍以給自己降溫。"
+        "zh-tw": "在炎熱的天氣裡，這隻寶可夢會用六條尾巴製造冰碎片並將其噴灑到周圍以給自己降溫。",
+        ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 "pt-br": "Roída",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かじる"
             },
             damage: 20
         }

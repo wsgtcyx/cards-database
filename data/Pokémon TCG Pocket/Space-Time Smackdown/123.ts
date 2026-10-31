@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/123",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/123",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/123"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/123"
     },
     name: {
         en: "Garchomp",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Garchomp",
         de: "Knakrack",
         'pt-br': "Garchomp",
+        ja: "ガブリアス",
         ko: "한카리아스",
         "zh-tw": "烈咬陸鯊",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Knarksel",
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
+        ja: "ガバイト",
     },
     description: {
         en: "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che, quando va a tutta\nvelocità, le sue ali creino lame d'aria\nin grado di abbattere gli alberi vicini.",
         de: "Stürmt es schnell vorwärts, erzeugen seine Flügel Klingen\naus Wind, die in der Nähe stehende Bäume fällen.",
         'pt-br': "Diz-se que, quando um corre em alta velocidade,\nsuas asas criam lâminas de vento que podem derrubar\nas árvores próximas.",
+        ja: "高速で 駆け抜けると 翼は 空気の 刃を 生み出し まわりの木は 切断 されている。",
         ko: "고속으로 달려나가면\n날개가 공기의 칼날을 만들어 내고\n이로 인해 주변의 나무는 절단된다.",
         "zh-tw": "據說，當一個人高速奔跑時，它的翅膀會產生風葉，可以吹倒附近的樹木。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Falciata Selvaggia",
                 de: "Rücksichtsloses Scheren",
                 'pt-br': "Corte Impulsivo",
+                ja: "あらけずり",
                 ko: "거칠게 깎기",
                 "zh-tw": "魯莽剪切"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "Debes descartar 1 carta de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta.",
                 it: "Devi scartare una carta che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta.",
                 de: "Du musst 1 Karte von deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen.",
+                ja: "自分の番に、自分の手札を枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
                 ko: "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
                 'pt-br': "Você deve descartar 1 carta da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 1 carta.",
                 "zh-tw": "您必須從手上棄掉一張牌才能使用此能力。在你的回合中，你可以抽一張牌。"
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Dragartigli",
                 de: "Drachenklaue",
                 'pt-br': "Garra de Dragão",
+                ja: "ドラゴンクロー",
                 ko: "드래곤클로",
                 "zh-tw": "龍爪"
             },

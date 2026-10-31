@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/093"
     },
     name: {
         en: "Psyduck",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Enton",
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
+        ja: "コダック",
     },
     illustrator: "Scav",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È costantemente tormentato dal mal di testa. Quando il\nil mal di testa diventa intenso, inizia a essere misterioso\npoteri.",
         "de": "Es wird ständig von Kopfschmerzen geplagt. Wenn die\nDer Kopfschmerz wird intensiv, es beginnt geheimnisvoll zu wirken\nBefugnisse.",
         "pt-br": "É constantemente assolado por uma dor de cabeça. Quando o\ndor de cabeça fica intensa, começa a usar misteriosos\npoderes.",
-        "zh-tw": "它經常被頭痛所折磨。當\n頭痛變得劇烈，它開始使用神秘\n權力。"
+        "zh-tw": "它經常被頭痛所折磨。當\n頭痛變得劇烈，它開始使用神秘\n權力。",
+        ja: "いつも 頭痛に 悩まされている。 この 頭痛が 激しくなると 不思議な 力を 使いはじめる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Mal di testa",
                 "de": "Kopfschmerzen",
                 "pt-br": "Dor de cabeça",
-                "zh-tw": "頭痛"
+                "zh-tw": "頭痛",
+                ja: "ずつう"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il tuo avversario non può utilizzare alcuna carta Aiuto dalla sua mano durante il suo prossimo turno.",
                 "de": "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
                 "pt-br": "Seu oponente não pode usar nenhuma carta de Apoiador de sua mão durante o próximo turno.",
-                "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。"
+                "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。",
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。"
             }
         }],
     weaknesses: [{

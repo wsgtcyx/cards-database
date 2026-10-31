@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/111",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/111"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/111"
     },
     name: {
         en: "Froakie",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
+        ja: "ケロマツ",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Secerne bolle flessibili dal petto e dalla schiena.\nLe bolle riducono il danno che altrimenti farebbe\nprendere quando viene attaccato.",
         "de": "Es sondert flexible Blasen aus Brust und Rücken ab.\nDie Blasen verringern den Schaden, der sonst entstehen würde\nnehmen, wenn angegriffen.",
         "pt-br": "Ele secreta bolhas flexíveis no peito e nas costas.\nAs bolhas reduzem o dano que de outra forma\ntomar quando for atacado.",
-        "zh-tw": "它從胸部和背部分泌出靈活的氣泡。\n氣泡減少了原本會造成的損害\n受到攻擊時採取。"
+        "zh-tw": "它從胸部和背部分泌出靈活的氣泡。\n氣泡減少了原本會造成的損害\n受到攻擊時採取。",
+        ja: "胸と 背中から 泡を 出す。 弾力のある 泡で 攻撃を 受け止めて ダメージを 減らす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 10,
             cost: ["Colorless"]

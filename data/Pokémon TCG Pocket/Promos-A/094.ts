@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/094",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/094"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/094"
     },
     name: {
         en: "Horsea",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Seeper",
         "pt-br": "Horsea",
         "zh-tw": "墨海馬",
+        ja: "タッツー",
     },
     illustrator: "Taira Akitsu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Horsea vive negli oceani con delicatezza\ncorrenti. Se questo Pokémon è sotto attacco, sputa\nesce inchiostro nero come la pece e fugge.",
         "de": "Horsea ist sanft in den Ozeanen zu Hause\nStrömungen. Wenn dieses Pokémon angegriffen wird, spuckt es\npechschwarze Tinte und Fluchten ausstoßen.",
         "pt-br": "Horsea faz seu lar nos oceanos com suaves\ncorrentes. Se este Pokémon estiver sob ataque, ele cospe\ntinta preta como breu e escapa.",
-        "zh-tw": "Horsea 以溫和的方式在海洋中安家\n電流。如果這只神奇寶貝受到攻擊，它會吐口水\n流出漆黑的墨水並逃脫。"
+        "zh-tw": "Horsea 以溫和的方式在海洋中安家\n電流。如果這只神奇寶貝受到攻擊，它會吐口水\n流出漆黑的墨水並逃脫。",
+        ja: "潮の 流れが 穏やかな 海に 棲む。 襲われると 真っ黒な 墨を吐いて その隙に 逃げだす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Freccia d'acqua",
                 "de": "Wasserpfeil",
                 "pt-br": "Flecha de Água",
-                "zh-tw": "水箭"
+                "zh-tw": "水箭",
+                ja: "ウォーターアロー"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。",
+                ja: "相手のポケモン1匹に10ダメージ。"
             }
         }],
     weaknesses: [{

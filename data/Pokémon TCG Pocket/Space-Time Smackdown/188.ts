@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/188",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/188",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/188",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/188"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/188",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/188"
     },
     name: {
         en: "Dialga ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dialga-ex",
         de: "Dialga-ex",
         'pt-br': "Dialga ex",
+        ja: "ディアルガex",
         ko: "디아루가 ex",
         "zh-tw": "帝牙盧卡ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Metalturbo",
                 de: "Metallturbo",
                 'pt-br': "Turbo Metálico",
+                ja: "メタルターボ",
                 ko: "메탈터보",
                 "zh-tw": "金屬渦輪"
             },
@@ -48,6 +51,7 @@ const card: Card = {
                 it: "Prendi 2 un'Energia {M} dalla Zona Energia e assegnala a uno dei tuoi Pokémon in panchina.",
                 de: "Lege 2 {M}-Energien aus deinem Energiebereich an 1 Pokémon auf deiner Bank an.",
                 'pt-br': "Pegue 2 Energias {M} da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
+                ja: "自分のエネルギーゾーンから{M}エネルギーを2個出し、ベンチポケモン1匹につける。",
                 ko: "자신의 에너지존에서 {M}에너지를 2개 내보내 벤치 포켓몬 1마리에게 붙인다.",
                 "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。"
             }
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Impatto Pesante",
                 de: "Schwerer Einschlag",
                 'pt-br': "Impacto Pesado",
+                ja: "ヘビーインパクト",
                 ko: "헤비임팩트",
                 "zh-tw": "重擊"
             },

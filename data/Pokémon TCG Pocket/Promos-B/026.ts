@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/026",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/026",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/026"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/026"
     },
     name: {
         en: "Mudkip",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando usa la sua grande pinna caudale, acquista rapidamente velocità nell'acqua. È forte nonostante le sue piccole dimensioni.",
         de: "Mit seiner großen Schwanzflosse nimmt er im Wasser schnell Fahrt auf. Trotz seiner geringen Größe ist es stark.",
         "pt-br": "Quando usa sua grande barbatana caudal, ganha velocidade rapidamente na água. É forte apesar do seu pequeno tamanho.",
-        "zh-tw": "當它使用大尾鰭時，它會在水中迅速加快速度。儘管它的體積很小，但它很堅固。"
+        "zh-tw": "當它使用大尾鰭時，它會在水中迅速加快速度。儘管它的體積很小，但它很堅固。",
+        ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco a Sorpresa",
                 de: "Überraschungsangriff",
                 "pt-br": "Ataque Surpresa",
-                "zh-tw": "偷襲"
+                "zh-tw": "偷襲",
+                ja: "ふいをつく"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 40
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/142",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/142",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/142"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/142"
     },
     name: {
         en: "Minccino",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A questi Pokémon piacciono le cose pulite e ordinate. Spazzano e spolverano continuamente il loro habitat, usando la coda come scopa.",
         de: "Diese Pokémon mögen es ordentlich und ordentlich. Sie fegen und stauben ständig ihren Lebensraum und benutzen ihre Schwänze als Besen.",
         "pt-br": "Esses Pokémon gostam de coisas limpas e organizadas. Eles estão sempre varrendo e tirando o pó de seu habitat, usando suas caudas como vassouras.",
-        "zh-tw": "這些寶可夢喜歡乾淨整齊的東西。它們總是用尾巴當掃帚來清掃和撣掉棲息地的灰塵。"
+        "zh-tw": "這些寶可夢喜歡乾淨整齊的東西。它們總是用尾巴當掃帚來清掃和撣掉棲息地的灰塵。",
+        ja: "きれい好きな 性格の ポケモン。 尻尾を ほうきがわりに いつも 棲み処の ほこりを 払っている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Codamorbida",
                 de: "Schlummerschweif",
                 "pt-br": "Cauda Felpuda",
-                "zh-tw": "蓬鬆之尾"
+                "zh-tw": "蓬鬆之尾",
+                ja: "ふわふわテール"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è addormentato.",
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }
     ],

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/082",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/082",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/082"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/082"
     },
     name: {
         en: "Haunter",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
-        ja: "Gastly",
+        ja: "ゴース",
         ko: "Gastly"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Würgegas",
                 "pt-br": "Gás Asfixiante",
                 "zh-tw": "瓦斯包圍",
-                ja: "Suffocating Gas",
+                ja: "ガスでつつむ",
                 ko: "Suffocating Gas"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Es lauert gern im Dunkeln und tippt Leuten mit seiner gasförmigen Hand auf die Schulter. Seine Berührung erzeugt endloses Schaudern.",
         "pt-br": "Gosta de se esconder no escuro e bater nos ombros dos outros com sua mão gasosa. Seu toque causa arrepios que não acabam mais.",
         "zh-tw": "喜歡在黑暗中伸出氣體狀的手拍人的肩膀。一旦被摸到，就會顫抖個不停。",
-        ja: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
         ko: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
     }
 };

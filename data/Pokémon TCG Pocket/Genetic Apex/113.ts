@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/113",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/113"
     },
     name: {
         en: "Clefairy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clefairy",
         de: "Piepi",
         'pt-br': "Clefairy",
+        ja: "ピッピ",
         ko: "삐삐",
         "zh-tw": "皮皮",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Sberla",
                 de: "Hieb",
                 'pt-br': "Tapa",
+                ja: "ビンタ",
                 ko: "뺨치기",
                 "zh-tw": "拍擊"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Si dice che vedere un gruppo di Clefairy ballare\ncon la luna piena sia di ottimo auspicio.",
         de: "Eine Ansammlung von Piepi bei Vollmond tanzen\nzu sehen, soll ein glückliches Leben verheißen.",
         'pt-br': "Acredita-se que a felicidade virá para aqueles\nque virem um grupo de Clefairy dançando sob\na lua cheia.",
+        ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。",
         ko: "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
         "zh-tw": "據說，看到Clefairy在滿月下跳舞的人會得到幸福。"
     },

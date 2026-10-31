@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/221",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/221",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/221"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/221",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/221"
     },
     name: {
         en: "Kabutops",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Kabutops",
         "de": "Kabutops",
         "pt-br": "Kabutops",
-        "zh-tw": "鐮刀盔"
+        "zh-tw": "鐮刀盔",
+        ja: "カブトプス"
     },
     illustrator: "Krgc",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Kabuto",
         "de": "Kabuto",
         "pt-br": "Kabuto",
-        "zh-tw": "化石盔"
+        "zh-tw": "化石盔",
+        ja: "カブト"
     },
     description: {
         en: "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Kabutops fa a pezzi la sua preda e la succhia\ni fluidi. Le parti del corpo scartate diventano\ncibo per altri Pokémon.",
         "de": "Kabutops schneidet seine Beute in Stücke und saugt sie aus\ndie Flüssigkeiten. Die weggeworfenen Körperteile werden\nNahrung für andere Pokémon.",
         "pt-br": "Kabutops corta sua presa e a suga\nos fluidos. As partes do corpo descartadas tornam-se\ncomida para outros Pokémon.",
-        "zh-tw": "Kabutops 將獵物切開並吸出\n液體。被丟棄的身體部位變成\n其他神奇寶貝的食物。"
+        "zh-tw": "Kabutops 將獵物切開並吸出\n液體。被丟棄的身體部位變成\n其他神奇寶貝的食物。",
+        ja: "獲物を 切り裂き 体液を すする。 残った 体は ほかのポケモンの エサになる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Sanguisuga",
                 "de": "Blutsauger",
                 "pt-br": "Suga-vidas",
-                "zh-tw": "水蛭生命"
+                "zh-tw": "水蛭生命",
+                ja: "きゅうけつ"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da una quantità di danni pari a quelli inflitti al Pokémon attivo del tuo avversario.",
                 "de": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast.",
                 "pt-br": "Cure deste Pokémon a mesma quantidade de dano que você causou ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "該神奇寶貝所造成的傷害與你對對手的活躍神奇寶貝造成的傷害相同。"
+                "zh-tw": "該神奇寶貝所造成的傷害與你對對手的活躍神奇寶貝造成的傷害相同。",
+                ja: "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復。"
             }
         }],
     weaknesses: [{

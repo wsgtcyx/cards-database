@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/045"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/045"
     },
     name: {
         en: "Miraidon",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Miraidon",
         "pt-br": "Miraidon",
         "zh-tw": "密勒頓",
+        ja: "ミライドン",
         pt: "Miraidon"
     },
     illustrator: "Kouki Saitou",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Questo sembra essere il Serpente di Ferro menzionato in un vecchio libro. Si dice che il Serpente di Ferro abbia ridotto la terra in cenere con i suoi fulmini.",
         "de": "Dies scheint die Eiserne Schlange zu sein, die in einem alten Buch erwähnt wird. Die Eiserne Schlange soll mit ihrem Blitz das Land in Asche verwandelt haben.",
         "pt-br": "Esta parece ser a Serpente de Ferro mencionada em um livro antigo. Diz-se que a Serpente de Ferro transformou a terra em cinzas com seus raios.",
-        "zh-tw": "這似乎就是一本古書中提到的鐵蛇。據說鐵蛇用閃電將大地化為灰燼。"
+        "zh-tw": "這似乎就是一本古書中提到的鐵蛇。據說鐵蛇用閃電將大地化為灰燼。",
+        ja: "古い 書物に 名が ある テツノオロチらしい。 雷で 大地を 灰に 変えたという。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Blitzlaser",
                 "pt-br": "Laser relâmpago",
                 "zh-tw": "閃電雷射",
+                ja: "ライトニングレーザー",
                 pt: "Laser Relampejante"
             },
             damage: "60",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 30 點傷害。",
+                ja: "相手のベンチポケモン1匹にも30ダメージ。",
                 pt: "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente."
             },
         },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/034"
     },
     name: {
         en: "Galarian Corsola",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Galar-Corasonn",
         "pt-br": "Corsola de Galar",
         "zh-tw": "伽勒爾太陽珊瑚",
+        ja: "ガラルサニーゴ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Guarda i tuoi passi quando vaghi nelle aree degli oceani\nuna volta coperto. Ciò che sembra una pietra potrebbe esserlo\nquesto Pokémon e ti maledirà se lo prendi a calci.",
         "de": "Achten Sie auf Ihren Schritt, wenn Sie durch die Ozeane wandern\neinmal abgedeckt. Was wie ein Stein aussieht, könnte sein\nDieses Pokémon wird dich verfluchen, wenn du es trittst.",
         "pt-br": "Cuidado com o passo ao vagar pelas áreas dos oceanos\numa vez coberto. O que parece ser uma pedra poderia ser\neste Pokémon, e ele irá amaldiçoá-lo se você chutá-lo.",
-        "zh-tw": "在海洋中漫步時請注意腳步\n一旦覆蓋。看起來像石頭的東西可能是\n這只神奇寶貝，如果你踢它，它會詛咒你。"
+        "zh-tw": "在海洋中漫步時請注意腳步\n一旦覆蓋。看起來像石頭的東西可能是\n這只神奇寶貝，如果你踢它，它會詛咒你。",
+        ja: "大昔 海だった 場所に よく 転がっている。 石ころと 間違えて 蹴ると たたられる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Psychic"]

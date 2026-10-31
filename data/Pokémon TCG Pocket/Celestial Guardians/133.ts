@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/133",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/133"
     },
     name: {
         en: "Pikipek",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pikipek",
         de: "Peppeck",
         'pt-br': "Pikipek",
+        ja: "ツツケラ",
         ko: "콕코구리",
         "zh-tw": "小篤兒",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Picchia sul legno con il suo duro becco. Dal ritmo dei suoi\ncolpi è possibile capire il suo umore e il suo stato di salute.",
         de: "Es pickt mit seinem robusten Schnabel auf Bäume ein.\nAn seinem Pickrhythmus lassen sich seine Laune und\nsein Befinden ablesen.",
         'pt-br': "Perfura árvores com seu bico resistente.\nO ritmo das bicadas dão uma ideia de como está\nseu humor ou sua condição.",
+        ja: "硬いクチバシで 樹木を つつく。 つつくリズムで そのときの 機嫌や 体調も なんとなく わかる。",
         ko: "딱딱한 부리로 나무를 쫀다.\n쪼는 리듬으로 그때의 기분이나\n상태를 대강 알 수 있다.",
         "zh-tw": "它用堅硬的喙啄樹。你可以從它啄食的節奏中了解它的情緒或狀況。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },

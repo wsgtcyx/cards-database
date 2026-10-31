@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/125",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/125"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/125"
     },
     name: {
         en: "Persian",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Persian",
         "de": "Snobilikat",
         "pt-br": "Persian",
-        "zh-tw": "貓老大"
+        "zh-tw": "貓老大",
+        ja: "ペルシアン"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Meowth",
         "de": "Mauzi",
         "pt-br": "Meowth",
-        "zh-tw": "喵喵"
+        "zh-tw": "喵喵",
+        ja: "ニャース"
     },
     description: {
         en: "It has a vicious temperament. Beware if it raises\nits tail straight up. This is a signal that it is about\nto pounce and bite.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha un temperamento vizioso. Attenzione se si alza\nla coda dritta. Questo è un segnale che si tratta\nbalzare e mordere.",
         "de": "Es hat ein bösartiges Temperament. Seien Sie vorsichtig, wenn es ansteigt\nsein Schwanz ist gerade nach oben. Das ist ein Signal dafür, dass es darum geht\nsich stürzen und beißen.",
         "pt-br": "Tem um temperamento cruel. Cuidado se isso aumentar\nsua cauda reta para cima. Este é um sinal de que se trata de\npara atacar e morder.",
-        "zh-tw": "它有一種惡毒的氣質。小心如果它升高\n它的尾巴直立起來。這是一個信號，表明它是關於\n猛撲和咬。"
+        "zh-tw": "它有一種惡毒的氣質。小心如果它升高\n它的尾巴直立起來。這是一個信號，表明它是關於\n猛撲和咬。",
+        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 60,
             cost: ["Colorless", "Colorless"]

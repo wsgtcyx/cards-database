@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/109",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/109",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/109"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/109"
     },
     name: {
         en: "Fraxure",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Fraxure usa le sue spesse zanne per tagliare con precisione la preda in due porzioni: una da mangiare subito e l'altra da conservare per dopo.",
         de: "Sharfax nutzt seine dicken Stoßzähne, um die Beute sauber in zwei Portionen zu schneiden – eine zum sofortigen Verzehr und eine zum Aufbewahren für später.",
         "pt-br": "Fraxure usa suas presas grossas para cortar cuidadosamente a presa em duas porções – uma para comer agora e outra para guardar para mais tarde.",
-        "zh-tw": "斧牙龍 使用其粗大的獠牙將獵物整齊地切成兩部分——一份現在吃，一份留著以後吃。"
+        "zh-tw": "斧牙龍 使用其粗大的獠牙將獵物整齊地切成兩部分——一份現在吃，一份留著以後吃。",
+        ja: "太い キバを 使って 獲物を きれいに 捌いて 食べるものと 保存する ものに 分けるのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Dragartigli",
                 de: "Drachenklaue",
                 "pt-br": "Garra de Dragão",
-                "zh-tw": "龍爪"
+                "zh-tw": "龍爪",
+                ja: "ドラゴンクロー"
             },
             damage: 60
         }

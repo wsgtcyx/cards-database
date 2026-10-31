@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/062"
     },
     name: {
         en: "Minccino",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Picochilla",
         "pt-br": "Minccino",
         "zh-tw": "泡沫栗鼠",
+        ja: "チラーミィ",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il modo in cui spazza via lo sporco con la coda\npuò essere utile durante la pulizia. Ma si concentra su\nla pulizia può rendere la pulizia più complicata.",
         "de": "Die Art, wie es mit seinem Schwanz Schmutz wegfegt\nkann beim Reinigen hilfreich sein. Aber sein Fokus liegt auf\nSauberkeit kann die Reinigung zu einem größeren Aufwand machen.",
         "pt-br": "A maneira como ele limpa a sujeira com o rabo\npode ser útil durante a limpeza. Mas seu foco em\na impecabilidade pode tornar a limpeza mais complicada.",
-        "zh-tw": "它用尾巴掃去污垢的方式\n清潔時會有幫助。但其重點在於\n一塵不染會使清潔變得更加麻煩。"
+        "zh-tw": "它用尾巴掃去污垢的方式\n清潔時會有幫助。但其重點在於\n一塵不染會使清潔變得更加麻煩。",
+        ja: "しっぽで 汚れを 払い落す。 掃除を するときに 助かるが 潔癖症 なので 大変。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Libbra",
                 "de": "Pfund",
                 "pt-br": "Libra",
-                "zh-tw": "磅"
+                "zh-tw": "磅",
+                ja: "はたく"
             },
             damage: 10,
             cost: ["Colorless"]

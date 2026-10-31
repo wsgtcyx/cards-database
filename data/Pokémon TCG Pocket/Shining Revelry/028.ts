@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/028"
     },
     name: {
         en: "Pawmot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pawmot",
         de: "Pamomamo",
         'pt-br': "Pawmot",
+        ja: "パーモット",
         ko: "빠르모트",
         "zh-tw": "巴布土撥"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pawmo",
         "de": "Pamamo",
         "pt-br": "Pawmo",
-        "zh-tw": "布土撥"
+        "zh-tw": "布土撥",
+        ja: "パモット"
     },
     description: {
         en: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Di solito è piuttosto flemmatico, ma\nquando si trova a lottare atterra il\nnemico con movimenti fulminei.",
         de: "Dieses Pokémon ist für gewöhnlich sehr gelassen,\ndoch sobald ein Kampf beginnt, streckt es den Gegner\nmit blitzschnellen Bewegungen zu Boden.",
         'pt-br': "Este Pokémon costuma demorar para reagir, mas quando\nentra na batalha, derrota seus oponentes\ncom golpes na velocidade da luz.",
+        ja: "普段は おっとりしているが いざ 戦いになると 電光石火の 身のこなしで 敵を 叩きのめす。",
         ko: "평소에는 느긋하지만\n싸움이 시작되면 전광석화와도 같은\n몸놀림으로 적을 때려눕힌다.",
         "zh-tw": "這種神奇寶貝通常反應遲緩，但一旦進入戰鬥，就會以閃電般的動作擊倒敵人。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
             it: "Respinta",
             de: "Gegenangriff",
             'pt-br': "Contra-ataque",
+            ja: "はんげき",
             ko: "반격",
             "zh-tw": "反擊"
         },
@@ -65,6 +70,7 @@ const card: Card = {
             it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
             de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
             'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
+            ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
             ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
             "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
         }
@@ -77,6 +83,7 @@ const card: Card = {
             it: "Pugno Elettrico",
             de: "Elektroschlag",
             'pt-br': "Murro Elétrico",
+            ja: "ビリリパンチ",
             ko: "찌리리펀치",
             "zh-tw": "電動沖床"
         },

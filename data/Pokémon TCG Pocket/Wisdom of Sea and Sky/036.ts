@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/036"
     },
     name: {
         en: "Darmanitan",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flampivian",
         "pt-br": "Darmanitan",
         "zh-tw": "達摩狒狒",
+        ja: "ヒヒダルマ",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flampion",
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
+        ja: "ダルマッカ",
     },
     description: {
         en: "The thick arms of this hot-blooded Pokémon\ncan deliver punches capable of obliterating a\ndump truck.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le braccia spesse di questo Pokémon dal sangue caldo\npuò sferrare pugni capaci di annientare a\nautocarro con cassone ribaltabile.",
         "de": "Die dicken Arme dieses heißblütigen Pokémon\nkann Schläge ausführen, die einen auslöschen können\nMuldenkipper.",
         "pt-br": "Os braços grossos deste Pokémon de sangue quente\npode desferir socos capazes de obliterar um\ncaminhão basculante.",
-        "zh-tw": "熱血神奇寶貝的粗壯手臂\n可以打出能夠消滅敵人的拳頭\n自卸車。"
+        "zh-tw": "熱血神奇寶貝的粗壯手臂\n可以打出能夠消滅敵人的拳頭\n自卸車。",
+        ja: "血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo di calore",
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
-                "zh-tw": "熱風"
+                "zh-tw": "熱風",
+                ja: "ヒートブラスト"
             },
             damage: 70,
             cost: ["Fire", "Colorless", "Colorless"]

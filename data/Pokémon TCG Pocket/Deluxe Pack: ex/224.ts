@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/224",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/224",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/224"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/224",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/224"
     },
     name: {
         en: "Marshadow",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Marshadow",
         "de": "Marshadow",
         "pt-br": "Marshadow",
-        "zh-tw": "瑪夏多"
+        "zh-tw": "瑪夏多",
+        ja: "マーシャドー"
     },
     illustrator: "kantaro",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scivola nell'ombra degli altri e imita\ni loro poteri e movimenti. Man mano che migliora, esso\ndiventa più forte di quelli che sta imitando.",
         "de": "Es schlüpft in den Schatten anderer und ahmt nach\nihre Kräfte und Bewegungen. Wenn es sich verbessert, wird es\nwird stärker als diejenigen, die es imitiert.",
         "pt-br": "Ele desliza para as sombras dos outros e imita\nseus poderes e movimentos. À medida que melhora,\ntorna-se mais forte do que aqueles que está imitando.",
-        "zh-tw": "它潛入他人的陰影並模仿\n他們的力量和動作。當它改善時，它\n變得比它模仿的人更強。"
+        "zh-tw": "它潛入他人的陰影並模仿\n他們的力量和動作。當它改善時，它\n變得比它模仿的人更強。",
+        ja: "相手の 影に 潜って 動きや 力を 真似る。 真似ているうちに 本物 よりも 強くなるぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Vendetta",
                 "de": "Rache",
                 "pt-br": "Vingança",
-                "zh-tw": "復仇"
+                "zh-tw": "復仇",
+                ja: "リベンジ"
             },
             damage: "40+",
             cost: ["Fighting", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 60 danni in più.",
                 "de": "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
-                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

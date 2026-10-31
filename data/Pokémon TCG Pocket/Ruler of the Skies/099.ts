@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/099",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/099",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/099"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/099"
     },
     name: {
         en: "Swalot",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Può ingoiare uno pneumatico in un sol boccone. Secerne un liquido incredibilmente tossico da tutti i pori del corpo.",
         de: "Es kann einen ganzen Reifen auf einmal verschlingen. Seine Poren sondern eine äußerst giftige Flüssigkeit ab.",
         "pt-br": "É capaz de engolir um pneu inteiro de uma vez só. Libera um fluido horrivelmente tóxico pelos poros do seu corpo.",
-        "zh-tw": "就連輪胎都能整個吞掉，\n會從身上的毛孔分泌出\n帶有劇毒的體液。"
+        "zh-tw": "就連輪胎都能整個吞掉，\n會從身上的毛孔分泌出\n帶有劇毒的體液。",
+        ja: "タイヤも ひと口で 丸呑み。 体の 毛穴から 猛毒の 体液を 分泌する。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Engolir por Inteiro",
                 "zh-tw": "大口吞",
                 "it": "Inghiottire",
-                "de": "Runterschlucken"
+                "de": "Runterschlucken",
+                ja: "まるのみ"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver menos PS restante do que este Pokémon, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢的剩餘HP比這隻寶可夢的剩餘HP少,則增加80點傷害。",
                 "it": "Se il Pokémon attivo del tuo avversario ha meno PS rimanenti di questo Pokémon, questo attacco infligge 80 danni in più.",
-                "de": "Wenn das Aktive Pokémon deines Gegners weniger verbleibende KP als dieses Pokémon hat, fügt diese Attacke 80 Schadenspunkte mehr zu."
+                "de": "Wenn das Aktive Pokémon deines Gegners weniger verbleibende KP als dieses Pokémon hat, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより少ないなら、80ダメージ追加。"
             },
             damage: "30+"
         }

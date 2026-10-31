@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/185",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/185",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/185",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/185"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/185",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/185"
     },
     name: {
         en: "Dragonite",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dragonite",
         de: "Dragoran",
         'pt-br': "Dragonite",
+        ja: "カイリュー",
         ko: "망나뇽",
         "zh-tw": "快龍",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Dragonair",
         "de": "Dragonir",
         "pt-br": "Dragonair",
-        "zh-tw": "哈克龍"
+        "zh-tw": "哈克龍",
+        ja: "ハクリュー"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Dragobolide",
                 de: "Draco Meteor",
                 'pt-br': "Meteoro do Dragão",
+                ja: "りゅうせいぐん",
                 ko: "용성군",
                 "zh-tw": "天龍流星"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Per 4 volte, un Pokémon avversario viene scelto a caso. Ogni volta che un Pokémon viene scelto in questo modo, subisce 50 danni.",
                 de: "4 Mal wird zufällig 1 Pokémon des Gegners ausgewählt. Füge jedes Mal, wenn ein Pokémon ausgewählt wird, diesem Pokémon 50 Schadenspunkte zu.",
                 'pt-br': "4 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 50 pontos de dano a ele.",
+                ja: "相手のポケモンがランダムに4回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
                 ko: "상대의 포켓몬이 랜덤으로 4번 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 50데미지를 준다.",
                 "zh-tw": "隨機選擇 1 只對手的神奇寶貝 4 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
         it: "Si dice che questi Pokémon si riuniscano su\nun'isola in mezzo all'oceano dove vivono solo loro.",
         de: "Man sagt, dass es irgendwo im Meer\neine Insel gibt, auf der sie sich\nversammeln. Nur sie leben dort.",
         'pt-br': "Acredita-se que em algum lugar no oceano\né possível encontrar uma ilha onde estes\nPokémon se reúnem. Só eles moram lá.",
+        ja: "広い 海の どこかには カイリューだけが 集まって 暮らす 島が あるらしい。",
         ko: "드넓은 바다 어딘가에는\n망나뇽만이 모여 사는\n섬이 있다고 한다.",
         "zh-tw": "據說在海洋的某個地方有一座島嶼，這些島嶼就聚集在那裡。只有他們住在那裡。"
     },

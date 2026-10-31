@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/363",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/363",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/363",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/363"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/363",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/363"
     },
     name: {
         en: "Corvisquire",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Meikro",
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
-        ja: "Rookidee",
+        ja: "ココガラ",
         ko: "Rookidee"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es ist sehr klug und erlernt mit Leichtigkeit die Handhabung von Werkzeug, das es mit seinem Schnabel oder den Krallen bedienen kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar com o seu bico ou suas garras.",
         "zh-tw": "頭腦聰明，凡是靠鳥嘴和爪子能夠操控的工具，牠都可以輕易地學會用法。",
-        ja: "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons.",
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。",
         ko: "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons."
     },
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Lanzenstich",
                 "pt-br": "Justar",
                 "zh-tw": "狙落",
-                ja: "Joust",
+                ja: "ねらいおとす",
                 ko: "Joust"
             },
             effect: {
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Bevor du Schaden zufügst, lege alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害前,將對手的戰鬥寶可夢身上的「寶可夢道具」丟棄。",
-                ja: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
                 ko: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
             },
             damage: 30

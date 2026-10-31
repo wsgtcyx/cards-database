@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/044"
     },
     name: {
         en: "Raichu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Raichu",
         de: "Raichu",
         'pt-br': "Raichu",
+        ja: "ライチュウ",
         ko: "라이츄",
         "zh-tw": "雷丘",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     description: {
         en: "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche.",
         de: "Mithilfe seines Schweifs entlädt es Elektrizität\nin den Boden, um sich auf diese Weise vor\nelektrischen Schlägen zu schützen.",
         'pt-br': "Sua cauda descarrega a eletricidade\nno solo, protegendo-o contra choques.",
+        ja: "尻尾が アースの 役目をはたして 電気を 地面に 逃がすので 自分自身は しびれたりしない。",
         ko: "꼬리가 어스 역할을 하여\n전기를 지면으로 흘려보내므로\n자신은 감전되거나 하지 않는다.",
         "zh-tw": "它的尾巴向地面釋放電力，\n保護它不被電擊。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Tenacia Simbiotica",
                 de: "Widerstandskopplung",
                 'pt-br': "Elo de Resiliência",
+                ja: "ガードリンク",
                 ko: "가드 링크",
                 "zh-tw": "彈性鏈接"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, questo Pokémon subisce -30 danni dagli attacchi.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon receberá −30 pontos de dano de ataques.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが受けるワザのダメージを-30する。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Scintilla",
                 de: "Funkensprung",
                 'pt-br': "Faísca",
+                ja: "スパーク",
                 ko: "스파크",
                 "zh-tw": "火花"
             },
@@ -89,6 +96,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
             }

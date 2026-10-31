@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/138"
     },
     name: {
         en: "Tornadus",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tornadus",
         "de": "Boreos",
         "pt-br": "Tornadus",
-        "zh-tw": "龍捲雲"
+        "zh-tw": "龍捲雲",
+        ja: "トルネロス"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Tornadus espelle un'enorme energia dalla coda,\nprovocando forti temporali. Il suo potere è abbastanza grande\nper far saltare le case.",
         "de": "Tornadus stößt massive Energie aus seinem Schwanz aus,\nschwere Stürme verursachen. Seine Kraft ist groß genug\nHäuser wegblasen.",
         "pt-br": "Tornadus expele energia massiva de sua cauda,\ncausando fortes tempestades. Seu poder é grande o suficiente\npara explodir casas.",
-        "zh-tw": "龍捲風從尾部排出大量能量，\n造成嚴重的風暴。它的威力足夠大\n炸毀房屋。"
+        "zh-tw": "龍捲風從尾部排出大量能量，\n造成嚴重的風暴。它的威力足夠大\n炸毀房屋。",
+        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Soffia attraverso",
                 "de": "Durchblasen",
                 "pt-br": "Soprar",
-                "zh-tw": "吹穿"
+                "zh-tw": "吹穿",
+                ja: "ふきぬける"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se è in gioco uno Stadio, questo attacco infligge 40 danni in più.",
                 "de": "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 40 de dano a mais.",
-                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。"
+                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。",
+                ja: "場にスタジアムが出ているなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/024",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/024",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/024"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/024"
     },
     name: {
         en: "Team Rocket's Pincurchin",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È talmente fifone che gli basta sfiorare un'alga per emettere scariche elettriche dallo spavento. Le sue labbra non conducono elettricità.",
         de: "Es ist so furchtsam, dass es schon durch die bloße Berührung mit einer Alge vor Schreck Strom entlädt. Seine Lippen leiten keine Elektrizität.",
         "pt-br": "Este Pokémon é tão timido que até encostar em algas marinhas o fará descarregar eletricidade no susto. Seus lábios não conduzem eletricidade.",
-        "zh-tw": "生性膽小，光是碰到海藻屑就足以讓牠嚇得放電。嘴唇不會導電。"
+        "zh-tw": "生性膽小，光是碰到海藻屑就足以讓牠嚇得放電。嘴唇不會導電。",
+        ja: "藻屑が 触っただけで 驚き 放電してしまうほど 臆病。 唇は 電気を 通さない。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Velenpuntura",
                 de: "Gifthieb",
                 "pt-br": "Golpe Envenenado",
-                "zh-tw": "毒擊"
+                "zh-tw": "毒擊",
+                ja: "どくづき"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "將對手的戰鬥寶可夢中毒。"
+                "zh-tw": "將對手的戰鬥寶可夢中毒。",
+                ja: "相手のバトルポケモンをどくにする。"
             },
             damage: 20
         }

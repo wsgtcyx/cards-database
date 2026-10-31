@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/041",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/041"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/041"
     },
     name: {
         en: "Team Rocket's Muk",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Ha un odore estremamente sgradevole e suo corpo è un concentrato di veleni. Non c'é pianta che rimanga in vita dopo il suo passaggio.",
         de: "Sein Gestank ist unerträglich Das stärke Gift. aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.",
         "pt-br": "È fedorento demais corpo de Mukcontém elementos tóxicos Qualquer planta murchará quando ele pissar por perto.",
-        "zh-tw": "奇臭無比！身體帶有劇毒，舉凡所經之處，任何草木都會枯萎。"
+        "zh-tw": "奇臭無比！身體帶有劇毒，舉凡所經之處，任何草木都會枯萎。",
+        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Assorbiveleno",
                 de: "Giftabsorption",
                 "pt-br": "Absorção de Veneno",
-                "zh-tw": "毒之舔舐"
+                "zh-tw": "毒之舔舐",
+                ja: "どくしゃぶり"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è avvelenato, cura questo Pokémon da 60 danni.",
                 de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist. heile 60 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Envenenado, cure 60 pontos de dano deste Pokémon.",
-                "zh-tw": "若對手的戰鬥寶可夢中毒,則將這隻寶可夢恢復60HP。"
+                "zh-tw": "若對手的戰鬥寶可夢中毒,則將這隻寶可夢恢復60HP。",
+                ja: "相手のバトルポケモンがどくなら、このポケモンのHPを60回復。"
             },
             damage: 80
         }

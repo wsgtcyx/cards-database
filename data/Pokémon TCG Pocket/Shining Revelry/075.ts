@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/075"
     },
     name: {
         en: "Tatsugiri",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tatsugiri",
         de: "Nigiragi",
         'pt-br': "Tatsugiri",
+        ja: "シャリタツ",
         ko: "싸리용",
         "zh-tw": "米立龍"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Un Pokémon di tipo Drago di piccole\ndimensioni. Vive all'interno della bocca di\nDondozo, protetto dagli attacchi dei nemici.",
         de: "Dieses kleine Drachen-Pokémon lebt im Maul von\nHeerashai, wodurch es vor Feinden geschützt ist.",
         'pt-br': "Este é um pequeno Pokémon dragão. Mora dentro da\nboca de Dondozo para proteger-se\nde inimigos do mundo externo.",
+        ja: "小型の ドラゴンポケモン。 ヘイラッシャの 口の中に 棲み 外敵から 身を 守っている。",
         ko: "작은 몸집의 드래곤포켓몬.\n어써러셔의 입안에 살며\n외부의 적으로부터 몸을 지킨다.",
         "zh-tw": "這是小型龍系神奇寶貝。它生活在棟多佐的嘴裡，以保護自己免受外部敵人的侵害。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
             it: "Dietro-front",
             de: "Rückzugsbefehl",
             'pt-br': "Ordem de Recuo",
+            ja: "てったいしじ",
             ko: "철수 지시",
             "zh-tw": "撤退指令"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Il tuo Dondozo in posizione attiva non ha costo di ritirata.",
             de: "Dein Heerashai in der Aktiven Position hat keine Rückzugskosten.",
             'pt-br': "Seu Dondozo Ativo não tem custo de Recuo.",
+            ja: "このポケモンがいるかぎり、自分のバトル場の「ヘイラッシャ」のにげるためのエネルギーを、すべてなくす。",
             ko: "이 포켓몬이 있는 한, 자신의 배틀필드의 「어써러셔」의 후퇴에 필요한 에너지를 모두 없앤다.",
             "zh-tw": "您的活躍棟多佐沒有撤退成本。"
         }
@@ -68,6 +73,7 @@ const card: Card = {
             it: "Spruzzapioggia",
             de: "Regenplatscher",
             'pt-br': "Chuva Borrifante",
+            ja: "みずかけ",
             ko: "물뿌리기",
             "zh-tw": "雨濺"
         },

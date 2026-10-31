@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/170",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/170"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/170"
     },
     name: {
         en: "Lucario",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lucario",
         de: "Lucario",
         'pt-br': "Lucario",
+        ja: "ルカリオ",
         ko: "루카리오",
         "zh-tw": "路卡利歐"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Riolu",
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
+        ja: "リオル",
     },
     description: {
         en: "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che riesca a individuare anche\ngli avversari invisibili percependone l'aura.",
         de: "Man sagt, es könne sogar unsichtbare Gegner ausmachen,\nweil es dazu fähig ist, Auren wahrzunehmen.",
         'pt-br': "Como Lucario pode detectar auras, acredita-se\nque nenhum inimigo é invisível a seus olhos.\nAté mesmo aqueles que ele não consegue ver.",
+        ja: "波動を キャッチすることで 見えない 相手の 姿でも 見えると 言われている。",
         ko: "파동을 포착하여\n보이지 않는 상대의 모습도\n볼 수 있다고 전해진다.",
         "zh-tw": "據說路卡利歐無法對任何敵人保持隱形，因為它可以探測到光環——甚至是它無法看到的敵人的光環。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Istruttore di Lotta",
                 de: "Kampfcoach",
                 'pt-br': "Instrutor de Luta",
+                ja: "ファイティングコーチ",
                 ko: "파이팅 코치",
                 "zh-tw": "格鬥教練"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Gli attacchi usati dai tuoi Pokémon {F} infliggono +20 danni al Pokémon attivo del tuo avversario.",
                 de: "Die Attacken deiner {F}-Pokémon fügen dem Aktiven Pokémon deines Gegners + 20 Schadenspunkte zu.",
                 'pt-br': "Os ataques usados pelos seus Pokémon {F} causam +20 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "このポケモンがいるかぎり、自分の{F}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。",
                 ko: "이 포켓몬이 있는 한, 자신의 {F}포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +20한다.",
                 "zh-tw": "你的{F}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Colpo Sottomarino",
                 de: "Unterseehieb",
                 'pt-br': "Golpe Submarino",
+                ja: "サブマリンブロー",
                 ko: "서브머린블로",
                 "zh-tw": "潛艇打擊"
             },

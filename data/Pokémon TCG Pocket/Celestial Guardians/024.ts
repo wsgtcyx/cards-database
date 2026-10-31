@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/024"
     },
     name: {
         en: "Tapu Bulu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tapu Bulu",
         de: "Kapu-Toro",
         'pt-br': "Tapu Bulu",
+        ja: "カプ・ブルル",
         ko: "카푸브루루",
         "zh-tw": "卡璞・哞哞",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È considerato un Pokémon protettore, ma annienta\nsenza pietà tutti quelli che considera nemici.",
         de: "Obwohl man es als Schutzpatron bezeichnet,\nverfügt es über die nötige Härte, um seine\nFeinde erbarmungslos zu vernichten.",
         'pt-br': "Embora seja considerado um espírito guardião, é violento\no bastante para destruir qualquer um que considerar\nseu inimigo.",
+        ja: "守り神と 呼ばれるが 敵と 見なした 者は 徹底的に 叩き潰す 激しさを 持っている。",
         ko: "수호신으로 불리지만\n적이라고 간주한 자는 철저하게\n때려 부수는 격렬함을 갖고 있다.",
         "zh-tw": "儘管被稱為守護神，但它的暴力足以粉碎任何被它視為敵人的人。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Assalto Spericolato",
                 de: "Verbissener Tackle",
                 'pt-br': "Investida Cravada",
+                ja: "めりこみタックル",
                 ko: "박히는태클",
                 "zh-tw": "卡住鏟球"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Wirf 1 Münze. Bei Zahl fügt dieses Pokémon auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este Pokémon também causará 20 pontos de dano a si mesmo.",
+                ja: "コインを1回投げウラなら、このポケモンにも20ダメージ。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。"
             }

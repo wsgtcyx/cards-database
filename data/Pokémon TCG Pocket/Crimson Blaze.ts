@@ -12,6 +12,7 @@ const set: Set = {
 		it: "Fiamme Cremisi",
 		'pt-br': "Chama Carmesim",
 		'zh-tw': "緋紅烈焰",
+		ja: "紅蓮ブレイズ",
 		ko: '홍련 블레이즈'
 	},
 

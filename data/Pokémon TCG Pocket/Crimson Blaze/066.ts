@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/066"
     },
     name: {
         en: "Clemont's Backpack",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Zaino di Lem",
         "de": "Citros Rucksack",
         "pt-br": "Mochila do Clemont",
-        "zh-tw": "希特隆的背包"
+        "zh-tw": "希特隆的背包",
+        ja: "シトロンのリュック"
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante questo turno, gli attacchi usati dal tuo Magneton o Heliolisk infliggono +20 danni ai Pokémon del tuo avversario.",
         "de": "Während dieser Runde fügen Angriffe deines Magnetons oder Heliolisk den Pokémon deines Gegners +20 Schaden zu.",
         "pt-br": "Durante este turno, os ataques usados ​​pelo seu Magneton ou Heliolisk causam +20 de dano aos Pokémon do seu oponente.",
-        "zh-tw": "這個回合中，你的磁石子或日光蜥蜴使用的攻擊對對手的神奇寶貝造成+20傷害。"
+        "zh-tw": "這個回合中，你的磁石子或日光蜥蜴使用的攻擊對對手的神奇寶貝造成+20傷害。",
+        ja: "この番、自分の「レアコイル」「エレザード」が使うワザの、相手のポケモン全員へのダメージを+20する。"
     },
     trainerType: "Item"
 };

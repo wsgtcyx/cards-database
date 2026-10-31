@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/033",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/033",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/033"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/033"
     },
     name: {
         en: "Enamorus",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando vola verso questa terra dall'altra parte del mare, il rigido inverno finisce. Secondo la leggenda, l'amore di questo Pokémon fa nascere una nuova vita in tutta Hisui.",
         de: "Wenn es von jenseits des Meeres in dieses Land fliegt, geht der bittere Winter zu Ende. Der Legende nach lässt die Liebe dieses Pokémon in ganz Hisui neues Leben entstehen.",
         "pt-br": "Quando ele voa para esta terra vindo do outro lado do mar, o inverno rigoroso chega ao fim. Segundo a lenda, o amor deste Pokémon dá origem ao surgimento de uma nova vida em Hisui.",
-        "zh-tw": "當它從大洋彼岸飛到這片土地時，嚴冬就結束了。根據傳說，這隻寶可夢的愛讓整個翡翠島萌芽了新的生命。"
+        "zh-tw": "當它從大洋彼岸飛到這片土地時，嚴冬就結束了。根據傳說，這隻寶可夢的愛讓整個翡翠島萌芽了新的生命。",
+        ja: "海を越えて 飛来したらば 厳しき冬の 終わりを知る。 慈愛が ヒスイの地に 新しき命 芽吹かせるとの 伝承あり。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colpito Colpito",
                 de: "Geschlagener Schlag",
                 "pt-br": "Golpe Ferido",
-                "zh-tw": "愛的一擊"
+                "zh-tw": "愛的一擊",
+                ja: "あいのいちげき"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 60 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se questo Pokémon e il Pokémon attivo del tuo avversario hanno 1 o più Energie dello stesso tipo assegnate, questo attacco infligge 60 danni in più.",
                 de: "Wenn an dieses Pokémon und das Aktive Pokémon deines Gegners 1 oder mehr Energien desselben Typs angelegt sind, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem 1 ou mais Energias do mesmo tipo ligadas, este ataque causará 60 pontos de dano a mais.",
-                "zh-tw": "如果這隻寶可夢和對手的活躍寶可夢附加了 1 個或更多相同類型的能量，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果這隻寶可夢和對手的活躍寶可夢附加了 1 個或更多相同類型的能量，則此攻擊造成的傷害增加 60 點。",
+                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、60ダメージ追加。"
             },
             damage: "60+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/227",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/227",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/227"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/227",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/227"
     },
     name: {
         en: "Beautifly",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Papinella",
         "pt-br": "Beautifly",
         "zh-tw": "狩獵鳳蝶",
+        ja: "アゲハント",
     },
     illustrator: "tono",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schaloko",
         "pt-br": "Silcoon",
         "zh-tw": "甲殼繭",
+        ja: "カラサリス",
     },
     description: {
         en: "It has an aggressive nature. It stabs prey with its\nlong, narrow mouth to drain the prey's fluids.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha una natura aggressiva. Trafigge la preda con il suo\nbocca lunga e stretta per drenare i liquidi della preda.",
         "de": "Es hat eine aggressive Natur. Es ersticht die Beute damit\nLanges, schmales Maul, um die Flüssigkeiten der Beute abzuleiten.",
         "pt-br": "Tem uma natureza agressiva. Ele apunhala a presa com seu\nboca longa e estreita para drenar os fluidos da presa.",
-        "zh-tw": "它具有攻擊性。它用它的刺刺獵物\n長而窄的嘴可以排出獵物的體液。"
+        "zh-tw": "它具有攻擊性。它用它的刺刺獵物\n長而窄的嘴可以排出獵物的體液。",
+        ja: "長細い 口を 突き刺して 相手の 体液を 吸い取る。 攻撃的な 性格。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Immersione di abilità",
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
-                "zh-tw": "技能潛水"
+                "zh-tw": "技能潛水",
+                ja: "ちょくげきひこう"
             },
             cost: ["Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 50 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
+                ja: "相手のポケモン1匹に50ダメージ。"
             }
         }],
     weaknesses: [{

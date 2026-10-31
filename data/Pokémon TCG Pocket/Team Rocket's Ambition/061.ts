@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/061",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/061",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/061"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/061"
     },
     name: {
         en: "Team Rocket's Persian",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Pokémon dal temperamento impetuoso. Quando rizza la coda, meglio stargli alla larga: è segno che sta per scattare e mordere.",
         de: "Es ist aufbrausend. Richtet es seinen Schweif auf, ist Vorsicht geboten. Das ist ein Anzeichen dafür, dass Snobilikat gleich losspringt und zubeißt.",
         "pt-br": "Tem um temperamento perverso. Tome cuidado se este Pokémon eriçar a cauda. Isso é um sinal de que está prestes a atacar e morder.",
-        "zh-tw": "性情凶暴，豎起尾巴時要多加小心。那是牠將飛撲過來咬你的前兆。"
+        "zh-tw": "性情凶暴，豎起尾巴時要多加小心。那是牠將飛撲過來咬你的前兆。",
+        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Pericolo Ferale",
                 de: "Gaunergefahr",
                 "pt-br": "Trapaceiro Perigoso",
-                "zh-tw": "凶神惡煞"
+                "zh-tw": "凶神惡煞",
+                ja: "デスローグ"
             },
             effect: {
                 en: "This attack does 40 more damage for each of your opponent's Benched Pokémon.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Questo attacco infligge 40 danni in più per ogni Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 40 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "增加對手備戰寶可夢的數量×40點傷害。"
+                "zh-tw": "增加對手備戰寶可夢的數量×40點傷害。",
+                ja: "相手のベンチポケモンの数×40ダメージ追加。"
             },
             damage: "10+"
         }

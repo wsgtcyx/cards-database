@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/293",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/293",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/293",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/293"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/293",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/293"
     },
     name: {
         en: "Litten",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flamiau",
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
+        ja: "ニャビー",
     },
     illustrator: "whomor Inc.",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se ti sforzi troppo per avvicinarti ad esso, non lo farà\naprirmi a te. Anche se ti avvicini,\ndargli troppo affetto è ancora un no-no.",
         "de": "Wenn man sich zu sehr anstrengt, sich ihm zu nähern, wird es nicht funktionieren\nöffne mich dir. Auch wenn Sie sich näher kommen,\nEs ist immer noch ein Tabu, ihm zu viel Zuneigung zu schenken.",
         "pt-br": "Se você tentar muito chegar perto disso, não vai\nse abra para você. Mesmo que você se aproxime,\ndar muito carinho ainda é proibido.",
-        "zh-tw": "如果你太努力去接近它，它不會\n向你敞開心扉。就算你們的關係越來越親近，\n給予它太多的感情仍然是一個禁忌。"
+        "zh-tw": "如果你太努力去接近它，它不會\n向你敞開心扉。就算你們的關係越來越親近，\n給予它太多的感情仍然是一個禁忌。",
+        ja: "しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Affronto di calore",
                 "de": "Hitzegerät",
                 "pt-br": "Equipamento térmico",
-                "zh-tw": "熱力鏟球"
+                "zh-tw": "熱力鏟球",
+                ja: "ヒートタックル"
             },
             damage: 30,
             cost: ["Fire"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/044",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/044",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/044"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/044"
     },
     name: {
         en: "Victini",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Jeder, dem Victini seine grenzenlose Energie zuteilwerden lässt, strotzt nur so vor Kraft.",
         "pt-br": "Quando compartilha a energia infinita que cria, o corpo inteiro do outro ser irradia poder.",
         "zh-tw": "如果分享到比克提尼產出的無限能量，全身就會充滿力量。",
-        ja: "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
+        ja: "ビクティニが 無限に 生み出す エネルギーを 分け与えてもらうと 全身に パワーが あふれ出す。",
         ko: "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power."
     },
     abilities: [
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Triumphstern",
                 "pt-br": "Estrela da Vitória",
                 "zh-tw": "勝利之星",
-                ja: "Victory Star",
+                ja: "しょうりのほし",
                 ko: "Victory Star"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, nachdem du Münzen für eine Attacke von 1 deiner {R}-Pokémon geworfen hast, kannst du alle daraus resultierenden Effekte ignorieren und die Münzen erneut werfen. Du kannst die Fähigkeit Triumphstern nur einmal pro Zug einsetzen.",
                 "pt-br": "Uma vez durante o seu turno, após jogar moedas para um ataque de 1 dos seus Pokémon {R}, você poderá ignorar todos os resultados das moedas e jogá-las novamente. Você não pode usar mais de 1 Habilidade Estrela da Vitória por turno.",
                 "zh-tw": "在自己的回合,因自己的{R}寶可夢的招式而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。這個特性在使用了其他的「勝利之星」的回合無法使用。",
-                ja: "Once during your turn, after you flip any coins for an attack of 1 of your {R} Pokémon, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn.",
+                ja: "自分の番に、自分の{R}ポケモンのワザでコインを投げたとき、1回使える。そのコインの結果をすべてなくし、はじめからコインを投げなおす。この特性は別の「しょうりのほし」を使った番は使えない。",
                 ko: "Once during your turn, after you flip any coins for an attack of 1 of your {R} Pokémon, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn."
             }
         }
@@ -86,7 +87,7 @@ const card: Card = {
                 de: "V-Flamme",
                 "pt-br": "Chama V",
                 "zh-tw": "V型火焰",
-                ja: "V-Flame",
+                ja: "Vフレイム",
                 ko: "V-Flame"
             },
             damage: 40

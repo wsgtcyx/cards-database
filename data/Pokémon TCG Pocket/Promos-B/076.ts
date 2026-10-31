@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/076",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/076",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/076"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/076"
     },
     name: {
         en: "Hisuian Zorua",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Zorua de Hisui",
         "zh-tw": "洗翠索羅亞",
         ko: "히스이 조로아",
-        ja: "ヒスイ ゾロア"
+        ja: "ヒスイゾロア"
     },
     illustrator: "Teeziro",
     rarity: "None",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Un'anima un tempo defunta, tornata in vita a Hisui. Trae potere dal risentimento, che sale come energia sulla sua testa e assume la forma di nemici. In questo modo, Zorua dà sfogo alla malizia persistente.",
         de: "Eine einst verstorbene Seele, die in Hisui zum Leben zurückgekehrt ist. Bezieht seine Kraft aus Ressentiments, die als Energie auf seinem Kopf aufsteigen und die Gestalt von Feinden annehmen. Auf diese Weise macht Zorua der anhaltenden Bosheit Luft.",
         "pt-br": "Uma alma que já partiu, voltou à vida em Hisui. Deriva o poder do ressentimento, que surge como energia acima de sua cabeça e assume a forma de inimigos. Dessa forma, Zorua exala malícia persistente.",
-        "zh-tw": "曾經離去的靈魂，在翡翠中重生。從怨恨中獲得力量，怨恨在頭頂上以能量的形式升起，並呈現出敵人的形態。就這樣，索羅亞發洩了揮之不去的惡意。"
+        "zh-tw": "曾經離去的靈魂，在翡翠中重生。從怨恨中獲得力量，怨恨在頭頂上以能量的形式升起，並呈現出敵人的形態。就這樣，索羅亞發洩了揮之不去的惡意。",
+        ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Corri in giro",
                 de: "Herumlaufen",
                 "pt-br": "Correr",
-                "zh-tw": "雀躍"
+                "zh-tw": "雀躍",
+                ja: "はしゃぐ"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。"
+                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }
     ],

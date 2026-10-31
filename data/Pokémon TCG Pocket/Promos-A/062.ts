@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/062"
     },
     name: {
         en: "Farfetch'd",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Farfetch'd",
         de: "Porenta",
         'pt-br': "Farfetch'd",
+        ja: "カモネギ",
         ko: "파오리",
         "zh-tw": "大蔥鴨",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Colpisce gli avversari con un gambo, che\nbrandisce con l'ala come se fosse una spada.\nIn caso di necessità, può anche mangiarselo.",
         de: "Unter seinem Flügel trägt es eine Lauchstange,\ndie es wie ein Schwert gegen Feinde einsetzt und\nwelche ihm im Bedarfsfall auch als Nahrung dient.",
         'pt-br': "O caule que este Pokémon carrega em suas asas\nserve como uma espada para cortar seus oponentes.\nEm situações difíceis, ele também pode servir como alimento.",
+        ja: "羽で もつ 茎を 刀のように 操り 敵を 切り捨てる。 いざと いうときは エサに する。",
         ko: "날개로 쥐고 있는 파 줄기를\n칼처럼 휘둘러 상대를 베어버린다.\n몹시 허기질 때는 먹기도 한다.",
         "zh-tw": "這只神奇寶貝翅膀上的莖是用來服務的\n作為砍倒對手的利劍。在一個可怕的\n這種情況下，莖也可以當食物。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Porrosberla",
                 de: "Lauchschlag",
                 'pt-br': "Golpe Alho Poró",
+                ja: "ネギでたたく",
                 ko: "파로 때리기",
                 "zh-tw": "韭菜拍打"
             },

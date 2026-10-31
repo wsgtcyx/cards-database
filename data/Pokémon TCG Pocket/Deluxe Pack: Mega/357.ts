@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/357",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/357",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/357",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/357"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/357",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/357"
     },
     name: {
         en: "Buneary",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es greift an, indem es seine Ohren aufrollt und mit viel Schwung wieder entrollt. Durch Training kann Haspiror die Kraft dieser Attacke steigern.",
         "pt-br": "Buneary podem atacar enrolando suas orelhas e desferindo a força criada ao desenrolá-las. Ao treinar, consegue fortalecer ainda mais esse ataque.",
         "zh-tw": "會利用把捲成團的耳朵伸直時的威力來使出攻擊招式。越訓練，招式威力就會越大。",
-        ja: "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。",
         ko: "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Doppelkick",
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
-                ja: "Double Kick",
+                ja: "にどげり",
                 ko: "Double Kick"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "Flip 2 coins. This attack does 20 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
                 ko: "Flip 2 coins. This attack does 20 damage for each heads."
             },
             damage: "20x"

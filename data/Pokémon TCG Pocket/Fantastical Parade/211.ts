@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/211",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/211",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/211"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/211",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/211"
     },
     name: {
         en: "Omanyte",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Omanyte",
         "de": "Amonitas",
         "pt-br": "Omanyte",
-        "zh-tw": "菊石獸"
+        "zh-tw": "菊石獸",
+        ja: "オムナイト"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Helixfossile",
         "de": "Helixfossil",
         "pt-br": "Fóssil Espiral",
-        "zh-tw": "貝殼化石"
+        "zh-tw": "貝殼化石",
+        ja: "かいの化石"
     },
     description: {
         en: "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Perché alcuni Omanyte riescono a scappare dopo\nvengono ripristinati o vengono rilasciati in natura da\ngente, questa specie sta diventando un problema.",
         "de": "Denn einigen Omanyten gelingt danach die Flucht\nwerden wiederhergestellt oder in die Wildnis entlassen\nMenschen, diese Art wird zum Problem.",
         "pt-br": "Porque alguns Omanyte conseguem escapar depois\nsendo restaurados ou soltos na natureza por\npessoas, esta espécie está se tornando um problema.",
-        "zh-tw": "因為一些阿曼人在之後設法逃脫\n被恢復或被釋放到野外\n人們，這個物種正在成為一個問題。"
+        "zh-tw": "因為一些阿曼人在之後設法逃脫\n被恢復或被釋放到野外\n人們，這個物種正在成為一個問題。",
+        ja: "復元されたあと 逃げだしたり 逃がしてしまう ものが いるため 問題に なりつつあるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 40,
             cost: ["Water"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/067"
     },
     name: {
         en: "Blue",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Blu",
         de: "Blau",
         'pt-br': "Blue",
+        ja: "グリーン",
         ko: "그린",
         "zh-tw": "青綠",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Durante il prossimo turno del tuo avversario, tutti i tuoi Pokémon subiscono -10 danni dagli attacchi dei Pokémon avversari.",
         de: "Während des nächsten Zuges deines Gegners werden allen deinen Pokémon durch Attacken von Pokémon deines Gegners − 10 Schadenspunkte zugefügt.",
         'pt-br': "Durante o próximo turno do seu oponente, todos os seus Pokémon receberão −10 pontos de dano de ataques dos Pokémon do seu oponente.",
+        ja: "次の相手の番、自分のポケモン全員が、相手のポケモンから受けるワザのダメージを-10する。",
         ko: "상대의 다음 차례에 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지를 -10한다.",
         "zh-tw": "在對手的下一個回合中，您所有的神奇寶貝因對手神奇寶貝的攻擊而受到−10點傷害。"
     },

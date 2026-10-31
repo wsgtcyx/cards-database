@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/226",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/226"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/226",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/226"
     },
     name: {
         en: "Nidoran♂",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nidoran♂",
         "pt-br": "Nidoran♂",
         "zh-tw": "尼多朗",
+        ja: "ニドラン♂",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il corno sulla fronte di un Nidoran maschio contiene\nun potente veleno. Questo è molto cauto\nPokémon, tendendo sempre le sue grandi orecchie.",
         "de": "Das Horn auf der Stirn eines männlichen Nidoraners enthält\nein starkes Gift. Das ist sehr vorsichtig\nPokémon, das immer seine großen Ohren anstrengt.",
         "pt-br": "O chifre na testa de um Nidoran masculino contém\num veneno poderoso. Esta é uma atitude muito cautelosa\nPokémon, sempre esticando suas orelhas grandes.",
-        "zh-tw": "雄性尼多蘭額頭上的角含有\n一種強力的毒藥。這是一個非常謹慎的\n總是豎起大耳朵的神奇寶貝。"
+        "zh-tw": "雄性尼多蘭額頭上的角含有\n一種強力的毒藥。這是一個非常謹慎的\n總是豎起大耳朵的神奇寶貝。",
+        ja: "額の ツノには 猛毒がある。 警戒心が 強く 大きな 耳を つねに そばだてている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Darkness"]

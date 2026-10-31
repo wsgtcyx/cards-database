@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/018",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/018"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/018"
     },
     name: {
         en: "Piplup",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Molto orgoglioso. Difficile farci amicizia perché non ascolta mai\ni consigli dell’Allenatore.",
         de: "Einmischung kann es gar nicht leiden. Es ist bockig und fasst\nnur schwer Zutrauen zu seinem Trainer.",
         "pt-br": "Não gosta de ser cuidado. É difícil criar um vínculo, pois ele não escuta seu Treinador.",
-        "zh-tw": "它不喜歡被照顧。它很難與它建立聯繫，因為它不聽訓練師的話。"
+        "zh-tw": "它不喜歡被照顧。它很難與它建立聯繫，因為它不聽訓練師的話。",
+        ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20
         }

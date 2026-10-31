@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/225",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/225",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/225",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/225"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/225",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/225"
     },
     name: {
         en: "Nidoqueen",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nidoqueen",
         "pt-br": "Nidoqueen",
         "zh-tw": "尼多后",
+        ja: "ニドクイン",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Nidorina",
         "pt-br": "Nidorina",
         "zh-tw": "尼多娜",
+        ja: "ニドリーナ",
     },
     description: {
         en: "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Nidoqueen è più bravo in difesa che in attacco.\nCon scaglie come un'armatura, questo Pokémon proteggerà\ni suoi figli da ogni tipo di attacco.",
         "de": "Nidoqueen ist besser in der Verteidigung als im Angriff.\nMit schuppenähnlichen Rüstungen schützt dieses Pokémon\nseine Kinder vor Angriffen jeglicher Art.",
         "pt-br": "Nidoqueen é melhor na defesa do que no ataque.\nCom escamas como armadura, este Pokémon irá proteger\nseus filhos de qualquer tipo de ataque.",
-        "zh-tw": "尼多女王更擅長防守而不是進攻。\n擁有像盔甲一樣的鱗片，這只神奇寶貝會盾牌\n它的孩子免受任何形式的攻擊。"
+        "zh-tw": "尼多女王更擅長防守而不是進攻。\n擁有像盔甲一樣的鱗片，這只神奇寶貝會盾牌\n它的孩子免受任何形式的攻擊。",
+        ja: "攻めるよりも 守るほうが 得意。 鎧のような ウロコで いかなる 攻撃からも 子どもを 守る。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo d'amore",
                 "de": "Liebesschlag",
                 "pt-br": "Golpe de amor",
-                "zh-tw": "愛情罷工"
+                "zh-tw": "愛情罷工",
+                ja: "ラブラブアタック"
             },
             damage: "80+",
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 50 danni in più per ciascuno dei tuoi Nidoking in panchina.",
                 "de": "Dieser Angriff verursacht 50 weitere Schadenspunkte für jeden deiner Nidokings auf der Bank.",
                 "pt-br": "Este ataque causa 50 de dano a mais para cada um dos seus Nidoking no Banco.",
-                "zh-tw": "此攻擊對你的每個後備尼多王造成 50 點額外傷害。"
+                "zh-tw": "此攻擊對你的每個後備尼多王造成 50 點額外傷害。",
+                ja: "自分のベンチの「ニドキング」の数×50ダメージ追加。"
             }
         }],
     weaknesses: [{

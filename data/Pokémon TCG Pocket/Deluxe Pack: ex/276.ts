@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/276",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/276",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/276",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/276"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/276",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/276"
     },
     name: {
         en: "Pidgeot ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tauboss-ex",
         "pt-br": "Pidgeot ex",
         "zh-tw": "大比鳥ex",
+        ja: "ピジョットex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Ciclone di dispersione",
                 "de": "Zerstreuender Zyklon",
                 "pt-br": "Ciclone de dispersão",
-                "zh-tw": "散射旋風分離器"
+                "zh-tw": "散射旋風分離器",
+                ja: "けちらしサイクロン"
             },
             damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ciascuno dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手的後備神奇寶貝每造成 20 點額外傷害。"
+                "zh-tw": "這次攻擊對對手的後備神奇寶貝每造成 20 點額外傷害。",
+                ja: "相手のベンチポケモンの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

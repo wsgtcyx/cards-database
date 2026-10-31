@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/105"
     },
     name: {
         en: "Liepard",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Liepard",
         "de": "Kleoparda",
         "pt-br": "Liepard",
-        "zh-tw": "酷豹"
+        "zh-tw": "酷豹",
+        ja: "レパルダス"
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Purrloin",
         "de": "Felilou",
         "pt-br": "Purrloin",
-        "zh-tw": "扒手貓"
+        "zh-tw": "扒手貓",
+        ja: "チョロネコ"
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non lasciarti ingannare dalla sua pelliccia splendida ed elegante\nfigura. Questo è un Pokémon lunatico e feroce.",
         "de": "Lassen Sie sich nicht von seinem wunderschönen Fell und seiner Eleganz täuschen\nFigur. Dies ist ein launisches und bösartiges Pokémon.",
         "pt-br": "Não se deixe enganar pelo seu pelo lindo e elegante\nfigura. Este é um Pokémon temperamental e cruel.",
-        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。"
+        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。",
+        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fissare gli artigli",
                 "de": "Krallen befestigen",
                 "pt-br": "Aperte as garras",
-                "zh-tw": "扣緊爪子"
+                "zh-tw": "扣緊爪子",
+                ja: "ツメをだす"
             },
             damage: "30+",
             cost: ["Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

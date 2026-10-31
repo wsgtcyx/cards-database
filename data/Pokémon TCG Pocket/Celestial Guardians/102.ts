@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/102"
     },
     name: {
         en: "Mudbray",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mudbray",
         de: "Pampuli",
         'pt-br': "Mudbray",
+        ja: "ドロバンコ",
         ko: "머드나기",
         "zh-tw": "泥驢仔",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il fango che ricopre il suo corpo è terra\nruminata dal Pokémon stesso e non si secca\nmai, neppure se esposto al sole per molto tempo.",
         de: "Der Schlamm, der es bedeckt, besteht aus\nwiedergekäuter Erde. Dieser trocknet selbst dann\nnicht aus, wenn er lange der Sonne ausgesetzt ist.",
         'pt-br': "Cobre-se com a lama que regurgitou. A lama não secará,\nmesmo que fique muito tempo exposta ao sol.",
+        ja: "まとっている 泥は 食べた 土を 反芻したもの。 長時間 日差しを 浴びても 乾かないのだ。",
         ko: "두르고 있는 진흙은 먹었던 흙을\n되새김해서 만든 것이다.\n장시간 햇볕을 쬐어도 마르지 않는다.",
         "zh-tw": "這只神奇寶貝用吐出的泥土覆蓋自己。即使長時間暴露在陽光下，泥漿也不會變乾。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Retrocalcio",
                 de: "Rückwärtskick",
                 'pt-br': "Chute Traseiro",
+                ja: "うしろげり",
                 ko: "뒤로 차기",
                 "zh-tw": "後踢"
             },

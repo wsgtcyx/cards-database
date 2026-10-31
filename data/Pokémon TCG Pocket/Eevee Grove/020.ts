@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/020"
     },
     name: {
         en: "Vanilluxe",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Gelatwino",
         "pt-br": "Vanilluxe",
         "zh-tw": "雙倍多多冰",
+        ja: "バイバニラ",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
         "zh-tw": "多多冰",
+        ja: "バニリッチ",
     },
     description: {
         en: "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando la sua rabbia raggiunge un punto di rottura, questo\nI Pokémon scatenano una feroce bufera di neve che congela\nogni creatura attorno ad esso, siano essi amici o nemici.",
         "de": "Wenn seine Wut einen Bruchpunkt erreicht, ist dies der Fall\nPokémon entfesselt einen heftigen Schneesturm, der erstarrt\njedes Lebewesen um ihn herum, ob Freund oder Feind.",
         "pt-br": "Quando sua raiva atinge um ponto de ruptura, este\nPokémon desencadeia uma forte nevasca que congela\ntodas as criaturas ao seu redor, sejam elas amigas ou inimigas.",
-        "zh-tw": "當它的憤怒達到臨界點時，\n神奇寶貝釋放出猛烈的冰凍暴風雪\n它周圍的每一個生物，無論是朋友還是敵人。"
+        "zh-tw": "當它的憤怒達到臨界點時，\n神奇寶貝釋放出猛烈的冰凍暴風雪\n它周圍的每一個生物，無論是朋友還是敵人。",
+        ja: "怒りが 頂点に 達すると 吹雪を 噴き出して 敵も 味方も 氷漬けに する。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Doppio giro",
                 "de": "Doppelter Spin",
                 "pt-br": "Giro Duplo",
-                "zh-tw": "雙旋轉"
+                "zh-tw": "雙旋轉",
+                ja: "ダブルスピン"
             },
             damage: "80×",
             cost: ["Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 80 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 80 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 80 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 80 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 80 點傷害。",
+                ja: "コインを2回投げ、オモテの数×80ダメージ。"
             }
         }],
     weaknesses: [{

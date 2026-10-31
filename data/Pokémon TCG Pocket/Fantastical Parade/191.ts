@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/191"
     },
     name: {
         en: "Sightseer",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vacanziera",
         "de": "Urlauberin",
         "pt-br": "Excursionista",
-        "zh-tw": "觀光客"
+        "zh-tw": "觀光客",
+        ja: "かんこうきゃく"
     },
     illustrator: "yuu",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Guarda le prime 4 carte del tuo mazzo. Metti nella tua mano tutti i Pokémon di Fase 1 che trovi lì. Rimescola le altre carte nel tuo mazzo.",
         "de": "Schauen Sie sich die obersten 4 Karten Ihres Decks an. Nimm alle Pokémon der Stufe 1, die du dort findest, auf deine Hand. Mische die anderen Karten zurück in deinen Stapel.",
         "pt-br": "Veja as 4 primeiras cartas do seu baralho. Coloque todos os Pokémon do Estágio 1 que encontrar em sua mão. Embaralhe as outras cartas de volta no seu baralho.",
-        "zh-tw": "查看你牌組頂的 4 張牌。將在那裡找到的所有 1 階段神奇寶貝放入手牌。將其他牌洗回你的牌庫中。"
+        "zh-tw": "查看你牌組頂的 4 張牌。將在那裡找到的所有 1 階段神奇寶貝放入手牌。將其他牌洗回你的牌庫中。",
+        ja: "自分の山札を上から4枚見て、その中から1進化ポケモンをすべて手札に加える。残りのカードは山札にもどす。"
     },
     trainerType: "Supporter"
 };

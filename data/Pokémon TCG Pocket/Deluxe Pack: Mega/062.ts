@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/062",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/062",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/062"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/062"
     },
     name: {
         en: "Mudkip",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Wenn es seine große Schwanzflosse einsetzt, kann es im Wasser schnell beschleunigen. Es ist überraschend stark für seine geringe Größe.",
         "pt-br": "Ao utilizar sua grande barbatana, ganha velocidade rapidamente na água. É forte, apesar de seu pequeno porte.",
         "zh-tw": "如果用大大的尾鰭划水，速度就會快速提升。身體雖小卻很有力氣。",
-        ja: "When it uses its large tail fin, it picks up speed\nrapidly in the water. It is strong in spite of its\nsmall size.",
+        ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。",
         ko: "When it uses its large tail fin, it picks up speed\nrapidly in the water. It is strong in spite of its\nsmall size."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "Tackle",
+                ja: "たいあたり",
                 ko: "Tackle"
             },
             damage: 20,

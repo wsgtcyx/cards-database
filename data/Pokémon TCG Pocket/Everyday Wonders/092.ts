@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/092",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/092",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/092"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/092"
     },
     name: {
         en: "Metapod",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La corazza esterna è robusta ma l’interno\nè molle. Per questo non è in grado di resistere\nad attacchi particolarmente veementi.",
         de: "In seiner harten Schale ist ein weicher Körper.\nEinem brutalen Angriff hat es nichts\nentgegenzusetzen.",
         "pt-br": "Embora esteja envolto em uma concha resistente, o corpo por dentro é macio. Não pode resistir a um ataque severo.",
-        "zh-tw": "雖然有堅硬的外殼，\n但因為殼裡的身體很軟，\n所以無法抵抗強力的攻擊。"
+        "zh-tw": "雖然有堅硬的外殼，\n但因為殼裡的身體很軟，\n所以無法抵抗強力的攻擊。",
+        ja: "硬い 殻に 包まれているが 中身は 軟らかいので 強い 攻撃には 耐えられない。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 30
         }

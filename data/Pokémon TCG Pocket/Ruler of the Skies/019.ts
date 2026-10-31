@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/019",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/019",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/019"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/019"
     },
     name: {
         en: "Teal Mask Ogerpon",
@@ -20,7 +21,7 @@ const card: Card = {
         "pt-br": "Ogerpon Máscara Turquesa",
         "zh-tw": "厄鬼椪碧草面具",
         ko: "오거폰 벽록의가면",
-        ja: "オーガポン みどりのめん"
+        ja: "オーガポンみどりのめん"
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",
@@ -35,7 +36,8 @@ const card: Card = {
         it: "È dispettoso e ha una spiccata curiosità. Il tipo dell'energia che sfrutta per lottare dipende da quella contenuta nella maschera.",
         de: "Es liebt Streiche und steckt voller Neugier. Zum Kämpfen nutzt es die typenspezifische Energie der Maske, die es trägt.",
         "pt-br": "Este Pokémon adora pregar peças e é muito curioso. Batalha sugando o tipo de energia contido em suas máscaras.",
-        "zh-tw": "喜歡惡作劇，好奇心旺盛。\n能激發出面具蘊藏的\n屬性的能量來戰鬥。"
+        "zh-tw": "喜歡惡作劇，好奇心旺盛。\n能激發出面具蘊藏的\n屬性的能量來戰鬥。",
+        ja: "いたずら好きで 好奇心旺盛。 仮面に こめられた タイプの エネルギーを 引き出して 戦う。※ キタカミの里での冒険で出会うことができます。"
     },
     attacks: [
         {
@@ -47,7 +49,8 @@ const card: Card = {
                 "pt-br": "Chicote de Ogro",
                 "zh-tw": "厄鬼鞭打",
                 "it": "Frustata dell'Orco",
-                "de": "Ogerpeitsche"
+                "de": "Ogerpeitsche",
+                ja: "オーガウィップ"
             },
             effect: {
                 en: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
@@ -56,7 +59,8 @@ const card: Card = {
                 "pt-br": "Este ataque causa dano ao Pokémon Ativo do seu oponente equivalente ao PS restante deste Pokémon.",
                 "zh-tw": "對對手的戰鬥寶可夢造成與這隻寶可夢的剩餘HP相同數值的傷害。",
                 "it": "Questo attacco infligge al Pokémon attivo dell'avversario danni pari alla quantità di PS rimasti a questo Pokémon.",
-                "de": "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu."
+                "de": "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu.",
+                ja: "このポケモンの残りHPぶん、相手のバトルポケモンにダメージを与える。"
             }
         }
     ],

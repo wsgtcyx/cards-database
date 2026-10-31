@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/052",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/052",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/052"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/052"
     },
     name: {
         en: "Luxio",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Se due Luxio collegano le code, riescono a emettere dagli artigli una scarica elettrica ancora più vigorosa.",
         de: "Verbindet es seinen Schweif mit dem eines Artgenossen, können seine Krallen noch heftigere Stromstöße austeilen.",
         "pt-br": "Quando aproximam suas caudas, geram coletivamente uma eletricidade poderosa de suas garras.",
-        "zh-tw": "只要與夥伴的尾巴互相\n串聯，就能將更加強大\n的電擊從爪子釋放出去。"
+        "zh-tw": "只要與夥伴的尾巴互相\n串聯，就能將更加強大\n的電擊從爪子釋放出去。",
+        ja: "仲間と 尻尾を つなげると より 強力な 電撃を ツメから 出すことが できる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Calcio di zap",
                 de: "Zap-Kick",
                 "pt-br": "Chute Zap",
-                "zh-tw": "電氣踢"
+                "zh-tw": "電氣踢",
+                ja: "エレキック"
             },
             damage: 40
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/136"
     },
     name: {
         en: "Golurk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golurk",
         de: "Golgantes",
         'pt-br': "Golurk",
+        ja: "ゴルーグ",
         ko: "골루그",
         "zh-tw": "泥偶巨人",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Golett",
         "de": "Golbit",
         "pt-br": "Golett",
-        "zh-tw": "泥偶小人"
+        "zh-tw": "泥偶小人",
+        ja: "ゴビット"
     },
     attacks: [{
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Doppio Lazzo",
                 de: "Doppel-Lasso",
                 'pt-br': "Laço Duplo",
+                ja: "ダブルラリアット",
                 ko: "더블래리엇",
                 "zh-tw": "雙套索"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 100 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 100 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 100 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×100ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Nelle mura degli antichi castelli si trovano\ndei basamenti, simili a quelli dei cannoni, dai\nquali i Golurk potevano sparare i loro raggi.",
         de: "In uralten Festungen finden sich heute noch\nSockel, die Golgantes beim Abfeuern seiner\nStrahlen wohl als Halt dienen sollten.",
         'pt-br': "Plataformas de artilharia construídas nas paredes\nde castelos antigos eram usadas por Golurk como\npoleiros, de onde disparavam seus feixes de energia.",
+        ja: "古代人の お城の 壁には ゴルーグが ビームを 撃つための 砲台の ような 台座が ある。",
         ko: "고대인의 성벽에는\n골루그가 빔을 쏘기 위한\n포대와 같은 대좌가 있다.",
         "zh-tw": "建在古城堡城牆上的砲台是古魯克可以發射能量束的棲息地。"
     },

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/115",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/115",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/115"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/115"
     },
     name: {
         en: "Buneary",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Hasensprung",
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
-                ja: "Rabbit Jumping",
+                ja: "ラビットジャンプ",
                 ko: "Rabbit Jumping"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "Flip 2 coins. This attack does 20 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
                 ko: "Flip 2 coins. This attack does 20 damage for each heads."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Sind seine beiden Ohren aufgerollt, deutet das darauf hin, dass es ihm körperlich oder psychisch nicht gut geht und es Zuwendung braucht.",
         "pt-br": "Se as duas orelhas de Buneary estão enroladas, algo está errado com seu corpo ou mente. É um sinal claro de que o Pokémon precisa de cuidados.",
         "zh-tw": "將左右兩耳捲起來時， 就代表牠的身體或心情 狀況不佳，需要照顧。",
-        ja: "If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care.",
+        ja: "左右の 耳を 丸めているときは 体や 心の 不調が 原因なので ケアが 必要。",
         ko: "If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care."
     }
 };

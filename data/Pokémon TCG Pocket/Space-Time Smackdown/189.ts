@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/189",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/189"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/189",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/189"
     },
     name: {
         en: "Lickilicky ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lickilicky-ex",
         de: "Schlurplek-ex",
         'pt-br': "Lickilicky ex",
+        ja: "ベロベルトex",
         ko: "내룸벨트 ex",
         "zh-tw": "大舌舔ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schlurp",
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
+        ja: "ベロリンガ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Leccate Furiose",
                 de: "Schleckwut",
                 'pt-br': "Lambida Furiosa",
+                ja: "ベロベロラッシュ",
                 ko: "낼름낼름러시",
                 "zh-tw": "舔怒"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 40 danni in più ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 40 Schadenspunkte mehr pro Kopf zu.",
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 40 pontos de dano a mais para cada cara.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。"
             }

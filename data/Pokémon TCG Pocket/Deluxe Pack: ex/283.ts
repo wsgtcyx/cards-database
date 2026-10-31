@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/283",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/283",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/283",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/283"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/283",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/283"
     },
     name: {
         en: "Lickitung",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schlurp",
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
+        ja: "ベロリンガ",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se la saliva appiccicosa di questo Pokémon ti viene addosso e\nse non lo pulisci, subentra un prurito intenso.\nAnche il prurito non se ne andrà.",
         "de": "Wenn der klebrige Speichel dieses Pokémon auf dich gelangt und\nWenn Sie es nicht reinigen, stellt sich ein starker Juckreiz ein.\nAuch der Juckreiz wird nicht verschwinden.",
         "pt-br": "Se a saliva pegajosa deste Pokémon entrar em contato com você e\nvocê não limpa, uma coceira intensa se instala.\nA coceira também não vai embora.",
-        "zh-tw": "如果這只神奇寶貝的粘稠唾液沾到你身上\n如果你不把它清理乾淨，就會出現劇烈的瘙癢。\n瘙癢也不會消失。"
+        "zh-tw": "如果這只神奇寶貝的粘稠唾液沾到你身上\n如果你不把它清理乾淨，就會出現劇烈的瘙癢。\n瘙癢也不會消失。",
+        ja: "ネバネバした 唾液に 触れたまま 放っておくと ものすごい 痒みが はじまり とまらなくなるぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Schiaffo sulla lingua",
                 "de": "Zungenschlag",
                 "pt-br": "Tapa na língua",
-                "zh-tw": "舌擊"
+                "zh-tw": "舌擊",
+                ja: "ベロではたく"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

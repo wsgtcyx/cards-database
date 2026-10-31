@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/029"
     },
     name: {
         en: "Arcanine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arkani",
         "pt-br": "Arcanine",
         "zh-tw": "風速狗",
+        ja: "ウインディ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     description: {
         en: "Its magnificent bark conveys a sense of majesty.\nAnyone hearing it can't help but grovel before it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La sua magnifica corteccia trasmette un senso di maestosità.\nChiunque lo ascolti non può fare a meno di umiliarsi davanti ad esso.",
         "de": "Seine prächtige Rinde vermittelt ein Gefühl von Majestät.\nWer es hört, kann nicht anders, als davor zu kriechen.",
         "pt-br": "A sua magnífica casca transmite uma sensação de majestade.\nQualquer um que ouça isso não pode deixar de rastejar diante disso.",
-        "zh-tw": "其雄偉的樹皮給人一種威嚴的感覺。\n任誰聽了都會忍不住跪拜。"
+        "zh-tw": "其雄偉的樹皮給人一種威嚴的感覺。\n任誰聽了都會忍不住跪拜。",
+        ja: "堂々とした 鳴き声は 威厳に あふれ 聞いたものは 思わず ひれ伏してしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna di fuoco",
                 "de": "Feuerzahn",
                 "pt-br": "Presa de Fogo",
-                "zh-tw": "火牙"
+                "zh-tw": "火牙",
+                ja: "ほのおのキバ"
             },
             damage: 50,
             cost: ["Fire", "Fire"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è bruciato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在被燒毀。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在被燒毀。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。"
             }
         }],
     weaknesses: [{

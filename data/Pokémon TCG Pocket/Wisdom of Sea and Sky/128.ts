@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/128",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/128"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/128"
     },
     name: {
         en: "Klinklang",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Klikdiklak",
         "pt-br": "Klinklang",
         "zh-tw": "齒輪怪",
+        ja: "ギギギアル",
     },
     illustrator: "Akira Komayama",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kliklak",
         "pt-br": "Klang",
         "zh-tw": "齒輪組",
+        ja: "ギギアル",
     },
     description: {
         en: "From its spikes, it launches powerful blasts of\nelectricity. Its red core contains an enormous\namount of energy.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dalle sue punte lancia potenti esplosioni di\nelettricità. Il suo nucleo rosso contiene un enorme\nquantità di energia.",
         "de": "Von seinen Stacheln aus feuert es mächtige Schüsse ab\nStrom. Sein roter Kern enthält eine enorme Menge\nMenge an Energie.",
         "pt-br": "Dos seus espinhos, ele lança rajadas poderosas de\neletricidade. Seu núcleo vermelho contém uma enorme\nquantidade de energia.",
-        "zh-tw": "它從它的尖刺中發射出強大的爆炸\n電力。它的紅色核心含有巨大的\n能量量。"
+        "zh-tw": "它從它的尖刺中發射出強大的爆炸\n電力。它的紅色核心含有巨大的\n能量量。",
+        ja: "棘の 先から 強い 電撃を 発射。 赤いコアに たくさんの エネルギーを 蓄えている。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Filatore di ingranaggi",
                 "de": "Zahnradspinner",
                 "pt-br": "Girador de engrenagem",
-                "zh-tw": "齒輪旋轉器"
+                "zh-tw": "齒輪旋轉器",
+                ja: "ギアスピナー"
             },
             damage: 70,
             cost: ["Metal", "Metal", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, l'attacco Gira-Ingranaggio di questo Pokémon infligge +70 danni.",
                 "de": "Während deines nächsten Zuges verursacht der Gear-Spinner-Angriff dieses Pokémon +70 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Gear Spinner deste Pokémon causa +70 de dano.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝的齒輪旋轉攻擊造成+70點傷害。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝的齒輪旋轉攻擊造成+70點傷害。",
+                ja: "次の自分の番、このポケモンの「ギアスピナー」のダメージを+70する。"
             }
         }],
     weaknesses: [{

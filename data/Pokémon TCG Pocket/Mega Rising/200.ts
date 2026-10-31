@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/200",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/200"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/200",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/200"
     },
     name: {
         en: "Watchog",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kukmarda",
         "pt-br": "Watchog",
         "zh-tw": "步哨鼠",
+        ja: "ミルホッグ",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Nagelotz",
         "pt-br": "Patrat",
         "zh-tw": "探探鼠",
+        ja: "ミネズミ",
     },
     description: {
         en: "When they see an enemy, their tails stand high,\nand they spit the seeds of berries stored in their\ncheek pouches.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando vedono un nemico, tengono alta la coda,\ne sputano i semi delle bacche conservate nelle loro\ntasche per le guance.",
         "de": "Wenn sie einen Feind sehen, strecken sie ihren Schwanz hoch,\nund sie spucken die Samen der in ihnen gelagerten Beeren aus\nBackentaschen.",
         "pt-br": "Quando eles veem um inimigo, suas caudas ficam erguidas,\ne cuspiram as sementes das frutas armazenadas em seus\nbolsas nas bochechas.",
-        "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，\n他們吐出儲存在他們的漿果中的種子\n頰袋。"
+        "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，\n他們吐出儲存在他們的漿果中的種子\n頰袋。",
+        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna mordace",
                 "de": "Beißender Fangzahn",
                 "pt-br": "Mordendo Presa",
-                "zh-tw": "咬牙方"
+                "zh-tw": "咬牙方",
+                ja: "するどいまえば"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 40 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。",
+                ja: "コインを1回投げオモテなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

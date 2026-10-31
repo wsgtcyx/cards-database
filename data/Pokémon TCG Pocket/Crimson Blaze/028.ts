@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/028"
     },
     name: {
         en: "Helioptile",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Helioptile",
         "de": "Eguana",
         "pt-br": "Helioptile",
-        "zh-tw": "傘電蜥"
+        "zh-tw": "傘電蜥",
+        ja: "エリキテル"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il sole alimenta l'elettricità di questo Pokémon\ngenerazione. Interruzione di quel processo\nsottolinea Helioptile fino al punto di debolezza.",
         "de": "Die Sonne treibt die Elektrizität dieses Pokémon an\nGeneration. Unterbrechung dieses Prozesses\nbetont Helioptile bis zur Schwäche.",
         "pt-br": "O sol alimenta a eletricidade deste Pokémon\ngeração. Interrupção desse processo\nestressa Helioptile ao ponto da fraqueza.",
-        "zh-tw": "太陽為這個神奇寶貝提供電力\n一代。中斷該過程\nHelioptile 的壓力已經到了虛弱的程度。"
+        "zh-tw": "太陽為這個神奇寶貝提供電力\n一代。中斷該過程\nHelioptile 的壓力已經到了虛弱的程度。",
+        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scossa di tuono",
                 "de": "Donnerschock",
                 "pt-br": "Choque do trovão",
-                "zh-tw": "電擊"
+                "zh-tw": "電擊",
+                ja: "でんきショック"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

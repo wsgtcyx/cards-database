@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/027"
     },
     name: {
         en: "Electrike",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electrike",
         de: "Frizelbliz",
         'pt-br': "Electrike",
+        ja: "ラクライ",
         ko: "썬더라이",
         "zh-tw": "落雷獸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Accumula elettricità statica nella pelliccia e poi la rilascia.\nSe si avvicina una tempesta, emette scintille.",
         de: "In seinem Fell speichert es statische Elektrizität\nfür spätere Entladungen. Braut sich ein Sturm\nzusammen, entlädt es Funken.",
         'pt-br': "Ele armazena eletricidade estática no pelo\npara depois descarregá-la.\nQuando uma tempestade se aproxima, solta fagulhas.",
+        ja: "静電気を 体毛に たくわえて 放電する。嵐が 近づくと 全身から 火花を 散らす。",
         ko: "정전기를 털에 비축하여\n방전한다. 폭풍이 가까이 오면\n온몸에서 불꽃을 튀긴다.",
         "zh-tw": "它在皮毛中儲存靜電以進行放電。如果暴風雨來臨，它會發出火花。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Dinamocalcio",
                 de: "Stromtritt",
                 'pt-br': "Chute Zap",
+                ja: "エレキック",
                 ko: "일렉트릭킥",
                 "zh-tw": "電擊踢"
             },

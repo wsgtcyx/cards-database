@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/105",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/105",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/105"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/105"
     },
     name: {
         en: "Spearow",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Flattern",
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
-                ja: "Flap",
+                ja: "はばたく",
                 ko: "Flap"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Wenn es um die Verteidigung seines Reviers geht, schreckt das draufgängerische Habitak selbst vor großen Pokémon nicht zurück.",
         "pt-br": "Sua natureza descuidada leva Spearow a encarar até Pokémon maiores quando precisa proteger o seu território.",
         "zh-tw": "生性魯莽衝動，凡要是為了守護自己的地盤，即使對手是大型寶可夢也會正面迎戰。",
-        ja: "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
+        ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。",
         ko: "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory."
     }
 };

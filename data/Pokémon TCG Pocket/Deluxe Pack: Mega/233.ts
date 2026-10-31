@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/233",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/233",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/233",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/233"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/233",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/233"
     },
     name: {
         en: "Rainbow Cave",
@@ -34,7 +35,7 @@ const card: Card = {
         "zh-tw": "雙方玩家在自己的回合時,可使用1次。將自己的能量區已產生的能量丟棄。這個情況下,抽出下一個能量。",
         it: "Una sola volta durante il turno di ciascun giocatore, quel giocatore può scartare l'Energia generata nella sua Zona Energia. Se lo fa, verrà creata l'Energia successiva.",
         de: "Einmal während des Zuges jedes Spielers kann jener Spieler die Energie, die in seinem Energiebereich generiert wurde, ablegen. Wenn er das macht, wird die nächste Energie generiert.",
-        ja: "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced.",
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分のエネルギーゾーンに発生しているエネルギーをトラッシュ。その場合、次のエネルギーを出す。",
         ko: "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced."
     },
     trainerType: "Stadium"

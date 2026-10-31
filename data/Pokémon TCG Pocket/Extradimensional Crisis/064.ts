@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/064"
     },
     name: {
         en: "Repel",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schutz",
         "pt-br": "Repelente",
         "zh-tw": "除蟲噴霧",
+        ja: "むしよけスプレー",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Metti in panchina il Pokémon Base attivo del tuo avversario. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
         "de": "Tauschen Sie das aktive Basis-Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
         "pt-br": "Troque os Pokémon Básicos Ativos do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-        "zh-tw": "將對手的活躍基礎寶可夢移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
+        "zh-tw": "將對手的活躍基礎寶可夢移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
+        ja: "相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
     },
     trainerType: "Item"
 };

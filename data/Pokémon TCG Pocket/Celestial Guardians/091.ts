@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/091",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/091"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/091",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/091"
     },
     name: {
         en: "Hariyama",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hariyama",
         de: "Hariyama",
         'pt-br': "Hariyama",
+        ja: "ハリテヤマ",
         ko: "하리뭉",
         "zh-tw": "鐵掌力士",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Makuhita",
         "pt-br": "Makuhita",
         "zh-tw": "幕下力士",
+        ja: "マクノシタ",
     },
     description: {
         en: "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Adora le gare di forza. Sarebbe capace di fermare\nun treno in corsa con un colpo della mano.",
         de: "Dieses Pokémon liebt ein ordentliches Kräftemessen.\nEs ist stark genug, um mit der flachen Hand einen\nrasenden Zug aufzuhalten.",
         'pt-br': "Ele adora desafiar os outros em testes de força.\nEle tem o poder de parar um trem com um tapa.",
+        ja: "力くらべが 大好き。 走ってくる 列車を 張り手で 止めてしまう パワーを 持つ。",
         ko: "힘겨루기를 매우 좋아한다.\n달리는 열차를 손바닥치기로\n멈추게 하는 파워를 가졌다.",
         "zh-tw": "牠喜歡挑戰別人來考驗力量。它具有一巴掌就能讓火車停下來的力量。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Spingi Fuori",
                 de: "Verdrängen",
                 'pt-br': "Expulsar",
+                ja: "おしだし",
                 ko: "밀어내기",
                 "zh-tw": "推出"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Sposta il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
                 de: "Wechsle das Aktive Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 'pt-br': "Mande o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
                 ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
                 "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
             }

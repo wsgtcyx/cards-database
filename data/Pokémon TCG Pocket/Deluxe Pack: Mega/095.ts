@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/095",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/095",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/095"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/095"
     },
     name: {
         en: "Heliolisk",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Eguana",
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
-        ja: "Helioptile",
+        ja: "エリキテル",
         ko: "Helioptile"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Stellt es seine kragenartigen Hautlappen auf und absorbiert damit Sonnenlicht, kann ein Elezard genug Strom für eine Großstadt produzieren.",
         "pt-br": "Um único Heliolisk tomando banho de sol com suas cristas abertas consegue produzir energia o suficiente para abastecer uma cidade inteira.",
         "zh-tw": "如果展開頸傘沐浴陽光，單憑１隻光電傘蜥就能製造出大城市所需的電力。",
-        ja: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
         ko: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
     },
     attacks: [
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Centelha Elétrica",
                 "zh-tw": "電電光",
                 it: "Elettroscintilla",
-                ja: "Electrispark",
+                ja: "エレキスパーク",
                 ko: "Electrispark"
             },
             effect: {
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的所有備戰寶可夢也受到10點傷害。",
-                ja: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン全員にも10ダメージ。",
                 ko: "This attack also does 10 damage to each of your opponent's Benched Pokémon."
             },
             damage: 40

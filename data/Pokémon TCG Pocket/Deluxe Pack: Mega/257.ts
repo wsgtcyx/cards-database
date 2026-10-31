@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/257",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/257",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/257",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/257"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/257",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/257"
     },
     name: {
         en: "Teal Mask Ogerpon",
@@ -39,7 +40,7 @@ const card: Card = {
         de: "Es liebt Streiche und steckt voller Neugier. Zum Kämpfen nutzt es die typenspezifische Energie der Maske, die es trägt.",
         "pt-br": "Este Pokémon adora pregar peças e é muito curioso. Batalha sugando o tipo de energia contido em suas máscaras.",
         "zh-tw": "喜歡惡作劇，好奇心旺盛。能激發出面具蘊藏的屬性的能量來戰鬥。",
-        ja: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+        ja: "いたずら好きで 好奇心旺盛。 仮面に こめられた タイプの エネルギーを 引き出して 戦う。※ キタカミの里での冒険で出会うことができます。",
         ko: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     attacks: [
@@ -57,7 +58,7 @@ const card: Card = {
                 "zh-tw": "厄鬼鞭打",
                 it: "Frustata dell'Orco",
                 de: "Ogerpeitsche",
-                ja: "Ogre's Whip",
+                ja: "オーガウィップ",
                 ko: "Ogre's Whip"
             },
             effect: {
@@ -68,7 +69,7 @@ const card: Card = {
                 "zh-tw": "對對手的戰鬥寶可夢造成與這隻寶可夢的剩餘HP相同數值的傷害。",
                 it: "Questo attacco infligge al Pokémon attivo dell'avversario danni pari alla quantità di PS rimasti a questo Pokémon.",
                 de: "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu.",
-                ja: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
+                ja: "このポケモンの残りHPぶん、相手のバトルポケモンにダメージを与える。",
                 ko: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP."
             }
         }

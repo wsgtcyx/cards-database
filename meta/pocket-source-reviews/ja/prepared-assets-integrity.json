@@ -1,0 +1,13 @@
+{
+  "objects": 9126,
+  "cards": 4561,
+  "bytes": 364864456,
+  "dimensions": {
+    "(367, 512)": 4561,
+    "(245, 342)": 4561,
+    "(160, 256)": 2,
+    "(256, 113)": 2
+  },
+  "sha256OrDimensionErrors": [],
+  "publicationStatus": "prepared-locally-not-uploaded"
+}

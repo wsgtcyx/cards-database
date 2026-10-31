@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/037"
     },
     name: {
         en: "Xerneas",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Xerneas",
         "de": "Xerneas",
         "pt-br": "Xerneas",
-        "zh-tw": "哲爾尼亞斯"
+        "zh-tw": "哲爾尼亞斯",
+        ja: "ゼルネアス"
     },
     illustrator: "sui",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando le corna sulla sua testa brillano\nin sette colori, si dice che sia\ncondividere la vita eterna.",
         "de": "Wenn die Hörner auf seinem Kopf leuchten\nin sieben Farben soll es sein\newiges Leben teilen.",
         "pt-br": "Quando os chifres em sua cabeça brilham\nem sete cores, diz-se que é\ncompartilhando a vida eterna.",
-        "zh-tw": "當它頭上的角閃閃發光時\n據說有七種顏色\n分享永生。"
+        "zh-tw": "當它頭上的角閃閃發光時\n據說有七種顏色\n分享永生。",
+        ja: "頭の ツノが 七色に 輝くとき 永遠の 命を 分け与えると 言われている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Geoburst",
                 "de": "Geoburst",
                 "pt-br": "Explosão geográfica",
-                "zh-tw": "地裂"
+                "zh-tw": "地裂",
+                ja: "ジオバースト"
             },
             damage: "120-",
             cost: ["Psychic", "Psychic", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il danno di questo attacco è ridotto dell'ammontare dei danni che questo Pokémon ha su di esso.",
                 "de": "Der Schaden dieses Angriffs wird um die Schadensmenge verringert, die dieses Pokémon verursacht.",
                 "pt-br": "O dano deste ataque é reduzido pela quantidade de dano que este Pokémon causa nele.",
-                "zh-tw": "這次攻擊的傷害會根據該神奇寶貝對其造成的傷害而減少。"
+                "zh-tw": "這次攻擊的傷害會根據該神奇寶貝對其造成的傷害而減少。",
+                ja: "このポケモンが受けているダメージぶん、このワザのダメージを小さくする。"
             }
         }],
     weaknesses: [{

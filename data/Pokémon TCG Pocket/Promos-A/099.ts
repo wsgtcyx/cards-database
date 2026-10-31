@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/099"
     },
     name: {
         en: "Marill",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Marill",
         "pt-br": "Marill",
         "zh-tw": "瑪力露",
+        ja: "マリル",
     },
     illustrator: "Shibuzoh.",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La pelliccia sul suo corpo respinge naturalmente l'acqua. Può\nresta asciutto anche quando gioca nell'acqua.",
         "de": "Das Fell seines Körpers weist von Natur aus Wasser ab. Es kann\nBleiben Sie trocken, auch wenn es im Wasser spielt.",
         "pt-br": "A pelagem do seu corpo repele naturalmente a água. Pode\nfique seco mesmo quando brinca na água.",
-        "zh-tw": "它身上的皮毛天然具有防水功能。它可以\n即使在水中玩耍時也能保持乾燥。"
+        "zh-tw": "它身上的皮毛天然具有防水功能。它可以\n即使在水中玩耍時也能保持乾燥。",
+        ja: "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 10,
             cost: ["Colorless"]

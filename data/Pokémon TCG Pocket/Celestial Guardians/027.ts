@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/027"
     },
     name: {
         en: "Alolan Marowak",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Marowak di Alola",
         de: "Alola-Knogga",
         'pt-br': "Marowak de Alola",
+        ja: "アローラガラガラ",
         ko: "알로라텅구리",
         "zh-tw": "阿羅拉嘎啦嘎啦",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
+        ja: "カラカラ",
     },
     description: {
         en: "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Trascorre le sue notti danzando in memoria dei compagni\nperduti mentre impugna un osso infuocato alle estremità.",
         de: "Es entzündet die Enden des Knochens in seiner Hand\nund führt die ganze Nacht einen Trauertanz zu Ehren\nseiner verstorbenen Artgenossen auf.",
         'pt-br': "Este Pokémon ateia fogo ao osso que segura e dança\na noite toda para lamentar seus aliados que sucumbiram\nem batalha.",
+        ja: "手にした 骨に 炎を 灯し 仲間を 弔う 踊りを 夜通し 踊りつづける。",
         ko: "손에 든 뼈에 불을 붙여\n동료를 추모하는 춤을\n밤새도록 춘다.",
         "zh-tw": "這只神奇寶貝會點燃它所持有的骨頭，並在夜間跳舞，以哀悼死去的盟友。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ossomerang Ardente",
                 de: "Brennender Knochmerang",
                 'pt-br': "Ossomerangue Ardente",
+                ja: "もえるホネブーメラン",
                 ko: "불타는 뼈다귀부메랑",
                 "zh-tw": "燃燒的骸骨"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Lanza 2 monedas. Este ataque hace 70 puntos de daño por cada cara. Si sale cara en por lo menos 1 de ellas, el Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Lancia una moneta 2 volte. Questo attacco infligge 70 danni ogni volta che esce testa. Se esce testa almeno volte, il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 70 Schadenspunkte pro Kopf zu. Wenn mindestens 1 Münze Kopf zeigt, ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
+                ja: "コインを2回投げ、オモテの数×70ダメージ。オモテが1回以上なら、相手のバトルポケモンをやけどにする。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 70데미지를 준다. 앞면이 1번 이상 나오면 상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 70 pontos de dano para cada cara. Se pelo menos 1 delas sair cara, o Pokémon Ativo do seu oponente agora estará Queimado.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 70 點傷害。如果其中至少有 1 個為正面，則對手的活躍神奇寶貝現在被燒毀。"

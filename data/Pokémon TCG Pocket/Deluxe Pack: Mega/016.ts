@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/016",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/016",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/016"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/016"
     },
     name: {
         en: "Cottonee",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Sie schützen sich, indem sie Watte verstreuen. Manche werden vom Wind bis ans andere Ende der Welt getragen.",
         "pt-br": "Dispara algodão do seu corpo para se proteger. Se este Pokémon for carregado por um furacão, pode ir parar do outro lado da Terra.",
         "zh-tw": "會噴出棉花保護身體。有時會被颱風吹到地球的另一邊。",
-        ja: "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth.",
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。",
         ko: "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
-                ja: "Razor Leaf",
+                ja: "はっぱカッター",
                 ko: "Razor Leaf"
             },
             damage: 20,

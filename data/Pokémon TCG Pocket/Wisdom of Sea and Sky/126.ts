@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/126",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/126"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/126",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/126"
     },
     name: {
         en: "Klink",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Klikk",
         "pt-br": "Klink",
         "zh-tw": "齒輪兒",
+        ja: "ギアル",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I due miniingranaggi che compongono questo Pokémon\nsono più vicini dei gemelli. Si adattano bene solo con\nl'un l'altro.",
         "de": "Die beiden Minigears, aus denen dieses Pokémon besteht\nsind näher als Zwillinge. Sie passen nur gut zusammen\neinander.",
         "pt-br": "Os dois minigears que compõem este Pokémon\nsão mais próximos que gêmeos. Eles combinam bem apenas com\num ao outro.",
-        "zh-tw": "組成這只神奇寶貝的兩個迷你齒輪\n比雙胞胎還要親密。他們只與\n彼此。"
+        "zh-tw": "組成這只神奇寶貝的兩個迷你齒輪\n比雙胞胎還要親密。他們只與\n彼此。",
+        ja: "２つの 体は 双子よりも 近い。 べつの 体同士だと いまいち うまく 噛み合わない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Presa a morsa",
                 "de": "Schraubstockgriff",
                 "pt-br": "Torno Grip",
-                "zh-tw": "虎鉗夾具"
+                "zh-tw": "虎鉗夾具",
+                ja: "はさむ"
             },
             damage: 20,
             cost: ["Metal"]

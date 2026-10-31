@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/101"
     },
     name: {
         en: "Mightyena",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mightyena",
         de: "Magnayen",
         'pt-br': "Mightyena",
+        ja: "グラエナ",
         ko: "그라에나",
         "zh-tw": "大狼犬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Fiffyen",
         "pt-br": "Poochyena",
         "zh-tw": "土狼犬",
+        ja: "ポチエナ",
     },
     description: {
         en: "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La sua eccezionale obbedienza verso gli Allenatori\nesperti deriva dall'antica abitudine di vivere in branchi.",
         de: "Es wird stets die Befehle eines begabten Trainers\nbefolgen. Dieses Verhalten geht darauf zurück,\ndass es früher im Rudel lebte.",
         'pt-br': "Sempre obedece aos comandos de um Treinador\nhabilidoso. Seu comportamento é o resultado de viver\nem matilhas eras atrás.",
+        ja: "優れた トレーナーの 命令には 絶対に 服従。大昔に 群れで 行動していた 名残り。",
         ko: "우수한 트레이너의 명령에는\n절대복종한다. 먼 옛날\n무리를 지어 행동했던 영향이다.",
         "zh-tw": "它總是服從熟練訓練師的命令。它的行為源於遠古時期的群居生活。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Oscurizanna",
                 de: "Fänge der Dunkelheit",
                 'pt-br': "Presa Sombria",
+                ja: "やみのキバ",
                 ko: "어둠엄니",
                 "zh-tw": "黑暗之牙"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/065"
     },
     name: {
         en: "Mythical Slab",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pietra Misteriosa",
         de: "Mythische Tafel",
         'pt-br': "Placa Mística",
+        ja: "幻の石板",
         ko: "환상의 석판",
         "zh-tw": "幻之石板",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Guarda la prima carta del tuo mazzo. Se quella carta è un Pokémon {P}, aggiungila alle carte che hai in mano. Se non è un Pokémon {P}, mettila in fondo al tuo mazzo.",
         de: "Schau dir die oberste Karte deines Decks an. Ist die Karte ein {P}-Pokémon, nimm sie auf die Hand. Ist die Karte kein {P}-Pokémon, lege sie unter dein Deck.",
         'pt-br': "Olhe a carta de cima do seu baralho. Se aquela carta for um Pokémon {P}, coloque-a na sua mão. Se não for um Pokémon {P}, coloque-a como a carta de baixo do seu baralho.",
+        ja: "自分の山札を上から1枚見て、そのカードが{P}ポケモンなら、手札に加える。{P}ポケモンでないなら、山札の下にもどす。",
         ko: "자신의 덱을 위에서부터 1장 보고 그 카드가 {P}포켓몬이라면 패로 가져온다. {P}포켓몬이 아니라면 덱의 아래로 되돌린다.",
         "zh-tw": "查看你牌組頂牌。如果那張卡是{P}神奇寶貝，將其加入你的手牌。如果它不是{P}神奇寶貝，請將其放在你的牌組底部。"
     },

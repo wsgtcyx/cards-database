@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/122",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/122",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/122"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/122"
     },
     name: {
         en: "Meltan",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive in gruppo, ma quando giunge il momento\nl’esemplare più forte ingloba i compagni\ne si evolve.",
         de: "Sie leben in Gruppen. Doch wenn die Zeit reif\nist, nimmt ein starkes Meltan seine Artgenossen\nin sich auf und entwickelt sich.",
         "pt-br": "Eles vivem como um grupo, mas quando chegar a hora, um Meltan forte absorverá todos os outros e evoluirá.",
-        "zh-tw": "美錄坦們雖然聚在一起生活，\n但當時機到來，會由最強的那１隻\n吸收其他的夥伴來進化。"
+        "zh-tw": "美錄坦們雖然聚在一起生活，\n但當時機到來，會由最強的那１隻\n吸收其他的夥伴來進化。",
+        ja: "群れになって 生活するが 時が くると １匹の 強い メルタンが 仲間たちを 取りこみ 進化する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fuggi Fuggi",
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
-                "zh-tw": "踩"
+                "zh-tw": "踩",
+                ja: "ふむ"
             },
             damage: 10
         }

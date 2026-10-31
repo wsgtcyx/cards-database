@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/053"
     },
     name: {
         en: "Floatzel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Floatzel",
         de: "Bojelin",
         'pt-br': "Floatzel",
+        ja: "フローゼル",
         ko: "플로젤",
         "zh-tw": "浮潛鼬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Col galleggiante gonfio, può trasportare delle\npersone sul dorso. Per immergersi lo sgonfia.",
         de: "Mit gefüllter Schwimmblase kann es Menschen\nauf seinem Rücken tragen. Lässt es Luft aus ihr\nheraus, taucht es unter.",
         'pt-br': "Com sua bolsa de flutuação inflada, pode transportar\npessoas nas costas. Esvazia a bolsa antes de mergulhar.",
+        ja: "浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。",
         ko: "부낭을 부풀리면 사람을\n등에 태울 수 있다.\n부낭을 오그라들게 하여 잠수한다.",
         "zh-tw": "浮囊充氣後可載人\n在它的背上。它在潛水前將囊放氣。"
     },
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Buizel",
         "de": "Bamelin",
         "pt-br": "Buizel",
-        "zh-tw": "泳圈鼬"
+        "zh-tw": "泳圈鼬",
+        ja: "ブイゼル"
     },
     attacks: [{
             name: {
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Attacco Spietato",
                 de: "Wundschmerz",
                 'pt-br': "Atacar a Ferida",
+                ja: "きずにうちこむ",
                 ko: "상처때리기",
                 "zh-tw": "攻擊傷口"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è danneggiato, questo attacco infligge 60 danni in più.",
                 de: "Wenn dem Aktiven Pokémon deines Gegners bereits Schaden zugefügt wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 60 pontos de dano a mais.",
+                ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 60 點。"
             }

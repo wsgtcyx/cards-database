@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/059"
     },
     name: {
         en: "Starly",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Starly",
         "de": "Staralili",
         "pt-br": "Starly",
-        "zh-tw": "姆克兒"
+        "zh-tw": "姆克兒",
+        ja: "ムックル"
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Poiché sono deboli individualmente, si formano\ngruppi. Tuttavia, litigano se il gruppo cresce\ntroppo grande.",
         "de": "Weil sie einzeln schwach sind, bilden sie sich\nGruppen. Allerdings streiten sie sich, wenn die Gruppe wächst\nzu groß.",
         "pt-br": "Por serem fracos individualmente, eles formam\ngrupos. No entanto, eles brigam se o grupo crescer\nmuito grande.",
-        "zh-tw": "因為它們個體較弱，所以形成\n組。然而，如果團體壯大，他們就會爭吵\n太大了。"
+        "zh-tw": "因為它們個體較弱，所以形成\n組。然而，如果團體壯大，他們就會爭吵\n太大了。",
+        ja: "群れを 作ることで 1匹での 弱さを カバーし合っているが 群れが 大きくなると もめだす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Chiamata per la famiglia",
                 "de": "Aufruf zur Familie",
                 "pt-br": "Ligue para a família",
-                "zh-tw": "呼喚家人"
+                "zh-tw": "呼喚家人",
+                ja: "なかまをよぶ"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti 1 Starly casuale dal tuo mazzo nella tua panchina.",
                 "de": "Lege 1 zufälligen Starly aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Starly aleatória do seu deck no seu Banco.",
-                "zh-tw": "從你的牌組中隨機將 1 顆星星放到你的替補席上。"
+                "zh-tw": "從你的牌組中隨機將 1 顆星星放到你的替補席上。",
+                ja: "自分の山札から「ムックル」をランダムに1枚、ベンチに出す。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/066"
     },
     name: {
         en: "Starly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Starly",
         de: "Staralili",
         'pt-br': "Starly",
+        ja: "ムックル",
         ko: "찌르꼬",
         "zh-tw": "姆克兒",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sorvola i campi in grandi stormi a caccia di Pokémon\nColeottero. Il suo canto è alquanto fastidioso.",
         de: "Auf der Suche nach Käfer-Pokémon fliegen Schwärme\nvon ihnen durchs Land. Ihr Ruf erzeugt großen Lärm.",
         'pt-br': "Juntam-se ao redor de montanhas e campos,\ncaçando Pokémon inseto. Seu canto é barulhento\ne irritante.",
+        ja: "むしポケモンを ねらって 野山を 大勢の 群れで 飛び回る。 鳴き声が とても やかましい。",
         ko: "벌레포켓몬을 노리고 산과 들을\n많은 무리로 날아다닌다.\n울음소리가 무척 시끄럽다.",
         "zh-tw": "它們成群結隊地在山脈和田野周圍追逐蟲子神奇寶貝。他們的歌聲吵鬧而煩人。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Aliante",
                 de: "Gleiten",
                 'pt-br': "Planeio",
+                ja: "かっくう",
                 ko: "활공",
                 "zh-tw": "滑行"
             },

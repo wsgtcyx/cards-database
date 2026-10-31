@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/259",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/259",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/259",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/259"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/259",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/259"
     },
     name: {
         en: "Pikachu ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pikachu-ex",
         de: "Pikachu-ex",
         'pt-br': "Pikachu ex",
+        ja: "ピカチュウex",
         ko: "피카츄 ex",
         "zh-tw": "皮卡丘ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Elettroruota",
                 de: "Rundparcours",
                 'pt-br': "Circuito Circular",
+                ja: "エレキサークル",
                 ko: "일렉트릭서클",
                 "zh-tw": "環形電路"
             },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni per ogni Pokémon {L} nella tua panchina.",
                 de: "Diese Attacke fügt für jedes {L}-Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon causa 30 pontos de dano para cada Pokémon {L} no seu Banco.",
+                ja: "自分のベンチの{L}ポケモンの数×30ダメージ。",
                 ko: "자신의 벤치의 {L}포켓몬의 수 × 30데미지를 준다.",
                 "zh-tw": "此攻擊對你的每個後備 {L} 神奇寶貝造成 30 點傷害。"
             },

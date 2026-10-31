@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/130",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/130"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/130"
     },
     name: {
         en: "Sandile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ganovil",
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
+        ja: "メグロコ",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vivono nascosti sotto le calde sabbie del deserto in ordine\nper evitare che la temperatura corporea scenda.",
         "de": "Sie leben der Reihe nach versteckt unter heißem Wüstensand\num zu verhindern, dass ihre Körpertemperatur sinkt.",
         "pt-br": "Eles vivem escondidos sob as areias quentes do deserto para\npara evitar que a temperatura corporal caia.",
-        "zh-tw": "它們隱藏在炎熱的沙漠之下，秩序井然\n以防止他們的體溫下降。"
+        "zh-tw": "它們隱藏在炎熱的沙漠之下，秩序井然\n以防止他們的體溫下降。",
+        ja: "体温を 下げないように 砂漠の 熱い 砂に 潜り 隠れながら 生活 している。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rosicchiare",
                 "de": "Nagen",
                 "pt-br": "Roer",
-                "zh-tw": "啃"
+                "zh-tw": "啃",
+                ja: "かじる"
             },
             damage: 20,
             cost: ["Fighting"]

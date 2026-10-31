@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/193",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/193"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/193",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/193"
     },
     name: {
         en: "Jigglypuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Jigglypuff",
         de: "Pummeluff",
         'pt-br': "Jigglypuff",
+        ja: "プリン",
         ko: "푸린",
         "zh-tw": "胖丁",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Botta",
                 de: "Klaps",
                 'pt-br': "Pancada",
+                ja: "はたく",
                 ko: "막치기",
                 "zh-tw": "磅"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Quando i suoi occhioni rotondi tremolano, canta\nuna misteriosa melodia che fa addormentare.",
         de: "Wenn seine Kulleraugen zu flackern beginnen,\nsingt es ein mysteriöses, wohlklingendes Lied,\ndas Zuhörer in Schlaf versetzt.",
         'pt-br': "Quando seus enormes olhos ficam pesados,\ncanta uma melodia misteriosa e relaxante,\nfazendo com que os inimigos adormeçam.",
+        ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。",
         ko: "초롱초롱한 눈동자가 흔들릴 때\n졸음이 쏟아지게 하는 이상하고\n기분 좋은 노래를 부른다.",
         "zh-tw": "當它巨大的眼睛晃動時，它會唱出神秘舒緩的旋律，讓敵人入睡。"
     },

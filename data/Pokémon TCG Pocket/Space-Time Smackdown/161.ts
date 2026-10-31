@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/161",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/161"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/161",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/161"
     },
     name: {
         en: "Gastrodon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gastrodon",
         de: "Gastrodon",
         'pt-br': "Gastrodon",
+        ja: "トリトドン",
         ko: "트리토돈",
         "zh-tw": "海兔獸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schalellos",
         "pt-br": "Shellos",
         "zh-tw": "無殼海兔",
+        ja: "カラナクシ",
     },
     description: {
         en: "They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Di solito vive sui litorali rocciosi, ma in periodi\ndi piogge durature può capitare di trovarlo\nanche su monti molto distanti dal mare.",
         de: "Normalerweise hält es sich an der Küste auf,\ndoch bei fortdauerndem Regen trifft man es\nauch fernab vom Meer in den Bergen an.",
         'pt-br': "Costumam habitar litorais rochosos, mas, em épocas\nde chuvas constantes, podem ser encontrados\nnas montanhas, longe do mar.",
+        ja: "普段は 磯に いるが 雨が 続くと 海から 遠く離れた 山で 見つかることも あるのだ。",
         ko: "평소에는 물가에 있지만, 비가 오래 내리면\n바다에서 멀리 떨어진\n산에서 발견될 때도 있다.",
         "zh-tw": "它們通常棲息在岩石海岸，但在持續下雨的時候，有時也可以在遠離大海的山上找到它們。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Fanghiglia",
                 de: "Lehmbrühe",
                 'pt-br': "Água Barrenta",
+                ja: "だくりゅう",
                 ko: "탁류",
                 "zh-tw": "渾水"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
             }

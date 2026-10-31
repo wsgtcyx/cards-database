@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/116",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/116",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/116"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/116",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/116"
     },
     name: {
         en: "Lopunny",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Haspiror",
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
-        ja: "Buneary",
+        ja: "ミミロル",
         ko: "Buneary"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Hasensprung",
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
-                ja: "Rabbit Jumping",
+                ja: "ラビットジャンプ",
                 ko: "Rabbit Jumping"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×40點傷害。",
-                ja: "Flip 2 coins. This attack does 40 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×40ダメージ。",
                 ko: "Flip 2 coins. This attack does 40 damage for each heads."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Schlapor behält seine Umgebung stets im Auge. Wenn Gefahr im Verzug ist, setzt es sich mit vernichtenden Tritten zur Wehr.",
         "pt-br": "Lopunny está constantemente monitorando seus arredores. Se o perigo se aproxima, este Pokémon responde com chutes superdestrutivos.",
         "zh-tw": "總是注意著周圍的狀況。危險逼近時，便會給予對手破壞力十足的踢腿。",
-        ja: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
+        ja: "まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。",
         ko: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks."
     }
 };

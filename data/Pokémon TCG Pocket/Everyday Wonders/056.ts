@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/056",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/056",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/056"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/056"
     },
     name: {
         en: "Teddiursa",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le sue zampe sono inzuppate in una gran quantità di miele. Quando è nervoso, Teddiursa si lecca le zampe e presto torna a sorridere.",
         de: "Seine Pfoten sind in Unmengen Honig getränkt. Wenn er nervös ist, leckt sich Teddiursa die Pfoten und hat bald wieder ein Lächeln im Gesicht.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando nervoso, Teddiursa lamberá as patas e logo terá um sorriso no rosto.",
-        "zh-tw": "它的爪子浸滿了蜂蜜。緊張時，熊寶寶 會舔爪子，很快臉上就會露出笑容。"
+        "zh-tw": "它的爪子浸滿了蜂蜜。緊張時，熊寶寶 會舔爪子，很快臉上就會露出笑容。",
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fascino",
                 de: "Charme",
                 "pt-br": "Encantar",
-                "zh-tw": "撒嬌"
+                "zh-tw": "撒嬌",
+                ja: "あまえる"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 de: "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon -20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
-                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-20點傷害。"
+                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-20點傷害。",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }
     ],

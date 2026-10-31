@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/361",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/361",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/361",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/361"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/361",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/361"
 	},
 	name: {
         en: "Charizard ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Glurak-ex",
         "pt-br": "Charizard ex",
         "zh-tw": "噴火龍ex",
+        ja: "リザードンex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
+        ja: "リザード",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 60,
             cost: ["Fire", "Colorless", "Colorless"]
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Tempesta Cremisi",
                 "de": "Purpurner Sturm",
                 "pt-br": "Tempestade Carmesim",
-                "zh-tw": "猩紅風暴"
+                "zh-tw": "猩紅風暴",
+                ja: "ぐれんのあらし"
             },
             damage: 200,
             cost: ["Fire", "Fire", "Colorless", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Scarta 2 Energie {R} da questo Pokémon.",
                 "de": "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
             }
         }],
     weaknesses: [{

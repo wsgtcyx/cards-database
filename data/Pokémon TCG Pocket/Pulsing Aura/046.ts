@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/046"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/046"
     },
     name: {
         en: "Cubchoo",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando Cubchoo inizia a starnutire, fai attenzione! Se ti schizza con il suo moccio gelido, ti verrà il congelamento.",
         de: "Wenn Petznief anfängt zu niesen, seien Sie vorsichtig! Wenn es dich mit seinem frostigen Rotz bespritzt, bekommst du Erfrierungen.",
         "pt-br": "Quando Cubchoo começar a espirrar, cuidado! Se respingar em você com seu ranho gelado, você sofrerá queimaduras de frio.",
-        "zh-tw": "當噴嚏熊開始打噴嚏時，要小心！如果它的冷鼻涕濺到你身上，你就會被凍傷。"
+        "zh-tw": "當噴嚏熊開始打噴嚏時，要小心！如果它的冷鼻涕濺到你身上，你就會被凍傷。",
+        ja: "くしゃみを 始めたら 注意。 冷気を まとった 鼻水を 浴びると 凍傷になるぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Freddopugno",
                 de: "Eiswatsche",
                 "pt-br": "Soco de Icelo",
-                "zh-tw": "冰柱拳"
+                "zh-tw": "冰柱拳",
+                ja: "つららパンチ"
             },
             damage: 30
         }

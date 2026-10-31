@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/023"
     },
     name: {
         en: "Voltorb",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Voltorb",
         de: "Voltobal",
         'pt-br': "Voltorb",
+        ja: "ビリリダマ",
         ko: "찌리리공",
         "zh-tw": "霹靂電球"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Rotola per spostarsi. Se il terreno è\nirregolare, può esplodere all'improvviso\na causa dell'urto contro un dosso.",
         de: "Es bewegt sich rollend fort. Rollt es über\nunebenen Boden, kann es plötzlich explodieren.",
         'pt-br': "Ele rola para se mover. Quando o solo está\ndesnivelado, um solavanco repentino após\num baque pode fazê-lo explodir.",
+        ja: "転がって 移動するので 地面が デコボコだと ショックで 爆発してしまう。",
         ko: "굴러서 이동하기 때문에\n땅이 울퉁불퉁하면\n충격으로 폭발해 버린다.",
         "zh-tw": "它滾動移動。如果地面不平坦，撞擊到凸塊時突然的震動可能會導致爆炸。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Fulminpalla",
             de: "Kugelblitz",
             'pt-br': "Bola de Raios",
+            ja: "ピッカリだま",
             ko: "번쩍구슬",
             "zh-tw": "閃電球"
         },

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/073",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/073",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/073"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/073"
     },
     name: {
         en: "Paldean Wooper",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
                 "zh-tw": "擲泥",
-                ja: "Mud-Slap",
+                ja: "どろかけ",
                 ko: "Mud-Slap"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Ein verlorener Revierkampf zwang es, an Land zu leben. Um sich zu schützen, entwickelte es eine giftige Schleimschicht auf seinem Körper.",
         "pt-br": "Após perder uma disputa por território, Wooper passou a viver em terra firme. Seu corpo mudou ao longo do tempo, desenvolvendo uma camada venenosa para protegê-lo.",
         "zh-tw": "因搶輸地盤而被迫在地上生活，久而久之變成了會用帶毒的黏膜來保護身體。",
-        ja: "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+        ja: "縄張り争いに 敗れて 陸で 暮らすうちに 毒の 粘膜で 体を 保護するように 変わった。",
         ko: "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body."
     }
 };

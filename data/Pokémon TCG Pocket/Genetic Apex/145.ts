@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/145",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/145"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/145"
     },
     name: {
         en: "Machamp",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Machamp",
         de: "Machomei",
         'pt-br': "Machamp",
+        ja: "カイリキー",
         ko: "괴력몬",
         "zh-tw": "怪力",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Machoke",
         "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "豪力"
+        "zh-tw": "豪力",
+        ja: "ゴーリキー"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Movimento Sismico",
                 de: "Geowurf",
                 'pt-br': "Arremesso Sísmico",
+                ja: "ちきゅうなげ",
                 ko: "지구던지기",
                 "zh-tw": "地震拋擲"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
         de: "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
         'pt-br': "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+        ja: "４本の腕を すばやく 動かし あらゆる 角度から 休むことなく パンチや チョップを 叩きこむ。",
         ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
         "zh-tw": "它迅速揮動四隻手臂，從各個角度不斷地出拳和砍擊，震撼對手。"
     },

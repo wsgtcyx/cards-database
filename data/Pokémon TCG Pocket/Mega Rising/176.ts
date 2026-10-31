@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/176",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/176",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/176",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/176"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/176",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/176"
     },
     name: {
         en: "Druddigon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Shardrago",
         "pt-br": "Druddigon",
         "zh-tw": "赤面龍",
+        ja: "クリムガン",
     },
     illustrator: "hatachu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I Druddigon sono malvagi e astuti. Prendono\nresidenza in nidi scavati da altri Pokémon,\ntrattando i nidi rubati come le proprie tane.",
         "de": "Druddigon sind bösartig und gerissen. Sie nehmen auf\nAufenthalt in von anderen Pokémon gegrabenen Nestern,\nSie behandeln die gestohlenen Nester wie ihre eigenen Verstecke.",
         "pt-br": "Druddigon são cruéis e astutos. Eles ocupam\nresidência em ninhos escavados por outros Pokémon,\ntratando os ninhos roubados como seus próprios covis.",
-        "zh-tw": "德魯迪岡惡毒而狡猾。他們佔用\n居住在其他神奇寶貝挖出的巢穴中，\n把偷來的巢穴當作自己的巢穴。"
+        "zh-tw": "德魯迪岡惡毒而狡猾。他們佔用\n居住在其他神奇寶貝挖出的巢穴中，\n把偷來的巢穴當作自己的巢穴。",
+        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gigaartiglio",
                 "de": "Giga-Klaue",
                 "pt-br": "Giga Garra",
-                "zh-tw": "千兆爪"
+                "zh-tw": "千兆爪",
+                ja: "ギガクロー"
             },
             damage: 120,
             cost: ["Fire", "Water", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Se entrambi escono croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf 2 Münzen. Wenn beide Schwänze sind, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem coroa, este ataque não fará nada.",
-                "zh-tw": "翻轉 2 個硬幣。如果兩者都是反面，則此攻擊不起作用。"
+                "zh-tw": "翻轉 2 個硬幣。如果兩者都是反面，則此攻擊不起作用。",
+                ja: "コインを2回投げ、すべてウラなら、このワザは失敗。"
             }
         }],
     retreat: 2

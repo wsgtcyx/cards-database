@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/234",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/234"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/234",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/234"
     },
     name: {
         en: "Alolan Grimer",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Sleima",
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
+        ja: "アローラベトベター",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ci vivono un centinaio o giù di lì\nIl sito di smaltimento dei rifiuti di Alola. Sono tutti difficili\nlavoratori che mangiano molta spazzatura.",
         "de": "Etwa hundert von ihnen leben hier\nAlolas Mülldeponie. Sie sind alle hart\nArbeiter, die viel Müll essen.",
         "pt-br": "Há cerca de uma centena deles vivendo em\nLocal de eliminação de resíduos de Alola. Eles são todos difíceis\ntrabalhadores que comem muito lixo.",
-        "zh-tw": "他們大約有一百多人居住在\n阿羅拉的垃圾處理場。他們都很難\n吃大量垃圾的工人。"
+        "zh-tw": "他們大約有一百多人居住在\n阿羅拉的垃圾處理場。他們都很難\n吃大量垃圾的工人。",
+        ja: "アローラの ゴミ処分場 には 100匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio dei fanghi",
                 "de": "Schlammwurf",
                 "pt-br": "Lançamento de lama",
-                "zh-tw": "污泥拋擲"
+                "zh-tw": "污泥拋擲",
+                ja: "ヘドロなげ"
             },
             damage: 30,
             cost: ["Darkness", "Colorless"]

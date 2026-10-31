@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/195",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/195"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/195"
     },
     name: {
         en: "Cubone",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
+        ja: "カラカラ",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando porta il ricordo della madre defunta\nfino alle lacrime, le sue grida echeggiano tristemente all'interno\nteschio che porta sulla testa.",
         "de": "Wenn die Erinnerung an seine verstorbene Mutter weckt\nes zu Tränen, seine Schreie hallen traurig im Inneren wider\nTotenkopf, den es auf dem Kopf trägt.",
         "pt-br": "Quando a memória de sua falecida mãe traz\naté as lágrimas, seus gritos ecoam tristemente dentro do\ncaveira que usa na cabeça.",
-        "zh-tw": "當對已故母親的記憶帶來\n它流淚，它的哭聲在天地裡悲哀地迴響\n它頭上戴著的頭骨。"
+        "zh-tw": "當對已故母親的記憶帶來\n它流淚，它的哭聲在天地裡悲哀地迴響\n它頭上戴著的頭骨。",
+        ja: "死に別れた 母親を 思い出し 泣くと 頭に 被った 骨の 中で 物悲しく 響くのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ringhiare",
                 "de": "Knurren",
                 "pt-br": "Rosnar",
-                "zh-tw": "咆哮"
+                "zh-tw": "咆哮",
+                ja: "なきごえ"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
-                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
+                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

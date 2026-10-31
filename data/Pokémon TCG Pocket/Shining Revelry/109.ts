@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/109"
     },
     name: {
         en: "Wugtrio ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wugtrio-ex",
         de: "Schligdri-ex",
         'pt-br': "Wugtrio ex",
+        ja: "ウミトリオex",
         ko: "바닥트리오 ex",
         "zh-tw": "三海地鼠ex"
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Wiglett",
         "de": "Schligda",
         "pt-br": "Wiglett",
-        "zh-tw": "海地鼠"
+        "zh-tw": "海地鼠",
+        ja: "ウミディグダ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
             it: "Attacco alla Cieca",
             de: "Wuselausbruch",
             'pt-br': "Pipocar por Aí",
+            ja: "あちこちとびだす",
             ko: "여기저기분출",
             "zh-tw": "整個過程中彈出"
         },
@@ -55,6 +59,7 @@ const card: Card = {
             it: "Per 3 volte, un Pokémon avversario viene scelto a caso. Ogni volta che un Pokémon viene scelto in questo modo, subisce 50 danni.",
             de: "3 Mal wird zufällig 1 Pokémon des Gegners ausgewählt. Füge jedes Mal, wenn ein Pokémon ausgewählt wird, diesem Pokémon 50 Schadenspunkte zu.",
             'pt-br': "3 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 50 pontos de dano a ele.",
+            ja: "相手のポケモンがランダムに3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
             ko: "상대의 포켓몬이 랜덤으로 3번 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 50데미지를 준다.",
             "zh-tw": "隨機選擇 1 只對手的神奇寶貝 3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。"
         }

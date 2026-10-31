@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/094",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/094",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/094"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/094"
     },
     name: {
         en: "Helioptile",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es kann aus Sonnenlicht Elektrizität erzeugen. Unterbricht man es jedoch bei diesem Prozess, verliert es vor lauter Stress all seine Kraft.",
         "pt-br": "A eletricidade deste Pokémon é gerada através da luz solar. Se este processo for interrompido, Helioptile se estressará tanto que ficará enfraquecido.",
         "zh-tw": "擁有太陽能發電的結構。如果有人打擾牠發電，牠就會因心理壓力而衰弱。",
-        ja: "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。",
         ko: "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Sprungtritt",
                 "pt-br": "Voadora",
                 "zh-tw": "跳踢",
-                ja: "Jumping Kick",
+                ja: "ジャンプキック",
                 ko: "Jumping Kick"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到10點傷害。",
-                ja: "This attack does 10 damage to 1 of your opponent's Pokémon.",
+                ja: "相手のポケモン1匹に10ダメージ。",
                 ko: "This attack does 10 damage to 1 of your opponent's Pokémon."
             }
         }

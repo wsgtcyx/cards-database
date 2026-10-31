@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/039"
     },
     name: {
         en: "Poliwhirl",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quaputzi",
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
+        ja: "ニョロゾ",
     },
     illustrator: "Scav",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Quapsel",
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
+        ja: "ニョロモ",
     },
     description: {
         en: "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl's has been used in place of\nlullabies to get children to go to sleep.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Fissare il turbinio sulla sua pancia provoca sonnolenza.\nQuesta caratteristica di Poliwhirl è stata usata al posto di\nninne nanne per far addormentare i bambini.",
         "de": "Das Starren auf den Wirbel auf seinem Bauch führt zu Schläfrigkeit.\nDiese Eigenschaft von Poliwhirl wurde anstelle von verwendet\nSchlaflieder, um Kinder zum Einschlafen zu bringen.",
         "pt-br": "Olhar para o redemoinho em sua barriga causa sonolência.\nEsta característica de Poliwhirl tem sido usada no lugar de\ncanções de ninar para fazer as crianças dormirem.",
-        "zh-tw": "盯著腹部的漩渦會讓人昏昏欲睡。\nPoliwhirl 的這一特性已被用來代替\n搖籃曲讓孩子們入睡。"
+        "zh-tw": "盯著腹部的漩渦會讓人昏昏欲睡。\nPoliwhirl 的這一特性已被用來代替\n搖籃曲讓孩子們入睡。",
+        ja: "お腹の 渦は ずっと 見ていると 眠くなる。 子守唄がわりに 子どもを 寝つかせるのにも 使う。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Spruzzo dell'onda",
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
-                "zh-tw": "波浪飛濺"
+                "zh-tw": "波浪飛濺",
+                ja: "スプラッシュ"
             },
             damage: 30,
             cost: ["Water"]

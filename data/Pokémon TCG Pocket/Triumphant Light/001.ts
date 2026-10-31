@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/001"
     },
     name: {
         en: "Heracross",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heracross",
         de: "Skaraborn",
         'pt-br': "Heracross",
+        ja: "ヘラクロス",
         ko: "헤라크로스",
         "zh-tw": "赫拉克羅斯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È ghiotto della dolce linfa degli alberi e\nper non farsela rubare scaglia lontano\ni nemici con il suo possente corno.",
         de: "Es liebt süßen Baumsaft. Mit seinem Horn, auf\ndas es sehr stolz ist, schleudert es Rivalen hinfort,\num allen Baumsaft für sich zu beanspruchen.",
         'pt-br': "Este Pokémon adora néctar doce. Para ficar com todo\no néctar para si mesmo, arremessa os rivais para longe\ncom seu chifre precioso.",
+        ja: "甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。",
         ko: "달콤한 꿀을 아주 좋아해서\n혼자 독차지하기 위해\n자랑스런 뿔을 써서 상대를 내동댕이친다.",
         "zh-tw": "牠喜歡甜甜的花蜜。為了獨享所有花蜜，它用珍貴的角將競爭對手趕走。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancio Monocorno",
                 de: "Einzelhornwurf",
                 'pt-br': "Arremesso Unicórnio",
+                ja: "いっぽんなげ",
                 ko: "한판던지기",
                 "zh-tw": "單角投擲"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 70 danni in più.",
                 de: "Wirf 2 Münzen. [Gr:Count p=\"Zeigen alle Münzen Kopf,\" one=\"Bei Kopf\" two=\"Zeigen beide Münzen Kopf,\" ] fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 70 pontos de dano a mais.",
+                ja: "コインを2回投げ、すべてオモテなら、70ダメージ追加。",
                 ko: "동전을 2번 던져서 모두 앞면이 나오면 70데미지를 추가한다.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，則這次攻擊會造成 70 點額外傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/187",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/187",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/187",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/187"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/187",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/187"
 	},
 	name: {
 		en: "Alcremie",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Alcremie",
 		de: "Pokusan",
 		"pt-br": "Alcremie",
-		"zh-tw": "霜奶仙"
+		"zh-tw": "霜奶仙",
+		ja: "マホイップ"
 	},
 	illustrator: "Mizue",
 	rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Milcery",
 		de: "Hokumil",
 		"pt-br": "Milcery",
-		"zh-tw": "小仙奶"
+		"zh-tw": "小仙奶",
+		ja: "マホミル"
 	},
 	description: {
 		en: "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
@@ -42,7 +45,8 @@ const card: Card = {
 		it: "Quando si fida di un Allenatore, lo tratterà\nai frutti di bosco si decora con panna.",
 		de: "Wenn es einem Trainer vertraut, wird es ihn behandeln\nZu den Beeren wird es mit Sahne dekoriert.",
 		"pt-br": "Quando confia em um Treinador, ele irá tratá-lo\npara frutas vermelhas é decorado com creme.",
-		"zh-tw": "當它信任訓練師時，它會對待他們\n漿果則用奶油裝飾。"
+		"zh-tw": "當它信任訓練師時，它會對待他們\n漿果則用奶油裝飾。",
+		ja: "信頼する トレーナーには クリームで デコレーションした 木の実を ふるまって くれるのだ。"
 	},
 	stage: "Stage1",
 	attacks: [
@@ -54,7 +58,8 @@ const card: Card = {
 				it: "Sovraccarico di dolci",
 				de: "Süßigkeiten-Überladung",
 				"pt-br": "Sobrecarga de doces",
-				"zh-tw": "糖果超載"
+				"zh-tw": "糖果超載",
+				ja: "ドカもりスイーツ"
 			},
 			damage: "40×",
 			cost: ["Colorless"],
@@ -65,7 +70,8 @@ const card: Card = {
 				it: "Questo attacco infligge 40 danni per ogni volta che i tuoi Pokémon hanno utilizzato Sweets Relay durante questo gioco.",
 				de: "Dieser Angriff fügt 40 Schadenspunkte für jedes Mal zu, wenn Ihr Pokémon in diesem Spiel „Sweet Relay“ verwendet hat.",
 				"pt-br": "Este ataque causa 40 de dano cada vez que seu Pokémon usou Sweets Relay durante o jogo.",
-				"zh-tw": "在此遊戲中，您的神奇寶貝每次使用糖果接力時，此攻擊都會造成 40 點傷害。"
+				"zh-tw": "在此遊戲中，您的神奇寶貝每次使用糖果接力時，此攻擊都會造成 40 點傷害。",
+				ja: "この対戦中、自分のポケモンが「スイーツリレー」を使った回数×40ダメージ。"
 			}
 		}
 	],

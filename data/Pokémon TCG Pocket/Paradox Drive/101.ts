@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/101",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/101",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/101"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/101"
     },
     name: {
         en: "Orthworm",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon vive nei deserti aridi. Mantiene il suo corpo metallico consumando il ferro dal suolo.",
         de: "Dieses Pokémon lebt in trockenen Wüsten. Es behält seinen Metallkörper bei, indem es Eisen aus dem Boden aufnimmt.",
         "pt-br": "Este Pokémon vive em desertos áridos. Ele mantém seu corpo metálico consumindo ferro do solo.",
-        "zh-tw": "這隻寶可夢生活在乾旱的沙漠中。它透過消耗土壤中的鐵来维持其金属身体。"
+        "zh-tw": "這隻寶可夢生活在乾旱的沙漠中。它透過消耗土壤中的鐵来维持其金属身体。",
+        ja: "乾燥した 砂地に 棲んでいる。 土の中の 鉄分を 食べて 金属の 体を 保っている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Scorta Metallica",
                 de: "Eisenvorrat",
                 "pt-br": "Estoque de Ferro",
-                "zh-tw": "提供鐵質"
+                "zh-tw": "提供鐵質",
+                ja: "てつぶんサプライ"
             },
             effect: {
                 en: "Take a {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un'Energia {M} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon in panchina.",
                 de: "Nimm eine {M}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "從你的能量區取出一個{M}能量並將其附加到你的1隻後備寶可夢上。"
+                "zh-tw": "從你的能量區取出一個{M}能量並將其附加到你的1隻後備寶可夢上。",
+                ja: "自分のエネルギーゾーンから{M}エネルギーを1個出し、ベンチポケモンにつける。"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/125",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/125"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/125"
     },
     name: {
         en: "Mawile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flunkifer",
         "pt-br": "Mawile",
         "zh-tw": "大嘴娃",
+        ja: "クチート",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Usa il suo volto dall'aspetto docile per ingannare i nemici\ncompiacimento, poi morde con il suo enorme,\nmascelle implacabili.",
         "de": "Es nutzt sein fügsam aussehendes Gesicht, um Feinde einzulullen\nSelbstgefälligkeit, dann beißt er mit seinem riesigen,\nunerbittliche Kiefer.",
         "pt-br": "Ele usa seu rosto de aparência dócil para acalmar os inimigos.\ncomplacência, então morde com seu enorme,\nmandíbulas implacáveis.",
-        "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。"
+        "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。",
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 30,
             cost: ["Metal"]

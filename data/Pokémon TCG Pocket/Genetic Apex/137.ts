@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/137",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/137"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/137"
     },
     name: {
         en: "Sandshrew",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sandshrew",
         de: "Sandan",
         'pt-br': "Sandshrew",
+        ja: "サンド",
         ko: "모래두지",
         "zh-tw": "穿山鼠",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Ama rotolarsi nella sabbia delle zone\ndesertiche, per rimuovere ogni traccia\ndi sporcizia e umidità dal suo corpo.",
         de: "Es badet sehr gern im trockenen Sand.\nDadurch befreit es seinen Körper von\nSchmutz und Feuchtigkeit.",
         'pt-br': "Adora banhar-se na areia ressecada. Ao\nfazer isso, este Pokémon se livra da sujeira\ne da umidade grudadas em seu corpo.",
+        ja: "乾燥した 砂地で 砂浴びを するのが 好き。 体に ついた 汚れと 水気を 落とすのだ。",
         ko: "건조한 모래땅에서 모래를 끼얹는 것을\n좋아한다. 몸에 붙은 지저분한 것들을\n떨어뜨리고 물기를 없애는 것이다.",
         "zh-tw": "牠喜歡在乾燥的沙地的沙礫中沐浴。通過沙浴，神奇寶貝可以去除附著在身體上的污垢和水分。"
     },

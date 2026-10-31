@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/099",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/099"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/099"
     },
     name: {
         en: "Golbat",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Cammina agilmente con i piccoli piedi.\nSi avvicina di soppiatto alle prede addormentate\nper azzannarle e berne il sangue.",
         de: "Golbat kann trotz seiner kleinen Beine geschickt\nlaufen. Es schleicht sich an schlafende Beute an,\nstößt seine Zähne in sie und schlürft ihr Blut.",
         "pt-br": "Seus pés são minúsculos, mas este Pokémon anda com habilidade. Ele se aproxima sorrateiramente de uma presa adormecida antes de afundar em suas presas e sugar sangue.",
-        "zh-tw": "能以小小的腳靈巧地步行。\n會無聲無息地靠近沉睡中的獵物，\n用獠牙咬住對方並且吸食血液。"
+        "zh-tw": "能以小小的腳靈巧地步行。\n會無聲無息地靠近沉睡中的獵物，\n用獠牙咬住對方並且吸食血液。",
+        ja: "小さな 脚で 器用に 歩く。 寝ている 獲物に 忍びより キバを 突きたて 血を すするのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vento Tagliente",
                 de: "Schneidender Wind",
                 "pt-br": "Vento Dilacerante",
-                "zh-tw": "利刃之風"
+                "zh-tw": "利刃之風",
+                ja: "カッターウインド"
             },
             damage: 40
         }

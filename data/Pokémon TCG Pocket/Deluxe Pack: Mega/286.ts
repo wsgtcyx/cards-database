@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/286",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/286",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/286",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/286"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/286",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/286"
     },
     name: {
         en: "Drizzile",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Memmeon",
         "pt-br": "Sobble",
         "zh-tw": "淚眼蜥",
-        ja: "Sobble",
+        ja: "メッソン",
         ko: "Sobble"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es ist hochintelligent, aber zugleich lustlos und faul. Daher verteidigt es sein Revier, indem es Fallen aufstellt.",
         "pt-br": "Este Pokémon é muito inteligente e bastante preguiçoso. Defende seu território com armadilhas.",
         "zh-tw": "雖然個性上很怕麻煩，但智商非常高，會設置陷阱來保護自己的住處。",
-        ja: "Highly intelligent but also very lazy, it defends its home by laying traps.",
+        ja: "面倒くさがりな 性格だが 知能は 高く 罠を 仕掛けて 自分の 棲み処を 守っている。",
         ko: "Highly intelligent but also very lazy, it defends its home by laying traps."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Schneller Schuss",
                 "pt-br": "Disparo Diligente",
                 "zh-tw": "快攻",
-                ja: "Swift Shot",
+                ja: "はやうち",
                 ko: "Swift Shot"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 20 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。對手的戰鬥寶可夢受到20點傷害。",
-                ja: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent's Active Pokémon.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに20ダメージ。",
                 ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent's Active Pokémon."
             }
         }
@@ -96,7 +97,7 @@ const card: Card = {
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
-                ja: "Water Gun",
+                ja: "みずでっぽう",
                 ko: "Water Gun"
             },
             damage: 20

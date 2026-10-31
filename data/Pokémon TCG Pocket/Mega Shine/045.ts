@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/045"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/045"
     },
     name: {
         en: "Morpeko",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La fame ha sconvolto l'equilibrio ormonale di questo Pokémon. L'energia di tipo Elettrico immagazzinata nelle sue sacche guanciali si è trasformata in energia di tipo Buio.",
         de: "Hunger hat den Hormonhaushalt dieses Pokémon gestört. Die in seinen Wangentaschen gespeicherte elektrische Energie hat sich in dunkle Energie verwandelt.",
         "pt-br": "A fome perturbou o equilíbrio hormonal deste Pokémon. A energia do tipo Elétrico armazenada em suas bochechas se transformou em energia do tipo Escuro.",
-        "zh-tw": "飢餓破壞了這隻寶可夢的荷爾蒙平衡。頰囊中儲存的電系能量，已轉化為暗繫能量。"
+        "zh-tw": "飢餓破壞了這隻寶可夢的荷爾蒙平衡。頰囊中儲存的電系能量，已轉化為暗繫能量。",
+        ja: "空腹で ホルモンバランスが 乱れて 頬袋の エネルギーが 電気から 悪タイプに 変わった。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Ruota Energizzante",
                 de: "Energiespendendes Rad",
                 "pt-br": "Roda Energizante",
-                "zh-tw": "能量車輪"
+                "zh-tw": "能量車輪",
+                ja: "エネしゃりん"
             },
             effect: {
                 en: "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Sposta 2 Energie {D} da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 de: "Verschiebe 2 {D}-Energie von diesem Pokémon auf 1 deiner Bank-Pokémon.",
                 "pt-br": "Mova 2 {D} Energias deste Pokémon para 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將 2 個 {D} 能量從那個寶可夢轉移到你後備的 1 隻寶可夢上。"
+                "zh-tw": "將 2 個 {D} 能量從那個寶可夢轉移到你後備的 1 隻寶可夢上。",
+                ja: "このポケモンから{D}エネルギーを2個、ベンチポケモン1匹につけ替える。"
             },
             damage: 50
         }

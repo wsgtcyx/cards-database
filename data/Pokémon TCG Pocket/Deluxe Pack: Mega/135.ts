@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/135",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/135",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/135"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/135"
     },
     name: {
         en: "Falinks",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Mit seinem ausfahrbaren Horn gibt der Anführer Befehle zur Formationsänderung.",
         "pt-br": "O líder, mais conhecido como comandante, usa seus chifres extensíveis para mandar ordens aos outros quando chega a hora de mudar de formação.",
         "zh-tw": "被稱為頭頭的隊長會用可伸縮的角做出變換陣形的指令。",
-        ja: "The leader, known as the brass, uses its\nextendible horn to issue orders to the others\nwhen it's time to change formation.",
+        ja: "伸縮する ツノで ヘイチョーと 呼ばれる リーダーが 陣形を 組み替える 指示を 出しているぞ。",
         ko: "The leader, known as the brass, uses its\nextendible horn to issue orders to the others\nwhen it's time to change formation."
     },
     stage: "Basic",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Koordinierte Einheit",
                 "pt-br": "Unidade Coordenada",
                 "zh-tw": "團結一陣",
-                ja: "Coordinated Unit",
+                ja: "れんけいユニット",
                 ko: "Coordinated Unit"
             },
             effect: {
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Wenn du ein weiteres Legios im Spiel hast, werden dem Aktiven Pokémon deines Gegners durch Attacken von diesem Pokémon +20 Schadenspunkte zugefügt und diesem Pokémon werden durch Attacken von Pokémon deines Gegners -20 Schadenspunkte zugefügt.",
                 "pt-br": "Se você tiver outro Falinks em jogo, os ataques deste Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente, e este Pokémon receberá −20 pontos de dano de ataques dos Pokémon do seu oponente.",
                 "zh-tw": "若自己的場上有其他的「列陣兵」,則這隻寶可夢對對手的戰鬥寶可夢造成的招式傷害+20點,受到對手的寶可夢招式的傷害-20點。",
-                ja: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.",
+                ja: "自分の場に別の「タイレーツ」がいるなら、このポケモンの、相手のバトルポケモンへのワザのダメージを+20し、相手のポケモンから受けるワザのダメージを-20する。",
                 ko: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Einmarschieren",
                 "pt-br": "Invadir",
                 "zh-tw": "攻入",
-                ja: "Invade",
+                ja: "せめこむ",
                 ko: "Invade"
             },
             damage: 20,

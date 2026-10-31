@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/030"
     },
     name: {
         en: "Galarian Mr. Mime",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mr. Mime di Galar",
         "de": "Galar-Pantimos",
         "pt-br": "Mr. Mime de Galar",
-        "zh-tw": "伽勒爾魔牆人偶"
+        "zh-tw": "伽勒爾魔牆人偶",
+        ja: "ガラルバリヤード"
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Può irradiare freddezza dal basso\npiedi. Passerà l'intera giornata a ballare il tip tap\npavimento ghiacciato.",
         "de": "Von unten kann es Kälte ausstrahlen\nFüße. Es wird den ganzen Tag damit verbringen, auf einem Stepptanz zu tanzen\ngefrorener Boden.",
         "pt-br": "Ele pode irradiar frio da parte inferior de seu\npés. Vai passar o dia inteiro sapateando em um\nchão congelado.",
-        "zh-tw": "它能從底部散發出寒意\n腳。它會花一整天的時間在\n結冰的地板。"
+        "zh-tw": "它能從底部散發出寒意\n腳。它會花一整天的時間在\n結冰的地板。",
+        ja: "足の 裏から 冷気を 出す。 凍らせた 床の 上で 1日 タップダンスに 励んでいる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Neve ghiacciata",
                 "de": "Eisiger Schnee",
                 "pt-br": "Neve gelada",
-                "zh-tw": "冰雪"
+                "zh-tw": "冰雪",
+                ja: "スノーアイス"
             },
             damage: 20,
             cost: ["Water"]

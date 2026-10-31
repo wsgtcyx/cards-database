@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/019"
     },
     name: {
         en: "Reshiram",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Reshiram",
         "de": "Reshiram",
         "pt-br": "Reshiram",
-        "zh-tw": "萊希拉姆"
+        "zh-tw": "萊希拉姆",
+        ja: "レシラム"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando la coda di Reshiram si allarga, l'energia termica si muove\nl'atmosfera e cambia il clima del mondo.",
         "de": "Wenn Reshirams Schwanz aufflammt, bewegt sich die Wärmeenergie\ndie Atmosphäre und verändert das Wetter auf der Welt.",
         "pt-br": "Quando a cauda de Reshiram se alarga, a energia térmica se move\na atmosfera e muda o clima do mundo.",
-        "zh-tw": "當雷希拉姆的尾巴張開時，熱能就會移動\n大氣層並改變世界的天氣。"
+        "zh-tw": "當雷希拉姆的尾巴張開時，熱能就會移動\n大氣層並改變世界的天氣。",
+        ja: "レシラムの 尻尾が 燃えると 熱エネルギーで 大気が 動いて 世界の 天気が 変化する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Bagliore blu",
                 "de": "Blaues Leuchtfeuer",
                 "pt-br": "Sinal Azul",
-                "zh-tw": "藍色耀斑"
+                "zh-tw": "藍色耀斑",
+                ja: "あおいほのお"
             },
             damage: 110,
             cost: ["Fire", "Fire", "Fire"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta 2 Energie {R} da questo Pokémon.",
                 "de": "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
             }
         }],
     weaknesses: [{

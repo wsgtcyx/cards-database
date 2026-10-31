@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/011"
     },
     name: {
         en: "Scatterbug",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Scatterbug",
         "de": "Purmel",
         "pt-br": "Scatterbug",
-        "zh-tw": "粉蝶蟲"
+        "zh-tw": "粉蝶蟲",
+        ja: "コフキムシ"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon sparge polvere velenosa\nper respingere i nemici. Mangerà piante diverse\na seconda di dove vive.",
         "de": "Dieses Pokémon verstreut giftiges Pulver\num Feinde abzuwehren. Es frisst verschiedene Pflanzen\nje nachdem, wo es lebt.",
         "pt-br": "Este Pokémon espalha pó venenoso\npara repelir os inimigos. Ele comerá plantas diferentes\ndependendo de onde ele mora.",
-        "zh-tw": "This Pokémon scatters poisonous powder\n擊退敵人。 It will eat different plants\ndepending on where it lives."
+        "zh-tw": "This Pokémon scatters poisonous powder\n擊退敵人。 It will eat different plants\ndepending on where it lives.",
+        ja: "毒の粉を まき散らして 敵を 追い払う。 棲んでいる 土地により エサにする 植物が 違う。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso di insetto",
                 "de": "Insektenstich",
                 "pt-br": "Mordida de inseto",
-                "zh-tw": "蟲咬"
+                "zh-tw": "蟲咬",
+                ja: "むしくい"
             },
             damage: 10,
             cost: ["Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/082"
     },
     name: {
         en: "Incineroar ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fuegro-ex",
         "pt-br": "Incineroar ex",
         "zh-tw": "熾焰咆哮虎ex",
+        ja: "ガオガエンex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Miezunder",
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
+        ja: "ニャヒート",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Zanna di fuoco",
                 "de": "Feuerzahn",
                 "pt-br": "Presa de Fogo",
-                "zh-tw": "火牙"
+                "zh-tw": "火牙",
+                ja: "ほのおのキバ"
             },
             damage: 30,
             cost: ["Fire"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"
+                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
+                ja: "相手のバトルポケモンをやけどにする。"
             }
         }, {
             name: {
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Smash carico di cicatrici",
                 "de": "Narbengeladener Schlag",
                 "pt-br": "Smash carregado de cicatriz",
-                "zh-tw": "傷痕重擊"
+                "zh-tw": "傷痕重擊",
+                ja: "スカースマッシュ"
             },
             damage: "80+",
             cost: ["Fire", "Fire", "Colorless"],
@@ -76,7 +82,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha dei danni su di sé, questo attacco infligge 60 danni in più.",
                 "de": "Wenn dieses Pokémon Schaden hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。"
+                "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。",
+                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

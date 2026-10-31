@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/110",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/110",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/110",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/110"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/110"
     },
     name: {
         en: "Haxorus",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Travolge i nemici con le sue preziose zanne, abbastanza affilate da tagliare una torre di trasmissione metallica con un solo colpo.",
         de: "Es überwältigt Feinde mit seinen wertvollen Stoßzähnen, die scharf genug sind, um mit einem Schlag einen metallenen Sendemast zu durchdringen.",
         "pt-br": "Ele domina os inimigos com suas presas valiosas, que são afiadas o suficiente para cortar uma torre de transmissão de metal com um único golpe.",
-        "zh-tw": "它用珍貴的獠牙壓倒敵人，這些獠牙足夠鋒利，一擊就能切穿金屬傳輸塔。"
+        "zh-tw": "它用珍貴的獠牙壓倒敵人，這些獠牙足夠鋒利，一擊就能切穿金屬傳輸塔。",
+        ja: "自慢の キバで 敵を 圧倒。 鉄塔を 一刀のもとに 切り捨てる 切れ味を 誇る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Lame Furibonde",
                 de: "Rasende Klinge",
                 "pt-br": "Lâmina Alucinada",
-                "zh-tw": "狂亂利刃"
+                "zh-tw": "狂亂利刃",
+                ja: "きょうらんのやいば"
             },
             effect: {
                 en: "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Pokémon in panchina (sia il tuo che quello del tuo avversario).",
                 de: "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon no Banco (seu e do seu oponente).",
-                "zh-tw": "此攻擊對每個後備寶可夢（包括你的和對手的）造成 20 點額外傷害。"
+                "zh-tw": "此攻擊對每個後備寶可夢（包括你的和對手的）造成 20 點額外傷害。",
+                ja: "おたがいのベンチポケモンの数×20ダメージ追加。"
             },
             damage: "50+"
         }

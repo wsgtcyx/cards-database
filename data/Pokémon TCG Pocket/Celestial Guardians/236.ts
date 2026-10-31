@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/236",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/236",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/236",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/236"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/236",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/236"
     },
     name: {
         en: "Marowak ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Marowak-ex",
         de: "Knogga-ex",
         'pt-br': "Marowak ex",
+        ja: "ガラガラex",
         ko: "텅구리 ex",
         "zh-tw": "嘎啦嘎啦ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
+        ja: "カラカラ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ossomerang",
                 de: "Knochmerang",
                 'pt-br': "Ossomerangue",
+                ja: "ホネブーメラン",
                 ko: "뼈다귀부메랑",
                 "zh-tw": "骨梅蘭"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 80 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 80 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 80 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×80ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 80데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 80 點傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/022"
     },
     name: {
         en: "Exeggutor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggutor",
         de: "Kokowei",
         'pt-br': "Exeggutor",
+        ja: "ナッシー",
         ko: "나시",
         "zh-tw": "椰蛋樹"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Exeggcute",
         "de": "Owei",
         "pt-br": "Exeggcute",
-        "zh-tw": "蛋蛋"
+        "zh-tw": "蛋蛋",
+        ja: "タマタマ"
     },
     attacks: [{
             cost: ["Grass"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Pestone",
                 de: "Stampfer",
                 'pt-br': "Pisotear",
+                ja: "ふみつけ",
                 ko: "짓밟기",
                 "zh-tw": "跺腳"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Le sue tre teste ragionano in\nmodo indipendente. Sembra\nche ciascuna pensi solo a sé.",
         de: "Jeder der drei Köpfe hat einen\neigenen Willen und scheint sich\nnur für sich selbst zu interessieren.",
         'pt-br': "Cada uma das três cabeças de Exeggutor está\npensando em coisas diferentes. Elas não parecem\nse interessar umas pelas outras.",
+        ja: "３つの 頭は べつのことを 考えている。 自分以外は あまり 興味がない ようだ。",
         ko: "3개의 머리는 서로 다른\n생각을 하고 있다. 자신 외에는\n별로 흥미가 없는 듯하다.",
         "zh-tw": "椰蛋樹的三個腦袋分別在思考著不同的想法。三人似乎對彼此都不太感興趣。"
     },

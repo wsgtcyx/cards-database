@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/048"
     },
     name: {
         en: "Corviknight",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sebbene le sue ali siano in parte diventate d'acciaio e di conseguenza siano diventate pesanti, questo Pokémon vola con facilità nei cieli.",
         de: "Obwohl seine Flügel teilweise zu Stahl geworden und dadurch schwer geworden sind, fliegt dieses Pokémon mit Leichtigkeit durch die Lüfte.",
         "pt-br": "Embora suas asas tenham se transformado parcialmente em aço e, como resultado, fiquem pesadas, este Pokémon voa pelos céus com facilidade.",
-        "zh-tw": "雖然翅膀的一部分變成了鋼鐵並因此變得沉重，但這隻寶可夢可以輕鬆地在天空中飛行。"
+        "zh-tw": "雖然翅膀的一部分變成了鋼鐵並因此變得沉重，但這隻寶可夢可以輕鬆地在天空中飛行。",
+        ja: "羽の 一部が 鋼に 変化。 重たい 翼を ものともせずに 大空を ゆうゆうと 飛びまわる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Ferrartigli",
                 de: "Metallklaue",
                 "pt-br": "Garra de Metal",
-                "zh-tw": "金屬爪"
+                "zh-tw": "金屬爪",
+                ja: "メタルクロー"
             },
             damage: 90
         }

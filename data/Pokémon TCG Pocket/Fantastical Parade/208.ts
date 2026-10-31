@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/208",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/208",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/208"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/208",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/208"
     },
     name: {
         en: "Horsea",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Horsea",
         "de": "Seeper",
         "pt-br": "Horsea",
-        "zh-tw": "墨海馬"
+        "zh-tw": "墨海馬",
+        ja: "タッツー"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Horsea vive negli oceani con delicatezza\ncorrenti. Se questo Pokémon è sotto attacco, sputa\nesce inchiostro nero come la pece e fugge.",
         "de": "Horsea ist sanft in den Ozeanen zu Hause\nStrömungen. Wenn dieses Pokémon angegriffen wird, spuckt es\npechschwarze Tinte und Fluchten ausstoßen.",
         "pt-br": "Horsea faz seu lar nos oceanos com suaves\ncorrentes. Se este Pokémon estiver sob ataque, ele cospe\ntinta preta como breu e escapa.",
-        "zh-tw": "Horsea 以溫和的方式在海洋中安家\n電流。如果這只神奇寶貝受到攻擊，它會吐口水\n流出漆黑的墨水並逃脫。"
+        "zh-tw": "Horsea 以溫和的方式在海洋中安家\n電流。如果這只神奇寶貝受到攻擊，它會吐口水\n流出漆黑的墨水並逃脫。",
+        ja: "潮の 流れが 穏やかな 海に 棲む。 襲われると 真っ黒な 墨を吐いて その隙に 逃げだす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gancio",
                 "de": "Haken",
                 "pt-br": "Gancho",
-                "zh-tw": "鉤"
+                "zh-tw": "鉤",
+                ja: "ひっかける"
             },
             damage: 30,
             cost: ["Water"]

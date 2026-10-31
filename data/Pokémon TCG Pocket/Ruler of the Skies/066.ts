@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/066",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/066",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/066"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/066"
     },
     name: {
         en: "Drowzee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando muove il naso, può dire dove sta dormendo qualcuno e cosa sta sognando.",
         de: "Wenn es mit der Nase zuckt, kann es erkennen, wo jemand schläft und wovon diese Person träumt.",
         "pt-br": "Quando torce o nariz, ele consegue dizer onde alguém está dormindo e com o que essa pessoa está sonhando.",
-        "zh-tw": "當它抽動鼻子時，它可以知道某人在哪裡睡覺以及那個人在做什麼夢。"
+        "zh-tw": "當它抽動鼻子時，它可以知道某人在哪裡睡覺以及那個人在做什麼夢。",
+        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 20
         }

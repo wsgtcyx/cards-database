@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/006"
     },
     name: {
         en: "Celebi",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Celebi",
         "pt-br": "Celebi",
         "zh-tw": "時拉比",
+        ja: "セレビィ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon vaga nel tempo. Erba e alberi\nfiorire nelle foreste in cui è apparso.",
         "de": "Dieses Pokémon wandert durch die Zeit. Gras und Bäume\ngedeihen in den Wäldern, in denen es aufgetaucht ist.",
         "pt-br": "Este Pokémon vagueia no tempo. Grama e árvores\nflorescer nas florestas em que apareceu.",
-        "zh-tw": "這只神奇寶貝穿越時空。草和樹\n在它出現的森林中繁盛。"
+        "zh-tw": "這只神奇寶貝穿越時空。草和樹\n在它出現的森林中繁盛。",
+        ja: "時間を超えて あちこち さまよう。 セレビィが 姿を 現した 森は 草木が 生い茂るという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Foglie temporali",
                 "de": "Temporale Blätter",
                 "pt-br": "Folhas Temporais",
-                "zh-tw": "顳葉"
+                "zh-tw": "顳葉",
+                ja: "ときのこのは"
             },
             damage: 40,
             cost: ["Grass", "Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon evoluto, devoluzione mettendo la carta Evoluzione di Fase più alta nella mano del tuo avversario.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein entwickeltes Pokémon ist, devolviere es, indem du die Karte mit der höchsten Entwicklungsstufe darauf auf die Hand deines Gegners nimmst.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon evoluído, devolva-o colocando a carta de Evolução de Estágio mais alta dele na mão do seu oponente.",
-                "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則將其進化階段最高的卡放入對手手牌，將其移交。"
+                "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則將其進化階段最高的卡放入對手手牌，將其移交。",
+                ja: "相手の進化しているバトルポケモンから、「進化カード」を1枚はがして退化させる。はがしたカードは、相手の手札にもどす。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/082"
     },
     name: {
         en: "Palossand",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Palossand",
         de: "Colossand",
         'pt-br': "Palossand",
+        ja: "シロデスナ",
         ko: "모래성이당",
         "zh-tw": "噬沙堡爺",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
+        ja: "スナバァ",
     },
     description: {
         en: "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Questo Pokémon spaventoso trascina nel suo corpo sabbioso\ni Pokémon più piccoli e ne assorbe l'energia vitale quando gli pare.",
         de: "Das furchterregende Colossand zieht kleinere\nPokémon in seinen Körper aus Sand und saugt\nihnen nach Belieben die Lebenskraft aus.",
         'pt-br': "O aterrorizante Palossand puxa Pokémon menores\npara dentro de seu corpo arenoso. Depois de prender\nas vítimas, absorve a energia vital delas sempre que desejar.",
+        ja: "小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。",
         ko: "작은 포켓몬을 모래로 된 몸 안으로\n끌어들인 뒤, 자신이 원할 때\n생기를 빨아들이는 무서운 포켓몬.",
         "zh-tw": "可怕的帕羅沙將較小的神奇寶貝拖入其沙質身體中。一旦受害者被困，它就會隨時耗盡他們的生命力。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Colpomistero",
                 de: "Spukschuss",
                 'pt-br': "Tiro Assustador",
+                ja: "ホロウショット",
                 ko: "홀로숏",
                 "zh-tw": "幽靈射擊"
             },

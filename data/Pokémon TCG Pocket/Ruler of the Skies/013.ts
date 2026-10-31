@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/013",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/013",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/013"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/013"
     },
     name: {
         en: "Shelmet",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Il suo corpo reagisce misteriosamente all’energia\nelettrica. Pare che si evolva se si trova in\npresenza di Karrablast.",
         de: "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Es heißt, die Anwesenheit von\nLaukaps löse bei ihm die Entwicklung aus.",
         "zh-tw": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。",
-        "pt-br": "A fisiologia estranha deste Pokémon reage à eletricidade. Por alguma razão, Shelmet evolui quando está perto de Karrablast."
+        "pt-br": "A fisiologia estranha deste Pokémon reage à eletricidade. Por alguma razão, Shelmet evolui quando está perto de Karrablast.",
+        ja: "電気 エネルギーに 反応する 不思議な 体質。 カブルモと ともに いると なぜか 進化する。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Ataque de Concha do Mar",
                 "zh-tw": "硬殼攻擊",
                 "it": "Conchigliata",
-                "de": "Seemuschelangriff"
+                "de": "Seemuschelangriff",
+                ja: "シェルアタック"
             },
             damage: 20
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/059"
     },
     name: {
         en: "Poliwag",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Poliwag",
         de: "Quapsel",
         'pt-br': "Poliwag",
+        ja: "ニョロモ",
         ko: "발챙이",
         "zh-tw": "蚊香蝌蚪",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Pinnalama",
                 de: "Rasierflosse",
                 'pt-br': "Barbatana Cortante",
+                ja: "ひれカッター",
                 ko: "지느러미 커터",
                 "zh-tw": "刀鰭"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "È più portato per il nuoto che per la corsa.\nIl motivo spiraliforme sul ventre è parte dei\nsuoi organi interni visibili in trasparenza.",
         de: "Quapsel kann besser schwimmen als laufen.\nDas Spiralmuster auf seinem Bauch ist ein Teil\nseiner Innereien, der durch die Haut sichtbar ist.",
         'pt-br': "Para Poliwag, nadar é mais fácil do que andar.\nA espiral em sua barriga é, na verdade, parte dos órgãos\ndeste Pokémon que pode ser vista através de sua pele.",
+        ja: "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。",
         ko: "걷기보다 헤엄치기가 특기다.\n배의 소용돌이 모양은\n내장의 일부가 비쳐 보이는 것이다.",
         "zh-tw": "對於 Poliwag 來說，游泳比走路更容易。它腹部的漩渦圖案實際上是神奇寶貝通過皮膚顯現出來的內臟的一部分。"
     },

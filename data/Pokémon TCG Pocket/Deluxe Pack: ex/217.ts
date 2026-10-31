@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/217",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/217",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/217"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/217",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/217"
     },
     name: {
         en: "Drilbur",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rotomurf",
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
+        ja: "モグリュー",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Unisce gli artigli e gira su se stesso\nad alta velocità prima di lanciarsi verso la preda.",
         "de": "Es bringt seine Krallen zusammen und wirbelt herum\nmit hoher Geschwindigkeit, bevor er auf seine Beute zustürmt.",
         "pt-br": "Ele junta suas garras e gira\nem alta velocidade antes de correr em direção à sua presa.",
-        "zh-tw": "它把爪子合攏並旋轉\n以高速沖向獵物。"
+        "zh-tw": "它把爪子合攏並旋轉\n以高速沖向獵物。",
+        ja: "両手の ツメを 重ね合わせ 体を 高速回転 させると 獲物 めがけて 突っ込むのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Graffio",
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
-                "zh-tw": "划痕"
+                "zh-tw": "划痕",
+                ja: "ひっかく"
             },
             damage: 10,
             cost: ["Colorless"]

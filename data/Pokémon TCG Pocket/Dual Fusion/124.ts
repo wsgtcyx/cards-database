@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/124",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/124",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/124"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/124",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/124"
     },
     name: {
         en: "Light Ball",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "附有這張卡的「皮卡丘ex」使用的招式對對手的戰鬥寶可夢造成的傷害+30點。",
         it: "Gli attacchi usati da Pikachu-ex, se gli è stata assegnata questa carta, infliggono +30 danni al Pokémon attivo del tuo avversario.",
         de: "Die eingesetzten Attacken von dem Pikachu-ex, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
-        ja: "Attacks used by the Pikachu ex this card is attached to do +30 damage to your opponent's Active Pokémon.",
+        ja: "このカードをつけている「ピカチュウex」が使うワザの、相手のバトルポケモンへのダメージを+30する。",
         ko: "Attacks used by the Pikachu ex this card is attached to do +30 damage to your opponent's Active Pokémon."
     }
 };

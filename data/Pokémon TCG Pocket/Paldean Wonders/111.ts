@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/111",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/111",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/111"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/111"
     },
     name: {
         en: "Armarouge ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Crimanzo-ex",
         "pt-br": "Armarouge ex",
         "zh-tw": "紅蓮鎧騎ex",
+        ja: "グレンアルマex",
         pt: "Armarouge ex"
     },
     suffix: "EX",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Knarbon",
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
+        ja: "カルボウ",
         pt: "Charcadet"
     },
     dexId: [936],
@@ -50,6 +53,7 @@ const card: Card = {
                 de: "Rüstung",
                 "pt-br": "Armadura",
                 "zh-tw": "盔甲",
+                ja: "そうこう",
                 pt: "Armadura"
             },
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "it": "Questo Pokémon subisce -30 danni dagli attacchi.",
                 "de": "Dieses Pokémon erleidet –30 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre –30 de dano de ataques.",
-                "zh-tw": "該寶可夢受到 –30 點攻擊傷害。"
+                "zh-tw": "該寶可夢受到 –30 點攻擊傷害。",
+                ja: "このポケモンが受けるワザのダメージを-30する。"
             },
         },
     ],
@@ -73,6 +78,7 @@ const card: Card = {
                 de: "Rüstungskanone",
                 "pt-br": "Canhão de Armadura",
                 "zh-tw": "裝甲砲",
+                ja: "アーマーキャノン",
                 pt: "Canhão de Armadura"
             },
             damage: "120",
@@ -85,6 +91,7 @@ const card: Card = {
                 de: "Lege 1 {R}-Energie von diesem Pokémon auf deinen Ablagestapel.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 pt: "Descarte uma Energia {R} deste Pokémon."
             },
         },

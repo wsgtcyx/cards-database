@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/042"
     },
     name: {
         en: "Mega Lopunny ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Lopunny-ex",
         "de": "Mega-Schlapor-ex",
         "pt-br": "Mega Lopunny ex",
-        "zh-tw": "超級長耳兔ex"
+        "zh-tw": "超級長耳兔ex",
+        ja: "メガミミロップex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Buneary",
         "de": "Haspiror",
         "pt-br": "Buneary",
-        "zh-tw": "捲捲耳"
+        "zh-tw": "捲捲耳",
+        ja: "ミミロル"
     },
     description: {
         en: "It swings its ears like whips and strikes its\nenemies with them. It has an intensely\ncombative disposition.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Fa oscillare le orecchie come fruste e le percuote\nnemici con loro. Ha un intenso\ndisposizione combattiva.",
         "de": "Es schwingt seine Ohren wie eine Peitsche und schlägt mit seinen Ohren\nFeinde mit ihnen. Es hat eine intensive\nkämpferische Gesinnung.",
         "pt-br": "Ele balança as orelhas como chicotes e bate\ninimigos com eles. Tem uma intensidade intensamente\ndisposição combativa.",
-        "zh-tw": "它像鞭子一樣擺動耳朵並擊打它\n與他們為敵。它有一種強烈的\n好鬥的性格。"
+        "zh-tw": "它像鞭子一樣擺動耳朵並擊打它\n與他們為敵。它有一種強烈的\n好鬥的性格。",
+        ja: "耳を ムチのように しならせて 敵に 打ちつける。 気性は 激しく 好戦的な 気質。"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Distruttori rapidi",
                 "de": "Schnelle Zertrümmerer",
                 "pt-br": "Esmagadores Rápidos",
-                "zh-tw": "快速粉碎機"
+                "zh-tw": "快速粉碎機",
+                ja: "ラピッドスマッシャー"
             },
             damage: "90×",
             cost: ["Fighting", "Fighting"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 90 danni per ogni testa. Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 90 Schaden pro Kopf. Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 90 de dano para cada cabeça. O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 90 點傷害。你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 90 點傷害。你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "コインを2回投げ、オモテの数×90ダメージ。相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

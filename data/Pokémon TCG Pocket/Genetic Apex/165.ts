@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/165",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/165",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/165"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/165",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/165"
     },
     name: {
         en: "Arbok",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Arbok",
         de: "Arbok",
         'pt-br': "Arbok",
+        ja: "アーボック",
         ko: "아보크",
         "zh-tw": "阿柏怪",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ekans",
         "de": "Rettan",
         "pt-br": "Ekans",
-        "zh-tw": "阿柏蛇"
+        "zh-tw": "阿柏蛇",
+        ja: "アーボ"
     },
     attacks: [{
             cost: ["Darkness", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Trappola",
                 de: "Bedrängen",
                 'pt-br': "Quina",
+                ja: "おいつめる",
                 ko: "몰아붙이기",
                 "zh-tw": "角落"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 'pt-br': "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Secondo gli studi più recenti, esistono più\ndi 20 varianti del disegno che ha sul ventre.",
         de: "Jüngsten Forschungsergebnissen zufolge gibt\nes mehr als 20 verschiedene Musterungen,\ndie Arboks Bauch aufweisen kann.",
         'pt-br': "Segundo as pesquisas mais recentes,\nexistem mais de 20 variações dos\npadrões em sua barriga.",
+        ja: "最新の 研究で お腹の 模様は ２０種類 以上の パターンが あることが 判明。",
         ko: "최근 연구에서 배 모양은\n20종류 이상의\n패턴이 있다고 판명되었다.",
         "zh-tw": "最新研究確定，它胃部的圖案有20多種可能的排列方式。"
     },

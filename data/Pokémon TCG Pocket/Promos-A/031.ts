@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/031"
     },
     name: {
         en: "Cinccino",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cinccino",
         de: "Chillabell",
         'pt-br': "Cinccino",
+        ja: "チラチーノ",
         ko: "치라치노",
         "zh-tw": "奇諾栗鼠",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Minccino",
         "de": "Picochilla",
         "pt-br": "Minccino",
-        "zh-tw": "泡沫栗鼠"
+        "zh-tw": "泡沫栗鼠",
+        ja: "チラーミィ"
     },
     description: {
         en: "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È un maniaco della pulizia e non sopporta la\nvista neanche di un granello di polvere. Riveste\nla tana del grasso che trasuda dal suo corpo.",
         de: "Es ist sehr reinlich und duldet nicht mal das\nkleinste Staubkorn. Es beschichtet sein Nest\nmit dem Öl, das sein Körper absondert.",
         'pt-br': "Seu corpo secreta um óleo que este Pokémon\nespalha sobre seu ninho para protegê-lo de poeira.\nCinccino não suporta nem um grãozinho de sujeira.",
+        ja: "塵ひとつ 許せない 潔癖。 体から 染み出る 油を 巣に 塗りつけ コーティングする。",
         ko: "먼지 한 톨도 용납하지 않는 결벽증.\n몸에서 나오는 기름을\n둥지에 발라서 코팅한다.",
         "zh-tw": "它的身體會分泌這種神奇寶貝傳播的油\n在它的巢上作為塗層，以保護它免受灰塵侵害。\n辛奇諾連一丁點都不能容忍。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Fare la Ola",
                 de: "Wellenreiten",
                 'pt-br': "Fazer a \"Ola\"",
+                ja: "ともだちのわ",
                 ko: "친구사이",
                 "zh-tw": "做波浪"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni per ogni Pokémon nella tua panchina.",
                 de: "Diese Attacke fügt für jedes Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon no Banco.",
+                ja: "自分のベンチポケモンの数×30ダメージ。",
                 ko: "자신의 벤치 포켓몬의 수 × 30데미지를 준다.",
                 "zh-tw": "這次攻擊對你的每隻後備神奇寶貝造成 30 點傷害。"
             }

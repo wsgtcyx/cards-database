@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/026",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/026",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/026"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/026"
     },
     name: {
         en: "Wugtrio",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Schligdri",
         "pt-br": "Wugtrio",
         "zh-tw": "三海地鼠",
+        ja: "ウミトリオ",
         pt: "Wugtrio"
     },
     illustrator: "Kouki Saitou",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Schligda",
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
+        ja: "ウミディグダ",
         pt: "Wiglett"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Una varietà di Pokémon pesce, Wugtrio una volta era considerato una forma regionale di Dugtrio.",
         "de": "Schligdri, eine Art Fisch-Pokémon, galt einst als regionale Form von Digdri.",
         "pt-br": "Uma variedade de Pokémon peixes, Wugtrio já foi considerado uma forma regional de Dugtrio.",
-        "zh-tw": "魚類寶可夢的變種，三海地鼠曾被認為是三地鼠的區域型態。"
+        "zh-tw": "魚類寶可夢的變種，三海地鼠曾被認為是三地鼠的區域型態。",
+        ja: "魚ポケモンの 一種。 ダグトリオの リージョンフォームと 考えられていたことも あった。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Tripelpeitsche",
                 "pt-br": "Chicote Triplo",
                 "zh-tw": "三重鞭子",
+                ja: "さんれんのムチ",
                 pt: "Chicote Triplo"
             },
             damage: "30×",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを3回投げ、オモテの数×30ダメージ。",
                 pt: "Jogue 3 moedas. Este ataque causa 30 pontos de dano para cada cara."
             },
         },

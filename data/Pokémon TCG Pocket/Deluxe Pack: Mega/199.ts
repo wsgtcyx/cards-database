@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/199",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/199",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/199"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/199"
     },
     name: {
         en: "Electric Generator",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Wirf 1 Münze. Lege bei Kopf 1 {L}-Energie aus deinem Energiebereich an 1 {L}-Pokémon auf deiner Bank an.",
         "pt-br": "Jogue uma moeda. Se sair cara, pegue uma Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {L} no Banco.",
         "zh-tw": "擲1次硬幣若為正面,則從自己的能量區抽出1個{L}能量,附於備戰區的{L}寶可夢身上。",
-        ja: "Flip a coin. If heads, take a {L} Energy from your Energy Zone and attach it to 1 of your Benched {L} Pokémon.",
+        ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
         ko: "Flip a coin. If heads, take a {L} Energy from your Energy Zone and attach it to 1 of your Benched {L} Pokémon."
     },
     trainerType: "Item"

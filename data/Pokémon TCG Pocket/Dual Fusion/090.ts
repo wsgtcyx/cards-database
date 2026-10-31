@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/090",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/090",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/090"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/090"
     },
     name: {
         en: "Thievul",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Kleptifux",
         "pt-br": "Nickit",
         "zh-tw": "偷兒狐",
-        ja: "Nickit",
+        ja: "クスネ",
         ko: "Nickit"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Klauenschlitzer",
                 "pt-br": "Golpe de Garra",
                 "zh-tw": "利爪劈擊",
-                ja: "Claw Slash",
+                ja: "ツメできりさく",
                 ko: "Claw Slash"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Es markiert heimlich die Beute, auf die es ein Auge geworfen hat. Dann folgt es dem Geruch und stiehlt sie, wenn sich die Gelegenheit bietet.",
         "pt-br": "Usa um odor para marcar suas possíveis vítimas. Depois, fareja-as e rouba seus pertences quando elas menos esperam.",
         "zh-tw": "會偷偷在看中的獵物身上留下標記，追蹤目標的氣味，在對方放鬆警戒時偷盜。",
-        ja: "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+        ja: "狙った 獲物は こっそり マーキング。 においを 辿って 油断 したころ 盗みに 来るぞ。",
         ko: "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it."
     }
 };

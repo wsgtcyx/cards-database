@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/112",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/112",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/112"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/112"
     },
     name: {
         en: "Malamar",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Fa lampeggiare i punti luminescenti sul suo corpo per ipnotizzare i suoi avversari, ottenendo il controllo totale su di loro.",
         de: "Es lässt die leuchtenden Punkte auf seinem Körper aufblitzen, um seine Gegner zu hypnotisieren und die vollständige Kontrolle über sie zu erlangen.",
         "pt-br": "Ele pisca os pontos luminescentes em seu corpo para hipnotizar seus oponentes, ganhando controle total sobre eles.",
-        "zh-tw": "它會透過閃爍身體上的發光點來催眠對手，從而完全控制對手。"
+        "zh-tw": "它會透過閃爍身體上的發光點來催眠對手，從而完全控制對手。",
+        ja: "発光体の 点滅によって 相手を 催眠状態にして 自由自在に 操ってしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Evolviblocco",
                 de: "Entwicklungsstörer",
                 "pt-br": "Atolador de Evolução",
-                "zh-tw": "進化妨礙者"
+                "zh-tw": "進化妨礙者",
+                ja: "しんかジャマー"
             },
             effect: {
                 en: "During your opponent's next turn, they can't play any Pokémon from their hand to evolve their Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questi non potrà giocare nessun Pokémon dalla sua mano per far evolvere i suoi Pokémon.",
                 de: "Während des nächsten Zuges deines Gegners kann er kein Pokémon von seiner Hand spielen, um sein Pokémon weiterzuentwickeln.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhum Pokémon da sua mão para evoluir seus Pokémon.",
-                "zh-tw": "在對手的下一個回合中，他們無法使用手中的任何寶可夢來進化他們的寶可夢。"
+                "zh-tw": "在對手的下一個回合中，他們無法使用手中的任何寶可夢來進化他們的寶可夢。",
+                ja: "次の相手の番、相手は手札からポケモンを出して進化させられない。"
             },
             damage: 40
         }

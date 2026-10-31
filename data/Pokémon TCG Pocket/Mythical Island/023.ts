@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/023"
     },
     name: {
         en: "Drednaw",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drednaw",
         de: "Kamalm",
         'pt-br': "Drednaw",
+        ja: "カジリガメ",
         ko: "갈가부기",
         "zh-tw": "暴噬龜",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kamehaps",
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
+        ja: "カムカメ",
     },
     description: {
         en: "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Con la sua grande mascella frastagliata riesce\na frantumare una roccia con un morso. Ha un\ntemperamento estremamente aggressivo.",
         de: "Ein Biss mit seinem riesigen, gezackten Maul\nreicht aus, um einen Felsbrocken zu zermalmen.\nEs besitzt ein äußerst aggressives Temperament.",
         'pt-br': "O seu gigantesco dente afiado pode destruir um rochedo\ncom apenas uma mordida. Este Pokémon tem tendências\nextremamente violentas.",
+        ja: "とても 大きな ギザギザの 口は ひと噛みで 岩石を 砕く。 非常に 凶暴な 性質。",
         ko: "매우 크고 뾰족뾰족한 입은\n한 번 물기만 해도 암석을 부술 정도다.\n성질이 매우 흉포하다.",
         "zh-tw": "它巨大的鋸齒狀牙齒一口就能咬碎一塊巨石。該寶可夢的性情極其惡毒。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Sgranocchio",
                 de: "Knirscher",
                 'pt-br': "Mastigada",
+                ja: "かみくだく",
                 ko: "깨물어부수기",
                 "zh-tw": "緊縮"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/082",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/082",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/082"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/082"
     },
     name: {
         en: "Croagunk",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Raramente combatte lealmente, ma lo fa esclusivamente per garantire la sopravvivenza. È popolare come mascotte.",
         de: "Es wird selten fair gekämpft, aber das dient ausschließlich der Sicherung des Überlebens. Es ist als Maskottchen beliebt.",
         "pt-br": "Raramente luta de forma justa, mas isso é estritamente para garantir a sobrevivência. É popular como mascote.",
-        "zh-tw": "它很少公平地戰鬥，但那是嚴格為了確保生存。它作為吉祥物很受歡迎。"
+        "zh-tw": "它很少公平地戰鬥，但那是嚴格為了確保生存。它作為吉祥物很受歡迎。",
+        ja: "正々堂々と 戦うことは 少ないが それも 生き延びるため。 マスコットとして 人気が 高い。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugno Rotante",
                 de: "Korkenzieherhieb",
                 "pt-br": "Soco Saca-rolha",
-                "zh-tw": "推擊"
+                "zh-tw": "推擊",
+                ja: "どつく"
             },
             damage: 20
         }

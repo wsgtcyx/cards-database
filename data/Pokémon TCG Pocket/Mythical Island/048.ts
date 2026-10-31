@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/048"
     },
     name: {
         en: "Stonjourner",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Stonjourner",
         de: "Humanolith",
         'pt-br': "Stonjourner",
+        ja: "イシヘンジン",
         ko: "돌헨진",
         "zh-tw": "巨石丁",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "La composizione delle pietre che formano il suo corpo coincide\ncon quella di basamenti rocciosi molto distanti dal suo habitat.",
         de: "Sein Körper setzt sich aus Steinen zusammen,\ndie mit dem Grundgestein einer weit von seinem\nLebensraum entfernten Gegend identisch sind.",
         'pt-br': "A composição elementar das pedras que formam seu corpo é a mesma\nencontrada em leitos rochosos em terras distantes do habitat deste Pokémon.",
+        ja: "体の 岩石の 成分は 生息地から 遠く 離れた 土地の 岩盤と 一致した。",
         ko: "몸의 암석 성분이\n서식지에서 멀리 떨어진 땅의\n암반과 일치했다.",
         "zh-tw": "形成其身體的岩石的元素成分被發現與遠離該神奇寶貝棲息地的土地的基岩相匹配。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Megacalcio",
                 de: "Megakick",
                 'pt-br': "Megachute",
+                ja: "メガトンキック",
                 ko: "메가톤킥",
                 "zh-tw": "超級踢"
             },

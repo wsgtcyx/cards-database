@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/233",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/233",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/233",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/233"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/233",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/233"
     },
     name: {
         en: "Gyarados",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gyarados",
         de: "Garados",
         'pt-br': "Gyarados",
+        ja: "ギャラドス",
         ko: "갸라도스",
         "zh-tw": "暴鯉龍"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     attacks: [{
             cost: ["Water", "Water", "Water", "Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Iper Raggio",
                 de: "Hyperstrahl",
                 'pt-br': "Hiper-raio",
+                ja: "はかいこうせん",
                 ko: "파괴광선",
                 "zh-tw": "超光束"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Lege 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Quando esce allo scoperto in preda alla furia,\nnon si placa finché non ha raso al suolo ogni cosa.",
         de: "Taucht es auf, randaliert es. Es beruhigt sich erst,\nwenn es alles um sich zerstört hat.",
         'pt-br': "Assim que aparece, ele causa tumulto\ne fica enfurecido até destruir tudo em volta.",
+        ja: "一度 姿を 現すと まわりを すべて 焼き尽くさないと 怒りが 鎮まらない という。",
         ko: "한번 모습을 나타내면\n주변 전체를 태워 버리지 않고는\n분노가 가라앉지 않는다고 전해진다.",
         "zh-tw": "一旦出現，就會橫衝直撞。它會一直憤怒，直到摧毀周圍的一切。"
     },

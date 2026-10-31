@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/043",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/043",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/043"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/043"
     },
     name: {
         en: "Kingambit",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Solo uno Bisharp che si distingue da tutti gli altri nel suo vasto esercito può evolversi in Kingambit.",
         de: "Nur ein Caesurio, der in seiner riesigen Armee über allen anderen steht, kann sich zu Gladimperio entwickeln.",
         "pt-br": "Somente um Bisharp que está acima de todos os outros em seu vasto exército pode evoluir para Kingambit.",
-        "zh-tw": "只有在龐大的軍隊中脫穎而出的劈斬司令才能進化成仆斬將軍。"
+        "zh-tw": "只有在龐大的軍隊中脫穎而出的劈斬司令才能進化成仆斬將軍。",
+        ja: "ドドゲザンに 進化できるのは 大軍勢の 頂点に 立った １匹の キリキザンだけなのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Lama del Signore Supremo",
                 de: "Klinge des Overlords",
                 "pt-br": "Lâmina do Overlord",
-                "zh-tw": "大將利刃"
+                "zh-tw": "大將利刃",
+                ja: "たいしょうのやいば"
             },
             effect: {
                 en: "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 40 danni in più per ogni volta che i tuoi Pokémon vengono messi KO durante il gioco.",
                 de: "Dieser Angriff verursacht 40 weitere Schadenspunkte für jedes Mal, wenn dein Pokémon in diesem Spiel kampfunfähig gemacht wird.",
                 "pt-br": "Este ataque causa 40 danos a mais cada vez que seu Pokémon for nocauteado durante o jogo.",
-                "zh-tw": "在這個遊戲中，每次你的寶可夢被擊倒，此攻擊都會造成 40 點額外傷害。"
+                "zh-tw": "在這個遊戲中，每次你的寶可夢被擊倒，此攻擊都會造成 40 點額外傷害。",
+                ja: "この対戦中、自分のポケモンがきぜつした回数×40ダメージ追加。"
             },
             damage: "60+"
         }

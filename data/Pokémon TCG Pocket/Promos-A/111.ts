@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/111",
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/111",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/111",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/111"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/111",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/111"
 	},
 	name: {
 		en: "Pikachu",
@@ -17,7 +18,8 @@ const card: Card = {
 		it: "Pikachu",
 		de: "Pikachu",
 		"pt-br": "Pikachu",
-		"zh-tw": "皮卡丘"
+		"zh-tw": "皮卡丘",
+		ja: "ピカチュウ"
 	},
 	illustrator: "sui",
 	rarity: "One Diamond",
@@ -31,6 +33,7 @@ const card: Card = {
 		it: "Quando s'arrabbia, libera subito l'energia\naccumulata nelle sacche sulle guance.",
 		de: "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
 		"pt-br": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
+		ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
 		ko: "양 볼에는 전기를 저장하는 주머니가 있다.\n화가 나면 저장한 전기를 단숨에 방출한다.",
 		"zh-tw": "當它被激怒時，它會立即釋放臉頰眼袋中儲存的能量。"
 	},
@@ -44,7 +47,8 @@ const card: Card = {
 				it: "Attacco rapido",
 				de: "Schneller Angriff",
 				"pt-br": "Ataque Rápido",
-				"zh-tw": "電光一閃"
+				"zh-tw": "電光一閃",
+				ja: "でんこうせっか"
 			},
 			damage: "20+",
 			cost: ["Lightning", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
 				it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
 				de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
 				"pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-				"zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+				"zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+				ja: "コインを1回投げオモテなら、30ダメージ追加。"
 			}
 		}
 	],

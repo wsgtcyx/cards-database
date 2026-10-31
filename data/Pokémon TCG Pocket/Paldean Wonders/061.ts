@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/061",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/061",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/061"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/061"
     },
     name: {
         en: "Klawf",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Klibbe",
         "pt-br": "Klawf",
         "zh-tw": "毛崖蟹",
+        ja: "ガケガニ",
         pt: "Klawf",
         'es-mx': "Klawf"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Questo Pokémon vive su scogliere a picco. Evita gli attacchi degli avversari, quindi si lancia verso i loro punti deboli con i suoi artigli.",
         "de": "Dieses Pokémon lebt auf steilen Klippen. Es weicht den Angriffen der Gegner aus und stürzt sich dann mit seinen Krallen auf deren Schwachstellen.",
         "pt-br": "Este Pokémon vive em penhascos íngremes. Ele evita os ataques dos oponentes e depois ataca seus pontos fracos com suas garras.",
-        "zh-tw": "這隻寶可夢住在陡峭的懸崖上。它會避開對手的攻擊，然後用爪子刺向他們的弱點。"
+        "zh-tw": "這隻寶可夢住在陡峭的懸崖上。它會避開對手的攻擊，然後用爪子刺向他們的弱點。",
+        ja: "切り立った 崖の上で 暮らす。 サイドステップで 攻撃を かわし ハサミで 急所を 狙う。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Adrenalinhammer",
                 "pt-br": "Martelo de adrenalina",
                 "zh-tw": "腎上腺素錘",
+                ja: "アドレナハンマー",
                 pt: "Martelo de Adrenalina"
             },
             damage: "70",
@@ -60,6 +64,7 @@ const card: Card = {
                 de: "Dieses Pokémon ist jetzt verwirrt.",
                 "pt-br": "Este Pokémon agora está Confuso.",
                 "zh-tw": "這隻寶可夢現在處於混亂狀態。",
+                ja: "このポケモンをこんらんにする。",
                 pt: "Este Pokémon agora está Confuso."
             },
         },

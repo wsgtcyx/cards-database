@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/023",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/023",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/023"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/023"
     },
     name: {
         en: "Moltres",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si narra che abbia aiutato dei viandanti che si\nerano persi illuminando i sentieri montuosi con\nle splendide ali infuocate.",
         de: "Überlieferungen nach soll Lavados mit seinen\nwunderschön lodernden Flügeln Bergpfade\nerleuchtet und dadurch Verirrten geholfen haben.",
         "pt-br": "Há histórias deste Pokémon usando suas asas radiantes e cobertas de chamas para iluminar o caminho daqueles que se perderam nas montanhas.",
-        "zh-tw": "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。"
+        "zh-tw": "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。",
+        ja: "美しく 燃えあがる 翼で 山道を 照らし 遭難者を 助けたと 言い伝えられている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco al cielo",
                 de: "Himmelsangriff",
                 "pt-br": "Ataque do Céu",
-                "zh-tw": "神鳥猛擊"
+                "zh-tw": "神鳥猛擊",
+                ja: "ゴッドバード"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
-                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。"
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 150
         }

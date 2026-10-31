@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/250",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/250",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/250",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/250"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/250",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/250"
     },
     name: {
         en: "Lilligant",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
-        ja: "Petilil",
+        ja: "チュリネ",
         ko: "Petilil"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Egal, wie viel Mühe und Geld investiert wird, sein Blumenschmuck ist wild gewachsen immer schöner als von Menschenhand gezüchtet.",
         "pt-br": "Não importa quanto tempo e dinheiro é gasto no seu crescimento, suas flores serão sempre mais bonitas quando florescem na selva.",
         "zh-tw": "無論花多少功夫和金錢，比起借助人工手段培育出的花，在野外綻放的花更美。",
-        ja: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild.",
+        ja: "どんなに 手間と お金を かけても 人の手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。",
         ko: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild."
     },
     stage: "Stage1",
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Aroma der Stärke",
                 "pt-br": "Aroma da Determinação",
                 "zh-tw": "堅韌芳香",
-                ja: "Toughness Aroma",
+                ja: "タフネスアロマ",
                 ko: "Toughness Aroma"
             },
             effect: {
@@ -75,7 +76,7 @@ const card: Card = {
                 de: "Jedes deiner {G}-Pokémon erhält +20 KP.",
                 "pt-br": "Cada um dos seus Pokémon {G} recebe +20 PS.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有{G}寶可夢的最大HP+20。",
-                ja: "Each of your {G} Pokémon gets +20 HP.",
+                ja: "このポケモンがいるかぎり、自分の{G}ポケモン全員の最大HPを+20する。",
                 ko: "Each of your {G} Pokémon gets +20 HP."
             }
         }
@@ -90,7 +91,7 @@ const card: Card = {
                 de: "Klatscher",
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
-                ja: "Smack",
+                ja: "ひらてうち",
                 ko: "Smack"
             },
             damage: 50,

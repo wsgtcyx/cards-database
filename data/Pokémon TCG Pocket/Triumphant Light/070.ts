@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/070"
     },
     name: {
         en: "Arceus",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Arceus",
         de: "Arceus",
         'pt-br': "Arceus",
+        ja: "アルセウス",
         ko: "아르세우스",
         "zh-tw": "阿爾宙斯"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Secondo la mitologia di Sinnoh, Arceus è\nnato da un uovo e poi ha creato il mondo.",
         de: "In den Legenden Sinnohs heißt es, es sei aus einem Ei\ngeschlüpft und hätte die gesamte Welt geschaffen.",
         'pt-br': "De acordo com lendas de Sinnoh, este Pokémon surgiu\nde um ovo e construiu tudo o que há neste mundo.",
+        ja: "タマゴから 姿を 現して 世界の すべてを 生み出したと シンオウ神話に 語られている。",
         ko: "알에서 모습을 나타내\n모든 세계를 창조했다고\n신오신화에서 묘사된다.",
         "zh-tw": "根據神奧傳說，這只神奇寶貝從蛋中誕生，塑造了這個世界的一切。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Forzacolpo",
                 de: "Powerschuss",
                 'pt-br': "Explosão Poderosa",
+                ja: "パワーブラスト",
                 ko: "파워블라스트",
                 "zh-tw": "能量衝擊波"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Descarta 1 Energía aleatoria de este Pokémon.",
                 it: "Rimuovi un'Energia a caso da questo Pokémon.",
                 de: "Lege 1 zufällige Energie von diesem Pokémon ab.",
+                ja: "このポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的隨機能量。"

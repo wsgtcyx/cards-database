@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/100",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/100",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/100"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/100"
     },
     name: {
         en: "Crobat",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Vola controllando indipendentemente le sue\nquattro ali. Non riduce la velocità nemmeno\nnelle caverne più anguste.",
         de: "Seine vier Flügel können unabhängig voneinander\nschlagen. So vermag es auch in engen Höhlen\nohne Geschwindigkeitsverlust umherzufliegen.",
         "pt-br": "Este Pokémon bate suas quatro asas com habilidade. Crobat pode voar através de cavernas apertadas sem precisar diminuir a velocidade.",
-        "zh-tw": "能夠自在地控制４隻翅膀\n振翅飛翔。即使是在狹窄的\n洞窟裡也能毫不減速地飛舞。"
+        "zh-tw": "能夠自在地控制４隻翅膀\n振翅飛翔。即使是在狹窄的\n洞窟裡也能毫不減速地飛舞。",
+        ja: "４枚の 羽を 自在に 操り 羽ばたく。 狭い 洞窟でも スピードを 落とさず 飛びまわれる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpo a Sorpresa",
                 de: "Überraschungsschlag",
                 "pt-br": "Golpe Surpresa",
-                "zh-tw": "奇襲攻擊"
+                "zh-tw": "奇襲攻擊",
+                ja: "きしゅうこうげき"
             },
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon si è spostato dalla tua panchina in posizione attiva nel turno in corso, questo attacco infligge 60 danni in più.",
                 de: "Wenn dieses Pokémon während dieses Zuges von deiner Bank in die Aktive Position gewechselt ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon foi movido do seu Banco para o Campo Ativo neste turno, este ataque causará 60 pontos de dano a mais.",
-                "zh-tw": "如果本回合這只寶可夢從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果本回合這只寶可夢從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 60 點。",
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、60ダメージ追加。"
             },
             damage: "60+"
         }

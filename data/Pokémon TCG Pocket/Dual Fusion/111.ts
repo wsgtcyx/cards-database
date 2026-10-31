@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/111",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/111",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/111"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/111"
     },
     name: {
         en: "Snorlax",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Bodyslam",
                 "pt-br": "Pancada Corporal",
                 "zh-tw": "泰山壓頂",
-                ja: "Body Slam",
+                ja: "のしかかり",
                 ko: "Body Slam"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
-                ja: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
             }
         }
@@ -83,7 +84,7 @@ const card: Card = {
         de: "Dieser Nimmersatt isst unentwegt, wenn er nicht gerade schläft. Relaxo verschlingt mehr als 400 kg Nahrung am Tag.",
         "pt-br": "Este Pokémon glutão come constantemente, exceto quando está dormindo. Devora cerca de 400 kg de comida por dia.",
         "zh-tw": "除了睡著時之外，總是不斷在進食，最多一天能吃光400公斤食物的大胃王。",
-        ja: "This gluttonous Pokémon eats constantly, apart from when it’s asleep. It devours nearly 900 pounds of food per day.",
+        ja: "眠っているとき以外は つねに エサを 食べている 大食らい。 １日に ４００キロも たいらげる。",
         ko: "This gluttonous Pokémon eats constantly, apart from when it’s asleep. It devours nearly 900 pounds of food per day."
     }
 };

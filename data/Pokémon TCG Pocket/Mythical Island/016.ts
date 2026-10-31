@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/016"
     },
     name: {
         en: "Salazzle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Salazzle",
         de: "Amfira",
         'pt-br': "Salazzle",
+        ja: "エンニュート",
         ko: "염뉴트",
         "zh-tw": "焰后蜥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Molunk",
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
+        ja: "ヤトウモリ",
     },
     description: {
         en: "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Trasforma gli avversari in seguaci stordendoli con del\ngas tossico per poi sedurli con movenze ammalianti.",
         de: "Zuerst benebelt es Gegner mit Giftgas, um sie\ndanach mit fesselnden Körperbewegungen zu\nbetören und zu ergebenen Dienern zu machen.",
         'pt-br': "Salazzle deixa os oponentes zonzos com seu\ngás venenoso, depois os cativa com movimentos\nfascinantes para transformá-los em servos leais.",
+        ja: "毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。",
         ko: "독가스에 어질어질해진 상대를\n요염한 몸놀림으로 유혹해서\n충실한 부하로 만들어 버린다.",
         "zh-tw": "薩拉茲用毒氣讓對手頭暈目眩，然後用誘人的動作迷惑他們，將他們變成忠誠的僕人。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Velenartigli",
                 de: "Giftkrallen",
                 'pt-br': "Garras Venenosas",
+                ja: "どくのツメ",
                 ko: "독발톱",
                 "zh-tw": "毒爪"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

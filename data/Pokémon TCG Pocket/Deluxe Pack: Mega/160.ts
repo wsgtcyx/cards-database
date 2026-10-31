@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/160",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/160",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/160",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/160"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/160",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/160"
     },
     name: {
         en: "Mega Metagross ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Metang",
         "pt-br": "Metang",
         "zh-tw": "金屬怪",
-        ja: "Metang",
+        ja: "メタング",
         ko: "Metang"
     },
     stage: "Stage2",
@@ -60,7 +61,7 @@ const card: Card = {
                 "zh-tw": "機槍猛擊",
                 it: "Pugnolashnikov",
                 de: "Repetierschlag",
-                ja: "Gatling Slug",
+                ja: "ガトリングスラッグ",
                 ko: "Gatling Slug"
             },
             effect: {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
                 "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。",
                 it: "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon.",
-                ja: "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
+                ja: "このポケモンの{M}エネルギーの数×10ダメージ追加。",
                 ko: "This attack does 10 more damage for each {M} Energy attached to this Pokémon."
             },
             damage: "100+"

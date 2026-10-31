@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/140",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/140"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/140"
     },
     name: {
         en: "Dugtrio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dugtrio",
         de: "Digdri",
         'pt-br': "Dugtrio",
+        ja: "ダグトリオ",
         ko: "닥트리오",
         "zh-tw": "三地鼠",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Diglett",
         "de": "Digda",
         "pt-br": "Diglett",
-        "zh-tw": "地鼠"
+        "zh-tw": "地鼠",
+        ja: "ディグダ"
     },
     attacks: [{
             cost: ["Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fossa",
                 de: "Schaufler",
                 'pt-br': "Cavar",
+                ja: "あなをほる",
                 ko: "구멍파기",
                 "zh-tw": "挖"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊造成的傷害和效果。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Le tre teste si muovono alternativamente per ammorbidire\nil terreno e renderlo così più facile da scavare.",
         de: "Seine drei Köpfe bewegen sich abwechselnd\nhinauf und hinunter, um das Erdreich um sich\nherum zu lockern und leichter graben zu können.",
         'pt-br': "Suas três cabeças movem-se separadamente\npra cima e pra baixo para amaciarem o solo\nao redor, facilitando a escavação.",
+        ja: "３つの 頭が 互い違いに 動くのは まわりの 土を 柔らかくして 掘りやすくするため。",
         ko: "3개의 머리가 교차하며\n움직이는 것은 주변의 흙을\n부드럽게 해 파기 쉽게 하기 위해서다.",
         "zh-tw": "它的三個頭分別上下擺動，以鬆動附近的土壤，使其更容易挖洞。"
     },

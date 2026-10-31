@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/259",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/259",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/259",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/259"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/259",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/259"
 	},
 	name: {
 		en: "Solgaleo ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Solgaleo-ex",
 		de: "Solgaleo-ex",
 		"pt-br": "Solgaleo ex",
-		"zh-tw": "索爾迦雷歐ex"
+		"zh-tw": "索爾迦雷歐ex",
+		ja: "ソルガレオex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Cosmoem",
 		de: "Cosmovum",
 		"pt-br": "Cosmoem",
-		"zh-tw": "科斯莫姆"
+		"zh-tw": "科斯莫姆",
+		ja: "コスモウム"
 	},
 	stage: "Stage2",
 	suffix: "EX",
@@ -47,6 +50,7 @@ const card: Card = {
 				it: "Ascesa Rapida",
 				de: "Aufstiegspfad",
 				"pt-br": "Via Ascendente",
+				ja: "ライジングロード",
 				ko: "라이징 로드",
 				"zh-tw": "上升之路"
 			},
@@ -57,6 +61,7 @@ const card: Card = {
 				it: "Una sola volta durante il tuo turno, se questo Pokémon è nella tua panchina, puoi scambiarlo con il tuo Pokémon attivo.",
 				de: "Einmal während deines Zuges, wenn sich dieses Pokémon auf deiner Bank befindet, kannst du es gegen dein Aktives Pokémon austauschen.",
 				"pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá trocá-lo pelo seu Pokémon Ativo.",
+				ja: "このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンをバトルポケモンと入れ替える。",
 				ko: "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다.",
 				"zh-tw": "在你的回合中，如果這只神奇寶貝在你的替補席上，你可以將它與你的活躍神奇寶貝交換。"
 			}
@@ -71,6 +76,7 @@ const card: Card = {
 				it: "Schianto Solare",
 				de: "Solarbrecher",
 				"pt-br": "Quebra-sol",
+				ja: "ソルブレイク",
 				ko: "솔브레이크",
 				"zh-tw": "溶膠破壞者"
 			},
@@ -83,6 +89,7 @@ const card: Card = {
 				it: "Questo Pokémon infligge anche 10 danni a se stesso.",
 				de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
 				"pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+				ja: "このポケモンにも10ダメージ。",
 				ko: "이 포켓몬에게도 10데미지를 준다.",
 				"zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
 			}

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/017"
     },
     name: {
         en: "Venomoth",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Venomoth",
         de: "Omot",
         'pt-br': "Venomoth",
+        ja: "モルフォン",
         ko: "도나리",
         "zh-tw": "摩魯蛾",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Venonat",
         "de": "Bluzuk",
         "pt-br": "Venonat",
-        "zh-tw": "毛球"
+        "zh-tw": "毛球",
+        ja: "コンパン"
     },
     attacks: [{
             cost: ["Grass"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Velenpolvere",
                 de: "Giftpuder",
                 'pt-br': "Pó Venenoso",
+                ja: "どくのこな",
                 ko: "독가루",
                 "zh-tw": "毒粉"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Le ali sono ricoperte di scaglie. Ogni volta che le\nbatte, viene liberata nell'aria una polvere velenosa.",
         de: "Seine Flügel sind mit staubähnlichen Schuppen\nüberzogen. Mit jedem Flügelschlag verstreut es\nhochgiftigen Puder.",
         'pt-br': "As suas asas são cobertas por escamas\nsemelhantes a poeira. Toda vez que bate\nas asas, libera uma poeira altamente tóxica.",
+        ja: "羽に りんぷんが ついていて ヒラヒラと 羽ばたくたびに 猛毒の 粉を ばらまく。",
         ko: "날개에 가루가 묻어 있어\n팔락팔락 날갯짓을 할 때마다\n맹독 가루를 흩뿌린다.",
         "zh-tw": "翅膀上覆蓋著塵埃般的鱗片。它每次拍打翅膀時都會釋放出劇毒粉塵。"
     },

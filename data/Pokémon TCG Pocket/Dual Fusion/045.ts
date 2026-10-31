@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/045",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/045",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/045"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/045"
     },
     name: {
         en: "Electrode",
@@ -50,7 +51,7 @@ const card: Card = {
         de: "Voltobal",
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
-        ja: "Voltorb",
+        ja: "ビリリダマ",
         ko: "Voltorb"
     },
     attacks: [
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Finale",
                 "pt-br": "Autodestruição",
                 "zh-tw": "自爆",
-                ja: "Self-Destruct",
+                ja: "じばく",
                 ko: "Self-Destruct"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Dieses Pokémon fügt auch sich selbst 90 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 90 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到90點傷害。",
-                ja: "This Pokémon also does 90 damage to itself.",
+                ja: "このポケモンにも90ダメージ。",
                 ko: "This Pokémon also does 90 damage to itself."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Je mehr elektrische Energie es speichert, desto schneller ist es. Allerdings steigt dabei auch das Risiko, dass es explodiert.",
         "pt-br": "Quanto mais energia carrega, mais velocidade ganha. Mas também aumenta a sua probabilidade de explodir.",
         "zh-tw": "蓄積的電能越多，移動的速度也會變得越快，但同時也會變得更容易爆炸。",
-        ja: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。",
         ko: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode."
     }
 };

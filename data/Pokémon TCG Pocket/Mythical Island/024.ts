@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/024"
     },
     name: {
         en: "Cramorant",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cramorant",
         de: "Urgl",
         'pt-br': "Cramorant",
+        ja: "ウッウ",
         ko: "윽우지",
         "zh-tw": "古月鳥",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "È così potente che può sconfiggere l'avversario\nin un colpo solo, ma è talmente smemorato\nche si dimentica perfino con chi stava lottando.",
         de: "Es ist so stark, dass es seine Gegner mit einem\nAngriff vernichten könnte, aber zerstreut wie es\nist, vergisst es öfters, wen es gerade bekämpft.",
         'pt-br': "É tão forte que consegue derrubar alguns oponentes com um único golpe,\nmas às vezes se esquece de que está batalhando bem no meio da luta.",
+        ja: "相手を 一撃で 打ち負かすほど パワフルだが 忘れっぽいので 戦っている 相手を 忘れる。",
         ko: "상대를 일격에 쓰러뜨릴 정도로\n파워풀하지만 건망증이 심해서\n싸우고 있는 상대를 잊어버린다.",
         "zh-tw": "它是如此強大，以至於它可以一擊擊倒一些對手，但它也可能會在戰鬥中忘記自己正在戰鬥的是什麼。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Sub",
                 de: "Taucher",
                 'pt-br': "Mergulho",
+                ja: "ダイビング",
                 ko: "다이빙",
                 "zh-tw": "潛水"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
             }

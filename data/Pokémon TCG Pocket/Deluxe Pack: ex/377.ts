@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/377",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/377",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/377",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/377"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/377",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/377"
 	},
 	name: {
         en: "Giratina ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Giratina-ex",
         "pt-br": "Giratina ex",
         "zh-tw": "騎拉帝納ex",
+        ja: "ギラティナex",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Shiny",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Muggito nello spazio spezzato",
                 "de": "Broken-Space-Balg",
                 "pt-br": "Abaixo de Espaço Quebrado",
-                "zh-tw": "破碎空間波紋管"
+                "zh-tw": "破碎空間波紋管",
+                ja: "はくうのさけび"
             },
             effect: {
                 en: "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi prendere un'Energia {P} dalla tua Zona Energetica e assegnarla a questo Pokémon. Se usi questa Abilità, il tuo turno termina.",
                 "de": "Einmal während deines Zuges kannst du eine {P}-Energie aus deiner Energiezone nehmen und sie an dieses Pokémon anlegen. Wenn du diese Fähigkeit nutzt, endet dein Zug.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia {P} da sua Zona de Energia e associá-la a este Pokémon. Se você usar esta habilidade, seu turno termina.",
-                "zh-tw": "在你的回合中，你可以從你的能量區取出一個{P}能量並將其附加到這只神奇寶貝身上。如果你使用了這個能力，你的回合就結束了。"
+                "zh-tw": "在你的回合中，你可以從你的能量區取出一個{P}能量並將其附加到這只神奇寶貝身上。如果你使用了這個能力，你的回合就結束了。",
+                ja: "自分の番に1回使えて、使ったなら、番は終わる。自分のエネルギーゾーンから{P}エネルギーを1個出し、このポケモンにつける。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Impatto caotico",
                 "de": "Chaotischer Aufprall",
                 "pt-br": "Impacto Caótico",
-                "zh-tw": "混沌衝擊"
+                "zh-tw": "混沌衝擊",
+                ja: "カオスインパクト"
             },
             damage: 130,
             cost: ["Psychic", "Psychic", "Psychic", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

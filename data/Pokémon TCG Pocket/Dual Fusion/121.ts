@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/121",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/121",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/121"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/121"
     },
     name: {
         en: "Max Repel",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "將對手的戰鬥場的2階進化寶可夢與備戰寶可夢互換。[[由對手選擇放置於戰鬥場的寶可夢。]]",
         it: "Sposta il Pokémon di Fase 2 attivo del tuo avversario nella sua panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
         de: "Wechsle das Aktive Phase-2-Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
-        ja: "Switch out your opponent's Active Stage 2 Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        ja: "相手のバトル場の2進化ポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
         ko: "Switch out your opponent's Active Stage 2 Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
     }
 };

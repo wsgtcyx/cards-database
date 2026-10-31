@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/136",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/136"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/136"
     },
     name: {
         en: "Golurk",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Golgantes",
         "pt-br": "Golurk",
         "zh-tw": "泥偶巨人",
+        ja: "ゴルーグ",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Golbit",
         "pt-br": "Golett",
         "zh-tw": "泥偶小人",
+        ja: "ゴビット",
     },
     description: {
         en: "There's a theory that inside Golurk is a perpetual\nmotion machine that produces limitless energy,\nbut this belief hasn't been proven.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "C'è una teoria secondo cui all'interno di Golurk è perpetuo\nmacchina di movimento che produce energia illimitata,\nma questa convinzione non è stata dimostrata.",
         "de": "Es gibt eine Theorie, dass sich in Golurk ein ewiges Wesen befindet\nBewegungsmaschine, die grenzenlose Energie produziert,\naber dieser Glaube wurde nicht bewiesen.",
         "pt-br": "Existe uma teoria de que dentro de Golurk existe um perpétuo\nmáquina de movimento que produz energia ilimitada,\nmas essa crença não foi comprovada.",
-        "zh-tw": "有一種理論認為，古魯克體內有一個永恆的\n產生無限能量的運動機器，\n但這一信念尚未得到證實。"
+        "zh-tw": "有一種理論認為，古魯克體內有一個永恆的\n產生無限能量的運動機器，\n但這一信念尚未得到證實。",
+        ja: "体内に エネルギーを 生み出す 永久機関が あると いうが 未だに 解明は されていない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Razzo pesante",
                 "de": "Schwere Rakete",
                 "pt-br": "Foguete Pesado",
-                "zh-tw": "重型火箭"
+                "zh-tw": "重型火箭",
+                ja: "ヘビーロケット"
             },
             damage: "60×",
             cost: ["Fighting", "Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Rivela le prime 3 carte del tuo mazzo. Questo attacco infligge 60 danni per ogni Pokémon con un costo di ritirata pari o superiore a 3 che trovi lì. Rimescola le carte rivelate nel tuo mazzo.",
                 "de": "Decke die obersten 3 Karten deines Decks auf. Dieser Angriff verursacht 60 Schadenspunkte für jedes Pokémon mit Rückzugskosten von 3 oder mehr, das du dort findest. Mische die aufgedeckten Karten zurück in deinen Stapel.",
                 "pt-br": "Revele as 3 primeiras cartas do seu baralho. Este ataque causa 60 de dano para cada Pokémon com um custo de recuo de 3 ou mais que você encontrar lá. Embaralhe as cartas reveladas de volta no seu baralho.",
-                "zh-tw": "展示你牌組頂的 3 張牌。此攻擊對您在那裡發現的每隻撤退成本為 3 或以上的神奇寶貝造成 60 點傷害。將翻開的牌洗回你的牌庫中。"
+                "zh-tw": "展示你牌組頂的 3 張牌。此攻擊對您在那裡發現的每隻撤退成本為 3 或以上的神奇寶貝造成 60 點傷害。將翻開的牌洗回你的牌庫中。",
+                ja: "自分の山札を上から3枚オモテにして、その中にあるにげるためのエネルギーが3個以上のポケモンの枚数×60ダメージ。オモテにしたカードは山札にもどす。"
             }
         }],
     weaknesses: [{

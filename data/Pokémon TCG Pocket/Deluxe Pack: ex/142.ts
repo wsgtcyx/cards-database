@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/142"
     },
     name: {
         en: "Lanturn ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lanturn-ex",
         "pt-br": "Lanturn ex",
         "zh-tw": "電燈怪ex",
+        ja: "ランターンex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Lampi",
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
+        ja: "チョンチー",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Segnale lampeggiante",
                 "de": "Blinkendes Signal",
                 "pt-br": "Sinal piscando",
-                "zh-tw": "閃爍信號"
+                "zh-tw": "閃爍信號",
+                ja: "シグナルフラッシュ"
             },
             damage: 80,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato. Se esce croce, il Pokémon attivo del tuo avversario è confuso.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt. Bei „Zahl“ ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado. Se sair coroa, o Pokémon Ativo do seu oponente ficará Confuso.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。如果出現反面，則對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。如果出現反面，則對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。ウラなら、相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

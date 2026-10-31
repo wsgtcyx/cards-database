@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/133",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/133",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/133"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/133"
     },
     name: {
         en: "Crustle ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Lithomith",
         "pt-br": "Dwebble",
         "zh-tw": "石居蟹",
-        ja: "Dwebble",
+        ja: "イシズマイ",
         ko: "Dwebble"
     },
     stage: "Stage1",
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Felsenquetscher",
                 "pt-br": "Rocha Esmagadora",
                 "zh-tw": "岩石粉碎",
-                ja: "Boulder Crush",
+                ja: "ロックスマッシュ",
                 ko: "Boulder Crush"
             },
             damage: 90

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/033"
     },
     name: {
         en: "Sigilyph",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sigilyph",
         de: "Symvolara",
         'pt-br': "Sigilyph",
+        ja: "シンボラー",
         ko: "심보러",
         "zh-tw": "象徵鳥",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Vola grazie ai suoi poteri psichici. Si dice che fosse lo\nspirito custode di un'antica città o il suo messaggero.",
         de: "Es fliegt mithilfe seiner Psycho-Kräfte. Einige\nsagen, es war einst der Wächter einer Stadt aus\nuralten Zeiten. Andere sagen, es war sein Bote.",
         'pt-br': "O poder psíquico destes Pokémon permite que voem. Há quem diga que eles\neram os guardiões de uma cidade antiga. Outros dizem que, na verdade, eram\nos emissários dos guardiões.",
+        ja: "サイコパワーで 空を 飛ぶ。 古代都市の 守り神 とも その遣いとも いわれている。",
         ko: "사이코 파워로 하늘을 난다.\n고대 도시의 수호신 또는\n수호신의 사자로 일컬어진다.",
         "zh-tw": "精神力量使這些神奇寶貝能夠飛行。有人說他們是一座古城的守護者。其他人則說他們是監護人的使者。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Battipesca",
                 de: "Stachelzug",
                 'pt-br': "Comprada Espinhosa",
+                ja: "スパイクドロー",
                 ko: "스파이크드로",
                 "zh-tw": "穗花"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe 1 Karte.",
                 'pt-br': "Compre 1 carta.",
+                ja: "自分の山札を枚引く。",
                 ko: "자신의 덱을 1장 뽑는다.",
                 "zh-tw": "畫一張卡片。"
             }

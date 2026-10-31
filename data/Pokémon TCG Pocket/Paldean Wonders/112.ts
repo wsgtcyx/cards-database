@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/112",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/112",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/112"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/112"
     },
     name: {
         en: "Chien-Pao ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Baojian-ex",
         "pt-br": "Chien-Pao ex",
         "zh-tw": "古劍豹ex",
+        ja: "パオジアンex",
         pt: "Chien-Pao ex"
     },
     suffix: "EX",
@@ -39,6 +41,7 @@ const card: Card = {
                 de: "Eiszapfen",
                 "pt-br": "Sincelo",
                 "zh-tw": "冰柱",
+                ja: "つらら",
                 'es-mx': "Témpano de Hielo",
                 pt: "Pingente de Gelo"
             },
@@ -53,7 +56,8 @@ const card: Card = {
                 "it": "Ghiaccioli subacquei",
                 "de": "Tauchende Eiszapfen",
                 "pt-br": "Pingentes de mergulho",
-                "zh-tw": "潛水冰柱"
+                "zh-tw": "潛水冰柱",
+                ja: "アイシクルダイブ"
             },
             cost: ["Water", "Water", "Water"],
             effect: {
@@ -63,7 +67,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie Water assegnate a questo Pokémon. Questo attacco infligge 130 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Lege alle Wasser-Energien dieses Pokémon ab. Dieser Angriff fügt 1 Pokémon deines Gegners 130 Schadenspunkte zu.",
                 "pt-br": "Descarte toda a Energia Water deste Pokémon. Este ataque causa 130 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "丟棄該寶可夢的所有水能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。"
+                "zh-tw": "丟棄該寶可夢的所有水能量。這次攻擊對對手的 1 隻寶可夢造成 130 點傷害。",
+                ja: "このポケモンから{W}エネルギーをすべてトラッシュし、相手のポケモン1匹に130ダメージ。"
             },
         },
     ],

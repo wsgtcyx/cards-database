@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/013"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/013"
     },
     name: {
         en: "Arcanine",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo incredibile ruggito ispira un senso di maestosità.\nChiunque lo senta non può far a meno di prostrarsi.",
         de: "Sein bezauberndes Bellen klingt majestätisch. Jeder,\nder es vernimmt, muss sich automatisch verbeugen.",
         "pt-br": "A sua magnífica casca transmite uma sensação de majestade. Qualquer um que ouça isso não pode deixar de rastejar diante disso.",
-        "zh-tw": "其雄偉的樹皮給人一種威嚴的感覺。任何人聽到它都會情不自禁地在它面前卑躬屈膝。"
+        "zh-tw": "其雄偉的樹皮給人一種威嚴的感覺。任何人聽到它都會情不自禁地在它面前卑躬屈膝。",
+        ja: "堂々とした 鳴き声は 威厳に あふれ 聞いたものは 思わず ひれ伏してしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Rogodenti",
                 de: "Feuerzahn",
                 "pt-br": "Presas de Fogo",
-                "zh-tw": "火焰牙"
+                "zh-tw": "火焰牙",
+                ja: "ほのおのキバ"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è bruciato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍寶可夢現在被燒毀。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍寶可夢現在被燒毀。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。"
             },
             damage: 50
         }

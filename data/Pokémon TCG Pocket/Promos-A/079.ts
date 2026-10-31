@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/079",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/079",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/079"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/079"
     },
     name: {
         en: "Dusk Mane Necrozma",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dämmerungsmähnen-Nekrozma",
         "pt-br": "Necrozma Juba Crepúsculo",
         "zh-tw": "奈克洛茲瑪黃昏之鬃",
+        ja: "ネクロズマたそがれのたてがみ",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questa è la sua forma mentre divora la luce dell'\nSolgaleo. Si avventa sui nemici e poi colpisce\nloro con gli artigli sui quattro arti e sulla schiena.",
         "de": "Dies ist seine Form, während es das Licht verschlingt\nSolgaleo. Es stürzt sich auf Feinde und schlägt dann zu\nsie mit den Krallen an seinen vier Gliedmaßen und am Rücken.",
         "pt-br": "Esta é a sua forma enquanto devora a luz do\nSolgaleo. Ele ataca os inimigos e depois corta\neles com as garras em seus quatro membros e nas costas.",
-        "zh-tw": "這是它吞噬光芒時的形態\n索爾迦雷歐。它會撲向敵人，然後進行砍擊\n它們的四肢和背部都有爪子。"
+        "zh-tw": "這是它吞噬光芒時的形態\n索爾迦雷歐。它會撲向敵人，然後進行砍擊\n它們的四肢和背部都有爪子。",
+        ja: "ソルガレオの光を 喰らい続ける姿。 敵に とびかかり 背中と四肢のツメで 相手を 切り裂く。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Metallo nero",
                 "de": "Black Metal",
                 "pt-br": "Metal Negro",
-                "zh-tw": "黑金屬"
+                "zh-tw": "黑金屬",
+                ja: "ブラックメタル"
             },
             damage: 100,
             cost: ["Metal", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {M} da questo Pokémon.",
                 "de": "Wirf eine {M} Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {M} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {M} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {M} 能量。",
+                ja: "このポケモンから{M}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

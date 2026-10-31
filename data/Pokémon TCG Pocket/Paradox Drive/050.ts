@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/050"
     },
     name: {
         en: "Copperajah",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Gli Copperajah sono Pokémon orgogliosi e irascibili. Gli esemplari dalla pelle verde vibrante esigono il rispetto degli altri della loro specie.",
         de: "Patinaraja sind stolze, streitsüchtige Pokémon. Exemplare mit leuchtend grüner Haut erregen den Respekt ihrer Artgenossen.",
         "pt-br": "Copperajah são Pokémon orgulhosos e rabugentos. Espécimes com pele verde vibrante conquistam o respeito de outros de sua espécie.",
-        "zh-tw": "大王銅象 是驕傲、脾氣暴躁的寶可夢。擁有充滿活力的綠色皮膚的標本贏得了同類的尊重。"
+        "zh-tw": "大王銅象 是驕傲、脾氣暴躁的寶可夢。擁有充滿活力的綠色皮膚的標本贏得了同類的尊重。",
+        ja: "プライドが 高く 気難しい。 鮮やかな 緑の 皮膚の ものが 仲間の 尊敬を 集める。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Altalena in ferro",
                 de: "Eisenschaukel",
                 "pt-br": "Balanço de Ferro",
-                "zh-tw": "鐵之掃"
+                "zh-tw": "鐵之掃",
+                ja: "アイアンスイング"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 100 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 100 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 100 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 100 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。",
+                ja: "コインを2回投げ、オモテの数×100ダメージ。"
             },
             damage: "100x"
         }

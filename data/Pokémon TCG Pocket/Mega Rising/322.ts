@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/322",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/322",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/322",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/322"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/322",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/322"
     },
     name: {
         en: "Tapu Koko ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kapu-Riki-ex",
         "pt-br": "Tapu Koko ex",
         "zh-tw": "卡璞・鳴鳴ex",
+        ja: "カプ・コケコex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Uragano al plasma",
                 "de": "Plasma-Hurrikan",
                 "pt-br": "Furacão de Plasma",
-                "zh-tw": "等離子颶風"
+                "zh-tw": "等離子颶風",
+                ja: "プラズマハリケーン"
             },
             damage: 20,
             cost: ["Lightning"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {L} dalla tua Zona Energetica e assegnala a questo Pokémon.",
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
             }
         }, {
             name: {
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Mach Bolt",
                 "de": "Mach Bolt",
                 "pt-br": "Parafuso Mach",
-                "zh-tw": "馬赫螺栓"
+                "zh-tw": "馬赫螺栓",
+                ja: "マッハボルト"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"]

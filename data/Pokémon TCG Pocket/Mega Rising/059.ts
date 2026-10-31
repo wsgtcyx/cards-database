@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/059"
     },
     name: {
         en: "Crawdaunt",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krebutack",
         "pt-br": "Crawdaunt",
         "zh-tw": "鐵螯龍蝦",
+        ja: "シザリガー",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Krebscorps",
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
+        ja: "ヘイガニ",
     },
     description: {
         en: "A brutish Pokémon that loves to battle. It will\ncrash itself into any foe that approaches its nest.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un Pokémon brutale che ama combattere. Lo farà\nsi schianta contro qualsiasi nemico che si avvicini al suo nido.",
         "de": "Ein brutales Pokémon, das gerne kämpft. Das wird es\nprallt gegen jeden Feind, der sich seinem Nest nähert.",
         "pt-br": "Um Pokémon brutal que adora lutar. Isso vai\ncolidir com qualquer inimigo que se aproxime de seu ninho.",
-        "zh-tw": "喜歡戰鬥的兇猛寶可夢。它將\n撞向任何接近其巢穴的敵人。"
+        "zh-tw": "喜歡戰鬥的兇猛寶可夢。它將\n撞向任何接近其巢穴的敵人。",
+        ja: "戦いを 好む 性格。 すみかに 近づく 相手を 容赦なく 叩きのめす。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ghigliottina",
                 "de": "Guillotine",
                 "pt-br": "Guilhotina",
-                "zh-tw": "斷頭台"
+                "zh-tw": "斷頭台",
+                ja: "ハサミギロチン"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/064"
     },
     name: {
         en: "Swablu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
+        ja: "チルット",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si pulisce costantemente le sue ali simili al cotone. Ci vuole\nuna doccia per pulirsi se si sporca.",
         "de": "Es pflegt ständig seine watteähnlichen Flügel. Es dauert\neine Dusche, um sich selbst zu reinigen, wenn sie schmutzig wird.",
         "pt-br": "Ele limpa constantemente suas asas parecidas com algodão. É preciso\num chuveiro para se limpar caso fique sujo.",
-        "zh-tw": "它不斷地梳理棉花般的翅膀。這需要\n如果弄髒了，可以自行清潔淋浴。"
+        "zh-tw": "它不斷地梳理棉花般的翅膀。這需要\n如果弄髒了，可以自行清潔淋浴。",
+        ja: "真綿の ような 翼の 手入れは 絶対に 欠かさない。汚れると 水浴びをして きれいに 洗う。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Colorless"]

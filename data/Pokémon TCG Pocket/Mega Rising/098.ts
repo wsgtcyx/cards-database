@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/098"
     },
     name: {
         en: "Xatu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Xatu",
         "pt-br": "Xatu",
         "zh-tw": "天然鳥",
+        ja: "ネイティオ",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Natu",
         "pt-br": "Natu",
         "zh-tw": "天然雀",
+        ja: "ネイティ",
     },
     description: {
         en: "This odd Pokémon can see both the past and\nthe future. It eyes the sun's movement all day.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo strano Pokémon può vedere sia il passato che\nil futuro. Osserva il movimento del sole tutto il giorno.",
         "de": "Dieses seltsame Pokémon kann sowohl die Vergangenheit als auch sehen\ndie Zukunft. Es beobachtet den ganzen Tag die Bewegung der Sonne.",
         "pt-br": "Este estranho Pokémon pode ver o passado e\no futuro. Ele observa o movimento do sol o dia todo.",
-        "zh-tw": "這個奇怪的神奇寶貝可以看到過去和\n未來。它整天注視著太陽的運動。"
+        "zh-tw": "這個奇怪的神奇寶貝可以看到過去和\n未來。它整天注視著太陽的運動。",
+        ja: "過去と 未来を 見通せる。 毎日 太陽の 動きを 見続けている 不思議な ポケモン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Testata Zen",
                 "de": "Zen-Kopfstoß",
                 "pt-br": "Cabeçada Zen",
-                "zh-tw": "禪宗頭撞"
+                "zh-tw": "禪宗頭撞",
+                ja: "しねんのずつき"
             },
             damage: 80,
             cost: ["Psychic", "Colorless", "Colorless"]

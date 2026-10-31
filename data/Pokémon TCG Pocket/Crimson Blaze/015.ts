@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/015"
     },
     name: {
         en: "Houndour",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Houndour",
         "de": "Hunduster",
         "pt-br": "Houndour",
-        "zh-tw": "戴魯比"
+        "zh-tw": "戴魯比",
+        ja: "デルビル"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Utilizza diversi tipi di grida per comunicare\ncon altri della sua specie e per inseguire la sua preda.",
         "de": "Es verwendet verschiedene Arten von Schreien zur Kommunikation\nmit anderen seiner Art und für die Verfolgung seiner Beute.",
         "pt-br": "Ele usa diferentes tipos de gritos para se comunicar\ncom outros de sua espécie e para perseguir suas presas.",
-        "zh-tw": "它使用不同種類的叫聲進行交流\n與其他同類並追捕獵物。"
+        "zh-tw": "它使用不同種類的叫聲進行交流\n與其他同類並追捕獵物。",
+        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ruggito",
                 "de": "Brüllen",
                 "pt-br": "Rugido",
-                "zh-tw": "吼"
+                "zh-tw": "吼",
+                ja: "ほえる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scambia il Pokémon attivo del tuo avversario nella panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
                 "de": "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
+                "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             }
         }],
     weaknesses: [{

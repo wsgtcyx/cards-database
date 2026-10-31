@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/063",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/063",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/063"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/063"
     },
     name: {
         en: "Koraidon",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Koraidon",
         "pt-br": "Koraidon",
         "zh-tw": "故勒頓",
+        ja: "コライドン",
         pt: "Koraidon"
     },
     illustrator: "Kouki Saitou",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Questo Pokémon assomiglia a Cyclizar, ma è molto più corpulento e feroce. Non si sa nulla della sua ecologia o di altre caratteristiche.",
         "de": "Dieses Pokémon ähnelt Mopex, ist aber weitaus kräftiger und wilder. Über seine Ökologie oder andere Merkmale ist nichts bekannt.",
         "pt-br": "Este Pokémon se assemelha ao Cyclizar, mas é muito mais corpulento e feroz. Nada se sabe sobre sua ecologia ou outras características.",
-        "zh-tw": "這隻寶可夢類似摩托蜥，但它更魁梧、更兇猛。關於它的生態或其他特徵一無所知。"
+        "zh-tw": "這隻寶可夢類似摩托蜥，但它更魁梧、更兇猛。關於它的生態或其他特徵一無所知。",
+        ja: "モトトカゲと 似た 印象だが はるかに たくましく 凶暴。 生態などは 一切 不明。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Tobende Fänge",
                 "pt-br": "Presa Furiosa",
                 "zh-tw": "狂暴之牙",
+                ja: "ランページファング",
                 pt: "Canino Feroz"
             },
             damage: 120,
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Lege 2 {R} Energien von diesem Pokémon auf deinen Ablagestapel.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 2 個 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
                 pt: "Descarte 2 Energias {R} deste Pokémon."
             },
         },

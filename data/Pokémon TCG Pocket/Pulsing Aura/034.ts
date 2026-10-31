@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/034",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/034"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/034"
     },
     name: {
         en: "Poliwhirl",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La sua pelle è umida su tutto il corpo. Anche la pelle sulla spirale del ventre è liscia.",
         de: "Die Haut am ganzen Körper ist feucht. Auch die Haut an der Bauchspirale fühlt sich glatt an.",
         "pt-br": "Sua pele está úmida por todo o corpo. A pele da espiral abdominal também é macia.",
-        "zh-tw": "它全身的皮膚都是濕潤的。它腹部螺旋上的皮膚也感覺光滑。"
+        "zh-tw": "它全身的皮膚都是濕潤的。它腹部螺旋上的皮膚也感覺光滑。",
+        ja: "全身の 皮膚は 湿っているが お腹の 渦巻きの 部分の 感触は すべすべとしている。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Doppia Botta",
                 de: "Zweimal zuschlagen",
                 "pt-br": "Batida Dupla",
-                "zh-tw": "二連敲"
+                "zh-tw": "二連敲",
+                ja: "にどたたき"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。"
             },
             damage: "30x"
         }

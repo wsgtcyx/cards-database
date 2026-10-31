@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/057"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/057"
     },
     name: {
         en: "Ursaring",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È abbastanza abile nell'arrampicarsi sugli alberi. Se incontra uno Primeape mentre cerca bacche tra le cime degli alberi, sicuramente arriveranno dei guai.",
         de: "Es ist ziemlich geschickt darin, auf Bäume zu klettern. Wenn es bei der Suche nach Beeren in den Baumwipfeln auf einen Rasaff stößt, wird es sicherlich Ärger geben.",
         "pt-br": "É bastante habilidoso em subir em árvores. Se ele encontrar um Primeape enquanto procura frutas nas copas das árvores, certamente surgirão problemas.",
-        "zh-tw": "它爬樹的技術相當熟練。如果它在樹頂尋找漿果時遇到了火爆猴，麻煩肯定會接踵而至。"
+        "zh-tw": "它爬樹的技術相當熟練。如果它在樹頂尋找漿果時遇到了火爆猴，麻煩肯定會接踵而至。",
+        ja: "木登りが 得意。 木の上で 木の実を 探すうちに オコリザルと 鉢合わせて ひと悶着。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Confrontarsi",
                 de: "Konfrontieren",
                 "pt-br": "Enfrentar",
-                "zh-tw": "正面對決"
+                "zh-tw": "正面對決",
+                ja: "がちんこ"
             },
             damage: 70
         }

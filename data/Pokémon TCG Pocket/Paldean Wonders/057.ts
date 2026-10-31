@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/057"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/057"
     },
     name: {
         en: "Annihilape",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Epitaff",
         "pt-br": "Annihilape",
         "zh-tw": "棄世猴",
+        ja: "コノヨザル",
         pt: "Annihilape",
         'es-mx': "Annihilape"
     },
@@ -36,6 +38,7 @@ const card: Card = {
         de: "Rasaff",
         'pt-br': "Primeape",
         "zh-tw": "火爆猴",
+        ja: "オコリザル",
         ko: "성원숭"
     },
     description: {
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Infonde nei suoi pugni il potere della rabbia che teneva nascosta nel suo cuore. Gli avversari colpiti da questi pugni imbevuti verranno distrutti nel profondo.",
         "de": "Es erfüllt seine Fäuste mit der Kraft der Wut, die es in seinem Herzen verborgen hielt. Gegner, die von diesen machtvollen Fäusten getroffen werden, werden bis ins Mark zerschmettert.",
         "pt-br": "Ele imbui seus punhos com o poder da raiva que mantinha escondida em seu coração. Os oponentes atingidos por esses punhos imbuídos serão totalmente despedaçados.",
-        "zh-tw": "它的拳頭充滿了隱藏在心中的憤怒之力。被這些充滿力量的拳頭擊中的對手將會被徹底粉碎。"
+        "zh-tw": "它的拳頭充滿了隱藏在心中的憤怒之力。被這些充滿力量的拳頭擊中的對手將會被徹底粉碎。",
+        ja: "心に 秘めた 怒りのパワーを こぶしに 込めて 叩きつけると 相手を 骨の髄から 砕く。"
     },
     stage: "Stage2",
     attacks: [
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Dynamitstoß",
                 "pt-br": "Soco Dinamite",
                 "zh-tw": "炸藥沖頭",
+                ja: "ダイナマイトパンチ",
                 pt: "Soco Dinamite"
             },
             damage: "90",
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 30 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 30 點傷害。",
+                ja: "このポケモンにも30ダメージ。",
                 pt: "Este Pokémon também causa 30 pontos de dano a si mesmo.",
                 'es-mx': "Este Pokémon también se hace 30 puntos de daño a sí mismo."
             },

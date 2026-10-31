@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/006"
     },
     name: {
         en: "Scyther",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sichlor",
         "pt-br": "Scyther",
         "zh-tw": "飛天螳螂",
+        ja: "ストライク",
     },
     illustrator: "Narumi Sato",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Taglia l'erba con la sua lama affilata\nfalci, che si muovono troppo velocemente per l'umano\nocchio al tracciamento.",
         "de": "Mit seiner scharfen Klinge schneidet es durch das Gras\nSensen, die sich zu schnell für den Menschen bewegen\nAuge zum Verfolgen.",
         "pt-br": "Ele corta a grama com seu poder afiado\nfoices, movendo-se rápido demais para o humano\nolho para rastrear.",
-        "zh-tw": "它用鋒利的刀砍過草地\n鐮刀，對於人類來說移動得太快\n眼睛追踪。"
+        "zh-tw": "它用鋒利的刀砍過草地\n鐮刀，對於人類來說移動得太快\n眼睛追踪。",
+        ja: "切れ味 鋭い カマを 使って 草むらを 切り進む。あまりに 速い 動きで 目が 追いつかない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 20,
             cost: ["Colorless"]

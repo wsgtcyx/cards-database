@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/040"
     },
     name: {
         en: "Hariyama",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Hariyama",
         "de": "Hariyama",
         "pt-br": "Hariyama",
-        "zh-tw": "鐵掌力士"
+        "zh-tw": "鐵掌力士",
+        ja: "ハリテヤマ"
     },
     illustrator: "Naoyo Kimura",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Makuhita",
         "de": "Makuhita",
         "pt-br": "Makuhita",
-        "zh-tw": "幕下力士"
+        "zh-tw": "幕下力士",
+        ja: "マクノシタ"
     },
     description: {
         en: "It stomps on the ground to build power.\nIt can send a 10-ton truck flying with a\nstraight-arm punch.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Calpesta il terreno per costruire potere.\nPuò far volare un camion da 10 tonnellate con a\npugno a braccio teso.",
         "de": "Es stampft auf den Boden, um Kraft aufzubauen.\nEs kann einen 10-Tonnen-Lkw mit einem fliegen lassen\nSchlag mit geradem Arm.",
         "pt-br": "Ele pisa no chão para construir poder.\nEle pode enviar um caminhão de 10 toneladas voando com um\nsoco com o braço reto.",
-        "zh-tw": "它踩踏地面來產生能量。\n它可以讓一輛10噸重的卡車帶著\n直臂拳。"
+        "zh-tw": "它踩踏地面來產生能量。\n它可以讓一輛10噸重的卡車帶著\n直臂拳。",
+        ja: "両足で 地面を 踏み鳴らして パワーを ためる。張り手 １発で １０トン トラックを 吹っ飛ばす。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Spinta di schiaffo di Megaton",
                 "de": "Megaton Slap Push",
                 "pt-br": "Empurrão de tapa Megaton",
-                "zh-tw": "百萬噸級拍擊推"
+                "zh-tw": "百萬噸級拍擊推",
+                ja: "メガトンはりて"
             },
             damage: 90,
             cost: ["Fighting", "Fighting", "Fighting"]

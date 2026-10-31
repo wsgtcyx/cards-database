@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/022",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/022",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/022"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/022"
     },
     name: {
         en: "Blitzle",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ama i luoghi colpiti di frequente dai fulmini, che intercetta con la criniera. In questo modo, accumula elettricità.",
         de: "Es bevorzugt Gebiete, in denen häufig Blitze einschlagen. Diese fängt es mit seiner Mähne, um ihre Energie in seinem Körper zu horten.",
         "pt-br": "Este Pokémon prefere lugares com muitas quedas de raio. Captura raios com sua crina e armazena eletricidade dentro de seu corpo.",
-        "zh-tw": "喜歡經常發生落雷的土地。會用鬃毛接下雷電，把電力儲存到體內。"
+        "zh-tw": "喜歡經常發生落雷的土地。會用鬃毛接下雷電，把電力儲存到體內。",
+        ja: "落雷の 多い 土地を 好む。 たてがみで 雷を 受け止め 体に 電気を 溜めこむのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Doppia Bottintesta",
                 de: "Doppelte Kopfnuss",
                 "pt-br": "Cabeçada Dupla",
-                "zh-tw": "二連頭錘"
+                "zh-tw": "二連頭錘",
+                ja: "にどずつき"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
-                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

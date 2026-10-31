@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/035"
     },
     name: {
         en: "Galarian Cursola",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Galar-Gorgasonn",
         "pt-br": "Cursola de Galar",
         "zh-tw": "伽勒爾魔靈珊瑚",
+        ja: "ガラルサニゴーン",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Galar-Corasonn",
         "pt-br": "Corsola de Galar",
         "zh-tw": "伽勒爾太陽珊瑚",
+        ja: "ガラルサニーゴ",
     },
     description: {
         en: "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo guscio è traboccante di intensificazione\nenergia ultraterrena. L'ectoplasma serve come\nprotezione per lo spirito centrale di questo Pokémon.",
         "de": "Seine Schale ist überfüllt mit seinen Erhöhungen\njenseitige Energie. Das Ektoplasma dient als\nSchutz für den Kerngeist dieses Pokémon.",
         "pt-br": "Sua concha está transbordando com seu elevado\nenergia sobrenatural. O ectoplasma serve como\nproteção para o espírito central deste Pokémon.",
-        "zh-tw": "它的外殼充滿了它高高的\n超凡脫俗的能量。外質充當\n保護這只神奇寶貝的核心精神。"
+        "zh-tw": "它的外殼充滿了它高高的\n超凡脫俗的能量。外質充當\n保護這只神奇寶貝的核心精神。",
+        ja: "霊力が 高まり 殻から 解き放たれた。 霊体で 核の 魂を 守っている。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Perire corpo",
                 "de": "Körper zugrunde gehen",
                 "pt-br": "Perecer Corpo",
-                "zh-tw": "滅亡之軀"
+                "zh-tw": "滅亡之軀",
+                ja: "ほろびのボディ"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni di un attacco dei Pokémon del tuo avversario, lancia una moneta. Se esce testa, il Pokémon attaccante viene messo KO.",
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, wirf eine Münze. Bei „Kopf“ wird das angreifende Pokémon kampfunfähig gemacht.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque do Pokémon do seu oponente, jogue uma moeda. Se der cara, o Pokémon atacante será nocauteado.",
-                "zh-tw": "如果該神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則拋一枚硬幣。如果正面朝上，則攻擊的神奇寶貝將被擊倒。"
+                "zh-tw": "如果該神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則拋一枚硬幣。如果正面朝上，則攻擊的神奇寶貝將被擊倒。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、自分はコインを1回投げる。オモテなら、ワザを使ったポケモンをきぜつさせる。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Colpo spettrale",
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
-                "zh-tw": "幽靈射擊"
+                "zh-tw": "幽靈射擊",
+                ja: "ホロウショット"
             },
             damage: 60,
             cost: ["Psychic", "Psychic"]

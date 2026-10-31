@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/014",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/014"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/014"
     },
     name: {
         en: "Paldean Tauros",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Tauros de Paldea",
         "zh-tw": "帕底亞肯泰羅",
         ko: "팔데아 켄타로스",
-        ja: "パルデア ケンタロス"
+        ja: "パルデアケンタロス"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La gente chiama questo tipo di Tauros la razza Blaze per via dell'aria calda che sbuffa dalle narici. Le sue tre code sono intrecciate.",
         de: "Aufgrund der heißen Luft, die es aus seinen Nasenlöchern schnupft, nennen die Leute diese Art von Tauros die Blaze-Rasse. Seine drei Schwänze sind ineinander verschlungen.",
         "pt-br": "As pessoas chamam esse tipo de Tauros de Raça Blaze devido ao ar quente que ele exala pelas narinas. Suas três caudas estão entrelaçadas.",
-        "zh-tw": "人們稱這種肯泰羅為火焰品種，因為它從鼻孔噴出熱氣。它的三個尾巴是糾纏在一起的。"
+        "zh-tw": "人們稱這種肯泰羅為火焰品種，因為它從鼻孔噴出熱氣。它的三個尾巴是糾纏在一起的。",
+        ja: "高温の 鼻息を 吹きだすので ブレイズ種と 名づけられた。 3本の 尻尾を 束ねている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Riduttore",
                 de: "Bodycheck",
                 "pt-br": "Desmantelar",
-                "zh-tw": "猛撞"
+                "zh-tw": "猛撞",
+                ja: "とっしん"
             },
             effect: {
                 en: "This Pokémon also does 20 damage to itself.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。"
+                "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             },
             damage: 60
         }

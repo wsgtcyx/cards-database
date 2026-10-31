@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/128",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/128",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/128"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/128",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/128"
     },
     name: {
         en: "Mega Gallade ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Kirlia",
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
-        ja: "Kirlia",
+        ja: "キルリア",
         ko: "Kirlia"
     },
     stage: "Stage2",
@@ -60,7 +61,7 @@ const card: Card = {
                 "zh-tw": "共鳴刃",
                 it: "Lama Risonante",
                 de: "Resonanzklinge",
-                ja: "Resonating Blade",
+                ja: "レゾナンスブレード",
                 ko: "Resonating Blade"
             },
             effect: {
@@ -71,7 +72,7 @@ const card: Card = {
                 de: "Wenn du eine Unterstützerkarte während dieses Zuges aus deiner Hand gespielt hast, fügt diese Attacke 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "在這個回合,若從手牌使出了支援者卡,則增加50點傷害。",
-                ja: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+                ja: "この番、手札からサポートを出して使っていたなら、50ダメージ追加。",
                 ko: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
             },
             damage: "100+"

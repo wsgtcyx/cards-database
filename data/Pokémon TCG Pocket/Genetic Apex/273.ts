@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/273",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/273",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/273",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/273"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/273",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/273"
     },
     name: {
         en: "Lt. Surge",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lt. Surge",
         de: "Major Bob",
         'pt-br': "Ten. Surge",
+        ja: "マチス",
         ko: "마티스",
         "zh-tw": "馬志士",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Sposta tutte le Energie {L} dai tuoi Pokémon in panchina al tuo Raichu, Electrode oppure Electabuzz in posizione attiva.",
         de: "Verschiebe alle {L}-Energien von Pokémon auf deiner Bank auf dein Raichu, Lektrobal oder Elektek in der Aktiven Position.",
         'pt-br': "Mova todas as Energias {L} dos seus Pokémon no Banco para seu Raichu, Electrode ou Electabuzz no Campo Ativo.",
+        ja: "自分のバトル場の「ライチュウ」「マルマイン」「エレブー」に、ベンチポケモン全員から{L}エネルギーをすべてつけ替える。",
         ko: "자신의 배틀필드의 「라이츄」「붐볼」「에레브」에게 벤치 포켓몬 전원으로부터 {L}에너지를 모두 붙인다.",
         "zh-tw": "將所有 {L} 能量從你的後備神奇寶貝轉移到活動地點的雷丘、電極或電擊獸上。"
     },

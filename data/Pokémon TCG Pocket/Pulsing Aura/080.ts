@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/080",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/080",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/080"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/080"
     },
     name: {
         en: "Lucario",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Caccia le prede usando un potere chiamato\naura, in grado di ridurre in frantumi anche\ngrossi macigni.",
         de: "Es jagt seine Beute, indem es eine Kraft\nmanipuliert, die Aura genannt wird. Dadurch\nkann es sogar große Felsen pulverisieren.",
         "pt-br": "Ele controla ondas conhecidas como auras, que são poderosas o suficiente para pulverizar rochas enormes. Ele usa essas ondas para abater suas presas.",
-        "zh-tw": "操作一種被稱為波導的力量\n來進行狩獵。這種力量就連\n巨大的岩石也能擊得粉碎。"
+        "zh-tw": "操作一種被稱為波導的力量\n來進行狩獵。這種力量就連\n巨大的岩石也能擊得粉碎。",
+        ja: "大岩も 粉々に 砕く 波動と 呼ばれる 力を 操って 獲物を 狩る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Zuffa",
                 de: "Nahkampf",
                 "pt-br": "Corpo a Corpo",
-                "zh-tw": "近身戰"
+                "zh-tw": "近身戰",
+                ja: "インファイト"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes +20 damage from attacks.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce +20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon +20 Schaden durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá +20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這隻寶可夢受到的攻擊傷害+20。"
+                "zh-tw": "在對手的下一個回合中，這隻寶可夢受到的攻擊傷害+20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを+20する。"
             },
             damage: 90
         }

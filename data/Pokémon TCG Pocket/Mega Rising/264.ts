@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/264",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/264",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/264",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/264"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/264",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/264"
     },
     name: {
         en: "Melmetal ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Melmetal-ex",
         "pt-br": "Melmetal ex",
         "zh-tw": "美錄梅塔ex",
+        ja: "メルメタルex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
+        ja: "メルタン",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Bracci in metallo",
                 "de": "Metallarme",
                 "pt-br": "Braços Metálicos",
-                "zh-tw": "金屬武器"
+                "zh-tw": "金屬武器",
+                ja: "メタルアームズ"
             },
             damage: "100+",
             cost: ["Metal", "Metal", "Metal", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più.",
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

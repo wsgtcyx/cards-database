@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/103",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/103"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/103"
     },
     name: {
         en: "Zoroark",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ha la capacità di trarre in inganno una folla di persone.\nProtegge la tana creando dei miraggi.",
         de: "Kann auf einen Schlag große Massen von Menschen täuschen.\nEs kreiert Illusionen, um sein Revier zu schützen.",
         "pt-br": "Cada um tem a capacidade de enganar um grande grupo de pessoas simultaneamente. Eles protegem seu covil com cenários ilusórios.",
-        "zh-tw": "每個人都有能力同時愚弄一大群人。他們用虛幻的風景來保護自己的巢穴。"
+        "zh-tw": "每個人都有能力同時愚弄一大群人。他們用虛幻的風景來保護自己的巢穴。",
+        ja: "いっぺんに 大勢の 人を 化かす 力を 持つ。 幻の 景色を 見せて 住処を 守る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Sgretolenergia",
                 de: "Zermalmende Energie",
                 "pt-br": "Esmagamento de Energia",
-                "zh-tw": "能量粉碎"
+                "zh-tw": "能量粉碎",
+                ja: "エナジークラッシュ"
             },
             effect: {
                 en: "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni per ogni Energia assegnata a tutti i Pokémon del tuo avversario.",
                 de: "Dieser Angriff fügt 20 Schadenspunkte für jede Energie zu, die an alle Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente.",
-                "zh-tw": "對手所有寶可夢身上所附加的能量每有 1 點，此攻擊就會造成 20 點傷害。"
+                "zh-tw": "對手所有寶可夢身上所附加的能量每有 1 點，此攻擊就會造成 20 點傷害。",
+                ja: "相手のポケモン全員のエネルギーの数×20ダメージ。"
             },
             damage: "20x"
         }

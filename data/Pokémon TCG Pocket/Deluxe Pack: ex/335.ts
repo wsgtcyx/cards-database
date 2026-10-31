@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/335",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/335",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/335",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/335"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/335",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/335"
 	},
 	name: {
         en: "Giovanni",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Giovanni",
         "pt-br": "Giovanni",
         "zh-tw": "坂木",
+        ja: "サカキ",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante questo turno, gli attacchi usati dai tuoi Pokémon infliggono +10 danni al Pokémon attivo del tuo avversario.",
         "de": "Während dieser Runde fügen Angriffe deines Pokémon dem aktiven Pokémon deines Gegners +10 Schadenspunkte zu.",
         "pt-br": "Durante este turno, os ataques usados ​​pelos seus Pokémon causam +10 de dano ao Pokémon Ativo do seu oponente.",
-        "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的活躍寶可夢造成+10點傷害。"
+        "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的活躍寶可夢造成+10點傷害。",
+        ja: "この番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+10する。"
     },
     trainerType: "Supporter"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/135",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/135",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/135"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/135"
     },
     name: {
         en: "Golett",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golett",
         de: "Golbit",
         'pt-br': "Golett",
+        ja: "ゴビット",
         ko: "골비람",
         "zh-tw": "泥偶小人",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 'pt-br': "Megassoco",
+                ja: "メガトンパンチ",
                 ko: "메가톤펀치",
                 "zh-tw": "超級沖床"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "È un Pokémon antico creato dall'argilla.\nNon si sa perché, ma ad alcuni esemplari\npiace creare file interminabili di grandi rocce.",
         de: "Sie bestehen aus Lehm und existieren schon sehr\nlange. Einige von ihnen haben den unerklärlichen\nDrang, große Felsen aneinanderzureihen.",
         'pt-br': "Antigamente, eram esculpidos de argila.\nNinguém sabe a razão, mas alguns deles\nsão determinados a alinhar rochas sem parar.",
+        ja: "粘土から 生み出された 古代の ポケモン。 なぜか 大岩を 並べ続ける ものも いる。",
         ko: "점토에서 만들어진 고대의\n포켓몬. 어째선지 큰 바위를\n늘어놓기만 하는 녀석도 있다.",
         "zh-tw": "它們在古代是用粘土雕刻而成的。沒有人知道為什麼，但其中一些人被迫不斷地排列巨石。"
     },

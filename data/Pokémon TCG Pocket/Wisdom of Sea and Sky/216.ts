@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/216",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/216",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/216"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/216",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/216"
     },
     name: {
         en: "Vaporeon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Aquana",
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
+        ja: "シャワーズ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Vive vicino all'acqua. La sua lunga coda è increspata\nuna pinna, che spesso viene scambiata per quella di una sirena.",
         "de": "Es lebt in der Nähe von Wasser. Sein langer Schwanz ist gerippt\neine Flosse, die oft mit der einer Meerjungfrau verwechselt wird.",
         "pt-br": "Vive perto da água. Sua longa cauda é estriada\numa barbatana, que muitas vezes é confundida com a de uma sereia.",
-        "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。"
+        "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。",
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Drenaggio delle bolle",
                 "de": "Blasenablauf",
                 "pt-br": "Dreno de bolha",
-                "zh-tw": "氣泡排水管"
+                "zh-tw": "氣泡排水管",
+                ja: "バブルドレイン"
             },
             damage: 60,
             cost: ["Water", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 30 danni.",
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
+                ja: "このポケモンのHPを30回復。"
             }
         }],
     weaknesses: [{

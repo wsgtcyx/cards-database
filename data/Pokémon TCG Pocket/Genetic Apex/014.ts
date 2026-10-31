@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/014"
     },
     name: {
         en: "Paras",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Paras",
         de: "Paras",
         'pt-br': "Paras",
+        ja: "パラス",
         ko: "파라스",
         "zh-tw": "派拉斯",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "I funghi che crescono sul dorso di questo\nPokémon, chiamati tochukaso, controllano\nle sue azioni contro la sua volontà.",
         de: "Paras' Körper kann nicht nach seinem eigenen\nWillen handeln, da er von Tochukaso, den Pilzen\nauf seinem Rücken, kontrolliert wird.",
         'pt-br': "Os cogumelos, conhecidos como tochukaso,\ncontrolam o inseto. Quando o inseto perturba\nos cogumelos, eles o mandam catar coquinho.",
+        ja: "冬虫夏草と いう キノコが 虫を 操っているのだ。 虫の 意思は 無視される。",
         ko: "동충하초라고 불리는 버섯이\n벌레를 조종하고 있다.\n벌레의 의사는 무시된다.",
         "zh-tw": "這種被稱為“tochukaso”的蘑菇正在控制這種細菌。即使蟲子騷擾了蘑菇，蘑菇也會叫它趕緊走開。"
     },

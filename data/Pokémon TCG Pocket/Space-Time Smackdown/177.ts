@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/177",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/177",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/177",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/177"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/177",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/177"
     },
     name: {
         en: "Bidoof",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bidoof",
         de: "Bidiza",
         'pt-br': "Bidoof",
+        ja: "ビッパ",
         ko: "비버니",
         "zh-tw": "大牙狸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha i nervi d'acciaio e niente può turbarlo.\nÈ più agile e attivo di quanto sembri.",
         de: "Es hat Nerven wie Drahtseile, nichts kann es erschüttern.\nEs ist agiler und aktiver, als es scheint.",
         'pt-br': "Com nervos de aço, nada pode perturbá-lo.\nÉ mais ágil e ativo do que parece.",
+        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。",
         ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다.",
         "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它比看上去更加敏捷和活躍。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Superzanna",
                 de: "Superzahn",
                 'pt-br': "Superpresa",
+                ja: "いかりのまえば",
                 ko: "분노의앞니",
                 "zh-tw": "超級尖牙"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Dimezza i PS rimanenti del Pokémon attivo del tuo avversario, arrotondandoli per difetto.",
                 de: "Halbiere die verbleibenden KP des Aktiven Pokémon deines Gegners (abgerundet).",
                 'pt-br': "Reduza o PS restante do Pokémon Ativo do seu oponente pela metade, arrendondando para baixo.",
+                ja: "相手のバトルポケモンの残りHPを、半分(切り捨て)にする。",
                 ko: "상대 배틀 포켓몬의 남은 HP를 절반(일의 자리는 버림)으로 만든다.",
                 "zh-tw": "將對手的活躍寶可夢的剩餘生命值減半，向下舍入。"
             }

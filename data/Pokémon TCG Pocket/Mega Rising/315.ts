@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/315",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/315",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/315",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/315"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/315",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/315"
     },
     name: {
         en: "Dodrio",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dodri",
         "pt-br": "Dodrio",
         "zh-tw": "嘟嘟利",
+        ja: "ドードリオ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Dodu",
         "pt-br": "Doduo",
         "zh-tw": "嘟嘟",
+        ja: "ドードー",
     },
     description: {
         en: "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un nemico che distoglie lo sguardo da nessuno dei\notterranno tre teste, anche per un secondo\nbeccato severamente.",
         "de": "Ein Feind, der jeden von ihnen aus den Augen lässt\ndrei Köpfe – auch nur für eine Sekunde – werden es schaffen\nheftig gepickt.",
         "pt-br": "Um inimigo que tira os olhos de qualquer um dos\ntrês cabeças - mesmo que por um segundo - ficarão\nbicou severamente.",
-        "zh-tw": "敵人將目光從任何一個物體上移開\n三個頭——哪怕只是一秒鐘——都會得到\n狠狠地啄了一下。"
+        "zh-tw": "敵人將目光從任何一個物體上移開\n三個頭——哪怕只是一秒鐘——都會得到\n狠狠地啄了一下。",
+        ja: "３つの 頭が 見ている前で わずかでも すきを 見せると クチバシで 激しく つつかれる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Perforare Peck",
                 "de": "Drill Peck",
                 "pt-br": "Broca Peck",
-                "zh-tw": "鑽啄"
+                "zh-tw": "鑽啄",
+                ja: "ドリルくちばし"
             },
             damage: 40,
             cost: ["Colorless"]

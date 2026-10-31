@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/064",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/064",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/064"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/064"
     },
     name: {
         en: "Hawlucha",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Hawlucha vivono tranquillamente senza accalcarsi insieme. Combattono costantemente con i loro nemici naturali: gruppi rumorosi di Primeape.",
         de: "Resladero leben ruhig, ohne sich zusammenzudrängen. Sie kämpfen ständig mit ihren natürlichen Feinden: lauten Gruppen von Rasaff.",
         "pt-br": "Hawlucha vivem silenciosamente, sem se reunirem. Eles lutam constantemente com seus inimigos naturais: grupos barulhentos de Primeape.",
-        "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。"
+        "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。",
+        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Acrobazia",
                 de: "Akrobatik",
                 "pt-br": "Acrobático",
-                "zh-tw": "雜技"
+                "zh-tw": "雜技",
+                ja: "アクロバット"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni in più per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 20 danos para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 20 點額外傷害。"
+                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 20 點額外傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ追加。"
             },
             damage: "10+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/048"
     },
     name: {
         en: "Ceruledge",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Azugladis",
         "pt-br": "Ceruledge",
         "zh-tw": "蒼炎刃鬼",
+        ja: "ソウブレイズ",
         pt: "Ceruledge"
     },
     illustrator: "Ryota Murayama",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Knarbon",
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
+        ja: "カルボウ",
         pt: "Charcadet"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Una vecchia armatura intrisa di rancore ha causato l'evoluzione di questo Pokémon. Ceruledge fa a pezzi i suoi nemici senza pietà.",
         "de": "Eine alte, von Groll durchdrungene Rüstung war der Auslöser für die Entwicklung dieses Pokémon. Azugladis schneidet seine Feinde gnadenlos in Stücke.",
         "pt-br": "Uma antiga armadura repleta de rancores causou a evolução deste Pokémon. Ceruledge corta seus inimigos em pedaços sem piedade.",
-        "zh-tw": "一套充滿怨恨的舊盔甲導致了這隻寶可夢的進化。 蒼炎刃鬼毫不留情地將敵人切成碎片。"
+        "zh-tw": "一套充滿怨恨的舊盔甲導致了這隻寶可夢的進化。 蒼炎刃鬼毫不留情地將敵人切成碎片。",
+        ja: "怨念の 染みついた 古い 鎧により 進化した 姿。 容赦なく 敵を 切り刻む。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Kampfschwert",
                 "pt-br": "Espada de Combate",
                 "zh-tw": "鬥劍",
+                ja: "とうしのたいけん",
                 pt: "Espada de Combate"
             },
             damage: "70+",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다."
             },
         },

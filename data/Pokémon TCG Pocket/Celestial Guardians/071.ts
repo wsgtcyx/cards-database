@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/071"
     },
     name: {
         en: "Spoink",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Spoink",
         it: "Spoink",
         de: "Spoink",
+        ja: "バネブー",
         ko: "피그점프",
         'pt-br': "Spoink",
         "zh-tw": "跳跳豬",
@@ -32,6 +34,7 @@ const card: Card = {
         es: "Si dejara de saltar, se debilitaría. La perla que lleva\nen la cabeza amplifica sus poderes psíquicos.",
         it: "Se dovesse smettere di saltellare, morirebbe. La perla\nche porta sul capo amplifica i suoi poteri psichici.",
         de: "Hört es je auf umherzuspringen, stirbt es.\nDie Perle auf seinem Kopf verstärkt seine\nPsycho-Kräfte.",
+        ja: "飛び跳ねていないと 死んでしまう。 頭に 乗せている 真珠が サイコパワーを 増幅させるのだ。",
         ko: "뛰어오르는 것을 멈추면 죽는다고 한다.\n머리에 이고 있는 진주가\n사이코 파워를 증폭시켜 준다.",
         'pt-br': "Spoink morrerá se parar de pular. A pérola em sua cabeça\naumenta seus poderes psíquicos.",
         "zh-tw": "如果 Spoink 停止彈跳就會死亡。它頭上的珍珠增強了它的精神力量。"
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Psicarga",
                 it: "Carica Psichica",
                 de: "Psycholadung",
+                ja: "サイコチャージ",
                 ko: "사이코차지",
                 'pt-br': "Carregamento Psíquico",
                 "zh-tw": "精神充電"
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Une 1 Energía {P} de tu área de Energía a este Pokémon.",
                 it: "Prendi un'Energia {P} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {P}-Energie aus deinem Energiebereich an dieses Pokémon an.",
+                ja: "自分のエネルギーゾーンから{P}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {P}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 'pt-br': "Pegue 1 Energia {P} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{P}能量並將其附加到該神奇寶貝上。"

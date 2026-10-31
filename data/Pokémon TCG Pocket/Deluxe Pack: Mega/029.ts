@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/029",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/029",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/029"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/029"
     },
     name: {
         en: "Charmander",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Ist es gesund, strahlt die Flamme an seiner Schwanzspitze leuchtend hell und erlischt selbst dann nicht, wenn sie ein wenig nass wird.",
         "pt-br": "Se Charmander estiver saudável, a chama na ponta da sua cauda queimará vigorosamente e não apagará mesmo que fique um pouco molhada.",
         "zh-tw": "如果小火龍的活力十足，那麼尾巴前端的火焰即使稍微淋濕也會熊熊燃燒，不會熄滅。",
-        ja: "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet.",
+        ja: "尻尾の 先の 炎は 元気なら 少しくらい 濡れても 消えることなく 燃え盛る。",
         ko: "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Flammenschweif",
                 "pt-br": "Cauda de Chamas",
                 "zh-tw": "火之尾",
-                ja: "Flame Tail",
+                ja: "ほのおのしっぽ",
                 ko: "Flame Tail"
             },
             damage: 30

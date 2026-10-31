@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/212",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/212"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/212"
     },
     name: {
         en: "Minccino",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Minccino",
         de: "Picochilla",
         'pt-br': "Minccino",
+        ja: "チラーミィ",
         ko: "치라미",
         "zh-tw": "泡沫栗鼠",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Codasberla",
                 de: "Schweifschlag",
                 'pt-br': "Ataque de Cauda",
+                ja: "しっぽでたたく",
                 ko: "꼬리로때리기",
                 "zh-tw": "尾巴拍打"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Con la coda rimuove ogni traccia di sporco.\nÈ di grande aiuto per le pulizie, ma la sua\npignoleria può diventare estenuante.",
         de: "Es entfernt Schmutz mit seinem Schweif. Beim\nHausputz ist es eine große Hilfe, aber sein\nPutzfimmel kann auch anstrengend werden.",
         'pt-br': "A maneira como este Pokémon varre a sujeira com\na cauda pode ser útil na hora de fazer uma faxina, mas\nsua obsessão por limpeza pode tornar o processo uma chatice.",
+        ja: "しっぽで 汚れを 払い落す。 掃除を するときに 助かるが 潔癖症 なので 大変。",
         ko: "꼬리로 더러운 것을 떨어낸다.\n청소를 할 때는 도움이 되지만\n결벽증이 있어서 힘들기도 하다.",
         "zh-tw": "它用尾巴刷掉污垢的方式在清潔時很有幫助。但它對一塵不染的關注可能會讓清潔變得更加麻煩。"
     },

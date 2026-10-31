@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/037",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/037"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/037"
     },
     name: {
         en: "Quagsire",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ha un corpo molto viscido. Spesso, nuotando,\nsbatte la testa sul letto dei fiumi, ma non\nse ne preoccupa.",
         de: "Es hat einen äußerst glitschigen Körper. Beim\nSchwimmen stößt es sich regelmäßig den Kopf\nam Flussgrund, was ihm aber egal zu sein scheint.",
         "pt-br": "Seu corpo é sempre viscoso. Muitas vezes bate a cabeça no fundo do rio enquanto nada, mas parece não se importar.",
-        "zh-tw": "身體總是滑溜溜的。\n雖然游泳時頭總會撞到河底，\n但牠自己毫不在意。"
+        "zh-tw": "身體總是滑溜溜的。\n雖然游泳時頭總會撞到河底，\n但牠自己毫不在意。",
+        ja: "体は いつも ぬめっている。 泳ぐたびに 川底に 頭を ぶつけているが 気に していない。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Amnesia",
                 de: "Amnesie",
                 "pt-br": "Amnésia",
-                "zh-tw": "瞬間失憶"
+                "zh-tw": "瞬間失憶",
+                ja: "ドわすれ"
             },
             effect: {
                 en: "1 of your opponent's Active Pokémon's attacks is chosen at random. During your opponent's next turn, that Pokémon can't use the chosen attack.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "1 degli attacchi del Pokémon attivo del tuo avversario viene scelto a caso. Durante il prossimo turno del tuo avversario, quel Pokémon non potrà usare l'attacco scelto.",
                 de: "1 Angriff des Aktiven Pokémon deines Gegners wird zufällig ausgewählt. Während des nächsten Zuges deines Gegners kann dieses Pokémon den gewählten Angriff nicht verwenden.",
                 "pt-br": "1 dos ataques do Pokémon Ativo do seu oponente é escolhido aleatoriamente. Durante o próximo turno do seu oponente, esse Pokémon não poderá usar o ataque escolhido.",
-                "zh-tw": "隨機選擇 1 隻對手的活躍寶可夢的攻擊。在對手的下一個回合中，該寶可夢不能使用所選的攻擊。"
+                "zh-tw": "隨機選擇 1 隻對手的活躍寶可夢的攻擊。在對手的下一個回合中，該寶可夢不能使用所選的攻擊。",
+                ja: "相手のバトルポケモンが持つワザからランダムに1つが選ばれ、次の相手の番、このワザを受けたポケモンは、選ばれたワザが使えない。"
             },
             damage: 60
         }

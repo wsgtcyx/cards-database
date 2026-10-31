@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/018"
     },
     name: {
         en: "Wiglett",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wiglett",
         de: "Schligda",
         'pt-br': "Wiglett",
+        ja: "ウミディグダ",
         ko: "바다그다",
         "zh-tw": "海地鼠"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Fiuta l'odore di un Veluza da 20 metri\ndi distanza e si nasconde nella sabbia.",
         de: "Es kann den Geruch eines Agiluza auf 20 m Entfernung\nwahrnehmen und versteckt sich daraufhin flugs im Sand.",
         'pt-br': "Este Pokémon é capaz de sentir o cheiro de Veluza\na mais de 20 metros de distância e se esconderá na areia.",
+        ja: "２０メートル先の ミガルーサが 放つ 匂いも 嗅ぎとって 砂の中に 身を 隠すのだ。",
         ko: "20m 떨어진 가비루사에게서 나는\n냄새도 맡을 수 있어서\n모래 속에 몸을 숨긴다.",
         "zh-tw": "這只神奇寶貝可以在 65 英尺外捕捉到貝魯扎的氣味，並將自己隱藏在沙子裡。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Salta Fuori",
             de: "Rausspringen",
             'pt-br': "Surgir",
+            ja: "とびだす",
             ko: "튀어나오기",
             "zh-tw": "春天來了"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 30 danni.",
             de: "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 30 Schadenspunkte zu.",
             'pt-br': "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 30 pontos de dano a ele.",
+            ja: "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、30ダメージ。",
             ko: "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 30데미지를 준다.",
             "zh-tw": "隨機選擇 1 只對手的神奇寶貝。對其造成 30 點傷害。"
         }

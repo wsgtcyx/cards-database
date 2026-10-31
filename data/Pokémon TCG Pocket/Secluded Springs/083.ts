@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/083"
     },
     name: {
         en: "Whitney",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bianka",
         "pt-br": "Whitney",
         "zh-tw": "小茜",
+        ja: "アカネ",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 60 danni da 1 del tuo Miltank e si riprende dallo stato addormentato, paralizzato e confuso.",
         "de": "Heile 60 Schaden von einem deiner Miltanks und er erholt sich aus dem Schlaf, der Lähmung und der Verwirrung.",
         "pt-br": "Cure 60 de dano de 1 de seu Miltank e ele se recupera de Adormecido, Paralisado e Confuso.",
-        "zh-tw": "治療你的 1 個米爾坦克 60 點傷害，並且它會從睡眠、麻痺和混亂狀態中恢復。"
+        "zh-tw": "治療你的 1 個米爾坦克 60 點傷害，並且它會從睡眠、麻痺和混亂狀態中恢復。",
+        ja: "自分の「ミルタンク」1匹のHPを60回復し、ねむり・マヒ・こんらんもすべて回復。"
     },
     trainerType: "Supporter"
 };

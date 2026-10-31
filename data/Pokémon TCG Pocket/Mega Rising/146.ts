@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/146",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/146"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/146"
     },
     name: {
         en: "Carkol",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wagong",
         "pt-br": "Carkol",
         "zh-tw": "大炭車",
+        ja: "トロッゴン",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Klonkett",
         "pt-br": "Rolycoly",
         "zh-tw": "小炭仔",
+        ja: "タンドン",
     },
     description: {
         en: "Due to the coal tar created inside it, the heap of\ncoal on Carkol's back never falls apart, even\nwhen the Pokémon rolls around at high speeds.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "A causa del catrame di carbone creato al suo interno, il mucchio di\nnemmeno il carbone sulla schiena di Carkol va in pezzi\nquando il Pokémon rotola ad alta velocità.",
         "de": "Aufgrund des darin entstehenden Kohlenteers ist der Haufen von\nDie Kohle auf Carkols Rücken zerfällt nicht einmal\nwenn das Pokémon mit hoher Geschwindigkeit herumrollt.",
         "pt-br": "Devido ao alcatrão de carvão criado no seu interior, a pilha de\no carvão nas costas de Carkol nunca se desfaz, mesmo\nquando o Pokémon rola em alta velocidade.",
-        "zh-tw": "由於其內部產生煤焦油，\n卡科爾背上的煤永遠不會散開，甚至\n當神奇寶貝高速滾動時。"
+        "zh-tw": "由於其內部產生煤焦油，\n卡科爾背上的煤永遠不會散開，甚至\n當神奇寶貝高速滾動時。",
+        ja: "背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Crollo di calore",
                 "de": "Hitzecrash",
                 "pt-br": "Queda de calor",
-                "zh-tw": "熱崩潰"
+                "zh-tw": "熱崩潰",
+                ja: "ヒートスタンプ"
             },
             damage: 50,
             cost: ["Fighting", "Fighting"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/011"
     },
     name: {
         en: "Dartrix",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dartrix",
         de: "Arboretoss",
         'pt-br': "Dartrix",
+        ja: "フクスロー",
         ko: "빼미스로우",
         "zh-tw": "投羽梟",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bauz",
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
+        ja: "モクロー",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È un narciso e ama la pulizia al punto di smettere di\nobbedire se non ci si prende cura di lui come si deve.",
         de: "Es ist selbstverliebt und legt großen Wert auf\nSauberkeit. Wenn man es nicht ordentlich pflegt,\nwidersetzt es sich manchmal sogar Befehlen.",
         'pt-br': "Este Pokémon narcisista é maníaco por limpeza.\nSe não cuidar da sua higiene com muita atenção,\ntalvez ele não obedeça mais a você.",
+        ja: "ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。",
         ko: "나르시스트로 깔끔한 걸 좋아한다.\n자주 관리해 주지 않으면\n말을 안 듣기도 한다.",
         "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你不勤奮地照顧它，它可能會不再聽你的。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ala Tagliente",
                 de: "Rasierflügel",
                 'pt-br': "Asa Cortante",
+                ja: "するどいはね",
                 ko: "날카로운날개",
                 "zh-tw": "剃刀之翼"
             },

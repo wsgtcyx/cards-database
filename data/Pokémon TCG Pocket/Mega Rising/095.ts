@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/095"
     },
     name: {
         en: "Yamper",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voldi",
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
+        ja: "ワンパチ",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon goloso aiuta solo le persone con\nil loro lavoro perché vuole dei dolcetti. Mentre corre,\ncrepita di elettricità.",
         "de": "Dieses gefräßige Pokémon hilft Menschen nur bei\nihre Arbeit, weil sie Leckereien will. Während es läuft,\nes knistert vor Elektrizität.",
         "pt-br": "Este Pokémon guloso só ajuda pessoas com\nseu trabalho porque quer guloseimas. À medida que corre,\nele estala com eletricidade.",
-        "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。"
+        "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。",
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ruggito",
                 "de": "Brüllen",
                 "pt-br": "Rugido",
-                "zh-tw": "吼"
+                "zh-tw": "吼",
+                ja: "ほえる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scambia il Pokémon attivo del tuo avversario nella panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
                 "de": "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
+                "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             }
         }],
     weaknesses: [{

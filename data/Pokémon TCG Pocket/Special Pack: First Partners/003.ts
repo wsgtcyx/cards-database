@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/003",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/003",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/003"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/003"
     },
     name: {
         en: "Squirtle",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Blubber",
                 "pt-br": "Bolha",
                 "zh-tw": "泡沫",
-                ja: "Bubble",
+                ja: "あわ",
                 ko: "Bubble"
             },
             cost: [
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
-                ja: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
             }
         }
@@ -77,7 +78,7 @@ const card: Card = {
         de: "Zieht es seinen langen Hals in seinen Panzer zurück, verspritzt es Wasser mit unbändiger Kraft.",
         "pt-br": "Ao retrair o pescoço longo para dentro de seu casco, lança um jato de água muito poderoso.",
         "zh-tw": "當牠把長長的脖子縮回龜殼裡時，會順勢噴出力道強勁的水柱。",
-        ja: "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        ja: "長い 首を 甲羅のなかに 引っこめるとき 勢いよく 水鉄砲を 発射する。",
         ko: "When it retracts its long neck into its shell, it squirts out water with vigorous force."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/086"
     },
     name: {
         en: "Nosepass",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nosepass",
         de: "Nasgnet",
         'pt-br': "Nosepass",
+        ja: "ノズパス",
         ko: "코코파스",
         "zh-tw": "朝北鼻",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si sposta di 1 cm all'anno, ma quando si trova in difficoltà\nruota su se stesso e in un attimo si nasconde sottoterra.",
         de: "Es bewegt sich nur 1 cm pro Jahr, aber in\nNotlagen bohrt es sich mit seinem Körper\nblitzschnell in den Boden.",
         'pt-br': "Este Pokémon move-se 3 centímetros por ano,\nmas quando está em uma enrascada, gira e perfura o solo\nem questão de segundos.",
+        ja: "１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。",
         ko: "1년에 1cm밖에 움직이지 않지만\n위기에 처하면 회전하여\n순식간에 땅속으로 파고든다.",
         "zh-tw": "它每年移動不到一英寸，但當它遇到堵塞時，它會瞬間旋轉並鑽入地面。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },

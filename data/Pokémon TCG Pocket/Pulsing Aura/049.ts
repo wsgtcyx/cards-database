@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/049",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/049"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/049"
     },
     name: {
         en: "Drizzile",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Molto intelligente ma anche molto pigro, difende la sua casa piazzando trappole.",
         de: "Hochintelligent, aber auch sehr faul, verteidigt er sein Zuhause, indem er Fallen legt.",
         "pt-br": "Altamente inteligente, mas também muito preguiçoso, defende a sua casa armando armadilhas.",
-        "zh-tw": "它非常聰明，但也非常懶惰，透過設置陷阱來保衛自己的家園。"
+        "zh-tw": "它非常聰明，但也非常懶惰，透過設置陷阱來保衛自己的家園。",
+        ja: "面倒くさがりな 性格だが 知能は 高く 罠を 仕掛けて 自分の 棲み処を 守っている。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Tiro rapido",
                 de: "Schneller Schuss",
                 "pt-br": "Tiro Rápido",
-                "zh-tw": "快攻"
+                "zh-tw": "快攻",
+                ja: "はやうち"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi infliggere 20 danni al Pokémon attivo del tuo avversario.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante a sua vez de jogar, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 20 de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這隻寶可夢來進化你的一隻寶可夢時，你可以對對手的活躍寶可夢造成20點傷害。"
+                "zh-tw": "在你的回合中，當你從手牌中使用這隻寶可夢來進化你的一隻寶可夢時，你可以對對手的活躍寶可夢造成20點傷害。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに20ダメージ。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20
         }

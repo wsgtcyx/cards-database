@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/051"
     },
     name: {
         en: "Inkay",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Iscalar",
         "pt-br": "Inkay",
         "zh-tw": "好啦魷",
+        ja: "マーイーカ",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Gira facendo lampeggiare i suoi punti luminescenti.\nQuesti punti gli permettono di comunicare con gli altri\nutilizzando diversi modelli di luce.",
         "de": "Es dreht sich und lässt seine Leuchtpunkte blinken.\nDiese Stellen ermöglichen es ihm, mit anderen zu kommunizieren\ndurch die Verwendung verschiedener Lichtmuster.",
         "pt-br": "Ele gira enquanto faz seus pontos luminescentes piscarem.\nEsses pontos permitem que ele se comunique com outras pessoas\nusando diferentes padrões de luz.",
-        "zh-tw": "它一邊旋轉，一邊讓發光點閃爍。\n這些點可以讓它與其他人交流\n通過使用不同的光圖案。"
+        "zh-tw": "它一邊旋轉，一邊讓發光點閃爍。\n這些點可以讓它與其他人交流\n通過使用不同的光圖案。",
+        ja: "回転しながら 発光体を 点滅。 光の パターンで 仲間と コミュニケーションする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Darkness"]

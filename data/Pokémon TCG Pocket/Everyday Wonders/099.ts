@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/099",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/099"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/099"
     },
     name: {
         en: "Ditto",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Può ricombinare a piacere la propria struttura\ncellulare per trasformarsi in altri esseri viventi.",
         de: "Es kann seine eigene Zellstruktur frei zusammensetzen\nund sich in jede andere Lebensform verwandeln.",
         "pt-br": "Ele pode recombinar livremente sua própria estrutura celular para se transformar em outras formas de vida.",
-        "zh-tw": "它可以自由重組自身的細胞結構，轉化為其他生命形式。"
+        "zh-tw": "它可以自由重組自身的細胞結構，轉化為其他生命形式。",
+        ja: "体の 細胞の 作りを 自分で 組み替えて ほかの 生命体に 変身する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Copiamico",
                 de: "Freund imitieren",
                 "pt-br": "Copiar um Amigo",
-                "zh-tw": "朋友複製"
+                "zh-tw": "朋友複製",
+                ja: "ともだちコピー"
             },
             effect: {
                 en: "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scegli 1 degli attacchi dei tuoi Pokémon in panchina, eccetto qualsiasi Pokémon ex, e usalo come questo attacco. Se questo Pokémon non ha l'Energia necessaria per usare quell'attacco, questo attacco non ha alcun effetto.",
                 de: "Wähle 1 Angriff deines Bank-Pokémon, außer einem beliebigen Pokémon-Ex, und verwende es als diesen Angriff. Wenn dieses Pokémon nicht über die nötige Energie verfügt, um diesen Angriff auszuführen, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Escolha 1 dos ataques do seu Pokémon no Banco, exceto qualquer Pokémon ex, e use-o como este ataque. Se este Pokémon não tiver a Energia necessária para usar aquele ataque, este ataque não fará nada.",
-                "zh-tw": "選擇你後備寶可夢的 1 個攻擊（除了任何前寶可夢），並將其用作此攻擊。如果該寶可夢沒有使用該攻擊所需的能量，則該攻擊不會執行任何操作。"
+                "zh-tw": "選擇你後備寶可夢的 1 個攻擊（除了任何前寶可夢），並將其用作此攻擊。如果該寶可夢沒有使用該攻擊所需的能量，則該攻擊不會執行任何操作。",
+                ja: "自分のベンチポケモン(「ポケモンex」をのぞく)が持つワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。"
             }
         }
     ],

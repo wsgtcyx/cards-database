@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/059",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/059",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/059"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/059"
     },
     name: {
         en: "Magikarp",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Die urzeitlichen Vorfahren dieses Pokémon waren etwas stärker als ihre heutigen, kümmerlichen Nachkommen.",
         "pt-br": "No passado distante, era um pouco mais forte que os descendentes terrivelmente fracos que existem hoje.",
         "zh-tw": "很久以前的鯉魚王好像比現在強上一些，但是現在卻弱得可憐。",
-        ja: "In the distant past, it was somewhat stronger than\nthe horribly weak descendants that exist today.",
+        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。",
         ko: "In the distant past, it was somewhat stronger than\nthe horribly weak descendants that exist today."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Kaskadenentwicklung",
                 "pt-br": "Cachoeira de Evolução",
                 "zh-tw": "攀瀑進化",
-                ja: "Waterfall Evolution",
+                ja: "たきのぼりしんか",
                 ko: "Waterfall Evolution"
             },
             cost: [
@@ -68,7 +69,7 @@ const card: Card = {
                 de: "Lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es zu entwickeln.",
                 "pt-br": "Coloque uma carta aleatória do seu baralho que evolua deste Pokémon sobre este Pokémon para evoluí-lo.",
                 "zh-tw": "從自己的牌庫隨機將1張從這隻寶可夢進化而來的卡,放置於這隻寶可夢身上完成進化。",
-                ja: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
+                ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
                 ko: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
             }
         }

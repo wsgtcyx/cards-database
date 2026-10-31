@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/397",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/397",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/397",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/397"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/397",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/397"
     },
     name: {
         en: "Mesagoza",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Einmal während des Zuges jedes Spielers kann jener Spieler 1 Münze werfen. Bei Kopf nimmt jener Spieler 1 zufälliges Pokémon aus seinem Deck auf seine Hand.",
         "pt-br": "Uma vez durante o turno de cada jogador, aquele jogador poderá jogar uma moeda. Se sair cara, aquele jogador colocará Pokémon aleatório do próprio baralho na própria mão.",
         "zh-tw": "雙方玩家在自己的回合時,可使用1次。擲1次硬幣若為正面,則從自己的牌庫隨機將張寶可夢卡加入手牌。",
-        ja: "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに枚、手札に加える。",
         ko: "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand."
     },
     trainerType: "Stadium"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/131",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/131"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/131"
     },
     name: {
         en: "Lugia",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Lugia",
         "de": "Lugia",
         "pt-br": "Lugia",
-        "zh-tw": "洛奇亞"
+        "zh-tw": "洛奇亞",
+        ja: "ルギア"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che sia il guardiano dei mari. Lo è\nsi dice che sia stato visto durante la notte di un temporale.",
         "de": "Es gilt als Wächter der Meere. Es ist\nGerüchten zufolge wurde er in der Nacht eines Sturms gesehen.",
         "pt-br": "Diz-se que é o guardião dos mares. É\nhá rumores de ter sido visto na noite de uma tempestade.",
-        "zh-tw": "據說它是海洋的守護者。它是\n據傳在暴風雨之夜有人看到過。"
+        "zh-tw": "據說它是海洋的守護者。它是\n據傳在暴風雨之夜有人看到過。",
+        ja: "海の神様と 伝えられる ポケモン。 嵐の 夜 姿を 見たという 話が 伝えられる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Aeroblast",
                 "de": "Aeroblast",
                 "pt-br": "Aeroblasto",
-                "zh-tw": "氣爆"
+                "zh-tw": "氣爆",
+                ja: "エアロブラスト"
             },
             damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 40 danni in più per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 40 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 40 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點額外傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點額外傷害。",
+                ja: "コインを2回投げ、オモテの数×40ダメージ追加。"
             }
         }],
     weaknesses: [{

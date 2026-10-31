@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/106"
     },
     name: {
         en: "Jirachi",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Jirachi",
         "pt-br": "Jirachi",
         "zh-tw": "基拉祈",
+        ja: "ジラーチ",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che abbia la capacità di esaudire qualsiasi desiderio\nsolo una settimana ogni mille anni.",
         "de": "Ihm wird die Fähigkeit nachgesagt, jeden Wunsch zu erfüllen\nnur eine Woche alle tausend Jahre.",
         "pt-br": "Diz-se que tem a capacidade de realizar qualquer desejo de\napenas uma semana a cada mil anos.",
-        "zh-tw": "據說有能力實現任何願望\n每千年只有一周。"
+        "zh-tw": "據說有能力實現任何願望\n每千年只有一周。",
+        ja: "１０００年間で ７日だけ 目を 覚まし どんな 願い事でも かなえる 力を 使うという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Caduta di stelle",
                 "de": "Sternentropfen",
                 "pt-br": "Gota de estrela",
-                "zh-tw": "星星掉落"
+                "zh-tw": "星星掉落",
+                ja: "ほしおとし"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。",
+                ja: "相手のポケモン1匹に30ダメージ。"
             }
         }],
     weaknesses: [{

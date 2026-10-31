@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/042"
     },
     name: {
         en: "Riolu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Riolu",
         de: "Riolu",
         'pt-br': "Riolu",
+        ja: "リオル",
         ko: "리오르",
         "zh-tw": "利歐路"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Comunica con i suoi simili tramite l'aura.\nPuò correre un'intera notte senza stancarsi.",
         de: "Dieses Pokémon nutzt seine Aura, um mit seinen\nArtgenossen zu kommunizieren. Es kann eine\nganze Nacht lang laufen.",
         'pt-br': "Eles comunicam-se uns com os outros usando suas auras.\nSão capazes de correr a noite inteira.",
+        ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。",
         ko: "파동을 내서\n동료끼리 의사소통을 한다.\n밤새도록 계속 달릴 수 있다.",
         "zh-tw": "他們利用自己的氣場相互交流。他們能夠整夜奔跑。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Pugno",
             de: "Boxhieb",
             'pt-br': "Soco",
+            ja: "パンチ",
             ko: "펀치",
             "zh-tw": "沖床"
         },

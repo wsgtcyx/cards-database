@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/109"
     },
     name: {
         en: "Chingling",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Klingplim",
         "pt-br": "Chingling",
         "zh-tw": "鈴鐺響",
+        ja: "リーシャン",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "C'è una sfera nella sua bocca. Quando salta,\nla sfera rimbalza dappertutto e fa a\nsuono squillante.",
         "de": "In seinem Mund befindet sich eine Kugel. Wenn es hüpft,\nDie Kugel springt überall herum und macht ein\nKlingelton.",
         "pt-br": "Há um orbe dentro de sua boca. Quando ele pula,\no orbe salta por todo lado e faz um\nsom de toque.",
-        "zh-tw": "它的嘴裡有一個球體。當它跳躍時，\n球體到處彈跳並形成一個\n鈴聲響起。"
+        "zh-tw": "它的嘴裡有一個球體。當它跳躍時，\n球體到處彈跳並形成一個\n鈴聲響起。",
+        ja: "飛び跳ねると 口の中にある 玉が あちこちに 反射して 鈴のような 音色と なる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rumore tintinnante",
                 "de": "Klirrendes Geräusch",
                 "pt-br": "Barulho tinido",
-                "zh-tw": "叮噹噪音"
+                "zh-tw": "叮噹噪音",
+                ja: "しゃんしゃんノイズ"
             },
             damage: 10,
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questi non potrà giocare alcuna carta Oggetto dalla sua mano.",
                 "de": "Während des nächsten Zuges deines Gegners kann er keine Gegenstandskarten aus seiner Hand spielen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da sua mão.",
-                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。"
+                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。",
+                ja: "次の相手の番、相手は手札からグッズを出して使えない。"
             }
         }],
     retreat: 0

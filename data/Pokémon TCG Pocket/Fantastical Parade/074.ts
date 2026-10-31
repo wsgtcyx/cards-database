@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/074"
     },
     name: {
         en: "Sinistea",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sinistea",
         "de": "Fatalitee",
         "pt-br": "Sinistea",
-        "zh-tw": "來悲茶"
+        "zh-tw": "來悲茶",
+        ja: "ヤバチャ"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sinistea entra nel tuo corpo quando lo bevi,\ne poi ti ruba la vitalità dall'interno. Anche\nha un sapore terribile.",
         "de": "Sinistea gelangt in Ihren Körper, wenn Sie es trinken.\nund dann stiehlt es dir deine innere Vitalität. Es auch\nschmeckt schrecklich.",
         "pt-br": "Sinistea entra em seu corpo quando você bebe,\ne então rouba sua vitalidade de dentro. Também\ntem um gosto horrível.",
-        "zh-tw": "當你喝下 Sinistea 時，它就會進入你的身體，\n然後它會從內部竊取你的活力。它還\n味道很糟糕。"
+        "zh-tw": "當你喝下 Sinistea 時，它就會進入你的身體，\n然後它會從內部竊取你的活力。它還\n味道很糟糕。",
+        ja: "飲まれることで 体に 入り込み 内側から 生体エネルギーを 奪うのだ。 その味は 不味い。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Nascondino",
                 "de": "Verstecken",
                 "pt-br": "Esconder",
-                "zh-tw": "隱藏"
+                "zh-tw": "隱藏",
+                ja: "かくれる"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     weaknesses: [{

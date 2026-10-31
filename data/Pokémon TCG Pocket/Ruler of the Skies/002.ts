@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/002",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/002",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/002"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/002"
     },
     name: {
         en: "Silcoon",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Beve la rugiada che si posa sulla seta e aspetta\nl’evoluzione. Il suo bozzolo duro respinge gli attacchi.",
         de: "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es.",
         "pt-br": "Ele bebe a umidade que coleta em sua seda e aguarda para evoluir. Seu casulo duro repele ataques.",
-        "zh-tw": "會喝絲線上掛著的朝露，\n持續等待進化的時刻來臨。\n堅硬的繭能夠防禦攻擊。"
+        "zh-tw": "會喝絲線上掛著的朝露，\n持續等待進化的時刻來臨。\n堅硬的繭能夠防禦攻擊。",
+        ja: "糸に ついた 朝露を 飲んで 進化の ときを 待ち続ける。 硬い 繭が 攻撃を 防ぐ。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Colecionador de Casulos",
                 "zh-tw": "繭聚一堂",
                 "it": "Collezionista di Crisalidi",
-                "de": "Kokonsammler"
+                "de": "Kokonsammler",
+                ja: "まゆがあつまる"
             },
             effect: {
                 en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Coloque 3 cartas aleatórias dentre Silcoon e Cascoon do seu baralho no seu Banco.",
                 "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。",
                 "it": "Prendi 3 Pokémon a caso tra Silcoon e Cascoon dal tuo mazzo e mettili nella tua panchina.",
-                "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank."
+                "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank.",
+                ja: "自分の山札から「カラサリス」または「マユルド」をランダムに3枚、ベンチに出す。"
             }
         }
     ],

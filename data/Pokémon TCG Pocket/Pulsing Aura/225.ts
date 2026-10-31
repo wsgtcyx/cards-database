@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/225",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/225",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/225",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/225"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/225",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/225"
     },
     name: {
         en: "Whimsicott ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Laccioerboso",
                 de: "Strauchler",
                 "pt-br": "Nó de Grama",
-                "zh-tw": "打草結"
+                "zh-tw": "打草結",
+                ja: "くさむすび"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia nel costo di ritirata del Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
             },
             damage: "40+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/029",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/029",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/029"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/029"
     },
     name: {
         en: "Darumaka",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando dorme è impossibile buttarlo giù,\nper quanto lo si spinga. I portafortuna che\nlo rappresentano sono molto popolari.",
         de: "Während es schläft, lässt es sich nicht mal mit\nGewalt umstoßen. Aus diesem Grund ist es ein\nbeliebtes Motiv für Glücksbringer.",
         "pt-br": "Este popular símbolo de boa sorte nunca cairá durante o sono, não importa como seja empurrado ou puxado.",
-        "zh-tw": "在牠睡覺的時候，\n無論是推是拉，牠都不會倒下。\n因為象徵著吉利而大受歡迎。"
+        "zh-tw": "在牠睡覺的時候，\n無論是推是拉，牠都不會倒下。\n因為象徵著吉利而大受歡迎。",
+        ja: "寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭錘"
+                "zh-tw": "頭錘",
+                ja: "ずつき"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/038"
     },
     name: {
         en: "Alolan Persian",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Snobilikat",
         "pt-br": "Persian de Alola",
         "zh-tw": "阿羅拉貓老大",
+        ja: "アローラペルシアン",
     },
     illustrator: "ryoma uratsuka",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
+        ja: "アローラニャース",
     },
     description: {
         en: "The round face of Alolan Persian is considered\nto be a symbol of prosperity in the Alola region,\nso these Pokémon are very well cared for.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Viene considerata la faccia rotonda del persiano di Alola\nessere un simbolo di prosperità nella regione di Alola,\nquindi questi Pokémon sono molto ben curati.",
         "de": "Das runde Gesicht des Alola-Perser wird berücksichtigt\nein Symbol des Wohlstands in der Alola-Region zu sein,\nDaher sind diese Pokémon sehr gut aufgehoben.",
         "pt-br": "A face redonda do Alolan Persian é considerada\nser um símbolo de prosperidade na região de Alola,\nentão esses Pokémon são muito bem cuidados.",
-        "zh-tw": "阿羅拉波斯人的圓臉被認為是\n成為阿羅拉地區繁榮的象徵，\n所以這些神奇寶貝都得到了很好的照顧。"
+        "zh-tw": "阿羅拉波斯人的圓臉被認為是\n成為阿羅拉地區繁榮的象徵，\n所以這些神奇寶貝都得到了很好的照顧。",
+        ja: "アローラ地方では まるい 顔は 富の 象徴と 考えて ペルシアンを 大切に あつかう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Falso",
                 "de": "Fake-Out",
                 "pt-br": "Falsificação",
-                "zh-tw": "假出"
+                "zh-tw": "假出",
+                ja: "ねこだまし"
             },
             damage: 50,
             cost: ["Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

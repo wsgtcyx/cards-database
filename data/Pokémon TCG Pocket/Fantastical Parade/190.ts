@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/190",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/190"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/190",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/190"
     },
     name: {
         en: "Diantha",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Diantha",
         "de": "Diantha",
         "pt-br": "Diantha",
-        "zh-tw": "卡露妮"
+        "zh-tw": "卡露妮",
+        ja: "カルネ"
     },
     illustrator: "saino misaki",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 90 danni da 1 dei tuoi Pokémon {P} a cui sono assegnate 2 o più Energie {P}. Se hai curato qualsiasi danno in questo modo, scarta 2 Energie {P} da quel Pokémon.",
         "de": "Heile 90 Schaden von 1 deiner {P}-Pokémon, an das 2 oder mehr {P}-Energien angelegt sind. Wenn du auf diese Weise Schaden geheilt hast, wirf 2 {P}-Energie von diesem Pokémon ab.",
         "pt-br": "Cure 90 de dano de 1 dos seus Pokémon {P} que tenha 2 ou mais Energias {P} anexadas. Se você curou algum dano dessa forma, descarte 2 {P} Energias desse Pokémon.",
-        "zh-tw": "你的 1 只附加有 2 個或更多 {P} 能量的 {P} 神奇寶貝可治療 90 點傷害。如果你以這種方式治癒了任何傷害，則丟棄該神奇寶貝的 2 個 {P} 能量。"
+        "zh-tw": "你的 1 只附加有 2 個或更多 {P} 能量的 {P} 神奇寶貝可治療 90 點傷害。如果你以這種方式治癒了任何傷害，則丟棄該神奇寶貝的 2 個 {P} 能量。",
+        ja: "{P}エネルギーが2個以上ついている自分の{P}ポケモン1匹のHPを90回復。その後、そのポケモンから{P}エネルギーを2個トラッシュ。"
     },
     trainerType: "Supporter"
 };

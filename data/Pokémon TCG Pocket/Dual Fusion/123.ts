@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/123",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/123",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/123",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/123"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/123"
     },
     name: {
         en: "Eviolite",
@@ -39,7 +40,7 @@ const card: Card = {
         "zh-tw": "附有這張卡的基礎寶可夢受到對手的寶可夢招式的傷害-20點。",
         it: "Il Pokémon Base a cui è assegnata questa carta subisce -20 danni dagli attacchi dei Pokémon avversari.",
         de: "Dem Basis-Pokémon, an das diese Karte angelegt ist, werden − 20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt.",
-        ja: "The Basic Pokémon this card is attached to takes −20 damage from attacks from your opponent's Pokémon.",
+        ja: "このカードをつけているたねポケモンが、相手のポケモンから受けるワザのダメージを-20する。",
         ko: "The Basic Pokémon this card is attached to takes −20 damage from attacks from your opponent's Pokémon."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/168",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/168",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/168",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/168"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/168",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/168"
     },
     name: {
         en: "Durant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fermicula",
         "pt-br": "Durant",
         "zh-tw": "鐵蟻",
+        ja: "アイアント",
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Depongono le uova nelle profondità dei loro nidi.\nQuando vengono attaccati da Heatmor, reagiscono\nusando le loro massicce mandibole.",
         "de": "Sie legen ihre Eier tief in ihre Nester.\nWenn sie von Heatmor angegriffen werden, schlagen sie zurück\nmit ihren massiven Mandibeln.",
         "pt-br": "Eles colocam seus ovos bem no fundo de seus ninhos.\nQuando atacados por Heatmor, eles retaliam\nusando suas enormes mandíbulas.",
-        "zh-tw": "它們將卵產在巢穴深處。\n當受到 Heatmor 攻擊時，他們會進行報復\n使用它們巨大的下頜骨。"
+        "zh-tw": "它們將卵產在巢穴深處。\n當受到 Heatmor 攻擊時，他們會進行報復\n使用它們巨大的下頜骨。",
+        ja: "巣の 奥深くに タマゴを 産む。 クイタランに 襲われると 大きな 顎で 噛みついて 反撃。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Mordere insieme",
                 "de": "Aufeinander beißen",
                 "pt-br": "Morda Juntos",
-                "zh-tw": "一起咬"
+                "zh-tw": "一起咬",
+                ja: "いっしょにかむ"
             },
             damage: "40+",
             cost: ["Metal", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se Durant è nella tua panchina, questo attacco infligge 40 danni in più.",
                 "de": "Wenn Durant auf deiner Bank sitzt, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se Durant estiver no seu banco, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果杜蘭特在你的替補席上，這次攻擊會造成 40 點額外傷害。"
+                "zh-tw": "如果杜蘭特在你的替補席上，這次攻擊會造成 40 點額外傷害。",
+                ja: "自分のベンチに「アイアント」がいるなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

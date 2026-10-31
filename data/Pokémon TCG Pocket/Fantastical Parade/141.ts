@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/141"
     },
     name: {
         en: "Furfrou",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Furfrou",
         "de": "Coiffwaff",
         "pt-br": "Furfrou",
-        "zh-tw": "多麗米亞"
+        "zh-tw": "多麗米亞",
+        ja: "トリミアン"
     },
     illustrator: "Kariya",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Lasciato solo, la sua pelliccia crescerà sempre più a lungo,\nma consentirà solo a qualcuno di cui si fida di tagliarlo.",
         "de": "Wenn man es in Ruhe lässt, wird sein Fell immer länger,\nAber es erlaubt nur jemandem, dem es vertraut, es zu schneiden.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais,\nmas só permitirá que alguém em quem confie o corte.",
-        "zh-tw": "放任不管，它的皮毛會越來越長，\n但它只允許它信任的人來切割它。"
+        "zh-tw": "放任不管，它的皮毛會越來越長，\n但它只允許它信任的人來切割它。",
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Cappotto di pelliccia",
                 "de": "Pelzmantel",
                 "pt-br": "Casaco de pele",
-                "zh-tw": "毛皮大衣"
+                "zh-tw": "毛皮大衣",
+                ja: "ファーコート"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Dieses Pokémon erleidet −20 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -20 de dano de ataques.",
-                "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。"
+                "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。",
+                ja: "このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Martella dentro",
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
-                "zh-tw": "錘入"
+                "zh-tw": "錘入",
+                ja: "ぶちかます"
             },
             damage: 70,
             cost: ["Colorless", "Colorless", "Colorless"]

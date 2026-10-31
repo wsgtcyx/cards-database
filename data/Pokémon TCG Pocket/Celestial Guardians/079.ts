@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/079",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/079"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/079"
     },
     name: {
         en: "Ribombee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ribombee",
         de: "Bandelby",
         'pt-br': "Ribombee",
+        ja: "アブリボン",
         ko: "에리본",
         "zh-tw": "蝶結萌虻",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Wommel",
         "pt-br": "Cutiefly",
         "zh-tw": "萌虻",
+        ja: "アブリー",
     },
     description: {
         en: "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Crea delle sfere di polline e nettare che hanno effetti\ndiversi a seconda degli ingredienti usati e della loro quantità.",
         de: "Es rollt Blütenstaub und Honig zu Kugeln. Je nach\nZutaten und Menge, die es hineinmischt, weisen sie\neine andere Wirkung auf.",
         'pt-br': "Faz bolas de pólen só de pólen e néctar.\nOs efeitos destas bolas dependem do tipo\ne quantidade de ingredientes usados.",
+        ja: "花粉と 蜜を 混ぜて 団子を つくる。 調合する 種類や 量に よって 効果が 違う。",
         ko: "꽃가루와 꿀을 섞어서 경단을\n만든다. 조합하는 종류와\n양에 따라 효과가 달라진다.",
         "zh-tw": "它用花粉和花蜜製成花粉泡。泡芙的效果取決於成分的類型以及每種成分的用量。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Vento di Fata",
                 de: "Feenbrise",
                 'pt-br': "Vento de Fada",
+                ja: "ようせいのかぜ",
                 ko: "요정의바람",
                 "zh-tw": "仙風"
             },

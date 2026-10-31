@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/186",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/186"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/186"
     },
     name: {
         en: "Ambipom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ambidiffel",
         "pt-br": "Ambipom",
         "zh-tw": "雙尾怪手",
+        ja: "エテボース",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usa la coda per tutto. Se avvolge entrambi\ndelle sue code intorno a te e ti stringe,\nquesta è la prova che gli piaci davvero.",
         "de": "Es nutzt seinen Schwanz für alles. Wenn es beides umhüllt\nseiner Schwänze um dich herum und drückt dich,\nDas ist der Beweis, dass es dich wirklich mag.",
         "pt-br": "Ele usa a cauda para tudo. Se envolver ambos\nde suas caudas ao seu redor e lhe dá um aperto,\nisso é prova de que ele realmente gosta de você.",
-        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。"
+        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。",
+        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Coda emozionante",
                 "de": "Aufgeregter Schwanz",
                 "pt-br": "Cauda Animada",
-                "zh-tw": "興奮的尾巴"
+                "zh-tw": "興奮的尾巴",
+                ja: "エキサイトテール"
             },
             damage: "30×",
             cost: ["Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa. Se questo Pokémon ha Guanti Portafortuna assegnati, lancia invece 4 monete.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf. Wenn an diesem Pokémon Glücksfäustlinge angebracht sind, wirf stattdessen 4 Münzen.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça. Se este Pokémon tiver Lucky Mittens anexado, jogue 4 moedas.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。如果這只神奇寶貝附有幸運手套，則拋擲 4 個硬幣。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。如果這只神奇寶貝附有幸運手套，則拋擲 4 個硬幣。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。このポケモンに「ラッキーミトン」がついているなら、このワザで投げるコインの数は4回になる。"
             }
         }],
     weaknesses: [{

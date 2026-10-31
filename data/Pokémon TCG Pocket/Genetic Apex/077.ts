@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/077"
     },
     name: {
         en: "Magikarp",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magikarp",
         de: "Karpador",
         'pt-br': "Magikarp",
+        ja: "コイキング",
         ko: "잉어킹",
         "zh-tw": "鯉魚王"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Splash",
                 de: "Platscher",
                 'pt-br': "Borrifada",
+                ja: "はねる",
                 ko: "튀어오르기",
                 "zh-tw": "濺"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Un Pokémon debole e patetico. Nelle rare\noccasioni in cui spicca alti salti, non riesce\ncomunque a raggiungere i due metri.",
         de: "Ein schwaches und jämmerliches Pokémon.\nManchmal gelingen ihm hohe Sprünge,\naber über 2 m kommt es selten hinaus.",
         'pt-br': "Este Pokémon é patético e nem um pouco\npoderoso. Às vezes, até pula bem alto,\nmas nunca mais de dois metros.",
+        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。",
         ko: "힘없는 한심한 포켓몬이다.\n가끔 높이 뛰어오르지만\n2m를 겨우 넘기는 게 고작이다.",
         "zh-tw": "力量不足、可憐的神奇寶貝。在極少數情況下，它可能會跳得很高，但永遠不會超過七英尺。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/066"
     },
     name: {
         en: "Tirtouga",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Galapaflos",
         "pt-br": "Tirtouga",
         "zh-tw": "原蓋海龜",
+        ja: "プロトーガ",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schildfossil",
         "pt-br": "Fóssil Casca",
         "zh-tw": "背蓋化石",
+        ja: "ふたの化石",
     },
     description: {
         en: "Tirtouga is considered to be the ancestor of\nmany turtle Pokémon. It was restored to life\nfrom a fossil.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Tirtouga è considerato l'antenato di\nmolti Pokémon tartaruga. È stato riportato in vita\nda un fossile.",
         "de": "Tirtouga gilt als der Vorfahre von\nviele Schildkröten-Pokémon. Es wurde wieder zum Leben erweckt\naus einem Fossil.",
         "pt-br": "Tirtouga é considerado o ancestral de\nmuitos Pokémon tartaruga. Foi restaurado à vida\nde um fóssil.",
-        "zh-tw": "蒂爾圖加 (Tirtouga) 被認為是\n許多烏龜神奇寶貝。它又恢復了生機\n來自化石。"
+        "zh-tw": "蒂爾圖加 (Tirtouga) 被認為是\n許多烏龜神奇寶貝。它又恢復了生機\n來自化石。",
+        ja: "多くの かめポケモンの 先祖と 考えられている ポケモン。 化石から 復元された。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Attacco con proiettili",
                 "de": "Granatenangriff",
                 "pt-br": "Ataque de concha",
-                "zh-tw": "砲彈攻擊"
+                "zh-tw": "砲彈攻擊",
+                ja: "こうらアタック"
             },
             damage: 50,
             cost: ["Water", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/031"
     },
     name: {
         en: "Magcargo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magcargo",
         "pt-br": "Magcargo",
         "zh-tw": "熔岩蝸牛",
+        ja: "マグカルゴ",
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schneckmag",
         "pt-br": "Slugma",
         "zh-tw": "熔岩蟲",
+        ja: "マグマッグ",
     },
     description: {
         en: "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo fragile guscio occasionalmente emette fiamme intense\nche circolano in tutto il suo corpo.",
         "de": "Seine spröde Schale stößt gelegentlich heftige Flammen aus\ndie durch seinen Körper zirkulieren.",
         "pt-br": "Sua casca frágil ocasionalmente emite chamas intensas\nque circulam por todo o seu corpo.",
-        "zh-tw": "它脆弱的外殼偶爾會噴出強烈的火焰\n並在其全身循環。"
+        "zh-tw": "它脆弱的外殼偶爾會噴出強烈的火焰\n並在其全身循環。",
+        ja: "背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fuoco a getto",
                 "de": "Feuerstoß",
                 "pt-br": "Jato de fogo",
-                "zh-tw": "噴火"
+                "zh-tw": "噴火",
+                ja: "ぶちまけファイヤー"
             },
             cost: ["Fire", "Colorless"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "1 altro Pokémon (tuo o del tuo avversario) viene scelto a caso 3 volte. Per ogni volta che viene scelto un Pokémon, infliggigli 50 danni.",
                 "de": "1 anderes Pokémon (entweder deins oder das deines Gegners) wird dreimal zufällig ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 50 Schadenspunkte zu.",
                 "pt-br": "1 outro Pokémon (seu ou do seu oponente) é escolhido aleatoriamente 3 vezes. Para cada vez que um Pokémon for escolhido, cause 50 de dano a ele.",
-                "zh-tw": "隨機選擇 1 個其他神奇寶貝（無論是你的還是你對手的）3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。"
+                "zh-tw": "隨機選擇 1 個其他神奇寶貝（無論是你的還是你對手的）3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。",
+                ja: "このポケモン以外の、おたがいのポケモンがランダムに3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。"
             }
         }],
     weaknesses: [{

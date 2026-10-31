@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/146",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/146",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/146"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/146"
     },
     name: {
         en: "Zoroark ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Zorua",
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
-        ja: "Zorua",
+        ja: "ゾロア",
         ko: "Zorua"
     },
     stage: "Stage1",
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Rabiate Krallen",
                 "pt-br": "Pancada Brutal",
                 "zh-tw": "擊倒在地",
-                ja: "Brutal Bash",
+                ja: "ビートダウン",
                 ko: "Brutal Bash"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes {D}-Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon causa 30 pontos de dano para cada Pokémon {D} no seu Banco.",
                 "zh-tw": "造成自己的備戰區的{D}寶可夢的數量×30點傷害。",
-                ja: "This attack does 30 damage for each of your Benched {D} Pokémon.",
+                ja: "自分のベンチの{D}ポケモンの数×30ダメージ。",
                 ko: "This attack does 30 damage for each of your Benched {D} Pokémon."
             },
             damage: "30x"

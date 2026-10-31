@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/065",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/065"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/065"
     },
     name: {
         en: "Nasty Notice",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Il tuo avversario scarta le carte dalla sua mano finché non ne ha 4 in mano.",
         de: "Dein Gegner wirft Karten aus seiner Hand ab, bis er 4 Karten auf der Hand hat.",
         "pt-br": "Seu oponente descarta cartas da mão dele até ter 4 cartas na mão.",
-        "zh-tw": "你的對手丟棄手上的牌，直到手上有 4 張牌為止。"
+        "zh-tw": "你的對手丟棄手上的牌，直到手上有 4 張牌為止。",
+        ja: "相手は相手自身の手札を、4枚になるようにトラッシュ。"
     },
     trainerType: "Item"
 };

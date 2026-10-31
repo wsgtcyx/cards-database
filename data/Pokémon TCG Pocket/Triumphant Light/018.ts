@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/018"
     },
     name: {
         en: "Snorunt",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Snorunt",
         de: "Schneppke",
         'pt-br': "Snorunt",
+        ja: "ユキワラシ",
         ko: "눈꼬마",
         "zh-tw": "雪童子",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si dice che vivano in armonia riunendosi\nin gruppi all'ombra di enormi foglie.",
         de: "Gerüchten zufolge versammeln sich Schneppke unter\nriesigen Blättern und leben dort friedlich zusammen.",
         'pt-br': "Dizem que vários Snorunt se juntam\nsob folhas gigantes e vivem em harmonia.",
+        ja: "大きな 葉っぱの 下に 数匹の ユキワラシが 集まり 仲良く 暮らしているという。",
         ko: "커다란 잎사귀 아래서\n여러 마리의 눈꼬마가 모여\n사이좋게 살고 있다고 한다.",
         "zh-tw": "據說，幾隻雪諾龍聚集在巨大的樹葉下，和諧地生活在一起。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Stalattite",
                 de: "Eiszapfen",
                 'pt-br': "Pingente de Gelo",
+                ja: "つらら",
                 ko: "고드름",
                 "zh-tw": "冰柱"
             },

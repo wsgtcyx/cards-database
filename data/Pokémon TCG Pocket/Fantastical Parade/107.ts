@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/107",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/107"
     },
     name: {
         en: "Scrafty",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Scrafty",
         "de": "Irokex",
         "pt-br": "Scrafty",
-        "zh-tw": "頭巾混混"
+        "zh-tw": "頭巾混混",
+        ja: "ズルズキン"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scraggy",
         "de": "Zurrokex",
         "pt-br": "Scraggy",
-        "zh-tw": "滑滑小子"
+        "zh-tw": "滑滑小子",
+        ja: "ズルッグ"
     },
     description: {
         en: "This Pokémon may be rude, but it takes very\ngood care of its family, its friends, and its turf.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon può essere scortese, ma ci vuole molto\nbuona cura della sua famiglia, dei suoi amici e del suo territorio.",
         "de": "Dieses Pokémon mag unhöflich sein, aber es braucht sehr viel\ngut für seine Familie, seine Freunde und sein Revier sorgen.",
         "pt-br": "Este Pokémon pode ser rude, mas é preciso muito\ncuidar bem de sua família, de seus amigos e de seu território.",
-        "zh-tw": "這個神奇寶貝可能很粗魯，但它需要非常\n照顧好它的家人、朋友和地盤。"
+        "zh-tw": "這個神奇寶貝可能很粗魯，但它需要非常\n照顧好它的家人、朋友和地盤。",
+        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Schiaccia i deboli",
                 "de": "Zerstöre die Schwachen",
                 "pt-br": "Esmague os fracos",
-                "zh-tw": "碾壓弱者"
+                "zh-tw": "碾壓弱者",
+                ja: "よわきをくじく"
             },
             damage: "50+",
             cost: ["Darkness", "Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha più Energie assegnate rispetto al Pokémon attivo del tuo avversario, questo attacco infligge 50 danni in più.",
                 "de": "Wenn an dieses Pokémon mehr Energie angelegt ist als an das Aktive Pokémon deines Gegners, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver mais Energia ligada do que o Pokémon Ativo do seu oponente, este ataque causará 50 pontos de dano a mais.",
-                "zh-tw": "如果該神奇寶貝所附加的能量比對手的活躍神奇寶貝多，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果該神奇寶貝所附加的能量比對手的活躍神奇寶貝多，則此攻擊造成的傷害增加 50 點。",
+                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

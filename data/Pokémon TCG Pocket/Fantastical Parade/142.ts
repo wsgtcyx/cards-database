@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/142"
     },
     name: {
         en: "Tandemaus",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tandemaus",
         "de": "Zwieps",
         "pt-br": "Tandemaus",
-        "zh-tw": "一對鼠"
+        "zh-tw": "一對鼠",
+        ja: "ワッカネズミ"
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La coppia resta unita, qualunque cosa accada. Loro\ndividere tutto il cibo che trovano esattamente a metà e poi\nmangiatelo insieme.",
         "de": "Das Paar hält zusammen, egal was passiert. Sie\nTeilen Sie alle Lebensmittel, die sie finden, genau in zwei Hälften und dann\ngemeinsam essen.",
         "pt-br": "O par permanece unido, não importa o que aconteça. Eles\ndividir qualquer comida que encontrarem exatamente pela metade e depois\ncomam juntos.",
-        "zh-tw": "無論如何，這一對都會粘在一起。他們\n將他們找到的任何食物精確地分成兩半，然後\n一起吃。"
+        "zh-tw": "無論如何，這一對都會粘在一起。他們\n將他們找到的任何食物精確地分成兩半，然後\n一起吃。",
+        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gregge",
                 "de": "Herde",
                 "pt-br": "Rebanho",
-                "zh-tw": "群"
+                "zh-tw": "群",
+                ja: "むれる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti 3 carte a caso tra Tandemau e Maushold dal tuo mazzo nella tua panchina.",
                 "de": "Lege 3 zufällige Karten aus Tandemaus und Maushold aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 3 cartas aleatórias entre Tandemaus e Maushold do seu baralho no seu Banco.",
-                "zh-tw": "將你牌庫中的坦德莫斯和莫斯霍爾德中的 3 張隨機牌放到你的替補席上。"
+                "zh-tw": "將你牌庫中的坦德莫斯和莫斯霍爾德中的 3 張隨機牌放到你的替補席上。",
+                ja: "自分の山札から「ワッカネズミ」または「イッカネズミ」をランダムに3枚、ベンチに出す。"
             }
         }],
     weaknesses: [{

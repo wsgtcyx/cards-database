@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/215",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/215"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/215"
     },
     name: {
         en: "Hitting Hammer",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schlagender Hammer",
         "pt-br": "Martelo Batedor",
         "zh-tw": "重擊錘",
+        ja: "ヒットハンマー",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Lancia 2 monete. Se esce testa entrambi, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
         "de": "Wirf 2 Münzen. Wenn beide Köpfe sind, wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
         "pt-br": "Jogue 2 moedas. Se ambos derem cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-        "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
+        "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
+        ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
     },
     trainerType: "Item"
 };

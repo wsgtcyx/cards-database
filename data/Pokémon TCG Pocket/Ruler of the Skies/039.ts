@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/039",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/039",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/039"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/039"
     },
     name: {
         en: "Sealeo",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "È solito giocare facendo ruotare sulla punta\ndel naso qualsiasi cosa rotonda gli capiti a tiro,\ncompresi Spheal e Poké Ball.",
         de: "Seejong balanciert gerne Pokébälle, Seemops\nund alles, was sonst noch rund ist, auf seiner\nNasenspitze.",
         "pt-br": "Este Pokémon tem o hábito de girar objetos redondos no nariz, sejam Poké Bolas ou até mesmo um Spheal.",
-        "zh-tw": "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。"
+        "zh-tw": "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。",
+        ja: "タマザラシや モンスターボールなど 丸い ものなら なんでも 鼻の 上で 回してしまう 習性。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Borrifada Congelada",
                 "zh-tw": "結冰飛濺",
                 "it": "Spruzzo Artico",
-                "de": "Frostiger Platscher"
+                "de": "Frostiger Platscher",
+                ja: "ひょうけつスプラッシュ"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 70 more damage.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon {F}, questo attacco infligge 70 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein {F}-Pokémon ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {F}, este ataque causará 70 pontos de dano a mais.",
-                "zh-tw": "若對手的戰鬥寶可夢為{F}寶可夢,則增加70點傷害。"
+                "zh-tw": "若對手的戰鬥寶可夢為{F}寶可夢,則增加70點傷害。",
+                ja: "相手のバトルポケモンが{F}ポケモンなら、70ダメージ追加。"
             },
             damage: "50+"
         }

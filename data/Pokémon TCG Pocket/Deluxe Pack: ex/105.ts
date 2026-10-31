@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/105"
     },
     name: {
         en: "Crawdaunt",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krebutack",
         "pt-br": "Crawdaunt",
         "zh-tw": "鐵螯龍蝦",
+        ja: "シザリガー",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Krebscorps",
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
+        ja: "ヘイガニ",
     },
     description: {
         en: "A rough customer that wildly flails its giant claws.\nIt is said to be extremely hard to raise.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un cliente rude che agita selvaggiamente i suoi artigli giganti.\nSi dice che sia estremamente difficile da allevare.",
         "de": "Ein rauer Kunde, der wild mit seinen riesigen Krallen um sich schlägt.\nEs soll extrem schwierig sein, es aufzubringen.",
         "pt-br": "Um cliente rude que agita descontroladamente suas garras gigantes.\nDiz-se que é extremamente difícil de aumentar.",
-        "zh-tw": "一個粗魯的顧客，瘋狂地揮舞著巨大的爪子。\n據說飼養起來極其困難。"
+        "zh-tw": "一個粗魯的顧客，瘋狂地揮舞著巨大的爪子。\n據說飼養起來極其困難。",
+        ja: "巨大な ハサミを 振りまわす 暴れ者。 育てるのが とても 難しい ポケモンと いわれる。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Artiglio indisciplinato",
                 "de": "Widerspenstige Klaue",
                 "pt-br": "Garra Indisciplinada",
-                "zh-tw": "不羈之爪"
+                "zh-tw": "不羈之爪",
+                ja: "あらぶるハサミ"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may discard a random Energy from your opponent's Active Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi scartare un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du eine zufällige Energie vom Aktiven Pokémon deines Gegners abwerfen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá descartar uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以從對手的活躍神奇寶貝中隨機丟棄一個能量。"
+                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以從對手的活躍神奇寶貝中隨機丟棄一個能量。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Granchio",
                 "de": "Krabbenhammer",
                 "pt-br": "Martelo Caranguejo",
-                "zh-tw": "蟹錘"
+                "zh-tw": "蟹錘",
+                ja: "クラブハンマー"
             },
             damage: 70,
             cost: ["Water", "Water", "Colorless"]

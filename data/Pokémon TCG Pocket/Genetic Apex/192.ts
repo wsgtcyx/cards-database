@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/192",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/192",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/192"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/192",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/192"
     },
     name: {
         en: "Fearow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Fearow",
         de: "Ibitak",
         'pt-br': "Fearow",
+        ja: "オニドリル",
         ko: "깨비드릴조",
         "zh-tw": "大嘴雀",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Spearow",
         "de": "Habitak",
         "pt-br": "Spearow",
-        "zh-tw": "烈雀"
+        "zh-tw": "烈雀",
+        ja: "オニスズメ"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Giravvita",
                 de: "Schlagbohrer",
                 'pt-br': "Furação",
+                ja: "ドリルライナー",
                 ko: "드릴라이너",
                 "zh-tw": "演練"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Chi attraversa il suo territorio portando\ncon sé del cibo corre il rischio di vederselo\nstrappare via in men che non si dica.",
         de: "Wer Essbares dabeihat, sollte sich nicht in\nIbitaks Revier begeben, da sonst ein Überfall\naus heiterem Himmel droht.",
         'pt-br': "Transportar alimento através do território\nde Fearow é perigoso, porque este Pokémon\nroubará a comida em um instante!",
+        ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。",
         ko: "깨비드릴조 영역에서 음식을\n갖고 다니는 것은 위험하다.\n순식간에 빼앗긴다.",
         "zh-tw": "通過費羅領地運送食物是很危險的。它會瞬間把你的食物搶走！"
     },

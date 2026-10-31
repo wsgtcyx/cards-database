@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/107",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/107",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/107"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/107"
     },
     name: {
         en: "Mimikyu ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Fantasmanto",
                 de: "Kostümspuk",
                 "pt-br": "Disfarce",
-                "zh-tw": "畫皮"
+                "zh-tw": "畫皮",
+                ja: "ばけのかわ"
             },
             effect: {
                 en: "When this Pokémon is first damaged by an attack after coming into play, prevent that damage.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Previeni i danni dal primo attacco subito da questo Pokémon dopo che è entrato in gioco.",
                 de: "Wenn diesem Pokémon zum ersten Mal Schaden durch eine Attacke zugefügt wird, nachdem es ins Spiel gebracht wurde, verhindere jenen Schaden.",
                 "pt-br": "Quando este Pokémon for danificado por um ataque pela primeira vez após entrar em jogo, previna aquele dano.",
-                "zh-tw": "這隻寶可夢被放置於場上後,首次受到招式的傷害時,不會受到該傷害。"
+                "zh-tw": "這隻寶可夢被放置於場上後,首次受到招式的傷害時,不會受到該傷害。",
+                ja: "このポケモンが場に出てから、はじめてワザのダメージを受けるとき、そのダメージを受けない。"
             }
         }
     ],
@@ -63,7 +66,8 @@ const card: Card = {
                 it: "Lacerartiglio",
                 de: "Klauenschlitzer",
                 "pt-br": "Golpe de Garra",
-                "zh-tw": "利爪劈擊"
+                "zh-tw": "利爪劈擊",
+                ja: "ツメできりさく"
             },
             damage: 70
         }

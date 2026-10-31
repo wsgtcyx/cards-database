@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/044"
     },
     name: {
         en: "Flamigo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Flamigo",
         de: "Flaminkno",
         'pt-br': "Flamigo",
+        ja: "カラミンゴ",
         ko: "꼬이밍고",
         "zh-tw": "纏紅鶴"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sembra che il nodo che fa alla base del collo\nserva a evitare che l'energia accumulata\nnel suo stomaco fuoriesca dal becco.",
         de: "Dieses Pokémon verknotet offenbar seinen Hals\nam Ansatz, damit die im Bauch gespeicherte Energie\nnicht über den Schnabel entweicht.",
         'pt-br': "Pelo visto, este Pokémon amarra a base de seu pescoço\nem um nó para que a energia armazenada\nem sua barriga não escape pelo bico.",
+        ja: "お腹に 溜めた エネルギーが くちばしから 漏れないように 首を 根元で 結んでいるらしい。",
         ko: "배에 비축해 둔 에너지가\n부리를 통해 새어 나오지 않게 하기 위해\n목 아래쪽을 꼬아 놓은 듯하다.",
         "zh-tw": "這只神奇寶貝顯然將它的脖子根部打成一個結，這樣儲存在腹部的能量就不會從它的喙中逸出。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Doppiocalcio",
             de: "Doppelkick",
             'pt-br': "Chute Duplo",
+            ja: "にどげり",
             ko: "두번차기",
             "zh-tw": "雙踢"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Lancia 2 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
             de: "Wirf 2 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
             'pt-br': "Jogue 2 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+            ja: "コインを2回投げ、オモテの数×50ダメージ。",
             ko: "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다.",
             "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
         }

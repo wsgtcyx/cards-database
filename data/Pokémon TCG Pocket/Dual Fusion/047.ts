@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/047",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/047",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/047"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/047"
     },
     name: {
         en: "Zeraora",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Donnerblitz",
                 "pt-br": "Relâmpago",
                 "zh-tw": "十萬伏特",
-                ja: "Thunderbolt",
+                ja: "10まんボルト",
                 ko: "Thunderbolt"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Lege alle Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的能量全部丟棄。",
-                ja: "Discard all Energy from this Pokémon.",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
                 ko: "Discard all Energy from this Pokémon."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Mit seinen elektrisierten Krallen reißt es Gegner in Stücke. Selbst wenn sie ausweichen, werden sie von elektrisch geladenen Funken getroffen.",
         "pt-br": "Eletrifica suas garras e despedaça seus oponentes. Mesmo que seus oponentes desviem, eles serão eletrocutados pelas centelhas no ar.",
         "zh-tw": "會讓雙手雙腳的爪子帶電，然後將對手撕裂。就算躲開，也會用飛散的電擊讓對手觸電。",
-        ja: "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
+        ja: "両手足の ツメを 帯電させ 相手を 八つ裂き。 かわされても 飛び散る 電撃で 感電させる。",
         ko: "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks."
     }
 };

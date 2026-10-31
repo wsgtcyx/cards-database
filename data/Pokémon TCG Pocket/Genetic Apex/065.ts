@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/065"
     },
     name: {
         en: "Dewgong",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dewgong",
         de: "Jugong",
         'pt-br': "Dewgong",
+        ja: "ジュゴン",
         ko: "쥬레곤",
         "zh-tw": "白海獅",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Seel",
         "de": "Jurob",
         "pt-br": "Seel",
-        "zh-tw": "小海獅"
+        "zh-tw": "小海獅",
+        ja: "パウワウ"
     },
     attacks: [{
             cost: ["Water", "Water", "Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 'pt-br': "Surfar",
+                ja: "なみのり",
                 ko: "파도타기",
                 "zh-tw": "衝浪"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Dopo mangiato prende il sole sulla spiaggia\nper far aumentare la sua temperatura\ncorporea e favorire la digestione.",
         de: "Nach einer Mahlzeit genießt es ein Sonnenbad\nam Strand. Durch die erhöhte Körpertemperatur\nwird seine Verdauung unterstützt.",
         'pt-br': "Toma sol na praia após as refeições.\nO aumento em sua temperatura\ncorporal ajuda na digestão.",
+        ja: "食事の 後は 砂浜で 日光浴を している。 体温を あげて 消化を よく するのだ。",
         ko: "식사 후에는 모래 해변에서\n일광욕을 하고 있다. 체온을\n높여서 소화를 돕기 위함이다.",
         "zh-tw": "飯後在海灘上曬日光浴。體溫升高有助於消化。"
     },

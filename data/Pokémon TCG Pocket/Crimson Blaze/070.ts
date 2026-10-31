@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/070"
     },
     name: {
         en: "Ariados",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ariados",
         "de": "Ariados",
         "pt-br": "Ariados",
-        "zh-tw": "阿利多斯"
+        "zh-tw": "阿利多斯",
+        ja: "アリアドス"
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Spinarak",
         "de": "Webarak",
         "pt-br": "Spinarak",
-        "zh-tw": "圓絲蛛"
+        "zh-tw": "圓絲蛛",
+        ja: "イトマル"
     },
     description: {
         en: "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Emette fili dalla bocca per catturarlo\npreda. Quando scende la notte, lascia la sua tela per andare\ncaccia in modo aggressivo.",
         "de": "Es spuckt Fäden aus seinem Mund, um es zu fangen\nBeute. Wenn die Nacht hereinbricht, verlässt es sein Netz, um zu verschwinden\naggressiv jagen.",
         "pt-br": "Ele vomita fios de sua boca para pegar seu\npresa. Quando a noite cai, ele deixa sua teia para ir\ncaçar agressivamente.",
-        "zh-tw": "它從嘴裡噴出絲線來捕捉它\n獵物。當夜幕降臨時，它會離開它的網去\n積極地狩獵。"
+        "zh-tw": "它從嘴裡噴出絲線來捕捉它\n獵物。當夜幕降臨時，它會離開它的網去\n積極地狩獵。",
+        ja: "糸を はいて 獲物を 捕らえる。 夜に なると 巣から 離れて 積極的に 狩りを するぞ。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Territorio della trappola",
                 "de": "Trap-Territorium",
                 "pt-br": "Território da Armadilha",
-                "zh-tw": "陷阱領地"
+                "zh-tw": "陷阱領地",
+                ja: "トラップテリトリー"
             },
             effect: {
                 en: "Your opponent's Active Pokémon's Retreat Cost is 1 more.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Il costo di ritirata del Pokémon attivo del tuo avversario è 1 in più.",
                 "de": "Die Rückzugskosten des aktiven Pokémon deines Gegners betragen 1 mehr.",
                 "pt-br": "O Custo de Recuo do Pokémon Ativo do seu oponente é de 1 a mais.",
-                "zh-tw": "對手的現役寶可夢的撤退費用再增加 1 點。"
+                "zh-tw": "對手的現役寶可夢的撤退費用再增加 1 點。",
+                ja: "このポケモンがいるかぎり、相手のバトルポケモンのにげるためのエネルギーを、1個多くする。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Forare",
                 "de": "Pierce",
                 "pt-br": "Perfurar",
-                "zh-tw": "刺穿"
+                "zh-tw": "刺穿",
+                ja: "つきさす"
             },
             damage: 30,
             cost: ["Grass"]

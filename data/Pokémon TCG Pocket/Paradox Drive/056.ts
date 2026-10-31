@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/056",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/056",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/056"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/056"
     },
     name: {
         en: "Eevee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo codice genetico è irregolare. Potrebbe mutare se esposto alle radiazioni delle pietre elementali.",
         de: "Sein genetischer Code ist unregelmäßig. Es kann mutieren, wenn es der Strahlung von Elementsteinen ausgesetzt wird.",
         "pt-br": "Seu código genético é irregular. Ele pode sofrer mutação se for exposto à radiação das pedras elementares.",
-        "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。"
+        "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。",
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colpocoda",
                 de: "Rutenschlag",
                 "pt-br": "Cauda Chicote",
-                "zh-tw": "搖尾巴"
+                "zh-tw": "搖尾巴",
+                ja: "しっぽをふる"
             },
             effect: {
                 en: "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
                 de: "Wirf 1 Münze. Bei Kopf kann das Verteidigende Pokémon während des nächsten Zuges deines Gegners nicht angreifen.",
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Defensor não poderá atacar durante o próximo turno do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則防守寶可夢在對手的下一個回合中不能攻擊。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則防守寶可夢在對手的下一個回合中不能攻擊。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。"
             }
         }
     ],

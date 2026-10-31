@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/067"
     },
     name: {
         en: "Staravia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Staravia",
         de: "Staravia",
         'pt-br': "Staravia",
+        ja: "ムクバード",
         ko: "찌르버드",
         "zh-tw": "姆克鳥",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Staralili",
         "pt-br": "Starly",
         "zh-tw": "姆克兒",
+        ja: "ムックル",
     },
     description: {
         en: "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Conscio della propria debolezza, forma grandi\ngruppi con i propri simili. Quando si ritrova\nsolo, canta con voce insistente e fastidiosa.",
         de: "Da sie sich ihrer eigenen Schwäche bewusst sind,\nleben Staravia stets in Schwärmen. Sind sie allein,\nstoßen sie laute Rufe aus.",
         'pt-br': "Reconhecendo suas próprias fraquezas, eles sempre vivem\nem grupo. Quando sozinho, um Staravia chora\nde forma ruidosa.",
+        ja: "自分の 弱さを わきまえており いつも 群れで 暮らしている。1匹になると やかましく 鳴く。",
         ko: "자신의 약함을 잘 알고 있기에\n항상 무리를 지어 살고 있다.\n혼자가 되면 요란하게 운다.",
         "zh-tw": "認識到自己的弱點，他們總是生活在一個群體中。獨自一人時，Staravia 會大聲哭泣。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Attacco d'Ala",
                 de: "Flügelschlag",
                 'pt-br': "Ataque de Asa",
+                ja: "つばさでうつ",
                 ko: "날개치기",
                 "zh-tw": "翼攻擊"
             },

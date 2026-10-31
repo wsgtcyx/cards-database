@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/025",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/025",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/025"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/025"
     },
     name: {
         en: "Jirachi",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha l’abilità di realizzare ogni desiderio, ma soltanto\nper una settimana ogni 1000 anni.",
         de: "Man sagt, es kann alle 1 000 Jahre für eine Woche\njeden Wunsch erfüllen.",
         "pt-br": "Diz-se que tem a capacidade de realizar qualquer desejo durante apenas uma semana a cada mil anos.",
-        "zh-tw": "據說每千年只有一週的時間可以實現任何願望。"
+        "zh-tw": "據說每千年只有一週的時間可以實現任何願望。",
+        ja: "１０００年間で ７日だけ 目を 覚まし どんな 願い事でも かなえる 力を 使うという。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Caduta Astrale",
                 de: "Sternensturz",
                 "pt-br": "Queda de Estrela",
-                "zh-tw": "星墜"
+                "zh-tw": "星墜",
+                ja: "ほしおとし"
             },
             effect: {
                 en: "This attack does 30 damage to 1 of your opponent's Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni a 1 dei Pokémon del tuo avversario.",
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 30 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 30 點傷害。",
+                ja: "相手のポケモン1匹に30ダメージ。"
             }
         }
     ],

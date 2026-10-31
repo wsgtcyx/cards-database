@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/069"
     },
     name: {
         en: "Iono",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kissara",
         de: "Enigmara",
         'pt-br': "Kissera",
+        ja: "ナンジャモ",
         ko: "모야모",
         "zh-tw": "奇樹"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Ciascun giocatore rimischia le carte che ha in mano nel proprio mazzo e pesca altrettante carte.",
         de: "Jeder Spieler mischt seine Handkarten in sein Deck und zieht anschließend dieselbe Anzahl Karten.",
         'pt-br': "Cada jogador embaralha as cartas da própria mão no próprio baralho e, em seguida, compra aquele mesmo número de cartas.",
+        ja: "おたがいのプレイヤーは、それぞれ手札をすべて山札にもどす。その後、それぞれもどした枚数ぶん、山札を引く。",
         ko: "서로의 플레이어는 각각 패를 모두 덱으로 되돌린다. 그 뒤, 각각 되돌린 장수만큼 덱을 뽑는다.",
         "zh-tw": "每個玩家將手中的牌洗入自己的牌庫，然後抽出相應數量的牌。"
     },

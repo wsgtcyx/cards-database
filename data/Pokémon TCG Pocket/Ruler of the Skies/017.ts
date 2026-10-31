@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/017",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/017",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/017"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/017"
     },
     name: {
         en: "Poltchageist",
@@ -36,7 +37,8 @@ const card: Card = {
         "it": "Può sembrare una forma regionale di Sinistea, ma di recente si è scoperto che non c'è alcuna relazione fra questi due Pokémon.",
         "de": "Es sieht aus wie eine Regionalform von Fatalitee. doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht.",
         "pt-br": "Poltchageist parece ser uma forma regional de Sinistea. Porém, descobertas recentes apontam que esses dois Pokémon não têm relação um com o outro.",
-        "zh-tw": "雖然這種寶可夢看起來像是\n來悲茶的地區形態，但最近\n被發現其實兩者毫無關係。"
+        "zh-tw": "雖然這種寶可夢看起來像是\n來悲茶的地區形態，但最近\n被發現其實兩者毫無關係。",
+        ja: "ヤバチャの リージョンフォームに 見えるが まったく 関係のない ポケモンと 最近 判明した。※ キタカミの里での冒険で出会うことができます。"
     },
     abilities: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Ospitalità",
                 de: "Gastlichkeit",
                 "zh-tw": "款待",
-                "pt-br": "Hospitalidade"
+                "pt-br": "Hospitalidade",
+                ja: "おもてなし"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may heal 20 damage from your Active {G} Pokémon.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano e lo metti in panchina, puoi curare il tuo Pokémon {G} attivo da 20 danni.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank spielst, kannst du 20 Schadenspunkte bei deinem Aktiven {G}-Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá curar 20 pontos de dano do seu Pokémon {G} Ativo.",
-                "zh-tw": "在自己的回合,當從手牌將這張卡放置於備戰區時,可使用1次。將自己的戰鬥場的{G}寶可夢恢復20HP。"
+                "zh-tw": "在自己的回合,當從手牌將這張卡放置於備戰區時,可使用1次。將自己的戰鬥場的{G}寶可夢恢復20HP。",
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分のバトル場の{G}ポケモンのHPを20回復。"
             }
         }
     ],
@@ -71,7 +75,8 @@ const card: Card = {
                 it: "Fluido spray",
                 de: "Sprühflüssigkeit",
                 "pt-br": "Fluido Spray",
-                "zh-tw": "噴汁"
+                "zh-tw": "噴汁",
+                ja: "しるをとばす"
             },
             damage: 10
         }

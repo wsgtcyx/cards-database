@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/212",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/212"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/212"
     },
     name: {
         en: "Dubwool",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zwollock",
         "pt-br": "Dubwool",
         "zh-tw": "毛毛角羊",
+        ja: "バイウールー",
     },
     illustrator: "You Iribi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wolly",
         "pt-br": "Wooloo",
         "zh-tw": "毛辮羊",
+        ja: "ウールー",
     },
     description: {
         en: "Its majestic horns are meant only to impress the\nopposite gender. They never see use in battle.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue maestose corna hanno il solo scopo di impressionare\ngenere opposto. Non vedono mai l'uso in battaglia.",
         "de": "Seine majestätischen Hörner sollen nur beeindrucken\nanderes Geschlecht. Im Kampf kommen sie nie zum Einsatz.",
         "pt-br": "Seus majestosos chifres servem apenas para impressionar o\nsexo oposto. Eles nunca veem uso em batalha.",
-        "zh-tw": "它雄偉的角只是為了給人們留下深刻的印象\n異性。他們從來沒有在戰鬥中看到過用處。"
+        "zh-tw": "它雄偉的角只是為了給人們留下深刻的印象\n異性。他們從來沒有在戰鬥中看到過用處。",
+        ja: "立派に 伸びた ツノは 異性に アピールするために 生えている。 武器として 使うことはない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Potere illimitato",
                 "de": "Grenzenlose Macht",
                 "pt-br": "Poder ilimitado",
-                "zh-tw": "力量無限"
+                "zh-tw": "力量無限",
+                ja: "そこぢから"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
+                ja: "次の自分の番、このポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

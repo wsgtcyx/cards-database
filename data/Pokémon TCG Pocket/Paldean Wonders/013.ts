@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/013"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/013"
     },
     name: {
         en: "Scovillain",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Halupenjo",
         "pt-br": "Scovillain",
         "zh-tw": "狠辣椒",
+        ja: "スコヴィラン",
         pt: "Scovillain"
     },
     illustrator: "kodama",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Chilingel",
         "pt-br": "Capsakid",
         "zh-tw": "熱辣娃",
+        ja: "カプサイジ",
         pt: "Capsakid"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "La testa verde è diventata feroce a causa delle sostanze chimiche piccanti che ne stimolano il cervello. Una volta che va su tutte le furie, non c’è modo di fermarlo.",
         "de": "Der Grünkopf ist aufgrund der scharfen Chemikalien, die sein Gehirn stimulieren, bösartig geworden. Sobald es tobt, gibt es kein Halten mehr.",
         "pt-br": "A cabeça verde tornou-se cruel devido aos produtos químicos picantes que estimulam seu cérebro. Uma vez que fica furioso, não há como pará-lo.",
-        "zh-tw": "由於辛辣的化學物質刺激了它的大腦，綠頭變得邪惡了。一旦發狂，就沒有辦法阻止。"
+        "zh-tw": "由於辛辣的化學物質刺激了它的大腦，綠頭變得邪惡了。一旦發狂，就沒有辦法阻止。",
+        ja: "グリーンヘッドは 辛み成分に 脳が 刺激されて 凶暴化。 暴れだすと 手がつけられない。"
     },
     stage: "Stage1",
     attacks: [
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Testata rovente",
                 "de": "Rotglühender Kopfstoß",
                 "pt-br": "Cabeçada em brasa",
-                "zh-tw": "熾熱的頭撞"
+                "zh-tw": "熾熱的頭撞",
+                ja: "レッドホットヘッド"
             },
             damage: "60+",
             cost: ["Grass", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon Erba o Metallo, questo attacco infligge 40 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Gras- oder Metall-Pokémon ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Grama ou Metal, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "如果對手的戰鬥寶可夢是草寶可夢或金屬寶可夢，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的戰鬥寶可夢是草寶可夢或金屬寶可夢，則此攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンが{G}または{M}ポケモンなら、40ダメージ追加。"
             },
         },
     ],

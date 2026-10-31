@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/070"
     },
     name: {
         en: "Meloetta",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Meloetta",
         "de": "Meloetta",
         "pt-br": "Meloetta",
-        "zh-tw": "美洛耶塔"
+        "zh-tw": "美洛耶塔",
+        ja: "メロエッタ"
     },
     illustrator: "REND",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue melodie sono cantate con una vocalizzazione speciale\nmetodo in grado di controllare i sentimenti di coloro che\nascoltalo.",
         "de": "Seine Melodien werden mit einer besonderen Vokalisierung gesungen\nMethode, die die Gefühle derjenigen kontrollieren kann, die\nhör es.",
         "pt-br": "Suas melodias são cantadas com uma vocalização especial\nmétodo que pode controlar os sentimentos daqueles que\nouça.",
-        "zh-tw": "它的旋律是用特殊的發聲來演唱的\n可以控制他人情緒的方法\n聽到它。"
+        "zh-tw": "它的旋律是用特殊的發聲來演唱的\n可以控制他人情緒的方法\n聽到它。",
+        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Canto strano",
                 "de": "Seltsamer Gesang",
                 "pt-br": "Canto Estranho",
-                "zh-tw": "奇怪的歌聲"
+                "zh-tw": "奇怪的歌聲",
+                ja: "ふしぎなうたごえ"
             },
             effect: {
                 en: "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "All'inizio del tuo turno, se questo Pokémon è in posizione attiva, metti nella tua mano un Pokémon {P} casuale dal tuo mazzo.",
                 "de": "Wenn sich dieses Pokémon zu Beginn deines Zuges an der aktiven Stelle befindet, nimm ein zufälliges {P}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "No início do seu turno, se este Pokémon estiver no Ponto Ativo, coloque um Pokémon {P} aleatório do seu baralho na sua mão.",
-                "zh-tw": "在你的回合開始時，如果這只神奇寶貝位於活躍位置，則從你的牌組中隨機將一隻 {P} 神奇寶貝置入你的手牌。"
+                "zh-tw": "在你的回合開始時，如果這只神奇寶貝位於活躍位置，則從你的牌組中隨機將一隻 {P} 神奇寶貝置入你的手牌。",
+                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Psicocolpo",
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
-                "zh-tw": "心理射擊"
+                "zh-tw": "心理射擊",
+                ja: "サイコショット"
             },
             damage: 50,
             cost: ["Psychic", "Psychic"]

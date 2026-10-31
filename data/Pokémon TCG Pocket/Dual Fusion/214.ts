@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/214",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/214",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/214",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/214"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/214",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/214"
     },
     name: {
         en: "Bewear ex",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Velursi",
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
-        ja: "Stufful",
+        ja: "ヌイコグマ",
         ko: "Stufful"
     },
     suffix: "EX",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Hyperlasso",
                 "pt-br": "Hiperlaço",
                 "zh-tw": "必殺金勾臂",
-                ja: "Hyper Lariat",
+                ja: "ひっさつラリアット",
                 ko: "Hyper Lariat"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 100 pontos de dano a mais.",
                 "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。",
-                ja: "Flip 2 coins. If both of them are heads, this attack does 100 more damage.",
+                ja: "コインを2回投げ、すべてオモテなら、100ダメージ追加。",
                 ko: "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
             }
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/202",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/202"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/202",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/202"
     },
     name: {
         en: "Chansey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Chansey",
         de: "Chaneira",
         'pt-br': "Chansey",
+        ja: "ラッキー",
         ko: "럭키",
         "zh-tw": "吉利蛋",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Schiaffetto",
                 de: "Sanfter Hieb",
                 'pt-br': "Tapinha",
+                ja: "ひっぱたく",
                 ko: "세게때리기",
                 "zh-tw": "輕輕一巴掌"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Un Pokémon altruista che depone\nuova molto nutrienti e le condivide\ncon persone o Pokémon feriti.",
         de: "Ein freundliches Pokémon, das nahrhafte Eier\nlegt, um diese mit verletzten Pokémon und\nMenschen zu teilen.",
         'pt-br': "Este Pokémon gentil bota ovos bastante nutritivos\ne os compartilha com pessoas ou Pokémon feridos.",
+        ja: "傷ついた ポケモンや 人がいると 栄養満点の タマゴを産み 分け与える 優しい ポケモン。",
         ko: "상처 입은 포켓몬이나 사람이 있으면\n영양 만점의 알을 낳아\n나눠 주는 상냥한 포켓몬이다.",
         "zh-tw": "這種善良的神奇寶貝會產下營養豐富的蛋，並與受傷的神奇寶貝或人類分享。"
     },

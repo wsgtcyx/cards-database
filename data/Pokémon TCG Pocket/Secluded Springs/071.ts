@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/071"
     },
     name: {
         en: "Morty",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Jens",
         "pt-br": "Morty",
         "zh-tw": "松葉",
+        ja: "マツバ",
     },
     illustrator: "Teeziro",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Per ciascuno dei tuoi Pokémon {P} in gioco, guarda quel numero di carte dalla cima del mazzo del tuo avversario e rimettile a posto in qualsiasi ordine.",
         "de": "Sieh dir für jedes deiner {P}-Pokémon im Spiel so viele Karten oben vom Deck deines Gegners an und lege sie in beliebiger Reihenfolge zurück.",
         "pt-br": "Para cada um dos seus {P} Pokémon em jogo, olhe aquela quantidade de cartas do topo do baralho do seu oponente e coloque-as de volta em qualquer ordem.",
-        "zh-tw": "對於場上的每隻 {P} 神奇寶貝，查看對手牌組頂部的相應數量的卡牌，然後將它們按任意順序放回原處。"
+        "zh-tw": "對於場上的每隻 {P} 神奇寶貝，查看對手牌組頂部的相應數量的卡牌，然後將它們按任意順序放回原處。",
+        ja: "自分の場の{P}ポケモンの数ぶん、相手の山札を上から見て、好きな順番に入れ替えて、山札の上にもどす。"
     },
     trainerType: "Supporter"
 };

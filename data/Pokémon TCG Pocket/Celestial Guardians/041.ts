@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/041"
     },
     name: {
         en: "Alolan Ninetales",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ninetales di Alola",
         de: "Alola-Vulnona",
         'pt-br': "Ninetales de Alola",
+        ja: "アローラキュウコン",
         ko: "알로라나인테일",
         "zh-tw": "阿羅拉九尾"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Vulpix di Alola",
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
-        "zh-tw": "阿羅拉六尾"
+        "zh-tw": "阿羅拉六尾",
+        ja: "アローラロコン"
     },
     description: {
         en: "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "In passato viveva su un impenetrabile monte innevato,\ndimora di una divinità di cui era considerato l'incarnazione.",
         de: "Einst lebte es auf einem schneebedeckten Berg,\nder auch die Heimat einer Gottheit war, weshalb\nes als deren Verkörperung verehrt wurde.",
         'pt-br': "Uma divindade vive nas montanhas nevadas que são o lar\ndeste Pokémon. Em tempos antigos, foi venerado como\na encarnação dessa divindade.",
+        ja: "雪に 閉ざされた 神様の いる 山で 暮らしていたため 昔は 神の化身と 敬われていた。",
         ko: "눈으로 폐쇄된 신이 사는\n산에 살았기 때문에 과거에는\n신의 화신으로 숭상받아왔다.",
         "zh-tw": "這只神奇寶貝居住的雪山里棲息著一位神靈。在古代，它被視為神的化身而受到崇拜。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Bora",
                 de: "Blizzard",
                 'pt-br': "Nevasca",
+                ja: "ふぶき",
                 ko: "눈보라",
                 "zh-tw": "暴風雪"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン全員にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。"
             }

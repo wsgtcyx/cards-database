@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/078"
     },
     name: {
         en: "Togepi",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Togepi",
         "pt-br": "Togepi",
         "zh-tw": "波克比",
+        ja: "トゲピー",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il guscio sembra pieno di gioia. Si dice\nche condividerà la buona fortuna se trattato con gentilezza.",
         "de": "Die Hülle scheint voller Freude zu sein. Es heißt\ndass es viel Glück bringt, wenn es freundlich behandelt wird.",
         "pt-br": "A concha parece estar cheia de alegria. É dito\nque compartilhará boa sorte quando tratado com gentileza.",
-        "zh-tw": "貝殼裡似乎充滿了喜悅。據說\n如果受到善待，它會分享好運。"
+        "zh-tw": "貝殼裡似乎充滿了喜悅。據說\n如果受到善待，它會分享好運。",
+        ja: "殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Fascino",
                 "de": "Charme",
                 "pt-br": "Charme",
-                "zh-tw": "魅力"
+                "zh-tw": "魅力",
+                ja: "あまえる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
-                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
+                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

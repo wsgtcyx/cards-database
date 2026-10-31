@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/102"
     },
     name: {
         en: "Dondozo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dondozo",
         de: "Heerashai",
         'pt-br': "Dondozo",
+        ja: "ヘイラッシャ",
         ko: "어써러셔",
         "zh-tw": "吃吼霸"
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "È un Pokémon vorace, ma non è molto abile\nnel procacciarsi il cibo. Cattura le sue prede\ncollaborando con il Tatsugiri che è con lui.",
         de: "Es ist zwar ein Vielfraß, doch die Jagd liegt\nihm nicht. Deshalb schließt es sich mit\nNigiragi zusammen, um Beute zu fangen.",
         'pt-br': "Este Pokémon é guloso, mas não é nada\nbom em conseguir comida. Alia-se a\nTatsugiri para pegar suas presas.",
+        ja: "大食らいだが エサを 取るのは 苦手。 シャリタツと コンビを 組んで 獲物を 捕らえるのだ。",
         ko: "대식가지만 먹이를 잡는 것이 서툴다.\n싸리용과 콤비를 이뤄\n먹이를 사냥한다.",
         "zh-tw": "該寶可夢雖然貪吃，但不擅長獲取食物。它與龍切合作捕捉獵物。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
             it: "Ciclone Oceanico",
             de: "Meeressturm",
             'pt-br': "Ciclone Oceânico",
+            ja: "オーシャンサイクロン",
             ko: "오션사이클론",
             "zh-tw": "海洋氣旋"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
             de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
             'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+            ja: "相手のベンチポケモン全員にも10ダメージ。",
             ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
             "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
         }

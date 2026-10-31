@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/049"
     },
     name: {
         en: "Trubbish",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Trubbish",
         "de": "Unratütox",
         "pt-br": "Trubbish",
-        "zh-tw": "破破袋"
+        "zh-tw": "破破袋",
+        ja: "ヤブクロン"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I suoi posti preferiti sono quelli antigenici. Se tu\nlascia la spazzatura in giro, potresti persino trovarla\nuno di questi Pokémon che vive nella tua stanza.",
         "de": "Seine Lieblingsorte sind unhygienische Orte. Wenn Sie\nLassen Sie Müll herumliegen, den Sie sogar finden könnten\neines dieser Pokémon, das in deinem Zimmer lebt.",
         "pt-br": "Seus lugares favoritos são os insalubres. Se você\ndeixe lixo espalhado, você pode até encontrar\num desses Pokémon morando no seu quarto.",
-        "zh-tw": "它最喜歡的地方是不衛生的地方。如果你\n把垃圾隨地亂扔，你甚至可以找到\n住在你房間裡的這些神奇寶貝之一。"
+        "zh-tw": "它最喜歡的地方是不衛生的地方。如果你\n把垃圾隨地亂扔，你甚至可以找到\n住在你房間裡的這些神奇寶貝之一。",
+        ja: "不衛生な 場所が 好き。 ゴミで 汚したまま 放っておくと 部屋にも 現れて 棲みつく。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Sbavare",
                 "de": "Sabbern",
                 "pt-br": "Babar",
-                "zh-tw": "流口水"
+                "zh-tw": "流口水",
+                ja: "よだれ"
             },
             damage: 30,
             cost: ["Darkness", "Colorless"]

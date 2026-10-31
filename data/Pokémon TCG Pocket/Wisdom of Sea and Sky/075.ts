@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/075"
     },
     name: {
         en: "Smoochum",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kussilla",
         "pt-br": "Smoochum",
         "zh-tw": "迷唇娃",
+        ja: "ムチュール",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se la sua faccia si sporca anche leggermente, Smoochum lo farà\nfare subito il bagno. Ma se il suo corpo si sporca,\nA Smoochum non sembra importare davvero.",
         "de": "Wenn sein Gesicht auch nur ein wenig schmutzig wird, wird Knutschfleck das tun\nsofort baden. Aber wenn sein Körper schmutzig wird,\nSmoochum scheint das eigentlich egal zu sein.",
         "pt-br": "Se seu rosto ficar um pouco sujo, Smoochum irá\ntome banho imediatamente. Mas se o seu corpo ficar sujo,\nSmoochum realmente não parece se importar.",
-        "zh-tw": "如果它的臉稍微臟一點，Smoochum 就會\n立即洗澡。但如果它的身體髒了，\nSmoochum 似乎並不真正關心。"
+        "zh-tw": "如果它的臉稍微臟一點，Smoochum 就會\n立即洗澡。但如果它的身體髒了，\nSmoochum 似乎並不真正關心。",
+        ja: "ちょっとでも 顔が 汚れると 水浴び。 体の 汚れは あまり 気にしていないみたい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Onda tremante",
                 "de": "Zitternde Welle",
                 "pt-br": "Onda de arrepios",
-                "zh-tw": "顫抖波"
+                "zh-tw": "顫抖波",
+                ja: "ぞわぞわウェーブ"
             },
             damage: "20×",
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff fügt 20 Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上附加的每一個能量都會造成 20 點傷害。"
+                "zh-tw": "對手的活躍寶可夢身上附加的每一個能量都會造成 20 點傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ。"
             }
         }],
     retreat: 0,

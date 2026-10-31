@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/086"
     },
     name: {
         en: "Cosmoem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cosmoem",
         de: "Cosmovum",
         'pt-br': "Cosmoem",
+        ja: "コスモウム",
         ko: "코스모움",
         "zh-tw": "科斯莫姆"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Cosmog",
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
+        ja: "コスモッグ",
     },
     description: {
         en: "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Un antico re di Alola gli diede il nome di \"Bozzolo\ndi stella\" e costruì un altare per venerarlo.",
         de: "Ein vor Urzeiten über Alola herrschender König nannte es\n\"Sternenkokon\" und erbaute ihm zu Ehren ein Podium.",
         'pt-br': "O rei antigo que governou Alola chamava este Pokémon\nde \"casulo de estrelas\" e construiu um altar para adorá-lo.",
+        ja: "太古 アローラを 支配 していた 王様は 星の繭と 呼んで 崇めるための 祭壇を 作った。",
         ko: "먼 옛날 알로라를 지배하던\n왕은 별의 고치라고 부르며\n숭상하기 위한 제단을 만들었다.",
         "zh-tw": "古代統治阿羅拉的國王稱其為\n並築壇祭祀“星之繭”。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Indurimento",
                 de: "Verhärten",
                 'pt-br': "Fortificar",
+                ja: "かたまる",
                 ko: "딱딱해지기",
                 "zh-tw": "變硬"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -50 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 50 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −50 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-50する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -50한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。"
             }

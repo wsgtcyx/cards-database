@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/088"
     },
     name: {
         en: "Drilbur",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Drilbur",
         "de": "Rotomurf",
         "pt-br": "Drilbur",
-        "zh-tw": "螺釘地鼠"
+        "zh-tw": "螺釘地鼠",
+        ja: "モグリュー"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si fa strada rapidamente attraverso il terreno mettendo\nentrambi gli artigli insieme e ruotano ad alta velocità.",
         "de": "Durch das Setzen bahnt es sich schnell seinen Weg durch den Boden\nbeide Klauen zusammen und drehen sich mit hoher Geschwindigkeit.",
         "pt-br": "Ele abre caminho rapidamente pelo solo, colocando\nambas as garras juntas e girando em alta velocidade.",
-        "zh-tw": "它通過放置快速穿過土壤\n雙爪併攏，高速旋轉。"
+        "zh-tw": "它通過放置快速穿過土壤\n雙爪併攏，高速旋轉。",
+        ja: "両手の ツメを 重ね合わせて 体を 高速 回転させると 猛スピードで 地中を 進む。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rimbalzo della testata",
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
-                "zh-tw": "頭撞彈跳"
+                "zh-tw": "頭撞彈跳",
+                ja: "とびだしヘッド"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

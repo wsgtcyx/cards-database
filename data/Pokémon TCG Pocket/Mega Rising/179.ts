@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/179",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/179",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/179"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/179",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/179"
     },
     name: {
         en: "Goodra",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Viscogon",
         "pt-br": "Goodra",
         "zh-tw": "黏美龍",
+        ja: "ヌメルゴン",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Viscargot",
         "pt-br": "Sliggoo",
         "zh-tw": "黏美兒",
+        ja: "ヌメイル",
     },
     description: {
         en: "This Pokémon is uncontrollable when enraged.\nIt rampages on and on, lashing its tail with\nenough power to send a dump truck flying.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon è incontrollabile quando è arrabbiato.\nSi scatena continuamente, sferzando la coda\npotenza sufficiente per far volare un autocarro con cassone ribaltabile.",
         "de": "Dieses Pokémon ist unkontrollierbar, wenn es wütend ist.\nEs tobt immer weiter und peitscht mit dem Schwanz\ngenug Leistung, um einen Muldenkipper in die Luft zu jagen.",
         "pt-br": "Este Pokémon é incontrolável quando enfurecido.\nEle ataca sem parar, chicoteando sua cauda com\nenergia suficiente para fazer um caminhão basculante voar.",
-        "zh-tw": "該寶可夢在憤怒時無法控制。\n它不斷地狂暴，用尾巴鞭打著\n足夠的動力讓自卸卡車飛起來。"
+        "zh-tw": "該寶可夢在憤怒時無法控制。\n它不斷地狂暴，用尾巴鞭打著\n足夠的動力讓自卸卡車飛起來。",
+        ja: "怒りだすと 手がつけられなくなる。 ダンプカーを 跳ね飛ばす 威力の 尻尾 攻撃で 暴れまくる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Scarico a spirale",
                 "de": "Spiralablauf",
                 "pt-br": "Dreno Espiral",
-                "zh-tw": "螺旋排水管"
+                "zh-tw": "螺旋排水管",
+                ja: "スパイラルドレイン"
             },
             damage: 100,
             cost: ["Water", "Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 40 danni.",
                 "de": "Heile 40 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 40 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 40 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 40 點傷害。",
+                ja: "このポケモンのHPを40回復。"
             }
         }],
     retreat: 3

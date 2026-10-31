@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/017"
     },
     name: {
         en: "Shiinotic",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shiinotic",
         de: "Lamellux",
         'pt-br': "Shiinotic",
+        ja: "マシェード",
         ko: "마셰이드",
         "zh-tw": "燈罩夜菇",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bubungus",
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
+        ja: "ネマシュ",
     },
     description: {
         en: "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Attira a sé la preda con la luce intermittente\ndelle sue spore e l'addormenta. Poi ne succhia\nl'energia vitale con le estremità delle dita.",
         de: "Mit blinkenden Sporen lullt es seine Beute\nin den Schlaf und saugt ihr dann über seine\nFingerspitzen die Lebenskraft aus.",
         'pt-br': "Os seus esporos tremeluzentes atraem as presas e as deixam adormecidas.\nAssim que este Pokémon coloca a sua presa para dormir, drena a vitalidade\ndela com as pontas dos seus dedos.",
+        ja: "点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。",
         ko: "깜빡이는 포자의 빛으로\n먹이를 유인해서 잠들게 한다.\n손끝으로 생기를 흡수한다.",
         "zh-tw": "它閃爍的孢子引誘獵物並使它們入睡。一旦這只神奇寶貝讓獵物打瞌睡，它就會用指尖吸取獵物的活力。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Luce Tremula",
                 de: "Flackerndes Licht",
                 'pt-br': "Luz Tremeluzente",
+                ja: "またたくひかり",
                 ko: "깜빡이는빛",
                 "zh-tw": "閃爍的光"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
                 de: "Wirf 1 Münze. Bei Kopf kann das Verteidigende Pokémon während des nächsten Zuges deines Gegners nicht angreifen.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Defensor não poderá atacar durante o próximo turno do seu oponente.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則防守寶可夢在對手的下一個回合中不能攻擊。"
             }

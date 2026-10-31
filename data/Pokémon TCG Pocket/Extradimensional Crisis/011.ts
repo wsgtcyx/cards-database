@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/011"
     },
     name: {
         en: "Carvanha",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kanivanha",
         "pt-br": "Carvanha",
         "zh-tw": "利牙魚",
+        ja: "キバニア",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non attaccherà mentre è da solo, nemmeno se lo fosse\nindividua la preda. Invece, aspetta che lo facciano altri Carvanha\nunisciti ad esso, quindi i Pokémon attaccano in gruppo.",
         "de": "Es greift nicht an, solange es alleine ist – nicht einmal wenn es so ist\nentdeckt Beute. Stattdessen wartet es darauf, dass andere Carvanha es tun\nSchließen Sie sich ihm an und dann greifen die Pokémon als Gruppe an.",
         "pt-br": "Ele não atacará enquanto estiver sozinho – nem mesmo se\navista a presa. Em vez disso, espera que outro Carvanha\njunte-se a ele e então os Pokémon atacam como um grupo.",
-        "zh-tw": "當它獨自一人時它不會攻擊——即使它\n斑點獵物。相反，它會等待其他 Carvanha 來\n加入它，然後神奇寶貝就會集體攻擊。"
+        "zh-tw": "當它獨自一人時它不會攻擊——即使它\n斑點獵物。相反，它會等待其他 Carvanha 來\n加入它，然後神奇寶貝就會集體攻擊。",
+        ja: "獲物を 見つけても １匹のときは 襲わない。 仲間が 来るのを 待って 集団で 襲いかかる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Water"]

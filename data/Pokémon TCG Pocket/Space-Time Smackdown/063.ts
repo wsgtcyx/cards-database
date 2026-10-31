@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/063"
     },
     name: {
         en: "Togepi",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Togepi",
         de: "Togepi",
         'pt-br': "Togepi",
+        ja: "トゲピー",
         ko: "토게피",
         "zh-tw": "波克比",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sembra che il suo guscio sia ricolmo di felicità.\nSi dice che porti fortuna se lo si tratta bene.",
         de: "Seine Schale ist voll von Freude. Es heißt,\nwenn man es freundlich und gut behandelt,\nteile es sein Glück.",
         'pt-br': "Sua casca parece ser cheia de alegria e dizem que\ncompartilha a boa sorte quando é tratado com carinho.",
+        ja: "殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。",
         ko: "껍질 안에 행복이 가득 차 있어서\n상냥하게 대해준 사람에게\n행운을 나누어 준다고 한다.",
         "zh-tw": "貝殼裡似乎充滿了喜悅。據說，如果受到善待，它會分享好運。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Botta",
                 de: "Klaps",
                 'pt-br': "Pancada",
+                ja: "はたく",
                 ko: "막치기",
                 "zh-tw": "磅"
             },

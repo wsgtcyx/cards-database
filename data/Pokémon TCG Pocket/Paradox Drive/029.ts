@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/029",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/029",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/029"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/029"
     },
     name: {
         en: "Iron Boulder",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Prende il nome da un oggetto misterioso registrato in un vecchio libro. Il suo corpo sembra metallico.",
         de: "Es wurde nach einem mysteriösen Objekt benannt, das in einem alten Buch aufgezeichnet ist. Sein Körper scheint metallisch zu sein.",
         "pt-br": "Recebeu o nome de um objeto misterioso registrado em um livro antigo. Seu corpo parece ser metálico.",
-        "zh-tw": "它因一本古書上記載的神祕物體而得名。它的身體似乎是金屬的。"
+        "zh-tw": "它因一本古書上記載的神祕物體而得名。它的身體似乎是金屬的。",
+        ja: "金属質の ボディらしい。 名前は 古い 本に 記された 謎の 物体から つけられた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Ascia modulare",
                 de: "Modulare Axt",
                 "pt-br": "Machado Modular",
-                "zh-tw": "模組斧"
+                "zh-tw": "模組斧",
+                ja: "モジュールアックス"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 40 danni in più.",
                 de: "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 40 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。"
             },
             damage: "80+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/127"
     },
     name: {
         en: "Hariyama",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hariyama",
         "pt-br": "Hariyama",
         "zh-tw": "鐵掌力士",
+        ja: "ハリテヤマ",
     },
     illustrator: "Scav",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Makuhita",
         "pt-br": "Makuhita",
         "zh-tw": "幕下力士",
+        ja: "マクノシタ",
     },
     description: {
         en: "It stomps on the ground to build power.\nIt can send a 10-ton truck flying with a\nstraight-arm punch.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Calpesta il terreno per costruire potere.\nPuò far volare un camion da 10 tonnellate con a\npugno a braccio teso.",
         "de": "Es stampft auf den Boden, um Kraft aufzubauen.\nEs kann einen 10-Tonnen-Lkw mit einem fliegen lassen\nSchlag mit geradem Arm.",
         "pt-br": "Ele pisa no chão para construir poder.\nEle pode enviar um caminhão de 10 toneladas voando com um\nsoco com o braço reto.",
-        "zh-tw": "它踩踏地面來產生能量。\n它可以讓一輛10噸重的卡車帶著\n直臂拳。"
+        "zh-tw": "它踩踏地面來產生能量。\n它可以讓一輛10噸重的卡車帶著\n直臂拳。",
+        ja: "両足で 地面を 踏み鳴らして パワーを ためる。張り手 １発で １０トン トラックを 吹っ飛ばす。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Atterramento con schiaffi",
                 "de": "Ohrfeigen Knockdown",
                 "pt-br": "Golpe nocauteado",
-                "zh-tw": "拍擊擊倒"
+                "zh-tw": "拍擊擊倒",
+                ja: "はりておとし"
             },
             damage: 110,
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Prima di infliggere danni, scarta tutti gli Strumenti Pokémon dal Pokémon attivo del tuo avversario.",
                 "de": "Bevor du Schaden verursachst, wirf alle Pokémon-Werkzeuge vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
-                "zh-tw": "在造成傷害之前，丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。"
+                "zh-tw": "在造成傷害之前，丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
             }
         }],
     weaknesses: [{

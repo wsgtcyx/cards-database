@@ -11,7 +11,8 @@ const set: Set = {
 		it: "Ascesa Mega",
 		de: "Mega-Aufstieg",
 		'pt-br': "Ascensão Mega",
-		'zh-tw': "超進化崛起"
+		'zh-tw': "超進化崛起",
+		ja: "メガライジング"
 	},
 
 	serie: serie,

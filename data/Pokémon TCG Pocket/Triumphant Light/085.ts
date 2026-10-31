@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/085",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/085"
     },
     name: {
         en: "Probopass ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Probopass-ex",
         de: "Voluminas-ex",
         'pt-br': "Probopass ex",
+        ja: "ダイノーズex",
         ko: "대코파스 ex",
         "zh-tw": "大朝北鼻ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Nasgnet",
         "pt-br": "Nosepass",
         "zh-tw": "朝北鼻",
+        ja: "ノズパス",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Unità Protettiva",
                 de: "Schutzeinheit",
                 'pt-br': "Unidade Defensiva",
+                ja: "プロテクトユニット",
                 ko: "프로텍트유닛",
                 "zh-tw": "防禦單位"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
             }

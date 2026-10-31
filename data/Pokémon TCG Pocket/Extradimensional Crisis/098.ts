@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/098"
     },
     name: {
         en: "Aerodactyl",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Aerodactyl",
         "pt-br": "Aerodactyl",
         "zh-tw": "化石翼龍",
+        ja: "プテラ",
     },
     illustrator: "Masakazu Fukuda",
     category: "Pokemon",
@@ -32,6 +34,7 @@ const card: Card = {
         "de": "Altbernstein",
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
+        ja: "ひみつのコハク",
     },
     description: {
         en: "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen.",
@@ -40,7 +43,8 @@ const card: Card = {
         "it": "Questo è un Pokémon feroce dei tempi antichi.\nApparentemente anche la tecnologia moderna è incapace\ndi produrre un esemplare perfettamente restaurato.",
         "de": "Dies ist ein wildes Pokémon aus der Antike.\nOffenbar ist selbst die moderne Technologie dazu nicht in der Lage\nein perfekt restauriertes Exemplar herzustellen.",
         "pt-br": "Este é um Pokémon feroz dos tempos antigos.\nAparentemente, mesmo a tecnologia moderna é incapaz\nde produzir um espécime perfeitamente restaurado.",
-        "zh-tw": "這是自古以來兇猛的寶可夢。\n顯然現代科技也無能為力\n製作完美修復的標本。"
+        "zh-tw": "這是自古以來兇猛的寶可夢。\n顯然現代科技也無能為力\n製作完美修復的標本。",
+        ja: "古代の 獰猛な ポケモン。 完璧な 復元は いまの 科学でも 不可能らしい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -51,7 +55,8 @@ const card: Card = {
                 "it": "Battito d'ali primordiale",
                 "de": "Urflügelschlag",
                 "pt-br": "Batida de asa primordial",
-                "zh-tw": "原始翼拍"
+                "zh-tw": "原始翼拍",
+                ja: "げんしのはばたき"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -61,7 +66,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il tuo avversario rimischia i suoi Pokémon attivi nel suo mazzo.",
                 "de": "Wirf eine Münze. Bei „Kopf“ mischt dein Gegner sein Aktives Pokémon in sein Deck.",
                 "pt-br": "Jogue uma moeda. Se der cara, seu oponente embaralhará seus Pokémon Ativos em seu deck.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，對手將其活躍神奇寶貝洗入牌組。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，對手將其活躍神奇寶貝洗入牌組。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンを山札にもどす。"
             }
         }],
     weaknesses: [{

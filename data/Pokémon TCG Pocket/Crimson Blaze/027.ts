@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/027"
     },
     name: {
         en: "Emolga",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Emolga",
         "de": "Emolga",
         "pt-br": "Emolga",
-        "zh-tw": "電飛鼠"
+        "zh-tw": "電飛鼠",
+        ja: "エモンガ"
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon adora assolutamente le bacche dolci.\nA volte si riempie le guance di così tanto\ncibo che non può volare correttamente.",
         "de": "Dieses Pokémon liebt süße Beeren.\nManchmal stopft es sich die Wangen voll\nNahrung, dass es nicht richtig fliegen kann.",
         "pt-br": "Este Pokémon adora frutas doces.\nÀs vezes enche as bochechas de tanta coisa\ncomida que não pode voar corretamente.",
-        "zh-tw": "這只神奇寶貝非常喜歡甜漿果。\n有時它的臉頰塞滿了這麼多\n食物使其無法正常飛行。"
+        "zh-tw": "這只神奇寶貝非常喜歡甜漿果。\n有時它的臉頰塞滿了這麼多\n食物使其無法正常飛行。",
+        ja: "甘い 木の実が 大好物。 頬袋に エサを 溜めすぎ うまく 飛べないときも ある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Mach Bolt",
                 "de": "Mach Bolt",
                 "pt-br": "Parafuso Mach",
-                "zh-tw": "馬赫螺栓"
+                "zh-tw": "馬赫螺栓",
+                ja: "マッハボルト"
             },
             damage: 50,
             cost: ["Lightning", "Colorless"]

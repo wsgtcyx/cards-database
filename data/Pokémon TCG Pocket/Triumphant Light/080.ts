@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/080"
     },
     name: {
         en: "Magnemite",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magnemite",
         de: "Magnetilo",
         'pt-br': "Magnemite",
+        ja: "コイル",
         ko: "코일",
         "zh-tw": "小磁怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le onde elettromagnetiche generate dagli\nelementi laterali neutralizzano la gravità\npermettendogli di levitare a mezz'aria.",
         de: "Die seitlichen Module halten es in der Luft,\nindem sie mit elektromagnetischen Wellen\ndie Schwerkraft überlisten.",
         'pt-br': "As ondas eletromagnéticas emitidas pelas\nunidades nas laterais de sua cabeça geram\nantigravidade, o que faz com que ele possa flutuar.",
+        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
         ko: "좌우에 있는 유닛에서 나오는\n전자파를 이용해\n중력을 거슬러 하늘에 떠 있다.",
         "zh-tw": "其頭部兩側的裝置發射的電磁波會排出反重力，使其能夠漂浮。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },

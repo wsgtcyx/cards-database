@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/145",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/145",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/145"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/145"
     },
     name: {
         en: "Rookidee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le femmine sono più esigenti dei maschi. Se un'altra creatura sporca le ali di una femmina Rookidee, beccherà incessantemente l'autore del reato con rabbia ardente.",
         de: "Die Weibchen sind wählerischer als die Männchen. Wenn eine andere Kreatur die Flügel eines weiblichen Meikro beschmutzt, wird sie den Täter in brennender Wut unerbittlich picken.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma fêmea Rookidee, ela bicará o agressor implacavelmente em uma fúria ardente.",
-        "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。"
+        "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。",
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Spennata",
                 de: "Pflücker",
                 "pt-br": "Colher",
-                "zh-tw": "啄食"
+                "zh-tw": "啄食",
+                ja: "ついばむ"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prima di infliggere danni, scarta tutti gli Strumenti Pokémon dal Pokémon attivo del tuo avversario.",
                 de: "Bevor du Schaden verursachst, wirf alle Pokémon-Werkzeuge vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
-                "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。"
+                "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/105"
     },
     name: {
         en: "Mantyke",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mantirps",
         "pt-br": "Mantyke",
         "zh-tw": "小球飛魚",
+        ja: "タマンタ",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Crown",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È molto amichevole e facilmente addomesticabile. Lo visita\nportare le persone a nuotare con Mantyke sono a\nattività in spiaggia super popolare.",
         "de": "Es ist sehr freundlich und leicht zu zähmen. Touren das\nNehmen Sie Leute mit, die mit Mantyke schwimmen gehen\näußerst beliebte Strandaktivität.",
         "pt-br": "É altamente amigável e facilmente domesticado. Passeios que\nlevar as pessoas para nadar com Mantyke é um\natividade de praia super popular.",
-        "zh-tw": "它非常友好並且很容易被馴服。旅行團\n帶著 Mantyke 一起游泳的人是\n超受歡迎的海灘活動。"
+        "zh-tw": "它非常友好並且很容易被馴服。旅行團\n帶著 Mantyke 一起游泳的人是\n超受歡迎的海灘活動。",
+        ja: "とても 人懐っこく よく懐く。 タマンタとの ふれあい ツアーは 大人気の ビーチアクティビティ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio Spruzzato",
                 "de": "Spritziger Wurf",
                 "pt-br": "Lançamento chamativo",
-                "zh-tw": "潑濺投擲"
+                "zh-tw": "潑濺投擲",
+                ja: "ざぶざぶトス"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {W} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon Base in panchina.",
                 "de": "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
-                "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只基礎神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只基礎神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチのたねポケモンにつける。"
             }
         }],
     retreat: 0

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/060"
     },
     name: {
         en: "Origin Forme Dialga",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dialga Forma Originale",
         de: "Ur-Dialga",
         'pt-br': "Dialga Forma Origem",
+        ja: "オリジンディアルガ",
         ko: "오리진디아루가",
         "zh-tw": "起源帝牙盧卡",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La luce ha cagionato in lui un cambio di forma radicale,\nrendendolo un simulacro della divinità creatrice sì potente\nche fatico a non ritenere questa la sua forma veritiera.",
         de: "Licht lässt es eine Form annehmen, die der Schöpfergottheit\nzu gleichen scheint. Die gewaltige Stärke nährt den Verdacht,\ndass es sich bei dieser Gestalt um sein wahres Antlitz handelt.",
         'pt-br': "Uma luz radiante fez com que Dialga assumisse uma\nforma semelhante ao Pokémon criador. Sua força é tão\ncolossal que acreditam ser essa a sua verdadeira forma.",
+        ja: "光明 フォルムチェンジの 引き金。 創造神に 酷似する姿こそ 真なりと 思わざるを得ぬほどの 剛力 発揮す。",
         ko: "밝은 빛이 폼체인지의 방아쇠가 되었다.\n창조신과 흡사한 이 모습이야말로 진정한 모습임에\n의심할 여지가 없을 정도로 강력한 힘을 발휘한다.",
         "zh-tw": "光芒使帝牙盧卡呈現出與創造者神奇寶貝驚人相似的形態。帝牙盧卡現在擁有如此巨大的力量，人們必須斷定這就是它的真實形態。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Botta Temporale",
                 de: "Zeitenbrecher",
                 'pt-br': "Esmagamento de Tempo",
+                ja: "タイムクラッシュ",
                 ko: "타임크래시",
                 "zh-tw": "時間混搭"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Wirf 1 Münze. Bei Zahl kann dieses Pokémon während deines nächsten Zuges nicht angreifen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, durante o seu próximo turno, este Pokémon não poderá atacar.",
+                ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則在你的下一個回合中，這只神奇寶貝無法攻擊。"
             }

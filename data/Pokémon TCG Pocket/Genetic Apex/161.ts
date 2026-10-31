@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/161",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/161"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/161",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/161"
     },
     name: {
         en: "Mienshao",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mienshao",
         de: "Wie-Shu",
         'pt-br': "Mienshao",
+        ja: "コジョンド",
         ko: "비조도",
         "zh-tw": "師父鼬",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Mienfoo",
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
-        "zh-tw": "功夫鼬"
+        "zh-tw": "功夫鼬",
+        ja: "コジョフー"
     },
     attacks: [{
             cost: ["Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Spiralcalcio",
                 de: "Drehtritt",
                 'pt-br': "Chute Espiral",
+                ja: "かいてんげり",
                 ko: "회전차기",
                 "zh-tw": "螺旋踢"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Se incontra un nemico veramente forte,\nsi strappa a morsi i peli degli arti per\nalleggerirsi e guadagnare in agilità.",
         de: "Begegnet es einem wahrhaft starken Gegner,\nbeißt es das Fell an seinen Armen ab, um an\nBeweglichkeit zu gewinnen.",
         'pt-br': "Quando Mienshao se depara com um oponente\nrealmente desafiante, torna-se mais leve ao\narrancar o pelo de seus braços com a boca.",
+        ja: "真の 強敵と 会うと 身軽に なるため 両手の 毛を 噛み千切り 捨ててしまう。",
         ko: "진정한 강적과 만나면\n몸을 가볍게 하기 위해\n양손의 털을 물어뜯어 버린다.",
         "zh-tw": "當面哨遇到真正有挑戰性的對手時，它會咬掉手臂上的毛來減輕自己的重量。"
     },

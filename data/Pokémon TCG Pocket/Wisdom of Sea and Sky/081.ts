@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/081",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/081"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/081"
     },
     name: {
         en: "Natu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Natu",
         "pt-br": "Natu",
         "zh-tw": "天然雀",
+        ja: "ネイティ",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È estremamente bravo ad arrampicarsi sui tronchi degli alberi e\ngli piace mangiare i nuovi germogli sugli alberi.",
         "de": "Es ist sehr gut darin, auf Baumstämme zu klettern\nfrisst gerne die neuen Triebe an den Bäumen.",
         "pt-br": "É extremamente bom para subir em troncos de árvores e\ngosta de comer os novos brotos das árvores.",
-        "zh-tw": "它非常擅長攀爬樹幹\n喜歡吃樹上新芽。"
+        "zh-tw": "它非常擅長攀爬樹幹\n喜歡吃樹上新芽。",
+        ja: "器用に 木の幹を 駆け登る。 枝先に できた 新しい 木の芽を 好んで ついばむ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Psychic"]

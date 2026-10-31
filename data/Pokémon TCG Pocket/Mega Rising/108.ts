@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/108",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/108"
     },
     name: {
         en: "Drifblim",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Drifzepeli",
         "pt-br": "Drifblim",
         "zh-tw": "隨風球",
+        ja: "フワライド",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Driftlon",
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
+        ja: "フワンテ",
     },
     description: {
         en: "They carry people and Pokémon, but the\nwind can catch them, so there can't be a\nfixed destination.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Trasportano persone e Pokémon, ma il\nil vento può catturarli, quindi non può esserci a\ndestinazione fissa.",
         "de": "Sie tragen Menschen und Pokémon, aber die\nDer Wind kann sie einfangen, also kann es keinen geben\nfestes Ziel.",
         "pt-br": "Eles carregam pessoas e Pokémon, mas o\no vento pode pegá-los, então não pode haver\ndestino fixo.",
-        "zh-tw": "它們載著人和神奇寶貝，但是\n風可以抓住它們，所以不可能有\n固定目的地。"
+        "zh-tw": "它們載著人和神奇寶貝，但是\n風可以抓住它們，所以不可能有\n固定目的地。",
+        ja: "人や ポケモンを 運ぶ。 ただし 風に 流されてしまうので 行き先を 決められない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Sbarramento di palloncini",
                 "de": "Ballonfeuer",
                 "pt-br": "Barragem de Balões",
-                "zh-tw": "氣球彈幕"
+                "zh-tw": "氣球彈幕",
+                ja: "バルーンボンバー"
             },
             damage: "20+",
             cost: ["Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata a questo Pokémon.",
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a este Pokémon.",
-                "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンのエネルギーの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

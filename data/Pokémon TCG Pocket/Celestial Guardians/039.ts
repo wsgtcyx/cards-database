@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/039"
     },
     name: {
         en: "Alolan Sandslash",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sandslash di Alola",
         de: "Alola-Sandamer",
         'pt-br': "Sandslash de Alola",
+        ja: "アローラサンドパン",
         ko: "알로라고지",
         "zh-tw": "阿羅拉穿山王",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Sandan",
         "pt-br": "Sandshrew de Alola",
         "zh-tw": "阿羅拉穿山鼠",
+        ja: "アローラサンド",
     },
     description: {
         en: "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Corre piantando saldamente nella neve i suoi grandi artigli.\nCiò lo rende il Pokémon più veloce sui monti innevati.",
         de: "Mit seinen großen Krallen gräbt es sich flink\ndurch den Schnee. In verschneiten Gebirgen\nist es schneller als jedes andere Pokémon.",
         'pt-br': "Quando corre pela neve, abre o caminho com suas garras\ngrandes e afiadas em forma de gancho. Em montanhas\nnevadas, este Sandslash é o mais rápido dos Pokémon.",
+        ja: "大きな カギヅメで 深い 雪を かき分け 走る。 雪山では どの ポケモンよりも 速いのだ。",
         ko: "커다란 갈고리발톱으로 높이 쌓인\n눈을 헤치며 달린다. 설산에서는\n어떤 포켓몬보다 빠르다.",
         "zh-tw": "它在奔跑時用巨大的鉤狀爪子在厚厚的積雪中開出一條路。在雪山上，沙斬的速度比任何其他神奇寶貝都快。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Corazza Ispida",
                 de: "Stachelpanzer",
                 'pt-br': "Armadura de Espinhos",
+                ja: "トゲのよろい",
                 ko: "가시갑옷",
                 "zh-tw": "尖刺鎧甲"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, il Pokémon attaccante subisce 40 danni.",
                 de: "Wenn diesem Pokémon während des nächsten Zuges deines Gegners durch eine Attacke Schaden zugefügt wird, füge dem Angreifenden Pokémon 40 Schadenspunkte zu.",
                 'pt-br': "Durante o próximo turno do seu oponente, se este Pokémon for danificado por um ataque, cause 40 pontos de dano ao Pokémon Atacante.",
+                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに40ダメージ。",
                 ko: "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 40데미지를 준다.",
                 "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 40 點傷害。"
             }

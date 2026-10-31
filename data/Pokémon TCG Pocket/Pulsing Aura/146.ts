@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/146",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/146",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/146"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/146"
     },
     name: {
         en: "Corvisquire",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Questo Pokémon intelligente imparerà presto a usare qualsiasi strumento possa tenere nel becco o negli artigli.",
         de: "Dieses intelligente Pokémon lernt schnell, jedes Werkzeug zu benutzen, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar no bico ou nas garras.",
-        "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。"
+        "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。",
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Giostra",
                 de: "Lanzenstich",
                 "pt-br": "Justar",
-                "zh-tw": "狙落"
+                "zh-tw": "狙落",
+                ja: "ねらいおとす"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Prima di infliggere danni, scarta tutti gli Strumenti Pokémon dal Pokémon attivo del tuo avversario.",
                 de: "Bevor du Schaden verursachst, wirf alle Pokémon-Werkzeuge vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
-                "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。"
+                "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
             },
             damage: 30
         }

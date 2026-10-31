@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/026"
     },
     name: {
         en: "Thwackey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Chimstix",
         "pt-br": "Thwackey",
         "zh-tw": "啪咚猴",
+        ja: "バチンキー",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Chimpep",
         "pt-br": "Grookey",
         "zh-tw": "敲音猴",
+        ja: "サルノリ",
     },
     description: {
         en: "When it's drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won't even\nnotice that it's already knocked out its opponent.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando suona ritmi rapidi in battaglia, esso\nrimane così preso dal ritmo che non lo farà nemmeno\nnota che ha già messo KO il suo avversario.",
         "de": "Wenn es im Kampf schnelle Beats trommelt, ist es\nverfängt sich so sehr im Rhythmus, dass es gar nicht mehr funktioniert\nBeachten Sie, dass es seinen Gegner bereits KO geschlagen hat.",
         "pt-br": "Quando está tocando batidas rápidas na batalha,\nfica tão preso no ritmo que nem consegue\nobserve que ele já nocauteou seu oponente.",
-        "zh-tw": "當它在戰鬥中敲出急促的節拍時，\n完全陷入節奏以至於無法\n請注意，它已經擊敗了對手。"
+        "zh-tw": "當它在戰鬥中敲出急促的節拍時，\n完全陷入節奏以至於無法\n請注意，它已經擊敗了對手。",
+        ja: "激しい ビートを 刻むことに 夢中になる あまり 戦いで 相手が 気絶しても 気づかない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Martella dentro",
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
-                "zh-tw": "錘入"
+                "zh-tw": "錘入",
+                ja: "ぶちかます"
             },
             damage: 50,
             cost: ["Grass", "Grass"]

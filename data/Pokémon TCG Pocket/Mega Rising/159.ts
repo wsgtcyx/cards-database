@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/159",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/159",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/159",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/159"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/159",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/159"
     },
     name: {
         en: "Skrelp",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Algitt",
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
+        ja: "クズモー",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è un pessimo nuotatore. Se è intrappolato\nuna violenta tempesta, a volte verrà trascinata lontano\nallontanarsi e diventare incapace di tornare a casa.",
         "de": "Dieses Pokémon ist ein schlechter Schwimmer. Wenn es sich verfängt\nein heftiger Sturm, der manchmal weit weggeschwemmt wird\nweg und kann nicht mehr in seine Heimat zurückkehren.",
         "pt-br": "Este Pokémon é um péssimo nadador. Se estiver preso\numa tempestade feroz, às vezes será levada longe\nlonge e se torna incapaz de retornar para sua casa.",
-        "zh-tw": "這只神奇寶貝游泳技術很差。如果它被夾在\n一場猛烈的風暴，有時會被沖得很遠\n離開並無法返回其家。"
+        "zh-tw": "這只神奇寶貝游泳技術很差。如果它被夾在\n一場猛烈的風暴，有時會被沖得很遠\n離開並無法返回其家。",
+        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pinna di rasoio",
                 "de": "Rasiermesserflosse",
                 "pt-br": "Barbatana Navalha",
-                "zh-tw": "刀鰭"
+                "zh-tw": "刀鰭",
+                ja: "ひれカッター"
             },
             damage: 40,
             cost: ["Darkness", "Colorless"]

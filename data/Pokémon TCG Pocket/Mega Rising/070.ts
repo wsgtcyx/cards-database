@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/070"
     },
     name: {
         en: "Keldeo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Keldeo",
         "pt-br": "Keldeo",
         "zh-tw": "凱路迪歐",
+        ja: "ケルディオ",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Attraversa il mondo, correndo sulle superfici\noceani e fiumi. Appare sui lungomare panoramici.",
         "de": "Es durchquert die Welt und läuft über die Oberflächen von\nOzeane und Flüsse. Es erscheint an malerischen Uferpromenaden.",
         "pt-br": "Atravessa o mundo, percorrendo as superfícies de\noceanos e rios. Aparece em orlas pitorescas.",
-        "zh-tw": "它穿越世界，跑遍世界的表面\n海洋和河流。它出現在風景秀麗的海濱。"
+        "zh-tw": "它穿越世界，跑遍世界的表面\n海洋和河流。它出現在風景秀麗的海濱。",
+        ja: "海や 川など 水面を 走り 世界中を 駆け巡る。 美しい 水辺に 現れる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spada Sacra",
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
-                "zh-tw": "聖劍"
+                "zh-tw": "聖劍",
+                ja: "せいなるつるぎ"
             },
             damage: 110,
             cost: ["Water", "Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può usare la Spada Sacra.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
             }
         }],
     weaknesses: [{

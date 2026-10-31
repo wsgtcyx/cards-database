@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/247",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/247",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/247",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/247"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/247",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/247"
     },
     name: {
         en: "Goomy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Viscora",
         "pt-br": "Goomy",
         "zh-tw": "黏黏寶",
+        ja: "ヌメラ",
     },
     illustrator: "Kariya",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le corna di Goomy sono eccellenti organi sensoriali\ncoprire tutti e cinque i sensi di Goomy. Scelte fantastiche\nsul pericolo derivante dal movimento dell'aria.",
         "de": "Goomys Hörner sind ausgezeichnete Sinnesorgane\ndecken alle fünf Sinne von Goomy ab. Goomy-Picks\nsich vor Gefahren durch Luftbewegungen zu schützen.",
         "pt-br": "Os chifres de Goomy são excelentes órgãos sensoriais que\ncobrir todos os cinco sentidos de Goomy. Escolhas legais\nsobre o perigo do movimento do ar.",
-        "zh-tw": "古米的角是極好的感覺器官\n涵蓋了 Goomy 的所有五種感官。愚蠢的選擇\n空氣流動帶來的危險。"
+        "zh-tw": "古米的角是極好的感覺器官\n涵蓋了 Goomy 的所有五種感官。愚蠢的選擇\n空氣流動帶來的危險。",
+        ja: "ツノは 五感の すべてを まかなう 優れた 感覚器官。 空気の 動きで 危険を 感じとる。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Membrana adesiva",
                 "de": "Klebrige Membran",
                 "pt-br": "Membrana pegajosa",
-                "zh-tw": "粘膜"
+                "zh-tw": "粘膜",
+                ja: "ねばるねんまく"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {C} more.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Fintanto che questo Pokémon è in posizione attiva, gli attacchi usati dal Pokémon attivo del tuo avversario costano 1 {C} in più.",
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, kosten Angriffe des aktiven Pokémon deines Gegners 1 {C} mehr.",
                 "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, os ataques usados pelo Pokémon Ativo do seu oponente custarão 1 {C} a mais.",
-                "zh-tw": "只要該神奇寶貝位於活動區域，對手的活動神奇寶貝使用的攻擊就會多花費 1 {C} 點。"
+                "zh-tw": "只要該神奇寶貝位於活動區域，對手的活動神奇寶貝使用的攻擊就會多花費 1 {C} 點。",
+                ja: "このポケモンがバトル場にいるかぎり、相手のバトルポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 30,
             cost: ["Water", "Psychic"]

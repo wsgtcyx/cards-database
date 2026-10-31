@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/097",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/097"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/097"
     },
     name: {
         en: "Melmetal",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
-        ja: "Meltan",
+        ja: "メルタン",
         ko: "Meltan"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Konfrontieren",
                 "pt-br": "Confrontar",
                 "zh-tw": "正面對決",
-                ja: "Confront",
+                ja: "がちんこ",
                 ko: "Confront"
             },
             cost: [
@@ -83,7 +84,7 @@ const card: Card = {
                 de: "Metallgedränge",
                 "pt-br": "Barreira Metálica",
                 "zh-tw": "金屬聯防",
-                ja: "Metal Scrum",
+                ja: "メタルスクラム",
                 ko: "Metal Scrum"
             },
             effect: {
@@ -94,7 +95,7 @@ const card: Card = {
                 de: "Solange dieses Pokémon im Spiel ist, werden allen deinen {M}-Pokémon -20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt. Der Effekt stapelt sich nicht.",
                 "pt-br": "Enquanto este Pokémon estiver em jogo, todos os seus Pokémon {M} receberão −20 pontos de dano de ataques dos Pokémon do seu oponente. Este efeito não acumula.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有{M}寶可夢受到對手的寶可夢招式的傷害-20點。這個特性不會重複。",
-                ja: "As long as this Pokémon is in play, all of your {M} Pokémon take −20 damage from attacks from your opponent's Pokémon. This effect doesn't stack.",
+                ja: "このポケモンがいるかぎり、自分の{M}ポケモン全員が、相手のポケモンから受けるワザのダメージを-20する。この特性は重ならない。",
                 ko: "As long as this Pokémon is in play, all of your {M} Pokémon take −20 damage from attacks from your opponent's Pokémon. This effect doesn't stack."
             },
             type: "Ability"
@@ -108,7 +109,7 @@ const card: Card = {
         de: "Geht sein Leben dem Ende zu, rostet sein Körper und fällt auseinander. Kurz darauf erwachen die verbliebenen Fragmente als Meltan zum Leben.",
         "pt-br": "No fim de sua vida, Melmetal enferrujará e se despedaçará. Os pequenos cacos que ficarem para trás eventualmente renascerão como Meltan.",
         "zh-tw": "壽命快到盡頭的時候，身體就會生鏽碎裂。到最後細小的碎片會復活為美錄坦。",
-        ja: "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+        ja: "寿命が 尽きると 体が 錆びて 崩れる。 やがて 小さな 破片が メルタンに 復活する。",
         ko: "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan."
     }
 };

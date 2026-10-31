@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/246",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/246",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/246",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/246"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/246",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/246"
     },
     name: {
         en: "Corviknight",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krarmor",
         "pt-br": "Corviknight",
         "zh-tw": "鋼鎧鴉",
+        ja: "アーマーガア",
     },
     illustrator: "hncl",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kranoviz",
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
+        ja: "アオガラス",
     },
     description: {
         en: "Although its wings have partly turned to steel and\nbecome heavy as a result, this Pokémon flies\nthrough the skies with ease.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sebbene le sue ali siano in parte diventate d'acciaio e\ndi conseguenza diventa pesante, questo Pokémon vola\nattraverso i cieli con facilità.",
         "de": "Obwohl seine Flügel teilweise zu Stahl geworden sind und\nWird das Pokémon dadurch schwer, fliegt es\nmit Leichtigkeit durch die Lüfte.",
         "pt-br": "Embora suas asas tenham se transformado parcialmente em aço e\ncomo resultado, este Pokémon voa\npelos céus com facilidade.",
-        "zh-tw": "雖然它的翅膀已經部分變成了鋼鐵，\n結果變得很重，這只神奇寶貝會飛\n輕鬆穿越天空。"
+        "zh-tw": "雖然它的翅膀已經部分變成了鋼鐵，\n結果變得很重，這只神奇寶貝會飛\n輕鬆穿越天空。",
+        ja: "羽の 一部が 鋼に 変化。 重たい 翼を ものともせずに 大空を ゆうゆうと 飛びまわる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ali di ferro",
                 "de": "Eisenflügel",
                 "pt-br": "Asas de Ferro",
-                "zh-tw": "鐵翼"
+                "zh-tw": "鐵翼",
+                ja: "くろがねのつばさ"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta due Energie {M} da questo Pokémon. Durante il prossimo turno del tuo avversario, questo Pokémon subisce -50 danni dagli attacchi.",
                 "de": "Lege 2 {M} Energie von diesem Pokémon ab. Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −50 Schadenspunkte durch Angriffe.",
                 "pt-br": "Descarte 2 {M} Energias deste Pokémon. Durante o próximo turno do seu oponente, este Pokémon sofrerá −50 de dano de ataques.",
-                "zh-tw": "丟棄該神奇寶貝的 2 {M} 點能量。在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。"
+                "zh-tw": "丟棄該神奇寶貝的 2 {M} 點能量。在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。",
+                ja: "このポケモンから{M}エネルギーを2個トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-50する。"
             }
         }],
     weaknesses: [{

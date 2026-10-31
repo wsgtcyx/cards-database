@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/031"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/031"
     },
     name: {
         en: "Larvesta",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nei tempi antichi, Larvesta era venerato come l'emissario del sole. Tuttavia, era anche considerato un peso poiché spesso causava incendi boschivi.",
         de: "In der Antike wurde Ignivor als Abgesandter der Sonne verehrt. Allerdings wurde es auch als Belastung empfunden, da es häufig zu Waldbränden kam.",
         "pt-br": "Nos tempos antigos, Larvesta era adorado como o emissário do sol. No entanto, também era visto como um fardo, uma vez que provocava frequentemente incêndios florestais.",
-        "zh-tw": "在古代，燃燒蟲被崇拜為太陽的使者。然而，它也被視為一種負擔，因為它經常引起森林火災。"
+        "zh-tw": "在古代，燃燒蟲被崇拜為太陽的使者。然而，它也被視為一種負擔，因為它經常引起森林火災。",
+        ja: "大昔は 太陽の遣い と 崇められたが しばしば 山火事を 起こすこともあり 煙たがられた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Soffiofuoco Mirato",
                 de: "Stetiger Feuerhauch",
                 "pt-br": "Hálito de Fogo Constante",
-                "zh-tw": "吐火"
+                "zh-tw": "吐火",
+                ja: "ひをはく"
             },
             damage: 20
         }

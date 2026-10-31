@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/085",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/085"
     },
     name: {
         en: "Ducklett",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ducklett",
         de: "Piccolente",
         'pt-br': "Ducklett",
+        ja: "コアルヒー",
         ko: "꼬지보리",
         "zh-tw": "鴨寶寶",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 'pt-br': "Asa",
+                ja: "はばたく",
                 ko: "홰치기",
                 "zh-tw": "皮瓣"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Quando viene attaccato schizza acqua\nda tutte le piume del corpo. Fugge\ndileguandosi in una nuvola di spruzzi.",
         de: "Gerät es in Gefahr, versprüht es Wasser aus\nseinem Federkleid und nutzt den Sprühregen,\num Reißaus zu nehmen.",
         'pt-br': "Quando atacado, usa as penas para\nespirrar água e foge protegido pelo spray.",
+        ja: "敵に 襲われると 全身の 羽毛から 水しぶきを 出す。 水煙に 紛れて 逃げるのだ。",
         ko: "상대에게 공격당하면 전신의\n깃털에서 물보라를 내뿜는다.\n물안개에 숨어들어 도망친다.",
         "zh-tw": "當受到攻擊時，它會用羽毛濺起水花，在水花的掩護下逃脫。"
     },

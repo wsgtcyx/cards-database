@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/261",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/261",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/261",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/261"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/261",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/261"
     },
     name: {
         en: "Magearna",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magearna",
         "pt-br": "Magearna",
         "zh-tw": "瑪機雅娜",
+        ja: "マギアナ",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sincronizza la sua coscienza con gli altri\nper comprendere i loro sentimenti. Questa facoltà fa\nè utile per prendersi cura delle persone.",
         "de": "Es synchronisiert sein Bewusstsein mit anderen\nihre Gefühle zu verstehen. Diese Fakultät macht\nEs ist nützlich, um sich um Menschen zu kümmern.",
         "pt-br": "Ele sincroniza sua consciência com outras pessoas\npara entender seus sentimentos. Esta faculdade faz\né útil para cuidar das pessoas.",
-        "zh-tw": "它將自己的意識與其他人同步\n了解他們的感受。這個師資力量使得\n它對於照顧人很有用。"
+        "zh-tw": "它將自己的意識與其他人同步\n了解他們的感受。這個師資力量使得\n它對於照顧人很有用。",
+        ja: "意識を 同調させて 相手の 気持ちを 理解。 人の お世話を するのに 便利な 能力。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Cannone d'argento",
                 "de": "Silberne Kanone",
                 "pt-br": "Canhão Prateado",
-                "zh-tw": "銀炮"
+                "zh-tw": "銀炮",
+                ja: "シルバーカノン"
             },
             damage: "40+",
             cost: ["Metal", "Metal"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario ha un'abilità, questo attacco infligge 40 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners über eine Fähigkeit verfügt, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver uma Habilidade, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢擁有能力，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的活躍寶可夢擁有能力，則這次攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンが特性を持っているなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

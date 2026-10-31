@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/006",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/006",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/006"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/006"
     },
     name: {
         en: "Mega Pidgeot ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Tornado Gigante",
                 de: "Gigantischer Wirbel",
                 "pt-br": "Tornado Gigante",
-                "zh-tw": "巨型龍捲風"
+                "zh-tw": "巨型龍捲風",
+                ja: "ジャイアントツイスター"
             },
             effect: {
                 en: "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If all of them are tails, this attack does nothing.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Lancia 3 monete. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario. Se escono tutte croce, questo attacco non ha alcun effetto.",
                 de: "Wirf 3 Münzen. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab. Wenn alle davon Schwänze sind, bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente. Se todos derem coroa, este ataque não fará nada.",
-                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄對手的活躍寶可夢中的隨機能量。如果它們都是反面，則此攻擊不起作用。"
+                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄對手的活躍寶可夢中的隨機能量。如果它們都是反面，則此攻擊不起作用。",
+                ja: "コインを3回投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。すべてウラなら、このワザは失敗。"
             },
             damage: 100
         }

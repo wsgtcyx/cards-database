@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/088",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/088",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/088"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/088"
     },
     name: {
         en: "Zoroark",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Zorua",
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
-        ja: "Zorua",
+        ja: "ゾロア",
         ko: "Zorua"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Schmarotzer",
                 "pt-br": "Jogo Sujo",
                 "zh-tw": "欺詐",
-                ja: "Foul Play",
+                ja: "イカサマ",
                 ko: "Foul Play"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wähle 1 Attacke des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.",
                 "pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
                 "zh-tw": "選擇1個對手的戰鬥寶可夢持有的招式,作為這個招式使用。",
-                ja: "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+                ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。",
                 ko: "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Es heißt, Zoroark verbanne jeden, der es zu fangen versucht, zur Strafe in eine Welt der Illusionen.",
         "pt-br": "Rezam as lendas que aqueles que tentaram capturar Zoroark foram aprisionados em uma ilusão e punidos.",
         "zh-tw": "據說索羅亞克會把企圖捕捉牠的人困在虛幻的景色裡給予懲罰。",
-        ja: "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+        ja: "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。",
         ko: "Stories say those who tried to catch Zoroark were trapped in an illusion and punished."
     }
 };

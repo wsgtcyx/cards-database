@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/141"
     },
     name: {
         en: "Mankey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mankey",
         de: "Menki",
         'pt-br': "Mankey",
+        ja: "マンキー",
         ko: "망키",
         "zh-tw": "猴怪",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Colpo Basso",
                 de: "Fußkick",
                 'pt-br': "Rasteira",
+                ja: "けたぐり",
                 ko: "안다리걸기",
                 "zh-tw": "低踢"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine.",
         de: "Es lebt mit Artgenossen in Baumkronen.\nVerliert es sie aus den Augen, wird es\nvor Einsamkeit sofort zornig.",
         'pt-br': "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso.",
+        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
         ko: "나무 위에 무리 지어 산다.\n무리에서 떨어진 망키는\n외로운 나머지 금방 화를 낸다.",
         "zh-tw": "它成群生活在樹頂。如果它看不到自己的群體，它就會因為孤獨而被激怒。"
     },

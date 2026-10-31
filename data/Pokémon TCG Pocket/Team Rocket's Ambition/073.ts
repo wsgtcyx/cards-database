@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/073",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/073",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/073"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/073"
     },
     name: {
         en: "Delphox",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Controlla il fuoco con i suoi poteri psichici. Avvolge i nemici in un vortice di fiamme a 3.000 °C e li incenerisce.",
         de: "Es kontrolliert Flammen mithilfe von Telekinese und hüllt Gegner in 3000 °C heiße Wirbel aus Feuer, die sie zu Asche verbrennen.",
         "pt-br": "Controla chamas por telecinesia, aprisionando os inimigos em um vórtice ardente de mais de 3.000 °C e os queimando até virarem cinzas.",
-        "zh-tw": "能用念力操控火焰。攝氏３０００度的火焰旋渦會包圍對手並將其燒成灰燼。"
+        "zh-tw": "能用念力操控火焰。攝氏３０００度的火焰旋渦會包圍對手並將其燒成灰燼。",
+        ja: "念力で 炎を 操る。 摂氏3000度の 炎の 渦が 相手を 包みこみ 焼きつくす。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神強念"
+                "zh-tw": "精神強念",
+                ja: "サイコキネシス"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。"
+                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
             },
             damage: "60+"
         }

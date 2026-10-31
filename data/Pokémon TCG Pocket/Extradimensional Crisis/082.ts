@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/082"
     },
     name: {
         en: "Looker",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "LeBelle",
         "pt-br": "Looker",
         "zh-tw": "帥哥",
+        ja: "ハンサム",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Il tuo avversario rivela tutte le carte Aiuto nel suo mazzo.",
         "de": "Dein Gegner deckt alle Unterstützerkarten in seinem Deck auf.",
         "pt-br": "Seu oponente revela todas as cartas de Apoiador do seu baralho.",
-        "zh-tw": "你的對手展示了他們牌組中的所有支持者牌。"
+        "zh-tw": "你的對手展示了他們牌組中的所有支持者牌。",
+        ja: "相手の山札にあるサポートをすべて見る。"
     },
     trainerType: "Supporter"
 };

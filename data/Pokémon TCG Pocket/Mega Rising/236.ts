@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/236",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/236",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/236",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/236"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/236",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/236"
     },
     name: {
         en: "Eiscue",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kubuin",
         "pt-br": "Eiscue",
         "zh-tw": "冰砌鵝",
+        ja: "コオリッポ",
     },
     illustrator: "Mékayu",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se lecchi il ghiaccio che gli ricopre la faccia, lo troverai\nha un sapore leggermente salato. Questa specie cavalcava qui\ncorrenti oceaniche provenienti da una terra fredda e lontana.",
         "de": "Wenn Sie das Eis lecken, das sein Gesicht bedeckt, werden Sie es finden\nhat einen leicht salzigen Geschmack. Diese Art ritt hier weiter\nMeeresströmungen aus einem kalten, fernen Land.",
         "pt-br": "Se você lamber o gelo que cobre seu rosto, você o encontrará\ntem um sabor levemente salgado. Esta espécie andou aqui em\ncorrentes oceânicas de uma terra fria e distante.",
-        "zh-tw": "如果你舔它臉上的冰，你就會發現它\n有淡淡的鹹味。這個物種騎在這裡\n來自寒冷、遙遠的陸地的洋流。"
+        "zh-tw": "如果你舔它臉上的冰，你就會發現它\n有淡淡的鹹味。這個物種騎在這裡\n來自寒冷、遙遠的陸地的洋流。",
+        ja: "顔の 氷は 舐めると ほんのり しょっぱい。 海流に 乗って 遠くの 寒い 土地から 来た。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Faccia di ghiaccio",
                 "de": "Eisgesicht",
                 "pt-br": "Cara de Gelo",
-                "zh-tw": "冰面"
+                "zh-tw": "冰面",
+                ja: "アイスフェイス"
             },
             effect: {
                 en: "If this Pokémon has full HP, it takes −40 damage from attacks from your opponent's Pokémon.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha tutti i PS, subisce -40 danni dagli attacchi dei Pokémon del tuo avversario.",
                 "de": "Wenn dieses Pokémon volle KP hat, erleidet es −40 Schaden durch Angriffe der Pokémon deines Gegners.",
                 "pt-br": "Se este Pokémon estiver com HP cheio, ele sofrerá -40 de dano dos ataques dos Pokémon do seu oponente.",
-                "zh-tw": "如果這只神奇寶貝的 HP 為滿，則對手的神奇寶貝的攻擊會對其造成 -40 點傷害。"
+                "zh-tw": "如果這只神奇寶貝的 HP 為滿，則對手的神奇寶貝的攻擊會對其造成 -40 點傷害。",
+                ja: "このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージを-40する。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 50,
             cost: ["Water", "Water"]

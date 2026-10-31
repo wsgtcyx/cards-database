@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/060",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/060",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/060"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/060"
     },
     name: {
         en: "Dudunsparce",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Scaccia i nemici dal nido aspirando abbastanza aria da riempire i suoi polmoni lunghi e stretti, per poi rilasciarla con un'intensa esplosione.",
         de: "Es vertreibt Feinde aus seinem Nest, indem es genug Luft ansaugt, um seine langen, schmalen Lungen zu füllen, und die Luft dann mit einem heftigen Schwall wieder abgibt.",
         "pt-br": "Ele expulsa os inimigos de seu ninho sugando ar suficiente para encher seus pulmões longos e estreitos e, em seguida, liberando o ar em uma explosão intensa.",
-        "zh-tw": "它透過吸入足夠的空氣來填充其狹長的肺部，然後以強烈的衝擊力釋放空氣，從而將敵人趕出巢穴。"
+        "zh-tw": "它透過吸入足夠的空氣來填充其狹長的肺部，然後以強烈的衝擊力釋放空氣，從而將敵人趕出巢穴。",
+        ja: "細長い 肺いっぱいに 空気を 吸い込み 強烈な 爆風を 起こして 敵を 巣から 追い出す。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Perforazione improvvisa",
                 de: "Plötzliches Bohren",
                 "pt-br": "Perfuração Súbita",
-                "zh-tw": "突來一鑽"
+                "zh-tw": "突來一鑽",
+                ja: "いきなりドリル"
             },
             effect: {
                 en: "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon si è evoluto da Dunsparce durante questo turno, scarta due Energie casuali dal Pokémon attivo del tuo avversario.",
                 de: "Wenn sich dieses Pokémon in diesem Zug aus Dummisel entwickelt hat, wirf 2 zufällige Energien vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Se este Pokémon evoluiu de Dunsparce durante este turno, descarte 2 Energias aleatórias do Pokémon Ativo do seu oponente.",
-                "zh-tw": "如果這隻寶可夢在這個回合中是從 土龍弟弟 進化而來的，則隨機捨棄對手的出戰寶可夢 2 點能量。"
+                "zh-tw": "如果這隻寶可夢在這個回合中是從 土龍弟弟 進化而來的，則隨機捨棄對手的出戰寶可夢 2 點能量。",
+                ja: "この番、このポケモンが「ノコッチ」から進化していたなら、相手のバトルポケモンからエネルギーをランダムに2個トラッシュ。"
             },
             damage: 60
         }

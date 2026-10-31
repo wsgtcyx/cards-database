@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/219",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/219",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/219",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/219"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/219",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/219"
     },
     name: {
         en: "Steelix",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Si pensa che si sia trasformato a causa del\nferro contenuto nella terra che mangia.",
         de: "Man glaubt, dass sich sein Körper aufgrund des\nSchluckens von eisenhaltiger Erde verwandelt\nhabe.",
         "pt-br": "Acredita-se que seu corpo tenha se transformado como resultado do acúmulo de ferro internamente ao engolir terra.",
-        "zh-tw": "人們認為牠的身體是因為\n堆積了和泥土一起吞下的\n鐵質，才會發生變化的。"
+        "zh-tw": "人們認為牠的身體是因為\n堆積了和泥土一起吞下的\n鐵質，才會發生變化的。",
+        ja: "土と 一緒に 飲みこんだ 鉄分が 溜まっていって 体が 変化したとも 考えられる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Metalloscudo",
                 de: "Metallverteidiger",
                 "pt-br": "Defensor Metálico",
-                "zh-tw": "金屬防禦"
+                "zh-tw": "金屬防禦",
+                ja: "メタルディフェンダー"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon has no Weakness.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon non ha debolezze.",
                 de: "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon não terá Fraqueza.",
-                "zh-tw": "在對手的下一個回合中，這只寶可夢沒有弱點。"
+                "zh-tw": "在對手的下一個回合中，這只寶可夢沒有弱點。",
+                ja: "次の相手の番、このポケモンの弱点を、すべてなくす。"
             },
             damage: 100
         }

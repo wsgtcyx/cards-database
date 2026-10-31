@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/239",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/239",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/239",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/239"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/239",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/239"
     },
     name: {
         en: "Gothita",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mollimorba",
         "pt-br": "Gothita",
         "zh-tw": "哥德寶寶",
+        ja: "ゴチム",
     },
     illustrator: "Orca",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Fare attenzione a toccare le antenne a forma di nastro\nche controllano il suo potere psichico. Inizierà Gothita\nurlando se lo fai.",
         "de": "Achten Sie darauf, die bandförmigen Fühler nicht zu berühren\ndie seine psychische Kraft kontrollieren. Gothita wird beginnen\nheulen, wenn du das tust.",
         "pt-br": "Cuidado ao tocar nas antenas em forma de fita\nque controlam seu poder psíquico. Gothita vai começar\ngritando se você fizer isso.",
-        "zh-tw": "小心觸摸帶狀觸角\n控制它的精神力量。哥提塔即將開始\n如果你這樣做的話，你會大喊大叫。"
+        "zh-tw": "小心觸摸帶狀觸角\n控制它的精神力量。哥提塔即將開始\n如果你這樣做的話，你會大喊大叫。",
+        ja: "サイコパワーを コントロールする リボン型の 触角に 触れると 激しく 泣きだすので 注意。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Fuga precipitosa",
                 "de": "Ansturm",
                 "pt-br": "Debandada",
-                "zh-tw": "踩踏"
+                "zh-tw": "踩踏",
+                ja: "ふむ"
             },
             damage: 20,
             cost: ["Psychic"]

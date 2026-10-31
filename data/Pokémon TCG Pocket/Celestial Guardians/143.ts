@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/143",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/143"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/143"
     },
     name: {
         en: "Fishing Net",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rete da Pesca",
         de: "Fischernetz",
         'pt-br': "Rede de Pesca",
+        ja: "おさかなネット",
         ko: "물고기네트",
         "zh-tw": "漁網",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Prendi un Pokémon Base {W} a caso dalla tua pila degli scarti e aggiungilo alle carte che hai in mano.",
         de: "Nimm ein zufälliges Basis-{W}-Pokémon aus deinem Ablagestapel auf deine Hand.",
         'pt-br': "Coloque um Pokémon {W} Básico aleatório da sua pilha de descarte na sua mão.",
+        ja: "自分のトラッシュから{W}タイプのたねポケモンをランダムに1枚、手札に加える。",
         ko: "자신의 트래쉬에서 {W}타입의 기본 포켓몬을 랜덤으로 1장 패로 가져온다.",
         "zh-tw": "從你的棄牌堆中隨機將 1 只基礎 {W} 神奇寶貝置入你的手牌。"
     },

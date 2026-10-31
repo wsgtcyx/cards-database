@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/050"
     },
     name: {
         en: "Flittle",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Flattutu",
         "pt-br": "Flittle",
         "zh-tw": "飄飄雛",
+        ja: "ヒラヒナ",
         pt: "Flittle"
     },
     illustrator: "kodama",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Trascorre il suo tempo correndo per le terre desolate. Se qualcuno ruba le sue amate bacche, lo inseguirà e si vendicherà.",
         "de": "Es verbringt seine Zeit damit, durch Ödland zu rennen. Wenn jemand seine geliebten Beeren stiehlt, wird er sie jagen und Rache üben.",
         "pt-br": "Ele passa o tempo correndo por terrenos baldios. Se alguém roubar suas queridas frutas, ele irá persegui-los e se vingar.",
-        "zh-tw": "它花時間在荒地裡奔跑。如果有人偷了它心愛的漿果，它就會追捕並實施報復。"
+        "zh-tw": "它花時間在荒地裡奔跑。如果有人偷了它心愛的漿果，它就會追捕並實施報復。",
+        ja: "荒れ地を 走りまわって 暮らす。 大好きな 木の実を 取られると 追いかけまわして 復讐する。"
     },
     stage: "Basic",
     attacks: [
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Flop",
                 de: "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: "20",
             cost: ["Psychic"],

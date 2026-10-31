@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/059"
     },
     name: {
         en: "Ambipom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ambidiffel",
         "pt-br": "Ambipom",
         "zh-tw": "雙尾怪手",
+        ja: "エテボース",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usa la coda per tutto. Se avvolge entrambi\ndelle sue code intorno a te e ti stringe,\nquesta è la prova che gli piaci davvero.",
         "de": "Es nutzt seinen Schwanz für alles. Wenn es beides umhüllt\nseiner Schwänze um dich herum und drückt dich,\nDas ist der Beweis, dass es dich wirklich mag.",
         "pt-br": "Ele usa a cauda para tudo. Se envolver ambos\nde suas caudas ao seu redor e lhe dá um aperto,\nisso é prova de que ele realmente gosta de você.",
-        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。"
+        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。",
+        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Catturare la coda",
                 "de": "Schwanz fangen",
                 "pt-br": "Pegando o rabo",
-                "zh-tw": "抓尾巴"
+                "zh-tw": "抓尾巴",
+                ja: "テールキャッチ"
             },
             effect: {
                 en: "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi mettere nella tua mano una carta Oggetto Pokémon casuale dal tuo mazzo.",
                 "de": "Einmal während deines Zuges kannst du eine zufällige Pokémon-Ausrüstungskarte aus deinem Deck auf deine Hand nehmen.",
                 "pt-br": "Uma vez durante o seu turno, você pode colocar uma carta aleatória de Ferramenta Pokémon do seu baralho na sua mão.",
-                "zh-tw": "在你的回合中，你可以從你的牌組中隨機將一張神奇寶貝工具卡放入你的手牌。"
+                "zh-tw": "在你的回合中，你可以從你的牌組中隨機將一張神奇寶貝工具卡放入你的手牌。",
+                ja: "自分の番に1回使える。自分の山札から「ポケモンのどうぐ」をランダムに枚、手札に加える。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Punzone per cavatappi",
                 "de": "Korkenzieherstanze",
                 "pt-br": "Furador de saca-rolhas",
-                "zh-tw": "螺旋沖頭"
+                "zh-tw": "螺旋沖頭",
+                ja: "どつく"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"]

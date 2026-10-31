@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/051"
     },
     name: {
         en: "Cyclizar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cyclizar",
         de: "Mopex",
         'pt-br': "Cyclizar",
+        ja: "モトトカゲ",
         ko: "모토마",
         "zh-tw": "摩托蜥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sembra che trasportasse esseri umani sul\ndorso già nell'antichità. È rappresentato in\npitture rupestri risalenti a 10.000 anni fa.",
         de: "Seit uralten Zeiten soll es Menschen auf seinem\nRücken reiten lassen. Darstellungen davon finden\nsich auf 10 000 Jahre alten Wandmalereien.",
         'pt-br': "Aparentemente, Cyclizar permite que as pessoas o\nmontem desde os tempos antigos. Representações deste\nato foram encontradas em murais com mais de 10.000 anos.",
+        ja: "大昔から 人を 背中に 乗せていたらしい。 1万年前の 壁画に 様子が 描かれている。",
         ko: "먼 옛날부터 인간을\n등에 태우고 다녔다고 한다.\n1만 년 전 벽화에도 그 모습이 그려져 있다.",
         "zh-tw": "顯然 Cyclizar 一直在允許人們\n自古就騎在它的背上。的描述\n這是在一萬年前的壁畫中發現的。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Iperaccelerazione",
                 de: "Überbeschleunigung",
                 'pt-br': "Superaceleração",
+                ja: "オーバーアクセル",
                 ko: "오버액셀",
                 "zh-tw": "超加速"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Iperaccelerazione di questo Pokémon infligge +20 danni.",
                 de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 20 Schadenspunkte zu.",
                 'pt-br': "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 20 pontos de dano.",
+                ja: "次の自分の番、このポケモンの「オーバーアクセル」のダメージを+20する。",
                 ko: "자신의 다음 차례에 이 포켓몬의 「오버액셀」의 데미지를 +20한다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/042",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/042",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/042"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/042"
     },
     name: {
         en: "Numel",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Das heiße Magma in seinem Höcker dient ihm als Energiereserve und verleiht ihm enorme Stärke.",
         "pt-br": "O magma flamejante que armazena na corcunda em suas costas é a fonte de seu tremendo poder.",
         "zh-tw": "背上的駝峰裡燃燒的熔岩會轉變成能量，發揮出驚人的力量。",
-        ja: "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
+        ja: "背中の コブの 中で 燃える マグマが エネルギーとなって すごい 力を 発揮するのだ。",
         ko: "The flaming magma it stores in the hump on its back is the source of its tremendous power."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Zurückschlagen",
                 "pt-br": "Jogar Longe",
                 "zh-tw": "擊飛",
-                ja: "Knock Away",
+                ja: "はねとばす",
                 ko: "Knock Away"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "Flip a coin. If heads, this attack does 30 more damage.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "Flip a coin. If heads, this attack does 30 more damage."
             },
             damage: "20+"

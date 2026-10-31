@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/030"
     },
     name: {
         en: "Eevee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Eevee",
         de: "Evoli",
         'pt-br': "Eevee",
+        ja: "イーブイ",
         ko: "이브이",
         "zh-tw": "伊布"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente.",
         de: "Um sich jeder Umgebung perfekt anpassen zu\nkönnen, ist es in der Lage, sich zu verschiedenen\nPokémon zu entwickeln.",
         'pt-br': "Sua capacidade de evoluir para muitas formas\npermite que se adapte fácil e perfeitamente\na qualquer ambiente.",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
         ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다.",
         "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ruggito",
                 de: "Heuler",
                 'pt-br': "Rosnadura",
+                ja: "なきごえ",
                 ko: "울음소리",
                 "zh-tw": "咆哮"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 de: "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon − 20 Schadenspunkte zu.",
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/023"
     },
     name: {
         en: "Bulbasaur",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bulbasaur",
         de: "Bisasam",
         'pt-br': "Bulbasaur",
+        ja: "フシギダネ",
         ko: "이상해씨",
         "zh-tw": "妙蛙種子"
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 'pt-br': "Chicote de Vinha",
+                ja: "つるのムチ",
                 ko: "덩굴채찍",
                 "zh-tw": "藤鞭"
             },
@@ -48,6 +51,7 @@ const card: Card = {
         it: "Fin dalla nascita questo Pokémon ha sulla\nschiena un seme che cresce lentamente.",
         de: "Dieses Pokémon trägt von Geburt an einen\nSamen auf dem Rücken, der im Laufe der Zeit\nkeimt und wächst.",
         'pt-br': "Este Pokémon já nasce com uma semente\nnas costas. Aos poucos, a semente cresce.",
+        ja: "生まれたときから 背中に 植物の タネが あって 少しずつ 大きく 育つ。",
         ko: "태어났을 때부터 등에\n식물의 씨앗이 있으며\n조금씩 크게 자란다.",
         "zh-tw": "它的背上有一粒植物種子\n這只神奇寶貝誕生的那一天。種子慢慢地\n變大。"
     },

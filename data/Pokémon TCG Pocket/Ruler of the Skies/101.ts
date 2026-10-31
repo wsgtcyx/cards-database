@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/101",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/101",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/101"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/101"
     },
     name: {
         en: "Vullaby",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha un grande appetito e cresce a vista d’occhio.\nMan mano che la sua taglia aumenta, deve\ncambiare il teschio che indossa.",
         de: "Durch seinen ständigen Appetit hat Skallyk\nfortlaufend Wachstumsschübe. Deshalb muss\nes seine Schädelwindel immerzu auswechseln.",
         "pt-br": "Seu apetite saudável leva a surtos de crescimento visíveis. Freqüentemente, ele precisa substituir os ossos que usa à medida que seu tamanho aumenta.",
-        "zh-tw": "正處於食慾旺盛的發育期。\n為了配合身體的成長，\n會多次更換所穿的骨頭。"
+        "zh-tw": "正處於食慾旺盛的發育期。\n為了配合身體的成長，\n會多次更換所穿的骨頭。",
+        ja: "食べ盛りの 育ち盛り。 身体の 成長に あわせて ガイコツを 何度も 履き替えるよ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Corri in giro",
                 de: "Herumlaufen",
                 "pt-br": "Zoar",
-                "zh-tw": "雀躍"
+                "zh-tw": "雀躍",
+                ja: "はしゃぐ"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
+                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }
     ],

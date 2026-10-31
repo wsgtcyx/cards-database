@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/120",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/120",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/120"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/120",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/120"
     },
     name: {
         en: "Flutter Mane ex",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Fesselnder Start",
                 "pt-br": "Começo Enfeitiçador",
                 "zh-tw": "原書咒縛",
-                ja: "Spellbinding Start",
+                ja: "げんしょじゅばく",
                 ko: "Spellbinding Start"
             },
             effect: {
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Wenn dieses Pokémon zum ersten Mal eine Attacke einsetzt, nachdem es ins Spiel gebracht wurde, kann dein Gegner während seines nächsten Zuges keine Trainerkarten aus seiner Hand spielen.",
                 "pt-br": "Se esta for a primeira vez que este Pokémon usa um ataque após entrar em jogo, durante o próximo turno do seu oponente, ele não poderá usar nenhuma carta de Treinador da mão dele.",
                 "zh-tw": "若這隻寶可夢被放置於場上後首次使用了招式,則在下個對手的回合,對手無法從手牌使出訓練家卡。",
-                ja: "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand.",
+                ja: "このポケモンが場に出てから、はじめてワザを使ったなら、次の相手の番、相手は手札からトレーナーズを出して使えない。",
                 ko: "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
             },
             damage: 70

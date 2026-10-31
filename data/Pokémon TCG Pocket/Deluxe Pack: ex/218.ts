@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/218",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/218"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/218",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/218"
     },
     name: {
         en: "Crabrawler",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krabbox",
         "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
+        ja: "マケンカニ",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon prende a pugni gli alberi e mangia\nle bacche che cadono formandosi\ne procurarsi il cibo allo stesso tempo.",
         "de": "Dieses Pokémon schlägt Bäume und frisst\ndie Beeren, die herunterfallen und sich trainieren\nund gleichzeitig Essen bekommen.",
         "pt-br": "Este Pokémon soca árvores e come\nas bagas que caem, treinando-se\ne conseguir comida ao mesmo tempo.",
-        "zh-tw": "這只神奇寶貝會打樹並吃東西\n掉落下來的漿果，自我訓練\n並同時獲取食物。"
+        "zh-tw": "這只神奇寶貝會打樹並吃東西\n掉落下來的漿果，自我訓練\n並同時獲取食物。",
+        ja: "木を 殴りつけ 木の実を 落として 食べる。 トレーニングしつつ エサも 採れて 一石二鳥 なのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Punch",
                 "de": "Stempel",
                 "pt-br": "Soco",
-                "zh-tw": "沖床"
+                "zh-tw": "沖床",
+                ja: "パンチ"
             },
             damage: 20,
             cost: ["Colorless"]

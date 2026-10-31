@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/010"
     },
     name: {
         en: "Leafeon ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Leafeon-ex",
         de: "Folipurba-ex",
         'pt-br': "Leafeon ex",
+        ja: "リーフィアex",
         ko: "리피아 ex",
         "zh-tw": "葉伊布ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Forestasoffio",
                 de: "Waldatem",
                 'pt-br': "Hálito da Floresta",
+                ja: "もりのいぶき",
                 ko: "숲의 숨결",
                 "zh-tw": "森林呼吸"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi prendere un'Energia {G} dalla tua Zona Energia e assegnarla a uno dei tuoi Pokémon {G}.",
                 de: "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du 1 {G}-Energie aus deinem Energiebereich an 1 deiner {G}-Pokémon anlegen.",
                 'pt-br': "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá pegar 1 Energia {G} da sua Zona de Energia e ligá-la a 1 dos seus Pokémon {G}.",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のエネルギーゾーンから{G}エネルギーを1個出し、{G}ポケモンにつける。",
                 ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {G}에너지를 1개 내보내 {G}포켓몬에게 붙인다.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝位於活動位置，你可以從你的能量區取出一個 {G} 能量並將其附加到你的 1 只 {G} 神奇寶貝上。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Solarraggio",
                 de: "Solarstrahl",
                 'pt-br': "Raio Solar",
+                ja: "ソーラービーム",
                 ko: "솔라빔",
                 "zh-tw": "太陽光束"
             },
