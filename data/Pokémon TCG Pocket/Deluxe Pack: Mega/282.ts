@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/282",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/282",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/282",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/282"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/282",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/282"
     },
     name: {
         en: "Feebas",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "É o Pokémon mais desgastado de todos. Forma cardumes e vive no leito de rios repletos de plantas.",
         "zh-tw": "最寒酸的寶可夢。在有許多水草的河底群聚而居。",
         ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。",
-        ko: "It is the shabbiest Pokémon of all. It forms schools and lives at the bottom of rivers that teem with plant life."
+        ko: "제일 볼품없는 포켓몬이다.\n수초가 많은 강바닥에\n한데 모여 살고 있다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Borrifada",
                 "zh-tw": "躍起",
                 ja: "はねる",
-                ko: "Splash"
+                ko: "튀어오르기"
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/084"
     },
     name: {
         en: "Unown",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Unown",
         "zh-tw": "未知圖騰",
         ja: "アンノーン",
+        ko: "안농",
     },
     illustrator: "OKUBO",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein flacher, dünner Körper klebt immer an Wänden. Seine Form\nscheint eine Bedeutung zu haben.",
         "pt-br": "Seu corpo achatado e fino está sempre preso nas paredes. Sua forma\nparece ter algum significado.",
         "zh-tw": "它扁平、薄薄的身體總是貼在牆上。它的形狀\n似乎有一定的意義。",
-        ja: "体自体は 薄っぺらく いつも 壁に 張りついている。 形に なにか 意味があるらしい。"
+        ja: "体自体は 薄っぺらく いつも 壁に 張りついている。 形に なにか 意味があるらしい。",
+        ko: "몸 자체는 굉장히 얇고\n항상 벽에 들러붙어 있다.\n모습에는 뭔가 의미가 있는 듯하다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "BEWACHEN",
                 "pt-br": "GUARDA",
                 "zh-tw": "警衛",
-                ja: "GUARD [ガード]"
+                ja: "GUARD [ガード]",
+                ko: "GUARD [가드]"
             },
             effect: {
                 en: "This Ability works if you have any Unown in play with an Ability other than . All of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Diese Fähigkeit funktioniert, wenn Sie einen Unbekannten mit einer anderen Fähigkeit als im Spiel haben. Alle deine Pokémon erleiden −10 Schaden durch Angriffe der Pokémon deines Gegners.",
                 "pt-br": "Esta habilidade funciona se você tiver algum Unown em jogo com uma habilidade diferente de . Todos os seus Pokémon sofrem -10 de dano de ataques dos Pokémon do seu oponente.",
                 "zh-tw": "如果您有任何未知的技能與 以外的技能一起使用，則此技能有效。你的所有神奇寶貝因對手神奇寶貝的攻擊而受到−10點傷害。",
-                ja: "自分の場に「GUARD」以外の特性を持つ「アンノーン」がいるなら、はたらく。自分のポケモン全員が、相手のポケモンから受けるワザのダメージを-10する。"
+                ja: "自分の場に「GUARD」以外の特性を持つ「アンノーン」がいるなら、はたらく。自分のポケモン全員が、相手のポケモンから受けるワザのダメージを-10する。",
+                ko: "자신의 필드에 「GUARD」 이외의 특성을 가진 「안농」이 있다면 작용한다. 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지를 -10한다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Verborgene Macht",
                 "pt-br": "Poder Oculto",
                 "zh-tw": "隱藏的力量",
-                ja: "めざめるパワー"
+                ja: "めざめるパワー",
+                ko: "잠재파워"
             },
             damage: 20,
             cost: ["Colorless"]

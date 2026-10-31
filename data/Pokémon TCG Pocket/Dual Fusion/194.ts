@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/194",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/194",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/194",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/194"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/194",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/194"
     },
     name: {
         en: "Pachirisu",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Estalo Estalante",
                 "zh-tw": "啪滋打亂",
                 ja: "パチッとくずす",
-                ko: "Crackling Snap"
+                ko: "찌릿부수기"
             },
             cost: [
                 "Lightning"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "將自己的牌庫上方1張卡丟棄,若那張卡為物品卡,則增加20點傷害。",
                 ja: "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、20ダメージ追加。",
-                ko: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+                ko: "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 아이템이라면 20데미지를 추가한다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "É possível ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada.",
         "zh-tw": "有時候可以見到 為了將儲存的電力分給同伴 而互相摩擦臉頰的帕奇利茲。",
         ja: "たまった 電気を 分け与えようと ほほ袋を こすり合わせる パチリスを 見かけることも ある。",
-        ko: "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity."
+        ko: "모인 전기를 나눠 주려고\n뺨의 주머니를 서로 비비는\n파치리스가 발견되기도 한다."
     }
 };
 

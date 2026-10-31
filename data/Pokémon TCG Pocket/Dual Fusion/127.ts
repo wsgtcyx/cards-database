@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/127",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/127"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/127",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/127"
     },
     name: {
         en: "Serena's Choice",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Guarda le prime 3 carte del tuo mazzo e aggiungine una alle carte che hai in mano. Poi rimischia il resto nel tuo mazzo.",
         de: "Schau dir die obersten 3 Karten deines Decks an und nimm 1 von ihnen auf deine Hand. Mische den Rest zurück in dein Deck.",
         ja: "自分の山札を上から3枚見て、その中からカードを1枚選び、手札に加える。残りのカードは山札にもどす。",
-        ko: "Look at the top 3 cards of your deck and put 1 of them into your hand. Shuffle back into your deck."
+        ko: "자신의 덱을 위에서부터 3장 보고 그 중에서 카드를 1장 선택해서 패로 가져온다. 남은 카드는 덱으로 되돌린다."
     }
 };
 

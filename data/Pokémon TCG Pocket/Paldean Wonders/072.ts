@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/072"
     },
     name: {
         en: "Tinkatink",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
         ja: "カヌチャン",
+        ko: "어리짱",
         pt: "Tinkatink",
         'es-mx': "Tinkatink"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Dieses Pokémon schlägt Eisenreste zu einem Hammer zusammen. Es wird den Hammer immer wieder neu machen, bis es mit dem Ergebnis zufrieden ist.",
         "pt-br": "Este Pokémon junta pedaços de ferro para fazer um martelo. Ele irá refazer o martelo repetidas vezes até ficar satisfeito com o resultado.",
         "zh-tw": "這隻寶可夢將鐵屑搗碎在一起製成鐵鎚。它會一次又一次地重新製作錘子，直到對結果滿意為止。",
-        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。"
+        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。",
+        ko: "쇠 부스러기를 두드려 해머를 만든다.\n만족스러운 물건이 나올 때까지\n몇 번이고 다시 만든다."
     },
     stage: "Basic",
     attacks: [

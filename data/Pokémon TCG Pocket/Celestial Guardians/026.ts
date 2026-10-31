@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/026"
     },
     name: {
         en: "Arcanine",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
         ja: "ガーディ",
+        ko: "가디",
     },
     description: {
         en: "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",

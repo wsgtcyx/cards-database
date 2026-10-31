@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/037"
     },
     name: {
         en: "Landorus",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert.",
         "pt-br": "Das forças dos raios e do vento, ele cría energia para fornecer nutrientes ao solo e tornar a terra abundante.",
         "zh-tw": "吸收風與雷後轉化成的能量能夠給予土壤營養，讓大地變得豐饒。",
-        ja: "風や 雷を 取りこみ 変えた エネルギーが 土に 栄養を 与えて 大地を 豊かに する。"
+        ja: "風や 雷を 取りこみ 変えた エネルギーが 土に 栄養を 与えて 大地を 豊かに する。",
+        ko: "바람이나 번개를 거둬들여 바꾼\n에너지가 흙에 영양을\n주어 대지를 풍족하게 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Gaia-Einschlag",
                 "pt-br": "Impacto Gaia",
                 "zh-tw": "蓋亞衝擊",
-                ja: "ガイアインパクト"
+                ja: "ガイアインパクト",
+                ko: "가이아임팩트"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Lege alle Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的能量全部丟棄。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             },
             damage: 130
         }

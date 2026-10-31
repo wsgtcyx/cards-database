@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/140",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/140",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/140"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/140",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/140"
     },
     name: {
         en: "Dugtrio",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Digda",
         "pt-br": "Diglett",
         "zh-tw": "地鼠",
-        ja: "ディグダ"
+        ja: "ディグダ",
+        ko: "디그다"
     },
     attacks: [{
             cost: ["Fighting"],

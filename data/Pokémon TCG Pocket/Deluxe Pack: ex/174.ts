@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/174",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/174",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/174",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/174"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/174",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/174"
     },
     name: {
         en: "Swirlix",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
         ja: "ペロッパフ",
+        ko: "나룸퍼프",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es frisst jeden Tag sein eigenes Gewicht an Zucker.\nWenn es nicht genug Zucker bekommt, wird es\nunglaublich mürrisch.",
         "pt-br": "Ele come seu próprio peso em açúcar todos os dias.\nSe não obtiver açúcar suficiente, torna-se\nincrivelmente mal-humorado.",
         "zh-tw": "它每天吃掉與自身重量相同的糖。\n如果沒有獲得足夠的糖分，就會變成\n脾氣暴躁得令人難以置信。",
-        ja: "１日に 食べる 砂糖は 自分の 体重と 同じ。 糖分が 足りないと ひどく 不機嫌になる。"
+        ja: "１日に 食べる 砂糖は 自分の 体重と 同じ。 糖分が 足りないと ひどく 不機嫌になる。",
+        ko: "하루에 자신의 체중만큼의\n설탕을 먹는다. 당분이\n부족하면 매우 기분이 나빠진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽",
-                ja: "スイーツリレー"
+                ja: "スイーツリレー",
+                ko: "스위트릴레이"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
                 "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
-                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。",
+                ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

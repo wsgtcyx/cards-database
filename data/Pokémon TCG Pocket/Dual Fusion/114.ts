@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/114"
     },
     name: {
         en: "Bibarel",
@@ -52,7 +53,7 @@ const card: Card = {
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
         ja: "ビッパ",
-        ko: "Bidoof"
+        ko: "비버니"
     },
     attacks: [
         {
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Força",
                 "zh-tw": "怪力",
                 ja: "かいりき",
-                ko: "Strength"
+                ko: "괴력"
             },
             cost: [
                 "Colorless",
@@ -85,7 +86,7 @@ const card: Card = {
         "pt-br": "Ele monta seu ninho com pilhas de galhos e raízes de árvores que cortou com seus incisivos.",
         "zh-tw": "會勤勞地把用銳利的門牙啃斷的樹枝和樹根堆積起來，在水邊築巢穴。",
         ja: "鋭い 前歯で 削り取った 木の枝や 根っこを 積み上げて 水辺に せっせと 巣を 作る。",
-        ko: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
+        ko: "예리한 앞니로 갉아 얻은\n나뭇가지나 뿌리를 쌓아\n물가에 부지런히 보금자리를 만든다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/048"
     },
     name: {
         en: "Aron",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Aron",
         "zh-tw": "可可多拉",
         ja: "ココドラ",
+        ko: "가보리",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es frisst Eisenerz – und manchmal auch Eisenbahnschienen –\num die Stahlpanzerung aufzubauen, die seinen Körper schützt.",
         "pt-br": "Come minério de ferro – e às vezes trilhos de trem –\npara construir a armadura de aço que protege seu corpo.",
         "zh-tw": "牠吃鐵礦石——有時還吃鐵軌——\n打造出保護身體的鋼鐵鎧甲。",
-        ja: "鉄鉱石や たまに 鉄道の レールを 食べて 体を 守る 鋼の 鎧が つくられる。"
+        ja: "鉄鉱石や たまに 鉄道の レールを 食べて 体を 守る 鋼の 鎧が つくられる。",
+        ko: "철광석을 먹거나 가끔은\n철도의 레일을 먹고\n몸을 지키는 강철 갑옷을 만든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 40,
             cost: ["Metal", "Colorless"]

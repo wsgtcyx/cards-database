@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/043",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/043"
     },
     name: {
         en: "Cherrim",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kikugi",
         "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
-        ja: "チェリンボ"
+        ja: "チェリンボ",
+        ko: "체리버"
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",

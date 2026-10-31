@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/028"
     },
     name: {
         en: "Emboar",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Steckt mit dem Feuer um sein Kinn seine Fäuste in Brand und\nholt zu feurigen Fausthieben aus. Zeigt großen Teamgeist.",
         "pt-br": "Ele pode dar um soco de fogo colocando fogo em seus punhos com seu queixo de fogo. Ele se preocupa profundamente com seus amigos.",
         "zh-tw": "它可以用火熱的下巴點燃拳頭來發射火拳。它非常關心它的朋友。",
-        ja: "アゴの 炎で こぶしを 燃やして 炎の パンチを 繰り出す。 とても 仲間思いの ポケモン。"
+        ja: "アゴの 炎で こぶしを 燃やして 炎の パンチを 繰り出す。 とても 仲間思いの ポケモン。",
+        ko: "턱의 화염으로 주먹을 불태워\n불꽃펀치를 날린다.\n동료애가 깊은 포켓몬이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Hitzesturm",
                 "pt-br": "Tempestade de Chamas",
                 "zh-tw": "閃焰風暴",
-                ja: "フレアストーム"
+                ja: "フレアストーム",
+                ko: "플레어스톰"
             },
             effect: {
                 en: "Flip a coin for each {R} Energy attached to this Pokémon. This attack does 30 more damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze für jede {R}-Energie, die an dieses Pokémon angelegt ist. Dieser Angriff verursacht 30 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue uma moeda para cada Energia {R} ligada a este Pokémon. Este ataque causa mais 30 danos para cada cabeça.",
                 "zh-tw": "為該寶可夢所附加的每個 {R} 能量拋一枚硬幣。此攻擊對每個頭造成 30 點額外傷害。",
-                ja: "このポケモンの{R}エネルギーの数ぶんコインを投げ、オモテの数×30ダメージ追加。"
+                ja: "このポケモンの{R}エネルギーの数ぶんコインを投げ、オモテの数×30ダメージ追加。",
+                ko: "이 포켓몬의 {R}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
             },
             damage: "70+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/189"
     },
     name: {
         en: "Grovyle",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Treecko",
         "zh-tw": "木守宮",
         ja: "キモリ",
-        ko: "Treecko"
+        ko: "나무지기"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Disparo Afiado",
                 "zh-tw": "狙擊刀鋒",
                 ja: "スナイプエッジ",
-                ko: "Slicing Snipe"
+                ko: "스나이프에지"
             },
             cost: [
                 "Grass",
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢受到50點傷害。",
                 ja: "相手のベンチポケモン1匹に50ダメージ。",
-                ko: "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
+                ko: "상대의 벤치 포켓몬 1마리에게 50데미지를 준다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Grovyle salta de galho em galho em grandes árvores com total facilidade, impulsionando-se com velocidade e força impressionantes.",
         "zh-tw": "會在大樹的枝頭間靈巧地跳躍移動。爆發力十分驚人。",
         ja: "大木の 枝から枝へ 身軽に 飛び移り 移動する。 驚異的な 瞬発力。",
-        ko: "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force."
+        ko: "큰 나뭇가지에서 다른 가지로\n가볍게 뛰어 이동한다.\n경이로운 순발력이다."
     }
 };
 

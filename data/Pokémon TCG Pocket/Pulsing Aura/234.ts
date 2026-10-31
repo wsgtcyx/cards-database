@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/234",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/234"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/234",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/234"
     },
     name: {
         en: "Bombirdier",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Adebom nutzt die Schürze auf seiner Brust, um Nahrung zu bündeln, die er zu seinem Nest zurückträgt. Es genießt, Dinge fallen zu lassen, die laute Geräusche machen.",
         "pt-br": "Bombirdier usa o avental no peito para embrulhar a comida, que leva de volta ao ninho. Ele gosta de deixar cair coisas que fazem barulho.",
         "zh-tw": "下石鳥用胸前的圍裙捆紮食物，然後帶回巢穴。牠喜歡掉落發出巨大噪音的東西。",
-        ja: "胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。"
+        ja: "胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。",
+        ko: "가슴팍의 주머니에 먹이를 담아서\n둥지로 가져간다. 큰 소리가 나는 물건을\n떨어뜨리는 것을 즐긴다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schurkenlieferung",
                 "pt-br": "Entrega Vilã",
                 "zh-tw": "壞蛋快遞",
-                ja: "わるものびん"
+                ja: "わるものびん",
+                ko: "못된 택배"
             },
             effect: {
                 en: "As long as this Pokémon is on your Bench, your Active {D} Pokémon's Retreat Cost is 1 less.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Solange sich dieses Pokémon auf deiner Bank befindet, sind die Rückzugskosten deines aktiven {D} Pokémon 1 weniger.",
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, o Custo de Recuo do seu Pokémon {D} Ativo será 1 a menos.",
                 "zh-tw": "只要這隻寶可夢在你的替補席上，你的活躍 {D} 寶可夢的撤退成本就會減少 1。",
-                ja: "このポケモンがベンチにいるかぎり、自分のバトル場の{D}ポケモンのにげるためのエネルギーを、1個少なくする。"
+                ja: "このポケモンがベンチにいるかぎり、自分のバトル場の{D}ポケモンのにげるためのエネルギーを、1個少なくする。",
+                ko: "이 포켓몬이 벤치에 있는 한, 자신의 배틀필드의 {D}포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Dunkler Zerschneider",
                 "pt-br": "Cortador de Escuridão",
                 "zh-tw": "暗黑利刃",
-                ja: "ダークカッター"
+                ja: "ダークカッター",
+                ko: "다크커터"
             },
             damage: 30
         }

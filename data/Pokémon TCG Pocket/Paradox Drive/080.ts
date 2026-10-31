@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/080"
     },
     name: {
         en: "Hawlucha",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Resladero leben ruhig, ohne sich zusammenzudrängen. Sie kämpfen ständig mit ihren natürlichen Feinden: lauten Gruppen von Rasaff.",
         "pt-br": "Hawlucha vivem silenciosamente, sem se reunirem. Eles lutam constantemente com seus inimigos naturais: grupos barulhentos de Primeape.",
         "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。",
-        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。"
+        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。",
+        ko: "무리를 이루지 않고 조용히 지낸다.\n집단으로 떠드는 성원숭과는\n천적이라 언제나 싸움이 일어난다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Akrobatik",
                 "pt-br": "Acrobático",
                 "zh-tw": "雜技",
-                ja: "アクロバット"
+                ja: "アクロバット",
+                ko: "애크러뱃"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 20 danos para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 20 點額外傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ追加。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ追加。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
             },
             damage: "10+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/100"
     },
     name: {
         en: "Snorlax",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Verdauungssäfte seines Magens können jede Art von Gift auflösen. Es stört ihn überhaupt nicht, Dinge vom Boden zu fressen.",
         "pt-br": "Os sucos digestivos do estômago podem dissolver qualquer tipo de veneno. Comer coisas do chão não incomoda em nada.",
         "zh-tw": "它胃裡的消化液可以溶解任何毒物。吃地上的東西根本不會打擾它。",
-        ja: "胃袋の 消化液は どんな 毒も 消化できる。 落ちているものを 食べても 平気。"
+        ja: "胃袋の 消化液は どんな 毒も 消化できる。 落ちているものを 食べても 平気。",
+        ko: "위 안의 소화액은\n어떠한 독도 소화할 수 있다.\n땅에 떨어진 것을 먹어도 괜찮다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Massiver Körper",
                 "pt-br": "Corpo Enorme",
                 "zh-tw": "爆大身軀",
-                ja: "どでかいからだ"
+                ja: "どでかいからだ",
+                ko: "왕큰 몸"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Solange sich dieses Pokémon an der aktiven Stelle befindet, kann dein Gegner keine Stadionkarten aus seiner Hand spielen.",
                 "pt-br": "Enquanto este Pokémon estiver no Active Spot, seu oponente não poderá jogar nenhuma carta de Estádio da mão dele.",
                 "zh-tw": "只要這隻寶可夢在活動位置，對手就不能從手牌中打出任何體育場卡。",
-                ja: "このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。"
+                ja: "このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。",
+                ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 스타디움을 꺼낼 수 없다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Megahieb",
                 "pt-br": "Megassoco",
                 "zh-tw": "百萬噸重拳",
-                ja: "メガトンパンチ"
+                ja: "メガトンパンチ",
+                ko: "메가톤펀치"
             },
             damage: 70
         }

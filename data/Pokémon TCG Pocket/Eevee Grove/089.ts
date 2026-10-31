@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/089"
     },
     name: {
         en: "Sylveon ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sylveon ex",
         "zh-tw": "仙子伊布ex",
         ja: "ニンフィアex",
+        ko: "님피아 ex",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Glückliches Band",
                 "pt-br": "Fita Feliz",
                 "zh-tw": "快樂絲帶",
-                ja: "ハッピーリボン"
+                ja: "ハッピーリボン",
+                ko: "해피 리본"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, darfst du 2 Karten ziehen.",
                 "pt-br": "Uma vez durante a sua vez de jogar, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá comprar 2 cartas.",
                 "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以抽 2 張卡。",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を2枚引く。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を2枚引く。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 덱을 2장 뽑는다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Feenwind",
                 "pt-br": "Vento Fada",
                 "zh-tw": "仙風",
-                ja: "ようせいのかぜ"
+                ja: "ようせいのかぜ",
+                ko: "요정의바람"
             },
             damage: 70,
             cost: ["Psychic", "Colorless"]

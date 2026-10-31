@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/036"
     },
     name: {
         en: "Salazzle",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
         ja: "ヤトウモリ",
+        ko: "야도뇽",
     },
     description: {
         en: "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",

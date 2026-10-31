@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/075"
     },
     name: {
         en: "Quagsire",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Aufgrund seiner entspannten und unbekümmerten Haltung stößt er beim Schwimmen häufig mit dem Kopf an Felsbrocken im Flussbett und Bootsrümpfen.",
         "pt-br": "Devido à sua atitude relaxada e despreocupada, muitas vezes bate a cabeça nas pedras do leito dos rios e nos cascos dos barcos enquanto nada.",
         "zh-tw": "由於其輕鬆、無憂無慮的態度，它在游泳時經常將頭撞到河床巨石和船體上。",
-        ja: "のんびりとした 性格で 泳いでいては 川底の 岩や 船底に 頭を ぶつけている。"
+        ja: "のんびりとした 性格で 泳いでいては 川底の 岩や 船底に 頭を ぶつけている。",
+        ko: "느긋한 성격으로\n헤엄치다가 강바닥의 돌과\n배의 밑바닥에 머리를 들이받곤 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Energiepresse",
                 "pt-br": "Imprensa de Energia",
                 "zh-tw": "能量壓制",
-                ja: "エナジープレス"
+                ja: "エナジープレス",
+                ko: "에너지프레스"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "40+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/045"
     },
     name: {
         en: "Golem",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
         ja: "ゴローン",
+        ko: "데구리",
     },
     description: {
         en: "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",

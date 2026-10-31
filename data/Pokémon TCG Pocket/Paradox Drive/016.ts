@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/016"
     },
     name: {
         en: "Pawmot",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Das flauschige Fell von Pamomamo fungiert als Batterie. Es kann die gleiche Menge Strom speichern wie ein Elektroauto.",
         "pt-br": "O pelo fofo do Pawmot funciona como uma bateria. Ele pode armazenar a mesma quantidade de eletricidade que um carro elétrico.",
         "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。",
-        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。"
+        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。",
+        ko: "복슬복슬한 털이 배터리 역할을 한다.\n전기 자동차에 맞먹는 양의\n전기를 비축할 수 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Voltwelle",
                 "pt-br": "Onda Voltífera",
                 "zh-tw": "衝擊波",
-                ja: "ショックウェーブ"
+                ja: "ショックウェーブ",
+                ko: "쇼크웨이브"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 60
         }

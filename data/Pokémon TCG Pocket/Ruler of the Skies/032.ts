@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/032",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/032"
     },
     name: {
         en: "Staryu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Ihm macht es nichts aus, von Fisch-Pokémon\nangeknabbert zu werden, da sich sein Körper\nbei Verletzungen im Nu regeneriert.",
         "pt-br": "Staryu não se incomoda com as mordiscadas que recebe de Pokémon peixe. Seu corpo se regenera rapidamente, mesmo que parte dele seja arrancada.",
         "zh-tw": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。",
-        ja: "魚ポケモンに ついばまれるが 体が ちぎれても すぐに 再生するので 気にしない。"
+        ja: "魚ポケモンに ついばまれるが 体が ちぎれても すぐに 再生するので 気にしない。",
+        ko: "물고기포켓몬에게 물리곤 하지만\n몸이 찢겨도 금방 재생되기 때문에\n신경 쓰지 않는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schnell",
                 "pt-br": "Ataque Veloz",
                 "zh-tw": "高速星星",
-                ja: "スピードスター"
+                ja: "スピードスター",
+                ko: "스피드스타"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
                 "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。",
-                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 기술의 데미지는 약점과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             },
             damage: 20
         }

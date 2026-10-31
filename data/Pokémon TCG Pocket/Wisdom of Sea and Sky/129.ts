@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/129",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/129",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/129"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/129",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/129"
     },
     name: {
         en: "Spearow",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
         ja: "オニスズメ",
+        ko: "깨비참",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine rücksichtslose Natur führt dazu, dass es sich widersetzt\nandere – sogar große Pokémon – wenn es schützen muss\nsein Territorium.",
         "pt-br": "A sua natureza imprudente leva-o a enfrentar\noutros – até mesmo Pokémon grandes – se for necessário proteger\nseu território.",
         "zh-tw": "它魯莽的本性使它能夠挺身而出\n其他——甚至是大型神奇寶貝——如果它必須保護的話\n它的領土。",
-        ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。"
+        ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。",
+        ko: "자신의 영역을 지키기 위해서라면\n상대가 큰 포켓몬이라도\n덤벼드는 무모한 성질을 가졌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
                 "zh-tw": "滑行",
-                ja: "かっくう"
+                ja: "かっくう",
+                ko: "활공"
             },
             damage: 10,
             cost: ["Colorless"]

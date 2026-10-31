@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/059"
     },
     name: {
         en: "Azumarill",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Marill",
         "zh-tw": "瑪力露",
         ja: "マリル",
-        ko: "Marill"
+        ko: "마릴"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
                 ja: "ラビットジャンプ",
-                ko: "Rabbit Jumping"
+                ko: "래빗점프"
             },
             cost: [
                 "Colorless",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。",
                 ja: "コインを2回投げ、オモテの数×60ダメージ。",
-                ko: "Flip 2 coins. This attack does 60 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 60데미지를 준다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Suas orelhas longas são sensores soberbos. Ele é capaz de diferenciar os movimentos dos objetos nas águas e dizer o que eles são.",
         "zh-tw": "長長的耳朵是靈敏的感應器。能夠藉著辨識水中的聲音來分辨出是什麼在動。",
         ja: "長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。",
-        ko: "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are."
+        ko: "긴 귀는 뛰어난 센서.\n물속의 소리를 구별하여\n무엇이 움직이는지 알 수 있다."
     }
 };
 

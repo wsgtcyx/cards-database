@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/004"
     },
     name: {
         en: "Tarountula",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tarountula",
         "zh-tw": "團珠蛛",
         ja: "タマンチュラ",
+        ko: "타랜툴라",
         pt: "Tarountula"
     },
     illustrator: "Mina Nakai",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Der Faden, den es von hinten absondert, ist so stark wie Draht. Das Geheimnis hinter der Stärke des Threads ist Gegenstand laufender Forschung.",
         "pt-br": "O fio que ele secreta pela parte traseira é tão forte quanto um arame. O segredo por trás da força do fio é tema de pesquisas contínuas.",
         "zh-tw": "它從後方分泌出的絲線，堅韌如鐵絲。線程強度背後的秘密是正在進行的研究主題。",
-        ja: "お尻から 出す 糸は ワイヤーに 匹敵する 強度。 強さの 秘密が 研究されているのだ。"
+        ja: "お尻から 出す 糸は ワイヤーに 匹敵する 強度。 強さの 秘密が 研究されているのだ。",
+        ko: "엉덩이에서 나오는 실은\n와이어에 필적하는 강도를 자랑하며\n그 비밀에 대해서는 현재 연구 중이다."
     },
     stage: "Basic",
     attacks: [
@@ -50,7 +53,8 @@ const card: Card = {
                 de: "Hook",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤",
-                ja: "ひっかける"
+                ja: "ひっかける",
+                ko: "걸기"
             },
             damage: 20,
             cost: ["Grass"],

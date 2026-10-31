@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/103"
     },
     name: {
         en: "Duskull",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
         ja: "ヨマワル",
+        ko: "해골몽",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es macht sich unsichtbar und schleicht sich lautlos an ihn heran\nBeute. Es hat die Fähigkeit, durch dicke Wände zu schlüpfen.",
         "pt-br": "Tornando-se invisível, ele se aproxima silenciosamente\npresa. Tem a capacidade de deslizar através de paredes grossas.",
         "zh-tw": "它把自己隱藏起來，悄悄地潛入\n獵物。它具有穿過厚牆的能力。",
-        ja: "姿を 透明に して そっと 獲物に 近寄る。 厚い 壁を 通りぬける 能力を もつ。"
+        ja: "姿を 透明に して そっと 獲物に 近寄る。 厚い 壁を 通りぬける 能力を もつ。",
+        ko: "모습을 투명하게 하고 몰래\n먹잇감에 다가간다. 두꺼운 벽을\n통과하는 능력을 지녔다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Hinterhalt",
                 "pt-br": "Emboscada",
                 "zh-tw": "伏擊",
-                ja: "おそいかかる"
+                ja: "おそいかかる",
+                ko: "덮치기"
             },
             damage: "10+",
             cost: ["Psychic"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

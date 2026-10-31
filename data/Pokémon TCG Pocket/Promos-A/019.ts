@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/019"
     },
     name: {
         en: "Greninja",
@@ -77,7 +78,8 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
-        ja: "ゲコガシラ"
+        ja: "ゲコガシラ",
+        ko: "개굴반장"
     },
     description: {
         en: "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",

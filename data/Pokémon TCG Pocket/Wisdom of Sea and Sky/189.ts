@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/189",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/189"
     },
     name: {
         en: "Lanturn ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lanturn ex",
         "zh-tw": "電燈怪ex",
         ja: "ランターンex",
+        ko: "랜턴 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
         ja: "チョンチー",
+        ko: "초라기",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Blinkendes Signal",
                 "pt-br": "Sinal piscando",
                 "zh-tw": "閃爍信號",
-                ja: "シグナルフラッシュ"
+                ja: "シグナルフラッシュ",
+                ko: "시그널플래시"
             },
             damage: 80,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt. Bei „Zahl“ ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado. Se sair coroa, o Pokémon Ativo do seu oponente ficará Confuso.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。如果出現反面，則對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。ウラなら、相手のバトルポケモンをこんらんにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。ウラなら、相手のバトルポケモンをこんらんにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다. 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/191",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/191",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/191"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/191",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/191"
     },
     name: {
         en: "Loudred",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Loudred",
         "zh-tw": "吼爆彈",
         ja: "ドゴーム",
+        ko: "노공룡",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Whismur",
         "zh-tw": "咕妞妞",
         ja: "ゴニョニョ",
+        ko: "소곤룡",
     },
     description: {
         en: "The force of this Pokémon's loud voice isn't just\nthe sound—it's also the wave of air pressure that\nblows opponents away and damages them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Kraft der lauten Stimme dieses Pokémon ist nicht einfach\ndas Geräusch – es ist auch die Welle des Luftdrucks\nbläst Gegner weg und fügt ihnen Schaden zu.",
         "pt-br": "A força da voz alta deste Pokémon não é apenas\no som - é também a onda de pressão do ar que\nafasta os oponentes e os causa danos.",
         "zh-tw": "這只神奇寶貝響亮聲音的力量不僅僅是\n聲音——也是氣壓波\n將對手吹走並對其造成傷害。",
-        ja: "大声は 聴覚だけでなく 空気の 圧力となり 敵を 吹きとばし ダメージを 与える。"
+        ja: "大声は 聴覚だけでなく 空気の 圧力となり 敵を 吹きとばし ダメージを 与える。",
+        ko: "큰 목소리는 청각뿐만 아니라\n공기의 압력마저 변화시켜\n상대를 날려버리고 데미지를 준다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hyperstimme",
                 "pt-br": "Hiper Voz",
                 "zh-tw": "超級語音",
-                ja: "ハイパーボイス"
+                ja: "ハイパーボイス",
+                ko: "하이퍼보이스"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

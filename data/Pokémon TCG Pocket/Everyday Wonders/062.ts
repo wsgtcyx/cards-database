@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/062"
     },
     name: {
         en: "Skwovet",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Egal, wie sehr es seinen Bauch mit Futter vollstopft, es hat immer Angst davor, wieder hungrig zu werden. Deshalb versteckt es Beeren in seinen Wangen und seinem Schwanz.",
         "pt-br": "Por mais que encha a barriga de comida, ele está sempre ansioso para voltar a ter fome. Então, ele esconde frutas nas bochechas e na cauda.",
         "zh-tw": "不管它肚子裡塞了多少食物，它總是擔心又會餓。所以，它把漿果藏在臉頰和尾巴裡。",
-        ja: "どんなに お腹いっぱい 食べても また 腹ペコになるのが 不安で 頬と 尻尾に 木の実を 溜める。"
+        ja: "どんなに お腹いっぱい 食べても また 腹ペコになるのが 不安で 頬と 尻尾に 木の実を 溜める。",
+        ko: "아무리 배불리 먹어도\n나중에 배가 고파질 것이 불안해서\n볼과 꼬리에 나무열매를 비축한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20
         }

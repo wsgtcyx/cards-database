@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/134",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/134",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/134"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/134",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/134"
     },
     name: {
         en: "Trumbeak",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Pikipek",
         "zh-tw": "小篤兒",
         ja: "ツツケラ",
+        ko: "콕코구리",
     },
     description: {
         en: "It can bend the tip of its beak to produce over a hundred different cries at will.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/088",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/088"
     },
     name: {
         en: "Celestic Town Elder",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Nimm 1 zufälliges Basis-Pokémon aus deinem Ablagestapel auf deine Hand.",
         'pt-br': "Coloque 1 Pokémon Básico aleatório da sua pilha de descarte na sua mão.",
         ja: "自分のトラッシュからたねポケモンをランダムに1枚、手札に加える。",
-        ko: "자신의 트래쉬에서 기본 포켓몬eul_reul 랜덤으로 1장 패로 가져온다.",
+        ko: "자신의 트래쉬에서 기본 포켓몬을 랜덤으로 1장 패로 가져온다.",
         "zh-tw": "從你的棄牌堆中隨機選擇 1 只基礎寶可夢加入你的手牌。"
     },
     trainerType: "Supporter"

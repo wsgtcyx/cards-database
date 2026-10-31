@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/059"
     },
     name: {
         en: "Alolan Geodude",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Kleinstein",
         'pt-br': "Geodude de Alola",
         ja: "アローライシツブテ",
-        ko: "알로라꼬마돌",
+        ko: "알로라 꼬마돌",
         "zh-tw": "阿羅拉小拳石",
     },
     illustrator: "Hitoshi Ariga",

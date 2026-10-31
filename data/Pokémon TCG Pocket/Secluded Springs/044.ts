@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/044"
     },
     name: {
         en: "Donphan",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Donphan",
         "zh-tw": "頓甲",
         ja: "ドンファン",
+        ko: "코리갑",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Phanpy",
         "zh-tw": "小小象",
         ja: "ゴマゾウ",
+        ko: "코코리",
     },
     description: {
         en: "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Donphan ist mit zäher Haut bedeckt, also ebenmäßig\nWenn es von einem Auto angefahren wird, wird dieses Pokémon nicht aus der Fassung gebracht. Allerdings ist es\nist extrem anfällig für Regen.",
         "pt-br": "Donphan é coberto por uma pele dura, então mesmo sendo\natropelado por um carro não intimidará este Pokémon. No entanto,\né extremamente suscetível à chuva.",
         "zh-tw": "唐凡全身覆蓋著堅韌的獸皮，所以即使是\n被車撞不會讓這只神奇寶貝感到困擾。然而，它\n極易受雨影響。",
-        ja: "硬い 皮膚に 覆われているので 車と ぶつかっても へっちゃら。 ただし 雨には めっぽう 弱い。"
+        ja: "硬い 皮膚に 覆われているので 車と ぶつかっても へっちゃら。 ただし 雨には めっぽう 弱い。",
+        ko: "튼튼한 피부로 둘러싸여 있기 때문에\n차에 부딪혀도 끄떡없다.\n그러나 비에는 매우 약하다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Exoskelett",
                 "pt-br": "Exoesqueleto",
                 "zh-tw": "外骨骼",
-                ja: "かたいからだ"
+                ja: "かたいからだ",
+                ko: "딱딱한몸"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieses Pokémon erleidet −20 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -20 de dano de ataques.",
                 "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Land Crush",
                 "pt-br": "Esmagamento terrestre",
                 "zh-tw": "土地擠壓",
-                ja: "ランドクラッシュ"
+                ja: "ランドクラッシュ",
+                ko: "랜드크래시"
             },
             damage: 80,
             cost: ["Fighting", "Fighting", "Colorless"]

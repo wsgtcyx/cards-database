@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/039"
     },
     name: {
         en: "Alolan Sandslash",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Sandamer",
         'pt-br': "Sandslash de Alola",
         ja: "アローラサンドパン",
-        ko: "알로라고지",
+        ko: "알로라 고지",
         "zh-tw": "阿羅拉穿山王",
     },
     illustrator: "Hasuno",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandshrew de Alola",
         "zh-tw": "阿羅拉穿山鼠",
         ja: "アローラサンド",
+        ko: "알로라 모래두지",
     },
     description: {
         en: "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",

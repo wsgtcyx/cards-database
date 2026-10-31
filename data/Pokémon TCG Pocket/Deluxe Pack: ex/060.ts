@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/060"
     },
     name: {
         en: "Charizard ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Charizard ex",
         "zh-tw": "噴火龍ex",
         ja: "リザードンex",
+        ko: "리자몽 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
         ja: "リザード",
+        ko: "리자드",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Schüren",
                 "pt-br": "Stoke",
                 "zh-tw": "斯托克",
-                ja: "もえあがる"
+                ja: "もえあがる",
+                ko: "타오르기"
             },
             cost: ["Fire"],
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Nimm 3 {R}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue 3 {R} Energias da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "從你的能量區取出 3 個 {R} 能量並將其附加到這只神奇寶貝身上。",
-                ja: "自分のエネルギーゾーンから{R}エネルギーを3個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{R}エネルギーを3個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {R}에너지를 3개 내보내 이 포켓몬에게 붙인다."
             }
         }, {
             name: {
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Dampfartillerie",
                 "pt-br": "Artilharia a Vapor",
                 "zh-tw": "蒸汽火砲",
-                ja: "ばくねつほう"
+                ja: "ばくねつほう",
+                ko: "타오르는대포"
             },
             damage: 150,
             cost: ["Fire", "Fire", "Fire", "Colorless", "Colorless"]

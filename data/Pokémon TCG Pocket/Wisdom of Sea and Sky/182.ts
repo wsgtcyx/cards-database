@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/182",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/182"
     },
     name: {
         en: "Hoothoot",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
         ja: "ホーホー",
+        ko: "부우부",
     },
     illustrator: "Uninori",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es steht immer auf einem Bein. Es verändert die Füße so\nschnell, die Bewegung ist selten zu sehen.",
         "pt-br": "Ele sempre fica em um pé só. Ele muda os pés então\nrápido, o movimento raramente pode ser visto.",
         "zh-tw": "它總是用一隻腳站立。它改變腳所以\n速度很快，很難看到動靜。",
-        ja: "いつも 一本足で 立っている。 脚を 入れ替える 瞬間は 素早くて なかなか 見られない。"
+        ja: "いつも 一本足で 立っている。 脚を 入れ替える 瞬間は 素早くて なかなか 見られない。",
+        ko: "항상 한 발로 서 있다.\n발을 교체하는 순간이\n빨라서 좀처럼 볼 수 없다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Schlaflosigkeit",
                 "pt-br": "Insônia",
                 "zh-tw": "失眠",
-                ja: "ふみん"
+                ja: "ふみん",
+                ko: "불면"
             },
             effect: {
                 en: "This Pokémon can't be Asleep.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieses Pokémon kann nicht schlafen.",
                 "pt-br": "Este Pokémon não pode estar dormindo.",
                 "zh-tw": "該寶可夢無法休眠。",
-                ja: "このポケモンはねむりにならない。"
+                ja: "このポケモンはねむりにならない。",
+                ko: "이 포켓몬은 잠듦이 되지 않는다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
                 "zh-tw": "翼攻擊",
-                ja: "つばさでうつ"
+                ja: "つばさでうつ",
+                ko: "날개치기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

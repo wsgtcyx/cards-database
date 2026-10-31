@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/136"
     },
     name: {
         en: "Watchog",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Bespuckt Gegner mit Kernen von Beeren aus seinen\nBackentaschen. Erspäht es einen Feind, richtet es\nden Schweif auf.",
         "pt-br": "Quando vêem um inimigo, suas caudas ficam erguidas e eles cospem as sementes das frutas armazenadas nas bolsas das bochechas.",
         "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，並吐出頰囊中儲存的漿果種子。",
-        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。"
+        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。",
+        ko: "뺨의 주머니에 모아둔 나무열매의\n씨앗을 날려서 공격한다. 적을\n발견하면 꼬리를 세운다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psycho-Plus",
                 "pt-br": "Carga Psíquica",
                 "zh-tw": "自我暗示",
-                ja: "じこあんじ"
+                ja: "じこあんじ",
+                ko: "자기암시"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Psych Up attack does +30 damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges verursacht der Psych Up-Angriff dieses Pokémon +30 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Psych Up deste Pokémon causa +30 de dano.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢的心靈提升攻擊造成+30點傷害。",
-                ja: "次の自分の番、このポケモンの「じこあんじ」のダメージを+30する。"
+                ja: "次の自分の番、このポケモンの「じこあんじ」のダメージを+30する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「자기암시」의 데미지를 +30한다."
             },
             damage: 30
         }

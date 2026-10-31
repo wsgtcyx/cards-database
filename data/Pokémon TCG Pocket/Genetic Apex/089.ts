@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/089"
     },
     name: {
         en: "Greninja",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
-        ja: "ゲコガシラ"
+        ja: "ゲコガシラ",
+        ko: "개굴반장"
     },
     abilities: [{
             type: "Ability",

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/249",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/249",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/249",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/249"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/249",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/249"
 	},
 	name: {
 		en: "Alolan Diglett",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Alola-Digda",
 		"pt-br": "Diglett de Alola",
 		"zh-tw": "阿羅拉地鼠",
-		ja: "アローラディグダ"
+		ja: "アローラディグダ",
+		ko: "알로라 디그다"
 	},
 	illustrator: "Megumi Mizutani",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Die metallreiche Geologie des Lebensraums dieses Pokémon\nverursachte, dass es stählerne Barthaare auf seinem Kopf entwickelte.",
 		"pt-br": "A geologia rica em metais do habitat deste Pokémon\nfez com que desenvolvesse bigodes de aço em sua cabeça.",
 		"zh-tw": "該神奇寶貝棲息地富含金屬的地質\n導致它的頭上長出了鋼須。",
-		ja: "金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。"
+		ja: "金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。",
+		ko: "금속 성분이 많이 포함된\n지질의 영향으로 강철\n수염이 머리에 났다."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "Ist beim Kopfstoß passiert",
 				"pt-br": "Aconteceu com cabeçada",
 				"zh-tw": "發生了頭撞事件",
-				ja: "ひょっこりヘッド"
+				ja: "ひょっこりヘッド",
+				ko: "빼꼼헤드"
 			},
 			damage: 40,
 			cost: ["Metal"],
@@ -61,7 +65,8 @@ const card: Card = {
 				de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
 				"pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
 				"zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-				ja: "コインを1回投げウラなら、このワザは失敗。"
+				ja: "コインを1回投げウラなら、このワザは失敗。",
+				ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
 			}
 		}
 	],

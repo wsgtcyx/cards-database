@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/046"
     },
     name: {
         en: "Pheromosa",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pheromosa",
         "zh-tw": "費洛美螂",
         ja: "フェローチェ",
+        ko: "페로코체",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Eine Lebensform, die in einer anderen Welt lebt, ihrem Körper\nist dünn und geschmeidig, besitzt aber auch\ngroße Macht.",
         "pt-br": "Uma forma de vida que vive em outro mundo, seu corpo\né fino e flexível, mas também possui\ngrande poder.",
         "zh-tw": "生活在異世界的生命體，其身體\n薄而柔軟，但它還具有\n偉大的力量。",
-        ja: "別世界に 棲む 生命体。 細く しなやかな 身体 だが 強いパワーを 秘めている 様子。"
+        ja: "別世界に 棲む 生命体。 細く しなやかな 身体 だが 強いパワーを 秘めている 様子。",
+        ko: "다른 세계에 사는 생명체다.\n가늘고 부드러운 몸이지만,\n강한 파워를 간직하고 있는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Jump Blues",
                 "pt-br": "Salto Azul",
                 "zh-tw": "跳躍藍調",
-                ja: "ジャンプブルース"
+                ja: "ジャンプブルース",
+                ko: "점프블루스"
             },
             damage: 20,
             cost: ["Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
-                ja: "相手のベンチポケモン1匹にも20ダメージ。"
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

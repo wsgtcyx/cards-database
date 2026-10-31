@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/029"
     },
     name: {
         en: "Hypno",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Halten Sie immer ein Pendel in der Hand, damit es in einem gleichmäßigen Rhythmus schwingt, was bei jedem in der Nähe Schläfrigkeit hervorruft.",
         "pt-br": "Sempre segurando um pêndulo que balança em um ritmo constante, causa sonolência em quem estiver por perto.",
         "zh-tw": "總是拿著一個以穩定節奏擺動的鐘擺，它會導致附近的任何人昏昏欲睡。",
-        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。"
+        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。",
+        ko: "항상 지니고 있는 추를\n규칙적인 리듬으로 흔들고 있다.\n가까이 가면 어쩐지 졸린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Hypnoschuss",
                 "pt-br": "Borrifada Hipnótica",
                 "zh-tw": "催眠波動",
-                ja: "さいみんはどう"
+                ja: "さいみんはどう",
+                ko: "최면파동"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             },
             damage: 60
         }

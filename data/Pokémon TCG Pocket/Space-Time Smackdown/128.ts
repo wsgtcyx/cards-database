@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/128",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/128"
     },
     name: {
         en: "Porygon2",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
         ja: "ポリゴン",
+        ko: "폴리곤",
     },
     description: {
         en: "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/085"
     },
     name: {
         en: "Magneton",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
         ja: "コイル",
-        ko: "Magnemite"
+        ko: "코일"
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Três Magnemite estão vinculados por uma força magnética muito poderosa. Se você chegar muito perto, ficará com dor de ouvido.",
         "zh-tw": "3隻小磁怪因著強烈的磁力而結合。只要靠近牠就會發生強烈的耳鳴。",
         ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。",
-        ko: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
+        ko: "3개의 코일은 강한 자력으로\n연결되어 있다. 가까이 다가가면\n강한 귀울림에 시달리게 된다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Faísca",
                 "zh-tw": "電光",
                 ja: "スパーク",
-                ko: "Spark"
+                ko: "스파크"
             },
             damage: 20,
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
                 ja: "相手のベンチポケモン1匹にも20ダメージ。",
-                ko: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             }
         }
     ],

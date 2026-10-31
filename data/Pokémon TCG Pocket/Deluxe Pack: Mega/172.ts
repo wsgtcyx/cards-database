@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/172",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/172"
     },
     name: {
         en: "Flygon ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Vibrava",
         "zh-tw": "超音波幼蟲",
         ja: "ビブラーバ",
-        ko: "Vibrava"
+        ko: "비브라바"
     },
     stage: "Stage2",
     abilities: [
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Batedor de Areia",
                 "zh-tw": "沙牢",
                 ja: "すなのかんごく",
-                ko: "Sand Slammer"
+                ko: "모래감옥"
             },
             effect: {
                 en: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to each of your opponent's Pokémon.",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Durante o Checape Pokémon, se este Pokémon estiver no Campo Ativo, cause 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,每次寶可夢檢查時,對手的所有寶可夢受到10點傷害。",
                 ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のポケモン全員に10ダメージ。",
-                ko: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to each of your opponent's Pokémon."
+                ko: "이 포켓몬이 배틀필드에 있는 한, 포켓몬 체크 때마다 상대의 포켓몬 전원에게 10데미지를 준다."
             }
         }
     ],
@@ -89,7 +90,7 @@ const card: Card = {
                 "pt-br": "Pulso do Dragão",
                 "zh-tw": "龍之波動",
                 ja: "りゅうのはどう",
-                ko: "Dragon Pulse"
+                ko: "용의파동"
             },
             effect: {
                 en: "Discard the top card of your deck.",
@@ -100,7 +101,7 @@ const card: Card = {
                 "pt-br": "Descarte a carta de cima do seu baralho.",
                 "zh-tw": "將自己的牌庫上方張卡丟棄。",
                 ja: "自分の山札を上から1枚トラッシュ。",
-                ko: "Discard the top card of your deck."
+                ko: "자신의 덱을 위에서부터 1장 트래쉬한다."
             },
             damage: 140
         }

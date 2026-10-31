@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/049",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/049",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/049",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/049"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/049",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/049"
 	},
 	name: {
 		en: "Sprigatito",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Felori",
 		"pt-br": "Sprigatito",
 		"zh-tw": "新葉喵",
-		ja: "ニャオハ"
+		ja: "ニャオハ",
+		ko: "나오하"
 	},
 	illustrator: "mashu",
 	rarity: "One Diamond",

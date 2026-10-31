@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/147",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/147"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/147",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/147"
     },
     name: {
         en: "Skrelp",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Este Pokémon nada muito mal. Ao ser surpreendido por uma tempestade violenta, pode às vezes ser arrastado para longe e não conseguir mais voltar para casa.",
         "zh-tw": "不擅長游泳，一旦被捲進狂暴的海浪，就有可能被沖到遠處而無法歸巢。",
         ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。",
-        ko: "This Pokémon is a poor swimmer. If it's caught in\na fierce storm, it will sometimes get washed far\naway and become unable to return to its home."
+        ko: "헤엄치는 것이 서툴다.\n강한 폭풍에 휘말리면 먼 곳까지 떠내려가서\n보금자리로 돌아가지 못하는 경우도 있다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Barbatana Cortante",
                 "zh-tw": "鰭快刀",
                 ja: "ひれカッター",
-                ko: "Razor Fin"
+                ko: "지느러미 커터"
             },
             damage: 40,
             cost: [

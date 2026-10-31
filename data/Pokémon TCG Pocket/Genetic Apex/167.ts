@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/167",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/167",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/167"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/167",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/167"
     },
     name: {
         en: "Nidorina",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",
-        ja: "ニドラン♀"
+        ja: "ニドラン♀",
+        ko: "니드런♀"
     },
     attacks: [{
             cost: ["Darkness"],

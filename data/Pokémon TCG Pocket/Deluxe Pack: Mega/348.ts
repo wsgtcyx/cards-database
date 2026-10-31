@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/348",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/348",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/348",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/348"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/348",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/348"
     },
     name: {
         en: "Haxorus",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Fraxure",
         "zh-tw": "斧牙龍",
         ja: "オノンド",
-        ko: "Fraxure"
+        ko: "액슨도"
     },
     stage: "Stage2",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Atordoa seus inimigos com suas presas vultosas, que são afiadas o bastante para partir uma torre de transmissão de metal com apenas um golpe.",
         "zh-tw": "會以自豪的牙齒壓制敵人。牙齒的銳利程度無與倫比，就連鐵塔都能夠一斬而斷。",
         ja: "自慢の キバで 敵を 圧倒。 鉄塔を 一刀のもとに 切り捨てる 切れ味を 誇る。",
-        ko: "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike."
+        ko: "자랑스러운 어금니로 상대를 압도한다.\n철탑을 단칼에 베어 버리는\n예리함을 자랑한다."
     },
     attacks: [
         {
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Lâmina Alucinada",
                 "zh-tw": "狂亂利刃",
                 ja: "きょうらんのやいば",
-                ko: "Frenzied Blade"
+                ko: "광란의칼날"
             },
             effect: {
                 en: "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
@@ -84,7 +85,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco (seus e do seu oponente).",
                 "zh-tw": "增加雙方的備戰寶可夢的數量×20點傷害。",
                 ja: "おたがいのベンチポケモンの数×20ダメージ追加。",
-                ko: "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+                ko: "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "50+"
         }

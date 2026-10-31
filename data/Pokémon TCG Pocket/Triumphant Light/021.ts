@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/021",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/021"
     },
     name: {
         en: "Abomasnow",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Snover",
         "zh-tw": "雪笠怪",
         ja: "ユキカブリ",
+        ko: "눈쓰개",
     },
     description: {
         en: "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
@@ -71,7 +73,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, verringern sich die Kosten der von diesem Pokémon eingesetzten Attacken um 1 {C}-Energie.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon custarão 1 Energia {C} a menos.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンがワザを使うためのエネルギーを、{C}エネルギー1個ぶん少なくする。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 적게 만든다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬이 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 적게 만든다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，該神奇寶貝使用的攻擊會減少 1 點 {C} 能量。"
             }
         }],

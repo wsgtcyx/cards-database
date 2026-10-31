@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/198",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/198",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/198"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/198",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/198"
     },
     name: {
         en: "Lucky Ice Pop",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Cure 20 pontos de dano do seu Pokémon Ativo. Se você curou qualquer dano desta forma, jogue uma moeda. Se sair cara, coloque este Picolé da Sorte na sua mão em vez de na pilha de descarte.",
         "zh-tw": "將自己的戰鬥寶可夢恢復20HP。然後,擲1次硬幣若為正面,則不丟棄這張「可抽獎的冰棒」,而是放回手牌。",
         ja: "自分のバトルポケモンのHPを20回復。その後、コインを1回投げオモテなら、この「当たりつきアイス」はトラッシュせず、手札にもどす。",
-        ko: "Heal 20 damage from your Active Pokémon. If you healed any damage in this way, flip a coin. If heads, put this Lucky Ice Pop into your hand instead of the discard pile."
+        ko: "자신의 배틀 포켓몬의 HP를 20회복. 그 뒤, 동전을 1번 던져서 앞면이 나오면 이 「뽑기 아이스」는 트래쉬하지 않고 패로 되돌린다."
     },
     trainerType: "Item"
 };

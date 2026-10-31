@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/005"
     },
     name: {
         en: "Poké Ball",

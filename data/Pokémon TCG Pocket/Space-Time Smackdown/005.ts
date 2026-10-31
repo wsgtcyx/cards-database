@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/005"
     },
     name: {
         en: "Tangrowth",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Tangela",
         "zh-tw": "蔓藤怪",
         ja: "モンジャラ",
+        ko: "덩쿠리",
     },
     description: {
         en: "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",

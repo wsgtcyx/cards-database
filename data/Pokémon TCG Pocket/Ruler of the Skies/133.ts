@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/133",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/133",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/133",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/133"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/133",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/133"
     },
     name: {
         en: "Ambipom",
@@ -49,7 +50,8 @@ const card: Card = {
         "de": "Sein Schweif hat sich in zwei gespalten. Es kann so geschickt mit diesen Schweifen umgehen, dass es seine Hände nur noch selten gebraucht.",
         "pt-br": "Divididas em duas, as caudas estão tão acostumadas a manipular e fazer coisas que Ambipom raramente usa as mãos.",
         "zh-tw": "分叉成2根的尾巴非常靈活，\n能夠完成各式各樣的事情，\n因此變得幾乎不使用雙手了。",
-        ja: "２本に 分かれた 尻尾は いろんなことが 器用に できるので ほとんど 手を 使わなくなった。"
+        ja: "２本に 分かれた 尻尾は いろんなことが 器用に できるので ほとんど 手を 使わなくなった。",
+        ko: "2개로 나뉜 꼬리를\n능숙하게 사용할 수 있어서\n손을 거의 쓰지 않게 됐다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Klatscher",
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
-                ja: "ひらてうち"
+                ja: "ひらてうち",
+                ko: "수벽치기"
             },
             damage: 60
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/066"
     },
     name: {
         en: "Oinkologne",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses Pokémon ist penibel und liebt Sauberkeit. Es hüllt sich in einen blumigen Duft, der Pokémon in seiner Umgebung beruhigt.",
         "pt-br": "Este é um Pokémon meticuloso que gosta de manter as coisas arrumadas. Envolve-se em um aroma floral que acalma os Pokémon ao seu redor.",
         "zh-tw": "喜好乾淨，個性一絲不苟。會讓花香包覆全身來療癒周圍的寶可夢們。",
-        ja: "きれい好きで 几帳面。 フローラルな 香りを まとって まわりの ポケモンたちを 癒す。"
+        ja: "きれい好きで 几帳面。 フローラルな 香りを まとって まわりの ポケモンたちを 癒す。",
+        ko: "깔끔한 것을 좋아하고 꼼꼼하다.\n꽃향기 같은 향기를 풍기며\n주위의 포켓몬들을 치유한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Platzierter Platscher",
                 "pt-br": "Respingo Arriante",
                 "zh-tw": "臀部坐擊",
-                ja: "ヒップドロップ"
+                ja: "ヒップドロップ",
+                ko: "히프드롭"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加60點傷害。",
-                ja: "コインを1回投げオモテなら、60ダメージ追加。"
+                ja: "コインを1回投げオモテなら、60ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다."
             },
             damage: "40+"
         }

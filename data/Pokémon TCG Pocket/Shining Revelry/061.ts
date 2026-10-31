@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/061"
     },
     name: {
         en: "Wigglytuff",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
         ja: "プリン",
+        ko: "푸린",
     },
     description: {
         en: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",

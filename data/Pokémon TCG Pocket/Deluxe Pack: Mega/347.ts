@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/347",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/347",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/347",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/347"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/347",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/347"
     },
     name: {
         en: "Fraxure",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Axew",
         "zh-tw": "牙牙",
         ja: "キバゴ",
-        ko: "Axew"
+        ko: "터검니"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Fraxure usa suas presas grossas para cortar, meticulosamente, sua caça em duas porções: uma para comer de imediato e a outra para comer depois.",
         "zh-tw": "會使用粗壯的牙齒俐落地分解獵物，然後把當下要吃的份與存糧的份分開。",
         ja: "太い キバを 使って 獲物を きれいに 捌いて 食べるものと 保存する ものに 分けるのだ。",
-        ko: "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later."
+        ko: "굵은 어금니를 사용해\n먹이를 깔끔하게 손질하여\n먹을 것과 보관할 것을 나눈다."
     },
     attacks: [
         {
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Garra de Dragão",
                 "zh-tw": "龍爪",
                 ja: "ドラゴンクロー",
-                ko: "Dragon Claw"
+                ko: "드래곤클로"
             },
             damage: 60
         }

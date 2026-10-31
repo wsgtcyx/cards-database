@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/223",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/223",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/223",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/223"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/223",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/223"
     },
     name: {
         en: "Tyrogue",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Rabauz",
         "pt-br": "Tyrogue",
         "zh-tw": "無畏小子",
-        ja: "バルキー"
+        ja: "バルキー",
+        ko: "배루키"
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es strotzt immer vor Energie. Sich selbst machen\nstärker, es kämpft weiter, auch wenn es verliert.",
         "pt-br": "Está sempre cheio de energia. Para se fazer\nmais forte, continua lutando mesmo que perca.",
         "zh-tw": "它總是充滿能量。為了讓自己\n越強大，即使輸了，也會繼續戰鬥。",
-        ja: "いつでも 元気いっぱい。 強くなるため 負けても 負けても 相手に 立ち向かっていく。"
+        ja: "いつでも 元気いっぱい。 強くなるため 負けても 負けても 相手に 立ち向かっていく。",
+        ko: "항상 기운이 넘친다.\n강해지기 위해 지고 또 져도\n계속 상대에게 맞선다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Slappy Knuckle",
                 "pt-br": "Junta tapa",
                 "zh-tw": "斯拉皮指關節",
-                ja: "ばしばしナックル"
+                ja: "ばしばしナックル",
+                ko: "펑펑너클"
             },
             damage: 20
         }],

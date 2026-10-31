@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/086"
     },
     name: {
         en: "Tinkaton ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Tafforgita",
         "pt-br": "Tinkatuff",
         "zh-tw": "巧鍛匠",
-        ja: "ナカヌチャン"
+        ja: "ナカヌチャン",
+        ko: "벼리짱"
     },
     stage: "Stage2",
     suffix: "EX",

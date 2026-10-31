@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/029"
     },
     name: {
         en: "Charmander",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Se Charmander estiver saudável, a chama na ponta da sua cauda queimará vigorosamente e não apagará mesmo que fique um pouco molhada.",
         "zh-tw": "如果小火龍的活力十足，那麼尾巴前端的火焰即使稍微淋濕也會熊熊燃燒，不會熄滅。",
         ja: "尻尾の 先の 炎は 元気なら 少しくらい 濡れても 消えることなく 燃え盛る。",
-        ko: "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet."
+        ko: "꼬리 끝의 불꽃은\n건강할 때라면 조금 젖어도\n꺼지지 않고 활활 타오른다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Cauda de Chamas",
                 "zh-tw": "火之尾",
                 ja: "ほのおのしっぽ",
-                ko: "Flame Tail"
+                ko: "불꽃 꼬리"
             },
             damage: 30
         }

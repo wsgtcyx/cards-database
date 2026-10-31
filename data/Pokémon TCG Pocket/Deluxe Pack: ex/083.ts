@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/083",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/083",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/083",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/083"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/083",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/083"
 	},
 	name: {
 		en: "Squirtle",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Schiggy",
 		"pt-br": "Squirtle",
 		"zh-tw": "傑尼龜",
-		ja: "ゼニガメ"
+		ja: "ゼニガメ",
+		ko: "꼬부기"
 	},
 	illustrator: "Mizue",
 	category: "Pokemon",

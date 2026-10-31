@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/119",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/119",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/119"
     },
     name: {
         en: "Rayquaza",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Da es in der Ozonschicht hoch über den Wolken lebt,\nbekam es bis vor Kurzem noch niemand zu Gesicht.",
         "pt-br": "Ele voa na camada de ozônio, bem alto no céu. Até recentemente, ninguém o havia visto.",
         "zh-tw": "因為飛行在遙遠高空的臭氧層中，\n直到最近為止都沒有人\n見過牠的樣子。",
-        ja: "はるか 上空の オゾン層の 中を 飛んでいるため 最近まで 姿を 見た 者は いなかった。"
+        ja: "はるか 上空の オゾン層の 中を 飛んでいるため 最近まで 姿を 見た 者は いなかった。",
+        ko: "아득한 상공의 오존층\n안을 날고 있기 때문에 최근까지\n모습을 본 사람은 없었다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "pt-br": "Impacto do Dragão",
                 "zh-tw": "狂龍衝擊",
                 "it": "Draghimpatto",
-                ja: "ドラゴンインパクト"
+                ja: "ドラゴンインパクト",
+                ko: "드래곤임팩트"
             },
             effect: {
                 en: "Discard 2 random Energy from this Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Lege 2 zufällige Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。",
-                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
             },
             damage: 140
         }

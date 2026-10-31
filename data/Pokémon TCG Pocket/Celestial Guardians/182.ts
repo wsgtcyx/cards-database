@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/182",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/182"
     },
     name: {
         en: "Incineroar ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
         ja: "ニャヒート",
+        ko: "냐오히트",
     },
     stage: "Stage2",
     suffix: "EX",

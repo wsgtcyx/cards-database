@@ -39,7 +39,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3b/boosters/everyday-wonders/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3b/boosters/everyday-wonders/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/boosters/everyday-wonders/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/logo-9a0e1b2ad44e.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/boosters/everyday-wonders/logo.webp"
             },
             artwork_front: {
@@ -50,12 +50,18 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/artwork_front-c3a2d252ad6c.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-06-30"
+    releaseDate: "2026-06-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/logo"
+	}
 }
 
 export default set

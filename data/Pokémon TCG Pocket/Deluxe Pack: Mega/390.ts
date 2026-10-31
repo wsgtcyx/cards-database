@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/390",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/390",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/390",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/390"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/390",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/390"
     },
     name: {
         en: "Wally",
@@ -36,7 +37,7 @@ const card: Card = {
         it: "Prendi un'Energia {C} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon di Fase 2.",
         de: "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase-2-Pokémon an.",
         ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、2進化ポケモンにつける。",
-        ko: "Take a {C} Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon."
+        ko: "자신의 에너지존에서 {C}에너지를 1개 내보내 2진화 포켓몬에게 붙인다."
     },
     trainerType: "Supporter"
 };

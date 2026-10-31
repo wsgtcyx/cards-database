@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/097",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/097"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/097",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/097"
     },
     name: {
         en: "Piloswine",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Piloswine",
         "zh-tw": "長毛豬",
         ja: "イノムー",
+        ko: "메꾸리",
     },
     illustrator: "Midori Harada",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Swinub",
         "zh-tw": "小山豬",
         ja: "ウリムー",
+        ko: "꾸꾸리",
     },
     description: {
         en: "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es auf einen Feind zustürmt, fallen ihm die Haare auf dem Rücken weg\nsteh aufrecht. Es ist sehr geräuschempfindlich.",
         "pt-br": "Se atacar um inimigo, os pelos das costas\nfique em pé. É muito sensível ao som.",
         "zh-tw": "如果它沖向敵人，它背上的毛\n站直。它對聲音非常敏感。",
-        ja: "相手 めがけて 突進するとき 背中の 体毛が 逆立つ。 音に ものすごく 敏感。"
+        ja: "相手 めがけて 突進するとき 背中の 体毛が 逆立つ。 音に ものすごく 敏感。",
+        ko: "상대를 목표로 삼고 돌진할 때\n등에 있는 털이 곤두선다.\n소리에 매우 민감하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
                 "zh-tw": "頭撞彈跳",
-                ja: "とびだしヘッド"
+                ja: "とびだしヘッド",
+                ko: "머리박치기"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"]

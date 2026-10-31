@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/216",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/216",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/216"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/216",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/216"
     },
     name: {
         en: "Vaporeon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
         ja: "シャワーズ",
+        ko: "샤미드",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt in der Nähe von Wasser. Sein langer Schwanz ist gerippt\neine Flosse, die oft mit der einer Meerjungfrau verwechselt wird.",
         "pt-br": "Vive perto da água. Sua longa cauda é estriada\numa barbatana, que muitas vezes é confundida com a de uma sereia.",
         "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。",
-        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。"
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。",
+        ko: "물가에 살지만 꼬리에\n물고기처럼 지느러미가 남아 있어서\n인어로 착각하는 사람도 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blasenablauf",
                 "pt-br": "Dreno de bolha",
                 "zh-tw": "氣泡排水管",
-                ja: "バブルドレイン"
+                ja: "バブルドレイン",
+                ko: "버블드레인"
             },
             damage: 60,
             cost: ["Water", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンのHPを30回復。"
+                ja: "このポケモンのHPを30回復。",
+                ko: "이 포켓몬의 HP를 30회복."
             }
         }],
     weaknesses: [{

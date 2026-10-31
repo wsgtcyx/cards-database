@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/042",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/042",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/042",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/042"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/042",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/042"
 	},
 	name: {
 		en: "Decidueye ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Silvarro-ex",
 		"pt-br": "Decidueye ex",
 		"zh-tw": "狙射樹梟ex",
-		ja: "ジュナイパーex"
+		ja: "ジュナイパーex",
+		ko: "모크나이퍼 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Arboretoss",
 		"pt-br": "Dartrix",
 		"zh-tw": "投羽梟",
-		ja: "フクスロー"
+		ja: "フクスロー",
+		ko: "빼미스로우"
 	},
 	stage: "Stage2",
 	suffix: "EX",

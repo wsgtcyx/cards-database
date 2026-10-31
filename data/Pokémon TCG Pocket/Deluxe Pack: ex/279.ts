@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/279",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/279",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/279",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/279"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/279",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/279"
 	},
 	name: {
 		en: "Wigglytuff ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Knuddeluff-ex",
 		"pt-br": "Wigglytuff ex",
 		"zh-tw": "胖可丁ex",
-		ja: "プクリンex"
+		ja: "プクリンex",
+		ko: "푸크린 ex"
 	},
 	illustrator: "PLANETA Igarashi",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Pummeluff",
 		"pt-br": "Jigglypuff",
 		"zh-tw": "胖丁",
-		ja: "プリン"
+		ja: "プリン",
+		ko: "푸린"
 	},
 	suffix: "EX",
 	attacks: [

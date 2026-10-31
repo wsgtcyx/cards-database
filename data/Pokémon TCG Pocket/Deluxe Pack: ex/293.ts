@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/293",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/293",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/293",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/293"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/293",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/293"
 	},
 	name: {
         en: "Delcatty",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Delcatty",
         "zh-tw": "優雅貓",
         ja: "エネコロロ",
+        ko: "델케티",
     },
     illustrator: "0313",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
         ja: "エネコ",
+        ko: "에나비",
     },
     description: {
         en: "It dislikes dirty places. It often searches for a\ncomfortable place in which to groom itself.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es mag keine schmutzigen Orte. Es wird oft nach a gesucht\nbequemer Ort, an dem man sich pflegen kann.",
         "pt-br": "Não gosta de lugares sujos. Muitas vezes procura por um\nlugar confortável para se preparar.",
         "zh-tw": "它不喜歡骯髒的地方。它經常搜索一個\n舒適的地方來打扮自己。",
-        ja: "汚い 場所が 大嫌い。 居心地の 良い 場所で いつも 毛並みを 手入れしている。"
+        ja: "汚い 場所が 大嫌い。 居心地の 良い 場所で いつも 毛並みを 手入れしている。",
+        ko: "더러운 곳을 아주 싫어한다.\n편안한 곳에서\n늘 털을 다듬고 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Energieunterstützung",
                 "pt-br": "Assistência Energética",
                 "zh-tw": "能量輔助",
-                ja: "エネアシスト"
+                ja: "エネアシスト",
+                ko: "에너지 어시스트"
             },
             damage: 30,
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Nimm eine {C}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {C} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個 {C} 能量並將其附加到你的 1 個後備神奇寶貝身上。",
-                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、ベンチポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、ベンチポケモンにつける。",
+                ko: "자신의 에너지존에서 {C}에너지를 1개 내보내 벤치 포켓몬에게 붙인다."
             }
         }],
     weaknesses: [{

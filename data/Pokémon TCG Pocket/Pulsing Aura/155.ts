@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/155",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/155"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/155",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/155"
     },
     name: {
         en: "Bounded Field",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Wenn du die Schwäche des Aktiven Pokémon des Gegners auf den Schaden von Angriffen anwendest, die von Pokémon im Spiel (deinen und denen deines Gegners) verwendet werden, die keine Ex-Mega-Entwicklungs-Pokémon sind, wende die Schwäche als x2 an.",
         "pt-br": "Ao aplicar a Fraqueza do Pokémon Ativo do oponente ao dano causado por ataques usados ​​por Pokémon em jogo (seus e do seu oponente) que não sejam Pokémon de Mega Evolução ex, aplique a Fraqueza como ×2.",
         "zh-tw": "當對手的現役寶可夢的弱點適用於場上非超級進化寶可夢（包括你的和你的對手）的攻擊所造成的傷害時，將弱點應用為×2。",
-        ja: "おたがいの場のポケモン(「メガシンカex」をのぞく)が使うワザのダメージで、相手のバトルポケモンの弱点を計算するとき、弱点は×2で計算する。"
+        ja: "おたがいの場のポケモン(「メガシンカex」をのぞく)が使うワザのダメージで、相手のバトルポケモンの弱点を計算するとき、弱点は×2で計算する。",
+        ko: "서로의 필드의 포켓몬(「메가진화 ex」는 제외)이 사용하는 기술의 데미지로 상대 배틀 포켓몬의 약점 계산을 할 때 약점은 ×2로 계산을 한다."
     },
     trainerType: "Stadium"
 };

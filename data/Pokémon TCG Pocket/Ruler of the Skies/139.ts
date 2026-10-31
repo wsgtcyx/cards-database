@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/139",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/139",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/139",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/139"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/139",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/139"
     },
     name: {
         en: "Unfezant",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es ist schlau, aber auch sehr stolz. Seine Trainer\ngenießen daher generell großen Respekt.",
         "pt-br": "Esse Pokémon é inteligente e extremamente orgulhoso. Você chamará a atenção das pessoas ao se tornar seu Treinador.",
         "zh-tw": "頭腦聰明，所以自尊心也強。\n如果能成為高傲雉雞的訓練家，\n所有人都會對你刮目相看。",
-        ja: "賢いぶん プライドも 高い。 ケンホロウの トレーナーに なれば みんなに 一目 置かれるよ。"
+        ja: "賢いぶん プライドも 高い。 ケンホロウの トレーナーに なれば みんなに 一目 置かれるよ。",
+        ko: "영리한 만큼 프라이드도 높다.\n켄호로우의 트레이너가 되면\n모두에게 실력을 인정받는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Fliegen",
                 "pt-br": "Voar",
                 "zh-tw": "飛翔",
-                ja: "そらをとぶ"
+                ja: "そらをとぶ",
+                ko: "공중날기"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
-                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             },
             damage: 90
         }

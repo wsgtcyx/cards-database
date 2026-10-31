@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/052"
     },
     name: {
         en: "Liepard",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
         ja: "チョロネコ",
+        ko: "쌔비냥",
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",

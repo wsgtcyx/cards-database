@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/029"
     },
     name: {
         en: "Darumaka",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Während es schläft, lässt es sich nicht mal mit\nGewalt umstoßen. Aus diesem Grund ist es ein\nbeliebtes Motiv für Glücksbringer.",
         "pt-br": "Este popular símbolo de boa sorte nunca cairá durante o sono, não importa como seja empurrado ou puxado.",
         "zh-tw": "在牠睡覺的時候，\n無論是推是拉，牠都不會倒下。\n因為象徵著吉利而大受歡迎。",
-        ja: "寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。"
+        ja: "寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。",
+        ko: "자고 있을 때는 밀어도 당겨도\n절대 쓰러지지 않는다.\n길조의 모티브로 인기가 높다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 10
         }

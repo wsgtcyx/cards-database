@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/032"
     },
     name: {
         en: "Naclstack",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es komprimiert Steinsalz in seinem Körper und schießt gehärtete Salzkügelchen mit genügend Kraft heraus, um ein Eisenblech zu durchbohren.",
         "pt-br": "Ele comprime sal-gema dentro de seu corpo e dispara bolinhas de sal endurecido com força suficiente para perfurar uma chapa de ferro.",
         "zh-tw": "它將岩鹽壓縮在體內，並以足夠的力量射出硬化的鹽粒，足以刺穿鐵皮。",
-        ja: "体内で 岩塩を 圧縮。 固めた 塩の弾を 撃ちだすと 鉄板も 貫く 威力。"
+        ja: "体内で 岩塩を 圧縮。 固めた 塩の弾を 撃ちだすと 鉄板も 貫く 威力。",
+        ko: "몸속에서 암염을 압축시킨다.\n이렇게 굳혀진 소금 탄환을 발사하면\n철판도 관통하는 위력을 보인다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Steinwurf",
                 "pt-br": "Lançamento de Rocha",
                 "zh-tw": "落石",
-                ja: "いわおとし"
+                ja: "いわおとし",
+                ko: "돌떨구기"
             },
             damage: 50
         }

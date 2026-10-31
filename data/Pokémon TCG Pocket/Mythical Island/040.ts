@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/040",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/040"
     },
     name: {
         en: "Slurpuff",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
         ja: "ペロッパフ",
+        ko: "나룸퍼프",
     },
     description: {
         en: "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.",

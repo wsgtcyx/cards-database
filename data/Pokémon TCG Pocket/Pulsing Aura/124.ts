@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/124",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/124"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/124",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/124"
     },
     name: {
         en: "Corviknight ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Absturz",
                 "pt-br": "Choque Aéreo",
                 "zh-tw": "空氣粉碎",
-                ja: "エアクラッシュ"
+                ja: "エアクラッシュ",
+                ko: "에어 크래시"
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "丟棄對手的活躍寶可夢中的隨機能量。",
-                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             },
             damage: 110
         }

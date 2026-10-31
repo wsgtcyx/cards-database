@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/035"
     },
     name: {
         en: "Sandygast",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
         ja: "スナバァ",
+        ko: "모래꿍",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es seine Schaufel verliert, bleibt etwas hängen\nsonst – wie ein Zweig – in seinem Kopf zu machen\ntun, bis es eine andere Schaufel findet.",
         "pt-br": "Se perder a pá, vai enfiar alguma coisa\noutra coisa - como um galho - em sua cabeça para fazer\nfaça até encontrar outra pá.",
         "zh-tw": "如果它失去了鏟子，它會粘上一些東西\n否則——就像一根樹枝——在它的頭腦中製造\n這樣做，直到找到另一把鏟子。",
-        ja: "スコップを なくすと 木の枝などを 代わりに 挿し 新たな スコップが 見つかるまで 気を 紛らわす。"
+        ja: "スコップを なくすと 木の枝などを 代わりに 挿し 新たな スコップが 見つかるまで 気を 紛らわす。",
+        ko: "삽을 잃어버리면\n나뭇가지 등을 대신 꽂고 다니며\n새로운 삽을 찾을 때까지 마음을 달랜다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Sandiger Schuss",
                 "pt-br": "Tiro arenoso",
                 "zh-tw": "桑迪射擊",
-                ja: "サンドショット"
+                ja: "サンドショット",
+                ko: "샌드샷"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

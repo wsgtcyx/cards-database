@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/051",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/051"
     },
     name: {
         en: "Gyarados",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Garados",
         "pt-br": "Gyarados",
         "zh-tw": "暴鯉龍",
-        ja: "ギャラドス"
+        ja: "ギャラドス",
+        ko: "갸라도스"
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     description: {
         en: "It appears whenever there is world conflict,\nburning down any place it travels through.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es erscheint immer dann, wenn es einen Weltkonflikt gibt,\nEs brennt jeden Ort nieder, durch den es reist.",
         "pt-br": "Aparece sempre que há conflito mundial,\nqueimando qualquer lugar por onde passa.",
         "zh-tw": "每當世界發生衝突時它就會出現，\n燒毀它所經過的任何地方。",
-        ja: "世の中で 争いが 多くなると どこからともなく 現れて あたりを 焼野原に していく。"
+        ja: "世の中で 争いが 多くなると どこからともなく 現れて あたりを 焼野原に していく。",
+        ko: "세상에 다툼이 많아지면\n어디선가 나타나서\n주위를 불바다로 만들어 버린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hämmernder Schwanz",
                 "pt-br": "Cauda Martelando",
                 "zh-tw": "錘擊尾巴",
-                ja: "テールハンマー"
+                ja: "テールハンマー",
+                ko: "테일해머"
             },
             damage: 100,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂牌。",
-                ja: "相手の山札を上から1枚トラッシュ。"
+                ja: "相手の山札を上から1枚トラッシュ。",
+                ko: "상대의 덱을 위에서부터 1장 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

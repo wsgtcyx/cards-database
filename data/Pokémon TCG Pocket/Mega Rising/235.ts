@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/235",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/235",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/235",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/235"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/235",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/235"
     },
     name: {
         en: "Keldeo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Keldeo",
         "zh-tw": "凱路迪歐",
         ja: "ケルディオ",
+        ko: "케르디오",
     },
     illustrator: "Narumi Sato",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es durchquert die Welt und läuft über die Oberflächen von\nOzeane und Flüsse. Es erscheint an malerischen Uferpromenaden.",
         "pt-br": "Atravessa o mundo, percorrendo as superfícies de\noceanos e rios. Aparece em orlas pitorescas.",
         "zh-tw": "它穿越世界，跑遍世界的表面\n海洋和河流。它出現在風景秀麗的海濱。",
-        ja: "海や 川など 水面を 走り 世界中を 駆け巡る。 美しい 水辺に 現れる。"
+        ja: "海や 川など 水面を 走り 世界中を 駆け巡る。 美しい 水辺に 現れる。",
+        ko: "바다나 강 등의 수면을 달려\n세계 곳곳을 뛰어다닌다.\n아름다운 물가에 나타난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
                 "zh-tw": "聖劍",
-                ja: "せいなるつるぎ"
+                ja: "せいなるつるぎ",
+                ko: "성스러운칼"
             },
             damage: 110,
             cost: ["Water", "Water", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
-                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「성스러운칼」을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

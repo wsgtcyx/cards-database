@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/154",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/154",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/154",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/154"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/154",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/154"
     },
     name: {
         en: "Soothing Shore",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Heilende Küste",
         "pt-br": "Litoral Calmante",
         "zh-tw": "療癒海邊",
-        ko: "평온한해안",
+        ko: "치유의 바닷가",
         ja: "いやしの海辺"
     },
     illustrator: "AYUMI ODASHIMA",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Am Ende des Zuges jedes Spielers heilt jener Spieler 20 Schadenspunkte bei jedem seiner Pokémon, an das mindestens 1 {W}-Energie angelegt ist.",
         "pt-br": "No final do turno de cada jogador, aquele jogador curará 20 pontos de dano de cada um dos seus próprios Pokémon que tiver alguma Energia {W} ligadas a ele.",
         "zh-tw": "雙方玩家在自己的回合結束時,將自己的所有身上附有{W}能量的寶可夢恢復20HP。",
-        ja: "おたがいのプレイヤーは、自分の番の終わりに、{W}エネルギーがついている自分のポケモン全員のHPを20回復。"
+        ja: "おたがいのプレイヤーは、自分の番の終わりに、{W}エネルギーがついている自分のポケモン全員のHPを20回復。",
+        ko: "서로의 플레이어는 자신의 차례의 마지막에 {W}에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 20회복."
     },
     trainerType: "Stadium"
 };

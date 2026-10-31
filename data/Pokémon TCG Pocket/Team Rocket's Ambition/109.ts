@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/109"
     },
     name: {
         en: "Gholdengo",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sein robuster Körper besteht aus gestapelten Münzen, die es in rascher Folge auf Feinde schießt, um sie zu überwältigen.",
         "pt-br": "Tem um corpo robusto feito de moedas empilhadas. Gholdengo atordoa seus inimigos ao disparar moedas freneticamente contra eles.",
         "zh-tw": "堆疊硬幣而形成的身體結實堅固。會連續發射硬幣來壓制敵人。",
-        ja: "コインが 積みあがって 作られた 体は 頑丈。 コインを 連射して 敵を 圧倒する。"
+        ja: "コインが 積みあがって 作られた 体は 頑丈。 コインを 連射して 敵を 圧倒する。",
+        ko: "코인이 쌓여서 만들어진 몸은\n상당히 튼튼하다.\n코인을 연속으로 발사해서 상대를 압도한다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Luxusmünze",
                 "pt-br": "Moeda Luxuosa",
                 "zh-tw": "輝煌金幣",
-                ja: "ゴージャスコイン"
+                ja: "ゴージャスコイン",
+                ko: "럭셔리 동전"
             },
             effect: {
                 en: "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges, nachdem du Münzen für einen Effekt von 1 deiner Trainerkarten geworfen hast, kannst du alle daraus resultierenden Effekte ignorieren und die Münzen erneut werfen. Du kannst die Fähigkeit Luxusmünze nur einmal pro Zug einsetzen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar moedas para um efeito de suas cartas de Treinador, você poderá ignorar todos os resultados das moedas e jogá‐las novamente. Você não pode usar mais de 1 Habilidade Moeda Luxuosa por turno.",
                 "zh-tw": "在自己的回合,因自己的訓練家卡的效果而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。在使用了其他的「輝煌金幣」的回合,這個特性無法使用。",
-                ja: "自分の番に、自分のトレーナーズの効果でコインを投げたとき、1回使える。そのコインの結果をすべてなくし、はじめからコインを投げなおす。この特性は別の「ゴージャスコイン」を使った番は使えない。"
+                ja: "自分の番に、自分のトレーナーズの効果でコインを投げたとき、1回使える。そのコインの結果をすべてなくし、はじめからコインを投げなおす。この特性は別の「ゴージャスコイン」を使った番は使えない。",
+                ko: "자신의 차례에 자신의 트레이너스의 효과로 동전을 던졌을 때 1번 사용할 수 있다. 그 동전의 결과를 모두 없애고 처음부터 동전을 다시 던진다. 이 특성은 다른 「럭셔리 동전」을 사용한 차례는 사용할 수 없다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Juwelenkraft",
                 "pt-br": "Gema Poderosa",
                 "zh-tw": "力量寶石",
-                ja: "パワージェム"
+                ja: "パワージェム",
+                ko: "파워젬"
             },
             damage: 50
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/038"
     },
     name: {
         en: "Typhlosion ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Quilava",
         "zh-tw": "火岩鼠",
         ja: "マグマラシ",
-        ko: "Quilava"
+        ko: "마그케인"
     },
     stage: "Stage2",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 it: "Incendio Distruttivo",
                 de: "Verzehrendes Inferno",
                 ja: "はかいのごうか",
-                ko: "Destructive Inferno"
+                ko: "파괴의겁화"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。",
                 ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
-                ko: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다."
             },
             damage: 110
         }

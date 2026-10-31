@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/024"
     },
     name: {
         en: "Mega Latios ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Überschallimpuls",
                 "pt-br": "Impulso Sônico",
                 "zh-tw": "音速脈衝",
-                ja: "ソニックインパルス"
+                ja: "ソニックインパルス",
+                ko: "소닉임펄스"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的所有能量。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             },
             damage: 160
         }

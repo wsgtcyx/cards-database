@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/005"
     },
     name: {
         en: "Sunflora",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sunflora",
         "zh-tw": "向日花怪",
         ja: "キマワリ",
+        ko: "해루미",
     },
     illustrator: "Miki Tanaka",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
         ja: "ヒマナッツ",
+        ko: "해너츠",
     },
     description: {
         en: "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Tagsüber herrscht Hektik\nArt und Weise, aber es kommt völlig zum Stillstand, wenn\ndie Sonne geht unter.",
         "pt-br": "Durante o dia, ele corre em uma agitação\nmaneira, mas para completamente quando\no sol se põe.",
         "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。",
-        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。"
+        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。",
+        ko: "낮에는 지나칠 정도로 활발히\n돌아다니지만 해가 저물면\n돌연 움직이지 않게 된다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
                 "zh-tw": "絆倒",
-                ja: "ころばす"
+                ja: "ころばす",
+                ko: "걸어 넘어뜨리기"
             },
             damage: "50+",
             cost: ["Grass", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/116",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/116"
     },
     name: {
         en: "Kadabra",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Abra",
         "pt-br": "Abra",
         "zh-tw": "凱西",
-        ja: "ケーシィ"
+        ja: "ケーシィ",
+        ko: "캐이시"
     },
     attacks: [{
             cost: ["Psychic", "Colorless", "Colorless"],

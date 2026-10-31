@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/033"
     },
     name: {
         en: "Tatsugiri",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Nigiragi ist ein äußerst listiges Pokémon. Es täuscht Schwäche vor, um Beute anzulocken, und befiehlt dann seinem Partner, anzugreifen.",
         "pt-br": "Tatsugiri é um Pokémon extremamente astuto. Ele finge fraqueza para atrair a presa e depois ordena que seu parceiro ataque.",
         "zh-tw": "米立龍 是一隻極度狡猾的寶可夢。它佯裝虛弱來引誘獵物，然後命令同伴攻擊。",
-        ja: "非常に 悪賢い ポケモン。 弱ったふりで 獲物を おびき寄せ 仲間の ポケモンに 襲わせる。"
+        ja: "非常に 悪賢い ポケモン。 弱ったふりで 獲物を おびき寄せ 仲間の ポケモンに 襲わせる。",
+        ko: "매우 교활한 포켓몬이다.\n약해진 척하며 먹잇감을 유인하고는\n동료 포켓몬이 공격하게 한다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +53,7 @@ const card: Card = {
                 "pt-br": "Recuperação",
                 "zh-tw": "反彈",
                 ja: "まきかえす",
+                ko: "반격하기",
                 pt: "Responder à Altura"
             },
             damage: "20+",
@@ -64,6 +67,7 @@ const card: Card = {
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
                 ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다.",
                 pt: "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais."
             },
         },

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/122"
     },
     name: {
         en: "Gabite",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gible",
         "zh-tw": "圓陸鯊",
         ja: "フカマル",
+        ko: "딥상어동",
     },
     description: {
         en: "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",

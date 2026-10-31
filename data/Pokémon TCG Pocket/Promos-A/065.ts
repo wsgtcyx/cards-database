@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/065"
     },
     name: {
         en: "Rayquaza ex",

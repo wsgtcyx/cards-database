@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/049",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/049"
     },
     name: {
         en: "Lairon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lairon",
         "zh-tw": "可多拉",
         ja: "コドラ",
+        ko: "갱도라",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Aron",
         "zh-tw": "可可多拉",
         ja: "ココドラ",
+        ko: "가보리",
     },
     description: {
         en: "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es liebt Eisenerz. Gruppen von ihnen kämpfen um Territorium\nindem sie sich gegenseitig mit ihren Stahlkörpern verprügeln.",
         "pt-br": "Adora minério de ferro. Grupos deles lutam por território\nbatendo uns nos outros com seus corpos de aço.",
         "zh-tw": "牠喜歡鐵礦石。他們成群結隊地爭奪領土\n用他們鋼鐵般的身體互相攻擊。",
-        ja: "鉄鉱石が 大好物。 鋼の 体を ぶつけ合って 縄張り 争いを する。"
+        ja: "鉄鉱石が 大好物。 鋼の 体を ぶつけ合って 縄張り 争いを する。",
+        ko: "철광석을 매우 좋아한다.\n강철의 몸을 서로 부딪치며\n영역 싸움을 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Ausholen",
                 "pt-br": "Avançar",
                 "zh-tw": "向前衝出",
-                ja: "つきたおし"
+                ja: "つきたおし",
+                ko: "넘어뜨리기"
             },
             damage: 60,
             cost: ["Metal", "Metal", "Colorless"]

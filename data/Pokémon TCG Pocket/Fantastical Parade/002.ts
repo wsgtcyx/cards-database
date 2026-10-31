@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/002"
     },
     name: {
         en: "Ledian",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Ledian",
         "pt-br": "Ledian",
         "zh-tw": "安瓢蟲",
-        ja: "レディアン"
+        ja: "レディアン",
+        ko: "레디안"
     },
     illustrator: "mashu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ledyba",
         "pt-br": "Ledyba",
         "zh-tw": "芭瓢蟲",
-        ja: "レディバ"
+        ja: "レディバ",
+        ko: "레디바"
     },
     description: {
         en: "It flies through the night sky, sprinkling sparkly\ndust. According to some, if that dust sticks to\nyou, good things will happen to you.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es fliegt durch den Nachthimmel und funkelt\nStaub. Nach Ansicht einiger, wenn dieser Staub daran haften bleibt\nDir werden gute Dinge widerfahren.",
         "pt-br": "Ele voa pelo céu noturno, espalhando brilho\npoeira. Segundo alguns, se essa poeira grudar\nvocê, coisas boas acontecerão com você.",
         "zh-tw": "它飛過夜空，灑下閃閃發光\n灰塵。據一些人說，如果灰塵粘在\n你，好事將會發生在你身上。",
-        ja: "きらめく 粉を 振りまきながら 夜空を 飛ぶ。 粉が 身体に つくと いいことが あるといわれる。"
+        ja: "きらめく 粉を 振りまきながら 夜空を 飛ぶ。 粉が 身体に つくと いいことが あるといわれる。",
+        ko: "반짝이는 가루를 흩뿌리며\n밤하늘을 난다. 가루가 몸에 붙으면\n좋은 일이 생긴다고 전해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schnell",
                 "pt-br": "Rápido",
                 "zh-tw": "迅速",
-                ja: "スピードスター"
+                ja: "スピードスター",
+                ko: "스피드스타"
             },
             damage: 40,
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado pela Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
                 "zh-tw": "這次攻擊的傷害不受弱點或對手的活躍神奇寶貝的任何影響的影響。",
-                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 기술의 데미지는 약점과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             }
         }],
     weaknesses: [{

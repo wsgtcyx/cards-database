@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/041",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/041"
     },
     name: {
         en: "Nosepass",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Nasgnet",
         "pt-br": "Nosepass",
         "zh-tw": "朝北鼻",
-        ja: "ノズパス"
+        ja: "ノズパス",
+        ko: "코코파스"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Magnet in der Nase von Nosepass sorgt für eine\nzielsicherer Kompass, was ihn zu einem hervorragenden Gerät macht\nPartner für Trainer, die auf Reisen gehen.",
         "pt-br": "O ímã no nariz do Nosepass fornece um\nbússola infalível, tornando-a um excelente\nparceiro para treinadores em viagem.",
         "zh-tw": "Nosepass 鼻子中的磁鐵提供了\n準確無誤的指南針，使其成為一個出色的指南針\n培訓師旅途中的合作夥伴。",
-        ja: "ノズパスの 鼻の 磁石は 絶対 狂わないので 旅する トレーナーの 良き パートナーだ。"
+        ja: "ノズパスの 鼻の 磁石は 絶対 狂わないので 旅する トレーナーの 良き パートナーだ。",
+        ko: "코코파스의 코의 자석은\n절대로 고장 나지 않아서 여행하는\n트레이너의 좋은 파트너이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Steigender Ausfallschritt",
                 "pt-br": "Estocada ascendente",
                 "zh-tw": "上升弓步",
-                ja: "つきあげる"
+                ja: "つきあげる",
+                ko: "밀어올리기"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

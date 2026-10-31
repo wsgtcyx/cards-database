@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/094"
     },
     name: {
         en: "Fuecoco",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fuecoco",
         "zh-tw": "呆火鱷",
         ja: "ホゲータ",
+        ko: "뜨아거",
         pt: "Fuecoco"
     },
     illustrator: "Shimaris Yukichi",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Sein Flammensack ist klein, sodass ständig Energie austritt. Diese Energie wird von der Delle auf dem Kopf von Krokel freigesetzt und flackert hin und her.",
         "pt-br": "Seu saco de chamas é pequeno, então a energia está sempre vazando. Essa energia é liberada da marca no topo da cabeça de Fuecoco e oscila para frente e para trás.",
         "zh-tw": "它的火囊很小，所以能量總是在洩漏。這種能量從呆火鱷頭部頂部的凹痕中釋放出來，並來回閃爍。",
-        ja: "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。"
+        ja: "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。",
+        ko: "불꽃 주머니가 작기 때문에\n흘러넘친 에너지가 머리의 움푹한 곳을 통해\n새어 나와 일렁거린다."
     },
     stage: "Basic",
     attacks: [{
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Fröhlicher Gesang",
                 "pt-br": "Canto alegre",
                 "zh-tw": "歡快的歌聲",
-                ja: "ようきにうたう"
+                ja: "ようきにうたう",
+                ko: "명랑하게 노래하기"
             },
             cost: ["Colorless"],
             effect: {
@@ -61,7 +65,7 @@ const card: Card = {
                 'pt-br': "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
                 "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的備戰區上。",
                 ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
-                ko: "자신의 덱에서 기본 포켓몬eul_reul 랜덤으로 1장 벤치로 내보낸다."
+                ko: "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다."
             }
         }],
     weaknesses: [

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/121",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/121"
     },
     name: {
         en: "Haunter",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
-        ja: "ゴース"
+        ja: "ゴース",
+        ko: "고오스"
     },
     attacks: [{
             cost: ["Psychic"],

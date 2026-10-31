@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/016",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/016"
     },
     name: {
         en: "Vaporeon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
         ja: "シャワーズ",
+        ko: "샤미드",
     },
     illustrator: "sui",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt in der Nähe von Wasser. Sein langer Schwanz ist gerippt\neine Flosse, die oft mit der einer Meerjungfrau verwechselt wird.",
         "pt-br": "Vive perto da água. Sua longa cauda é estriada\numa barbatana, que muitas vezes é confundida com a de uma sereia.",
         "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。",
-        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。"
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。",
+        ko: "물가에 살지만 꼬리에\n물고기처럼 지느러미가 남아 있어서\n인어로 착각하는 사람도 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hyper-Whirlpool",
                 "pt-br": "Hiper Hidromassagem",
                 "zh-tw": "超級漩渦",
-                ja: "はかいのうずしお"
+                ja: "はかいのうずしお",
+                ko: "파괴의 바다회오리"
             },
             damage: 70,
             cost: ["Water", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。",
-                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다."
             }
         }],
     weaknesses: [{

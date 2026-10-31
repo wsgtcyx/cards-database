@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/316",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/316",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/316",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/316"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/316",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/316"
     },
     name: {
         en: "Bidoof",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
         ja: "ビッパ",
+        ko: "비버니",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit Nerven aus Stahl kann es nichts aus der Ruhe bringen. Es ist\nagiler und aktiver als es scheint.",
         "pt-br": "Com nervos de aço, nada pode perturbá-lo. É\nmais ágil e ativo do que parece.",
         "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它是\n比看上去更加敏捷和活躍。",
-        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。"
+        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。",
+        ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Super Fang",
                 "pt-br": "Super Presa",
                 "zh-tw": "超級尖牙",
-                ja: "いかりのまえば"
+                ja: "いかりのまえば",
+                ko: "분노의앞니"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Halbiere die verbleibenden HP des Aktiven Pokémon deines Gegners, abgerundet.",
                 "pt-br": "Reduza pela metade o HP restante do Pokémon Ativo do seu oponente, arredondado para baixo.",
                 "zh-tw": "將對手的活躍寶可夢的剩餘生命值減半，向下舍入。",
-                ja: "相手のバトルポケモンの残りHPを、半分(切り捨て)にする。"
+                ja: "相手のバトルポケモンの残りHPを、半分(切り捨て)にする。",
+                ko: "상대 배틀 포켓몬의 남은 HP를 절반(일의 자리는 버림)으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

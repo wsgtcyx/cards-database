@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/154",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/154",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/154",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/154"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/154",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/154"
     },
     name: {
         en: "Dark Pendant",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Dunkler Anhänger",
         "pt-br": "Pingente Sombrio",
         "zh-tw": "暗黑吊墜",
-        ja: "ダークペンダント"
+        ja: "ダークペンダント",
+        ko: "다크펜던트"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wenn sich das {D}-Pokémon, an das diese Karte angelegt ist, an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, deckt dein Gegner eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck.",
         "pt-br": "Se o Pokémon {D} ao qual esta carta está ligada estiver no Ponto Ativo e for danificado por um ataque dos Pokémon do seu oponente, seu oponente revela uma carta aleatória da própria mão e a embaralha no próprio baralho.",
         "zh-tw": "這張卡所附著的 {D} 寶可夢在活躍區並因對手寶可夢的攻擊而受到傷害時，對手從手牌中隨機展示 1 張卡，並將其洗入卡組。",
-        ja: "このカードをつけている{D}ポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。"
+        ja: "このカードをつけている{D}ポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+        ko: "이 카드를 붙이고 있는 {D}포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 상대의 패를 랜덤으로 1장 앞면을 보고 상대의 덱으로 되돌린다."
     },
     trainerType: "Tool",
     boosters: ["ho-oh"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/043",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/043"
     },
     name: {
         en: "Chewtle",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kamehaps",
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
-        ja: "カムカメ"
+        ja: "カムカメ",
+        ko: "깨물부기"
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein beliebtes Spiel bei Kindern ist das Hochheben von Stöcken\ndass Chewtle gebissen hat, um zu sehen, wessen\nChewtle kann am längsten durchhalten.",
         "pt-br": "Uma brincadeira popular entre as crianças é levantar gravetos\nque Chewtle mordeu para ver de quem\nChewtle pode aguentar por mais tempo.",
         "zh-tw": "孩子們流行的遊戲是舉起棍子\nChewtle已經咬住了，看看是誰的\nChewtle 可以堅持最長的時間。",
-        ja: "カムカメが 噛みついた 枝を 持ち上げ 食いついている 時間を 競う 遊びが 子どもに 人気。"
+        ja: "カムカメが 噛みついた 枝を 持ち上げ 食いついている 時間を 競う 遊びが 子どもに 人気。",
+        ko: "깨물부기가 물고 있는 나뭇가지를 들어 올려\n버티는 시간을 겨루는 놀이가\n아이들 사이에서 인기다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

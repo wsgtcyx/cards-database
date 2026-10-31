@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/264",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/264",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/264",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/264"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/264",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/264"
     },
     name: {
         en: "Melmetal ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Melmetal ex",
         "zh-tw": "美錄梅塔ex",
         ja: "メルメタルex",
+        ko: "멜메탈 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
         ja: "メルタン",
+        ko: "멜탄",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Metallarme",
                 "pt-br": "Braços Metálicos",
                 "zh-tw": "金屬武器",
-                ja: "メタルアームズ"
+                ja: "メタルアームズ",
+                ko: "메탈암즈"
             },
             damage: "100+",
             cost: ["Metal", "Metal", "Metal", "Colorless"],
@@ -73,13 +78,17 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
-                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。",
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/073",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/073"
     },
     name: {
         en: "Toucannon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Trompeck",
         "pt-br": "Trumbeak",
         "zh-tw": "喇叭啄鳥",
-        ja: "ケララッパ"
+        ja: "ケララッパ",
+        ko: "크라파"
     },
     description: {
         en: "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",

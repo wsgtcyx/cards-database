@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/107",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/107"
     },
     name: {
         en: "Zubat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
         ja: "ズバット",
+        ko: "주뱃",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zur Überprüfung sendet es Ultraschallwellen aus seinem Mund aus\nseine Umgebung. Selbst in engen Höhlen fliegt Zubat\nmit Geschick herumlaufen.",
         "pt-br": "Ele emite ondas ultrassônicas de sua boca para verificar\nseu entorno. Mesmo em cavernas apertadas, Zubat voa\npor aí com habilidade.",
         "zh-tw": "它從嘴裡發射超聲波來檢查\n它的周圍環境。即使在狹窄的洞穴中，祖巴特也會飛翔\n周圍有技巧。",
-        ja: "口から 出す 超音波で まわりの 様子を 探る。 狭い 洞窟も 器用に 飛びまわる。"
+        ja: "口から 出す 超音波で まわりの 様子を 探る。 狭い 洞窟も 器用に 飛びまわる。",
+        ko: "입에서 내보내는 초음파로\n주위의 상황을 살핀다. 좁은\n동굴에서도 능숙하게 날아다닌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Giftiger Fangzahn",
                 "pt-br": "Presa Venenosa",
                 "zh-tw": "毒牙",
-                ja: "どくのキバ"
+                ja: "どくのキバ",
+                ko: "독이빨"
             },
             damage: 10,
             cost: ["Darkness"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

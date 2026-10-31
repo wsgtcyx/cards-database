@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/117",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/117"
     },
     name: {
         en: "Alolan Diglett",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Digda",
         'pt-br': "Diglett de Alola",
         ja: "アローラディグダ",
-        ko: "알로라디그다",
+        ko: "알로라 디그다",
         "zh-tw": "阿羅拉地鼠",
     },
     illustrator: "Naoyo Kimura",

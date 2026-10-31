@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/293",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/293",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/293",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/293"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/293",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/293"
     },
     name: {
         en: "Magnemite",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "As ondas eletromagnéticas emitidas pelas unidades nas laterais de sua cabeça geram antigravidade, o que faz com que ele possa flutuar.",
         "zh-tw": "從左右兩邊的組件發出的電磁波能阻隔重力，使牠浮在空中。",
         ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
-        ko: "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
+        ko: "좌우에 있는 유닛에서 나오는\n전자파를 이용해\n중력을 거슬러 하늘에 떠 있다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Bola Elétrica",
                 "zh-tw": "電球",
                 ja: "エレキボール",
-                ko: "Electro Ball"
+                ko: "일렉트릭볼"
             },
             damage: 30,
             cost: [

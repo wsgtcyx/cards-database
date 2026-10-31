@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/109"
     },
     name: {
         en: "Vullaby",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Durch seinen ständigen Appetit hat Skallyk\nfortlaufend Wachstumsschübe. Deshalb muss\nes seine Schädelwindel immerzu auswechseln.",
         "pt-br": "Seu apetite saudável leva a surtos de crescimento visíveis. Freqüentemente, ele precisa substituir os ossos que usa à medida que seu tamanho aumenta.",
         "zh-tw": "正處於食慾旺盛的發育期。\n為了配合身體的成長，\n會多次更換所穿的骨頭。",
-        ja: "食べ盛りの 育ち盛り。 身体の 成長に あわせて ガイコツを 何度も 履き替えるよ。"
+        ja: "食べ盛りの 育ち盛り。 身体の 成長に あわせて ガイコツを 何度も 履き替えるよ。",
+        ko: "한창 먹고 자랄 때다.\n몸의 성장에 맞춰서\n해골을 몇 번이고 갈아입는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Flattern",
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
-                ja: "はばたく"
+                ja: "はばたく",
+                ko: "홰치기"
             },
             damage: 20
         }

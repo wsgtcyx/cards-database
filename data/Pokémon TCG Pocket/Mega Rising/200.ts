@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/200",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/200",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/200"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/200",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/200"
     },
     name: {
         en: "Watchog",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Watchog",
         "zh-tw": "步哨鼠",
         ja: "ミルホッグ",
+        ko: "보르그",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Patrat",
         "zh-tw": "探探鼠",
         ja: "ミネズミ",
+        ko: "보르쥐",
     },
     description: {
         en: "When they see an enemy, their tails stand high,\nand they spit the seeds of berries stored in their\ncheek pouches.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn sie einen Feind sehen, strecken sie ihren Schwanz hoch,\nund sie spucken die Samen der in ihnen gelagerten Beeren aus\nBackentaschen.",
         "pt-br": "Quando eles veem um inimigo, suas caudas ficam erguidas,\ne cuspiram as sementes das frutas armazenadas em seus\nbolsas nas bochechas.",
         "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，\n他們吐出儲存在他們的漿果中的種子\n頰袋。",
-        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。"
+        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。",
+        ko: "뺨의 주머니에 모아둔 나무열매의\n씨앗을 날려서 공격한다. 적을\n발견하면 꼬리를 세운다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Beißender Fangzahn",
                 "pt-br": "Mordendo Presa",
                 "zh-tw": "咬牙方",
-                ja: "するどいまえば"
+                ja: "するどいまえば",
+                ko: "예리한앞니"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -69,13 +74,19 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 40 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。",
-                ja: "コインを1回投げオモテなら、40ダメージ追加。"
+                ja: "コインを1回投げオモテなら、40ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

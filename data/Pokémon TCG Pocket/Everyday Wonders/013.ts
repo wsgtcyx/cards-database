@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/013"
     },
     name: {
         en: "Seaking",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es laicht in Löchern, die es mit seinem Horn in\nFelsen des Flussbettes gebohrt hat, damit seine\nEier nicht vom Wasser fortgespült werden.",
         "pt-br": "Usando seu chifre, ele faz buracos nas pedras do leito dos rios, fazendo ninhos para evitar que seus ovos sejam levados pela água.",
         "zh-tw": "金魚王之所以會用角挖穿\n河底的岩石來築巢，是為了\n防止產下的卵被水流沖走。",
-        ja: "ツノで 川底の 岩を くりぬき 巣をつくるのは 産みつけた タマゴが 流されないように するためだ。"
+        ja: "ツノで 川底の 岩を くりぬき 巣をつくるのは 産みつけた タマゴが 流されないように するためだ。",
+        ko: "뿔로 강바닥의 바위를 파헤쳐\n둥지를 만드는 이유는 낳은 알이\n떠내려가지 않도록 하기 위함이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Aqua Bullet",
                 "pt-br": "Bala Aqua",
                 "zh-tw": "水子彈",
-                ja: "アクアバレット"
+                ja: "アクアバレット",
+                ko: "아쿠아불릿"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 20 點傷害。",
-                ja: "相手のベンチポケモン1匹にも20ダメージ。"
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             },
             damage: 30
         }

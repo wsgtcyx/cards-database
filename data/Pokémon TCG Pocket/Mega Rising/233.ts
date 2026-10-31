@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/233",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/233",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/233",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/233"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/233",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/233"
     },
     name: {
         en: "Ludicolo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ludicolo",
         "zh-tw": "樂天河童",
         ja: "ルンパッパ",
+        ko: "로파파",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lombre",
         "zh-tw": "蓮帽小童",
         ja: "ハスブレロ",
+        ko: "로토스",
     },
     description: {
         en: "If it hears festive music, it begins moving in\nrhythm in order to amplify its power.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es festliche Musik hört, beginnt es einzurücken\nRhythmus, um seine Kraft zu verstärken.",
         "pt-br": "Se ouvir música festiva, começa a se mover\nritmo para amplificar seu poder.",
         "zh-tw": "如果它聽到節日音樂，它就會開始移動\n節奏，以增強其力量。",
-        ja: "陽気な リズムに あわせて 体を 動かす ことで パワーを 増幅させて いるのだ。"
+        ja: "陽気な リズムに あわせて 体を 動かす ことで パワーを 増幅させて いるのだ。",
+        ko: "경쾌한 리듬에 맞춰\n몸을 움직여서\n파워를 증폭시키고 있다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Rhythmische Schritte",
                 "pt-br": "Passos Rítmicos",
                 "zh-tw": "有節奏的舞步",
-                ja: "リズミックステップ"
+                ja: "リズミックステップ",
+                ko: "리드믹스텝"
             },
             damage: "60+",
             cost: ["Water", "Water"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wenn du genau 1, 3 oder 5 Karten auf der Hand hast, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver exatamente 1, 3 ou 5 cartas em sua mão, este ataque causa 60 de dano a mais.",
                 "zh-tw": "如果你的手牌恰好有 1、3 或 5 張，則此攻擊造成的傷害增加 60 點。",
-                ja: "自分の手札が1枚・3枚・5枚なら、60ダメージ追加。"
+                ja: "自分の手札が1枚・3枚・5枚なら、60ダメージ追加。",
+                ko: "자신의 패가 1장・3장・5장이라면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

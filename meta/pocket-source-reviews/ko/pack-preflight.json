@@ -1,0 +1,847 @@
+{
+  "manifestSha256": "f9c6368a45162589d19935428e603bd77bc2815c74b73826fec5fbc45b0a8a72",
+  "objects": 168,
+  "checkedAt": "2026-10-31T14:57:45.590Z",
+  "records": [
+    {
+      "key": "ko/tcgp/A1/boosters/charizard/logo.webp",
+      "state": "absent",
+      "sha256": "8b8a220ac7f9327573f15fe4e638053a35826f9d5d0b8b5620b3936d06104eb5"
+    },
+    {
+      "key": "ko/tcgp/A1a/logo.webp",
+      "state": "absent",
+      "sha256": "716c88431f52d0cb2d8acdd1998251c6155d6c2e7dfb5ddd2d0d4d143a5a7a02"
+    },
+    {
+      "key": "ko/tcgp/A2a/logo.webp",
+      "state": "absent",
+      "sha256": "f9828ddfe58e4acca9cc8fee526cf71a0b9ccf02700e8717e572addbdb77d6d6"
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/palkia/logo.webp",
+      "state": "absent",
+      "sha256": "59fc6751d386373729687b87b3704b93a7d66291c0d63a27731d5b99b7376b5a"
+    },
+    {
+      "key": "ko/tcgp/A2b/logo.webp",
+      "state": "absent",
+      "sha256": "f2d318e5ba8d7c904af7d015a603206c57a743d4a59367a285ed47534957830e"
+    },
+    {
+      "key": "ko/tcgp/A2/logo.webp",
+      "state": "absent",
+      "sha256": "2632c4b30f36a53127e001565229b262b66046dc5014f79acbb30475ab1616f7"
+    },
+    {
+      "key": "ko/tcgp/A1a/boosters/mythical-island/logo.webp",
+      "state": "absent",
+      "sha256": "5de0be85c277c75289d9d881b1111afdfdf9f4a19cdab4bd7611cef71d31afc0"
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/pikachu/logo.webp",
+      "state": "absent",
+      "sha256": "4b2e9fe4d22cd743062e2a7ea1c0471c86f0407fe2b6655fddf0f5207581f5c8"
+    },
+    {
+      "key": "ko/tcgp/A1/logo.webp",
+      "state": "absent",
+      "sha256": "27c0881853775364fbfc3f9fddbe0502f03f87474bd6bbfd33f55276e9d7f35d"
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/mewtwo/logo.webp",
+      "state": "absent",
+      "sha256": "dba8ee62a9306c008547074740aaa55f07f7246964a47d952336c671a17804a3"
+    },
+    {
+      "key": "ko/tcgp/A2a/boosters/triumphant-light/logo.webp",
+      "state": "absent",
+      "sha256": "a4280ea38a7ce4e86fe6e88fb2a963387b06d5010dedb17e574caedea1738f6e"
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/dialga/logo.webp",
+      "state": "absent",
+      "sha256": "47efb8d5ff6b710ad9abb2962ce8a561fea9abd6e66277e4881a0dbebc0a1bcc"
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/solgaleo/logo.webp",
+      "state": "absent",
+      "sha256": "e3a293d48645c7dca5c9e9cc1de8002a5162b881ad7832f818d337ef6eff0cf9"
+    },
+    {
+      "key": "ko/tcgp/A3/logo.webp",
+      "state": "absent",
+      "sha256": "9be5c457cfd1faec4e6c3a8e7d805b73ab28be1307626f750f7ab077fb829ce2"
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/lunala/logo.webp",
+      "state": "absent",
+      "sha256": "4e5a4519747f6eac474f8d3d6f2e732bb6fee0a1868e54cd3ffd55d4be7678ee"
+    },
+    {
+      "key": "ko/tcgp/A3a/logo.webp",
+      "state": "absent",
+      "sha256": "875ced603a6b521f98bad4cc66793020d4d6fde22b8794b836b05dae5ba2edf4"
+    },
+    {
+      "key": "ko/tcgp/A3b/boosters/eevee-grove/logo.webp",
+      "state": "absent",
+      "sha256": "b382bbcc3ef17134a36d726342725626723e990441e0b9ad4cd3171e5aa3c9db"
+    },
+    {
+      "key": "ko/tcgp/A3a/boosters/extradimensional-crisis/logo.webp",
+      "state": "absent",
+      "sha256": "1e266e3af373350da657a99dd39ce003718c26a8a410d2eb4a91b34d13b34777"
+    },
+    {
+      "key": "ko/tcgp/A4/logo.webp",
+      "state": "absent",
+      "sha256": "e4efdf0ad0ee7cafc39a2396651a45b44c4d457d10e568c1c8482087bf87222d"
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/ho-oh/logo.webp",
+      "state": "absent",
+      "sha256": "95551b8460001b805ff630028581ff75738bd38030d49af48ed9b3da6d72ac22"
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/lugia/logo.webp",
+      "state": "absent",
+      "sha256": "0d8517b9979ccae67e8788c80fc5b16d2f87c4a1672596eb8b01cb57dc417717"
+    },
+    {
+      "key": "ko/tcgp/A3b/logo.webp",
+      "state": "absent",
+      "sha256": "fa83cc77d1fb585d4b57219577542bea3610dd81f07363082879d0dff95b77b6"
+    },
+    {
+      "key": "ko/tcgp/A2b/boosters/shining-revelry/logo.webp",
+      "state": "absent",
+      "sha256": "b5c3dc7faad4c6f61d2c0f80cdab50ce6f6dad9b50356fd9b75ba19d7068f263"
+    },
+    {
+      "key": "ko/tcgp/A4a/logo.webp",
+      "state": "absent",
+      "sha256": "e80e521e7f208e9d0a0d28a14ff12fd42ded821710fabd613f9771a8930589ee"
+    },
+    {
+      "key": "ko/tcgp/A4a/boosters/suicune/logo.webp",
+      "state": "absent",
+      "sha256": "2aa8f5839984b0a3bddb33c52e5c70a1a5f0db8807adc649911d7c0332f2e415"
+    },
+    {
+      "key": "ko/tcgp/P-A/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol1/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol5/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol4/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/A4b/boosters/deluxe_pack_ex/logo.webp",
+      "state": "absent",
+      "sha256": "3c217b36f7856996c46313b39984f6042c4fa65017195c67f8d301c24623a612"
+    },
+    {
+      "key": "ko/tcgp/A4b/logo.webp",
+      "state": "absent",
+      "sha256": "3c217b36f7856996c46313b39984f6042c4fa65017195c67f8d301c24623a612"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol2/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol6/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol7/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol8/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol3/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol10/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol11/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol9/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-gyarados/logo.webp",
+      "state": "absent",
+      "sha256": "dc2801e358e74186b5a75fb462b4825c18e2a20fea1109738c642e008bacafe9"
+    },
+    {
+      "key": "ko/tcgp/B1/logo.webp",
+      "state": "absent",
+      "sha256": "4d35b4e6a5772f6df918a9ecc68acba499f69192ae592b5d8d32cee9726d1287"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol12/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/B1a/logo.webp",
+      "state": "absent",
+      "sha256": "abf3d7efee26504e38e24a3d87a030f568f5e52288efb58225e5de521d9ccde0"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol13/logo.webp",
+      "state": "absent",
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-blaziken/logo.webp",
+      "state": "absent",
+      "sha256": "393c6464d7e28831c9051a15096cf1460a1d89f798351f4ed0a11beb45902c18"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-altaria/logo.webp",
+      "state": "absent",
+      "sha256": "6b47e0a09af86cbb624b9078ba09af94c380090846854dd8b00664b9ffda467a"
+    },
+    {
+      "key": "ko/tcgp/B2/boosters/booster/logo.webp",
+      "state": "absent",
+      "sha256": "95dfc44d3eae5a9de0dc9582b0fb65acbbe751af83ae3a24591ab3d04f2b6292"
+    },
+    {
+      "key": "ko/tcgp/B2/logo.webp",
+      "state": "absent",
+      "sha256": "95dfc44d3eae5a9de0dc9582b0fb65acbbe751af83ae3a24591ab3d04f2b6292"
+    },
+    {
+      "key": "ko/tcgp/B2a/boosters/paldea/logo.webp",
+      "state": "absent",
+      "sha256": "5c5126e40fc106f5f65d50571470d76083f1fca3af21183607b7e11bf80fbf3c"
+    },
+    {
+      "key": "ko/tcgp/B1a/boosters/crimson-blaze/logo.webp",
+      "state": "absent",
+      "sha256": "8d69109b0a0d7e5207d8d0bba83a95f2e59df76f84d990800321c1acd2f18e45"
+    },
+    {
+      "key": "ko/tcgp/B2a/logo.webp",
+      "state": "absent",
+      "sha256": "5ae49ac9dfaac79254dcfff9193fbbf63ee4a710708abbe9ca86aeb48ba4861f"
+    },
+    {
+      "key": "ko/tcgp/B2b/boosters/mega-shine/logo-6e8bc18b2359.webp",
+      "state": "absent",
+      "sha256": "6e8bc18b23590ad18376e72483a41083e31cbf197ab4a12e1d7ead41ee95f7d8"
+    },
+    {
+      "key": "ko/tcgp/B3/logo.webp",
+      "state": "absent",
+      "sha256": "e7f1540e7e83f29b5f12145e6e8bf7fe610a84b4087eba13da029bc839503d4a"
+    },
+    {
+      "key": "ko/tcgp/B3a/boosters/paradox-drive/logo-34e41854115a.webp",
+      "state": "absent",
+      "sha256": "34e41854115a4c4959dd8d50eb79c401f49e6557d7b185553ad3114d2c972ee8"
+    },
+    {
+      "key": "ko/tcgp/B3a/logo.webp",
+      "state": "absent",
+      "sha256": "f333dc24c427d0b507fd72d93d0b89b9fc0e5d084f1a92d1432b47d8402d98df"
+    },
+    {
+      "key": "ko/tcgp/B2b/logo.webp",
+      "state": "absent",
+      "sha256": "e64c112ccf5112ed5992ae099e8039a2c799180819557de7a1799c31ce244a2d"
+    },
+    {
+      "key": "ko/tcgp/B3/boosters/pulsing-aura/logo-e7f1540e7e83.webp",
+      "state": "absent",
+      "sha256": "e7f1540e7e83f29b5f12145e6e8bf7fe610a84b4087eba13da029bc839503d4a"
+    },
+    {
+      "key": "ko/tcgp/B4/logo.webp",
+      "state": "absent",
+      "sha256": "5159817e5a4ad43e048a527a639b3ffe2bd16fdae7695219842b31c458fefae7"
+    },
+    {
+      "key": "ko/tcgp/B4a/logo.webp",
+      "state": "absent",
+      "sha256": "bc70695ec0e384e6f9179325b609e47f8ba063c0aa1d7440d3b2c2dd936d234e"
+    },
+    {
+      "key": "ko/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
+      "state": "absent",
+      "sha256": "d7621530c541bc15202f969bc295227f2765c964c8af7e5307406fbcc1dee237"
+    },
+    {
+      "key": "ko/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "state": "absent",
+      "sha256": "5159817e5a4ad43e048a527a639b3ffe2bd16fdae7695219842b31c458fefae7"
+    },
+    {
+      "key": "ko/tcgp/B3b/boosters/everyday-wonders/logo-9a0e1b2ad44e.webp",
+      "state": "absent",
+      "sha256": "9a0e1b2ad44ef846aae88788982cca4679acef4573893c3dc607dc83c06bce0b"
+    },
+    {
+      "key": "ko/tcgp/B4b/logo.webp",
+      "state": "absent",
+      "sha256": "934370b88c97daadc2b1c36e719533dc0c6631b7ecaf781795e1321004da5134"
+    },
+    {
+      "key": "ko/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
+      "state": "absent",
+      "sha256": "934370b88c97daadc2b1c36e719533dc0c6631b7ecaf781795e1321004da5134"
+    },
+    {
+      "key": "ko/tcgp/B3b/logo.webp",
+      "state": "absent",
+      "sha256": "a63edb11d6805130c242f8c3be559ab75a3e71d18f5bd5b483109f364074b93d"
+    },
+    {
+      "key": "ko/tcgp/SP1/boosters/first-partners/logo.webp",
+      "state": "absent",
+      "sha256": "69f02527ce89c8a4b819afaff9f2a95ecfcd048806e37192806b54ab6db00914"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol1/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/logo.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol3/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol4/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol2/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol6/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol7/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol5/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/SP1/logo.webp",
+      "state": "absent",
+      "sha256": "301153d1c0a99eff952fb325e7ebd6a352dc5d95766f7764c602e318d25f6655"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol9/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol8/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol12/logo.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/C1/logo.webp",
+      "state": "absent",
+      "sha256": "a75feb7a7199ea54b932152a7f3a8b354d3ec91ea1cbfa2415156d196fb7e9da"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol10/logo-a6d3ade41f5d.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol13/logo.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/mewtwo/artwork_front.webp",
+      "state": "absent",
+      "sha256": "07aac1526325da7a8ef1debe2851731faa9472f36729e50780c3448ac977b772"
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/charizard/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b794330d55d6f9066a944a5a14f74ffbbd75bc0ee2f5d44b0dd9d5e5bf3b342a"
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/pikachu/logo.webp",
+      "state": "absent",
+      "sha256": "1a9b2a2ddfca27cb0bead9807be2738b89806de525c7bb42377f2d901096bb3b"
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/pikachu/artwork_front.webp",
+      "state": "absent",
+      "sha256": "8a0a51ebda2f37f7ebfe6d0bde7eccff9081065c429d5c921f5b172b381caf68"
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "state": "absent",
+      "sha256": "4c1d8b1ad357c0830d70cef928bcf6f566fef82124c2f7c6a88debcb0d3dad26"
+    },
+    {
+      "key": "ko/tcgp/A1a/boosters/mythical-island/artwork_front.webp",
+      "state": "absent",
+      "sha256": "12083add1923947046883d8056360bd96ac95c8294b02730f154fae779f1f5a1"
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/dialga/artwork_front.webp",
+      "state": "absent",
+      "sha256": "065b4853df35edb9edd65e363cb31845b3b7eca2e45eb2f08846fd3a352f39df"
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/palkia/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b1a828f00ddc00d499209d109646f43ff56b8abb7d01da44525126ca489f6f67"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol11/logo.webp",
+      "state": "absent",
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429"
+    },
+    {
+      "key": "ko/tcgp/A2a/boosters/triumphant-light/artwork_front.webp",
+      "state": "absent",
+      "sha256": "0f60660502efad1ad6a23dd40ccfe2de95f3ca539589e32c261a061aefe20cf2"
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/lunala/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b4efad1e9140e44b5dfbb1d0fb16ed14b6e01cc187c107c161e1af69ed40271a"
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/ho-oh/artwork_front.webp",
+      "state": "absent",
+      "sha256": "9d09ac136164475492f1b106db884f97b1f081eea990728e707026b16644a05f"
+    },
+    {
+      "key": "ko/tcgp/A3a/boosters/extradimensional-crisis/artwork_front.webp",
+      "state": "absent",
+      "sha256": "c1f5ae967609142e1c73d22e9ca6b684bebf38e2afde90764484bfb4b821868c"
+    },
+    {
+      "key": "ko/tcgp/A4a/boosters/suicune/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b40b665730d9f05d8bb293c2e8bd161e465bab84b61319998181a1ce0cce750a"
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/solgaleo/artwork_front.webp",
+      "state": "absent",
+      "sha256": "4fbbda79f944e0405073bcb12f5d3355f92773bdf903ed9c030a430048006d46"
+    },
+    {
+      "key": "ko/tcgp/A2b/boosters/shining-revelry/artwork_front.webp",
+      "state": "absent",
+      "sha256": "338c2646314322d5e4044c540824857cd04cdc740b7ac5f04df5f106e7da7b56"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol1/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc"
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/lugia/artwork_front.webp",
+      "state": "absent",
+      "sha256": "875570ab501b7b41ea73bb12e345a34d2232d2309e0e363b402688c0ab8852e0"
+    },
+    {
+      "key": "ko/tcgp/A3b/boosters/eevee-grove/artwork_front.webp",
+      "state": "absent",
+      "sha256": "8c8403192ef4fe12e6dc4ca8b7a3e928eccf4a6a38e47404d6f75cbe9a1efaf7"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol2/artwork_front.webp",
+      "state": "absent",
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb"
+    },
+    {
+      "key": "ko/tcgp/A4b/boosters/deluxe_pack_ex/artwork_front.webp",
+      "state": "absent",
+      "sha256": "4ec39eefb56f3c04e5e08add4253f9d0810aebf0eec6e537e34aad7eab968d57"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol5/artwork_front.webp",
+      "state": "absent",
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol3/artwork_front.webp",
+      "state": "absent",
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol6/artwork_front.webp",
+      "state": "absent",
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol7/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol8/artwork_front.webp",
+      "state": "absent",
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol9/artwork_front.webp",
+      "state": "absent",
+      "sha256": "a41649d546a3fec89800f427a9f3982f9f07a78d2ae231a0d59291924e7e3ad4"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol10/artwork_front.webp",
+      "state": "absent",
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol11/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol4/artwork_front.webp",
+      "state": "absent",
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol13/artwork_front.webp",
+      "state": "absent",
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f"
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol12/artwork_front.webp",
+      "state": "absent",
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-altaria/artwork_front.webp",
+      "state": "absent",
+      "sha256": "df994b339d75a5fa2b3840890646d91f090383d38c829e37a8ec02fb14ae10b9"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-blaziken/artwork_front.webp",
+      "state": "absent",
+      "sha256": "7acb58c5c33f25061d6909b068e4c9c392ea2439a7acaf1228aabb69b2625d67"
+    },
+    {
+      "key": "ko/tcgp/B1a/boosters/crimson-blaze/artwork_front.webp",
+      "state": "absent",
+      "sha256": "fea7610deac76d99ed300bab0b466bb5dc16e6f25a1e328de7b3f4c12f314553"
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-gyarados/artwork_front.webp",
+      "state": "absent",
+      "sha256": "8420c9fbbf303115273d43fd6362bacf420e513404f05f39503b33bacf54929c"
+    },
+    {
+      "key": "ko/tcgp/B2/boosters/booster/artwork_front.webp",
+      "state": "absent",
+      "sha256": "7a771e0e25d53d6b1b2fe62b77311f597dc603fa362a74ffb62d559043d98cc9"
+    },
+    {
+      "key": "ko/tcgp/B2b/boosters/mega-shine/artwork_front-c81ea9136d0e.webp",
+      "state": "absent",
+      "sha256": "c81ea9136d0e28e543668e21ef2dd9e78a8a8e61ae28bf7dc3d406599690a8ad"
+    },
+    {
+      "key": "ko/tcgp/B3a/boosters/paradox-drive/artwork_front-ddaaa5f43d0b.webp",
+      "state": "absent",
+      "sha256": "ddaaa5f43d0b90fcf4ff181adfa5ffec350e0a71d32800e7a63728b24a9e9965"
+    },
+    {
+      "key": "ko/tcgp/B2a/boosters/paldea/artwork_front.webp",
+      "state": "absent",
+      "sha256": "d51c4437e391873937c0c774bdabcc9598c5a5b47bb156c28967a5b49cecce02"
+    },
+    {
+      "key": "ko/tcgp/B3b/boosters/everyday-wonders/artwork_front-c3a2d252ad6c.webp",
+      "state": "absent",
+      "sha256": "c3a2d252ad6cd4807cfbde7568b0271809f47832a0c3259fcb408a1568495707"
+    },
+    {
+      "key": "ko/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
+      "state": "absent",
+      "sha256": "a0db9144c46d668286e16a6a689b9489be79ef4b98889bcb83d3b627e80df2a3"
+    },
+    {
+      "key": "ko/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "state": "absent",
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol2/artwork_front-76667ac310a0.webp",
+      "state": "absent",
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0"
+    },
+    {
+      "key": "ko/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front.webp",
+      "state": "absent",
+      "sha256": "23e0ace7195f3836c7add946d144006cd220f8d78baf9d73cd4d903fd3c38b07"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol1/artwork_front-c2d815723dd8.webp",
+      "state": "absent",
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5"
+    },
+    {
+      "key": "ko/tcgp/SP1/boosters/first-partners/artwork_front.webp",
+      "state": "absent",
+      "sha256": "a4ee1bedff730886b053f4d71d5ff9c1fa2a1ac6b8f7992f0d18e47b67cbc870"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol3/artwork_front-0991b6a7325d.webp",
+      "state": "absent",
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol6/artwork_front-0991b6a7325d.webp",
+      "state": "absent",
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol5/artwork_front-76667ac310a0.webp",
+      "state": "absent",
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0"
+    },
+    {
+      "key": "ko/tcgp/B3/boosters/pulsing-aura/artwork_front-ae736fc23019.webp",
+      "state": "absent",
+      "sha256": "ae736fc230191c28f60d6543648c0bde0778dbf36e766b476192591501724037"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol7/artwork_front-c2d815723dd8.webp",
+      "state": "absent",
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol8/artwork_front-76667ac310a0.webp",
+      "state": "absent",
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol4/artwork_front-c2d815723dd8.webp",
+      "state": "absent",
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol9/artwork_front-0991b6a7325d.webp",
+      "state": "absent",
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol12/artwork_front.webp",
+      "state": "absent",
+      "sha256": "ee584b9893262d541ca14afb50682bd1d7d02dfa9080c0bca1418112877899fc"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol11/artwork_front.webp",
+      "state": "absent",
+      "sha256": "277830c8e1cc4b884e8ec41932ac22a065a9cc905e8b1e2a6504cef3af629202"
+    },
+    {
+      "key": "ko/tcgp/A1/symbol.webp",
+      "state": "absent",
+      "sha256": "b7d3c088ea00a211078f2c7793b16ab7f2c2966dcff91747d3b3d6e92fada56b"
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/pikachu/artwork_front.webp",
+      "state": "absent",
+      "sha256": "032501534ef5be38e52fe9998cb638ed4ec512814afb8f33c7cdd4653bcb9fb9"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol10/artwork_front-c2d815723dd8.webp",
+      "state": "absent",
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5"
+    },
+    {
+      "key": "ko/tcgp/A2b/symbol.webp",
+      "state": "absent",
+      "sha256": "3990a46ebb7c087449f5e874d7424cdd9491f7f27adef9b3377eaa81ca67cac4"
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
+      "state": "absent",
+      "sha256": "c6f99b0bb45fdeff265b9014de3e6b91bf05c040f96da0a4d33f77552a57a052"
+    },
+    {
+      "key": "ko/tcgp/A3/symbol.webp",
+      "state": "absent",
+      "sha256": "0190dc84ed4689bed30b174ec54eaa6d5ef7230d68891f340e825f9f0d210b9a"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol13/artwork_front.webp",
+      "state": "absent",
+      "sha256": "83c452fb674c6b81daeafdc3e316cb7b056aff5481ea41a992701807b15d4020"
+    },
+    {
+      "key": "ko/tcgp/A2/symbol.webp",
+      "state": "absent",
+      "sha256": "72e882b24f1caf9e5f4fb464b490980489fedc91b9a4d62bc02e8c5ddda7065d"
+    },
+    {
+      "key": "ko/tcgp/A1a/symbol.webp",
+      "state": "absent",
+      "sha256": "432a357af9c7cbbc74adc40066d2035b731091f96a0d38e574dc92e97b70628f"
+    },
+    {
+      "key": "ko/tcgp/A3a/symbol.webp",
+      "state": "absent",
+      "sha256": "9a2e24d7668fe6c6cbab334e7a7ace30044a1590774030956d56bf885484d485"
+    },
+    {
+      "key": "ko/tcgp/A2a/symbol.webp",
+      "state": "absent",
+      "sha256": "f888cb10fe4ed0f1d7043b8a8438827996a9ae55101710e55705577a8f25bbdf"
+    },
+    {
+      "key": "ko/tcgp/A4/symbol.webp",
+      "state": "absent",
+      "sha256": "8dded8fe1a5a311ed1313dc8afd77770347c9238756827be5ed9bbfcce71b177"
+    },
+    {
+      "key": "ko/tcgp/B2/symbol.webp",
+      "state": "absent",
+      "sha256": "5dc96cc21908b54fb98525f9e2d6ca2758697b6b2e6dfc77006a7504cc80dedf"
+    },
+    {
+      "key": "ko/tcgp/B1/symbol.webp",
+      "state": "absent",
+      "sha256": "69f4111802b41171dd13d2525311a844970740299a8fed064032ad87a89f1a70"
+    },
+    {
+      "key": "ko/tcgp/B2a/symbol.webp",
+      "state": "absent",
+      "sha256": "f6e60af42abdfd47409a7122c84640a776f99d7b634c75c56b534d3d66d07aaa"
+    },
+    {
+      "key": "ko/tcgp/A4a/symbol.webp",
+      "state": "absent",
+      "sha256": "3517de0e4c4657ec6d7bd39ea87ea61fc4b6f0e0a1b4d483a51b327bed987484"
+    },
+    {
+      "key": "ko/tcgp/B1a/symbol.webp",
+      "state": "absent",
+      "sha256": "b0c46373774a0b2470f039b84ad6b02f85a01cd0477f4687e0580ebf15c579f9"
+    },
+    {
+      "key": "ko/tcgp/B3/symbol.webp",
+      "state": "absent",
+      "sha256": "360e0938b4ca4e4df16cd556ff4a4bfec8b966a93df99ebd3fa6f1c4d82ce4b0"
+    },
+    {
+      "key": "ko/tcgp/B3a/symbol.webp",
+      "state": "absent",
+      "sha256": "4a47dee50a40e18a4623d56b5e786747b6c1a9dc187176abbf2ec75004ad1aab"
+    },
+    {
+      "key": "ko/tcgp/A3b/symbol.webp",
+      "state": "absent",
+      "sha256": "a10590a55c2dafd7ca0a173f42e22c492112459d707fd9db322e9986fcf65824"
+    },
+    {
+      "key": "ko/tcgp/B2b/symbol.webp",
+      "state": "absent",
+      "sha256": "40fbe9c28a14aa5ed561d452f416d9caf153a1a6b9459df03ae56d003000c904"
+    },
+    {
+      "key": "ko/tcgp/A4b/symbol.webp",
+      "state": "absent",
+      "sha256": "69c280bc42974fe5ca03839dd559dd870543182873d96d17f19a824fcfbb168f"
+    },
+    {
+      "key": "ko/tcgp/B4/symbol.webp",
+      "state": "absent",
+      "sha256": "be176632486b9bff97b3f911a5dfd7ba5fe645b5a562a09349afd1ee3225e69d"
+    },
+    {
+      "key": "ko/tcgp/B4a/symbol.webp",
+      "state": "absent",
+      "sha256": "638e4ef8e6e80a5ea5f5e979de59eb197bf2362231c9811de08dc2c731cce277"
+    },
+    {
+      "key": "ko/tcgp/C1/symbol.webp",
+      "state": "absent",
+      "sha256": "95d12c92f49de77389506b166d63870020951d8a34a52570dcbf5d2ef999af4a"
+    },
+    {
+      "key": "ko/tcgp/P-B/symbol.webp",
+      "state": "absent",
+      "sha256": "569314c613ac0e9b97416a48b29f79c25b582868ea969c737ccc45ab1127aa10"
+    },
+    {
+      "key": "ko/tcgp/B3b/symbol.webp",
+      "state": "absent",
+      "sha256": "0769fd133aa8cbf6dea41fb5650c6ef0087f84e723d2f328553291108f6ad72b"
+    },
+    {
+      "key": "ko/tcgp/B4b/symbol.webp",
+      "state": "absent",
+      "sha256": "3ec432bda627e3c4b157c5d3347535086f0c416a7b3dfd84e8f4b525319583db"
+    },
+    {
+      "key": "ko/tcgp/SP1/symbol.webp",
+      "state": "absent",
+      "sha256": "2640f07f81bb63ade75eab9e30c5dccb8ba523f17a2ccb5f4d35f06d6d13bbf3"
+    },
+    {
+      "key": "ko/tcgp/P-A/symbol.webp",
+      "state": "absent",
+      "sha256": "a822a647162599cf3505db7a6e27924ae59c229c6f14b03d76f00ad1590995f0"
+    }
+  ]
+}

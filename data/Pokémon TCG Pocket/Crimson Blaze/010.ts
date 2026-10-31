@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/010",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/010"
     },
     name: {
         en: "Mothim",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Moterpel",
         "pt-br": "Mothim",
         "zh-tw": "紳士蛾",
-        ja: "ガーメイル"
+        ja: "ガーメイル",
+        ko: "나메일"
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Burmy",
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
-        ja: "ミノムッチ"
+        ja: "ミノムッチ",
+        ko: "도롱충이"
     },
     description: {
         en: "It flutters around at night and steals honey from\nthe Combee hive.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es flattert nachts herum und stiehlt Honig\nder Combee-Bienenstock.",
         "pt-br": "Ele flutua à noite e rouba mel de\na colmeia Combee.",
         "zh-tw": "它在夜間飛來飛去，偷取蜂蜜。\n庫姆蜂巢。",
-        ja: "夜中 活発に 飛び回り 眠っている ミツハニーの 巣から ミツを 奪って 逃げる。"
+        ja: "夜中 活発に 飛び回り 眠っている ミツハニーの 巣から ミツを 奪って 逃げる。",
+        ko: "한밤중에 활발하게 날아다니며\n잠든 세꿀버리의 둥지에서\n꿀을 훔쳐 달아난다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schneidender Wind",
                 "pt-br": "Cortando o Vento",
                 "zh-tw": "風切",
-                ja: "カッターウインド"
+                ja: "カッターウインド",
+                ko: "커터윈드"
             },
             damage: 70,
             cost: ["Colorless", "Colorless", "Colorless"]

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/027"
     },
     name: {
         en: "Iron Valiant",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist möglich, dass es sich hierbei um das Objekt handelt, das in einem bestimmten Expeditionstagebuch als Eisenkrieger aufgeführt ist.",
         "pt-br": "É possível que este seja o objeto listado como Valentia Férrea em um determinado diário de expedição.",
         "zh-tw": "這有可能是某個探險日誌中被列為鐵武者的物件。",
-        ja: "とある 探検記の中で テツノブジンという 名で 記された 物体の 可能性が ある。"
+        ja: "とある 探検記の中で テツノブジンという 名で 記された 物体の 可能性が ある。",
+        ko: "어느 탐험기에서\n\"무쇠무인\"이라는 이름으로 기록된\n물체일 가능성이 있다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zukünftiges System",
                 "pt-br": "Sistema Futuro",
                 "zh-tw": "未來系統",
-                ja: "ミライシステム"
+                ja: "ミライシステム",
+                ko: "미래 시스템"
             },
             effect: {
                 en: "Attacks used by your Future Pokémon cost 1 less {C} Energy.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Angriffe deines Zukunfts-Pokémon kosten 1 {C} Energie weniger.",
                 "pt-br": "Os ataques usados pelos seus Pokémon do Futuro custam 1 {C} Energia a menos.",
                 "zh-tw": "你的未來寶可夢使用的攻擊消耗 1 點較少的 {C} 能量。",
-                ja: "このポケモンがいるかぎり、自分の「未来」のポケモンがワザを使うためのエネルギーを、{C}エネルギー1個ぶん少なくする。"
+                ja: "このポケモンがいるかぎり、自分の「未来」のポケモンがワザを使うためのエネルギーを、{C}エネルギー1個ぶん少なくする。",
+                ko: "이 포켓몬이 있는 한, 자신의 「미래」 의 포켓몬이 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 적게 만든다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Schwertschneide",
                 "pt-br": "Lâmina Fatiante",
                 "zh-tw": "利刃切割",
-                ja: "スライスブレード"
+                ja: "スライスブレード",
+                ko: "슬라이스 블레이드"
             },
             damage: 50
         }

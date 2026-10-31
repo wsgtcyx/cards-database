@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/061"
     },
     name: {
         en: "Audino",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Audino",
         "zh-tw": "差不多娃娃",
         ja: "タブンネ",
+        ko: "다부니",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon hat ein freundliches Herz. Durch das Berühren mit seinen Fühlern,\nAudino kann die Gefühle und den körperlichen Zustand anderer Lebewesen einschätzen.",
         "pt-br": "Este Pokémon tem um coração bondoso. Ao tocar com seus sensores,\nAudino pode avaliar os sentimentos e condições físicas de outras criaturas.",
         "zh-tw": "這只神奇寶貝有一顆善良的心。通過用觸角觸碰，\n奧迪諾可以測量其他生物的感受和身體狀況。",
-        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。"
+        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。",
+        ko: "마음 착한 포켓몬이다.\n더듬이를 갖다 대어 상대의\n마음과 몸 상태를 파악한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Mach die Welle",
                 "pt-br": "Faça a onda",
                 "zh-tw": "做波浪",
-                ja: "ともだちのわ"
+                ja: "ともだちのわ",
+                ko: "친구사이"
             },
             damage: "20×",
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊對你的每隻後備神奇寶貝造成 20 點傷害。",
-                ja: "自分のベンチポケモンの数×20ダメージ。"
+                ja: "自分のベンチポケモンの数×20ダメージ。",
+                ko: "자신의 벤치 포켓몬의 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

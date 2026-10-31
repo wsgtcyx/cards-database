@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/056",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/056"
     },
     name: {
         en: "Porygon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Porygon",
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
-        ja: "ポリゴン"
+        ja: "ポリゴン",
+        ko: "폴리곤"
     },
     illustrator: "Hisao Nakamura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Bei der Erstellung kam modernste Technik zum Einsatz\nPorygon. Es war das erste künstliche Pokémon überhaupt\ndurch Computerprogrammierung erstellt.",
         "pt-br": "Tecnologia de ponta foi usada para criar\nPorígon. Foi o primeiro Pokémon artificial a ser\ncriado através de programação de computador.",
         "zh-tw": "採用最先進的技術來創造\n多邊形。這是第一個人造神奇寶貝\n通過計算機編程創建。",
-        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。"
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。",
+        ko: "최고의 과학 기술을 사용해\n세계에서 처음으로 프로그래밍되어\n만들어진 인공 포켓몬이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Versteifen",
                 "pt-br": "Endurecer",
                 "zh-tw": "變硬",
-                ja: "かたまる"
+                ja: "かたまる",
+                ko: "딱딱해지기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

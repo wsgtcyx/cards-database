@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/071",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/071"
     },
     name: {
         en: "Seadra",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Seeper",
         "pt-br": "Horsea",
         "zh-tw": "墨海馬",
-        ja: "タッツー"
+        ja: "タッツー",
+        ko: "쏘드라"
     },
     attacks: [{
             cost: ["Water", "Water", "Water"],

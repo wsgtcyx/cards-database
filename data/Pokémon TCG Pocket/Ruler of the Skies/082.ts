@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/082",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/082",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/082"
     },
     name: {
         en: "Armaldo",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es lebt an Land, kann aber auch gut schwimmen.\nZum Jagen taucht es ins Meer und erledigt Beute\nmit seinen scharfen Klauen.",
         "pt-br": "Embora viva em terra firme, também é um excelente nadador. Mergulha no oceano em busca de presas, usando suas garras afiadas para abatê-las.",
         "zh-tw": "生活在陸地上，但也擅長游泳。\n會為了尋找獵物而潛入海中，\n用銳利的爪子解決對方。",
-        ja: "陸地で 生活するが 泳ぎも 得意。 獲物を 求めて 海に 潜り 鋭い ツメで しとめる。"
+        ja: "陸地で 生活するが 泳ぎも 得意。 獲物を 求めて 海に 潜り 鋭い ツメで しとめる。",
+        ko: "육지에서 생활하지만 헤엄도 잘 친다.\n먹이를 찾아 바다로 잠수해\n날카로운 발톱으로 꼼짝 못 하게 한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "擊落深淵",
                 "it": "Lancio nell'Abisso",
                 "de": "Abgrundtiefer Fall",
-                ja: "ならくおとし"
+                ja: "ならくおとし",
+                ko: "나락떨구기"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "將這隻寶可夢身上的能量全部丟棄。選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,將位於所選位置的寶可夢昏厥。",
                 "it": "Rimuovi tutte le Energie assegnate a questo Pokémon. Scegli una posizione tra quella attiva e quelle nella panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, metti KO il Pokémon che si trova in quella posizione.",
                 "de": "Lege alle Energien von diesem Pokémon ab. Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Mache das Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners kampfunfähig.",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンをきぜつさせる。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンをきぜつさせる。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다. 상대 배틀필드 또는 벤치를 1군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬을 기절시킨다."
             }
         }
     ],

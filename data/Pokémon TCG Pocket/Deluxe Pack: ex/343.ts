@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/343",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/343",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/343",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/343"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/343",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/343"
 	},
 	name: {
         en: "Dawn",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dawn",
         "zh-tw": "小光",
         ja: "ヒカリ",
+        ko: "빛나",
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Verschiebe eine Energie von einem deiner Bank-Pokémon auf dein Aktives Pokémon.",
         "pt-br": "Mova uma Energia de 1 dos seus Pokémon no Banco para o seu Pokémon Ativo.",
         "zh-tw": "將能量從你的 1 個後備神奇寶貝轉移到你的活躍神奇寶貝上。",
-        ja: "自分のベンチポケモンからエネルギーを1個選び、バトルポケモンにつけ替える。"
+        ja: "自分のベンチポケモンからエネルギーを1個選び、バトルポケモンにつけ替える。",
+        ko: "자신의 벤치 포켓몬에서 에너지를 1개 선택해서 배틀 포켓몬에게 바꿔 붙인다."
     },
     trainerType: "Supporter"
 };

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/078"
     },
     name: {
         en: "Milotic ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Aqua-Ladung",
                 "pt-br": "Carga Aqua",
                 "zh-tw": "水流充能",
-                ja: "アクアチャージ"
+                ja: "アクアチャージ",
+                ko: "아쿠아 차지"
             },
             effect: {
                 en: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du eine {W}-Energie aus deiner Energiezone nehmen und sie an dieses Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia {W} da sua Zona de Energia e anexá-la a este Pokémon.",
                 "zh-tw": "在你的回合中，你可以從你的能量區域取出一個{W}能量並將其附加到這隻寶可夢身上。",
-                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {W}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],
@@ -78,7 +81,8 @@ const card: Card = {
                 de: "Aquawelle",
                 "pt-br": "Pulso d'Água",
                 "zh-tw": "水之波動",
-                ja: "みずのはどう"
+                ja: "みずのはどう",
+                ko: "물의파동"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             },
             damage: 80
         }

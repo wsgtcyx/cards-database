@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/088"
     },
     name: {
         en: "Dragonair",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
         ja: "ハクリュー",
+        ko: "신뇽",
     },
     illustrator: "Shinya Komatsu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dratini",
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
-        ja: "ミニリュウ"
+        ja: "ミニリュウ",
+        ko: "미뇽"
     },
     description: {
         en: "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Man sagt, wenn es als Ganzes eine Aura ausstrahlt\nKörper, das Wetter wird sich sofort ändern.",
         "pt-br": "Dizem que se emitir uma aura de todo o seu corpo\ncorpo, o tempo começará a mudar instantaneamente.",
         "zh-tw": "他們說，如果它全身散發出一種光環\n身體，天氣就會瞬間開始變化。",
-        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。"
+        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
+        ko: "전신에서 오라를 발산하면\n주변 날씨가 순식간에\n변한다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Haut abwerfen",
                 "pt-br": "Pele derramada",
                 "zh-tw": "脫皮",
-                ja: "だっぴ"
+                ja: "だっぴ",
+                ko: "탈피"
             },
             cost: ["Colorless"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンのHPを30回復。"
+                ja: "このポケモンのHPを30回復。",
+                ko: "이 포켓몬의 HP를 30회복."
             }
         }],
     retreat: 2,

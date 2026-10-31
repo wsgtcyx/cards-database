@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/107",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/107"
     },
     name: {
         en: "Alolan Raticate",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Rattikarl",
         'pt-br': "Raticate de Alola",
         ja: "アローララッタ",
-        ko: "알로라레트라",
+        ko: "알로라 레트라",
         "zh-tw": "阿羅拉拉達",
     },
     illustrator: "nagimiso",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Rattata de Alola",
         "zh-tw": "阿羅拉小拉達",
         ja: "アローラコラッタ",
+        ko: "알로라 꼬렛",
     },
     description: {
         en: "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",

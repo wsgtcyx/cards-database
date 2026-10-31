@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/141",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/141",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/141"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/141",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/141"
     },
     name: {
         en: "Furfrou",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Coiffwaff",
         "pt-br": "Furfrou",
         "zh-tw": "多麗米亞",
-        ja: "トリミアン"
+        ja: "トリミアン",
+        ko: "트리미앙"
     },
     illustrator: "Kariya",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn man es in Ruhe lässt, wird sein Fell immer länger,\nAber es erlaubt nur jemandem, dem es vertraut, es zu schneiden.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais,\nmas só permitirá que alguém em quem confie o corte.",
         "zh-tw": "放任不管，它的皮毛會越來越長，\n但它只允許它信任的人來切割它。",
-        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。",
+        ko: "가만히 두면 털이 점점\n자라지만 신뢰하는 자가 아니면\n커트를 허락하지 않는다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Pelzmantel",
                 "pt-br": "Casaco de pele",
                 "zh-tw": "毛皮大衣",
-                ja: "ファーコート"
+                ja: "ファーコート",
+                ko: "퍼코트"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieses Pokémon erleidet −20 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -20 de dano de ataques.",
                 "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
                 "zh-tw": "錘入",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 70,
             cost: ["Colorless", "Colorless", "Colorless"]

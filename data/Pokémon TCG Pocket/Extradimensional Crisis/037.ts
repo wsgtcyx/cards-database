@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/037"
     },
     name: {
         en: "Alolan Meowth",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
         ja: "アローラニャース",
+        ko: "알로라 나옹",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist an Luxus gewöhnt, weil es\nlebte früher mit dem Alola-Königshaus zusammen. Als\nDas Ergebnis ist, dass es beim Essen sehr wählerisch ist.",
         "pt-br": "Está acostumado ao luxo porque\ncostumava viver com a realeza de Alola. Como um\nresultado, é muito exigente com a comida.",
         "zh-tw": "它習慣於奢侈，因為它\n曾經和阿羅拉皇室住在一起。作為一個\n結果，它對食物非常挑剔。",
-        ja: "むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。"
+        ja: "むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。",
+        ko: "과거 알로라지방의 왕족과\n사치스러운 생활을 했기 때문에\n먹이의 취향이 상당히 까다롭다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Einmischen",
                 "pt-br": "Intromissão",
                 "zh-tw": "插手",
-                ja: "ちょっかいをだす"
+                ja: "ちょっかいをだす",
+                ko: "간섭하기"
             },
             cost: ["Darkness"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wirf eine zufällige Pokémon-Ausrüstungskarte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória de Ferramenta Pokémon da mão do seu oponente.",
                 "zh-tw": "從對手的手牌中隨機捨棄一張神奇寶貝工具卡。",
-                ja: "相手の手札から「ポケモンのどうぐ」をランダムに1枚トラッシュ。"
+                ja: "相手の手札から「ポケモンのどうぐ」をランダムに1枚トラッシュ。",
+                ko: "상대의 패에서 「포켓몬의 도구」를 랜덤으로 1장 트래쉬한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/078"
     },
     name: {
         en: "Whiscash",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
         ja: "ドジョッチ",
-        ko: "Barboach"
+        ko: "미꾸리"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Compressão Poderosa",
                 "zh-tw": "力量壓制",
                 ja: "パワープレス",
-                ko: "Power Press"
+                ko: "파워프레스"
             },
             cost: [
                 "Fighting"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon tiver pelo menos 3 Energias {F} extras ligadas a ele, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若額外附有3個{F}能量,則增加60點傷害。",
                 ja: "追加で{F}エネルギーが3個ついているなら、60ダメージ追加。",
-                ko: "If this Pokémon has at least 3 extra {F} Energy attached, this attack does 60 more damage."
+                ko: "{F}에너지 3개가 추가로 붙어 있다면 60데미지를 추가한다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Protege seu território com muito afinco. Se algum inimigo se aproxima, ataca-o usando tremores poderosos.",
         "zh-tw": "地盤意識非常強烈， 如果有外敵靠近，就會 劇烈搖晃地面發動襲擊。",
         ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。",
-        ko: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors."
+        ko: "영역 의식이 매우 강하여\n외부의 적이 다가오면 격렬하게\n지면을 울리며 덤벼든다."
     }
 };
 

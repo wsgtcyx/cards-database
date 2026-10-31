@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/052"
     },
     name: {
         en: "Malamar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Malamar",
         "zh-tw": "烏賊王",
         ja: "カラマネロ",
+        ko: "칼라마네로",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Inkay",
         "zh-tw": "好啦魷",
         ja: "マーイーカ",
+        ko: "오케이징",
     },
     description: {
         en: "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Der Blick auf seine leuchtenden Punkte wird schnell sichtbar\neinen hypnotischen Zustand herbeiführen und den Beobachter versetzen\nunter Malamars Kontrolle.",
         "pt-br": "Olhar para seus pontos luminescentes irá rapidamente\ninduzir um estado hipnótico, colocando o observador\nsob o controle de Malamar.",
         "zh-tw": "凝視其發光點很快就會\n誘導催眠狀態，使觀察者\n在馬拉瑪的控制下。",
-        ja: "発光体の 光を 見つめると たちまち 催眠状態になり カラマネロに 操られてしまう。"
+        ja: "発光体の 光を 見つめると たちまち 催眠状態になり カラマネロに 操られてしまう。",
+        ko: "발광체의 빛을 보면\n순식간에 최면 상태가 되어\n칼라마네로에게 조종당한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Mentaler Aufschwung",
                 "pt-br": "Surto Mental",
                 "zh-tw": "精神澎湃",
-                ja: "ブレインサージ"
+                ja: "ブレインサージ",
+                ko: "브레인서지"
             },
             cost: ["Darkness"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。",
-                ja: "相手のポケモン全員に20ダメージ。"
+                ja: "相手のポケモン全員に20ダメージ。",
+                ko: "상대의 포켓몬 전원에게 20데미지를 준다."
             }
         }],
     weaknesses: [{

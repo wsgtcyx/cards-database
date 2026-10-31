@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/083",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/083"
     },
     name: {
         en: "Meditite",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Meditie",
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
-        ja: "アサナン"
+        ja: "アサナン",
+        ko: "요가랑"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es meditiert, um seine innere Energie zu steigern und zu stärken\nin der Luft schweben. Es frisst eine Beere pro Tag.",
         "pt-br": "Ele medita para aumentar sua energia interior e para\nflutuar no ar. Come uma baga por dia.",
         "zh-tw": "它通過冥想來增強內在能量並\n漂浮在空中。它每天吃一個漿果。",
-        ja: "瞑想で 精神エネルギーを 高めて 空中に 浮かぶ。 1日に 1個 木の実を 食べる。"
+        ja: "瞑想で 精神エネルギーを 高めて 空中に 浮かぶ。 1日に 1個 木の実を 食べる。",
+        ko: "명상으로 정신력을 높여 공중에 뜬다.\n하루에 나무열매 하나만 먹는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Klatschen",
                 "pt-br": "Bater",
                 "zh-tw": "斯馬克",
-                ja: "ひらてうち"
+                ja: "ひらてうち",
+                ko: "수벽치기"
             },
             damage: 10,
             cost: ["Colorless"]

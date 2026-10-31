@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/126",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/126",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/126"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/126",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/126"
     },
     name: {
         en: "Wiglett",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
         ja: "ウミディグダ",
+        ko: "바다그다",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon kann den Geruch eines Veluza wahrnehmen\netwas mehr als 65 Fuß entfernt und wird sich darin verstecken\nder Sand.",
         "pt-br": "Este Pokémon pode sentir o cheiro de uma Veluza\na pouco mais de 20 metros de distância e se esconderá em\na areia.",
         "zh-tw": "這只神奇寶貝可以聞到貝魯扎的氣味\n距離僅超過 65 英尺，將隱藏在\n沙子。",
-        ja: "２０メートル先の ミガルーサが 放つ 匂いも 嗅ぎとって 砂の中に 身を 隠すのだ。"
+        ja: "２０メートル先の ミガルーサが 放つ 匂いも 嗅ぎとって 砂の中に 身を 隠すのだ。",
+        ko: "20m 떨어진 가비루사에게서 나는\n냄새도 맡을 수 있어서\n모래 속에 몸을 숨긴다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Frühling raus",
                 "pt-br": "Primavera",
                 "zh-tw": "春天來了",
-                ja: "とびだす"
+                ja: "とびだす",
+                ko: "튀어나오기"
             },
             cost: ["Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "1 Pokémon deines Gegners wird zufällig ausgewählt. Füge ihm 30 Schaden zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 30 de dano a ele.",
                 "zh-tw": "隨機選擇 1 只對手的神奇寶貝。對其造成 30 點傷害。",
-                ja: "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、30ダメージ。"
+                ja: "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、30ダメージ。",
+                ko: "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 30데미지를 준다."
             }
         }],
     weaknesses: [{

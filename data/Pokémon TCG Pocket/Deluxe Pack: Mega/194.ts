@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/194",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/194",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/194",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/194"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/194",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/194"
     },
     name: {
         en: "Swanna ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Ducklett",
         "zh-tw": "鴨寶寶",
         ja: "コアルヒー",
-        ko: "Ducklett"
+        ko: "꼬지보리"
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 it: "Ala Jet",
                 de: "Jet-Flügel",
                 ja: "ジェットウイング",
-                ko: "Jet Wing"
+                ko: "제트윙"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
                 ja: "次の自分の番、このポケモンはワザが使えない。",
-                ko: "During your next turn, this Pokémon can't attack."
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             },
             damage: 140
         }

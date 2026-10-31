@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/222",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/222",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/222"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/222",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/222"
     },
     name: {
         en: "Primeape",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Primeape",
         "zh-tw": "火爆猴",
         ja: "オコリザル",
+        ko: "성원숭",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
         ja: "マンキー",
+        ko: "망키",
     },
     description: {
         en: "It becomes wildly furious if it even senses\nsomeone looking at it. It chases anyone\nthat meets its glare.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es wird wild wütend, wenn es überhaupt etwas spürt\njemand, der es betrachtet. Es jagt jeden\ndas trifft seinen Glanz.",
         "pt-br": "Fica extremamente furioso se sentir\nalguém olhando para isso. Ele persegue qualquer um\nque encontra seu brilho.",
         "zh-tw": "如果它感覺到的話，它就會變得非常憤怒\n有人看著它。它追趕任何人\n遇到它的眩光。",
-        ja: "だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。"
+        ja: "だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。",
+        ko: "누군가의 시선을 느끼기만 해도\n대단히 화를 낸다. 그리고\n눈이 마주친 상대를 쫓아다닌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schlagen Sie zurück",
                 "pt-br": "Contra-atacar",
                 "zh-tw": "回擊",
-                ja: "やりかえす"
+                ja: "やりかえす",
+                ko: "되갚기"
             },
             damage: "40+",
             cost: ["Fighting", "Fighting"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon Schaden hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。",
-                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。"
+                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

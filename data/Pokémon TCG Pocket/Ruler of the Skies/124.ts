@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/124",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/124",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/124",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/124"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/124",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/124"
     },
     name: {
         en: "Drampa",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Ein zutrauliches und gutmütiges Pokémon. Wird\nes jedoch wütend, beschwört es heftige Stürme\nherauf, die alles und jeden davonfegen.",
         "pt-br": "Drampa é um Pokémon gentil e amigável... até se irritar. Quando isso acontece, evoca um vendaval e devasta tudo ao redor.",
         "zh-tw": "心地善良愛親近人，\n但只要生氣就會\n颳起強風吹倒一切。",
-        ja: "人懐っこく 心優しいが ひとたび 怒ると 強風を 巻き起こし すべてを なぎ倒す。"
+        ja: "人懐っこく 心優しいが ひとたび 怒ると 強風を 巻き起こし すべてを なぎ倒す。",
+        ko: "사람을 잘 따르고 마음이 착하지만\n한번 화가 나면 강풍을 일으켜\n모든 것을 쓰러뜨려 버린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Powerschuss",
                 "pt-br": "Explosão Poderosa",
                 "zh-tw": "力量爆破",
-                ja: "パワーブラスト"
+                ja: "パワーブラスト",
+                ko: "파워블라스트"
             },
             effect: {
                 en: "Discard a random Energy from this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Lege eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte Energia aleatória deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機個能量丟棄。",
-                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             },
             damage: 70
         }

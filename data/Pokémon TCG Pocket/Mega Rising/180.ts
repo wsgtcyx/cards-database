@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/180",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/180",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/180"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/180",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/180"
     },
     name: {
         en: "Pidgey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
+        ko: "구구",
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist fügsam und geht Konflikten lieber aus dem Weg.\nWenn es jedoch gestört wird, kann es heftig zurückschlagen.",
         "pt-br": "É dócil e prefere evitar conflitos.\nSe perturbado, porém, pode contra-atacar ferozmente.",
         "zh-tw": "它性格溫順，喜歡避免衝突。\n然而，如果受到干擾，它可能會猛烈反擊。",
-        ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。"
+        ja: "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。",
+        ko: "싸움을 좋아하지 않는\n얌전한 성격이지만 어설프게 건드리면\n강력한 반격을 당하게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Picken",
                 "pt-br": "Peck",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

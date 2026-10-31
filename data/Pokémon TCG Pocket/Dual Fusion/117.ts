@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/117"
     },
     name: {
         en: "Stufful",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Pulso",
                 "zh-tw": "敲擊",
                 ja: "たたく",
-                ko: "Beat"
+                ko: "때리기"
             },
             cost: [
                 "Colorless"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "O seu pelo fofinho é uma delícia de acariciar, mas tocá-lo sem muito cuidado pode resultar em uma retaliação dolorosa.",
         "zh-tw": "毛茸茸的毛皮摸起來觸感舒適，但粗心大意地向牠伸出手的人，基本上都會遭到牠的猛烈反擊。",
         ja: "ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。",
-        ko: "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation."
+        ko: "푹신푹신한 털은 감촉이\n뛰어나지만 섣불리 손을 댔다간\n호되게 반격을 당하고 만다."
     }
 };
 

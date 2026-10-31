@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/025"
     },
     name: {
         en: "Scream Tail",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ähnelt einem mysteriösen Pokémon, das in einer paranormalen Zeitschrift als Pummeluff von vor einer Milliarde Jahren beschrieben wurde.",
         "pt-br": "Assemelha-se a um Pokémon misterioso descrito em uma revista paranormal como Jigglypuff de um bilhão de anos atrás.",
         "zh-tw": "它類似於十億年前超自然雜誌中描述為 胖丁 的神秘寶可夢。",
-        ja: "１０億年前の プリンと オカルト雑誌が 紹介した 謎の ポケモンに 似ている。"
+        ja: "１０億年前の プリンと オカルト雑誌が 紹介した 謎の ポケモンに 似ている。",
+        ko: "10억 년 전의 푸린이라며\n오컬트 잡지에 소개됐던\n정체불명의 포켓몬을 닮았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verhexendes Geschrei",
                 "pt-br": "Grito de enxotamento",
                 "zh-tw": "退敵絕哮",
-                ja: "がなりおいだす"
+                ja: "がなりおいだす",
+                ko: "고함쳐내쫓기"
             },
             effect: {
                 en: "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Wenn beide Köpfe sind, wirf das Aktive Pokémon deines Gegners ab.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem cara, descarte o Pokémon Ativo do seu oponente.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍寶可夢。",
-                ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをトラッシュ。"
+                ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをトラッシュ。",
+                ko: "동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 트래쉬한다."
             }
         }
     ],

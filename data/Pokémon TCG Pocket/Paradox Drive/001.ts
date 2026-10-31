@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/001"
     },
     name: {
         en: "Surskit",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Aus der Spitze seines Kopfes sondert es einen dicken, süß duftenden Sirup ab. Es lebt in Teichen, die von Unkraut überwuchert sind.",
         "pt-br": "Ele secreta um xarope espesso e de aroma adocicado na ponta da cabeça. Vive em lagos cheios de ervas daninhas.",
         "zh-tw": "它的頭尖會分泌出濃稠的、帶有甜味的糖漿。它生活在雜草叢生的池塘裡。",
-        ja: "頭の 先から 水飴に 似た 甘い 匂いの 液体を 出す。 水草の 多い 池に 棲む。"
+        ja: "頭の 先から 水飴に 似た 甘い 匂いの 液体を 出す。 水草の 多い 池に 棲む。",
+        ko: "머리 앞쪽에서 물엿과 비슷한\n달콤한 냄새의 액체를 내보낸다.\n수초가 많은 연못에 산다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 10
         }

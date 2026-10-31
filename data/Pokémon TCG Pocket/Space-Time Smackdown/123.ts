@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/123",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/123"
     },
     name: {
         en: "Garchomp",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
         ja: "ガバイト",
+        ko: "한바이트",
     },
     description: {
         en: "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",

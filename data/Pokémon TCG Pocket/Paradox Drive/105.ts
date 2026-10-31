@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/105",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/105"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/105",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/105"
     },
     name: {
         en: "Armarouge ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Rüstung",
                 "pt-br": "Armadura",
                 "zh-tw": "裝甲",
-                ja: "そうこう"
+                ja: "そうこう",
+                ko: "장갑"
             },
             effect: {
                 en: "This Pokémon takes -30 damage from attacks.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon erleidet -30 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -30 de dano de ataques.",
                 "zh-tw": "這隻寶可夢受到的攻擊傷害為-30。",
-                ja: "このポケモンが受けるワザのダメージを-30する。"
+                ja: "このポケモンが受けるワザのダメージを-30する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -30한다."
             }
         }
     ],
@@ -78,7 +81,8 @@ const card: Card = {
                 de: "Rüstungskanone",
                 "pt-br": "Canhão de Armadura",
                 "zh-tw": "鎧農炮",
-                ja: "アーマーキャノン"
+                ja: "アーマーキャノン",
+                ko: "아머캐논"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon.",
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             },
             damage: 120
         }

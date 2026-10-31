@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/274",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/274",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/274",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/274"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/274",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/274"
     },
     name: {
         en: "Wartortle",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
         ja: "ゼニガメ",
-        ko: "Squirtle"
+        ko: "꼬부기"
     },
     description: {
         en: "It cleverly controls its furry ears and tail to\nmaintain its balance while swimming.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Controla suas orelhas e cauda felpudas com maestria para manter o equilíbrio enquanto nada.",
         "zh-tw": "會靈巧地擺動自己毛茸茸的耳朵和尾巴，藉此在水中保持平衡。",
         ja: "ふさふさの 耳と しっぽを たくみに 操って 水中での バランスを たもつ。",
-        ko: "It cleverly controls its furry ears and tail to\nmaintain its balance while swimming."
+        ko: "탐스러운 귀와 꼬리를\n능숙하게 다뤄서 수중에서의\n밸런스를 유지한다."
     },
     stage: "Stage1",
     abilities: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Escudo de Concha",
                 "zh-tw": "甲殼盾",
                 ja: "こうらシールド",
-                ko: "Shell Shield"
+                ko: "등껍질실드"
             },
             effect: {
                 en: "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks.",
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, previna todo o dano causado a este Pokémon por ataques.",
                 "zh-tw": "只要這隻寶可夢在備戰區,不會受到招式的傷害。",
                 ja: "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
-                ko: "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks."
+                ko: "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
                 "pt-br": "Cachoeira",
                 "zh-tw": "攀瀑",
                 ja: "たきのぼり",
-                ko: "Waterfall"
+                ko: "폭포오르기"
             },
             damage: 60,
             cost: [

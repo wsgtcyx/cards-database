@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/037"
     },
     name: {
         en: "Vanillite",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Gelatini",
         "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
-        ja: "バニプッチ"
+        ja: "バニプッチ",
+        ko: "바닐프티"
     },
     illustrator: "Orca",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Angeblich wurde dieses Pokémon aus einem geboren\nEiszapfen. Es stößt eiskalte Luft mit einer Temperatur von −58 Grad aus\nFahrenheit, um es sich bequemer zu machen.",
         "pt-br": "Supostamente, este Pokémon nasceu de um\npingente de gelo. Ele expele ar gelado a -58 graus\nFahrenheit para ficar mais confortável.",
         "zh-tw": "據推測，這只神奇寶貝是從\n冰柱。它噴出-58度的冰冷空氣\n華氏度讓自己更舒服。",
-        ja: "氷柱から 生まれたと いわれる。 マイナス５０度の 冷気を 吐いて あたりを 凍らせ 棲みやすくする。"
+        ja: "氷柱から 生まれたと いわれる。 マイナス５０度の 冷気を 吐いて あたりを 凍らせ 棲みやすくする。",
+        ko: "고드름에서 태어났다고 전해진다.\n마이너스 50도의 냉기를 뿜어\n주변을 얼려 살기 좋게 만든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kühl",
                 "pt-br": "Frio",
                 "zh-tw": "寒冷",
-                ja: "ひんやり"
+                ja: "ひんやり",
+                ko: "썰렁"
             },
             damage: 20,
             cost: ["Water"]

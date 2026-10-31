@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/102",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/102",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/102",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/102"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/102",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/102"
     },
     name: {
         en: "Mandibuzz",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Vom Himmel aus beobachtend, greifen sie geschwächte Beute am Boden an. Sie haben die Angewohnheit, sich mit Knochen zu schmücken.",
         "pt-br": "Observando do céu, eles atacam presas enfraquecidas no chão. Eles têm o hábito de se enfeitarem com ossos.",
         "zh-tw": "它們從空中觀察，攻擊地面上虛弱的獵物。他們有用骨頭裝飾自己的習慣。",
-        ja: "空から 地上を 観察して 弱った 獲物に 襲いかかる。 骨で 着飾る 習性。"
+        ja: "空から 地上を 観察して 弱った 獲物に 襲いかかる。 骨で 着飾る 習性。",
+        ko: "하늘에서 지상을 관찰하다\n쇠약해진 먹이를 덮친다.\n뼈로 몸치장하는 습성이 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Knochenhatz",
                 "zh-tw": "骨棒亂打",
                 "pt-br": "Fúria de Ossos",
-                ja: "ボーンラッシュ"
+                ja: "ボーンラッシュ",
+                ko: "본러시"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 60 damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×60點傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×60ダメージ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
             },
             damage: "60x"
         }

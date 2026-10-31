@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/059"
     },
     name: {
         en: "Toedscool",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Toedscool",
         "zh-tw": "原野水母",
         ja: "ノノクラゲ",
+        ko: "들눈해",
         pt: "Toedscool",
         'es-mx': "Toedscool"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Tentagra lebt in schwülen Wäldern. Die von seinem Körper fallenden Lappen sind zäh und sehr lecker.",
         "pt-br": "Toedscool vive em florestas abafadas. As abas que caem de seu corpo são mastigáveis ​​e muito deliciosas.",
         "zh-tw": "原野水母 生活在悶熱的森林裡。從它身上掉下來的皮瓣很有嚼勁，非常美味。",
-        ja: "じめじめした 森の中で 暮らす。 剥がれ落ちた 体の ヒラヒラは 歯ごたえがあって とても 美味しい。"
+        ja: "じめじめした 森の中で 暮らす。 剥がれ落ちた 体の ヒラヒラは 歯ごたえがあって とても 美味しい。",
+        ko: "축축한 숲속에 산다.\n떨어져 나온 몸의 하늘하늘한 부분은\n쫄깃쫄깃하고 아주 맛있다."
     },
     stage: "Basic",
     attacks: [
@@ -52,6 +55,7 @@ const card: Card = {
                 "pt-br": "Chute Poderoso",
                 "zh-tw": "粉碎踢",
                 ja: "けとばす",
+                ko: "걷어차기",
                 pt: "Chute Poderoso",
                 'es-mx': "Patada Devastadora"
             },

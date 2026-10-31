@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/005"
     },
     name: {
         en: "Spidops",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Spidops",
         "zh-tw": "操陷蛛",
         ja: "ワナイダー",
+        ko: "트래피더",
         pt: "Spidops"
     },
     illustrator: "Anesaki Dynamic",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Tarountula",
         "zh-tw": "團珠蛛",
         ja: "タマンチュラ",
+        ko: "타랜툴라",
         pt: "Tarountula"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Spinsidias deckt sein Revier mit zähen, klebrigen Fäden ab, um Fallen für Eindringlinge aufzustellen.",
         "pt-br": "Spidops cobre seu território com fios resistentes e pegajosos para preparar armadilhas para intrusos.",
         "zh-tw": "操陷蛛 用堅韌、黏性的線覆蓋其領地，為入侵者設置陷阱。",
-        ja: "丈夫で ネバネバの 糸を 縄張りの 中に 張り巡らせて 侵入者を 罠にかけるのだ。"
+        ja: "丈夫で ネバネバの 糸を 縄張りの 中に 張り巡らせて 侵入者を 罠にかけるのだ。",
+        ko: "튼튼하고 끈끈한 실을\n영역 안에 둘러쳐서\n침입자를 함정에 빠트린다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Vincular",
                 "zh-tw": "綁定",
                 ja: "しばりつける",
+                ko: "붙들어매기",
                 pt: "Aprisionamento",
                 'es-mx': "Amarrar"
             },
@@ -76,6 +81,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
                 ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
                 'es-mx': "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
                 pt: "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar."
             },

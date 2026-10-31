@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/018"
     },
     name: {
         en: "Hisuian Basculegion",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es verfügt über eine nahezu unheimliche Sprungkraft. Der Zorn von verstorbenen Artgenossen färbt seinen Körper rot.",
         "pt-br": "Consegue pular com uma potência incrivel. Partes do seu corpo são tingidas de vermelho pela raiva de amigos que padeceram.",
         "zh-tw": "擁有驚人的跳躍力。死去的夥伴們的怒火染紅了牠的身體。",
-        ja: "凄まじい ジャンプ力を 持つ。 死んでいった 仲間たちの 怒りが 体を 赤く 染めあげている。"
+        ja: "凄まじい ジャンプ力を 持つ。 死んでいった 仲間たちの 怒りが 体を 赤く 染めあげている。",
+        ko: "가공할 만한 점프력을 가졌다.\n죽은 동료들의 분노가\n몸을 붉게 물들였다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Seelenkonter",
                 "pt-br": "Contador de Almas",
                 "zh-tw": "靈魂反擊",
-                ja: "ソウルカウンター"
+                ja: "ソウルカウンター",
+                ko: "소울카운터"
             },
             effect: {
                 en: "This attack does 50 more damage for each point your opponent got during their last turn.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jeden Punkt, den dein Gegner während seines letzten Zugs erhalten hat, 50 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a mais para cada ponto que seu oponente recebeu durante o último turno dele.",
                 "zh-tw": "增加上個對手的回合對手獲得的分數×50點傷害。",
-                ja: "前の相手の番、相手がとったポイントの数×50ダメージ追加。"
+                ja: "前の相手の番、相手がとったポイントの数×50ダメージ追加。",
+                ko: "상대의 이전 차례에 상대가 가져간 포인트의 수 × 50데미지를 추가한다."
             },
             damage: "50+"
         }

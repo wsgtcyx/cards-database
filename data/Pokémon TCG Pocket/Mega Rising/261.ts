@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/261",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/261",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/261",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/261"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/261",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/261"
     },
     name: {
         en: "Hitmonchan ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hitmonchan ex",
         "zh-tw": "快拳郎ex",
         ja: "エビワラーex",
+        ko: "홍수몬 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Schnell geradeaus",
                 "pt-br": "Direto rápido",
                 "zh-tw": "快速直行",
-                ja: "クイックストレート"
+                ja: "クイックストレート",
+                ko: "퀵스트레이트"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -50,13 +53,17 @@ const card: Card = {
                 "de": "Der Schaden dieses Angriffs wird durch Schwäche nicht beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado pela Fraqueza.",
                 "zh-tw": "該攻擊的傷害不受虛弱影響。",
-                ja: "このワザのダメージは弱点を計算しない。"
+                ja: "このワザのダメージは弱点を計算しない。",
+                ko: "이 기술의 데미지는 약점 계산을 하지 않는다."
             }
         }],
     weaknesses: [{
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

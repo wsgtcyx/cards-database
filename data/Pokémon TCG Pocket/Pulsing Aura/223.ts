@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/223",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/223",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/223",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/223"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/223",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/223"
     },
     name: {
         en: "Porygon2",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Durch ein Update mit besonderen Daten wurde\nPorygon zu Porygon2. Es erweitert sein Wissen,\nindem es selbstständig verschiedene Dinge lernt.",
         "pt-br": "Este é um Porygon que foi atualizado com dados\nespeciais. Porygon2 se desenvolve ao aprender\nsobre diversos assuntos por conta própria.",
         "zh-tw": "這是一個用特殊數據更新的 Porygon。 Porygon2 通過自行學習許多不同的主題來發展自己。",
-        ja: "ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。"
+        ja: "ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。",
+        ko: "폴리곤을 특별한 데이터로\n업데이트했다. 다양한 것을\n스스로 배우고 성장한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Tempoangriff",
                 "pt-br": "Ataque em Velocidade",
                 "zh-tw": "高速攻擊",
-                ja: "スピードアタック"
+                ja: "スピードアタック",
+                ko: "스피드어택"
             },
             damage: 40
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/253",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/253",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/253",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/253"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/253",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/253"
     },
     name: {
         en: "Charizard ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "リザード"
+        ja: "リザード",
+        ko: "리자드"
     },
     suffix: "EX",
     attacks: [{

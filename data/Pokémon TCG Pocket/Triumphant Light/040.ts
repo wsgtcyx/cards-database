@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/040",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/040"
     },
     name: {
         en: "Pupitar",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
         ja: "ヨーギラス",
+        ko: "애버라스",
     },
     description: {
         en: "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",

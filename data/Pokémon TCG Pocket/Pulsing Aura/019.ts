@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/019"
     },
     name: {
         en: "Applin",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Knapfel lebt in einem Apfel. Wenn ein Knapfel von seinem Apfel getrennt wird, verliert sein Körper Feuchtigkeit und das Pokémon wird schwach.",
         "pt-br": "Applin vive dentro de uma maçã. Quando um Applin é separado de sua maçã, seu corpo perde umidade e o Pokémon fica fraco.",
         "zh-tw": "啃果蟲 住在蘋果裡面。當啃果蟲與蘋果分離時，它的身體會失去水分，寶可夢會變得虛弱。",
-        ja: "りんごの 中で 暮らしている。 りんごが なくなると 体の 水分が 抜けて 弱ってしまう。"
+        ja: "りんごの 中で 暮らしている。 りんごが なくなると 体の 水分が 抜けて 弱ってしまう。",
+        ko: "사과 안에 살고 있다.\n사과가 없어지면\n몸의 수분이 빠져나와 약해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verteiler",
                 "pt-br": "Compartilhar",
                 "zh-tw": "分贈",
-                ja: "おすそわけ"
+                ja: "おすそわけ",
+                ko: "나눠주기"
             },
             effect: {
                 en: "Heal 30 damage from 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Heile 30 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
                 "pt-br": "Cure 30 de dano de 1 dos seus Pokémon no Banco.",
                 "zh-tw": "治療你 1 隻後備寶可夢造成的 30 點傷害。",
-                ja: "自分のベンチポケモン1匹のHPを30回復。"
+                ja: "自分のベンチポケモン1匹のHPを30回復。",
+                ko: "자신의 벤치 포켓몬 1마리의 HP를 30회복."
             }
         }
     ],

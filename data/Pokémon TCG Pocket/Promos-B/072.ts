@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/072"
     },
     name: {
         en: "Feebas",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist das schäbigste Pokémon von allen. Es bildet Schulen und lebt am Grund von Flüssen, in denen es von Pflanzen nur so wimmelt.",
         "pt-br": "É o Pokémon mais pobre de todos. Forma cardumes e vive no fundo de rios repletos de plantas.",
         "zh-tw": "它是所有寶可夢中最破舊的。它在充滿植物生命的河流底部形成學校和生活。",
-        ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。"
+        ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。",
+        ko: "제일 볼품없는 포켓몬이다.\n수초가 많은 강바닥에\n한데 모여 살고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verstecken",
                 "pt-br": "Esconder",
                 "zh-tw": "躲藏",
-                ja: "かくれる"
+                ja: "かくれる",
+                ko: "숨기"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }
     ],

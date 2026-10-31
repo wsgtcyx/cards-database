@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/345",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/345",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/345",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/345"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/345",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/345"
     },
     name: {
         en: "Vibrava",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Trapinch",
         "zh-tw": "大顎蟻",
         ja: "ナックラー",
-        ko: "Trapinch"
+        ko: "톱치"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Gera ondas ultrassônicas ao vibrar vigorosamente suas asas. Após fazer suas presas desmaiarem, dissolve-as com seus sucos digestivos.",
         "zh-tw": "會劇烈地振動翅膀來產生超音波。能用消化液來溶解昏迷的獵物。",
         ja: "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。",
-        ko: "It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices."
+        ko: "날개를 격렬하게 진동시켜서\n초음파를 발생시킨다.\n기절한 먹이를 소화액으로 녹인다."
     },
     attacks: [
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Vento de Areia",
                 "zh-tw": "沙風",
                 ja: "すなかぜ",
-                ko: "Sand Wind"
+                ko: "샌드윈드"
             },
             effect: {
                 en: "This attack does 10 damage to each of your opponent's Pokémon.",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "對手的所有寶可夢受到10點傷害。",
                 ja: "相手のポケモン全員に10ダメージ。",
-                ko: "This attack does 10 damage to each of your opponent's Pokémon."
+                ko: "상대의 포켓몬 전원에게 10데미지를 준다."
             }
         }
     ],

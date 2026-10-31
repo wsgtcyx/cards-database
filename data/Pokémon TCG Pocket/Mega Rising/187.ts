@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/187",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/187",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/187",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/187"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/187",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/187"
     },
     name: {
         en: "Miltank",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Miltank",
         "zh-tw": "大奶罐",
         ja: "ミルタンク",
+        ko: "밀탱크",
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon muss jeden Tag gemolken werden,\nsonst wird es krank. Der Geschmack von Miltank-Milch\nändert sich mit den Jahreszeiten.",
         "pt-br": "Este Pokémon precisa ser ordenhado todos os dias,\nou então ficará doente. O sabor do leite Miltank\nmuda com as estações.",
         "zh-tw": "這個神奇寶貝每天都需要擠奶，\n不然就會生病。 Miltank牛奶的味道\n隨著季節的變化。",
-        ja: "毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。"
+        ja: "毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。",
+        ko: "매일 우유를 짜지 않으면\n컨디션이 나빠진다. 우유의\n맛은 계절에 따라 다르다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Bodyslam",
                 "pt-br": "Batida Corporal",
                 "zh-tw": "身體猛擊",
-                ja: "のしかかり"
+                ja: "のしかかり",
+                ko: "누르기"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

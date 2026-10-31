@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/166",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/166",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/166"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/166",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/166"
     },
     name: {
         en: "Ferroseed",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
         ja: "テッシード",
+        ko: "철시드",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Moosbewachsene Höhlen sind ihre bevorzugte Behausung.\nIn Moosen enthaltene Enzyme helfen Ferroseed\nDie Ähren werden groß und stark.",
         "pt-br": "Cavernas cobertas de musgo são suas habitações preferidas.\nAs enzimas contidas nos musgos ajudam o Ferroseed\nos espinhos ficam grandes e fortes.",
         "zh-tw": "長滿青苔的洞穴是他們最喜歡的住所。\n苔蘚中含有的酶有助於 Ferroseed\n穗狀花序長得又大又強。",
-        ja: "苔むした 洞窟を 好む。 苔が 含む 酵素が 棘を 大きく 丈夫に 育むのだ。"
+        ja: "苔むした 洞窟を 好む。 苔が 含む 酵素が 棘を 大きく 丈夫に 育むのだ。",
+        ko: "이끼 낀 동굴을 좋아한다.\n이끼에 함유된 효소가 가시를\n크고 튼튼하게 만들어준다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rollendes Gerät",
                 "pt-br": "Equipamento de rolamento",
                 "zh-tw": "滾動釣具",
-                ja: "ころがりタックル"
+                ja: "ころがりタックル",
+                ko: "구르기 태클"
             },
             damage: 20,
             cost: ["Metal"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

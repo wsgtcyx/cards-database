@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/119",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/119"
     },
     name: {
         en: "Carbink",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Carbink",
         "zh-tw": "小碎鑽",
         ja: "メレシー",
+        ko: "멜리시",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es heißt, dass es irgendwo auf der Welt so etwas gibt\neine mineralische Ader, in der ein großes Rudel schlummert\nCarbink. Es heißt auch, dass dieses Rudel eine Königin hat.",
         "pt-br": "Diz-se que em algum lugar do mundo existe\num veio mineral que abriga um grande pacote de adormecidos\nCarabina. Também é dito que este bando tem uma rainha.",
         "zh-tw": "據說，在世界的某個地方，有\n礦脈裡藏著一大群沉睡的人\n卡賓克。據說這個包裡有一個女王。",
-        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。"
+        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。",
+        ko: "세상 어딘가에는 멜리시가\n많이 잠들어 있는 광맥이 있고\n무리의 여왕도 있다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
                 "zh-tw": "守衛壓力機",
-                ja: "ガードプレス"
+                ja: "ガードプレス",
+                ko: "가드프레스"
             },
             damage: 30,
             cost: ["Psychic"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다."
             }
         }],
     weaknesses: [{
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

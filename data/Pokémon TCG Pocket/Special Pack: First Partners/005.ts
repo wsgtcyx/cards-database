@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/005"
     },
     name: {
         en: "Cyndaquil",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
                 ja: "たいあたり",
-                ko: "Tackle"
+                ko: "몸통박치기"
             },
             cost: [
                 "Fire"
@@ -68,7 +69,7 @@ const card: Card = {
         "pt-br": "Ele é tímido e sempre se enrola em uma bola. Se atacado, incendeia suas costas como proteção.",
         "zh-tw": "牠很膽小，總是把身體蜷縮成球。受到攻擊時，會燃起背上的火焰來保護自己。",
         ja: "臆病で いつも 体を まるめている。 襲われると 背中の 炎を 燃え上がらせて 身を守る。",
-        ko: "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection."
+        ko: "겁이 많아서 늘 몸을 웅크리고\n있다. 습격당하면 등의 불꽃을\n타오르게 해서 몸을 보호한다."
     }
 };
 

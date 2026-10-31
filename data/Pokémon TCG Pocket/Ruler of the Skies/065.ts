@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/065",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/065"
     },
     name: {
         en: "Clefable",
@@ -49,7 +50,8 @@ const card: Card = {
         "de": "Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist.",
         "pt-br": "Sua audição é extremamente aguçada. Pode facilmente escutar um alfinete caindo a quase 1.000 metros de distância.",
         "zh-tw": "聽覺靈敏，連1公里以外\n針落地的聲音都能夠\n分辨得一清二楚。",
-        ja: "耳が 良くて 1キロ 離れた ところで 落とした 針の音を 見事に 聞き分けられる。"
+        ja: "耳が 良くて 1キロ 離れた ところで 落とした 針の音を 見事に 聞き分けられる。",
+        ko: "귀가 밝아서 1km 거리에서\n떨어뜨린 바늘 소리도\n기가 막히게 들을 수 있다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Hyperstimme",
                 "pt-br": "Hipervoz",
                 "zh-tw": "巨聲",
-                ja: "ハイパーボイス"
+                ja: "ハイパーボイス",
+                ko: "하이퍼보이스"
             },
             damage: 70
         }

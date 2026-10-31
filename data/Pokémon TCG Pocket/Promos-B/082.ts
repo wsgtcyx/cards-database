@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/082"
     },
     name: { en: "Pikachu", fr: "Pikachu", es: "Pikachu", it: "Pikachu", de: "Pikachu", "pt-br": "Pikachu", "zh-tw": "皮卡丘", ko: "피카츄", ja: "ピカチュウ" },
     illustrator: "kurumitsu",
@@ -23,7 +24,7 @@ const card: Card = {
     stage: "Basic",
     attacks: [{
         cost: ["Colorless"],
-        name: { en: "Growl", fr: "Rugissement", es: "Gruñido", it: "Ruggito", de: "Heuler", "pt-br": "Rosnadura", "zh-tw": "叫聲", ja: "なきごえ" },
+        name: { en: "Growl", fr: "Rugissement", es: "Gruñido", it: "Ruggito", de: "Heuler", "pt-br": "Rosnadura", "zh-tw": "叫聲", ja: "なきごえ", ko: "울음소리" },
         effect: {
             en: "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
             fr: "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent −20 dégâts.",
@@ -32,7 +33,8 @@ const card: Card = {
             de: "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon −20 Schadenspunkte zu.",
             "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
             "zh-tw": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害−20點。",
-            ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+            ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+            ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
         }
     }],
     weaknesses: [{ type: "Fighting", value: "+20" }],

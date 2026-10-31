@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/057",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/057"
     },
     name: {
         en: "Wailord",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wailord",
         "zh-tw": "吼鯨王",
         ja: "ホエルオー",
+        ko: "고래왕",
     },
     illustrator: "KIYOTAKA OSHIYAMA",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wailmer",
         "zh-tw": "吼吼鯨",
         ja: "ホエルコ",
+        ko: "고래왕자",
     },
     description: {
         en: "The biggest of all Pokémon. It can dive to a depth\nof almost 10,000 feet on only one breath.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das größte aller Pokémon. Es kann bis in eine Tiefe tauchen\nvon fast 10.000 Fuß mit nur einem Atemzug.",
         "pt-br": "O maior de todos os Pokémon. Ele pode mergulhar a uma profundidade\nde quase 10.000 pés com apenas uma respiração.",
         "zh-tw": "所有神奇寶貝中最大的。它可以潛到很深的地方\n只需一口氣就可以飛近 10,000 英尺。",
-        ja: "一番 大きい ポケモン。 息つぎせずに ３０００メートルの 深さまで 潜ることが できる。"
+        ja: "一番 大きい ポケモン。 息つぎせずに ３０００メートルの 深さまで 潜ることが できる。",
+        ko: "제일 큰 포켓몬이다.\n숨을 들이쉬지 않고\n3000m의 깊이까지 잠수할 수 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Walpumpe",
                 "pt-br": "Bomba Baleia",
                 "zh-tw": "鯨魚泵",
-                ja: "ホエールポンプ"
+                ja: "ホエールポンプ",
+                ko: "웨일펌프"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede an dieses Pokémon angelegte {W}-Energie zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {W} ligada a este Pokémon.",
                 "zh-tw": "該寶可夢身上每附加一個 {W} 能量，該攻擊就會造成 10 點額外傷害。",
-                ja: "このポケモンの{W}エネルギーの数×10ダメージ追加。"
+                ja: "このポケモンの{W}エネルギーの数×10ダメージ追加。",
+                ko: "이 포켓몬의 {W}에너지의 개수 × 10데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 4
+    retreat: 4,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/004"
     },
     name: {
         en: "Pokédex",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Schau dir die oberste Karte deines Decks an.",
         'pt-br': "Olhe a 1 carta de cima do seu baralho.",
         ja: "自分の山札を上から3枚見て、もとにもどす。",
-        ko: "자신의 덱을 위에서부터 1장 보고 원래대로 되돌린다.",
+        ko: "자신의 덱을 위에서부터 3장 보고 원래대로 되돌린다.",
         "zh-tw": "查看你牌組頂的 3 張牌。"
     },
     trainerType: "Item",

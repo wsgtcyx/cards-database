@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/065"
     },
     name: {
         en: "Zangoose",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zangoose",
         "zh-tw": "貓鼬斬",
         ja: "ザングース",
+        ko: "쟝고",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist Sevipers Erzrivale. Diese zu bedrohen\nes begegnet, es breitet seine Krallen aus\nVorderpfoten.",
         "pt-br": "É o arquirrival de Seviper. Para ameaçar aqueles\nencontra, espalha as garras em seu\npatas dianteiras.",
         "zh-tw": "這是塞維珀的主要競爭對手。去威脅那些\n它遇到了，它就會張開爪子\n前爪。",
-        ja: "ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。"
+        ja: "ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。",
+        ko: "세비퍼와는 사연이 깊은 사이.\n만나면 곧바로\n앞발의 발톱을 펼쳐 위협한다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Gegenangriff",
                 "pt-br": "Contra-ataque",
                 "zh-tw": "反擊",
-                ja: "はんげき"
+                ja: "はんげき",
+                ko: "반격"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
                 "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"]

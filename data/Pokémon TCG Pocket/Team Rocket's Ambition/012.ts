@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/012"
     },
     name: {
         en: "Delphox",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es kontrolliert Flammen mithilfe von Telekinese und hüllt Gegner in 3000 °C heiße Wirbel aus Feuer, die sie zu Asche verbrennen.",
         "pt-br": "Controla chamas por telecinesia, aprisionando os inimigos em um vórtice ardente de mais de 3.000 °C e os queimando até virarem cinzas.",
         "zh-tw": "能用念力操控火焰。攝氏３０００度的火焰旋渦會包圍對手並將其燒成灰燼。",
-        ja: "念力で 炎を 操る。 摂氏3000度の 炎の 渦が 相手を 包みこみ 焼きつくす。"
+        ja: "念力で 炎を 操る。 摂氏3000度の 炎の 渦が 相手を 包みこみ 焼きつくす。",
+        ko: "염력으로 불꽃을 조종한다.\n섭씨 3000도의 불꽃으로 된 소용돌이로\n상대를 휘감은 다음 태워 버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "60+"
         }

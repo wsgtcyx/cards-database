@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/088",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/088"
     },
     name: {
         en: "Snubbull",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Snubbull",
         "zh-tw": "布魯",
         ja: "ブルー",
+        ko: "블루",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wächst leicht in die Nähe anderer und wächst auch leicht\nverwöhnt. Die Ungleichheit zwischen seinem Gesicht und seinem\nAktionen machen viele junge Leute wild.",
         "pt-br": "Ele se aproxima facilmente dos outros e também é facilmente\nestragado. A disparidade entre seu rosto e seu\nações deixam muitos jovens loucos por isso.",
         "zh-tw": "它很容易與他人親近，也很容易\n被寵壞了。臉和身材的差距\n行動讓不少年輕人為之瘋狂。",
-        ja: "よく 懐いて よく 甘える。 その 仕草と 顔の ギャップで 若い 女性は メロメロらしい。"
+        ja: "よく 懐いて よく 甘える。 その 仕草と 顔の ギャップで 若い 女性は メロメロらしい。",
+        ko: "금방 따르고 금방 응석을 부린다.\n하는 행동과 생김새의 격차 때문에\n젊은 여성은 헤롱헤롱하는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 20,
             cost: ["Psychic"]

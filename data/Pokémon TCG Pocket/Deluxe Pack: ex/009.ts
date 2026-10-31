@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/009"
     },
     name: {
         en: "Kakuna",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Kakuna",
         "zh-tw": "鐵殼蛹",
         ja: "コクーン",
+        ko: "딱충이",
     },
     illustrator: "Yuka Morii",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
         ja: "ビードル",
+        ko: "뿔충이",
     },
     description: {
         en: "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist fast unfähig, sich zu bewegen, kann es aber nur\nHärten Sie seine Schale aus, um sich selbst zu schützen, wenn es beschädigt ist\nin Gefahr.",
         "pt-br": "Quase incapaz de se mover, este Pokémon só consegue\nendurecer sua casca para se proteger quando for\nem perigo.",
         "zh-tw": "該神奇寶貝幾乎無法移動，只能\n當它遇到危險時，它會硬化外殼以保護自己\n處於危險之中。",
-        ja: "自分では ほとんど 動けないが 危ないときは 硬くなって 身を守っているようだ。"
+        ja: "自分では ほとんど 動けないが 危ないときは 硬くなって 身を守っているようだ。",
+        ko: "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "String Shot",
                 "pt-br": "Tiro de corda",
                 "zh-tw": "弦擊",
-                ja: "いとをはく"
+                ja: "いとをはく",
+                ko: "실뿜기"
             },
             damage: 20,
             cost: ["Grass"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{

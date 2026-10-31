@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/171",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/171",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/171"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/171",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/171"
     },
     name: {
         en: "Tyrantrum",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Monargoras",
         "pt-br": "Tyrantrum",
         "zh-tw": "怪顎龍",
-        ja: "ガチゴラス"
+        ja: "ガチゴラス",
+        ko: "견고라스"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Balgoras",
         "pt-br": "Tyrunt",
         "zh-tw": "寶寶暴龍",
-        ja: "チゴラス"
+        ja: "チゴラス",
+        ko: "티고라스"
     },
     description: {
         en: "A single bite of Tyrantrum's massive jaws will\ndemolish a car. This Pokémon was the king of the\nancient world.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein einziger Biss in Tyrantrums gewaltige Kiefer reicht aus\nein Auto demolieren. Dieses Pokémon war der König der\nAntike Welt.",
         "pt-br": "Uma única mordida nas enormes mandíbulas de Tyrantrum irá\ndemolir um carro. Este Pokémon era o rei do\nmundo antigo.",
         "zh-tw": "暴君巨大的下巴只要咬一口就會\n拆毀一輛車。這只神奇寶貝是世界之王\n古代世界。",
-        ja: "大顎は ひと噛みするだけで 自動車も 粉々に する。 古代の 世界の 王者。"
+        ja: "大顎は ひと噛みするだけで 自動車も 粉々に する。 古代の 世界の 王者。",
+        ko: "큰 턱은 살짝 물기만 해도\n자동차를 산산조각 낸다.\n고대 세계의 왕이다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Tyrannischer Reißzahn",
                 "pt-br": "Presa Tirânica",
                 "zh-tw": "暴虐之牙",
-                ja: "ティラノファング"
+                ja: "ティラノファング",
+                ko: "티라노팽"
             },
             damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn du weniger Pokémon im Spiel hast als dein Gegner, fügt dieser Angriff 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver menos Pokémon em jogo que seu oponente, este ataque causará 80 de dano a mais.",
                 "zh-tw": "如果你場上的神奇寶貝數量少於對手，則此攻擊造成的傷害增加 80 點。",
-                ja: "自分の場のポケモンの数が、相手の場のポケモンの数より少ないなら、80ダメージ追加。"
+                ja: "自分の場のポケモンの数が、相手の場のポケモンの数より少ないなら、80ダメージ追加。",
+                ko: "자신의 필드의 포켓몬의 수가 상대 필드의 포켓몬의 수보다 적다면 80데미지를 추가한다."
             }
         }],
     weaknesses: [{

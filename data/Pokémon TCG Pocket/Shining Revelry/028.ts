@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/028"
     },
     name: {
         en: "Pawmot",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pamamo",
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
-        ja: "パモット"
+        ja: "パモット",
+        ko: "빠모트"
     },
     description: {
         en: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/097",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/097"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/097",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/097"
     },
     name: {
         en: "Honchkrow",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
         ja: "ヤミカラス",
+        ko: "니로우",
     },
     description: {
         en: "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",

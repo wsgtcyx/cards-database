@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/111",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/111"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/111",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/111"
     },
     name: {
         en: "Armarouge ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Armarouge ex",
         "zh-tw": "紅蓮鎧騎ex",
         ja: "グレンアルマex",
+        ko: "카디나르마 ex",
         pt: "Armarouge ex"
     },
     suffix: "EX",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
         ja: "カルボウ",
+        ko: "카르본",
         pt: "Charcadet"
     },
     dexId: [936],
@@ -54,6 +57,7 @@ const card: Card = {
                 "pt-br": "Armadura",
                 "zh-tw": "盔甲",
                 ja: "そうこう",
+                ko: "장갑",
                 pt: "Armadura"
             },
             effect: {
@@ -64,7 +68,8 @@ const card: Card = {
                 "de": "Dieses Pokémon erleidet –30 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre –30 de dano de ataques.",
                 "zh-tw": "該寶可夢受到 –30 點攻擊傷害。",
-                ja: "このポケモンが受けるワザのダメージを-30する。"
+                ja: "このポケモンが受けるワザのダメージを-30する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -30한다."
             },
         },
     ],
@@ -79,6 +84,7 @@ const card: Card = {
                 "pt-br": "Canhão de Armadura",
                 "zh-tw": "裝甲砲",
                 ja: "アーマーキャノン",
+                ko: "아머캐논",
                 pt: "Canhão de Armadura"
             },
             damage: "120",
@@ -92,6 +98,7 @@ const card: Card = {
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {R} 能量。",
                 ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 pt: "Descarte uma Energia {R} deste Pokémon."
             },
         },

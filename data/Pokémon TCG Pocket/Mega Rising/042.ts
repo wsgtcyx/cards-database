@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/042",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/042"
     },
     name: {
         en: "Lampent",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
         ja: "ランプラー",
+        ko: "램프라",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Litwick",
         "zh-tw": "燭光靈",
         ja: "ヒトモシ",
+        ko: "불켜미",
     },
     description: {
         en: "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lauert in Städten und gibt vor, eine Lampe zu sein.\nSobald es jemanden findet, dessen Tod nahe ist,\nes wird ihnen leise folgen.",
         "pt-br": "Espreita nas cidades, fingindo ser uma lâmpada.\nUma vez que encontra alguém cuja morte está próxima,\nele seguirá silenciosamente atrás deles.",
         "zh-tw": "它潛伏在城市中，假裝是一盞燈。\n一旦它發現某人快要死了，\n它會悄悄地跟在他們後面。",
-        ja: "ランプの ふりをして 町中に 潜む。 死期が 近い 人を 見つけると そっと 後を つける。"
+        ja: "ランプの ふりをして 町中に 潜む。 死期が 近い 人を 見つけると そっと 後を つける。",
+        ko: "램프인 척 마을 안으로\n숨어든다. 죽음이 다가온 사람을\n발견하면 조용히 뒤를 쫓는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
                 "zh-tw": "鬼火",
-                ja: "おにび"
+                ja: "おにび",
+                ko: "도깨비불"
             },
             damage: 40,
             cost: ["Fire", "Fire"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

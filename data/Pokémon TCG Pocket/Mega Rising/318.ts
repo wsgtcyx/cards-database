@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/318",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/318",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/318",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/318"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/318",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/318"
     },
     name: {
         en: "Incineroar ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Incineroar ex",
         "zh-tw": "熾焰咆哮虎ex",
         ja: "ガオガエンex",
+        ko: "어흥염 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
         ja: "ニャヒート",
+        ko: "냐오히트",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Feuerzahn",
                 "pt-br": "Presa de Fogo",
                 "zh-tw": "火牙",
-                ja: "ほのおのキバ"
+                ja: "ほのおのキバ",
+                ko: "불꽃엄니"
             },
             damage: 30,
             cost: ["Fire"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }, {
             name: {
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Narbengeladener Schlag",
                 "pt-br": "Smash carregado de cicatriz",
                 "zh-tw": "傷痕重擊",
-                ja: "スカースマッシュ"
+                ja: "スカースマッシュ",
+                ko: "스카스매시"
             },
             damage: "80+",
             cost: ["Fire", "Fire", "Colorless"],
@@ -83,13 +89,17 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon Schaden hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。",
-                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。"
+                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

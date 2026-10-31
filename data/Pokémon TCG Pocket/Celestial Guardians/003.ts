@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/003"
     },
     name: {
         en: "Surskit",

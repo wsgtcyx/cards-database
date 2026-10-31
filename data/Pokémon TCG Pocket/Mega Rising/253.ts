@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/253",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/253",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/253",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/253"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/253",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/253"
     },
     name: {
         en: "Rapidash ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rapidash ex",
         "zh-tw": "烈焰馬ex",
         ja: "ギャロップex",
+        ko: "날쌩마 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Ponyta",
         "zh-tw": "小火馬",
         ja: "ポニータ",
+        ko: "포니타",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Sprintende Fackel",
                 "pt-br": "Chama de corrida",
                 "zh-tw": "衝刺耀斑",
-                ja: "フレアスプリンター"
+                ja: "フレアスプリンター",
+                ko: "플레어 스프린터"
             },
             damage: 110,
             cost: ["Fire", "Fire", "Fire"],
@@ -60,13 +64,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
-                ja: "相手のベンチポケモン1匹にも20ダメージ。"
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

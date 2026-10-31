@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/002"
     },
     name: {
         en: "Masquerain",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die Fühler haben markante Muster, die wie Augen aussehen. Bei Regen werden sie schwer und machen ein Fliegen unmöglich.",
         "pt-br": "As antenas têm padrões distintos que se parecem com olhos. Quando chove, eles ficam pesados, impossibilitando o voo.",
         "zh-tw": "觸角具有獨特的圖案，看起來像眼睛。下雨時，它們會變重，無法飛行。",
-        ja: "雨に 濡れると 特徴的な 目玉模様の 触角が 重くなり 飛べなくなって しまう。"
+        ja: "雨に 濡れると 特徴的な 目玉模様の 触角が 重くなり 飛べなくなって しまう。",
+        ko: "비에 젖으면 특징적인\n눈알 모양의 더듬이가\n무거워져서 날 수 없게 된다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Luftschnitt",
                 "pt-br": "Golpe de Ar",
                 "zh-tw": "空氣斬",
-                ja: "エアスラッシュ"
+                ja: "エアスラッシュ",
+                ko: "에어슬래시"
             },
             effect: {
                 en: "Discard a random Energy from this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Lege eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的隨機能量。",
-                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             },
             damage: 70
         }

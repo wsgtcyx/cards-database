@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/128",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/128"
     },
     name: {
         en: "Sentret",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Wiesor",
         "pt-br": "Sentret",
         "zh-tw": "尾立",
-        ja: "オタチ"
+        ja: "オタチ",
+        ko: "꼬리선"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es auf einen Feind trifft, stellt es sich auf seinen Schwanz und\nEs lässt sich größer erscheinen als sonst, um einzuschüchtern\nsie.",
         "pt-br": "Se encontrar um inimigo, ele ficará em pé,\nfazendo-se parecer maior do que o normal para intimidar\neles.",
         "zh-tw": "如果遇到敵人，它會用尾巴站立起來，\n讓自己看起來比平時更大以嚇人\n他們。",
-        ja: "敵に 遭遇すると 尻尾で 立ち上がり いつもより 体を 大きく みせて 威嚇する。"
+        ja: "敵に 遭遇すると 尻尾で 立ち上がり いつもより 体を 大きく みせて 威嚇する。",
+        ko: "적과 조우하면 꼬리로 서서\n평소보다 몸집을 더\n커 보이게 하며 위협한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tail Rap",
                 "pt-br": "Rap de cauda",
                 "zh-tw": "尾部說唱",
-                ja: "しっぽビンタ"
+                ja: "しっぽビンタ",
+                ko: "꼬리로 뺨치기"
             },
             damage: "20×",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

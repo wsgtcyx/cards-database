@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/034"
     },
     name: {
         en: "Unown",
@@ -50,7 +51,7 @@ const card: Card = {
                 de: "CHECK",
                 'pt-br': "CHECAR",
                 ja: "CHECK [チェック]",
-                ko: "CHECK 체크",
+                ko: "CHECK [체크]",
                 "zh-tw": "查看"
             },
             effect: {

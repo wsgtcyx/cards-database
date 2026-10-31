@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/029"
     },
     name: {
         en: "Cetoddle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cetoddle",
         "zh-tw": "走鯨",
         ja: "アルクジラ",
+        ko: "터벅고래",
         pt: "Cetoddle",
         'es-mx': "Cetoddle"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Es lebt in kalten Regionen in Gruppen von etwa fünf Individuen. Es liebt die Mineralien, die in Schnee und Eis vorkommen.",
         "pt-br": "Vive em regiões frias em grupos de cinco ou mais indivíduos. Adora os minerais encontrados na neve e no gelo.",
         "zh-tw": "它生活在寒冷地區，每群大約有五隻。牠喜歡在雪和冰中發現的礦物質。",
-        ja: "寒冷地で ５匹ほどの 群れを 作って 暮らす。 雪や 氷に 含まれる ミネラルが 大好き。"
+        ja: "寒冷地で ５匹ほどの 群れを 作って 暮らす。 雪や 氷に 含まれる ミネラルが 大好き。",
+        ko: "한랭지에서 5마리 정도가\n무리를 이루며 산다.\n눈과 얼음에 포함된 미네랄을 좋아한다."
     },
     stage: "Basic",
     attacks: [
@@ -52,6 +55,7 @@ const card: Card = {
                 "pt-br": "Míssil de gelo",
                 "zh-tw": "冰柱飛彈",
                 ja: "つららミサイル",
+                ko: "고드름미사일",
                 pt: "Míssil Gélido"
             },
             damage: 60,

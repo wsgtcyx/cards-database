@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/013",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/013",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/013",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/013"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/013",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/013"
 	},
 	name: {
 		en: "Exeggutor ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Kokowei-ex",
 		"pt-br": "Exeggutor ex",
 		"zh-tw": "椰蛋樹ex",
-		ja: "ナッシーex"
+		ja: "ナッシーex",
+		ko: "나시 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Owei",
 		"pt-br": "Exeggcute",
 		"zh-tw": "蛋蛋",
-		ja: "タマタマ"
+		ja: "タマタマ",
+		ko: "아라리"
 	},
 	attacks: [
 		{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/202",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/202"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/202",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/202"
     },
     name: {
         en: "Field Blower",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Descarte uma carta de Ferramenta Pokémon de um Pokémon (seu ou do seu oponente), ou descarte uma carta de Estádio em jogo.",
         "zh-tw": "從雙方的寶可夢身上的「寶可夢道具」卡與場上的「競技場」卡中選擇1張,將其丟棄。",
         ja: "おたがいのポケモンの「ポケモンのどうぐ」と場に出ている「スタジアム」の中から1枚選び、トラッシュ。",
-        ko: "Discard a Pokémon Tool card from a Pokémon (yours or your opponent's), or discard a Stadium card in play."
+        ko: "서로의 포켓몬의 「포켓몬의 도구」와 필드에 나와 있는 「스타디움」 중에서 1장 선택해서 트래쉬한다."
     },
     trainerType: "Item"
 };

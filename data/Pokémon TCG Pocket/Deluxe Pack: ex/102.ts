@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/102",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/102",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/102",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/102"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/102",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/102"
 	},
 	name: {
 		en: "Corphish",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Krebscorps",
 		"pt-br": "Corphish",
 		"zh-tw": "龍蝦小兵",
-		ja: "ヘイガニ"
+		ja: "ヘイガニ",
+		ko: "가재군"
 	},
 	illustrator: "chibi",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Egal wie schmutzig das Wasser im Fluss ist, es wird es tun\nanpassen und gedeihen. Es hat einen starken Überlebenswillen.",
 		"pt-br": "Não importa quão suja seja a água do rio, ela irá\nadaptar e prosperar. Tem uma forte vontade de sobreviver.",
 		"zh-tw": "不管河裡的水有多髒，它都會\n適應並茁壯成長。它有強烈的求生意志。",
-		ja: "どんなに 水が 汚れた 川でも 適応して 増えていく タフな 生命力の 持ち主。"
+		ja: "どんなに 水が 汚れた 川でも 適応して 増えていく タフな 生命力の 持ち主。",
+		ko: "심하게 오염된 강에서도\n적응해서 번식하는\n강인한 생명력의 소유자."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "Schraubstockgriff",
 				"pt-br": "Torno Grip",
 				"zh-tw": "虎鉗夾具",
-				ja: "はさむ"
+				ja: "はさむ",
+				ko: "찝기"
 			},
 			damage: 30,
 			cost: ["Water", "Colorless"]

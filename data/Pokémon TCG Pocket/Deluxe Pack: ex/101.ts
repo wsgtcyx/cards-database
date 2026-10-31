@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/101",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/101",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/101",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/101"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/101",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/101"
 	},
 	name: {
 		en: "Articuno ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Arktos-ex",
 		"pt-br": "Articuno ex",
 		"zh-tw": "急凍鳥ex",
-		ja: "フリーザーex"
+		ja: "フリーザーex",
+		ko: "프리져 ex"
 	},
 	illustrator: "PLANETA Saito",
 	category: "Pokemon",

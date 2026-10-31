@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/184",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/184",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/184",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/184"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/184",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/184"
     },
     name: {
         en: "Jigglypuff",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Canção de Ninar Calmante",
                 "zh-tw": "熟睡歌曲",
                 ja: "じゅくすいソング",
-                ko: "Soothing Lullaby"
+                ko: "단잠송"
             },
             cost: [
                 "Psychic",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido. Seu oponente joga 2 moedas para esta Condição Especial e, se qualquer uma delas sair coroa, aquele Pokémon permanecerá Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢睡眠。因這個睡眠的擲硬幣次數改為2次,若沒有全部為正面則無法恢復。",
                 ja: "相手のバトルポケモンをねむりにする。このねむりで投げるコインは2回になり、すべてオモテが出ないと回復しない。",
-                ko: "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다. 이 잠듦으로 던지는 동전은 2번이 되며, 모두 앞면이 나오지 않으면 회복되지 않는다."
             }
         }
     ],
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "Quando seus enormes olhos ficam pesados, canta uma melodia misteriosa e relaxante, fazendo com que os inimigos adormeçam.",
         "zh-tw": "當牠圓圓的大眼睛轉動時，就會唱搖籃曲般的歌曲，讓人舒服地昏昏欲睡。",
         ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。",
-        ko: "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+        ko: "초롱초롱한 눈동자가 흔들릴 때\n졸음이 쏟아지게 하는 이상하고\n기분 좋은 노래를 부른다."
     }
 };
 

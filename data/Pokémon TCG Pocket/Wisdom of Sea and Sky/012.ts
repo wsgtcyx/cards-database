@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/012"
     },
     name: {
         en: "Ledian",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ledian",
         "zh-tw": "安瓢蟲",
         ja: "レディアン",
+        ko: "레디안",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Ledyba",
         "zh-tw": "芭瓢蟲",
         ja: "レディバ",
+        ko: "레디바",
     },
     description: {
         en: "It's said that the patterns on its back are\nrelated to the stars in the night sky, but the\ndetails of that relationship remain unclear.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es wird gesagt, dass die Muster auf der Rückseite so sind\nim Zusammenhang mit den Sternen am Nachthimmel, aber die\nEinzelheiten dieser Beziehung bleiben unklar.",
         "pt-br": "Diz-se que os padrões nas suas costas são\nrelacionado com as estrelas no céu noturno, mas o\nos detalhes desse relacionamento permanecem obscuros.",
         "zh-tw": "據說它背上的圖案是\n與夜空中的星星有關，但\n這種關係的細節仍不清楚。",
-        ja: "背中の 模様は 夜空の 星と 関係 していると 言われているが 詳しいことは まだ 不明のまま。"
+        ja: "背中の 模様は 夜空の 星と 関係 していると 言われているが 詳しいことは まだ 不明のまま。",
+        ko: "등의 모양은 밤하늘의 별과\n연관이 있다고 전해지지만\n자세한 것은 아직 알려지지 않았다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Stempel",
                 "pt-br": "Soco",
                 "zh-tw": "沖床",
-                ja: "パンチ"
+                ja: "パンチ",
+                ko: "펀치"
             },
             damage: 50,
             cost: ["Grass"]

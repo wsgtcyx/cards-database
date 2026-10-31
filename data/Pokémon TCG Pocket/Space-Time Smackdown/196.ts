@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/196",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/196",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/196",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/196"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/196",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/196"
     },
     name: {
         en: "Yanmega ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Yanma",
         "zh-tw": "蜻蜻蜓",
         ja: "ヤンヤンマ",
+        ko: "왕자리",
     },
     stage: "Stage1",
     suffix: "EX",

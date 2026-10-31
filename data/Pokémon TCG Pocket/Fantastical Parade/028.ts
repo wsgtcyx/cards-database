@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/028"
     },
     name: {
         en: "Alolan Vulpix",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
-        ja: "アローラロコン"
+        ja: "アローラロコン",
+        ko: "알로라 식스테일"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Bei heißem Wetter bildet dieses Pokémon Eissplitter\nmit seinen sechs Schwänzen und sprüht sie zum Abkühlen herum\nschaltet sich ab.",
         "pt-br": "Em clima quente, este Pokémon produz cacos de gelo\ncom suas seis caudas e espalha-as para esfriar\ndesligado.",
         "zh-tw": "在炎熱的天氣裡，這只神奇寶貝會製造冰碎片\n用它的六個尾巴噴灑周圍以冷卻\n本身關閉。",
-        ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。"
+        ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
+        ko: "더울 때는 6개의 꼬리로\n얼음 뭉치를 만든 뒤\n주변에 뿌려서 몸을 식힌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Nagen",
                 "pt-br": "Roer",
                 "zh-tw": "啃",
-                ja: "かじる"
+                ja: "かじる",
+                ko: "갉기"
             },
             damage: 20,
             cost: ["Water"]

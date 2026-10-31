@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/040",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/040",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/040"
     },
     name: {
         en: "Walrein",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Die Stoßzähne wachsen sein Leben lang. Selbst,\nwenn sie im Kampf abbrechen, erreichen sie nach\nnur einem Jahr wieder ihre alte imposante Größe.",
         "pt-br": "As presas de Walrein continuam crescendo ao longo de sua vida. Se forem quebradas em batalha, crescem de volta em cerca de um ano.",
         "zh-tw": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。",
-        ja: "キバは 一生 伸び続ける。 戦いで 折れても １年あれば もとの 立派な キバに もどる。"
+        ja: "キバは 一生 伸び続ける。 戦いで 折れても １年あれば もとの 立派な キバに もどる。",
+        ko: "이빨은 평생 자란다.\n싸우다 부러져도 1년이 지나면\n원래의 훌륭한 이빨로 복원된다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Bloqueio Nevasca",
                 "zh-tw": "暴雪封鎖",
                 "de": "Blizzardsperre",
-                ja: "ブリザードロック"
+                ja: "ブリザードロック",
+                ko: "블리자드록"
             },
             effect: {
                 en: "Your opponent can't use any Supporter cards from their hand during their next turn.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
                 "pt-br": "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele.",
                 "zh-tw": "在下個對手的回合,對手無法從手牌使出支援者卡。",
-                ja: "次の相手の番、相手は手札からサポートを出して使えない。"
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。",
+                ko: "상대의 다음 차례에 상대는 패에서 서포트를 꺼내서 사용할 수 없다."
             },
             damage: 110
         }

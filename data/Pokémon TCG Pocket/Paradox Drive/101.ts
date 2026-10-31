@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/101"
     },
     name: {
         en: "Orthworm",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon lebt in trockenen Wüsten. Es behält seinen Metallkörper bei, indem es Eisen aus dem Boden aufnimmt.",
         "pt-br": "Este Pokémon vive em desertos áridos. Ele mantém seu corpo metálico consumindo ferro do solo.",
         "zh-tw": "這隻寶可夢生活在乾旱的沙漠中。它透過消耗土壤中的鐵来维持其金属身体。",
-        ja: "乾燥した 砂地に 棲んでいる。 土の中の 鉄分を 食べて 金属の 体を 保っている。"
+        ja: "乾燥した 砂地に 棲んでいる。 土の中の 鉄分を 食べて 金属の 体を 保っている。",
+        ko: "건조한 사막에 산다.\n땅속의 철분을 먹으며\n금속으로 된 몸을 유지하고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Eisenvorrat",
                 "pt-br": "Estoque de Ferro",
                 "zh-tw": "提供鐵質",
-                ja: "てつぶんサプライ"
+                ja: "てつぶんサプライ",
+                ko: "철분서플라이"
             },
             effect: {
                 en: "Take a {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm eine {M}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個{M}能量並將其附加到你的1隻後備寶可夢上。",
-                ja: "自分のエネルギーゾーンから{M}エネルギーを1個出し、ベンチポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{M}エネルギーを1個出し、ベンチポケモンにつける。",
+                ko: "자신의 에너지존에서 {M}에너지를 1개 내보내 벤치 포켓몬에게 붙인다."
             },
             damage: 10
         }

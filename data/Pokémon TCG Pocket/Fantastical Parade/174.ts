@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/174",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/174",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/174",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/174"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/174",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/174"
     },
     name: {
         en: "Purrloin",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
-        ja: "チョロネコ"
+        ja: "チョロネコ",
+        ko: "쌔비냥"
     },
     illustrator: "Yoriyuki Ikegami",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Gegner, die sich von seiner Liebenswürdigkeit anziehen lassen\nVerhalten kommt mit stechenden Kratzern weg\nseine Krallen und der stechende Stolz seines Lachens.",
         "pt-br": "Oponentes que são atraídos por seu adorável\ncomportamento sai com arranhões dolorosos de\nsuas garras e o orgulho pungente de sua risada.",
         "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。",
-        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。"
+        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。",
+        ko: "귀여운 동작으로 방심시키고\n상대가 다가오면 갑자기\n발톱으로 할퀴고는 웃는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Weinende Stimme",
                 "pt-br": "Voz chorosa",
                 "zh-tw": "發牢騷的聲音",
-                ja: "あまえごえ"
+                ja: "あまえごえ",
+                ko: "콧소리"
             },
             cost: ["Darkness"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ schauen Sie sich eine zufällige Karte aus der Hand Ihres Gegners an und mischen Sie sie in dessen Deck.",
                 "pt-br": "Jogue uma moeda. Se der cara, olhe uma carta aleatória da mão do seu oponente e embaralhe-a no baralho dele.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則隨機查看對手手中的一張牌並將其洗入對手的牌庫中。",
-                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚、オモテを見て、山札にもどす。"
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚、オモテを見て、山札にもどす。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 패에서 랜덤으로 1장 앞면을 보고 덱으로 되돌린다."
             }
         }],
     weaknesses: [{

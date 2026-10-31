@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/030"
     },
     name: {
         en: "Sylveon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Feelinara macht eine elegante Figur, wenn es mit flatternden Fühlern leicht herumtanzt, seine durchdringenden Bewegungen jedoch direkt auf die Schwachstellen seiner Gegner zielen.",
         "pt-br": "Sylveon tem uma figura elegante enquanto dança levemente, com as antenas vibrando, mas seus movimentos penetrantes visam diretamente os pontos fracos de seus oponentes.",
         "zh-tw": "仙子伊布的姿態優雅，舞動輕盈，觸角飄動，但其刺穿的招式卻直指對手的弱點。",
-        ja: "触角を なびかせ 軽やかに 舞う 姿は 優雅だが 技は 鋭く 急所を 狙う。"
+        ja: "触角を なびかせ 軽やかに 舞う 姿は 優雅だが 技は 鋭く 急所を 狙う。",
+        ko: "더듬이를 나부끼며 경쾌하게\n춤추는 모습은 우아하지만\n기술은 날카롭게 급소를 노린다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Beruhigendes Band",
                 "pt-br": "Fita Calmante",
                 "zh-tw": "治癒緞帶",
-                ja: "いやしのリボン"
+                ja: "いやしのリボン",
+                ko: "치유의 리본"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn an diesem Pokémon einmal während deines Zuges ein Pokémon-Werkzeug angebracht ist, kannst du 30 Schadenspunkte bei einem deiner Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon tiver uma Ferramenta Pokémon anexada, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
                 "zh-tw": "在你的回合中，如果這隻寶可夢附有寶可夢工具，你可以從你的 1 隻寶可夢那裡治療 30 點傷害。",
-                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。"
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。",
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 1마리의 HP를 30회복."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Magischer Schuss",
                 "pt-br": "Tiro Mágico",
                 "zh-tw": "魔法射擊",
-                ja: "マジカルショット"
+                ja: "マジカルショット",
+                ko: "매지컬숏"
             },
             damage: 60
         }

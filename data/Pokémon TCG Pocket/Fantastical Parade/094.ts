@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/094"
     },
     name: {
         en: "Alolan Meowth",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
-        ja: "アローラニャース"
+        ja: "アローラニャース",
+        ko: "알로라 나옹"
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist zutiefst stolz und überaus klug\nbewegt sich im Kampf mit List und unerbittlich\ngreift die Schwachstellen der Feinde an.",
         "pt-br": "Profundamente orgulhoso e extremamente inteligente, este Pokémon\nmove-se com astúcia durante a batalha e incansavelmente\nataca os pontos fracos dos inimigos.",
         "zh-tw": "這只神奇寶貝非常自豪且非常聰明\n在戰鬥中狡猾而無情地行動\n攻擊敵人的弱點。",
-        ja: "プライドと 知能が 高い。 ずる賢く 立ちまわり 相手の 弱点を 執拗に 攻める。"
+        ja: "プライドと 知能が 高い。 ずる賢く 立ちまわり 相手の 弱点を 執拗に 攻める。",
+        ko: "프라이드와 지능이 높다.\n교활하고 약삭빠르게 행동하여\n상대의 약점을 집요하게 공격한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stolzieren",
                 "pt-br": "Arrogância",
                 "zh-tw": "昂首闊步",
-                ja: "いばる"
+                ja: "いばる",
+                ko: "뽐내기"
             },
             cost: ["Darkness"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

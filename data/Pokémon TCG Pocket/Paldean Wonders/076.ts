@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/076"
     },
     name: {
         en: "Revavroom",
@@ -38,6 +39,7 @@ const card: Card = {
         "pt-br": "Varoom",
         "zh-tw": "噗隆隆",
         ja: "ブロロン",
+        ko: "부르롱",
         pt: "Varoom"
     },
     description: {
@@ -48,7 +50,8 @@ const card: Card = {
         "de": "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
         "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
-        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。",
+        ko: "배기음을 내어 거세게 위협한다.\n원통형의 입을 통해 혀를 꺼내고는\n독액을 흩뿌린다."
     },
     stage: "Stage1",
     attacks: [
@@ -75,6 +78,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
                 ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 pt: "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 'es-mx': "El Pokémon Activo de tu rival ahora está Envenenado."
             },

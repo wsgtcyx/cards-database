@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/003"
     },
     name: {
         en: "Mothim",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
         ja: "ミノムッチ",
+        ko: "도롱충이",
     },
     description: {
         en: "It loves the honey of flowers and steals honey collected by Combee.",

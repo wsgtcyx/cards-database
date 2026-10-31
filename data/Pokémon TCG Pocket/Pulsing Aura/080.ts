@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/080"
     },
     name: {
         en: "Lucario",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es jagt seine Beute, indem es eine Kraft\nmanipuliert, die Aura genannt wird. Dadurch\nkann es sogar große Felsen pulverisieren.",
         "pt-br": "Ele controla ondas conhecidas como auras, que são poderosas o suficiente para pulverizar rochas enormes. Ele usa essas ondas para abater suas presas.",
         "zh-tw": "操作一種被稱為波導的力量\n來進行狩獵。這種力量就連\n巨大的岩石也能擊得粉碎。",
-        ja: "大岩も 粉々に 砕く 波動と 呼ばれる 力を 操って 獲物を 狩る。"
+        ja: "大岩も 粉々に 砕く 波動と 呼ばれる 力を 操って 獲物を 狩る。",
+        ko: "큰 바위도 산산조각 내는\n파동이라 불리는 힘을\n다뤄서 먹이를 사냥한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Nahkampf",
                 "pt-br": "Corpo a Corpo",
                 "zh-tw": "近身戰",
-                ja: "インファイト"
+                ja: "インファイト",
+                ko: "인파이트"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes +20 damage from attacks.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon +20 Schaden durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá +20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這隻寶可夢受到的攻擊傷害+20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを+20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを+20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 +20한다."
             },
             damage: 90
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/072"
     },
     name: {
         en: "Emolga",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Emolga",
         "zh-tw": "電飛鼠",
         ja: "エモンガ",
+        ko: "에몽가",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während Emolga durch die Luft flattert, knistert es\nmit Strom. Dieses Pokémon ist süß, aber es kann\neine Menge Ärger bereiten.",
         "pt-br": "Enquanto Emolga flutua no ar, ela estala\ncom eletricidade. Este Pokémon é fofo, mas pode\ncausar muitos problemas.",
         "zh-tw": "當 Emolga 在空中飄動時，它會發出劈啪聲\n用電。這個神奇寶貝很可愛，但它可以\n造成很多麻煩。",
-        ja: "電気を ほとばしらせながら 空を 舞うように 飛ぶ。 可愛いが やっかいなのだ。"
+        ja: "電気を ほとばしらせながら 空を 舞うように 飛ぶ。 可愛いが やっかいなのだ。",
+        ko: "전기를 내뿜으며\n하늘을 춤추듯이 난다.\n귀엽지만 성가시다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wütender Donner",
                 "pt-br": "Trovão Furioso",
                 "zh-tw": "憤怒的雷霆",
-                ja: "らくらい"
+                ja: "らくらい",
+                ko: "낙뢰"
             },
             damage: 40,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem einem Pokémon auf deiner Bank 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 de dano a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 10 點傷害。",
-                ja: "自分のベンチポケモン1匹にも10ダメージ。"
+                ja: "自分のベンチポケモン1匹にも10ダメージ。",
+                ko: "자신의 벤치 포켓몬 1마리에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

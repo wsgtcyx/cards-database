@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/003"
     },
     name: {
         en: "Venusaur",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Bisaflor",
         "pt-br": "Venusaur",
         "zh-tw": "妙蛙花",
-        ja: "フシギバナ"
+        ja: "フシギバナ",
+        ko: "이상해꽃"
     },
     illustrator: "Eske Yoshinob",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
-        ja: "フシギソウ"
+        ja: "フシギソウ",
+        ko: "이상해풀"
     },
     description: {
         en: "A bewitching aroma wafts from its flower.\nThe fragrance becalms those engaged\nin a battle.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein betörender Duft entströmt seiner Blüte.\nDer Duft beruhigt die Verlobten\nin einer Schlacht.",
         "pt-br": "Um aroma encantador exala de sua flor.\nA fragrância acalma os noivos\nem uma batalha.",
         "zh-tw": "從它的花中散發出迷人的香氣。\n這款香水使那些訂婚的人平靜下來\n在一場戰鬥中。",
-        ja: "花から うっとりする 香りが ただよい 戦うものの 気持ちを なだめてしまう。"
+        ja: "花から うっとりする 香りが ただよい 戦うものの 気持ちを なだめてしまう。",
+        ko: "꽃에서 황홀한 향기가\n퍼져 나와 싸우는 자의\n기분을 달래준다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Giftige Peitsche",
                 "pt-br": "Chicote Venenoso",
                 "zh-tw": "毒鞭",
-                ja: "どくのムチ"
+                ja: "どくのムチ",
+                ko: "독채찍"
             },
             damage: 90,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

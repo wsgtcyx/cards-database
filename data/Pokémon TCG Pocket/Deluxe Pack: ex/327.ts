@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/327",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/327",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/327",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/327"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/327",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/327"
 	},
 	name: {
         en: "Cyrus",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cyrus",
         "zh-tw": "赤日",
         ja: "アカギ",
+        ko: "태홍",
     },
     illustrator: "akagi",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Tauschen Sie 1 Pokémon auf der Bank Ihres Gegners, das Schaden hat, an der aktiven Stelle aus.",
         "pt-br": "Troque 1 dos Pokémon no Banco do seu oponente que tenha dano no Ponto Ativo.",
         "zh-tw": "將對手後備場的 1 只受到傷害的寶可夢切換到活躍點。",
-        ja: "相手のベンチのダメージを受けているポケモンを1匹選び、バトルポケモンと入れ替える。"
+        ja: "相手のベンチのダメージを受けているポケモンを1匹選び、バトルポケモンと入れ替える。",
+        ko: "상대 벤치의 데미지를 받고 있는 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
     },
     trainerType: "Supporter"
 };

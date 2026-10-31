@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/130"
     },
     name: {
         en: "Dunsparce",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es entdeckt wird, entkommt es, indem es sich mit seinem Schwanz eingräbt. Mit seinen Flügeln kann es leicht schweben.",
         "pt-br": "Se for avistado, ele escapa cavando com a cauda. Ele pode flutuar ligeiramente usando suas asas.",
         "zh-tw": "如果被發現，它會用尾巴挖洞逃脫。它可以用翅膀輕微漂浮。",
-        ja: "だれかに 姿を 見られると 尻尾で 穴を掘って 逃げだす。 羽で 少しだけ 浮かべる。"
+        ja: "だれかに 姿を 見られると 尻尾で 穴を掘って 逃げだす。 羽で 少しだけ 浮かべる。",
+        ko: "누군가에게 모습을 보이면\n꼬리로 구멍을 파서 도망친다.\n날개로 약간은 공중에 뜰 수 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pieks und weg",
                 "pt-br": "Cutucar e Cavucar",
                 "zh-tw": "撞了就躲",
-                ja: "つついてもぐる"
+                ja: "つついてもぐる",
+                ko: "찌르고 파고들기"
             },
             effect: {
                 en: "You may shuffle this Pokémon and all attached cards into your deck.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Du darfst dieses Pokémon und alle daran angelegten Karten in dein Deck mischen.",
                 "pt-br": "Você pode embaralhar este Pokémon e todas as cartas associadas em seu baralho.",
                 "zh-tw": "你可以將這只寶可夢和所有附加的卡牌洗入你的牌庫。",
-                ja: "のぞむなら、このポケモンと、ついているすべてのカードを、山札にもどす。"
+                ja: "のぞむなら、このポケモンと、ついているすべてのカードを、山札にもどす。",
+                ko: "원한다면 이 포켓몬과 붙어 있는 모든 카드를 덱으로 되돌린다."
             },
             damage: 20
         }

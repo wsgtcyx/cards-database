@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/115",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/115",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/115",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/115"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/115",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/115"
 	},
 	name: {
 		en: "Regigigas",
@@ -19,7 +20,8 @@ const card: Card = {
 		de: "Regigigas",
 		"pt-br": "Regigigas",
 		"zh-tw": "雷吉奇卡斯",
-		ja: "レジギガス"
+		ja: "レジギガス",
+		ko: "레지기가스"
 	},
 	illustrator: "Ryuta Fuse",
 	rarity: "Three Diamond",

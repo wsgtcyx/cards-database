@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/040",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/040",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/040",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/040"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/040",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/040"
 	},
 	name: {
 		en: "Dartrix",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Arboretoss",
 		"pt-br": "Dartrix",
 		"zh-tw": "投羽梟",
-		ja: "フクスロー"
+		ja: "フクスロー",
+		ko: "빼미스로우"
 	},
 	illustrator: "Mizue",
 	rarity: "Two Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Bauz",
 		"pt-br": "Rowlet",
 		"zh-tw": "木木梟",
-		ja: "モクロー"
+		ja: "モクロー",
+		ko: "나몰빼미"
 	},
 	description: {
 		en: "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",

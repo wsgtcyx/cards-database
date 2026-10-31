@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/146",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/146"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/146",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/146"
     },
     name: {
         en: "Zoroark ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
         ja: "ゾロア",
-        ko: "Zorua"
+        ko: "조로아"
     },
     stage: "Stage1",
     attacks: [
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Pancada Brutal",
                 "zh-tw": "擊倒在地",
                 ja: "ビートダウン",
-                ko: "Brutal Bash"
+                ko: "비트다운"
             },
             effect: {
                 en: "This attack does 30 damage for each of your Benched {D} Pokémon.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon causa 30 pontos de dano para cada Pokémon {D} no seu Banco.",
                 "zh-tw": "造成自己的備戰區的{D}寶可夢的數量×30點傷害。",
                 ja: "自分のベンチの{D}ポケモンの数×30ダメージ。",
-                ko: "This attack does 30 damage for each of your Benched {D} Pokémon."
+                ko: "자신의 벤치의 {D}포켓몬의 수 × 30데미지를 준다."
             },
             damage: "30x"
         }

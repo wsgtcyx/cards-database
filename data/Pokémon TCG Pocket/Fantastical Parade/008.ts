@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/008",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/008"
     },
     name: {
         en: "Chespin",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Igamaro",
         "pt-br": "Chespin",
         "zh-tw": "哈力栗",
-        ja: "ハリマロン"
+        ja: "ハリマロン",
+        ko: "도치마론"
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn man viele Beeren isst, bildet sich die Rindenschale\nbedeckt Chespins Kopf und Körper werden stabiler.",
         "pt-br": "Comer muitas frutas faz com que a casca da casca fique\ncobre a cabeça e o corpo de Chespin ficam mais robustos.",
         "zh-tw": "吃大量漿果會使樹皮殼\n覆蓋了切斯平的頭部，身體變得更加堅固。",
-        ja: "エサの 木の実を たくさん 食べると 頭と 体を 覆う 樹皮の 殻が 頑丈に 育つのだ。"
+        ja: "エサの 木の実を たくさん 食べると 頭と 体を 覆う 樹皮の 殻が 頑丈に 育つのだ。",
+        ko: "먹이인 나무열매를 실컷 먹으면\n머리와 몸을 감싸는 나무껍질이\n더욱 튼튼하게 자란다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
                 "zh-tw": "藤鞭",
-                ja: "つるのムチ"
+                ja: "つるのムチ",
+                ko: "덩굴채찍"
             },
             damage: 30,
             cost: ["Grass", "Colorless"]

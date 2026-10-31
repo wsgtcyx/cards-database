@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/286",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/286",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/286",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/286"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/286",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/286"
     },
     name: {
         en: "Drizzile",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Sobble",
         "zh-tw": "淚眼蜥",
         ja: "メッソン",
-        ko: "Sobble"
+        ko: "울머기"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Este Pokémon é muito inteligente e bastante preguiçoso. Defende seu território com armadilhas.",
         "zh-tw": "雖然個性上很怕麻煩，但智商非常高，會設置陷阱來保護自己的住處。",
         ja: "面倒くさがりな 性格だが 知能は 高く 罠を 仕掛けて 自分の 棲み処を 守っている。",
-        ko: "Highly intelligent but also very lazy, it defends its home by laying traps."
+        ko: "만사를 귀찮아하는 성격이지만\n지능이 높아 함정을 설치해서\n자신의 거처를 지킨다."
     },
     abilities: [
         {
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Disparo Diligente",
                 "zh-tw": "快攻",
                 ja: "はやうち",
-                ko: "Swift Shot"
+                ko: "연사"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent's Active Pokémon.",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 20 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。對手的戰鬥寶可夢受到20點傷害。",
                 ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに20ダメージ。",
-                ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 20 damage to your opponent's Active Pokémon."
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 20데미지를 준다."
             }
         }
     ],
@@ -98,7 +99,7 @@ const card: Card = {
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
                 ja: "みずでっぽう",
-                ko: "Water Gun"
+                ko: "물대포"
             },
             damage: 20
         }

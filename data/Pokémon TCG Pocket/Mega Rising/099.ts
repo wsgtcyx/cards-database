@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/099",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/099"
     },
     name: {
         en: "Misdreavus",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
         ja: "ムウマ",
+        ko: "무우마",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es liebt es, Menschen in die Haare zu beißen und auszureißen\nohne Vorwarnung zurück, nur um sie zu sehen\nschockierte Reaktionen.",
         "pt-br": "Ele adora morder e arrancar o cabelo das pessoas\natrás sem avisar, só para ver seus\nreações chocadas.",
         "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。",
-        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。"
+        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。",
+        ko: "갑자기 뒷머리를 물고 잡아당기고는\n사람들이 놀라는 모습을 보며 즐거워한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Doppelter Spin",
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙旋轉",
-                ja: "ダブルスピン"
+                ja: "ダブルスピン",
+                ko: "더블스핀"
             },
             damage: "20×",
             cost: ["Psychic"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

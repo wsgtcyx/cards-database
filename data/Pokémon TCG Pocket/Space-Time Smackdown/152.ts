@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/152",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/152",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/152",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/152"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/152",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/152"
     },
     name: {
         en: "Cynthia",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Während dieses Zuges fügen die Attacken deines Knakrack oder Togekiss dem Aktiven Pokémon deines Gegners + 50 Schadenspunkte zu.",
         'pt-br': "Durante este turno, os ataques usados pelo seu Garchomp ou Togekiss causarão +50 pontos de dano ao Pokémon Ativo do seu oponente.",
         ja: "この番、自分の「ガブリアス」「トゲキッス」が使うワザの、相手のバトルポケモンへのダメージを+50する。",
-        ko: "이 차례에 자신의 「한카리아스」「토게키스」 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +50한다.",
+        ko: "이 차례에 자신의 「한카리아스」「토게키스」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +50한다.",
         "zh-tw": "這個回合中，你的巨咬怪或巨齒鯊使用的攻擊對對手的活躍寶可夢造成 +50 點傷害。"
     },
     trainerType: "Supporter",

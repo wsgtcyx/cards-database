@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/093",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/093"
     },
     name: {
         en: "Sudowoodo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
         ja: "ウソッキー",
+        ko: "꼬지모",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Obwohl es immer vorgibt, ein Baum zu sein,\nseine Zusammensetzung scheint ähnlicher zu sein\nFelsen als zur Vegetation.",
         "pt-br": "Embora sempre finja ser uma árvore,\nsua composição parece mais semelhante a\nrocha do que à vegetação.",
         "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。",
-        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。"
+        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。",
+        ko: "항상 나무인 척하고 있다.\n몸의 구조는 식물보다\n돌이나 바위에 가까운 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Steinwurf",
                 "pt-br": "Lançamento de pedra",
                 "zh-tw": "扔石頭",
-                ja: "いわおとし"
+                ja: "いわおとし",
+                ko: "돌떨구기"
             },
             damage: 50,
             cost: ["Fighting", "Fighting"]

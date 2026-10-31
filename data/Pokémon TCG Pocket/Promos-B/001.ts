@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/001"
     },
     name: {
         en: "Pikachu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Ist es wütend, entlädt sich augenblicklich die\nElektrizität, die es in seinen Backentaschen\ngespeichert hat.",
         "pt-br": "Quando está com raiva, descarrega\nimediatamente a energia armazenada\nnas bolsas em suas bochechas.",
         "zh-tw": "當它被激怒時，它會立即釋放臉頰眼袋中儲存的能量。",
-        ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。"
+        ja: "両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。",
+        ko: "양 볼에는 전기를 저장하는 주머니가 있다.\n화가 나면 저장한 전기를 단숨에 방출한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Funkensprung",
                 "pt-br": "Faísca",
                 "zh-tw": "電光",
-                ja: "スパーク"
+                ja: "スパーク",
+                ko: "스파크"
             },
             effect: {
                 en: "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 10 點傷害。",
-                ja: "相手のベンチポケモン1匹にも10ダメージ。"
+                ja: "相手のベンチポケモン1匹にも10ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
             },
             damage: 10
         }

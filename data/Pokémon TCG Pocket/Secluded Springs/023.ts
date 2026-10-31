@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/023"
     },
     name: {
         en: "Mantyke",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mantyke",
         "zh-tw": "小球飛魚",
         ja: "タマンタ",
+        ko: "타만타",
     },
     illustrator: "Shibuzoh.",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist sehr freundlich und leicht zu zähmen. Touren das\nNehmen Sie Leute mit, die mit Mantyke schwimmen gehen\näußerst beliebte Strandaktivität.",
         "pt-br": "É altamente amigável e facilmente domesticado. Passeios que\nlevar as pessoas para nadar com Mantyke é um\natividade de praia super popular.",
         "zh-tw": "它非常友好並且很容易被馴服。旅行團\n帶著 Mantyke 一起游泳的人是\n超受歡迎的海灘活動。",
-        ja: "とても 人懐っこく よく懐く。 タマンタとの ふれあい ツアーは 大人気の ビーチアクティビティ。"
+        ja: "とても 人懐っこく よく懐く。 タマンタとの ふれあい ツアーは 大人気の ビーチアクティビティ。",
+        ko: "매우 사람을 잘 따른다.\n타만타 체험 투어는\n인기가 많은 비치 액티비티다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spritziger Wurf",
                 "pt-br": "Lançamento chamativo",
                 "zh-tw": "潑濺投擲",
-                ja: "ざぶざぶトス"
+                ja: "ざぶざぶトス",
+                ko: "참방참방토스"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
                 "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只基礎神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチのたねポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチのたねポケモンにつける。",
+                ko: "자신의 에너지존에서 {W}에너지를 1개 내보내 벤치의 기본 포켓몬에게 붙인다."
             }
         }],
     retreat: 0

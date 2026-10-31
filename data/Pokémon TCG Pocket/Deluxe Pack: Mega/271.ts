@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/271",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/271",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/271",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/271"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/271",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/271"
     },
     name: {
         en: "Charcadet",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Seu poder de fogo aumenta quando batalha, atingindo mais de 1.000 °C. Gosta de frutas ricas em gordura.",
         "zh-tw": "在進入戰鬥狀態後，火力會上升至攝氏1000度。喜歡吃油脂含量高的樹果。",
         ja: "戦いになると 火力が 上がり 摂氏1000度に 達する。 油分の多い 木の実を 好む。",
-        ko: "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+        ko: "싸움을 시작하면 화력이 상승하여\n섭씨 1000도에 이르게 된다.\n기름기가 많은 나무열매를 좋아한다."
     },
     stage: "Basic",
     attacks: [

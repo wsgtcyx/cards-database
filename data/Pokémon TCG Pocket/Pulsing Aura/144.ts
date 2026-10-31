@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/144",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/144"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/144",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/144"
     },
     name: {
         en: "Furfrou",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Trimmt man sein Fell nicht regelmäßig, wächst es\nohne Unterlass. Allerdings lässt es sich nur von\njemandem frisieren, dem es traut.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais, mas só permitirá que alguém de sua confiança o corte.",
         "zh-tw": "如果放著不管，體毛就會\n不斷變長，但牠只允許\n信賴的人幫自己修剪。",
-        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。",
+        ko: "가만히 두면 털이 점점\n자라지만 신뢰하는 자가 아니면\n커트를 허락하지 않는다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Fellkleid",
                 "pt-br": "Casaco de pele",
                 "zh-tw": "毛皮大衣",
-                ja: "ファーコート"
+                ja: "ファーコート",
+                ko: "퍼코트"
             },
             effect: {
                 en: "This Pokémon takes -20 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Diesem Pokémon werden durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe -20 pontos de dano de ataques.",
                 "zh-tw": "該寶可夢受到的攻擊傷害為 -20。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Launischer Tackle",
                 "pt-br": "Investida Fantástica",
                 "zh-tw": "胡思亂撞",
-                ja: "きまぐれタックル"
+                ja: "きまぐれタックル",
+                ko: "변덕 태클"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -87,7 +92,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 80
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/136",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/136",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/136"
     },
     name: {
         en: "Kecleon",
@@ -38,7 +39,8 @@ const card: Card = {
         "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich.",
         "pt-br": "Muda de cor para se misturar ao ambiente e surpreender a presa. No entanto, não consegue fazer as marcas na sua barriga desaparecerem.",
         "zh-tw": "能夠改變體色，融入景色中，\n悄悄地靠近獵物。\n但腹部的花紋是不會消失的。",
-        ja: "体の 色を 変えて 景色に 溶けこみ 獲物に 忍び寄る。 お腹の 模様は 消せないのだ。"
+        ja: "体の 色を 変えて 景色に 溶けこみ 獲物に 忍び寄る。 お腹の 模様は 消せないのだ。",
+        ko: "풍경에 녹아들게끔 몸의 색을 바꿔\n먹이에게 다가간다.\n배의 무늬는 지울 수 없다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "pt-br": "Tapa Combinado",
                 "zh-tw": "撞能巴掌",
                 "it": "Schiaffaffine",
-                ja: "おそろいビンタ"
+                ja: "おそろいビンタ",
+                ko: "맞춤뺨치기"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon und das Aktive Pokémon deines Gegners mindestens 1 gleicher Energietyp angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem 1 ou mais do mesmo tipo de Energia ligada a eles, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上的能量的屬性與對手的戰鬥寶可夢身上的能量的屬性有1種以上相同,則增加30點傷害。",
-                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、30ダメージ追加。"
+                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、30ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 타입과 상대 배틀 포켓몬의 에너지의 타입이 1종류 이상 같으면 30데미지를 추가한다."
             },
             damage: "20+"
         }

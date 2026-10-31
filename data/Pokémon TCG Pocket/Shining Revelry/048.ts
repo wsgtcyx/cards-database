@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/048"
     },
     name: {
         en: "Paldean Clodsire ex",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Paldea-Suelord-ex",
         'pt-br': "Clodsire de Paldea ex",
         ja: "パルデアドオーex",
-        ko: "팔데아토오 ex",
+        ko: "팔데아 토오 ex",
         "zh-tw": "帕底亞土王ex",
     },
     illustrator: "PLANETA Mochizuki",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Paldea-Felino",
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
-        ja: "パルデアウパー"
+        ja: "パルデアウパー",
+        ko: "팔데아 우파"
     },
     stage: "Stage1",
     suffix: "EX",

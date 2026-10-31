@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/056"
     },
     name: {
         en: "Eevee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein genetischer Code ist unregelmäßig. Es kann mutieren, wenn es der Strahlung von Elementsteinen ausgesetzt wird.",
         "pt-br": "Seu código genético é irregular. Ele pode sofrer mutação se for exposto à radiação das pedras elementares.",
         "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。",
-        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。",
+        ko: "불규칙한 유전자를 가졌다.\n돌에서 나오는 방사선에 의해\n몸이 돌연변이를 일으킨다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rutenschlag",
                 "pt-br": "Cauda Chicote",
                 "zh-tw": "搖尾巴",
-                ja: "しっぽをふる"
+                ja: "しっぽをふる",
+                ko: "꼬리흔들기"
             },
             effect: {
                 en: "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf kann das Verteidigende Pokémon während des nächsten Zuges deines Gegners nicht angreifen.",
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Defensor não poderá atacar durante o próximo turno do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則防守寶可夢在對手的下一個回合中不能攻擊。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다."
             }
         }
     ],

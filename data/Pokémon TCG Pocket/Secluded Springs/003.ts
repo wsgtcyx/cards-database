@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/003"
     },
     name: {
         en: "Jumpluff ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jumpluff ex",
         "zh-tw": "毽子棉ex",
         ja: "ワタッコex",
+        ko: "솜솜코 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
         ja: "ポポッコ",
+        ko: "두코",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Breeze-By-Angriff",
                 "pt-br": "Ataque Breeze-By",
                 "zh-tw": "微風攻擊",
-                ja: "そよかぜアタック"
+                ja: "そよかぜアタック",
+                ko: "산들바람어택"
             },
             damage: 70,
             cost: ["Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Du kannst dieses Pokémon mit einem deiner Bank-Pokémon austauschen.",
                 "pt-br": "Você pode trocar este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "您可以將這只神奇寶貝與您的 1 只後備神奇寶貝交換。",
-                ja: "のぞむなら、このポケモンをベンチポケモンと入れ替える。"
+                ja: "のぞむなら、このポケモンをベンチポケモンと入れ替える。",
+                ko: "원한다면 이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

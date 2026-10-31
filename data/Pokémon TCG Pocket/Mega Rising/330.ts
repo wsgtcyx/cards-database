@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/330",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/330",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/330",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/330"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/330",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/330"
     },
     name: {
         en: "Klefki",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Klefki",
         "zh-tw": "鑰圈兒",
         ja: "クレッフィ",
+        ko: "클레피",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Crown",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In der Vergangenheit vertrauten Adelsfamilien ihre Tresore an\nSchlüssel zu einem Klefki. Sie reichten den Klefki weiter\nüber Generationen hinweg und sich gut darum gekümmert.",
         "pt-br": "No passado, as famílias nobres confiavam o seu cofre\nchaves para um Klefki. Eles passaram o Klefki para baixo\natravés das gerações, cuidando bem dele.",
         "zh-tw": "過去，貴族家庭將他們的金庫託付給\nKlefki 的鑰匙。他們將 Klefki 傳承了下來\n代代相傳，精心呵護。",
-        ja: "昔の 貴族は 金庫の カギを 管理させる クレッフィを 代々 引き継ぎ 大切に 扱った。"
+        ja: "昔の 貴族は 金庫の カギを 管理させる クレッフィを 代々 引き継ぎ 大切に 扱った。",
+        ko: "옛날 귀족은 금고 열쇠를 관리하는\n클레피를 대대손손\n소중하게 여겼다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Demontage von Schlüsseln",
                 "pt-br": "Desmontando Chaves",
                 "zh-tw": "拆鑰匙",
-                ja: "ぶんかいのカギ"
+                ja: "ぶんかいのカギ",
+                ko: "분해의열쇠"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon einmal während deines Zuges auf deiner Bank befindet, kannst du alle Pokémon-Ausrüstungen vom aktiven Pokémon deines Gegners abwerfen. Wenn du dies tust, wirf dieses Pokémon ab.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá descartar todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente. Se fizer isso, descarte este Pokémon.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝在你的替補席上，你可以丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。這樣做了的話，丟棄這只寶可夢。",
-                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュ。その後、このポケモンをトラッシュ。"
+                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュ。その後、このポケモンをトラッシュ。",
+                ko: "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다. 그 뒤, 이 포켓몬을 트래쉬한다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Haken",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤",
-                ja: "ひっかける"
+                ja: "ひっかける",
+                ko: "걸기"
             },
             damage: 20,
             cost: ["Colorless"]
@@ -79,6 +85,11 @@ const card: Card = {
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/094"
     },
     name: {
         en: "Rapidash",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Das schnellste Exemplar wird zum Anführer\nbestimmt und gibt als solcher den Zielort und\ndie Geschwindigkeit der Herde vor.",
         "pt-br": "O corredor mais rápido se torna o líder e decide o ritmo do rebanho e a direção da viagem.",
         "zh-tw": "奔跑速度最快的烈焰馬\n會成為首領，決定族群\n前往的地點和奔跑速度。",
-        ja: "いちばん 脚が 速い ものが リーダー。 群れが 行く 場所や 走る 速度を 決めている。"
+        ja: "いちばん 脚が 速い ものが リーダー。 群れが 行く 場所や 走る 速度を 決めている。",
+        ko: "가장 발이 빠른 날쌩마가\n리더가 되어 무리가 갈 장소나\n달리는 속도를 정한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Turbosmash",
                 "pt-br": "Golpe Exaustivo",
                 "zh-tw": "超頻擊碎",
-                ja: "オーバースマッシュ"
+                ja: "オーバースマッシュ",
+                ko: "오버스매시"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges verursacht der Overdrive-Smash-Angriff dieses Pokémon +30 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Overdrive Smash deste Pokémon causa +30 de dano.",
                 "zh-tw": "在你的下一個回合中，這只寶可夢的超速粉碎攻擊造成+30點傷害。",
-                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+30する。"
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+30する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「오버스매시」의 데미지를 +30한다."
             },
             damage: 30
         }

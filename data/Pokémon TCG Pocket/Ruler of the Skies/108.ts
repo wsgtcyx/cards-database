@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/108",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/108",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/108"
     },
     name: {
         en: "Metagross",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Mit seinen spitzen Beinkrallen und dem massigen\nKörper drückt es seine Beute zu Boden und\nzerkaut sie dann mit seinen Zähnen am Bauch.",
         "pt-br": "Imobiliza suas presas com suas quatro garras e o corpo grandioso. Em seguida, usa a boca em seu estômago para mastigar a presa em pedacinhos.",
         "zh-tw": "用４隻爪子和龐大的身體\n牢牢地按住獵物後，\n用腹部的牙齒嚼食。",
-        ja: "４つの ツメと 大きな 身体で 獲物を しっかり 押さえつけると お腹の 歯で バリバリ かじる。"
+        ja: "４つの ツメと 大きな 身体で 獲物を しっかり 押さえつけると お腹の 歯で バリバリ かじる。",
+        ko: "4개의 발톱과 큰 몸집으로\n먹이를 확실하게 누른 후\n배의 이빨로 으드득 씹는다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "宏偉十字擊",
                 "it": "Attacco Squadrato",
                 "de": "Vierkantattacke",
-                ja: "グランドクロス"
+                ja: "グランドクロス",
+                ko: "그랜드크로스"
             },
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wirf 4 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
                 "zh-tw": "擲4次硬幣,造成正面出現的次數×50點傷害。",
-                ja: "コインを4回投げ、オモテの数×50ダメージ。"
+                ja: "コインを4回投げ、オモテの数×50ダメージ。",
+                ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
             },
             damage: "50x"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/156",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/156",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/156"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/156",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/156"
     },
     name: {
         en: "Zweilous",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zweilous",
         "zh-tw": "雙首暴龍",
         ja: "ジヘッド",
+        ko: "디헤드",
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Deino",
         "zh-tw": "單首龍",
         ja: "モノズ",
+        ko: "모노두",
     },
     description: {
         en: "The two heads have different likes and dislikes.\nBecause the heads fight with each other, Zweilous\ngets stronger without needing to rely on others.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die beiden Köpfe haben unterschiedliche Vorlieben und Abneigungen.\nWeil die Köpfe miteinander kämpfen, Zweilous\nwird stärker, ohne dass man sich auf andere verlassen muss.",
         "pt-br": "As duas cabeças têm gostos e desgostos diferentes.\nPorque as cabeças brigam entre si, Zweilous\nfica mais forte sem precisar depender de outros.",
         "zh-tw": "兩個頭有不同的好惡。\n因為頭顱互相爭鬥，Zweilous\n不需要依靠別人就能變得更強大。",
-        ja: "２つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。"
+        ja: "２つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。",
+        ko: "두 개의 머리는 취향이 서로 다르다.\n머리끼리 벌이는 싸움을 통해\n남의 힘을 빌리지 않고도 점점 강해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Dunkelheitszahn",
                 "pt-br": "Presa da Escuridão",
                 "zh-tw": "黑暗之牙",
-                ja: "やみのキバ"
+                ja: "やみのキバ",
+                ko: "어둠엄니"
             },
             damage: 40,
             cost: ["Darkness", "Darkness"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

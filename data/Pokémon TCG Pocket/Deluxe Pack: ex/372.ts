@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/372",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/372",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/372",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/372"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/372",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/372"
 	},
 	name: {
         en: "Arceus ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Arceus ex",
         "zh-tw": "阿爾宙斯ex",
         ja: "アルセウスex",
+        ko: "아르세우스 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Sagenhafter Glanz",
                 "pt-br": "Brilho lendário",
                 "zh-tw": "傳說中的光澤",
-                ja: "しんわのかがやき"
+                ja: "しんわのかがやき",
+                ko: "신화의 반짝임"
             },
             effect: {
                 en: "This Pokémon can't be affected by any Special Conditions.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Dieses Pokémon kann von keinen Sonderzuständen betroffen sein.",
                 "pt-br": "Este Pokémon não pode ser afetado por nenhuma condição especial.",
                 "zh-tw": "該神奇寶貝不會受到任何特殊條件的影響。",
-                ja: "このポケモンは特殊状態にならない。"
+                ja: "このポケモンは特殊状態にならない。",
+                ko: "이 포켓몬은 특수 상태가 되지 않는다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Ultimative Kraft",
                 "pt-br": "Força Suprema",
                 "zh-tw": "終極力量",
-                ja: "アルティメットフォース"
+                ja: "アルティメットフォース",
+                ko: "얼티메이트 포스"
             },
             damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 20 點額外傷害。",
-                ja: "自分のベンチポケモンの数×20ダメージ追加。"
+                ja: "自分のベンチポケモンの数×20ダメージ追加。",
+                ko: "자신의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

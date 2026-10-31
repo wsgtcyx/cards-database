@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/341",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/341",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/341",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/341"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/341",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/341"
     },
     name: {
         en: "Aegislash",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
         ja: "ニダンギル",
-        ko: "Doublade"
+        ko: "쌍검킬"
     },
     description: {
         en: "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Era uma vez um monarca que reinou sobre as terras com seu Aegislash. Por fim, o Pokémon drenou a vida do rei, e seu reino ruiu junto com ele.",
         "zh-tw": "雖然帶著堅盾劍怪的國王曾經支配了整個國家，最後卻被牠吸走了精氣，國家也滅亡了。",
         ja: "昔 ギルガルドを 連れた 王が 国を 支配 していたが やがて 生気を 吸われ 国も 滅びた。",
-        ko: "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him."
+        ko: "옛날에 킬가르도를 거느린 왕이\n나라를 지배했지만 머지않아\n생기를 뺏겨 나라도 멸망했다."
     },
     stage: "Stage2",
     abilities: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Metal Amaldiçoado",
                 "zh-tw": "咒詛金屬",
                 ja: "カースドメタル",
-                ko: "Cursed Metal"
+                ko: "커스메탈"
             },
             effect: {
                 en: "Attacks used by your {P} Pokémon and {M} Pokémon do +30 damage to your opponent's Active Pokémon.",
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Os ataques usados pelos seus Pokémon {P} e Pokémon {M} causam +30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的{P}或者{M}寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+30點。",
                 ja: "このポケモンがいるかぎり、自分の{P}または{M}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
-                ko: "Attacks used by your {P} Pokémon and {M} Pokémon do +30 damage to your opponent's Active Pokémon."
+                ko: "이 포켓몬이 있는 한, 자신의 {P} 또는 {M}포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
                 "pt-br": "Lâmina Fatiante",
                 "zh-tw": "利刃切割",
                 ja: "スライスブレード",
-                ko: "Slicing Blade"
+                ko: "슬라이스 블레이드"
             },
             damage: 70,
             cost: [

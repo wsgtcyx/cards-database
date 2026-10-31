@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/180",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/180",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/180"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/180",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/180"
     },
     name: {
         en: "Bisharp",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Gladiantri",
         "pt-br": "Pawniard",
         "zh-tw": "駒刀小兵",
-        ja: "コマタナ"
+        ja: "コマタナ",
+        ko: "자망칼"
     },
     attacks: [{
             cost: ["Metal", "Metal"],

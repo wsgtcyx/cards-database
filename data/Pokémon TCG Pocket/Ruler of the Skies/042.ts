@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/042",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/042",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/042"
     },
     name: {
         en: "Oshawott",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Angeblich fing es an, seine Muschel mit Steinen aus Flüssen in Stand zu halten, nachdem es sah, wie Menschen Wetzsteine nutzen.",
         "pt-br": "Dizem que Oshawott aprendeu a afiar sua scalchop com pedras dos rios ao imitar humanos que viu usando pedras de amolar.",
         "zh-tw": "據說牠是模仿了人類使用\n磨刀石的樣子，於是學得會用\n河灘上的石頭來保養扇貝貝。",
-        ja: "人が 砥石を 使う 姿を 真似して ホタチを 河原の 石で 手入れするようになったと 言われる。"
+        ja: "人が 砥石を 使う 姿を 真似して ホタチを 河原の 石で 手入れするようになったと 言われる。",
+        ko: "사람이 숫돌을 사용하는 모습을 흉내 내어\n강가의 돌로 가리비칼을\n손질하게 되었다고 전해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20
         }

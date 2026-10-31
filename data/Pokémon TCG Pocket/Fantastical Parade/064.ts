@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/064"
     },
     name: {
         en: "Kirlia",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kirlia",
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
-        ja: "キルリア"
+        ja: "キルリア",
+        ko: "킬리아"
     },
     illustrator: "mingo",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
-        ja: "ラルトス"
+        ja: "ラルトス",
+        ko: "랄토스"
     },
     description: {
         en: "The cheerful spirit of its Trainer gives it energy\nfor its psychokinetic power. It spins and dances\nwhen happy.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Der fröhliche Geist seines Trainers verleiht ihm Energie\nfür seine psychokinetische Kraft. Es dreht und tanzt\nwenn glücklich.",
         "pt-br": "O espírito alegre do seu Treinador lhe dá energia\npor seu poder psicocinético. Ele gira e dança\nquando feliz.",
         "zh-tw": "訓練師開朗的精神賦予它能量\n因為它的心理動力。它旋轉、跳舞\n當快樂的時候。",
-        ja: "トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分になると クルクル 踊る。"
+        ja: "トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分になると クルクル 踊る。",
+        ko: "트레이너의 밝은 마음이\n사이코 파워의 근원이다.\n즐거워지면 빙글빙글 춤춘다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Psybeam",
                 "pt-br": "Raio Psíquico",
                 "zh-tw": "心電束",
-                ja: "サイケこうせん"
+                ja: "サイケこうせん",
+                ko: "환상빔"
             },
             damage: 20,
             cost: ["Psychic"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/107"
     },
     name: {
         en: "Eevee",
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Sinais de Evolução",
                 "zh-tw": "進化預兆",
                 ja: "しんかのきざし",
-                ko: "Signs of Evolution"
+                ko: "진화의징조"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Coloque 1 carta aleatória que evolua de Eevee do seu baralho na sua mão.",
                 "zh-tw": "從自己的牌庫隨機將1張從「伊布」進化而來的卡加入手牌。",
                 ja: "「イーブイ」から進化するカードを、自分の山札からランダムに1枚、手札に加える。",
-                ko: "Put a random card that evolves from Eevee from your deck into your hand."
+                ko: "「이브이」에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 패로 가져온다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Sua capacidade de evoluir para muitas formas permite que se adapte fácil e perfeitamente a qualquer ambiente.",
         "zh-tw": "為了能瞬即適應環境的變化，身體裏蘊藏著許多種進化的可能性。",
         ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
-        ko: "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment."
+        ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/095"
     },
     name: {
         en: "Gurdurr",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Timburr",
         "zh-tw": "搬運小匠",
         ja: "ドッコラー",
+        ko: "으랏차",
     },
     description: {
         en: "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",

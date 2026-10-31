@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/331",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/331",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/331",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/331"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/331",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/331"
     },
     name: {
         en: "Zarude",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Ao se soltarem do corpo de Zarude, seus cipós se tornam nutrientes para o solo, ajudando as plantas da floresta a crescer.",
         "zh-tw": "生長在身上的藤蔓斷落後會化為土壤的養分，孕育森林裡的各種植物。",
         ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。",
-        ko: "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
+        ko: "몸에 난 덩굴이 끊어지면\n토양에 영양분이 되어\n숲의 식물들을 성장시킨다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Vingança Umbrosa",
                 "zh-tw": "暗黑報復",
                 ja: "ダークリベンジ",
-                ko: "Dark Vengeance"
+                ko: "다크리벤지"
             },
             effect: {
                 en: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Se algum dos seus Pokémon {D} tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "在上個對手的回合,若自己的{D}寶可夢因招式的傷害而昏厥了,則增加80點傷害。",
                 ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。",
-                ko: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage."
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 {D}포켓몬이 기절했다면 80데미지를 추가한다."
             },
             damage: "40+"
         }

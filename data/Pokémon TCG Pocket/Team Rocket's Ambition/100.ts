@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/100"
     },
     name: {
         en: "Sinistea",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon dringt in den Körper derjenigen ein, die von ihm trinken, und raubt ihnen von innen Lebensenergie. Es schmeckt scheußlich.",
         "pt-br": "Sinistea entrará em seu corpo ao ser ingerido e depois roubará a sua vitalidade lá de dentro. Seu gosto também è horrivel.",
         "zh-tw": "會趁著自己被喝掉時進到對方身體裡，從內部奪走其生物能量。喝起來很難喝。",
-        ja: "飲まれることで 体に 入り込み 内側から 生体エネルギーを 奪うのだ。 その味は 不味い。"
+        ja: "飲まれることで 体に 入り込み 内側から 生体エネルギーを 奪うのだ。 その味は 不味い。",
+        ko: "마시면 몸 안으로 침투하여\n안에서부터 생체 에너지를 빼앗는다.\n맛은 없는 편이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verstecken",
                 "pt-br": "Esconder",
                 "zh-tw": "躲藏",
-                ja: "かくれる"
+                ja: "かくれる",
+                ko: "숨기"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }
     ],

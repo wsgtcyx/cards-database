@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/033"
     },
     name: {
         en: "Duosion",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mitodos",
         "pt-br": "Duosion",
         "zh-tw": "雙卵細胞球",
-        ja: "ダブラン"
+        ja: "ダブラン",
+        ko: "듀란"
     },
     illustrator: "Pani Kobayashi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Monozyto",
         "pt-br": "Solosis",
         "zh-tw": "單卵細胞球",
-        ja: "ユニラン"
+        ja: "ユニラン",
+        ko: "유니란"
     },
     description: {
         en: "Its brain has split into two, and the two\nhalves rarely think alike. Its actions are\nutterly unpredictable.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sein Gehirn hat sich in zwei Teile gespalten, und zwar in die beiden\nHälften denken selten gleich. Seine Aktionen sind\nvöllig unvorhersehbar.",
         "pt-br": "Seu cérebro se dividiu em dois, e os dois\nmetades raramente pensam da mesma forma. Suas ações são\ntotalmente imprevisível.",
         "zh-tw": "它的大腦一分為二，而這兩個\n一半的人很少有相同的想法。其動作是\n完全無法預測。",
-        ja: "分裂した ２つの 脳みその 考えは ほぼ 一致せず まるで 行動が 読めない。"
+        ja: "分裂した ２つの 脳みその 考えは ほぼ 一致せず まるで 行動が 読めない。",
+        ko: "분열한 2개의 뇌는\n생각이 거의 일치하지 않아\n전혀 행동을 예측할 수 없다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
                 "zh-tw": "心理射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"]

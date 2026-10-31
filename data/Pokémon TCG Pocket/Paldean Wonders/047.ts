@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/047"
     },
     name: {
         en: "Dachsbun",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dachsbun",
         "zh-tw": "麻花犬",
         ja: "バウッツェル",
+        ko: "바우첼",
         pt: "Dachsbun"
     },
     illustrator: "You Iribi",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Fidough",
         "zh-tw": "狗仔包",
         ja: "パピモッチ",
+        ko: "쫀도기",
         pt: "Fidough"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Der angenehme Duft, der vom Körper dieses Pokémon ausgeht, hilft beim Weizenwachstum, weshalb Backel von Bauerndörfern geschätzt wird.",
         "pt-br": "O aroma agradável que emana do corpo deste Pokémon ajuda o trigo a crescer, por isso Dachsbun é apreciado pelas aldeias agrícolas.",
         "zh-tw": "這隻寶可夢身體散發出的宜人香氣有助於小麥生長，因此麻花犬一直被農村所珍視。",
-        ja: "体から 放つ 良い香りが 小麦の 成長を 助けるため 農村で 大切にされてきた。"
+        ja: "体から 放つ 良い香りが 小麦の 成長を 助けるため 農村で 大切にされてきた。",
+        ko: "몸에서 나는 좋은 향기가\n밀의 성장을 돕기 때문에\n농촌에서 소중히 여겨진다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Jogue duro",
                 "zh-tw": "玩粗暴",
                 ja: "じゃれつく",
+                ko: "치근거리기",
                 pt: "Jogo Duro"
             },
             damage: "50+",
@@ -75,6 +80,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
                 ja: "コインを1回投げオモテなら、50ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다.",
                 pt: "Jogue 1 moeda. Se sair cara, este ataque causará 50 pontos de dano a mais."
             },
         },

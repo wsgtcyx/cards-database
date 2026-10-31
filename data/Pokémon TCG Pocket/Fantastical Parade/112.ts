@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/112",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/112",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/112",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/112"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/112",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/112"
     },
     name: {
         en: "Mawile",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Flunkifer",
         "pt-br": "Mawile",
         "zh-tw": "大嘴娃",
-        ja: "クチート"
+        ja: "クチート",
+        ko: "입치트"
     },
     illustrator: "kurumitsu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kaut mit aufgerissenem Maul. Seine riesigen Kiefer sind\neigentlich umgestaltete Stahlhörner.",
         "pt-br": "Ele mastiga com a boca aberta. Suas enormes mandíbulas são\nna verdade, chifres de aço que foram transformados.",
         "zh-tw": "它張開嘴咀嚼食物。它巨大的下巴是\n實際上是經過改造的鋼角。",
-        ja: "鋼の ツノが 変形して できた 大きな アゴで 相手に がぶりと 噛みつくのだ。"
+        ja: "鋼の ツノが 変形して できた 大きな アゴで 相手に がぶりと 噛みつくのだ。",
+        ko: "강철의 뿔이 변형되어\n생긴 큰 턱으로\n상대를 덥석 문다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Höhlenfresser",
                 "pt-br": "Mordida Cavernosa",
                 "zh-tw": "海綿狀咀嚼物",
-                ja: "ばっくりバイト"
+                ja: "ばっくりバイト",
+                ko: "쩍바이트"
             },
             damage: 50,
             cost: ["Metal", "Colorless"]

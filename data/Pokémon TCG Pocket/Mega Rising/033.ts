@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/033"
     },
     name: {
         en: "Torchic",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Torchic",
         "zh-tw": "火稚雞",
         ja: "アチャモ",
+        ko: "아차모",
     },
     illustrator: "GOSSAN",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Im Inneren brennt ein Feuer, daher fühlt es sich sehr warm an, wenn man es umarmt.\nEs feuert Feuerbälle mit einer Temperatur von 1.800 Grad Fahrenheit ab.",
         "pt-br": "Um fogo queima por dentro, então é muito quente abraçar.\nEle lança bolas de fogo de 1.800 graus Fahrenheit.",
         "zh-tw": "裡面有一團火在燃燒，擁抱起來感覺很溫暖。\n它發射 1,800 華氏度的火球。",
-        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。"
+        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。",
+        ko: "체내에 불꽃이 타오르고 있어\n껴안으면 무척 따뜻하다.\n1000도의 불구슬을 날린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Picken",
                 "pt-br": "Peck",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 20,
             cost: ["Fire"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

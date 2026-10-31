@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/083",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/083"
     },
     name: {
         en: "Flaaffy",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
         ja: "モココ",
+        ko: "보송송",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
         ja: "メリープ",
+        ko: "메리프",
     },
     description: {
         en: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Aufgrund seiner gummiartigen, strombeständigen Haut\nEs kann viel Strom in seinem Fell speichern.",
         "pt-br": "Devido à sua pele emborrachada e resistente à eletricidade,\nele pode armazenar muita eletricidade em seu pelo.",
         "zh-tw": "由於其橡膠狀、耐電的皮膚，\n它的皮毛可以儲存大量的電力。",
-        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。"
+        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。",
+        ko: "전기가 통하지 않는 맨살은\n고무처럼 매끈하지만\n털은 전기를 모으기 쉽다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Elektrischer Schlag",
                 "pt-br": "Soco Elétrico",
                 "zh-tw": "電動沖床",
-                ja: "ビリリパンチ"
+                ja: "ビリリパンチ",
+                ko: "찌리리펀치"
             },
             damage: 40,
             cost: ["Lightning", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

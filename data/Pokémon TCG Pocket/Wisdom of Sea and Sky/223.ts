@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/223",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/223",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/223",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/223"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/223",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/223"
     },
     name: {
         en: "Nidoran♀",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",
         ja: "ニドラン♀",
+        ko: "니드런♀",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Weibchen reagieren empfindlicher auf Gerüche als Männchen.\nBei der Nahrungssuche nutzen sie ihre Schnurrhaare zur Kontrolle\nAchten Sie auf die Windrichtung und bleiben Sie windabgewandt von Raubtieren.",
         "pt-br": "As mulheres são mais sensíveis aos cheiros do que os homens.\nEnquanto procuram alimentos, eles usam os bigodes para verificar\ndireção do vento e fique na direção do vento dos predadores.",
         "zh-tw": "女性比男性對氣味更敏感。\n覓食時，它們會用鬍鬚檢查\n風向並保持捕食者的下風向。",
-        ja: "オスよりも 匂いに 敏感。 ヒゲで 風向きを 確認しながら 風下で エサを 探すのだ。"
+        ja: "オスよりも 匂いに 敏感。 ヒゲで 風向きを 確認しながら 風下で エサを 探すのだ。",
+        ko: "수컷보다 냄새에 민감하다.\n수염으로 바람의 방향을 확인하면서\n흘러온 냄새로 먹이를 찾는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Aufruf zur Familie",
                 "pt-br": "Ligue para a família",
                 "zh-tw": "呼叫家人",
-                ja: "なかまをよぶ"
+                ja: "なかまをよぶ",
+                ko: "동료부르기"
             },
             cost: ["Darkness"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege 1 zufälligen Nidoran♂ aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Nidoran♂ aleatório do seu deck no seu Banco.",
                 "zh-tw": "從你的牌組中隨機將 1 張 Nidoran♂ 放到你的替補席上。",
-                ja: "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。"
+                ja: "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
+                ko: "자신의 덱에서 「니드런♂」을 랜덤으로 1장 벤치로 내보낸다."
             }
         }],
     weaknesses: [{

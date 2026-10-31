@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/031"
     },
     name: {
         en: "Spoink",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Er nutzt seinen Schwanz wie eine Feder und hält sein Herz durch ständiges Hüpfen am Schlagen. Wenn es aufhört, stirbt es.",
         "pt-br": "Usando sua cauda como uma mola, ele mantém seu coração batendo saltando constantemente. Se parar, ele morre.",
         "zh-tw": "它利用尾巴像彈簧一樣不斷彈跳來保持心臟的跳動。如果它停止了，它就會死。",
-        ja: "尻尾を バネがわりにして 飛び跳ねることで 心臓を 動かしているので 止まると 死ぬ。"
+        ja: "尻尾を バネがわりにして 飛び跳ねることで 心臓を 動かしているので 止まると 死ぬ。",
+        ko: "꼬리를 용수철 대용으로 사용해\n뛰어오르며 심장을 움직이고 있기 때문에\n멈추면 죽는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
                 "zh-tw": "精神射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 20
         }

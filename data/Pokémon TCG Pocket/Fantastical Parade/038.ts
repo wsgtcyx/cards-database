@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/038"
     },
     name: {
         en: "Vanillish",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
         "zh-tw": "多多冰",
-        ja: "バニリッチ"
+        ja: "バニリッチ",
+        ko: "바닐리치"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Gelatini",
         "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
-        ja: "バニプッチ"
+        ja: "バニプッチ",
+        ko: "바닐프티"
     },
     description: {
         en: "It blasts enemies with cold air reaching −148\ndegrees Fahrenheit, freezing them solid. But it\nspares their lives afterward—it's a kind Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es beschießt Feinde mit kalter Luft und erreicht einen Wert von −148\nGrad Fahrenheit und gefriert sie fest. Aber es\nverschont ihnen danach das Leben – es ist ein freundliches Pokémon.",
         "pt-br": "Ele atinge os inimigos com ar frio atingindo -148\ngraus Fahrenheit, congelando-os. Mas isso\npoupa suas vidas depois - é um Pokémon gentil.",
         "zh-tw": "它用達到-148的冷空氣轟炸敵人\n華氏度，將它們凍結成固體。但它\n之後饒了他們一命——這是一隻善良的神奇寶貝。",
-        ja: "マイナス１００度の 冷気で 敵を 凍らせるが 命までは 奪わない 優しい 気質。"
+        ja: "マイナス１００度の 冷気で 敵を 凍らせるが 命までは 奪わない 優しい 気質。",
+        ko: "마이너스 100도의 냉기로\n적을 얼리지만 목숨은\n뺏지 않는 상냥한 기질을 가졌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Eisesodem",
                 "pt-br": "Respiração de Gelo",
                 "zh-tw": "冰霜呼吸",
-                ja: "こおりのいぶき"
+                ja: "こおりのいぶき",
+                ko: "얼음숨결"
             },
             damage: 40,
             cost: ["Water"]

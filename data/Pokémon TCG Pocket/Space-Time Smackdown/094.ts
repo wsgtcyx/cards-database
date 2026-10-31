@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/094"
     },
     name: {
         en: "Hippowdon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Hippopotas",
         "zh-tw": "沙河馬",
         ja: "ヒポポタス",
+        ko: "히포포타스",
     },
     description: {
         en: "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/085"
     },
     name: {
         en: "Flamigo",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Dank ihres Verhaltens, das als „Synchronisieren“ bekannt ist, kann ein ganzer Schwarm dieser Pokémon gleichzeitig und in perfekter Harmonie angreifen.",
         "pt-br": "Graças a um comportamento conhecido como “sincronização”, um bando inteiro desses Pokémon pode atacar simultaneamente em perfeita harmonia.",
         "zh-tw": "由於它們的「同步」行為，整群寶可夢可以完美和諧地同時攻擊。",
-        ja: "シンクロと呼ばれる 習性により 群れの 全員が 一糸乱れず 一斉に 攻撃してくる。"
+        ja: "シンクロと呼ばれる 習性により 群れの 全員が 一糸乱れず 一斉に 攻撃してくる。",
+        ko: "싱크로라 불리는 습성으로 인해\n무리 전체가 일사불란하게 움직여\n일제히 공격한다."
     },
     stage: "Basic",
     attacks: [
@@ -50,7 +52,8 @@ const card: Card = {
                 de: "Wing Attack",
                 "pt-br": "Ataque de asa",
                 "zh-tw": "翼攻擊",
-                ja: "つばさでうつ"
+                ja: "つばさでうつ",
+                ko: "날개치기"
             },
             damage: "50",
             cost: ["Colorless", "Colorless"],

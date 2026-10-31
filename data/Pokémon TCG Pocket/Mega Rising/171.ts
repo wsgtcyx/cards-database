@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/171",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/171",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/171"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/171",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/171"
     },
     name: {
         en: "Doublade",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
         ja: "ニダンギル",
+        ko: "쌍검킬",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
         ja: "ヒトツキ",
+        ko: "단칼빙",
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die beiden Schwerter verfolgen eine schnelle Strategie\nWechsel zwischen Angriff und Verteidigung\nbringen ihre Beute zur Strecke.",
         "pt-br": "As duas espadas empregam uma estratégia de rapidamente\nalternando entre ataque e defesa para\nderrubar suas presas.",
         "zh-tw": "兩把劍採用了快速的策略\n攻防交替\n打倒他們的獵物。",
-        ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。"
+        ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。",
+        ko: "2자루의 검이 공격과 방어를\n어지러울 정도로 빠르게 바꾸는\n전법으로 먹이의 숨통을 끊는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 40,
             cost: ["Metal", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

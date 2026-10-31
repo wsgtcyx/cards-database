@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/030"
     },
     name: {
         en: "Kadabra",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Abra",
         "pt-br": "Abra",
         "zh-tw": "凱西",
-        ja: "ケーシィ"
+        ja: "ケーシィ",
+        ko: "캐이시"
     },
     description: {
         en: "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",

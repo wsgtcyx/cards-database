@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/091",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/091"
     },
     name: {
         en: "Passimian",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Quartermak",
         "pt-br": "Passimian",
         "zh-tw": "投擲猴",
-        ja: "ナゲツケサル"
+        ja: "ナゲツケサル",
+        ko: "내던숭이"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Chef wählt 10 Mitglieder der Gruppe aus\ngeh auf die Jagd. Die Jagdgruppe wird gleichmäßig aufgeteilt\ndas Essen, das sie zusammen mit dem Rest der Gruppe finden.",
         "pt-br": "O chefe escolhe 10 membros do grupo para\nsair para caçar. O grupo de caça será dividido igualmente\na comida que encontram com o resto do grupo.",
         "zh-tw": "老闆選出10名小組成員\n出去打獵。狩獵隊將平分\n他們和其他人一起找到的食物。",
-        ja: "ボスが 選んだ １０匹で 狩りに 出かけ 取ってきた エサを 群れの 仲間で 平等に 分け合う。"
+        ja: "ボスが 選んだ １０匹で 狩りに 出かけ 取ってきた エサを 群れの 仲間で 平等に 分け合う。",
+        ko: "보스가 고른 10마리로 사냥을 나가\n모아 온 먹이를 무리의 동료들과\n공평하게 나눠 먹는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schleudern",
                 "pt-br": "Arremesso",
                 "zh-tw": "一扔",
-                ja: "なげつける"
+                ja: "なげつける",
+                ko: "내던지기"
             },
             cost: ["Fighting"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
-                ja: "相手のベンチポケモン1匹に30ダメージ。"
+                ja: "相手のベンチポケモン1匹に30ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게 30데미지를 준다."
             }
         }],
     weaknesses: [{

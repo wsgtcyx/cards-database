@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/138",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/138"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/138",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/138"
     },
     name: {
         en: "Herdier",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Das dunkle Fell, das seinen Körper bedeckt,\nist sehr dicht und federnd. Selbst Angriffe mit\nscharfen Fangzähnen prallen davon ab.",
         "pt-br": "O pelo preto que cobre o corpo deste Pokémon é denso e elástico. Até mesmo presas afiadas ricocheteiam.",
         "zh-tw": "覆蓋身體的黑色體毛\n既厚實又有彈性，就連\n銳利的獠牙也會被反彈。",
-        ja: "体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。"
+        ja: "体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。",
+        ko: "몸을 뒤덮은 검은 털은\n두껍고 탄력이 있다.\n날카로운 이빨도 튕겨낸다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Einhämmern",
                 "pt-br": "Martelada",
                 "zh-tw": "頭突",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 50
         }

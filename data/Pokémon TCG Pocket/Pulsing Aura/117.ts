@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/117"
     },
     name: {
         en: "Bronzor",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sie werden in alten Gräbern gefunden. Die Muster auf ihrem Rücken sollen von geheimnisvoller Kraft durchdrungen sein.",
         "pt-br": "Eles são encontrados em tumbas antigas. Diz-se que os padrões em suas costas estão imbuídos de um poder misterioso.",
         "zh-tw": "它們是在古墓中發現的。據說它們背上的圖案充滿了神秘的力量。",
-        ja: "古い お墓から みつかる。 背中の 模様には 神秘的な 力が 宿っていると いわれる。"
+        ja: "古い お墓から みつかる。 背中の 模様には 神秘的な 力が 宿っていると いわれる。",
+        ko: "오래된 묘에서 발견된다.\n등의 무늬에는 신비한 힘이\n깃들어 있다고 전해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Tempohechtsprung",
                 "pt-br": "Mergulho Veloz",
                 "zh-tw": "高速飛行",
-                ja: "スピードひこう"
+                ja: "スピードひこう",
+                ko: "스피드비행"
             },
             damage: 20
         }

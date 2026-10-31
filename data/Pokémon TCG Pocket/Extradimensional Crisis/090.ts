@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/090",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/090"
     },
     name: {
         en: "Arcanine",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Arcanine",
         "zh-tw": "風速狗",
         ja: "ウインディ",
+        ko: "윈디",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",
@@ -35,6 +37,7 @@ const card: Card = {
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
         ja: "ガーディ",
+        ko: "가디",
     },
     description: {
         en: "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
@@ -44,7 +47,8 @@ const card: Card = {
         "de": "Eine alte Bildrolle zeigt diese Menschen\nwaren von der Bewegung beim Laufen fasziniert\ndurch Prärien.",
         "pt-br": "Um antigo pergaminho ilustrado mostra que as pessoas\nforam cativados por seu movimento enquanto corria\natravés das pradarias.",
         "zh-tw": "一幅古老的畫卷表明，人們\n被它跑步時的動作迷住了\n穿過大草原。",
-        ja: "草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。"
+        ja: "草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。",
+        ko: "초원을 내달리는 모습은\n사람들의 마음을 사로잡았다고\n옛날 그림에 묘사되어 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "de": "Hitzegerät",
                 "pt-br": "Equipamento térmico",
                 "zh-tw": "熱力鏟球",
-                ja: "ヒートタックル"
+                ja: "ヒートタックル",
+                ko: "히트태클"
             },
             damage: 100,
             cost: ["Fire", "Fire", "Colorless"],
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

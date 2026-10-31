@@ -77,7 +77,7 @@ interface ParsedSearch {
 }
 
 export class CatalogSearchValidationError extends Error {
-	constructor(public readonly details: Array<string>, public readonly japaneseDetails: Array<string>) {
+	constructor(public readonly details: Array<string>, public readonly japaneseDetails: Array<string>, public readonly koreanDetails: Array<string>) {
 		super(details.join('; '))
 		this.name = 'CatalogSearchValidationError'
 	}
@@ -129,8 +129,8 @@ const labelOverrides: Record<string, Record<string, string>> = {
 
 function localizedLabel(lang: SupportedLanguages, value: string, fallback?: string): string {
 	if (!value) return value
-	if (lang === 'ja') {
-		if (!fallback || fallback === value) throw new Error(`Missing Japanese catalog label: ${value}`)
+	if (lang === 'ja' || lang === 'ko') {
+		if (!fallback || fallback === value) throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} catalog label: ${value}`)
 		return fallback
 	}
 	return labelOverrides[lang]?.[value] ?? fallback ?? value
@@ -139,7 +139,7 @@ function localizedLabel(lang: SupportedLanguages, value: string, fallback?: stri
 function stringValues(value: unknown, name: string): Array<string> {
 	const values = value === undefined ? [] : Array.isArray(value) ? value : [value]
 	if (!values.every((item): item is string => typeof item === 'string')) {
-		throw new CatalogSearchValidationError([`${name} must be a string or an array of strings`], [`${name} は文字列または文字列の配列で指定してください。`])
+		throw new CatalogSearchValidationError([`${name} must be a string or an array of strings`], [`${name} は文字列または文字列の配列で指定してください。`], [`${name}: 문자열 또는 문자열 배열로 지정해 주세요.`])
 	}
 	return values
 }
@@ -151,10 +151,10 @@ function asStrings(value: unknown, name: string): Array<string> {
 		.map((item) => item.trim())
 		.filter(Boolean))]
 	if (parsed.length > maxFilterValues) {
-		throw new CatalogSearchValidationError([`${name} accepts at most ${maxFilterValues} values`], [`${name} に指定できる値は${maxFilterValues}個までです。`])
+		throw new CatalogSearchValidationError([`${name} accepts at most ${maxFilterValues} values`], [`${name} に指定できる値は${maxFilterValues}個までです。`], [`${name}: 최대 ${maxFilterValues}개의 값을 지정할 수 있습니다.`])
 	}
 	if (parsed.some((item) => item.length > maxFilterValueLength)) {
-		throw new CatalogSearchValidationError([`${name} values must be at most ${maxFilterValueLength} characters`], [`${name} の各値は${maxFilterValueLength}文字以内で指定してください。`])
+		throw new CatalogSearchValidationError([`${name} values must be at most ${maxFilterValueLength} characters`], [`${name} の各値は${maxFilterValueLength}文字以内で指定してください。`], [`${name}: 각 값은 ${maxFilterValueLength}자 이내로 지정해 주세요.`])
 	}
 	return parsed
 }
@@ -166,10 +166,10 @@ function firstString(value: unknown, name: string): string {
 function parseBoundedString(value: unknown, name: string, maxLength: number, rejectEmpty = false): string {
 	const parsed = firstString(value, name)
 	if (rejectEmpty && value !== undefined && !parsed) {
-		throw new CatalogSearchValidationError([`${name} cannot be empty`], [`${name} に空の値は指定できません。`])
+		throw new CatalogSearchValidationError([`${name} cannot be empty`], [`${name} に空の値は指定できません。`], [`${name}: 빈 값을 지정할 수 없습니다.`])
 	}
 	if (parsed.length > maxLength) {
-		throw new CatalogSearchValidationError([`${name} must be at most ${maxLength} characters`], [`${name} は${maxLength}文字以内で指定してください。`])
+		throw new CatalogSearchValidationError([`${name} must be at most ${maxLength} characters`], [`${name} は${maxLength}文字以内で指定してください。`], [`${name}: ${maxLength}자 이내로 지정해 주세요.`])
 	}
 	return parsed
 }
@@ -179,7 +179,7 @@ function parsePositiveInteger(value: unknown, fallback: number, name: string, ma
 	if (!raw) return fallback
 	const parsed = Number(raw)
 	if (!Number.isInteger(parsed) || parsed < 1 || (max !== undefined && parsed > max)) {
-		throw new CatalogSearchValidationError([`${name} must be an integer between 1 and ${max ?? 'infinity'}`], [`${name} は1以上${max === undefined ? '' : `${max}以下`}の整数で指定してください。`])
+		throw new CatalogSearchValidationError([`${name} must be an integer between 1 and ${max ?? 'infinity'}`], [`${name} は1以上${max === undefined ? '' : `${max}以下`}の整数で指定してください。`], [`${name}: 1 이상${max === undefined ? '' : ` ${max} 이하`}의 정수로 지정해 주세요.`])
 	}
 	return parsed
 }
@@ -189,7 +189,7 @@ function parseOptionalNumber(value: unknown, name: string): number | undefined {
 	if (!raw) return undefined
 	const parsed = Number(raw)
 	if (!Number.isFinite(parsed) || parsed < 0) {
-		throw new CatalogSearchValidationError([`${name} must be a non-negative number`], [`${name} は0以上の数値で指定してください。`])
+		throw new CatalogSearchValidationError([`${name} must be a non-negative number`], [`${name} は0以上の数値で指定してください。`], [`${name}: 0 이상의 수로 지정해 주세요.`])
 	}
 	return parsed
 }
@@ -199,7 +199,7 @@ function parseOptionalBoolean(value: unknown): boolean | undefined {
 	if (!raw) return undefined
 	if (raw === 'true' || raw === '1') return true
 	if (raw === 'false' || raw === '0') return false
-	throw new CatalogSearchValidationError(['hasAbility must be true or false'], ['hasAbility は true または false で指定してください。'])
+	throw new CatalogSearchValidationError(['hasAbility must be true or false'], ['hasAbility は true または false で指定してください。'], ['hasAbility: true 또는 false로 지정해 주세요.'])
 }
 
 function normalizeSearchText(value: unknown): string {
@@ -231,15 +231,15 @@ function pairCards(lang: SupportedLanguages): Array<CardPair> {
 	const cached = pairedCardsCache.get(lang)
 	if (cached) return cached
 	const localizedById = new Map(getCompiledCards(lang).map((card) => [card.id, card]))
-	if (lang === 'ja') {
+	if (lang === 'ja' || lang === 'ko') {
 		for (const canonical of getCompiledCards('en')) {
 			const localized = localizedById.get(canonical.id)
-			if (!localized?.name || !localized.image?.startsWith('https://game.pokemontcgpocket.app/ja/tcgp/') || !localized.set?.name) {
-				throw new Error(`Missing Japanese catalog card: ${canonical.id}`)
+			if (!localized?.name || !localized.image?.startsWith(`https://game.pokemontcgpocket.app/${lang}/tcgp/`) || !localized.set?.name) {
+				throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} catalog card: ${canonical.id}`)
 			}
 			for (const key of ['abilities', 'attacks']) {
 				for (const [index] of arrayValues(canonical[key]).entries()) {
-					if (!localized[key]?.[index]?.name) throw new Error(`Missing Japanese ${canonical.id}.${key}[${index}].name`)
+					if (!localized[key]?.[index]?.name) throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} ${canonical.id}.${key}[${index}].name`)
 				}
 			}
 		}
@@ -257,13 +257,13 @@ function pairSets(lang: SupportedLanguages): Map<string, SetPair> {
 	if (cached) return cached
 	const canonicalSets = getCompiledSets('en')
 	const localizedById = new Map(getCompiledSets(lang).map((set) => [set.id, set]))
-	if (lang === 'ja') {
+	if (lang === 'ja' || lang === 'ko') {
 		for (const canonical of canonicalSets) {
 			const localized = localizedById.get(canonical.id)
-			if (!localized?.name) throw new Error(`Missing Japanese catalog set: ${canonical.id}`)
+			if (!localized?.name) throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} catalog set: ${canonical.id}`)
 			for (const booster of arrayValues(canonical.boosters)) {
 				if (!arrayValues(localized.boosters).some(item => item.id === booster.id && item.name)) {
-					throw new Error(`Missing Japanese catalog booster: ${booster.id}`)
+					throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} catalog booster: ${booster.id}`)
 				}
 			}
 		}
@@ -366,14 +366,14 @@ function matchesAny(selected: Array<string>, actual: Array<string>): boolean {
 
 function validateRange(min: number | undefined, max: number | undefined, name: string): void {
 	if (min !== undefined && max !== undefined && min > max) {
-		throw new CatalogSearchValidationError([`${name} minimum cannot exceed maximum`], [`${name} の最小値は最大値以下にしてください。`])
+		throw new CatalogSearchValidationError([`${name} minimum cannot exceed maximum`], [`${name} の最小値は最大値以下にしてください。`], [`${name}: 최솟값은 최댓값보다 클 수 없습니다.`])
 	}
 }
 
 function parseSearch(query: QueryRecord): ParsedSearch {
 	const unknownKeys = Object.keys(query).filter((key) => !allowedSearchKeys.has(key))
 	if (unknownKeys.length > 0) {
-		throw new CatalogSearchValidationError(unknownKeys.map((key) => `unknown parameter: ${key}`), unknownKeys.map((key) => `未対応のパラメーターです: ${key}`))
+		throw new CatalogSearchValidationError(unknownKeys.map((key) => `unknown parameter: ${key}`), unknownKeys.map((key) => `未対応のパラメーターです: ${key}`), unknownKeys.map(key => `${key}: 지원하지 않는 매개변수입니다.`))
 	}
 	const parsed: ParsedSearch = {
 		q: parseBoundedString(query.q, 'q', 200),
@@ -430,7 +430,9 @@ function assertKnownExactValues(parsed: ParsedSearch, cards: Array<CardPair>): v
 	})
 	if (errors.length > 0) throw new CatalogSearchValidationError(errors, (['name', 'ability', 'attack'] as const)
 		.filter(field => parsed[field] && !exactFilter(cards, field, parsed[field]))
-		.map(field => `${field} に対応するカード名・ワザ名・特性名が見つかりません: ${parsed[field]}`))
+		.map(field => `${field} に対応するカード名・ワザ名・特性名が見つかりません: ${parsed[field]}`), (['name', 'ability', 'attack'] as const)
+		.filter(field => parsed[field] && !exactFilter(cards, field, parsed[field]))
+		.map(field => `${field}: 해당하는 카드 이름, 기술 이름 또는 특성 이름을 찾을 수 없습니다: ${parsed[field]}`))
 }
 
 function assertKnownValues(parsed: ParsedSearch, options: CatalogSearchOptions): void {
@@ -454,6 +456,9 @@ function assertKnownValues(parsed: ParsedSearch, options: CatalogSearchOptions):
 	if (errors.length > 0) throw new CatalogSearchValidationError(errors, checks.flatMap(([name, selected, available]) => {
 		const allowed = new Set(available.map(option => option.value))
 		return selected.filter(value => !allowed.has(value)).map(value => `${name} に未対応の値が指定されています: ${value}`)
+	}), checks.flatMap(([name, selected, available]) => {
+		const allowed = new Set(available.map(option => option.value))
+		return selected.filter(value => !allowed.has(value)).map(value => `${name}: 지원하지 않는 값입니다: ${value}`)
 	}))
 }
 
@@ -473,6 +478,12 @@ export function getCatalogSearchOptions(lang: SupportedLanguages): CatalogSearch
 	const attackCostTypes = new Map<string, CatalogOption>()
 	const setCounts = new Map<string, number>()
 	const boosterCounts = new Map<string, { count: number, label: string, setId: string }>()
+	for (const { canonical, localized } of setsById.values()) {
+		const localizedBoosters = new Map(arrayValues(localized.boosters).map(booster => [booster.id, booster]))
+		for (const booster of arrayValues(canonical.boosters)) {
+			boosterCounts.set(booster.id, { count: 0, label: localizedBoosters.get(booster.id)?.name ?? booster.name, setId: canonical.id })
+		}
+	}
 	let hasAbility = 0
 	let hpMin: number | null = null
 	let hpMax: number | null = null

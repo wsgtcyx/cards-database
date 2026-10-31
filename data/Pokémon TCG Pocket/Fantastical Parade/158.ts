@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/158",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/158"
     },
     name: {
         en: "Vivillon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Vivillon",
         "pt-br": "Vivillon",
         "zh-tw": "彩粉蝶",
-        ja: "ビビヨン"
+        ja: "ビビヨン",
+        ko: "비비용"
     },
     illustrator: "mingo",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Puponcho",
         "pt-br": "Spewpa",
         "zh-tw": "粉蝶蛹",
-        ja: "コフーライ"
+        ja: "コフーライ",
+        ko: "분떠도리"
     },
     description: {
         en: "This Pokémon was born in a land where flowers\nbloom. It scatters colorful, toxic scales from its\nwings during battle.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon wurde in einem Land geboren, in dem es Blumen gibt\nblühen. Es streut bunte, giftige Schuppen von sich\nFlügel während des Kampfes.",
         "pt-br": "Este Pokémon nasceu em uma terra onde as flores\nflorescer. Ele espalha escamas coloridas e tóxicas de seus\nasas durante a batalha.",
         "zh-tw": "誕生在鮮花盛開的土地上的寶可夢\n綻放。它從身上散落出彩色的有毒鱗片\n戰鬥時的翅膀。",
-        ja: "花咲く 土地で 生まれた。 色鮮やかな 毒の りんぷんを 翅から 散らして 戦う。"
+        ja: "花咲く 土地で 生まれた。 色鮮やかな 毒の りんぷんを 翅から 散らして 戦う。",
+        ko: "꽃 피는 땅에서 태어났다.\n독성을 띠는 화려한 날개 가루를\n흩뿌리면서 싸운다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Lebendiges Pulver",
                 "pt-br": "Pó Vívido",
                 "zh-tw": "鮮豔粉",
-                ja: "ビビッドパウダー"
+                ja: "ビビッドパウダー",
+                ko: "비비드파우더"
             },
             damage: 60,
             cost: ["Grass", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt vergiftet und schläft.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在中毒並沉睡。",
-                ja: "相手のバトルポケモンをどくとねむりにする。"
+                ja: "相手のバトルポケモンをどくとねむりにする。",
+                ko: "상대의 배틀 포켓몬을 독과 잠듦으로 만든다."
             }
         }],
     weaknesses: [{

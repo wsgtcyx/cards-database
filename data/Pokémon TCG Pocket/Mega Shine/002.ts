@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/002"
     },
     name: {
         en: "Pineco",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es spuckt eine Flüssigkeit aus, mit der es Baumrinde an seinen Körper klebt. Die Flüssigkeit härtet aus, wenn sie mit Luft in Berührung kommt.",
         "pt-br": "Ele cospe um fluido que usa para colar a casca da árvore em seu corpo. O fluido endurece quando toca o ar.",
         "zh-tw": "它會吐出一種液體，用來將樹皮黏在身體上。液體接觸空氣時會變硬。",
-        ja: "口から 吐き出す 液体は 木の皮を つける 接着剤。 空気に 触れると 固まるのだ。"
+        ja: "口から 吐き出す 液体は 木の皮を つける 接着剤。 空気に 触れると 固まるのだ。",
+        ko: "입에서 내뿜는 액체는\n나무껍질을 붙이는 접착제 역할을 한다.\n공기에 닿으면 굳어 버린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Herunterhängen",
                 "pt-br": "Dependurar",
                 "zh-tw": "垂吊",
-                ja: "ぶらさがる"
+                ja: "ぶらさがる",
+                ko: "매달리기"
             },
             damage: 10
         }

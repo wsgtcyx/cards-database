@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/059"
     },
     name: {
         en: "Hisuian Zorua",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Eine einst verstorbene Seele, die in Hisui zum Leben zurückgekehrt ist. Bezieht seine Kraft aus Ressentiments, die als Energie auf seinem Kopf aufsteigen und die Gestalt von Feinden annehmen. Auf diese Weise macht Zorua der anhaltenden Bosheit Luft.",
         "pt-br": "Uma alma que já partiu, voltou à vida em Hisui. Deriva o poder do ressentimento, que surge como energia acima de sua cabeça e assume a forma de inimigos. Dessa forma, Zorua exala malícia persistente.",
         "zh-tw": "曾經離去的靈魂，在翡翠中重生。從怨恨中獲得力量，怨恨在頭頂上以能量的形式升起，並呈現出敵人的形態。就這樣，索羅亞發洩了揮之不去的惡意。",
-        ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。"
+        ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。",
+        ko: "죽은 영혼이 히스이 땅에서 되살아났다.\n원한은 곧 힘이 되어 머리에 피어오르고\n상대의 모습으로 변하여 원한을 풀려 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Herumlaufen",
                 "pt-br": "Correr",
                 "zh-tw": "雀躍",
-                ja: "はしゃぐ"
+                ja: "はしゃぐ",
+                ko: "들뜸"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }
     ],

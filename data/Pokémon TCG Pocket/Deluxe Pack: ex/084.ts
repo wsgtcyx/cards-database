@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/084"
     },
     name: {
         en: "Squirtle",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
-        ja: "ゼニガメ"
+        ja: "ゼニガメ",
+        ko: "꼬부기"
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es seinen langen Hals in seinen Panzer zurückzieht, ist es\nspritzt Wasser mit kräftiger Kraft heraus.",
         "pt-br": "Quando ele retrai o longo pescoço para dentro da concha, ele\nesguicha água com força vigorosa.",
         "zh-tw": "當它把長脖子縮進殼裡時\n用強力噴出水。",
-        ja: "長い 首を 甲羅のなかに 引っこめるとき 勢いよく 水鉄砲を 発射する。"
+        ja: "長い 首を 甲羅のなかに 引っこめるとき 勢いよく 水鉄砲を 発射する。",
+        ko: "기다란 목을 등껍질 속에\n감춘 다음 기세 좋게\n물대포를 발사한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20,
             cost: ["Water"]

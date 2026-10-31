@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/092"
     },
     name: {
         en: "Mega Manectric ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Electrike",
         "zh-tw": "落雷獸",
         ja: "ラクライ",
-        ko: "Electrike"
+        ko: "썬더라이"
     },
     stage: "Stage1",
     attacks: [
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Acelerador de Relâmpago",
                 "zh-tw": "閃電暴衝",
                 ja: "イナズマアクセル",
-                ko: "Lightning Accelerator"
+                ko: "라이트닝액셀"
             },
             effect: {
                 en: "This attack does 30 more damage for each point you have gotten.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada ponto que você recebeu.",
                 "zh-tw": "增加自己已經獲得的分數×30點傷害。",
                 ja: "自分のすでにとったポイントの数×30ダメージ追加。",
-                ko: "This attack does 30 more damage for each point you have gotten."
+                ko: "자신이 이미 가져간 포인트의 수 × 30데미지를 추가한다."
             },
             damage: "80+"
         }

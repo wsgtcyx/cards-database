@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/023"
     },
     name: {
         en: "Genesect",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Ein von Team Plasma modifiziertes Käfer-Pokémon aus dem\nAltertum. Die Kanone auf seinem Rücken ist nun noch stärker.",
         "pt-br": "Este antigo Pokémon bug foi alterado pela Equipe Plasma. Eles atualizaram o canhão nas costas.",
         "zh-tw": "這種古老的昆蟲寶可夢被等離子隊改造了。他們升級了背上的大砲。",
-        ja: "３億年前に いた ポケモン。 プラズマ団に 改造 され 背中に 砲台を つけられた。"
+        ja: "３億年前に いた ポケモン。 プラズマ団に 改造 され 背中に 砲台を つけられた。",
+        ko: "3억 년 전에 있었던 포켓몬.\n플라스마단에게 개조당해\n등에 대포가 붙여졌다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Metallexplosion",
                 "pt-br": "Explosão de Metal",
                 "zh-tw": "金屬爆破",
-                ja: "メタルブラスト"
+                ja: "メタルブラスト",
+                ko: "메탈블라스트"
             },
             effect: {
                 en: "This attack does 20 more damage for each {M} Energy attached to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {M}-Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
                 "zh-tw": "該寶可夢每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。",
-                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。"
+                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。",
+                ko: "이 포켓몬의 {M}에너지의 개수 × 20데미지를 추가한다."
             },
             damage: "10+"
         }

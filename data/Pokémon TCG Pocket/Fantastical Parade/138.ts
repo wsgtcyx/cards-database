@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/138",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/138",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/138"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/138",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/138"
     },
     name: {
         en: "Tornadus",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Boreos",
         "pt-br": "Tornadus",
         "zh-tw": "龍捲雲",
-        ja: "トルネロス"
+        ja: "トルネロス",
+        ko: "토네로스"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Tornadus stößt massive Energie aus seinem Schwanz aus,\nschwere Stürme verursachen. Seine Kraft ist groß genug\nHäuser wegblasen.",
         "pt-br": "Tornadus expele energia massiva de sua cauda,\ncausando fortes tempestades. Seu poder é grande o suficiente\npara explodir casas.",
         "zh-tw": "龍捲風從尾部排出大量能量，\n造成嚴重的風暴。它的威力足夠大\n炸毀房屋。",
-        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。"
+        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。",
+        ko: "토네로스의 꼬리에서 뿜어져 나온\n에너지가 큰 폭풍을 일으킨다.\n민가를 날려버릴 정도의 힘이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Durchblasen",
                 "pt-br": "Soprar",
                 "zh-tw": "吹穿",
-                ja: "ふきぬける"
+                ja: "ふきぬける",
+                ko: "불어지나가기"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 40 de dano a mais.",
                 "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。",
-                ja: "場にスタジアムが出ているなら、40ダメージ追加。"
+                ja: "場にスタジアムが出ているなら、40ダメージ追加。",
+                ko: "필드에 스타디움이 나와 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

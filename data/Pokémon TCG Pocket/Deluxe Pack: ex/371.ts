@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/371",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/371",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/371",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/371"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/371",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/371"
 	},
 	name: {
         en: "Lugia ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lugia ex",
         "zh-tw": "洛奇亞ex",
         ja: "ルギアex",
+        ko: "루기아 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Elementarexplosion",
                 "pt-br": "Explosão Elemental",
                 "zh-tw": "元素衝擊",
-                ja: "エレメンタルブラスト"
+                ja: "エレメンタルブラスト",
+                ko: "엘리멘탈 블라스트"
             },
             damage: 180,
             cost: ["Fire", "Water", "Lightning"],
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Lege eine {R}-, {W}- und {L}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma energia {R}, {W} e {L} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R}、{W} 和 {L} 能量。",
-                ja: "このポケモンから{R}と{W}と{L}エネルギーを1個ずつトラッシュ。"
+                ja: "このポケモンから{R}と{W}と{L}エネルギーを1個ずつトラッシュ。",
+                ko: "이 포켓몬에서 {R}과 {W}과 {L}에너지를 1개씩 트래쉬한다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/063"
     },
     name: {
         en: "Ralts",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
-        ja: "ラルトス"
+        ja: "ラルトス",
+        ko: "랄토스"
     },
     illustrator: "mingo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist stark auf die Emotionen der Menschen abgestimmt\nund Pokémon. Es versteckt sich, wenn es Feindseligkeit spürt.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas\ne Pokémon. Ele se esconde se sentir hostilidade.",
         "zh-tw": "它高度契合人們的情緒\n和神奇寶貝。如果它感受到敵意，它就會隱藏起來。",
-        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。",
+        ko: "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Konfusstrahl",
                 "pt-br": "Raio da Confusão",
                 "zh-tw": "迷惑雷",
-                ja: "あやしいひかり"
+                ja: "あやしいひかり",
+                ko: "이상한빛"
             },
             cost: ["Psychic"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

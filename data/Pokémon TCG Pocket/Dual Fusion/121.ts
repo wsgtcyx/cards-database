@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/121"
     },
     name: {
         en: "Max Repel",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Sposta il Pokémon di Fase 2 attivo del tuo avversario nella sua panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
         de: "Wechsle das Aktive Phase-2-Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
         ja: "相手のバトル場の2進化ポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
-        ko: "Switch out your opponent's Active Stage 2 Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        ko: "상대 배틀필드의 2진화 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
     }
 };
 

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/031"
     },
     name: {
         en: "Cinderace",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Mit einem aus Flammen geformten Ball blendet Liberlo seine Gegner und hält sie auf Distanz.",
         "pt-br": "Usando uma bola feita de chamas, Cinderace cega seus oponentes e os mantém afastados.",
         "zh-tw": "閃焰王牌 使用由​​火焰製成的球來蒙蔽對手並將其拒之門外。",
-        ja: "炎で 作った ボールを 操って 相手を 牽制したり 目くらましに 使ったりする。"
+        ja: "炎で 作った ボールを 操って 相手を 牽制したり 目くらましに 使ったりする。",
+        ko: "불꽃으로 만든 볼을 움직여\n상대를 견제하거나\n눈속임에 사용하거나 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Feuerballschuss",
                 "pt-br": "Bicada de Bola de Fogo",
                 "zh-tw": "火球射擊",
-                ja: "ひのたまシュート"
+                ja: "ひのたまシュート",
+                ko: "불구슬슛"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢無法攻擊。",
-                ja: "次の自分の番、このポケモンはワザが使えない。"
+                ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             },
             damage: 120
         }

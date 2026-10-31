@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/006"
     },
     name: {
         en: "Pinsir",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Agarramento Compressor",
                 "zh-tw": "夾住",
                 ja: "はさむ",
-                ko: "Vise Grip"
+                ko: "찝기"
             },
             cost: [
                 "Grass"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Estes Pokémon se julgam de acordo com suas pinças. As pinças mais grossas e notáveis são mais populares com o gênero oposto.",
         "zh-tw": "會以角來判斷彼此的地位。頭頂兩側的角越是粗壯彎曲，就越能得到異性的愛戴。",
         ja: "ツノで 互いを 格付けする。 太く 立派な ツノを 持つ カイロスほど 異性に 人気。",
-        ko: "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender."
+        ko: "뿔로 서로의 등급을 매긴다.\n굵고 훌륭한 뿔을 가진\n쁘사이저일수록 이성에게 인기다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/066",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/066"
     },
     name: {
         en: "Fletchling",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fletchling",
         "zh-tw": "小箭雀",
         ja: "ヤヤコマ",
+        ko: "화살꼬빈",
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist normalerweise ruhig, aber sobald es in den Kampf eintritt,\nsein Hormonhaushalt verändert sich und es wird aggressiv.",
         "pt-br": "Este Pokémon normalmente é calmo mas quando entra em batalha\nseu equilíbrio hormonal muda e ele se torna agressivo.",
         "zh-tw": "這只寶可夢平時很冷靜，但一旦進入戰鬥，\n它的荷爾蒙平衡發生變化，變得具有攻擊性。",
-        ja: "普段は 穏やかな 気性だが 戦いになると ホルモンバランスが 変わり 攻撃的になる。"
+        ja: "普段は 穏やかな 気性だが 戦いになると ホルモンバランスが 変わり 攻撃的になる。",
+        ko: "평소에는 온순하지만\n싸움에 들어가면 호르몬의\n균형이 바뀌어 공격적이게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schneller Angriff",
                 "pt-br": "Ataque Rápido",
                 "zh-tw": "快速攻擊",
-                ja: "でんこうせっか"
+                ja: "でんこうせっか",
+                ko: "전광석화"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

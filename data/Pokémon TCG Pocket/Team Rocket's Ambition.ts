@@ -22,7 +22,8 @@ const set: Set = {
         "de": "https://game.pokemontcgpocket.app/de/tcgp/B4a/boosters/team-rockets-ambition/logo",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/boosters/team-rockets-ambition/logo",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/logo",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/logo"
     },
     serie: serie,
     cardCount: {
@@ -49,7 +50,8 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
-                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo.webp"
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/boosters/team-rockets-ambition/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
@@ -59,11 +61,15 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
-                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp"
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-08-27"
+    releaseDate: "2026-08-27",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B4a/symbol"
+	}
 }
 
 export default set

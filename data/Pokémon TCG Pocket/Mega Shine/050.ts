@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/050"
     },
     name: {
         en: "Revavroom",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
         "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
-        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。",
+        ko: "배기음을 내어 거세게 위협한다.\n원통형의 입을 통해 혀를 꺼내고는\n독액을 흩뿌린다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Metalltransport",
                 "pt-br": "Transporte Metálico",
                 "zh-tw": "金屬搬運",
-                ja: "メタルキャリー"
+                ja: "メタルキャリー",
+                ko: "메탈 캐리"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active {M} Pokémon with 1 of your Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du dein aktives {M}-Pokémon gegen 1 deiner Bank-Pokémon austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar seu Pokémon Ativo {M} por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "在你的回合中，你可以將你的活躍 {M} 寶可夢與你的 1 個後備寶可夢交換。",
-                ja: "自分の番に1回使える。自分のバトル場の{M}ポケモンを、ベンチポケモンと入れ替える。"
+                ja: "自分の番に1回使える。自分のバトル場の{M}ポケモンを、ベンチポケモンと入れ替える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 {M}포켓몬을 벤치 포켓몬과 교체한다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Furioses Flitzen",
                 "pt-br": "Investida Desgovernada",
                 "zh-tw": "暴躁衝刺",
-                ja: "あらくれダッシュ"
+                ja: "あらくれダッシュ",
+                ko: "우락부락대시"
             },
             damage: 60
         }

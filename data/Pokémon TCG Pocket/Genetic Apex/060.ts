@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/060"
     },
     name: {
         en: "Poliwhirl",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Quapsel",
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
-        ja: "ニョロモ"
+        ja: "ニョロモ",
+        ko: "발챙이"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

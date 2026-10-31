@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/140",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/140",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/140"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/140",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/140"
     },
     name: {
         en: "Crabominable",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Crabominable",
         "zh-tw": "好勝毛蟹",
         ja: "ケケンカニ",
+        ko: "모단단게",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
         ja: "マケンカニ",
+        ko: "오기지게",
     },
     description: {
         en: "Though its punches are powerful, this Pokémon's\nmovements are sluggish. It blows icy bubbles\nfrom its mouth to immobilize its opponents.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Obwohl seine Schläge mächtig sind, sind die dieses Pokémon\nBewegungen sind träge. Es bläst eisige Blasen\naus seinem Mund, um seine Gegner bewegungsunfähig zu machen.",
         "pt-br": "Embora seus socos sejam poderosos, a habilidade deste Pokémon\nos movimentos são lentos. Sopra bolhas geladas\nde sua boca para imobilizar seus oponentes.",
         "zh-tw": "雖然它的拳頭很強大，但這只神奇寶貝的\n動作遲緩。它吹出冰冷的泡泡\n從它的嘴裡發出來使對手動彈不得。",
-        ja: "パンチは 強力だが 動きが 遅い。 口から 氷の 泡を 吹いて 相手の 動きを 止める。"
+        ja: "パンチは 強力だが 動きが 遅い。 口から 氷の 泡を 吹いて 相手の 動きを 止める。",
+        ko: "펀치는 강력하지만 움직임이 둔하다.\n입에서 얼음 거품을 뿜어서\n상대의 움직임을 저지한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schlag der letzten Chance",
                 "pt-br": "Soco de última chance",
                 "zh-tw": "最後機會重拳",
-                ja: "ギリギリパンチ"
+                ja: "ギリギリパンチ",
+                ko: "아슬아슬펀치"
             },
             damage: "30+",
             cost: ["Fighting"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wenn die verbleibenden HP dieses Pokémon 30 oder weniger betragen, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o HP restante deste Pokémon for 30 ou menos, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果這只寶可夢的剩餘生命值在 30 以下，則這次攻擊造成的傷害增加 60 點。",
-                ja: "このポケモンの残りHPが30以下なら、60ダメージ追加。"
+                ja: "このポケモンの残りHPが30以下なら、60ダメージ追加。",
+                ko: "이 포켓몬의 남은 HP가 30 이하라면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

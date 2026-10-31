@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/025",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/025"
     },
     name: {
         en: "Grookey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Grookey",
         "zh-tw": "敲音猴",
         ja: "サルノリ",
+        ko: "흥나숭",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es greift mit schnellen Schlägen seines Stockes an.\nDa es mit erstaunlicher Geschwindigkeit zuschlägt, wird es\nimmer mehr aufgepumpt.",
         "pt-br": "Ele ataca com batidas rápidas de seu bastão.\nÀ medida que ataca com uma velocidade incrível, fica\ncada vez mais bombeado.",
         "zh-tw": "它用棍子快速擊打進行攻擊。\n當它以驚人的速度撞擊時，它得到了\n越來越抽。",
-        ja: "スティックの 連打で 攻撃。 すごい スピードで 叩くうちに どんどん テンションが 上がるのだ。"
+        ja: "スティックの 連打で 攻撃。 すごい スピードで 叩くうちに どんどん テンションが 上がるのだ。",
+        ko: "스틱으로 연타하여 공격한다.\n굉장한 속도로 치다 보면\n점점 텐션이 올라간다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlagen",
                 "pt-br": "Bater",
                 "zh-tw": "打",
-                ja: "たたく"
+                ja: "たたく",
+                ko: "때리기"
             },
             damage: 20,
             cost: ["Grass"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

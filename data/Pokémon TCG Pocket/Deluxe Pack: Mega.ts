@@ -22,7 +22,8 @@ const set: Set = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/boosters/deluxe-pack-mega/logo",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/logo",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/logo",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/boosters/deluxe-pack-mega/logo"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/boosters/deluxe-pack-mega/logo",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/logo"
     },
     serie: serie,
     cardCount: {
@@ -50,7 +51,7 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
@@ -61,11 +62,14 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
                 ja: "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-09-30"
+    releaseDate: "2026-09-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B4b/symbol"
+	}
 }
 
 export default set

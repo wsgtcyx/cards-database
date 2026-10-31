@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/026"
     },
     name: {
         en: "Raichu",
@@ -35,7 +36,8 @@ const card: Card = {
         "de": "Pikachu",
         "pt-br": "Pikachu",
         "zh-tw": "皮卡丘",
-        ja: "ピカチュウ"
+        ja: "ピカチュウ",
+        ko: "피카츄"
     },
     description: {
         en: "Its tail discharges electricity into the ground, protecting it from getting shocked.",

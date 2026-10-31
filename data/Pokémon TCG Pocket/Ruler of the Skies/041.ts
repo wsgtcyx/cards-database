@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/041",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/041"
     },
     name: {
         en: "Kyogre",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Man sagt, es habe die Meere vergrößert, indem es\nes regnen ließ. Es schlief in einem Meeresgraben.",
         "pt-br": "Diz-se que expandiu os mares causando inúmeras torrentes. Estava adormecido em uma fossa marinha.",
         "zh-tw": "據說會用降下\n大雨的能力擴張海洋。\n一直沉睡在海溝的底部。",
-        ja: "大雨を 降らせる 能力で 海を 広げたと 言われている。 海溝の 底で 眠っていた。"
+        ja: "大雨を 降らせる 能力で 海を 広げたと 言われている。 海溝の 底で 眠っていた。",
+        ko: "많은 비를 내리게 하는 능력으로\n바다를 넓혔다고 전해진다.\n해구의 밑바닥에서 잠들어 있었다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "潮汐爆破",
                 "it": "Mareggiata Rovinosa",
                 "de": "Gezeitenstoß",
-                ja: "タイダルブラスト"
+                ja: "タイダルブラスト",
+                ko: "타이달 블라스트"
             },
             effect: {
                 en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "pt-br": "Descarte 3 Energias {W} deste Pokémon, e este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。",
                 "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu.",
-                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のポケモン全員に50ダメージ。"
+                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のポケモン全員に50ダメージ。",
+                ko: "이 포켓몬에서 {W}에너지를 3개 트래쉬하고 상대의 포켓몬 전원에게 50데미지를 준다."
             }
         }
     ],

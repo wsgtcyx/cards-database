@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/051"
     },
     name: {
         en: "Iron Treads",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon wurde in den letzten Jahren gesichtet. Es ähnelt einem mysteriösen Objekt, das in einem alten Expeditionstagebuch beschrieben wird.",
         "pt-br": "Avistamentos deste Pokémon ocorreram nos últimos anos. Assemelha-se a um objeto misterioso descrito em um antigo diário de expedição.",
         "zh-tw": "近年來常有人目擊這種寶可夢。它類似於一本古老的探險日記中所描述的神秘物體。",
-        ja: "近年 目撃例が ある。 古い 探検記に 記された 謎の 物体に 似た ポケモン。"
+        ja: "近年 目撃例が ある。 古い 探検記に 記された 謎の 物体に 似た ポケモン。",
+        ko: "근년에 목격된 사례가 있다.\n오래된 탐험기에 기록된\n정체불명의 물체를 닮은 포켓몬."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rollen und loslassen",
                 "pt-br": "Role e solte",
                 "zh-tw": "放釋滾",
-                ja: "ローリングリリース"
+                ja: "ローリングリリース",
+                ko: "롤링릴리스"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano a mais para cada cara.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。此攻擊對每個頭造成 30 點額外傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 30데미지를 추가한다."
             },
             damage: "50+"
         }

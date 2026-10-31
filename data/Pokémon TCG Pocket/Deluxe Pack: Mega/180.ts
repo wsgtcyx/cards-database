@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/180",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/180"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/180",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/180"
     },
     name: {
         en: "Meowth",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Ama coisas reluzentes. Quando vê um objeto brilhante, a moeda dourada na sua cabeça brilha também.",
         "zh-tw": "非常喜歡耀眼的發光物。找到發光物時，不知為何額頭的金幣也會跟著發光。",
         ja: "眩しく 光るものが 大好き。 光るものを 見つけたとき なぜか 額の小判も 輝く。",
-        ko: "It loves things that sparkle. When it sees a shiny\nobject, the gold coin on its head shines, too."
+        ko: "눈부시게 빛나는 것을 매우 좋아한다.\n빛나는 것을 발견하면 어째선지\n이마에 있는 금화도 빛이 난다."
     },
     stage: "Basic",
     abilities: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Passos Folgados",
                 "zh-tw": "隨興起舞",
                 ja: "きままにステップ",
-                ko: "Carefree Steps"
+                ko: "멋대로 스텝"
             },
             effect: {
                 en: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Se qualquer dano for causado a este Pokémon por ataques, jogue uma moeda. Se sair cara, previna aquele dano.",
                 "zh-tw": "當這隻寶可夢受到招式的傷害時,自己擲1次硬幣。若為正面,則這隻寶可夢不會受到該傷害。",
                 ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
-                ko: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+                ko: "이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Sensação Boa",
                 "zh-tw": "好心情",
                 ja: "じょうきげん",
-                ko: "Feelin' Fine"
+                ko: "꿀기분"
             },
             cost: [
                 "Colorless"
@@ -95,7 +96,7 @@ const card: Card = {
                 "pt-br": "Compre carta.",
                 "zh-tw": "從自己的牌庫抽出張卡。",
                 ja: "自分の山札を1枚引く。",
-                ko: "Draw a card."
+                ko: "자신의 덱을 1장 뽑는다."
             }
         }
     ],

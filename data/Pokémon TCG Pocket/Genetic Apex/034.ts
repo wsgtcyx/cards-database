@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/034"
     },
     name: {
         en: "Charmeleon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "ヒトカゲ"
+        ja: "ヒトカゲ",
+        ko: "파이리"
     },
     attacks: [{
             cost: ["Fire", "Colorless", "Colorless"],

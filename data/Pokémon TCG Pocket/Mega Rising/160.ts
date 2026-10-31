@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/160",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/160",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/160",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/160"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/160",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/160"
     },
     name: {
         en: "Dragalge ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dragalge ex",
         "zh-tw": "毒藻龍ex",
         ja: "ドラミドロex",
+        ko: "드래캄 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
         ja: "クズモー",
+        ko: "수레기",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Giftpunkt",
                 "pt-br": "Ponto Venenoso",
                 "zh-tw": "毒點",
-                ja: "どくのトゲ"
+                ja: "どくのトゲ",
+                ko: "독가시"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, ist das angreifende Pokémon jetzt vergiftet.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, o Pokémon atacante ficará Envenenado.",
                 "zh-tw": "如果該神奇寶貝位於活動點並因對手神奇寶貝的攻擊而受到傷害，則攻擊的神奇寶貝現在會中毒。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 독으로 만든다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
                 "zh-tw": "龍鞭",
-                ja: "ドラゴンウィップ"
+                ja: "ドラゴンウィップ",
+                ko: "드래곤휩"
             },
             damage: 80,
             cost: ["Darkness", "Colorless"]
@@ -80,6 +86,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

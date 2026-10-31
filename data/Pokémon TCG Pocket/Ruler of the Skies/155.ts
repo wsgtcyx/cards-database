@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/155",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/155",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/155",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/155"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/155",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/155"
     },
     name: {
         en: "Rainbow Cave",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Regenbogenhöhle",
         "pt-br": "Caverna Arco-íris",
         "zh-tw": "虹色洞窟",
-        ko: "무지개동굴",
+        ko: "무지갯빛 동굴",
         ja: "にじいろの洞窟"
     },
     illustrator: "AYUMI ODASHIMA",
@@ -34,7 +35,8 @@ const card: Card = {
         "zh-tw": "雙方玩家在自己的回合時,可使用1次。將自己的能量區已產生的能量丟棄。這個情況下,抽出下一個能量。",
         "it": "Una sola volta durante il turno di ciascun giocatore, quel giocatore può scartare l'Energia generata nella sua Zona Energia. Se lo fa, verrà creata l'Energia successiva.",
         "de": "Einmal während des Zuges jedes Spielers kann jener Spieler die Energie, die in seinem Energiebereich generiert wurde, ablegen. Wenn er das macht, wird die nächste Energie generiert.",
-        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分のエネルギーゾーンに発生しているエネルギーをトラッシュ。その場合、次のエネルギーを出す。"
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分のエネルギーゾーンに発生しているエネルギーをトラッシュ。その場合、次のエネルギーを出す。",
+        ko: "서로의 플레이어는 자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에 발생한 에너지를 트래쉬한다. 그 경우, 다음 에너지를 내보낸다."
     },
     trainerType: "Stadium"
 };

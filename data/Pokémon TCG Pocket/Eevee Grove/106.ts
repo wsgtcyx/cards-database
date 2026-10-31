@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/106"
     },
     name: {
         en: "Gallade ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gallade ex",
         "zh-tw": "艾路雷朵ex",
         ja: "エルレイドex",
+        ko: "엘레이드 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
         ja: "キルリア",
+        ko: "킬리아",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Energiegeladene Klinge",
                 "pt-br": "Lâmina Energizada",
                 "zh-tw": "充能之刃",
-                ja: "エナジーブレード"
+                ja: "エナジーブレード",
+                ko: "에너지 블레이드"
             },
             damage: "70+",
             cost: ["Fighting", "Fighting"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

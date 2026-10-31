@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/102",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/102",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/102"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/102",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/102"
     },
     name: {
         en: "Mew ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mew ex",
         "zh-tw": "夢幻ex",
         ja: "ミュウex",
+        ko: "뮤 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
                 "zh-tw": "心理射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 20,
             cost: ["Psychic"]
@@ -51,7 +54,8 @@ const card: Card = {
                 "de": "Genom-Hacking",
                 "pt-br": "Hacking de genoma",
                 "zh-tw": "基因組黑客",
-                ja: "ゲノムハック"
+                ja: "ゲノムハック",
+                ko: "게놈핵"
             },
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
@@ -62,7 +66,8 @@ const card: Card = {
                 "de": "Wähle 1 Angriff des Aktiven Pokémon deines Gegners und verwende ihn als diesen Angriff.",
                 "pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
                 "zh-tw": "選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。",
-                ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
+                ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。",
+                ko: "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다."
             }
         }],
     weaknesses: [{

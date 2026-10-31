@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/033",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/033",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/033"
     },
     name: {
         en: "Starmie",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton.",
         "pt-br": "Starmie nada girando seu corpo em alta velocidade. Enquanto este Pokémon navega pelo oceano, vai absorvendo plânctons minúsculos.",
         "zh-tw": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。",
-        ja: "体を 高速で 回転させ 海を 泳ぎながら 小さな プランクトンを 吸収する。"
+        ja: "体を 高速で 回転させ 海を 泳ぎながら 小さな プランクトンを 吸収する。",
+        ko: "몸을 고속으로 회전시켜\n바다를 헤엄치며\n작은 플랑크톤을 흡수한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schnell",
                 "pt-br": "Ataque Veloz",
                 "zh-tw": "高速星星",
-                ja: "スピードスター"
+                ja: "スピードスター",
+                ko: "스피드스타"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
                 "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。",
-                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 기술의 데미지는 약점과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             },
             damage: 60
         }

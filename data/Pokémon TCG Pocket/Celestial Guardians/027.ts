@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/027",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/027"
     },
     name: {
         en: "Alolan Marowak",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Knogga",
         'pt-br': "Marowak de Alola",
         ja: "アローラガラガラ",
-        ko: "알로라텅구리",
+        ko: "알로라 텅구리",
         "zh-tw": "阿羅拉嘎啦嘎啦",
     },
     illustrator: "miki kudo",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
         ja: "カラカラ",
+        ko: "탕구리",
     },
     description: {
         en: "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",

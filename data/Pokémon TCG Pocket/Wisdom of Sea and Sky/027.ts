@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/027",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/027"
     },
     name: {
         en: "Cyndaquil",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
         ja: "ヒノアラシ",
+        ko: "브케인",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Er ist schüchtern und rollt sich immer zu einer Kugel zusammen.\nWenn es angegriffen wird, breitet es zum Schutz seinen Rücken aus.",
         "pt-br": "É tímido e sempre se enrola como uma bola.\nSe atacado, ele ergue as costas para proteção.",
         "zh-tw": "它膽小，總是把自己蜷縮成一團。\n如果受到攻擊，它會張開背部進行保護。",
-        ja: "臆病で いつも 体を まるめている。 襲われると 背中の 炎を 燃え上がらせて 身を守る。"
+        ja: "臆病で いつも 体を まるめている。 襲われると 背中の 炎を 燃え上がらせて 身を守る。",
+        ko: "겁이 많아서 늘 몸을 웅크리고\n있다. 습격당하면 등의 불꽃을\n타오르게 해서 몸을 보호한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Fackel",
                 "pt-br": "Sinalizador",
                 "zh-tw": "耀斑",
-                ja: "ほのお"
+                ja: "ほのお",
+                ko: "불꽃"
             },
             damage: 20,
             cost: ["Fire"]

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/091"
     },
     name: {
         en: "Bewear",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses Pokémon verfügt über immense\nMuskelkraft und ist äußerst gefährlich.\nSein Habitat ist generell Sperrgebiet.",
         "pt-br": "Este Pokémon imensamente perigoso possui uma força física avassaladora. Seu habitat geralmente está fora dos limites.",
         "zh-tw": "擁有壓倒性的肌肉力量，\n是非常危險的寶可夢。\n棲息地基本上是禁止進入。",
-        ja: "圧倒的な 筋力を 持つ 非常に 危険な ポケモン。 生息地は 基本 立ち入り禁止。"
+        ja: "圧倒的な 筋力を 持つ 非常に 危険な ポケモン。 生息地は 基本 立ち入り禁止。",
+        ko: "압도적인 근력을 가지는\n아주 위험한 포켓몬이다.\n서식지는 기본 출입금지다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dreifachschmetterer",
                 "pt-br": "Pancada Tripla",
                 "zh-tw": "三重粉碎",
-                ja: "トリプルスマッシュ"
+                ja: "トリプルスマッシュ",
+                ko: "트리플스매시"
             },
             effect: {
                 en: "Flip 3 coins. This attack does 50 damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 50 pontos de dano para cada cara.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 50 點傷害。",
-                ja: "コインを3回投げ、オモテの数×50ダメージ。"
+                ja: "コインを3回投げ、オモテの数×50ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 50데미지를 준다."
             },
             damage: "50x"
         }

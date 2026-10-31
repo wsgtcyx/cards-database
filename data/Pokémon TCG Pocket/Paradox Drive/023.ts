@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/023"
     },
     name: {
         en: "Greavard",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses freundliche Pokémon mag es nicht, allein zu sein. Schenken Sie ihm auch nur die geringste Aufmerksamkeit, und er wird Ihnen für immer folgen.",
         "pt-br": "Este Pokémon amigável não gosta de ficar sozinho. Preste a mínima atenção e ele o seguirá para sempre.",
         "zh-tw": "這種友善的寶可夢不喜歡獨處。即使是最輕微的關注，它也會永遠跟隨你。",
-        ja: "人懐っこくて 寂しがり。 ちょっと かまっただけでも いつまでも 後を ついてくるぞ。"
+        ja: "人懐っこくて 寂しがり。 ちょっと かまっただけでも いつまでも 後を ついてくるぞ。",
+        ko: "사람을 잘 따르며 외로움을 잘 탄다.\n조금만 관심을 줘도\n끝없이 뒤를 따라다닌다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Scharfe Fänge",
                 "pt-br": "Presa Afiada",
                 "zh-tw": "銳利之牙",
-                ja: "するどいキバ"
+                ja: "するどいキバ",
+                ko: "예리한이빨"
             },
             damage: 20
         }

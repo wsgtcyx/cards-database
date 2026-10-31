@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/006",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/006"
     },
     name: {
         en: "Cascoon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cascoon",
         "zh-tw": "盾甲繭",
         ja: "マユルド",
+        ko: "카스쿤",
     },
     illustrator: "GOSSAN",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
         ja: "ケムッソ",
+        ko: "개무소",
     },
     description: {
         en: "It never forgets any attack it endured while in the\ncocoon. After evolution, it seeks payback.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es vergisst nie einen Angriff, den es während seiner Zeit erlitten hat\nKokon. Nach der Evolution strebt es nach Rache.",
         "pt-br": "Ele nunca esquece nenhum ataque que sofreu enquanto estava no\ncasulo. Após a evolução, busca vingança.",
         "zh-tw": "它永遠不會忘記在戰場上所遭受的任何攻擊\n繭。進化後，它尋求回報。",
-        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。"
+        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。",
+        ko: "고치에 들어가 있는 사이에\n받은 공격은 진화해도\n잊지 않고 반드시 앙갚음한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Härten",
                 "pt-br": "Endurecer",
                 "zh-tw": "硬化",
-                ja: "かたくなる"
+                ja: "かたくなる",
+                ko: "단단해지기"
             },
             cost: ["Grass"],
             effect: {
@@ -68,13 +73,17 @@ const card: Card = {
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wenn dieser Schaden 40 oder weniger beträgt.",
                 "pt-br": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques se o dano for igual ou inferior a 40.",
                 "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。",
-                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。"
+                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。",
+                ko: "상대의 다음 차례에 이 포켓몬은 40이하인 기술의 데미지를 받지 않는다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

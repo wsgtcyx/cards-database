@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/021"
     },
     name: {
         en: "Flittle",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es verbringt seine Zeit damit, durch Ödland zu rennen. Wenn jemand seine geliebten Beeren stiehlt, wird er sie jagen und Rache üben.",
         "pt-br": "Ele passa o tempo correndo por terrenos baldios. Se alguém roubar suas queridas frutas, ele irá persegui-los e se vingar.",
         "zh-tw": "它花時間在荒地裡奔跑。如果有人偷了它心愛的漿果，它就會追捕並實施報復。",
-        ja: "荒れ地を 走りまわって 暮らす。 大好きな 木の実を 取られると 追いかけまわして 復讐する。"
+        ja: "荒れ地を 走りまわって 暮らす。 大好きな 木の実を 取られると 追いかけまわして 復讐する。",
+        ko: "황무지를 달리며 지낸다.\n좋아하는 나무열매를 빼앗기면\n쫓아와서 복수한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Psy Bolt",
                 "pt-br": "Raio Psíquico",
                 "zh-tw": "念力",
-                ja: "ねんりき"
+                ja: "ねんりき",
+                ko: "염동력"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 10
         }

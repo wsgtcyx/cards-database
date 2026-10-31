@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/049"
     },
     name: {
         en: "Team Rocket's Tinkatuff",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Sie wohnen in Haufen aus Metallschrott. Um die Stärke ihrer Hämmer zu testen, schlagen sie diese kräftig gegeneinander.",
         "pt-br": "Moram em pilhas de metais sucateados. Testam a força de seus martelos ao baté-los uns contra os outros.",
         "zh-tw": "棲息在堆滿破銅爛鐵的地方。為了測試錘子的強度，會和夥伴們激烈地敲打彼此。",
-        ja: "金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。"
+        ja: "金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。",
+        ko: "금속으로 가득한 고철더미를 거처로 삼는다.\n해머의 강도를 시험하기 위해\n동료끼리 격렬하게 부딪친다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Korkenzieherhieb",
                 "pt-br": "Soco Saca-rolha",
                 "zh-tw": "推擊",
-                ja: "どつく"
+                ja: "どつく",
+                ko: "쥐어박기"
             },
             damage: 50
         }

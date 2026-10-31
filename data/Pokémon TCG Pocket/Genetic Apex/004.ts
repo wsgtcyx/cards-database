@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/004"
     },
     name: {
         en: "Venusaur ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
-        ja: "フシギソウ"
+        ja: "フシギソウ",
+        ko: "이상해풀"
     },
     suffix: "EX",
     attacks: [{

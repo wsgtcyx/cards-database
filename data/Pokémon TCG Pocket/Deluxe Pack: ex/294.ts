@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/294",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/294",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/294",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/294"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/294",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/294"
 	},
 	name: {
 		en: "Bidoof",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Bidiza",
 		"pt-br": "Bidoof",
 		"zh-tw": "大牙狸",
-		ja: "ビッパ"
+		ja: "ビッパ",
+		ko: "비버니"
 	},
 	illustrator: "Sekio",
 	rarity: "One Diamond",

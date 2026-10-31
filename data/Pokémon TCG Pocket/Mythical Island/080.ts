@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/080",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/080"
     },
     name: {
         en: "Budding Expeditioner",
@@ -33,7 +34,7 @@ const card: Card = {
         de: "Nimm dein Mew-ex in der Aktiven Position auf deine Hand.",
         'pt-br': "Coloque seu Mew ex do Campo Ativo na sua mão.",
         ja: "自分のバトル場の「ミュウex」を手札にもどす。",
-        ko: "자신의 배틀필드의 「뮤 ex」 패로 되돌린다.",
+        ko: "자신의 배틀필드의 「뮤 ex」를 패로 되돌린다.",
         "zh-tw": "將活躍點中的 Mew ex 放入你的手牌中。"
     },
     trainerType: "Supporter",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/050",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/050"
     },
     name: {
         en: "Raichu",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Wenn die elektrischen Beutel in seinen Wangen vollständig aufgeladen sind, stellen sich beide Ohren gerade auf.",
         "pt-br": "Se as bolsas elétricas em suas bochechas ficarem totalmente carregadas, ambas as orelhas ficarão retas.",
         "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。",
-        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。"
+        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。",
+        ko: "양 볼의 전기 주머니에 모인\n전기가 가득 차게 되면\n두 귀가 곧게 선다."
     },
     abilities: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "進化衝擊",
                 "it": "Evoshock",
                 "de": "Evoschock",
-                ja: "エボルショック"
+                ja: "エボルショック",
+                ko: "이볼브쇼크"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }
     ],
@@ -87,7 +91,8 @@ const card: Card = {
                 de: "Elektroball",
                 "pt-br": "Bola Elétrica",
                 "zh-tw": "電球",
-                ja: "エレキボール"
+                ja: "エレキボール",
+                ko: "일렉트릭볼"
             },
             damage: 50
         }

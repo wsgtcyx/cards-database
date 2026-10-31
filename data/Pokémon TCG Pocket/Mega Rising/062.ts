@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/062",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/062"
     },
     name: {
         en: "Simipour",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Simipour",
         "zh-tw": "冷水猿",
         ja: "ヒヤッキー",
+        ko: "앗차키",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Panpour",
         "zh-tw": "冷水猴",
         ja: "ヒヤップ",
+        ko: "앗차프",
     },
     description: {
         en: "It prefers places with clean water. When its tuft runs\nlow, it replenishes it by siphoning up water with\nits tail.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es bevorzugt Orte mit sauberem Wasser. Wenn sein Büschel läuft\nniedrig ist, füllt es ihn wieder auf, indem es Wasser mit ansaugt\nsein Schwanz.",
         "pt-br": "Prefere locais com água limpa. Quando seu tufo corre\nbaixo, ele o reabastece sugando água com\nsua cauda.",
         "zh-tw": "它更喜歡有乾淨水源的地方。當它的簇絨運行時\n低，它通過吸水來補充它\n它的尾巴。",
-        ja: "水が きれいな 場所を 好む。 頭に ためこんだ 水が減ると 尻尾から 吸いあげて 補給。"
+        ja: "水が きれいな 場所を 好む。 頭に ためこんだ 水が減ると 尻尾から 吸いあげて 補給。",
+        ko: "물이 깨끗한 장소를 좋아한다.\n머리에 모아둔 물이 줄어들면\n꼬리에서 빨아올려 보급한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wut-Swipes",
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "狂怒橫掃",
-                ja: "みだれひっかき"
+                ja: "みだれひっかき",
+                ko: "마구할퀴기"
             },
             damage: "40×",
             cost: ["Water", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 40 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 40 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
-                ja: "コインを3回投げ、オモテの数×40ダメージ。"
+                ja: "コインを3回投げ、オモテの数×40ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 40데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/035"
     },
     name: {
         en: "Beheeyem",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Elgyem",
         "zh-tw": "小灰怪",
         ja: "リグレー",
+        ko: "리그레",
     },
     description: {
         en: "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",

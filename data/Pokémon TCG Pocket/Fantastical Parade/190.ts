@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/190",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/190",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/190"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/190",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/190"
     },
     name: {
         en: "Diantha",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Diantha",
         "pt-br": "Diantha",
         "zh-tw": "卡露妮",
-        ja: "カルネ"
+        ja: "カルネ",
+        ko: "카르네"
     },
     illustrator: "saino misaki",
     rarity: "Two Star",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Heile 90 Schaden von 1 deiner {P}-Pokémon, an das 2 oder mehr {P}-Energien angelegt sind. Wenn du auf diese Weise Schaden geheilt hast, wirf 2 {P}-Energie von diesem Pokémon ab.",
         "pt-br": "Cure 90 de dano de 1 dos seus Pokémon {P} que tenha 2 ou mais Energias {P} anexadas. Se você curou algum dano dessa forma, descarte 2 {P} Energias desse Pokémon.",
         "zh-tw": "你的 1 只附加有 2 個或更多 {P} 能量的 {P} 神奇寶貝可治療 90 點傷害。如果你以這種方式治癒了任何傷害，則丟棄該神奇寶貝的 2 個 {P} 能量。",
-        ja: "{P}エネルギーが2個以上ついている自分の{P}ポケモン1匹のHPを90回復。その後、そのポケモンから{P}エネルギーを2個トラッシュ。"
+        ja: "{P}エネルギーが2個以上ついている自分の{P}ポケモン1匹のHPを90回復。その後、そのポケモンから{P}エネルギーを2個トラッシュ。",
+        ko: "{P}에너지가 2개 이상 붙어 있는 자신의 {P}포켓몬 1마리의 HP를 90회복. 그 뒤, 그 포켓몬에서 {P}에너지를 2개 트래쉬한다."
     },
     trainerType: "Supporter"
 };

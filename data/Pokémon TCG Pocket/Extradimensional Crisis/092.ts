@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/092",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/092"
     },
     name: {
         en: "Frogadier",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
         ja: "ゲコガシラ",
+        ko: "개굴반장",
     },
     illustrator: "Souichirou Gunjima",
     category: "Pokemon",
@@ -35,6 +37,7 @@ const card: Card = {
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
         ja: "ケロマツ",
+        ko: "개구마르",
     },
     description: {
         en: "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away.",
@@ -44,7 +47,8 @@ const card: Card = {
         "de": "Es kann mit Blasen bedeckte Kieselsteine präzise werfen\nKontrolle und trifft leere Dosen aus einer Entfernung von bis zu dreißig Metern.",
         "pt-br": "Ele pode lançar pedras cobertas de bolhas com precisão\ncontrole, atingindo latas vazias a até trinta metros de distância.",
         "zh-tw": "它可以精確地投擲覆蓋著氣泡的鵝卵石\n控制，擊中一百英尺外的空罐。",
-        ja: "泡で 包んだ 小石を 投げる 技を 使う。３０メートル 先の 空き缶に 当てる コントロール。"
+        ja: "泡で 包んだ 小石を 投げる 技を 使う。３０メートル 先の 空き缶に 当てる コントロール。",
+        ko: "거품으로 싸인 돌멩이를 던지는\n기술을 쓴다. 30m 앞에 있는\n빈 캔을 맞출 정도로 컨트롤이 좋다."
     },
     stage: "Stage1",
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "de": "Wassertropfen",
                 "pt-br": "Gotejamento de água",
                 "zh-tw": "水滴",
-                ja: "みずきり"
+                ja: "みずきり",
+                ko: "물수제비"
             },
             damage: 30,
             cost: ["Colorless"]

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/025"
     },
     name: {
         en: "Electivire",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses Pokémon drückt die Spitzen seines Schwanzes auf einen Gegner und sendet sofort über 20.000 Volt Hochspannungsstrom durch ihn hindurch.",
         "pt-br": "Este Pokémon pressiona as pontas de suas caudas sobre um oponente e envia instantaneamente mais de 20.000 volts de eletricidade de alta voltagem através dele.",
         "zh-tw": "這隻寶可夢將尾巴尖壓向對手，瞬間將超過 20,000 伏特的高壓電傳送到對手身上。",
-        ja: "相手に 尻尾の先を 押しつけ 瞬時に ２万ボルト 以上の 高圧 電流を 送りこむ。"
+        ja: "相手に 尻尾の先を 押しつけ 瞬時に ２万ボルト 以上の 高圧 電流を 送りこむ。",
+        ko: "상대에게 꼬리 끝을 밀어붙여\n순식간에 2만 볼트 이상의\n고압 전류를 흘려보낸다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zündender Donner",
                 "pt-br": "Trovão Incendiário",
                 "zh-tw": "爆熱雷電",
-                ja: "ばくねつサンダー"
+                ja: "ばくねつサンダー",
+                ko: "폭열썬더"
             },
             effect: {
                 en: "If Magmortar is on your Bench, this attack does 70 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn sich Magbrant auf deiner Bank befindet, fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se Magmortar estiver no seu banco, este ataque causa 70 de dano a mais.",
                 "zh-tw": "如果 鴨嘴炎獸 在你的替補席上，則此攻擊會造成 70 點額外傷害。",
-                ja: "自分のベンチに「ブーバーン」がいるなら、70ダメージ追加。"
+                ja: "自分のベンチに「ブーバーン」がいるなら、70ダメージ追加。",
+                ko: "자신의 벤치에 「마그마번」이 있다면 70데미지를 추가한다."
             },
             damage: "50+"
         }

@@ -39,7 +39,8 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
-                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/boosters/ruler-of-the-skies/logo.webp"
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/boosters/ruler-of-the-skies/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
@@ -49,11 +50,18 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
-                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp"
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-07-30"
+    releaseDate: "2026-07-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B4/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B4/logo"
+	}
 }
 
 export default set

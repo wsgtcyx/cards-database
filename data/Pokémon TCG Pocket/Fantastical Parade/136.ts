@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/136",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/136"
     },
     name: {
         en: "Slaking",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Letarking",
         "pt-br": "Slaking",
         "zh-tw": "請假王",
-        ja: "ケッキング"
+        ja: "ケッキング",
+        ko: "게을킹"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Muntier",
         "pt-br": "Vigoroth",
         "zh-tw": "過動猿",
-        ja: "ヤルキモノ"
+        ja: "ヤルキモノ",
+        ko: "발바로"
     },
     description: {
         en: "This Pokémon lives lying on its side. It only\nrolls over and moves when there is no more\ngrass to eat.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon liegt auf der Seite. Es nur\nrollt um und bewegt sich, wenn nichts mehr da ist\nGras zum Essen.",
         "pt-br": "Este Pokémon vive deitado de lado. É apenas\nrola e se move quando não há mais\ngrama para comer.",
         "zh-tw": "這只寶可夢側躺著生活。它僅\n當沒有更多的時候翻滾並移動\n草來吃。",
-        ja: "寝転がったまま 生活 する。 まわりに 食べる 草が なくなると ようやく 寝返りをして 動く。"
+        ja: "寝転がったまま 生活 する。 まわりに 食べる 草が なくなると ようやく 寝返りをして 動く。",
+        ko: "뒹굴면서 생활한다.\n주변에 먹을 풀이 없어지면\n그제야 뒤척여서 움직인다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Schlafgewohnheit",
                 "pt-br": "Hábito de cochilar",
                 "zh-tw": "打瞌睡的習慣",
-                ja: "いねむりぐせ"
+                ja: "いねむりぐせ",
+                ko: "조는 버릇"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Jedes Mal, wenn du 1 Energie aus dem Energiebereich an dieses Pokémon anlegst und es sich in der Aktiven Position befindet, ist dieses Pokémon jetzt schläft.",
                 "pt-br": "Enquanto este Pokémon estiver no Campo Ativo, sempre que você ligar uma Energia da sua Zona de Energia a ele, ele agora estará Adormecido.",
                 "zh-tw": "只要該神奇寶貝位於活動點，每當您從能量區向其附加能量時，它就會處於睡眠狀態。",
-                ja: "このポケモンがバトル場にいるかぎり、自分のエネルギーゾーンからこのポケモンにエネルギーをつけるたび、このポケモンをねむりにする。"
+                ja: "このポケモンがバトル場にいるかぎり、自分のエネルギーゾーンからこのポケモンにエネルギーをつけるたび、このポケモンをねむりにする。",
+                ko: "이 포켓몬이 배틀필드에 있는 한, 자신의 에너지존에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬을 잠듦으로 만든다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Knuckle-Sandwich",
                 "pt-br": "Sanduíche de junta",
                 "zh-tw": "指節三明治",
-                ja: "グーパンチ"
+                ja: "グーパンチ",
+                ko: "묵펀치"
             },
             damage: 150,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -92,7 +99,8 @@ const card: Card = {
                 "de": "Lege eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的隨機能量。",
-                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

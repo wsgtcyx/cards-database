@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/043",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/043"
     },
     name: {
         en: "Mienfoo",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
-        ja: "コジョフー"
+        ja: "コジョフー",
+        ko: "비조푸"
     },
     illustrator: "yuu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Obwohl klein, ist Mienfoos Temperament wild.\nJedes Lebewesen, das sich Mienfoo unvorsichtig nähert\nwird mit einer Flut anmutiger Angriffe begrüßt.",
         "pt-br": "Embora pequeno, o temperamento de Mienfoo é feroz.\nQualquer criatura que se aproxime de Mienfoo descuidadamente\nserá recebido com uma enxurrada de ataques elegantes.",
         "zh-tw": "米恩富雖然個子小，但性情卻很兇猛。\n任何不小心接近 Mienfoo 的生物\n將會受到一連串優雅的攻擊。",
-        ja: "小さくても 気性は 荒い。 油断して 近づく 相手には 華麗な 連打を おみまいする。"
+        ja: "小さくても 気性は 荒い。 油断して 近づく 相手には 華麗な 連打を おみまいする。",
+        ko: "작아도 기질은 거칠다.\n방심하고 다가간 상대에게\n화려한 연타를 먹인다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Hacken",
                 "pt-br": "Cortar",
                 "zh-tw": "劈",
-                ja: "チョップ"
+                ja: "チョップ",
+                ko: "촙"
             },
             damage: 30,
             cost: ["Fighting"]

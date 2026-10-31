@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/001",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/001"
     },
     name: {
         en: "Pinsir",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pinsir",
         "zh-tw": "凱羅斯",
         ja: "カイロス",
+        ko: "쁘사이저",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon greift seine Beute mit seiner Zange an\nund spaltet dann entweder die Beute in zwei Hälften oder schleudert sie\nes weg.",
         "pt-br": "Este Pokémon aperta suas pinças sobre sua presa\ne então divide a presa ao meio ou a arremessa\nisso embora.",
         "zh-tw": "這只神奇寶貝用鉗子夾住獵物\n然後要么把獵物劈成兩半，要么把獵物扔出去\n把它帶走。",
-        ja: "ツノで 獲物を 挟みこみ そのまま まっぷたつに するか 強引に 投げ飛ばしてしまう。"
+        ja: "ツノで 獲物を 挟みこみ そのまま まっぷたつに するか 強引に 投げ飛ばしてしまう。",
+        ko: "뿔로 먹이를 찔러 넣어\n그대로 두 동강으로 만들거나\n강제로 던져버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "X-Schere",
                 "pt-br": "Tesoura X",
                 "zh-tw": "X型剪刀",
-                ja: "シザークロス"
+                ja: "シザークロス",
+                ko: "시저크로스"
             },
             damage: "50+",
             cost: ["Grass", "Grass", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
-                ja: "コインを1回投げオモテなら、50ダメージ追加。"
+                ja: "コインを1回投げオモテなら、50ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

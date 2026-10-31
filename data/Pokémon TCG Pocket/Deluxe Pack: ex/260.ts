@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/260",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/260",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/260",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/260"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/260",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/260"
     },
     name: {
         en: "Magearna",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Magearna",
         "zh-tw": "瑪機雅娜",
         ja: "マギアナ",
+        ko: "마기아나",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es synchronisiert sein Bewusstsein mit anderen\nihre Gefühle zu verstehen. Diese Fakultät macht\nEs ist nützlich, um sich um Menschen zu kümmern.",
         "pt-br": "Ele sincroniza sua consciência com outras pessoas\npara entender seus sentimentos. Esta faculdade faz\né útil para cuidar das pessoas.",
         "zh-tw": "它將自己的意識與其他人同步\n了解他們的感受。這個師資力量使得\n它對於照顧人很有用。",
-        ja: "意識を 同調させて 相手の 気持ちを 理解。 人の お世話を するのに 便利な 能力。"
+        ja: "意識を 同調させて 相手の 気持ちを 理解。 人の お世話を するのに 便利な 能力。",
+        ko: "의식을 동조시켜 상대의\n마음을 이해한다. 사람을\n도울 때 편리한 능력이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Silberne Kanone",
                 "pt-br": "Canhão Prateado",
                 "zh-tw": "銀炮",
-                ja: "シルバーカノン"
+                ja: "シルバーカノン",
+                ko: "실버캐논"
             },
             damage: "40+",
             cost: ["Metal", "Metal"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners über eine Fähigkeit verfügt, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver uma Habilidade, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢擁有能力，則這次攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンが特性を持っているなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンが特性を持っているなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 특성을 가지고 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

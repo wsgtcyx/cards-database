@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/048"
     },
     name: {
         en: "Primarina",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Brionne",
         "zh-tw": "花漾海獅",
         ja: "オシャマリ",
+        ko: "키요공",
     },
     description: {
         en: "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",

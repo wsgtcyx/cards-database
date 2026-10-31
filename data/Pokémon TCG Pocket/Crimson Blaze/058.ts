@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/058"
     },
     name: {
         en: "Porygon-Z",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Porygon-Z",
         "pt-br": "Porygon-Z",
         "zh-tw": "多邊獸Ｚ",
-        ja: "ポリゴンZ"
+        ja: "ポリゴンZ",
+        ko: "폴리곤Z"
     },
     illustrator: "Shibuzoh.",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Porygon2",
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
-        ja: "ポリゴン2"
+        ja: "ポリゴン2",
+        ko: "폴리곤2"
     },
     description: {
         en: "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z's behavior.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Porygon-Z hatte ein Programm installiert, um dies zu ermöglichen\nBewegen Sie sich zwischen den Dimensionen, aber auch das Programm\nverursachte Instabilität im Verhalten von Porygon-Z.",
         "pt-br": "Porygon-Z tinha um programa instalado para permitir\nmover-se entre dimensões, mas o programa também\ncausou instabilidade no comportamento de Porygon-Z.",
         "zh-tw": "Porygon-Z 安裝了一個程序，允許它\n在維度之間移動，但程序也\n導致 Porygon-Z 行為不穩定。",
-        ja: "異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。"
+        ja: "異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。",
+        ko: "다른 공간에 드나들 수 있는\n프로그램을 추가한 결과\n움직임이 불안정해졌다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Cyberjack",
                 "pt-br": "Cyberjack",
                 "zh-tw": "網絡劫持",
-                ja: "サイバージャック"
+                ja: "サイバージャック",
+                ko: "사이버잭"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff verursacht 20 weitere Schadenspunkte für jede Trainerkarte im Deck deines Gegners.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada carta de Treinador no baralho do seu oponente.",
                 "zh-tw": "此攻擊對對手牌組中的每張訓練家卡造成 20 點額外傷害。",
-                ja: "相手の山札にあるトレーナーズの枚数×20ダメージ追加。"
+                ja: "相手の山札にあるトレーナーズの枚数×20ダメージ追加。",
+                ko: "상대의 덱에 있는 트레이너스의 장수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/013"
     },
     name: {
         en: "Team Rocket's Lapras",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Dieses intelligente Pokémon versteht die Sprache der Menschen und liebt es, mit ihnen auf dem Rücken über das Meer zu schwimmen.",
         "pt-br": "Muito inteligente e capaz de entender a fala humana, adora nadar no mar com pessoas em suas costas.",
         "zh-tw": "有著能夠理解人類語言的高度智慧，是喜歡在背上載著人類在大海游泳的寶可夢。",
-        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。"
+        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。",
+        ko: "인간의 말을 이해하는\n높은 지능을 가졌으며 등에 사람을 태우고\n바다를 헤엄치는 것을 좋아하는 포켓몬."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Grausamer Strudel",
                 "pt-br": "Redemoinho Cruel",
                 "zh-tw": "冷酷漩渦",
-                ja: "れいこくなうず"
+                ja: "れいこくなうず",
+                ko: "냉혹한회오리"
             },
             effect: {
                 en: "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mehr Energien angelegt sind als an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver mais Energia ligada a ele do que o Pokémon Ativo do seu oponente, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上的能量的數量,比對手的戰鬥寶可夢身上的能量的數量多,則增加40點傷害。",
-                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、40ダメージ追加。"
+                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、40ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 개수가 상대 배틀 포켓몬의 에너지의 개수보다 많다면 40데미지를 추가한다."
             },
             damage: "40+"
         }

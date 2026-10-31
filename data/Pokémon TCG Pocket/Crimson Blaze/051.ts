@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/051",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/051"
     },
     name: {
         en: "Steelix",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Stahlos",
         "pt-br": "Steelix",
         "zh-tw": "大鋼蛇",
-        ja: "ハガネール"
+        ja: "ハガネール",
+        ko: "강철톤"
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Onix",
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
-        ja: "イワーク"
+        ja: "イワーク",
+        ko: "롱스톤"
     },
     description: {
         en: "It is thought its body transformed as a result of\niron accumulating internally from swallowing soil.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es wird angenommen, dass sich sein Körper dadurch verändert hat\nEisen, das sich durch das Verschlucken von Erde im Inneren ansammelt.",
         "pt-br": "Pensa-se que seu corpo se transformou como resultado de\nferro se acumulando internamente ao engolir terra.",
         "zh-tw": "人們認為它的身體由於\n鐵因吞嚥土壤而在內部積聚。",
-        ja: "土と 一緒に 飲みこんだ 鉄分が 溜まっていって 体が 変化したとも 考えられる。"
+        ja: "土と 一緒に 飲みこんだ 鉄分が 溜まっていって 体が 変化したとも 考えられる。",
+        ko: "흙과 함께 삼킨 강철이\n축적되어 몸이 변화한 것이라\n여겨지고 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Metallverteidiger",
                 "pt-br": "Defensor Metálico",
                 "zh-tw": "金屬後衛",
-                ja: "メタルディフェンダー"
+                ja: "メタルディフェンダー",
+                ko: "메탈디펜더"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon não terá Fraqueza.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝沒有弱點。",
-                ja: "次の相手の番、このポケモンの弱点を、すべてなくす。"
+                ja: "次の相手の番、このポケモンの弱点を、すべてなくす。",
+                ko: "상대의 다음 차례에 이 포켓몬의 약점을 모두 없앤다"
             }
         }],
     weaknesses: [{

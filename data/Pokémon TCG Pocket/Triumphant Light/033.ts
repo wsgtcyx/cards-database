@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/033"
     },
     name: {
         en: "Gengar",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
         ja: "ゴースト",
+        ko: "고우스트",
     },
     description: {
         en: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",

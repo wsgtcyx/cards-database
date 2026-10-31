@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/072"
     },
     name: {
         en: "Grumpig",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Spoink",
         "zh-tw": "跳跳豬",
         ja: "バネブー",
+        ko: "피그점프",
     },
     description: {
         en: "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",

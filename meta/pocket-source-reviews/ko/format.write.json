@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "operation": "remove space-before-tab indentation only",
+  "files": [
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Team Rocket's Ambition.ts",
+      "beforeSha256": "427eda4115177df04c484345d40b3252d675d1ec18021ddec0bd073b71616ad0",
+      "afterSha256": "c45fd8985feca4bb3067de206975c98e74ea6bdbd1acbb39bf6f9fb2d6e6f012"
+    },
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Deluxe Pack: Mega.ts",
+      "beforeSha256": "025544b5e12e2ba4edfef233d9fc62dc083c73bd2b6fe695912a48bf56cd5337",
+      "afterSha256": "fdef6d7db8f5a2e9e89d24c0d12881aeb43a49609a8f9d29c18343f9c5939f88"
+    },
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Special Pack: First Partners.ts",
+      "beforeSha256": "6a83891b9eeed27807bfa62ac90c51657561be716cead3b566b54f7d801acf3f",
+      "afterSha256": "ff80b2cbb378ee25236e78f14f08b83b48fda9cc2f315e6d8f53ccac3e2e87b1"
+    },
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Ruler of the Skies.ts",
+      "beforeSha256": "676777e192df2913bb002688949afb3530acae4b3b53817adc31b92d6a2bc108",
+      "afterSha256": "a6ce16233f6b23ddeda8f7666092a52e396eb1bfddaa725de4cbe5530c77701e"
+    },
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Promos-B.ts",
+      "beforeSha256": "1e919688de64e5f5a07655f4ebd8bb3ca88382668722084aab8cbf4076ce8207",
+      "afterSha256": "336bc628f3d80591fad8fb8f4c3259f2e5c5cced5a717a687b9bb657c46536e8"
+    },
+    {
+      "file": "data/Pok\u00e9mon TCG Pocket/Dual Fusion.ts",
+      "beforeSha256": "6e3f3a14f824ba5b14d480d9d77104223d87d34cce952019c1397e434ee6ef68",
+      "afterSha256": "f24eb768ba742c0417408d3376ec66f76cbe00c5bffa3a8d1a4aa5a8ca1ce33e"
+    }
+  ]
+}

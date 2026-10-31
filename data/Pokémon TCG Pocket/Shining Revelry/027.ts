@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/027",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/027"
     },
     name: {
         en: "Pawmo",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pamo",
         "pt-br": "Pawmi",
         "zh-tw": "布撥",
-        ja: "パモ"
+        ja: "パモ",
+        ko: "빠모"
     },
     description: {
         en: "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",

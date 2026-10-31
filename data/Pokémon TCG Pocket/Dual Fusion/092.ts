@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/092"
     },
     name: {
         en: "Dialga",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Rugido do Tempo",
                 "zh-tw": "時光咆哮",
                 ja: "ときのほうこう",
-                ko: "Roar of Time"
+                ko: "시간의포효"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "Descarte a carta de cima do baralho do seu oponente.",
                 "zh-tw": "將對手的牌庫上方張卡丟棄。",
                 ja: "相手の山札を上から1枚トラッシュ。",
-                ko: "Discard the top card of your opponent's deck."
+                ko: "상대의 덱을 위에서부터 1장 트래쉬한다."
             }
         }
     ],
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "Um Pokémon mencionado em uma lenda. Dizem que o tempo começou a passar quando Dialga nasceu.",
         "zh-tw": "因為帝牙盧卡的誕生，時間才開始流動，是有著如此傳說的寶可夢。",
         ja: "ディアルガが 生まれたことで 時間が 動き出したという 伝説を 持つ ポケモン。",
-        ko: "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born."
+        ko: "디아루가가 태어남으로써\n시간이 움직이기 시작했다는\n전설을 가진 포켓몬이다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/065"
     },
     name: {
         en: "Noctowl",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
         ja: "ホーホー",
+        ko: "부우부",
     },
     description: {
         en: "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",

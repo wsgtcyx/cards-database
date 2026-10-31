@@ -18,7 +18,7 @@ const config = JSON.parse(fs.readFileSync(path.resolve(arg('config')), 'utf8'))
 const output = path.resolve(arg('output'))
 const reviewedCardsFile = arg('reviewed-cards', { required: false })
 const reviewedCards = reviewedCardsFile ? JSON.parse(fs.readFileSync(path.resolve(reviewedCardsFile), 'utf8')) : undefined
-const locales = ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
+const locales = config.ruleLocales ?? ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
 const reviewedExceptions = config.reviewedTokenExceptions ?? {}
 const findings = []
 const tokenChecks = { exact: 0, reviewedExceptions: [], unresolved: [] }
@@ -33,6 +33,7 @@ function tokens(value) {
 
 function checkText(cardId, locale, field, value) {
 	if (typeof value !== 'string' || !value.trim()) return
+	if (locale === 'ko' && (/\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(value) || !/[가-힣]/u.test(value) && !['GUARD', 'POWER'].includes(value))) findings.push({ cardId, locale, field, kind: 'invalid-korean-text', value })
 	if (/(?:^|\s)(?:TODO|TBD)(?=\s|$)|\[C:[^\]]+\]/u.test(value) || /ILLUSTRATOR[_\s-]*\d+/iu.test(value) || /[\uFFFDÃÂ√]/u.test(value)) findings.push({ cardId, locale, field, kind: 'placeholder-or-mojibake', value })
 	const prose = ['name', 'evolveFrom'].includes(field) ? value.replace(/\bPorygon2\b/gu, '') : value
 	if (/\p{Script=Latin}\d/u.test(prose.replace(/Pokémon/gu, '').replace(/\bx\d+\b/gu, ''))) findings.push({ cardId, locale, field, kind: 'letter-number-join', value })

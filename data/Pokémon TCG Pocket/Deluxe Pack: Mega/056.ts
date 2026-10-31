@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/056"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Ninetales de Alola ex",
         "zh-tw": "阿羅拉九尾ex",
         ja: "アローラキュウコンex",
-        ko: "알로라나인테일 ex"
+        ko: "알로라 나인테일 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
         ja: "アローラロコン",
-        ko: "Alolan Vulpix"
+        ko: "알로라 식스테일"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Detenção Nevada",
                 "zh-tw": "冰雪制約",
                 ja: "スノーバインド",
-                ko: "Binding Snow"
+                ko: "스노바인드"
             },
             damage: 80,
             cost: [
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
                 "zh-tw": "在下個對手的回合,對手無法從能量區抽出能量,附於戰鬥寶可夢身上。",
                 ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。",
-                ko: "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+                ko: "상대의 다음 차례에 상대는 에너지존에서 에너지를 내보내서 배틀 포켓몬에게 붙일 수 없다."
             }
         }
     ],

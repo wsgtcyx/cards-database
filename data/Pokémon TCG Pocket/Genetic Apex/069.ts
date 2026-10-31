@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/069"
     },
     name: {
         en: "Kingler",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Krabby",
         "pt-br": "Krabby",
         "zh-tw": "大鉗蟹",
-        ja: "クラブ"
+        ja: "クラブ",
+        ko: "크랩"
     },
     attacks: [{
             cost: ["Water", "Water", "Colorless"],

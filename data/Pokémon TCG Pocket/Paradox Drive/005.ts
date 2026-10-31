@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/005"
     },
     name: {
         en: "Iron Moth",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es liegen keine Aufzeichnungen über den Fang dieser Art vor. Es fehlen Daten, aber die Eigenschaften des Pokémon stimmen mit einem in einem alten Buch beschriebenen Objekt überein.",
         "pt-br": "Não existem registros desta espécie sendo capturada. Faltam dados, mas as características do Pokémon correspondem a um objeto descrito em um livro antigo.",
         "zh-tw": "沒有該物種被捕獲的記錄。雖然缺乏數據，但寶可夢的特徵與一本舊書中描述的物體相符。",
-        ja: "捕獲例は ゼロ。 データ不足。 古い 書物に 記された 物体と 特徴が 一致。"
+        ja: "捕獲例は ゼロ。 データ不足。 古い 書物に 記された 物体と 特徴が 一致。",
+        ko: "포획된 사례는 없으며 데이터도 부족하다.\n오래된 서적에 기록된 물체와\n특징이 일치한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Thermische Böe",
                 "pt-br": "Rajada Térmica",
                 "zh-tw": "熱陣風",
-                ja: "サーマルガスト"
+                ja: "サーマルガスト",
+                ko: "서멀거스트"
             },
             effect: {
                 en: "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 more damage. If all of them are heads, this attack does 120 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Wenn einer von ihnen „Kopf“ ist, verursacht dieser Angriff 20 weitere Schadenspunkte. Wenn 2 davon Köpfe sind, fügt dieser Angriff 50 Schadenspunkte mehr zu. Wenn alle Köpfe sind, fügt dieser Angriff 120 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue 3 moedas. Se 1 deles der cara, este ataque causa 20 de dano a mais. Se 2 deles derem cara, este ataque causa 50 de dano a mais. Se todos derem cara, este ataque causa 120 de dano a mais.",
                 "zh-tw": "翻轉 3 個硬幣。如果其中 1 個是正面，則此攻擊會造成 20 點額外傷害。如果其中 2 個是正面，則此攻擊會造成 50 點額外傷害。如果都是正面，這次攻擊會造成 120 點額外傷害。",
-                ja: "コインを3回投げる。オモテが1回なら、20ダメージ追加。オモテが2回なら、50ダメージ追加。すべてオモテなら、120ダメージ追加。"
+                ja: "コインを3回投げる。オモテが1回なら、20ダメージ追加。オモテが2回なら、50ダメージ追加。すべてオモテなら、120ダメージ追加。",
+                ko: "동전을 3번 던진다. 앞면이 1번 나오면 20데미지를 추가한다. 앞면이 2번 나오면 50데미지를 추가한다. 모두 앞면이 나오면 120데미지를 추가한다."
             },
             damage: "10+"
         }

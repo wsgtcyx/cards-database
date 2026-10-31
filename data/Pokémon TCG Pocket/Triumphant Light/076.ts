@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/076",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/076"
     },
     name: {
         en: "Houndoom",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Houndour",
         "zh-tw": "戴魯比",
         ja: "デルビル",
+        ko: "델빌",
     },
     description: {
         en: "If you are burned by the flames it shoots from its mouth, the pain will never go away.",

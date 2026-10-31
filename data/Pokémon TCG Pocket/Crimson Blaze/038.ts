@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/038"
     },
     name: {
         en: "Onix",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Onix",
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
-        ja: "イワーク"
+        ja: "イワーク",
+        ko: "롱스톤"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es bohrt sich schnell mit 80 km/h durch den Boden\ner windet und dreht seinen massiven, robusten Körper.",
         "pt-br": "Ele rapidamente perfura o solo a 80 km/h por\ncontorcendo-se e torcendo seu corpo maciço e robusto.",
         "zh-tw": "它以每小時 50 英里的速度快速鑽穿地面\n蠕動和扭曲其巨大而崎嶇的身體。",
-        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。"
+        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。",
+        ko: "크고 튼튼한 몸을\n뒤틀고 꼬아서 시속 80km로\n힘차게 땅을 파나간다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Graben",
                 "pt-br": "Escavação",
                 "zh-tw": "挖",
-                ja: "あなをほる"
+                ja: "あなをほる",
+                ko: "구멍파기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }],
     weaknesses: [{

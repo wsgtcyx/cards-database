@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/032"
     },
     name: {
         en: "Grumpig",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Mit schwarzen Perlen verstärkt es seine Psycho-Kräfte.\nMit einem Tanz kontrolliert es seine Gegner.",
         "pt-br": "Ele usa pérolas negras para amplificar seu poder psíquico. Faz uma dança estranha para controlar as mentes dos inimigos.",
         "zh-tw": "它使用黑珍珠來增強自己的精神力量。它透過一種奇怪的舞蹈來控制敵人的思想。",
-        ja: "黒真珠で サイコパワーを 強め 奇妙な ステップで 相手の 心を 操るぞ。"
+        ja: "黒真珠で サイコパワーを 強め 奇妙な ステップで 相手の 心を 操るぞ。",
+        ko: "흑진주로 사이코 파워를\n증폭시킨다. 이상한 스텝으로\n상대의 마음을 조종한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wiegender Tanz",
                 "pt-br": "Dança Oscilante",
                 "zh-tw": "晃晃舞",
-                ja: "ゆさぶるダンス"
+                ja: "ゆさぶるダンス",
+                ko: "휘젓기댄스"
             },
             effect: {
                 en: "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn Ihr Gegner genau 2, 4 oder 6 Karten auf der Hand hat, verursacht dieser Angriff 40 weitere Schadenspunkte.",
                 "pt-br": "Se o seu oponente tiver exatamente 2, 4 ou 6 cartas na mão, este ataque causa 40 de dano a mais.",
                 "zh-tw": "如果對手的手牌剛好有 2、4 或 6 張，則此攻擊造成的傷害增加 40 點。",
-                ja: "相手の手札が2枚・4枚・6枚なら、40ダメージ追加。"
+                ja: "相手の手札が2枚・4枚・6枚なら、40ダメージ追加。",
+                ko: "상대의 패가 2장・4장・6장이라면 40데미지를 추가한다."
             },
             damage: "40+"
         }

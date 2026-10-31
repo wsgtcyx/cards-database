@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/093",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/093"
     },
     name: {
         en: "Cloyster",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Austos",
         "pt-br": "Cloyster",
         "zh-tw": "刺甲貝",
-        ja: "パルシェン"
+        ja: "パルシェン",
+        ko: "파르셀"
     },
     illustrator: "whomor Inc.",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Muschas",
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
-        ja: "シェルダー"
+        ja: "シェルダー",
+        ko: "셀러"
     },
     description: {
         en: "Cloyster that live in seas with harsh tidal currents\ngrow large, sharp spikes on their shells.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Cloyster, die in Meeren mit starken Gezeitenströmungen leben\nAuf ihrem Panzer wachsen große, scharfe Stacheln.",
         "pt-br": "Cloyster que vive em mares com fortes correntes de maré\ncrescem pontas grandes e afiadas em suas conchas.",
         "zh-tw": "生活在潮汐洶湧的海洋中的梭蚌\n它們的殼上長出又大又尖的尖刺。",
-        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。"
+        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。",
+        ko: "조수의 흐름이 격한 바다에 서식하는\n파르셀의 껍데기에 붙은 가시는\n크고 날카롭다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
                 "zh-tw": "守衛壓力機",
-                ja: "ガードプレス"
+                ja: "ガードプレス",
+                ko: "가드프레스"
             },
             damage: 50,
             cost: ["Water", "Water"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

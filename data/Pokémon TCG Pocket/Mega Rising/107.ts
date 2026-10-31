@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/107",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/107"
     },
     name: {
         en: "Drifloon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
         ja: "フワンテ",
+        ko: "흔들풍손",
     },
     illustrator: "Asako Ito",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Aufgrund der Art und Weise, wie es ziellos schwebt, ein altes\nDas Volksmärchen nennt es einen „Wegweiser für wandernde Geister“.",
         "pt-br": "Pela forma como flutua sem rumo, um velho\no conto popular chama isso de \"placa de sinalização para espíritos errantes\".",
         "zh-tw": "由於它漫無目的地漂浮的方式，一個古老的\n民間傳說稱其為“遊魂的路標”。",
-        ja: "あてもなく 浮かぶ 様子から 迷える 魂の道しるべ と 伝える 昔話も ある。"
+        ja: "あてもなく 浮かぶ 様子から 迷える 魂の道しるべ と 伝える 昔話も ある。",
+        ko: "정처 없이 떠 있는 모습에서\n길 잃은 영혼의 이정표라고\n전해지는 옛날이야기도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Windstoß",
                 "pt-br": "Explosão de Vento",
                 "zh-tw": "風之衝擊",
-                ja: "かぜふんしゃ"
+                ja: "かぜふんしゃ",
+                ko: "바람분사"
             },
             cost: ["Psychic"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。",
-                ja: "相手のベンチポケモン1匹に20ダメージ。"
+                ja: "相手のベンチポケモン1匹に20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

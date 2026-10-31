@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/031",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/031"
     },
     name: {
         en: "Alakazam",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kadabra",
         "pt-br": "Kadabra",
         "zh-tw": "勇基拉",
-        ja: "ユンゲラー"
+        ja: "ユンゲラー",
+        ko: "윤겔라"
     },
     description: {
         en: "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",

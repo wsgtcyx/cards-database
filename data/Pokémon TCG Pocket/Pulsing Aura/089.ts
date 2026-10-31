@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/089"
     },
     name: {
         en: "Meloetta",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es besitzt die Macht, Pokémon, die sich in seiner Nähe\naufhalten, mit seinen Melodien froh oder traurig zu stimmen.",
         "pt-br": "As melodias cantadas por Meloetta têm o poder de deixar os Pokémon que as ouvem felizes ou tristes.",
         "zh-tw": "美洛耶塔 所唱的旋律有能力讓聽到它們的寶可夢感到高興或悲傷。",
-        ja: "メロエッタの 奏でる 旋律は まわりの ポケモンを 喜ばせたり 悲しませるほどの パワーがある。"
+        ja: "メロエッタの 奏でる 旋律は まわりの ポケモンを 喜ばせたり 悲しませるほどの パワーがある。",
+        ko: "메로엣타가 연주하는 선율에는\n주위 포켓몬을 기쁘게 하거나\n슬프게 할 정도의 힘이 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Motivierender Tanz",
                 "pt-br": "Dança Inspiradora",
                 "zh-tw": "舞力聲援",
-                ja: "ダンシングエール"
+                ja: "ダンシングエール",
+                ko: "댄싱옐"
             },
             effect: {
                 en: "During your next turn, attacks used by your {F} Pokémon do +30 damage to your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges fügen Angriffe deines {F}-Pokémon dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
                 "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon {F} causarão +30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的下一個回合中，你的{F}寶可夢使用的攻擊對對手的活躍寶可夢造成+30傷害。",
-                ja: "次の自分の番、自分の{F}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。"
+                ja: "次の自分の番、自分の{F}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
+                ko: "자신의 다음 차례에 자신의 {F}포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다."
             },
             damage: 30
         }

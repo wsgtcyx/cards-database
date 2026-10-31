@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/236",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/236",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/236",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/236"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/236",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/236"
     },
     name: {
         en: "Marowak ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
         ja: "カラカラ",
+        ko: "탕구리",
     },
     stage: "Stage1",
     suffix: "EX",

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/027"
     },
     name: {
         en: "Teal Mask Ogerpon",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Ogerpon Máscara Turquesa",
         "zh-tw": "厄鬼椪碧草面具",
         ja: "オーガポンみどりのめん",
-        ko: "오거폰벽록의 가면"
+        ko: "오거폰 벽록의 가면"
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",
@@ -41,7 +42,7 @@ const card: Card = {
         "pt-br": "Este Pokémon adora pregar peças e é muito curioso. Batalha sugando o tipo de energia contido em suas máscaras.",
         "zh-tw": "喜歡惡作劇，好奇心旺盛。能激發出面具蘊藏的屬性的能量來戰鬥。",
         ja: "いたずら好きで 好奇心旺盛。 仮面に こめられた タイプの エネルギーを 引き出して 戦う。※ キタカミの里での冒険で出会うことができます。",
-        ko: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
+        ko: "장난기가 많고 호기심이 왕성하다.\n가면에 담긴 타입의 에너지를\n끌어올려서 싸운다."
     },
     attacks: [
         {
@@ -59,7 +60,7 @@ const card: Card = {
                 it: "Frustata dell'Orco",
                 de: "Ogerpeitsche",
                 ja: "オーガウィップ",
-                ko: "Ogre's Whip"
+                ko: "오거휩"
             },
             effect: {
                 en: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
@@ -70,7 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge al Pokémon attivo dell'avversario danni pari alla quantità di PS rimasti a questo Pokémon.",
                 de: "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu.",
                 ja: "このポケモンの残りHPぶん、相手のバトルポケモンにダメージを与える。",
-                ko: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP."
+                ko: "이 포켓몬의 남은 HP만큼 상대의 배틀 포켓몬에게 데미지를 준다."
             }
         }
     ],

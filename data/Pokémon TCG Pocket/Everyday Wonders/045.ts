@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/045"
     },
     name: {
         en: "Scrafty",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Diesem ungestümen Pokémon liegen Freunde,\nFamilie und Revier sehr am Herzen.",
         "pt-br": "Este Pokémon pode ser rude, mas cuida muito bem de sua família, de seus amigos e de seu território.",
         "zh-tw": "性情很粗暴，但牠是一種\n對自己的家族、群體的夥伴\n以及地盤十分重視的寶可夢。",
-        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。"
+        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。",
+        ko: "거칠고 난폭하지만,\n자신의 가족과 무리 동료의 영역을\n매우 소중히 여기는 포켓몬이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Turmkick",
                 "pt-br": "Chute de Pulo Alto",
                 "zh-tw": "飛膝踢",
-                ja: "とびひざげり"
+                ja: "とびひざげり",
+                ko: "무릎차기"
             },
             damage: 70
         }

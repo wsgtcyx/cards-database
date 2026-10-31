@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/065"
     },
     name: {
         en: "Espurr",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Hinter dem ausdruckslosen Gesicht eines Psiau verbirgt sich ein verzweifelter Kampf um die Eindämmung der psychischen Kraft.",
         "pt-br": "Por trás do rosto inexpressivo de Espurr está uma luta frenética para conter o poder psíquico.",
         "zh-tw": "妙喵面無表情的臉孔背後，是一場遏制靈能的瘋狂鬥爭。",
-        ja: "無表情だが 内面では サイコパワーを 抑えこむのに 必死に なっているのだ。"
+        ja: "無表情だが 内面では サイコパワーを 抑えこむのに 必死に なっているのだ。",
+        ko: "무표정하지만 내면에서는\n사이코 파워를\n필사적으로 억누르고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Grummeln",
                 "pt-br": "Resmungo",
                 "zh-tw": "囈語",
-                ja: "つぶやく"
+                ja: "つぶやく",
+                ko: "중얼거리기"
             },
             damage: 20
         }

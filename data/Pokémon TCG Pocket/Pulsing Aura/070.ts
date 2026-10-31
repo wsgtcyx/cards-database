@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/070"
     },
     name: {
         en: "Hattrem",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sobald dieses Pokémon jemanden findet, der starke Gefühle ausstrahlt, wird es ihn mit seinen Zöpfen bewusstlos schlagen, um ihn zum Schweigen zu bringen.",
         "pt-br": "No momento em que este Pokémon encontrar alguém que esteja emitindo emoções fortes, ele irá esmurrá-lo com suas tranças para silenciá-lo.",
         "zh-tw": "當這隻寶可夢發現有強烈情緒的人時，它會用辮子將他們打昏，讓他們安靜下來。",
-        ja: "強い 感情を 発するものを 見つけしだい おさげで 叩きのめし 意識を 奪って 黙らせる。"
+        ja: "強い 感情を 発するものを 見つけしだい おさげで 叩きのめし 意識を 奪って 黙らせる。",
+        ko: "강한 감정을 발산하는 것을 발견하면\n머리의 술로 곧장 때려눕혀서\n의식을 빼앗아 조용하게 만든다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Säuselstimme",
                 "pt-br": "Voz Desarmante",
                 "zh-tw": "魅惑之聲",
-                ja: "チャームボイス"
+                ja: "チャームボイス",
+                ko: "차밍보이스"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             },
             damage: 20
         }

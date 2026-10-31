@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/019"
     },
     name: {
         en: "Froslass",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Snorunt",
         "zh-tw": "雪童子",
         ja: "ユキワラシ",
+        ko: "눈꼬마",
     },
     description: {
         en: "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/123",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/123"
     },
     name: {
         en: "Magearna",

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/292",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/292",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/292",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/292"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/292",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/292"
 	},
 	name: {
 		en: "Delcatty",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Enekoro",
 		"pt-br": "Delcatty",
 		"zh-tw": "優雅貓",
-		ja: "エネコロロ"
+		ja: "エネコロロ",
+		ko: "델케티"
 	},
 	illustrator: "0313",
 	rarity: "Two Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Eneco",
 		"pt-br": "Skitty",
 		"zh-tw": "向尾喵",
-		ja: "エネコ"
+		ja: "エネコ",
+		ko: "에나비"
 	},
 	description: {
 		en: "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/039"
     },
     name: {
         en: "Vanilluxe",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Gelatwino",
         "pt-br": "Vanilluxe",
         "zh-tw": "雙倍多多冰",
-        ja: "バイバニラ"
+        ja: "バイバニラ",
+        ko: "배바닐라"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
         "zh-tw": "多多冰",
-        ja: "バニリッチ"
+        ja: "バニリッチ",
+        ko: "바닐리치"
     },
     description: {
         en: "People believe this Pokémon formed when two\nVanillish stuck together. Its body temperature is\nroughly 21 degrees Fahrenheit.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Leute glauben, dass sich dieses Pokémon zu zweit gebildet hat\nVanillin klebte zusammen. Seine Körpertemperatur beträgt\nungefähr 21 Grad Fahrenheit.",
         "pt-br": "As pessoas acreditam que este Pokémon se formou quando dois\nVanillish grudado. Sua temperatura corporal é\ncerca de 21 graus Fahrenheit.",
         "zh-tw": "人們相信這個神奇寶貝是由兩個\n瓦尼利甚粘在一起了。它的體溫是\n大約 21 華氏度。",
-        ja: "体温は マイナス６度 前後。 ２匹の バニリッチが くっつき 生まれたと いわれている。"
+        ja: "体温は マイナス６度 前後。 ２匹の バニリッチが くっつき 生まれたと いわれている。",
+        ko: "체온은 마이너스 6도 전후이다.\n2마리의 바닐리치가 붙어서\n태어났다고 한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽",
-                ja: "スイーツリレー"
+                ja: "スイーツリレー",
+                ko: "스위트릴레이"
             },
             damage: "60+",
             cost: ["Water", "Water"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。",
-                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。"
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。",
+                ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

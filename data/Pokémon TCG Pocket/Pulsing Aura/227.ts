@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/227",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/227",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/227"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/227",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/227"
     },
     name: {
         en: "Greninja ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Wechselnder Strom",
                 "pt-br": "Mudança de fluxo",
                 "zh-tw": "水流鑾幻",
-                ja: "すいりゅうへんげ"
+                ja: "すいりゅうへんげ",
+                ko: "수류변화"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active {W} Pokémon with 1 of your Benched Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du dein Aktives {W}-Pokémon gegen 1 Pokémon auf deiner Bank austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar seu Pokémon Ativo {W} por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "在你的回合中，你可以將你的活躍 {W} 寶可夢與你的 1 只後備寶可夢交換。",
-                ja: "自分の番に1回使える。自分のバトル場の{W}ポケモンを、ベンチポケモンと入れ替える。"
+                ja: "自分の番に1回使える。自分のバトル場の{W}ポケモンを、ベンチポケモンと入れ替える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 {W}포켓몬을 벤치 포켓몬과 교체한다."
             }
         }
     ],
@@ -78,7 +81,8 @@ const card: Card = {
                 de: "Aquaschneide",
                 "pt-br": "Aqua Gume",
                 "zh-tw": "水之刀鋒",
-                ja: "アクアエッジ"
+                ja: "アクアエッジ",
+                ko: "아쿠아에지"
             },
             damage: 100
         }

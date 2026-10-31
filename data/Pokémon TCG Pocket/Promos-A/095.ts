@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/095"
     },
     name: {
         en: "Chinchou",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
         ja: "チョンチー",
+        ko: "초라기",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Fühler, die sich aus einer Flosse entwickelt haben, haben beides\nDurch sie fließen positive und negative Ladungen.",
         "pt-br": "Suas antenas, que evoluíram a partir de uma nadadeira, possuem tanto\ncargas positivas e negativas fluindo através deles.",
         "zh-tw": "它的觸角由鰭演化而來，具有\n正電荷和負電荷流過它們。",
-        ja: "ひれが 変化して できた 触手は それぞれが プラスと マイナスの 電気が 流れている。"
+        ja: "ひれが 変化して できた 触手は それぞれが プラスと マイナスの 電気が 流れている。",
+        ko: "지느러미가 변해서 만들어진\n촉수는 각각 플러스와\n마이너스의 전기가 흐르고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Verlockender Glanz",
                 "pt-br": "Brilho atraente",
                 "zh-tw": "誘人的光芒",
-                ja: "さそうひかり"
+                ja: "さそうひかり",
+                ko: "유인하는빛"
             },
             cost: ["Lightning"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ wechselst du 1 Pokémon auf der Bank deines Gegners in die aktive Position.",
                 "pt-br": "Jogue uma moeda. Se der cara, troque 1 dos Pokémon do Banco do seu oponente para o Ponto Ativo.",
                 "zh-tw": "拋一枚硬幣。如果正面，則將對手的 1 只後備神奇寶貝切換到活動位置。",
-                ja: "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+                ja: "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

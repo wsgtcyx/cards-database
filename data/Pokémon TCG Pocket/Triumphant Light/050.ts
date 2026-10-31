@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/050"
     },
     name: {
         en: "Crobat",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Golbat",
         "pt-br": "Golbat",
         "zh-tw": "大嘴蝠",
-        ja: "ゴルバット"
+        ja: "ゴルバット",
+        ko: "골뱃"
     },
     description: {
         en: "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target's neck.",
@@ -71,7 +73,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, kannst du einmal während deines Zuges dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 'pt-br': "Uma vez durante o seu turno, se você tiver Arceus ou Arceus ex em jogo, você poderá causar 30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、自分の番に1回使える。相手のバトルポケモンに30ダメージ。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다.",
                 "zh-tw": "在你的回合中，如果你有阿爾宙斯或阿爾宙斯 ex 在場，你可以對對手的活躍神奇寶貝造成 30 點傷害。"
             }
         }],

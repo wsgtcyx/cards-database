@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/119"
     },
     name: {
         en: "Pawniard",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es treibt Gegner mit seinen scharfen Klingen in\ndie Ecke. Diese schärft es an den Felsen eines\nFlussbettes.",
         "pt-br": "Ele usa pedras de rio para manter as pontas das lâminas cobrindo seu corpo. Essas lâminas afiadas permitem derrubar oponentes.",
         "zh-tw": "揮舞銳利的刀刃將敵人\n逼向絕境。會用河灘的\n石頭來精心保養刀刃。",
-        ja: "鋭い 刃を 操り 敵を 追い詰める。 河原の 石で 体の 刃を 手入れする。"
+        ja: "鋭い 刃を 操り 敵を 追い詰める。 河原の 石で 体の 刃を 手入れする。",
+        ko: "예리한 칼날을 다루어 상대를\n몰아넣는다. 강가에 있는 돌로\n몸에 있는 칼날을 손질한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zerhäckseln",
                 "pt-br": "Dilacerar",
                 "zh-tw": "切",
-                ja: "きる"
+                ja: "きる",
+                ko: "베기"
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/002"
     },
     name: {
         en: "Kakuna",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Hornliu",
         "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
-        ja: "ビードル"
+        ja: "ビードル",
+        ko: "뿔충이"
     },
     description: {
         en: "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",

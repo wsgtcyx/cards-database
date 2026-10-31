@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/161",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/161",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/161",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/161"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/161",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/161"
     },
     name: {
         en: "Quilava",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Das Fell dieses Pokémon ist nicht entflammbar, Feuer-Angriffe jeglicher Art machen ihm nichts aus.",
         "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. E capaz de resistir a qualquer ataque de fogo.",
         "zh-tw": "一身的毛皮絕不會被點燃，\n遭受任何火焰攻擊\n都能安然無恙。",
-        ja: "体を 覆う 毛皮は ぜったいに 燃えたりしない。 どんな 炎攻撃も 平気だ。"
+        ja: "体を 覆う 毛皮は ぜったいに 燃えたりしない。 どんな 炎攻撃も 平気だ。",
+        ko: "몸을 뒤덮은 털가죽은\n절대로 불에 타지 않는다.\n어떠한 불꽃 공격에도 끄떡없다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Hitzewelle",
                 "zh-tw": "熱風",
                 "pt-br": "Onda de Calor",
-                ja: "ねっぷう"
+                ja: "ねっぷう",
+                ko: "열풍"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 30
         }

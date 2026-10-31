@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/060",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/060",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/060"
     },
     name: {
         en: "Helioptile",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es kann aus Sonnenlicht Elektrizität erzeugen.\nUnterbricht man es jedoch bei diesem Prozess,\nverliert es vor lauter Stress all seine Kraft.",
         "pt-br": "A eletricidade deste Pokémon é gerada através da luz solar. Se este processo for interrompido, Helioptile se estressará tanto que ficará enfraquecido.",
         "zh-tw": "擁有太陽能發電的結構。\n如果有人打擾牠發電，\n牠就會因心理壓力而衰弱。",
-        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。"
+        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。",
+        ko: "태양광 발전 구조를 가졌다.\n발전을 방해하면\n스트레스를 받아서 약해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sprungtritt",
                 "pt-br": "Voadora",
                 "zh-tw": "跳踢",
-                ja: "ジャンプキック"
+                ja: "ジャンプキック",
+                ko: "뛰어차기"
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到10點傷害。",
-                ja: "相手のポケモン1匹に10ダメージ。"
+                ja: "相手のポケモン1匹に10ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             }
         }
     ],

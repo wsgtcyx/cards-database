@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/266",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/266",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/266",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/266"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/266",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/266"
     },
     name: {
         en: "Tinkaton ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tinkaton ex",
         "zh-tw": "巨鍛匠ex",
         ja: "デカヌチャンex",
+        ko: "두드리짱 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Tinkatuff",
         "zh-tw": "巧鍛匠",
         ja: "ナカヌチャン",
+        ko: "벼리짱",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Tolles Pochen",
                 "pt-br": "Batida incrível",
                 "zh-tw": "很棒的重擊",
-                ja: "ごうかいスタンプ"
+                ja: "ごうかいスタンプ",
+                ko: "호쾌스탬프"
             },
             damage: "80+",
             cost: ["Metal", "Metal", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 80 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 80 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 80 點額外傷害。",
-                ja: "コインを1回投げオモテなら、80ダメージ追加。"
+                ja: "コインを1回投げオモテなら、80ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다."
             }
         }],
     weaknesses: [{

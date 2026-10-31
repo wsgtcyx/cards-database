@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/002"
     },
     name: {
         en: "Floragato",
@@ -48,7 +49,8 @@ const card: Card = {
         "de": "Die Härte des Fells von Feliospa hängt von der Stimmung des Pokémon ab. Wenn Feliospa zum Kampf bereit ist, wird sein Fell spitz und nadelscharf.",
         "pt-br": "A dureza do pelo de Floragato depende do humor do Pokémon. Quando Floragato está preparado para a batalha, seu pelo fica pontudo e pontiagudo.",
         "zh-tw": "蒂蕾喵 毛的硬度取決於寶可夢的心情。當蒂蕾喵準備戰鬥時，它的皮毛會變得尖如針鋒利。",
-        ja: "体毛の 硬さは 気分で 変わる。 臨戦態勢になると 針のように 鋭利に 尖るぞ。"
+        ja: "体毛の 硬さは 気分で 変わる。 臨戦態勢になると 針のように 鋭利に 尖るぞ。",
+        ko: "털의 강도는 기분에 따라 변한다.\n전투태세에 들어가면\n바늘처럼 예리하고 뾰족해진다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +64,7 @@ const card: Card = {
                 "pt-br": "Passo Folha",
                 "zh-tw": "葉步",
                 ja: "リーフステップ",
+                ko: "리프스텝",
                 'es-mx': "Paso de Hoja",
                 pt: "Passo de Folha"
             },

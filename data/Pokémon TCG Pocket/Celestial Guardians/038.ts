@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/038"
     },
     name: {
         en: "Alolan Sandshrew",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Sandan",
         'pt-br': "Sandshrew de Alola",
         ja: "アローラサンド",
-        ko: "알로라모래두지",
+        ko: "알로라 모래두지",
         "zh-tw": "阿羅拉穿山鼠",
     },
     illustrator: "ryoma uratsuka",

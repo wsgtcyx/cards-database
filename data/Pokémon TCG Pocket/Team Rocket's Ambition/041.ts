@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/041"
     },
     name: {
         en: "Team Rocket's Muk",
@@ -37,7 +38,7 @@ const card: Card = {
         de: "Team Rockets Sleima",
         "pt-br": "Grimer da Equipe Rocket",
         "zh-tw": "火箭隊的阿羅拉 臭泥",
-        ko: "로켓단의 알로라 질퍽이",
+        ko: "로켓단의 질퍽이",
         ja: "ロケット団のベトベター"
     },
     stage: "Stage1",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Sein Gestank ist unerträglich Das stärke Gift. aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.",
         "pt-br": "È fedorento demais corpo de Mukcontém elementos tóxicos Qualquer planta murchará quando ele pissar por perto.",
         "zh-tw": "奇臭無比！身體帶有劇毒，舉凡所經之處，任何草木都會枯萎。",
-        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。"
+        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。",
+        ko: "냄새가 지독하다!\n몸의 성분은 맹독이며, 질뻐기가\n지나가면 어떤 초목이라도 시든다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Giftabsorption",
                 "pt-br": "Absorção de Veneno",
                 "zh-tw": "毒之舔舐",
-                ja: "どくしゃぶり"
+                ja: "どくしゃぶり",
+                ko: "독빨기"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist. heile 60 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Envenenado, cure 60 pontos de dano deste Pokémon.",
                 "zh-tw": "若對手的戰鬥寶可夢中毒,則將這隻寶可夢恢復60HP。",
-                ja: "相手のバトルポケモンがどくなら、このポケモンのHPを60回復。"
+                ja: "相手のバトルポケモンがどくなら、このポケモンのHPを60回復。",
+                ko: "상대의 배틀 포켓몬이 독이라면 이 포켓몬의 HP를 60회복."
             },
             damage: 80
         }

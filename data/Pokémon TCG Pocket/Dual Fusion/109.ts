@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/109"
     },
     name: {
         en: "Porygon2",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
         ja: "ポリゴン",
-        ko: "Porygon"
+        ko: "폴리곤"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
                 ja: "たいあたり",
-                ko: "Tackle"
+                ko: "몸통박치기"
             },
             cost: [
                 "Colorless"
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Este Pokémon artificial evoluiu graças à ciência moderna. Às vezes, demonstra um comportamento que não está em sua programação.",
         "zh-tw": "利用最新科技進化的人工寶可夢。有時會表現出程式裡沒有的反應。",
         ja: "最新科学で 進化した 人工の ポケモン。 ときどき プログラムにない 反応をみせる。",
-        ko: "This artificial Pokémon evolved thanks to cutting-edge science. It sometimes displays behavior that is not in its programming."
+        ko: "최신 과학에 의해 진화한 인공 포켓몬.\n가끔씩 프로그래밍되어 있지 않은\n반응을 보인다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/030"
     },
     name: {
         en: "Cetitan",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cetitan",
         "zh-tw": "浩大鯨",
         ja: "ハルクジラ",
+        ko: "우락고래",
         pt: "Cetitan"
     },
     illustrator: "Anesaki Dynamic",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Cetoddle",
         "zh-tw": "走鯨",
         ja: "アルクジラ",
+        ko: "터벅고래",
         pt: "Cetoddle",
         'es-mx': "Cetoddle"
     },
@@ -49,7 +52,8 @@ const card: Card = {
         "de": "Im Horn an seinem Oberkiefer baut sich Eisenergie auf, die dazu führt, dass das Horn kryogene Temperaturen erreicht, die seine Umgebung gefrieren lassen.",
         "pt-br": "A energia do gelo se acumula no chifre da mandíbula superior, fazendo com que o chifre atinja temperaturas criogênicas que congelam o ambiente.",
         "zh-tw": "冰能量在其上顎的角中積聚，導致角達到低溫，凍結周圍環境。",
-        ja: "氷エネルギーの 集中する 上あごの ツノが 超低温になって 周囲を 凍らせる。"
+        ja: "氷エネルギーの 集中する 上あごの ツノが 超低温になって 周囲を 凍らせる。",
+        ko: "얼음 에너지를 집중시키면\n위턱의 뿔이 초저온이 되어\n주위를 얼려 버린다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +66,8 @@ const card: Card = {
                 de: "Ice Punch",
                 "pt-br": "Ponche de Gelo",
                 "zh-tw": "冰拳",
-                ja: "れいとうパンチ"
+                ja: "れいとうパンチ",
+                ko: "냉동펀치"
             },
             damage: "80",
             cost: ["Water", "Water", "Colorless", "Colorless"],
@@ -74,7 +79,8 @@ const card: Card = {
                 de: "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Defensor agora está Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則防禦寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
         },
     ],

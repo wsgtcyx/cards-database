@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/067",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/067"
     },
     name: {
         en: "Inflatable Boat",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Gummiboot",
         "pt-br": "Bote Inflável",
         "zh-tw": "水上小艇",
-        ja: "ウォーターボート"
+        ja: "ウォーターボート",
+        ko: "워터 보트"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Die Rückzugskosten des {W}-Pokémon, an das diese Karte angelegt ist, sind 1 weniger.",
         "pt-br": "O Custo de Recuo do Pokémon {W} ao qual esta carta está ligada é 1 a menos.",
         "zh-tw": "這張卡所附著的{W}寶可夢的撤退費用減少1。",
-        ja: "このカードをつけている{W}ポケモンのにげるためのエネルギーを、1個少なくする。"
+        ja: "このカードをつけている{W}ポケモンのにげるためのエネルギーを、1個少なくする。",
+        ko: "이 카드를 붙이고 있는 {W}포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다."
     },
     trainerType: "Tool"
 };

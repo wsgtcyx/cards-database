@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/048"
     },
     name: {
         en: "Ceruledge",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ceruledge",
         "zh-tw": "蒼炎刃鬼",
         ja: "ソウブレイズ",
+        ko: "파라블레이즈",
         pt: "Ceruledge"
     },
     illustrator: "Ryota Murayama",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
         ja: "カルボウ",
+        ko: "카르본",
         pt: "Charcadet"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Eine alte, von Groll durchdrungene Rüstung war der Auslöser für die Entwicklung dieses Pokémon. Azugladis schneidet seine Feinde gnadenlos in Stücke.",
         "pt-br": "Uma antiga armadura repleta de rancores causou a evolução deste Pokémon. Ceruledge corta seus inimigos em pedaços sem piedade.",
         "zh-tw": "一套充滿怨恨的舊盔甲導致了這隻寶可夢的進化。 蒼炎刃鬼毫不留情地將敵人切成碎片。",
-        ja: "怨念の 染みついた 古い 鎧により 進化した 姿。 容赦なく 敵を 切り刻む。"
+        ja: "怨念の 染みついた 古い 鎧により 進化した 姿。 容赦なく 敵を 切り刻む。",
+        ko: "원념이 깃든\n오래된 갑옷에 의해 진화한 모습.\n자비 없이 적을 베어 가른다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Espada de Combate",
                 "zh-tw": "鬥劍",
                 ja: "とうしのたいけん",
+                ko: "투사의대검",
                 pt: "Espada de Combate"
             },
             damage: "70+",
@@ -75,7 +80,7 @@ const card: Card = {
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。",
                 ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
-                ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다."
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 70데미지를 추가한다."
             },
         },
     ],

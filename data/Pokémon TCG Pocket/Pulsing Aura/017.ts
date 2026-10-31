@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/017"
     },
     name: {
         en: "Leavanny",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses sanfte Pokémon hat starke Beschützerinstinkte. Die Blätter an seinen Armen sind scharf genug, um einen dicken Baum mit einem Schlag in zwei Hälften zu schneiden.",
         "pt-br": "Este gentil Pokémon tem fortes instintos de proteção. As folhas em seus braços são afiadas o suficiente para cortar uma árvore grossa ao meio com um só golpe.",
         "zh-tw": "性格溫和的寶可夢有著強烈的保護本能。它手臂上的葉子非常鋒利，一擊就能將一棵粗大的樹切成兩半。",
-        ja: "温厚で 庇護欲が 強い。 葉っぱの 腕は 大木を 一刀両断する 切れ味だ。"
+        ja: "温厚で 庇護欲が 強い。 葉っぱの 腕は 大木を 一刀両断する 切れ味だ。",
+        ko: "온화하고 보호 본능이 강하다.\n잎사귀로 된 팔은\n거목을 일도양단할 정도로 예리하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 100
         }

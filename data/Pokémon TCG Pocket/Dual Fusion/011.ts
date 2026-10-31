@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/011"
     },
     name: {
         en: "Foongus",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Pulso",
                 "zh-tw": "敲擊",
                 ja: "たたく",
-                ko: "Beat"
+                ko: "때리기"
             },
             cost: [
                 "Grass"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Existe uma teoria de que o desenvolvedor da atual Poké Bola gostava muito de Foongus, mas isso não foi confirmado.",
         "zh-tw": "據說開發精靈球的人很喜歡哎呀球菇，但不知是真是假。",
         ja: "モンスターボールの 開発者は タマゲタケが 好きだったという 説が あるが 真偽は 不明。",
-        ko: "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed."
+        ko: "몬스터볼의 개발자가\n깜놀버슬을 좋아했다는\n설이 있지만, 진위는 불명하다."
     }
 };
 

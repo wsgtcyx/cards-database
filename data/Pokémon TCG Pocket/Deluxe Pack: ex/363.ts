@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/363",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/363",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/363",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/363"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/363",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/363"
 	},
 	name: {
         en: "Palkia ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Palkia ex",
         "zh-tw": "帕路奇亞ex",
         ja: "パルキアex",
+        ko: "펄기아 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 30,
             cost: ["Water"]
@@ -51,7 +54,8 @@ const card: Card = {
                 "de": "Dimensionssturm",
                 "pt-br": "Tempestade Dimensional",
                 "zh-tw": "次元風暴",
-                ja: "ディメンションストーム"
+                ja: "ディメンションストーム",
+                ko: "디멘션스톰"
             },
             damage: 150,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Lege 3 {W}-Energien von diesem Pokémon ab. Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Descarte 3 {W} Energias deste Pokémon. Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "丟棄該神奇寶貝的 3 個 {W} 能量。這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。",
-                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のベンチポケモン全員にも20ダメージ。"
+                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のベンチポケモン全員にも20ダメージ。",
+                ko: "이 포켓몬에서 {W}에너지를 3개 트래쉬하고 상대의 벤치 포켓몬 전원에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

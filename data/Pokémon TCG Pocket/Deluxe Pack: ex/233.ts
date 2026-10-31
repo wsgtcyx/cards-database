@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/233",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/233",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/233",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/233"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/233",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/233"
 	},
 	name: {
 		en: "Alolan Grimer",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Alola-Sleima",
 		"pt-br": "Grimer de Alola",
 		"zh-tw": "阿羅拉臭泥",
-		ja: "アローラベトベター"
+		ja: "アローラベトベター",
+		ko: "알로라 질퍽이"
 	},
 	illustrator: "Akira Komayama",
 	rarity: "One Diamond",

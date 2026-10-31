@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/042"
     },
     name: {
         en: "Clamperl",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine Perle ist sehr kostbar. Es heißt, sie sei\nmindestens zehnmal so viel wert wie jene von\nMuschas.",
         "pt-br": "As pérolas de Clamperl são extremamente preciosas. Elas podem custar mais de 10 vezes mais que as pérolas de Shellder.",
         "zh-tw": "珍珠貝的珍珠非常貴重，\n據說價值是大舌貝\n所產珍珠的１０倍以上。",
-        ja: "パールルの 真珠は とても 貴重。 シェルダーの 真珠の １０倍以上 価値が あるとも。"
+        ja: "パールルの 真珠は とても 貴重。 シェルダーの 真珠の １０倍以上 価値が あるとも。",
+        ko: "진주몽의 진주는 매우 귀하다.\n셀러의 진주의 10배 이상\n가치가 있다고도 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Funkelperle",
                 "pt-br": "Pérola Cintilante",
                 "zh-tw": "珠珠生輝",
-                ja: "たまのかがやき"
+                ja: "たまのかがやき",
+                ko: "구슬의 반짝임"
             },
             damage: 20
         }

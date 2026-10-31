@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/231",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/231",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/231",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/231"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/231",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/231"
     },
     name: {
         en: "Chandelure",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chandelure",
         "zh-tw": "水晶燈火靈",
         ja: "シャンデラ",
+        ko: "샹델라",
     },
     illustrator: "REND",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
         ja: "ランプラー",
+        ko: "램프라",
     },
     description: {
         en: "In homes illuminated by Chandelure instead of\nlights, funerals were a constant occurrence—\nor so it's said.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "In Häusern wird die Beleuchtung durch Kronleuchter ersetzt\nLichter, Beerdigungen waren an der Tagesordnung –\nso heißt es zumindest.",
         "pt-br": "Em casas iluminadas por Chandelure em vez de\nluzes, funerais eram uma ocorrência constante -\nou assim é dito.",
         "zh-tw": "在被枝形吊燈照亮的家中，而不是\n燈光、葬禮時常發生——\n至少是這麼說的。",
-        ja: "シャンデラを 灯りの かわりに していた 屋敷では 葬式が 絶えることが なかった という。"
+        ja: "シャンデラを 灯りの かわりに していた 屋敷では 葬式が 絶えることが なかった という。",
+        ko: "샹델라를 등불 대용으로\n사용했던 저택에서는 장례식이\n끊이지 않았다고 한다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Langsam anbraten",
                 "pt-br": "Sear Lento",
                 "zh-tw": "慢烤",
-                ja: "じわじわあぶる"
+                ja: "じわじわあぶる",
+                ko: "서서히태우기"
             },
             effect: {
                 en: "Once during your turn, you may discard the top card of your opponent's deck.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges darfst du die oberste Karte des Decks deines Gegners abwerfen.",
                 "pt-br": "Uma vez durante o seu turno, você pode descartar a carta do topo do baralho do seu oponente.",
                 "zh-tw": "在你的回合中，你可以丟棄對手牌組頂牌一次。",
-                ja: "自分の番に1回使える。相手の山札を上から1枚トラッシュ。"
+                ja: "自分の番に1回使える。相手の山札を上から1枚トラッシュ。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 상대의 덱을 위에서부터 1장 트래쉬한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
                 "zh-tw": "熱風",
-                ja: "ヒートブラスト"
+                ja: "ヒートブラスト",
+                ko: "히트블라스트"
             },
             damage: 80,
             cost: ["Fire", "Fire"]
@@ -89,6 +96,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

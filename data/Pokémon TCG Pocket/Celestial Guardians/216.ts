@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/216",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/216",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/216"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/216",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/216"
     },
     name: {
         en: "Wartortle",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
-        ja: "ゼニガメ"
+        ja: "ゼニガメ",
+        ko: "꼬부기"
     },
     description: {
         en: "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",

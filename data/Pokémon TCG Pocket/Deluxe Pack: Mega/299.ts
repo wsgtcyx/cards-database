@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/299",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/299",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/299",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/299"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/299",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/299"
     },
     name: {
         en: "Heliolisk",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
         ja: "エリキテル",
-        ko: "Helioptile"
+        ko: "목도리키텔"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Um único Heliolisk tomando banho de sol com suas cristas abertas consegue produzir energia o suficiente para abastecer uma cidade inteira.",
         "zh-tw": "如果展開頸傘沐浴陽光，單憑１隻光電傘蜥就能製造出大城市所需的電力。",
         ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
-        ko: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+        ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다."
     },
     attacks: [
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "zh-tw": "電電光",
                 it: "Elettroscintilla",
                 ja: "エレキスパーク",
-                ko: "Electrispark"
+                ko: "일렉트릭 스파크"
             },
             effect: {
                 en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的所有備戰寶可夢也受到10點傷害。",
                 ja: "相手のベンチポケモン全員にも10ダメージ。",
-                ko: "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+                ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다."
             },
             damage: 40
         }

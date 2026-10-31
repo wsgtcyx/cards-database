@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/009"
     },
     name: {
         en: "Magcargo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Magcargo",
         "zh-tw": "熔岩蝸牛",
         ja: "マグカルゴ",
+        ko: "마그카르고",
     },
     illustrator: "Eri Yamaki",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Slugma",
         "zh-tw": "熔岩蟲",
         ja: "マグマッグ",
+        ko: "마그마그",
     },
     description: {
         en: "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine spröde Schale stößt gelegentlich heftige Flammen aus\ndie durch seinen Körper zirkulieren.",
         "pt-br": "Sua casca frágil ocasionalmente emite chamas intensas\nque circulam por todo o seu corpo.",
         "zh-tw": "它脆弱的外殼偶爾會噴出強烈的火焰\n並在其全身循環。",
-        ja: "背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。"
+        ja: "背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。",
+        ko: "등껍질은 깨어지기 쉬우며\n가끔 체내를 순환하고 있는\n고열의 불꽃을 뿜어낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
                 "zh-tw": "熱風",
-                ja: "ヒートブラスト"
+                ja: "ヒートブラスト",
+                ko: "히트블라스트"
             },
             damage: 90,
             cost: ["Fire", "Fire", "Fire"]

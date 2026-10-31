@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/077",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/077"
     },
     name: {
         en: "Gholdengo",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Gierspenst",
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
-        ja: "コレクレー"
+        ja: "コレクレー",
+        ko: "모으령"
     },
     description: {
         en: "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
@@ -72,7 +74,7 @@ const card: Card = {
             de: "Wirf 1 Münze für jede an dieses Pokémon angelegte {M}-Energie. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
             'pt-br': "Jogue uma moeda para cada Energia de {M} ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara.",
             ja: "このポケモンの{M}エネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
-            ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 {M}× 50[/Ctrl:NoBreak]데미지를 준다.",
+            ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다.",
             "zh-tw": "為該神奇寶貝附加的每 {M} 能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。"
         }
     }],

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/200",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/200",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/200"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/200",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/200"
     },
     name: {
         en: "Dodrio",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Dodu",
         "pt-br": "Doduo",
         "zh-tw": "嘟嘟",
-        ja: "ドードー"
+        ja: "ドードー",
+        ko: "두두"
     },
     attacks: [{
             cost: ["Colorless"],

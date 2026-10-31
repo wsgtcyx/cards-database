@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/062"
     },
     name: {
         en: "Minccino",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Diese Pokémon mögen es ordentlich und ordentlich. Sie fegen und stauben ständig ihren Lebensraum und benutzen ihre Schwänze als Besen.",
         "pt-br": "Esses Pokémon gostam de coisas limpas e organizadas. Eles estão sempre varrendo e tirando o pó de seu habitat, usando suas caudas como vassouras.",
         "zh-tw": "這些寶可夢喜歡乾淨整齊的東西。它們總是用尾巴當掃帚來清掃和撣掉棲息地的灰塵。",
-        ja: "きれい好きな 性格の ポケモン。 尻尾を ほうきがわりに いつも 棲み処の ほこりを 払っている。"
+        ja: "きれい好きな 性格の ポケモン。 尻尾を ほうきがわりに いつも 棲み処の ほこりを 払っている。",
+        ko: "깨끗한 것을 좋아하는 포켓몬이다.\n꼬리를 빗자루 대신 써서 항상\n거처의 먼지를 쓸어 낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Knuddler",
                 "pt-br": "Jogo Duro",
                 "zh-tw": "嬉鬧",
-                ja: "じゃれつく"
+                ja: "じゃれつく",
+                ko: "치근거리기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "10+"
         }

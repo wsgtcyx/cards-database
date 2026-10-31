@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/031",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/031"
     },
     name: {
         en: "Claydol",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Claydol",
         "zh-tw": "念力土偶",
         ja: "ネンドール",
+        ko: "점토도리",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Baltoy",
         "zh-tw": "天秤偶",
         ja: "ヤジロン",
+        ko: "오뚝군",
     },
     description: {
         en: "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses mysteriöse Pokémon begann sein Leben als Urmensch\nTonfigur, hergestellt vor über 20.000 Jahren.",
         "pt-br": "Este misterioso Pokémon começou a vida como um antigo\nestatueta de barro feita há mais de 20.000 anos.",
         "zh-tw": "這個神秘的神奇寶貝最初是一個古老的生物\n兩萬多年前製作的泥人。",
-        ja: "２万年前の 古代人が つくった 泥人形から 生まれたらしい 謎の ポケモン。"
+        ja: "２万年前の 古代人が つくった 泥人形から 生まれたらしい 謎の ポケモン。",
+        ko: "2만 년 전 고대인이\n만든 진흙인형에서\n태어난 듯한 의문의 포켓몬."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Heilblockade",
                 "pt-br": "Bloco de cura",
                 "zh-tw": "治療方塊",
-                ja: "かいふくふうじ"
+                ja: "かいふくふうじ",
+                ko: "회복봉인"
             },
             effect: {
                 en: "Pokémon (both yours and your opponent's) can't be healed.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Pokémon (sowohl deine als auch die deines Gegners) können nicht geheilt werden.",
                 "pt-br": "Pokémon (seus e do seu oponente) não podem ser curados.",
                 "zh-tw": "神奇寶貝（你的和你對手的）無法被治愈。",
-                ja: "このポケモンがいるかぎり、おたがいのポケモン全員のHPは回復しない。"
+                ja: "このポケモンがいるかぎり、おたがいのポケモン全員のHPは回復しない。",
+                ko: "이 포켓몬이 있는 한, 서로의 포켓몬 전원의 HP는 회복되지 않는다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Kraftstrahl",
                 "pt-br": "Feixe de energia",
                 "zh-tw": "動力光束",
-                ja: "パワービーム"
+                ja: "パワービーム",
+                ko: "파워빔"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

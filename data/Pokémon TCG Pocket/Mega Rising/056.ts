@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/056",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/056"
     },
     name: {
         en: "Wailmer",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wailmer",
         "zh-tw": "吼吼鯨",
         ja: "ホエルコ",
+        ko: "고래왕자",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es eine große Menge Meerwasser ansaugt,\nes wird wie ein großer, hüpfender Ball. Es frisst eine Tonne\nEssen täglich.",
         "pt-br": "Quando suga um grande volume de água do mar,\ntorna-se como uma bola grande e saltitante. Come uma tonelada\nde comida diariamente.",
         "zh-tw": "當它吸入大量海水時，\n它變得像一個大的有彈性的球。牠吃了一噸\n每天的食物。",
-        ja: "海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 １トンの エサを 食べる。"
+        ja: "海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 １トンの エサを 食べる。",
+        ko: "바닷물을 많이 마시면\n몸이 공처럼 튄다.\n매일 1톤의 먹이를 먹는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Surfen",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

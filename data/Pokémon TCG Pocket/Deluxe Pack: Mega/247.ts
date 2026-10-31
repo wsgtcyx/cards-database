@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/247",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/247",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/247",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/247"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/247",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/247"
     },
     name: {
         en: "Combee",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "O trio está unido desde o nascimento. Coleta néctar de flores constantemente para agradar Vespiquen.",
         "zh-tw": "從出生那時起就是3隻一起。為了取悅蜂女王，一直都在採集著花蜜。",
         ja: "生まれたときから ３匹 一緒。 ビークインに 喜んでもらうため いつも 花のミツを 集めている。",
-        ko: "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN."
+        ko: "태어났을 때부터 3마리가 함께한다.\n비퀸을 기쁘게 하기 위해\n항상 꽃의 꿀을 모으고 있다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Carga Indomável",
                 "zh-tw": "突擊",
                 ja: "とつげき",
-                ko: "Reckless Charge"
+                ko: "돌격"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到10點傷害。",
                 ja: "このポケモンにも10ダメージ。",
-                ko: "This Pokémon also does 10 damage to itself."
+                ko: "이 포켓몬에게도 10데미지를 준다."
             },
             damage: 30
         }

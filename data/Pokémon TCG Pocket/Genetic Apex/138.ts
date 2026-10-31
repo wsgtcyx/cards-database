@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/138",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/138",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/138"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/138",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/138"
     },
     name: {
         en: "Sandslash",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
-        ja: "サンド"
+        ja: "サンド",
+        ko: "모래두지"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

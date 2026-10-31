@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/007",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/007"
     },
     name: {
         en: "Durant",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Durant",
         "zh-tw": "鐵蟻",
         ja: "アイアント",
+        ko: "아이앤트",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sie greifen in Gruppen an und bedecken sich mit Stahl\nRüstung, um sich vor Heatmor zu schützen.",
         "pt-br": "Eles atacam em grupos, cobrindo-se com aço\narmadura para se proteger do Heatmor.",
         "zh-tw": "他們成群結隊地攻擊，用鋼鐵覆蓋自己\n保護自己免受熱魔傷害的盔甲。",
-        ja: "鋼の よろいを 身にまとう。 天敵の クイタランの 攻撃を 集団で 防ぎ 反撃する。"
+        ja: "鋼の よろいを 身にまとう。 天敵の クイタランの 攻撃を 集団で 防ぎ 反撃する。",
+        ko: "강철의 갑옷을 몸에 걸친다.\n천적인 앤티골의 공격을\n집단으로 막아 반격한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Berg Munch",
                 "pt-br": "Montanha Munch",
                 "zh-tw": "蒙克山",
-                ja: "やまかじり"
+                ja: "やまかじり",
+                ko: "산갉아먹기"
             },
             damage: 40,
             cost: ["Grass", "Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂牌。",
-                ja: "相手の山札を上から1枚トラッシュ。"
+                ja: "相手の山札を上から1枚トラッシュ。",
+                ko: "상대의 덱을 위에서부터 1장 트래쉬한다."
             }
         }],
     weaknesses: [{

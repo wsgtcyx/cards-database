@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/070"
     },
     name: {
         en: "Team Rocket's Master Plan",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt. Wirf 1 Münze. Bei Zahl ist dein Aktives Pokémon jetzt auch verwirrt.",
         "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso. Jogue uma moeda. Se sair coroa, seu Pokémon Ativo agora também estará Confuso.",
         "zh-tw": "將對手的戰鬥寶可夢混亂。擲1次硬幣若為反面,則也將自己的戰鬥寶可夢混亂。",
-        ja: "相手のバトルポケモンをこんらんにする。コインを1回投げウラなら、自分のバトルポケモンもこんらんにする。"
+        ja: "相手のバトルポケモンをこんらんにする。コインを1回投げウラなら、自分のバトルポケモンもこんらんにする。",
+        ko: "상대의 배틀 포켓몬을 혼란으로 만든다. 동전을 1번 던져서 뒷면이 나오면 자신의 배틀 포켓몬도 혼란으로 만든다."
     },
     trainerType: "Supporter"
 };

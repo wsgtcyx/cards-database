@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/054"
     },
     name: {
         en: "Genesect",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Genesect",
         "pt-br": "Genesect",
         "zh-tw": "蓋諾賽克特",
-        ja: "ゲノセクト"
+        ja: "ゲノセクト",
+        ko: "게노세크트"
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses uralte Käfer-Pokémon wurde vom Team verändert\nPlasma. Sie haben die Kanone auf der Rückseite verbessert.",
         "pt-br": "Este antigo Pokémon bug foi alterado pela equipe\nPlasma. Eles atualizaram o canhão nas costas.",
         "zh-tw": "這個古老的昆蟲神奇寶貝被團隊改變了\n血漿。他們升級了背上的大砲。",
-        ja: "プラズマ団によって 改造された 古代の むしポケモン。 背中の 大砲が パワーアップした。"
+        ja: "プラズマ団によって 改造された 古代の むしポケモン。 背中の 大砲が パワーアップした。",
+        ko: "플라스마단에게 개조당한\n고대의 벌레포켓몬이다.\n등에 있는 대포의 파워가 올라갔다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Metallexplosion",
                 "pt-br": "Explosão Metálica",
                 "zh-tw": "金屬爆破",
-                ja: "メタルブラスト"
+                ja: "メタルブラスト",
+                ko: "메탈블라스트"
             },
             damage: "10+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {M}-Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
                 "zh-tw": "該神奇寶貝每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。",
-                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。"
+                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。",
+                ko: "이 포켓몬의 {M}에너지의 개수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

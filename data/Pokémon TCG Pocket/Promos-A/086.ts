@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/086"
     },
     name: {
         en: "Jolteon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jolteon",
         "zh-tw": "雷伊布",
         ja: "サンダース",
+        ko: "쥬피썬더",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es konzentriert die emittierten schwachen elektrischen Ladungen\ndurch seine Zellen und feuert böse Blitze ab.",
         "pt-br": "Ele concentra as cargas elétricas fracas emitidas\npor suas células e lança relâmpagos perversos.",
         "zh-tw": "它集中發射的微弱電荷\n通過它的細胞並發射邪惡的閃電。",
-        ja: "細胞が 出している 弱い 電気を ひとまとめにして 強力な 電撃を 放つ。"
+        ja: "細胞が 出している 弱い 電気を ひとまとめにして 強力な 電撃を 放つ。",
+        ko: "세포가 내고 있는 약한\n전기를 하나로 모아서\n강력한 전기를 발산한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Anfangsbolzen",
                 "pt-br": "Parafuso Inicial",
                 "zh-tw": "起始螺栓",
-                ja: "ビギニングボルト"
+                ja: "ビギニングボルト",
+                ko: "비기닝볼트"
             },
             damage: "40+",
             cost: ["Lightning"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon in diesem Zug weiterentwickelt hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon evoluiu durante este turno, este ataque causará 20 danos a mais.",
                 "zh-tw": "如果這只寶可夢在本回合中進化，則這次攻擊造成的傷害增加 20 點。",
-                ja: "この番、このポケモンに進化していたなら、20ダメージ追加。"
+                ja: "この番、このポケモンに進化していたなら、20ダメージ追加。",
+                ko: "이 차례에 이 포켓몬으로 진화했다면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

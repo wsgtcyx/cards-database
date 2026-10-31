@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/067",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/067",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/067"
     },
     name: {
         en: "Hypno",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Halten Sie immer ein Pendel in der Hand, damit es in einem gleichmäßigen Rhythmus schwingt, was bei jedem in der Nähe Schläfrigkeit hervorruft.",
         "pt-br": "Sempre segurando um pêndulo que balança em um ritmo constante, causa sonolência em quem estiver por perto.",
         "zh-tw": "總是拿著一個以穩定節奏擺動的鐘擺，它會導致附近的任何人昏昏欲睡。",
-        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。"
+        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。",
+        ko: "항상 지니고 있는 추를\n규칙적인 리듬으로 흔들고 있다.\n가까이 가면 어쩐지 졸린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             },
             damage: "60+"
         }

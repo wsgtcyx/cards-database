@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/077",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/077",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/077"
     },
     name: {
         en: "Hoopa",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Mithilfe seiner Ringe hortet es Dinge, die ihm gefallen,\nan einem geheimen Ort. Es teleportiert diese, indem es\nsie durch seine Ringe bewegt.",
         "pt-br": "Pega coisas de que gosta e passa-as pelo seu arco para teletransportá-las para um lugar secreto.",
         "zh-tw": "用圓環將喜歡的東西\n傳送到秘密的住處，\n會鑽進圓環瞬間移動。",
-        ja: "気に入った ものを リングを 使い 秘密の 住処へ 集めている。 リングを 潜って テレポートする。"
+        ja: "気に入った ものを リングを 使い 秘密の 住処へ 集めている。 リングを 潜って テレポートする。",
+        ko: "마음에 든 것을 링을 사용해\n비밀의 거처에 모으고 있다.\n링을 통해 순간이동한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "惡作劇圓環",
                 "it": "Anello Monello",
                 "de": "Schabernackring",
-                ja: "いたずらリング"
+                ja: "いたずらリング",
+                ko: "장난링"
             },
             effect: {
                 en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Bevor du Schaden zufügst, mische alle Pokémon-Ausrüstungen von jedem Pokémon deines Gegners in sein Deck.",
                 "pt-br": "Antes de causar dano, embaralhe todas as Ferramentas Pokémon de cada um dos Pokémon do seu oponente no baralho dele.",
                 "zh-tw": "在造成傷害前,將對手的所有寶可夢身上的「寶可夢道具」卡全部放回對手的牌庫。",
-                ja: "ダメージを与える前に、相手のポケモン全員から「ポケモンのどうぐ」をすべて、相手の山札にもどす。"
+                ja: "ダメージを与える前に、相手のポケモン全員から「ポケモンのどうぐ」をすべて、相手の山札にもどす。",
+                ko: "데미지를 주기 전에 상대의 포켓몬 전원으로부터 「포켓몬의 도구」를 모두 상대의 덱으로 되돌린다."
             },
             damage: 20
         }

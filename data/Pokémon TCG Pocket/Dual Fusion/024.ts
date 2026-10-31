@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/024"
     },
     name: {
         en: "Cinderace",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Raboot",
         "zh-tw": "騰蹴小將",
         ja: "ラビフット",
-        ko: "Raboot"
+        ko: "래비풋"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Chute Giratório",
                 "zh-tw": "旋轉踢",
                 ja: "スピニングキック",
-                ko: "Spinning Kick"
+                ko: "스피닝킥"
             },
             cost: [
                 "Fire",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon também causa 20 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到20點傷害。",
                 ja: "このポケモンにも20ダメージ。",
-                ko: "This Pokémon also does 20 damage to itself."
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Embora Cinderace perca as estribeiras com facilidade, batalhará impecavelmente por um Treinador em quem confia.",
         "zh-tw": "雖然擁有容易得意忘形的性格，但只要有牠信任的訓練家在，就能展現出毫無破綻的戰鬥方式。",
         ja: "熱くなりやすい 性格だが 信頼する トレーナーが いると 隙のない 戦い方を みせる。",
-        ko: "Although Cinderace loses its cool easily, it will battle flawlessly for a Trainer it trusts."
+        ko: "쉽게 흥분하는 성격이지만\n신뢰하는 트레이너가 있으면\n빈틈없는 전법을 구사한다."
     }
 };
 

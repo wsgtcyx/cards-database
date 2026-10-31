@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/161",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/161",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/161"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/161",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/161"
     },
     name: {
         en: "Mienshao",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
-        ja: "コジョフー"
+        ja: "コジョフー",
+        ko: "비조푸"
     },
     attacks: [{
             cost: ["Colorless"],

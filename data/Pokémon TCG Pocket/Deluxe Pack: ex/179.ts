@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/179",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/179",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/179"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/179",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/179"
     },
     name: {
         en: "Oricorio",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Oricorio",
         "zh-tw": "花舞鳥",
         ja: "オドリドリ",
+        ko: "춤추새",
     },
     illustrator: "Jerky",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Diese Form von Oricorio hat violetten Nektar getrunken. Es nutzt\nätherische Tanzschritte, um die Geister der Toten herbeizurufen.",
         "pt-br": "Esta forma de Oricorio bebeu néctar roxo. Ele usa\npassos de dança etéreos para invocar os espíritos dos mortos.",
         "zh-tw": "這種形態的奧里科里奧正在啜飲紫色花蜜。它使用\n飄逸的舞步可以召喚死者的靈魂。",
-        ja: "むらさきのミツを 吸った 姿。 幻想的な ステップで 死者の 魂を 呼び出す。"
+        ja: "むらさきのミツを 吸った 姿。 幻想的な ステップで 死者の 魂を 呼び出す。",
+        ko: "보라꿀을 빨아들인 모습.\n환상적인 스텝으로\n죽은 자의 영혼을 불러낸다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Boshafter Tanz",
                 "pt-br": "Dança Malvada",
                 "zh-tw": "惡意之舞",
-                ja: "うらみのまい"
+                ja: "うらみのまい",
+                ko: "원한의춤"
             },
             damage: "20+",
             cost: ["Psychic"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

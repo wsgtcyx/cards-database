@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/026"
     },
     name: {
         en: "Slowpoke",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
         "pt-br": "Está sempre vagamente perdido em pensamentos, mas ninguém sabe no que está pensando. É bom pescar com a cauda.",
         "zh-tw": "它总是茫然若失，却无人知道它在想什么。它擅長用尾巴釣魚。",
-        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。"
+        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
+        ko: "항상 멍하니 있어서\n무슨 생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Heuler",
                 "pt-br": "Rosnadura",
                 "zh-tw": "叫聲",
-                ja: "なきごえ"
+                ja: "なきごえ",
+                ko: "울음소리"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon -20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
                 "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-20點傷害。",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }
     ],

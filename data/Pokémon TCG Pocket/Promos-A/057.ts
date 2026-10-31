@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/057",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/057"
     },
     name: {
         en: "Bidoof",

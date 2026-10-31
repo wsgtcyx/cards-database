@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/050"
     },
     name: {
         en: "Armarouge ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
         ja: "カルボウ",
-        ko: "Charcadet"
+        ko: "카르본"
     },
     stage: "Stage1",
     abilities: [
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Armadura",
                 "zh-tw": "裝甲",
                 ja: "そうこう",
-                ko: "Armor"
+                ko: "장갑"
             },
             effect: {
                 en: "This Pokémon takes −30 damage from attacks.",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon recebe −30 pontos de dano de ataques.",
                 "zh-tw": "這隻寶可夢受到招式的傷害-30點。",
                 ja: "このポケモンが受けるワザのダメージを-30する。",
-                ko: "This Pokémon takes −30 damage from attacks."
+                ko: "이 포켓몬이 받는 기술의 데미지를 -30한다."
             }
         }
     ],
@@ -89,7 +90,7 @@ const card: Card = {
                 "pt-br": "Canhão de Armadura",
                 "zh-tw": "鎧農炮",
                 ja: "アーマーキャノン",
-                ko: "Armor Cannon"
+                ko: "아머캐논"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon.",
@@ -100,7 +101,7 @@ const card: Card = {
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
                 ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
-                ko: "Discard a {R} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             },
             damage: 120
         }

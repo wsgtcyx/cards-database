@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/173",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/173",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/173",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/173"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/173",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/173"
     },
     name: {
         en: "Alolan Muk",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Sleimok",
         "pt-br": "Muk de Alola",
         "zh-tw": "阿羅拉臭臭泥",
-        ja: "アローラベトベトン"
+        ja: "アローラベトベトン",
+        ko: "알로라 질뻐기"
     },
     illustrator: "Mékayu",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Alola-Sleima",
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
-        ja: "アローラベトベター"
+        ja: "アローラベトベター",
+        ko: "알로라 질퍽이"
     },
     description: {
         en: "What look like fangs and claws are actually\ncrystallized poison that will afflict you at a\nmere touch, so don't get too close.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Was wie Reißzähne und Krallen aussieht, ist es tatsächlich\nkristallisiertes Gift, das dich gleichzeitig befallen wird\nbloße Berührung, also komm nicht zu nahe.",
         "pt-br": "O que parecem presas e garras são na verdade\nveneno cristalizado que irá afligir você em um\nmero toque, então não chegue muito perto.",
         "zh-tw": "看起來像尖牙和爪子的東西實際上是\n結晶的毒藥會讓你痛苦不堪\n只是觸摸，所以不要靠得太近。",
-        ja: "キバや ツメに 見えるのは 毒素の 結晶。 触れるだけで 毒に 侵されるので 近付くのは 危険。"
+        ja: "キバや ツメに 見えるのは 毒素の 結晶。 触れるだけで 毒に 侵されるので 近付くのは 危険。",
+        ko: "이빨이나 손톱으로 보이는 것은\n독소의 결정이다. 만지기만 해도\n독에 중독되므로 다가가면 위험하다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Kraft der Alchemie",
                 "pt-br": "Poder da Alquimia",
                 "zh-tw": "煉金術的力量",
-                ja: "かがくのちから"
+                ja: "かがくのちから",
+                ko: "화학의힘"
             },
             effect: {
                 en: "Basic Pokémon in play (both yours and your opponent's) have no Abilities.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einfache Pokémon im Spiel (sowohl deine als auch die deines Gegners) haben keine Fähigkeiten.",
                 "pt-br": "Os Pokémon básicos em jogo (seus e do seu oponente) não possuem habilidades.",
                 "zh-tw": "遊戲中的基本神奇寶貝（無論是你的還是你對手的）都沒有能力。",
-                ja: "このポケモンがいるかぎり、おたがいの場のたねポケモンの特性を、すべてなくす。"
+                ja: "このポケモンがいるかぎり、おたがいの場のたねポケモンの特性を、すべてなくす。",
+                ko: "이 포켓몬이 있는 한, 서로의 필드의 기본 포켓몬의 특성을 모두 없앤다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Schlammbombe",
                 "pt-br": "Bomba de lama",
                 "zh-tw": "污泥炸彈",
-                ja: "ヘドロばくだん"
+                ja: "ヘドロばくだん",
+                ko: "오물폭탄"
             },
             damage: 70,
             cost: ["Darkness", "Colorless", "Colorless"]

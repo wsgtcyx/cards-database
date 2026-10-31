@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/072"
     },
     name: {
         en: "Dusknoir",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Dusclops",
         "zh-tw": "彷徨夜靈",
         ja: "サマヨール",
+        ko: "미라몽",
     },
     description: {
         en: "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",

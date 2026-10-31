@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/010"
     },
     name: {
         en: "Sawsbuck",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Deerling",
         "zh-tw": "四季鹿",
         ja: "シキジカ",
-        ko: "Deerling"
+        ko: "사철록"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Joga Folha no Lixo",
                 "zh-tw": "落葉衝撞",
                 ja: "らくようタックル",
-                ko: "Leaf Litter Tackle"
+                ko: "낙엽태클"
             },
             cost: [
                 "Colorless",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Descarte 1 Energia {G} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{G}能量丟棄。",
                 ja: "このポケモンから{G}エネルギーを1個トラッシュ。",
-                ko: "Discard a {G} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {G}에너지를 1개 트래쉬한다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Sawsbuck tem muitos fãs. Dizem que, quanto mais escura for a folhagem vermelha em seus chifres, mais estiloso Sawsbuck será considerado.",
         "zh-tw": "有許多愛好者的寶可夢。愛好者們認為牠角上垂下的枝葉顏色越紅越是氣派。",
         ja: "愛好家の 多い ポケモン。 ツノから 垂れる 枝葉の 赤が 濃いものほど 乙と されている。",
-        ko: "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be."
+        ko: "애호가가 많은 포켓몬.\n뿔에서 늘어진 가지와 잎의 빨간색이\n짙을수록 멋진 것으로 여겨진다."
     }
 };
 

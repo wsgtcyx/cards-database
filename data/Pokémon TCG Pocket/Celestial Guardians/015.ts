@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/015"
     },
     name: {
         en: "Lurantis",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Fomantis",
         "zh-tw": "偽螳草",
         ja: "カリキリ",
+        ko: "짜랑랑",
     },
     description: {
         en: "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",

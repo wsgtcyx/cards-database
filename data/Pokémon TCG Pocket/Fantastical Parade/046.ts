@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/046"
     },
     name: {
         en: "Arrokuda",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
-        ja: "サシカマス"
+        ja: "サシカマス",
+        ko: "찌로꼬치"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Nachdem es sich satt gegessen hat, werden seine Bewegungen\nextrem träge. Das ist, wenn Cramorant\nschluckt es.",
         "pt-br": "Depois de ter comido até se fartar, seus movimentos tornam-se\nextremamente lento. Foi quando Cramorant\nengole tudo.",
         "zh-tw": "吃飽後，它的動作就變成了\n極其遲緩。就在那時，克拉莫蘭特\n吞掉它。",
-        ja: "腹一杯で 極端に 動きが 鈍った ところを ウッウに 丸飲みに される。"
+        ja: "腹一杯で 極端に 動きが 鈍った ところを ウッウに 丸飲みに される。",
+        ko: "배가 불러서 현저히\n움직임이 둔해지면\n윽우지가 통째로 삼켜버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 10,
             cost: ["Colorless"]

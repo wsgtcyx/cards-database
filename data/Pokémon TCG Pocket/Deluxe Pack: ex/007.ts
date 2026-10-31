@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/007",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/007"
     },
     name: {
         en: "Weedle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
         ja: "ビードル",
+        ko: "뿔충이",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Häufig in Wäldern und Grasland zu finden.\nEs hat einen scharfen, giftigen Stachel von etwa fünf Zentimetern Länge\nauf dem Kopf.",
         "pt-br": "Frequentemente encontrado em florestas e pastagens.\nTem uma farpa afiada e tóxica de cerca de cinco centímetros\nno topo de sua cabeça.",
         "zh-tw": "常見於森林和草原。\n它有一個大約兩英寸長的鋒利有毒倒鉤\n在它的頭頂上。",
-        ja: "森や 草地に 多く 生息。 頭の 先に ５センチぐらいの 小さく 鋭い 毒針を持つ。"
+        ja: "森や 草地に 多く 生息。 頭の 先に ５センチぐらいの 小さく 鋭い 毒針を持つ。",
+        ko: "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Multiplizieren",
                 "pt-br": "Multiplicar",
                 "zh-tw": "乘",
-                ja: "ふえる"
+                ja: "ふえる",
+                ko: "증식하기"
             },
             cost: ["Grass"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege 1 zufälliges Unkraut aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Weedle aleatório do seu deck no seu Banco.",
                 "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。",
-                ja: "自分の山札から「ビードル」をランダムに1枚、ベンチに出す。"
+                ja: "自分の山札から「ビードル」をランダムに1枚、ベンチに出す。",
+                ko: "자신의 덱에서 「뿔충이」를 랜덤으로 1장 벤치로 내보낸다."
             }
         }],
     weaknesses: [{

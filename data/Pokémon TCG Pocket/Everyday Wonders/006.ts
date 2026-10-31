@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/006"
     },
     name: {
         en: "Petilil",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn die Blätter auf seinem Kopf regelmäßig beschnitten werden, kann dieses Pokémon zu einer schönen, prallen Form heranwachsen.",
         "pt-br": "Se as folhas de sua cabeça forem podadas com regularidade, este Pokémon pode crescer e adquirir uma forma rechonchuda e fina.",
         "zh-tw": "如果定期修剪頭上的葉子，這隻寶可夢就能長成精緻豐滿的形狀。",
-        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。"
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。",
+        ko: "가끔 잎을 손질해 주면\n둥글둥글하게 훌륭한 모습으로\n자라난다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Doppeldreher",
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙重旋轉",
-                ja: "ダブルスピン"
+                ja: "ダブルスピン",
+                ko: "더블스핀"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

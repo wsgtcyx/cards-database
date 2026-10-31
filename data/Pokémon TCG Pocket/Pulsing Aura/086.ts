@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/086"
     },
     name: {
         en: "Sawk",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Der Karateschlag eines perfekt durchtrainierten\nKaradonis’ hat genug Wucht, um selbst das Meer\nzu spalten.",
         "pt-br": "Os golpes de caratê de um Sawk que treinou até o limite podem dividir o próprio oceano.",
         "zh-tw": "不斷重複練習的打擊鬼\n所使出的空手劈擁有\n足以劈開大海的破壞力。",
-        ja: "鍛えに 鍛えた ダゲキが 繰りだす 必殺 空手チョップは 海も 割るほどの 破壊力。"
+        ja: "鍛えに 鍛えた ダゲキが 繰りだす 必殺 空手チョップは 海も 割るほどの 破壊力。",
+        ko: "단련하고 단련한 타격귀가\n사용하는 필살 태권당수는\n바다도 가를 정도의 파괴력을 지녔다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Durchbruch",
                 "pt-br": "Quebra-telha",
                 "zh-tw": "劈瓦",
-                ja: "かわらわり"
+                ja: "かわらわり",
+                ko: "깨트리기"
             },
             effect: {
                 en: "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Der Schaden dieses Angriffs wird nicht durch Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
                 "zh-tw": "這次攻擊的傷害不受對手的活躍寶可夢的任何效果影響。",
-                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             },
             damage: 30
         }

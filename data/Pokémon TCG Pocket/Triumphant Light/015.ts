@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/015"
     },
     name: {
         en: "Azumarill",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Marill",
         "zh-tw": "瑪力露",
         ja: "マリル",
+        ko: "마릴",
     },
     description: {
         en: "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",

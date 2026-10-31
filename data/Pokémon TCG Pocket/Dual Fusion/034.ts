@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/034"
     },
     name: {
         en: "Shellder",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
                 ja: "みずでっぽう",
-                ko: "Water Gun"
+                ko: "물대포"
             },
             cost: [
                 "Colorless",
@@ -72,7 +73,7 @@ const card: Card = {
         "pt-br": "Este Pokémon é envolto em uma concha mais dura que diamante. O seu interior, porém, é surpreendentemente macio.",
         "zh-tw": "包覆著身體的硬殼比鑽石還要堅硬。不過殼裡面卻比想像中的還要柔軟。",
         ja: "ダイヤモンドよりも 硬い殻に 覆われている。 しかし 中は 意外と 柔らかい。",
-        ko: "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender."
+        ko: "다이아몬드보다 단단한\n껍데기에 싸여 있지만\n속은 의외로 말랑하다."
     }
 };
 

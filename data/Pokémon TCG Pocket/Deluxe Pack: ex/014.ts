@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/014",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/014"
     },
     name: {
         en: "Hoppip",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hoppip",
         "zh-tw": "毽子草",
         ja: "ハネッコ",
+        ko: "통통코",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Außerhalb kalter Regionen ist Hoppip zu finden\npraktisch überall. Das liegt am Wind\nträgt diese Art auf der ganzen Welt.",
         "pt-br": "Fora das regiões frias, o Hoppip pode ser encontrado\npraticamente em todos os lugares. Isto acontece porque o vento\ncarrega esta espécie por todo o mundo.",
         "zh-tw": "在寒冷地區之外，也可以找到 Hoppip\n幾乎無處不在。這是因為風\n該物種遍布世界各地。",
-        ja: "寒い 地域を 除けば わりと どこにでも いるのは 風に 乗り 各地を 移動しているからだ。"
+        ja: "寒い 地域を 除けば わりと どこにでも いるのは 風に 乗り 各地を 移動しているからだ。",
+        ko: "추운 지역을 제외하면\n의외로 어디에나 존재하는데\n이는 바람을 타고 각지를 이동하기 때문이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Grass"]

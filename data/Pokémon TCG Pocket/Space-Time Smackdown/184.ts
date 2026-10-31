@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/184",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/184",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/184",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/184"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/184",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/184"
     },
     name: {
         en: "Mismagius ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
         ja: "ムウマ",
+        ko: "무우마",
     },
     stage: "Stage1",
     suffix: "EX",

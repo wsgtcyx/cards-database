@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/105",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/105",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/105"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/105",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/105"
     },
     name: {
         en: "Binacle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Binacle",
         "zh-tw": "龜腳腳",
         ja: "カメテテ",
+        ko: "거북손손",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Nachdem zwei Binacle einen Stein geeigneter Größe gefunden haben, gehen sie\nhalten sich daran und leben zusammen.\nSie arbeiten zusammen, um bei Flut Nahrung zu sammeln.",
         "pt-br": "Depois que dois Binacle encontram uma pedra de tamanho adequado, eles\naderem a ele e vivem juntos.\nEles cooperam para coletar alimentos durante a maré alta.",
         "zh-tw": "兩隻 Binacle 找到一塊大小合適的岩石後，他們\n堅持下去並生活在一起。\n他們在漲潮時合作收集食物。",
-        ja: "２匹が 海辺の 手ごろな 岩に くっついて 暮らす。 満潮時 協力して エサを 集める。"
+        ja: "２匹が 海辺の 手ごろな 岩に くっついて 暮らす。 満潮時 協力して エサを 集める。",
+        ko: "2마리가 해변가의 적당한 바위에\n달라붙어서 지낸다. 만조가 되면\n협력해서 먹이를 모은다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Dual Chop",
                 "pt-br": "Corte duplo",
                 "zh-tw": "雙斬",
-                ja: "ダブルチョップ"
+                ja: "ダブルチョップ",
+                ko: "더블촙"
             },
             damage: "30×",
             cost: ["Fighting", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
-                ja: "コインを2回投げ、オモテの数×30ダメージ。"
+                ja: "コインを2回投げ、オモテの数×30ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
             }
         }],
     weaknesses: [{

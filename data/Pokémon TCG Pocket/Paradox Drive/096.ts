@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/096"
     },
     name: {
         en: "Tadbulb",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es schwimmt mit der in seinem Körper gespeicherten Elektrizität. Wenn Gewitterwolken in der Nähe sind, schwebt Blipp höher über dem Boden.",
         "pt-br": "Ele flutua usando a eletricidade armazenada em seu corpo. Quando há nuvens de trovoada, o Tadbulb flutuará mais alto do solo.",
         "zh-tw": "它利用體內儲存的電力漂浮。當雷雨雲出現時，光蚪仔 會漂浮在離地面更高的地方。",
-        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。"
+        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。",
+        ko: "몸에 비축된 전력으로 부유한다.\n뇌운이 있을 때는 평소보다 높게\n떠오른다고 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Ladevorgang",
                 "pt-br": "Carga",
                 "zh-tw": "充電",
-                ja: "じゅうでん"
+                ja: "じゅうでん",
+                ko: "충전"
             },
             effect: {
                 en: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該寶可夢上。",
-                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

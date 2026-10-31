@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/058"
     },
     name: {
         en: "Lanturn",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es blendet seine Beute mit einem starken Blitz und\nverschlingt die gelähmte Beute mit einem Schluck.",
         "pt-br": "Ele cega a presa com uma intensa explosão de luz. Com a presa incapacitada, o Pokémon a engole de um só gole.",
         "zh-tw": "它會發出強烈的光芒，使獵物失明。當獵物喪失行動能力時，寶可夢會一口氣將其吞下。",
-        ja: "まぶしい 光を 放って 相手の 目を くらませ 動けない あいだに まるのみに してしまう。"
+        ja: "まぶしい 光を 放って 相手の 目を くらませ 動けない あいだに まるのみに してしまう。",
+        ko: "눈부신 빛을 발산하여 상대의 눈을\n안 보이게 만들어 움직이지 못하는\n동안에 통째로 삼켜 버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Stromball",
                 "pt-br": "Bola de Eletricidade",
                 "zh-tw": "雷電球",
-                ja: "ライトニングボール"
+                ja: "ライトニングボール",
+                ko: "라이트닝볼"
             },
             damage: 70
         }

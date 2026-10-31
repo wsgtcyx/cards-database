@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/045",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/045"
     },
     name: {
         en: "Alomomola",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es treibt durch den Ozean. Um Mamolida\nversammeln sich stets viele Wasser-Pokémon.",
         "pt-br": "Estes Pokémon flutuam em mar aberto. Muitos Pokémon aquáticos se reúnem ao redor de Alomomola.",
         "zh-tw": "漂浮在汪洋大海上生活。\n保母曼波的周圍\n會聚集起許多水屬性寶可夢。",
-        ja: "大海原を 漂って 暮らす。 ママンボウの 周りには 多くの みずポケモンが 集まってくる。"
+        ja: "大海原を 漂って 暮らす。 ママンボウの 周りには 多くの みずポケモンが 集まってくる。",
+        ko: "넓은 바다를 떠돌아다니며 산다.\n맘복치 주변에는 많은\n물포켓몬들이 모여든다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "礦質水炮",
                 "it": "Pompa Minerale",
                 "de": "Mineralpumpe",
-                ja: "ミネラルポンプ"
+                ja: "ミネラルポンプ",
+                ko: "미네랄펌프"
             },
             effect: {
                 en: "Heal 10 damage from each of your Benched Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "將自己的所有備戰寶可夢恢復10HP。",
                 "it": "Cura ciascuno dei tuoi Pokémon in panchina da 10 danni.",
                 "de": "Heile 10 Schadenspunkte bei jedem deiner Pokémon auf der Bank.",
-                ja: "自分のベンチポケモン全員のHPを10回復。"
+                ja: "自分のベンチポケモン全員のHPを10回復。",
+                ko: "자신의 벤치 포켓몬 전원의 HP를 10회복."
             },
             damage: 40
         }

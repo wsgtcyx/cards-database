@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/401",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/401",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/401",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/401"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/401",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/401"
     },
     name: {
         en: "Starting Plains",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Cada Pokémon Básico em jogo (seus e do seu oponente) recebe +20 PS.",
         "zh-tw": "雙方場上所有基礎寶可夢的最大HP+20。",
         ja: "おたがいの場のたねポケモン全員の最大HPを+20する。",
-        ko: "Each Basic Pokémon in play (both yours and your opponent's) gets +20 HP."
+        ko: "서로의 필드의 기본 포켓몬 전원의 최대 HP를 +20한다."
     },
     trainerType: "Stadium"
 };

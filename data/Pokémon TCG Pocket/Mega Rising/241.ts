@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/241",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/241",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/241",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/241"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/241",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/241"
     },
     name: {
         en: "Hippowdon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hippowdon",
         "zh-tw": "河馬獸",
         ja: "カバルドン",
+        ko: "하마돈",
     },
     illustrator: "Teeziro",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Hippopotas",
         "zh-tw": "沙河馬",
         ja: "ヒポポタス",
+        ko: "히포포타스",
     },
     description: {
         en: "It brandishes its gaping mouth in a display of\nfearsome strength. It raises vast quantities of\nsand while attacking.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es schwenkt sein aufgerissenes Maul zur Schau\nfurchterregende Stärke. Es werden große Mengen davon erzeugt\nSand beim Angriff.",
         "pt-br": "Ele brande sua boca escancarada em uma exibição de\nforça temível. Ele levanta grandes quantidades de\nareia enquanto ataca.",
         "zh-tw": "它揮舞著張開的嘴巴，展示著\n可怕的力量。它籌集了大量\n攻擊時撒沙。",
-        ja: "大きく 口を 開けて 自分の 強さを アピール。 大量の 砂を 巻き上げて 攻撃する。"
+        ja: "大きく 口を 開けて 自分の 強さを アピール。 大量の 砂を 巻き上げて 攻撃する。",
+        ko: "크게 입을 벌려\n자신의 강함을 어필한다.\n대량의 모래를 일으켜 공격한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Krachende Fangzähne",
                 "pt-br": "Presas Quebrando",
                 "zh-tw": "破碎的獠牙",
-                ja: "クラッシュファング"
+                ja: "クラッシュファング",
+                ko: "크래시팽"
             },
             damage: 100,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ kann dieses Pokémon in deinem nächsten Zug nicht angreifen.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, durante seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則在你的下一個回合中，這只神奇寶貝無法攻擊。",
-                ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。"
+                ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 4
+    retreat: 4,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

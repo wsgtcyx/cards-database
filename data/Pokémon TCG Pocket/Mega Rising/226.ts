@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/226",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/226",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/226"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/226",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/226"
     },
     name: {
         en: "Lisia",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Elisia",
         "zh-tw": "琉琪亞",
         ja: "ルチア",
+        ko: "루티아",
     },
     illustrator: "Cona Nitanda",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Nimm 2 zufällige Basis-Pokémon mit 50 HP oder weniger aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 2 Pokémon Básicos aleatórios com 50 HP ou menos do seu baralho na sua mão.",
         "zh-tw": "從你的卡組中隨機將 2 只 HP 50 以下的基礎寶可夢加入手牌。",
-        ja: "自分の山札から、HPが50以下のたねポケモンをランダムに2枚、手札に加える。"
+        ja: "自分の山札から、HPが50以下のたねポケモンをランダムに2枚、手札に加える。",
+        ko: "자신의 덱에서 HP가 50이하인 기본 포켓몬을 랜덤으로 2장 패로 가져온다."
     },
-    trainerType: "Supporter"
+    trainerType: "Supporter",
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

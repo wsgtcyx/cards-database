@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/218",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/218",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/218"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/218",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/218"
     },
     name: {
         en: "Hitmonlee",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kicklee",
         "pt-br": "Hitmonlee",
         "zh-tw": "飛腿郎",
-        ja: "サワムラー"
+        ja: "サワムラー",
+        ko: "시라소몬"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses erstaunliche Pokémon hat ein unglaubliches Gespür für\nGleichgewicht. Es kann aus jeder Position nacheinander treten.",
         "pt-br": "Este incrível Pokémon tem um incrível senso de\nequilíbrio. Ele pode chutar sucessivamente de qualquer posição.",
         "zh-tw": "這個神奇的神奇寶貝有一種很棒的感覺\n平衡。它可以從任何位置連續踢球。",
-        ja: "見事な バランス感覚。 どんな 姿勢でも 連続で キックを 放てる すごい やつ。"
+        ja: "見事な バランス感覚。 どんな 姿勢でも 連続で キックを 放てる すごい やつ。",
+        ko: "훌륭한 밸런스 감각으로\n어떤 자세라도 연속\n킥을 날리는 대단한 녀석이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Streckkick",
                 "pt-br": "Chute Esticado",
                 "zh-tw": "伸展踢",
-                ja: "のびるキック"
+                ja: "のびるキック",
+                ko: "늘어나는킥"
             },
             cost: ["Fighting"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
-                ja: "相手のベンチポケモン1匹に30ダメージ。"
+                ja: "相手のベンチポケモン1匹に30ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게 30데미지를 준다."
             }
         }],
     weaknesses: [{

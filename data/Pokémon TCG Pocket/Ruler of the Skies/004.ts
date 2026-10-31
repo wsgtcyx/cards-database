@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/004",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/004",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/004"
     },
     name: {
         en: "Cascoon",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache.",
         "pt-br": "Ele nunca se esquece dos ataques sofridos enquanto estava no casulo. Após evoluir, ele procura vingança.",
         "zh-tw": "就算進化了也不會忘記\n待在繭中時受到的攻擊。\n一定會設法進行報復。",
-        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。"
+        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。",
+        ko: "고치에 들어가 있는 사이에\n받은 공격은 진화해도\n잊지 않고 반드시 앙갚음한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "繭聚一堂",
                 "it": "Collezionista di Crisalidi",
                 "de": "Kokonsammler",
-                ja: "まゆがあつまる"
+                ja: "まゆがあつまる",
+                ko: "모이는고치"
             },
             effect: {
                 en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。",
                 "it": "Prendi 3 Pokémon a caso tra Silcoon e Cascoon dal tuo mazzo e mettili nella tua panchina.",
                 "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank.",
-                ja: "自分の山札から「カラサリス」または「マユルド」をランダムに3枚、ベンチに出す。"
+                ja: "自分の山札から「カラサリス」または「マユルド」をランダムに3枚、ベンチに出す。",
+                ko: "자신의 덱에서 「실쿤」 또는 「카스쿤」을 랜덤으로 3장 벤치로 내보낸다."
             }
         }
     ],

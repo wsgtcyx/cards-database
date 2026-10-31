@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/107"
     },
     name: {
         en: "Mega Altaria ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Mega-Harmonie",
                 "pt-br": "Mega-harmonia",
                 "zh-tw": "超級和聲",
-                ja: "メガハーモニー"
+                ja: "メガハーモニー",
+                ko: "메가하모니"
             },
             effect: {
                 en: "This attack does 30 more damage for each of your Benched Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 danos a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "此攻擊對你的每隻後備寶可夢造成 30 點額外傷害。",
-                ja: "自分のベンチポケモンの数×30ダメージ追加。"
+                ja: "自分のベンチポケモンの数×30ダメージ追加。",
+                ko: "자신의 벤치 포켓몬의 수 × 30데미지를 추가한다."
             },
             damage: "40+"
         }

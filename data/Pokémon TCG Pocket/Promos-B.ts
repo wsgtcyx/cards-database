@@ -11,7 +11,7 @@ const set: Set = {
         de: "PROMO-B",
         "pt-br": "Promo-B",
         "zh-tw": "Promo-B",
-        ko: "Promo-B",
+        ko: "PROMO-B",
         ja: "PROMO-B"
     },
     serie: serie,
@@ -39,7 +39,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol1/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol1/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol1/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol1/logo.webp"
             },
             artwork_front: {
@@ -50,7 +50,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol1/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol1/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol1/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/artwork_front-c2d815723dd8.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol1/artwork_front.webp"
             }
         },
@@ -74,7 +74,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol2/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol2/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol2/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol2/logo.webp"
             },
             artwork_front: {
@@ -85,7 +85,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol2/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol2/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol2/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/artwork_front-76667ac310a0.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol2/artwork_front.webp"
             }
         },
@@ -109,7 +109,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol3/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol3/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol3/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol3/logo.webp"
             },
             artwork_front: {
@@ -120,7 +120,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol3/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol3/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol3/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/artwork_front-0991b6a7325d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol3/artwork_front.webp"
             }
         },
@@ -144,7 +144,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol4/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol4/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol4/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol4/logo.webp"
             },
             artwork_front: {
@@ -155,7 +155,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol4/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol4/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol4/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/artwork_front-c2d815723dd8.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol4/artwork_front.webp"
             }
         },
@@ -179,7 +179,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol5/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol5/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol5/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol5/logo.webp"
             },
             artwork_front: {
@@ -190,7 +190,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol5/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol5/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol5/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/artwork_front-76667ac310a0.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol5/artwork_front.webp"
             }
         },
@@ -214,7 +214,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol6/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol6/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol6/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol6/logo.webp"
             },
             artwork_front: {
@@ -225,7 +225,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol6/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol6/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol6/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/artwork_front-0991b6a7325d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol6/artwork_front.webp"
             }
         },
@@ -249,7 +249,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol7/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol7/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol7/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol7/logo.webp"
             },
             artwork_front: {
@@ -260,7 +260,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol7/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol7/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol7/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/artwork_front-c2d815723dd8.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol7/artwork_front.webp"
             }
         },
@@ -284,7 +284,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol8/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol8/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol8/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol8/logo.webp"
             },
             artwork_front: {
@@ -295,7 +295,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol8/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol8/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol8/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/artwork_front-76667ac310a0.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol8/artwork_front.webp"
             }
         },
@@ -319,7 +319,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol9/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol9/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol9/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol9/logo.webp"
             },
             artwork_front: {
@@ -330,7 +330,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol9/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol9/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol9/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/artwork_front-0991b6a7325d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol9/artwork_front.webp"
             }
         },
@@ -354,7 +354,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol10/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol10/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol10/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/logo-a6d3ade41f5d.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol10/logo.webp"
             },
             artwork_front: {
@@ -365,7 +365,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/boosters/vol10/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/boosters/vol10/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/boosters/vol10/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/artwork_front-c2d815723dd8.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol10/artwork_front.webp"
             }
         },
@@ -380,6 +380,12 @@ const set: Set = {
                 "zh-tw": "特典卡牌包 B系列第11波",
                 ko: "프로모 카드 팩 B시리즈 제11탄",
                 ja: "プロモカードパック Bシリーズ 第11弾"
+            },
+            artwork_front: {
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/artwork_front.webp"
+            },
+            logo: {
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/logo.webp"
             }
         },
         vol12: {
@@ -393,6 +399,12 @@ const set: Set = {
                 "zh-tw": "特典卡牌包 B系列第12波",
                 ko: "프로모 카드 팩 B시리즈 제12탄",
                 ja: "プロモカードパック Bシリーズ 第12弾"
+            },
+            artwork_front: {
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol12/artwork_front.webp"
+            },
+            logo: {
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol12/logo.webp"
             }
         },
         vol13: {
@@ -415,7 +427,7 @@ const set: Set = {
                 "de": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
-                "ko": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol13/logo.webp",
                 "ja": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp"
             },
             artwork_front: {
@@ -426,12 +438,18 @@ const set: Set = {
                 "de": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
-                "ko": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol13/artwork_front.webp",
                 "ja": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2025-10-30"
+    releaseDate: "2025-10-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/logo"
+	}
 }
 
 export default set

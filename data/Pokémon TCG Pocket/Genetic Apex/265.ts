@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/265",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/265",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/265",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/265"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/265",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/265"
     },
     name: {
         en: "Wigglytuff ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pummeluff",
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
-        ja: "プリン"
+        ja: "プリン",
+        ko: "푸린"
     },
     suffix: "EX",
     attacks: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/009"
     },
     name: {
         en: "Roserade",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Roselia",
         "zh-tw": "毒薔薇",
         ja: "ロゼリア",
+        ko: "로젤리아",
     },
     description: {
         en: "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",

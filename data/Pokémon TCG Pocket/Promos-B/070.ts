@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/070"
     },
     name: {
         en: "Sableye",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Substanzen der Edelsteine, die es frisst,\nverfestigen sich an seiner Körperoberfläche,\nwobei unendlich viele Musterungen entstehen.",
         "pt-br": "Os materiais das gemas que ele comeu flutuam na superfície de seu corpo e podem formar um número infinito de padrões entre os indivíduos.",
         "zh-tw": "吃下的寶石成分會在身體\n表面浮現出來。所形成的\n花紋有無限多種變化。",
-        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。"
+        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。",
+        ko: "신체의 표면에\n먹은 보석의 성분이 떠오른다.\n그 패턴은 무한대다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Juwelenbesetztes Geschenk",
                 "pt-br": "Presente com joias",
                 "zh-tw": "寶石好禮",
-                ja: "ジュエルギフト"
+                ja: "ジュエルギフト",
+                ko: "주얼기프트"
             },
             effect: {
                 en: "Take a random Energy from among {G}, {R}, {W}, {L}, {P}, {F}, {D}, and {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm eine zufällige Energie aus {G}, {R}, {W}, {L}, {P}, {F}, {D} und {M} Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma energia aleatória entre {G}, {R}, {W}, {L}, {P}, {F}, {D} e {M} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區的{G}、{R}、{W}、{L}、{P}、{F}、{D}和{M}能量隨機抽取一個能量，並將其附加到你的1隻後備寶可夢。",
-                ja: "自分のエネルギーゾーンから{G}{R}{W}{L}{P}{F}{D}{M}エネルギーの中からランダムに1個出し、ベンチポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{G}{R}{W}{L}{P}{F}{D}{M}エネルギーの中からランダムに1個出し、ベンチポケモンにつける。",
+                ko: "자신의 에너지존에서 {G}{R}{W}{L}{P}{F}{D}{M}에너지 중에서 랜덤으로 1개 내보내 벤치 포켓몬에게 붙인다."
             }
         }
     ],

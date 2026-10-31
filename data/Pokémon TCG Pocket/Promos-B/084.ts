@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/084"
     },
     name: { en: "Skitty", fr: "Skitty", es: "Skitty", it: "Skitty", de: "Eneco", "pt-br": "Skitty", "zh-tw": "向尾喵", ko: "에나비", ja: "エネコ" },
     illustrator: "Atsuko Nishida",
@@ -23,12 +24,13 @@ const card: Card = {
     stage: "Basic",
     attacks: [{
         cost: ["Colorless"],
-        name: { en: "Whimsy Tackle", fr: "Charge Bizarre", es: "Placaje Caprichoso", it: "Capriccioazione", de: "Launischer Tackle", "pt-br": "Investida Fantástica", "zh-tw": "胡思亂撞", ja: "きまぐれタックル" },
+        name: { en: "Whimsy Tackle", fr: "Charge Bizarre", es: "Placaje Caprichoso", it: "Capriccioazione", de: "Launischer Tackle", "pt-br": "Investida Fantástica", "zh-tw": "胡思亂撞", ja: "きまぐれタックル", ko: "변덕 태클" },
         effect: {
             en: "Flip a coin. If tails, this attack does nothing.", fr: "Lancez une pièce. Si c’est pile, cette attaque ne fait rien.", es: "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
             it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.", de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
             "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.", "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。",
-            ja: "コインを1回投げウラなら、このワザは失敗。"
+            ja: "コインを1回投げウラなら、このワザは失敗。",
+            ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
         },
         damage: 40
     }],

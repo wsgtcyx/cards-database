@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/038"
     },
     name: {
         en: "Barboach",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
         ja: "ドジョッチ",
+        ko: "미꾸리",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine beiden Whisker sorgen für ein empfindliches Radar. Sogar in\nIn schlammigen Gewässern kann es den Standort seiner Beute erkennen.",
         "pt-br": "Seus dois bigodes fornecem um radar sensível. Mesmo em\náguas lamacentas, ele pode detectar a localização de sua presa.",
         "zh-tw": "它的兩根鬍鬚提供了靈敏的雷達。即使在\n渾水中，它可以探測獵物的位置。",
-        ja: "２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。"
+        ja: "２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。",
+        ko: "2개의 수염은 민감한 레이더이다.\n진흙으로 탁해진 물속에서도\n먹이의 위치를 감지한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlammschuss",
                 "pt-br": "Tiro de lama",
                 "zh-tw": "泥彈",
-                ja: "マッドショット"
+                ja: "マッドショット",
+                ko: "머드샷"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

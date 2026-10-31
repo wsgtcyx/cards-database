@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/254",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/254",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/254",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/254"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/254",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/254"
     },
     name: {
         en: "Smoliv",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Protege-se dos inimigos liberando azeite da fruta em sua cabeça. O azeite é amargo e tão forte que é capaz de fazer alguém desistir de atacar.",
         "zh-tw": "會從頭上的果實噴出油來保護自己不受敵人攻擊。油的味道苦澀到會讓人跳起來。",
         ja: "頭の 実から オイルを 出して 敵から 身を 守る。 オイルは とびあがるほど 苦くて 渋い。",
-        ko: "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch."
+        ko: "머리의 열매에서 오일을 나오게 해서\n적으로부터 몸을 지킨다.\n오일은 펄쩍 뛸 만큼 떫고 쓰다."
     },
     stage: "Basic",
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 "zh-tw": "吸取",
                 pt: "Absorção",
                 ja: "すいとる",
-                ko: "Absorb"
+                ko: "흡수"
             },
             damage: 10,
             cost: [
@@ -74,7 +75,7 @@ const card: Card = {
                 "zh-tw": "將這隻寶可夢恢復10HP。",
                 pt: "Cure 10 pontos de dano deste Pokémon.",
                 ja: "このポケモンのHPを10回復。",
-                ko: "Heal 10 damage from this Pokémon."
+                ko: "이 포켓몬의 HP를 10회복."
             }
         }
     ],

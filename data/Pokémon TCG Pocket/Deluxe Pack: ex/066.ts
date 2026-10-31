@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/066",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/066",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/066",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/066"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/066",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/066"
 	},
 	name: {
 		en: "Flareon ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Flamara-ex",
 		"pt-br": "Flareon ex",
 		"zh-tw": "火伊布ex",
-		ja: "ブースターex"
+		ja: "ブースターex",
+		ko: "부스터 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Evoli",
 		"pt-br": "Eevee",
 		"zh-tw": "伊布",
-		ja: "イーブイ"
+		ja: "イーブイ",
+		ko: "이브이"
 	},
 	stage: "Stage1",
 	suffix: "EX",
@@ -51,7 +54,8 @@ const card: Card = {
 				de: "Verbrennen",
 				"pt-br": "Combustão",
 				"zh-tw": "燃燒",
-				ja: "バーンアップ"
+				ja: "バーンアップ",
+				ko: "번 업"
 			},
 			effect: {
 				en: "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
@@ -61,7 +65,8 @@ const card: Card = {
 				de: "Einmal während deines Zuges kannst du diesem Pokémon eine {R}-Energie von deinem Ablagestapel hinzufügen. Wenn du dies tust, füge diesem Pokémon 20 Schadenspunkte zu.",
 				"pt-br": "Uma vez durante o seu turno, você pode associar uma Energia {R} da sua pilha de descarte a este Pokémon. Se fizer isso, cause 20 de dano a este Pokémon.",
 				"zh-tw": "在你的回合中，你可以將你的棄牌堆中的一個 {R} 能量附加到這只神奇寶貝上。如果這樣做，則對該寶可夢造成 20 點傷害。",
-				ja: "自分の番に1回使える。自分のトラッシュから{R}エネルギーを1個、このポケモンにつける。その後、このポケモンに20ダメージ。"
+				ja: "自分の番に1回使える。自分のトラッシュから{R}エネルギーを1個、このポケモンにつける。その後、このポケモンに20ダメージ。",
+				ko: "자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 {R}에너지를 1개 이 포켓몬에게 붙인다. 그 뒤, 이 포켓몬에게 20데미지를 준다."
 			}
 		}
 	],
@@ -75,7 +80,8 @@ const card: Card = {
 				de: "Feuerspin",
 				"pt-br": "Giro de Fogo",
 				"zh-tw": "火旋",
-				ja: "ほのおのうず"
+				ja: "ほのおのうず",
+				ko: "회오리불꽃"
 			},
 			damage: 130,
 			cost: ["Fire", "Fire", "Colorless"],
@@ -87,7 +93,8 @@ const card: Card = {
 				de: "Lege 2 {R}-Energien von diesem Pokémon ab.",
 				"pt-br": "Descarte 2 {R} Energias deste Pokémon.",
 				"zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
-				ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
+				ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
+				ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다."
 			}
 		}
 	],

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/005"
     },
     name: {
         en: "Venusaur ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Venusaur ex",
         "zh-tw": "妙蛙花ex",
         ja: "フシギバナex",
+        ko: "이상해꽃 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
         ja: "フシギソウ",
+        ko: "이상해풀",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 60,
             cost: ["Grass", "Colorless", "Colorless"]
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Riesenblüte",
                 "pt-br": "Flor Gigante",
                 "zh-tw": "巨型綻放",
-                ja: "ジャイアントブルーム"
+                ja: "ジャイアントブルーム",
+                ko: "자이언트 블룸"
             },
             damage: 100,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンのHPを30回復。"
+                ja: "このポケモンのHPを30回復。",
+                ko: "이 포켓몬의 HP를 30회복."
             }
         }],
     weaknesses: [{

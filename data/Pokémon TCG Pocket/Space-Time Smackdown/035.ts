@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/035"
     },
     name: {
         en: "Piplup",

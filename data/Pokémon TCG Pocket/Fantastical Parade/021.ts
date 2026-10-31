@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/021",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/021"
     },
     name: {
         en: "Pyroar",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pyroleo",
         "pt-br": "Pyroar",
         "zh-tw": "火炎獅",
-        ja: "カエンジシ"
+        ja: "カエンジシ",
+        ko: "화염레오"
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Leufeo",
         "pt-br": "Litleo",
         "zh-tw": "小獅獅",
-        ja: "シシコ"
+        ja: "シシコ",
+        ko: "레오꼬"
     },
     description: {
         en: "The females of a pride work together to bring\ndown prey. It's thanks to them that their pride\ndoesn't starve.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Weibchen eines Rudels arbeiten bei der Zucht zusammen\nherunterliegende Beute. Ihnen ist es zu verdanken, dass sie stolz sind\nverhungert nicht.",
         "pt-br": "As fêmeas de um bando trabalham juntas para trazer\npresa. É graças a eles que seu orgulho\nnão passa fome.",
         "zh-tw": "獅群中的雌性共同努力，帶來\n下來的獵物。多虧了他們，他們的驕傲\n不會挨餓。",
-        ja: "群れの メスが 協力して 獲物を 仕留める。 メスたちの おかげで 群れが 飢えないのだ。"
+        ja: "群れの メスが 協力して 獲物を 仕留める。 メスたちの おかげで 群れが 飢えないのだ。",
+        ko: "무리의 암컷들이 협력해서\n먹잇감을 처리한다. 암컷들 덕분에\n무리가 굶지 않을 수 있는 것이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
                 "zh-tw": "熱風",
-                ja: "ヒートブラスト"
+                ja: "ヒートブラスト",
+                ko: "히트블라스트"
             },
             damage: 70,
             cost: ["Fire", "Fire"]

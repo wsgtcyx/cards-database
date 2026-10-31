@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/145",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/145",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/145"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/145",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/145"
     },
     name: {
         en: "Rolycoly",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rolycoly",
         "zh-tw": "小炭仔",
         ja: "タンドン",
+        ko: "탄동",
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Brocken der Körperoberfläche dieses Pokémon\ndie schon lange alt und abgeblättert sind\nals Brennstoff als Alternative zu Kohle verwendet.",
         "pt-br": "Pedaços da superfície do corpo deste Pokémon\nque envelheceram e descamaram há muito tempo\ntem sido usado como combustível como alternativa ao carvão.",
         "zh-tw": "這只神奇寶貝身體表面的大塊\n那些已經變老、剝落的東西早已\n被用作燃料作為煤炭的替代品。",
-        ja: "古くなり 剥がれ落ちた 体の 表面は 石炭の 代わりに 燃料として 使われてきた。"
+        ja: "古くなり 剥がれ落ちた 体の 表面は 石炭の 代わりに 燃料として 使われてきた。",
+        ko: "오래되어 떨어진 몸의 표면은\n석탄을 대신하는 연료로\n사용되어 왔다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 20,
             cost: ["Fighting"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

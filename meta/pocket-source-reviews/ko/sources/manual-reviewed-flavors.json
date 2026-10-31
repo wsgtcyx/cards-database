@@ -1,0 +1,23 @@
+{
+  "SP1-028": {
+    "value": "지금도 환상의 포켓몬이라고 전해진다. 그 모습을 본 자는 전국에서도 거의 없다.",
+    "sourceCardId": "PK_20_024100_02",
+    "sourceSha256": "b3763da7b023747106dae3ae93c3c03d0b9e4114fe9f7b2d4184fe9aaa8e1b10",
+    "sourceBytes": 263686,
+    "review": "Read each native Korean card face; the three colored prints carry the same text. OCR alone was insufficient for these low-contrast cards."
+  },
+  "SP1-029": {
+    "value": "지금도 환상의 포켓몬이라고 전해진다. 그 모습을 본 자는 전국에서도 거의 없다.",
+    "sourceCardId": "PK_20_024100_00",
+    "sourceSha256": "a982c3915d642b67accce3c0a74a0e1f1a83e65dea136d04500adf45e2979ec7",
+    "sourceBytes": 262158,
+    "review": "Read each native Korean card face; the three colored prints carry the same text. OCR alone was insufficient for these low-contrast cards."
+  },
+  "SP1-030": {
+    "value": "지금도 환상의 포켓몬이라고 전해진다. 그 모습을 본 자는 전국에서도 거의 없다.",
+    "sourceCardId": "PK_20_024100_01",
+    "sourceSha256": "f7a9a1f9321f72219b4f21e96ae0189a9f1c75d8f9a238d2160eb7732b34aff1",
+    "sourceBytes": 262395,
+    "review": "Read each native Korean card face; the three colored prints carry the same text. OCR alone was insufficient for these low-contrast cards."
+  }
+}

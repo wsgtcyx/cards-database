@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/037"
     },
     name: {
         en: "Empoleon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Prinplup",
         "zh-tw": "波皇子",
         ja: "ポッタイシ",
+        ko: "팽태자",
     },
     description: {
         en: "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",

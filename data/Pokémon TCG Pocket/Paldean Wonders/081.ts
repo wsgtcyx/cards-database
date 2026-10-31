@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/081"
     },
     name: {
         en: "Tandemaus",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tandemaus",
         "zh-tw": "一對鼠",
         ja: "ワッカネズミ",
+        ko: "두리쥐",
         pt: "Tandemaus"
     },
     illustrator: "Akira Komayama",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Das Paar hält zusammen, egal was passiert. Sie teilen jedes Futter, das sie finden, genau in zwei Hälften und essen es dann gemeinsam.",
         "pt-br": "O par permanece unido, não importa o que aconteça. Eles dividem qualquer alimento que encontram exatamente pela metade e depois comem juntos.",
         "zh-tw": "無論如何，這一對都會粘在一起。他們把找到的食物精確地分成兩半，然後一起吃。",
-        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。"
+        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。",
+        ko: "언제나 두 마리가 함께한다.\n발견한 먹이는 정확히 반으로 나눠서\n사이좋게 먹는다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Golpe Duplo",
                 "zh-tw": "雙重打擊",
                 ja: "ダブルアタック",
+                ko: "더블어택",
                 pt: "Golpe Duplo"
             },
             damage: "30×",
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
-                ja: "コインを2回投げ、オモテの数×30ダメージ。"
+                ja: "コインを2回投げ、オモテの数×30ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
             },
         },
     ],

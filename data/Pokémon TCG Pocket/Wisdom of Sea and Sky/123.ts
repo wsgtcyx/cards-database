@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/123",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/123"
     },
     name: {
         en: "Scizor",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Scizor",
         "zh-tw": "巨鉗螳螂",
         ja: "ハッサム",
+        ko: "핫삼",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Scyther",
         "zh-tw": "飛天螳螂",
         ja: "ストライク",
+        ko: "스라크",
     },
     description: {
         en: "This Pokémon's pincers, which contain steel, can\ncrush any hard object they get ahold of into bits.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Zangen dieses Pokémon, die Stahl enthalten, können das\nZerquetschen Sie alle harten Gegenstände, die ihnen in die Hände fallen.",
         "pt-br": "As pinças deste Pokémon, que contêm aço, podem\nesmague qualquer objeto duro que eles pegarem em pedaços.",
         "zh-tw": "該神奇寶貝的鉗子含有鋼，可以\n將他們抓住的任何堅硬物體壓成碎片。",
-        ja: "鋼鉄を 含んでいる ハサミで 捕らえたものは どんなに 硬くても コナゴナに 砕く。"
+        ja: "鋼鉄を 含んでいる ハサミで 捕らえたものは どんなに 硬くても コナゴナに 砕く。",
+        ko: "강철이 함유된 집게로 잡은 것은\n아무리 딱딱해도 산산조각이 난다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sturmstoß",
                 "pt-br": "Impulso do vendaval",
                 "zh-tw": "強風推力",
-                ja: "しっぷうづき"
+                ja: "しっぷうづき",
+                ko: "질풍찌르기"
             },
             damage: "50+",
             cost: ["Metal", "Metal"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon in diesem Zug von deiner Bank auf den aktiven Platz verschoben wurde, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon for movido do seu Banco para o Local Ativo neste turno, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果本回合這只神奇寶貝從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 50 點。",
-                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、50ダメージ追加。"
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、50ダメージ追加。",
+                ko: "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

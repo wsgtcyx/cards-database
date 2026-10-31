@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/103"
     },
     name: {
         en: "Altaria",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Bei gutem Wetter mischt es sich unter die Wolken\nund genießt die Freiheit. Es hat eine entzückende\nSopranstimme.",
         "pt-br": "Em dias ensolarados, ele voa livremente pelo céu e se mistura às nuvens. Canta em um lindo soprano.",
         "zh-tw": "陽光明媚的日子，它自由自在地飛過天空，融入雲彩之中。它以美麗的女高音歌唱。",
-        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。"
+        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。",
+        ko: "맑은 날 뭉게구름에 뒤섞인 채로\n넓은 하늘을 자유롭게 날아다니며\n아름다운 소프라노로 노래한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wellenreiten",
                 "pt-br": "Fazer a \"Ola\"",
                 "zh-tw": "朋友之環",
-                ja: "ともだちのわ"
+                ja: "ともだちのわ",
+                ko: "친구사이"
             },
             effect: {
                 en: "This attack does 20 more damage for each of your Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "此攻擊對你的每隻後備寶可夢造成 20 點額外傷害。",
-                ja: "自分のベンチポケモンの数×20ダメージ追加。"
+                ja: "自分のベンチポケモンの数×20ダメージ追加。",
+                ko: "자신의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "20+"
         }

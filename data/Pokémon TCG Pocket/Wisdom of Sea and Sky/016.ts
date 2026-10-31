@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/016",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/016"
     },
     name: {
         en: "Sunkern",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
         ja: "ヒマナッツ",
+        ko: "해너츠",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es fällt morgens plötzlich vom Himmel.\nDa es weiß, dass es schwach ist, ernährt es sich einfach, bis es sich entwickelt.",
         "pt-br": "De repente, cai do céu pela manhã.\nSabendo que está fraco, simplesmente se alimenta até evoluir.",
         "zh-tw": "早上它突然從天上掉下來。\n它知道自己很弱，只是簡單地進食，直到進化為止。",
-        ja: "ある朝 突然 降ってくる。 弱いのを 知っており 進化まで ひたすら 栄養を ためこむ。"
+        ja: "ある朝 突然 降ってくる。 弱いのを 知っており 進化まで ひたすら 栄養を ためこむ。",
+        ko: "어느 날 아침 갑자기 떨어진다.\n약한 것을 알고 있어 진화까지\n한결같이 영양을 모은다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Fleck",
                 "pt-br": "Borrão",
                 "zh-tw": "印跡",
-                ja: "ちょっとすいとる"
+                ja: "ちょっとすいとる",
+                ko: "조금흡수"
             },
             damage: 20,
             cost: ["Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
-                ja: "このポケモンのHPを10回復。"
+                ja: "このポケモンのHPを10回復。",
+                ko: "이 포켓몬의 HP를 10회복."
             }
         }],
     weaknesses: [{

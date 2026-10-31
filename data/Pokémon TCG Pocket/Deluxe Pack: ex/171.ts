@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/171",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/171",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/171"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/171",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/171"
     },
     name: {
         en: "Giratina",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Giratina",
         "pt-br": "Giratina",
         "zh-tw": "騎拉帝納",
-        ja: "ギラティナ"
+        ja: "ギラティナ",
+        ko: "기라티나"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon soll in einer Welt leben\nKehrseite von uns, wo Allgemeinwissen ist\nverzerrt und seltsam.",
         "pt-br": "Diz-se que este Pokémon vive em um mundo no\nreverso do nosso, onde o conhecimento comum é\ndistorcido e estranho.",
         "zh-tw": "據說這只神奇寶貝生活在\n我們的另一面，常識是\n扭曲而奇怪。",
-        ja: "常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。"
+        ja: "常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。",
+        ko: "상식이 통하지 않는\n이 세상의 이면에 있다고 불리는\n깨어진 세계에 서식한다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Schweben",
                 "pt-br": "Levitar",
                 "zh-tw": "懸浮",
-                ja: "ふゆう"
+                ja: "ふゆう",
+                ko: "부유"
             },
             effect: {
                 en: "If this Pokémon has any Energy attached, it has no Retreat Cost.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon Energie angelegt ist, fallen keine Rückzugskosten an.",
                 "pt-br": "Se este Pokémon tiver alguma Energia ligada, ela não terá Custo de Recuo.",
                 "zh-tw": "如果該神奇寶貝附加了任何能量，則它沒有撤退成本。",
-                ja: "このポケモンにエネルギーがついているなら、このポケモンのにげるためのエネルギーを、すべてなくす。"
+                ja: "このポケモンにエネルギーがついているなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
+                ko: "이 포켓몬에게 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
                 "zh-tw": "幽靈射擊",
-                ja: "ホロウショット"
+                ja: "ホロウショット",
+                ko: "홀로숏"
             },
             damage: 70,
             cost: ["Psychic", "Psychic", "Colorless"]

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/002"
     },
     name: {
         en: "Charmander",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Brasa",
                 "zh-tw": "火花",
                 ja: "ひのこ",
-                ko: "Ember"
+                ko: "불꽃세례"
             },
             cost: [
                 "Colorless",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
                 ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
-                ko: "Discard a {R} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             }
         }
     ],
@@ -80,7 +81,7 @@ const card: Card = {
         "pt-br": "Desde o momento em que nasce, uma chama queima na ponta da sua cauda. Se a sua chama apagar, sua vida também apagará.",
         "zh-tw": "從出生時開始尾巴上就有火焰在燃燒。火焰熄滅時，生命也會結束。",
         ja: "生まれたときから しっぽに 炎が ともっている。 炎が 消えたとき その 命は 終わって しまう。",
-        ko: "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
+        ko: "태어날 때부터 꼬리에 불꽃이\n타오르고 있다. 불꽃이 꺼지면\n생명도 다하고 만다."
     }
 };
 

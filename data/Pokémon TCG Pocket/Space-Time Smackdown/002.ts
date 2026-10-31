@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/002"
     },
     name: {
         en: "Gloom",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Oddish",
         "zh-tw": "走路草",
         ja: "ナゾノクサ",
+        ko: "뚜벅쵸",
     },
     description: {
         en: "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/305",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/305",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/305",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/305"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/305",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/305"
     },
     name: {
         en: "Kirlia",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
         ja: "ラルトス",
-        ko: "Ralts"
+        ko: "랄토스"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "O espírito animado de seu Treinador reforça o poder psicocinético deste Pokémon. Gira e dança quando está feliz.",
         "zh-tw": "訓練家開朗的情緒是牠的精神力量源泉。開心時會轉圈跳舞。",
         ja: "トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分になると クルクル 踊る。",
-        ko: "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy."
+        ko: "트레이너의 밝은 마음이\n사이코 파워의 근원이다.\n즐거워지면 빙글빙글 춤춘다."
     },
     attacks: [
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙重旋轉",
                 ja: "ダブルスピン",
-                ko: "Double Spin"
+                ko: "더블스핀"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
                 ja: "コインを2回投げ、オモテの数×20ダメージ。",
-                ko: "Flip 2 coins. This attack does 20 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

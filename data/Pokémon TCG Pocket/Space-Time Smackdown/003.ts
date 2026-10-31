@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/003"
     },
     name: {
         en: "Bellossom",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gloom",
         "zh-tw": "臭臭花",
         ja: "クサイハナ",
+        ko: "냄새꼬",
     },
     description: {
         en: "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",

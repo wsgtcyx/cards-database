@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/028"
     },
     name: {
         en: "Munna",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Während es Träume frisst, stößt es Dunst aus.\nBei fröhlichen Träumen ist dieser rosafarben,\nbei Alpträumen schwärzlich.",
         "pt-br": "Come sonhos e libera névoa. A névoa é rosa quando está comendo um sonho bom e preta quando está comendo um pesadelo.",
         "zh-tw": "在吃掉夢之後會吐出煙霧。\n吃了快樂的夢時，煙霧是粉紅色的；\n如果是惡夢，煙霧則是黑灰色的。",
-        ja: "夢を 食べて 煙を 吐く。 楽しい 夢なら ピンク色で 悪夢の ときは 黒っぽいぞ。"
+        ja: "夢を 食べて 煙を 吐く。 楽しい 夢なら ピンク色で 悪夢の ときは 黒っぽいぞ。",
+        ko: "꿈을 먹고 연기를 내뿜는다.\n즐거운 꿈이면 핑크색이고\n악몽이면 거무스름하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 20
         }

@@ -7,7 +7,7 @@ const root=new URL('../meta/pocket-source-reviews/SP1/',import.meta.url),read=f=
 function originalLocales(source) {
  const ast=ts.createSourceFile('card.ts',source,ts.ScriptTarget.Latest,true);
  const result=ts.transform(ast,[context=>{
-  const visit=node=>ts.isPropertyAssignment(node)&&node.name&&node.name.getText(ast).replace(/["']/g,'')==='ja'
+  const visit=node=>ts.isPropertyAssignment(node)&&node.name&&['ja','ko','symbol'].includes(node.name.getText(ast).replace(/["']/g,''))
    ? undefined : ts.visitEachChild(node,visit,context);
   return node=>ts.visitNode(node,visit);
  }]);
@@ -25,8 +25,9 @@ test('SP1 identity, locale, rarity and single-pack import stay complete',()=>{
   for(const l of config.ruleLocales){assert(c.description[l]);for(const a of c.attacks){assert(a.name[l]);if(a.effect)assert(a.effect[l]);}}
  }
  assert.deepEqual(Object.values(provenance.identityCrosswalk).map(c=>c.gameId),['PK_20_024100_02','PK_20_024100_00','PK_20_024100_01']);
- // The retained baseline predates full Japanese rules; it must not be imported as Japanese today.
+ // The retained baseline predates full Japanese and Korean rules; neither may be imported today.
  assert.throws(()=>renderReviewedSet(config,raw,audit),/Japanese imports require ja in ruleLocales/);
- const files=renderReviewedSet({...config,nameLocales:config.nameLocales.filter(locale=>locale!=='ja')},raw,audit);assert.equal(Object.keys(files).length,31);
+ assert.throws(()=>renderReviewedSet({...config,nameLocales:config.nameLocales.filter(locale=>locale!=='ja')},raw,audit),/Korean imports require ko in ruleLocales/);
+ const files=renderReviewedSet({...config,nameLocales:config.nameLocales.filter(locale=>!['ja','ko'].includes(locale))},raw,audit);assert.equal(Object.keys(files).length,31);
  for(const [f,text] of Object.entries(files)){assert.equal(originalLocales(fs.readFileSync(new URL('../data/Pokémon TCG Pocket/'+f,import.meta.url),'utf8')),originalLocales(text));if(f.includes('/'))assert(!text.includes('boosters:'));}
 });

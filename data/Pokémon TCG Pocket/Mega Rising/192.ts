@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/192",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/192",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/192"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/192",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/192"
     },
     name: {
         en: "Exploud",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Exploud",
         "zh-tw": "爆音怪",
         ja: "バクオング",
+        ko: "폭음룡",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Loudred",
         "zh-tw": "吼爆彈",
         ja: "ドゴーム",
+        ko: "노공룡",
     },
     description: {
         en: "This Pokémon can do more than just shout. To\ncommunicate with others of its kind, it'll emit all\nsorts of sounds from the holes in its body.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon kann mehr als nur schreien. Zu\nWenn man mit anderen seiner Art kommuniziert, wird es alles aussenden\nverschiedene Geräusche aus den Löchern in seinem Körper.",
         "pt-br": "Este Pokémon pode fazer mais do que apenas gritar. Para\nse comunicar com outros de sua espécie, ele emitirá todos\ntipos de sons vindos dos buracos em seu corpo.",
         "zh-tw": "這個神奇寶貝可以做的不僅僅是喊叫。至\n與同類的其他人交流，它會釋放出所有\n各種聲音從它身體上的孔洞中傳出。",
-        ja: "大声だけじゃない。 体の 穴から いろいろな 音色を 出し 仲間と 意思疎通を するのだ。"
+        ja: "大声だけじゃない。 体の 穴から いろいろな 音色を 出し 仲間と 意思疎通を するのだ。",
+        ko: "큰 목소리만 가진 것이 아니다.\n몸의 구멍에서 다양한 소리를 내어\n동료와 의사소통을 한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Dröhnendes Brüllen",
                 "pt-br": "Rugido estrondoso",
                 "zh-tw": "轟鳴轟鳴",
-                ja: "だいばくおん"
+                ja: "だいばくおん",
+                ko: "대폭음"
             },
             damage: 90,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann er keine Gegenstandskarten aus seiner Hand spielen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da sua mão.",
                 "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。",
-                ja: "次の相手の番、相手は手札からグッズを出して使えない。"
+                ja: "次の相手の番、相手は手札からグッズを出して使えない。",
+                ko: "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

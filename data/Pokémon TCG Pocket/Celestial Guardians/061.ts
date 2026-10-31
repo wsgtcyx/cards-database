@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/061"
     },
     name: {
         en: "Alolan Golem",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Geowaz",
         'pt-br': "Golem de Alola",
         ja: "アローラゴローニャ",
-        ko: "알로라딱구리",
+        ko: "알로라 딱구리",
         "zh-tw": "阿羅拉隆隆岩",
     },
     illustrator: "kawayoo",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Graveler de Alola",
         "zh-tw": "阿羅拉隆隆石",
         ja: "アローラゴローン",
+        ko: "알로라 데구리",
     },
     description: {
         en: "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/001",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/001"
     },
     name: {
         en: "Oddish",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Oddish",
         "zh-tw": "走路草",
         ja: "ナゾノクサ",
+        ko: "뚜벅쵸",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es dem Mondlicht ausgesetzt wird, beginnt es sich zu bewegen.\nNachts zieht es weit und breit umher, um seine Samen zu verteilen.",
         "pt-br": "Se exposto ao luar, ele começa a se mover.\nEle vagueia por toda parte à noite para espalhar suas sementes.",
         "zh-tw": "如果暴露在月光下，它就會開始移動。\n它在夜間四處遊蕩以傳播種子。",
-        ja: "月の光を 浴びて 動きだす。 夜のあいだに タネを あちこちに ばらまくため 歩きまわる。"
+        ja: "月の光を 浴びて 動きだす。 夜のあいだに タネを あちこちに ばらまくため 歩きまわる。",
+        ko: "달빛을 받아 움직인다.\n밤중에 씨앗을 여기저기\n뿌리기 위해 돌아다닌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Giftpulver",
                 "pt-br": "Pó Venenoso",
                 "zh-tw": "毒粉",
-                ja: "どくのこな"
+                ja: "どくのこな",
+                ko: "독가루"
             },
             damage: 10,
             cost: ["Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

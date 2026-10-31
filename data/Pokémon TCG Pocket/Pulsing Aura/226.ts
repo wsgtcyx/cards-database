@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/226",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/226"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/226",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/226"
     },
     name: {
         en: "Mega Blaziken ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Mega-Brand",
                 "pt-br": "Megaqueimação",
                 "zh-tw": "超級燃燒",
-                ja: "メガバーニング"
+                ja: "メガバーニング",
+                ko: "메가버닝"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon. O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "丟棄該寶可夢的 {R} 能量。你對手的活躍寶可夢現在被燒毀了。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다. 상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 120
         }

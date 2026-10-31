@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/030"
     },
     name: {
         en: "Clefable",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
         ja: "ピッピ",
+        ko: "삐삐",
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",

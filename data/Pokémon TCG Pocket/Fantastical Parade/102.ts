@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/102",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/102",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/102"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/102",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/102"
     },
     name: {
         en: "Skuntank",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Skuntank",
         "pt-br": "Skuntank",
         "zh-tw": "坦克臭鼬",
-        ja: "スカタンク"
+        ja: "スカタンク",
+        ko: "스컹탱크"
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Skunkapuh",
         "pt-br": "Stunky",
         "zh-tw": "臭鼬噗",
-        ja: "スカンプー"
+        ja: "スカンプー",
+        ko: "스컹뿡"
     },
     description: {
         en: "It attacks by spraying a repugnant fluid from its\ntail, but the stench dulls after a few squirts.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es greift an, indem es eine abstoßende Flüssigkeit aus seinem Körper versprüht\nSchwanz, aber der Gestank lässt nach ein paar Spritzern nach.",
         "pt-br": "Ele ataca pulverizando um fluido repugnante de seu\ncauda, mas o fedor diminui depois de algumas esguichos.",
         "zh-tw": "它通過從其身體噴出令人厭惡的液體來進行攻擊\n尾巴，但噴幾下後臭味就減弱了。",
-        ja: "尻尾の 先から くさい 臭いの 液体を 飛ばして 攻撃。 連射すると 臭いは 弱まる。"
+        ja: "尻尾の 先から くさい 臭いの 液体を 飛ばして 攻撃。 連射すると 臭いは 弱まる。",
+        ko: "꼬리 끝에서 역한 냄새가 나는\n액체를 뿌려 공격한다.\n연속해서 뿌리면 냄새가 약해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Nebelschuss",
                 "pt-br": "Tiro de cortina de fumaça",
                 "zh-tw": "煙幕彈",
-                ja: "えんまくだん"
+                ja: "えんまくだん",
+                ko: "연기탄"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
                 "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
-                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
             }
         }],
     weaknesses: [{

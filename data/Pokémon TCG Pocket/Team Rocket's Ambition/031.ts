@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/031"
     },
     name: {
         en: "Espurr",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein Gesicht ist ausdruckslos, aber innerlich bringt es enorme Anstrengung auf, um seine Psycho-Kräfte unter Kontrolle zu halten.",
         "pt-br": "Por trás do rosto inexpressivo de Espurr está uma luta tremenda para conter poder psíquico.",
         "zh-tw": "雖然看起來面無表情，但其實內心正非常努力地在控制自己的精神力量。",
-        ja: "無表情だが 内面では サイコパワーを 抑えこむのに 必死に なっているのだ。"
+        ja: "無表情だが 内面では サイコパワーを 抑えこむのに 必死に なっているのだ。",
+        ko: "무표정하지만 내면에서는\n사이코 파워를\n필사적으로 억누르고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Strahl",
                 "pt-br": "Feixe",
                 "zh-tw": "光束",
-                ja: "ビーム"
+                ja: "ビーム",
+                ko: "빔"
             },
             damage: 40
         }

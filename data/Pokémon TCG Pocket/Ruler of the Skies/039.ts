@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/039",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/039",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/039"
     },
     name: {
         en: "Sealeo",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Seejong balanciert gerne Pokébälle, Seemops\nund alles, was sonst noch rund ist, auf seiner\nNasenspitze.",
         "pt-br": "Este Pokémon tem o hábito de girar objetos redondos no nariz, sejam Poké Bolas ou até mesmo um Spheal.",
         "zh-tw": "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。",
-        ja: "タマザラシや モンスターボールなど 丸い ものなら なんでも 鼻の 上で 回してしまう 習性。"
+        ja: "タマザラシや モンスターボールなど 丸い ものなら なんでも 鼻の 上で 回してしまう 習性。",
+        ko: "대굴레오나 몬스터볼 등\n둥근 것이라면 뭐든지 코 위에\n올려놓고 돌리는 습성이 있다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "結冰飛濺",
                 "it": "Spruzzo Artico",
                 "de": "Frostiger Platscher",
-                ja: "ひょうけつスプラッシュ"
+                ja: "ひょうけつスプラッシュ",
+                ko: "빙결스플래시"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 70 more damage.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein {F}-Pokémon ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {F}, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為{F}寶可夢,則增加70點傷害。",
-                ja: "相手のバトルポケモンが{F}ポケモンなら、70ダメージ追加。"
+                ja: "相手のバトルポケモンが{F}ポケモンなら、70ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 {F}포켓몬이라면 70데미지를 추가한다."
             },
             damage: "50+"
         }

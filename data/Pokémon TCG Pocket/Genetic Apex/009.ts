@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/009"
     },
     name: {
         en: "Kakuna",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Hornliu",
         "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
-        ja: "ビードル"
+        ja: "ビードル",
+        ko: "뿔충이"
     },
     attacks: [{
             cost: ["Grass"],

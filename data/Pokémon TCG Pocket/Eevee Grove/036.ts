@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/036"
     },
     name: {
         en: "Milcery",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Milcery",
         "zh-tw": "小仙奶",
         ja: "マホミル",
+        ko: "마빌크",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon wurde aus süß riechendem geboren\nPartikel in der Luft. Sein Körper besteht aus Creme.",
         "pt-br": "Este Pokémon nasceu de um cheiro doce\npartículas no ar. Seu corpo é feito de creme.",
         "zh-tw": "這只神奇寶貝是從甜味中誕生的\n空氣中的顆粒。它的身體是由奶油製成的。",
-        ja: "クリームで できた 体を もつ。 空気中の 甘い 香りの 成分が 集まって 生まれた。"
+        ja: "クリームで できた 体を もつ。 空気中の 甘い 香りの 成分が 集まって 生まれた。",
+        ko: "크림으로 이루어진 몸을 가졌다.\n공기 중을 떠도는 달콤한 향기의\n성분이 모여서 태어났다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽",
-                ja: "スイーツリレー"
+                ja: "スイーツリレー",
+                ko: "스위트릴레이"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
                 "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
-                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。",
+                ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

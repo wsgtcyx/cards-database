@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/101",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/101"
     },
     name: {
         en: "Infernape ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Infernape ex",
         "zh-tw": "烈焰猴ex",
         ja: "ゴウカザルex",
+        ko: "초염몽 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
         ja: "モウカザル",
+        ko: "파이숭이",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Flare Blitz",
                 "pt-br": "Blitz Flamejante",
                 "zh-tw": "耀斑閃電戰",
-                ja: "フレアドライブ"
+                ja: "フレアドライブ",
+                ko: "플레어드라이브"
             },
             damage: 140,
             cost: ["Fire", "Fire"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Lege alle {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte todas as energias {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーをすべてトラッシュ。"
+                ja: "このポケモンから{R}エネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 모두 트래쉬한다."
             }
         }],
     weaknesses: [{

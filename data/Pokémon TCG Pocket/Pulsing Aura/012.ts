@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/012"
     },
     name: {
         en: "Breloom",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die Samen an seinem Schwanz bestehen aus giftigen Sporen. Es schlägt Feinde mit schnellen, praktisch unsichtbaren Schlägen nieder.",
         "pt-br": "As sementes em sua cauda são feitas de esporos tóxicos. Ele nocauteia os inimigos com socos rápidos e praticamente invisíveis.",
         "zh-tw": "它尾巴上的種子是由有毒孢子製成的。它能用快速、幾乎看不見的拳頭擊倒敵人。",
-        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。"
+        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。",
+        ko: "꼬리의 씨앗은 독 포자로 되어 있다.\n움직임이 보이지 않을 정도로\n재빠른 펀치로 상대를 쓰러뜨린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Angriff im Morgengrauen",
                 "pt-br": "Golpe de Ninar",
                 "zh-tw": "破曉之擊",
-                ja: "ねこみをおそう"
+                ja: "ねこみをおそう",
+                ko: "잠들때노리기"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Asleep, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners schläft, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Adormecido, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢處於睡眠狀態，則此攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンがねむりなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンがねむりなら、60ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 잠듦이라면 60데미지를 추가한다."
             },
             damage: "30+"
         }

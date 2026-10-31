@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/105",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/105",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/105"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/105",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/105"
     },
     name: {
         en: "Dusknoir",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dusknoir",
         "zh-tw": "黑夜魔靈",
         ja: "ヨノワール",
+        ko: "야느와르몽",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Dusclops",
         "zh-tw": "彷徨夜靈",
         ja: "サマヨール",
+        ko: "미라몽",
     },
     description: {
         en: "With the mouth on its belly, Dusknoir swallows its\ntarget whole. The soul is the only thing eaten—\nDusknoir disgorges the body before departing.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mit dem Mund auf dem Bauch schluckt Dusknoir es\nZiel ganz. Die Seele ist das Einzige, was gegessen wird –\nDusknoir spuckt den Körper aus, bevor er geht.",
         "pt-br": "Com a boca na barriga, Dusknoir engole\nalvo inteiro. A alma é a única coisa comida -\nDusknoir despeja o corpo antes de partir.",
         "zh-tw": "黑夜將嘴放在腹部，將其吞下\n目標整體。靈魂是唯一被吃掉的東西——\n暮色在離開前吐出了屍體。",
-        ja: "狙った 相手を 腹の口で 丸飲み。 魂だけを 食い 肉体は 吐き出し 去っていく。"
+        ja: "狙った 相手を 腹の口で 丸飲み。 魂だけを 食い 肉体は 吐き出し 去っていく。",
+        ko: "노린 상대를 배의 입으로\n통째로 삼킨다. 영혼만 먹은 뒤\n육체는 뱉어내고 떠난다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "In die Dunkelheit verblassen",
                 "pt-br": "Desaparecer na escuridão",
                 "zh-tw": "漸入黑暗",
-                ja: "やみにきえる"
+                ja: "やみにきえる",
+                ko: "어둠으로 사라지기"
             },
             effect: {
                 en: "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon kampfunfähig ist, wirf eine Münze. Bei „Kopf“ kann Ihr Gegner dafür keine Punkte bekommen.",
                 "pt-br": "Quando este Pokémon for nocauteado, jogue uma moeda. Se der cara, seu oponente não poderá ganhar nenhum ponto por isso.",
                 "zh-tw": "當這只神奇寶貝被擊倒時，擲硬幣。如果出現正面，您的對手將無法獲得任何分數。",
-                ja: "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はポイントをとれない。"
+                ja: "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はポイントをとれない。",
+                ko: "이 포켓몬이 기절했을 때 자신은 동전을 1번 던진다. 앞면이 나오면 상대는 포인트를 가져갈 수 없다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
                 "zh-tw": "錘入",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 80,
             cost: ["Psychic", "Colorless"]
@@ -89,6 +96,9 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/104",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/104"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/104",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/104"
     },
     name: {
         en: "Indeedee ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Pass auf",
                 "pt-br": "Vigiar",
                 "zh-tw": "貼心",
-                ja: "こころくばり"
+                ja: "こころくばり",
+                ko: "챙겨주기"
             },
             effect: {
                 en: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, você pode curar 20 pontos de dano do seu Pokémon Ativo.",
                 "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍寶可夢的傷害。",
-                ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。"
+                ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 20회복."
             }
         }
     ],
@@ -67,7 +70,8 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "30+"
         }

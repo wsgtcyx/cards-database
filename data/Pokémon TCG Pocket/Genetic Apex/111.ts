@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/111",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/111",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/111"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/111",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/111"
     },
     name: {
         en: "Heliolisk",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Eguana",
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
-        ja: "エリキテル"
+        ja: "エリキテル",
+        ko: "목도리키텔"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

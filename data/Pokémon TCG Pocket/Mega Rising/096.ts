@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/096"
     },
     name: {
         en: "Boltund",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Boltund",
         "zh-tw": "逐電犬",
         ja: "パルスワン",
+        ko: "펄스멍",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
         ja: "ワンパチ",
+        ko: "멍파치",
     },
     description: {
         en: "It sends electricity through its legs to boost their\nstrength. Running at top speed, it easily breaks\n50 mph.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es sendet Elektrizität durch seine Beine, um sie anzukurbeln\nStärke. Bei Höchstgeschwindigkeit geht es leicht kaputt\n50 Meilen pro Stunde.",
         "pt-br": "Ele envia eletricidade pelas pernas para aumentar seu\nforça. Correndo em alta velocidade, ele quebra facilmente\n50 mph.",
         "zh-tw": "它通過腿部發送電力來增強其力量\n力量。高速跑很容易壞\n50 英里/小時。",
-        ja: "電気の 力で 脚力を 増強。 トップスピードは 時速 ９０キロを 軽く 超える。"
+        ja: "電気の 力で 脚力を 増強。 トップスピードは 時速 ９０キロを 軽く 超える。",
+        ko: "전기의 힘으로 다릿심을\n강하게 키운다. 최고 속도는\n시속 90km를 가볍게 넘긴다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
                 "zh-tw": "電擊踢",
-                ja: "エレキック"
+                ja: "エレキック",
+                ko: "일렉트릭킥"
             },
             damage: 60,
             cost: ["Lightning", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

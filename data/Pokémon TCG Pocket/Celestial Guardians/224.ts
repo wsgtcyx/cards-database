@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/224",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/224",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/224"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/224",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/224"
     },
     name: {
         en: "Machoke",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Machop",
         "zh-tw": "腕力",
         ja: "ワンリキー",
+        ko: "알통몬",
     },
     description: {
         en: "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",

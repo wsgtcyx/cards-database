@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/130",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/130"
     },
     name: {
         en: "Delcatty",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
         ja: "エネコ",
+        ko: "에나비",
     },
     description: {
         en: "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",

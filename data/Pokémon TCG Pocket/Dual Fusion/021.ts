@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/021"
     },
     name: {
         en: "Salazzle",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
         ja: "ヤトウモリ",
-        ko: "Salandit"
+        ko: "야도뇽"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Raio de Calor",
                 "zh-tw": "高溫爆破",
                 ja: "ヒートブラスト",
-                ko: "Heat Blast"
+                ko: "히트블라스트"
             },
             cost: [
                 "Fire",
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "Salazzle deixa os oponentes zonzos com seu gás venenoso, depois os cativa com movimentos fascinantes para transformá-los em servos leais.",
         "zh-tw": "會用妖魅的身姿迷惑獵物的毒瓦斯將獵物薰得神魂顛倒，使其變成自己忠實的僕人。",
         ja: "毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。",
-        ko: "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants."
+        ko: "독가스에 어질어질해진 상대를\n요염한 몸놀림으로 유혹해서\n충실한 부하로 만들어 버린다."
     }
 };
 

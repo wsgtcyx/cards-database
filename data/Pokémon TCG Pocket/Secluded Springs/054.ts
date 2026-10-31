@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/054"
     },
     name: {
         en: "Dragalge",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dragalge",
         "zh-tw": "毒藻龍",
         ja: "ドラミドロ",
+        ko: "드래캄",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
         ja: "クズモー",
+        ko: "수레기",
     },
     description: {
         en: "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mit einem flüssigen Gift greift Dragalge wahllos an\ngreift alles an, was in sein Revier gelangt.\nDieses Gift kann die Unterseite von Booten angreifen.",
         "pt-br": "Usando um veneno líquido, Dragalge indiscriminadamente\nataca qualquer coisa que entre em seu território.\nEste veneno pode corroer a parte inferior dos barcos.",
         "zh-tw": "使用液體毒藥，隨意拖拽\n攻擊任何進入其領地的東西。\n這種毒物會腐蝕船的底部。",
-        ja: "縄張りに 入り込んだ 相手を 見境なく 毒液で 攻撃。 船底を 腐らせる 猛毒だ。"
+        ja: "縄張りに 入り込んだ 相手を 見境なく 毒液で 攻撃。 船底を 腐らせる 猛毒だ。",
+        ko: "영역에 들어온 상대를\n다짜고짜 독액으로 공격한다.\n배의 밑바닥을 썩게 만드는 맹독을 지녔다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schlammbombe",
                 "pt-br": "Bomba de lama",
                 "zh-tw": "污泥炸彈",
-                ja: "ヘドロばくだん"
+                ja: "ヘドロばくだん",
+                ko: "오물폭탄"
             },
             damage: 70,
             cost: ["Darkness", "Colorless", "Colorless"]

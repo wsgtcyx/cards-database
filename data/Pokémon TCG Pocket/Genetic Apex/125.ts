@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/125",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/125"
     },
     name: {
         en: "Hypno",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Traumato",
         "pt-br": "Drowzee",
         "zh-tw": "催眠貘",
-        ja: "スリープ"
+        ja: "スリープ",
+        ko: "슬리프"
     },
     abilities: [{
             type: "Ability",

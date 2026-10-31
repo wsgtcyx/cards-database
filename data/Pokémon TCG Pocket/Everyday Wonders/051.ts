@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/051"
     },
     name: {
         en: "Jigglypuff",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es Gesang einsetzt, steigt seine Ausdauer\nund seine Zuhörer werden in Tiefschlaf versetzt.",
         "pt-br": "Se inflar para cantar uma canção de ninar, pode durar mais tempo e causar certa sonolência no público.",
         "zh-tw": "如果它充氣來唱搖籃曲，它可以表演更長時間並導致觀眾昏昏欲睡。",
-        ja: "大きく 体を ふくらませてから 歌う 子守歌は いつもより 長くて ぜったいに 眠くなる。"
+        ja: "大きく 体を ふくらませてから 歌う 子守歌は いつもより 長くて ぜったいに 眠くなる。",
+        ko: "크게 몸을 부풀리고 노래할 때의\n자장가는 평소보다 길어서\n반드시 잠이 온다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Stompy Stomp",
                 "pt-br": "Stompy Stomp",
                 "zh-tw": "踏踏",
-                ja: "ふみふみ"
+                ja: "ふみふみ",
+                ko: "꾸욱꾸욱"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
-                ja: "コインを2回投げ、オモテの数×30ダメージ。"
+                ja: "コインを2回投げ、オモテの数×30ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다."
             },
             damage: "30x"
         }

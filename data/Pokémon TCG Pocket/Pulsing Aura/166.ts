@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/166",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/166"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/166",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/166"
     },
     name: {
         en: "Oricorio",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Choreogel hat Rosa Nektar geschlürft.\nMit eleganten Tanzschritten erhöht es seine\nPsycho-Kräfte, ehe es diese freisetzt.",
         "pt-br": "Esta forma de Oricorio bebericou néctar rosa.\nEleva a mente com os passos suaves da sua dança\ne depois libera energia psíquica.",
         "zh-tw": "這種形式的 Oricorio 正在啜飲粉紅色的花蜜。它用輕柔的舞步提升心靈，然後釋放心靈能量。",
-        ja: "うすもものミツを 吸った 姿。 緩やかな ステップで 精神を 高め サイコパワーを 放つ。"
+        ja: "うすもものミツを 吸った 姿。 緩やかな ステップで 精神を 高め サイコパワーを 放つ。",
+        ko: "연분홍꿀을 빨아들인 모습.\n사뿐한 스텝으로 정신력을 높여서\n사이코 파워를 방출한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Piesacken der Taumelnden",
                 "pt-br": "Cutucar a Confusão",
                 "zh-tw": "暈眩追擊",
-                ja: "めまいのついげき"
+                ja: "めまいのついげき",
+                ko: "현기증추격"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Confused, this attack does 40 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果對手的出戰寶可夢處於混亂狀態，則這次攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンがこんらんなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンがこんらんなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 혼란이라면 40데미지를 추가한다."
             },
             damage: "20+"
         }

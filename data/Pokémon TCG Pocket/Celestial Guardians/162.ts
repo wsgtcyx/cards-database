@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/162",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/162",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/162"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/162",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/162"
     },
     name: {
         en: "Alolan Vulpix",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Vulpix",
         'pt-br': "Vulpix de Alola",
         ja: "アローラロコン",
-        ko: "알로라식스테일",
+        ko: "알로라 식스테일",
         "zh-tw": "阿羅拉六尾"
     },
     illustrator: "tono",

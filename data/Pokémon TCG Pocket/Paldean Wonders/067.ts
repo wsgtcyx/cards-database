@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/067"
     },
     name: {
         en: "Maschiff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Maschiff",
         "zh-tw": "偶叫獒",
         ja: "オラチフ",
+        ko: "오라티프",
         pt: "Maschiff"
     },
     illustrator: "KEIICHIRO ITO",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Sein gut entwickelter Kiefer und seine Reißzähne sind stark genug, um durch Felsbrocken zu brechen, und sein dickes Fett sorgt für eine hervorragende Verteidigung.",
         "pt-br": "Sua mandíbula e presas bem desenvolvidas são fortes o suficiente para quebrar pedras, e sua gordura espessa é uma excelente defesa.",
         "zh-tw": "它發達的下巴和尖牙足以咬碎巨石，而厚厚的脂肪則具有極佳的防禦能力。",
-        ja: "発達した あごと キバは 岩を 噛み砕く 力強さ。 厚い 脂肪は 防御力 抜群。"
+        ja: "発達した あごと キバは 岩を 噛み砕く 力強さ。 厚い 脂肪は 防御力 抜群。",
+        ko: "발달된 턱과 이빨은\n바위도 분쇄할 정도로 강하다.\n두꺼운 지방은 우수한 방어력을 자랑한다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Morder",
                 "zh-tw": "咬",
                 ja: "かみつく",
+                ko: "물기",
                 pt: "Mordida",
                 'es-mx': "Mordida"
             },

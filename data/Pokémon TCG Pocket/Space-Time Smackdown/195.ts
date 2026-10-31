@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/195",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/195",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/195"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/195",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/195"
     },
     name: {
         en: "Mars",

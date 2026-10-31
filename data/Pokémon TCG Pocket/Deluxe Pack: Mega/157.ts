@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/157",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/157",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/157"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/157",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/157"
     },
     name: {
         en: "Mega Mawile ex",
@@ -44,7 +45,7 @@ const card: Card = {
                 "pt-br": "Mastigada Quente",
                 "zh-tw": "越咬越烈",
                 ja: "ヒートアップクランチ",
-                ko: "Heat-Up Crunch"
+                ko: "히트업크런치"
             },
             damage: 60,
             cost: [
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Até este Pokémon sair do Campo Ativo, o ataque Mastigada Quente deste Pokémon causará +30 pontos de dano. Este efeito acumula.",
                 "zh-tw": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越咬越烈」的傷害+30點。這個效果會重複。",
                 ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ヒートアップクランチ」のダメージを+30する。この効果は重なる。",
-                ko: "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+                ko: "이 포켓몬이 배틀필드를 떠날 때까지 이 포켓몬의 「히트업크런치」의 데미지를 +30한다. 이 효과는 중복된다."
             }
         }
     ],

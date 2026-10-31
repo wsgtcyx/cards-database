@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/313",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/313",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/313",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/313"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/313",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/313"
 	},
 	name: {
         en: "Old Amber",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
         ja: "ひみつのコハク",
+        ko: "비밀의호박",
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Spiele diese Karte, als wäre sie ein 40-HP-Basis-{C}-Pokémon.\nWährend deines Zuges kannst du diese Karte jederzeit aus dem Spiel abwerfen.\nDiese Karte kann nicht zurückgezogen werden.",
         "pt-br": "Jogue esta carta como se fosse um Pokémon Básico {C} de 40 HP.\nA qualquer momento durante o seu turno, você pode descartar esta carta do jogo.\nEsta carta não pode recuar.",
         "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。",
-        ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。"
+        ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。",
+        ko: "이 카드는 HP40의 {C}타입의 기본 포켓몬으로서 필드에 내보낼 수 있다. 자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬해도 좋다. 이 카드는 후퇴할 수 없다."
     },
     trainerType: "Item"
 };

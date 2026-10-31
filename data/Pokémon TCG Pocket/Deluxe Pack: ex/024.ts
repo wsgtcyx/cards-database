@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/024",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/024",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/024",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/024"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/024",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/024"
 	},
 	name: {
 		en: "Celebi ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Celebi-ex",
 		"pt-br": "Celebi ex",
 		"zh-tw": "時拉比ex",
-		ja: "セレビィex"
+		ja: "セレビィex",
+		ko: "세레비 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",
@@ -52,7 +54,7 @@ const card: Card = {
 				de: "Wirf 1 Münze für jede an dieses Pokémon angelegte Energie. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue uma moeda para cada Energia ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara.",
 				ja: "このポケモンのエネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
-				ko: "이 포켓몬의 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 50× 50데미지를[/Ctrl:NoBreak] 준다.",
+				ko: "이 포켓몬의 에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다.",
 				"zh-tw": "為該神奇寶貝所附加的每個能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。"
 			}
 		}

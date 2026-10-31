@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/089"
     },
     name: {
         en: "Rampardos",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cranidos",
         "zh-tw": "頭蓋龍",
         ja: "ズガイドス",
+        ko: "두개도스",
     },
     description: {
         en: "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",

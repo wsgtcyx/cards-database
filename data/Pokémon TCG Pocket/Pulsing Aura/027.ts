@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/027"
     },
     name: {
         en: "Pignite",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Bei der Verteidigung seiner Freunde hält Ferkokel jedem Gegner stand, egal wie stark er ist. Aber mit leerem Magen ist es machtlos.",
         "pt-br": "Ao defender seus amigos, Pignite enfrentará qualquer oponente, por mais forte que seja. Mas é impotente quando confrontado com o estômago vazio.",
         "zh-tw": "當捍衛朋友時，炒炒豬將對抗任何對手，無論對手有多強大。但面對空腹時卻無能為力。",
-        ja: "仲間を 助けるためなら どんな 強敵にも 立ち向かう 強さを 持つが 空腹には 勝てない。"
+        ja: "仲間を 助けるためなら どんな 強敵にも 立ち向かう 強さを 持つが 空腹には 勝てない。",
+        ko: "동료를 지키기 위해서라면\n상대가 아무리 강해도 맞서 싸우는\n강함을 지녔지만, 배고픔에는 못 이긴다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Magmahieb",
                 "pt-br": "Soco de Magma",
                 "zh-tw": "熔岩拳",
-                ja: "マグマパンチ"
+                ja: "マグマパンチ",
+                ko: "마그마펀치"
             },
             damage: 60
         }

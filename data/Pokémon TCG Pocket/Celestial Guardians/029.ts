@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/029",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/029"
     },
     name: {
         en: "Talonflame",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
         ja: "ヒノヤコマ",
+        ko: "불화살빈",
     },
     description: {
         en: "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",

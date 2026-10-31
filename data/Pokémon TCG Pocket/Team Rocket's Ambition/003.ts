@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/003"
     },
     name: {
         en: "Snivy",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es schließt sich nicht gern zu Gruppen zusammen. Statt seiner kurzen Arme nutzt es im Alltag seine Ranken, die es geschickt kontrollieren kann.",
         "pt-br": "Este Pokémon prefere evitar multidões. No dia a dia, controla suas vinhas com habilidade para compensar seus braços curtos.",
         "zh-tw": "生性不愛群體行動。在生活中會靈巧操縱藤蔓來代替短短的手臂。",
-        ja: "群れることを 好まない 性質。 短い 腕の 代わりに ツルを 器用に 操り 暮らしている。"
+        ja: "群れることを 好まない 性質。 短い 腕の 代わりに ツルを 器用に 操り 暮らしている。",
+        ko: "무리를 짓는 것을 선호하지 않는다.\n짧은 팔 대신 덩굴을\n능숙하게 다뤄서 생활하고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Blätter-Bumerang",
                 "pt-br": "Folha Bumerangue",
                 "zh-tw": "飛葉回力鏢",
-                ja: "はっぱブーメラン"
+                ja: "はっぱブーメラン",
+                ko: "잎날부메랑"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

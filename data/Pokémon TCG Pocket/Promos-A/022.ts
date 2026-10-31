@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/022",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/022"
     },
     name: {
         en: "Jigglypuff",

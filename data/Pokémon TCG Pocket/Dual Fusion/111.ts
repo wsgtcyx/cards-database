@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/111",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/111"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/111",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/111"
     },
     name: {
         en: "Snorlax",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Pancada Corporal",
                 "zh-tw": "泰山壓頂",
                 ja: "のしかかり",
-                ko: "Body Slam"
+                ko: "누르기"
             },
             cost: [
                 "Colorless",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
-                ko: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }
     ],
@@ -85,7 +86,7 @@ const card: Card = {
         "pt-br": "Este Pokémon glutão come constantemente, exceto quando está dormindo. Devora cerca de 400 kg de comida por dia.",
         "zh-tw": "除了睡著時之外，總是不斷在進食，最多一天能吃光400公斤食物的大胃王。",
         ja: "眠っているとき以外は つねに エサを 食べている 大食らい。 １日に ４００キロも たいらげる。",
-        ko: "This gluttonous Pokémon eats constantly, apart from when it’s asleep. It devours nearly 900 pounds of food per day."
+        ko: "자고 있을 때를 제외하고는\n항상 먹이를 먹고 있는 대식가.\n하루에 400kg은 먹어 치운다."
     }
 };
 

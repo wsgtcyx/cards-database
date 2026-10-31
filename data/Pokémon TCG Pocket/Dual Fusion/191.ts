@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/191",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/191"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/191",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/191"
     },
     name: {
         en: "Quilava",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
         ja: "ヒノアラシ",
-        ko: "Cyndaquil"
+        ko: "브케인"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Onda de Calor",
                 "zh-tw": "熱風",
                 ja: "ねっぷう",
-                ko: "Heat Wave"
+                ko: "열풍"
             },
             cost: [
                 "Fire",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
                 ja: "相手のバトルポケモンをやけどにする。",
-                ko: "Your opponent's Active Pokémon is now Burned."
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. É capaz de resistir a qualquer ataque de fogo.",
         "zh-tw": "一身的毛皮因不會燃燒，無論任何火焰攻擊都能安然無恙。",
         ja: "体を 覆う 毛皮は ぜったいに 燃えたりしない。 どんな 炎攻撃も 平気だ。",
-        ko: "The fur covering this Pokémon’s body never burns, no matter what. It can shrug off any kind of fire attack."
+        ko: "몸을 뒤덮은 털가죽은\n절대로 불에 타지 않는다.\n어떠한 불꽃 공격에도 끄떡없다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/118",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/118",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/118"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/118",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/118"
     },
     name: {
         en: "Probopass",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Nosepass",
         "zh-tw": "朝北鼻",
         ja: "ノズパス",
+        ko: "코코파스",
     },
     description: {
         en: "Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.",

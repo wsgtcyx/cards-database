@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/112",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/112",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/112",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/112"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/112",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/112"
     },
     name: {
         en: "Gothita",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gothita",
         "zh-tw": "哥德寶寶",
         ja: "ゴチム",
+        ko: "고디탱",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Achten Sie darauf, die bandförmigen Fühler nicht zu berühren\ndie seine psychische Kraft kontrollieren. Gothita wird beginnen\nheulen, wenn du das tust.",
         "pt-br": "Cuidado ao tocar nas antenas em forma de fita\nque controlam seu poder psíquico. Gothita vai começar\ngritando se você fizer isso.",
         "zh-tw": "小心觸摸帶狀觸角\n控制它的精神力量。哥提塔即將開始\n如果你這樣做的話，你會大喊大叫。",
-        ja: "サイコパワーを コントロールする リボン型の 触角に 触れると 激しく 泣きだすので 注意。"
+        ja: "サイコパワーを コントロールする リボン型の 触角に 触れると 激しく 泣きだすので 注意。",
+        ko: "사이코 파워를 제어하는\n리본형 기관을 만지면\n마구 울어 대므로 주의해야 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ansturm",
                 "pt-br": "Debandada",
                 "zh-tw": "踩踏",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 20,
             cost: ["Psychic"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

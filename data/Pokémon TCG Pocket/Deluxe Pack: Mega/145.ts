@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/145",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/145"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/145",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/145"
     },
     name: {
         en: "Zorua",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Para se protegerem de perigos, eles escondem suas verdadeiras identidades ao se transformarem em pessoas e Pokémon.",
         "zh-tw": "會化為人類或其他的寶可夢，藉此隱藏自己本來的面貌，保護自己不受危險。",
         ja: "人や ほかの ポケモンに 化ける。 自分の 正体を 隠すことで 危険から 身を 守っているのだ。",
-        ko: "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+        ko: "사람이나 다른 포켓몬으로 둔갑한다.\n자신의 정체를 감추어\n위험으로부터 몸을 지키는 것이다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Ascensão",
                 "zh-tw": "覺醒",
                 ja: "かくせい",
-                ko: "Ascension"
+                ko: "각성"
             },
             effect: {
                 en: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Coloque uma carta aleatória do seu baralho que evolua deste Pokémon sobre este Pokémon para evoluí-lo.",
                 "zh-tw": "從自己的牌庫隨機將1張從這隻寶可夢進化而來的卡,放置於這隻寶可夢身上完成進化。",
                 ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
-                ko: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
+                ko: "이 포켓몬에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 이 포켓몬에게 올려서 진화시킨다."
             }
         }
     ],

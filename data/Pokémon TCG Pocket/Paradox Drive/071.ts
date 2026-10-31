@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/071"
     },
     name: {
         en: "Juliana",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Nimm ein zufälliges Pokémon der Stufe 2 aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque um Pokémon aleatório do Estágio 2 do seu baralho na sua mão.",
         "zh-tw": "從你的牌組中隨機將一隻 2 階段寶可夢置入你的手牌。",
-        ja: "自分の山札から2進化ポケモンをランダムに1枚、手札に加える。"
+        ja: "自分の山札から2進化ポケモンをランダムに1枚、手札に加える。",
+        ko: "자신의 덱에서 2진화 포켓몬을 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Supporter"
 };

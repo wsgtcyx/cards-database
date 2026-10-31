@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/108",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/108"
     },
     name: {
         en: "Alolan Meowth",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Mauzi",
         'pt-br': "Meowth de Alola",
         ja: "アローラニャース",
-        ko: "알로라나옹",
+        ko: "알로라 나옹",
         "zh-tw": "阿羅拉喵喵",
     },
     illustrator: "sui",

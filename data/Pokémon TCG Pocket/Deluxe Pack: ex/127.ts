@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/127",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/127",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/127"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/127",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/127"
     },
     name: {
         en: "Wugtrio ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wugtrio ex",
         "zh-tw": "三海地鼠ex",
         ja: "ウミトリオex",
+        ko: "바닥트리오 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
         ja: "ウミディグダ",
+        ko: "바다그다",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Pop-out überall",
                 "pt-br": "Destaque-se o tempo todo",
                 "zh-tw": "整個過程中彈出",
-                ja: "あちこちとびだす"
+                ja: "あちこちとびだす",
+                ko: "여기저기분출"
             },
             cost: ["Water", "Water", "Water"],
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "1 Pokémon deines Gegners wird dreimal zufällig ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 50 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente 3 vezes. Para cada vez que um Pokémon for escolhido, cause 50 de dano a ele.",
                 "zh-tw": "隨機選擇 1 只對手的神奇寶貝 3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。",
-                ja: "相手のポケモンがランダムに3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。"
+                ja: "相手のポケモンがランダムに3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
+                ko: "상대의 포켓몬이 랜덤으로 3번 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 50데미지를 준다."
             }
         }],
     weaknesses: [{

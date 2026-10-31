@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/096"
     },
     name: {
         en: "Electrode",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Electrode",
         "zh-tw": "頑皮雷彈",
         ja: "マルマイン",
+        ko: "붐볼",
     },
     illustrator: "Scav",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
         ja: "ビリリダマ",
+        ko: "찌리리공",
     },
     description: {
         en: "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Je mehr Energie es auflädt, desto schneller\nes wird. Aber das macht es auch wahrscheinlicher\nexplodieren.",
         "pt-br": "Quanto mais energia ele carrega, mais rápido\nfica. Mas isso também torna mais provável\nexplodir.",
         "zh-tw": "充電的能量越多，速度就越快\n它得到了。但這也使得更有可能\n爆炸。",
-        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。"
+        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。",
+        ko: "전기 에너지를 모을수록\n고속으로 이동할 수 있게 되나\n그만큼 폭발하기도 쉬워진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Rollender Angriff",
                 "pt-br": "Ataque Rolante",
                 "zh-tw": "滾動攻擊",
-                ja: "ボールアタック"
+                ja: "ボールアタック",
+                ko: "볼어택"
             },
             damage: 50,
             cost: ["Lightning"]

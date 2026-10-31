@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/073",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/073"
     },
     name: {
         en: "Slowpoke",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Flegmon",
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸",
-        ja: "ヤドン"
+        ja: "ヤドン",
+        ko: "야돈"
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist unglaublich langsam und blöd. Es dauert fünf\nEs dauert mehrere Sekunden, bis es bei einem Angriff Schmerzen verspürt.",
         "pt-br": "É incrivelmente lento e estúpido. Leva cinco\nsegundos para sentir dor quando estiver sob ataque.",
         "zh-tw": "它非常緩慢且愚蠢。需要五個\n受到攻擊時它會感到疼痛幾秒鐘。",
-        ja: "動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。"
+        ja: "動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。",
+        ko: "움직임이 둔하고 멍청하다.\n맞아도 5초는 지나야\n아픔을 느낄 정도다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ausruhen",
                 "pt-br": "Descansar",
                 "zh-tw": "休息",
-                ja: "ねむる"
+                ja: "ねむる",
+                ko: "잠자기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieses Pokémon schläft jetzt. Heile 30 Schaden davon.",
                 "pt-br": "Este Pokémon agora está dormindo. Cure 30 de dano dele.",
                 "zh-tw": "這只神奇寶貝現在已經睡著了。治療 30 點傷害。",
-                ja: "このポケモンをねむりにする。このポケモンのHPを30回復。"
+                ja: "このポケモンをねむりにする。このポケモンのHPを30回復。",
+                ko: "이 포켓몬을 잠듦으로 만든다. 이 포켓몬의 HP를 30회복."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/299",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/299",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/299",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/299"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/299",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/299"
 	},
 	name: {
 		en: "Arceus ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Arceus-ex",
 		"pt-br": "Arceus ex",
 		"zh-tw": "阿爾宙斯ex",
-		ja: "アルセウスex"
+		ja: "アルセウスex",
+		ko: "아르세우스 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",

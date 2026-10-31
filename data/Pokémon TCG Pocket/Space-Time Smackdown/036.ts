@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/036"
     },
     name: {
         en: "Prinplup",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Piplup",
         "zh-tw": "波加曼",
         ja: "ポッチャマ",
+        ko: "팽도리",
     },
     description: {
         en: "It lives alone, away from others. Apparently, every one of them believes it is the most important.",

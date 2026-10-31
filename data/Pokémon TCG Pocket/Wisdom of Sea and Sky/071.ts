@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/071",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/071"
     },
     name: {
         en: "Raikou",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Raikou",
         "zh-tw": "雷公",
         ja: "ライコウ",
+        ko: "라이코",
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Regenwolken, die es trägt, lassen es Blitze abfeuern\nnach Belieben. Sie sagen, dass es mit einem Blitz herabkam.",
         "pt-br": "As nuvens de chuva que ele carrega deixam disparar raios\nà vontade. Dizem que desceu com um raio.",
         "zh-tw": "它攜帶的雨雲讓它發射雷霆\n隨意。他們說它是隨著閃電降臨的。",
-        ja: "雨雲を 背負っているので どんなときでも 雷を 出せる。 雷とともに 落ちてきたという。"
+        ja: "雨雲を 背負っているので どんなときでも 雷を 出せる。 雷とともに 落ちてきたという。",
+        ko: "비구름을 짊어지고 있어서\n어떤 때라도 번개를 칠 수 있다.\n번개와 함께 떨어졌다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Donner",
                 "pt-br": "Trovão",
                 "zh-tw": "雷",
-                ja: "かみなり"
+                ja: "かみなり",
+                ko: "번개"
             },
             damage: 70,
             cost: ["Lightning", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

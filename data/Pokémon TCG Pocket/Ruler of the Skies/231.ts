@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/231",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/231",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/231",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/231"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/231",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/231"
     },
     name: {
         en: "Mega Kangaskhan ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Doppelt schlagende Familie",
                 "pt-br": "Soco Duplo em Família",
                 "zh-tw": "家族雙拳",
-                ja: "ファミリーダブルパンチ"
+                ja: "ファミリーダブルパンチ",
+                ko: "패밀리 더블 펀치"
             },
             effect: {
                 en: "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Diese Attacke wird 2 Mal hintereinander eingesetzt. Die zweite Attacke fügt 40 Schadenspunkte zu. (Wenn die erste Attacke das Aktive Pokémon deines Gegners kampfunfähig macht, kannst du erneut angreifen, nachdem dein Gegner ein neues Aktives Pokémon gewählt hat.)",
                 "pt-br": "Este ataque é usado duas vezes seguidas. O segundo ataque causa 40 pontos de dano. (Se o primeiro ataque Nocautear o Pokémon Ativo do seu oponente, o segundo ataque será usado depois que o seu oponente escolher um novo Pokémon Ativo).",
                 "zh-tw": "這個招式會使用2次。第2次會造成40點傷害。 (若對手的戰鬥寶可夢因第1次的招式而昏厥了,則在下一隻戰鬥寶可夢被放置後,使用第2次。)",
-                ja: "このワザは2回連続で使う。2回目は40ダメージ。 (1回目で相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目を使う。)"
+                ja: "このワザは2回連続で使う。2回目は40ダメージ。 (1回目で相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目を使う。)",
+                ko: "이 기술은 2번 연속으로 사용한다. 2번째는 40데미지를 준다. (1번째에 상대의 배틀 포켓몬이 기절했다면 다음 배틀 포켓몬이 나온 후, 2번째를 사용한다.)"
             },
             damage: 80
         }

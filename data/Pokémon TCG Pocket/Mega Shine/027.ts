@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/027"
     },
     name: {
         en: "Mega Manectric ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Blitzbeschleuniger",
                 "pt-br": "Acelerador de Relâmpago",
                 "zh-tw": "閃電暴衝",
-                ja: "イナズマアクセル"
+                ja: "イナズマアクセル",
+                ko: "라이트닝액셀"
             },
             effect: {
                 en: "This attack does 30 more damage for each point you have gotten.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff verursacht 30 weitere Schadenspunkte für jeden Punkt, den Sie erhalten haben.",
                 "pt-br": "Este ataque causa 30 de dano a mais para cada ponto obtido.",
                 "zh-tw": "每獲得一點，此攻擊就會造成 30 點額外傷害。",
-                ja: "自分のすでにとったポイントの数×30ダメージ追加。"
+                ja: "自分のすでにとったポイントの数×30ダメージ追加。",
+                ko: "자신이 이미 가져간 포인트의 수 × 30데미지를 추가한다."
             },
             damage: "80+"
         }

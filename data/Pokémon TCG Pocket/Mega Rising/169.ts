@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/169",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/169",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/169"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/169",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/169"
     },
     name: {
         en: "Cobalion",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cobalion",
         "zh-tw": "勾帕路翁",
         ja: "コバルオン",
+        ko: "코바르온",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es hat einen Körper und ein Herz aus Stahl. Es hat mit seinem funktioniert\nVerbündete, um Menschen zu bestrafen, wenn sie Pokémon verletzen.",
         "pt-br": "Tem corpo e coração de aço. Funcionou com seu\naliados para punir as pessoas quando elas machucam Pokémon.",
         "zh-tw": "它有鋼鐵般的身體和鋼鐵般的心臟。它與它的\n當人們傷害神奇寶貝時，盟友會懲罰他們。",
-        ja: "鋼の 心と 体を 持つ。 人が ポケモンを 傷つけたとき 仲間とともに 人を こらしめた。"
+        ja: "鋼の 心と 体を 持つ。 人が ポケモンを 傷つけたとき 仲間とともに 人を こらしめた。",
+        ko: "강철의 마음과 몸을 지녔다.\n사람이 포켓몬을 상처 입혔을 때\n동료와 함께 사람을 벌했다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
                 "zh-tw": "聖劍",
-                ja: "せいなるつるぎ"
+                ja: "せいなるつるぎ",
+                ko: "성스러운칼"
             },
             damage: 110,
             cost: ["Metal", "Metal", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
-                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「성스러운칼」을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

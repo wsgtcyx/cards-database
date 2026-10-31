@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/093",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/093",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/093"
     },
     name: {
         en: "Poochyena",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es jagt Beute im Rudel nach. Ist diese erschöpft, bringt es sie zur Strecke. Stößt Fiffyen jedoch auf Widerstand, ergreift es auch mal die Flucht.",
         "pt-br": "Poochyena perseguem suas presas em bandos. Quando a presa sucumbe ao cansaço, o bando acaba com ela. Mas às vezes o inimigo revida e a alcateia foge.",
         "zh-tw": "會成群追擊獵物，並在其\n筋疲力盡時給予致命一擊，\n但有時會因遭到反擊而逃走。",
-        ja: "群れで 獲物を 追いかけまわす。 疲れきったところを 仕留めるが たまに 反撃されて 逃げだす。"
+        ja: "群れで 獲物を 追いかけまわす。 疲れきったところを 仕留めるが たまに 反撃されて 逃げだす。",
+        ko: "무리 지어 먹잇감을 추격한다.\n지치게 만든 뒤 마무리하지만\n가끔씩 반격당해서 도망칠 때도 있다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "成群狩獵",
                 "it": "Caccia in Branco",
                 "de": "Teamjagd",
-                ja: "チームハント"
+                ja: "チームハント",
+                ko: "팀헌트"
             },
             effect: {
                 en: "Draw a card for each Poochyena you have in play.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "從牌庫抽出與自己的場上的「土狼犬」相同數量的卡。",
                 "it": "Pesca una carta per ogni Poochyena che hai in gioco.",
                 "de": "Ziehe 1 Karte für jedes fiffyen, das du im Spiel hast.",
-                ja: "自分の場の「ポチエナ」の数ぶん、山札を引く。"
+                ja: "自分の場の「ポチエナ」の数ぶん、山札を引く。",
+                ko: "자신의 필드의 「포챠나」의 수만큼 덱을 뽑는다."
             }
         }
     ],

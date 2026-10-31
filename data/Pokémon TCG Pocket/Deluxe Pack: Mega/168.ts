@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/168",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/168",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/168",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/168"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/168",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/168"
     },
     name: {
         en: "Gholdengo ex",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
         ja: "コレクレー",
-        ko: "Gimmighoul"
+        ko: "모으령"
     },
     stage: "Stage1",
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Golpe de Gastança",
                 "zh-tw": "亂灑一通",
                 ja: "ばらまきラッシュ",
-                ko: "Spending Rush"
+                ko: "뿌리기러시"
             },
             cost: [
                 "Metal"
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Um dos Pokémon do seu oponente é escolhido aleatoriamente para cada Energia {M} ligada a este Pokémon. Para cada vez que um Pokémon for escolhido, cause 40 pontos de dano a ele.",
                 "zh-tw": "對手的寶可夢會隨機被選擇與這隻寶可夢身上的{M}能量相同數量的次數,被選擇的所有寶可夢受到被選擇的次數×40點傷害。",
                 ja: "このポケモンの{M}エネルギーの数ぶん、相手のポケモンがランダムに選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。",
-                ko: "1 of your opponent's Pokémon is chosen at random for each {M} Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+                ko: "이 포켓몬의 {M}에너지의 개수만큼 상대의 포켓몬이 랜덤으로 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 40데미지를 준다."
             }
         }
     ],

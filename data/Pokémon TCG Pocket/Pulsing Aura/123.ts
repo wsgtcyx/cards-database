@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/123",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/123"
     },
     name: {
         en: "Melmetal",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es holt mit Fliehkraft Schwung, um mit seinen\nschweren Muttern Hiebe auszuteilen, die stärker\nsein sollen als die aller anderen Pokémon.",
         "pt-br": "A força centrífuga está por trás dos golpes dos pesados ​​braços hexagonais do Melmetal. Diz-se que Melmetal desfere os socos mais fortes de todos os Pokémon.",
         "zh-tw": "美錄梅塔利用離心力帶動\n沉重的螺帽揮出的拳擊\n被認為是寶可夢界之最。",
-        ja: "遠心力で 弾みを つけて 繰りだす 重い ナットの パンチは ポケモン 最強と いわれる。"
+        ja: "遠心力で 弾みを つけて 繰りだす 重い ナットの パンチは ポケモン 最強と いわれる。",
+        ko: "원심력으로 힘을 더해서\n날리는 묵직한 너트 펀치는\n포켓몬 중 최강이라고 전해진다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Turbosmash",
                 "pt-br": "Golpe Exaustivo",
                 "zh-tw": "超頻擊碎",
-                ja: "オーバースマッシュ"
+                ja: "オーバースマッシュ",
+                ko: "오버스매시"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges fügt die Attacke Turbosmash von diesem Pokémon + 60 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Golpe Exaustivo deste Pokémon causará + 60 pontos de dano.",
                 "zh-tw": "在你的下一個回合中，這只寶可夢的超速粉碎攻擊造成+60點傷害。",
-                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+60する。"
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+60する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「오버스매시」의 데미지를 +60한다."
             },
             damage: 60
         }

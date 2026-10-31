@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/080",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/080"
     },
     name: {
         en: "Machoke",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
-        ja: "ゴーリキー"
+        ja: "ゴーリキー",
+        ko: "근육몬"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Machollo",
         "pt-br": "Machop",
         "zh-tw": "腕力",
-        ja: "ワンリキー"
+        ja: "ワンリキー",
+        ko: "알통몬"
     },
     description: {
         en: "Its formidable body never gets tired. It helps\npeople by doing work such as the moving of\nheavy goods.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sein beeindruckender Körper wird nie müde. Es hilft\nMenschen durch Arbeiten wie den Umzug\nschwere Güter.",
         "pt-br": "Seu corpo formidável nunca se cansa. Isso ajuda\npessoas realizando trabalhos como a mudança de\nmercadorias pesadas.",
         "zh-tw": "它強大的身體永遠不會疲倦。它有幫助\n人們通過做諸如搬家之類的工作\n重貨。",
-        ja: "疲れることのない 強靭な 肉体を もつ。 重い 荷物の 運搬などの 仕事を 手伝う。"
+        ja: "疲れることのない 強靭な 肉体を もつ。 重い 荷物の 運搬などの 仕事を 手伝う。",
+        ko: "지치지 않는 강인한\n육체를 가졌다. 무거운 물건을\n옮기는 등의 일을 돕는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hacken",
                 "pt-br": "Cortar",
                 "zh-tw": "劈",
-                ja: "チョップ"
+                ja: "チョップ",
+                ko: "촙"
             },
             damage: 40,
             cost: ["Fighting"]

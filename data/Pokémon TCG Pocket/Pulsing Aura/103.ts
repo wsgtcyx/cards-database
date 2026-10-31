@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/103"
     },
     name: {
         en: "Qwilfish",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Erfahrene Fischer sagen, dass sie versuchen, Baldorfish in dem kurzen Moment zu fangen, in dem diese Pokémon wehrlos werden, kurz nachdem sie giftige Stacheln abgefeuert haben.",
         "pt-br": "Pescadores experientes dizem que tentam capturar Qwilfish no breve momento em que esses Pokémon ficam indefesos logo após lançarem espinhos venenosos.",
         "zh-tw": "經驗豐富的漁民表示，他們試圖在這些寶可夢發射毒刺後變得毫無防禦能力的短暫瞬間捕獲 千針魚。",
-        ja: "毒針を 撃ち出した 直後の 無防備な 状態を 狙うと ベテランの 漁師は 語る。"
+        ja: "毒針を 撃ち出した 直後の 無防備な 状態を 狙うと ベテランの 漁師は 語る。",
+        ko: "독침을 발사한 직후의\n무방비 상태를 노려야 한다는 것이\n베테랑 어부의 조언."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Stachelsturm",
                 "pt-br": "Arremetida Espinhosa",
                 "zh-tw": "尖刺猛攻",
-                ja: "とげラッシュ"
+                ja: "とげラッシュ",
+                ko: "가시러쉬"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa 40 de dano para cada cabeça.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 준다."
             },
             damage: "40x"
         }

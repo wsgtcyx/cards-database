@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/075",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/075"
     },
     name: {
         en: "Banette",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Shuppet",
         "zh-tw": "怨影娃娃",
         ja: "カゲボウズ",
+        ko: "어둠대신",
     },
     description: {
         en: "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",

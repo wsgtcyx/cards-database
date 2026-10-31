@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/058"
     },
     name: {
         en: "Golduck",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Enton",
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
-        ja: "コダック"
+        ja: "コダック",
+        ko: "고라파덕"
     },
     attacks: [{
             cost: ["Water", "Water"],

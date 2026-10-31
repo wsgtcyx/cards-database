@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/386",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/386",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/386",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/386"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/386",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/386"
     },
     name: {
         en: "May",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Coloque 2 Pokémon aleatórios do seu baralho na sua mão. Para cada Pokémon que você colocou na sua mão dessa forma, escolha um Pokémon para embaralhar da sua mão no seu baralho.",
         "zh-tw": "從自己的牌庫隨機將2張寶可夢卡加入手牌。從手牌選擇與加入的張數相同數量的寶可夢卡,放回牌庫。",
         ja: "自分の山札からポケモンをランダムに2枚、手札に加える。手札から、加えた枚数ぶんのポケモンを選び、山札にもどす。",
-        ko: "Put 2 random Pokémon from your deck into your hand. For each Pokémon you put into your hand in this way, choose a Pokémon to shuffle from your hand into your deck."
+        ko: "자신의 덱에서 포켓몬을 랜덤으로 2장 패로 가져온다. 가져온 장수만큼의 포켓몬을 패에서 선택해서 덱으로 되돌린다."
     },
     trainerType: "Supporter"
 };

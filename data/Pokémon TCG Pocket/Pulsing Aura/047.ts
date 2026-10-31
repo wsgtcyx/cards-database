@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/047"
     },
     name: {
         en: "Beartic",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Siberio wird in den nördlichen Ländern als Schneewittchen-Dämon gefürchtet und nutzt seine frostigen Klauen und Reißzähne, um Beute anzugreifen.",
         "pt-br": "Temido como o Demônio Branco como a Neve nas terras do norte, Beartic usa suas garras e presas geladas para atacar suas presas.",
         "zh-tw": "凍原熊 如同北方大地的白雪惡魔一樣令人畏懼，它使用冰冷的爪子和尖牙攻擊獵物。",
-        ja: "北国では 白い悪魔 と 恐れられる。 冷気を まとった ツメと キバで 獲物を 襲う。"
+        ja: "北国では 白い悪魔 と 恐れられる。 冷気を まとった ツメと キバで 獲物を 襲う。",
+        ko: "북쪽 나라에서는 하얀 악마라 불리며\n공포의 대상으로 여겨진다.\n냉기를 두른 손톱과 이빨로 먹이를 공격한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Frostschlag",
                 "pt-br": "Pancada Congelada",
                 "zh-tw": "冰霜粉碎",
-                ja: "フロストスマッシュ"
+                ja: "フロストスマッシュ",
+                ko: "프로스트 스매시"
             },
             damage: 80
         }

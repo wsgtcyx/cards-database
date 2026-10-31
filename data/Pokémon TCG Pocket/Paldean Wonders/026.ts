@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/026"
     },
     name: {
         en: "Wugtrio",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wugtrio",
         "zh-tw": "三海地鼠",
         ja: "ウミトリオ",
+        ko: "바닥트리오",
         pt: "Wugtrio"
     },
     illustrator: "Kouki Saitou",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
         ja: "ウミディグダ",
+        ko: "바다그다",
         pt: "Wiglett"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Schligdri, eine Art Fisch-Pokémon, galt einst als regionale Form von Digdri.",
         "pt-br": "Uma variedade de Pokémon peixes, Wugtrio já foi considerado uma forma regional de Dugtrio.",
         "zh-tw": "魚類寶可夢的變種，三海地鼠曾被認為是三地鼠的區域型態。",
-        ja: "魚ポケモンの 一種。 ダグトリオの リージョンフォームと 考えられていたことも あった。"
+        ja: "魚ポケモンの 一種。 ダグトリオの リージョンフォームと 考えられていたことも あった。",
+        ko: "물고기포켓몬의 일종.\n닥트리오의 리전폼인 것으로\n여겨지던 시기도 있었다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Chicote Triplo",
                 "zh-tw": "三重鞭子",
                 ja: "さんれんのムチ",
+                ko: "삼연속채찍",
                 pt: "Chicote Triplo"
             },
             damage: "30×",
@@ -75,6 +80,7 @@ const card: Card = {
                 "pt-br": "Jogue 3 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
                 ja: "コインを3回投げ、オモテの数×30ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다.",
                 pt: "Jogue 3 moedas. Este ataque causa 30 pontos de dano para cada cara."
             },
         },

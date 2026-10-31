@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/230",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/230",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/230",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/230"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/230",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/230"
     },
     name: {
         en: "Crobat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Crobat",
         "zh-tw": "叉字蝠",
         ja: "クロバット",
+        ko: "크로뱃",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Golbat",
         "pt-br": "Golbat",
         "zh-tw": "大嘴蝠",
-        ja: "ゴルバット"
+        ja: "ゴルバット",
+        ko: "골뱃"
     },
     description: {
         en: "Both of its legs have turned into wings. Without a\nsound, Crobat flies swiftly toward its prey and\nsinks its fangs into the nape of its target's neck.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Beide Beine haben sich in Flügel verwandelt. Ohne a\nGeräusch, Crobat fliegt schnell auf seine Beute zu und\nversenkt seine Reißzähne im Nacken seines Ziels.",
         "pt-br": "Ambas as pernas se transformaram em asas. Sem um\nsom, Crobat voa rapidamente em direção à sua presa e\nafunda suas presas na nuca do alvo.",
         "zh-tw": "它的兩條腿都變成了翅膀。沒有一個\n隨著聲音的響起，鱷魚迅速飛向它的獵物，\n將尖牙刺入目標的頸背。",
-        ja: "両足が 羽に 変化。 音を たてずに 高速で 飛び 獲物の うなじに キバを たてる。"
+        ja: "両足が 羽に 変化。 音を たてずに 高速で 飛び 獲物の うなじに キバを たてる。",
+        ko: "양발이 날개로 변화했다.\n소리를 내지 않고 고속으로 날아\n먹이의 목덜미에 이빨을 꽂는다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Listiger Link",
                 "pt-br": "Elo astuto",
                 "zh-tw": "狡猾的鏈接",
-                ja: "トリックリンク"
+                ja: "トリックリンク",
+                ko: "트릭 링크"
             },
             effect: {
                 en: "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du, wenn du Arceus oder Arceus ex im Spiel hast, dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante o seu turno, se você tiver Arceus ou Arceus ex em jogo, você poderá causar 30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的回合中，如果你有阿爾宙斯或阿爾宙斯 ex 在場，你可以對對手的活躍神奇寶貝造成 30 點傷害。",
-                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、自分の番に1回使える。相手のバトルポケモンに30ダメージ。"
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、自分の番に1回使える。相手のバトルポケモンに30ダメージ。",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Dunkelheitszahn",
                 "pt-br": "Presa da Escuridão",
                 "zh-tw": "黑暗之牙",
-                ja: "やみのキバ"
+                ja: "やみのキバ",
+                ko: "어둠엄니"
             },
             damage: 50,
             cost: ["Darkness"]

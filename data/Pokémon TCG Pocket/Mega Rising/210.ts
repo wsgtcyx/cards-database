@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/210",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/210",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/210",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/210"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/210",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/210"
     },
     name: {
         en: "Corvisquire",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
         ja: "アオガラス",
+        ko: "파크로우",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
         ja: "ココガラ",
+        ko: "파라꼬",
     },
     description: {
         en: "This intelligent Pokémon will quickly learn how to\nuse any tool it can hold in its beak or its talons.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses intelligente Pokémon wird es schnell lernen\nVerwenden Sie jedes Werkzeug, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como\nuse qualquer ferramenta que ele possa segurar no bico ou nas garras.",
         "zh-tw": "這個聰明的神奇寶貝會很快學會如何\n使用它的喙或爪子可以握住的任何工具。",
-        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。",
+        ko: "머리가 좋아서 부리와 발로\n다룰 수 있는 도구라면\n간단하게 사용법을 익힌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Drill Peck",
                 "pt-br": "Broca Peck",
                 "zh-tw": "鑽啄",
-                ja: "ドリルくちばし"
+                ja: "ドリルくちばし",
+                ko: "회전부리"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

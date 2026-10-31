@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/312",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/312",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/312",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/312"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/312",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/312"
     },
     name: {
         en: "Meowth",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mauzi",
         "pt-br": "Meowth",
         "zh-tw": "喵喵",
-        ja: "ニャース"
+        ja: "ニャース",
+        ko: "나옹"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Tagsüber schläft es nur. Nachts,\nMit leuchtenden Augen patrouilliert es durch sein Revier.",
         "pt-br": "Tudo o que faz é dormir durante o dia. À noite,\npatrulha seu território com os olhos brilhantes.",
         "zh-tw": "它所做的就是在白天睡覺。晚上，\n它眼睛發光，在自己的領地巡邏。",
-        ja: "昼間は 寝てばかりいる。 夜になると 目が 輝き 縄張りを 歩きまわる。"
+        ja: "昼間は 寝てばかりいる。 夜になると 目が 輝き 縄張りを 歩きまわる。",
+        ko: "낮에는 거의 잠만 잔다.\n밤이 되면 눈을 반짝이며\n영역을 돌아다닌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Zahltag",
                 "pt-br": "Dia de pagamento",
                 "zh-tw": "發薪日",
-                ja: "ネコにこばん"
+                ja: "ネコにこばん",
+                ko: "고양이돈받기"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
                 "zh-tw": "畫一張卡片。",
-                ja: "自分の山札を1枚引く。"
+                ja: "自分の山札を1枚引く。",
+                ko: "자신의 덱을 1장 뽑는다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

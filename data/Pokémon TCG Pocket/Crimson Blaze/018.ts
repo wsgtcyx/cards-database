@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/018",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/018"
     },
     name: {
         en: "Wartortle",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
-        ja: "カメール"
+        ja: "カメール",
+        ko: "어니부기"
     },
     illustrator: "Taiga Kasai",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
-        ja: "ゼニガメ"
+        ja: "ゼニガメ",
+        ko: "꼬부기"
     },
     description: {
         en: "It cleverly controls its furry ears and tail to\nmaintain its balance while swimming.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es steuert geschickt seine pelzigen Ohren und seinen Schwanz\nHalten Sie beim Schwimmen das Gleichgewicht.",
         "pt-br": "Ele controla habilmente suas orelhas e cauda peludas para\nmanter o equilíbrio enquanto nada.",
         "zh-tw": "它巧妙地控制毛茸茸的耳朵和尾巴\n游泳時保持平衡。",
-        ja: "ふさふさの 耳と しっぽを たくみに 操って 水中での バランスを たもつ。"
+        ja: "ふさふさの 耳と しっぽを たくみに 操って 水中での バランスを たもつ。",
+        ko: "탐스러운 귀와 꼬리를\n능숙하게 다뤄서 수중에서의\n밸런스를 유지한다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Muschelschild",
                 "pt-br": "Escudo de Concha",
                 "zh-tw": "殼盾",
-                ja: "こうらシールド"
+                ja: "こうらシールド",
+                ko: "등껍질실드"
             },
             effect: {
                 en: "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Solange sich dieses Pokémon auf deiner Bank befindet, verhindere jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird.",
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, evite todos os danos causados a este Pokémon por ataques.",
                 "zh-tw": "只要這只神奇寶貝在你的替補席上，就可以防止攻擊對該神奇寶貝造成的所有傷害。",
-                ja: "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。"
+                ja: "このポケモンは、ベンチにいるかぎり、ワザのダメージを受けない。",
+                ko: "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Wasserfall",
                 "pt-br": "Cachoeira",
                 "zh-tw": "瀑布",
-                ja: "たきのぼり"
+                ja: "たきのぼり",
+                ko: "폭포오르기"
             },
             damage: 60,
             cost: ["Water", "Water", "Colorless"]

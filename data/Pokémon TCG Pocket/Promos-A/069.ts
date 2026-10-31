@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/069"
     },
     name: {
         en: "Alolan Exeggutor",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Kokowei",
         'pt-br': "Exeggutor de Alola",
         ja: "アローラナッシー",
-        ko: "알로라나시",
+        ko: "알로라 나시",
         "zh-tw": "阿羅拉椰蛋樹",
     },
     illustrator: "Satoshi Shirai",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Owei",
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
-        ja: "タマタマ"
+        ja: "タマタマ",
+        ko: "아라리"
     },
     description: {
         en: "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/171",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/171",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/171"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/171",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/171"
     },
     name: {
         en: "Pichu",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pichu",
         "pt-br": "Pichu",
         "zh-tw": "皮丘",
-        ja: "ピチュー"
+        ja: "ピチュー",
+        ko: "피츄"
     },
     illustrator: "Kanami Ogata",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist nicht in der Lage, elektrische Energie zu speichern.\nJede Art von Erschütterung führt zur Entladung\nEnergie spontan.",
         "pt-br": "Não é qualificado para armazenar energia elétrica.\nQualquer tipo de choque faz com que ele descarregue\nenergia espontaneamente.",
         "zh-tw": "它不擅長儲存電力。\n任何形式的衝擊都會導致其放電\n自發的能量。",
-        ja: "電気を 溜めこむのが 下手。 なんらかの ショックを 受けると すぐに 放電 してしまう。"
+        ja: "電気を 溜めこむのが 下手。 なんらかの ショックを 受けると すぐに 放電 してしまう。",
+        ko: "전기를 모으는 게 서툴다.\n조금만 충격을 받아도\n금방 방전해 버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Knisternder Wurf",
                 "pt-br": "Lançamento estaladiço",
                 "zh-tw": "爆裂拋擲",
-                ja: "ぱちぱちトス"
+                ja: "ぱちぱちトス",
+                ko: "파칙파칙토스"
             },
             effect: {
                 en: "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備基礎神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチのたねポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチのたねポケモンにつける。",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치의 기본 포켓몬에게 붙인다."
             }
         }],
     retreat: 0,

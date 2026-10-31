@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/093",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/093"
     },
     name: {
         en: "Psyduck",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
         ja: "コダック",
+        ko: "고라파덕",
     },
     illustrator: "Scav",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wird ständig von Kopfschmerzen geplagt. Wenn die\nDer Kopfschmerz wird intensiv, es beginnt geheimnisvoll zu wirken\nBefugnisse.",
         "pt-br": "É constantemente assolado por uma dor de cabeça. Quando o\ndor de cabeça fica intensa, começa a usar misteriosos\npoderes.",
         "zh-tw": "它經常被頭痛所折磨。當\n頭痛變得劇烈，它開始使用神秘\n權力。",
-        ja: "いつも 頭痛に 悩まされている。 この 頭痛が 激しくなると 不思議な 力を 使いはじめる。"
+        ja: "いつも 頭痛に 悩まされている。 この 頭痛が 激しくなると 不思議な 力を 使いはじめる。",
+        ko: "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfschmerzen",
                 "pt-br": "Dor de cabeça",
                 "zh-tw": "頭痛",
-                ja: "ずつう"
+                ja: "ずつう",
+                ko: "두통"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
                 "pt-br": "Seu oponente não pode usar nenhuma carta de Apoiador de sua mão durante o próximo turno.",
                 "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。",
-                ja: "次の相手の番、相手は手札からサポートを出して使えない。"
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。",
+                ko: "상대의 다음 차례에 상대는 패에서 서포트를 꺼내서 사용할 수 없다."
             }
         }],
     weaknesses: [{

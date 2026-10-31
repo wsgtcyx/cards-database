@@ -1,0 +1,582 @@
+[
+  {
+    "setId": "A1",
+    "packId": "A1_1",
+    "sku": "AN001_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0010_00_000.png",
+    "bytes": 87107,
+    "sha256": "4c209e469b45e890b67073ef184c8d798becd0f3ec286279018a7bc67ec81c00",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A1",
+    "packId": "A1_2",
+    "sku": "AN001_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0020_00_000.png",
+    "bytes": 69676,
+    "sha256": "6495c8d683f6953f15d0cc6e21c3f3b0a0e071f741bcc7c78cdde65318ee25e2",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A1",
+    "packId": "A1_3",
+    "sku": "AN001_0030_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0030_00_000.png",
+    "bytes": 74762,
+    "sha256": "a47c0033d0415ebc2999465cedbdcf55a8f7790b7c015b7bf9cc9a541eae2254",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A1a",
+    "packId": "A1a_1",
+    "sku": "AN002_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN002_0010_00_000.png",
+    "bytes": 66059,
+    "sha256": "601caaff97f951164a8e547335b4f1deb871991da36e780925e48b07b1017cd9",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A2",
+    "packId": "A2_1",
+    "sku": "AN003_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN003_0010_00_000.png",
+    "bytes": 68626,
+    "sha256": "57dddd23216d98fb1080ae37febf1d48467a7a3e36148bfbb3cacf3e4b0993c6",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A2",
+    "packId": "A2_2",
+    "sku": "AN003_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN003_0020_00_000.png",
+    "bytes": 66547,
+    "sha256": "58e5e912444dd64c9770086c8260597a647a296c3140a6228363ab427e564c24",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A2a",
+    "packId": "A2a_1",
+    "sku": "AN004_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN004_0010_00_000.png",
+    "bytes": 71217,
+    "sha256": "4a73a2b2a2ddb162037cda7dde1f788a47ee7bfb725a24b9f8ee80bf12332186",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A2b",
+    "packId": "A2b_1",
+    "sku": "AN005_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN005_0010_00_000.png",
+    "bytes": 64089,
+    "sha256": "2d704c21cc4b2ceb350f96e2db17480b09c49625bbcef3fdaf1ac7c6fdbbf781",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A3",
+    "packId": "A3_1",
+    "sku": "AN006_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN006_0010_00_000.png",
+    "bytes": 84631,
+    "sha256": "5df16ec2b6224c3bd72b56c3ec81a0f7b7190c5fd007667a4ae73ffe62dd8a9d",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A3",
+    "packId": "A3_2",
+    "sku": "AN006_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN006_0020_00_000.png",
+    "bytes": 66540,
+    "sha256": "d87fc71ea91f38322e11855ae947e2a48ae7b526b6f6826d0039a863dff82faf",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A3a",
+    "packId": "A3a_1",
+    "sku": "AN007_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN007_0010_00_000.png",
+    "bytes": 66753,
+    "sha256": "3303dd12d1b5c3817d0ad575daedc6ab166e3bdd2aec8ff686a86dd19e656d70",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A3b",
+    "packId": "A3b_1",
+    "sku": "AN008_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN008_0010_00_000.png",
+    "bytes": 84382,
+    "sha256": "dd9e110b1e1c40faf7b1275198b3697fcf223dbd65e3f687f85117badc04e743",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A4",
+    "packId": "A4_1",
+    "sku": "AN009_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN009_0010_00_000.png",
+    "bytes": 68232,
+    "sha256": "7624000583ab6aa1a7e810c646e22eca0df69f78d8b92834feacead8727b53b1",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A4",
+    "packId": "A4_2",
+    "sku": "AN009_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN009_0020_00_000.png",
+    "bytes": 69880,
+    "sha256": "4f039718af7bb7ebf394ec5a892c348012a829da0c1aeefa228db6f1cf7df389",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A4a",
+    "packId": "A4a_1",
+    "sku": "AN010_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN010_0010_00_000.png",
+    "bytes": 70991,
+    "sha256": "a189041713bbb14f0bca265c92fe3503b6faecdaba7f334d40206d3fdca7feee",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "A4b",
+    "packId": "A4b_1",
+    "sku": "AN011_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN011_0010_00_000.png",
+    "bytes": 65951,
+    "sha256": "b135788decca90474dd6be096d5bed008fe822c696611720e744c0b30413e46e",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_1",
+    "sku": "AP001_0010_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.1.png",
+    "bytes": 269318,
+    "sha256": "e07e5cf91ad3305da5ad7ce59e993984e9c21a8c8cc278ec56f7a75e069aed69",
+    "width": 318,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_2",
+    "sku": "AP001_0020_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.2.png",
+    "bytes": 291549,
+    "sha256": "b8c50655c8aff7da42b16cb4819acd562fe8f419f5a1abbfbb0b978040f3ee32",
+    "width": 320,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_3",
+    "sku": "AP001_0030_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.3.png",
+    "bytes": 282680,
+    "sha256": "85e4cea58e7d7e2e8630a7cd9edbfac447cdfe170b5508c5939d41a5b8ec53b3",
+    "width": 319,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_4",
+    "sku": "AP001_0040_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.4.png",
+    "bytes": 276617,
+    "sha256": "09e76920ca6dfda4e45c5c0b328c896e46e94e2a165e84434bcad217113ca1a0",
+    "width": 318,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_5",
+    "sku": "AP001_0050_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.5.png",
+    "bytes": 294114,
+    "sha256": "6e3f9275c03f92442eb332fedfc433da6018e995aacf0a4357a024e038c006b9",
+    "width": 319,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_6",
+    "sku": "AP001_0060_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.6.png",
+    "bytes": 42185,
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_7",
+    "sku": "AP001_0070_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.7.png",
+    "bytes": 41903,
+    "sha256": "b03dee718a10387d0b037ef1686a042530745d90981a773c697bc56cbe0a337e",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_8",
+    "sku": "AP001_0080_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.8.png",
+    "bytes": 48471,
+    "sha256": "9b203344ad666c57729a404fb0f00bba60054b5b5b5e3a0a33ecf2da1ce9d830",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_9",
+    "sku": "AP001_0090_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.9.png",
+    "bytes": 286687,
+    "sha256": "46b65601855c72b6fcf956ee79c1e77587a43a67027ed1e88148dc14b1af6728",
+    "width": 319,
+    "height": 600
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_10",
+    "sku": "AP001_0100_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.10.png",
+    "bytes": 42185,
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_11",
+    "sku": "AP001_0110_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.11.png",
+    "bytes": 41903,
+    "sha256": "b03dee718a10387d0b037ef1686a042530745d90981a773c697bc56cbe0a337e",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_12",
+    "sku": "AP001_0120_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.12.png",
+    "bytes": 48471,
+    "sha256": "9b203344ad666c57729a404fb0f00bba60054b5b5b5e3a0a33ecf2da1ce9d830",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-A",
+    "packId": "PROMO-A_13",
+    "sku": "AP001_0130_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackaseriesvol.13.png",
+    "bytes": 42185,
+    "sha256": "ac5f9dca7656c36a9db2c7e8ba2b7e8a6a913b5829a470e52d12b08bd1ceaaea",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "B1",
+    "packId": "B1_1",
+    "sku": "BN001_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0010_00_000.png",
+    "bytes": 81119,
+    "sha256": "a35be5157124deaa2d8951f08a7ed9ab1b07c16a7c3d59b75cad1b1f59ff1cfb",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B1",
+    "packId": "B1_2",
+    "sku": "BN001_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0020_00_000.png",
+    "bytes": 81329,
+    "sha256": "4034b75be8d2e6d276fc8dd19e88244a8ca89e50c88a6fe758af2636bcbb5127",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B1",
+    "packId": "B1_3",
+    "sku": "BN001_0030_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0030_00_000.png",
+    "bytes": 81315,
+    "sha256": "91f7aacdea7703c858cd75641e015663ced1b71176820a282670ebf26105dbe5",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B1a",
+    "packId": "B1a_1",
+    "sku": "BN002_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN002_0010_00_000.png",
+    "bytes": 61183,
+    "sha256": "71dc322517e019ae74f4594e885c7c4c106f419b52c3dc6a2dd3e157cc5170b7",
+    "width": 225,
+    "height": 225
+  },
+  {
+    "setId": "B2",
+    "packId": "B2_1",
+    "sku": "BN003_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN003_0010_00_000.png",
+    "bytes": 79342,
+    "sha256": "1cc9ba9b5a0b86449dbb49824ba6706837818e104e1724f854326e60fe6dd83e",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B2a",
+    "packId": "B2a_1",
+    "sku": "BN004_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN004_0010_00_000.png",
+    "bytes": 83340,
+    "sha256": "818bc81bee4447c311e1c229fb617e1ff9134f1c7d40deccbe2f2297554bb4af",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B2b",
+    "packId": "B2b_1",
+    "sku": "BN005_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN005_0010_00_000.png",
+    "bytes": 80351,
+    "sha256": "96f41e405a8318f3453694aea3382ebed2e930ce491f4d2ef2f9d234e568fea2",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B3",
+    "packId": "B3_1",
+    "sku": "BN006_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN006_0010_00_000.png",
+    "bytes": 80851,
+    "sha256": "8a252c86dfc2def97e1703b06bd44b629770d7ddc47940102198e7e28fe93321",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B3a",
+    "packId": "B3a_1",
+    "sku": "BN007_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN007_0010_00_000.png",
+    "bytes": 84831,
+    "sha256": "144b9325534e34b66e356af46f1061a4be7ef1a410c8c849517d0a498d790e51",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B3b",
+    "packId": "B3b_1",
+    "sku": "BN008_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN008_0010_00_000.png",
+    "bytes": 82232,
+    "sha256": "2b5436fc00be3c5225536c56344967860025c11e1ca575df993d776264470e63",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B4",
+    "packId": "B4_1",
+    "sku": "BN009_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+    "bytes": 69916,
+    "sha256": "69883978cabd017109697ca1e794640f3faf350118ea24ee95898d92ea9eee46",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B4a",
+    "packId": "B4a_1",
+    "sku": "BN010_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN010_0010_00_000.png",
+    "bytes": 64075,
+    "sha256": "37520eea524fb8f0dcdd8d0894f1afa546ae721180bb540040b7fd9cab3eb356",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "B4b",
+    "packId": "B4b_1",
+    "sku": "BN011_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN011_0010_00_000.png",
+    "bytes": 81840,
+    "sha256": "1bfd06f7ec1bcd7d48bf41322d01a3ff2b8b2c58e357b01a779f63cc46ac43ce",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "SP1",
+    "packId": "SP1_1",
+    "sku": "SP001_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_SP001_0010_00_000.png",
+    "bytes": 74049,
+    "sha256": "e5892b6a9b9aa3ae09f2d6e51b753b4b759fbff4cfbd15c16cc16419658f7788",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_1",
+    "sku": "BP001_0010_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.1.png",
+    "bytes": 41269,
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_2",
+    "sku": "BP001_0020_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.2.png",
+    "bytes": 48006,
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_3",
+    "sku": "BP001_0030_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.3.png",
+    "bytes": 42850,
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_4",
+    "sku": "BP001_0040_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.4.png",
+    "bytes": 41269,
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_5",
+    "sku": "BP001_0050_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.5.png",
+    "bytes": 48006,
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_6",
+    "sku": "BP001_0060_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.6.png",
+    "bytes": 42850,
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_7",
+    "sku": "BP001_0070_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.7.png",
+    "bytes": 41269,
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_8",
+    "sku": "BP001_0080_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.8.png",
+    "bytes": 48006,
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_9",
+    "sku": "BP001_0090_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.9.png",
+    "bytes": 42850,
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_10",
+    "sku": "BP001_0100_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.10.png",
+    "bytes": 41269,
+    "sha256": "0c799d25d0be09d673e4d696f6558a9395e91877cdeaa8c9def5d9a746817eb3",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_11",
+    "sku": "BP001_0110_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.11.png",
+    "bytes": 48006,
+    "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_12",
+    "sku": "BP001_0120_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.12.png",
+    "bytes": 42395,
+    "sha256": "8e3f7a8f5cecc8416e0c6efd14a0006c89faa132e43ac9562d8af0a6c63bd072",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "P-B",
+    "packId": "PROMO-B_13",
+    "sku": "BP001_0130_00_000",
+    "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.13.png",
+    "bytes": 42850,
+    "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+    "width": 148,
+    "height": 251
+  },
+  {
+    "setId": "C1",
+    "packId": "C1_1",
+    "sku": "CN001_0010_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_CN001_0010_00_000.png",
+    "bytes": 78323,
+    "sha256": "1a8231807b2e3fa86ebaf7851d367ba2a349ce06915e8ee6aa0435d86c8dc029",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "setId": "C1",
+    "packId": "C1_2",
+    "sku": "CN001_0020_00_000",
+    "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_CN001_0020_00_000.png",
+    "bytes": 82232,
+    "sha256": "1c44ee68fa81885dd1ad46406a64b56e77b029bf545e7d762090564e1b9b1c46",
+    "width": 256,
+    "height": 256
+  }
+]

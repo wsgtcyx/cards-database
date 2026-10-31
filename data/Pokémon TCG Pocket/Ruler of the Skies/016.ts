@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/016",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/016",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/016"
     },
     name: {
         en: "Pheromosa",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Diese Ultrabestie scheint diese Welt für unrein\nzu halten und zieht es daher vor, mit nichts und\nniemandem in Berührung zu kommen.",
         "pt-br": "Uma das Ultracriaturas, Recusa-se a encostar nos objetos deste mundo, talvez por acreditar que são impuros.",
         "zh-tw": "ＵＢ的一種。\n或許是覺得這個世界上萬物污穢不堪，\n因此不願用手觸及分毫。",
-        ja: "ＵＢの 一種。 この世界の ものに けがれを 感じるのか 一切 手を 触れようと しない。"
+        ja: "ＵＢの 一種。 この世界の ものに けがれを 感じるのか 一切 手を 触れようと しない。",
+        ko: "UB의 일종. 이 세계의\n물건에 불결함을 느끼는 것인지\n전혀 손을 대려 하지 않는다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "pt-br": "Prelúdio",
                 "zh-tw": "前驟曲",
                 "de": "Auftakt",
-                ja: "プレリュード"
+                ja: "プレリュード",
+                ko: "프렐류드"
             },
             effect: {
                 en: "If you haven't gotten any points, this attack does 60 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "pt-br": "Se você não recebeu nenhum ponto, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若自己還未得分,則增加60點傷害。",
                 "de": "Wenn du noch keine Punkte erhalten hast, fügt diese Attacke 60 Schadenspunkte mehr zu.",
-                ja: "自分がポイントをとっていないなら、60ダメージ追加。"
+                ja: "自分がポイントをとっていないなら、60ダメージ追加。",
+                ko: "자신이 포인트를 갖고 있지 않다면 60데미지를 추가한다."
             },
             damage: "30+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/083",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/083"
     },
     name: {
         en: "Lusamine",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Samina",
         "zh-tw": "露莎米奈",
         ja: "ルザミーネ",
+        ko: "루자미네",
     },
     illustrator: "Taira Akitsu",
     rarity: "Two Star",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Du kannst diese Karte nur verwenden, wenn dein Gegner mindestens 1 Punkt erreicht hat.\n\nWähle 1 deiner Ultrabestien. Lege 2 zufällige Energien von deinem Ablagestapel an dieses Pokémon an.",
         "pt-br": "Você só pode usar esta carta se seu oponente tiver obtido pelo menos 1 ponto.\n\nEscolha 1 de suas Ultra Bestas. Ligue 2 Energias aleatórias da sua pilha de descarte a esse Pokémon.",
         "zh-tw": "僅當對手獲得至少 1 點時才能使用這張卡。\n\n選擇你的 1 只究極異獸。將棄牌堆中的 2 個隨機能量附加到該神奇寶貝上。",
-        ja: "このカードは、相手がポイントをとっているときにしか使えない。 自分の「ウルトラビースト」を1匹選ぶ。自分のトラッシュからエネルギーをランダムに2個、そのポケモンにつける。"
+        ja: "このカードは、相手がポイントをとっているときにしか使えない。 自分の「ウルトラビースト」を1匹選ぶ。自分のトラッシュからエネルギーをランダムに2個、そのポケモンにつける。",
+        ko: "이 카드는 상대가 포인트를 갖고 있을 때만 사용할 수 있다. 자신의 「울트라비스트」를 1마리 선택한다. 자신의 트래쉬에서 에너지를 랜덤으로 2개 그 포켓몬에게 붙인다."
     },
     trainerType: "Supporter"
 };

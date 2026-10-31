@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/012"
     },
     name: {
         en: "Exeggcute",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
         ja: "タマタマ",
+        ko: "아라리",
     },
     illustrator: "kawayoo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Auch wenn es vielleicht so aussieht, als wäre es nur ein Haufen Eier,\nEs ist ein richtiges Pokémon. Exeggcute kommuniziert\nmit anderen seiner Art offenbar über Telepathie.",
         "pt-br": "Embora possa parecer apenas um monte de ovos,\né um Pokémon adequado. Exeggcute se comunica\ncom outros de sua espécie via telepatia, aparentemente.",
         "zh-tw": "雖然看起來只是一堆雞蛋，\n這是一隻真正的神奇寶貝。 Exeggcute 溝通\n顯然，是通過心靈感應與其他同類進行交流。",
-        ja: "タマゴのように 見えるが 立派な ポケモン。 テレパシーで 仲間と 交信している らしいぞ。"
+        ja: "タマゴのように 見えるが 立派な ポケモン。 テレパシーで 仲間と 交信している らしいぞ。",
+        ko: "알처럼 보이지만 엄연한\n포켓몬이다. 텔레파시로\n동료와 교신하는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
-                ja: "タネばくだん"
+                ja: "タネばくだん",
+                ko: "씨폭탄"
             },
             damage: 20,
             cost: ["Grass"]

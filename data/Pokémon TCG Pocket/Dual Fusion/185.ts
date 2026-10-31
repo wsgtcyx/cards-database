@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/185",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/185",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/185",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/185"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/185",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/185"
     },
     name: {
         en: "Mega Mewtwo X ex",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Impacto Dobrado",
                 "zh-tw": "雙元衝擊",
                 ja: "デュアルインパクト",
-                ko: "Dual Impact"
+                ko: "듀얼임팩트"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若場上有競技場卡,則增加40點傷害。",
                 ja: "場にスタジアムが出ているなら、40ダメージ追加。",
-                ko: "If a Stadium is in play, this attack does 40 more damage."
+                ko: "필드에 스타디움이 나와 있다면 40데미지를 추가한다."
             }
         }
     ],

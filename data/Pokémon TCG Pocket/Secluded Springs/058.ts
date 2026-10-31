@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/058"
     },
     name: {
         en: "Lickilicky",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lickilicky",
         "zh-tw": "大舌舔",
         ja: "ベロベルト",
+        ko: "내룸벨트",
     },
     illustrator: "Mina Nakai",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
         ja: "ベロリンガ",
+        ko: "내루미",
     },
     description: {
         en: "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Lickilickys seltsame Zunge kann viele ansprechen\nmal die Länge seines Körpers. Niemand hat es herausgefunden\nFinden Sie heraus, wie weit Lickilickys Zunge sich dehnen kann.",
         "pt-br": "A estranha língua de Lickilicky pode se estender a muitos\nvezes o comprimento do seu corpo. Ninguém imaginou\ndescobrir como a língua de Lickilicky pode esticar tanto.",
         "zh-tw": "Lickilicky 奇怪的舌頭可以延伸到很多\n其身體長度的幾倍。沒有人想到\n看看 Lickilicky 的舌頭如何能伸展這麼遠。",
-        ja: "体の 何倍もの 長さまで 伸びる 不思議な ベロを もつ。 その 不思議は 未解明のまま。"
+        ja: "体の 何倍もの 長さまで 伸びる 不思議な ベロを もつ。 その 不思議は 未解明のまま。",
+        ko: "몸의 몇 배의 길이로 늘어나는\n신비한 혀를 가졌다.\n그 비밀은 아직 밝혀지지 않았다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zunge dehnen",
                 "pt-br": "Esticar a língua",
                 "zh-tw": "伸展舌頭",
-                ja: "のびるベロ"
+                ja: "のびるベロ",
+                ko: "늘어나는혀"
             },
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 60 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 60 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 60 點傷害。",
-                ja: "相手のポケモン1匹に60ダメージ。"
+                ja: "相手のポケモン1匹に60ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 60데미지를 준다."
             }
         }],
     weaknesses: [{

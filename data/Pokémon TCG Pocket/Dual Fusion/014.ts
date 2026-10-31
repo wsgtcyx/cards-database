@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/014"
     },
     name: {
         en: "Cutiefly",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Picada",
                 "zh-tw": "蟲咬",
                 ja: "むしくい",
-                ko: "Bug Bite"
+                ko: "벌레먹기"
             },
             cost: [
                 "Grass"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Quando sente a aura das pessoas ou Pokémon que estão se divertindo, aproxima-se e dá uma ferroada dolorida neles com sua probóscide longa.",
         "zh-tw": "只要感覺到人類或寶可夢發出的快樂氣場，就會靠近並用長長的嘴器戳之。被戳者很痛。",
         ja: "人や ポケモンの 楽しそうな オーラを 感じ取り 寄ってきては 長い 口で 突くので 痛い。",
-        ko: "When it senses the auras of people or Pokémon who are having fun, it will draw close and give them a painful poke with its long proboscis."
+        ko: "사람이나 포켓몬의\n즐거워 보이는 오라를 감지하면\n접근해서 긴 주둥이로 아프게 찔러 댄다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/235",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/235",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/235",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/235"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/235",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/235"
     },
     name: {
         en: "Glaceon ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Glaceon ex",
         "zh-tw": "冰伊布ex",
         ja: "グレイシアex",
+        ko: "글레이시아 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Verschneites Gelände",
                 "pt-br": "Terreno Nevado",
                 "zh-tw": "雪地",
-                ja: "スノーフィールド"
+                ja: "スノーフィールド",
+                ko: "스노 필드"
             },
             effect: {
                 en: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon während des Pokémon-Checkups an der aktiven Stelle befindet, füge dem aktiven Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Durante o Pokémon Checkup, se este Pokémon estiver no Active Spot, cause 10 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "寶可夢檢查時，如果該寶可夢位於活躍位置，則對對手的活躍寶可夢造成 10 點傷害。",
-                ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のバトルポケモンに10ダメージ。"
+                ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のバトルポケモンに10ダメージ。",
+                ko: "이 포켓몬이 배틀필드에 있는 한, 포켓몬 체크 때마다 상대의 배틀 포켓몬에게 10데미지를 준다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Eisiger Wind",
                 "pt-br": "Vento Congelante",
                 "zh-tw": "冰冷的風",
-                ja: "フリーズウインド"
+                ja: "フリーズウインド",
+                ko: "프리즈윈드"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"]

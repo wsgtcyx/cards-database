@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/086"
     },
     name: {
         en: "Shinx",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
         ja: "コリンク",
+        ko: "꼬링크",
     },
     illustrator: "Uta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Dehnung und Kontraktion seiner Muskeln\nerzeugt Strom. Sein Fell leuchtet, wenn es ist\nin Schwierigkeiten.",
         "pt-br": "A extensão e contração de seus músculos\ngera eletricidade. Seu pelo brilha quando está\nem apuros.",
         "zh-tw": "肌肉的伸展和收縮\n發電。當它的皮毛髮光時\n遇到麻煩了。",
-        ja: "筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。"
+        ja: "筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。",
+        ko: "근육이 늘었다 줄었다 하면서\n전기가 발생한다. 위급해지면\n털이 눈부시게 빛난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Flop",
                 "pt-br": "Fracasso",
                 "zh-tw": "翻牌",
-                ja: "はねまわる"
+                ja: "はねまわる",
+                ko: "돌아다니며 뛰기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/039"
     },
     name: {
         en: "Floatzel",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Buizel",
         "zh-tw": "泳圈鼬",
         ja: "ブイゼル",
+        ko: "브이젤",
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",

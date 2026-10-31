@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/316",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/316",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/316",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/316"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/316",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/316"
     },
     name: {
         en: "Onix",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Desloca-se rapidamente pelo solo a 80 km/h torcendo e balançando seu enorme e resistente corpo.",
         "zh-tw": "彎曲扭動巨大結實的身體，以時速８０公里的猛烈勢頭挖掘前進。",
         ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。",
-        ko: "It rapidly bores through the ground at 50 mph by\nsquirming and twisting its massive, rugged body."
+        ko: "크고 튼튼한 몸을\n뒤틀고 꼬아서 시속 80km로\n힘차게 땅을 파나간다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Cavar",
                 "zh-tw": "挖洞",
                 ja: "あなをほる",
-                ko: "Dig"
+                ko: "구멍파기"
             },
             damage: 30,
             cost: [
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
                 ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
-                ko: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }
     ],

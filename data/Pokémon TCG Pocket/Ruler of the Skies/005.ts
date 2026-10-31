@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/005",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/005"
     },
     name: {
         en: "Dustox",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Wird es angegriffen, flattert es mit den Flügeln\nund verteilt giftigen Puder. Es ist nachtaktiv.",
         "pt-br": "Agita violentamente suas asas para espalhar poeira tóxica ao ser atacado. Torna-se ativo após o entardecer.",
         "zh-tw": "受到襲擊時會猛烈地\n揮動翅膀撒出劇毒的粉末。\n太陽下山後就會開始活動。",
-        ja: "襲われると 激しく 羽ばたいて 猛毒の 粉を まき散らす。 日が暮れると 行動を はじめる。"
+        ja: "襲われると 激しく 羽ばたいて 猛毒の 粉を まき散らす。 日が暮れると 行動を はじめる。",
+        ko: "습격당하면 격하게 날갯짓하며\n맹독 가루를 흩뿌린다.\n날이 저물면 행동을 시작한다."
     },
     abilities: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "多變粉",
                 "it": "Polvere Multieffetto",
                 "de": "Vielseitiger Puder",
-                ja: "バラエティパウダー"
+                ja: "バラエティパウダー",
+                ko: "버라이어티 파우더"
             },
             effect: {
                 en: "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "在自己的回合時,可使用1次。從中毒、灼傷、混亂中會隨機被選出1種,讓對手的戰鬥寶可夢陷入該特殊狀態。不會選出已經受到的特殊狀態。",
                 "it": "Una sola volta durante il tuo turno, puoi usare questa abilità. Il Pokémon attivo dell'avversario viene influenzato da una condizione speciale scelta a caso tra bruciato, confuso e avvelenato. Eventuali condizioni speciali da cui è già influenzato il Pokémon non verranno scelte.",
                 "de": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. 1 Spezieller Zustand wird zufällig aus Verbrennung, Verwirrung und Vergiftung ausgewählt. Das Aktive Pokémon deines Gegners ist jetzt von diesem Zustand betroffen. Spezielle Zustände, von denen das Pokémon bereits betroffen ist, werden nicht ausgewählt.",
-                ja: "自分の番に1回使える。どく・やけど・こんらんの中からランダムに1つが選ばれ、相手のバトルポケモンをその特殊状態にする。すでに受けている特殊状態は、選ばれない。"
+                ja: "自分の番に1回使える。どく・やけど・こんらんの中からランダムに1つが選ばれ、相手のバトルポケモンをその特殊状態にする。すでに受けている特殊状態は、選ばれない。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 독・화상・혼란 중에서 랜덤으로 1개가 선택되어 상대의 배틀 포켓몬을 그 특수 상태로 만든다. 이미 받고 있는 특수 상태는 선택되지 않는다."
             }
         }
     ],
@@ -87,7 +91,8 @@ const card: Card = {
                 de: "Schneidender Wind",
                 "pt-br": "Vento Dilacerante",
                 "zh-tw": "利刃之風",
-                ja: "カッターウインド"
+                ja: "カッターウインド",
+                ko: "커터윈드"
             },
             damage: 60
         }

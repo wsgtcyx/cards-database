@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/028"
     },
     name: {
         en: "Iron Leaves",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Den wenigen existierenden Augenzeugenberichten zufolge benutzte es seine glänzenden Klingen, um große Bäume und Felsbrocken zu schneiden.",
         "pt-br": "De acordo com os poucos relatos de testemunhas oculares existentes, ele usou suas lâminas brilhantes para cortar grandes árvores e pedras em juliana.",
         "zh-tw": "根據現有的少數目擊者描述，它用閃亮的刀片將大樹和巨石切碎。",
-        ja: "わずかな 目撃談によると 光り輝く 剣で 大木や 大岩を なます切りにしたという。"
+        ja: "わずかな 目撃談によると 光り輝く 剣で 大木や 大岩を なます切りにしたという。",
+        ko: "얼마 없는 목격담에 의하면\n눈부시게 빛나는 검으로\n큰 나무나 바위를 채 썰듯 베었다고 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Avenging Edge",
                 "pt-br": "Borda Vingativa",
                 "zh-tw": "復仇刀鋒",
-                ja: "アベンジエッジ"
+                ja: "アベンジエッジ",
+                ko: "어벤지에지"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 50 de dano a mais.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 50 點。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、50ダメージ追加。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、50ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 50데미지를 추가한다."
             },
             damage: "50+"
         }

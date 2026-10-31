@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/028"
     },
     name: {
         en: "Teal Mask Ogerpon ex",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Ogerpon Máscara Turquesa ex",
         "zh-tw": "厄鬼椪碧草面具ex",
         ja: "オーガポンみどりのめんex",
-        ko: "오거폰벽록의 가면 ex"
+        ko: "오거폰 벽록의 가면 ex"
     },
     illustrator: "5ban Graphics",
     rarity: "Four Diamond",
@@ -45,7 +46,7 @@ const card: Card = {
                 "pt-br": "Vento Acalentador",
                 "zh-tw": "平和之風",
                 ja: "やすらぎのかぜ",
-                ko: "Soothing Wind"
+                ko: "평온의 바람"
             },
             effect: {
                 en: "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.",
@@ -56,7 +57,7 @@ const card: Card = {
                 "pt-br": "Cada um dos seus Pokémon que tiver alguma Energia ligada a ele se recupera de todas as Condições Especiais e não pode ser afetado por quaisquer Condições Especiais.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有身上附有能量的寶可夢不會陷入特殊狀態,並將受到的特殊狀態全部恢復。",
                 ja: "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復。",
-                ko: "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+                ko: "이 포켓몬이 있는 한, 에너지가 붙어 있는 자신의 포켓몬 전원은 특수 상태가 되지 않으며 받고 있는 특수 상태는 모두 회복."
             }
         }
     ],
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Folhas Energizadas",
                 "zh-tw": "能量綠葉",
                 ja: "エナジーリーフ",
-                ko: "Energized Leaves"
+                ko: "에너지리프"
             },
             damage: "60+",
             cost: [
@@ -87,7 +88,7 @@ const card: Card = {
                 "pt-br": "Se a quantidade de Energia ligada a ambos os Pokémon Ativos for 5 ou mais, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若雙方的戰鬥寶可夢身上的能量為5個以上,則增加60點傷害。",
                 ja: "おたがいのバトルポケモンのエネルギーが5個以上なら、60ダメージ追加。",
-                ko: "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+                ko: "서로의 배틀 포켓몬의 에너지가 5개 이상이면 60데미지를 추가한다."
             }
         }
     ],

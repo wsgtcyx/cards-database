@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/090",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/090",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/090"
     },
     name: {
         en: "Minior",
@@ -38,7 +39,8 @@ const card: Card = {
         "de": "Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.",
         "pt-br": "Consome as partículas de poeira que flutuam na atmosfera. Acredita-se que a cor do seu núcleo depende da composição da poeira que ingeriu.",
         "zh-tw": "以大氣中的塵埃為食物，\n據說核心的顏色會根據\n塵埃所含的成分而定。",
-        ja: "大気中の チリが エサ。 チリに 含まれる 成分によって コアの 色が 決まるという。"
+        ja: "大気中の チリが エサ。 チリに 含まれる 成分によって コアの 色が 決まるという。",
+        ko: "대기 중의 먼지가 먹이다.\n먼지에 포함된 성분에 따라\n코어의 색이 결정된다고 한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "pt-br": "Investida Cósmica",
                 "zh-tw": "宇宙衝撞",
                 "it": "Azione Cosmica",
-                ja: "コスモタックル"
+                ja: "コスモタックル",
+                ko: "코스믹태클"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners über eine Fähigkeit verfügt, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver uma Habilidade, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢擁有特性,則增加40點傷害。",
-                ja: "相手のバトルポケモンが特性を持つなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンが特性を持つなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 특성을 가졌다면 40데미지를 추가한다."
             },
             damage: "10+"
         }

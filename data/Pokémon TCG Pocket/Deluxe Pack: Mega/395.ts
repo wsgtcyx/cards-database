@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/395",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/395",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/395",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/395"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/395",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/395"
     },
     name: {
         en: "Soothing Shore",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "No final do turno de cada jogador, aquele jogador curará 20 pontos de dano de cada um dos seus próprios Pokémon que tiver alguma Energia {W} ligadas a ele.",
         "zh-tw": "雙方玩家在自己的回合結束時,將自己的所有身上附有{W}能量的寶可夢恢復20HP。",
         ja: "おたがいのプレイヤーは、自分の番の終わりに、{W}エネルギーがついている自分のポケモン全員のHPを20回復。",
-        ko: "At the end of each player's turn, that player heals 20 damage from each of their Pokémon that has any {W} Energy attached."
+        ko: "서로의 플레이어는 자신의 차례의 마지막에 {W}에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 20회복."
     },
     trainerType: "Stadium"
 };

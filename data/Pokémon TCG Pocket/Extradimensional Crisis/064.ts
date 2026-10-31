@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/064"
     },
     name: {
         en: "Repel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Repelente",
         "zh-tw": "除蟲噴霧",
         ja: "むしよけスプレー",
+        ko: "벌레회피스프레이",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Tauschen Sie das aktive Basis-Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
         "pt-br": "Troque os Pokémon Básicos Ativos do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
         "zh-tw": "將對手的活躍基礎寶可夢移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
-        ja: "相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+        ja: "相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+        ko: "상대 배틀필드의 기본 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
     },
     trainerType: "Item"
 };

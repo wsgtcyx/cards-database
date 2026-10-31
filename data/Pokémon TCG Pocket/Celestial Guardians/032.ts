@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/032",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/032"
     },
     name: {
         en: "Torracat",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
         ja: "ニャビー",
+        ko: "냐오불",
     },
     description: {
         en: "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",

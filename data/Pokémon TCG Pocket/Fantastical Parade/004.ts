@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/004"
     },
     name: {
         en: "Roselia",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Roselia",
         "pt-br": "Roselia",
         "zh-tw": "毒薔薇",
-        ja: "ロゼリア"
+        ja: "ロゼリア",
+        ko: "로젤리아"
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es verwendet die unterschiedlichen Gifte in jeder Hand\nseparat, wenn es angreift. Je stärker es ist\nAroma, desto gesünder ist es.",
         "pt-br": "Ele usa os diferentes venenos em cada mão\nseparadamente quando ataca. Quanto mais forte for\naroma, mais saudável ele é.",
         "zh-tw": "每隻手都使用不同的毒藥\n攻擊時分開。其強度越強\n香氣濃郁，越健康。",
-        ja: "右手と 左手で ２種類の 毒を 使いわけて 攻撃する。 香りが 強いほど 元気だ。"
+        ja: "右手と 左手で ２種類の 毒を 使いわけて 攻撃する。 香りが 強いほど 元気だ。",
+        ko: "오른손과 왼손으로 2종류의\n독을 구별하여 공격한다.\n향기가 강할수록 기운이 넘친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
                 "zh-tw": "絆倒",
-                ja: "ころばす"
+                ja: "ころばす",
+                ko: "걸어 넘어뜨리기"
             },
             damage: "10+",
             cost: ["Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

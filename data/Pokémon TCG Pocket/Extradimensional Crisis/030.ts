@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/030"
     },
     name: {
         en: "Baltoy",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Baltoy",
         "zh-tw": "天秤偶",
         ja: "ヤジロン",
+        ko: "오뚝군",
     },
     illustrator: "Uta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es bewegt sich, während es sich auf seinem einzelnen Fuß dreht.\nEinige Baltoys wurden beim Weiterdrehen gesehen\nihre Köpfe.",
         "pt-br": "Ele se move enquanto gira em um único pé.\nAlguns Baltoy foram vistos girando\nsuas cabeças.",
         "zh-tw": "用單腳一邊旋轉一邊移動。\n有人看到一些 Baltoy 在旋轉\n他們的頭。",
-        ja: "一本足で 回転しながら 移動する。 逆さまに なって 回転する ヤジロンも 見かける。"
+        ja: "一本足で 回転しながら 移動する。 逆さまに なって 回転する ヤジロンも 見かける。",
+        ko: "한 다리로 회전하면서\n이동한다. 거꾸로\n회전하는 오뚝군도 발견된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
                 "zh-tw": "旋轉攻擊",
-                ja: "かいてんアタック"
+                ja: "かいてんアタック",
+                ko: "회전어택"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

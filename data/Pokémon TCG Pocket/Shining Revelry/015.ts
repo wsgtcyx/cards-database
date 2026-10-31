@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/015"
     },
     name: {
         en: "Tentacruel",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Tentacha",
         "pt-br": "Tentacool",
         "zh-tw": "瑪瑙水母",
-        ja: "メノクラゲ"
+        ja: "メノクラゲ",
+        ko: "왕눈해"
     },
     description: {
         en: "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",

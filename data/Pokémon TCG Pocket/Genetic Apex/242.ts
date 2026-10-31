@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/242",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/242",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/242",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/242"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/242",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/242"
     },
     name: {
         en: "Golbat",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Zubat",
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
-        ja: "ズバット"
+        ja: "ズバット",
+        ko: "주뱃"
     },
     attacks: [{
             cost: ["Colorless"],

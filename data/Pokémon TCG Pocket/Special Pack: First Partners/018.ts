@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/018"
     },
     name: {
         en: "Froakie",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
                 ja: "はたく",
-                ko: "Pound"
+                ko: "막치기"
             },
             cost: [
                 "Water"
@@ -68,7 +69,7 @@ const card: Card = {
         "pt-br": "Libera bolhas flexíveis do peito e das costas. As bolhas reduzem os danos que sofreria ao serem atacadas.",
         "zh-tw": "從胸口和背部製造泡泡。利用有彈性的泡泡承受攻擊，降低所受的傷害。",
         ja: "胸と 背中から 泡を 出す。 弾力のある 泡で 攻撃を 受け止めて ダメージを 減らす。",
-        ko: "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked."
+        ko: "가슴과 등에서 거품을 내뿜는다.\n탄력 있는 거품으로 공격을\n막아내고 데미지를 줄인다."
     }
 };
 

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/029"
     },
     name: {
         en: "Mew",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
                 ja: "サイコキネシス",
-                ko: "Psychic"
+                ko: "사이코키네시스"
             },
             cost: [
                 "Colorless",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。",
                 ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
-                ko: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             }
         }
     ],
@@ -80,7 +81,7 @@ const card: Card = {
         "pt-br": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
         "zh-tw": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
         ja: "いまでも まぼろしの ポケモンと いわれる。そのすがたを みたものは ぜんこくでも ほとんど いない。",
-        ko: "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+        ko: "지금도 환상의 포켓몬이라고 전해진다. 그 모습을 본 자는 전국에서도 거의 없다."
     }
 };
 

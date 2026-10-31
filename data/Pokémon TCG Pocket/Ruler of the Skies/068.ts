@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/068",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/068"
     },
     name: {
         en: "Mime Jr.",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es folgt dem talentierten Tänzer Pantifrost wie\nein Schüler und imitiert seine Schritte.",
         "pt-br": "Procura por um Mr. Rime que dance bem e copia meticulosamente os passos desse Mr. Rime, como um aprendiz.",
         "zh-tw": "像徒弟一樣跟隨著\n擅長跳舞的踏冰人偶，\n拼命模仿牠的舞步。",
-        ja: "ダンスの うまい バリコオルに 弟子の ように 付き従い ステップを 懸命に 真似する。"
+        ja: "ダンスの うまい バリコオルに 弟子の ように 付き従い ステップを 懸命に 真似する。",
+        ko: "춤을 잘 추는 마임꽁꽁의\n제자인 것마냥 따라다니며\n스텝을 열심히 흉내 낸다."
     },
     attacks: [
         {
@@ -50,7 +52,8 @@ const card: Card = {
                 "zh-tw": "擬擬重抽",
                 "it": "Mimimischiata",
                 "de": "Imitierendes Mischen",
-                ja: "まねまねシャッフル"
+                ja: "まねまねシャッフル",
+                ko: "흉내흉내셔플"
             },
             effect: {
                 en: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
@@ -60,7 +63,8 @@ const card: Card = {
                 de: "Mische deine Hand in dein Deck. Ziehe für jede Karte in der Hand deines Gegners eine Karte.",
                 "pt-br": "Embaralhe a sua mão no seu baralho. Compre uma carta para cada carta na mão do seu oponente.",
                 "zh-tw": "將自己的手牌全部放回牌庫。從自己的牌庫抽出與對手的手牌張數相同數量的卡。",
-                ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。"
+                ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。",
+                ko: "자신의 패를 모두 덱으로 되돌린다. 상대의 패의 장수만큼 자신의 덱을 뽑는다."
             }
         }
     ],

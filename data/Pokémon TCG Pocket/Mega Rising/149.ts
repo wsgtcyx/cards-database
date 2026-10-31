@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/149",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/149",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/149",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/149"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/149",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/149"
     },
     name: {
         en: "Honchkrow",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Honchkrow",
         "zh-tw": "烏鴉頭頭",
         ja: "ドンカラス",
+        ko: "돈크로우",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
         ja: "ヤミカラス",
+        ko: "니로우",
     },
     description: {
         en: "A single cry from this nocturnal Pokémon, and\nmore than 100 of its Murkrow cronies will\nassemble.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein einziger Schrei dieses nachtaktiven Pokémon, und\nMehr als 100 seiner Murkrow-Kumpane werden es tun\nzusammenbauen.",
         "pt-br": "Um único grito deste Pokémon noturno, e\nmais de 100 de seus comparsas Murkrow irão\nmontar.",
         "zh-tw": "這只夜間活動的神奇寶貝的一聲叫聲，以及\n超過 100 名暗鴉親信將\n組裝。",
-        ja: "夜行性。 一声 鳴けば １００匹を 超える 子分の ヤミカラスが 集結する。"
+        ja: "夜行性。 一声 鳴けば １００匹を 超える 子分の ヤミカラスが 集結する。",
+        ko: "야행성이다.\n한번 울면 100마리를 넘는\n부하 니로우가 집결한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Böse Ermahnung",
                 "pt-br": "Advertência maligna",
                 "zh-tw": "邪惡的警告",
-                ja: "あくのいましめ"
+                ja: "あくのいましめ",
+                ko: "악의굴레"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon deines Gegners im Spiel, das über eine Fähigkeit verfügt, 40 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada Pokémon do seu oponente em jogo que tenha uma Habilidade.",
                 "zh-tw": "此攻擊對場上對手每隻具有技能的神奇寶貝造成 40 點額外傷害。",
-                ja: "相手の場の特性を持つポケモンの数×40ダメージ追加。"
+                ja: "相手の場の特性を持つポケモンの数×40ダメージ追加。",
+                ko: "상대 필드의 특성을 가진 포켓몬의 수 × 40데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

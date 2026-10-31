@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/009"
     },
     name: {
         en: "Bayleef",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Lorblatt",
         "pt-br": "Bayleef",
         "zh-tw": "月桂葉",
-        ja: "ベイリーフ"
+        ja: "ベイリーフ",
+        ko: "베이리프"
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Chikorita",
         "zh-tw": "菊草葉",
         ja: "チコリータ",
+        ko: "치코리타",
     },
     description: {
         en: "A spicy aroma emanates from around its neck.\nThe aroma acts as a stimulant to restore health.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Um seinen Hals strömt ein würziger Duft.\nDas Aroma wirkt als Stimulans zur Wiederherstellung der Gesundheit.",
         "pt-br": "Um aroma picante emana de seu pescoço.\nO aroma atua como estimulante para restaurar a saúde.",
         "zh-tw": "一股辛辣的香氣從它的脖頸處散發出來。\n香氣可以作為恢復健康的興奮劑。",
-        ja: "首の まわりから 発散する スパイスのような 香りには 元気を 出させる 効果がある。"
+        ja: "首の まわりから 発散する スパイスのような 香りには 元気を 出させる 効果がある。",
+        ko: "목 주변에서 발산하는\n향신료 같은 향기에는\n힘을 내도록 하는 효과가 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
                 "zh-tw": "藤鞭",
-                ja: "つるのムチ"
+                ja: "つるのムチ",
+                ko: "덩굴채찍"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

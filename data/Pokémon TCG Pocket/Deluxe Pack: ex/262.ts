@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/262",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/262",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/262",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/262"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/262",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/262"
 	},
 	name: {
 		en: "Tinkatink",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Forgita",
 		"pt-br": "Tinkatink",
 		"zh-tw": "小鍛匠",
-		ja: "カヌチャン"
+		ja: "カヌチャン",
+		ko: "어리짱"
 	},
 	illustrator: "miki kudo",
 	rarity: "One Diamond",

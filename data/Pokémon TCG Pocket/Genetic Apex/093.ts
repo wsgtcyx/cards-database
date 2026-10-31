@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/093",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/093"
     },
     name: {
         en: "Frosmoth",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Snomnom",
         "pt-br": "Snom",
         "zh-tw": "雪吞蟲",
-        ja: "ユキハミ"
+        ja: "ユキハミ",
+        ko: "누니머기"
     },
     attacks: [{
             cost: ["Water", "Colorless"],

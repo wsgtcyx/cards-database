@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/159",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/159",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/159",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/159"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/159",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/159"
     },
     name: {
         en: "Accelgor",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Seit es seine Muschel abgestreift hat, ist es viel\nleichter und agiler. Es umhüllt sich mit einer\nSchleimhaut, die es vor dem Austrocknen schützt.",
         "pt-br": "Ao abandonar sua concha, este Pokémon se tornou mais ágil. Para não se desidratar, envolve seu corpo com tiras de membrana.",
         "zh-tw": "脫殼後變得更輕巧了。\n為了防止乾燥，會將\n帶狀的黏膜裹在身上。",
-        ja: "殻を 脱ぎ捨て 身軽に なった。 帯状の 粘膜を 体に 巻きつけ 乾燥を 防ぐ。"
+        ja: "殻を 脱ぎ捨て 身軽に なった。 帯状の 粘膜を 体に 巻きつけ 乾燥を 防ぐ。",
+        ko: "껍질을 벗어 몸이 가벼워졌다.\n띠 형태의 점막을 몸에 둘러\n건조해지는 것을 방지한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Adornar e Cobrir",
                 "zh-tw": "打完就閃",
                 "de": "Peinigen und Abhauen",
-                ja: "なぐってドロン"
+                ja: "なぐってドロン",
+                ko: "치고사라지기"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Paralisado. Embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒與麻痺。將這隻寶可夢與附加的卡,全部放回牌庫。",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist paralysiert. Mische dieses Pokémon und alle angelegten Karten in dein Deck.",
-                ja: "相手のバトルポケモンをどくとマヒにする。このポケモンと、ついているすべてのカードを、山札にもどす。"
+                ja: "相手のバトルポケモンをどくとマヒにする。このポケモンと、ついているすべてのカードを、山札にもどす。",
+                ko: "상대의 배틀 포켓몬을 독과 마비로 만든다. 이 포켓몬과 붙어 있는 모든 카드를 덱으로 되돌린다."
             },
             damage: 50
         }

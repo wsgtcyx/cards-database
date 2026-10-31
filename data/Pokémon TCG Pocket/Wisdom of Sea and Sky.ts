@@ -12,7 +12,8 @@ const set: Set = {
 		it: "Saggezza del Mare e del Cielo",
 		'pt-br': "Sabedoria do Mar e do Céu",
 		'zh-tw': "海與天空的智慧",
-		ja: "空と海の導き"
+		ja: "空と海の導き",
+		ko: "하늘과 바다의 인도"
 	},
 
 	serie: serie,
@@ -33,7 +34,14 @@ const set: Set = {
 				it: 'Lugia',
 				'pt-br': 'Lugia',
 				'zh-tw': '盧基亞',
-				ja: "空と海の導き ルギア"
+				ja: "空と海の導き ルギア",
+				ko: "하늘과 바다의 인도 루기아"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/boosters/lugia/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/boosters/lugia/logo.webp"
 			}
 		},
 		'ho-oh': {
@@ -45,9 +53,22 @@ const set: Set = {
 				it: 'Ho-Oh',
 				'pt-br': 'Ho-Oh',
 				'zh-tw': '鳳王',
-				ja: "空と海の導き ホウオウ"
+				ja: "空と海の導き ホウオウ",
+				ko: "하늘과 바다의 인도 칠색조"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/boosters/ho-oh/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/boosters/ho-oh/logo.webp"
 			}
 		}
+	},
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4/logo"
 	}
 }
 

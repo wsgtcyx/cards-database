@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/144",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/144",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/144"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/144",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/144"
     },
     name: {
         en: "Machoke",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Machollo",
         "pt-br": "Machop",
         "zh-tw": "腕力",
-        ja: "ワンリキー"
+        ja: "ワンリキー",
+        ko: "알통몬"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

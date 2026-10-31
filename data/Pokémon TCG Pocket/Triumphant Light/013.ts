@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/013"
     },
     name: {
         en: "Heatran",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon não terá custo de Recuo.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，則該神奇寶貝沒有撤退成本。"
             }
         }],

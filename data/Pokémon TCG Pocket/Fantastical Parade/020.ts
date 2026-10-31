@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/020"
     },
     name: {
         en: "Litleo",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Leufeo",
         "pt-br": "Litleo",
         "zh-tw": "小獅獅",
-        ja: "シシコ"
+        ja: "シシコ",
+        ko: "레오꼬"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Je mehr ein Litleo seinen Körper und Geist trainiert\nJe mehr er gegen mächtige Feinde kämpft, desto heißer ist seine Mähne\nwird wachsen.",
         "pt-br": "Quanto mais um Litleo treina seu corpo e espírito\nlutando contra inimigos poderosos, mais quente será sua juba\ncrescerá.",
         "zh-tw": "Litleo 對其身體和精神的訓練越多\n與強大的敵人作戰，它的鬃毛越熱\n會成長。",
-        ja: "強敵と 戦い 体と 心が 鍛えられた シシコほど たてがみの 温度は 高くなる。"
+        ja: "強敵と 戦い 体と 心が 鍛えられた シシコほど たてがみの 温度は 高くなる。",
+        ko: "강한 상대와 싸우며\n몸과 마음이 단련된 레오꼬일수록\n갈기의 온도가 높아진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ansturm",
                 "pt-br": "Debandada",
                 "zh-tw": "踩踏",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 10,
             cost: ["Colorless"]

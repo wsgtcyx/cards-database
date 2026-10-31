@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/077"
     },
     name: {
         en: "Regirock",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Selbst mit modernster Technologie konnten bei\nder Analyse seines Steinkörpers weder Herz noch\nGehirn gefunden werden.",
         "pt-br": "Tecnologia de ponta foi usada para estudar o interior do corpo rochoso deste Pokémon, mas nada foi encontrado – nem mesmo um cérebro ou um coração.",
         "zh-tw": "有人利用最新的科學技術\n調查了牠的岩石身體，但\n卻找不到牠的大腦或心臟。",
-        ja: "最新の 科学技術を 使い 岩の 体を 調べたが 脳や 心臓を 見つけられなかった。"
+        ja: "最新の 科学技術を 使い 岩の 体を 調べたが 脳や 心臓を 見つけられなかった。",
+        ko: "최신 과학 기술을 구사하여\n바위 몸을 조사했지만\n뇌나 심장을 찾지 못했다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verrückter Hammer",
                 "pt-br": "Martelo Insano",
                 "zh-tw": "瘋狂之錘",
-                ja: "マッドハンマー"
+                ja: "マッドハンマー",
+                ko: "매드해머"
             },
             effect: {
                 en: "This Pokémon also does 30 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 30 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 30 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 30 點傷害。",
-                ja: "このポケモンにも30ダメージ。"
+                ja: "このポケモンにも30ダメージ。",
+                ko: "이 포켓몬에게도 30데미지를 준다."
             },
             damage: 100
         }

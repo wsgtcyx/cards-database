@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/024"
     },
     name: {
         en: "Magmortar",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Magmar",
         "zh-tw": "鴨嘴火獸",
         ja: "ブーバー",
+        ko: "마그마",
     },
     description: {
         en: "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",

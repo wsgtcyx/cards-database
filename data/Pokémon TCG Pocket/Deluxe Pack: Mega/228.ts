@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/228",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/228",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/228",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/228"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/228",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/228"
     },
     name: {
         en: "Arena of Antiquity",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Os ataques usados por cada Pokémon {F} em jogo (seus ou do seu oponente) causam +20 pontos de dano ao Pokémon ex Ativo do seu oponente.",
         "zh-tw": "雙方的場上的{F}寶可夢使用的招式,對對手的戰鬥場的「寶可夢ex」造成的傷害+20點。",
         ja: "おたがいの場の{F}ポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージを+20する。",
-        ko: "Attacks used by each {F} Pokémon in play (both yours and your opponent's) do +20 damage to the opponent's Active Pokémon ex."
+        ko: "서로의 필드의 {F}포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 ex」에게 주는 데미지를 +20한다."
     },
     trainerType: "Stadium"
 };

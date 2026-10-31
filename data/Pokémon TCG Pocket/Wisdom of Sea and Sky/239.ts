@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/239",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/239",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/239",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/239"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/239",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/239"
     },
     name: {
         en: "Lickilicky ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lickilicky ex",
         "zh-tw": "大舌舔ex",
         ja: "ベロベルトex",
+        ko: "내룸벨트 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
         ja: "ベロリンガ",
+        ko: "내루미",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Wut lecken",
                 "pt-br": "Lambendo Fúria",
                 "zh-tw": "舔怒",
-                ja: "ベロベロラッシュ"
+                ja: "ベロベロラッシュ",
+                ko: "낼름낼름러시"
             },
             damage: "100+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa mais 40 danos para cada cabeça.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

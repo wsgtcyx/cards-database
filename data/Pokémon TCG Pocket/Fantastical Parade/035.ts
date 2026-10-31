@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/035"
     },
     name: {
         en: "Swampert",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sumpex",
         "pt-br": "Swampert",
         "zh-tw": "巨沼怪",
-        ja: "ラグラージ"
+        ja: "ラグラージ",
+        ko: "대짱이"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Moorabbel",
         "pt-br": "Marshtomp",
         "zh-tw": "沼躍魚",
-        ja: "ヌマクロー"
+        ja: "ヌマクロー",
+        ko: "늪짱이"
     },
     description: {
         en: "Swampert's arms are rock-hard. With one swing,\nthey can batter down Swampert's foes. This\nPokémon makes its nest on beautiful beaches.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Swamperts Arme sind steinhart. Mit einem Schwung,\nSie können Swamperts Feinde niederschmettern. Dies\nPokémon nisten an wunderschönen Stränden.",
         "pt-br": "Os braços de Swampert são duros como pedra. Com um balanço,\neles podem derrotar os inimigos de Swampert. Isto\nPokémon faz seus ninhos em belas praias.",
         "zh-tw": "斯瓦伯特的手臂堅如磐石。一揮桿，\n他們可以擊敗斯瓦伯特的敵人。這個\n神奇寶貝在美麗的海灘上築巢。",
-        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。"
+        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。",
+        ko: "양팔은 바위처럼 단단하며\n한 번에 상대를 때려눕힌다.\n아름다운 해변에 거처를 만든다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Großer Whirlpool",
                 "pt-br": "Hidromassagem Grande",
                 "zh-tw": "大漩渦",
-                ja: "おおうずしお"
+                ja: "おおうずしお",
+                ko: "큰바다회오리"
             },
             damage: 100,
             cost: ["Water", "Water", "Water"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
                 "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
-                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+                ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

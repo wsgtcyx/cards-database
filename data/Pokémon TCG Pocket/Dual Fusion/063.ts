@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/063"
     },
     name: {
         en: "Mimikyu",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Vestir-se",
                 "zh-tw": "盛裝打扮",
                 ja: "ドレスアップ",
-                ko: "Dress Up"
+                ko: "드레스업"
             },
             cost: [
                 "Psychic"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加30點傷害。",
                 ja: "このポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
-                ko: "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 30데미지를 추가한다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Este Pokémon vive em lugares escuros livres da luz do sol. Quando aparece diante de humanos, esconde-se sob um pano parecido com Pikachu.",
         "zh-tw": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用看似破布般的布來隱藏身子。",
         ja: "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。",
-        ko: "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu."
+        ko: "볕이 들지 않는 어두운 곳에 산다.\n사람들 앞에 나타날 때는\n피카츄를 본뜬 천으로 온몸을 가린다."
     }
 };
 

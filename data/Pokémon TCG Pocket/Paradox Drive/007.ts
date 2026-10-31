@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/007"
     },
     name: {
         en: "Golduck",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es schwimmt anmutig auf den ruhigen, langsam fließenden Flüssen und Seen entlang, die es so liebt.",
         "pt-br": "Ele nada graciosamente nos rios e lagos calmos e lentos dos quais tanto gosta.",
         "zh-tw": "它在它所喜愛的安靜、緩慢的河流和湖泊中優雅地遊動。",
-        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。"
+        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。",
+        ko: "잔잔하게 흐르는 강이나\n호수를 좋아한다.\n헤엄치는 모습이 아주 우아하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的戰鬥寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             },
             damage: "20+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/012"
     },
     name: {
         en: "Charmeleon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "リザード"
+        ja: "リザード",
+        ko: "리자드"
     },
     illustrator: "DOM",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "ヒトカゲ"
+        ja: "ヒトカゲ",
+        ko: "파이리"
     },
     description: {
         en: "If it becomes agitated during battle, it spouts\nintense flames, incinerating its surroundings.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es während des Kampfes unruhig wird, spritzt es heraus\nIntensive Flammen verbrennen die Umgebung.",
         "pt-br": "Se ficar agitado durante a batalha, ele jorra\nchamas intensas, incinerando seu entorno.",
         "zh-tw": "如果在戰鬥中變得焦躁的話，就會噴出\n猛烈的火焰，將周圍的一切都焚燒殆盡。",
-        ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。"
+        ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。",
+        ko: "싸움으로 기분이 고조되면\n작열하는 불꽃을 뿜으며\n주변을 태워버린다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Zündung",
                 "pt-br": "Ignição",
                 "zh-tw": "點火",
-                ja: "イグニッション"
+                ja: "イグニッション",
+                ko: "이그니션"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du eine {R}-Energie aus deiner Energiezone nehmen und sie an dein aktives {R}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar uma Energia {R} da sua Zona de Energia e ligá-la aos seus Pokémon {R} Ativos.",
                 "zh-tw": "在你的回合中，當你從手上使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以從你的能量區取出一個{R}能量並將其附加到你的活躍{R}神奇寶貝上。",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 에너지존에서 {R}에너지를 1개 내보내 배틀필드의 {R}포켓몬에게 붙인다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Ständiges Feuerspucken",
                 "pt-br": "Respiração de fogo constante",
                 "zh-tw": "穩定噴火",
-                ja: "ひをはく"
+                ja: "ひをはく",
+                ko: "불토하기"
             },
             damage: 50,
             cost: ["Fire", "Fire", "Colorless"]

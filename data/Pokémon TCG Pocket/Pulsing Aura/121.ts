@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/121"
     },
     name: {
         en: "Magearna",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es wurde vor ungefähr 500 Jahren von einem\nWissenschaftler erschaffen. Sein eigentlicher\nKörper ist der als „Seelenherz“ bezeichnete Teil.",
         "pt-br": "Construída há cerca de 500 anos por um cientista, a parte chamada Alma-Coração é a verdadeira forma de vida.",
         "zh-tw": "由大約５００年前的\n科學家所製造。\n本體是被稱為魂心的零件。",
-        ja: "およそ ５００年前 科学者に よって 作られた。 ソウルハートと 呼ばれる パーツが 本体なのだ。"
+        ja: "およそ ５００年前 科学者に よって 作られた。 ソウルハートと 呼ばれる パーツが 本体なのだ。",
+        ko: "약 500년 전 과학자에 의해\n만들어졌다. 소울하트라고\n불리는 파츠가 본체다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aufziehkanone",
                 "pt-br": "Canhão de Corda",
                 "zh-tw": "機關加農炮",
-                ja: "からくりカノン"
+                ja: "からくりカノン",
+                ko: "기계장치캐논"
             },
             effect: {
                 en: "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手的後備寶可夢每造成 20 點額外傷害。",
-                ja: "相手のベンチポケモンの数×20ダメージ追加。"
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
+                ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "20+"
         }

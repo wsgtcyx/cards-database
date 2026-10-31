@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/132",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/132",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/132"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/132",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/132"
     },
     name: {
         en: "Gardevoir",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kirlia",
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
-        ja: "キルリア"
+        ja: "キルリア",
+        ko: "킬리아"
     },
     abilities: [{
             type: "Ability",

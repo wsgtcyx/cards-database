@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/093"
     },
     name: {
         en: "Mesagoza",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mesalona City",
         "pt-br": "Mesaledo",
         "zh-tw": "桌台市",
-        ja: "テーブルシティ"
+        ja: "テーブルシティ",
+        ko: "테이블시티"
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Einmal während seines Zuges darf jeder Spieler eine Münze werfen. Bei „Kopf“ nimmt der Spieler ein zufälliges Pokémon aus seinem Deck auf die Hand. Während deines Zuges darfst du nur 1 Stadionkarte ausspielen. Lege es neben den aktiven Platz und wirf es ab, wenn ein anderes Stadion ins Spiel kommt. Ein Stadion mit demselben Namen kann nicht gespielt werden.",
         "pt-br": "Uma vez durante o turno de cada jogador, esse jogador pode jogar uma moeda. Se der cara, aquele jogador coloca um Pokémon aleatório de seu baralho em sua mão. Você pode jogar apenas 1 carta de Estádio durante o seu turno. Coloque-o próximo ao Local Ativo e descarte-o se outro Estádio entrar em jogo. Um estádio com o mesmo nome não pode ser jogado.",
         "zh-tw": "在每位玩家的回合中，該玩家可以擲一次硬幣。如果出現正面，則該玩家從牌組中隨機將一隻寶可夢放入手牌。在您的回合中您只能打出 1 張體育場卡。將其放在戰鬥場旁邊，如果另一個體育場進入比賽，則將其丟棄。同名的體育場不能進行比賽。",
-        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに1枚、手札に加える。"
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに1枚、手札に加える。",
+        ko: "서로의 플레이어는 자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Stadium"
 };

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/027",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/027",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/027"
     },
     name: {
         en: "Houndour",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Sein Ruf bei der Beutejagd unterscheidet sich von dem Ruf, den es zum Kommunizieren mit Artgenossen verwendet.",
         "pt-br": "Usa diferentes tipos de chamados para se comunicar com outros de sua espécie e para perseguir sua presa.",
         "zh-tw": "聯絡夥伴和追逐獵物\n的時候，會分別發出\n不同種類的叫聲。",
-        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。"
+        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。",
+        ko: "동료에게 연락할 때와\n먹이를 쫓을 때\n울음소리의 종류가 다르다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "銳利之爪",
                 "it": "Artigli Affilati",
                 "de": "Scharfe Krallen",
-                ja: "するどいツメ"
+                ja: "するどいツメ",
+                ko: "예리한손톱"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加20點傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "10+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/086"
     },
     name: {
         en: "Arceus ex",

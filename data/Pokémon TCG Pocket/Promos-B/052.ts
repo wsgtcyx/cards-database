@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/052",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/052"
     },
     name: {
         en: "Zygarde",
@@ -37,7 +38,8 @@ const card: Card = {
         de: "Im Kampf gegen all jene, die das Ökosystem in\nGefahr bringen, nimmt es angeblich eine noch\nmächtigere Form an.",
         "pt-br": "Alguns dizem que pode mudar para uma forma ainda mais poderosa ao combater aqueles que ameaçam o ecossistema.",
         "zh-tw": "據說當牠與威脅到\n生態系統的對手戰鬥時，\n會變化成更強大的樣子。",
-        ja: "生態系を 脅かす ものと 戦うとき 更に 強力な 姿に 変化すると いわれる。"
+        ja: "生態系を 脅かす ものと 戦うとき 更に 強力な 姿に 変化すると いわれる。",
+        ko: "생태계를 위협하는 자와\n싸울 때 더욱 강력한 모습으로\n변화한다고 전해진다."
     },
     attacks: [
         {
@@ -50,7 +52,8 @@ const card: Card = {
                 de: "Zellsturm",
                 "pt-br": "Célula de Tempestade",
                 "zh-tw": "細胞風暴",
-                ja: "セルストーム"
+                ja: "セルストーム",
+                ko: "셀스톰"
             },
             effect: {
                 en: "Heal 20 damage from this Pokémon.",
@@ -60,7 +63,8 @@ const card: Card = {
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
                 "zh-tw": "治療該寶可夢造成的 20 點傷害。",
-                ja: "このポケモンのHPを20回復。"
+                ja: "このポケモンのHPを20回復。",
+                ko: "이 포켓몬의 HP를 20회복."
             },
             damage: 60
         }

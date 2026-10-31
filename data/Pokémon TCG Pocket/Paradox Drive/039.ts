@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/039"
     },
     name: {
         en: "Weavile",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sie sind immer zu viert oder fünft unterwegs.\nBei der Jagd arbeiten sie zusammen, indem\nsie Zeichen in Felsen und Bäume ritzen.",
         "pt-br": "Eles viajam em grupos de quatro ou cinco, deixando sinais uns para os outros em árvores e pedras. Eles derrubam suas presas com ataques coordenados.",
         "zh-tw": "４～５隻一組行動。\n在岩石和樹木上留下記號，\n以團隊合作捕殺獵物。",
-        ja: "４～５匹の グループで 行動。 岩や 樹木に サインを 残し 連係プレイで 獲物を 仕留める。"
+        ja: "４～５匹の グループで 行動。 岩や 樹木に サインを 残し 連係プレイで 獲物を 仕留める。",
+        ko: "4~5마리의 그룹으로 행동한다.\n바위나 나무에 표시를 남겨\n연계 플레이로 먹이를 잡는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Überfall",
                 "pt-br": "Reide",
                 "zh-tw": "襲擊",
-                ja: "しゅうげき"
+                ja: "しゅうげき",
+                ko: "습격"
             },
             effect: {
                 en: "If this Pokémon evolved from Sneasel during this turn, this attack does 20 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon in diesem Zug aus Sniebel entwickelt hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon evoluiu de Sneasel durante este turno, este ataque causará 20 danos a mais.",
                 "zh-tw": "如果這隻寶可夢在本回合中從 狃拉 進化，則此攻擊造成的傷害增加 20 點。",
-                ja: "この番、このポケモンが「ニューラ」から進化していたなら、20ダメージ追加。"
+                ja: "この番、このポケモンが「ニューラ」から進化していたなら、20ダメージ追加。",
+                ko: "이 차례에 이 포켓몬이 「포푸니」에서 진화했다면 20데미지를 추가한다."
             },
             damage: "40+"
         }

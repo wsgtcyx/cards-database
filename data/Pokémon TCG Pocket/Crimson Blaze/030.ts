@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/030"
     },
     name: {
         en: "Misdreavus",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
-        ja: "ムウマ"
+        ja: "ムウマ",
+        ko: "무우마"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es liebt es, Menschen in die Haare zu beißen und auszureißen\nohne Vorwarnung zurück, nur um sie zu sehen\nschockierte Reaktionen.",
         "pt-br": "Ele adora morder e arrancar o cabelo das pessoas\natrás sem avisar, só para ver seus\nreações chocadas.",
         "zh-tw": "牠喜歡咬人並拉扯人的頭髮\n毫無徵兆的落後，只是為了看到他們\n震驚的反應。",
-        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。"
+        ja: "いきなり 後ろ髪に 噛みつき 引っぱっては 人の 驚く 姿を見て 喜んでいる。",
+        ko: "갑자기 뒷머리를 물고 잡아당기고는\n사람들이 놀라는 모습을 보며 즐거워한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Führen",
                 "pt-br": "Liderar",
                 "zh-tw": "帶領",
-                ja: "みちびく"
+                ja: "みちびく",
+                ko: "인도하기"
             },
             cost: ["Psychic"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Nimm eine zufällige Unterstützerkarte aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque uma carta de Apoiador aleatória do seu baralho na sua mão.",
                 "zh-tw": "將你牌庫中的一張隨機支持者卡置入你的手牌。",
-                ja: "自分の山札からサポートをランダムに1枚、手札に加える。"
+                ja: "自分の山札からサポートをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 서포트를 랜덤으로 1장 패로 가져온다."
             }
         }],
     weaknesses: [{

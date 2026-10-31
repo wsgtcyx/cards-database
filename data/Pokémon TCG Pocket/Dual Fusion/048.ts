@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/048"
     },
     name: {
         en: "Pawmi",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Chute Zap",
                 "zh-tw": "電氣踢",
                 ja: "エレキック",
-                ko: "Zap Kick"
+                ko: "일렉트릭킥"
             },
             cost: [
                 "Lightning"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Possui bolsas de eletricidade subdesenvolvidas em suas bochechas. Elas só produzem eletricidade se Pawmi esfregá-las furiosamente com as almofadas de suas patas dianteiras.",
         "zh-tw": "臉頰上的電囊尚未發達。必須拚命摩擦前腳的肉球，才能從那裡放出電力。",
         ja: "頬の 電気袋は 未発達。 前脚の 肉球で 懸命に 擦ると ようやく 発電できる。",
-        ko: "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws."
+        ko: "볼의 전기 주머니가 아직 발달하지 않았다.\n앞발의 볼록살을 열심히 비벼야\n겨우 전기가 만들어진다."
     }
 };
 

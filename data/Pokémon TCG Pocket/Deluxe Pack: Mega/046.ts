@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/046"
     },
     name: {
         en: "Fuecoco",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Sua bolsa de chamas é pequenina e tem sempre energia vazando. Esta energia é liberada pela cavidade no topo da cabeça de Fuecoco e balança pra lá e pra cá.",
         "zh-tw": "火囊很小，因此能量會溢出來，在牠頭上的凹槽那裡搖曳晃動。",
         ja: "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。",
-        ko: "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro."
+        ko: "불꽃 주머니가 작기 때문에\n흘러넘친 에너지가 머리의 움푹한 곳을 통해\n새어 나와 일렁거린다."
     },
     stage: "Basic",
     attacks: [
@@ -57,7 +58,7 @@ const card: Card = {
                 "pt-br": "Cantoria Contente",
                 "zh-tw": "歡樂高歌",
                 ja: "ようきにうたう",
-                ko: "Cheerful Singing"
+                ko: "명랑하게 노래하기"
             },
             cost: [
                 "Colorless"
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Pokémon Básicos aleatório do seu baralho no seu Banco.",
                 "zh-tw": "從自己的牌庫隨機抽出1張[Ctrl:Bold]基礎[/Ctrl:Bold]寶可夢,放置於備戰區。",
-                ko: "자신의 덱에서 기본 포켓몬eul_reul 랜덤으로 1장 벤치로 내보낸다.",
+                ko: "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다.",
                 ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。"
             }
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/070"
     },
     name: {
         en: "Meloetta",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Meloetta",
         "pt-br": "Meloetta",
         "zh-tw": "美洛耶塔",
-        ja: "メロエッタ"
+        ja: "メロエッタ",
+        ko: "메로엣타"
     },
     illustrator: "REND",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Melodien werden mit einer besonderen Vokalisierung gesungen\nMethode, die die Gefühle derjenigen kontrollieren kann, die\nhör es.",
         "pt-br": "Suas melodias são cantadas com uma vocalização especial\nmétodo que pode controlar os sentimentos daqueles que\nouça.",
         "zh-tw": "它的旋律是用特殊的發聲來演唱的\n可以控制他人情緒的方法\n聽到它。",
-        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。"
+        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。",
+        ko: "특수한 발성법으로 노래하는\n멜로디는 노래를 들은 자의\n감정을 자유자재로 조종한다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Seltsamer Gesang",
                 "pt-br": "Canto Estranho",
                 "zh-tw": "奇怪的歌聲",
-                ja: "ふしぎなうたごえ"
+                ja: "ふしぎなうたごえ",
+                ko: "이상한 노랫소리"
             },
             effect: {
                 en: "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon zu Beginn deines Zuges an der aktiven Stelle befindet, nimm ein zufälliges {P}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "No início do seu turno, se este Pokémon estiver no Ponto Ativo, coloque um Pokémon {P} aleatório do seu baralho na sua mão.",
                 "zh-tw": "在你的回合開始時，如果這只神奇寶貝位於活躍位置，則從你的牌組中隨機將一隻 {P} 神奇寶貝置入你的手牌。",
-                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 차례 처음에 이 포켓몬이 배틀필드에 있다면 자신의 덱에서 {P}포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
                 "zh-tw": "心理射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 50,
             cost: ["Psychic", "Psychic"]

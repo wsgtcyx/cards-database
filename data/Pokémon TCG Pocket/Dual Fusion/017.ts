@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/017"
     },
     name: {
         en: "Charmeleon",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
         ja: "ヒトカゲ",
-        ko: "Charmander"
+        ko: "파이리"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Cauda de Chamas",
                 "zh-tw": "火之尾",
                 ja: "ほのおのしっぽ",
-                ko: "Flame Tail"
+                ko: "불꽃 꼬리"
             },
             cost: [
                 "Fire",
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "Quando balança sua cauda em chamas, a temperatura ao redor sobe sem parar, atormentando seus oponentes.",
         "zh-tw": "當牠激烈擺動尾巴時，周圍的溫度會不斷上升，讓對手陷入痛苦。",
         ja: "燃える 尻尾を 振りまわすと まわりの 温度が どんどん 上がって 相手を 苦しめる。",
-        ko: "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents."
+        ko: "불타는 꼬리를 휘두르면\n주위의 온도가 점점 올라가\n상대를 괴롭게 한다."
     }
 };
 

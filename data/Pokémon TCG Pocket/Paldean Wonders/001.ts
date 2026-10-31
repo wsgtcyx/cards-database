@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/001"
     },
     name: {
         en: "Sprigatito",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Der süße Duft, den sein Körper verströmt, fasziniert die Menschen in seiner Umgebung. Der Duft wird stärker, wenn dieses Pokémon in der Sonne ist.",
         "pt-br": "O doce aroma que seu corpo exala hipnotiza aqueles que o rodeiam. O cheiro fica mais forte quando este Pokémon está ao sol.",
         "zh-tw": "它的身體散發出的甜美氣味讓周圍的人著迷。當這隻寶可夢在陽光下時，氣味會變得更濃。",
-        ja: "体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。"
+        ja: "体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。",
+        ko: "몸에서 나오는 달콤한 향기로\n주위를 매료시킨다.\n햇빛에 닿으면 향기가 더욱 강해진다."
     },
     stage: "Basic",
     attacks: [

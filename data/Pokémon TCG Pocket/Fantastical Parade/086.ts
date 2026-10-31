@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/086"
     },
     name: {
         en: "Boldore",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sedimantur",
         "pt-br": "Boldore",
         "zh-tw": "地幔岩",
-        ja: "ガントル"
+        ja: "ガントル",
+        ko: "암트르"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kiesling",
         "pt-br": "Roggenrola",
         "zh-tw": "石丸子",
-        ja: "ダンゴロ"
+        ja: "ダンゴロ",
+        ko: "단굴"
     },
     description: {
         en: "It relies on sound in order to monitor what's in its\nvicinity. When angered, it will attack without ever\nchanging the direction it's facing.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es ist auf den Ton angewiesen, um zu überwachen, was sich darin befindet\nUmgebung. Wenn es verärgert ist, greift es ohne jemals an\ndie Richtung ändern, in die es zeigt.",
         "pt-br": "Ele depende do som para monitorar o que está em seu\nvizinhança. Quando irritado, ele atacará sem nunca\nmudando a direção para a qual está voltado.",
         "zh-tw": "它依靠聲音來監視其內部的內容\n附近。當它被激怒時，它會毫不猶豫地攻擊\n改變它所面對的方向。",
-        ja: "音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。"
+        ja: "音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。",
+        ko: "소리로 주위 상황을 살핀다.\n화나게 하면 몸의 방향을\n바꾸지 않은 채로 쫓아온다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kraftjuwel",
                 "pt-br": "Gema de Poder",
                 "zh-tw": "能量寶石",
-                ja: "パワージェム"
+                ja: "パワージェム",
+                ko: "파워젬"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"]

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/087",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/087"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/087",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/087"
     },
     name: {
         en: "Jolteon ex",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Eevee",
         "zh-tw": "伊布",
         ja: "イーブイ",
-        ko: "Eevee"
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -56,7 +57,7 @@ const card: Card = {
                 "pt-br": "Parede Eletromagnética",
                 "zh-tw": "電磁牆",
                 ja: "でんじウォール",
-                ko: "Electromagnetic Wall"
+                ko: "전자벽"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon.",
@@ -67,7 +68,7 @@ const card: Card = {
                 "pt-br": "Enquanto este Pokémon estiver no Campo Ativo, sempre que seu oponente ligar uma Energia da Zona de Energia dele a 1 dos Pokémon dele, cause 20 pontos de dano àquele Pokémon.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,對手每次從能量區將能量附於寶可夢身上時,該寶可夢受到20點傷害。",
                 ja: "このポケモンがバトル場にいるかぎり、相手はエネルギーゾーンからポケモンにエネルギーをつけるたび、そのポケモンに20ダメージ。",
-                ko: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon."
+                ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 에너지존에서 포켓몬에게 에너지를 붙일 때마다 그 포켓몬에게 20데미지를 준다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Raio Supersônico",
                 "zh-tw": "音速伏特",
                 ja: "マッハボルト",
-                ko: "Mach Bolt"
+                ko: "마하볼트"
             },
             damage: 80,
             cost: [

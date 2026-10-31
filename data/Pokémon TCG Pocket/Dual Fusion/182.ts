@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/182"
     },
     name: {
         en: "Bewear ex",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
         ja: "ヌイコグマ",
-        ko: "Stufful"
+        ko: "포곰곰"
     },
     suffix: "EX",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Hiperlaço",
                 "zh-tw": "必殺金勾臂",
                 ja: "ひっさつラリアット",
-                ko: "Hyper Lariat"
+                ko: "필살래리엇"
             },
             cost: [
                 "Colorless",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 100 pontos de dano a mais.",
                 "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。",
                 ja: "コインを2回投げ、すべてオモテなら、100ダメージ追加。",
-                ko: "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+                ko: "동전을 2번 던져서 모두 앞면이 나오면 100데미지를 추가한다."
             }
         }
     ],

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/045"
     },
     name: {
         en: "Morpeko",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Hunger hat den Hormonhaushalt dieses Pokémon gestört. Die in seinen Wangentaschen gespeicherte elektrische Energie hat sich in dunkle Energie verwandelt.",
         "pt-br": "A fome perturbou o equilíbrio hormonal deste Pokémon. A energia do tipo Elétrico armazenada em suas bochechas se transformou em energia do tipo Escuro.",
         "zh-tw": "飢餓破壞了這隻寶可夢的荷爾蒙平衡。頰囊中儲存的電系能量，已轉化為暗繫能量。",
-        ja: "空腹で ホルモンバランスが 乱れて 頬袋の エネルギーが 電気から 悪タイプに 変わった。"
+        ja: "空腹で ホルモンバランスが 乱れて 頬袋の エネルギーが 電気から 悪タイプに 変わった。",
+        ko: "공복으로 호르몬의 균형이 무너져서\n볼주머니의 에너지가\n전기타입에서 악타입으로 변했다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Energiespendendes Rad",
                 "pt-br": "Roda Energizante",
                 "zh-tw": "能量車輪",
-                ja: "エネしゃりん"
+                ja: "エネしゃりん",
+                ko: "에너지차륜"
             },
             effect: {
                 en: "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Verschiebe 2 {D}-Energie von diesem Pokémon auf 1 deiner Bank-Pokémon.",
                 "pt-br": "Mova 2 {D} Energias deste Pokémon para 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將 2 個 {D} 能量從那個寶可夢轉移到你後備的 1 隻寶可夢上。",
-                ja: "このポケモンから{D}エネルギーを2個、ベンチポケモン1匹につけ替える。"
+                ja: "このポケモンから{D}エネルギーを2個、ベンチポケモン1匹につけ替える。",
+                ko: "이 포켓몬에서 {D}에너지를 2개 벤치 포켓몬 1마리에게 바꿔 붙인다."
             },
             damage: 50
         }

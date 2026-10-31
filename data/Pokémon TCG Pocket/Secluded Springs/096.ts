@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/096"
     },
     name: {
         en: "Kingler",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Kingler",
         "zh-tw": "巨鉗蟹",
         ja: "キングラー",
+        ko: "킹크랩",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Krabby",
         "zh-tw": "大鉗蟹",
         ja: "クラブ",
+        ko: "크랩",
     },
     description: {
         en: "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine große und harte Zange hat 10.000 PS\nStärke. Da es jedoch so groß ist, ist es unhandlich\nbewegen.",
         "pt-br": "Sua pinça grande e dura tem 10.000 cavalos de potência\nforça. No entanto, sendo tão grande, é pesado\npara se mover.",
         "zh-tw": "其大而硬的鉗子有萬馬力\n力量。不過太大了，不方便\n移動。",
-        ja: "硬い ハサミは １万馬力の パワーを もっているが 大きすぎて 動きが 鈍い。"
+        ja: "硬い ハサミは １万馬力の パワーを もっているが 大きすぎて 動きが 鈍い。",
+        ko: "단단한 집게는 1만 마력의\n파워를 지녔지만\n너무 커서 움직임이 둔하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "KO-Krabbe",
                 "pt-br": "Caranguejo nocauteado",
                 "zh-tw": "KO蟹",
-                ja: "ひっさつクラブ"
+                ja: "ひっさつクラブ",
+                ko: "필살크랩"
             },
             damage: "80+",
             cost: ["Water", "Water", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Wenn beide Köpfe sind, fügt dieser Angriff 80 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem cara, este ataque causa 80 de dano a mais.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，則這次攻擊會造成 80 點額外傷害。",
-                ja: "コインを2回投げ、すべてオモテなら、80ダメージ追加。"
+                ja: "コインを2回投げ、すべてオモテなら、80ダメージ追加。",
+                ko: "동전을 2번 던져서 모두 앞면이 나오면 80데미지를 추가한다."
             }
         }],
     weaknesses: [{

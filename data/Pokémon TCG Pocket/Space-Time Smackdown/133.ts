@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/133",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/133",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/133"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/133",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/133"
     },
     name: {
         en: "Staravia",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Starly",
         "zh-tw": "姆克兒",
         ja: "ムックル",
+        ko: "찌르꼬",
     },
     description: {
         en: "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",

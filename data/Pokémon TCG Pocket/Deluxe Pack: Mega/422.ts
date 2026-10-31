@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/422",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/422",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/422",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/422"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/422",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/422"
     },
     name: {
         en: "Elesa",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Devolva todas as Ferramentas Pokémon ligadas a cada Pokémon (seus e do seu oponente) à mão do seu dono.",
         "zh-tw": "將雙方的所有寶可夢身上的所有「寶可夢道具」卡放回持有人的手牌。",
         ja: "おたがいのポケモン全員から「ポケモンのどうぐ」をすべて、持ち主の手札にもどす。",
-        ko: "Return all Pokémon Tools attached to each Pokémon (both yours and your opponent's) to their owner's hand."
+        ko: "서로의 포켓몬 전원으로부터 「포켓몬의 도구」를 모두 주인의 패로 되돌린다."
     },
     trainerType: "Supporter"
 };

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/182"
     },
     name: {
         en: "Vaporeon ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Gefrorener Fluss",
                 "pt-br": "Fluxo Congelado",
                 "zh-tw": "嚴寒水流",
-                ja: "いてつくすいりゅう"
+                ja: "いてつくすいりゅう",
+                ko: "얼어붙는 수류"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du das aktive Pokémon deines Gegners auf die Bank tauschen. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá trocar o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以將對手的活躍寶可夢切換到替補席。 （你的對手選擇新的活躍寶可夢。）",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다)"
             }
         }
     ],
@@ -78,7 +81,8 @@ const card: Card = {
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
                 "zh-tw": "飛濺",
-                ja: "スプラッシュ"
+                ja: "スプラッシュ",
+                ko: "스플래시"
             },
             damage: 80
         }

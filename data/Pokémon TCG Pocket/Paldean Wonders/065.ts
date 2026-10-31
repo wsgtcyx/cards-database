@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/065"
     },
     name: {
         en: "Paldean Clodsire",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Clodsire de Paldea",
         "zh-tw": "帕底亞土王",
         ja: "パルデアドオー",
+        ko: "팔데아 토오",
         pt: "Clodsire de Paldea"
     },
     illustrator: "Shin Nagasawa",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
         ja: "パルデアウパー",
+        ko: "팔데아 우파",
         'es-mx': "Wooper de Paldea",
         pt: "Wooper de Paldea"
     },
@@ -49,7 +52,8 @@ const card: Card = {
         "de": "Es lebt am Grund von Teichen und Sümpfen. Es wird Wooper auf seinem Rücken tragen und sie über das Wasser von einem Ufer zum anderen befördern.",
         "pt-br": "Vive no fundo de lagoas e pântanos. Ele carregará Wooper nas costas e os transportará através da água de uma margem a outra.",
         "zh-tw": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。",
-        ja: "池や 沼の 水底で 暮らす。 背中に ウパーを 乗せて 泳ぎ 対岸まで 運んであげる。"
+        ja: "池や 沼の 水底で 暮らす。 背中に ウパーを 乗せて 泳ぎ 対岸まで 運んであげる。",
+        ko: "연못이나 늪의 밑바닥에서 산다.\n등에 우파를 태우고 헤엄치며\n건너편까지 옮겨다 준다."
     },
     stage: "Stage1",
     attacks: [
@@ -63,6 +67,7 @@ const card: Card = {
                 "pt-br": "Martelo Enlameado",
                 "zh-tw": "土錘",
                 ja: "どろんこハンマー",
+                ko: "흙탕해머",
                 pt: "Martelo Lamacento"
             },
             damage: 70,
@@ -76,6 +81,7 @@ const card: Card = {
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂牌。",
                 ja: "相手の山札を上から1枚トラッシュ。",
+                ko: "상대의 덱을 위에서부터 1장 트래쉬한다.",
                 pt: "Descarte a carta de cima do baralho do seu oponente."
             },
         },

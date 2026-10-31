@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/039"
     },
     name: {
         en: "Sandygast",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es schleudert Sand in die Augen seiner Beute und versucht, sich ihnen zu nähern, während sie geblendet sind. Da Sankabuh jedoch so langsam ist, neigt die Beute dazu, zu entkommen.",
         "pt-br": "Ele joga areia nos olhos de suas presas e tenta se aproximar delas enquanto elas estão cegas, mas como Sandygast é muito lento, a presa tende a escapar.",
         "zh-tw": "它將沙子扔進獵物的眼睛裡，並試圖在獵物失明時接近獵物，但由於 沙丘娃 速度太慢，獵物往往會逃跑。",
-        ja: "獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。"
+        ja: "獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。",
+        ko: "모래로 먹잇감의 눈을 멀게 하고\n그 틈에 접근하려 하지만\n움직임이 느려서 놓치고 만다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sandspray",
                 "pt-br": "Spray de Areia",
                 "zh-tw": "沙沫",
-                ja: "すなしぶき"
+                ja: "すなしぶき",
+                ko: "모래보라"
             },
             damage: 20
         }

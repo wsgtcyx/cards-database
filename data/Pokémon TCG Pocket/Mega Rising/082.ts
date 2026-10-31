@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/082",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/082"
     },
     name: {
         en: "Mareep",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
         ja: "メリープ",
+        ko: "메리프",
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Fell wächst kontinuierlich. Im Sommer,\nDas Vlies ist vollständig abgeworfen, wächst aber wieder nach\neine Woche.",
         "pt-br": "Seu velo cresce continuamente. No verão,\no velo está totalmente solto, mas volta a crescer\numa semana.",
         "zh-tw": "它的羊毛不斷生長。在夏天，\n羊毛完全脫落，但又重新長出來\n一周。",
-        ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。"
+        ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。",
+        ko: "몸의 털은 점점 자란다.\n여름이 되면 전부 빠지지만\n일주일 정도면 원래대로 자라난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Hinterer Tritt",
                 "pt-br": "Chute traseiro",
                 "zh-tw": "後踢",
-                ja: "うしろげり"
+                ja: "うしろげり",
+                ko: "뒤로 차기"
             },
             damage: 10,
             cost: ["Lightning"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

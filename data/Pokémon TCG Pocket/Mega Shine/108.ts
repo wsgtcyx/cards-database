@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/108"
     },
     name: {
         en: "Axew",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn Sie auf Felsbrocken oder Bäumen seltsame Zahnspuren sehen, bedeutet das, dass wahrscheinlich ein Milza in der Nähe lebt.",
         "pt-br": "Se você vir marcas peculiares de dentes em pedras ou árvores, significa que provavelmente um Axew mora nas proximidades.",
         "zh-tw": "如果您在巨石或樹木上看到特殊的齒痕，則表示 牙牙 很可能居住在附近。",
-        ja: "岩や 樹木に 独特の 歯形を 見かけたら 近くに キバゴが 棲んでいるはずだ。"
+        ja: "岩や 樹木に 独特の 歯形を 見かけたら 近くに キバゴが 棲んでいるはずだ。",
+        ko: "바위나 나무에서 독특한\n이빨 자국을 발견했다면\n근처에 터검니가 살고 있는 것이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Scharfe Fänge",
                 "pt-br": "Presa Afiada",
                 "zh-tw": "銳利之牙",
-                ja: "するどいキバ"
+                ja: "するどいキバ",
+                ko: "예리한이빨"
             },
             damage: 40
         }

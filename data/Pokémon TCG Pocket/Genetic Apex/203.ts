@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/203",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/203",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/203"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/203",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/203"
     },
     name: {
         en: "Kangaskhan",

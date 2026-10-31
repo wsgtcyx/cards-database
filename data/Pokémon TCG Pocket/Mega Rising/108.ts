@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/108",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/108"
     },
     name: {
         en: "Drifblim",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Drifblim",
         "zh-tw": "隨風球",
         ja: "フワライド",
+        ko: "둥실라이드",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
         ja: "フワンテ",
+        ko: "흔들풍손",
     },
     description: {
         en: "They carry people and Pokémon, but the\nwind can catch them, so there can't be a\nfixed destination.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie tragen Menschen und Pokémon, aber die\nDer Wind kann sie einfangen, also kann es keinen geben\nfestes Ziel.",
         "pt-br": "Eles carregam pessoas e Pokémon, mas o\no vento pode pegá-los, então não pode haver\ndestino fixo.",
         "zh-tw": "它們載著人和神奇寶貝，但是\n風可以抓住它們，所以不可能有\n固定目的地。",
-        ja: "人や ポケモンを 運ぶ。 ただし 風に 流されてしまうので 行き先を 決められない。"
+        ja: "人や ポケモンを 運ぶ。 ただし 風に 流されてしまうので 行き先を 決められない。",
+        ko: "사람이나 포켓몬을 운반한다.\n단, 바람에 의해 날려가 버리기 때문에\n목적지를 정할 수 없다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Ballonfeuer",
                 "pt-br": "Barragem de Balões",
                 "zh-tw": "氣球彈幕",
-                ja: "バルーンボンバー"
+                ja: "バルーンボンバー",
+                ko: "벌룬봄버"
             },
             damage: "20+",
             cost: ["Psychic", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a este Pokémon.",
                 "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。",
-                ja: "このポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "このポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/010",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/010"
     },
     name: {
         en: "Beedrill",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kokuna",
         "pt-br": "Kakuna",
         "zh-tw": "鐵殼蛹",
-        ja: "コクーン"
+        ja: "コクーン",
+        ko: "딱충이"
     },
     attacks: [{
             cost: ["Grass"],

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/235",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/235",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/235",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/235"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/235",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/235"
     },
     name: {
         en: "Electrode",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Voltobal",
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
-        ja: "ビリリダマ"
+        ja: "ビリリダマ",
+        ko: "찌리리공"
     },
     attacks: [{
             cost: ["Lightning", "Lightning"],

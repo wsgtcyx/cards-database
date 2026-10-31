@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/035"
     },
     name: {
         en: "Charizard",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "リザード"
+        ja: "リザード",
+        ko: "리자드"
     },
     attacks: [{
             cost: ["Fire", "Fire", "Colorless", "Colorless"],

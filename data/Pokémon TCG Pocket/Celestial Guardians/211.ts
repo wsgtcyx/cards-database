@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/211",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/211",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/211"
     },
     name: {
         en: "Ivysaur",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
-        ja: "フシギダネ"
+        ja: "フシギダネ",
+        ko: "이상해씨"
     },
     description: {
         en: "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",

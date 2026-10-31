@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/119"
     },
     name: {
         en: "Sweet Honey",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Scegli uno dei tuoi Pokémon, poi lancia una moneta finché non esce croce. Ogni volta che esce testa, cura quel Pokémon da 20 danni.",
         de: "Wähle 1 deiner Pokémon und wirf anschließend so lange 1 Münze, bis sie Zahl zeigt. Heile pro Kopf 20 Schadenspunkte bei jenem Pokémon.",
         ja: "自分のポケモンを1匹選ぶ。ウラが出るまでコインを投げ、オモテの数×20ダメージぶん、そのポケモンのHPを回復。",
-        ko: "Choose 1 of your Pokémon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pokémon."
+        ko: "자신의 포켓몬을 1마리 선택한다. 뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지만큼 그 포켓몬의 HP를 회복."
     }
 };
 

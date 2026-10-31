@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/016",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/016",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/016",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/016"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/016",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/016"
 	},
 	name: {
 		en: "Skiploom",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Hubelupf",
 		"pt-br": "Skiploom",
 		"zh-tw": "毽子花",
-		ja: "ポポッコ"
+		ja: "ポポッコ",
+		ko: "두코"
 	},
 	illustrator: "Kyoko Umemoto",
 	rarity: "Two Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Hoppspross",
 		"pt-br": "Hoppip",
 		"zh-tw": "毽子草",
-		ja: "ハネッコ"
+		ja: "ハネッコ",
+		ko: "통통코"
 	},
 	description: {
 		en: "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head.",
@@ -46,7 +49,8 @@ const card: Card = {
 		de: "Skiploom-Enthusiasten können offenbar erkennen, wo a\nSkiploom wurde durch den Duft geboren, der von dort wehte\nBlume auf dem Kopf des Pokémon.",
 		"pt-br": "Os entusiastas do Skiploom aparentemente podem dizer onde um\nSkiploom nasceu do perfume que vem do\nflor na cabeça do Pokémon.",
 		"zh-tw": "Skiploom 愛好者顯然可以分辨出\nSkiploom 的誕生是由飄來的香味所決定的。\n神奇寶貝頭上的花。",
-		ja: "ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。"
+		ja: "ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。",
+		ko: "두코 마니아들은\n머리에 달린 꽃에서 나는 향기로\n어디서 태어났는지를 알 수 있다고 한다."
 	},
 	stage: "Stage1",
 	attacks: [
@@ -59,7 +63,8 @@ const card: Card = {
 				de: "Samenbombe",
 				"pt-br": "Bomba de sementes",
 				"zh-tw": "種子炸彈",
-				ja: "タネばくだん"
+				ja: "タネばくだん",
+				ko: "씨폭탄"
 			},
 			damage: 40,
 			cost: ["Grass"]

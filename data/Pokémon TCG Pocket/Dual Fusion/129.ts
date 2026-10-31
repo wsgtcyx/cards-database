@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/129",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/129"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/129",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/129"
     },
     name: {
         en: "Poké Mart Guy",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Prendi 2 carte a caso dal tuo mazzo fra le seguenti: Superpozione, Repellente max e Cura totale. Poi aggiungile alle carte che hai in mano.",
         de: "Nimm von den Karten Supertrank, Top-Schutz und Hyperheiler 2 zufällige aus deinem Deck auf deine Hand.",
         ja: "自分の山札から「いいきずぐすり」「ゴールドスプレー」「なんでもなおし」をランダムに2枚、手札に加える。",
-        ko: "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand."
+        ko: "자신의 덱에서 「좋은상처약」「골드스프레이」「만병통치제」를 랜덤으로 2장 패로 가져온다."
     }
 };
 

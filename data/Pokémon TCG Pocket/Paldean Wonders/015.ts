@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/015"
     },
     name: {
         en: "Wo-Chien",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wo-Chien",
         "zh-tw": "古簡蝸",
         ja: "チオンジェン",
+        ko: "총지엔",
         pt: "Wo-Chien"
     },
     illustrator: "Kouki Saitou",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Es entzieht der Vegetation die Lebenskraft, wodurch umliegende Wälder sofort verdorren und Felder unfruchtbar werden.",
         "pt-br": "Ele drena a força vital da vegetação, fazendo com que as florestas próximas murchem instantaneamente e os campos fiquem áridos.",
         "zh-tw": "它會耗盡植被的生命力，導致附近的森林立即枯萎，田野變得貧瘠。",
-        ja: "草木の エネルギーを 吸い上げる。 周囲の 森は たちどころに 枯れ果て 田畑は 不作となる。"
+        ja: "草木の エネルギーを 吸い上げる。 周囲の 森は たちどころに 枯れ果て 田畑は 不作となる。",
+        ko: "초목의 에너지를 흡수한다.\n주위의 숲은 금세 말라비틀어지며\n논밭에는 흉작이 들게 된다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Ganância Vinculante",
                 "zh-tw": "束縛貪婪",
                 ja: "どんよくバインド",
+                ko: "탐욕바인드",
                 pt: "Gula Aprisionante"
             },
             damage: "90",
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão {C}{C} a mais.",
                 "zh-tw": "在對手的下一個回合中，防禦寶可夢使用的攻擊會花費更多 {C}{C} 的費用。",
                 ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー2個ぶん多くする。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지를 {C}에너지 2개만큼 많게 한다.",
                 pt: "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão {C}{C} a mais."
             },
         },

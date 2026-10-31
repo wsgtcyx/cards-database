@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/014"
     },
     name: {
         en: "Carnivine",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Klammert sich an Bäume in Sümpfen. Lockt Beute mit seinem\nsüßlichen Speichel an und schluckt sie dann.",
         "pt-br": "Ele se liga às árvores dos pântanos. Ele atrai as presas com sua baba cheirosa e as engole.",
         "zh-tw": "它把自己綁在沼澤中的樹木上。它用芳香的口水吸引獵物並將其吞下。",
-        ja: "湿地帯に 生える 木に巻きつき 甘い香りの だえきで 獲物を 誘き寄せては ひとくちで 食べる。"
+        ja: "湿地帯に 生える 木に巻きつき 甘い香りの だえきで 獲物を 誘き寄せては ひとくちで 食べる。",
+        ko: "늪지대에서 자라는 나무에 엉겨 붙어\n달콤한 냄새의 타액으로 먹이를\n끌어들여 한입에 먹는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30
         }

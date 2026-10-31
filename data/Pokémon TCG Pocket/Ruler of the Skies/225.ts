@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/225",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/225",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/225",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/225"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/225",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/225"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Schnee binden",
                 "pt-br": "Detenção Nevada",
                 "zh-tw": "冰雪制約",
-                ja: "スノーバインド"
+                ja: "スノーバインド",
+                ko: "스노바인드"
             },
             effect: {
                 en: "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
                 "zh-tw": "在下個對手的回合,對手無法從能量區抽出能量,附於戰鬥寶可夢身上。",
-                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。"
+                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。",
+                ko: "상대의 다음 차례에 상대는 에너지존에서 에너지를 내보내서 배틀 포켓몬에게 붙일 수 없다."
             },
             damage: 80
         }

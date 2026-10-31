@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/108"
     },
     name: {
         en: "Porygon",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bola Energizada",
                 "zh-tw": "力量球",
                 ja: "パワーボール",
-                ko: "Powered Ball"
+                ko: "파워볼"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Descarte Energia aleatória deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機個能量丟棄。",
                 ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
-                ko: "Discard a random Energy from this Pokémon."
+                ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "É um Pokémon artificial. Como não precisa respirar, as pessoas ficam animadas com seu potencial de ser útil em qualquer ambiente.",
         "zh-tw": "人工創造的寶可夢。沒有呼吸，因此被期待在任何地方都能大展身手。",
         ja: "呼吸を していないので どんなところでも 活躍できると 期待される 人工の ポケモン。",
-        ko: "It is an artificial Pokémon. Since it doesn’t breathe, people are excited by its potential to be useful in any environment."
+        ko: "호흡을 하지 않기 때문에\n어디서나 활약할 수 있을 것으로\n기대되는 인공의 포켓몬이다."
     }
 };
 

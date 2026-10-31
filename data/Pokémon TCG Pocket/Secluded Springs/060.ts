@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/060"
     },
     name: {
         en: "Teddiursa",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
         ja: "ヒメグマ",
+        ko: "깜지곰",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Pfoten sind in Unmengen Honig getränkt. Wann\nnervös, Teddiursa wird sich bald die Pfoten lecken\nwieder ein Lächeln im Gesicht haben.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando\nnervoso, Teddiursa lamberá as patas e logo\ntenha um sorriso de volta no rosto.",
         "zh-tw": "它的爪子浸滿了蜂蜜。當\n緊張時，泰迪烏薩會舔它的爪子，很快\n臉上重新露出笑容。",
-        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。",
+        ko: "손바닥에는 달콤한 꿀이\n잔뜩 배어들어 있다.\n불안할 때 손바닥을 핥으면 웃게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Überraschungsangriff",
                 "pt-br": "Ataque surpresa",
                 "zh-tw": "偷襲",
-                ja: "ふいをつく"
+                ja: "ふいをつく",
+                ko: "허찌르기"
             },
             damage: 40,
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

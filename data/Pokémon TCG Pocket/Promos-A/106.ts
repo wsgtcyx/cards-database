@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/106",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/106",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/106",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/106"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/106",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/106"
 	},
 	name: {
 		en: "Zoroark",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Zoroark",
 		"pt-br": "Zoroark",
 		"zh-tw": "索羅亞克",
-		ja: "ゾロアーク"
+		ja: "ゾロアーク",
+		ko: "조로아크"
 	},
 	illustrator: "matazo",
 	rarity: "One Star",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Zorua",
 		"pt-br": "Zorua",
 		"zh-tw": "索羅亞",
-		ja: "ゾロア"
+		ja: "ゾロア",
+		ko: "조로아"
 	},
 	description: {
 		en: "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.",
@@ -46,7 +49,8 @@ const card: Card = {
 		de: "Geschichten sagen, dass diejenigen, die versuchten, Zoroark zu fangen, es waren\nin einer Illusion gefangen und bestraft.",
 		"pt-br": "As histórias dizem que aqueles que tentaram capturar Zoroark foram\npreso em uma ilusão e punido.",
 		"zh-tw": "故事稱那些試圖抓住索羅亞克的人是\n陷入幻覺並受到懲罰。",
-		ja: "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。"
+		ja: "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。",
+		ko: "조로아크를 잡으려 한 사람을\n환영의 경치 속에 가둬서\n혼내 줬다고 전해진다."
 	},
 	stage: "Stage1",
 	abilities: [
@@ -60,7 +64,8 @@ const card: Card = {
 				de: "Illusiver Trick",
 				"pt-br": "Truque Ilusivo",
 				"zh-tw": "虛幻的詭計",
-				ja: "げんえいトリック"
+				ja: "げんえいトリック",
+				ko: "환영트릭"
 			},
 			effect: {
 				en: "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -70,7 +75,8 @@ const card: Card = {
 				de: "Wenn das Pokémon deines Gegners durch Schaden durch die Angriffe dieses Pokémon kampfunfähig wird, verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
 				"pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados a este Pokémon.",
 				"zh-tw": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-				ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+				ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+				ko: "이 포켓몬의 기술의 데미지로 상대의 포켓몬이 기절했다면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
 			}
 		}
 	],
@@ -84,7 +90,8 @@ const card: Card = {
 				de: "Nachtbenommenheit",
 				"pt-br": "Noite atordoada",
 				"zh-tw": "夜發呆",
-				ja: "ナイトバースト"
+				ja: "ナイトバースト",
+				ko: "나이트버스트"
 			},
 			damage: 70,
 			cost: ["Darkness", "Darkness"]

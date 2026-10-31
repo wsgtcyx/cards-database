@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/095"
     },
     name: {
         en: "Pidgey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
+        ko: "구구",
     },
     illustrator: "Misa Tsutsui",
     category: "Pokemon",
@@ -34,7 +36,8 @@ const card: Card = {
         "de": "Ein häufiger Anblick in Wäldern und Wäldern. Es flattert\nSeine Flügel befinden sich auf Bodenhöhe, um blendenden Sand aufzuwirbeln.",
         "pt-br": "Uma visão comum em florestas e bosques. Ele bate\nsuas asas ao nível do solo para levantar areia ofuscante.",
         "zh-tw": "森林和樹林中常見的景象。它拍打著\n它的翅膀在地面上，可以揚起令人眼花繚亂的沙子。",
-        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。"
+        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。",
+        ko: "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -46,7 +49,8 @@ const card: Card = {
                 "de": "Böe",
                 "pt-br": "Rajada",
                 "zh-tw": "陣風",
-                ja: "かぜおこし"
+                ja: "かぜおこし",
+                ko: "바람일으키기"
             },
             damage: 10,
             cost: ["Colorless"]

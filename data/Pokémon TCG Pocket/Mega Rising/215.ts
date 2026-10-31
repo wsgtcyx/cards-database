@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/215",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/215",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/215"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/215",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/215"
     },
     name: {
         en: "Hitting Hammer",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Martelo Batedor",
         "zh-tw": "重擊錘",
         ja: "ヒットハンマー",
+        ko: "히트해머",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Wirf 2 Münzen. Wenn beide Köpfe sind, wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
         "pt-br": "Jogue 2 moedas. Se ambos derem cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
         "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
-        ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+        ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+        ko: "동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
     },
-    trainerType: "Item"
+    trainerType: "Item",
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

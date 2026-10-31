@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/325",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/325",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/325",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/325"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/325",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/325"
     },
     name: {
         en: "Alolan Muk",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Muk de Alola",
         "zh-tw": "阿羅拉臭臭泥",
         ja: "アローラベトベトン",
-        ko: "알로라질뻐기"
+        ko: "알로라 질뻐기"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
         ja: "アローラベトベター",
-        ko: "Alolan Grimer"
+        ko: "알로라 질퍽이"
     },
     description: {
         en: "What look like fangs and claws are actually\ncrystallized poison that will afflict you at a\nmere touch, so don't get too close.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "O que parecem ser dentes e garras são, na verdade, veneno cristalizado que pode te afligir com um simples toque. É melhor não chegar perto.",
         "zh-tw": "看起來像牙齒和爪子的東西是毒素結晶，一旦碰到就會中毒，所以接近牠是很危險的。",
         ja: "キバや ツメに 見えるのは 毒素の 結晶。 触れるだけで 毒に 侵されるので 近付くのは 危険。",
-        ko: "What look like fangs and claws are actually\ncrystallized poison that will afflict you at a\nmere touch, so don't get too close."
+        ko: "이빨이나 손톱으로 보이는 것은\n독소의 결정이다. 만지기만 해도\n독에 중독되므로 다가가면 위험하다."
     },
     stage: "Stage1",
     abilities: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Poder de Alquimia",
                 "zh-tw": "化學之力",
                 ja: "かがくのちから",
-                ko: "Power of Alchemy"
+                ko: "화학의힘"
             },
             effect: {
                 en: "Basic Pokémon in play (both yours and your opponent's) have no Abilities.",
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Os Pokémon Básicos em jogo (seus e do seu oponente) não têm Habilidades.",
                 "zh-tw": "只要這隻寶可夢在場上,將雙方場上的基礎寶可夢的特性全部消除。",
                 ja: "このポケモンがいるかぎり、おたがいの場のたねポケモンの特性を、すべてなくす。",
-                ko: "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
+                ko: "이 포켓몬이 있는 한, 서로의 필드의 기본 포켓몬의 특성을 모두 없앤다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
                 "pt-br": "Bomba de Lodo",
                 "zh-tw": "污泥炸彈",
                 ja: "ヘドロばくだん",
-                ko: "Sludge Bomb"
+                ko: "오물폭탄"
             },
             damage: 70,
             cost: [

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/087",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/087"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/087",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/087"
     },
     name: {
         en: "Big Air Balloon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Grande Balão de Ar",
         "zh-tw": "大氣球",
         ja: "大きなふうせん",
+        ko: "커다란풍선",
         pt: "Grande Balão de Ar"
     },
     illustrator: "Toyste Beach",
@@ -35,6 +37,7 @@ const card: Card = {
         "pt-br": "O Pokémon de Estágio 2 ao qual esta carta está ligada não tem custo de Recuo.",
         "zh-tw": "這張卡所附著的2階段寶可夢沒有撤退費用。",
         ja: "このカードをつけている2進化ポケモンのにげるためのエネルギーを、すべてなくす。",
+        ko: "이 카드를 붙이고 있는 2진화 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
         pt: "O Pokémon Estágio 2 ao qual esta carta está ligada não tem custo de Recuo."
     },
     trainerType: "Tool",

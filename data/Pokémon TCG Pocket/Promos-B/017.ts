@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/017"
     },
     name: {
         en: "Swablu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es kann sich nicht entspannen, wenn es oder seine Umgebung nicht sauber sind. Mit seinen Flügeln wischt es Schmutz weg.",
         "pt-br": "Ele não pode relaxar se ele ou seus arredores não estiverem limpos. Ele limpa a sujeira com suas asas.",
         "zh-tw": "如果它或它的周圍環境不乾淨，它就不能放鬆。它用翅膀擦去污垢。",
-        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。"
+        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
+        ko: "자신도 주변도 깨끗하지 않으면\n진정되지 않는 성격이다.\n더러운 것을 발견하면 날개로 닦는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Freunde finden",
                 "pt-br": "Encontre um Amigo",
                 "zh-tw": "尋找朋友",
-                ja: "ともだちをさがす"
+                ja: "ともだちをさがす",
+                ko: "친구찾기"
             },
             effect: {
                 en: "Put a random Pokémon from your deck into your hand.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻寶可夢放入你的手牌。",
-                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }
     ],

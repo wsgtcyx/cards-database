@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/077"
     },
     name: {
         en: "Barboach",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Vibração",
                 "zh-tw": "震動",
                 ja: "しんどう",
-                ko: "Vibration"
+                ko: "진동"
             },
             cost: [
                 "Fighting"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Seus dois bigodes fornecem um radar sensível. Pode localizar as suas presas até mesmo em águas lamacentas.",
         "zh-tw": "2根鬍子是靈敏的雷達，即使在混濁湍急的水中，也能偵測到獵物的位置。",
         ja: "２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。",
-        ko: "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location."
+        ko: "2개의 수염은 민감한 레이더이다.\n진흙으로 탁해진 물속에서도\n먹이의 위치를 감지한다."
     }
 };
 

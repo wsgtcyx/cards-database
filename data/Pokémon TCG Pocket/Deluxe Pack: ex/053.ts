@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/053",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/053",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/053",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/053"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/053",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/053"
 	},
 	name: {
 		en: "Meowscarada",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Maskagato",
 		"pt-br": "Meowscarada",
 		"zh-tw": "魔幻假面喵",
-		ja: "マスカーニャ"
+		ja: "マスカーニャ",
+		ko: "마스카나"
 	},
 	illustrator: "mashu",
 	rarity: "Three Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Feliospa",
 		"pt-br": "Floragato",
 		"zh-tw": "蒂蕾喵",
-		ja: "ニャローテ"
+		ja: "ニャローテ",
+		ko: "나로테"
 	},
 	description: {
 		en: "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
@@ -73,7 +76,7 @@ const card: Card = {
 				de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
 				"pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
 				ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
-				ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다.",
+				ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 70데미지를 추가한다.",
 				"zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
 			}
 		}

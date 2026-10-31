@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/168",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/168",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/168",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/168"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/168",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/168"
     },
     name: {
         en: "Durant",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Durant",
         "zh-tw": "鐵蟻",
         ja: "アイアント",
+        ko: "아이앤트",
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sie legen ihre Eier tief in ihre Nester.\nWenn sie von Heatmor angegriffen werden, schlagen sie zurück\nmit ihren massiven Mandibeln.",
         "pt-br": "Eles colocam seus ovos bem no fundo de seus ninhos.\nQuando atacados por Heatmor, eles retaliam\nusando suas enormes mandíbulas.",
         "zh-tw": "它們將卵產在巢穴深處。\n當受到 Heatmor 攻擊時，他們會進行報復\n使用它們巨大的下頜骨。",
-        ja: "巣の 奥深くに タマゴを 産む。 クイタランに 襲われると 大きな 顎で 噛みついて 反撃。"
+        ja: "巣の 奥深くに タマゴを 産む。 クイタランに 襲われると 大きな 顎で 噛みついて 反撃。",
+        ko: "굴속 깊은 곳에 알을 낳는다.\n앤티골에게 공격받으면 커다란\n턱으로 물어서 반격한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Aufeinander beißen",
                 "pt-br": "Morda Juntos",
                 "zh-tw": "一起咬",
-                ja: "いっしょにかむ"
+                ja: "いっしょにかむ",
+                ko: "다같이물기"
             },
             damage: "40+",
             cost: ["Metal", "Colorless"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Wenn Durant auf deiner Bank sitzt, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se Durant estiver no seu banco, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果杜蘭特在你的替補席上，這次攻擊會造成 40 點額外傷害。",
-                ja: "自分のベンチに「アイアント」がいるなら、40ダメージ追加。"
+                ja: "自分のベンチに「アイアント」がいるなら、40ダメージ追加。",
+                ko: "자신의 벤치에 「아이앤트」가 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

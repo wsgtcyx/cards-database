@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/004"
     },
     name: {
         en: "Silcoon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Silcoon",
         "zh-tw": "甲殼繭",
         ja: "カラサリス",
+        ko: "실쿤",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
         ja: "ケムッソ",
+        ko: "개무소",
     },
     description: {
         en: "It drinks dew that collects on its silk and waits for\nevolution. Its hard cocoon repels attacks.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es trinkt Tau, der sich auf seiner Seide sammelt und darauf wartet\nEntwicklung. Sein harter Kokon wehrt Angriffe ab.",
         "pt-br": "Bebe o orvalho que se acumula na sua seda e espera\nevolução. Seu casulo duro repele ataques.",
         "zh-tw": "它喝著絲上凝結的露水，等待著\n進化。它的硬繭可以抵禦攻擊。",
-        ja: "糸に ついた 朝露を 飲んで 進化の ときを 待ち続ける。 硬い 繭が 攻撃を 防ぐ。"
+        ja: "糸に ついた 朝露を 飲んで 進化の ときを 待ち続ける。 硬い 繭が 攻撃を 防ぐ。",
+        ko: "실에 맺힌 아침 이슬을 마시며\n진화할 때를 기다린다.\n단단한 고치가 공격을 막는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Härten",
                 "pt-br": "Endurecer",
                 "zh-tw": "硬化",
-                ja: "かたくなる"
+                ja: "かたくなる",
+                ko: "단단해지기"
             },
             cost: ["Grass"],
             effect: {
@@ -68,13 +73,17 @@ const card: Card = {
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wenn dieser Schaden 40 oder weniger beträgt.",
                 "pt-br": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques se o dano for igual ou inferior a 40.",
                 "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。",
-                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。"
+                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。",
+                ko: "상대의 다음 차례에 이 포켓몬은 40이하인 기술의 데미지를 받지 않는다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

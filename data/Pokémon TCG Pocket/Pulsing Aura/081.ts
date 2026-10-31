@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/081"
     },
     name: {
         en: "Mega Lucario ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Kämpferischer Puls",
                 "pt-br": "Luta Pulsante",
                 "zh-tw": "奮戰奏動",
-                ja: "ファイティングビート"
+                ja: "ファイティングビート",
+                ko: "파이팅비트"
             },
             effect: {
                 en: "If this Pokémon has at least 1 extra {F} Energy attached, this attack does 50 more damage.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon mindestens 1 zusätzliche {F}-Energie angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 1 energia {F} extra anexada, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果這隻寶可夢附加了至少 1 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。",
-                ja: "追加で{F}エネルギーが1個ついているなら、50ダメージ追加。"
+                ja: "追加で{F}エネルギーが1個ついているなら、50ダメージ追加。",
+                ko: "{F}에너지 1개가 추가로 붙어 있다면 50데미지를 추가한다."
             },
             damage: "90+"
         }

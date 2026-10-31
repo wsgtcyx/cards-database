@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/114"
     },
     name: {
         en: "Zarude",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Reißen die an seinem Körper wachsenden Ranken\nab, werden sie zu Nährstoffen für den Boden,\nwas den Pflanzen im Wald zum Wachstum verhilft.",
         "pt-br": "Depois que as vinhas do corpo de Zarude são arrancadas, elas se tornam nutrientes no solo. Isso ajuda as plantas da floresta a crescer.",
         "zh-tw": "生長在身上的藤蔓斷落後\n會化為土壤的養分，\n孕育森林裡的各種植物。",
-        ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。"
+        ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。",
+        ko: "몸에 난 덩굴이 끊어지면\n토양에 영양분이 되어\n숲의 식물들을 성장시킨다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Finstere Vergeltung",
                 "pt-br": "Vingança Umbrosa",
                 "zh-tw": "暗黑報復",
-                ja: "ダークリベンジ"
+                ja: "ダークリベンジ",
+                ko: "다크리벤지"
             },
             effect: {
                 en: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn eines deiner {D} Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon {D} foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 de dano a mais.",
                 "zh-tw": "如果你的任一隻 {D} 寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 80 點。",
-                ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。"
+                ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 {D}포켓몬이 기절했다면 80데미지를 추가한다."
             },
             damage: "40+"
         }

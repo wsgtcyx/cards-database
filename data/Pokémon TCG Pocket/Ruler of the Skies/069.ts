@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/069",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/069",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/069"
     },
     name: {
         en: "Mr. Mime",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es ist für die Pantomime geboren. Zur Abwehr\nunterschiedlichster Angriffe erzeugt es mit einem\nKraftfeld aus seinen Fingerspitzen Schutzwände.",
         "zh-tw": "擅長表演默劇。\n用手指放出的波動製造牆壁，\n保護自己免於大多數的攻擊。",
         "pt-br": "Conhecido por suas técnicas de pantomima de alto nível. este Pokémon se protege de todos os tipos de ataque, emitindo auras de seus dedos para criar paredes.",
-        ja: "パントマイムが 得意。 指から 出した 波動で 壁を つくり あまたの 攻撃から 身を守る。"
+        ja: "パントマイムが 得意。 指から 出した 波動で 壁を つくり あまたの 攻撃から 身を守る。",
+        ko: "팬터마임이 특기다. 손가락에서\n내보내는 파동으로 벽을 만들어\n갖은 공격으로부터 몸을 지킨다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "同步舞",
                 "it": "Danza Sincronizzata",
                 "de": "Synchrontanz",
-                ja: "シンクロダンス"
+                ja: "シンクロダンス",
+                ko: "싱크로댄스"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "若這隻寶可夢與對手的戰鬥寶可夢身上的能量數量相同,則增加40點傷害。",
                 "it": "del tuo Se questo Pokémon e il Pokémon attivo avversario hanno la stessa quantità di Energie assegnate, questo attacco infligge 40 danni in più.",
                 "de": "Wenn an dieses Pokémon genauso viel Energie angelegt ist wie an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu.",
-                ja: "このポケモンと相手のバトルポケモンのエネルギーの数が同じなら、40ダメージ追加。"
+                ja: "このポケモンと相手のバトルポケモンのエネルギーの数が同じなら、40ダメージ追加。",
+                ko: "이 포켓몬과 상대 배틀 포켓몬의 에너지의 개수가 같으면 40데미지를 추가한다."
             },
             damage: "40+"
         }

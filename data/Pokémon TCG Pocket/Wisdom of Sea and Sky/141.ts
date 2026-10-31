@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/141",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/141",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/141"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/141",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/141"
     },
     name: {
         en: "Noctowl",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Noctowl",
         "zh-tw": "貓頭夜鷹",
         ja: "ヨルノズク",
+        ko: "야부엉",
     },
     illustrator: "Nisota Niso",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
         ja: "ホーホー",
+        ko: "부우부",
     },
     description: {
         en: "Its eyes are specially developed to enable it to\nsee clearly even in murky darkness and minimal light.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine Augen sind speziell dafür entwickelt\nSelbst bei trüber Dunkelheit und minimalem Licht sehen Sie deutlich.",
         "pt-br": "Seus olhos são especialmente desenvolvidos para permitir-lhe\nveja claramente mesmo na escuridão turva e com pouca luz.",
         "zh-tw": "它的眼睛經過特殊發育，使其能夠\n即使在昏暗的黑暗和微弱的光線下也能看得清楚。",
-        ja: "特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。"
+        ja: "特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。",
+        ko: "특수한 구조의 두 눈은\n약간의 빛만 있으면\n어둠 속에서도 낮처럼 볼 수 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Fliegen",
                 "pt-br": "Voar",
                 "zh-tw": "飛",
-                ja: "そらをとぶ"
+                ja: "そらをとぶ",
+                ko: "공중날기"
             },
             damage: 90,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }],
     weaknesses: [{

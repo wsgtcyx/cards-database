@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/158"
     },
     name: {
         en: "Mew ex",
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Diretriz Secreta",
                 "zh-tw": "秘密指引",
                 ja: "ひみつのみちびき",
-                ko: "Secret Guidance"
+                ko: "비밀의인도"
             },
             cost: [
                 "Psychic"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Jogue 3 moedas. Pegue uma quantidade de Energia {P} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {P} no Banco como desejar.",
                 "zh-tw": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{P}能量,以任意方式附於備戰區的{P}寶可夢身上。",
                 ja: "コインを3回投げ、オモテの数ぶんの{P}エネルギーを自分のエネルギーゾーンから出し、ベンチの{P}ポケモンに好きなようにつける。",
-                ko: "Flip 3 coins. Take an amount of {P} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {P} Pokémon in any way you like."
+                ko: "동전을 3번 던져서 앞면이 나온 수만큼의 {P}에너지를 자신의 에너지존에서 내보내 벤치의 {P}포켓몬에게 원하는 대로 붙인다."
             }
         },
         {
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Queimadura Psíquica",
                 "zh-tw": "精神爆擊",
                 ja: "サイコバーン",
-                ko: "Psyburn"
+                ko: "사이코번"
             },
             cost: [
                 "Colorless",

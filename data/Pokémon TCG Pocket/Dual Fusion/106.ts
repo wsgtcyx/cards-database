@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/106"
     },
     name: {
         en: "Fearow",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
         ja: "オニスズメ",
-        ko: "Spearow"
+        ko: "깨비참"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Bico Broca",
                 "zh-tw": "啄鑽",
                 ja: "ドリルくちばし",
-                ko: "Drill Peck"
+                ko: "회전부리"
             },
             cost: [
                 "Colorless"
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Transportar alimento através do território de Fearow é perigoso, porque este Pokémon roubará a comida em um instante!",
         "zh-tw": "在大嘴雀的地盤上帶著食物走動是件危險的事，食物轉眼間就會被奪走。",
         ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。",
-        ko: "Carrying food through Fearow’s territory is dangerous. It will snatch the food away from you in a flash!"
+        ko: "깨비드릴조 영역에서 음식을\n갖고 다니는 것은 위험하다.\n순식간에 빼앗긴다."
     }
 };
 

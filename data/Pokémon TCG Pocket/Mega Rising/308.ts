@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/308",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/308",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/308",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/308"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/308",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/308"
     },
     name: {
         en: "Graveler",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
         ja: "ゴローン",
+        ko: "데구리",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Geodude",
         "zh-tw": "小拳石",
         ja: "イシツブテ",
+        ko: "꼬마돌",
     },
     description: {
         en: "It climbs up cliffs as it heads toward the peak\nof a mountain. As soon as it reaches the summit,\nit rolls back down the way it came.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Auf dem Weg zum Gipfel klettert es Klippen hinauf\neines Berges. Sobald es den Gipfel erreicht,\nes rollt wieder den Weg hinunter, den es gekommen ist.",
         "pt-br": "Ele sobe penhascos enquanto se dirige ao pico\nde uma montanha. Assim que chegar ao cume,\nele rola de volta do jeito que veio.",
         "zh-tw": "它爬上懸崖，走向頂峰\n一座山的。當它到達山頂時，\n它會沿著來時的方向滾回。",
-        ja: "崖を 登り 山頂を 目指す。 てっぺんに 着くなり すぐに 来た 山道を 転がり 落ちていく。"
+        ja: "崖を 登り 山頂を 目指す。 てっぺんに 着くなり すぐに 来た 山道を 転がり 落ちていく。",
+        ko: "정상을 목표로 절벽을 오른다.\n정상에 도착하면 곧바로\n올라온 산길을 굴러 내려간다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Ausholen",
                 "pt-br": "Avançar",
                 "zh-tw": "向前衝出",
-                ja: "つきたおし"
+                ja: "つきたおし",
+                ko: "넘어뜨리기"
             },
             damage: 40,
             cost: ["Fighting", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

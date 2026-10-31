@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/074"
     },
     name: {
         en: "Paldean Clodsire",
@@ -20,7 +21,7 @@ const card: Card = {
         "pt-br": "Clodsire de Paldea",
         "zh-tw": "帕底亞土王",
         ja: "パルデアドオー",
-        ko: "팔데아토오",
+        ko: "팔데아 토오",
         it: "Clodsire di Paldea",
         de: "Paldea-Suelord"
     },
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
         ja: "パルデアウパー",
-        ko: "Paldean Wooper"
+        ko: "팔데아 우파"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Terremoto",
                 "zh-tw": "地震",
                 ja: "じしん",
-                ko: "Earthquake"
+                ko: "지진"
             },
             cost: [
                 "Fighting",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco.",
                 "zh-tw": "自己的所有備戰寶可夢也受到20點傷害。",
                 ja: "自分のベンチポケモン全員にも20ダメージ。",
-                ko: "This attack also does 20 damage to each of your Benched Pokémon."
+                ko: "자신의 벤치 포켓몬 전원에게도 20데미지를 준다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Quando atacado, este Pokémon revidará esticando espinhos grossos para fora de seu corpo. É um movimento audacioso que coloca tudo em risco.",
         "zh-tw": "一旦遭到敵人襲擊，就會從肋鰭伸出粗壯的刺來反擊。是帶有雙面刃風險的危險招式。",
         ja: "敵に 襲われると 太い 棘を 胴体から 突き出して 反撃。 身を切る 覚悟の 危険な 技。",
-        ko: "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line."
+        ko: "적에게 공격을 받으면 몸에서\n굵은 가시를 내지르며 반격한다.\n몸이 끊어질 각오가 필요한 위험한 기술이다."
     }
 };
 

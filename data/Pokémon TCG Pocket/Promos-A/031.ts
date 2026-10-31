@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/031",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/031"
     },
     name: {
         en: "Cinccino",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Picochilla",
         "pt-br": "Minccino",
         "zh-tw": "泡沫栗鼠",
-        ja: "チラーミィ"
+        ja: "チラーミィ",
+        ko: "치라미"
     },
     description: {
         en: "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",

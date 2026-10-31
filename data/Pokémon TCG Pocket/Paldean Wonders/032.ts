@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/032"
     },
     name: {
         en: "Dondozo",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Es behandelt Nigiragi wie seinen Chef und folgt ihm loyal. Obwohl der Heerashai leistungsstark ist, ist er offenbar nicht sehr intelligent.",
         "pt-br": "Trata Tatsugiri como seu chefe e o segue lealmente. Embora poderoso, Dondozo aparentemente não é muito inteligente.",
         "zh-tw": "它對待米立龍就像對待自己的老闆一樣，並忠誠地追隨它。雖然功能強大，但 吃吼霸 顯然不是很聰明。",
-        ja: "シャリタツを 親分のように 慕っている。 力持ちだが 頭は あまり 良くないらしい。"
+        ja: "シャリタツを 親分のように 慕っている。 力持ちだが 頭は あまり 良くないらしい。",
+        ko: "싸리용을 두목처럼 모신다.\n힘 하나는 천하장사지만\n머리는 그다지 좋지 못하다고 한다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +53,7 @@ const card: Card = {
                 "pt-br": "Giga Impacto",
                 "zh-tw": "千兆影響",
                 ja: "ギガインパクト",
+                ko: "기가임팩트",
                 pt: "Gigaimpacto"
             },
             damage: "120",
@@ -64,6 +67,7 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢無法攻擊。",
                 ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
                 pt: "Durante o seu próximo turno, este Pokémon não poderá atacar."
             },
         },

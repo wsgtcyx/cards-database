@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/094"
     },
     name: {
         en: "Jynx",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jynx",
         "zh-tw": "迷唇姐",
         ja: "ルージュラ",
+        ko: "루주라",
     },
     illustrator: "MAHOU",
     category: "Pokemon",
@@ -34,7 +36,8 @@ const card: Card = {
         "de": "Seine seltsamen Schreie klingen wie menschliche Sprache.\nEs gibt einige Musiker, die Lieder komponieren\ndamit Jynx singen kann.",
         "pt-br": "Seus gritos estranhos soam como linguagem humana.\nExistem alguns músicos que compõem músicas\npara Jynx cantar.",
         "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。",
-        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。"
+        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。",
+        ko: "인간의 언어를 닮은 이상한\n울음소리를 가졌다. 루주라가 부르는\n곡을 만드는 음악가도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -46,7 +49,8 @@ const card: Card = {
                 "de": "Hellseher",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             damage: "30+",
             cost: ["Psychic", "Colorless"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/416",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/416",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/416",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/416"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/416",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/416"
     },
     name: {
         en: "Mega Gardevoir ex",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
         ja: "キルリア",
-        ko: "Kirlia"
+        ko: "킬리아"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Força Fantasiosa",
                 "zh-tw": "幻想之力",
                 ja: "ファンタジアフォース",
-                ko: "Fantasia Force"
+                ko: "판타지아포스"
             },
             damage: 110,
             cost: [
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Pegue 3 Energias {P} da sua Zona de Energia e ligue-as aos seus Pokémon {P} como desejar.",
                 "zh-tw": "從自己的能量區抽出3個{P}能量,以任意方式附於{P}寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{P}エネルギーを3個出し、{P}ポケモンに好きなようにつける。",
-                ko: "Take 3 {P} Energy from your Energy Zone and attach it to your {P} Pokémon in any way you like."
+                ko: "자신의 에너지존에서 {P}에너지를 3개 내보내 {P}포켓몬에게 원하는 대로 붙인다."
             }
         }
     ],

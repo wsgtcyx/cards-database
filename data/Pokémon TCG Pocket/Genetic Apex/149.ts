@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/149",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/149",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/149",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/149"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/149",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/149"
     },
     name: {
         en: "Golem",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Georok",
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
-        ja: "ゴローン"
+        ja: "ゴローン",
+        ko: "데구리"
     },
     attacks: [{
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],

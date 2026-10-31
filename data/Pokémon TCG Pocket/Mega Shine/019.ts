@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/019"
     },
     name: {
         en: "Prinplup",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Da sich jeder Pliprin für den Wichtigsten hält, können sie niemals eine Gruppe bilden.",
         "pt-br": "Como cada Prinplup se considera o mais importante, eles nunca poderão formar um grupo.",
         "zh-tw": "因為每個波皇子都認為自己是最重要的，所以他們永遠無法組成一個團體。",
-        ja: "どの ポッタイシも 自分が 一番 偉いと 考えるため 群れを 作ることは 不可能だ。"
+        ja: "どの ポッタイシも 自分が 一番 偉いと 考えるため 群れを 作ることは 不可能だ。",
+        ko: "팽태자들은 모두 자신이 제일\n훌륭하다고 생각하기 때문에\n무리를 만드는 것은 불가능하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wasserplatscher",
                 "pt-br": "Espirro d’Água",
                 "zh-tw": "水沫",
-                ja: "みずしぶき"
+                ja: "みずしぶき",
+                ko: "물보라"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "30+"
         }

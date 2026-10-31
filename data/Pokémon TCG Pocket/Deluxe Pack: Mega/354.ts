@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/354",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/354",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/354",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/354"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/354",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/354"
     },
     name: {
         en: "Skitty",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto.",
         "zh-tw": "有時會展現出追著自己的尾巴玩，但玩著玩著就會頭暈眼花的可愛一面。",
         ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。",
-        ko: "It shows its cute side by chasing its own tail\nuntil it gets dizzy."
+        ko: "자신의 꼬리를 쫓아서\n놀고 있으면 눈이 핑 돌고 마는\n귀여운 일면을 보인다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Jogo Duro",
                 "zh-tw": "嬉鬧",
                 ja: "じゃれつく",
-                ko: "Play Rough"
+                ko: "치근거리기"
             },
             damage: "10+",
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
                 ja: "コインを1回投げオモテなら、30ダメージ追加。",
-                ko: "Flip a coin. If heads, this attack does 30 more damage."
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }
     ],

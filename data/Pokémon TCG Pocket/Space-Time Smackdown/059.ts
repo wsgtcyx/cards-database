@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/059"
     },
     name: {
         en: "Luxio",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
         ja: "コリンク",
+        ko: "꼬링크",
     },
     description: {
         en: "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",

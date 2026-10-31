@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/011"
     },
     name: {
         en: "Brambleghast",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Brambleghast",
         "zh-tw": "怖納噬草",
         ja: "アノホラグサ",
+        ko: "공푸리",
         pt: "Brambleghast"
     },
     illustrator: "KEIICHIRO ITO",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Bramblin",
         "zh-tw": "納噬草",
         ja: "アノクサ",
+        ko: "그푸리",
         pt: "Bramblin"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Horrerba wandert durch trockene Regionen. In seltenen Fällen begraben Massenausbrüche dieser Pokémon eine ganze Stadt.",
         "pt-br": "Brambleghast vagueia por regiões áridas. Em raras ocasiões, surtos em massa destes Pokémon enterrarão uma cidade inteira.",
         "zh-tw": "怖納噬草在乾旱地區徘徊。在極少數情況下，這些寶可夢的大規模爆發將埋葬整個城鎮。",
-        ja: "乾燥地帯を 放浪する。 ごくまれに 大量発生して 町ひとつを 埋めつくしてしまう。"
+        ja: "乾燥地帯を 放浪する。 ごくまれに 大量発生して 町ひとつを 埋めつくしてしまう。",
+        ko: "건조 지대를 떠돈다.\n매우 드물지만 대량발생하여\n마을 전체를 뒤덮어 버릴 때도 있다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Queda Contínua",
                 "zh-tw": "連續翻滾",
                 ja: "れんぞくころがり",
+                ko: "연속 구르기",
                 pt: "Tombo Contínuo"
             },
             damage: "60×",
@@ -75,6 +80,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 60 點傷害。",
                 ja: "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 60데미지를 준다.",
                 pt: "Jogue 1 moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara."
             },
         },

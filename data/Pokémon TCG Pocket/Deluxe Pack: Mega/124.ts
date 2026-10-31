@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/124",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/124"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/124",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/124"
     },
     name: {
         en: "Trapinch",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Ao cavar na areia, suas gigantescas mandíbulas esmagam qualquer pedra que esteja obstruindo o caminho. Constrói ninhos em forma de funil.",
         "zh-tw": "一邊用大大的顎把礙事的岩石咬碎，一邊挖沙子。巢穴的形狀就像研磨缽一樣。",
         ja: "大きな 顎で 邪魔な 岩を 砕きながら 砂を 掘る。 巣穴の 形は スリ鉢状。",
-        ko: "As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest."
+        ko: "커다란 턱으로 방해되는 바위를\n부수며 모래를 판다.\n둥지 모양은 원뿔형."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Tapa de Lama",
                 "zh-tw": "擲泥",
                 ja: "どろかけ",
-                ko: "Mud-Slap"
+                ko: "진흙뿌리기"
             },
             damage: 10
         }

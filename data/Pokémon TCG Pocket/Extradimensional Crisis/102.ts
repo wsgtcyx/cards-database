@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/102",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/102",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/102"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/102",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/102"
     },
     name: {
         en: "Pidgeot ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pidgeot ex",
         "zh-tw": "大比鳥ex",
         ja: "ピジョットex",
+        ko: "피죤투 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",
@@ -34,7 +36,8 @@ const card: Card = {
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
         "zh-tw": "比比鳥",
-        ja: "ピジョン"
+        ja: "ピジョン",
+        ko: "피죤"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Zerstreuender Zyklon",
                 "pt-br": "Ciclone de dispersão",
                 "zh-tw": "散射旋風分離器",
-                ja: "けちらしサイクロン"
+                ja: "けちらしサイクロン",
+                ko: "차흩뜨리기 사이클론"
             },
             damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手的後備神奇寶貝每造成 20 點額外傷害。",
-                ja: "相手のベンチポケモンの数×20ダメージ追加。"
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
+                ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/082"
     },
     name: {
         en: "Hisuian Zoroark ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Boshafte Illusion",
                 "pt-br": "Ilusão Maliciosa",
                 "zh-tw": "怨恨幻影",
-                ja: "うらみのげんえい"
+                ja: "うらみのげんえい",
+                ko: "원한의환영"
             },
             effect: {
                 en: "This attack does 20 more damage for each Pokémon in your discard pile.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon in deinem Ablagestapel 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon na sua pilha de descarte.",
                 "zh-tw": "此攻擊對你棄牌堆中的每個寶可夢造成 20 點額外傷害。",
-                ja: "自分のトラッシュにあるポケモンの枚数×20ダメージ追加。"
+                ja: "自分のトラッシュにあるポケモンの枚数×20ダメージ追加。",
+                ko: "자신의 트래쉬에 있는 포켓몬의 장수 × 20데미지를 추가한다."
             },
             damage: "80+"
         }

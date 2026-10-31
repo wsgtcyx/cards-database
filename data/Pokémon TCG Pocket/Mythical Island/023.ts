@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/023"
     },
     name: {
         en: "Drednaw",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
         ja: "カムカメ",
+        ko: "깨물부기",
     },
     description: {
         en: "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",

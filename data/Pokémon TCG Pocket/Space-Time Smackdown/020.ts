@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/020"
     },
     name: {
         en: "Leafeon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",

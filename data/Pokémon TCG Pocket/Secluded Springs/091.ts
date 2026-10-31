@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/091",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/091"
     },
     name: {
         en: "Chimchar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chimchar",
         "zh-tw": "小火焰猴",
         ja: "ヒコザル",
+        ko: "불꽃숭이",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein feuriges Hinterteil wird durch das in seinem Bauch erzeugte Gas angetrieben.\nSelbst Regen kann das Feuer nicht löschen.",
         "pt-br": "Sua traseira ardente é alimentada pelo gás produzido em sua barriga.\nNem a chuva consegue apagar o fogo.",
         "zh-tw": "它燃燒的後端由腹部產生的氣體提供燃料。\n即使下雨也無法撲滅大火。",
-        ja: "お尻の 炎は お腹で 作られた ガスが 燃料。 雨に ぬれても 消えない。"
+        ja: "お尻の 炎は お腹で 作られた ガスが 燃料。 雨に ぬれても 消えない。",
+        ko: "엉덩이의 불꽃은 배에서\n만들어진 가스가 연료다.\n비에 젖어도 꺼지지 않는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
                 "zh-tw": "划痕",
-                ja: "ひっかく"
+                ja: "ひっかく",
+                ko: "할퀴기"
             },
             damage: 20,
             cost: ["Fire"]

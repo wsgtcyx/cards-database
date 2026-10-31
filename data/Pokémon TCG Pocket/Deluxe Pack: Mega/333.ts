@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/333",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/333",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/333",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/333"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/333",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/333"
     },
     name: {
         en: "Roaring Moon",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Segundo um artigo de uma revista duvidosa, este Pokémon tem alguma conexão com um fenômeno que ocorre em uma certa região.",
         "zh-tw": "根據可疑雜誌的報導來看，這種寶可夢好像跟某個地區會發生的現象有關連。",
         ja: "怪しい 雑誌の 記事によると ある 地方で 起こる 現象に 関連する ポケモンらしい。",
-        ko: "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
+        ko: "괴상한 잡지의 기사에 의하면\n어떤 지방에서 일어나는 현상과\n관련 있는 포켓몬이라고 한다."
     },
     abilities: [
         {
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Rugido Ancestral",
                 "zh-tw": "古代戰吼",
                 ja: "こだいのおたけび",
-                ko: "Ancient Roar"
+                ko: "고대의 부르짖기"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá mandar o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "在自己的回合,當從手牌將這張卡放置於備戰區時,可使用1次。將對手的戰鬥寶可夢與備戰寶可夢互換。[[由對手選擇放置於戰鬥場的寶可夢。]]",
                 ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
-                ko: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+                ko: "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             }
         }
     ],
@@ -89,7 +90,7 @@ const card: Card = {
                 "pt-br": "Vento da Escuridão",
                 "zh-tw": "暗之風",
                 ja: "やみのかぜ",
-                ko: "Wind of Darkness"
+                ko: "어둠의바람"
             },
             damage: 70
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/081"
     },
     name: {
         en: "Iris",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Wenn das Aktive Pokémon deines Gegners in diesem Zug durch Schaden durch einen Angriff deines Maxax kampfunfähig wird, erhältst du 1 weiteren Punkt.",
         "pt-br": "Durante este turno, se o Pokémon Ativo do seu oponente for Nocauteado pelo dano de um ataque usado pelo seu Haxorus, você ganha 1 ponto a mais.",
         "zh-tw": "在這個回合中，如果對手的活躍寶可夢因自己的 雙斧戰龍 的攻擊而被擊倒，自己再獲得 1 點。",
-        ja: "この番、自分の「オノノクス」が使うワザのダメージで、相手のバトルポケモンがきぜつしたなら、1ポイント多くとる。"
+        ja: "この番、自分の「オノノクス」が使うワザのダメージで、相手のバトルポケモンがきぜつしたなら、1ポイント多くとる。",
+        ko: "이 차례에 자신의 「액스라이즈」가 사용하는 기술의 데미지로 상대의 배틀 포켓몬이 기절했다면 1포인트 더 가져온다."
     },
     trainerType: "Supporter"
 };

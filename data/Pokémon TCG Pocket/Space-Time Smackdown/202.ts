@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/202",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/202",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/202"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/202",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/202"
     },
     name: {
         en: "Darkrai ex",

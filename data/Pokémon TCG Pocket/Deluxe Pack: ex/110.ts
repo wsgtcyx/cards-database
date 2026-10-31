@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/110",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/110",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/110",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/110"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/110",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/110"
 	},
 	name: {
 		en: "Froakie",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Froxy",
 		"pt-br": "Froakie",
 		"zh-tw": "呱呱泡蛙",
-		ja: "ケロマツ"
+		ja: "ケロマツ",
+		ko: "개구마르"
 	},
 	illustrator: "Aya Kusube",
 	category: "Pokemon",

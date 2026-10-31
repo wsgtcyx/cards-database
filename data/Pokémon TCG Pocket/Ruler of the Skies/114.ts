@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/114",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/114",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/114"
     },
     name: {
         en: "Varoom",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Der Stahlabschnitt ist der eigentliche Körper von Knattox. Dieses Pokémon klammert sich an Steine ​​und wandelt die darin enthaltenen Mineralien in Energie um, um seine Aktivitäten anzutreiben.",
         "pt-br": "A seção de aço é o corpo real do Varoom. Este Pokémon se agarra às rochas e converte os minerais contidos em energia para alimentar suas atividades.",
         "zh-tw": "鋼截面是噗隆隆的實體。這種寶可夢會附著在岩石上，並將其中的礦物質轉化為能量來為其活動提供燃料。",
-        ja: "鋼の 体が 本体。 岩に 張りつき その成分を エネルギーに 変えて 活動する。"
+        ja: "鋼の 体が 本体。 岩に 張りつき その成分を エネルギーに 変えて 活動する。",
+        ko: "강철로 된 몸이 본체다.\n바위에 달라붙은 다음,\n그 성분을 에너지로 바꿔 활동한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kopfstoß-Abprall",
                 "pt-br": "Cabeçada Ricochete",
                 "zh-tw": "魯莽頭擊",
-                ja: "とびだしヘッド"
+                ja: "とびだしヘッド",
+                ko: "머리박치기"
             },
             damage: 30
         }

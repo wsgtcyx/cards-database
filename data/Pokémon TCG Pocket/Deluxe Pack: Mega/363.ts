@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/363",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/363",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/363",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/363"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/363",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/363"
     },
     name: {
         en: "Corvisquire",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
         ja: "ココガラ",
-        ko: "Rookidee"
+        ko: "파라꼬"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar com o seu bico ou suas garras.",
         "zh-tw": "頭腦聰明，凡是靠鳥嘴和爪子能夠操控的工具，牠都可以輕易地學會用法。",
         ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。",
-        ko: "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons."
+        ko: "머리가 좋아서 부리와 발로\n다룰 수 있는 도구라면\n간단하게 사용법을 익힌다."
     },
     attacks: [
         {
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Justar",
                 "zh-tw": "狙落",
                 ja: "ねらいおとす",
-                ko: "Joust"
+                ko: "노려떨구기"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害前,將對手的戰鬥寶可夢身上的「寶可夢道具」丟棄。",
                 ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
-                ko: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+                ko: "데미지를 주기 전에 상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다."
             },
             damage: 30
         }

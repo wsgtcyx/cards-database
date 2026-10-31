@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/049",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/049"
     },
     name: {
         en: "Meltan",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
         ja: "メルタン",
+        ko: "멜탄",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es löst sich auf und frisst Metall. Zirkulierende Flüssigkeit\nMetall in seinem Körper erzeugt Energie.",
         "pt-br": "Ele se dissolve e come metal. Líquido circulante\nmetal dentro de seu corpo é como ele gera energia.",
         "zh-tw": "它會溶解併吞噬金屬。循環液\n它體內的金屬是它產生能量的方式。",
-        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。"
+        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。",
+        ko: "금속을 녹여서 먹어버린다.\n액체 금속을 순환시켜서\n체내에서 에너지를 만든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 20,
             cost: ["Metal"]

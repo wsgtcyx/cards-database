@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/302",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/302",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/302",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/302"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/302",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/302"
     },
     name: {
         en: "Zapdos",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zapdos",
         "zh-tw": "閃電鳥",
         ja: "サンダー",
+        ko: "썬더",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon hat die vollständige Kontrolle über\nStrom. Es gibt Geschichten über Zapdos, die dort nisten\ndie dunklen Tiefen pechschwarzer Gewitterwolken.",
         "pt-br": "Este Pokémon tem controle total sobre\neletricidade. Existem histórias de Zapdos fazendo ninhos em\nas profundezas escuras das nuvens negras de trovoada.",
         "zh-tw": "這只神奇寶貝完全控制\n電力。有 Zapdos 築巢的故事\n漆黑的雷雨雲的黑暗深處。",
-        ja: "電気を 自在に 操る。 真っ黒な 雷雲の 中に 巣があると 言い伝えられている。"
+        ja: "電気を 自在に 操る。 真っ黒な 雷雲の 中に 巣があると 言い伝えられている。",
+        ko: "전기를 자유로이 조종한다.\n새까만 번개 구름 안에\n거처가 있다고 전해지고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wütender Donner",
                 "pt-br": "Trovão Furioso",
                 "zh-tw": "憤怒的雷霆",
-                ja: "らくらい"
+                ja: "らくらい",
+                ko: "낙뢰"
             },
             damage: 100,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 deiner Bank-Pokémon 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 de dano a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 30 點傷害。",
-                ja: "自分のベンチポケモン1匹にも30ダメージ。"
+                ja: "自分のベンチポケモン1匹にも30ダメージ。",
+                ko: "자신의 벤치 포켓몬 1마리에게도 30데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/008",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/008",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/008"
     },
     name: {
         en: "Kricketot",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn seine zwei Antennen sich berühren, erklingt ein Ruf\nwie das Spiel eines Xylophons.",
         "pt-br": "Quando suas antenas atingem uma à outra, o som é como a música de um xilofone.",
         "zh-tw": "觸角之間互相碰撞時，\n會叮叮咚咚地奏出\n如同木琴一般的音色。",
-        ja: "触覚 同士が ぶつかると コロン コロンと 木琴に 似た 音色を 奏でる。"
+        ja: "触覚 同士が ぶつかると コロン コロンと 木琴に 似た 音色を 奏でる。",
+        ko: "더듬이가 서로 부딪히면\n딩동딩동 실로폰 같은\n음색을 연주한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schlagen",
                 "pt-br": "Pulso",
                 "zh-tw": "敲擊",
-                ja: "たたく"
+                ja: "たたく",
+                ko: "때리기"
             },
             damage: 10
         }

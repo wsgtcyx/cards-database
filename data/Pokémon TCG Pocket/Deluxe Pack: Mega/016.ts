@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/016"
     },
     name: {
         en: "Cottonee",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Dispara algodão do seu corpo para se proteger. Se este Pokémon for carregado por um furacão, pode ir parar do outro lado da Terra.",
         "zh-tw": "會噴出棉花保護身體。有時會被颱風吹到地球的另一邊。",
         ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。",
-        ko: "It shoots cotton from its body to protect itself.\nIf it gets caught up in hurricane-strength winds,\nit can get sent to the other side of the Earth."
+        ko: "솜을 날려 몸을 지킨다.\n태풍의 바람에 휩쓸려\n지구 반대편까지 갈 때도 있다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
                 ja: "はっぱカッター",
-                ko: "Razor Leaf"
+                ko: "잎날가르기"
             },
             damage: 20,
             cost: [

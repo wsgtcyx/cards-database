@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/024"
     },
     name: {
         en: "Sobble",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
                 ja: "みずでっぽう",
-                ko: "Water Gun"
+                ko: "물대포"
             },
             cost: [
                 "Colorless",
@@ -69,7 +70,7 @@ const card: Card = {
         "pt-br": "Este Pokémon chora quando está assustado. Suas lágrimas concentram o poder de cem cebolas e aqueles que ousarem atacá-lo não conseguirão deixar de chorar também.",
         "zh-tw": "害怕時流下的淚水中含有 相當於１００顆洋蔥的催淚成分， 能讓對手淚流不止。",
         ja: "怯えると 玉ねぎ１００個分の 催涙成分を もつ 涙を 流して もらい泣き させる。",
-        ko: "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping."
+        ko: "겁을 먹으면 양파 100개와 맞먹는\n최루 성분의 눈물을 흘려서\n상대도 덩달아 울게 만든다."
     }
 };
 

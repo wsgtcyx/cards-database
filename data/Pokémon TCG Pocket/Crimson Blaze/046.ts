@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/046"
     },
     name: {
         en: "Muk",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sleimok",
         "pt-br": "Muk",
         "zh-tw": "臭臭泥",
-        ja: "ベトベトン"
+        ja: "ベトベトン",
+        ko: "질뻐기"
     },
     illustrator: "Scav",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sleima",
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
-        ja: "ベトベター"
+        ja: "ベトベター",
+        ko: "질퍽이"
     },
     description: {
         en: "They love to gather in smelly areas where sludge\naccumulates, making the stench around\nthem worse.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie lieben es, sich an stinkenden Orten zu versammeln, wo es Schlamm gibt\nsammelt sich an und macht den Gestank überall\nsie schlimmer.",
         "pt-br": "Eles adoram se reunir em áreas malcheirosas onde o lodo\nacumula, fazendo o fedor ao redor\neles piores.",
         "zh-tw": "它們喜歡聚集在有污泥、有臭味的地方\n積聚，使周圍惡臭\n他們更糟。",
-        ja: "ヘドロが たまる くさい 場所を 好んで 集まってくるので あたりは いっそう くさくなる。"
+        ja: "ヘドロが たまる くさい 場所を 好んで 集まってくるので あたりは いっそう くさくなる。",
+        ko: "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gunk Shot",
                 "pt-br": "Tiro de gosma",
                 "zh-tw": "垃圾射擊",
-                ja: "ダストシュート"
+                ja: "ダストシュート",
+                ko: "더스트슈트"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

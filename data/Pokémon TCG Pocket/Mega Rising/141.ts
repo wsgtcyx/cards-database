@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/141",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/141",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/141"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/141",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/141"
     },
     name: {
         en: "Stufful",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
         ja: "ヌイコグマ",
+        ko: "포곰곰",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Art und Weise, wie es sich selbst schützt, indem es mit den Armen um sich schlägt, mag sein\nSeien Sie ein entzückender Anblick, aber bleiben Sie fern. Das ist\nDreschen, die dicke Baumstämme zerbrechen können.",
         "pt-br": "A maneira como ele se protege agitando os braços pode\nseja uma visão adorável, mas fique bem longe. Isto é\nagitando-se que pode quebrar troncos grossos de árvores.",
         "zh-tw": "它通過揮動手臂來保護自己的方式可能會\n這是一個可愛的景象，但要遠離。這是\n揮舞可以折斷粗大的樹幹。",
-        ja: "前脚を じたばた 振って 身を 守る 様子が 可愛らしいが 大木を へし折る 威力だ。"
+        ja: "前脚を じたばた 振って 身を 守る 様子が 可愛らしいが 大木を へし折る 威力だ。",
+        ko: "앞발을 바둥바둥 흔들어 몸을\n지키는 모습은 귀엽지만\n큰 나무도 꺾을 정도의 위력이 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Magnum Punch",
                 "pt-br": "Soco Magnum",
                 "zh-tw": "萬能沖床",
-                ja: "マグナムパンチ"
+                ja: "マグナムパンチ",
+                ko: "매그넘펀치"
             },
             damage: 40,
             cost: ["Fighting", "Fighting"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

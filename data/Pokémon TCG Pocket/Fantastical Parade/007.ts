@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/007",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/007"
     },
     name: {
         en: "Cacturne",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Noktuska",
         "pt-br": "Cacturne",
         "zh-tw": "夢歌仙人掌",
-        ja: "ノクタス"
+        ja: "ノクタス",
+        ko: "밤선인"
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Tuska",
         "pt-br": "Cacnea",
         "zh-tw": "刺球仙人掌",
-        ja: "サボネア"
+        ja: "サボネア",
+        ko: "선인왕"
     },
     description: {
         en: "It lives in deserts. It becomes active at night\nwhen it hunts for prey exhausted from the\ndesert's heat.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt in Wüsten. Es wird nachts aktiv\nwenn es erschöpft nach Beute jagt\nWüstenhitze.",
         "pt-br": "Vive em desertos. Torna-se ativo à noite\nquando caça uma presa exausto do\ncalor do deserto.",
         "zh-tw": "它生活在沙漠中。它在晚上變得活躍\n當它捕獵精疲力竭的獵物時\n沙漠的炎熱。",
-        ja: "砂漠に 生息。 夜になると 動きだし 砂漠の 暑さで 疲れ果てた 獲物を 捕らえる。"
+        ja: "砂漠に 生息。 夜になると 動きだし 砂漠の 暑さで 疲れ果てた 獲物を 捕らえる。",
+        ko: "사막에 서식한다. 밤이 되면\n움직이기 시작하여 사막의 더위에\n지쳐 버린 먹이를 사냥한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Spike Rend",
                 "pt-br": "Pico rasgado",
                 "zh-tw": "斯派克·雷德",
-                ja: "トゲでえぐる"
+                ja: "トゲでえぐる",
+                ko: "가시로 도려내기"
             },
             damage: "60+",
             cost: ["Grass", "Grass", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn dem Aktiven Pokémon deines Gegners bereits Schaden zugefügt wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

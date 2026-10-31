@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/044"
     },
     name: {
         en: "Raichu",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pikachu",
         "pt-br": "Pikachu",
         "zh-tw": "皮卡丘",
-        ja: "ピカチュウ"
+        ja: "ピカチュウ",
+        ko: "피카츄"
     },
     description: {
         en: "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
@@ -71,7 +73,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon receberá −30 pontos de dano de ataques.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが受けるワザのダメージを-30する。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。"
             }
         }],

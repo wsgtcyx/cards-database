@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/051",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/051"
     },
     name: {
         en: "Zapdos",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Zapdos",
         "pt-br": "Zapdos",
         "zh-tw": "閃電鳥",
-        ja: "サンダー"
+        ja: "サンダー",
+        ko: "썬더"
     },
     illustrator: "Ken Sugimori",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zapdos ist ein legendäres Vogel-Pokémon. Es heißt\ndass, wenn Zapdos seine Federn aneinander reibt,\nUnmittelbar danach wird ein Blitz fallen.",
         "pt-br": "Zapdos é um Pokémon pássaro lendário. Está dito\nque quando Zapdos esfrega as penas,\num raio cairá imediatamente depois.",
         "zh-tw": "閃電鳥是傳說中的鳥類神奇寶貝。據說\n當 Zapdos 摩擦它的羽毛時，\n閃電會立即落下。",
-        ja: "羽根を こすり合わせると たちまち 雷が 落ちると 言われている 伝説の 鳥ポケモン。"
+        ja: "羽根を こすり合わせると たちまち 雷が 落ちると 言われている 伝説の 鳥ポケモン。",
+        ko: "날개를 비비대면 바로\n천둥이 친다고 전해지는\n전설의 새포켓몬이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schwerer Donner",
                 "pt-br": "Trovão Pesado",
                 "zh-tw": "重雷",
-                ja: "ビッグサンダー"
+                ja: "ビッグサンダー",
+                ko: "빅썬더"
             },
             cost: ["Lightning", "Lightning", "Lightning"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "1 anderes Pokémon (entweder deins oder das deines Gegners) wird einmal zufällig ausgewählt. Füge dem ausgewählten Pokémon 100 Schaden zu.",
                 "pt-br": "1 outro Pokémon (seu ou do seu oponente) é escolhido aleatoriamente 1 vez. Cause 100 de dano ao Pokémon escolhido.",
                 "zh-tw": "隨機選擇 1 只其他神奇寶貝（無論是你的還是你對手的）1 次。對所選神奇寶貝造成 100 點傷害。",
-                ja: "このポケモン以外の、おたがいのポケモンがランダムに1回選ばれ、選ばれたポケモンに、100ダメージ。"
+                ja: "このポケモン以外の、おたがいのポケモンがランダムに1回選ばれ、選ばれたポケモンに、100ダメージ。",
+                ko: "이 포켓몬 이외의 서로의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 100데미지를 준다."
             }
         }],
     weaknesses: [{

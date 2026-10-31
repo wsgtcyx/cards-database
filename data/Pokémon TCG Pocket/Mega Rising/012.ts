@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/012"
     },
     name: {
         en: "Breloom",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Breloom",
         "zh-tw": "斗笠菇",
         ja: "キノガッサ",
+        ko: "버섯모",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Shroomish",
         "zh-tw": "蘑蘑菇",
         ja: "キノココ",
+        ko: "버섯꼬",
     },
     description: {
         en: "The seeds on its tail are made of toxic spores.\nIt knocks out foes with quick, virtually invisible\npunches.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Samen an seinem Schwanz bestehen aus giftigen Sporen.\nEs schlägt Feinde schnell und praktisch unsichtbar nieder\nSchläge.",
         "pt-br": "As sementes em sua cauda são feitas de esporos tóxicos.\nEle nocauteia inimigos com golpes rápidos e virtualmente invisíveis\nsocos.",
         "zh-tw": "它尾巴上的種子是由有毒孢子製成的。\n它以幾乎隱形的速度擊倒敵人\n拳頭。",
-        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。"
+        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。",
+        ko: "꼬리의 씨앗은 독 포자로 되어 있다.\n움직임이 보이지 않을 정도로\n재빠른 펀치로 상대를 쓰러뜨린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
-                ja: "タネばくだん"
+                ja: "タネばくだん",
+                ko: "씨폭탄"
             },
             damage: 40,
             cost: ["Grass"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

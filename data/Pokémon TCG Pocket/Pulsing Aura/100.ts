@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/100"
     },
     name: {
         en: "Crobat",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Seine vier Flügel können unabhängig voneinander\nschlagen. So vermag es auch in engen Höhlen\nohne Geschwindigkeitsverlust umherzufliegen.",
         "pt-br": "Este Pokémon bate suas quatro asas com habilidade. Crobat pode voar através de cavernas apertadas sem precisar diminuir a velocidade.",
         "zh-tw": "能夠自在地控制４隻翅膀\n振翅飛翔。即使是在狹窄的\n洞窟裡也能毫不減速地飛舞。",
-        ja: "４枚の 羽を 自在に 操り 羽ばたく。 狭い 洞窟でも スピードを 落とさず 飛びまわれる。"
+        ja: "４枚の 羽を 自在に 操り 羽ばたく。 狭い 洞窟でも スピードを 落とさず 飛びまわれる。",
+        ko: "4장의 날개를 자유자재로 움직이며\n날갯짓한다. 좁은 동굴에서도\n속도를 늦추지 않고 날아다닐 수 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Überraschungsschlag",
                 "pt-br": "Golpe Surpresa",
                 "zh-tw": "奇襲攻擊",
-                ja: "きしゅうこうげき"
+                ja: "きしゅうこうげき",
+                ko: "기습공격"
             },
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn dieses Pokémon während dieses Zuges von deiner Bank in die Aktive Position gewechselt ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon foi movido do seu Banco para o Campo Ativo neste turno, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果本回合這只寶可夢從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 60 點。",
-                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、60ダメージ追加。"
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、60ダメージ追加。",
+                ko: "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 60데미지를 추가한다."
             },
             damage: "60+"
         }

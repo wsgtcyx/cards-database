@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/042",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/042"
     },
     name: {
         en: "Primeape",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
         ja: "マンキー",
+        ko: "망키",
     },
     description: {
         en: "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/209",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/209"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/209",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/209"
     },
     name: {
         en: "Frillish",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Einer Sage nach sind Quabbel in Wirklichkeit\nBewohner einer uralten, im Meer versunkenen\nStadt, die zu Pokémon wurden.",
         "pt-br": "Diz a lenda que os residentes de uma cidade antiga submersa se transformaram nestes Pokémon.",
         "zh-tw": "據流傳至今的傳說所述，\n牠是由沉沒到海底的古代都市\n的居民變成的寶可夢。",
-        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。"
+        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。",
+        ko: "해저에 가라앉은 고대 도시의\n주민이 포켓몬이 되었다는\n전설이 남아 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20
         }

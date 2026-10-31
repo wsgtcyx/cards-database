@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/201",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/201",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/201"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/201",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/201"
     },
     name: {
         en: "Quick-Grow Extract",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Escolha 1 dos seus Pokémon {G} em jogo. Coloque um Pokémon {G} aleatório do seu baralho que evolua daquele Pokémon sobre aquele Pokémon para evoluí-lo. Você não pode usar esta carta durante o seu primeiro turno ou em um Pokémon que entrou em jogo neste turno.",
         "zh-tw": "選擇1隻自己的場上的{G}寶可夢,從自己的牌庫隨機將1張從該寶可夢進化而來的{G}寶可夢,放置於該寶可夢身上完成進化。(無法對自己的最初回合或剛使出的寶可夢使用。)",
         ja: "自分の場の{G}ポケモンを1匹選び、そのポケモンから進化する{G}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)",
-        ko: "Choose 1 of your {G} Pokémon in play. Put a random {G} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
+        ko: "자신의 필드의 {G}포켓몬을 1마리 선택해서 그 포켓몬에서 진화하는 {G}포켓몬을 자신의 덱에서 랜덤으로 1장 그 포켓몬에게 올려서 진화시킨다. (자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
     },
     trainerType: "Item"
 };

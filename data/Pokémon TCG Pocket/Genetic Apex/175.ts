@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/175",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/175",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/175"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/175",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/175"
     },
     name: {
         en: "Muk",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Sleima",
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
-        ja: "ベトベター"
+        ja: "ベトベター",
+        ko: "질퍽이"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],

@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/034",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/034"
     },
     name: {
         en: "Carvanha",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
         "pt-br": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
         "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。",
-        ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。"
+        ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。",
+        ko: "날카로운 이빨과 튼튼한 턱을\n갖고 있다. 선원들은 샤프니아\n거처에 결코 가까이 가지 않는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Scharfe Fänge",
                 "pt-br": "Presa Afiada",
                 "zh-tw": "銳利之牙",
-                ja: "するどいキバ"
+                ja: "するどいキバ",
+                ko: "예리한이빨"
             },
             damage: 30
         }

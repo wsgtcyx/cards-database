@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/008"
     },
     name: {
         en: "Psyduck",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
         "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
-        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
+        ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Regenplatscher",
                 "pt-br": "Chuva Borrifante",
                 "zh-tw": "潑水",
-                ja: "みずかけ"
+                ja: "みずかけ",
+                ko: "물뿌리기"
             },
             damage: 20
         }

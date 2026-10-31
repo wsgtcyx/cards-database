@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/130"
     },
     name: {
         en: "Rising Star",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Puoi usare questa carta solo se hai almeno 3 Pokémon di tipo diverso in gioco.\n\nScambia il tuo Pokémon attivo con uno della tua panchina.",
         de: "Du kannst diese Karte nur einsetzen, wenn du 3 oder mehr Pokémon verschiedenen Typs im Spiel hast.\n\nTausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus.",
         ja: "このカードは、自分の場のポケモンのタイプが3種類以上のときにしか使えない。 自分のバトルポケモンを、ベンチポケモンと入れ替える。",
-        ko: "You can use this card only if you have 3 or more different Pokémon types in play. Switch your Active Pokémon with 1 of your Benched Pokémon."
+        ko: "이 카드는 자신의 필드의 포켓몬의 타입이 3종류 이상일 때만 사용할 수 있다. 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
     }
 };
 

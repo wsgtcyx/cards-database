@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/060"
     },
     name: {
         en: "Alolan Graveler",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Georok",
         'pt-br': "Graveler de Alola",
         ja: "アローラゴローン",
-        ko: "알로라데구리",
+        ko: "알로라 데구리",
         "zh-tw": "阿羅拉隆隆石",
     },
     illustrator: "match",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Geodude de Alola",
         "zh-tw": "阿羅拉小拳石",
         ja: "アローライシツブテ",
+        ko: "알로라 꼬마돌",
     },
     description: {
         en: "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",

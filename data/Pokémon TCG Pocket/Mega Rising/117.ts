@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/117",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/117"
     },
     name: {
         en: "Swirlix",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
         ja: "ペロッパフ",
+        ko: "나룸퍼프",
     },
     illustrator: "Kurata So",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der süße Duft von Zuckerwatte-Parfums\nDas flauschige Fell von Swirlix. Dieses Pokémon spuckt aus\nklebrige Schnur, um seine Feinde zu verheddern.",
         "pt-br": "O doce cheiro dos perfumes de algodão doce\nO pelo fofo de Swirlix. Este Pokémon cospe\ncorda pegajosa para emaranhar seus inimigos.",
         "zh-tw": "棉花糖香水的甜甜氣味\n漩渦的毛茸茸的皮毛。這只神奇寶貝會吐出\n用來纏住敵人的粘繩。",
-        ja: "ふわふわの 体毛は 綿飴の ように 甘い におい。 べたつく 糸を 出して 敵を 絡めとる。"
+        ja: "ふわふわの 体毛は 綿飴の ように 甘い におい。 べたつく 糸を 出して 敵を 絡めとる。",
+        ko: "푹신푹신한 털은 솜사탕처럼\n달콤한 냄새가 난다.\n끈끈한 실을 내어 상대를 묶어버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Baumwollschutz",
                 "pt-br": "Protetor de algodão",
                 "zh-tw": "棉衛士",
-                ja: "コットンガード"
+                ja: "コットンガード",
+                ko: "코튼가드"
             },
             damage: 10,
             cost: ["Psychic"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

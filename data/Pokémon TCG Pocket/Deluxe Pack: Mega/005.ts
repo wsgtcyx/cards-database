@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/005"
     },
     name: {
         en: "Metapod",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Caterpie",
         "zh-tw": "綠毛蟲",
         ja: "キャタピー",
-        ko: "Caterpie"
+        ko: "캐터피"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Apesar de estar envolto em um casco espesso, o interior do seu corpo é frágil, e por isso não aguenta ataques muito fortes.",
         "zh-tw": "雖然有堅硬的外殼，但因為殼裡的身體很軟，所以無法抵抗強力的攻擊。",
         ja: "硬い 殻に 包まれているが 中身は 軟らかいので 強い 攻撃には 耐えられない。",
-        ko: "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack."
+        ko: "단단한 껍질로 둘러싸여 있지만\n안은 부드럽기 때문에\n강한 공격에는 버티지 못한다."
     },
     attacks: [
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
                 ja: "ぶつかる",
-                ko: "Ram"
+                ko: "부딪치기"
             },
             damage: 30
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/165",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/165",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/165"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/165",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/165"
     },
     name: {
         en: "Ralts",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
         ja: "ラルトス",
+        ko: "랄토스",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Hörner auf seinem Kopf verleihen ihm eine starke Kraft\nDadurch ist es in der Lage, die Emotionen der Menschen zu spüren.",
         "pt-br": "Os chifres em sua cabeça fornecem um forte poder\nque lhe permite sentir as emoções das pessoas.",
         "zh-tw": "頭上的角提供了強大的力量\n這使得它能夠感知人們的情緒。",
-        ja: "人の 感情を 頭の 赤い ツノで 敏感に キャッチする 力を 持つ。"
+        ja: "人の 感情を 頭の 赤い ツノで 敏感に キャッチする 力を 持つ。",
+        ko: "사람의 감정을 머리의\n빨간 뿔로 민감하게\n감지하는 힘을 가졌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Teleportieren",
                 "pt-br": "Teleporte",
                 "zh-tw": "傳送",
-                ja: "テレポート"
+                ja: "テレポート",
+                ko: "순간이동"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

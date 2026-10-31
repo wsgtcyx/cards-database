@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/058"
     },
     name: {
         en: "Farigiraf",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Der gehärtete Kopf des Schwanzes schützt den Kopf des Hauptkörpers, während Farigiraf seinen langen Hals herumwirbelt, um Gegnern einen Kopfstoß zu verpassen.",
         "pt-br": "A cabeça endurecida da cauda protege a cabeça do corpo principal enquanto Farigiraf chicoteia seu longo pescoço para dar cabeçadas nos inimigos.",
         "zh-tw": "當 奇麒麟 揮舞長脖子用頭撞擊敵人時，尾部的硬化頭部可以保護主體的頭部。",
-        ja: "硬い テールヘッドで 本体の 頭を 守りつつ 長い 首を 振りまわして 頭突きを 食らわせる。"
+        ja: "硬い テールヘッドで 本体の 頭を 守りつつ 長い 首を 振りまわして 頭突きを 食らわせる。",
+        ko: "단단한 테일 헤드로 본체의 머리를\n보호하면서 긴 목을 휘둘러\n박치기를 먹여 준다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Doppelschlag",
                 "pt-br": "Golpe Duplo",
                 "zh-tw": "二連擊",
-                ja: "ダブルアタック"
+                ja: "ダブルアタック",
+                ko: "더블어택"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 60 damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 60 點傷害。",
-                ja: "コインを2回投げ、オモテの数×60ダメージ。"
+                ja: "コインを2回投げ、オモテの数×60ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 60데미지를 준다."
             },
             damage: "60x"
         }

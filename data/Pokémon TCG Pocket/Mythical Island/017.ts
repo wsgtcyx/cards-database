@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/017"
     },
     name: {
         en: "Magikarp",

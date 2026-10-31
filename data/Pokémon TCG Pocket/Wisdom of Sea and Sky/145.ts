@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/145",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/145",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/145"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/145",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/145"
     },
     name: {
         en: "Teddiursa",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
         ja: "ヒメグマ",
+        ko: "깜지곰",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Pfoten sind in Unmengen Honig getränkt. Wann\nnervös, Teddiursa wird sich bald die Pfoten lecken\nwieder ein Lächeln im Gesicht haben.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando\nnervoso, Teddiursa lamberá as patas e logo\ntenha um sorriso de volta no rosto.",
         "zh-tw": "它的爪子浸滿了蜂蜜。當\n緊張時，泰迪烏薩會舔它的爪子，很快\n臉上重新露出笑容。",
-        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。",
+        ko: "손바닥에는 달콤한 꿀이\n잔뜩 배어들어 있다.\n불안할 때 손바닥을 핥으면 웃게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Honigsnack",
                 "pt-br": "Lanche de mel",
                 "zh-tw": "蜂蜜零食",
-                ja: "みつをなめる"
+                ja: "みつをなめる",
+                ko: "꿀핥기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
-                ja: "このポケモンのHPを20回復。"
+                ja: "このポケモンのHPを20回復。",
+                ko: "이 포켓몬의 HP를 20회복."
             }
         }],
     weaknesses: [{

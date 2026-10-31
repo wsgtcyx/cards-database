@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/006",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/006"
     },
     name: {
         en: "Serperior",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Servine",
         "zh-tw": "青藤蛇",
         ja: "ジャノビー",
+        ko: "샤비",
     },
     description: {
         en: "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",

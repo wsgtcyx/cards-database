@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/086",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/086",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/086"
     },
     name: {
         en: "Excadrill",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Seine zu Stahl weiterentwickelten Bohrer sind kräftig genug, um Eisenplatten zu durchbohren. Beim Tunnelbau ist es sehr hilfreich.",
         "pt-br": "Sua broca evoluiu para aço e é forte o suficiente para perfurar placas de ferro. Este Pokémon é muito útil em construções de túneis.",
         "zh-tw": "進化為鋼的鑽頭有著\n能穿透鐵板的破壞力。\n在隧道工程裡可幫上大忙。",
-        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。"
+        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。",
+        ko: "강철로 진화한 드릴은\n철판을 뚫는 파괴력을 가졌다.\n터널 공사에서 크게 활약한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lehmschuss",
                 "pt-br": "Tiro de Lama",
                 "zh-tw": "泥巴射擊",
-                ja: "マッドショット"
+                ja: "マッドショット",
+                ko: "머드샷"
             },
             damage: 50
         }

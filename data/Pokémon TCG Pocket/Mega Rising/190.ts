@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/190",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/190",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/190"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/190",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/190"
     },
     name: {
         en: "Whismur",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Whismur",
         "zh-tw": "咕妞妞",
         ja: "ゴニョニョ",
+        ko: "소곤룡",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn Whismur weint, erklingt seine eigene Stimme\nerschreckt es und lässt das Pokémon noch lauter weinen.\nEs weint, bis es erschöpft ist, dann schläft es ein.",
         "pt-br": "Quando Whismur chora, o som de sua própria voz\nassusta, fazendo o Pokémon chorar ainda mais alto.\nEle chora até ficar exausto e depois adormece.",
         "zh-tw": "當威斯莫哭泣時，是它自己的聲音\n嚇到了它，讓神奇寶貝哭得更大聲。\n它會哭到筋疲力盡，然後就睡著了。",
-        ja: "鳴きはじめると 自分の 声に 驚いて さらに 激しく 鳴く。 鳴き疲れると 眠ってしまう。"
+        ja: "鳴きはじめると 自分の 声に 驚いて さらに 激しく 鳴く。 鳴き疲れると 眠ってしまう。",
+        ko: "울음이 터지면 자신의 목소리에\n놀라 더 격렬하게 운다.\n울다 지치면 잠들어 버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Pfund",
                 "pt-br": "Libra",
                 "zh-tw": "磅",
-                ja: "はたく"
+                ja: "はたく",
+                ko: "막치기"
             },
             damage: 20,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

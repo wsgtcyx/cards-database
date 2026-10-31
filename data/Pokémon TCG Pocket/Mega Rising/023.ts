@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/023"
     },
     name: {
         en: "Phantump",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
         ja: "ボクレー",
+        ko: "나목령",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit einer Stimme wie die eines Menschenkindes schreit es\nlocken Erwachsene tief in den Wald und verirren sie\nzwischen den Bäumen.",
         "pt-br": "Com uma voz como a de uma criança humana, clama para\natrair adultos para as profundezas da floresta, fazendo com que eles se percam\nentre as árvores.",
         "zh-tw": "它用像人類孩子一樣的聲音呼喊著\n引誘成年人進入森林深處，讓他們迷路\n樹木之間。",
-        ja: "人間の 子どもに 似た 声で 鳴いて 大人を 森の 奥へ 誘い込み 迷わせて しまうのだ。"
+        ja: "人間の 子どもに 似た 声で 鳴いて 大人を 森の 奥へ 誘い込み 迷わせて しまうのだ。",
+        ko: "인간의 어린이를 닮은 목소리로\n울어 어른을 숲속으로\n유인하여 길을 잃게 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Branch Poke",
                 "pt-br": "Poke de galho",
                 "zh-tw": "分支戳",
-                ja: "えだづき"
+                ja: "えだづき",
+                ko: "가지찌르기"
             },
             damage: 40,
             cost: ["Grass", "Grass"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

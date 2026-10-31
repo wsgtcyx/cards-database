@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/180",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/180",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/180"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/180",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/180"
     },
     name: {
         en: "Decidueye ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
         ja: "フクスロー",
+        ko: "빼미스로우",
     },
     stage: "Stage2",
     suffix: "EX",

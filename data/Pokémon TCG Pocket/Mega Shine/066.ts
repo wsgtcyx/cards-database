@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/066"
     },
     name: {
         en: "Maintenance",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Mische 2 Karten aus deiner Hand in dein Deck. Ziehe eine Karte. Wenn Sie nicht 2 Karten mischen können, können Sie diese Karte nicht verwenden.",
         "pt-br": "Embaralhe 2 cartas da sua mão no seu baralho. Compre uma carta. Se você não consegue embaralhar 2 cartas, você não pode usar esta carta.",
         "zh-tw": "將 2 張牌從你的手牌洗入你的牌庫。畫一張卡片。如果您無法洗混 2 張卡，則無法使用此卡。",
-        ja: "自分の手札を2枚選び、山札にもどす。自分の山札を1枚引く。2枚もどせないなら、このカードは使えない。"
+        ja: "自分の手札を2枚選び、山札にもどす。自分の山札を1枚引く。2枚もどせないなら、このカードは使えない。",
+        ko: "자신의 패를 2장 선택해서 덱으로 되돌린다. 자신의 덱을 1장 뽑는다. 2장 되돌릴 수 없다면 이 카드는 사용할 수 없다."
     },
     trainerType: "Item"
 };

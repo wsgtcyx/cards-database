@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/104",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/104"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/104",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/104"
     },
     name: {
         en: "Forretress",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sein gesamter Körper ist von einer stahlharten Schale abgeschirmt. Was sich in dieser Hülle verbirgt, ist ein absolutes Rätsel.",
         "pt-br": "Todo o seu corpo é protegido por uma casca dura de aço. O que se esconde dentro desta concha é um mistério total.",
         "zh-tw": "它的整個身體都被鋼鐵般堅硬的外殼所保護。這個殼裡面潛藏著什麼，完全是個謎。",
-        ja: "鋼鉄のように 硬い 殻で 全身を 覆っている。 中の 正体は 不明。"
+        ja: "鋼鉄のように 硬い 殻で 全身を 覆っている。 中の 正体は 不明。",
+        ko: "강철 같은 단단한 껍질로\n전신을 싸고 있다.\n내용물의 정체는 수수께끼다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Enorme Explosion",
                 "pt-br": "Explosão Gigantesca",
                 "zh-tw": "特大號爆炸",
-                ja: "とくだいばくはつ"
+                ja: "とくだいばくはつ",
+                ko: "특대폭발"
             },
             effect: {
                 en: "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's).",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst 100 Schadenspunkte und allen Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 50 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 100 de dano a si mesmo e 50 de dano a todos os Pokémon no Banco (seus e do seu oponente).",
                 "zh-tw": "該寶可夢還會對其造成 100 點傷害，並對所有後備寶可夢（包括你的和對手的）造成 50 點傷害。",
-                ja: "このポケモンにも100ダメージ。おたがいのベンチポケモン全員にも50ダメージ。"
+                ja: "このポケモンにも100ダメージ。おたがいのベンチポケモン全員にも50ダメージ。",
+                ko: "이 포켓몬에게도 100데미지를 준다. 서로의 벤치 포켓몬 전원에게도 50데미지를 준다."
             },
             damage: 100
         }

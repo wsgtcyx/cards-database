@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/093"
     },
     name: {
         en: "Carkol",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Durch den darin entstehenden Kohlenteer fällt der Kohlehaufen auf Wagongs Rücken nie auseinander, selbst wenn das Pokémon mit hoher Geschwindigkeit herumrollt.",
         "pt-br": "Devido ao alcatrão de carvão criado dentro dele, o monte de carvão nas costas de Carkol nunca se desfaz, mesmo quando o Pokémon rola em alta velocidade.",
         "zh-tw": "由於內部產生了煤焦油，即使寶可夢高速滾動，大炭車背上的煤堆也不會散開。",
-        ja: "背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。"
+        ja: "背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。",
+        ko: "등의 석탄 더미 안에는\n콜타르가 만들어져 있어서\n고속으로 달려도 무너지지 않는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Einhämmern",
                 "pt-br": "Martelada",
                 "zh-tw": "頭突",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 50
         }

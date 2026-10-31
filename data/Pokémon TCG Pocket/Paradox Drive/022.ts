@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/022"
     },
     name: {
         en: "Espathra",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es strahlt psychische Kraft aus den Lücken zwischen seinen bunten Rüschen aus und sprintet mit Geschwindigkeiten von mehr als 120 Meilen pro Stunde.",
         "pt-br": "Ele emite poder psíquico pelas lacunas entre seus babados multicoloridos e corre a velocidades superiores a 190 km/h.",
         "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。",
-        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。"
+        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。",
+        ko: "형형색색의 프릴 사이사이로\n사이코 파워를 방출하며\n시속 200km로 질주한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lumina-Absturz",
                 "pt-br": "Lumina Crash",
                 "zh-tw": "琉光冲激",
-                ja: "ルミナコリジョン"
+                ja: "ルミナコリジョン",
+                ko: "루미나콜리전"
             },
             effect: {
                 en: "During your next turn, the Defending Pokémon takes +50 damage from attacks.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges erleidet das verteidigende Pokémon +50 Schaden durch Angriffe.",
                 "pt-br": "Durante o seu próximo turno, o Pokémon Defensor sofre +50 de dano de ataques.",
                 "zh-tw": "在你的下一個回合中，防禦寶可夢受到攻擊的傷害+50。",
-                ja: "次の自分の番、このワザを受けたポケモンが受けるワザのダメージを+50する。"
+                ja: "次の自分の番、このワザを受けたポケモンが受けるワザのダメージを+50する。",
+                ko: "자신의 다음 차례에 이 기술을 받은 포켓몬이 받는 기술의 데미지를 +50한다."
             },
             damage: 50
         }

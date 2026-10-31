@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/100",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/100"
     },
     name: {
         en: "Vaporeon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
         ja: "シャワーズ",
+        ko: "샤미드",
     },
     illustrator: "LINNE",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt in der Nähe von Wasser. Sein langer Schwanz ist gerippt\neine Flosse, die oft mit der einer Meerjungfrau verwechselt wird.",
         "pt-br": "Vive perto da água. Sua longa cauda é estriada\numa barbatana, que muitas vezes é confundida com a de uma sereia.",
         "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。",
-        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。"
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。",
+        ko: "물가에 살지만 꼬리에\n물고기처럼 지느러미가 남아 있어서\n인어로 착각하는 사람도 있다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Ausspülen",
                 "pt-br": "Lavar",
                 "zh-tw": "洗掉",
-                ja: "おしながす"
+                ja: "おしながす",
+                ko: "흘려보내기"
             },
             effect: {
                 en: "As often as you like during your turn, you may move a {W} Energy from 1 of your Benched {W} Pokémon to your Active {W} Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "So oft du möchtest, kannst du während deines Zuges eine {W}-Energie von einem deiner {W}-Pokémon auf deiner Bank auf dein aktives {W}-Pokémon verschieben.",
                 "pt-br": "Quantas vezes quiser durante o seu turno, você pode mover uma Energia {W} de 1 dos seus Pokémon {W} no Banco para os seus Pokémon {W} Ativos.",
                 "zh-tw": "在你的回合中，你可以多次將 {W} 能量從你的 1 個後備 {W} 神奇寶貝轉移到你的活躍 {W} 神奇寶貝上。",
-                ja: "自分の番に何回でも使える。自分のベンチの{W}ポケモンから{W}エネルギーを1個、バトル場の{W}ポケモンにつけ替える。"
+                ja: "自分の番に何回でも使える。自分のベンチの{W}ポケモンから{W}エネルギーを1個、バトル場の{W}ポケモンにつけ替える。",
+                ko: "자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 벤치의 {W}포켓몬에서 {W}에너지를 1개 배틀필드의 {W}포켓몬에게 바꿔 붙인다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
                 "zh-tw": "波浪飛濺",
-                ja: "スプラッシュ"
+                ja: "スプラッシュ",
+                ko: "스플래시"
             },
             damage: 60,
             cost: ["Water", "Colorless", "Colorless"]

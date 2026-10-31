@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/062"
     },
     name: {
         en: "Rufflet",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Mit seinen scharfen Fängen packt es seine\nBeute und pickt danach. Generell ist es ein\nFleischfresser, es isst aber auch Beeren.",
         "pt-br": "Com suas garras afiadas, este Pokémon perfura suas presas e depois as bica. Embora também consuma frutas vermelhas, é um carnívoro de coração.",
         "zh-tw": "用尖尖的爪子刺穿獵物\n後啄食。雖然也會吃樹果，\n但基本上是肉食性寶可夢。",
-        ja: "尖ったツメを 獲物に 突き立て ついばんでいる。 木の実も 食べるが 基本的に 肉食のポケモン。"
+        ja: "尖ったツメを 獲物に 突き立て ついばんでいる。 木の実も 食べるが 基本的に 肉食のポケモン。",
+        ko: "뾰족한 발톱을 사냥감에게 꽂고\n쪼아 먹는다. 나무열매도 먹지만\n기본적으로 육식 포켓몬이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 30
         }

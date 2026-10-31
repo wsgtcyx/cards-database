@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/089"
     },
     name: {
         en: "Barry",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Während dieses Zuges verringern sich die Kosten der eingesetzten Attacken von deinem Relaxo, Skaraborn und Staraptor um 2 {C}-Energien.",
         'pt-br': "Durante este turno, os ataques usados por seus Snorlax, Heracross e Staraptor custarão 2 Energias{C} a menos.",
         ja: "この番、自分の「カビゴン」「ヘラクロス」「ムクホーク」がワザを使うためのエネルギーを、{C}エネルギー2個ぶん少なくする。",
-        ko: "이 차례에 자신의 「잠만보」「헤라크로스」「찌르호크」 기술을 사용하기 위한 에너지를 {C}에너지 2개만큼 적게 만든다.",
+        ko: "이 차례에 자신의 「잠만보」「헤라크로스」「찌르호크」가 기술을 사용하기 위한 에너지를 {C}에너지 2개만큼 적게 만든다.",
         "zh-tw": "在這個回合中，你的斯諾拉克斯、赫拉克羅斯和星盜龍使用的攻擊消耗 2 點較少的 {C} 能量。"
     },
     trainerType: "Supporter"

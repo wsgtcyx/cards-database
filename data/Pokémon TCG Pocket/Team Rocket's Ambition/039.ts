@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/039"
     },
     name: {
         en: "Team Rocket's Arbok",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es ist sehr hartnackig und verfolgt seine Beute überallhin, wenn es sie einmal erspäht hat.",
         "pt-br": "Este Pokémon é extremamente tenaz. Uma vez que escolhe sua presa, não desiste da perseguição, não importa o quão longe ela vá.",
         "zh-tw": "性情非常執著。一旦鎖定了獵物，便會窮追不捨。",
-        ja: "とても 執念深い 性格。 一度 ターゲットに 決めた 獲物は どこまでも 追い続ける。"
+        ja: "とても 執念深い 性格。 一度 ターゲットに 決めた 獲物は どこまでも 追い続ける。",
+        ko: "매우 집념이 강한 성격이다.\n한번 타깃으로 정한 먹이는\n어디든지 쫓아간다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Schattensucher",
                 "pt-br": "Explorador das Sombras",
                 "zh-tw": "暗影追蹤",
-                ja: "シャドーシーカー"
+                ja: "シャドーシーカー",
+                ko: "섀도시커"
             },
             effect: {
                 en: "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners 10 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢撤退所需的能量的數量×10點傷害。",
-                ja: "相手のバトルポケモンのにげるためのエネルギーの数×10ダメージ追加。"
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×10ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 10데미지를 추가한다."
             },
             damage: "70+"
         }

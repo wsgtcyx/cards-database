@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/053"
     },
     name: {
         en: "Skrelp",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
         ja: "クズモー",
+        ko: "수레기",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Skrelp entkommt seinen Feinden, indem er sich inmitten versteckt\ntreibende Algen. Es frisst faule Algen\nerschaffe sein Gift.",
         "pt-br": "Skrelp foge de seus inimigos escondendo-se em meio\nalgas marinhas à deriva. Ele come algas podres para\ncriar seu veneno.",
         "zh-tw": "Skrelp 通過隱藏在其中來躲避敵人\n漂流的海藻。牠吃腐爛的海藻\n創造其毒。",
-        ja: "海に 漂う 藻屑に 紛れて 敵の 目を ごまかす。 腐った 海藻を 食べて 毒を 作る。"
+        ja: "海に 漂う 藻屑に 紛れて 敵の 目を ごまかす。 腐った 海藻を 食べて 毒を 作る。",
+        ko: "바다에 떠 있는 해초에 섞여서\n적의 눈을 속인다.\n썩은 해초를 먹어서 독을 만든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schmelzen",
                 "pt-br": "Derretido",
                 "zh-tw": "熔化",
-                ja: "とかす"
+                ja: "とかす",
+                ko: "녹이기"
             },
             damage: 20,
             cost: ["Darkness"]

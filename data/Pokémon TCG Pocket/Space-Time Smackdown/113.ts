@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/113",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/113",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/113"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/113",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/113"
     },
     name: {
         en: "Shieldon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Fóssil Armadura",
         "zh-tw": "盾甲化石",
         ja: "たての化石",
+        ko: "방패의화석",
     },
     description: {
         en: "A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/061"
     },
     name: {
         en: "Poliwrath",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Quaputzi",
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
-        ja: "ニョロゾ"
+        ja: "ニョロゾ",
+        ko: "슈륙챙이"
     },
     abilities: [{
             type: "Ability",

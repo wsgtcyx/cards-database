@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/053"
     },
     name: {
         en: "Houndstone",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Houndstone",
         "zh-tw": "墓揚犬",
         ja: "ハカドッグ",
+        ko: "묘두기",
         pt: "Houndstone",
         'es-mx': "Houndstone"
     },
@@ -39,6 +41,7 @@ const card: Card = {
         "pt-br": "Greavard",
         "zh-tw": "墓仔狗",
         ja: "ボチ",
+        ko: "망망이",
         pt: "Greavard",
         'es-mx': "Greavard"
     },
@@ -50,7 +53,8 @@ const card: Card = {
         "de": "Ein liebevoll betrauertes Pokémon wurde als Friedwuff wiedergeboren. Es mag es nicht, wenn jemand die Ausstülpung auf seinem Kopf berührt.",
         "pt-br": "Um Pokémon carinhosamente lamentado renasceu como Houndstone. Ele não gosta que ninguém toque na protuberância no topo de sua cabeça.",
         "zh-tw": "一隻備受哀悼的寶可夢重生為墓揚犬。它不喜歡任何人觸摸它頭頂的突起。",
-        ja: "大切に 弔われた ポケモンが 生まれ変わった 姿。 頭の 突起を 触られるのは 嫌い。"
+        ja: "大切に 弔われた ポケモンが 生まれ変わった 姿。 頭の 突起を 触られるのは 嫌い。",
+        ko: "정성스럽게 추모를 받은\n포켓몬이 환생한 모습.\n머리의 돌기를 만지는 것을 싫어한다."
     },
     stage: "Stage1",
     attacks: [
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Últimos respeitos",
                 "zh-tw": "最後的敬意",
                 ja: "おはかまいり",
+                ko: "성묘",
                 pt: "Último Adeus"
             },
             damage: "50+",
@@ -76,7 +81,8 @@ const card: Card = {
                 "de": "Dieser Angriff verursacht 20 weitere Schadenspunkte für jedes Psycho-Pokémon in deinem Ablagestapel.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon Psíquico em sua pilha de descarte.",
                 "zh-tw": "此攻擊對你棄牌堆中的每隻心靈寶可夢造成額外 20 點傷害。",
-                ja: "自分のトラッシュにある{P}ポケモンの枚数×20ダメージ追加。"
+                ja: "自分のトラッシュにある{P}ポケモンの枚数×20ダメージ追加。",
+                ko: "자신의 트래쉬에 있는 {P}포켓몬의 장수 × 20데미지를 추가한다."
             },
         },
     ],

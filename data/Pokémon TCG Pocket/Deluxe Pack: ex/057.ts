@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/057",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/057",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/057",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/057"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/057",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/057"
 	},
 	name: {
 		en: "Charmeleon",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Glutexo",
 		"pt-br": "Charmeleon",
 		"zh-tw": "火恐龍",
-		ja: "リザード"
+		ja: "リザード",
+		ko: "리자드"
 	},
 	illustrator: "kantaro",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Glumanda",
 		"pt-br": "Charmander",
 		"zh-tw": "小火龍",
-		ja: "ヒトカゲ"
+		ja: "ヒトカゲ",
+		ko: "파이리"
 	},
 	attacks: [
 		{

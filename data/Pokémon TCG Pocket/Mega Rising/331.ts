@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/331",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/331",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/331",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/331"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/331",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/331"
     },
     name: {
         en: "Flame Patch",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fragmento Incendiário",
         "zh-tw": "火補丁",
         ja: "フレイムパッチ",
+        ko: "플레임패치",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Crown",
@@ -33,8 +35,14 @@ const card: Card = {
         "de": "Lege eine {R}-Energie von deinem Ablagestapel an dein aktives {R}-Pokémon an.",
         "pt-br": "Ligue uma Energia {R} da sua pilha de descarte ao seu Pokémon {R} ativo.",
         "zh-tw": "將棄牌堆中的 {R} 能量附加到你的活躍 {R} 神奇寶貝上。",
-        ja: "自分のトラッシュから{R}エネルギーを1個、バトル場の{R}ポケモンにつける。"
+        ja: "自分のトラッシュから{R}エネルギーを1個、バトル場の{R}ポケモンにつける。",
+        ko: "자신의 트래쉬에서 {R}에너지를 1개 배틀필드의 {R}포켓몬에게 붙인다."
     },
-    trainerType: "Item"
+    trainerType: "Item",
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

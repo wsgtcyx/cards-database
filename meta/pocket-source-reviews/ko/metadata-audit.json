@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "operation": "audit-pocket-localization-metadata",
+  "generatedAt": "2026-10-31T15:03:05.418Z",
+  "targetLocales": [
+    "ko"
+  ],
+  "passed": true,
+  "summary": {
+    "entities": {
+      "series": 1,
+      "sets": 26,
+      "cards": 4561
+    },
+    "localizedObjects": 22881,
+    "missingValues": 0,
+    "invalidValues": 0,
+    "structuralErrors": 0,
+    "byScope": {
+      "series": 0,
+      "set": 0,
+      "card": 0
+    },
+    "byLocale": {
+      "ko": 0
+    },
+    "byField": {},
+    "byKind": {}
+  },
+  "issues": [],
+  "errors": []
+}

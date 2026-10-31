@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/164",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/164",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/164",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/164"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/164",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/164"
     },
     name: {
         en: "Morgrem",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Morgrem",
         "zh-tw": "詐唬魔",
         ja: "ギモー",
+        ko: "쏘겨모",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Impidimp",
         "zh-tw": "搗蛋小妖",
         ja: "ベロバー",
+        ko: "메롱꿍",
     },
     description: {
         en: "This Pokémon absorbs negative emotions and\nturns them into energy. It's popular with people\nwho tend to think gloomy thoughts.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon absorbiert negative Emotionen und\nverwandelt sie in Energie. Es ist bei den Leuten beliebt\ndie dazu neigen, düstere Gedanken zu hegen.",
         "pt-br": "Este Pokémon absorve emoções negativas e\nos transforma em energia. É popular entre as pessoas\nque tendem a ter pensamentos sombrios.",
         "zh-tw": "這個神奇寶貝吸收負面情緒並\n將它們轉化為能量。它很受人們歡迎\n他們往往會產生悲觀的想法。",
-        ja: "負の 感情を 吸い取って エネルギーにしている ポケモン。 マイナス思考の 人に 人気。"
+        ja: "負の 感情を 吸い取って エネルギーにしている ポケモン。 マイナス思考の 人に 人気。",
+        ko: "부정한 감정을 흡수해서\n에너지로 삼는 포켓몬.\n매사에 부정적인 사람들에게 인기가 좋다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Falsche Kapitulation",
                 "pt-br": "Falsa Rendição",
                 "zh-tw": "假投降",
-                ja: "どげざつき"
+                ja: "どげざつき",
+                ko: "사죄의찌르기"
             },
             damage: 50,
             cost: ["Darkness", "Darkness"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Der Schaden dieses Angriffs wird nicht durch Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
                 "zh-tw": "這次攻擊的傷害不受對手的活躍神奇寶貝的任何效果影響。",
-                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

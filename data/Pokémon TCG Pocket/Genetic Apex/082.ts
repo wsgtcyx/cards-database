@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/082",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/082"
     },
     name: {
         en: "Omastar",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Amonitas",
         "pt-br": "Omanyte",
         "zh-tw": "菊石獸",
-        ja: "オムナイト"
+        ja: "オムナイト",
+        ko: "암나이트"
     },
     attacks: [{
             cost: ["Water", "Colorless", "Colorless"],

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/228",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/228",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/228",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/228"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/228",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/228"
     },
     name: {
         en: "Skiddo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skiddo",
         "zh-tw": "坐騎小羊",
         ja: "メェークル",
+        ko: "메이클",
     },
     illustrator: "Shinya Komatsu",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Solange es Sonnenlicht und Wasser gibt, kann Skiddo\nEnergie mit den Blättern an seinem Körper erzeugen und so ermöglichen\nes ist, auf felsigen Bergen zu leben, in denen es keine Nahrung gibt.",
         "pt-br": "Contanto que tenha luz solar e água, Skiddo pode\nproduzir energia com as folhas do seu corpo, permitindo\nviver em montanhas rochosas sem comida.",
         "zh-tw": "只要有陽光和水，斯基多就可以\n用身體上的葉子產生能量，允許\n它生活在貧瘠的落基山脈上。",
-        ja: "太陽と 水が あれば 体の 葉っぱで エネルギーを 作れるので エサのない 岩山でも 生きられる。"
+        ja: "太陽と 水が あれば 体の 葉っぱで エネルギーを 作れるので エサのない 岩山でも 生きられる。",
+        ko: "태양과 물만 있으면 몸의 잎사귀를 통해\n에너지를 만들 수 있기 때문에\n먹이가 없는 바위산에서도 살 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 30,
             cost: ["Grass", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

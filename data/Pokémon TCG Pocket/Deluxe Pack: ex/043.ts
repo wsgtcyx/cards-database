@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/043",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/043",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/043",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/043"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/043",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/043"
 	},
 	name: {
 		en: "Dhelmise ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Moruda-ex",
 		"pt-br": "Dhelmise ex",
 		"zh-tw": "破破舵輪ex",
-		ja: "ダダリンex"
+		ja: "ダダリンex",
+		ko: "타타륜 ex"
 	},
 	illustrator: "PLANETA Tsuji",
 	rarity: "Four Diamond",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/199",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/199",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/199",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/199"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/199",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/199"
     },
     name: {
         en: "Hoopa ex",
@@ -41,7 +42,8 @@ const card: Card = {
                 "zh-tw": "暗影子彈",
                 "it": "Dardombra",
                 "de": "Schattenkugel",
-                ja: "シャドーバレット"
+                ja: "シャドーバレット",
+                ko: "섀도불릿"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
-                ja: "相手のベンチポケモン1匹にも20ダメージ。"
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             },
             damage: 30
         },
@@ -65,7 +68,8 @@ const card: Card = {
                 de: "Dynamitstoß",
                 "pt-br": "Soco Dinamite",
                 "zh-tw": "炸藥拳",
-                ja: "ダイナマイトパンチ"
+                ja: "ダイナマイトパンチ",
+                ko: "다이너마이트 펀치"
             },
             effect: {
                 en: "This Pokémon also does 20 damage to itself.",
@@ -75,7 +79,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到20點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             },
             damage: 100
         }

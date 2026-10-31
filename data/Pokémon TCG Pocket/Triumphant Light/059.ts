@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/059"
     },
     name: {
         en: "Bronzong",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Bronzor",
         "zh-tw": "銅鏡怪",
         ja: "ドーミラー",
+        ko: "동미러",
     },
     description: {
         en: "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/041",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/041"
     },
     name: {
         en: "Dugtrio",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dugtrio",
         "zh-tw": "三地鼠",
         ja: "ダグトリオ",
+        ko: "닥트리오",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Diglett",
         "zh-tw": "地鼠",
         ja: "ディグダ",
+        ko: "디그다",
     },
     description: {
         en: "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine drei Köpfe bewegen sich einzeln auf und ab\nLockern Sie den Boden in der Nähe, um ihn leichter zu machen\ngraben.",
         "pt-br": "Suas três cabeças balançam separadamente para cima e para baixo\nafrouxe o solo próximo, facilitando\npara cavar.",
         "zh-tw": "它的三個頭分別上下擺動\n鬆動附近的土壤，使其更容易生長\n挖洞。",
-        ja: "３つの 頭が 互い違いに 動くのは まわりの 土を 柔らかくして 掘りやすくするため。"
+        ja: "３つの 頭が 互い違いに 動くのは まわりの 土を 柔らかくして 掘りやすくするため。",
+        ko: "3개의 머리가 교차하며\n움직이는 것은 주변의 흙을\n부드럽게 해 파기 쉽게 하기 위해서다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Cliff Crumbler",
                 "pt-br": "Desintegrador de Penhascos",
                 "zh-tw": "懸崖破碎者",
-                ja: "がけくずし"
+                ja: "がけくずし",
+                ko: "절벽허물기"
             },
             damage: "40+",
             cost: ["Fighting"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Lege die oberste Karte deines Decks ab. Wenn es sich bei dieser Karte um ein {F}-Pokémon handelt, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Descarte a carta do topo do seu baralho. Se aquela carta for um Pokémon {F}, este ataque causa 60 de dano a mais.",
                 "zh-tw": "棄掉你牌組最上面的牌。如果該卡是{F}神奇寶貝，則此攻擊造成的傷害增加 60 點。",
-                ja: "自分の山札を上から1枚トラッシュし、そのカードが{F}ポケモンなら、60ダメージ追加。"
+                ja: "自分の山札を上から1枚トラッシュし、そのカードが{F}ポケモンなら、60ダメージ追加。",
+                ko: "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 {F}포켓몬이라면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

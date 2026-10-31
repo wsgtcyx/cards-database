@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/226",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/226",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/226"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/226",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/226"
     },
     name: {
         en: "Nidoran♂",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Nidoran♂",
         "zh-tw": "尼多朗",
         ja: "ニドラン♂",
+        ko: "니드런♂",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Das Horn auf der Stirn eines männlichen Nidoraners enthält\nein starkes Gift. Das ist sehr vorsichtig\nPokémon, das immer seine großen Ohren anstrengt.",
         "pt-br": "O chifre na testa de um Nidoran masculino contém\num veneno poderoso. Esta é uma atitude muito cautelosa\nPokémon, sempre esticando suas orelhas grandes.",
         "zh-tw": "雄性尼多蘭額頭上的角含有\n一種強力的毒藥。這是一個非常謹慎的\n總是豎起大耳朵的神奇寶貝。",
-        ja: "額の ツノには 猛毒がある。 警戒心が 強く 大きな 耳を つねに そばだてている。"
+        ja: "額の ツノには 猛毒がある。 警戒心が 強く 大きな 耳を つねに そばだてている。",
+        ko: "이마의 뿔에는 맹독이 있다.\n경계심이 강해서 커다란\n귀를 늘 쫑긋 세우고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Picken",
                 "pt-br": "Peck",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 20,
             cost: ["Darkness"]

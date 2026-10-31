@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/070"
     },
     name: {
         en: "Traveling Merchant",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Reisende Händlerin",
         "pt-br": "Mercadora Viajante",
         "zh-tw": "旅行商人",
-        ja: "旅の行商人"
+        ja: "旅の行商人",
+        ko: "여행하는 행상인"
     },
     illustrator: "GOSSAN",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Schauen Sie sich die obersten 4 Karten Ihres Decks an. Nimm alle Pokémon-Ausrüstungskarten, die du dort findest, auf deine Hand. Mische die anderen Karten zurück in deinen Stapel.",
         "pt-br": "Veja as 4 primeiras cartas do seu baralho. Coloque em sua mão todas as cartas de Ferramentas Pokémon que encontrar. Embaralhe as outras cartas de volta no seu baralho.",
         "zh-tw": "查看你牌組頂的 4 張牌。將在那裡找到的所有神奇寶貝工具卡放入手牌。將其他牌洗回你的牌庫中。",
-        ja: "自分の山札を上から4枚見て、その中から「ポケモンのどうぐ」をすべて手札に加える。残りのカードは山札にもどす。"
+        ja: "自分の山札を上から4枚見て、その中から「ポケモンのどうぐ」をすべて手札に加える。残りのカードは山札にもどす。",
+        ko: "자신의 덱을 위에서부터 4장 보고 그 중에서 「포켓몬의 도구」를 모두 패로 가져온다. 남은 카드는 덱으로 되돌린다."
     },
     trainerType: "Supporter"
 };

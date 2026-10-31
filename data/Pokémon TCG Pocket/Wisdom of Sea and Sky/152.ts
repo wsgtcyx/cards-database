@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/152",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/152",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/152",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/152"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/152",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/152"
     },
     name: {
         en: "Squirt Bottle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Regador Squirtle",
         "zh-tw": "傑尼龜噴壺",
         ja: "ゼニガメじょうろ",
+        ko: "꼬부기물뿌리개",
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wirf eine {R}-Energie vom Aktiven Pokémon deines Gegners ab.",
         "pt-br": "Descarte uma Energia {R} do Pokémon Ativo do seu oponente.",
         "zh-tw": "丟棄對手的活躍神奇寶貝的 {R} 能量。",
-        ja: "相手のバトルポケモンから{R}エネルギーを1個トラッシュ。"
+        ja: "相手のバトルポケモンから{R}エネルギーを1個トラッシュ。",
+        ko: "상대의 배틀 포켓몬에서 {R}에너지를 1개 트래쉬한다."
     },
     trainerType: "Item",
     boosters: ["lugia"]

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/099"
     },
     name: {
         en: "Toxtricity ex",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Toxel",
         "zh-tw": "毒電嬰",
         ja: "エレズン",
-        ko: "Toxel"
+        ko: "일레즌"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Faísca Nociva",
                 "zh-tw": "傷害電光",
                 ja: "ダメージスパーク",
-                ko: "Damaging Spark"
+                ko: "데미지스파크"
             },
             damage: 90,
             cost: [
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 30 pontos de dano a cada um dos Pokémon no Banco do seu oponente que estiver danificado.",
                 "zh-tw": "對手有受到傷害的所有備戰寶可夢也受到30點傷害。",
                 ja: "ダメージを受けている相手のベンチポケモン全員にも30ダメージ。",
-                ko: "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+                ko: "데미지를 받고 있는 상대의 벤치 포켓몬 전원에게도 30데미지를 준다."
             }
         }
     ],

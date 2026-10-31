@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/004"
     },
     name: {
         en: "Steenee",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Steenee",
         "zh-tw": "甜舞妮",
         ja: "アママイコ",
+        ko: "달무리나",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
         ja: "アマカジ",
+        ko: "달콤아",
     },
     description: {
         en: "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Steenee verbreitet einen süßen Duft\nsorgt dafür, dass sich andere gestärkt fühlen. Das Gleiche\nDuft ist für Antitranspirantien beliebt.",
         "pt-br": "Steenee espalha um perfume doce que\nfaz os outros se sentirem revigorados. Este mesmo\nperfume é popular para antitranspirantes.",
         "zh-tw": "Steene 散發出甜美的香氣\n讓別人感到精神振奮。這個同樣的\n香味在止汗劑中很受歡迎。",
-        ja: "元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。"
+        ja: "元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。",
+        ko: "기운이 솟을 것만 같은\n달콤한 향기를 흩뿌린다.\n땀 억제제의 향료로 인기가 좋다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blattschritt",
                 "pt-br": "Passo Folha",
                 "zh-tw": "葉步",
-                ja: "リーフステップ"
+                ja: "リーフステップ",
+                ko: "리프스텝"
             },
             damage: 40,
             cost: ["Grass"]

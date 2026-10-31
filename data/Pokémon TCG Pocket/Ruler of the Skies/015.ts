@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/015",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/015",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/015"
     },
     name: {
         en: "Dhelmise",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Im Meer wirft es seinen Anker aus und legt sich\nauf die Lauer. Es fängt sich möglichst große Beute\nwie Wailord und saugt ihr die Lebensenergie aus.",
         "pt-br": "Depois de lançar sua âncora, espera por sua presa. Pega Wailord grandes e drena suas forças vitais.",
         "zh-tw": "把錨拋到海裡，伏擊獵物。\n會去捕捉巨大的吼鯨王，\n吸取牠們的精氣。",
-        ja: "海に 錨を 下して 獲物を 待ち伏せ。 大物の ホエルオーを 捕まえて 生気を 吸い取る。"
+        ja: "海に 錨を 下して 獲物を 待ち伏せ。 大物の ホエルオーを 捕まえて 生気を 吸い取る。",
+        ko: "바다에 닻을 내려 먹이를\n기다린다. 몸집이 큰 고래왕을\n잡아 생기를 빨아들인다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rundumangriff",
                 "pt-br": "Ataque Giratório",
                 "zh-tw": "迴轉攻擊",
-                ja: "かいてんアタック"
+                ja: "かいてんアタック",
+                ko: "회전어택"
             },
             damage: 70
         }

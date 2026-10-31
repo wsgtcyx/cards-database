@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/069"
     },
     name: {
         en: "Shaymin",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Solange sich dieses Pokémon auf deiner Bank befindet, verringern sich die Rückzugskosten deines Aktiven Basis-Pokémon um 1.",
                 'pt-br': "Enquanto este Pokémon estiver no seu Banco, o custo de Recuo do seu Pokémon Básico Ativo será 1 a menos.",
                 ja: "このポケモンがベンチにいるかぎり、自分のバトル場のたねポケモンのにげるためのエネルギーを、1個少なくする。",
-                ko: "이 포켓몬이 벤치에 있는 한, 자신의 배틀필드의 Basic Pokémon기본 포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다.",
+                ko: "이 포켓몬이 벤치에 있는 한, 자신의 배틀필드의 기본 포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다.",
                 "zh-tw": "只要這只神奇寶貝在你的替補席上，你的活躍基礎神奇寶貝的撤退成本就會減少 1。"
             }
         }],

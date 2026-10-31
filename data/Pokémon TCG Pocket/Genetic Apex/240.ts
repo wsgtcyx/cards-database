@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/240",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/240",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/240",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/240"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/240",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/240"
     },
     name: {
         en: "Nidoqueen",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Nidorina",
         "pt-br": "Nidorina",
         "zh-tw": "尼多娜",
-        ja: "ニドリーナ"
+        ja: "ニドリーナ",
+        ko: "니드리나"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],

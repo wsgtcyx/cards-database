@@ -9,6 +9,34 @@ import { fileURLToPath } from 'node:url'
 import { normalizeRaenonxName } from './normalize-raenonx-name.mjs'
 import { renderLocalizedTemplate, indexNames } from './sync-raenonx-b4.mjs'
 
+for (const [name, particle, expected] of [
+	['피카츄', '이/가', '가'], ['잠만보', '을/를', '를'], ['독', '으로/로', '으로'],
+	['강철', '으로/로', '로'], ['물', '으/', ''], ['화상', 'eun_neun', '은'], ['마비', 'eu_', ''],
+	['아르세우스 ex', '이/가', '가'], ['니드런♂', '을/를', '을'],
+]) test(`Korean particle ${name} ${particle}`, () => {
+	const maps = { cardEnglishNames: indexNames({ '1': 'Test' }), targetMaster: { Card: { Name: { '1': name } } } }
+	assert.equal(renderLocalizedTemplate('[Text:CardName id="0"]', 'Test', `「[Text:CardName id="0"]」[Gr:Patchim v="${particle}"]`, 'ko', 'particle', maps), `「${name}」${expected}`)
+})
+
+test('template literal words do not split the middle of a card name', () => {
+	const maps = { cardEnglishNames: indexNames({ '1': 'Tandemaus', '2': 'Maushold' }), targetMaster: { Card: { Name: { '1': '두리쥐', '2': '파밀리쥐' } } } }
+	assert.equal(renderLocalizedTemplate('Choose [Text:CardName id="0"] and [Text:CardName id="1"].', 'Choose Tandemaus and Maushold.', '「[Text:CardName id="0"]」[Gr:Patchim v="과/와"] 「[Text:CardName id="1"]」', 'ko', 'card names', maps), '「두리쥐」와 「파밀리쥐」')
+	assert.equal(renderLocalizedTemplate('A [Img:Element id="0"].', 'A {W}.', '[Img:Element id="0"][Gr:Patchim v="으로/로"]', 'ko', 'energy', { energyEnglishNames: indexNames({ '4': 'Water' }), targetMaster: { EnergyType: { '4': '물' } }, messages: { target: { Game: { Master: { EnergyType: { '4': '물' } } } } } }), '{W}로')
+})
+
+test('Korean renderer rejects unknown pronunciation and missing localized references', () => {
+	const maps = { cardEnglishNames: indexNames({ '1': 'Test' }), targetMaster: { Card: { Name: { '1': 'UNKNOWN' } } } }
+	assert.throws(() => renderLocalizedTemplate('[Text:CardName id="0"]', 'Test', '[Text:CardName id="0"][Gr:Patchim v="이/가"]', 'ko', 'particle', maps), /Unresolved Korean particle/)
+	maps.targetMaster.Card.Name = {}
+	assert.throws(() => renderLocalizedTemplate('[Text:CardName id="0"]', 'Test', '[Text:CardName id="0"]', 'ko', 'missing name', maps), /Missing ko card name/)
+	assert.equal(renderLocalizedTemplate('Draw [Num:Int plural_only=" "][Gr:Count s="a card" p="cards"].', 'Draw a card.', '덱에서 [Num:Int id="0"]장 뽑는다.', 'ko', 'count', {}), '덱에서 1장 뽑는다.')
+})
+
+test('Korean names retain native spacing and ordered choices retain circled markers', () => {
+	for (const [source, expected] of [['알로라식스테일', '알로라 식스테일'], ['로켓단의니드킹', '로켓단의 니드킹'], ['오리진디아루가 ex', '오리진 디아루가 ex'], ['오거폰우물의 가면 ex', '오거폰 우물의 가면 ex'], ['폴리곤Z[Gr:Pron v="폴리곤제트"]', '폴리곤Z']]) assert.equal(normalizeRaenonxName('ko', source), expected)
+	assert.equal(renderLocalizedTemplate('Choose.', 'Choose.', '고른다.[Ctrl:OL][Ctrl:LI]하나.[/Ctrl:LI][Ctrl:LI]둘.[/Ctrl:LI][/Ctrl:OL]', 'ko', 'choices', {}), '고른다. ① 하나. ② 둘.')
+})
+
 test('game card-ID name tokens retain the localized card identity', () => {
 	const template = 'Search for [Text:CardNameByCardID id="0"].'
 	const maps = {

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/316",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/316",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/316",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/316"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/316",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/316"
 	},
 	name: {
 		en: "Pokémon Communication",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Pokémon-Kommunikation",
 		"pt-br": "Comunicação Pokémon",
 		"zh-tw": "寶可夢通信",
-		ja: "ポケモン通信"
+		ja: "ポケモン通信",
+		ko: "포켓몬통신"
 	},
 	illustrator: "Ayaka Yoshida",
 	rarity: "Two Diamond",

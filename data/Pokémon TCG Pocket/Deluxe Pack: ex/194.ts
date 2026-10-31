@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/194",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/194",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/194",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/194"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/194",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/194"
     },
     name: {
         en: "Cubone",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
         ja: "カラカラ",
+        ko: "탕구리",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn die Erinnerung an seine verstorbene Mutter weckt\nes zu Tränen, seine Schreie hallen traurig im Inneren wider\nTotenkopf, den es auf dem Kopf trägt.",
         "pt-br": "Quando a memória de sua falecida mãe traz\naté as lágrimas, seus gritos ecoam tristemente dentro do\ncaveira que usa na cabeça.",
         "zh-tw": "當對已故母親的記憶帶來\n它流淚，它的哭聲在天地裡悲哀地迴響\n它頭上戴著的頭骨。",
-        ja: "死に別れた 母親を 思い出し 泣くと 頭に 被った 骨の 中で 物悲しく 響くのだ。"
+        ja: "死に別れた 母親を 思い出し 泣くと 頭に 被った 骨の 中で 物悲しく 響くのだ。",
+        ko: "죽은 어머니를 떠올리며 울면\n머리에 쓴 뼈 안에서\n울음소리가 구슬프게 퍼진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Knurren",
                 "pt-br": "Rosnar",
                 "zh-tw": "咆哮",
-                ja: "なきごえ"
+                ja: "なきごえ",
+                ko: "울음소리"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

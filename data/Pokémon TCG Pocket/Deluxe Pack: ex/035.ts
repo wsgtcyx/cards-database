@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/035"
     },
     name: {
         en: "Servine",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Servine",
         "zh-tw": "青藤蛇",
         ja: "ジャノビー",
+        ko: "샤비",
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Snivy",
         "zh-tw": "藤藤蛇",
         ja: "ツタージャ",
+        ko: "주리비얀",
     },
     description: {
         en: "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es bewegt sich über den Boden, als würde es gleiten. Es ist schnell\nBewegungen verwirren ihre Feinde und greifen dann an\nmit einer Weinpeitsche.",
         "pt-br": "Ele se move pelo chão como se estivesse deslizando. É rápido\nmovimentos confundem seus inimigos e então ataca\ncom um chicote de videira.",
         "zh-tw": "它沿著地面移動，就像滑動一樣。其速度之快\n動作迷惑敵人，然後攻擊\n用藤鞭。",
-        ja: "地面を 滑るように 走る。 素早い 動きで 敵を まどわせ つるのムチで しとめるのだ。"
+        ja: "地面を 滑るように 走る。 素早い 動きで 敵を まどわせ つるのムチで しとめるのだ。",
+        ko: "땅을 미끄러지듯 달린다.\n빠른 움직임으로 상대를 혼란시키고\n덩굴채찍으로 꼼짝 못하게 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
                 "zh-tw": "藤鞭",
-                ja: "つるのムチ"
+                ja: "つるのムチ",
+                ko: "덩굴채찍"
             },
             damage: 50,
             cost: ["Grass", "Colorless"]

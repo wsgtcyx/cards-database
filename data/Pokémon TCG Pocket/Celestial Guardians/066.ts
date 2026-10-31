@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/066",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/066"
     },
     name: {
         en: "Oricorio",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon-{ex} deines Gegners zugefügt wird.",
                 'pt-br': "Previna todo o dano causado a este Pokémon por ataques dos Pokémon {ex} do seu oponente.",
                 ja: "このポケモンは、相手の「ポケモンex」からワザのダメージを受けない。",
-                ko: "이 포켓몬은 상대의 「포켓몬 {ex}」로부터 기술의 데미지를 받지 않는다.",
+                ko: "이 포켓몬은 상대의 「포켓몬 ex」로부터 기술의 데미지를 받지 않는다.",
                 "zh-tw": "防止對手前神奇寶貝的攻擊對該神奇寶貝造成的所有傷害。"
             }
         }],

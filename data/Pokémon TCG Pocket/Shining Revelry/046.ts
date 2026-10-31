@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/046"
     },
     name: {
         en: "Arbok",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Rettan",
         "pt-br": "Ekans",
         "zh-tw": "阿柏蛇",
-        ja: "アーボ"
+        ja: "アーボ",
+        ko: "아보"
     },
     description: {
         en: "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",

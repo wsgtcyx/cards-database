@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/024"
     },
     name: {
         en: "Phantump",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
         ja: "ボクレー",
+        ko: "나목령",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit einer Stimme wie die eines Menschenkindes schreit es\nlocken Erwachsene tief in den Wald und verirren sie\nzwischen den Bäumen.",
         "pt-br": "Com uma voz como a de uma criança humana, clama para\natrair adultos para as profundezas da floresta, fazendo com que eles se percam\nentre as árvores.",
         "zh-tw": "它用像人類孩子一樣的聲音呼喊著\n引誘成年人進入森林深處，讓他們迷路\n樹木之間。",
-        ja: "人間の 子どもに 似た 声で 鳴いて 大人を 森の 奥へ 誘い込み 迷わせて しまうのだ。"
+        ja: "人間の 子どもに 似た 声で 鳴いて 大人を 森の 奥へ 誘い込み 迷わせて しまうのだ。",
+        ko: "인간의 어린이를 닮은 목소리로\n울어 어른을 숲속으로\n유인하여 길을 잃게 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
                 "zh-tw": "幽靈射擊",
-                ja: "ホロウショット"
+                ja: "ホロウショット",
+                ko: "홀로숏"
             },
             damage: 30,
             cost: ["Psychic", "Colorless"]

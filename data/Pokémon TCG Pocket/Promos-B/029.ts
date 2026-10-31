@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/029"
     },
     name: {
         en: "Mega Medicham ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Chakrafaust",
                 "pt-br": "Punho de Chakra",
                 "zh-tw": "脈輪拳",
-                ja: "チャクラフィスト"
+                ja: "チャクラフィスト",
+                ko: "차크라피스트"
             },
             effect: {
                 en: "If this Pokémon has any {P} Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon {P}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu. Der Schaden dieses Angriffs wird nicht durch Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "Se este Pokémon tiver alguma Energia {P} anexada, este ataque causará 40 de dano a mais. O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
                 "zh-tw": "如果這隻寶可夢附加了任何{P}能量，則該攻擊造成的傷害增加 40 點。這次攻擊的傷害不受對手的活躍寶可夢的任何效果影響。",
-                ja: "このポケモンに{P}エネルギーがついているなら、40ダメージ追加。このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+                ja: "このポケモンに{P}エネルギーがついているなら、40ダメージ追加。このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。",
+                ko: "이 포켓몬에게 {P}에너지가 붙어 있다면 40데미지를 추가한다. 이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다."
             },
             damage: "100+"
         }

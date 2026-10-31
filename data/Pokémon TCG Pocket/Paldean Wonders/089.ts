@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/089"
     },
     name: {
         en: "Iono",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/101",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/101"
     },
     name: {
         en: "Aerodactyl ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Aerodactyl ex",
         "zh-tw": "化石翼龍ex",
         ja: "プテラex",
+        ko: "프테라 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",
@@ -35,6 +37,7 @@ const card: Card = {
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
         ja: "ひみつのコハク",
+        ko: "비밀의호박",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Urgesetz",
                 "pt-br": "Lei Primordial",
                 "zh-tw": "原始法則",
-                ja: "げんしのさだめ"
+                ja: "げんしのさだめ",
+                ko: "원시의결정"
             },
             effect: {
                 en: "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dein Gegner kann kein Pokémon aus seiner Hand spielen, um sein Aktives Pokémon weiterzuentwickeln.",
                 "pt-br": "Seu oponente não pode jogar nenhum Pokémon da mão dele para evoluir seu Pokémon Ativo.",
                 "zh-tw": "你的對手不能使用手中的任何神奇寶貝來進化他們的活躍神奇寶貝。",
-                ja: "このポケモンがいるかぎり、相手は手札からポケモンを出して、バトルポケモンを進化させられない。"
+                ja: "このポケモンがいるかぎり、相手は手札からポケモンを出して、バトルポケモンを進化させられない。",
+                ko: "이 포켓몬이 있는 한, 상대는 패에서 포켓몬을 꺼내서 배틀 포켓몬을 진화시킬 수 없다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Land Crush",
                 "pt-br": "Esmagamento terrestre",
                 "zh-tw": "土地擠壓",
-                ja: "ランドクラッシュ"
+                ja: "ランドクラッシュ",
+                ko: "랜드크래시"
             },
             damage: 80,
             cost: ["Fighting", "Colorless"]

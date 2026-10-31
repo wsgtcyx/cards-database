@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/094"
     },
     name: {
         en: "Lapras",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Lapras",
         "pt-br": "Lapras",
         "zh-tw": "拉普拉斯",
-        ja: "ラプラス"
+        ja: "ラプラス",
+        ko: "라프라스"
     },
     illustrator: "Nelnal",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein kluges und gutherziges Pokémon,\nes gleitet dabei über die Meeresoberfläche\nSein wunderschönes Lied hallt um ihn herum wider.",
         "pt-br": "Um Pokémon inteligente e de bom coração,\nele desliza pela superfície do mar enquanto\nsua bela canção ecoa ao seu redor.",
         "zh-tw": "聰明又善良的寶可夢，\n它滑過海面，同時\n它優美的歌聲在周圍迴響。",
-        ja: "賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。"
+        ja: "賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。",
+        ko: "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Hydropumpe",
                 "pt-br": "Bomba Hidro",
                 "zh-tw": "液壓泵",
-                ja: "ハイドロポンプ"
+                ja: "ハイドロポンプ",
+                ko: "하이드로펌프"
             },
             damage: "20+",
             cost: ["Water"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon mindestens 3 zusätzliche {W}-Energien angelegt sind, fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 3 energias {W} extras anexadas, este ataque causará 70 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊造成的傷害增加 70 點。",
-                ja: "追加で{W}エネルギーが3個ついているなら、70ダメージ追加。"
+                ja: "追加で{W}エネルギーが3個ついているなら、70ダメージ追加。",
+                ko: "{W}에너지 3개가 추가로 붙어 있다면 70데미지를 추가한다."
             }
         }],
     weaknesses: [{

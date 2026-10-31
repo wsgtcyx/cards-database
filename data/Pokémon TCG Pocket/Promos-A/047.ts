@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/047"
     },
     name: {
         en: "Staraptor",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Staravia",
         "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
-        ja: "ムクバード"
+        ja: "ムクバード",
+        ko: "찌르버드"
     },
     description: {
         en: "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",

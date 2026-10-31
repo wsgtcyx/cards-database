@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/324",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/324",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/324",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/324"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/324",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/324"
     },
     name: {
         en: "Passimian ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Passimian ex",
         "zh-tw": "投擲猴ex",
         ja: "ナゲツケサルex",
+        ko: "내던숭이 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Offload-Pass",
                 "pt-br": "Passe de descarregamento",
                 "zh-tw": "卸載通行證",
-                ja: "オフロードパス"
+                ja: "オフロードパス",
+                ko: "오프로드 패스"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all {F} Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, verschiebe alle {F}-Energien von diesem Pokémon auf 1 deiner Pokémon auf der Bank.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, mova todas as Energias {F} deste Pokémon para 1 dos seus Pokémon no Banco.",
                 "zh-tw": "如果這只神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則將該神奇寶貝的所有 {F} 能量移至你後備的 1 只神奇寶貝。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、このポケモンから{F}エネルギーをすべて、ベンチポケモン1匹につけ替える。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、このポケモンから{F}エネルギーをすべて、ベンチポケモン1匹につけ替える。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 이 포켓몬에서 {F}에너지를 모두 벤치 포켓몬 1마리에게 바꿔 붙인다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Seismischer Wurf",
                 "pt-br": "Lançamento Sísmico",
                 "zh-tw": "地震拋擲",
-                ja: "ちきゅうなげ"
+                ja: "ちきゅうなげ",
+                ko: "지구던지기"
             },
             damage: 60,
             cost: ["Fighting", "Colorless"]
@@ -70,6 +75,9 @@ const card: Card = {
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/015"
     },
     name: {
         en: "Wingull",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es nutzt den Seewind, um wie ein Segelflugzeug durch die Lüfte zu gleiten. Im Winter versteckt es Nahrung bei seinem Nest.",
         "pt-br": "Pega carona com os ventos oceânicos como se fosse um planador. No inverno, esconde alimento ao redor do seu ninho.",
         "zh-tw": "會迎著海風如滑翔機般滑翔。到了冬天就會將食物藏在巢的周圍。",
-        ja: "海風を 受けて グライダーのように 滑空する。 冬になると 巣の まわりに エサを 隠す。"
+        ja: "海風を 受けて グライダーのように 滑空する。 冬になると 巣の まわりに エサを 隠す。",
+        ko: "바닷바람을 타고 글라이더처럼 활공한다.\n겨울이 되면 둥지 주변에 먹이를 숨긴다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Flattern",
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
-                ja: "はばたく"
+                ja: "はばたく",
+                ko: "홰치기"
             },
             damage: 10
         }

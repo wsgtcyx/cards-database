@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/110",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/110",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/110"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/110",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/110"
     },
     name: {
         en: "Yamask",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Yamask",
         "zh-tw": "哭哭面具",
         ja: "デスマス",
+        ko: "데스마스",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Geist eines Menschen aus einer vergangenen Zeit wurde\ndieses Pokémon. Es streift suchend durch Ruinen\nfür jemanden, der sein Gesicht kennt.",
         "pt-br": "O espírito de uma pessoa de uma época passada tornou-se\neste Pokémon. Ele vagueia pelas ruínas, procurando\npara alguém que conhece seu rosto.",
         "zh-tw": "一個人的精神從過去的時代變成了\n這只神奇寶貝。它在廢墟中漫步，尋找\n對於認識它面孔的人來說。",
-        ja: "古代人の 魂が ポケモンに なった。 自分の 顔を 知る 人を 探し 遺跡を さまよう。"
+        ja: "古代人の 魂が ポケモンに なった。 自分の 顔を 知る 人を 探し 遺跡を さまよう。",
+        ko: "고대인의 영혼이 포켓몬이 되어\n태어났다. 자신의 얼굴을 아는\n사람을 찾아 유적을 떠돈다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Murmeln",
                 "pt-br": "Resmungar",
                 "zh-tw": "咕噥",
-                ja: "つぶやく"
+                ja: "つぶやく",
+                ko: "중얼거리기"
             },
             damage: 20,
             cost: ["Psychic"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

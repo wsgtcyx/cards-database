@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/074",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/074"
     },
     name: {
         en: "Drifblim",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
         ja: "フワンテ",
+        ko: "흔들풍손",
     },
     description: {
         en: "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",

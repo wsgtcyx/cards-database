@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/116",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/116",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/116"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/116",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/116"
 	},
 	name: {
 		en: "Shaymin",
@@ -19,7 +20,8 @@ const card: Card = {
 		de: "Shaymin",
 		"pt-br": "Shaymin",
 		"zh-tw": "謝米",
-		ja: "シェイミ"
+		ja: "シェイミ",
+		ko: "쉐이미"
 	},
 	illustrator: "Sekio",
 	rarity: "Three Diamond",

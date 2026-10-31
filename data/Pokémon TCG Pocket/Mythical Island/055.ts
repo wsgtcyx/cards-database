@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/055",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/055"
     },
     name: {
         en: "Scolipede",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Whirlipede",
         "zh-tw": "車輪毬",
         ja: "ホイーガ",
+        ko: "휠구",
     },
     description: {
         en: "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",

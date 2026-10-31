@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/079",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/079"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/079",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/079"
     },
     name: {
         en: "Beedrill ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kokuna",
         "pt-br": "Kakuna",
         "zh-tw": "鐵殼蛹",
-        ja: "コクーン"
+        ja: "コクーン",
+        ko: "딱충이"
     },
     stage: "Stage2",
     suffix: "EX",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/071",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/071",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/071"
     },
     name: {
         en: "Ralts",
@@ -38,7 +39,8 @@ const card: Card = {
         "de": "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas e Pokémon. Esconde-se se pressentir hostilidade.",
         "zh-tw": "能敏銳地感知人和寶可夢\n的感情，一旦感受到敵意\n就會躲進暗處。",
-        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。",
+        ko: "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Führen",
                 "pt-br": "Liderar",
                 "zh-tw": "引路",
-                ja: "みちびく"
+                ja: "みちびく",
+                ko: "인도하기"
             },
             effect: {
                 en: "Put a random Supporter card from your deck into your hand.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Nimm eine zufällige Unterstützerkarte aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque 1 carta de Apoiador aleatória do seu baralho na sua mão.",
                 "zh-tw": "從自己的牌庫隨機將1張支援者卡加入手牌。",
-                ja: "自分の山札からサポートをランダムに1枚、手札に加える。"
+                ja: "自分の山札からサポートをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 서포트를 랜덤으로 1장 패로 가져온다."
             }
         }
     ],

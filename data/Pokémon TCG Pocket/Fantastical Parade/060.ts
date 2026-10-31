@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/060"
     },
     name: {
         en: "Wobbuffet",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Woingenau",
         "pt-br": "Wobbuffet",
         "zh-tw": "果然翁",
-        ja: "ソーナンス"
+        ja: "ソーナンス",
+        ko: "마자용"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Um seinen pechschwarzen Schwanz zu verbergen, lebt er ruhig\nin der Dunkelheit. Es ist nie der Erste, anzugreifen.",
         "pt-br": "Para manter sua cauda preta escondida, ele vive em silêncio\nna escuridão. Nunca é o primeiro a atacar.",
         "zh-tw": "為了隱藏漆黑的尾巴，它安靜地生活著\n在黑暗中。它永遠不會首先進攻。",
-        ja: "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。"
+        ja: "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。",
+        ko: "새까만 꼬리를 숨기기 위해\n어둠 속에서 은밀히 지내고 있다.\n자신이 먼저 공격하는 일은 없다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Umdrehen",
                 "pt-br": "Virar",
                 "zh-tw": "翻轉",
-                ja: "おきあがりアタック"
+                ja: "おきあがりアタック",
+                ko: "기상어택"
             },
             damage: 80,
             cost: ["Psychic", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

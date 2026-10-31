@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/033"
     },
     name: {
         en: "Enamorus",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es von jenseits des Meeres in dieses Land fliegt, geht der bittere Winter zu Ende. Der Legende nach lässt die Liebe dieses Pokémon in ganz Hisui neues Leben entstehen.",
         "pt-br": "Quando ele voa para esta terra vindo do outro lado do mar, o inverno rigoroso chega ao fim. Segundo a lenda, o amor deste Pokémon dá origem ao surgimento de uma nova vida em Hisui.",
         "zh-tw": "當它從大洋彼岸飛到這片土地時，嚴冬就結束了。根據傳說，這隻寶可夢的愛讓整個翡翠島萌芽了新的生命。",
-        ja: "海を越えて 飛来したらば 厳しき冬の 終わりを知る。 慈愛が ヒスイの地に 新しき命 芽吹かせるとの 伝承あり。"
+        ja: "海を越えて 飛来したらば 厳しき冬の 終わりを知る。 慈愛が ヒスイの地に 新しき命 芽吹かせるとの 伝承あり。",
+        ko: "바다를 건너 날아와 혹독한 겨울의 끝을 알린다.\n자애로움이 히스이 땅에 새로운 생명을\n싹틔우게 했다는 전승이 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Geschlagener Schlag",
                 "pt-br": "Golpe Ferido",
                 "zh-tw": "愛的一擊",
-                ja: "あいのいちげき"
+                ja: "あいのいちげき",
+                ko: "사랑의일격"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 60 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon und das Aktive Pokémon deines Gegners 1 oder mehr Energien desselben Typs angelegt sind, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem 1 ou mais Energias do mesmo tipo ligadas, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果這隻寶可夢和對手的活躍寶可夢附加了 1 個或更多相同類型的能量，則此攻擊造成的傷害增加 60 點。",
-                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、60ダメージ追加。"
+                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、60ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 타입과 상대 배틀 포켓몬의 에너지의 타입이 1종류 이상 같으면 60데미지를 추가한다."
             },
             damage: "60+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/059"
     },
     name: {
         en: "Zekrom",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Viele Mythen besingen den Donner, mit dem es\ndie Welt vernichten wird, wenn die Menschen\nden Sinn für die Gerechtigkeit verlieren.",
         "pt-br": "A mitologia nos diz que se as pessoas perderem a justiça em seus corações, seus reinos serão arrasados ​​pelos raios de Zekrom.",
         "zh-tw": "在神話的敘述裡，如果人類\n失去了正義之心，牠就會用\n狂暴的雷電毀滅他們的王國。",
-        ja: "人が 正しい 心を なくすと 激しい 雷を 落とし 国を 亡ぼすと 神話に 描かれた。"
+        ja: "人が 正しい 心を なくすと 激しい 雷を 落とし 国を 亡ぼすと 神話に 描かれた。",
+        ko: "사람이 올바른 마음을 잃으면\n격렬한 천둥으로 나라를\n멸망시킨다는 신화가 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Blitzschlag",
                 "pt-br": "Ataque de Raios",
                 "zh-tw": "雷擊",
-                ja: "らいげき"
+                ja: "らいげき",
+                ko: "뇌격"
             },
             effect: {
                 en: "Flip a coin. If tails, this Pokémon also does 30 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 30 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 30 de dano a si mesmo.",
                 "zh-tw": "拋一枚硬幣。如果是反面，這只寶可夢也會對自己造成 30 點傷害。",
-                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。"
+                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 30데미지를 준다."
             },
             damage: 110
         }

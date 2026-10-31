@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/309",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/309",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/309",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/309"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/309",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/309"
     },
     name: {
         en: "Golem",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Golem",
         "zh-tw": "隆隆岩",
         ja: "ゴローニャ",
+        ko: "딱구리",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
         ja: "ゴローン",
+        ko: "데구리",
     },
     description: {
         en: "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn Golems älter werden, hören sie auf, ihre Haare zu verlieren\nMuscheln. Diejenigen, die schon sehr lange gelebt haben\nhaben Muscheln, die grün mit Moos sind.",
         "pt-br": "Quando o Golem envelhece, ele para de se livrar de seus\nconchas. Aqueles que viveram muito, muito tempo\ntêm conchas verdes com musgo.",
         "zh-tw": "當傀儡變老時，他們會停止脫落\n貝殼。那些活了很久很久的人\n貝殼綠色，長滿青苔。",
-        ja: "年老いると 脱皮 しなくなる。 長く長く 生きた ゴローニャの カラは 苔むしていて 緑だ。"
+        ja: "年老いると 脱皮 しなくなる。 長く長く 生きた ゴローニャの カラは 苔むしていて 緑だ。",
+        ko: "나이가 들면 탈피를 하지 않는다.\n긴 세월을 산 딱구리의 껍질은\n이끼가 끼어 초록색이다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
                 "zh-tw": "守衛壓力機",
-                ja: "ガードプレス"
+                ja: "ガードプレス",
+                ko: "가드프레스"
             },
             damage: 120,
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

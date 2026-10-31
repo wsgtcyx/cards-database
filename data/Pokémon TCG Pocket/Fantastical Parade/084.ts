@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/084"
     },
     name: {
         en: "Medicham",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Meditalis",
         "pt-br": "Medicham",
         "zh-tw": "恰雷姆",
-        ja: "チャーレム"
+        ja: "チャーレム",
+        ko: "요가램"
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Meditie",
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
-        ja: "アサナン"
+        ja: "アサナン",
+        ko: "요가랑"
     },
     description: {
         en: "It elegantly avoids attacks with dance-like\nsteps, then launches a devastating blow in\nthe same motion.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es vermeidet elegant tänzerisch Angriffe\nSchritte, dann führt er einen verheerenden Schlag aus\ndie gleiche Bewegung.",
         "pt-br": "Ele elegantemente evita ataques com movimentos de dança\npassos, então lança um golpe devastador em\no mesmo movimento.",
         "zh-tw": "它以舞蹈般的方式優雅地躲避攻擊\n步，然後發動毀滅性的打擊\n同一個動作。",
-        ja: "ダンスの ような 優雅な 動きで 攻撃を 交わして 強烈な 一撃を 相手に お見舞いする。"
+        ja: "ダンスの ような 優雅な 動きで 攻撃を 交わして 強烈な 一撃を 相手に お見舞いする。",
+        ko: "춤추는 듯한 우아한 움직임으로\n공격을 피하며 상대에게\n강력한 일격을 선사한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Psychokick",
                 "pt-br": "Chute Psíquico",
                 "zh-tw": "心靈踢球",
-                ja: "サイコキック"
+                ja: "サイコキック",
+                ko: "사이코킥"
             },
             damage: "50+",
             cost: ["Fighting", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon {P}-Energie angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver alguma Energia {P} anexada, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝附加了任何{P}能量，則該攻擊造成的傷害增加 50 點。",
-                ja: "このポケモンに{P}エネルギーがついているなら、50ダメージ追加。"
+                ja: "このポケモンに{P}エネルギーがついているなら、50ダメージ追加。",
+                ko: "이 포켓몬에게 {P}에너지가 붙어 있다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

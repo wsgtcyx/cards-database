@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/170",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/170",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/170"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/170",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/170"
     },
     name: {
         en: "Lucario",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
         ja: "リオル",
+        ko: "리오르",
     },
     description: {
         en: "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",

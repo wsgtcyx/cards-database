@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/083"
     },
     name: {
         en: "Toxicroak",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es nähert sich springend seinem Gegner und\nbohrt seine giftigen Klauen in ihn hinein. Schon\nein kleiner Kratzer lässt den Gegner K.O. gehen.",
         "pt-br": "Ele salta em direção aos oponentes e os ataca com garras venenosas. Não é necessário mais do que um arranhão para nocautear seus adversários.",
         "zh-tw": "一躍而起接近敵人，\n用有毒的爪子狠抓對方！\n光是擦傷就能將對手ＫＯ。",
-        ja: "跳ねるように 敵に 近づくと 毒のツメで えぐるように 打つ！ かすり傷でも 相手は ＫＯだ。"
+        ja: "跳ねるように 敵に 近づくと 毒のツメで えぐるように 打つ！ かすり傷でも 相手は ＫＯだ。",
+        ko: "튀어 오르듯 상대에게 다가간 뒤\n독손톱으로 찌르듯이 공격한다!\n스치기만 해도 상대는 KO다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Gifthieb",
                 "pt-br": "Golpe Envenenado",
                 "zh-tw": "毒擊",
-                ja: "どくづき"
+                ja: "どくづき",
+                ko: "독찌르기"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 40
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/071"
     },
     name: {
         en: "Rhyperior",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Rhydon",
         "zh-tw": "鑽角犀獸",
         ja: "サイドン",
-        ko: "Rhydon"
+        ko: "코뿌리"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Pressão Terrestre",
                 "zh-tw": "大地重壓",
                 ja: "グラウンドプレス",
-                ko: "Earthen Press"
+                ko: "그라운드 프레스"
             },
             cost: [
                 "Fighting",
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "A carapaça resistente deste Pokémon o protege de erupções vulcânicas. Dispara pedras arredondadas pelos buracos em suas mãos.",
         "zh-tw": "堅固的鎧甲能在火山爆發時保護牠不受傷害，牠從手掌的孔洞發射圓形的岩石。",
         ja: "丈夫な プロテクターが 火山の 噴火から 身を 守る。 丸い 岩を 手の 穴から 撃ち出す。",
-        ko: "This Pokémon’s sturdy carapace protects it from volcanic eruptions. It shoots round rocks from the holes in its hands."
+        ko: "튼튼한 프로텍터가\n화산의 분화로부터 보호해 준다.\n둥근 바위를 손의 구멍에서 발사한다."
     }
 };
 

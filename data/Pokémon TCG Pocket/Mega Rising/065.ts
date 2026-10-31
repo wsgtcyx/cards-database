@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/065"
     },
     name: {
         en: "Seismitoad",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Seismitoad",
         "zh-tw": "蟾蜍王",
         ja: "ガマゲロゲ",
+        ko: "두빅굴",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Palpitoad",
         "zh-tw": "藍蟾蜍",
         ja: "ガマガル",
+        ko: "두까비",
     },
     description: {
         en: "This Pokémon is popular among the elderly,\nwho say the vibrations of its lumps are great\nfor massages.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist bei älteren Menschen beliebt,\ndie sagen, dass die Vibrationen seiner Klumpen großartig sind\nfür Massagen.",
         "pt-br": "Este Pokémon é popular entre os idosos,\nque dizem que as vibrações de seus pedaços são ótimas\npara massagens.",
         "zh-tw": "這個神奇寶貝很受老年人歡迎，\n誰說它的塊體振動很大\n用於按摩。",
-        ja: "コブが 起こす バイブレーションが マッサージに 良いと 老人に 大人気の ポケモンだ。"
+        ja: "コブが 起こす バイブレーションが マッサージに 良いと 老人に 大人気の ポケモンだ。",
+        ko: "혹이 일으키는 바이브레이션이\n마사지에 좋다고 노인에게\n인기가 높은 포켓몬이다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Geteilter Spiralstanzer",
                 "pt-br": "Perfurador Espiral Dividido",
                 "zh-tw": "分體式螺旋沖頭",
-                ja: "ぐるぐるパンチ"
+                ja: "ぐるぐるパンチ",
+                ko: "빙글빙글펀치"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"],
@@ -69,13 +74,19 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

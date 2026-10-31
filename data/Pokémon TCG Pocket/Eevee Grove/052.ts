@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/052"
     },
     name: {
         en: "Dragonair",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
         ja: "ハクリュー",
+        ko: "신뇽",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
         ja: "ミニリュウ",
+        ko: "미뇽",
     },
     description: {
         en: "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Man sagt, wenn es als Ganzes eine Aura ausstrahlt\nKörper, das Wetter wird sich sofort ändern.",
         "pt-br": "Dizem que se emitir uma aura de todo o seu corpo\ncorpo, o tempo começará a mudar instantaneamente.",
         "zh-tw": "他們說，如果它全身散發出一種光環\n身體，天氣就會瞬間開始變化。",
-        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。"
+        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
+        ko: "전신에서 오라를 발산하면\n주변 날씨가 순식간에\n변한다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wasserfall",
                 "pt-br": "Cachoeira",
                 "zh-tw": "瀑布",
-                ja: "たきのぼり"
+                ja: "たきのぼり",
+                ko: "폭포오르기"
             },
             damage: 60,
             cost: ["Water", "Lightning"]

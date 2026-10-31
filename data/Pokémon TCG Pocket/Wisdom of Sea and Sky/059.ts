@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/059"
     },
     name: {
         en: "Suicune",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Suicune",
         "pt-br": "Suicune",
         "zh-tw": "水君",
-        ja: "スイクン"
+        ja: "スイクン",
+        ko: "스이쿤"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es rast um die Welt, um verschmutztes Wasser zu reinigen.\nEs rennt mit dem Nordwind davon.",
         "pt-br": "Ele corre ao redor do mundo para purificar a água suja.\nEle foge com o vento norte.",
         "zh-tw": "它在世界各地競相淨化污水。\n隨北風而逝。",
-        ja: "世界中を 駆け巡り 汚れた 水を 清めている。 北風と ともに 走り去る。"
+        ja: "世界中を 駆け巡り 汚れた 水を 清めている。 北風と ともに 走り去る。",
+        ko: "세계 곳곳을 뛰어다니며\n오염된 물을 정화시킨다.\n북풍과 함께 떠나간다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Cure-Stream",
                 "pt-br": "Fluxo de cura",
                 "zh-tw": "治愈流",
-                ja: "キュアストリーム"
+                ja: "キュアストリーム",
+                ko: "큐어 스트림"
             },
             damage: 70,
             cost: ["Water", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/083"
     },
     name: {
         en: "Elesa",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Bringe alle an jedem Pokémon befestigten Pokémon-Werkzeuge (sowohl deines als auch die deines Gegners) auf die Hand ihres Besitzers zurück.",
         "pt-br": "Devolva todas as Ferramentas Pokémon anexadas a cada Pokémon (tanto o seu quanto o do seu oponente) para a mão do dono dele.",
         "zh-tw": "將每個寶可夢（你的和對手的）上附著的所有寶可夢工具送回其所有者的手上。",
-        ja: "おたがいのポケモン全員から「ポケモンのどうぐ」をすべて、持ち主の手札にもどす。"
+        ja: "おたがいのポケモン全員から「ポケモンのどうぐ」をすべて、持ち主の手札にもどす。",
+        ko: "서로의 포켓몬 전원으로부터 「포켓몬의 도구」를 모두 주인의 패로 되돌린다."
     },
     trainerType: "Supporter"
 };

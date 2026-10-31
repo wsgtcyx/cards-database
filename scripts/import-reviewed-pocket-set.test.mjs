@@ -26,12 +26,12 @@ test('reviewed importer preserves dual types and reward-only pack membership, re
 })
 
 test('name-only locales receive explicit English rules and official English booster images', () => {
-	const config = { setId: 'T1', total: 1, setFile: 'Fixture', officialCount: 1, releaseDate: '2026-10-29', r2Origin: 'https://example.test', nameLocales: ['en', 'ko'], ruleLocales: ['en'], setNames: { en: 'Fixture', ko: '세트' }, boosters: [{ slug: 'one', names: { en: 'One', ko: '팩' } }] }
-	const cards = { 'T1-001': { name: { en: 'Fixture', ko: '카드' }, illustrator: 'Artist', rarity: 'Two Diamond', category: 'Trainer', trainerType: 'Item', effect: { en: 'Draw a card.' }, boosters: ['one'] } }
+	const config = { setId: 'T1', total: 1, setFile: 'Fixture', officialCount: 1, releaseDate: '2026-10-29', r2Origin: 'https://example.test', nameLocales: ['en', 'fr'], ruleLocales: ['en'], setNames: { en: 'Fixture', fr: '세트' }, boosters: [{ slug: 'one', names: { en: 'One', fr: '팩' } }] }
+	const cards = { 'T1-001': { name: { en: 'Fixture', fr: '카드' }, illustrator: 'Artist', rarity: 'Two Diamond', category: 'Trainer', trainerType: 'Item', effect: { en: 'Draw a card.' }, boosters: ['one'] } }
 	const audit = bindAudit(cards)
 	const files = renderReviewedSet(config, cards, audit)
-	assert.match(files['Fixture/001.ts'], /ko: "Draw a card\."/)
-	assert.match(files['Fixture.ts'], /ko: "https:\/\/example.test\/en\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
+	assert.match(files['Fixture/001.ts'], /fr: "Draw a card\."/)
+	assert.match(files['Fixture.ts'], /fr: "https:\/\/example.test\/en\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
 	assert.deepEqual(cards['T1-001'].effect, { en: 'Draw a card.' })
 	const modified = structuredClone(cards)
 	modified['T1-001'].effect.en = 'TODO'
@@ -159,4 +159,20 @@ test('a complete Japanese import compiles with native card, set and booster imag
 		assert.equal(result.status, 0, result.stderr || result.stdout)
 		assert.match(result.stdout, /Japanese importer compiler proof passed/)
 	} finally { fs.rmSync(root, { recursive: true, force: true }) }
+})
+
+
+test('Korean imports require full native rules and native asset paths', () => {
+ const config = { ...japaneseConfig, nameLocales: ['en', 'ko'], ruleLocales: ['en', 'ko'], setNames: { en: 'Fixture', ko: '세트' }, boosters: [{ slug: 'one', names: { en: 'One', ko: '팩' } }] }
+ const cards = { 'T1-001': { ...japaneseCards['T1-001'], name: { en: 'Fixture', ko: '카드' }, effect: { en: 'Draw a card.', ko: '덱에서 1장 뽑는다.' } } }
+ assert.throws(() => renderReviewedSet({ ...config, ruleLocales: ['en'] }, cards, bindAudit(cards)), /Korean.*ruleLocales/)
+ assert.throws(() => renderReviewedSet({ ...config, nameLocales: ['en'] }, cards, bindAudit(cards)), /Korean.*nameLocales/)
+ for (const value of [undefined, '', 'Draw a card.', '포켓몬[Gr:Patchim v="이/가"]']) {
+  const invalid = structuredClone(cards)
+  invalid['T1-001'].effect.ko = value
+  assert.throws(() => renderReviewedSet(config, invalid, bindAudit(invalid)), /Korean/)
+ }
+ const files = renderReviewedSet(config, cards, bindAudit(cards))
+ assert.match(files['Fixture/001.ts'], /ko: "https:\/\/game.pokemontcgpocket.app\/ko\/tcgp\/T1\/001"/)
+ assert.match(files['Fixture.ts'], /ko: "https:\/\/game.pokemontcgpocket.app\/ko\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
 })

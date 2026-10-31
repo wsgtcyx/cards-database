@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/102",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/102",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/102",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/102"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/102",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/102"
 	},
 	name: {
 		en: "Tropius",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Tropius",
 		"pt-br": "Tropius",
 		"zh-tw": "熱帶龍",
-		ja: "トロピウス"
+		ja: "トロピウス",
+		ko: "트로피우스"
 	},
 	illustrator: "sowsow",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Es lebt in tropischen Dschungeln. Der Fruchthaufen\num den Hals ist köstlich. Die Frucht wächst\nzweimal im Jahr.",
 		"pt-br": "Vive em selvas tropicais. O cacho de frutas\nem volta do pescoço é delicioso. A fruta cresce\nduas vezes por ano.",
 		"zh-tw": "它生活在熱帶叢林中。那串水果\n脖子上的東西很好吃。果實長大了\n每年兩次。",
-		ja: "熱帯の ジャングルに 生息。 首の フサは 甘くて 美味しい。 １年に ２回 実を つける。"
+		ja: "熱帯の ジャングルに 生息。 首の フサは 甘くて 美味しい。 １年に ２回 実を つける。",
+		ko: "열대 정글에 서식한다.\n목에 달린 송이는 달고 맛있다.\n1년에 2번 열매를 맺는다."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "Doppelstoß",
 				"pt-br": "Bordoada Dupla",
 				"zh-tw": "雙重粉碎",
-				ja: "ダブルスマッシュ"
+				ja: "ダブルスマッシュ",
+				ko: "더블스매시"
 			},
 			effect: {
 				en: "Flip 2 coins. This attack does 40 damage for each heads.",
@@ -59,7 +63,8 @@ const card: Card = {
 				de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
 				"zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
-				ja: "コインを2回投げ、オモテの数×40ダメージ。"
+				ja: "コインを2回投げ、オモテの数×40ダメージ。",
+				ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
 			},
 			damage: "40x",
 			cost: ["Colorless", "Colorless"]

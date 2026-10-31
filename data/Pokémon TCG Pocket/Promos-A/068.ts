@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/068",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/068"
     },
     name: {
         en: "Lycanroc",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
-        ja: "イワンコ"
+        ja: "イワンコ",
+        ko: "암멍이"
     },
     description: {
         en: "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",

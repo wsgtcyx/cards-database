@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/087",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/087"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/087",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/087"
     },
     name: {
         en: "Scyther",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die scharfen Sensen an seinen Unterarmen werden beim Schneiden durch harte Gegenstände immer schärfer.",
         "pt-br": "As foices afiadas em seus antebraços tornam-se cada vez mais afiadas ao cortar objetos duros.",
         "zh-tw": "前臂上的鋒利鐮刀在切割堅硬的物體時變得越來越鋒利。",
-        ja: "両手の 鋭い カマは 硬いものを 切れば切るほど さらに 切れ味を 増していく。"
+        ja: "両手の 鋭い カマは 硬いものを 切れば切るほど さらに 切れ味を 増していく。",
+        ko: "양손의 날카로운 낫은\n단단한 것을 자르면 자를수록\n더욱더 날카로워진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kehrtwende",
                 "pt-br": "Fazer Retorno",
                 "zh-tw": "急速折返",
-                ja: "とんぼがえり"
+                ja: "とんぼがえり",
+                ko: "유턴"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 10
         }

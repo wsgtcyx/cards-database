@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/014",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/014"
     },
     name: {
         en: "Volcarona",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Larvesta",
         "zh-tw": "燃燒蟲",
         ja: "メラルバ",
+        ko: "활화르바",
     },
     description: {
         en: "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",

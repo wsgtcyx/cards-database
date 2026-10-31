@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/355",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/355",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/355",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/355"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/355",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/355"
 	},
 	name: {
         en: "Crawdaunt",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Crawdaunt",
         "zh-tw": "鐵螯龍蝦",
         ja: "シザリガー",
+        ko: "가재장군",
     },
     illustrator: "REND",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
         ja: "ヘイガニ",
+        ko: "가재군",
     },
     description: {
         en: "A rough customer that wildly flails its giant claws.\nIt is said to be extremely hard to raise.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein rauer Kunde, der wild mit seinen riesigen Krallen um sich schlägt.\nEs soll extrem schwierig sein, es aufzubringen.",
         "pt-br": "Um cliente rude que agita descontroladamente suas garras gigantes.\nDiz-se que é extremamente difícil de aumentar.",
         "zh-tw": "一個粗魯的顧客，瘋狂地揮舞著巨大的爪子。\n據說飼養起來極其困難。",
-        ja: "巨大な ハサミを 振りまわす 暴れ者。 育てるのが とても 難しい ポケモンと いわれる。"
+        ja: "巨大な ハサミを 振りまわす 暴れ者。 育てるのが とても 難しい ポケモンと いわれる。",
+        ko: "거대한 집게를 휘두르는\n난폭한 포켓몬. 키우는 것이\n매우 어렵다고 전해진다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Widerspenstige Klaue",
                 "pt-br": "Garra Indisciplinada",
                 "zh-tw": "不羈之爪",
-                ja: "あらぶるハサミ"
+                ja: "あらぶるハサミ",
+                ko: "거친집게"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may discard a random Energy from your opponent's Active Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du eine zufällige Energie vom Aktiven Pokémon deines Gegners abwerfen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá descartar uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的一隻神奇寶貝時，你可以從對手的活躍神奇寶貝中隨機丟棄一個能量。",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Krabbenhammer",
                 "pt-br": "Martelo Caranguejo",
                 "zh-tw": "蟹錘",
-                ja: "クラブハンマー"
+                ja: "クラブハンマー",
+                ko: "집게해머"
             },
             damage: 70,
             cost: ["Water", "Water", "Colorless"]

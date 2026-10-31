@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/075"
     },
     name: {
         en: "Team Rocket's Tinkaton",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Granforgita schwingt den über 100 kg schweren Hammer mühelos umher. Es schleppt alles mit sich nach Hause, was ihm gefällt.",
         "pt-br": "O seu martelo chega a pesar 100 kg. Apesar disso, Tinkaton sai com ele por ai como se não fosse nada, roubando o que lhe convém e levando tudo pra casa.",
         "zh-tw": "會輕鬆地揮舞著超過１００公斤的錘子來奪取想要的東西，然後帶回自己的住處。",
-        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。"
+        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。",
+        ko: "100kg이 넘는 해머를 가볍게 휘둘러서\n원하는 것을 빼앗은 다음\n거처로 가지고 간다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Rammender Hammer",
                 "pt-br": "Martelo Empilhador",
                 "zh-tw": "打樁錘",
-                ja: "くいうちハンマー"
+                ja: "くいうちハンマー",
+                ko: "말뚝박기해머"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 {C} more, and its Retreat Cost is 2 {C} more.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um 2 {C}, und seine Rückzugskosten erhöhen sich um 2 {C}.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 2 {C} a mais e o Custo de Recuo dele será 2 {C} a mais.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量與撤退所需的能量,增加2個{C}能量。",
-                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーとにげるためのエネルギーを、{C}エネルギー2個ぶん多くする。"
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーとにげるためのエネルギーを、{C}エネルギー2個ぶん多くする。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지를 {C}에너지 2개만큼 많게 한다."
             },
             damage: 80
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/041",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/041"
     },
     name: {
         en: "Litwick",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Litwick",
         "zh-tw": "燭光靈",
         ja: "ヒトモシ",
+        ko: "불켜미",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Je jünger das Leben ist, das dieses Pokémon aufnimmt,\ndesto heller und unheimlicher ist die Flamme darauf\nKopf brennt.",
         "pt-br": "Quanto mais jovem for a vida que este Pokémon absorve,\nmais brilhante e misteriosa a chama em seu\nqueimaduras na cabeça.",
         "zh-tw": "該寶可夢吸收的生命越年輕，\n其上的火焰越亮越詭異\n頭燒傷。",
-        ja: "吸い取る 命が 若ければ 若いほど 頭の 炎は 大きく 妖しく 燃え上がる。"
+        ja: "吸い取る 命が 若ければ 若いほど 頭の 炎は 大きく 妖しく 燃え上がる。",
+        ko: "흡수하는 생명이 젊으면\n젊을수록 머리의 불꽃은\n크고 괴이하게 타오른다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Fackel",
                 "pt-br": "Sinalizador",
                 "zh-tw": "耀斑",
-                ja: "ほのお"
+                ja: "ほのお",
+                ko: "불꽃"
             },
             damage: 20,
             cost: ["Fire"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

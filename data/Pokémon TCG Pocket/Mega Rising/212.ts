@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/212",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/212",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/212"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/212",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/212"
     },
     name: {
         en: "Dubwool",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dubwool",
         "zh-tw": "毛毛角羊",
         ja: "バイウールー",
+        ko: "배우르",
     },
     illustrator: "You Iribi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wooloo",
         "zh-tw": "毛辮羊",
         ja: "ウールー",
+        ko: "우르",
     },
     description: {
         en: "Its majestic horns are meant only to impress the\nopposite gender. They never see use in battle.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine majestätischen Hörner sollen nur beeindrucken\nanderes Geschlecht. Im Kampf kommen sie nie zum Einsatz.",
         "pt-br": "Seus majestosos chifres servem apenas para impressionar o\nsexo oposto. Eles nunca veem uso em batalha.",
         "zh-tw": "它雄偉的角只是為了給人們留下深刻的印象\n異性。他們從來沒有在戰鬥中看到過用處。",
-        ja: "立派に 伸びた ツノは 異性に アピールするために 生えている。 武器として 使うことはない。"
+        ja: "立派に 伸びた ツノは 異性に アピールするために 生えている。 武器として 使うことはない。",
+        ko: "늠름하게 자란 뿔은 이성에게\n어필하기 위한 것이다.\n무기로는 사용하지 않는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Grenzenlose Macht",
                 "pt-br": "Poder ilimitado",
                 "zh-tw": "力量無限",
-                ja: "そこぢから"
+                ja: "そこぢから",
+                ko: "저력"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
-                ja: "次の自分の番、このポケモンはワザが使えない。"
+                ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

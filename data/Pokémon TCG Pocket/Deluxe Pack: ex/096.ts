@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/096"
     },
     name: {
         en: "Magikarp",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     illustrator: "Mitsuhiro Arita",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein schwaches, erbärmliches Pokémon. Es kann sein\nSpringe in seltenen Fällen hoch, aber nie öfter\nals sieben Fuß.",
         "pt-br": "Um Pokémon patético e pouco poderoso. Pode\npular alto em raras ocasiões, mas nunca mais\ndo que sete pés.",
         "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。",
-        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。"
+        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。",
+        ko: "힘없는 한심한 포켓몬이다.\n가끔 높이 뛰어오르지만\n2m를 겨우 넘기는 게 고작이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spring raus",
                 "pt-br": "Salte",
                 "zh-tw": "跳出",
-                ja: "はねにげ"
+                ja: "はねにげ",
+                ko: "튀튀기"
             },
             cost: ["Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

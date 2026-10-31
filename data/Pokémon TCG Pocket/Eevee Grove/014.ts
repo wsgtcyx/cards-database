@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/014",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/014"
     },
     name: {
         en: "Salandit",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
         ja: "ヤトウモリ",
+        ko: "야도뇽",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es verspottet seine Beute und lockt sie in enge,\nfelsige Gebiete, wo es sie dann mit Gift besprüht\nGas, um ihnen schwindelig zu machen und sie niederzuschlagen.",
         "pt-br": "Ele provoca suas presas e as atrai para lugares estreitos,\náreas rochosas onde depois as pulveriza com substâncias tóxicas\ngás para deixá-los tontos e derrubá-los.",
         "zh-tw": "它嘲弄獵物並引誘它們進入狹窄的地方，\n然後向岩石區域噴灑有毒物質\n氣體使他們頭暈並把他們打倒。",
-        ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。"
+        ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。",
+        ko: "먹잇감을 도발해서\n좁은 암석 지대로 유인한 뒤\n어지러워지는 독가스를 뿜어서 마무리한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Glut",
                 "pt-br": "Brasa",
                 "zh-tw": "餘燼",
-                ja: "ひのこ"
+                ja: "ひのこ",
+                ko: "불꽃세례"
             },
             damage: 30,
             cost: ["Fire"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

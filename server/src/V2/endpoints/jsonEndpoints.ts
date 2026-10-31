@@ -22,8 +22,8 @@ server.get('/:lang/cards/search/options', (req, res) => {
 	if (Object.keys(req.query).length > 0) {
 		return res.type('application/problem+json').status(400).json({
 			type: 'https://tcgdex.dev/errors/catalog-search-invalid',
-			title: lang === 'ja' ? 'カード検索の条件が正しくありません' : 'Invalid card catalog search parameters', status: 400,
-			detail: lang === 'ja' ? '検索条件の一覧を取得する際は、クエリパラメーターを指定できません。' : 'search options does not accept query parameters', endpoint: req.url, method: req.method,
+			title: lang === 'ko' ? '카드 검색 조건이 올바르지 않습니다' : lang === 'ja' ? 'カード検索の条件が正しくありません' : 'Invalid card catalog search parameters', status: 400,
+			detail: lang === 'ko' ? '검색 조건 목록을 요청할 때는 쿼리 매개변수를 지정할 수 없습니다.' : lang === 'ja' ? '検索条件の一覧を取得する際は、クエリパラメーターを指定できません。' : 'search options does not accept query parameters', endpoint: req.url, method: req.method,
 		}).end()
 	}
 	res.json(getCatalogSearchOptions(lang))
@@ -39,8 +39,8 @@ server.get('/:lang/cards/search', (req: CustomRequest, res) => {
 		if (!(error instanceof CatalogSearchValidationError)) throw error
 		res.type('application/problem+json').status(400).json({
 			type: 'https://tcgdex.dev/errors/catalog-search-invalid',
-			title: lang === 'ja' ? 'カード検索の条件が正しくありません' : 'Invalid card catalog search parameters', status: 400,
-			detail: (lang === 'ja' ? error.japaneseDetails : error.details).join('; '), endpoint: req.url, method: req.method,
+			title: lang === 'ko' ? '카드 검색 조건이 올바르지 않습니다' : lang === 'ja' ? 'カード検索の条件が正しくありません' : 'Invalid card catalog search parameters', status: 400,
+			detail: (lang === 'ko' ? error.koreanDetails : lang === 'ja' ? error.japaneseDetails : error.details).join('; '), endpoint: req.url, method: req.method,
 		}).end()
 	}
 })
@@ -49,7 +49,7 @@ server.get('/:lang/cards/:cardId/relations', (req, res) => {
 	const { lang, cardId } = req.params
 	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
 	const relations = getCardRelations(lang, cardId)
-	if (!relations) return sendError(Errors.NOT_FOUND, res, { details: lang === 'ja' ? `カードが見つかりません: ${cardId}` : `Card ${cardId} not found` })
+	if (!relations) return sendError(Errors.NOT_FOUND, res, { details: lang === 'ko' ? `카드를 찾을 수 없습니다: ${cardId}` : lang === 'ja' ? `カードが見つかりません: ${cardId}` : `Card ${cardId} not found` })
 	res.json(relations)
 })
 

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/019"
     },
     name: {
         en: "Maractus",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Maractus",
         "zh-tw": "沙鈴仙人掌",
         ja: "マラカッチ",
+        ko: "마라카치",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Trockengebiete sind ihr Lebensraum. Sie bewegen sich\nrhythmisch und erzeugt einen Maracas-ähnlichen Klang.",
         "pt-br": "As regiões áridas são o seu habitat. Eles se movem\nritmicamente, fazendo um som semelhante ao das maracas.",
         "zh-tw": "乾旱地區是它們的棲息地。他們移動\n有節奏地發出類似於沙錘的聲音。",
-        ja: "乾燥した 土地で 暮らす。 体を リズミカルに 動かすと マラカスのような 音を 奏でる。"
+        ja: "乾燥した 土地で 暮らす。 体を リズミカルに 動かすと マラカスのような 音を 奏でる。",
+        ko: "건조한 땅에서 산다.\n몸을 리드미컬하게 움직이면\n마라카스 같은 소리를 낸다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Blendender Tanz",
                 "pt-br": "Dança Deslumbrante",
                 "zh-tw": "炫舞",
-                ja: "げんわくダンス"
+                ja: "げんわくダンス",
+                ko: "미혹댄스"
             },
             damage: 40,
             cost: ["Grass", "Colorless"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

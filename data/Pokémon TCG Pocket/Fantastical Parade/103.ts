@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/103"
     },
     name: {
         en: "Spiritomb",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kryppuk",
         "pt-br": "Spiritomb",
         "zh-tw": "花岩怪",
-        ja: "ミカルゲ"
+        ja: "ミカルゲ",
+        ko: "화강돌"
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es entstand durch die Vereinigung von 108 Geistern. Das war es\nan den seltsamen Schlüsselstein gebunden, um ihn davon abzuhalten\nirgendein Unheil anrichten.",
         "pt-br": "Foi formado pela união de 108 espíritos. Foi\nvinculado à Pedra Angular Estranha para impedi-la de\nfazendo qualquer maldade.",
         "zh-tw": "它是由108個武魂聯合而成。已經是\n綁定到奇數梯形失真校正以防止其受到影響\n做任何惡作劇。",
-        ja: "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。"
+        ja: "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。",
+        ko: "108개의 영혼으로 되어 있다.\n두 번 다시 나쁜 짓을 하지 못하게\n쐐기돌에 묶여 있다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Letzter Schrei",
                 "pt-br": "Grito Final",
                 "zh-tw": "最後的尖叫",
-                ja: "さいごのさけび"
+                ja: "さいごのさけび",
+                ko: "마지막 외침"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 10 damage to each of your opponent's Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, füge jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, cause 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "如果該寶可夢位於活動區域並因對手寶可夢的攻擊而被擊倒，則對對手的每隻寶可夢造成 10 點傷害。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、相手のポケモン全員に10ダメージ。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、相手のポケモン全員に10ダメージ。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 상대의 포켓몬 전원에게 10데미지를 준다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
                 "zh-tw": "幽靈射擊",
-                ja: "ホロウショット"
+                ja: "ホロウショット",
+                ko: "홀로숏"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

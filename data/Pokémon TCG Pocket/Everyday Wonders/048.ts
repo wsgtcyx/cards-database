@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/048"
     },
     name: {
         en: "Goomy",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Hörner von Viscora sind ausgezeichnete Sinnesorgane, die alle fünf Sinne von Viscora abdecken. Viscora erkennt Gefahren durch Luftbewegungen.",
         "pt-br": "Os chifres de Goomy são excelentes órgãos sensoriais que cobrem todos os cinco sentidos de Goomy. Goomy detecta o perigo do movimento do ar.",
         "zh-tw": "黏黏寶的角是優秀的感覺器官，涵蓋了黏黏寶的所有五種感官。 黏黏寶 從空氣的流動中察覺到危險。",
-        ja: "ツノは 五感の すべてを まかなう 優れた 感覚器官。 空気の 動きで 危険を 感じとる。"
+        ja: "ツノは 五感の すべてを まかなう 優れた 感覚器官。 空気の 動きで 危険を 感じとる。",
+        ko: "뿔은 오감을 모두 담당하는\n뛰어난 감각 기관이다.\n공기의 흐름으로 위험을 감지한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
                 "zh-tw": "踩",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 20
         }

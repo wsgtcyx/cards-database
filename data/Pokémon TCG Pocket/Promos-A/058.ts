@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/058"
     },
     name: {
         en: "Pachirisu",

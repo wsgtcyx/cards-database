@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/094"
     },
     name: {
         en: "Gligar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gligar",
         "zh-tw": "天蠍",
         ja: "グライガー",
+        ko: "글라이거",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es haftet normalerweise an Klippen. Wenn es seine Beute entdeckt,\nEs breitet seine Flügel aus und gleitet zum Angriff herab.",
         "pt-br": "Geralmente se agarra a penhascos. Quando avista sua presa,\nele abre as asas e desliza para atacar.",
         "zh-tw": "它通常緊貼懸崖。當它發現獵物時，\n它展開翅膀並滑翔下來進行攻擊。",
-        ja: "いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。"
+        ja: "いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。",
+        ko: "보통은 벼랑에 붙어 있다.\n먹이를 발견하면 날개를 펼쳐\n바람을 타고 날아 덮친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
                 "zh-tw": "滑行",
-                ja: "かっくう"
+                ja: "かっくう",
+                ko: "활공"
             },
             damage: 10,
             cost: ["Colorless"]

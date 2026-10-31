@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/418",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/418",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/418",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/418"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/418",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/418"
     },
     name: {
         en: "Mega Lucario ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
         ja: "リオル",
-        ko: "Riolu"
+        ko: "리오르"
     },
     stage: "Stage1",
     attacks: [
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Luta Pulsante",
                 "zh-tw": "奮戰奏動",
                 ja: "ファイティングビート",
-                ko: "Fighting Pulse"
+                ko: "파이팅비트"
             },
             effect: {
                 en: "If this Pokémon has at least 1 extra {F} Energy attached, this attack does 50 more damage.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon tiver pelo menos 1 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "若額外附有1個{F}能量,則增加50點傷害。",
                 ja: "追加で{F}エネルギーが1個ついているなら、50ダメージ追加。",
-                ko: "If this Pokémon has at least 1 extra {F} Energy attached, this attack does 50 more damage."
+                ko: "{F}에너지 1개가 추가로 붙어 있다면 50데미지를 추가한다."
             },
             damage: "90+"
         }

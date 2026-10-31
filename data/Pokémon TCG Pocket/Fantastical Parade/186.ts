@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/186",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/186",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/186"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/186",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/186"
     },
     name: {
         en: "Mimikyu ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mimigma-ex",
         "pt-br": "Mimikyu ex",
         "zh-tw": "謎擬Ｑex",
-        ja: "ミミッキュex"
+        ja: "ミミッキュex",
+        ko: "따라큐 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Verkleidung",
                 "pt-br": "Disfarce",
                 "zh-tw": "偽裝",
-                ja: "ばけのかわ"
+                ja: "ばけのかわ",
+                ko: "탈"
             },
             effect: {
                 en: "When this Pokémon is first damaged by an attack after coming into play, prevent that damage.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon zum ersten Mal durch einen Angriff Schaden erleidet, nachdem es ins Spiel gekommen ist, verhindere diesen Schaden.",
                 "pt-br": "Quando este Pokémon for danificado pela primeira vez por um ataque após entrar em jogo, evite esse dano.",
                 "zh-tw": "當這只神奇寶貝進場後首次受到攻擊傷害時，防止該傷害。",
-                ja: "このポケモンが場に出てから、はじめてワザのダメージを受けるとき、そのダメージを受けない。"
+                ja: "このポケモンが場に出てから、はじめてワザのダメージを受けるとき、そのダメージを受けない。",
+                ko: "이 포켓몬이 필드에 나와서 처음으로 기술의 데미지를 받을 때 그 데미지를 받지 않는다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Klauenhieb",
                 "pt-br": "Corte de Garra",
                 "zh-tw": "利爪斬",
-                ja: "ツメできりさく"
+                ja: "ツメできりさく",
+                ko: "발톱 베어가르기"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"]

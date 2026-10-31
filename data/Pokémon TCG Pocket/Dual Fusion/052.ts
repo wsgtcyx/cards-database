@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/052"
     },
     name: {
         en: "Wigglytuff",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
         ja: "プリン",
-        ko: "Jigglypuff"
+        ko: "푸린"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Fazer a \"Ola\"",
                 "zh-tw": "朋友之環",
                 ja: "ともだちのわ",
-                ko: "Do the Wave"
+                ko: "친구사이"
             },
             cost: [
                 "Psychic",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "造成自己的備戰寶可夢的數量×30點傷害。",
                 ja: "自分のベンチポケモンの数×30ダメージ。",
-                ko: "This attack does 30 damage for each of your Benched Pokémon."
+                ko: "자신의 벤치 포켓몬의 수 × 30데미지를 준다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Ele tem a pele muito fina. Tome cuidado para não zangá-lo ou ele pode inflar permanentemente e golpear com uma pancada de corpo.",
         "zh-tw": "擁有細膩的毛皮。小心別欺負牠，否則牠會不斷膨脹並用身體飛撞過來。",
         ja: "キメ細やかな 毛皮の 持ち主。 怒らせると どんどん ふくらみ のしかかってくるので 注意。",
-        ko: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam."
+        ko: "얇고 고운 털을 지니고 있다.\n화나게 하면 몸을 점점 부풀리며\n덮쳐 오기 때문에 주의가 필요하다."
     }
 };
 

@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/095",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/095",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/095"
     },
     name: {
         en: "Galarian Zigzagoon",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
         "zh-tw": "伽勒爾蛇紋熊",
-        ko: "가라르 가라르 지그제구리",
+        ko: "가라르 지그제구리",
         ja: "ガラルジグザグマ"
     },
     illustrator: "En Morikura",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es hinterlässt überall ein riesiges Chaos, indem es sich im Zickzack bewegt. Hierbei handelt es sich offenbar um die älteste Form von Zigzachs.",
         "pt-br": "Acredita-se que esta seja a forma mais antiga de Zigzagoon, que se move em ziguezague e causa um estrago imenso aos seus arredores.",
         "zh-tw": "被認為是蛇紋熊最古老\n的樣子，會之字形走，\n把周圍弄得一團糟。",
-        ja: "この姿が いちばん 古い ジグザグマの 姿 らしい。 ジグザグ動いて あたりを 荒らす。"
+        ja: "この姿が いちばん 古い ジグザグマの 姿 らしい。 ジグザグ動いて あたりを 荒らす。",
+        ko: "이 모습이 가장 오래된 지그제구리의\n모습인 듯하다. 지그재그로 움직이며\n주변을 엉망으로 만든다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 10
         }

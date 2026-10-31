@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/083",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/083"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/083",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/083"
     },
     name: {
         en: "Squawkabilly",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Squawkabilly",
         "zh-tw": "怒鸚哥",
         ja: "イキリンコ",
+        ko: "시비꼬",
         pt: "Squawkabilly",
         'es-mx': "Squawkabilly"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Grüngefiederte Herden haben den größten Einfluss. Wenn sie morgens und abends auf Futtersuche sind, kann es sehr laut werden.",
         "pt-br": "Os bandos de penas verdes são os que têm maior influência. Quando eles estão procurando comida de manhã e à noite, fica muito barulhento.",
         "zh-tw": "綠羽毛的羊群占主導地位。當他們早上和晚上出去尋找食物時，會變得非常吵鬧。",
-        ja: "緑色の 羽の イキリンコが 最大勢力。 エサを 探す 朝と 晩は とても 騒がしい。"
+        ja: "緑色の 羽の イキリンコが 最大勢力。 エサを 探す 朝と 晩は とても 騒がしい。",
+        ko: "녹색 깃털의 시비꼬가\n가장 세력이 크다. 먹이를 찾는\n아침과 밤에는 매우 시끄럽다."
     },
     stage: "Basic",
     attacks: [
@@ -51,7 +54,8 @@ const card: Card = {
                 de: "Quick Attack",
                 "pt-br": "Ataque Rápido",
                 "zh-tw": "快速攻擊",
-                ja: "でんこうせっか"
+                ja: "でんこうせっか",
+                ko: "전광석화"
             },
             damage: "30+",
             cost: ["Colorless", "Colorless"],
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
                 ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 'es-mx': "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
                 pt: "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
             },

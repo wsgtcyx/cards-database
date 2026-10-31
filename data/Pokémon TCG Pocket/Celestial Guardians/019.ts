@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/019"
     },
     name: {
         en: "Steenee",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
         ja: "アマカジ",
+        ko: "달콤아",
     },
     description: {
         en: "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",

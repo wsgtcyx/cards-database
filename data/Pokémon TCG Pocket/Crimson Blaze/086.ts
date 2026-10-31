@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/086"
     },
     name: {
         en: "Mega Steelix ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mega-Stahlos-ex",
         "pt-br": "Mega Steelix ex",
         "zh-tw": "超級大鋼蛇ex",
-        ja: "メガハガネールex"
+        ja: "メガハガネールex",
+        ko: "메가강철톤 ex"
     },
     illustrator: "matazo",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Onix",
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
-        ja: "イワーク"
+        ja: "イワーク",
+        ko: "롱스톤"
     },
     description: {
         en: "To protect itself from opponents' attacks, it uses\nmagnetism to control pieces of its hard outer\nshell that have flaked off.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Um sich vor gegnerischen Angriffen zu schützen, nutzt es\nMagnetismus, um Teile seiner harten Außenseite zu kontrollieren\nSchale, die abgeplatzt ist.",
         "pt-br": "Para se proteger dos ataques dos oponentes, ele usa\nmagnetismo para controlar pedaços de seu exterior duro\ncasca que se descascou.",
         "zh-tw": "為了保護自己免受對手的攻擊，它使用\n磁性來控制其硬質外殼的各個部分\n已經剝落的外殼。",
-        ja: "はがれおちた 硬い 身体の 表面を 磁力で 操り 相手からの 攻撃を 防ぐ。"
+        ja: "はがれおちた 硬い 身体の 表面を 磁力で 操り 相手からの 攻撃を 防ぐ。",
+        ko: "몸에서 떨어진 단단한 파편을\n자력으로 조종하여\n상대의 공격을 막아 낸다."
     },
     stage: "Stage1",
     suffix: "EX",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Adamantisches Rollen",
                 "pt-br": "Rolamento Adamantino",
                 "zh-tw": "精金軋製",
-                ja: "アダマントローリング"
+                ja: "アダマントローリング",
+                ko: "애더먼트롤링"
             },
             damage: 120,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon Schaden durch Angriffe und hat keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá danos de ataques e não terá Fraqueza.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到攻擊傷害並且沒有弱點。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20하고 약점도 모두 없앤다."
             }
         }],
     weaknesses: [{

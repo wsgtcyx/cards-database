@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/012"
     },
     name: {
         en: "Talonflame",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Talonflame",
         "zh-tw": "烈箭鷹",
         ja: "ファイアロー",
+        ko: "파이어로",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
         ja: "ヒノヤコマ",
+        ko: "불화살빈",
     },
     description: {
         en: "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es verfügt über erstklassige Flugfähigkeiten. Es fliegt\nleicht herumlaufen, selbst beim Tragen von Beute\ndas mehr als 220 Pfund wiegt.",
         "pt-br": "Possui capacidades de vôo de alto nível. Ele voa\nfacilmente, mesmo carregando uma presa\nque pesa mais de 220 libras.",
         "zh-tw": "它具有一流的飛行能力。它飛\n即使攜帶獵物，也能輕鬆四處走動\n重量超過 220 磅。",
-        ja: "飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。"
+        ja: "飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。",
+        ko: "비행 능력은 톱클래스다.\n100kg 이상의 먹이를 잡은 채로도\n가뿐히 날아다닌다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sengende Flamme",
                 "pt-br": "Chama Abrasadora",
                 "zh-tw": "灼熱火焰",
-                ja: "やきこがす"
+                ja: "やきこがす",
+                ko: "태워그을리기"
             },
             damage: 50,
             cost: ["Fire"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/040",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/040"
     },
     name: {
         en: "Darmanitan",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Darmanitan",
         "zh-tw": "達摩狒狒",
         ja: "ヒヒダルマ",
+        ko: "불비달마",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
         ja: "ダルマッカ",
+        ko: "달막화",
     },
     description: {
         en: "This Pokémon's power level rises along with the\ntemperature of its fire, which can reach 2,500\ndegrees Fahrenheit.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Kraftstufe dieses Pokémon steigt mit der Zeit\nDie Temperatur seines Feuers kann 2.500 erreichen\nGrad Fahrenheit.",
         "pt-br": "O nível de poder deste Pokémon aumenta junto com o\ntemperatura do seu fogo, que pode chegar a 2.500\ngraus Fahrenheit.",
         "zh-tw": "該寶可夢的力量等級隨著\n火的溫度可達2,500\n華氏度。",
-        ja: "体内の 炎が 燃え盛るほど パワーが 高まる。 その 温度は １４００度を 超える ことも。"
+        ja: "体内の 炎が 燃え盛るほど パワーが 高まる。 その 温度は １４００度を 超える ことも。",
+        ko: "체내의 불꽃이 타오를수록\n파워가 올라간다. 그 온도는\n1400도를 넘기도 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Darmani-Hände",
                 "pt-br": "Darmani-Mãos",
                 "zh-tw": "達瑪尼手",
-                ja: "だるまれんだん"
+                ja: "だるまれんだん",
+                ko: "달마연속탄"
             },
             damage: "80+",
             cost: ["Fire", "Fire", "Fire", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 30 danos para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 30 點額外傷害。",
-                ja: "コインを2回投げ、オモテの数×30ダメージ追加。"
+                ja: "コインを2回投げ、オモテの数×30ダメージ追加。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

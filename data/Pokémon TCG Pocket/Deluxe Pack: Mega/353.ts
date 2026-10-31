@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/353",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/353",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/353",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/353"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/353",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/353"
     },
     name: {
         en: "Eevee",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
         "zh-tw": "有著不規則的基因。石頭散發出的放射線，會使牠的身體發生突變。",
         ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。",
-        ko: "Its genetic code is irregular. It may mutate if it is\nexposed to radiation from element stones."
+        ko: "불규칙한 유전자를 가졌다.\n돌에서 나오는 방사선에 의해\n몸이 돌연변이를 일으킨다."
     },
     stage: "Basic",
     abilities: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Impulso da Evolução",
                 "zh-tw": "提升進化",
                 ja: "ブーストしんか",
-                ko: "Boosted Evolution"
+                ko: "부스트 진화"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Enquanto este Pokémon estiver no Campo Ativo, ele poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,就算在自己的最初回合或者剛使出的回合,也可進化。",
                 ja: "このポケモンは、バトル場にいるかぎり、最初の自分の番や、出したばかりの番でも進化できる。",
-                ko: "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it."
+                ko: "이 포켓몬은 배틀필드에 있는 한, 자신의 첫 번째 차례나 필드에 처음 나왔을 때라도 진화할 수 있다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Estouro",
                 "zh-tw": "踩",
                 ja: "ふむ",
-                ko: "Stampede"
+                ko: "밟기"
             },
             damage: 10,
             cost: [

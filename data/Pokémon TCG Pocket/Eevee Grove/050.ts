@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/050"
     },
     name: {
         en: "Melmetal",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Melmetal",
         "zh-tw": "美錄梅塔",
         ja: "メルメタル",
+        ko: "멜메탈",
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
         ja: "メルタン",
+        ko: "멜탄",
     },
     description: {
         en: "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Am Ende seiner Lebensdauer wird Melmetal rosten und\nauseinanderfallen. Die kleinen Scherben, die zurückbleiben, werden es tun\nschließlich als Meltan wiedergeboren werden.",
         "pt-br": "No final da sua vida útil, o Melmetal enferrujará e\ndesmoronar. Os pequenos fragmentos deixados para trás\neventualmente renascer como Meltan.",
         "zh-tw": "在其使用壽命結束時，Melmetal 會生鏽並\n分崩離析。留下的小碎片會\n最終重生為美錄坦。",
-        ja: "寿命が 尽きると 体が 錆びて 崩れる。 やがて 小さな 破片が メルタンに 復活する。"
+        ja: "寿命が 尽きると 体が 錆びて 崩れる。 やがて 小さな 破片が メルタンに 復活する。",
+        ko: "수명이 다하면 몸이 녹슬고\n붕괴한다. 이윽고 작은 파편이\n멜탄으로 부활한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Mega-Schlag",
                 "pt-br": "Mega Soco",
                 "zh-tw": "超級沖床",
-                ja: "メガトンパンチ"
+                ja: "メガトンパンチ",
+                ko: "메가톤펀치"
             },
             damage: 90,
             cost: ["Metal", "Metal", "Metal"]

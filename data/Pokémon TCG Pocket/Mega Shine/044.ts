@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/044"
     },
     name: {
         en: "Zoroark",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Kann auf einen Schlag große Massen von Menschen täuschen.\nEs kreiert Illusionen, um sein Revier zu schützen.",
         "pt-br": "Cada um tem a capacidade de enganar um grande grupo de pessoas simultaneamente. Eles protegem seu covil com cenários ilusórios.",
         "zh-tw": "每個人都有能力同時愚弄一大群人。他們用虛幻的風景來保護自己的巢穴。",
-        ja: "いっぺんに 大勢の 人を 化かす 力を 持つ。 幻の 景色を 見せて 住処を 守る。"
+        ja: "いっぺんに 大勢の 人を 化かす 力を 持つ。 幻の 景色を 見せて 住処を 守る。",
+        ko: "한 번에 많은 사람을\n속이는 힘을 가졌다.\n환영의 경치를 보여 줘서 거처를 지킨다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zermalmende Energie",
                 "pt-br": "Esmagamento de Energia",
                 "zh-tw": "能量粉碎",
-                ja: "エナジークラッシュ"
+                ja: "エナジークラッシュ",
+                ko: "에너지크래시"
             },
             effect: {
                 en: "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 20 Schadenspunkte für jede Energie zu, die an alle Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada Energia ligada a todos os Pokémon do seu oponente.",
                 "zh-tw": "對手所有寶可夢身上所附加的能量每有 1 點，此攻擊就會造成 20 點傷害。",
-                ja: "相手のポケモン全員のエネルギーの数×20ダメージ。"
+                ja: "相手のポケモン全員のエネルギーの数×20ダメージ。",
+                ko: "상대 포켓몬 전원의 에너지의 개수 × 20데미지를 준다."
             },
             damage: "20x"
         }

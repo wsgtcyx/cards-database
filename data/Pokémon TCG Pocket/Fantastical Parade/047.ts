@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/047"
     },
     name: {
         en: "Barraskewda",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Barrakiefa",
         "pt-br": "Barraskewda",
         "zh-tw": "戽斗尖梭",
-        ja: "カマスジョー"
+        ja: "カマスジョー",
+        ko: "꼬치조"
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
-        ja: "サシカマス"
+        ja: "サシカマス",
+        ko: "찌로꼬치"
     },
     description: {
         en: "It spins its tail fins to propel itself, surging\nforward at speeds of over 100 knots before\nramming prey and spearing into them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es dreht seine Schwanzflossen, um sich fortzubewegen\nVorwärts mit Geschwindigkeiten von über 100 Knoten\nBeute rammen und in sie hineinspießen.",
         "pt-br": "Ele gira suas barbatanas caudais para se impulsionar, surgindo\navançar a velocidades superiores a 100 nós antes\natacando as presas e atacando-as.",
         "zh-tw": "它旋轉尾鰭來推動自己，洶湧澎湃\n之前以超過100節的速度前進\n撞擊獵物並用矛刺入其中。",
-        ja: "尾びれを 回転させ 一気に 突撃。 １００ノットを 超える 速度で 獲物を つらぬくぞ。"
+        ja: "尾びれを 回転させ 一気に 突撃。 １００ノットを 超える 速度で 獲物を つらぬくぞ。",
+        ko: "꼬리지느러미를 회전시켜 단번에\n돌격한다. 100노트를 넘는\n속도로 먹이를 관통한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Jet-Kopfstoß",
                 "pt-br": "Cabeçada de jato",
                 "zh-tw": "噴射頭撞",
-                ja: "ジェットヘッド"
+                ja: "ジェットヘッド",
+                ko: "제트헤드"
             },
             damage: 40,
             cost: ["Water"]

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/085"
     },
     name: {
         en: "Team Rocket's Researcher",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Nimm pro Kopf 1 zufälliges Pokémon, bei dem „Team Rocket“ zum Namen gehört, aus deinem Deck auf deine Hand.",
         "pt-br": "Jogue uma moeda até sair coroa. Para cada cara, coloque um Pokémon aleatório que tenha ''Equipe Rocket'' em seu nome do seu baralho na sua mão.",
         "zh-tw": "擲硬幣直到出現反面,從自己的牌庫隨機將與正面出現的次數相同數量的名稱中有「火箭隊」的寶可夢加入手牌。",
-        ja: "ウラが出るまでコインを投げ、オモテの数ぶん、自分の山札から名前に「ロケット団」とつくポケモンをランダムに手札に加える。"
+        ja: "ウラが出るまでコインを投げ、オモテの数ぶん、自分の山札から名前に「ロケット団」とつくポケモンをランダムに手札に加える。",
+        ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 자신의 덱에서 이름에 「로켓단」이 적힌 포켓몬을 랜덤으로 패로 가져온다."
     },
     trainerType: "Supporter"
 };

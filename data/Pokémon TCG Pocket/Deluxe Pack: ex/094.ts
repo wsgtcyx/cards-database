@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/094"
     },
     name: {
         en: "Staryu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Staryu",
         "zh-tw": "海星星",
         ja: "ヒトデマン",
+        ko: "별가사리",
     },
     illustrator: "Hiroki Asanuma",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn Sie am Ende des Sommers einen Strand besuchen, werden Sie es tun\nin der Lage sein, Gruppen von Staryu aufleuchten zu sehen\ngleichmäßiger Rhythmus.",
         "pt-br": "Se você visitar uma praia no final do verão, você\npoder ver grupos de Staryu iluminando-se em um\nritmo constante.",
         "zh-tw": "如果你在夏末去海灘，你會\n能夠看到成群的Staryu在一個\n穩定的節奏。",
-        ja: "夏の終わりの 浜辺に 行くと 規則的な リズムで 光る ヒトデマンの 群れが 見られるよ。"
+        ja: "夏の終わりの 浜辺に 行くと 規則的な リズムで 光る ヒトデマンの 群れが 見られるよ。",
+        ko: "늦여름 해변에 가면\n규칙적인 리듬으로 빛나는\n별가사리의 무리를 볼 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Klatschen",
                 "pt-br": "Bater",
                 "zh-tw": "斯馬克",
-                ja: "ひらてうち"
+                ja: "ひらてうち",
+                ko: "수벽치기"
             },
             damage: 20,
             cost: ["Water"]

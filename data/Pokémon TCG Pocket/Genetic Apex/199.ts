@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/199",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/199",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/199"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/199",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/199"
     },
     name: {
         en: "Doduo",

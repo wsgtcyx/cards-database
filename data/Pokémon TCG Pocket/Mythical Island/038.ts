@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/038"
     },
     name: {
         en: "Florges",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Floette",
         "zh-tw": "花葉蒂",
         ja: "フラエッテ",
+        ko: "플라엣테",
     },
     description: {
         en: "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",

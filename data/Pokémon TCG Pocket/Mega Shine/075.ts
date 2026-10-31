@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/075"
     },
     name: {
         en: "Miltank",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Miltanks Gesundheit leidet darunter, wenn es\nnicht jeden Tag gemolken wird. Der Geschmack\nseiner Milch ändert sich je nach Jahreszeit.",
         "pt-br": "Este Pokémon precisa ser ordenhado todos os dias, caso contrário ficará doente. O sabor do leite Miltank muda com as estações.",
         "zh-tw": "如果沒有每天擠鮮奶，\n身體的狀況就會變糟。\n鮮奶的風味會隨季節改變。",
-        ja: "毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。"
+        ja: "毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。",
+        ko: "매일 우유를 짜지 않으면\n컨디션이 나빠진다. 우유의\n맛은 계절에 따라 다르다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verheerung",
                 "pt-br": "Efeito Cascata",
                 "zh-tw": "踢散",
-                ja: "けちらす"
+                ja: "けちらす",
+                ko: "차서흩뜨리기"
             },
             effect: {
                 en: "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手的後備寶可夢每造成 20 點額外傷害。",
-                ja: "相手のベンチポケモンの数×20ダメージ追加。"
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
+                ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "10+"
         }

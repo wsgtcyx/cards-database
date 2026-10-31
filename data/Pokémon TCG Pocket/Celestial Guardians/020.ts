@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/020"
     },
     name: {
         en: "Tsareena",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Steenee",
         "zh-tw": "甜舞妮",
         ja: "アママイコ",
+        ko: "달무리나",
     },
     description: {
         en: "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",

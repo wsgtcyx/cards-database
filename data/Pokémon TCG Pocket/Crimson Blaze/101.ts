@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/101",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/101"
     },
     name: {
         en: "Solgaleo ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Solgaleo-ex",
         "pt-br": "Solgaleo ex",
         "zh-tw": "索爾迦雷歐ex",
-        ja: "ソルガレオex"
+        ja: "ソルガレオex",
+        ko: "솔가레오 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Cosmovum",
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
-        ja: "コスモウム"
+        ja: "コスモウム",
+        ko: "코스모움"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Steigende Straße",
                 "pt-br": "Estrada ascendente",
                 "zh-tw": "上升之路",
-                ja: "ライジングロード"
+                ja: "ライジングロード",
+                ko: "라이징 로드"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon einmal während deines Zuges auf deiner Bank befindet, kannst du es mit deinem Aktiven Pokémon austauschen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá trocá-lo pelo seu Pokémon Ativo.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝在你的替補席上，你可以將它與你的活躍神奇寶貝交換。",
-                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンをバトルポケモンと入れ替える。"
+                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンをバトルポケモンと入れ替える。",
+                ko: "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Solbrecher",
                 "pt-br": "Disjuntor do Sol",
                 "zh-tw": "溶膠破壞者",
-                ja: "ソルブレイク"
+                ja: "ソルブレイク",
+                ko: "솔브레이크"
             },
             damage: 120,
             cost: ["Metal", "Metal"],
@@ -83,7 +89,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

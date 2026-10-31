@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/109",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/109"
     },
     name: {
         en: "Eelektross",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Zapplalek",
         "pt-br": "Eelektrik",
         "zh-tw": "麻麻鰻",
-        ja: "シビビール"
+        ja: "シビビール",
+        ko: "저리릴"
     },
     attacks: [{
             cost: ["Lightning", "Lightning", "Colorless"],

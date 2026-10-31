@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/211",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/211"
     },
     name: {
         en: "Riolu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
         ja: "リオル",
+        ko: "리오르",
     },
     illustrator: "You Iribi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sie kommunizieren miteinander über ihre\nAuren. Sie können die ganze Nacht hindurch laufen.",
         "pt-br": "Eles se comunicam entre si usando seus\nauras. Eles são capazes de correr a noite toda.",
         "zh-tw": "他們使用自己的方式相互交流\n光環。他們能夠整夜奔跑。",
-        ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。"
+        ja: "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。",
+        ko: "파동을 내서\n동료끼리 의사소통을 한다.\n밤새도록 계속 달릴 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stempel",
                 "pt-br": "Soco",
                 "zh-tw": "沖床",
-                ja: "パンチ"
+                ja: "パンチ",
+                ko: "펀치"
             },
             damage: 40,
             cost: ["Fighting", "Fighting"]

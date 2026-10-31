@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/128"
     },
     name: {
         en: "Rika",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Crea 2 Energie {F} dalla tua Zona Energia e assegnale a uno dei tuoi Whiscash o dei tuoi Clodsire di Paldea.",
         de: "Generiere 2 {F}-Energien in deinem Energiebereich und lege sie an 1 deiner Welsar oder Paldea-Suelord an.",
         ja: "自分のエネルギーゾーンから{F}エネルギーを2個出し、「ナマズン」または「パルデアドオー」1匹につける。",
-        ko: "Produce 2 {F} Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire."
+        ko: "자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아 토오」 1마리에게 붙인다."
     }
 };
 

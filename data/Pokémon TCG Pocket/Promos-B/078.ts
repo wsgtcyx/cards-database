@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/078"
     },
     name: {
         en: "Emolga",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Emolga liebt süße Beeren. Manchmal hortet es\nso viel Futter in seinen Backentaschen, dass es\nnicht mehr richtig fliegen kann.",
         "pt-br": "Este Pokémon adora frutas doces. Às vezes, ele enche as bochechas com tanta comida que não consegue voar direito.",
         "zh-tw": "最喜歡甜甜的樹果。有時會\n因為在頰囊裡儲存了太多食物，\n結果讓自己無法好好飛行。",
-        ja: "甘い 木の実が 大好物。 頬袋に エサを 溜めすぎ うまく 飛べないときも ある。"
+        ja: "甘い 木の実が 大好物。 頬袋に エサを 溜めすぎ うまく 飛べないときも ある。",
+        ko: "달콤한 나무열매를 매우 좋아한다.\n볼주머니에 먹이를 너무 많이 넣어\n잘 날지 못할 때도 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aufziehdonner",
                 "pt-br": "Trovão de encerramento",
                 "zh-tw": "機關閃電",
-                ja: "からくりサンダー"
+                ja: "からくりサンダー",
+                ko: "기계장치썬더"
             },
             effect: {
                 en: "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 30 Schadenspunkte für jedes Pokémon-Werkzeug zu, das an alle deine Pokémon angelegt ist.",
                 "pt-br": "Este ataque causa 30 de dano para cada Ferramenta Pokémon anexada a todos os seus Pokémon.",
                 "zh-tw": "此攻擊對你所有寶可夢上附加的每個寶可夢工具造成 30 點傷害。",
-                ja: "自分のポケモン全員の「ポケモンのどうぐ」の数×30ダメージ。"
+                ja: "自分のポケモン全員の「ポケモンのどうぐ」の数×30ダメージ。",
+                ko: "자신의 포켓몬 전원의 「포켓몬의 도구」의 수 × 30데미지를 준다."
             },
             damage: "30x"
         }

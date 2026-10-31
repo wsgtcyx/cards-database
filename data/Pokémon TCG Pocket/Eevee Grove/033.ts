@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/033"
     },
     name: {
         en: "Sylveon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sylveon",
         "zh-tw": "仙子伊布",
         ja: "ニンフィア",
+        ko: "님피아",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon nutzt seine bandartigen Fühler zum Senden\neine beruhigende Aura auf seine Gegner, die auslöscht\nihre Feindseligkeit.",
         "pt-br": "Este Pokémon usa suas antenas em forma de fita para enviar\numa aura calmante em seus oponentes, apagando\nsua hostilidade.",
         "zh-tw": "這只神奇寶貝用絲帶狀的觸角發送信息\n給對手帶來舒緩的光環，消除\n他們的敵意。",
-        ja: "敵意を 消す 癒しの 波動を リボンのような 触角から 相手の 体に 送り込む。"
+        ja: "敵意を 消す 癒しの 波動を リボンのような 触角から 相手の 体に 送り込む。",
+        ko: "리본 같은 더듬이를 통해\n적의를 없애는 치유의 파동을\n상대에게 보낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Evoharmony",
                 "pt-br": "Evoharmonia",
                 "zh-tw": "進化和諧",
-                ja: "エボルハーモニー"
+                ja: "エボルハーモニー",
+                ko: "이볼브하모니"
             },
             damage: "40+",
             cost: ["Psychic", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Evolutions-Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 danos a mais para cada Pokémon de Evolução no seu Banco.",
                 "zh-tw": "此攻擊對你替補席上的每個進化神奇寶貝造成 30 點額外傷害。",
-                ja: "自分のベンチの進化ポケモンの数×30ダメージ追加。"
+                ja: "自分のベンチの進化ポケモンの数×30ダメージ追加。",
+                ko: "자신의 벤치의 진화 포켓몬의 수 × 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

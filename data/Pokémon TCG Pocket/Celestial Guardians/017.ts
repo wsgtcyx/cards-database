@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/017"
     },
     name: {
         en: "Shiinotic",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
         ja: "ネマシュ",
+        ko: "자마슈",
     },
     description: {
         en: "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",

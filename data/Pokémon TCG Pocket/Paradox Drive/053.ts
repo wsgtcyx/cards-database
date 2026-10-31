@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/053"
     },
     name: {
         en: "Walking Wake",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ähnelt einer in einem paranormalen Magazin veröffentlichten Illustration, bei der es sich angeblich um die Darstellung eines überuralten Suicune handelt.",
         "pt-br": "Assemelha-se a uma ilustração publicada em uma revista paranormal, considerada uma representação de um Suicune superantigo.",
         "zh-tw": "它類似於超自然雜誌上發表的插圖，據說是對超古代 水君 的描繪。",
-        ja: "超古代の スイクンの 姿と オカルト雑誌が 掲載した イラストに 似た 姿をしている。"
+        ja: "超古代の スイクンの 姿と オカルト雑誌が 掲載した イラストに 似た 姿をしている。",
+        ko: "초고대의 스이쿤이라며\n오컬트 잡지에 게재됐던 일러스트와\n비슷한 모습을 하고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schwungvolle Woge",
                 "pt-br": "Onda arrebatadora",
                 "zh-tw": "浪迴百轉",
-                ja: "なみうちめぐる"
+                ja: "なみうちめぐる",
+                ko: "물결치며 순회하기"
             },
             effect: {
                 en: "Discard an Energy from this Pokémon, and this attack also does 20 damage to each of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Energie von diesem Pokémon ab und dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Descarte uma Energia deste Pokémon e este ataque também causará 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "丟棄這隻寶可夢的 1 個能量，這次攻擊也會對對手的後備寶可夢每隻造成 20 點傷害。",
-                ja: "このポケモンからエネルギーを1個選んでトラッシュし、相手のベンチポケモン全員にも20ダメージ。"
+                ja: "このポケモンからエネルギーを1個選んでトラッシュし、相手のベンチポケモン全員にも20ダメージ。",
+                ko: "이 포켓몬에서 에너지를 1개 선택해서 트래쉬하고 상대의 벤치 포켓몬 전원에게도 20데미지를 준다."
             },
             damage: 60
         }

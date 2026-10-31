@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/022"
     },
     name: {
         en: "Blitzle",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es bevorzugt Gebiete, in denen häufig Blitze einschlagen. Diese fängt es mit seiner Mähne, um ihre Energie in seinem Körper zu horten.",
         "pt-br": "Este Pokémon prefere lugares com muitas quedas de raio. Captura raios com sua crina e armazena eletricidade dentro de seu corpo.",
         "zh-tw": "喜歡經常發生落雷的土地。會用鬃毛接下雷電，把電力儲存到體內。",
-        ja: "落雷の 多い 土地を 好む。 たてがみで 雷を 受け止め 体に 電気を 溜めこむのだ。"
+        ja: "落雷の 多い 土地を 好む。 たてがみで 雷を 受け止め 体に 電気を 溜めこむのだ。",
+        ko: "벼락이 많이 떨어지는 곳을 선호한다.\n갈기로 벼락을 받아 내서\n몸에 전기를 비축한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Doppelte Kopfnuss",
                 "pt-br": "Cabeçada Dupla",
                 "zh-tw": "二連頭錘",
-                ja: "にどずつき"
+                ja: "にどずつき",
+                ko: "두번박치기"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

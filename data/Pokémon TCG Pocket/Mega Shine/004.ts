@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/004"
     },
     name: {
         en: "Illumise",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es leitet Volbeat an, Zeichen in den Nachthimmel zu zeichnen. Es gibt Wissenschaftler, die die Bedeutung dieser Zeichen erforschen.",
         "pt-br": "Ele orienta Volbeat a desenhar sinais no céu noturno. Existem estudiosos que pesquisam o significado desses sinais.",
         "zh-tw": "它引導電螢蟲在夜空中繪製標誌。有學者研究這些標誌的涵義。",
-        ja: "バルビートを 誘導して 夜空に サインを 描く。 サインの 意味を 研究する 学者も いる。"
+        ja: "バルビートを 誘導して 夜空に サインを 描く。 サインの 意味を 研究する 学者も いる。",
+        ko: "볼비트를 유도해서\n밤하늘에 사인을 그린다.\n사인의 뜻을 연구하는 학자도 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Mentaler Zermalmer",
                 "pt-br": "Esmagamento Mental",
                 "zh-tw": "心靈粉碎",
-                ja: "メンタルクラッシュ"
+                ja: "メンタルクラッシュ",
+                ko: "멘탈크래시"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Confused, this attack does 40 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果對手的出戰寶可夢處於混亂狀態，則這次攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンがこんらんなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンがこんらんなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 혼란이라면 40데미지를 추가한다."
             },
             damage: "20+"
         }

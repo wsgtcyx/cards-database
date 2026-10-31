@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/098",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/098"
     },
     name: {
         en: "Xatu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Xatu",
         "zh-tw": "天然鳥",
         ja: "ネイティオ",
+        ko: "네이티오",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Natu",
         "zh-tw": "天然雀",
         ja: "ネイティ",
+        ko: "네이티",
     },
     description: {
         en: "This odd Pokémon can see both the past and\nthe future. It eyes the sun's movement all day.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses seltsame Pokémon kann sowohl die Vergangenheit als auch sehen\ndie Zukunft. Es beobachtet den ganzen Tag die Bewegung der Sonne.",
         "pt-br": "Este estranho Pokémon pode ver o passado e\no futuro. Ele observa o movimento do sol o dia todo.",
         "zh-tw": "這個奇怪的神奇寶貝可以看到過去和\n未來。它整天注視著太陽的運動。",
-        ja: "過去と 未来を 見通せる。 毎日 太陽の 動きを 見続けている 不思議な ポケモン。"
+        ja: "過去と 未来を 見通せる。 毎日 太陽の 動きを 見続けている 不思議な ポケモン。",
+        ko: "과거와 미래를 내다볼 수 있다.\n매일 태양의 움직임을\n관찰하는 이상한 포켓몬이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zen-Kopfstoß",
                 "pt-br": "Cabeçada Zen",
                 "zh-tw": "禪宗頭撞",
-                ja: "しねんのずつき"
+                ja: "しねんのずつき",
+                ko: "사념의박치기"
             },
             damage: 80,
             cost: ["Psychic", "Colorless", "Colorless"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

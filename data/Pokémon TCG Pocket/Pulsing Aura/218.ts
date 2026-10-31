@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/218",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/218"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/218",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/218"
     },
     name: {
         en: "Skrelp",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon ist ein schlechter Schwimmer. Wenn es in einen heftigen Sturm gerät, wird es manchmal weit weggeschwemmt und kann nicht mehr in sein Zuhause zurückkehren.",
         "pt-br": "Este Pokémon é um péssimo nadador. Se for pego por uma forte tempestade, às vezes será levado para longe e não poderá retornar para sua casa.",
         "zh-tw": "这只神奇宝贝游泳技术很差。如果遇到猛烈的暴風雨，有時它會被沖到很遠的地方，無法回到自己的家。",
-        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。"
+        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。",
+        ko: "헤엄치는 것이 서툴다.\n강한 폭풍에 휘말리면 먼 곳까지 떠내려가서\n보금자리로 돌아가지 못하는 경우도 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rasierflosse",
                 "pt-br": "Barbatana Cortante",
                 "zh-tw": "鰭快刀",
-                ja: "ひれカッター"
+                ja: "ひれカッター",
+                ko: "지느러미 커터"
             },
             damage: 40
         }

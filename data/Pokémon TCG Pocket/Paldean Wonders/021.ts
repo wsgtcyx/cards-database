@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/021"
     },
     name: {
         en: "Chi-Yu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chi-Yu",
         "zh-tw": "古玉魚",
         ja: "イーユイ",
+        ko: "위유이",
         pt: "Chi-Yu",
         'es-mx': "Chi-Yu"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Der in gebogenen Perlen angesammelte Neid, der mehrere Konflikte auslöste, hat sich in Feuer gehüllt und ist zu einem Pokémon geworden.",
         "pt-br": "A inveja acumulada nas contas curvas que provocaram múltiplos conflitos se revestiu de fogo e se tornou um Pokémon.",
         "zh-tw": "彎曲的珠子中累積的嫉妒，引發了多次衝突，已經將自己包裹在火焰中，變成了寶可夢。",
-        ja: "多くの 争いの 火種となった 勾玉に 集まった 妬みが 炎を まとい ポケモンとなった。"
+        ja: "多くの 争いの 火種となった 勾玉に 集まった 妬みが 炎を まとい ポケモンとなった。",
+        ko: "여러 분쟁의 불씨가 된\n곡옥에 모여든 질투가\n불꽃을 두르고 포켓몬이 되었다."
     },
     stage: "Basic",
     attacks: [
@@ -52,6 +55,7 @@ const card: Card = {
                 "pt-br": "Megafogo da Inveja",
                 "zh-tw": "嫉妒之火",
                 ja: "ねたみのごうか",
+                ko: "시기의겁화",
                 pt: "Megafogo da Inveja"
             },
             damage: "40+",
@@ -65,6 +69,7 @@ const card: Card = {
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
                 ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다.",
                 'es-mx': "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 60 puntos de daño más.",
                 pt: "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais."
             },

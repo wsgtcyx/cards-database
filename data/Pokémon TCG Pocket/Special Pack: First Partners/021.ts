@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/021"
     },
     name: {
         en: "Popplio",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Voz Desarmante",
                 "zh-tw": "魅惑之聲",
                 ja: "チャームボイス",
-                ko: "Disarming Voice"
+                ko: "차밍보이스"
             },
             cost: [
                 "Colorless",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "將對手的戰鬥寶可夢混亂。",
                 ja: "相手のバトルポケモンをこんらんにする。",
-                ko: "Your opponent's Active Pokémon is now Confused."
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }
     ],
@@ -80,7 +81,7 @@ const card: Card = {
         "pt-br": "Este Pokémon expele fluidos corporais de seu nariz, enchendo balões para tacar em seus inimigos. É conhecido por ser trabalhador.",
         "zh-tw": "因勤奮的性格而聞名。 會用鼻子將體液吹成氣球， 然後扔向敵人。",
         ja: "頑張り屋な 性質で 有名。 体液を 鼻で 膨らませた バルーンを 敵に ぶつける。",
-        ko: "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker."
+        ko: "노력하는 성질로 유명하다.\n체액을 코로 부풀린\n풍선을 적에게 부딪힌다."
     }
 };
 

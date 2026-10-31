@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/193",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/193"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/193",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/193"
     },
     name: {
         en: "Dewgong",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Seel",
         "zh-tw": "小海獅",
         ja: "パウワウ",
-        ko: "Seel"
+        ko: "쥬쥬"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Nevasca Dupla",
                 "zh-tw": "二重暴雪",
                 ja: "デュアルブリザード",
-                ko: "Dual Blizzard"
+                ko: "듀얼블리자드"
             },
             cost: [
                 "Water",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Descarte 2 Energias {W} deste Pokémon, e este ataque causa 60 pontos de dano a 2 dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的2個{W}能量丟棄,對手的2隻寶可夢受到60點傷害。",
                 ja: "このポケモンから{W}エネルギーを2個トラッシュし、相手のポケモン2匹に60ダメージ。",
-                ko: "Discard 2 {W} Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon."
+                ko: "이 포켓몬에서 {W}에너지를 2개 트래쉬하고 상대의 포켓몬 2마리에게 60데미지를 준다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Durante o dia, dorme sob águas rasas no oceano. Ao anoitecer, quando a água esfria, sai à procura de alimento.",
         "zh-tw": "會在水溫變低的夜晚為了尋找食物而四處游動。白天會在淺海的海底睡覺。",
         ja: "水の 温度が 下がる 夜 食べものを 求め 泳ぎまわる。 昼間は 浅い 海底で 寝る。",
-        ko: "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s colder."
+        ko: "물의 온도가 내려가는 밤에\n먹이를 찾아 헤엄친다.\n낮에는 얕은 해저에서 잔다."
     }
 };
 

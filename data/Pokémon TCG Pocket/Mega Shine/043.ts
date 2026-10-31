@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/043"
     },
     name: {
         en: "Zorua",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es tarnt sich als Mensch oder als andere Pokémon. Es schützt\nsich vor Gefahren, indem es seine wahre Gestalt geheim hält.",
         "pt-br": "Para se protegerem do perigo, eles escondem suas verdadeiras identidades transformando-se em pessoas e Pokémon.",
         "zh-tw": "為了保護自己免受危險，他們透過變身為人和寶可夢來隱藏自己的真實身份。",
-        ja: "人や ほかの ポケモンに 化ける。 自分の 正体を 隠すことで 危険から 身を 守っているのだ。"
+        ja: "人や ほかの ポケモンに 化ける。 自分の 正体を 隠すことで 危険から 身を 守っているのだ。",
+        ko: "사람이나 다른 포켓몬으로 둔갑한다.\n자신의 정체를 감추어\n위험으로부터 몸을 지키는 것이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Überraschungsangriff",
                 "pt-br": "Ataque Surpresa",
                 "zh-tw": "偷襲",
-                ja: "ふいをつく"
+                ja: "ふいをつく",
+                ko: "허찌르기"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 40
         }

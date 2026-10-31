@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/106"
     },
     name: {
         en: "Alolan Rattata",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Rattfratz",
         'pt-br': "Rattata de Alola",
         ja: "アローラコラッタ",
-        ko: "알로라꼬렛",
+        ko: "알로라 꼬렛",
         "zh-tw": "阿羅拉小拉達",
     },
     illustrator: "nagimiso",

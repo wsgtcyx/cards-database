@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/329",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/329",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/329",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/329"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/329",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/329"
     },
     name: {
         en: "Lilligant",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lilligant",
         "zh-tw": "裙兒小姐",
         ja: "ドレディア",
+        ko: "드레디어",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Crown",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
         ja: "チュリネ",
+        ko: "치릴리",
     },
     description: {
         en: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Egal wie viel Zeit und Geld investiert wird\nWenn man ihn hochzieht, sind seine Blüten am schönsten, wenn\nsie blühen in freier Wildbahn.",
         "pt-br": "Não importa quanto tempo e dinheiro sejam gastos\nao criá-la, suas flores são as mais lindas quando\neles florescem na natureza.",
         "zh-tw": "無論花費多少時間和金錢\n養牠，它的花最美的時候\n它們在野外綻放。",
-        ja: "どんなに 手間と お金を かけても 人の手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。"
+        ja: "どんなに 手間と お金を かけても 人の手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。",
+        ko: "아무리 시간과 돈을 들여도\n사람 손으로 피우는 것보다\n야생에서 피는 꽃이 더 아름답다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Härtearoma",
                 "pt-br": "Aroma de Resistência",
                 "zh-tw": "韌性香氣",
-                ja: "タフネスアロマ"
+                ja: "タフネスアロマ",
+                ko: "터프니스 아로마"
             },
             effect: {
                 en: "Each of your {G} Pokémon gets +20 HP.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Jedes deiner {G} Pokémon erhält +20 HP.",
                 "pt-br": "Cada um dos seus Pokémon {G} recebe +20 HP.",
                 "zh-tw": "你的每隻 {G} 神奇寶貝都會獲得 +20 HP。",
-                ja: "このポケモンがいるかぎり、自分の{G}ポケモン全員の最大HPを+20する。"
+                ja: "このポケモンがいるかぎり、自分の{G}ポケモン全員の最大HPを+20する。",
+                ko: "이 포켓몬이 있는 한, 자신의 {G}포켓몬 전원의 최대 HP를 +20한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Klatschen",
                 "pt-br": "Bater",
                 "zh-tw": "斯馬克",
-                ja: "ひらてうち"
+                ja: "ひらてうち",
+                ko: "수벽치기"
             },
             damage: 50,
             cost: ["Grass", "Colorless"]
@@ -89,6 +96,11 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

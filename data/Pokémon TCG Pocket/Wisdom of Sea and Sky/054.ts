@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/054"
     },
     name: {
         en: "Corsola",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Corsola",
         "zh-tw": "太陽珊瑚",
         ja: "サニーゴ",
+        ko: "코산호",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Abgebrochene Zweige wachsen nach\nKopf. Die Menschen halten Corsola besonders schön\nZweige als Anhänger zur Förderung einer sicheren Geburt.",
         "pt-br": "Ele irá regenerar quaisquer galhos que se quebrem\ncabeça. As pessoas mantêm Corsola particularmente bonita\nramos como amuletos para promover um parto seguro.",
         "zh-tw": "它會重新長出任何折斷的樹枝\n頭。人們養的科索拉特別漂亮\n樹枝作為護身符，促進安全分娩。",
-        ja: "頭に 生えた 枝は 折れても また 生えてくる。 きれいな ものは 安産の お守りに されるよ。"
+        ja: "頭に 生えた 枝は 折れても また 生えてくる。 きれいな ものは 安産の お守りに されるよ。",
+        ko: "머리에 난 가지는 부러져도\n다시 자란다. 예쁜 것은\n순산을 기원하는 부적으로 쓰인다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Finde einen Freund",
                 "pt-br": "Encontre um amigo",
                 "zh-tw": "找朋友",
-                ja: "ともだちをさがす"
+                ja: "ともだちをさがす",
+                ko: "친구찾기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
-                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     weaknesses: [{

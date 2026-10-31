@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/233",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/233",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/233",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/233"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/233",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/233"
     },
     name: {
         en: "Leafeon ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Leafeon ex",
         "zh-tw": "葉伊布ex",
         ja: "リーフィアex",
+        ko: "리피아 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Waldatem",
                 "pt-br": "Respiração da Floresta",
                 "zh-tw": "森林呼吸",
-                ja: "もりのいぶき"
+                ja: "もりのいぶき",
+                ko: "숲의 숨결"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du eine {G}-Energie aus deiner Energiezone nehmen und sie an 1 deiner {G}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá pegar uma Energia {G} da sua Zona de Energia e ligá-la a 1 dos seus {G} Pokémon.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝位於活動位置，你可以從你的能量區取出一個 {G} 能量並將其附加到你的 1 只 {G} 神奇寶貝上。",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のエネルギーゾーンから{G}エネルギーを1個出し、{G}ポケモンにつける。"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のエネルギーゾーンから{G}エネルギーを1個出し、{G}ポケモンにつける。",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {G}에너지를 1개 내보내 {G}포켓몬에게 붙인다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Sonnenstrahl",
                 "pt-br": "Raio Solar",
                 "zh-tw": "太陽光束",
-                ja: "ソーラービーム"
+                ja: "ソーラービーム",
+                ko: "솔라빔"
             },
             damage: 70,
             cost: ["Grass", "Colorless", "Colorless"]

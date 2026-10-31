@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/229",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/229",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/229",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/229"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/229",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/229"
     },
     name: {
         en: "Hitmonchan ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Schneller Boxschlag",
                 "pt-br": "Golpe Lépido",
                 "zh-tw": "快速直拳",
-                ja: "クイックストレート"
+                ja: "クイックストレート",
+                ko: "퀵스트레이트"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Der Schaden dieses Angriffs wird durch Schwäche nicht beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado pela Fraqueza.",
                 "zh-tw": "該攻擊的傷害不受虛弱影響。",
-                ja: "このワザのダメージは弱点を計算しない。"
+                ja: "このワザのダメージは弱点を計算しない。",
+                ko: "이 기술의 데미지는 약점 계산을 하지 않는다."
             },
             damage: 50
         }

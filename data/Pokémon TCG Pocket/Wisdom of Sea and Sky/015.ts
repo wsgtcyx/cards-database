@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/015"
     },
     name: {
         en: "Jumpluff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jumpluff",
         "zh-tw": "毽子棉",
         ja: "ワタッコ",
+        ko: "솜솜코",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
         ja: "ポポッコ",
+        ko: "두코",
     },
     description: {
         en: "Jumpluff travels on seasonal winds. Once its\ncotton spores run out, its journey ends, as does\nits life.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Jumpluff reist mit saisonalen Winden. Sobald es\nWenn die Sporen der Baumwolle erschöpft sind, endet auch ihre Reise\nsein Leben.",
         "pt-br": "Jumpluff viaja com ventos sazonais. Uma vez que é\nos esporos do algodão acabam, sua jornada termina, assim como\nsua vida.",
         "zh-tw": "Jumpluff 依靠季風行駛。一旦它\n棉花孢子用完，它的旅程也結束了\n它的生命。",
-        ja: "季節風に 乗り 旅をする。 綿胞子が 尽きるとき 旅と ワタッコの 一生は 終わる。"
+        ja: "季節風に 乗り 旅をする。 綿胞子が 尽きるとき 旅と ワタッコの 一生は 終わる。",
+        ko: "계절풍을 타고 여행한다.\n솜 포자가 다 떨어지면\n여행과 함께 솜솜코의 일생도 끝난다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Flauschiger Flug",
                 "pt-br": "Voo fofo",
                 "zh-tw": "蓬鬆的飛行",
-                ja: "コットンフライト"
+                ja: "コットンフライト",
+                ko: "코튼플라이트"
             },
             effect: {
                 en: "Your Active Pokémon has no Retreat Cost.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dein aktives Pokémon hat keine Rückzugskosten.",
                 "pt-br": "Seu Pokémon Ativo não tem Custo de Recuo.",
                 "zh-tw": "你的活躍神奇寶貝沒有撤退成本。",
-                ja: "このポケモンがいるかぎり、自分のバトルポケモンのにげるためのエネルギーを、すべてなくす。"
+                ja: "このポケモンがいるかぎり、自分のバトルポケモンのにげるためのエネルギーを、すべてなくす。",
+                ko: "이 포켓몬이 있는 한, 자신의 배틀 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
                 "zh-tw": "旋轉攻擊",
-                ja: "かいてんアタック"
+                ja: "かいてんアタック",
+                ko: "회전어택"
             },
             damage: 60,
             cost: ["Grass"]

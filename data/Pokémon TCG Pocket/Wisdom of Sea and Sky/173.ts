@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/173",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/173",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/173",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/173"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/173",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/173"
     },
     name: {
         en: "Togepi",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Togepi",
         "zh-tw": "波克比",
         ja: "トゲピー",
+        ko: "토게피",
     },
     illustrator: "Terada Tera",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Hülle scheint voller Freude zu sein. Es heißt\ndass es viel Glück bringt, wenn es freundlich behandelt wird.",
         "pt-br": "A concha parece estar cheia de alegria. É dito\nque compartilhará boa sorte quando tratado com gentileza.",
         "zh-tw": "貝殼裡似乎充滿了喜悅。據說\n如果受到善待，它會分享好運。",
-        ja: "殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。"
+        ja: "殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。",
+        ko: "껍질 안에 행복이 가득 차 있어서\n상냥하게 대해준 사람에게\n행운을 나누어 준다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Charme",
                 "pt-br": "Charme",
                 "zh-tw": "魅力",
-                ja: "あまえる"
+                ja: "あまえる",
+                ko: "애교부리기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

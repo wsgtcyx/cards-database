@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/020"
     },
     name: {
         en: "Litten",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Presas de Fogo",
                 "zh-tw": "火焰牙",
                 ja: "ほのおのキバ",
-                ko: "Fire Fang"
+                ko: "불꽃엄니"
             },
             cost: [
                 "Colorless",
@@ -67,7 +68,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
                 ja: "相手のバトルポケモンをやけどにする。",
-                ko: "Your opponent's Active Pokémon is now Burned."
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
         "pt-br": "Enquanto se lambe, acumula pelos em seu estômago. Acende esse pelo e expele ataques flamejantes, que podem variar dependendo de como tosse.",
         "zh-tw": "將理毛時屯積在肚子裡的落毛引燃並吐出火焰。火焰會隨著吐毛的方式不同而變化。",
         ja: "毛づくろいで お腹に 溜まった 抜け毛を 燃やして 火を 吹く。 毛の 吐きかたで 炎も 変化。",
-        ko: "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs."
+        ko: "혀로 털을 정리할 때 배 속에 쌓이는\n빠진 털을 태워서 불을 뿜는다.\n털을 뱉어 내는 방법에 따라 불꽃도 변한다."
     }
 };
 

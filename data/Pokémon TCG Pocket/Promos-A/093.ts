@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/093"
     },
     name: {
         en: "Cleffa",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cleffa",
         "zh-tw": "皮寶寶",
         ja: "ピィ",
+        ko: "삐",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Lokalen Gerüchten zufolge wird Cleffa oft gesehen\nan Orten, an denen Sternschnuppen gefallen sind.",
         "pt-br": "De acordo com rumores locais, Cleffa é frequentemente visto\nem lugares onde caíram estrelas cadentes.",
         "zh-tw": "據當地傳聞，Cleffa 經常出現\n在流星墜落的地方。",
-        ja: "ピィを よく 見かける 場所は 流れ星が 落ちた 場所と 地元では うわさ されている。"
+        ja: "ピィを よく 見かける 場所は 流れ星が 落ちた 場所と 地元では うわさ されている。",
+        ko: "삐가 자주 보이는 장소는\n별똥별이 떨어진 장소라고\n그 고장에서 소문이 돈다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Funkelnder Anruf",
                 "pt-br": "Chamada cintilante",
                 "zh-tw": "閃爍的召喚",
-                ja: "きらきらコール"
+                ja: "きらきらコール",
+                ko: "반짝반짝콜"
             },
             effect: {
                 en: "Put a random Pokémon from your deck into your hand.",
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
-                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     retreat: 0

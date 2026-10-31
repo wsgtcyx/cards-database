@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/005"
     },
     name: {
         en: "Beautifly",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Beautifly",
         "zh-tw": "狩獵鳳蝶",
         ja: "アゲハント",
+        ko: "뷰티플라이",
     },
     illustrator: "Midori Harada",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Silcoon",
         "zh-tw": "甲殼繭",
         ja: "カラサリス",
+        ko: "실쿤",
     },
     description: {
         en: "It has an aggressive nature. It stabs prey with its\nlong, narrow mouth to drain the prey's fluids.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es hat eine aggressive Natur. Es ersticht die Beute damit\nLanges, schmales Maul, um die Flüssigkeiten der Beute abzuleiten.",
         "pt-br": "Tem uma natureza agressiva. Ele apunhala a presa com seu\nboca longa e estreita para drenar os fluidos da presa.",
         "zh-tw": "它具有攻擊性。它用它的刺刺獵物\n長而窄的嘴可以排出獵物的體液。",
-        ja: "長細い 口を 突き刺して 相手の 体液を 吸い取る。 攻撃的な 性格。"
+        ja: "長細い 口を 突き刺して 相手の 体液を 吸い取る。 攻撃的な 性格。",
+        ko: "가늘고 긴 입을 깊이 찔러\n상대의 체액을 흡수한다.\n공격적인 성격이다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
                 "zh-tw": "技能潛水",
-                ja: "ちょくげきひこう"
+                ja: "ちょくげきひこう",
+                ko: "직격비행"
             },
             cost: ["Grass"],
             effect: {
@@ -68,13 +73,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
-                ja: "相手のポケモン1匹に50ダメージ。"
+                ja: "相手のポケモン1匹に50ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 50데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

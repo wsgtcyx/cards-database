@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/004"
     },
     name: {
         en: "Luxray",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Beim Aufspüren von Gefahren sind Luxtras hellseherische\nFähigkeiten äußerst hilfreich.",
         "pt-br": "A capacidade do Luxray de ver através dos objetos é útil quando ele está em busca de perigo.",
         "zh-tw": "倫琴貓 透視物體的能力在偵察危險時派上用場。",
-        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。"
+        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。",
+        ko: "렌트라의 투시 능력은\n위험한 것을 발견할 때\n매우 도움이 된다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Blitzeinschlag",
                 "pt-br": "Impacto Lampejante",
                 "zh-tw": "閃光衝擊",
-                ja: "フラッシュインパクト"
+                ja: "フラッシュインパクト",
+                ko: "플래시임팩트"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem 1 deiner Bank-Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你後備的 1 只寶可夢造成 20 點傷害。",
-                ja: "自分のベンチポケモン1匹にも20ダメージ。"
+                ja: "自分のベンチポケモン1匹にも20ダメージ。",
+                ko: "자신의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             },
             damage: 110
         }

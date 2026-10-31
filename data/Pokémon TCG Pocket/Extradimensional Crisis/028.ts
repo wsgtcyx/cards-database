@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/028"
     },
     name: {
         en: "Meditite",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
         ja: "アサナン",
+        ko: "요가랑",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es lässt sein tägliches Yoga-Training nie aus. Es steigert sich\nseine innere Stärke durch Meditation.",
         "pt-br": "Ele nunca pula seu treinamento diário de ioga. Isso aumenta\nsua força interior através da meditação.",
         "zh-tw": "它從不跳過日常瑜伽訓練。它提高了\n通過冥想獲得內在的力量。",
-        ja: "毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。"
+        ja: "毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。",
+        ko: "매일 요가 수행을 거르지 않는다.\n명상을 통해서 정신력을 높인다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
                 "zh-tw": "絆倒",
-                ja: "ころばす"
+                ja: "ころばす",
+                ko: "걸어 넘어뜨리기"
             },
             damage: "10+",
             cost: ["Fighting"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

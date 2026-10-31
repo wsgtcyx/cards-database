@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/212",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/212",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/212",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/212"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/212",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/212"
 	},
 	name: {
 		en: "Lucario",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Lucario",
 		"pt-br": "Lucario",
 		"zh-tw": "路卡利歐",
-		ja: "ルカリオ"
+		ja: "ルカリオ",
+		ko: "루카리오"
 	},
 	illustrator: "nagimiso",
 	rarity: "Three Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Riolu",
 		"pt-br": "Riolu",
 		"zh-tw": "利歐路",
-		ja: "リオル"
+		ja: "リオル",
+		ko: "리오르"
 	},
 	description: {
 		en: "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",

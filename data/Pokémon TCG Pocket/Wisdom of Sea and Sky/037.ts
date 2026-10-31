@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/037"
     },
     name: {
         en: "Heatmor",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Heatmor",
         "zh-tw": "熔蟻獸",
         ja: "クイタラン",
+        ko: "앤티골",
     },
     illustrator: "match",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In seinem Schwanz befindet sich ein Loch, durch das er einziehen kann\ndie Luft, die es braucht, um sein Feuer am Brennen zu halten. Wenn die\nWenn das Loch blockiert wird, wird dieses Pokémon krank.",
         "pt-br": "Há um buraco na cauda que permite que ele puxe\no ar de que necessita para manter o fogo aceso. Se o\nburaco for bloqueado, este Pokémon ficará doente.",
         "zh-tw": "它的尾巴上有一個洞，可以讓它吸入\n保持火焰燃燒所需的空氣。如果\n洞被堵住了，這只神奇寶貝就會生病。",
-        ja: "しっぽの 穴から 空気を 取りこみ 炎を 燃やす。 穴を 塞がれると 具合が 悪くなる。"
+        ja: "しっぽの 穴から 空気を 取りこみ 炎を 燃やす。 穴を 塞がれると 具合が 悪くなる。",
+        ko: "꼬리의 구멍을 통해 공기를\n빨아들여 불꽃을 태운다.\n구멍이 막히면 상태가 나빠진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rösthitze",
                 "pt-br": "Calor de torrefação",
                 "zh-tw": "烘烤熱量",
-                ja: "あぶりやき"
+                ja: "あぶりやき",
+                ko: "그슬려태우기"
             },
             damage: "30+",
             cost: ["Fire", "Fire"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners verbrannt ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Queimado, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢被燒毀，則這次攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンがやけどなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンがやけどなら、60ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 화상이라면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

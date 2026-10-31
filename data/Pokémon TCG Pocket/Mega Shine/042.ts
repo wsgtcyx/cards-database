@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/042"
     },
     name: {
         en: "Garbodor",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die toxische Flüssigkeit aus seinem rechten Arm\nist sehr gefährlich. Angeschlagene Lebewesen\nkommen bei Kontakt sofort ums Leben.",
         "pt-br": "O líquido tóxico que lança do braço direito é tão virulento que pode matar instantaneamente uma criatura enfraquecida.",
         "zh-tw": "從右臂噴出的毒液十分危險，\n虛弱的生物只要一沾到，\n立刻就會丟掉性命。",
-        ja: "右腕から 出す 毒液は 弱った 生物が 浴びれば 即死するほど 危険な シロモノ。"
+        ja: "右腕から 出す 毒液は 弱った 生物が 浴びれば 即死するほど 危険な シロモノ。",
+        ko: "오른팔에서 내보내는 독액은\n약한 생물이 맞으면\n즉사할 정도로 위험하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schlammstrudel",
                 "pt-br": "Redemoinho de Lodo",
                 "zh-tw": "污泥旋渦",
-                ja: "ヘドロのうず"
+                ja: "ヘドロのうず",
+                ko: "오물회오리"
             },
             damage: 70
         }

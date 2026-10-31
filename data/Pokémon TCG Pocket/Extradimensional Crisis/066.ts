@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/066",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/066"
     },
     name: {
         en: "Beastite",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Bestienit",
         "pt-br": "Criaturita",
         "zh-tw": "異獸秘石",
-        ja: "ビーストナイト"
+        ja: "ビーストナイト",
+        ko: "비스트나이트"
     },
     illustrator: "inose yukie",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Angriffe der Ultrabestie, an die diese Karte angehängt ist, fügen dem Aktiven Pokémon deines Gegners für jeden Punkt, den du erhalten hast, +10 Schaden zu.",
         "pt-br": "Os ataques usados ​​pela Ultra Beast que esta carta está anexada causam +10 de dano ao Pokémon Ativo do seu oponente para cada ponto que você obteve.",
         "zh-tw": "這張卡所附加的究極異獸的攻擊，每獲得1點，就會對對手的活躍寶可夢造成+10點傷害。",
-        ja: "このカードをつけている「ウルトラビースト」が使うワザの、相手のバトルポケモンへのダメージを、自分のすでにとったポイント数につき+10する。"
+        ja: "このカードをつけている「ウルトラビースト」が使うワザの、相手のバトルポケモンへのダメージを、自分のすでにとったポイント数につき+10する。",
+        ko: "이 카드를 붙이고 있는 「울트라비스트」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 자신이 이미 가져간 포인트 수당 +10한다."
     },
     trainerType: "Tool"
 };

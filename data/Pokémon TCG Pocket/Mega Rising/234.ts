@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/234",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/234",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/234"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/234",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/234"
     },
     name: {
         en: "Jellicent",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jellicent",
         "zh-tw": "胖嘟嘟",
         ja: "ブルンゲル",
+        ko: "탱탱겔",
     },
     illustrator: "Haru Akasaka",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
         ja: "プルリル",
+        ko: "탱그릴",
     },
     description: {
         en: "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Immer wenn ein Vollmond am Nachthimmel hängt,\nSchulen von Jellicent versammeln sich nahe der Oberfläche von\ndas Meer und wartet auf das Erscheinen ihrer Beute.",
         "pt-br": "Sempre que uma lua cheia paira no céu noturno,\ncardumes de Jellicent se reúnem perto da superfície de\no mar, esperando que suas presas apareçam.",
         "zh-tw": "每當一輪滿月掛在夜空中時，\n傑利森特學校聚集在地表附近\n大海裡，等待著獵物的出現。",
-        ja: "満月に なると 群れを 引き連れ 海面に 姿を 見せる。 獲物が 来るのを 待っているのだ。"
+        ja: "満月に なると 群れを 引き連れ 海面に 姿を 見せる。 獲物が 来るのを 待っているのだ。",
+        ko: "보름달이 뜨면 무리를 거느리고\n해수면에 모습을 드러낸다.\n먹이가 오기를 기다리는 것이다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Federnder Körper",
                 "pt-br": "Corpo saltitante",
                 "zh-tw": "彈力身體",
-                ja: "ぷるぷるボディ"
+                ja: "ぷるぷるボディ",
+                ko: "벌벌바디"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque dos Pokémon do seu oponente, pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則從自己的能量區取出 {W} 能量並將其附加到您後備的 1 只寶可夢身上。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチポケモンにつける。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチポケモンにつける。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 자신의 에너지존에서 {W}에너지를 1개 내보내 벤치 포켓몬에게 붙인다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Surfen",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 60,
             cost: ["Water", "Water"]
@@ -89,6 +96,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

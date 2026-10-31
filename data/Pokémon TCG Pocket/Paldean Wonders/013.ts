@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/013"
     },
     name: {
         en: "Scovillain",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Scovillain",
         "zh-tw": "狠辣椒",
         ja: "スコヴィラン",
+        ko: "스코빌런",
         pt: "Scovillain"
     },
     illustrator: "kodama",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Capsakid",
         "zh-tw": "熱辣娃",
         ja: "カプサイジ",
+        ko: "캡싸이",
         pt: "Capsakid"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Der Grünkopf ist aufgrund der scharfen Chemikalien, die sein Gehirn stimulieren, bösartig geworden. Sobald es tobt, gibt es kein Halten mehr.",
         "pt-br": "A cabeça verde tornou-se cruel devido aos produtos químicos picantes que estimulam seu cérebro. Uma vez que fica furioso, não há como pará-lo.",
         "zh-tw": "由於辛辣的化學物質刺激了它的大腦，綠頭變得邪惡了。一旦發狂，就沒有辦法阻止。",
-        ja: "グリーンヘッドは 辛み成分に 脳が 刺激されて 凶暴化。 暴れだすと 手がつけられない。"
+        ja: "グリーンヘッドは 辛み成分に 脳が 刺激されて 凶暴化。 暴れだすと 手がつけられない。",
+        ko: "그린 헤드는 매운 성분에\n뇌를 자극받아 흉포해졌다.\n날뛰기 시작하면 손쓸 도리가 없다."
     },
     stage: "Stage1",
     attacks: [
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Rotglühender Kopfstoß",
                 "pt-br": "Cabeçada em brasa",
                 "zh-tw": "熾熱的頭撞",
-                ja: "レッドホットヘッド"
+                ja: "レッドホットヘッド",
+                ko: "레드핫헤드"
             },
             damage: "60+",
             cost: ["Grass", "Colorless"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Gras- oder Metall-Pokémon ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Grama ou Metal, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果對手的戰鬥寶可夢是草寶可夢或金屬寶可夢，則此攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンが{G}または{M}ポケモンなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンが{G}または{M}ポケモンなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 {G} 또는 {M}포켓몬이라면 40데미지를 추가한다."
             },
         },
     ],

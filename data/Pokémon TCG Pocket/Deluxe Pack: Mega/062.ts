@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/062"
     },
     name: {
         en: "Mudkip",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Ao utilizar sua grande barbatana, ganha velocidade rapidamente na água. É forte, apesar de seu pequeno porte.",
         "zh-tw": "如果用大大的尾鰭划水，速度就會快速提升。身體雖小卻很有力氣。",
         ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。",
-        ko: "When it uses its large tail fin, it picks up speed\nrapidly in the water. It is strong in spite of its\nsmall size."
+        ko: "커다란 꼬리지느러미로 물을 헤치면\n스피드가 쑥쑥 오른다.\n작은 몸이지만 힘이 장사다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
                 ja: "たいあたり",
-                ko: "Tackle"
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: [

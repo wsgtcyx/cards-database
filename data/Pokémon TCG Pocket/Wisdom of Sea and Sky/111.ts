@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/111",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/111",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/111"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/111",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/111"
     },
     name: {
         en: "Ariados",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ariados",
         "zh-tw": "阿利多斯",
         ja: "アリアドス",
+        ko: "아리아도스",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Spinarak",
         "zh-tw": "圓絲蛛",
         ja: "イトマル",
+        ko: "페이검",
     },
     description: {
         en: "Every night, it wanders around in search of\nprey, whose movements it restrains by spewing\nthreads before it bites into them with its fangs.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Jede Nacht wandert es auf der Suche umher\nBeute, deren Bewegungen es durch Ausstoßen einschränkt\nFäden, bevor es mit seinen Reißzähnen hineinbeißt.",
         "pt-br": "Todas as noites ele vagueia em busca de\npresa, cujos movimentos ela restringe vomitando\nfios antes de mordê-los com suas presas.",
         "zh-tw": "每天晚上，它都會四處遊蕩，尋找\n獵物，通過噴吐來限制其行動\n在它用尖牙咬住它們之前。",
-        ja: "夜ごと 獲物を 求めて さ迷う。 見つけた 獲物に 糸を 吐き 身動きを 封じて キバで かじる。"
+        ja: "夜ごと 獲物を 求めて さ迷う。 見つけた 獲物に 糸を 吐き 身動きを 封じて キバで かじる。",
+        ko: "밤마다 먹이를 찾아 떠돈다.\n발견한 먹이에 실을 내뿜어\n움직이지 못하게 하고 이빨로 갉아먹는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Binde dich fest",
                 "pt-br": "Vincular",
                 "zh-tw": "綁定",
-                ja: "しばりつける"
+                ja: "しばりつける",
+                ko: "붙들어매기"
             },
             damage: 40,
             cost: ["Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }],
     weaknesses: [{

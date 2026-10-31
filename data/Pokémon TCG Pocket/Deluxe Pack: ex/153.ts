@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/153",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/153",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/153",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/153"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/153",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/153"
 	},
 	name: {
 		en: "Haunter",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Alpollo",
 		"pt-br": "Haunter",
 		"zh-tw": "鬼斯通",
-		ja: "ゴースト"
+		ja: "ゴースト",
+		ko: "고우스트"
 	},
 	illustrator: "Nisota Niso",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Nebulak",
 		"pt-br": "Gastly",
 		"zh-tw": "鬼斯",
-		ja: "ゴース"
+		ja: "ゴース",
+		ko: "고오스"
 	},
 	attacks: [
 		{

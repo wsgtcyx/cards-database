@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/311",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/311",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/311",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/311"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/311",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/311"
     },
     name: {
         en: "Klefki",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Antigamente, famílias nobres confiavam as chaves de seus cofres a um Klefki. Este Klefki era passado de geração em geração, sendo sempre muito bem cuidado.",
         "zh-tw": "過去的貴族會將掌管金庫鑰匙的鑰圈兒一代代地傳承下去，並對其呵護備至。",
         ja: "昔の 貴族は 金庫の カギを 管理させる クレッフィを 代々 引き継ぎ 大切に 扱った。",
-        ko: "In the past, noble families entrusted their vault\nkeys to a Klefki. They passed the Klefki down\nthrough the generations, taking good care of it."
+        ko: "옛날 귀족은 금고 열쇠를 관리하는\n클레피를 대대손손\n소중하게 여겼다."
     },
     stage: "Basic",
     abilities: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Chaves do Desmantelamento",
                 "zh-tw": "分解鑰匙",
                 ja: "ぶんかいのカギ",
-                ko: "Dismantling Keys"
+                ko: "분해의열쇠"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon.",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá descartar todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente. Se fizer isso, descarte este Pokémon.",
                 "zh-tw": "若這隻寶可夢在備戰區,則在自己的回合時可使用1次。將對手的戰鬥寶可夢身上附加的「寶可夢道具」丟棄。然後,將這隻寶可夢丟棄。",
                 ja: "このポケモンがベンチにいるなら、自分の番に1回使える。相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュ。その後、このポケモンをトラッシュ。",
-                ko: "Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon."
+                ko: "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다. 그 뒤, 이 포켓몬을 트래쉬한다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
                 ja: "ひっかける",
-                ko: "Hook"
+                ko: "걸기"
             },
             damage: 20,
             cost: [

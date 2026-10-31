@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/134",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/134"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/134",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/134"
     },
     name: {
         en: "Regigigas",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es gibt eine Legende, wonach dieses Pokémon die Kontinente\nmit einem Seil gezogen hat.",
         "pt-br": "Existe uma lenda antiga que afirma que este Pokémon rebocou continentes com cordas.",
         "zh-tw": "有一個歷久不衰的傳說，說這隻寶可夢用繩子拖曳著大陸。",
-        ja: "縄で 縛った 大陸を 引っ張って 動かしたという 伝説が 残されている。"
+        ja: "縄で 縛った 大陸を 引っ張って 動かしたという 伝説が 残されている。",
+        ko: "밧줄로 묶은 대륙을 당겨서\n움직였다고 하는\n전설이 남아 있다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Siegel der Antike",
                 "pt-br": "Selo da Antiguidade",
                 "zh-tw": "遠古封印",
-                ja: "いにしえのふういん"
+                ja: "いにしえのふういん",
+                ko: "옛 봉인"
             },
             effect: {
                 en: "If you don't have Regirock, Regice, and Registeel on your Bench, this Pokémon can't attack.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn Regirock, Regice und Registeel nicht auf deiner Bank sind, kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Se você não tiver Regirock, Regice e Registeel em seu Banco, este Pokémon não poderá atacar.",
                 "zh-tw": "如果你的替補席上沒有雷吉洛克、雷吉艾斯和雷吉斯奇魯，則這隻寶可夢無法攻擊。",
-                ja: "自分のベンチに「レジロック」「レジアイス」「レジスチル」がいないなら、このポケモンはワザが使えない。"
+                ja: "自分のベンチに「レジロック」「レジアイス」「レジスチル」がいないなら、このポケモンはワザが使えない。",
+                ko: "자신의 벤치에 「레지락」「레지아이스」「레지스틸」이 없다면 이 포켓몬은 기술을 사용할 수 없다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Giga-Turbo",
                 "pt-br": "Gigaturbo",
                 "zh-tw": "終極增能",
-                ja: "ギガターボ"
+                ja: "ギガターボ",
+                ko: "기가터보"
             },
             effect: {
                 en: "Take a {C} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -87,7 +92,8 @@ const card: Card = {
                 de: "Nimm eine {C}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {C} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個 {C} 能量並將其附加到你的 1 個後備寶可夢身上。",
-                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、ベンチポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、ベンチポケモンにつける。",
+                ko: "자신의 에너지존에서 {C}에너지를 1개 내보내 벤치 포켓몬에게 붙인다."
             },
             damage: 100
         }

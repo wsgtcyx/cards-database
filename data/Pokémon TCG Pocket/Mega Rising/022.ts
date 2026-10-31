@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/022",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/022"
     },
     name: {
         en: "Gogoat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gogoat",
         "zh-tw": "坐騎山羊",
         ja: "ゴーゴート",
+        ko: "고고트",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Skiddo",
         "zh-tw": "坐騎小羊",
         ja: "メェークル",
+        ko: "메이클",
     },
     description: {
         en: "These Pokémon live in herds in mountainous\nplaces. The victor in their contests of clashing\nhorns will become the leader of the herd.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Diese Pokémon leben in Herden in den Bergen\nOrte. Der Sieger in ihren Auseinandersetzungen\nHörner werden zum Anführer der Herde.",
         "pt-br": "Esses Pokémon vivem em rebanhos em regiões montanhosas\nlugares. O vencedor em suas competições de confronto\nchifres se tornará o líder do rebanho.",
         "zh-tw": "這些神奇寶貝成群生活在山區\n地方。他們衝突比賽中的勝利者\n角將成為牛群的領導者。",
-        ja: "山岳地帯で 群れで 暮らす。 ツノを ぶつけあう 勝負に 勝った 個体が リーダーになる。"
+        ja: "山岳地帯で 群れで 暮らす。 ツノを ぶつけあう 勝負に 勝った 個体が リーダーになる。",
+        ko: "산악 지대에 무리 지어 산다.\n뿔을 맞부딪치는 승부에서\n이긴 개체가 리더가 된다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Doppelte Kante",
                 "pt-br": "Borda Dupla",
                 "zh-tw": "雙刃",
-                ja: "すてみタックル"
+                ja: "すてみタックル",
+                ko: "이판사판태클"
             },
             damage: 100,
             cost: ["Grass", "Grass", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

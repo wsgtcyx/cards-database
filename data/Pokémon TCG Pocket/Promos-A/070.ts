@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/070"
     },
     name: {
         en: "Alolan Ninetales",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Vulnona",
         'pt-br': "Ninetales de Alola",
         ja: "アローラキュウコン",
-        ko: "알로라나인테일",
+        ko: "알로라 나인테일",
         "zh-tw": "阿羅拉九尾"
     },
     illustrator: "tono",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
-        ja: "アローラロコン"
+        ja: "アローラロコン",
+        ko: "알로라 식스테일"
     },
     description: {
         en: "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",

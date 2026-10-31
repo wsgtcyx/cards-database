@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/053"
     },
     name: {
         en: "Floatzel",
@@ -48,7 +49,8 @@ const card: Card = {
         "de": "Bamelin",
         "pt-br": "Buizel",
         "zh-tw": "泳圈鼬",
-        ja: "ブイゼル"
+        ja: "ブイゼル",
+        ko: "브이젤"
     },
     attacks: [{
             name: {

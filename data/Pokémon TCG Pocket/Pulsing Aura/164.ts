@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/164",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/164",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/164"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/164",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/164"
     },
     name: {
         en: "Morpeko",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat einen kleinen Magen. Wenn es nicht ständig die Samen frisst, die es in seinen Taschen hat, wird es sofort hungrig.",
         "pt-br": "Tem um estômago pequeno. Se não comer constantemente as sementes que guarda nos bolsos, ficará com fome imediatamente.",
         "zh-tw": "它有一個小胃。如果它不經常吃口袋裡的種子，它會立即感到飢餓。",
-        ja: "胃袋が 小さいので ポケットに 入れた タネを いつも 食べてないと すぐに お腹が 空いてしまうのだ。"
+        ja: "胃袋が 小さいので ポケットに 入れた タネを いつも 食べてないと すぐに お腹が 空いてしまうのだ。",
+        ko: "위가 작아서 주머니에 넣어 둔\n씨앗을 계속 먹지 않으면\n금방 배가 고파진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Voller-Bauch-Blitz",
                 "pt-br": "Raio de Barriga Cheia",
                 "zh-tw": "滿腹伏特",
-                ja: "まんぷくボルト"
+                ja: "まんぷくボルト",
+                ko: "만복볼트"
             },
             effect: {
                 en: "If this Pokémon has no damage on it, this attack does 30 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn dieses Pokémon keinen Schaden hat, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon não causar danos, este ataque causará 30 danos a mais.",
                 "zh-tw": "如果這隻寶可夢沒有受到任何傷害，這次攻擊會造成額外 30 點傷害。",
-                ja: "このポケモンがダメージを受けていないなら、30ダメージ追加。"
+                ja: "このポケモンがダメージを受けていないなら、30ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있지 않다면 30데미지를 추가한다."
             },
             damage: "10+"
         }

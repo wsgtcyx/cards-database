@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/128",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/128",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/128"
     },
     name: {
         en: "Cyclizar",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es kann mit 120 km/h umherdüsen, während es einen Menschen trägt. Die Körperwärme der Person wärmt seinen Rücken und gibt ihm Kraft.",
         "pt-br": "Consegue correr a mais de 120 km/h carregando um humano. O calor que o piloto emana pelo corpo aquece as costas de Cyclizar, deixando-o de bom humor.",
         "zh-tw": "會以時速120公里載著\n人類奔馳，並藉著人類的\n體溫來溫熱背部，恢復活力。",
-        ja: "人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。"
+        ja: "人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。",
+        ko: "사람을 태우고 시속 120km로 질주한다.\n사람의 체온으로 등이 따뜻해지면\n기운이 난다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "高速猛衝",
                 "it": "-Propulsione Rapida",
                 "de": "Schnellganggetriebe",
-                ja: "こうそくドライブ"
+                ja: "こうそくドライブ",
+                ko: "고속드라이브"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             },
             damage: 70
         }

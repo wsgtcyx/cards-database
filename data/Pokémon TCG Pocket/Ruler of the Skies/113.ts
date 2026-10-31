@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/113",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/113",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/113",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/113"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/113",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/113"
     },
     name: {
         en: "Archaludon",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Auf der Suche nach Futter gräbt es in den Bergen Löcher. Es ist so robust, dass es ihm auch nichts ausmacht, wenn diese über ihm einstürzen.",
         "pt-br": "Cava buracos em montanhas em busca de comida. É tão robusto que, mesmo que fique preso em uma caverna, não ficará incomodado.",
         "zh-tw": "會在山裡挖洞來尋找食物。\n身體非常堅硬，即使遇到\n洞穴坍塌也能毫不會在意。",
-        ja: "山中で 穴を 掘り エサを 探す。 落盤に 巻きこまれても へっちゃらなくらい 頑丈。※ ブルーベリー学園での冒険で出会うことができます。"
+        ja: "山中で 穴を 掘り エサを 探す。 落盤に 巻きこまれても へっちゃらなくらい 頑丈。※ ブルーベリー学園での冒険で出会うことができます。",
+        ko: "산속에서 굴을 파며 먹이를 찾는다.\n낙반에 휩쓸려도\n아무렇지 않을 정도로 튼튼하다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "憤怒之刃",
                 "it": "Lama Furente",
                 "de": "Wutklinge",
-                ja: "いかりのやいば"
+                ja: "いかりのやいば",
+                ko: "분노의칼날"
             },
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 80 more damage.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "若這隻寶可夢有受到傷害,則增加80點傷害。",
                 "it": "Se questo Pokémon è danneggiato, questo attacco infligge 80 danni in più.",
                 "de": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 80 Schadenspunkte mehr zu.",
-                ja: "このポケモンがダメージを受けているなら、80ダメージ追加。"
+                ja: "このポケモンがダメージを受けているなら、80ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있다면 80데미지를 추가한다."
             },
             damage: "80+"
         }

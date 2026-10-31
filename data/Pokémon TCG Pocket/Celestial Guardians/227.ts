@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/227",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/227",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/227",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/227"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/227",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/227"
     },
     name: {
         en: "Marowak",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
         ja: "カラカラ",
+        ko: "탕구리",
     },
     description: {
         en: "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",

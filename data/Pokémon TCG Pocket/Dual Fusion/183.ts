@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/183",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/183",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/183",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/183"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/183",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/183"
     },
     name: {
         en: "Pikachu ex",
@@ -52,7 +53,7 @@ const card: Card = {
                 "pt-br": "Soco Pikachu",
                 "zh-tw": "皮卡拳",
                 ja: "ピカパンチ",
-                ko: "Pika Punch"
+                ko: "피카펀치"
             },
             cost: [
                 "Lightning"
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Cauda Trovejante",
                 "zh-tw": "閃電尾",
                 ja: "いなずまテール",
-                ko: "Thundertail"
+                ko: "천둥번개테일"
             },
             cost: [
                 "Colorless",
@@ -86,7 +87,7 @@ const card: Card = {
                 "pt-br": "Descarte 2 Energias {L} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的2個{L}能量丟棄。",
                 ja: "このポケモンから{L}エネルギーを2個トラッシュ。",
-                ko: "Discard 2 {L} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {L}에너지를 2개 트래쉬한다."
             }
         }
     ],

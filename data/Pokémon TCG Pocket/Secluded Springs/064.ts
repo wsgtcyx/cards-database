@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/064"
     },
     name: {
         en: "Swablu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
         ja: "チルット",
+        ko: "파비코",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es pflegt ständig seine watteähnlichen Flügel. Es dauert\neine Dusche, um sich selbst zu reinigen, wenn sie schmutzig wird.",
         "pt-br": "Ele limpa constantemente suas asas parecidas com algodão. É preciso\num chuveiro para se limpar caso fique sujo.",
         "zh-tw": "它不斷地梳理棉花般的翅膀。這需要\n如果弄髒了，可以自行清潔淋浴。",
-        ja: "真綿の ような 翼の 手入れは 絶対に 欠かさない。汚れると 水浴びをして きれいに 洗う。"
+        ja: "真綿の ような 翼の 手入れは 絶対に 欠かさない。汚れると 水浴びをして きれいに 洗う。",
+        ko: "솜 같은 날개를 손질하는 일은\n절대 거르지 않는다.\n더러워지면 물로 깨끗하게 씻는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Picken",
                 "pt-br": "Peck",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 20,
             cost: ["Colorless"]

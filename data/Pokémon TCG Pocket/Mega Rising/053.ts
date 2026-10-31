@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/053"
     },
     name: {
         en: "Lotad",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lotad",
         "zh-tw": "蓮葉童子",
         ja: "ハスボー",
+        ko: "연꽃몬",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Blatt wurde zu groß, um an Land zu leben.\nSo begann es im Wasser schwimmend zu leben.",
         "pt-br": "Sua folha cresceu demais para que pudesse viver na terra.\nFoi assim que começou a viver flutuando na água.",
         "zh-tw": "它的葉子太大了，無法在陸地上生活。\n就這樣它開始了漂浮在水中的生活。",
-        ja: "葉っぱが 大きく なりすぎて 重くなって しまったため 水に 浮かんで 暮らすように なった。"
+        ja: "葉っぱが 大きく なりすぎて 重くなって しまったため 水に 浮かんで 暮らすように なった。",
+        ko: "잎사귀가 너무 커서\n무거워졌기 때문에 물에\n떠서 생활하게 되었다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20,
             cost: ["Water"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

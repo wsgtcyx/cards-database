@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/079"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/079",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/079"
     },
     name: {
         en: "Arctibax",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Frigibax",
         "zh-tw": "涼脊龍",
         ja: "セビエ",
-        ko: "Frigibax"
+        ko: "드니차"
     },
     description: {
         en: "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique.",
@@ -54,7 +55,7 @@ const card: Card = {
         "pt-br": "Ataca com a lâmina de sua barbatana dorsal congelada dando um mortal no ar. Arctibax consegue usar essa técnica graças às suas costas e pernas fortes.",
         "zh-tw": "會使出前空翻，並利用凍住背鰭形成的劍來攻擊對手。唯有具備強健的下盤才能練就此功夫。",
         ja: "前方宙返りして 背びれを 凍らせた 剣で 攻撃する。 強い 足腰の 為せる業。",
-        ko: "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+        ko: "앞으로 공중제비를 돌며\n등지느러미를 얼려서 만든 검으로 공격한다.\n강한 하체를 요구하는 기술이다."
     },
     stage: "Stage1",
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 "es-mx": "Golpazo Gélido",
                 pt: "Pancada Congelada",
                 ja: "フロストスマッシュ",
-                ko: "Frost Smash"
+                ko: "프로스트 스매시"
             },
             damage: 50,
             cost: [

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/039"
     },
     name: {
         en: "Pawmi",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Ballen seiner Pfoten sind elektrisch ableitende Organe. Pamo feuert Elektrizität aus seinen Vorderpfoten ab, während es unsicher auf seinen Hinterbeinen steht.",
         "pt-br": "As almofadas de suas patas são órgãos que descarregam eletricidade. Pawmi dispara eletricidade com suas patas dianteiras enquanto fica instável nas patas traseiras.",
         "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
-        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。"
+        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。",
+        ko: "손의 볼록살이 방전 기관이다.\n뒷발로 겨우 일어선 다음\n손바닥에서 전격을 내보낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zufälliger Funke",
                 "pt-br": "Fagulha Aleatória",
                 "zh-tw": "電磁電光",
-                ja: "でんじスパーク"
+                ja: "でんじスパーク",
+                ko: "전자 스파크"
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。",
-                ja: "相手のポケモン1匹に10ダメージ。"
+                ja: "相手のポケモン1匹に10ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             }
         }
     ],

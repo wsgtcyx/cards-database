@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/171",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/171",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/171"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/171",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/171"
     },
     name: {
         en: "Nidoking",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Nidorino",
         "pt-br": "Nidorino",
         "zh-tw": "尼多力諾",
-        ja: "ニドリーノ"
+        ja: "ニドリーノ",
+        ko: "니드리노"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],

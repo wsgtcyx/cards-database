@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/047"
     },
     name: {
         en: "Brionne",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Popplio",
         "zh-tw": "球球海獅",
         ja: "アシマリ",
+        ko: "누리공",
     },
     description: {
         en: "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",

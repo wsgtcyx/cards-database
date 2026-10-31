@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/089"
     },
     name: {
         en: "Cubone",

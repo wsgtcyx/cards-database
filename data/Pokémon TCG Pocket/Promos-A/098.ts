@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/098"
     },
     name: {
         en: "Blissey ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Blissey ex",
         "zh-tw": "幸福蛋ex",
         ja: "ハピナスex",
+        ko: "해피너스 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Chaneira",
         "pt-br": "Chansey",
         "zh-tw": "吉利蛋",
-        ja: "ラッキー"
+        ja: "ラッキー",
+        ko: "럭키"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Fröhlicher Schlag",
                 "pt-br": "Soco feliz",
                 "zh-tw": "快樂沖床",
-                ja: "しあわせパンチ"
+                ja: "しあわせパンチ",
+                ko: "행복펀치"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Heile bei „Kopf“ 60 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Jogue uma moeda. Se der cara, cure 60 de dano deste Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面，則治療該神奇寶貝 60 點傷害。",
-                ja: "コインを1回投げオモテなら、このポケモンのHPを60回復。"
+                ja: "コインを1回投げオモテなら、このポケモンのHPを60回復。",
+                ko: "동전을 1번 던져서 앞면이 나오면 이 포켓몬의 HP를 60회복."
             }
         }],
     weaknesses: [{

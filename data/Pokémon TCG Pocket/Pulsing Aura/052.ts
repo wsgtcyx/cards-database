@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/052"
     },
     name: {
         en: "Magnemite",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es bewegt sich, während es ständig schwebt. Es leitet elektromagnetische Wellen usw. von den Einheiten an seinen Seiten ab.",
         "pt-br": "Ele se move enquanto paira constantemente. Ele descarrega ondas eletromagnéticas e assim por diante das unidades laterais.",
         "zh-tw": "它在不斷懸停的同時移動。從其側面的單元釋放電磁波等。",
-        ja: "空中に 浮いたまま 移動して 左右の ユニットから 電磁波などを 放射する。"
+        ja: "空中に 浮いたまま 移動して 左右の ユニットから 電磁波などを 放射する。",
+        ko: "공중에 뜬 채로 이동하며\n좌우의 유닛에서\n전자파를 방사한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Donnerschock",
                 "pt-br": "Trovoada de Choques",
                 "zh-tw": "電擊",
-                ja: "でんきショック"
+                ja: "でんきショック",
+                ko: "전기쇼크"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 20
         }

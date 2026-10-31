@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/023",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/023",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/023"
     },
     name: {
         en: "Moltres",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Überlieferungen nach soll Lavados mit seinen\nwunderschön lodernden Flügeln Bergpfade\nerleuchtet und dadurch Verirrten geholfen haben.",
         "pt-br": "Há histórias deste Pokémon usando suas asas radiantes e cobertas de chamas para iluminar o caminho daqueles que se perderam nas montanhas.",
         "zh-tw": "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。",
-        ja: "美しく 燃えあがる 翼で 山道を 照らし 遭難者を 助けたと 言い伝えられている。"
+        ja: "美しく 燃えあがる 翼で 山道を 照らし 遭難者を 助けたと 言い伝えられている。",
+        ko: "아름답게 타오르는 날개로\n산길을 비춰 조난자를\n도왔다고 전해져 오고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Himmelsangriff",
                 "pt-br": "Ataque do Céu",
                 "zh-tw": "神鳥猛擊",
-                ja: "ゴッドバード"
+                ja: "ゴッドバード",
+                ko: "불새"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
                 "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 150
         }

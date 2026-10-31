@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/035"
     },
     name: {
         en: "Blaziken",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Blaziken",
         "zh-tw": "火焰雞",
         ja: "バシャーモ",
+        ko: "번치코",
     },
     illustrator: "GOSSAN",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
         ja: "ワカシャモ",
+        ko: "영치코",
     },
     description: {
         en: "When facing a tough foe, it looses flames from\nits wrists. Its powerful legs let it jump clear\nover buildings.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es einem harten Gegner gegenübersteht, löst es Flammen aus\nseine Handgelenke. Seine kräftigen Beine lassen ihn klar springen\nüber Gebäuden.",
         "pt-br": "Ao enfrentar um inimigo difícil, ele solta chamas\nseus pulsos. Suas pernas poderosas permitem que ele salte\nsobre edifícios.",
         "zh-tw": "當面對強敵時，它會釋放火焰\n它的手腕。它有力的腿讓它跳躍得更清楚\n建築物上方。",
-        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。"
+        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。",
+        ko: "강적을 만나면 손목에서\n불꽃을 내뿜는다. 점프로\n빌딩을 뛰어넘는 다릿심을 가졌다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blaze-Kick",
                 "pt-br": "Chute Flamejante",
                 "zh-tw": "火焰踢",
-                ja: "ブレイズキック"
+                ja: "ブレイズキック",
+                ko: "블레이즈킥"
             },
             damage: 100,
             cost: ["Fire", "Fire"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/081",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/081"
     },
     name: {
         en: "Rhydon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Rhyhorn",
         "zh-tw": "獨角犀牛",
         ja: "サイホーン",
+        ko: "뿔카노",
     },
     description: {
         en: "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",

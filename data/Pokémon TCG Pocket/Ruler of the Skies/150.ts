@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/150",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/150",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/150",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/150"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/150",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/150"
     },
     name: {
         en: "Psychic",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Psycho",
         "pt-br": "Psíquico",
         "zh-tw": "超能力者",
-        ko: "사이킥",
+        ko: "초능력자",
         ja: "サイキッカー"
     },
     illustrator: "GIDORA",
@@ -34,7 +35,8 @@ const card: Card = {
         "zh-tw": "這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。 選擇1隻對手的備戰寶可夢,將該寶可夢身上的隨機1個能量,改附於對手的戰鬥寶可夢身上。",
         "it": "Puoi usare questa carta solo se il tuo Pokémon attivo ha l'attacco Psichico. Scegli uno dei Pokémon nella panchina del tuo avversario e sposta un Energia a caso da quel Pokémon al Pokémon attivo del tuo avversario.",
         "de": "Du kannst diese Karte nur einsetzen, wenn dein Pokémon in der Aktiven Position die Attacke Psychokinese hat. Wähle 1 Pokémon auf der Bank deines Gegners und verschiebe 1 zufällige Energie von diesem auf das Aktive Pokémon deines Gegners.",
-        ja: "このカードは、自分のバトル場にワザ「サイコキネシス」を持つポケモンがいるときにしか使えない。 相手のベンチポケモンを1匹選び、そのポケモンからエネルギーをランダムに1個、相手のバトルポケモンにつけ替える。"
+        ja: "このカードは、自分のバトル場にワザ「サイコキネシス」を持つポケモンがいるときにしか使えない。 相手のベンチポケモンを1匹選び、そのポケモンからエネルギーをランダムに1個、相手のバトルポケモンにつけ替える。",
+        ko: "이 카드는 자신의 배틀필드에 기술 「사이코키네시스」를 가진 포켓몬이 있을 때만 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 그 포켓몬에서 에너지를 랜덤으로 1개 상대의 배틀 포켓몬에게 바꿔 붙인다."
     },
     trainerType: "Supporter"
 };

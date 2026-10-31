@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/009"
     },
     name: {
         en: "Charmeleon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "ヒトカゲ"
+        ja: "ヒトカゲ",
+        ko: "파이리"
     },
     description: {
         en: "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",

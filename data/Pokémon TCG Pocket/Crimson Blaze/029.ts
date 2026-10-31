@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/029",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/029"
     },
     name: {
         en: "Heliolisk",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Elezard",
         "pt-br": "Heliolisk",
         "zh-tw": "光電傘蜥",
-        ja: "エレザード"
+        ja: "エレザード",
+        ko: "일레도리자드"
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Eguana",
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
-        ja: "エリキテル"
+        ja: "エリキテル",
+        ko: "목도리키텔"
     },
     description: {
         en: "One Heliolisk basking in the sun with its frill\noutspread is all it would take to produce enough\nelectricity to power a city.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein Heliolisk sonnt sich mit seiner Rüsche in der Sonne\nOutspread ist alles, was nötig wäre, um genug zu produzieren\nStrom, um eine Stadt mit Strom zu versorgen.",
         "pt-br": "Um Heliolisco tomando sol com seu babado\nespalhar é tudo o que seria necessário para produzir o suficiente\neletricidade para abastecer uma cidade.",
         "zh-tw": "一隻日光蟲帶著褶邊沐浴在陽光下\n只需要擴張就可以生產出足夠的\n電力為城市供電。",
-        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。"
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
+        ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blitz",
                 "pt-br": "Raio",
                 "zh-tw": "十萬伏特",
-                ja: "10まんボルト"
+                ja: "10まんボルト",
+                ko: "10만볼트"
             },
             damage: 120,
             cost: ["Lightning", "Lightning"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的所有能量。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             }
         }],
     weaknesses: [{

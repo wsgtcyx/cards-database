@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/040"
     },
     name: {
         en: "Castform Rainy Form",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dies ist die Form von Formeo, wenn er vom Regen getroffen wird. In einem Experiment, bei dem es unter der Dusche platziert wurde, hat sich dieses Pokémon nicht in diese Form verändert.",
         "pt-br": "Esta é a forma de Castform quando atingido pela chuva. Em um experimento onde foi colocado no chuveiro, este Pokémon não mudou para esta forma.",
         "zh-tw": "這是飄浮泡泡被雨淋時的形狀。在放入淋浴的實驗中，這隻寶可夢並沒有變成這種形狀。",
-        ja: "雨に 打たれる ポワルンの 姿。 シャワーを 浴びせた 実験では この 形に 変化しなかった。"
+        ja: "雨に 打たれる ポワルンの 姿。 シャワーを 浴びせた 実験では この 形に 変化しなかった。",
+        ko: "비를 맞은 캐스퐁의 모습.\n샤워기로 물을 뿌린 실험에서는\n이 모습으로 변화하지 않았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Wolkige Absorption",
                 "pt-br": "Absorção Chuvosa",
                 "zh-tw": "雨水吸取",
-                ja: "すいとるあまみず"
+                ja: "すいとるあまみず",
+                ko: "빗방울흡수"
             },
             effect: {
                 en: "If a Stadium is in play, heal 20 damage from this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn ein Stadion im Spiel ist, heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Se um Estádio estiver em jogo, cure 20 pontos de dano deste Pokémon.",
                 "zh-tw": "如果球場正在進行中，則該寶可夢可治療 20 點傷害。",
-                ja: "場にスタジアムが出ているなら、このポケモンのHPを20回復。"
+                ja: "場にスタジアムが出ているなら、このポケモンのHPを20回復。",
+                ko: "필드에 스타디움이 나와 있다면 이 포켓몬의 HP를 20회복."
             },
             damage: 30
         }

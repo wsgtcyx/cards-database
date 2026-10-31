@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/182",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/182"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Vulnona-ex",
         "pt-br": "Ninetales de Alola ex",
         "zh-tw": "阿羅拉九尾ex",
-        ja: "アローラキュウコンex"
+        ja: "アローラキュウコンex",
+        ko: "알로라 나인테일 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
-        ja: "アローラロコン"
+        ja: "アローラロコン",
+        ko: "알로라 식스테일"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Schnee binden",
                 "pt-br": "Neve Vinculante",
                 "zh-tw": "束縛雪",
-                ja: "スノーバインド"
+                ja: "スノーバインド",
+                ko: "스노바인드"
             },
             damage: 80,
             cost: ["Water", "Water"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
                 "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍神奇寶貝上。",
-                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。"
+                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。",
+                ko: "상대의 다음 차례에 상대는 에너지존에서 에너지를 내보내서 배틀 포켓몬에게 붙일 수 없다."
             }
         }],
     weaknesses: [{

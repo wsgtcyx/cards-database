@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/058"
     },
     name: {
         en: "Bewear",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bewear",
         "zh-tw": "穿著熊",
         ja: "キテルグマ",
+        ko: "이븐곰",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
         ja: "ヌイコグマ",
+        ko: "포곰곰",
     },
     description: {
         en: "Once it accepts you as a friend, it tries to show\nits affection with a hug. Letting it do that is\ndangerous—it could easily shatter your bones.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sobald es dich als Freund akzeptiert, versucht es es zu zeigen\nseine Zuneigung mit einer Umarmung. Das heißt, es tun zu lassen\ngefährlich – es könnte einem leicht die Knochen brechen.",
         "pt-br": "Depois de aceitar você como amigo, ele tenta mostrar\nseu carinho com um abraço. Deixar fazer isso é\nperigoso - pode facilmente quebrar seus ossos.",
         "zh-tw": "一旦它接受你為朋友，它就會試圖表現出\n它的愛是一個擁抱。讓它這樣做就是\n危險——它很容易打碎你的骨頭。",
-        ja: "仲間と 認めると 愛情を 示すために 抱きしめようとするが 骨を 砕かれるので 危険。"
+        ja: "仲間と 認めると 愛情を 示すために 抱きしめようとするが 骨を 砕かれるので 危険。",
+        ko: "동료로 인정하면 애정을\n표현하기 위해 껴안으려 하지만\n뼈가 으스러질 수 있으므로 위험하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Übermächtige Umarmung",
                 "pt-br": "Abraço Superpoderoso",
                 "zh-tw": "超強擁抱",
-                ja: "かいりきハッグ"
+                ja: "かいりきハッグ",
+                ko: "괴력허그"
             },
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Wenn beide Köpfe sind, wird das Aktive Pokémon deines Gegners kampfunfähig gemacht.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem cara, o Pokémon Ativo do seu oponente será Nocauteado.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩者都是正面，則對手的活躍神奇寶貝被擊倒。",
-                ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをきぜつさせる。"
+                ja: "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをきぜつさせる。",
+                ko: "동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 기절시킨다."
             }
         }],
     weaknesses: [{

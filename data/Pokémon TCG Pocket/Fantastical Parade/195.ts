@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/195",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/195",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/195"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/195",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/195"
     },
     name: {
         en: "Blacephalon ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kopplosio-ex",
         "pt-br": "Blacephalon ex",
         "zh-tw": "砰頭小丑ex",
-        ja: "ズガドーンex"
+        ja: "ズガドーンex",
+        ko: "두파팡 ex"
     },
     illustrator: "YASHIRO Nanaco",
     rarity: "Two Star",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Versengen",
                 "pt-br": "Singe",
                 "zh-tw": "辛格",
-                ja: "こがす"
+                ja: "こがす",
+                ko: "그을리기"
             },
             cost: ["Fire"],
             effect: {
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }, {
             name: {
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Pop-Punk",
                 "pt-br": "Pop Punk",
                 "zh-tw": "流行朋克",
-                ja: "ポップパンク"
+                ja: "ポップパンク",
+                ko: "팝펑크"
             },
             damage: 140,
             cost: ["Fire", "Fire", "Fire"],
@@ -72,7 +77,8 @@ const card: Card = {
                 "de": "Lege 3 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 3 {R} Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 3 個 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを3個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを3個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 3개 트래쉬한다."
             }
         }],
     weaknesses: [{

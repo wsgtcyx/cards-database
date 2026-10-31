@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/047"
     },
     name: {
         en: "Toxapex",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Aggrostella liefert sich erbitterte Kämpfe mit Knirfish um Gebiete, in denen warme Meeresströmungen fließen, aber die Chancen stehen immer schlecht.",
         "pt-br": "Toxapex entra em batalhas ferozes com Bruxish em áreas onde fluem correntes oceânicas quentes, mas as probabilidades estão sempre contra.",
         "zh-tw": "超壞星與磨牙彩皮魚在溫暖洋流流過的區域展開激烈的戰鬥，但勝算始終不高。",
-        ja: "温かな 海流が 流れ込む 場所を 巡って ハギギシリと 激しく 争うが 分が悪い。"
+        ja: "温かな 海流が 流れ込む 場所を 巡って ハギギシリと 激しく 争うが 分が悪い。",
+        ko: "따뜻한 해류가 흐르는 장소를 떠돌며\n치갈기와 격렬하게 싸우지만\n이쪽이 불리하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schweres Gift",
                 "pt-br": "Veneno Severo",
                 "zh-tw": "惡棍猛毒",
-                ja: "バッドポイズン"
+                ja: "バッドポイズン",
+                ko: "배드포이즌"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned. Do 40 damage to this Pokémon instead of the usual amount for this Special Condition.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners ist jetzt vergiftet. Füge diesem Pokémon 40 Schadenspunkte statt der üblichen Menge für diesen besonderen Zustand zu.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado. Cause 40 de dano a este Pokémon em vez da quantidade normal para esta Condição Especial.",
                 "zh-tw": "你對手的主動寶可夢現在中毒了。對該寶可夢造成 40 點傷害，而不是此特殊條件下的常見傷害。",
-                ja: "相手のバトルポケモンをどくにする。このどくのダメージは40になる。"
+                ja: "相手のバトルポケモンをどくにする。このどくのダメージは40になる。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다. 이 독의 데미지는 40이 된다."
             }
         }
     ],

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/085",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/085",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/085",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/085"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/085",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/085"
 	},
 	name: {
 		en: "Wartortle",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Schillok",
 		"pt-br": "Wartortle",
 		"zh-tw": "卡咪龜",
-		ja: "カメール"
+		ja: "カメール",
+		ko: "어니부기"
 	},
 	illustrator: "Nelnal",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Schiggy",
 		"pt-br": "Squirtle",
 		"zh-tw": "傑尼龜",
-		ja: "ゼニガメ"
+		ja: "ゼニガメ",
+		ko: "꼬부기"
 	},
 	attacks: [
 		{

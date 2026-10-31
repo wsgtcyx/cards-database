@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/069",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/069",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/069",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/069"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/069",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/069"
 	},
 	name: {
 		en: "Torkoal",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Qurtel",
 		"pt-br": "Torkoal",
 		"zh-tw": "煤炭龜",
-		ja: "コータス"
+		ja: "コータス",
+		ko: "코터스"
 	},
 	illustrator: "sui",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Es verbrennt Kohle in seiner Hülle zur Energiegewinnung. Es bläst\nschwarzen Ruß entfernen, wenn dieser gefährdet ist.",
 		"pt-br": "Ele queima carvão dentro de sua casca para obter energia. Isso sopra\neliminar fuligem preta se estiver em perigo.",
 		"zh-tw": "它在殼內燃燒煤炭來獲取能量。吹起來\n如果它瀕臨滅絕，請清除黑色煙灰。",
-		ja: "甲羅の 内側で 石炭を 燃やし 敵に 襲われると 黒い煙を まき散らして 逃げる。"
+		ja: "甲羅の 内側で 石炭を 燃やし 敵に 襲われると 黒い煙を まき散らして 逃げる。",
+		ko: "등껍질 안에서 석탄을 태운다.\n적에게 공격받으면 검은 연기를\n흩뿌리고 도망친다."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "Flammenwerfer",
 				"pt-br": "Lança-chamas",
 				"zh-tw": "噴火器",
-				ja: "かえんほうしゃ"
+				ja: "かえんほうしゃ",
+				ko: "화염방사"
 			},
 			damage: 70,
 			cost: ["Fire", "Fire"],
@@ -61,7 +65,8 @@ const card: Card = {
 				de: "Wirf eine {R}-Energie von diesem Pokémon ab.",
 				"pt-br": "Descarte uma Energia {R} deste Pokémon.",
 				"zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
-				ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+				ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+				ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
 			}
 		}
 	],

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/044"
     },
     name: {
         en: "Graveler",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Geodude",
         "zh-tw": "小拳石",
         ja: "イシツブテ",
+        ko: "꼬마돌",
     },
     description: {
         en: "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/064"
     },
     name: {
         en: "Charjabug",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Grubbin",
         "zh-tw": "強顎雞母蟲",
         ja: "アゴジムシ",
+        ko: "턱지충이",
     },
     description: {
         en: "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",

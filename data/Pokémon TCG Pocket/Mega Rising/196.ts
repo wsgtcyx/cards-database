@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/196",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/196",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/196",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/196"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/196",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/196"
     },
     name: {
         en: "Swablu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
         ja: "チルット",
+        ko: "파비코",
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kann sich nicht entspannen, wenn es oder seine Umgebung nicht sauber sind.\nMit seinen Flügeln wischt es Schmutz weg.",
         "pt-br": "Ele não pode relaxar se ele ou seus arredores não estiverem limpos.\nEle limpa a sujeira com suas asas.",
         "zh-tw": "如果它或它的周圍環境不干淨，它就不能放鬆。\n它用翅膀擦去污垢。",
-        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。"
+        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
+        ko: "자신도 주변도 깨끗하지 않으면\n진정되지 않는 성격이다.\n더러운 것을 발견하면 날개로 닦는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Singen",
                 "pt-br": "Cantar",
                 "zh-tw": "唱歌",
-                ja: "うたう"
+                ja: "うたう",
+                ko: "노래하기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

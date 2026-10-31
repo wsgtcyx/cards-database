@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/017"
     },
     name: {
         en: "Petilil",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
         ja: "チュリネ",
+        ko: "치릴리",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn die Blätter auf seinem Kopf beschnitten werden\nRegelmäßigkeit, in die dieses Pokémon hineinwachsen kann\neine schöne, pralle Form.",
         "pt-br": "Se as folhas da sua cabeça forem podadas com\nregularidade, este Pokémon pode ser transformado em\numa forma rechonchuda e fina.",
         "zh-tw": "如果它頭上的葉子被修剪掉\n規律性，這個神奇寶貝可以成長為\n精緻豐滿的形狀。",
-        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。"
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。",
+        ko: "가끔 잎을 손질해 주면\n둥글둥글하게 훌륭한 모습으로\n자라난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Flop",
                 "pt-br": "Fracasso",
                 "zh-tw": "翻牌",
-                ja: "はねまわる"
+                ja: "はねまわる",
+                ko: "돌아다니며 뛰기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/067",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/067"
     },
     name: {
         en: "Lopunny",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Haspiror",
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
-        ja: "ミミロル"
+        ja: "ミミロル",
+        ko: "이어롤"
     },
     description: {
         en: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",

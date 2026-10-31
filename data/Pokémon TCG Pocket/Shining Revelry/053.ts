@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/053"
     },
     name: {
         en: "Tinkatuff",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Forgita",
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
-        ja: "カヌチャン"
+        ja: "カヌチャン",
+        ko: "어리짱"
     },
     description: {
         en: "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",

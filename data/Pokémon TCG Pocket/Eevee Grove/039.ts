@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/039"
     },
     name: {
         en: "Whiscash",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Whiscash",
         "zh-tw": "鯰魚王",
         ja: "ナマズン",
+        ko: "메깅",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
         ja: "ドジョッチ",
+        ko: "미꾸리",
     },
     description: {
         en: "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es schützt sein Territorium äußerst. Wenn überhaupt\nWenn sich ein Feind nähert, greift er mit heftigen Erschütterungen an.",
         "pt-br": "É extremamente protetor com seu território. Se houver\ninimigo se aproxima, ele ataca usando tremores violentos.",
         "zh-tw": "它非常保護自己的領土。如果有的話\n敵人接近時，它會使用惡毒的震動進行攻擊。",
-        ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。"
+        ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。",
+        ko: "영역 의식이 매우 강하여\n외부의 적이 다가오면 격렬하게\n지면을 울리며 덤벼든다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Erdbeben",
                 "pt-br": "Terremoto",
                 "zh-tw": "地震",
-                ja: "じしん"
+                ja: "じしん",
+                ko: "지진"
             },
             damage: 130,
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 de dano a cada um dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你的每隻後備神奇寶貝造成 10 點傷害。",
-                ja: "自分のベンチポケモン全員にも10ダメージ。"
+                ja: "自分のベンチポケモン全員にも10ダメージ。",
+                ko: "자신의 벤치 포켓몬 전원에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

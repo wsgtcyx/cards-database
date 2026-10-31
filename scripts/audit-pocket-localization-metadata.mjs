@@ -55,7 +55,8 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 	state.localizedObjects += 1
 	const englishProperty = findProperty(object, 'en')
 	const english = staticString(propertyInitializer(englishProperty), context.sourceFile)
-	if (english === undefined) {
+	const optionalAsset = context.scope === 'set' && /(?:^|\.)(?:logo|symbol|artwork_front|artwork_back)$/u.test(fieldPath) && english === undefined
+	if (english === undefined && !optionalAsset) {
 		state.errors.push({
 			scope: context.scope,
 			entityId: context.entityId,
@@ -67,22 +68,26 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 	}
 	for (const locale of state.locales) {
 		const property = findProperty(object, locale)
+		if (optionalAsset && !property) continue
 		const initializer = propertyInitializer(property)
 		const current = staticString(initializer, context.sourceFile)
 		let kind
 		if (!property) kind = 'missing'
 		else if (current === undefined) kind = 'non-string'
 		else if (current.trim().length === 0) kind = 'empty'
-		else if (locale === 'ja' && (context.scope === 'card' && fieldPath === 'image' || context.scope === 'set' && fieldPath === 'logo')
+		else if (optionalAsset && !/^https:\/\//u.test(current)) kind = 'invalid-asset-url'
+		else if (['ja', 'ko'].includes(locale) && (context.scope === 'card' && fieldPath === 'image' || context.scope === 'set' && fieldPath === 'logo')
 			&& current === english) kind = 'image-fallback'
-		else if (locale === 'ja' && context.scope === 'card' && fieldPath !== 'image'
+		else if (['ja', 'ko'].includes(locale) && context.scope === 'card' && fieldPath !== 'image'
 			&& /[A-Za-z]/u.test(english) && current === english) kind = 'english-fallback'
-		else if (locale === 'ja' && fieldPath !== 'image'
+		else if (['ja', 'ko'].includes(locale) && fieldPath !== 'image'
 			&& /\[\/?[A-Za-z][A-Za-z0-9]*:|\bTODO\b/u.test(current)) kind = 'unresolved-markup'
 		else if (locale === 'ja' && fieldPath !== 'releaseDate' && !/^https?:\/\//u.test(current)
 			&& !/[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u.test(current)
 			&& !/^PROMO-[A-Z]$/u.test(current) && !['CHECK', 'GUARD', 'POWER'].includes(current)) kind = 'english-fallback'
 		else if (locale === 'ja' && /(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(current)) kind = 'missing-numeric-count'
+		else if (locale === 'ko' && fieldPath !== 'releaseDate' && !/^https?:\/\//u.test(current)
+			&& !/[가-힣]/u.test(current) && !/^PROMO-[A-Z]$/u.test(current)) kind = 'english-fallback'
 		else continue
 		state.issues.push({
 			scope: context.scope,
@@ -140,6 +145,7 @@ function auditSeries(state, series, context) {
 function auditSet(state, set, context) {
 	requiredLocalizedProperty(state, set, 'name', context)
 	optionalLocalizedProperty(state, set, 'logo', context)
+	optionalLocalizedProperty(state, set, 'symbol', context)
 	const releaseDate = propertyInitializer(findProperty(set, 'releaseDate'))
 	if (releaseDate && ts.isObjectLiteralExpression(releaseDate)) auditLocalizedObject(state, releaseDate, context, 'releaseDate')
 	const boostersProperty = findProperty(set, 'boosters')

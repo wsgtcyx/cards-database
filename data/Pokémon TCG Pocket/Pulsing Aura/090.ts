@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/090"
     },
     name: {
         en: "Stufful",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Strampelt es zum Schutz mit den Vorderbeinen,\nsieht das zwar niedlich aus, aber ein Treffer mit\nihnen ist stark genug, um große Bäume zu fällen.",
         "pt-br": "A maneira como ele se protege agitando os braços pode ser uma visão adorável, mas fique bem longe. Este é um movimento que pode quebrar troncos grossos de árvores.",
         "zh-tw": "為了保護自己的身體而\n胡亂揮舞前腳的樣子雖然可愛，\n威力卻大到能將大樹折斷。",
-        ja: "前脚を じたばた 振って 身を 守る 様子が 可愛らしいが 大木を へし折る 威力だ。"
+        ja: "前脚を じたばた 振って 身を 守る 様子が 可愛らしいが 大木を へし折る 威力だ。",
+        ko: "앞발을 바둥바둥 흔들어 몸을\n지키는 모습은 귀엽지만\n큰 나무도 꺾을 정도의 위력이 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 30
         }

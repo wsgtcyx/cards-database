@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/138",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/138",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/138"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/138",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/138"
     },
     name: {
         en: "Sentret",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sentret",
         "zh-tw": "尾立",
         ja: "オタチ",
+        ko: "꼬리선",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Als Wachmann warnt er andere vor Gefahren\nindem er kreischte und mit dem Schwanz auf den Boden schlug.",
         "pt-br": "Ao agir como vigia, avisa os outros sobre o perigo\ngritando e batendo no chão com a cauda.",
         "zh-tw": "當充當瞭望員時，它會警告其他人有危險\n通過尖叫並用尾巴撞擊地面。",
-        ja: "見張り役は 鋭く 鳴いたり 尻尾で 地面を たたいたりして 仲間に 危険を 知らせる。"
+        ja: "見張り役は 鋭く 鳴いたり 尻尾で 地面を たたいたりして 仲間に 危険を 知らせる。",
+        ko: "망보기 역은 날카롭게 울거나\n꼬리로 땅을 쳐서\n동료에게 위험을 알린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
                 "zh-tw": "划痕",
-                ja: "ひっかく"
+                ja: "ひっかく",
+                ko: "할퀴기"
             },
             damage: 20,
             cost: ["Colorless"]

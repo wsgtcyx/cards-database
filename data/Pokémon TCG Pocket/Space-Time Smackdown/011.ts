@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/011",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/011"
     },
     name: {
         en: "Grotle",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Turtwig",
         "zh-tw": "草苗龜",
         ja: "ナエトル",
+        ko: "모부기",
     },
     description: {
         en: "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",

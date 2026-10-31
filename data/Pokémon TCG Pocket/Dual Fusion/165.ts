@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/165",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/165",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/165"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/165",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/165"
     },
     name: {
         en: "Lorelei",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Durante questo turno, gli attacchi usati dal tuo Dewgong, Cloyster o Lapras infliggono +30 danni ai Pokémon dell'avversario.",
         de: "Während dieses Zuges fügen die Attacken deines Jugong, Austos oder Lapras den Pokémon deines Gegners + 30 Schadenspunkte zu.",
         ja: "この番、自分の「ジュゴン」「パルシェン」「ラプラス」が使うワザの、相手のポケモン全員へのダメージを+30する。",
-        ko: "During this turn, attacks used by your Dewgong, Cloyster, or Lapras do +30 damage to your opponent's Pokémon."
+        ko: "이 차례에 자신의 「쥬레곤」「파르셀」「라프라스」가 사용하는 기술이 상대의 포켓몬 전원에게 주는 데미지를 +30한다."
     }
 };
 

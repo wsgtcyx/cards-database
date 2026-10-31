@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/090"
     },
     name: {
         en: "Togedemaru",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Togedemaru",
         "zh-tw": "托戈德瑪爾",
         ja: "トゲデマル",
+        ko: "토게데마루",
     },
     illustrator: "sowsow",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit den langen Haaren auf dem Rücken, dieses Pokémon\nnimmt Strom von anderen elektrischen Pokémon auf.\nEs speichert das, was es aufnimmt, in einem elektrischen Beutel.",
         "pt-br": "Com longos pelos nas costas, este Pokémon\nabsorve eletricidade de outros Pokémon elétricos.\nEle armazena o que absorve em um saco elétrico.",
         "zh-tw": "背上有長毛的神奇寶貝\n從其他電力神奇寶貝身上獲取電力。\n它將吸收的東西儲存在電囊中。",
-        ja: "背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。"
+        ja: "背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。",
+        ko: "등에 난 긴 털로 번개나\n전기포켓몬의 전격을 받아\n전기 주머니에 충전한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Borstige Stacheln",
                 "pt-br": "Espinhos Eriçados",
                 "zh-tw": "豎立的尖刺",
-                ja: "さかだつトゲ"
+                ja: "さかだつトゲ",
+                ko: "곤두선가시"
             },
             damage: 30,
             cost: ["Metal", "Metal"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon im nächsten Zug deines Gegners durch einen Angriff beschädigt wird, füge dem angreifenden Pokémon 30 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon receber dano de um ataque, cause 30 pontos de dano ao Pokémon atacante.",
                 "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 30 點傷害。",
-                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに30ダメージ。"
+                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに30ダメージ。",
+                ko: "상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 30데미지를 준다."
             }
         }],
     weaknesses: [{

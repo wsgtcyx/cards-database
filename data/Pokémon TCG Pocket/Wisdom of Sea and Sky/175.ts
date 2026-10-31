@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/175",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/175",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/175"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/175",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/175"
     },
     name: {
         en: "Wobbuffet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wobbuffet",
         "zh-tw": "果然翁",
         ja: "ソーナンス",
+        ko: "마자용",
     },
     illustrator: "GOTO minori",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es hasst Licht und Schock. Wenn es angegriffen wird, bläht es sich auf\nKörper, um seinen Gegenschlag zu verstärken.",
         "pt-br": "Ele odeia luz e choque. Se atacado, ele infla seu\ncorpo para bombear seu contra-ataque.",
         "zh-tw": "它討厭光和震動。如果受到攻擊，它會膨脹\n身體來發動反擊。",
-        ja: "光や ショックを 嫌う。 攻撃されると 体が ふくらみ 反撃が 強力に なる。"
+        ja: "光や ショックを 嫌う。 攻撃されると 体が ふくらみ 反撃が 強力に なる。",
+        ko: "빛과 쇼크를 싫어한다.\n공격받으면 몸이 부풀어올라\n반격이 강력해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Antworte mit Nachdruck",
                 "pt-br": "Responder com firmeza",
                 "zh-tw": "強烈回复",
-                ja: "つよめにかえす"
+                ja: "つよめにかえす",
+                ko: "세게되돌리기"
             },
             damage: "30+",
             cost: ["Psychic", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon im letzten Zug deines Gegners durch einen Angriff beschädigt wurde, während es sich an der aktiven Stelle befand, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon foi danificado por um ataque durante o último turno do seu oponente enquanto ele estava no Ponto Ativo, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝在對手的最後一個回合中受到攻擊而受到傷害，則該攻擊造成的傷害增加 50 點。",
-                ja: "前の相手の番、このポケモンがバトル場でワザのダメージを受けていたなら、50ダメージ追加。"
+                ja: "前の相手の番、このポケモンがバトル場でワザのダメージを受けていたなら、50ダメージ追加。",
+                ko: "상대의 이전 차례에 이 포켓몬이 배틀필드에서 기술의 데미지를 받았다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

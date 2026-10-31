@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/080",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/080"
     },
     name: {
         en: "Suicune ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Suicune ex",
         "zh-tw": "水君ex",
         ja: "スイクンex",
+        ko: "스이쿤 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
                 "zh-tw": "傳奇脈搏",
-                ja: "でんせつのこどう"
+                ja: "でんせつのこどう",
+                ko: "전설의고동"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
                 "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
-                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+                ko: "자신의 차례의 마지막에 이 포켓몬이 배틀필드에 있다면 자신의 덱을 1장 뽑는다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Kristallwalzer",
                 "pt-br": "Valsa Cristal",
                 "zh-tw": "水晶華爾茲",
-                ja: "クリスタルワルツ"
+                ja: "クリスタルワルツ",
+                ko: "크리스털왈츠"
             },
             damage: "20×",
             cost: ["Water", "Water"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 de dano para cada Pokémon no Banco (seu e do seu oponente).",
                 "zh-tw": "此攻擊對每個後備神奇寶貝（包括你的和你對手的）造成 20 點傷害。",
-                ja: "おたがいのベンチポケモンの数×20ダメージ。"
+                ja: "おたがいのベンチポケモンの数×20ダメージ。",
+                ko: "서로의 벤치 포켓몬의 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

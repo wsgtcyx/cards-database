@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/020"
     },
     name: {
         en: "Virizion",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Virizion",
         "zh-tw": "畢力吉翁",
         ja: "ビリジオン",
+        ko: "비리디온",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schießt schnell um Gegner herum\nBewegungen und schneidet sie mit seinen Hörnern auf.",
         "pt-br": "Ele dispara em torno dos oponentes com uma onda de movimentos rápidos\nmovimentos, cortando-os com seus chifres.",
         "zh-tw": "它以一陣快速的速度繞過對手\n動作，用角將它們切碎。",
-        ja: "素早い 身のこなしで つむじ風の ように 敵を 翻弄し 鋭い ツノで 容赦なく 切り刻む。"
+        ja: "素早い 身のこなしで つむじ風の ように 敵を 翻弄し 鋭い ツノで 容赦なく 切り刻む。",
+        ko: "회오리바람처럼 재빠른 몸동작으로\n적을 농락하고 예리한 뿔로\n가차 없이 베어버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
                 "zh-tw": "聖劍",
-                ja: "せいなるつるぎ"
+                ja: "せいなるつるぎ",
+                ko: "성스러운칼"
             },
             damage: 110,
             cost: ["Grass", "Grass", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
-                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「성스러운칼」을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

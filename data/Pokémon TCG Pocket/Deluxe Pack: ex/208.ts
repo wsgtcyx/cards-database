@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/208",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/208",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/208"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/208",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/208"
     },
     name: {
         en: "Gabite",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
         ja: "ガバイト",
+        ko: "한바이트",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Gible",
         "zh-tw": "圓陸鯊",
         ja: "フカマル",
+        ko: "딥상어동",
     },
     description: {
         en: "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "In seltenen Fällen häutet es sich und wirft seine Schuppen ab.\nArzneimittel, das seine Schuppen als Zutat enthält\nsorgt dafür, dass sich ein müder Körper belebt fühlt.",
         "pt-br": "Em casos raros, ele muda e perde suas escamas.\nMedicamento contendo suas escamas como ingrediente\nfará com que um corpo cansado se sinta revigorado.",
         "zh-tw": "在極少數情況下，它會蛻皮並脫落鱗片。\n以其鱗片為成分的藥物\n會讓疲憊的身體感到充滿活力。",
-        ja: "稀に 脱皮し ウロコが 剥げる。 その成分が 含まれる 薬は 疲れた 体を ギンギンにする。"
+        ja: "稀に 脱皮し ウロコが 剥げる。 その成分が 含まれる 薬は 疲れた 体を ギンギンにする。",
+        ko: "드물게 탈피해서 비늘이 벗겨진다.\n그 성분이 들어 있는 약은\n피곤한 몸을 회복시켜 준다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Scharfe Sense",
                 "pt-br": "Foice Afiada",
                 "zh-tw": "鋒利的鐮刀",
-                ja: "するどいカマ"
+                ja: "するどいカマ",
+                ko: "날카로운낫"
             },
             damage: 30,
             cost: ["Fighting"]

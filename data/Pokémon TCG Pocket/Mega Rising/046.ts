@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/046"
     },
     name: {
         en: "Pyroar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pyroar",
         "zh-tw": "火炎獅",
         ja: "カエンジシ",
+        ko: "화염레오",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Litleo",
         "zh-tw": "小獅獅",
         ja: "シシコ",
+        ko: "레오꼬",
     },
     description: {
         en: "The mane of a male Pyroar heats up to over\n3,600 degrees Fahrenheit during battle. Merely\napproaching it will cause severe burns.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Mähne eines männlichen Pyroars erhitzt sich auf über 100 °C\n3.600 Grad Fahrenheit während des Kampfes. Nur\nBei Annäherung kann es zu schweren Verbrennungen kommen.",
         "pt-br": "A juba de um Pyroar macho esquenta\n3.600 graus Fahrenheit durante a batalha. Apenas\naproximar-se dele causará queimaduras graves.",
         "zh-tw": "雄性 Pyroar 的鬃毛溫度升高到超過\n戰鬥期間溫度為 3,600 華氏度。僅僅是\n接近它會導致嚴重燒傷。",
-        ja: "オスの たてがみは 戦いになると 摂氏2000度の 高温になる。 近寄るだけで 大火傷だ。"
+        ja: "オスの たてがみは 戦いになると 摂氏2000度の 高温になる。 近寄るだけで 大火傷だ。",
+        ko: "수컷의 갈기는 싸움이 시작되면\n섭씨 2000도의 고온을 낸다.\n접근하기만 해도 크게 화상을 입는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Feuerstoß",
                 "pt-br": "Explosão de Fogo",
                 "zh-tw": "火爆",
-                ja: "だいもんじ"
+                ja: "だいもんじ",
+                ko: "불대문자"
             },
             damage: 130,
             cost: ["Fire", "Fire", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

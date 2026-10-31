@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/105",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/105",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/105",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/105"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/105",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/105"
     },
     name: {
         en: "Mawile",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein riesiger Kiefer hat sich aus stählernen\nHörnern entwickelt. Mit ihm beißt es seine\nGegner.",
         "pt-br": "Mastiga de boca aberta. Suas enormes mandíbulas, na verdade, são chifres de aço que se transformaram.",
         "zh-tw": "大嘴娃能用自己那由鋼角\n變化而成的巨大顎部\n將對手一口緊緊咬住。",
-        ja: "鋼の ツノが 変形して できた 大きな アゴで 相手に がぶりと 噛みつくのだ。"
+        ja: "鋼の ツノが 変形して できた 大きな アゴで 相手に がぶりと 噛みつくのだ。",
+        ko: "강철의 뿔이 변형되어\n생긴 큰 턱으로\n상대를 덥석 문다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Knuddler",
                 "pt-br": "Jogo Duro",
                 "zh-tw": "嬉鬧",
-                ja: "じゃれつく"
+                ja: "じゃれつく",
+                ko: "치근거리기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加20點傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "40+"
         }

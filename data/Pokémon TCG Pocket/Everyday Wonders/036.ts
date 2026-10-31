@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/036"
     },
     name: {
         en: "Wooper",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es an Land herumläuft, überzieht es seinen Körper mit einem schleimigen, giftigen Film.",
         "pt-br": "Quando anda em terra, cobre seu corpo com uma película viscosa e venenosa.",
         "zh-tw": "當它在陸地上行走時，它的身體會覆蓋一層黏稠的有毒薄膜。",
-        ja: "地上を 歩きまわるときは ぬるぬるした 毒の 粘膜で 体の表面を 覆っている。"
+        ja: "地上を 歩きまわるときは ぬるぬるした 毒の 粘膜で 体の表面を 覆っている。",
+        ko: "지상을 돌아다닐 때는\n미끈미끈한 독의 점막으로\n몸의 표면을 덮고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Lehmschuss",
                 "pt-br": "Tiro de Lama",
                 "zh-tw": "泥巴射擊",
-                ja: "マッドショット"
+                ja: "マッドショット",
+                ko: "머드샷"
             },
             damage: 30
         }

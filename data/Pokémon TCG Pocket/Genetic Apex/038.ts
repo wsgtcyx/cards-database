@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/038"
     },
     name: {
         en: "Ninetales",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Vulpix",
         "pt-br": "Vulpix",
         "zh-tw": "六尾",
-        ja: "ロコン"
+        ja: "ロコン",
+        ko: "식스테일"
     },
     attacks: [{
             cost: ["Fire", "Fire"],

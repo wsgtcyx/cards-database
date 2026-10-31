@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/038",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/038",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/038",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/038"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/038",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/038"
 	},
 	name: {
 		en: "Rowlet",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Bauz",
 		"pt-br": "Rowlet",
 		"zh-tw": "木木梟",
-		ja: "モクロー"
+		ja: "モクロー",
+		ko: "나몰빼미"
 	},
 	illustrator: "Saya Tsuruta",
 	rarity: "One Diamond",

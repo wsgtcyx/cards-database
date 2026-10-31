@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/047"
     },
     name: {
         en: "Moltres ex",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/146",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/146",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/146"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/146",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/146"
     },
     name: {
         en: "Carkol",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Carkol",
         "zh-tw": "大炭車",
         ja: "トロッゴン",
+        ko: "탄차곤",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Rolycoly",
         "zh-tw": "小炭仔",
         ja: "タンドン",
+        ko: "탄동",
     },
     description: {
         en: "Due to the coal tar created inside it, the heap of\ncoal on Carkol's back never falls apart, even\nwhen the Pokémon rolls around at high speeds.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Aufgrund des darin entstehenden Kohlenteers ist der Haufen von\nDie Kohle auf Carkols Rücken zerfällt nicht einmal\nwenn das Pokémon mit hoher Geschwindigkeit herumrollt.",
         "pt-br": "Devido ao alcatrão de carvão criado no seu interior, a pilha de\no carvão nas costas de Carkol nunca se desfaz, mesmo\nquando o Pokémon rola em alta velocidade.",
         "zh-tw": "由於其內部產生煤焦油，\n卡科爾背上的煤永遠不會散開，甚至\n當神奇寶貝高速滾動時。",
-        ja: "背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。"
+        ja: "背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。",
+        ko: "등의 석탄 더미 안에는\n콜타르가 만들어져 있어서\n고속으로 달려도 무너지지 않는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hitzecrash",
                 "pt-br": "Queda de calor",
                 "zh-tw": "熱崩潰",
-                ja: "ヒートスタンプ"
+                ja: "ヒートスタンプ",
+                ko: "히트스탬프"
             },
             damage: 50,
             cost: ["Fighting", "Fighting"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/098",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/098"
     },
     name: {
         en: "Magneton",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
-        ja: "コイル"
+        ja: "コイル",
+        ko: "코일"
     },
     abilities: [{
             type: "Ability",

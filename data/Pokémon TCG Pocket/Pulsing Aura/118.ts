@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/118",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/118"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/118",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/118"
     },
     name: {
         en: "Bronzong",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es brachte Regen, indem es Portale zu einer anderen Welt öffnete. Es wurde als Bringer reicher Ernten verehrt.",
         "pt-br": "Trouxe chuvas abrindo portais para outro mundo. Foi reverenciado como portador de colheitas abundantes.",
         "zh-tw": "它透過打開通往另一個世界的門戶帶來了降雨。它被尊崇為五穀豐登的使者。",
-        ja: "別世界への 穴を 開けて そこから 雨を 降らしていた。 そのため 豊作の神 とされる。"
+        ja: "別世界への 穴を 開けて そこから 雨を 降らしていた。 そのため 豊作の神 とされる。",
+        ko: "다른 세계로 이어지는 구멍을 열어\n비를 내리곤 했다.\n그 때문에 풍작의 신으로 여겨졌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psycho-Resonanz",
                 "pt-br": "Ressonância Psíquica",
                 "zh-tw": "精神共鳴",
-                ja: "サイコレゾナンス"
+                ja: "サイコレゾナンス",
+                ko: "사이코 레저넌스"
             },
             effect: {
                 en: "If your opponent has any {P} Pokémon in play, this attack does 50 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn dein Gegner ein {P}-Pokémon im Spiel hat, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se seu oponente tiver algum Pokémon {P} em jogo, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果對手場上有任何 {P} 寶可夢，則此攻擊造成的傷害增加 50 點。",
-                ja: "相手の場に{P}ポケモンがいるなら、50ダメージ追加。"
+                ja: "相手の場に{P}ポケモンがいるなら、50ダメージ追加。",
+                ko: "상대의 필드에 {P}포켓몬이 있다면 50데미지를 추가한다."
             },
             damage: "50+"
         }

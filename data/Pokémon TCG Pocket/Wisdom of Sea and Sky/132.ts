@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/132",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/132",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/132"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/132",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/132"
     },
     name: {
         en: "Blissey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Blissey",
         "zh-tw": "幸福蛋",
         ja: "ハピナス",
+        ko: "해피너스",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Chansey",
         "zh-tw": "吉利蛋",
         ja: "ラッキー",
+        ko: "럭키",
     },
     description: {
         en: "Anyone who takes even one taste of Blissey's\negg becomes unfailingly caring and pleasant\nto everyone.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Jeder, der Blissey's auch nur einmal probiert\nEi wird stets fürsorglich und angenehm\nan alle.",
         "pt-br": "Qualquer um que experimente o Blissey's\novo torna-se infalivelmente carinhoso e agradável\npara todos.",
         "zh-tw": "任何嚐過 Blissey’s 味道的人\n雞蛋變得始終如一的關懷和愉快\n給大家。",
-        ja: "ハピナスが 産んだ タマゴを ひとくちでも 食べた 人は だれにでも 優しく なれる。"
+        ja: "ハピナスが 産んだ タマゴを ひとくちでも 食べた 人は だれにでも 優しく なれる。",
+        ko: "해피너스가 낳은 알을\n한 입이라도 먹은 사람은\n누구에게나 상냥해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Energieschlag",
                 "pt-br": "Golpe de Energia",
                 "zh-tw": "能量打擊",
-                ja: "エナジーブロー"
+                ja: "エナジーブロー",
+                ko: "에너지블로"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a este Pokémon.",
                 "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。",
-                ja: "このポケモンのエネルギーの数×20ダメージ追加。"
+                ja: "このポケモンのエネルギーの数×20ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/100"
     },
     name: {
         en: "Tadbulb",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Flutua usando a eletricidade armazenada em seu corpo. Quando nuvens de tempestade sobranceiam os céus, Tadbulb flutua ainda mais alto.",
         "zh-tw": "會用蓄積在體內的電力浮在空中。出現雷雲時則能浮得比平時還要高。",
         ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。",
-        ko: "It floats using the electricity stored in its body.\nWhen thunderclouds are around, Tadbulb will\nfloat higher off the ground."
+        ko: "몸에 비축된 전력으로 부유한다.\n뇌운이 있을 때는 평소보다 높게\n떠오른다고 한다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Carga",
                 "zh-tw": "充電",
                 ja: "じゅうでん",
-                ko: "Charge"
+                ko: "충전"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出1個{L}能量,附於這隻寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
-                ko: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

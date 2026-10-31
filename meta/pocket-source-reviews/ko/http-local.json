@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "base": "http://127.0.0.1:3000",
+  "cards": 4561,
+  "relations": 4561,
+  "sets": 26,
+  "boosters": 58,
+  "pages": 46,
+  "requests": 9272,
+  "compiledSha256": "e64147706cfc1e379d1962ec07ad065c035e6824b6ef30c8a68e624e8cb6c9ea",
+  "at": "2026-10-31T15:09:55.767Z"
+}

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/232",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/232",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/232",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/232"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/232",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/232"
     },
     name: {
         en: "Magikarp",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     illustrator: "Tetsu Kayama",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In der fernen Vergangenheit war es etwas stärker als\ndie schrecklich schwachen Nachkommen, die es heute gibt.",
         "pt-br": "No passado distante, era um pouco mais forte do que\nos descendentes terrivelmente fracos que existem hoje.",
         "zh-tw": "在遙遠的過去，它比\n今天存在的極其弱小的後代。",
-        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。"
+        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。",
+        ko: "아주 먼 옛날에는 좀 더\n강했던 것 같다. 그러나 지금은\n안쓰러울 정도로 약하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserfallentwicklung",
                 "pt-br": "Evolução da Cachoeira",
                 "zh-tw": "瀑布進化",
-                ja: "たきのぼりしんか"
+                ja: "たきのぼりしんか",
+                ko: "폭포오르기 진화"
             },
             cost: ["Water", "Water", "Colorless"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln.",
                 "pt-br": "Coloque uma carta aleatória do seu baralho que evolui deste Pokémon neste Pokémon para evoluí-lo.",
                 "zh-tw": "從你的牌組中隨機放置一張由該神奇寶貝進化而來的卡牌到該神奇寶貝上以使其進化。",
-                ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。"
+                ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
+                ko: "이 포켓몬에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 이 포켓몬에게 올려서 진화시킨다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

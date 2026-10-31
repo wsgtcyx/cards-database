@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/028"
     },
     name: {
         en: "Manectric",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Electrike",
         "zh-tw": "落雷獸",
         ja: "ラクライ",
+        ko: "썬더라이",
     },
     description: {
         en: "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",

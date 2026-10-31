@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/310",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/310",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/310",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/310"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/310",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/310"
     },
     name: {
         en: "Sylveon",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Eevee",
         "zh-tw": "伊布",
         ja: "イーブイ",
-        ko: "Eevee"
+        ko: "이브이"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Sylveon dança elegantemente com suas antenas ao vento, mirando os pontos fracos dos seus oponentes com movimentos lancinantes.",
         "zh-tw": "搖曳著觸角跳著輕快舞蹈的樣子相當優雅，但招式卻會直搗對手要害。",
         ja: "触角を なびかせ 軽やかに 舞う 姿は 優雅だが 技は 鋭く 急所を 狙う。",
-        ko: "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots."
+        ko: "더듬이를 나부끼며 경쾌하게\n춤추는 모습은 우아하지만\n기술은 날카롭게 급소를 노린다."
     },
     abilities: [
         {
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Fita Tranquilizadora",
                 "zh-tw": "治癒緞帶",
                 ja: "いやしのリボン",
-                ko: "Soothing Ribbon"
+                ko: "치유의 리본"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon.",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
                 "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」卡,則在自己的回合時可使用1次。將自己的1隻寶可夢恢復30HP。",
                 ja: "このポケモンに「ポケモンのどうぐ」がついているなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。",
-                ko: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon."
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 1마리의 HP를 30회복."
             }
         }
     ],
@@ -99,7 +100,7 @@ const card: Card = {
                 "pt-br": "Tiro Mágico",
                 "zh-tw": "魔法射擊",
                 ja: "マジカルショット",
-                ko: "Magical Shot"
+                ko: "매지컬숏"
             },
             damage: 60
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/188",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/188",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/188",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/188"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/188",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/188"
     },
     name: {
         en: "Alolan Muk ex",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Sleimok-ex",
         'pt-br': "Muk de Alola ex",
         ja: "アローラベトベトンex",
-        ko: "알로라질뻐기 ex",
+        ko: "알로라 질뻐기 ex",
         "zh-tw": "阿羅拉臭臭泥ex",
     },
     illustrator: "PLANETA CG Works",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
         ja: "アローラベトベター",
+        ko: "알로라 질퍽이",
     },
     stage: "Stage1",
     suffix: "EX",

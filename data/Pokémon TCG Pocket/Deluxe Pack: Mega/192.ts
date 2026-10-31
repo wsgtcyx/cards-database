@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/192",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/192",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/192"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/192",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/192"
     },
     name: {
         en: "Hisuian Zoroark ex",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Zoroark de Hisui ex",
         "zh-tw": "洗翠索羅亞克ex",
         ja: "ヒスイゾロアークex",
-        ko: "히스이조로아크 ex"
+        ko: "히스이 조로아크 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Zorua de Hisui",
         "zh-tw": "洗翠索羅亞",
         ja: "ヒスイゾロア",
-        ko: "Hisuian Zorua"
+        ko: "히스이 조로아"
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Ilusão Rancorosa",
                 "zh-tw": "怨恨幻影",
                 ja: "うらみのげんえい",
-                ko: "Spiteful Illusion"
+                ko: "원한의환영"
             },
             effect: {
                 en: "This attack does 20 more damage for each Pokémon in your discard pile.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon na sua pilha de descarte.",
                 "zh-tw": "增加自己的棄牌區的寶可夢卡的張數×20點傷害。",
                 ja: "自分のトラッシュにあるポケモンの枚数×20ダメージ追加。",
-                ko: "This attack does 20 more damage for each Pokémon in your discard pile."
+                ko: "자신의 트래쉬에 있는 포켓몬의 장수 × 20데미지를 추가한다."
             },
             damage: "80+"
         }

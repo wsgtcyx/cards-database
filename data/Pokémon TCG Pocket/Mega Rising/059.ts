@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/059"
     },
     name: {
         en: "Crawdaunt",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Crawdaunt",
         "zh-tw": "鐵螯龍蝦",
         ja: "シザリガー",
+        ko: "가재장군",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
         ja: "ヘイガニ",
+        ko: "가재군",
     },
     description: {
         en: "A brutish Pokémon that loves to battle. It will\ncrash itself into any foe that approaches its nest.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein brutales Pokémon, das gerne kämpft. Das wird es\nprallt gegen jeden Feind, der sich seinem Nest nähert.",
         "pt-br": "Um Pokémon brutal que adora lutar. Isso vai\ncolidir com qualquer inimigo que se aproxime de seu ninho.",
         "zh-tw": "喜歡戰鬥的兇猛寶可夢。它將\n撞向任何接近其巢穴的敵人。",
-        ja: "戦いを 好む 性格。 すみかに 近づく 相手を 容赦なく 叩きのめす。"
+        ja: "戦いを 好む 性格。 すみかに 近づく 相手を 容赦なく 叩きのめす。",
+        ko: "싸움을 좋아하는 성격.\n거처에 가까이 오는 상대를\n가차 없이 때려눕힌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Guillotine",
                 "pt-br": "Guilhotina",
                 "zh-tw": "斷頭台",
-                ja: "ハサミギロチン"
+                ja: "ハサミギロチン",
+                ko: "가위자르기"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/012"
     },
     name: {
         en: "Piplup",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
                 ja: "つつく",
-                ko: "Peck"
+                ko: "쪼기"
             },
             cost: [
                 "Water"
@@ -68,7 +69,7 @@ const card: Card = {
         "pt-br": "Por ser muito orgulhoso, detesta aceitar comida das pessoas. A sua penugem espessa o protege do frio.",
         "zh-tw": "自尊心很強，討厭從人類手中接受食物。厚厚的絨毛能抵禦寒冷。",
         ja: "プライドが 高く 人から 食べ物を もらう ことを 嫌う。 長い 産毛が 寒さを 防ぐ。",
-        ko: "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+        ko: "자존심이 강해서 사람에게\n먹이를 얻는 것을 싫어한다.\n긴 솜털이 추위를 막는다."
     }
 };
 

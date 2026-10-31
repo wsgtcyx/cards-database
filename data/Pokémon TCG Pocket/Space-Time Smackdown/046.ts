@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/046",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/046"
     },
     name: {
         en: "Glaceon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",

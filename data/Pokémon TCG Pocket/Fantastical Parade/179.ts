@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/179",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/179",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/179"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/179",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/179"
     },
     name: {
         en: "Slakoth",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Bummelz",
         "pt-br": "Slakoth",
         "zh-tw": "懶人獺",
-        ja: "ナマケロ"
+        ja: "ナマケロ",
+        ko: "게을로"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Art und Weise, wie Slakoth herumlümmelt, macht jeden zum Lachen\nbeobachtet, dass es sich anfühlt, als würde man das Gleiche tun.",
         "pt-br": "A maneira como Slakoth fica relaxado faz com que qualquer um que\nobserva que parece fazer o mesmo.",
         "zh-tw": "Slakoth 懶洋洋地閒逛的樣子讓任何人\n看著感覺就像做同樣的事情。",
-        ja: "ナマケロの 怠けた 様子は 見ている 人の 怠け心を 存分に 刺激するのだ。"
+        ja: "ナマケロの 怠けた 様子は 見ている 人の 怠け心を 存分に 刺激するのだ。",
+        ko: "게을로의 게으른 모습은\n보고 있는 사람의 게으른 마음을\n충분히 자극한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gähnen",
                 "pt-br": "Bocejar",
                 "zh-tw": "打哈欠",
-                ja: "あくび"
+                ja: "あくび",
+                ko: "하품"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }],
     weaknesses: [{

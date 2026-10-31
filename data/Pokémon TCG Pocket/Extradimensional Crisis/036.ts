@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/036"
     },
     name: {
         en: "Palossand",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Palossand",
         "zh-tw": "噬沙堡爺",
         ja: "シロデスナ",
+        ko: "모래성이당",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
         ja: "スナバァ",
+        ko: "모래꿍",
     },
     description: {
         en: "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Der furchteinflößende Palossand schleppt kleinere Pokémon mit sich\nin seinen sandigen Körper. Sobald seine Opfer gefangen sind,\nes entzieht ihnen ihre Vitalität, wann immer es ihnen gefällt.",
         "pt-br": "O aterrorizante Palossand arrasta Pokémon menores\nem seu corpo arenoso. Uma vez que suas vítimas estão presas,\nisso drena sua vitalidade sempre que lhe agrada.",
         "zh-tw": "可怕的帕羅沙拖曳著較小的神奇寶貝\n進入它的沙質身體。一旦受害者被困，\n它隨時都會耗盡他們的活力。",
-        ja: "小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。"
+        ja: "小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。",
+        ko: "작은 포켓몬을 모래로 된 몸 안으로\n끌어들인 뒤, 자신이 원할 때\n생기를 빨아들이는 무서운 포켓몬."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sandgrab",
                 "pt-br": "Tumba de Areia",
                 "zh-tw": "沙墓",
-                ja: "すなじごく"
+                ja: "すなじごく",
+                ko: "모래지옥"
             },
             damage: 90,
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }],
     weaknesses: [{

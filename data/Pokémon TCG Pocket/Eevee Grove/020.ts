@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/020"
     },
     name: {
         en: "Vanilluxe",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Vanilluxe",
         "zh-tw": "雙倍多多冰",
         ja: "バイバニラ",
+        ko: "배바닐라",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Vanillish",
         "zh-tw": "多多冰",
         ja: "バニリッチ",
+        ko: "바닐리치",
     },
     description: {
         en: "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn seine Wut einen Bruchpunkt erreicht, ist dies der Fall\nPokémon entfesselt einen heftigen Schneesturm, der erstarrt\njedes Lebewesen um ihn herum, ob Freund oder Feind.",
         "pt-br": "Quando sua raiva atinge um ponto de ruptura, este\nPokémon desencadeia uma forte nevasca que congela\ntodas as criaturas ao seu redor, sejam elas amigas ou inimigas.",
         "zh-tw": "當它的憤怒達到臨界點時，\n神奇寶貝釋放出猛烈的冰凍暴風雪\n它周圍的每一個生物，無論是朋友還是敵人。",
-        ja: "怒りが 頂点に 達すると 吹雪を 噴き出して 敵も 味方も 氷漬けに する。"
+        ja: "怒りが 頂点に 達すると 吹雪を 噴き出して 敵も 味方も 氷漬けに する。",
+        ko: "분노가 정점에 달하면\n눈보라를 불게 하여 적도\n아군도 꽁꽁 얼려버린다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Doppelter Spin",
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙旋轉",
-                ja: "ダブルスピン"
+                ja: "ダブルスピン",
+                ko: "더블스핀"
             },
             damage: "80×",
             cost: ["Water", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 80 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 80 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 80 點傷害。",
-                ja: "コインを2回投げ、オモテの数×80ダメージ。"
+                ja: "コインを2回投げ、オモテの数×80ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 80데미지를 준다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/016"
     },
     name: {
         en: "Pelipper",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es trägt seine Jungen zum Schutz vor Feinden im Schnabel. Bei Windstille treibt es auf den Wellen, um sich auszuruhen.",
         "pt-br": "Protege os filhotes em seu bico. Balança nas ondas, descansando nelas nos días em que as águas estão calmas.",
         "zh-tw": "會把孩子放進鳥嘴裡保護。風平浪靜的日子會漂浮在海面上稍作休息。",
-        ja: "くちばしの 中に 子どもを 入れて 守っている。 波の 穏やかな 日は 海に 浮かんで ひと休み。"
+        ja: "くちばしの 中に 子どもを 入れて 守っている。 波の 穏やかな 日は 海に 浮かんで ひと休み。",
+        ko: "부리 안에 새끼를 넣어서\n적으로부터 보호한다.\n파도가 조용한 날은 바다에 떠서 잠시 쉰다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Flügelschlag",
                 "pt-br": "Ataque de Asa",
                 "zh-tw": "翅膀攻擊",
-                ja: "つばさでうつ"
+                ja: "つばさでうつ",
+                ko: "날개치기"
             },
             damage: 60
         }

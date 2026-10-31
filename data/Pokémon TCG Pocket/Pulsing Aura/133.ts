@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/133",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/133"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/133",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/133"
     },
     name: {
         en: "Castform",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine Gestalt ändert sich abhängig vom Wetter.\nJe ungestümer dieses ist, desto gröber wird\nauch sein Charakter.",
         "pt-br": "Sua forma muda dependendo do clima. Quanto mais difíceis ficam as condições, mais difícil é a disposição do Castform!",
         "zh-tw": "樣子會隨著天氣而變化。\n天氣越是惡劣，\n性情就會變得越粗暴。",
-        ja: "天気に よって 姿が 変わる。 気象が 荒くなるほど 気性も 荒っぽく なってくる。"
+        ja: "天気に よって 姿が 変わる。 気象が 荒くなるほど 気性も 荒っぽく なってくる。",
+        ko: "날씨에 따라 모습이 바뀐다.\n날씨가 궂을수록\n성질도 난폭해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Durchdringender Strahl",
                 "pt-br": "Sopro Intenso",
                 "zh-tw": "穿堂風",
-                ja: "ふきぬける"
+                ja: "ふきぬける",
+                ko: "불어지나가기"
             },
             effect: {
                 en: "If a Stadium is in play, this attack does 20 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 20 pontos de dano a mais.",
                 "zh-tw": "如果體育場正在進行中，則此攻擊會造成 20 點額外傷害。",
-                ja: "場にスタジアムが出ているなら、20ダメージ追加。"
+                ja: "場にスタジアムが出ているなら、20ダメージ追加。",
+                ko: "필드에 스타디움이 나와 있다면 20데미지를 추가한다."
             },
             damage: "20+"
         }

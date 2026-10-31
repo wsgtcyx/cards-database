@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/063"
     },
     name: {
         en: "Ralts",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas e dos Pokémon. Ele se esconde se sentir hostilidade.",
         "zh-tw": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。",
-        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。",
+        ko: "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Klatscher",
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
-                ja: "ひらてうち"
+                ja: "ひらてうち",
+                ko: "수벽치기"
             },
             damage: 20
         }

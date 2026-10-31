@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/375",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/375",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/375",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/375"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/375",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/375"
     },
     name: {
         en: "Protective Poncho",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Enquanto o Pokémon ao qual esta carta está ligada estiver no seu Banco, previna todo o dano causado àquele Pokémon por ataques e Habilidades do seu oponente.",
         "zh-tw": "附有這張卡的寶可夢只要在備戰區,不會受到對手的招式與特性的傷害。",
         ja: "このカードをつけているポケモンは、ベンチにいるかぎり、相手のワザや特性のダメージを受けない。",
-        ko: "As long as the Pokémon this card is attached to is on your Bench, prevent all damage done to that Pokémon by your opponent's attacks and Abilities."
+        ko: "이 카드를 붙이고 있는 포켓몬은 벤치에 있는 한, 상대의 기술이나 특성의 데미지를 받지 않는다."
     },
     trainerType: "Tool"
 };

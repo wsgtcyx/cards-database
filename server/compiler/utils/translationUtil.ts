@@ -5,6 +5,7 @@ import pt from '../../../meta/translations/pt.json'
 import de from '../../../meta/translations/de.json'
 import fr from '../../../meta/translations/fr.json'
 import ja from '../../../meta/translations/ja.json'
+import ko from '../../../meta/translations/ko.json'
 
 type translatable = 'types' | 'rarity' | 'stage' | 'category' | 'suffix' | 'abilityType' | 'trainerType' | 'energyType' | 'variantType' | 'variantSize' | 'variantFoil' | 'variantStamp' | 'variantSubtype'
 
@@ -15,7 +16,8 @@ const translations: Record<string, Partial<Record<translatable, Record<string, s
 	pt,
 	'pt-br': pt,
 	de,
-	ja
+	ja,
+	ko
 }
 
 export default function translate(item: translatable, key: string | undefined, lang: SupportedLanguages): string | undefined {

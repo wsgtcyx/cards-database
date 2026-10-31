@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/076"
     },
     name: {
         en: "Pupitar",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
         ja: "ヨーギラス",
-        ko: "Larvitar"
+        ko: "애버라스"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Acumular",
                 "zh-tw": "聚積",
                 ja: "ためる",
-                ko: "Amass"
+                ko: "저축하기"
             },
             cost: [
                 "Colorless"
@@ -78,7 +79,7 @@ const card: Card = {
                 "pt-br": "Pegue 2 Energias {F} da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出2個{F}能量,附於這隻寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{F}エネルギーを2個出し、このポケモンにつける。",
-                ko: "Take 2 {F} Energy from your Energy Zone and attach it to this Pokémon."
+                ko: "자신의 에너지존에서 {F}에너지를 2개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
         "pt-br": "Esta pupa voa por aí de maneira indomada ao liberar com força o gás pressurizado presente em seu corpo.",
         "zh-tw": "會以強勁的力道噴出在體內壓縮的氣體，好讓自己能飛在空中大肆破壞的蛹。",
         ja: "体内で 圧縮 させた ガスを 勢いよく 噴出させ 飛んで 暴れまわる サナギだ。",
-        ko: "This pupa flies around wildly by venting with great force the gas pressurized inside its body."
+        ko: "체내에서 압축한 가스를\n기세 좋게 분출시켜 날며\n난동을 피우는 번데기."
     }
 };
 

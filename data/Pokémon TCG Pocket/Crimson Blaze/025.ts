@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/025",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/025"
     },
     name: {
         en: "Magneton",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
-        ja: "レアコイル"
+        ja: "レアコイル",
+        ko: "레어코일"
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
-        ja: "コイル"
+        ja: "コイル",
+        ko: "코일"
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Drei Magnemite sind durch einen starken Magneten verbunden\nKraft. Wenn Sie zu nahe kommen, treten Ohrenschmerzen auf.",
         "pt-br": "Três Magnemite estão ligadas por um forte campo magnético\nforça. Dores de ouvido ocorrerão se você chegar muito perto.",
         "zh-tw": "三個磁鐵礦通過強磁性連接在一起\n力。如果距離太近，就會出現耳痛。",
-        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。"
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。",
+        ko: "3개의 코일은 강한 자력으로\n연결되어 있다. 가까이 다가가면\n강한 귀울림에 시달리게 된다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Funke",
                 "pt-br": "Fagulha",
                 "zh-tw": "電光",
-                ja: "スパーク"
+                ja: "スパーク",
+                ko: "스파크"
             },
             damage: 20,
             cost: ["Lightning"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
-                ja: "相手のベンチポケモン1匹にも20ダメージ。"
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

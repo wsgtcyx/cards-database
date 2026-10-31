@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/028"
     },
     name: {
         en: "Growlithe",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
         ja: "ガーディ",
+        ko: "가디",
     },
     illustrator: "Narumi Sato",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist sehr freundlich und treu den Menschen gegenüber. Es wird es versuchen\num Feinde durch Bellen und Beißen abzuwehren.",
         "pt-br": "É muito amigável e fiel às pessoas. Ele vai tentar\npara repelir os inimigos latindo e mordendo.",
         "zh-tw": "它對人非常友好和忠誠。它會嘗試\n通過吠叫和撕咬來擊退敵人。",
-        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。"
+        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。",
+        ko: "사람을 잘 따르는 충실한 성격이다.\n적을 보면 짖거나 물어서\n쫓아내려고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Krallen graben",
                 "pt-br": "Cavar Garras",
                 "zh-tw": "挖爪",
-                ja: "ツメをたてる"
+                ja: "ツメをたてる",
+                ko: "발톱세우기"
             },
             damage: 20,
             cost: ["Fire"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

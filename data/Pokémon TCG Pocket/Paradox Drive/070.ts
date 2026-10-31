@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/070"
     },
     name: {
         en: "Future Booster Energy Capsule",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Angriffe des Zukunfts-Pokémon, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners +20 Schaden zu.",
         "pt-br": "Os ataques usados ​​pelos Pokémon Futuros que esta carta está ligada causam +20 de dano ao Pokémon Ativo do seu oponente.",
         "zh-tw": "這張卡所附加的未來寶可夢使用的攻擊對對手的活躍寶可夢造成 +20 點傷害。",
-        ja: "このカードをつけている「未来」のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。"
+        ja: "このカードをつけている「未来」のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。",
+        ko: "이 카드를 붙이고 있는 「미래」의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +20한다."
     },
     trainerType: "Tool"
 };

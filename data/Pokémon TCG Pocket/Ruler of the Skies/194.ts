@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/194",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/194",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/194",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/194"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/194",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/194"
     },
     name: {
         en: "Vespiquen ex",
@@ -52,7 +53,8 @@ const card: Card = {
                 "zh-tw": "追擊指令",
                 "it": "Ordine di Inseguimento",
                 "de": "Jagdbefehl",
-                ja: "ついげきしれい"
+                ja: "ついげきしれい",
+                ko: "추격지령"
             },
             effect: {
                 en: "You may discard 1 of your Benched Basic {G} Pokémon. If you do, this attack does 70 more damage.",
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Você pode descartar 1 dos seus Pokémon {G} Básicos no Banco. Se fizer isso, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若希望,選擇1隻自己的備戰區的{G}屬性基礎寶可夢,將其丟棄。這個情況下,增加70點傷害。",
                 "de": "Du kannst 1 Basis-{G}-Pokémon von deiner Bank auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke 70 Schadenspunkte mehr zu.",
-                ja: "のぞむなら、自分のベンチの{G}タイプのたねポケモンを1匹選び、トラッシュ。その場合、70ダメージ追加。"
+                ja: "のぞむなら、自分のベンチの{G}タイプのたねポケモンを1匹選び、トラッシュ。その場合、70ダメージ追加。",
+                ko: "원한다면 자신의 벤치의 {G}타입의 기본 포켓몬을 1마리 선택해서 트래쉬한다. 그 경우, 70데미지를 추가한다."
             },
             damage: "70+"
         }

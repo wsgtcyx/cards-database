@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/159",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/159",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/159",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/159"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/159",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/159"
 	},
 	name: {
 		en: "Mew ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Mew-ex",
 		"pt-br": "Mew ex",
 		"zh-tw": "夢幻ex",
-		ja: "ミュウex"
+		ja: "ミュウex",
+		ko: "뮤 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",

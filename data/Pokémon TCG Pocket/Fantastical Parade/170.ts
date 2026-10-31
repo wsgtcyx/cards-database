@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/170",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/170",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/170"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/170",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/170"
     },
     name: {
         en: "Sandshrew",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
-        ja: "サンド"
+        ja: "サンド",
+        ko: "모래두지"
     },
     illustrator: "Uninori",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Egal wie hoch es fällt, das hier\nPokémon können sich retten, indem sie sich zu einer Kugel zusammenrollen\nund hüpfen.",
         "pt-br": "Não importa quão alto seja o lugar de onde caia, este\nPokémon pode se salvar rolando em uma bola\ne saltando.",
         "zh-tw": "不管從多高的地方掉下來\n神奇寶貝可以通過滾成球來拯救自己\n和彈跳。",
-        ja: "どんなに 高い ところから 落ちても 体を 丸めれば バウンドできて 助かるのだ。"
+        ja: "どんなに 高い ところから 落ちても 体を 丸めれば バウンドできて 助かるのだ。",
+        ko: "아무리 높은 곳에서\n떨어져도 몸을 둥글게 말면\n바운드해서 살 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Doppelter Kratzer",
                 "pt-br": "Raspadinha Dupla",
                 "zh-tw": "雙划痕",
-                ja: "ダブルひっかき"
+                ja: "ダブルひっかき",
+                ko: "더블할퀴기"
             },
             damage: "20×",
             cost: ["Fighting"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

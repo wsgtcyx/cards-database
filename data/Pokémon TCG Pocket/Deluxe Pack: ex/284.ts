@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/284",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/284",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/284",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/284"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/284",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/284"
 	},
 	name: {
 		en: "Lickilicky ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Schlurplek-ex",
 		"pt-br": "Lickilicky ex",
 		"zh-tw": "大舌舔ex",
-		ja: "ベロベルトex"
+		ja: "ベロベルトex",
+		ko: "내룸벨트 ex"
 	},
 	illustrator: "PLANETA Igarashi",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Schlurp",
 		"pt-br": "Lickitung",
 		"zh-tw": "大舌頭",
-		ja: "ベロリンガ"
+		ja: "ベロリンガ",
+		ko: "내루미"
 	},
 	stage: "Stage1",
 	suffix: "EX",

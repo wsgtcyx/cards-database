@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/065"
     },
     name: {
         en: "Lechonk",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es nimmt nur erlesene Kost zu sich. Sein Körper sondert einen kräuterartigen Geruch ab, den Käfer-Pokémon abstoßend finden.",
         "pt-br": "Este Pokémon rejeita todos os alimentos, exceto os melhores. Seu corpo exala um cheiro de erva que os Pokémon inseto detestam.",
         "zh-tw": "只吃精挑細選過的食物。蟲寶可夢很討厭牠身上散發的那種聞起來像是香草的氣味。",
-        ja: "選りすぐりの エサしか 食べない。 体から 虫ポケモンが 嫌う ハーブのような 香りを 放つ。"
+        ja: "選りすぐりの エサしか 食べない。 体から 虫ポケモンが 嫌う ハーブのような 香りを 放つ。",
+        ko: "엄선하고 또 엄선한 먹이만을 먹는다.\n몸에서 벌레포켓몬이 싫어하는\n허브 같은 향이 난다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 30
         }

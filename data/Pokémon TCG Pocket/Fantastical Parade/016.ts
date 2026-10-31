@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/016",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/016"
     },
     name: {
         en: "Eldegoss",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Cottomi",
         "pt-br": "Eldegoss",
         "zh-tw": "白蓬蓬",
-        ja: "ワタシラガ"
+        ja: "ワタシラガ",
+        ko: "백솜모카"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Cottini",
         "pt-br": "Gossifleur",
         "zh-tw": "幼棉棉",
-        ja: "ヒメンカ"
+        ja: "ヒメンカ",
+        ko: "꼬모카"
     },
     description: {
         en: "The cotton on the head of this Pokémon can be\nspun into a glossy, gorgeous yarn—a Galar\nregional specialty.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Baumwolle auf dem Kopf dieses Pokémon kann sein\nzu einem glänzenden, wunderschönen Garn gesponnen – einem Galar\nregionale Spezialität.",
         "pt-br": "O algodão na cabeça deste Pokémon pode ser\nfiado em um fio brilhante e lindo - um Galar\nespecialidade regional.",
         "zh-tw": "這個神奇寶貝頭上的棉花可以\n紡成光滑華麗的紗線——伽勒爾\n區域特產。",
-        ja: "頭の 綿毛で つくった 糸は 光沢があり とても 美しい。 ガラル地方の 名産品。"
+        ja: "頭の 綿毛で つくった 糸は 光沢があり とても 美しい。 ガラル地方の 名産品。",
+        ko: "머리의 솜털로 만든 실은\n윤이 나고 매우 아름답다.\n가라르지방의 특산품이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwebe nach oben",
                 "pt-br": "Flutuar",
                 "zh-tw": "浮起",
-                ja: "まいあがる"
+                ja: "まいあがる",
+                ko: "두리둥실"
             },
             damage: 40,
             cost: ["Grass"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Du darfst dieses Pokémon und alle daran angelegten Karten in dein Deck mischen.",
                 "pt-br": "Você pode embaralhar este Pokémon e todas as cartas associadas em seu baralho.",
                 "zh-tw": "你可以將這只神奇寶貝和所有附加的卡牌洗入你的牌庫。",
-                ja: "のぞむなら、このポケモンと、ついているすべてのカードを、山札にもどす。"
+                ja: "のぞむなら、このポケモンと、ついているすべてのカードを、山札にもどす。",
+                ko: "원한다면 이 포켓몬과 붙어 있는 모든 카드를 덱으로 되돌린다."
             }
         }],
     weaknesses: [{

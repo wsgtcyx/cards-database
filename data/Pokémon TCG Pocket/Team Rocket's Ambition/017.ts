@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/017"
     },
     name: {
         en: "Hisuian Basculin",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wegen ihrer anderen Lebensweise fand jüngst die These Zuspruch, dass es sich hierbei um eine völlig andere Pokémon-Art als Barschuft handele.",
         "pt-br": "Sua ecologia é nitidamente diferente das de outros Basculin, por isso as teorias de que é uma espécie totalmente distinta ganharam força nos últimos anos.",
         "zh-tw": "由於與野蠻鱸魚的生態相差甚鉅，故將兩者視為不同種類的說法在近年被認為最為有力。",
-        ja: "生態が あまりにも 異なるため バスラオとは 別種という 説が 近年は 有力視されている。"
+        ja: "生態が あまりにも 異なるため バスラオとは 別種という 説が 近年は 有力視されている。",
+        ko: "생태가 너무나도 다른 탓에 최근에는\n배쓰나이와 다른 종이라는 설이\n유력해지고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20
         }

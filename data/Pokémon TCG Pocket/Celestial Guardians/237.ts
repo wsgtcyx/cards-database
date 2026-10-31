@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/237",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/237",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/237",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/237"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/237",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/237"
     },
     name: {
         en: "Wigglytuff ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
         ja: "プリン",
+        ko: "푸린",
     },
     stage: "Stage1",
     suffix: "EX",

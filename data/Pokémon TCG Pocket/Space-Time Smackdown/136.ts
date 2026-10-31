@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/136",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/136"
     },
     name: {
         en: "Bibarel",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
         ja: "ビッパ",
+        ko: "비버니",
     },
     description: {
         en: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",

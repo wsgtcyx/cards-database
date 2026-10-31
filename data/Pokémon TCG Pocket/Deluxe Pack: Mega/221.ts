@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/221",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/221",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/221"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/221",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/221"
     },
     name: {
         en: "Skyla",
@@ -36,7 +37,7 @@ const card: Card = {
         it: "Scambia il tuo Pokémon attivo di Fase 1 con uno della tua panchina.",
         de: "Tausche dein Aktives Phase-1-Pokémon gegen 1 Pokémon auf deiner Bank aus.",
         ja: "自分のバトル場の1進化ポケモンを、ベンチポケモンと入れ替える。",
-        ko: "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon."
+        ko: "자신의 배틀필드의 1진화 포켓몬을 벤치 포켓몬과 교체한다."
     },
     trainerType: "Supporter"
 };

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/066",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/066"
     },
     name: {
         en: "Tirtouga",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tirtouga",
         "zh-tw": "原蓋海龜",
         ja: "プロトーガ",
+        ko: "프로토가",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Fóssil Casca",
         "zh-tw": "背蓋化石",
         ja: "ふたの化石",
+        ko: "덮개화석",
     },
     description: {
         en: "Tirtouga is considered to be the ancestor of\nmany turtle Pokémon. It was restored to life\nfrom a fossil.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Tirtouga gilt als der Vorfahre von\nviele Schildkröten-Pokémon. Es wurde wieder zum Leben erweckt\naus einem Fossil.",
         "pt-br": "Tirtouga é considerado o ancestral de\nmuitos Pokémon tartaruga. Foi restaurado à vida\nde um fóssil.",
         "zh-tw": "蒂爾圖加 (Tirtouga) 被認為是\n許多烏龜神奇寶貝。它又恢復了生機\n來自化石。",
-        ja: "多くの かめポケモンの 先祖と 考えられている ポケモン。 化石から 復元された。"
+        ja: "多くの かめポケモンの 先祖と 考えられている ポケモン。 化石から 復元された。",
+        ko: "많은 거북포켓몬의 선조로\n여겨지고 있는 포켓몬이다.\n화석에서 복원되었다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Granatenangriff",
                 "pt-br": "Ataque de concha",
                 "zh-tw": "砲彈攻擊",
-                ja: "こうらアタック"
+                ja: "こうらアタック",
+                ko: "등껍질 어택"
             },
             damage: 50,
             cost: ["Water", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

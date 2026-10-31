@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/019"
     },
     name: {
         en: "Blastoise",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Turtok",
         "pt-br": "Blastoise",
         "zh-tw": "水箭龜",
-        ja: "カメックス"
+        ja: "カメックス",
+        ko: "거북왕"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
-        ja: "カメール"
+        ja: "カメール",
+        ko: "어니부기"
     },
     description: {
         en: "The rocket cannons on its shell fire jets of water\ncapable of punching holes through thick steel.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Raketenkanonen auf seiner Granate feuern Wasserstrahlen ab\nKann Löcher durch dicken Stahl stanzen.",
         "pt-br": "Os canhões de foguete em seu projétil disparam jatos de água\ncapaz de fazer furos em aço grosso.",
         "zh-tw": "砲彈上的火箭炮噴射水流\n能夠在厚鋼板上打孔。",
-        ja: "甲羅の ロケット砲 から 噴き出した ジェット水流は ぶ厚い 鉄板も つらぬく。"
+        ja: "甲羅の ロケット砲 から 噴き出した ジェット水流は ぶ厚い 鉄板も つらぬく。",
+        ko: "등껍질의 로켓포에서\n뿜어져 나오는 제트 수류는\n두꺼운 철판도 뚫는다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Doppelter Spritzer",
                 "pt-br": "Respingo Duplo",
                 "zh-tw": "雙飛濺",
-                ja: "ダブルスプラッシュ"
+                ja: "ダブルスプラッシュ",
+                ko: "더블스플래시"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon mindestens 2 zusätzliche {W}-Energien angelegt sind, fügt dieser Angriff außerdem 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 2 {W} Energias extras ligadas, este ataque também causará 50 de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {W} 能量，則此攻擊也會對對手後備的 1 只神奇寶貝造成 50 點傷害。",
-                ja: "追加で{W}エネルギーが2個ついているなら、相手のベンチポケモン1匹にも50ダメージ。"
+                ja: "追加で{W}エネルギーが2個ついているなら、相手のベンチポケモン1匹にも50ダメージ。",
+                ko: "{W}에너지 2개가 추가로 붙어 있다면 상대의 벤치 포켓몬 1마리에게도 50데미지를 준다."
             }
         }],
     weaknesses: [{

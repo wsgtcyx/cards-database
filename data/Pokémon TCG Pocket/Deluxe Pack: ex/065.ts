@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/065"
     },
     name: {
         en: "Flareon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Flareon",
         "zh-tw": "火伊布",
         ja: "ブースター",
+        ko: "부스터",
     },
     illustrator: "Eri Yamaki",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "Inhaled air is carried to its flame sac, heated,\nand exhaled as fire that reaches over 3,000\ndegrees Fahrenheit.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die eingeatmete Luft wird in den Flammensack geleitet, dort erhitzt und\nund als Feuer ausgeatmet, das über 3.000 erreicht\nGrad Fahrenheit.",
         "pt-br": "O ar inalado é transportado para o seu saco de chamas, aquecido,\ne exalado como fogo que atinge mais de 3.000\ngraus Fahrenheit.",
         "zh-tw": "吸入的空氣被帶到其火焰囊中，被加熱，\n呼出的火焰達到3000多\n華氏度。",
-        ja: "吸いこんだ 空気を 体内の 炎袋に 送りこみ 1700度の 炎にして 吹く。"
+        ja: "吸いこんだ 空気を 体内の 炎袋に 送りこみ 1700度の 炎にして 吹く。",
+        ko: "들이마신 공기를 체내의\n불꽃 주머니에 보내\n1700도의 불꽃으로 내뿜는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Unterstützende Heizung",
                 "pt-br": "Aquecedor Auxiliar",
                 "zh-tw": "輔助加熱器",
-                ja: "アシストヒーター"
+                ja: "アシストヒーター",
+                ko: "어시스트히터"
             },
             damage: 40,
             cost: ["Fire", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Nimm eine {R}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue uma Energia {R} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、ベンチポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、ベンチポケモンにつける。",
+                ko: "자신의 에너지존에서 {R}에너지를 1개 내보내 벤치 포켓몬에게 붙인다."
             }
         }],
     weaknesses: [{

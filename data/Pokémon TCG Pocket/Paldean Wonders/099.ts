@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/099"
     },
     name: {
         en: "Maushold",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Maushold",
         "zh-tw": "一家鼠",
         ja: "イッカネズミ",
+        ko: "파밀리쥐",
         pt: "Maushold"
     },
     illustrator: "Mizue",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Der Kleine ist gerade eines Tages aufgetaucht. Sie leben alle wie eine Familie zusammen, doch die Beziehung der drei zueinander ist noch unklar.",
         "pt-br": "O pequeno apareceu um dia. Todos vivem juntos como uma família, mas a relação entre os três ainda não está clara.",
         "zh-tw": "小傢伙有一天才出現。他們都像一家人一樣生活在一起，但三人之間的關係至今仍不清楚。",
-        ja: "いつの間にか 子どもが 増えていた。 家族のように 暮らすが ３匹の 関係は 解明されていない。"
+        ja: "いつの間にか 子どもが 増えていた。 家族のように 暮らすが ３匹の 関係は 解明されていない。",
+        ko: "어느새 아이가 늘었다.\n가족같이 지내지만, 세 마리의 관계는\n제대로 밝혀진 것이 없다."
     },
     stage: "Stage1",
     attacks: [
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Dreifaches Nagen",
                 "pt-br": "Roedor Triplo",
                 "zh-tw": "三重啃咬",
-                ja: "トリプルかじり"
+                ja: "トリプルかじり",
+                ko: "트리플 갉아먹기"
             },
             damage: "60",
             cost: ["Colorless", "Colorless"],
@@ -62,7 +66,8 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄對手的戰鬥寶可夢中的隨機能量。",
-                ja: "コインを3回投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
+                ja: "コインを3回投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다."
             },
         },
     ],

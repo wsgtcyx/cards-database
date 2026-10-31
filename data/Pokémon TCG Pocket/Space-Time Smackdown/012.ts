@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/012"
     },
     name: {
         en: "Torterra",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Grotle",
         "zh-tw": "樹林龜",
         ja: "ハヤシガメ",
+        ko: "수풀부기",
     },
     description: {
         en: "Ancient people imagined that beneath the ground dwelt a gigantic Torterra.",
@@ -72,7 +74,7 @@ const card: Card = {
                 de: "Während deines nächsten Zuges kann dieses Pokémon Flora-Statue nicht einsetzen.",
                 'pt-br': "Durante o seu próximo turno, este Pokémon não poderá usar Planta Mortal.",
                 ja: "次の自分の番、このポケモンは「ハードプラント」が使えない。",
-                ko: "자신의 다음 차례에 이 포켓몬은 「하드플랜트」 사용할 수 없다.",
+                ko: "자신의 다음 차례에 이 포켓몬은 「하드플랜트」를 사용할 수 없다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法使用瘋狂植物。"
             }
         }],

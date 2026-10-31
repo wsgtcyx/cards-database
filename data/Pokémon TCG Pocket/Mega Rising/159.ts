@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/159",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/159",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/159",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/159"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/159",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/159"
     },
     name: {
         en: "Skrelp",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
         ja: "クズモー",
+        ko: "수레기",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist ein schlechter Schwimmer. Wenn es sich verfängt\nein heftiger Sturm, der manchmal weit weggeschwemmt wird\nweg und kann nicht mehr in seine Heimat zurückkehren.",
         "pt-br": "Este Pokémon é um péssimo nadador. Se estiver preso\numa tempestade feroz, às vezes será levada longe\nlonge e se torna incapaz de retornar para sua casa.",
         "zh-tw": "這只神奇寶貝游泳技術很差。如果它被夾在\n一場猛烈的風暴，有時會被沖得很遠\n離開並無法返回其家。",
-        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。"
+        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。",
+        ko: "헤엄치는 것이 서툴다.\n강한 폭풍에 휘말리면 먼 곳까지 떠내려가서\n보금자리로 돌아가지 못하는 경우도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rasiermesserflosse",
                 "pt-br": "Barbatana Navalha",
                 "zh-tw": "刀鰭",
-                ja: "ひれカッター"
+                ja: "ひれカッター",
+                ko: "지느러미 커터"
             },
             damage: 40,
             cost: ["Darkness", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

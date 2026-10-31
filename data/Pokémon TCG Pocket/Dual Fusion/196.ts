@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/196",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/196",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/196",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/196"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/196",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/196"
     },
     name: {
         en: "Kadabra",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Abra",
         "zh-tw": "凱西",
         ja: "ケーシィ",
-        ko: "Abra"
+        ko: "캐이시"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Esfera Psíquica",
                 "zh-tw": "念動彈",
                 ja: "ねんどうだん",
-                ko: "Psychic Sphere"
+                ko: "염동탄"
             },
             cost: [
                 "Colorless",
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "Usando seu poder psíquico, Kadabra levita enquanto dorme. Usa sua cauda elástica como um travesseiro.",
         "zh-tw": "會用精神力量浮在空中睡覺。伸縮性非凡的尾巴會當成枕頭用。",
         ja: "サイコパワーで 宙に 浮いたまま 眠る。 弾力に 優れた しっぽを 枕がわりに するぞ。",
-        ko: "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow."
+        ko: "사이코 파워로 공중에 떠서 잠든다.\n탄력이 뛰어난 꼬리를\n베개 대신으로 사용한다."
     }
 };
 

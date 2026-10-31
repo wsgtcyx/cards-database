@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/024"
     },
     name: {
         en: "Castform Sunny Form",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Formeo nimmt diese Form an, wenn es sich in hellem Sonnenlicht sonnt. Wenn man seine strahlende Haut berührt, fühlt es sich völlig ausgetrocknet an!",
         "pt-br": "Castform muda para esta forma quando se aquece sob a luz solar intensa. Quando você toca sua pele brilhante, ela fica toda seca!",
         "zh-tw": "當飄浮泡泡沐浴在明亮的陽光下時，它會變成這種形式。當你觸摸它發光的皮膚時，感覺整個人都乾了！",
-        ja: "暑い 日差しを 浴びていると この姿に 変わる。 火照った 身体を 触ると パサパサするぞ。"
+        ja: "暑い 日差しを 浴びていると この姿に 変わる。 火照った 身体を 触ると パサパサするぞ。",
+        ko: "뜨거운 햇볕을 받고 있으면\n이 모습으로 변한다. 화끈한\n몸을 만지면 건조해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sonniges Versengen",
                 "pt-br": "Abrasamento Ensolarado",
                 "zh-tw": "太陽灼燒",
-                ja: "やけつくたいよう"
+                ja: "やけつくたいよう",
+                ko: "불붙는태양"
             },
             effect: {
                 en: "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn ein Stadion im Spiel ist, ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
                 "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente estará Queimado.",
                 "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在會被燒毀。",
-                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをやけどにする。"
+                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをやけどにする。",
+                ko: "필드에 스타디움이 나와 있다면 상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 30
         }

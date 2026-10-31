@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/068",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/068",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/068",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/068"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/068",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/068"
 	},
 	name: {
 		en: "Ho-Oh ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Ho-Oh-ex",
 		"pt-br": "Ho-Oh ex",
 		"zh-tw": "鳳王ex",
-		ja: "ホウオウex"
+		ja: "ホウオウex",
+		ko: "칠색조 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -40,7 +42,8 @@ const card: Card = {
 				de: "Phoenix Turbo",
 				"pt-br": "Fênix Turbo",
 				"zh-tw": "鳳凰渦輪",
-				ja: "フェニックスターボ"
+				ja: "フェニックスターボ",
+				ko: "피닉스터보"
 			},
 			damage: 80,
 			cost: ["Colorless", "Colorless", "Colorless"],
@@ -52,7 +55,8 @@ const card: Card = {
 				de: "Nimm eine {R}-, {W}- und {L}-Energie aus deiner Energiezone und lege sie auf beliebige Weise an dein Basis-Pokémon auf deiner Bank an.",
 				"pt-br": "Pegue uma energia {R}, {W} e {L} da sua zona de energia e ligue-as aos seus Pokémon Básicos no Banco da maneira que desejar.",
 				"zh-tw": "從你的能量區取出 {R}、{W} 和 {L} 能量，並以你喜歡的任何方式將它們附加到你的後備基礎神奇寶貝上。",
-				ja: "自分のエネルギーゾーンから{R}と{W}と{L}エネルギーを1個ずつ出し、ベンチのたねポケモンに好きなようにつける。"
+				ja: "自分のエネルギーゾーンから{R}と{W}と{L}エネルギーを1個ずつ出し、ベンチのたねポケモンに好きなようにつける。",
+				ko: "자신의 에너지존에서 {R}과 {W}과 {L}에너지를 1개씩 내보내 벤치의 기본 포켓몬에게 원하는 대로 붙인다."
 			}
 		}
 	],

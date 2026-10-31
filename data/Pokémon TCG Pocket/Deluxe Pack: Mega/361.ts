@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/361",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/361",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/361",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/361"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/361",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/361"
     },
     name: {
         en: "Ducklett",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Fortalece o seu corpo ao mergulhar nas profundezas de lagoas, nadando enquanto procura musgo para comer.",
         "zh-tw": "會在池塘水深的地方四處游動找水苔來吃，順便鍛鍊身體。",
         ja: "エサの 水苔を 探し 池の 深い場所を 泳ぎまわりながら 体を 鍛えているのだ。",
-        ko: "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat."
+        ko: "먹이인 이끼를 찾아\n연못의 깊은 곳을 헤엄치면서\n몸을 단련하고 있다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Ataque de Asa",
                 "zh-tw": "翅膀攻擊",
                 ja: "つばさでうつ",
-                ko: "Wing Attack"
+                ko: "날개치기"
             },
             damage: 30
         }

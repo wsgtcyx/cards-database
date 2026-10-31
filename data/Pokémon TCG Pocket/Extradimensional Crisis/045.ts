@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/045"
     },
     name: {
         en: "Naganadel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Naganadel",
         "zh-tw": "四顎針龍",
         ja: "アーゴヨン",
+        ko: "아고용",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Poipole",
         "zh-tw": "毒貝比",
         ja: "ベベノム",
+        ko: "베베놈",
     },
     description: {
         en: "It stores hundreds of liters of poisonous liquid\ninside its body. It is one of the organisms known\nas UBs.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es speichert Hunderte Liter giftige Flüssigkeit\nin seinem Körper. Es ist einer der bekannten Organismen\nals UBs.",
         "pt-br": "Armazena centenas de litros de líquido venenoso\ndentro de seu corpo. É um dos organismos conhecidos\ncomo UBs.",
         "zh-tw": "它儲存了數百升有毒液體\n在它的身體裡面。它是已知的生物之一\n作為 UB。",
-        ja: "体内に 数百リットルの 毒液を ためている。 ＵＢと 呼ばれる 生物の 一種。"
+        ja: "体内に 数百リットルの 毒液を ためている。 ＵＢと 呼ばれる 生物の 一種。",
+        ko: "체내에 수백 리터의\n독액을 갖고 있다.\nUB라고 불리는 생물의 일종이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Electro House",
                 "pt-br": "Casa Eletro",
                 "zh-tw": "電子屋",
-                ja: "アシッドハウス"
+                ja: "アシッドハウス",
+                ko: "애시드하우스"
             },
             damage: 40,
             cost: ["Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

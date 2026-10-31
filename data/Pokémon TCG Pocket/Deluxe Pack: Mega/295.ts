@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/295",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/295",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/295",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/295"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/295",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/295"
     },
     name: {
         en: "Mareep",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Seu pelo cresce sem parar. No verão, perde toda a sua lã, mas ela cresce de volta em uma semana.",
         "zh-tw": "體毛會不斷地變長。即使每到夏天就會掉光，也能在1週內長回原樣。",
         ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。",
-        ko: "Its fleece grows continually. In the summer,\nthe fleece is fully shed, but it grows back in\na week."
+        ko: "몸의 털은 점점 자란다.\n여름이 되면 전부 빠지지만\n일주일 정도면 원래대로 자라난다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Chute Traseiro",
                 "zh-tw": "後踢",
                 ja: "うしろげり",
-                ko: "Rear Kick"
+                ko: "뒤로 차기"
             },
             damage: 10,
             cost: [

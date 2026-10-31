@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/046",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/046",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/046"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/046",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/046"
     },
     name: {
         en: "Dewpider",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Araqua stützt die Wasserblase, die seinen Kopf einhüllt, mit dreien seiner Beine. Manchmal wechselt es diese heimlich.",
         "pt-br": "A bolha de água que envolve sua cabeça é apoiada por suas tres pernas. As vezes, troca sutilmente as pernas que sustentam sua bolha.",
         "zh-tw": "用3隻腳支撐著\n包裹頭部的水泡。\n有時會偷偷地換腳。",
-        ja: "頭を 包み込む 水泡を ３本の 脚で 支えている。 ときどき こっそり 入れ替えている。"
+        ja: "頭を 包み込む 水泡を ３本の 脚で 支えている。 ときどき こっそり 入れ替えている。",
+        ko: "머리를 감싸고 있는 수포를\n세 개의 다리로 지탱하고 있다.\n가끔씩 몰래 새것으로 바꾼다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
                 "zh-tw": "飛濺",
-                ja: "スプラッシュ"
+                ja: "スプラッシュ",
+                ko: "스플래시"
             },
             damage: 20
         }

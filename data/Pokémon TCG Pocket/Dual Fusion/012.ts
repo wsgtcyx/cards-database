@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/012"
     },
     name: {
         en: "Amoonguss",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Foongus",
         "zh-tw": "哎呀球菇",
         ja: "タマゲタケ",
-        ko: "Foongus"
+        ko: "깜놀버슬"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Abismar",
                 "zh-tw": "驚嚇",
                 ja: "おどろかす",
-                ko: "Astonish"
+                ko: "놀래키기"
             },
             cost: [
                 "Colorless",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Olhe 1 carta aleatória da mão do seu oponente e a embaralhe no baralho dele.",
                 "zh-tw": "從對手的手牌隨機查看1張卡的正面後,放回牌庫。",
                 ja: "相手の手札からランダムに1枚、オモテを見て、山札にもどす。",
-                ko: "Look at a random card from your opponent's hand and shuffle it into their deck."
+                ko: "상대의 패에서 랜덤으로 1장 앞면을 보고 덱으로 되돌린다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Tenha cuidado com os esporos venenosos que este Pokémon libera. Cogumelos semelhantes aos capuzes de Amoonguss crescerão em qualquer lugar que os esporos tocarem.",
         "zh-tw": "小心牠噴出的孢子。因為被噴到的地方會長出蘑菇，形狀像是敗露球菇的菌傘。",
         ja: "吹き出す 毒の胞子に 注意。 浴びた 部分から モロバレルの カサに 似た キノコが 生えてくる。",
-        ko: "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss’s caps will grow out of anywhere the spores touch."
+        ko: "내뿜는 독 포자를 조심해야 한다.\n포자에 닿은 부분에서\n뽀록나의 갓을 닮은 버섯이 자라기 때문이다."
     }
 };
 

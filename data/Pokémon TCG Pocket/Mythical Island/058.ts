@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/058"
     },
     name: {
         en: "Pidgeotto",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
+        ko: "구구",
     },
     description: {
         en: "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",

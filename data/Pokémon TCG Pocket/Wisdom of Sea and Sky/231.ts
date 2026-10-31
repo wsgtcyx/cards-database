@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/231",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/231",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/231",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/231"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/231",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/231"
     },
     name: {
         en: "Eevee",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Fähigkeit, sich in viele Formen zu entwickeln, ermöglicht es ihm\npassen sich jeder Umgebung reibungslos und perfekt an.",
         "pt-br": "Sua capacidade de evoluir em muitas formas permite que ele\nadapta-se suavemente e perfeitamente a qualquer ambiente.",
         "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。",
-        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。"
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
+        ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Finde einen Freund",
                 "pt-br": "Encontre um amigo",
                 "zh-tw": "找朋友",
-                ja: "ともだちをさがす"
+                ja: "ともだちをさがす",
+                ko: "친구찾기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
-                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     weaknesses: [{

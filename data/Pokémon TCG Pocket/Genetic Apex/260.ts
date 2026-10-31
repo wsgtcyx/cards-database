@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/260",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/260",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/260",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/260"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/260",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/260"
     },
     name: {
         en: "Zapdos ex",
@@ -40,7 +41,8 @@ const card: Card = {
             de: "Picken",
             "pt-br": "Bicada",
             "zh-tw": "啄",
-            ja: "つつく"
+            ja: "つつく",
+            ko: "쪼기"
         },
 
         damage: "20"
@@ -55,7 +57,8 @@ const card: Card = {
             de: "Donnernder Orkan",
             "pt-br": "Furacão Trovejante",
             "zh-tw": "颶風雷電",
-            ja: "ハリケーンサンダー"
+            ja: "ハリケーンサンダー",
+            ko: "허리케인 썬더"
         },
 
         effect: {
@@ -66,7 +69,8 @@ const card: Card = {
             de: "Wirf 4 Münzen. Diese Attacke fügt für jede Kopfseite 50 Schadenspunkte zu.",
             "pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
             "zh-tw": "擲4次硬幣，造成正面出現的次數×50點傷害。",
-            ja: "コインを4回投げ、オモテの数×50ダメージ。"
+            ja: "コインを4回投げ、オモテの数×50ダメージ。",
+            ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
         },
 
         damage: "50×"

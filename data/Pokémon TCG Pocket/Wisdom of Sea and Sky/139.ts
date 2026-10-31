@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/139",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/139",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/139"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/139",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/139"
     },
     name: {
         en: "Furret",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Furret",
         "zh-tw": "大尾立",
         ja: "オオタチ",
+        ko: "다꼬리",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sentret",
         "zh-tw": "尾立",
         ja: "オタチ",
+        ko: "꼬리선",
     },
     description: {
         en: "The mother puts its offspring to sleep by curling up\naround them. It corners foes with speed.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Mutter schläft ihren Nachwuchs ein, indem sie sich zusammenrollt\num sie herum. Es treibt Gegner schnell in die Enge.",
         "pt-br": "A mãe coloca seu filho para dormir enrolando-se\nao redor deles. Ele encurrala os inimigos com velocidade.",
         "zh-tw": "母親會蜷縮起來讓孩子入睡\n他們周圍。它以速度將敵人逼入絕境。",
-        ja: "母親は 細長い 体で 子供を 包みこみ 眠らせる。 速い 動きで 敵を 追いこむ。"
+        ja: "母親は 細長い 体で 子供を 包みこみ 眠らせる。 速い 動きで 敵を 追いこむ。",
+        ko: "엄마 포켓몬이 가늘고 긴 몸으로\n새끼를 감싸 안아 재운다.\n빠른 움직임으로 상대를 몰아붙인다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwanzschlag",
                 "pt-br": "Quebra de cauda",
                 "zh-tw": "尾部粉碎",
-                ja: "テールスマッシュ"
+                ja: "テールスマッシュ",
+                ko: "테일스매시"
             },
             damage: 80,
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

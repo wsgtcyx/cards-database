@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/043"
     },
     name: {
         en: "Kingambit",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Nur ein Caesurio, der in seiner riesigen Armee über allen anderen steht, kann sich zu Gladimperio entwickeln.",
         "pt-br": "Somente um Bisharp que está acima de todos os outros em seu vasto exército pode evoluir para Kingambit.",
         "zh-tw": "只有在龐大的軍隊中脫穎而出的劈斬司令才能進化成仆斬將軍。",
-        ja: "ドドゲザンに 進化できるのは 大軍勢の 頂点に 立った １匹の キリキザンだけなのだ。"
+        ja: "ドドゲザンに 進化できるのは 大軍勢の 頂点に 立った １匹の キリキザンだけなのだ。",
+        ko: "큰 군세의 정점에 올라선\n단 한 마리의 절각참만이\n대도각참으로 진화할 수 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Klinge des Overlords",
                 "pt-br": "Lâmina do Overlord",
                 "zh-tw": "大將利刃",
-                ja: "たいしょうのやいば"
+                ja: "たいしょうのやいば",
+                ko: "대장의칼날"
             },
             effect: {
                 en: "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff verursacht 40 weitere Schadenspunkte für jedes Mal, wenn dein Pokémon in diesem Spiel kampfunfähig gemacht wird.",
                 "pt-br": "Este ataque causa 40 danos a mais cada vez que seu Pokémon for nocauteado durante o jogo.",
                 "zh-tw": "在這個遊戲中，每次你的寶可夢被擊倒，此攻擊都會造成 40 點額外傷害。",
-                ja: "この対戦中、自分のポケモンがきぜつした回数×40ダメージ追加。"
+                ja: "この対戦中、自分のポケモンがきぜつした回数×40ダメージ追加。",
+                ko: "이 대전 중 자신의 포켓몬이 기절한 횟수 × 40데미지를 추가한다."
             },
             damage: "60+"
         }

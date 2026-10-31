@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/148",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/148"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/148",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/148"
     },
     name: {
         en: "Gengar",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
         ja: "ゴースト",
-        ko: "Haunter"
+        ko: "고우스트"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Veneno do Crepúsculo",
                 "zh-tw": "薄暮之毒",
                 ja: "ゆうやみどく",
-                ko: "Twilight Poison"
+                ko: "땅거미독"
             },
             cost: [
                 "Darkness"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒與睡眠。",
                 ja: "相手のバトルポケモンをどくとねむりにする。",
-                ko: "Your opponent's Active Pokémon is now Poisoned and Asleep."
+                ko: "상대의 배틀 포켓몬을 독과 잠듦으로 만든다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Este Pokémon aguarda pela oportunidade perfeita para se esconder na sombra de sua presa e roubar a vida dela.",
         "zh-tw": "會躲進獵物的影子裡，然後靜靜地等待奪取性命的絕佳時機。",
         ja: "命を 奪おうと 決めた 獲物の 影に 潜り込み じっと チャンスを 狙ってる。",
-        ko: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity."
+        ko: "생명을 빼앗기로 정한 먹잇감의\n그림자에 숨어들어\n꼼짝하지 않고 기회를 노린다."
     }
 };
 

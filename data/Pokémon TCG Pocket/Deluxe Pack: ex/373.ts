@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/373",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/373",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/373",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/373"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/373",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/373"
 	},
 	name: {
         en: "Professor's Research",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pesquisa de Professores",
         "zh-tw": "博士的研究",
         ja: "博士の研究",
+        ko: "박사의 연구",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Star",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Ziehe 2 Karten.",
         "pt-br": "Compre 2 cartas.",
         "zh-tw": "抽 2 張牌。",
-        ja: "自分の山札を2枚引く。"
+        ja: "自分の山札を2枚引く。",
+        ko: "자신의 덱을 2장 뽑는다."
     },
     trainerType: "Supporter"
 };

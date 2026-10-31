@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/221",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/221",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/221"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/221",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/221"
     },
     name: {
         en: "Haunter",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
         ja: "ゴース",
+        ko: "고오스",
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",

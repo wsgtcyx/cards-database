@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/077",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/077"
     },
     name: {
         en: "Umbreon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Umbreon",
         "zh-tw": "月亮伊布",
         ja: "ブラッキー",
+        ko: "블래키",
     },
     illustrator: "kawayoo",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es der Aura des Mondes ausgesetzt wird, bilden sich die Ringe auf ihm\nDer Körper leuchtet schwach und erhält eine geheimnisvolle Kraft.",
         "pt-br": "Quando expostos à aura da lua, os anéis em sua\ncorpo brilha levemente e ganha um poder misterioso.",
         "zh-tw": "當暴露在月球的光環下時，其上的光環\n身體隱隱發光，獲得了神秘的力量。",
-        ja: "月の 波動を 体に 浴びると 輪っか模様が ほのかに 輝き 不思議な 力に 目覚めるのだ。"
+        ja: "月の 波動を 体に 浴びると 輪っか模様が ほのかに 輝き 不思議な 力に 目覚めるのだ。",
+        ko: "달의 파동을 몸에 쬐면\n고리 모양이 희미하게 빛나며\n이상한 힘에 눈을 뜬다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Dunkle Bindung",
                 "pt-br": "Ligação Negra",
                 "zh-tw": "黑暗束縛",
-                ja: "ブラックバインド"
+                ja: "ブラックバインド",
+                ko: "블랙바인드"
             },
             damage: 40,
             cost: ["Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn das verteidigende Pokémon ein Basis-Pokémon ist, kann es im nächsten Zug deines Gegners nicht angreifen.",
                 "pt-br": "Se o Pokémon Defensor for um Pokémon Básico, ele não poderá atacar durante o próximo turno do seu oponente.",
                 "zh-tw": "如果防守寶可夢是基礎寶可夢，則在對手的下一個回合中它不能攻擊。",
-                ja: "次の相手の番、このワザを受けたたねポケモンはワザが使えない。"
+                ja: "次の相手の番、このワザを受けたたねポケモンはワザが使えない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 기본 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     weaknesses: [{

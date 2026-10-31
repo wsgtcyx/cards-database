@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/224",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/224",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/224"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/224",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/224"
     },
     name: {
         en: "Nidorina",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Nidorina",
         "zh-tw": "尼多娜",
         ja: "ニドリーナ",
+        ko: "니드리나",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",
         ja: "ニドラン♀",
+        ko: "니드런♀",
     },
     description: {
         en: "The horn on its head has atrophied. It's thought\nthat this happens so Nidorina's children won't get\npoked while their mother is feeding them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das Horn auf seinem Kopf ist verkümmert. Es ist gedacht\ndass dies geschieht, damit Nidorinas Kinder es nicht bekommen\nstocherte, während ihre Mutter sie fütterte.",
         "pt-br": "O chifre em sua cabeça atrofiou. É pensado\nque isso aconteça para que os filhos de Nidorina não recebam\ncutucados enquanto a mãe os alimenta.",
         "zh-tw": "它頭上的角已經萎縮了。是以為\n發生這種情況是為了讓尼多麗娜的孩子們不會受到\n當他們的母親餵他們的時候被戳了。",
-        ja: "額の ツノは 子どもに エサを 与えるときに 刺さらないよう 退化したと 考えられている。"
+        ja: "額の ツノは 子どもに エサを 与えるときに 刺さらないよう 退化したと 考えられている。",
+        ko: "이마의 뿔은 새끼에게 먹이를\n줄 때 찌르지 않도록\n퇴화했다고 추측되고 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30,
             cost: ["Darkness"]

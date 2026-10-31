@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/008"
     },
     name: {
         en: "Mega Pinsir ex",
@@ -44,7 +45,7 @@ const card: Card = {
                 "pt-br": "Tesouras Críticas",
                 "zh-tw": "會心一剪",
                 ja: "クリティカルシザー",
-                ko: "Critical Scissors"
+                ko: "크리티컬시저"
             },
             damage: "80+",
             cost: [
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加70點傷害。",
                 ja: "コインを1回投げオモテなら、70ダメージ追加。",
-                ko: "Flip a coin. If heads, this attack does 70 more damage."
+                ko: "동전을 1번 던져서 앞면이 나오면 70데미지를 추가한다."
             }
         }
     ],

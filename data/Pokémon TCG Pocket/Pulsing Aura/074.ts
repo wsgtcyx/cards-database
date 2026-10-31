@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/074"
     },
     name: {
         en: "Gligar",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es gleitet, als würde es gleiten. Es erschreckt Feinde, indem es sich an deren Gesichtern festklammert und dann mit seinem Giftstachel zusticht.",
         "pt-br": "Ele desliza como se estivesse deslizando. Ele assusta os inimigos apertando seus rostos e depois ataca com seu ferrão venenoso.",
         "zh-tw": "它像滑動一樣滑動。它會抓住敵人的臉來嚇唬他們，然後用毒刺刺傷他們。",
-        ja: "空を 滑るように 飛んできて 顔に はりつき 驚かせてから 毒針で 攻撃してくる。"
+        ja: "空を 滑るように 飛んできて 顔に はりつき 驚かせてから 毒針で 攻撃してくる。",
+        ko: "하늘을 미끄러지듯 날아와서\n얼굴에 들러붙어 놀라게 한 뒤에\n독침으로 공격해 온다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Anfallen",
                 "pt-br": "Estocada",
                 "zh-tw": "猛撲",
-                ja: "とびかかる"
+                ja: "とびかかる",
+                ko: "덤벼들기"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 40
         }

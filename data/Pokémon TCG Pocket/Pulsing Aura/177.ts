@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/177",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/177",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/177",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/177"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/177",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/177"
     },
     name: {
         en: "Meltan",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sie leben in Gruppen. Doch wenn die Zeit reif\nist, nimmt ein starkes Meltan seine Artgenossen\nin sich auf und entwickelt sich.",
         "pt-br": "Eles vivem como um grupo, mas quando chegar a hora, um Meltan forte absorverá todos os outros e evoluirá.",
         "zh-tw": "美錄坦們雖然聚在一起生活，\n但當時機到來，會由最強的那１隻\n吸收其他的夥伴來進化。",
-        ja: "群れになって 生活するが 時が くると １匹の 強い メルタンが 仲間たちを 取りこみ 進化する。"
+        ja: "群れになって 生活するが 時が くると １匹の 強い メルタンが 仲間たちを 取りこみ 進化する。",
+        ko: "무리 지어 생활하지만\n때가 되면 1마리의 강한 멜탄이\n동료들을 흡수해 진화한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
                 "zh-tw": "踩",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 10
         }

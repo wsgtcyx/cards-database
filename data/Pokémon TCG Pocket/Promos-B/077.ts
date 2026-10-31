@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/077"
     },
     name: {
         en: "Growlithe",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist den Menschen gegenüber sehr freundlich und treu. Es wird versuchen, Feinde durch Bellen und Beißen abzuwehren.",
         "pt-br": "É muito amigável e fiel às pessoas. Ele tentará repelir os inimigos latindo e mordendo.",
         "zh-tw": "它對人非常友好和忠誠。它會嘗試透過吠叫和撕咬來擊退敵人。",
-        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。"
+        ja: "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。",
+        ko: "사람을 잘 따르는 충실한 성격이다.\n적을 보면 짖거나 물어서\n쫓아내려고 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
                 "zh-tw": "小狗滿地跑",
-                ja: "こいぬまみれ"
+                ja: "こいぬまみれ",
+                ko: "강아지투성이"
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
                 "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
-                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。"
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
+                ko: "자신의 필드와 패에 있는 기술 「강아지투성이」를 가진 포켓몬을 모두 상대에게 보여주고 보여준 포켓몬의 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

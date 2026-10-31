@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/003"
     },
     name: {
         en: "Venusaur",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
         ja: "フシギソウ",
-        ko: "Ivysaur"
+        ko: "이상해풀"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Raio Solar",
                 "zh-tw": "日光束",
                 ja: "ソーラービーム",
-                ko: "Solar Beam"
+                ko: "솔라빔"
             },
             cost: [
                 "Colorless",
@@ -86,7 +87,7 @@ const card: Card = {
                 "pt-br": "Cura Ensolarada",
                 "zh-tw": "陽光治癒",
                 ja: "サニーヒール",
-                ko: "Sunny Heal"
+                ko: "서니 힐"
             },
             effect: {
                 en: "Once during your turn, you may heal 30 damage from your Active Pokémon.",
@@ -97,7 +98,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, você poderá curar 30 pontos de dano do seu Pokémon Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。將自己的戰鬥寶可夢恢復30HP。",
                 ja: "自分の番に1回使える。自分のバトルポケモンのHPを30回復。",
-                ko: "Once during your turn, you may heal 30 damage from your Active Pokémon."
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 30회복."
             },
             type: "Ability"
         }
@@ -111,7 +112,7 @@ const card: Card = {
         "pt-br": "Enquanto toma um solzinho, consegue converter a luz em energia. Por isso, é mais poderoso durante o verão.",
         "zh-tw": "由於能將沐浴的陽光轉換成能量，夏天會變得更強。",
         ja: "浴びた 太陽の 光を エネルギーに 変換できるので 夏の ほうが 強くなる。",
-        ko: "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime."
+        ko: "내리쪼이는 태양 빛을\n에너지로 변환할 수 있기 때문에\n여름에 더욱 강해진다."
     }
 };
 

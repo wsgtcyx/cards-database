@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/058"
     },
     name: {
         en: "Corphish",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
         ja: "ヘイガニ",
+        ko: "가재군",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ursprünglich war es ein Pokémon aus der Ferne, das entkam\nin die Wildnis. Es kann sich an den schmutzigsten Fluss anpassen.",
         "pt-br": "Era originalmente um Pokémon de longe que escapou\npara a natureza. Pode se adaptar ao rio mais sujo.",
         "zh-tw": "原本是一隻從遠處逃走的神奇寶貝\n到野外。它能適應最髒的河流。",
-        ja: "外国から やってきた ポケモンが 野生化した。 どんなに 汚い 川でも 適応してしまう。"
+        ja: "外国から やってきた ポケモンが 野生化した。 どんなに 汚い 川でも 適応してしまう。",
+        ko: "외국에서 온 포켓몬이\n야생화했다. 아무리 더러운\n강이라도 적응해버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20,
             cost: ["Water"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

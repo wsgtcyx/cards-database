@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/296",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/296",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/296",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/296"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/296",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/296"
 	},
 	name: {
         en: "Bibarel ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bibarel ex",
         "zh-tw": "大尾狸ex",
         ja: "ビーダルex",
+        ko: "비버통 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
         ja: "ビッパ",
+        ko: "비버니",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Sorglose Presse",
                 "pt-br": "Imprensa despreocupada",
                 "zh-tw": "無憂出版社",
-                ja: "のびのびプレス"
+                ja: "のびのびプレス",
+                ko: "유유자적 프레스"
             },
             damage: 100,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンのHPを30回復。"
+                ja: "このポケモンのHPを30回復。",
+                ko: "이 포켓몬의 HP를 30회복."
             }
         }],
     weaknesses: [{

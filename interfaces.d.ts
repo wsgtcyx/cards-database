@@ -26,6 +26,8 @@ export interface Set {
 	name: Languages
 	/** Extensionless localized set logo bases; the SDK appends the image format. */
 	logo?: Languages
+	/** Extensionless language-neutral or localized set symbol bases. */
+	symbol?: Languages
 	/**
 	 * Partial list of abbreviations, this is currently a Work in Progress feature
 	 */

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/094",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/094"
     },
     name: {
         en: "Golduck",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Golduck",
         "zh-tw": "哥達鴨",
         ja: "ゴルダック",
+        ko: "골덕",
     },
     illustrator: "Scav",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
         ja: "コダック",
+        ko: "고라파덕",
     },
     description: {
         en: "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es mit voller Geschwindigkeit schwimmt, nutzt es seine langen,\nGliedmaßen sind mit Schwimmhäuten bedeckt, seine Stirn beginnt irgendwie\nleuchten.",
         "pt-br": "Quando nada a toda velocidade usando seu comprimento,\nmembros palmados, sua testa de alguma forma começa\npara brilhar.",
         "zh-tw": "當它用它的長線全速游泳時，\n有蹼的四肢，它的前額以某種方式開始\n發光。",
-        ja: "水かきのついた 長い 手足を 使い 全力で 泳ぎだすと なぜか 額が 光り輝く。"
+        ja: "水かきのついた 長い 手足を 使い 全力で 泳ぎだすと なぜか 額が 光り輝く。",
+        ko: "물갈퀴가 달린 긴 손발을 써서\n전력으로 헤엄치면\n왠지 이마에서 빛이 반짝인다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Aqua Edge",
                 "pt-br": "Borda Aqua",
                 "zh-tw": "水色邊緣",
-                ja: "アクアエッジ"
+                ja: "アクアエッジ",
+                ko: "아쿠아에지"
             },
             damage: 70,
             cost: ["Water", "Water"]

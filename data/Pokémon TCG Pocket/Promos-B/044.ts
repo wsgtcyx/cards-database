@@ -11,7 +11,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/044",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/044"
     },
     name: {
         en: "Varoom",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Der Stahlabschnitt ist der eigentliche Körper von Knattox. Dieses Pokémon klammert sich an Steine ​​und wandelt die darin enthaltenen Mineralien in Energie um, um seine Aktivitäten anzutreiben.",
         "pt-br": "A seção de aço é o corpo real do Varoom. Este Pokémon se agarra às rochas e converte os minerais contidos em energia para alimentar suas atividades.",
         "zh-tw": "鋼截面是噗隆隆的實體。這種寶可夢會附著在岩石上，並將其中的礦物質轉化為能量來為其活動提供燃料。",
-        ja: "鋼の 体が 本体。 岩に 張りつき その成分を エネルギーに 変えて 活動する。"
+        ja: "鋼の 体が 本体。 岩に 張りつき その成分を エネルギーに 変えて 活動する。",
+        ko: "강철로 된 몸이 본체다.\n바위에 달라붙은 다음,\n그 성분을 에너지로 바꿔 활동한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Giftwolke",
                 "pt-br": "Gás Venenoso",
                 "zh-tw": "毒瓦斯",
-                ja: "どくガス"
+                ja: "どくガス",
+                ko: "독가스"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }
     ],

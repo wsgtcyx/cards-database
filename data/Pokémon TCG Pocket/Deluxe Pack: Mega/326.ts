@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/326",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/326",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/326",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/326"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/326",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/326"
     },
     name: {
         en: "Gastly",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Seu corpo é feito de gás. Apesar da falta de consistência, pode envolver um oponente de qualquer tamanho e causar sufocamento.",
         "zh-tw": "不管對手的體型多大，在氣體狀態的身體緊緊纏繞後，會讓對手窒息失去生命。",
         ja: "ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。",
-        ko: "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation."
+        ko: "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Resmungo",
                 "zh-tw": "囈語",
                 ja: "つぶやく",
-                ko: "Mumble"
+                ko: "중얼거리기"
             },
             damage: 20
         }

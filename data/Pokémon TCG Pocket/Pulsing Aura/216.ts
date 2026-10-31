@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/216",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/216",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/216"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/216",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/216"
     },
     name: {
         en: "Muk",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sie treffen sich an stinkenden Orten, an denen der\nSchleim sich türmt. Dies merkt man am Gestank.",
         "pt-br": "Eles adoram se reunir em áreas malcheirosas onde o lodo se acumula, piorando o fedor ao seu redor.",
         "zh-tw": "它們喜歡聚集在污泥堆積的臭地方，使周圍的惡臭變得更嚴重。",
-        ja: "ヘドロが たまる くさい 場所を 好んで 集まってくるので あたりは いっそう くさくなる。"
+        ja: "ヘドロが たまる くさい 場所を 好んで 集まってくるので あたりは いっそう くさくなる。",
+        ko: "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Mülltreffer",
                 "pt-br": "Tiro de Sujeira",
                 "zh-tw": "垃圾射擊",
-                ja: "ダストシュート"
+                ja: "ダストシュート",
+                ko: "더스트슈트"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 70
         }

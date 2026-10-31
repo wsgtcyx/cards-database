@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/050"
     },
     name: {
         en: "Weezing",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Koffing",
         "zh-tw": "瓦斯彈",
         ja: "ドガース",
+        ko: "또가스",
     },
     description: {
         en: "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/075",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/075",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/075",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/075"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/075",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/075"
 	},
 	name: {
 		en: "Infernape ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Panferno-ex",
 		"pt-br": "Infernape ex",
 		"zh-tw": "烈焰猴ex",
-		ja: "ゴウカザルex"
+		ja: "ゴウカザルex",
+		ko: "초염몽 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Panpyro",
 		"pt-br": "Monferno",
 		"zh-tw": "猛火猴",
-		ja: "モウカザル"
+		ja: "モウカザル",
+		ko: "파이숭이"
 	},
 	stage: "Stage2",
 	suffix: "EX",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/104",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/104",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/104"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/104",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/104"
     },
     name: {
         en: "Dusclops",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dusclops",
         "zh-tw": "彷徨夜靈",
         ja: "サマヨール",
+        ko: "미라몽",
     },
     illustrator: "Kazuma Koda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
         ja: "ヨマワル",
+        ko: "해골몽",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them\ninto its empty body. What happens inside is\na mystery.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es sucht nach treibenden Irrlichtern und saugt sie aus\nin seinen leeren Körper. Was im Inneren passiert, ist\nein Geheimnis.",
         "pt-br": "Ele procura fogos-fátuos à deriva e os suga\nem seu corpo vazio. O que acontece lá dentro é\num mistério.",
         "zh-tw": "它尋找漂浮的鬼火併吸走它們\n進入它空虛的身體。裡面發生的事情是\n一個謎。",
-        ja: "さまよっている 人魂を 見つけ 空っぽの 体内に 吸いこむ。 吸いこまれて どうなるかは 謎。"
+        ja: "さまよっている 人魂を 見つけ 空っぽの 体内に 吸いこむ。 吸いこまれて どうなるかは 謎。",
+        ko: "떠도는 사람의 영혼을 찾아\n텅 빈 체내로 빨아들인다.\n그 후 영혼이 어떻게 되는지는 알 수 없다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
                 "zh-tw": "鬼火",
-                ja: "おにび"
+                ja: "おにび",
+                ko: "도깨비불"
             },
             damage: 30,
             cost: ["Psychic"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

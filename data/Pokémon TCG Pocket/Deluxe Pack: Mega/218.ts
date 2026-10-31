@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/218",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/218"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/218",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/218"
     },
     name: {
         en: "Clemont",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Coloque aleatoriamente 2 cartas dentre Magneton, Heliolisk e Mochila do Clemont do seu baralho na sua mão.",
         "zh-tw": "從自己的牌庫隨機將2張「三合一磁怪」「光電傘蜥」「希特隆的背包」加入手牌。",
         ja: "自分の山札から「レアコイル」「エレザード」「シトロンのリュック」をランダムに2枚、手札に加える。",
-        ko: "Put 2 random cards from among Magneton, Heliolisk, and Clemont's Backpack from your deck into your hand."
+        ko: "자신의 덱에서 「레어코일」「일레도리자드」「시트론의 륙색」을 랜덤으로 2장 패로 가져온다."
     },
     trainerType: "Supporter"
 };

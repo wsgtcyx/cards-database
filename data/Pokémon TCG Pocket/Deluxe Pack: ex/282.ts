@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/282",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/282",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/282",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/282"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/282",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/282"
 	},
 	name: {
 		en: "Lickitung",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Schlurp",
 		"pt-br": "Lickitung",
 		"zh-tw": "大舌頭",
-		ja: "ベロリンガ"
+		ja: "ベロリンガ",
+		ko: "내루미"
 	},
 	illustrator: "Yukiko Baba",
 	rarity: "One Diamond",

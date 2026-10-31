@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/027",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/027"
     },
     name: {
         en: "Eelektrik",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Eelektrik",
         "zh-tw": "麻麻鰻",
         ja: "シビビール",
+        ko: "저리릴",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Tynamo",
         "zh-tw": "麻麻小魚",
         ja: "シビシラス",
+        ko: "저리어",
     },
     description: {
         en: "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie schlingen sich um Feinde und schocken sie mit ihnen\nStrom erzeugende Organe, die einfach erscheinen\nkreisförmige Muster sein.",
         "pt-br": "Eles se enrolam em torno dos inimigos e os chocam com\nórgãos geradores de eletricidade que parecem simplesmente\nser padrões circulares.",
         "zh-tw": "他們盤繞敵人並用\n看似簡單的發電器官\n為圓形圖案。",
-        ja: "丸い 模様が 発電 器官。相手に 巻きついてから 模様を 押しつけて 電気を 流すのだ。"
+        ja: "丸い 模様が 発電 器官。相手に 巻きついてから 模様を 押しつけて 電気を 流すのだ。",
+        ko: "둥근 무늬가 발전 기관이다.\n상대를 휘감은 후 무늬를\n딱 붙여서 전기를 흘려보낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Elektroball",
                 "pt-br": "Bola Eletro",
                 "zh-tw": "電球",
-                ja: "エレキボール"
+                ja: "エレキボール",
+                ko: "일렉트릭볼"
             },
             damage: 50,
             cost: ["Lightning", "Colorless"]

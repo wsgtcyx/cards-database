@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/103"
     },
     name: {
         en: "Quick-Grow Extract",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Wachstumsextrakt",
         "pt-br": "Extrato de Adubo",
         "zh-tw": "早熟精華",
-        ja: "そうじゅくエキス"
+        ja: "そうじゅくエキス",
+        ko: "조숙엑기스"
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Crown",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wähle 1 deiner {G} Pokémon im Spiel. Lege ein zufälliges {G}-Pokémon aus deinem Deck, das sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln. Du kannst diese Karte nicht während deines ersten Zuges oder für ein Pokémon verwenden, das in diesem Zug ins Spiel gebracht wurde.",
         "pt-br": "Escolha 1 dos seus {G} Pokémon em jogo. Coloque um Pokémon {G} aleatório do seu deck que evolui daquele Pokémon naquele Pokémon para evoluí-lo. Você não pode usar esta carta durante seu primeiro turno ou em um Pokémon que foi colocado em jogo neste turno.",
         "zh-tw": "選擇場上的 1 個 {G} 神奇寶貝。從你的牌組中隨機放置一隻從該神奇寶貝進化而來的 {G} 神奇寶貝到該神奇寶貝上以使其進化。你不能在你的第一回合或本回合中的神奇寶貝上使用這張卡。",
-        ja: "自分の場の{G}ポケモンを1匹選び、そのポケモンから進化する{G}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)"
+        ja: "自分の場の{G}ポケモンを1匹選び、そのポケモンから進化する{G}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)",
+        ko: "자신의 필드의 {G}포켓몬을 1마리 선택해서 그 포켓몬에서 진화하는 {G}포켓몬을 자신의 덱에서 랜덤으로 1장 그 포켓몬에게 올려서 진화시킨다. (자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
     },
     trainerType: "Item"
 };

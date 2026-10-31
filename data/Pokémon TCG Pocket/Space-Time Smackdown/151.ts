@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/151",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/151",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/151"
     },
     name: {
         en: "Team Galactic Grunt",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Nimm von den Karten Charmian, Skunkapuh und Glibunkel 1 zufällige aus deinem Deck auf deine Hand.",
         'pt-br': "Coloque aleatoriamente 1 carta dentre Glameow, Stunky e Croagunk do seu baralho na sua mão.",
         ja: "自分の山札から「ニャルマー」「スカンプー」「グレッグル」をランダムに1枚、手札に加える。",
-        ko: "자신의 덱에서 「나옹마」「스컹뿡」「삐딱구리」 랜덤으로 1장 패로 가져온다.",
+        ko: "자신의 덱에서 「나옹마」「스컹뿡」「삐딱구리」를 랜덤으로 1장 패로 가져온다.",
         "zh-tw": "從你的牌組中隨機將 1 只 Glameow、Stunky 或 Croagunk 置入你的手牌。"
     },
     trainerType: "Supporter",

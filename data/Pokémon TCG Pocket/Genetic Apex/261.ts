@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/261",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/261",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/261",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/261"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/261",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/261"
     },
     name: {
         en: "Gengar ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
-        ja: "ゴースト"
+        ja: "ゴースト",
+        ko: "고우스트"
     },
     suffix: "EX",
     abilities: [{

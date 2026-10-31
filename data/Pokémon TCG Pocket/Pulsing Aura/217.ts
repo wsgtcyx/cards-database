@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/217",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/217",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/217"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/217",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/217"
     },
     name: {
         en: "Absol",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Absol kann Gefahr verspüren, weshalb Menschen\nirrtümlicherweise dachten, dieses Pokémon\nbringe ihnen Unheil.",
         "pt-br": "Devido à capacidade deste Pokémon de detectar o perigo, as pessoas confundiram Absol com um portador da destruição.",
         "zh-tw": "由於擁有察覺危險的能力，\n因此牠被人們誤解是\n會招來災禍的寶可夢。",
-        ja: "危険を 察知する 能力を 持つがゆえに 人からは 災いを もたらす ポケモンと 誤解された。"
+        ja: "危険を 察知する 能力を 持つがゆえに 人からは 災いを もたらす ポケモンと 誤解された。",
+        ko: "위험을 감지하는 능력이 있어\n사람들로부터 재앙을 불러오는\n포켓몬이라는 오해를 샀다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Unheilvolle Klaue",
                 "pt-br": "Garra Tenebrosa",
                 "zh-tw": "不祥之爪",
-                ja: "ふきつなツメ"
+                ja: "ふきつなツメ",
+                ko: "불길한발톱"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ zeigt Ihr Gegner seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，你的對手就會亮出他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
-                ja: "コインを1回投げオモテなら、相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 패의 앞면을 모두 보고 그 중에서 서포트를 1장 선택해서 트래쉬한다."
             },
             damage: 50
         }

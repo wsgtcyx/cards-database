@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/055",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/055"
     },
     name: {
         en: "Ditto",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Ditto",
         "pt-br": "Ditto",
         "zh-tw": "百變怪",
-        ja: "メタモン"
+        ja: "メタモン",
+        ko: "메타몽"
     },
     illustrator: "Yuka Morii",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kann seine eigene Zellstruktur frei neu kombinieren\nin andere Lebensformen verwandeln.",
         "pt-br": "Ele pode recombinar livremente sua própria estrutura celular\npara se transformar em outras formas de vida.",
         "zh-tw": "它可以自由重組自身的細胞結構\n轉變為其他生命形式。",
-        ja: "体の 細胞の 作りを 自分で 組み替えて ほかの 生命体に 変身する。"
+        ja: "体の 細胞の 作りを 自分で 組み替えて ほかの 生命体に 変身する。",
+        ko: "몸의 세포 구성을\n스스로 바꿔서\n다른 생명체로 변신한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Einen Freund kopieren",
                 "pt-br": "Copiar um amigo",
                 "zh-tw": "複製好友",
-                ja: "ともだちコピー"
+                ja: "ともだちコピー",
+                ko: "친구복사"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wähle 1 Angriff deines Bank-Pokémon, außer einem beliebigen Pokémon-Ex, und verwende es als diesen Angriff. Wenn dieses Pokémon nicht über die nötige Energie verfügt, um diesen Angriff auszuführen, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Escolha 1 dos ataques do seu Pokémon no Banco, exceto qualquer Pokémon ex, e use-o como este ataque. Se este Pokémon não tiver a Energia necessária para usar aquele ataque, este ataque não fará nada.",
                 "zh-tw": "選擇你後備神奇寶貝的 1 個攻擊（除了任何前神奇寶貝），並將其用作此攻擊。如果該神奇寶貝沒有使用該攻擊所需的能量，則該攻擊不會執行任何操作。",
-                ja: "自分のベンチポケモン(「ポケモンex」をのぞく)が持つワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。"
+                ja: "自分のベンチポケモン(「ポケモンex」をのぞく)が持つワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。",
+                ko: "자신의 벤치 포켓몬(「포켓몬ex」는 제외)이 가진 기술을 1개 선택해서 이 기술로써 사용한다. 선택한 기술에 필요한 에너지가 이 포켓몬에게 붙어 있지 않으면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

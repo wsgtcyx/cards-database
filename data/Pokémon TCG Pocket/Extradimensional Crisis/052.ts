@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/052"
     },
     name: {
         en: "Ferrothorn",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ferrothorn",
         "zh-tw": "堅果啞鈴",
         ja: "ナットレイ",
+        ko: "너트령",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
         ja: "テッシード",
+        ko: "철시드",
     },
     description: {
         en: "This Pokémon scrapes its spikes across rocks,\nand then uses the tips of its feelers to absorb\nthe nutrients it finds within the stone.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon kratzt mit seinen Stacheln über Steine,\nund nutzt dann die Spitzen seiner Fühler zum Absorbieren\ndie Nährstoffe, die es im Stein findet.",
         "pt-br": "Este Pokémon raspa seus espinhos nas rochas,\ne então usa as pontas de suas antenas para absorver\nos nutrientes que encontra dentro da pedra.",
         "zh-tw": "這只神奇寶貝用尖刺刮過岩石，\n然後用觸角的尖端吸收\n它在石頭中發現的營養物質。",
-        ja: "トゲで 岩盤に キズを つけると 触手の 先端を あてて 栄養を 吸収する。"
+        ja: "トゲで 岩盤に キズを つけると 触手の 先端を あてて 栄養を 吸収する。",
+        ko: "가시로 암반에 상처를 낸 다음\n촉수 끝을 이용해서\n영양분을 흡수한다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Stahlspikes",
                 "pt-br": "Picos de Aço",
                 "zh-tw": "鋼釘",
-                ja: "はがねのトゲ"
+                ja: "はがねのトゲ",
+                ko: "강철 가시"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
                 "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
                 "zh-tw": "旋轉攻擊",
-                ja: "かいてんアタック"
+                ja: "かいてんアタック",
+                ko: "회전어택"
             },
             damage: 70,
             cost: ["Metal", "Metal", "Colorless"]

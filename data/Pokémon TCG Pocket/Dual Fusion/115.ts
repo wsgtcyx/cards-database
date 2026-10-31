@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/115",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/115"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/115",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/115"
     },
     name: {
         en: "Buneary",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
                 ja: "ラビットジャンプ",
-                ko: "Rabbit Jumping"
+                ko: "래빗점프"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
                 ja: "コインを2回投げ、オモテの数×20ダメージ。",
-                ko: "Flip 2 coins. This attack does 20 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Se as duas orelhas de Buneary estão enroladas, algo está errado com seu corpo ou mente. É um sinal claro de que o Pokémon precisa de cuidados.",
         "zh-tw": "將左右兩耳捲起來時， 就代表牠的身體或心情 狀況不佳，需要照顧。",
         ja: "左右の 耳を 丸めているときは 体や 心の 不調が 原因なので ケアが 必要。",
-        ko: "If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care."
+        ko: "양쪽 귀를 말고 있을 때는\n몸이나 마음이 좋지 않다는 뜻이므로\n관리가 필요하다."
     }
 };
 

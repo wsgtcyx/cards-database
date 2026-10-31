@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/002"
     },
     name: {
         en: "Lilligant",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lilligant",
         "zh-tw": "裙兒小姐",
         ja: "ドレディア",
+        ko: "드레디어",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
         ja: "チュリネ",
+        ko: "치릴리",
     },
     description: {
         en: "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Der Duft der Girlande auf seinem Kopf hat\neine entspannende Wirkung, aber es ist sehr wichtig, sich darum zu kümmern\nschwierig.",
         "pt-br": "A fragrância da guirlanda em sua cabeça tem\num efeito relaxante, mas cuidar dele é muito\ndifícil.",
         "zh-tw": "它頭上的花環有香味\n有放鬆的效果，但是照顧它很重要\n困難。",
-        ja: "頭の 花飾りから 発する 香りを かぐと リラックスできるが 手入れが とても 難しい。"
+        ja: "頭の 花飾りから 発する 香りを かぐと リラックスできるが 手入れが とても 難しい。",
+        ko: "머리의 꽃 장식에서 나는\n향기를 맡으면 편안해지나\n손질이 아주 까다롭다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schneiden",
                 "pt-br": "Corte",
                 "zh-tw": "切",
-                ja: "いあいぎり"
+                ja: "いあいぎり",
+                ko: "풀베기"
             },
             damage: 60,
             cost: ["Grass", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/155",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/155",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/155"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/155",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/155"
     },
     name: {
         en: "Peculiar Plaza",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Geheimnisvoller Platz",
         "pt-br": "Praça Peculiar",
         "zh-tw": "神奇廣場",
-        ja: "ふしぎな広場"
+        ja: "ふしぎな広場",
+        ko: "이상한 광장"
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Die Rückzugskosten jedes {P} Pokémon im Spiel (sowohl deines als auch das deines Gegners) sind 2 weniger.",
         "pt-br": "O Custo de Recuo de cada Pokémon {P} em jogo (seu e do seu oponente) é 2 a menos.",
         "zh-tw": "場上每隻 {P} 神奇寶貝（你的和你對手的）的撤退成本減少 2。",
-        ja: "おたがいの場の{P}ポケモン全員のにげるためのエネルギーを、2個少なくする。"
+        ja: "おたがいの場の{P}ポケモン全員のにげるためのエネルギーを、2個少なくする。",
+        ko: "서로의 필드의 {P}포켓몬 전원의 후퇴에 필요한 에너지를 2개 적게 만든다."
     },
     trainerType: "Stadium"
 };

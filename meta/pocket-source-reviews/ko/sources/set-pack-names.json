@@ -1,0 +1,321 @@
+{
+  "B4a": {
+    "name": "로켓단의 야망",
+    "boosters": {
+      "team-rockets-ambition": {
+        "name": "로켓단의 야망",
+        "sourceField": "Game.Master.Pack.Name.B4a_1"
+      }
+    }
+  },
+  "A2a": {
+    "name": "초극의 빛",
+    "boosters": {}
+  },
+  "B1": {
+    "name": "메가라이징",
+    "boosters": {}
+  },
+  "P-A": {
+    "name": "PROMO-A",
+    "boosters": {
+      "vol1": {
+        "name": "프로모 카드 팩 A시리즈 제1탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_1"
+      },
+      "vol2": {
+        "name": "프로모 카드 팩 A시리즈 제2탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_2"
+      },
+      "vol3": {
+        "name": "프로모 카드 팩 A시리즈 제3탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_3"
+      },
+      "vol4": {
+        "name": "프로모 카드 팩 A시리즈 제4탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_4"
+      },
+      "vol5": {
+        "name": "프로모 카드 팩 A시리즈 제5탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_5"
+      },
+      "vol6": {
+        "name": "프로모 카드 팩 A시리즈 제6탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_6"
+      },
+      "vol7": {
+        "name": "프로모 카드 팩 A시리즈 제7탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_7"
+      },
+      "vol8": {
+        "name": "프로모 카드 팩 A시리즈 제8탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_8"
+      },
+      "vol9": {
+        "name": "프로모 카드 팩 A시리즈 제9탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_9"
+      },
+      "vol10": {
+        "name": "프로모 카드 팩 A시리즈 제10탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_10"
+      },
+      "vol11": {
+        "name": "프로모 카드 팩 A시리즈 제11탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_11"
+      },
+      "vol12": {
+        "name": "프로모 카드 팩 A시리즈 제12탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_12"
+      },
+      "vol13": {
+        "name": "프로모 카드 팩 A시리즈 제13탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_13"
+      }
+    }
+  },
+  "B2": {
+    "name": "몽환 퍼레이드",
+    "boosters": {
+      "booster": {
+        "name": "몽환 퍼레이드",
+        "sourceField": "Game.Master.Pack.Name.B2_1"
+      }
+    }
+  },
+  "A4": {
+    "name": "하늘과 바다의 인도",
+    "boosters": {
+      "lugia": {
+        "name": "하늘과 바다의 인도 루기아",
+        "sourceField": "Game.Master.Pack.Name.A4_2"
+      },
+      "ho-oh": {
+        "name": "하늘과 바다의 인도 칠색조",
+        "sourceField": "Game.Master.Pack.Name.A4_1"
+      }
+    }
+  },
+  "B1a": {
+    "name": "홍련 블레이즈",
+    "boosters": {}
+  },
+  "A4b": {
+    "name": "하이클래스팩 ex",
+    "boosters": {
+      "deluxe_pack_ex": {
+        "name": "하이클래스팩 ex",
+        "sourceField": "Game.Master.Pack.Name.A4b_1"
+      }
+    }
+  },
+  "A1a": {
+    "name": "환상이 있는 섬",
+    "boosters": {}
+  },
+  "B3b": {
+    "name": "미라클 데이즈",
+    "boosters": {
+      "everyday-wonders": {
+        "name": "미라클 데이즈",
+        "sourceField": "Game.Master.Pack.Name.B3b_1"
+      }
+    }
+  },
+  "A3": {
+    "name": "쌍천의 수호자",
+    "boosters": {
+      "solgaleo": {
+        "name": "쌍천의 수호자 솔가레오",
+        "sourceField": "Game.Master.Pack.Name.A3_1"
+      },
+      "lunala": {
+        "name": "쌍천의 수호자 루나아라",
+        "sourceField": "Game.Master.Pack.Name.A3_2"
+      }
+    }
+  },
+  "A4a": {
+    "name": "미지의 수역",
+    "boosters": {
+      "suicune": {
+        "name": "미지의 수역",
+        "sourceField": "Game.Master.Pack.Name.A4a_1"
+      }
+    }
+  },
+  "B4b": {
+    "name": "하이클래스팩 MEGA",
+    "boosters": {
+      "deluxe-pack-mega": {
+        "name": "하이클래스팩 MEGA",
+        "sourceField": "Game.Master.Pack.Name.B4b_1"
+      }
+    }
+  },
+  "B3": {
+    "name": "파동 비트",
+    "boosters": {
+      "pulsing-aura": {
+        "name": "파동 비트",
+        "sourceField": "Game.Master.Pack.Name.B3_1"
+      }
+    }
+  },
+  "SP1": {
+    "name": "스페셜 팩 첫 파트너",
+    "boosters": {
+      "first-partners": {
+        "name": "스페셜 팩 첫 파트너",
+        "sourceField": "Game.Master.Pack.Name.SP1_1"
+      }
+    }
+  },
+  "B4": {
+    "name": "천공의 지배자",
+    "boosters": {
+      "ruler-of-the-skies": {
+        "name": "천공의 지배자",
+        "sourceField": "Game.Master.Pack.Name.B4_1"
+      }
+    }
+  },
+  "A2b": {
+    "name": "샤이닝 하이",
+    "boosters": {}
+  },
+  "A1": {
+    "name": "최강의 유전자",
+    "boosters": {
+      "mewtwo": {
+        "name": "최강의 유전자 뮤츠",
+        "sourceField": "Game.Master.Pack.Name.A1_1"
+      },
+      "charizard": {
+        "name": "최강의 유전자 리자몽",
+        "sourceField": "Game.Master.Pack.Name.A1_2"
+      },
+      "pikachu": {
+        "name": "최강의 유전자 피카츄",
+        "sourceField": "Game.Master.Pack.Name.A1_3"
+      }
+    }
+  },
+  "P-B": {
+    "name": "PROMO-B",
+    "boosters": {
+      "vol1": {
+        "name": "프로모 카드 팩 B시리즈 제1탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_1"
+      },
+      "vol2": {
+        "name": "프로모 카드 팩 B시리즈 제2탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_2"
+      },
+      "vol3": {
+        "name": "프로모 카드 팩 B시리즈 제3탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_3"
+      },
+      "vol4": {
+        "name": "프로모 카드 팩 B시리즈 제4탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_4"
+      },
+      "vol5": {
+        "name": "프로모 카드 팩 B시리즈 제5탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_5"
+      },
+      "vol6": {
+        "name": "프로모 카드 팩 B시리즈 제6탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_6"
+      },
+      "vol7": {
+        "name": "프로모 카드 팩 B시리즈 제7탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_7"
+      },
+      "vol8": {
+        "name": "프로모 카드 팩 B시리즈 제8탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_8"
+      },
+      "vol9": {
+        "name": "프로모 카드 팩 B시리즈 제9탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_9"
+      },
+      "vol10": {
+        "name": "프로모 카드 팩 B시리즈 제10탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_10"
+      },
+      "vol11": {
+        "name": "프로모 카드 팩 B시리즈 제11탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_11"
+      },
+      "vol12": {
+        "name": "프로모 카드 팩 B시리즈 제12탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_12"
+      },
+      "vol13": {
+        "name": "프로모 카드 팩 B시리즈 제13탄",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_13"
+      }
+    }
+  },
+  "A3b": {
+    "name": "이브이 가든",
+    "boosters": {}
+  },
+  "A2": {
+    "name": "시공의 격투",
+    "boosters": {
+      "palkia": {
+        "name": "시공의 격투 펄기아",
+        "sourceField": "Game.Master.Pack.Name.A2_2"
+      },
+      "dialga": {
+        "name": "시공의 격투 디아루가",
+        "sourceField": "Game.Master.Pack.Name.A2_1"
+      }
+    }
+  },
+  "A3a": {
+    "name": "이차원 크라이시스",
+    "boosters": {}
+  },
+  "B2b": {
+    "name": "샤이닝 메가",
+    "boosters": {
+      "mega-shine": {
+        "name": "샤이닝 메가",
+        "sourceField": "Game.Master.Pack.Name.B2b_1"
+      }
+    }
+  },
+  "B2a": {
+    "name": "팔데아 원더",
+    "boosters": {
+      "paldea": {
+        "name": "팔데아 원더",
+        "sourceField": "Game.Master.Pack.Name.B2a_1"
+      }
+    }
+  },
+  "B3a": {
+    "name": "진격 패러독스",
+    "boosters": {
+      "paradox-drive": {
+        "name": "진격 패러독스",
+        "sourceField": "Game.Master.Pack.Name.B3a_1"
+      }
+    }
+  },
+  "C1": {
+    "name": "듀얼 퓨전",
+    "boosters": {
+      "mega-mewtwo-x": {
+        "name": "듀얼 퓨전 메가뮤츠X",
+        "sourceField": "Game.Master.Pack.Name.C1_1"
+      },
+      "pikachu": {
+        "name": "듀얼 퓨전 피카츄",
+        "sourceField": "Game.Master.Pack.Name.C1_2"
+      }
+    }
+  }
+}

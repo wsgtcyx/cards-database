@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/064"
     },
     name: {
         en: "Palpitoad",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Palpitoad",
         "zh-tw": "藍蟾蜍",
         ja: "ガマガル",
+        ko: "두까비",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Tympole",
         "zh-tw": "圓蝌蚪",
         ja: "オタマロ",
+        ko: "동챙이",
     },
     description: {
         en: "On occasion, their cries are sublimely pleasing to\nthe ear. Palpitoad with larger lumps on their\nbodies can sing with a wider range of sounds.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Gelegentlich sind ihre Schreie überaus erfreulich\ndas Ohr. Palpitoad mit größeren Klumpen auf ihrem\nKörper können mit einem größeren Spektrum an Klängen singen.",
         "pt-br": "Ocasionalmente, seus gritos são sublimemente agradáveis\na orelha. Palpitoad com caroços maiores em seus\ncorpos podem cantar com uma gama mais ampla de sons.",
         "zh-tw": "有時，他們的哭聲令人無比愉悅\n耳朵。心悸蟾蜍身上有較大的腫塊\n身體可以用更廣泛的聲音唱歌。",
-        ja: "きれいな 声で 鳴くこともある。 体の 突起が 大きいほど 広い 音域で 鳴けるのだ。"
+        ja: "きれいな 声で 鳴くこともある。 体の 突起が 大きいほど 広い 音域で 鳴けるのだ。",
+        ko: "고운 목소리로 울 때도 있다.\n몸의 돌기가 클수록\n넓은 음역으로 울 수 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hyperstimme",
                 "pt-br": "Hiper Voz",
                 "zh-tw": "超級語音",
-                ja: "ハイパーボイス"
+                ja: "ハイパーボイス",
+                ko: "하이퍼보이스"
             },
             damage: 60,
             cost: ["Water", "Water", "Colorless"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

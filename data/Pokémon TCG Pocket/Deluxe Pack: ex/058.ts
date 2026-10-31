@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/058"
     },
     name: {
         en: "Charmeleon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
         ja: "リザード",
+        ko: "리자드",
     },
     illustrator: "kantaro",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "ヒトカゲ"
+        ja: "ヒトカゲ",
+        ko: "파이리"
     },
     description: {
         en: "It has a barbaric nature. In battle, it whips its\nfiery tail around and slashes away with sharp claws.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es hat einen barbarischen Charakter. Im Kampf peitscht es\nfeurigen Schwanz herum und schlägt mit scharfen Krallen zu.",
         "pt-br": "Tem uma natureza bárbara. Na batalha, ele chicoteia seus\ncauda de fogo ao redor e corta com garras afiadas.",
         "zh-tw": "它具有野蠻的本質。在戰鬥中，它鞭打自己\n火尾環繞，用鋒利的爪子斬開。",
-        ja: "燃える しっぽを 振りまわし するどい ツメで 相手を 切り裂く 荒々しい 性格。"
+        ja: "燃える しっぽを 振りまわし するどい ツメで 相手を 切り裂く 荒々しい 性格。",
+        ko: "불타는 꼬리를 휘두르며\n날카로운 발톱으로 상대를\n베어 가르는 몹시 거친 성격이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Feuerkrallen",
                 "pt-br": "Garras de Fogo",
                 "zh-tw": "火爪",
-                ja: "ほのおのツメ"
+                ja: "ほのおのツメ",
+                ko: "불꽃의발톱"
             },
             damage: 60,
             cost: ["Fire", "Colorless", "Colorless"]

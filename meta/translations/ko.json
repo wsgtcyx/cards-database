@@ -1,0 +1,14 @@
+{
+	"abilityType": { "Ability": "특성" },
+	"category": { "Pokemon": "포켓몬", "Trainer": "트레이너스" },
+	"rarity": {
+		"One Diamond": "♦1", "Two Diamond": "♦2", "Three Diamond": "♦3", "Four Diamond": "♦4",
+		"One Star": "★1", "Two Star": "★2", "Three Star": "★3",
+		"One Shiny": "색이 다른 ★1", "Two Shiny": "색이 다른 ★2", "Crown": "크라운",
+		"Anomaly": "특수 카드(일반 레어도 분류 외)", "None": "레어도 없음"
+	},
+	"stage": { "Basic": "기본", "Stage1": "1진화", "Stage2": "2진화" },
+	"suffix": { "EX": "ex" },
+	"trainerType": { "Item": "아이템", "Supporter": "서포트", "Tool": "포켓몬의 도구", "Stadium": "스타디움" },
+	"types": { "Grass": "풀", "Fire": "불꽃", "Water": "물", "Lightning": "번개", "Psychic": "초", "Fighting": "격투", "Darkness": "악", "Metal": "강철", "Dragon": "드래곤", "Colorless": "무색" }
+}

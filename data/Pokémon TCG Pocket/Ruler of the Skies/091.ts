@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/091",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/091",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/091"
     },
     name: {
         en: "Grimer",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Sleima",
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
-        ko: "알로라 질퍽이",
+        ko: "질퍽이",
         ja: "ベトベター"
     },
     illustrator: "Nisota Niso",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn die Körper von zwei Sleima miteinander kombiniert werden, so entstehen völlig neue Arten von Gift.",
         "pt-br": "Quando dois corpos deste Pokémon se unem, novos venenos são criados.",
         "zh-tw": "當臭泥彼此黏在一起，\n身體就會互相融合，\n進而產生新種毒素。",
-        ja: "ベトベター同士が くっつくと おたがいの 体が 混ざりあって 新しい 毒が 生みだされる。"
+        ja: "ベトベター同士が くっつくと おたがいの 体が 混ざりあって 新しい 毒が 生みだされる。",
+        ko: "질퍽이끼리 달라붙으면\n서로의 몸이 뒤섞여서\n새로운 독이 만들어진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sanfter Hieb",
                 "pt-br": "Tapinha",
                 "zh-tw": "重摑",
-                ja: "ひっぱたく"
+                ja: "ひっぱたく",
+                ko: "세게때리기"
             },
             damage: 20
         }

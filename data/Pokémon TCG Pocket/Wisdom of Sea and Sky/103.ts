@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/103"
     },
     name: {
         en: "Larvitar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
         ja: "ヨーギラス",
+        ko: "애버라스",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon wurde tief unter der Erde geboren\nWird nach ausreichender Nahrungsaufnahme zur Puppe\nDreck, um einen Berg zu machen.",
         "pt-br": "Nascido nas profundezas do subsolo, este Pokémon\nvira uma pupa depois de comer o suficiente\nsujeira para fazer uma montanha.",
         "zh-tw": "這只神奇寶貝出生在地下深處\n吃飽後變成蛹\n泥土可以造山。",
-        ja: "地面 深くで 生まれ 山ほどの 土を 食べ終わると 体を つくるため サナギになる。"
+        ja: "地面 深くで 生まれ 山ほどの 土を 食べ終わると 体を つくるため サナギになる。",
+        ko: "땅속 깊은 곳에서 태어나\n산을 이룰 정도의 흙을 먹고 나면\n몸을 만들기 위해 번데기가 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 10,
             cost: ["Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/095"
     },
     name: {
         en: "Sandslash",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sandamer",
         "pt-br": "Sandslash",
         "zh-tw": "穿山王",
-        ja: "サンドパン"
+        ja: "サンドパン",
+        ko: "고지"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
-        ja: "サンド"
+        ja: "サンド",
+        ko: "모래두지"
     },
     description: {
         en: "It climbs trees by hooking on with its sharp claws.\nSandslash shares the berries it gathers, dropping\nthem down to Sandshrew waiting below the tree.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es klettert auf Bäume, indem es sich mit seinen scharfen Krallen daran festhält.\nSandslash teilt die Beeren, die er sammelt, und lässt sie fallen\nsie hinunter zu Sandshrew, der unter dem Baum wartete.",
         "pt-br": "Ele sobe em árvores prendendo-se com suas garras afiadas.\nSandslash compartilha as frutas que coleta, deixando cair\neles até Sandshrew esperando embaixo da árvore.",
         "zh-tw": "它通過用鋒利的爪子鉤住樹木來爬樹。\nSandslash 分享它收集的漿果，掉落\n他們來到樹下等候的山鼠那裡。",
-        ja: "鋭い ツメを ひっかけて 木を 登る。 下で 待つ サンドたちに 木の実を 落とし 分け与えるのだ。"
+        ja: "鋭い ツメを ひっかけて 木を 登る。 下で 待つ サンドたちに 木の実を 落とし 分け与えるのだ。",
+        ko: "날카로운 발톱으로 찍으며 나무에 오른다.\n아래에서 기다리는 모래두지들에게\n나무열매를 떨어뜨려 나눠준다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schneiden",
                 "pt-br": "Corte",
                 "zh-tw": "切",
-                ja: "いあいぎり"
+                ja: "いあいぎり",
+                ko: "풀베기"
             },
             damage: 50,
             cost: ["Fighting"]

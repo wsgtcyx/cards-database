@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/216",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/216",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/216",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/216"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/216",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/216"
     },
     name: {
         en: "Puppy-Loving Girl",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Olhe as 4 cartas de cima do seu baralho. Coloque todos os Pokémon que você encontrar lá que tenham o ataque Pilha de Filhotes na sua mão. Embaralhe as outras cartas de volta no seu baralho.",
         "zh-tw": "查看自己的牌庫上方4張卡,從其中將持有「小狗滿地跑」招式的寶可夢全部加入手牌。將剩餘卡放回牌庫。",
         ja: "自分の山札を上から4枚見て、その中からワザ「こいぬまみれ」を持つポケモンをすべて手札に加える。残りのカードは山札にもどす。",
-        ko: "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck."
+        ko: "자신의 덱을 위에서부터 4장 보고 그 중에서 기술 「강아지투성이」를 가진 포켓몬을 모두 패로 가져온다. 남은 카드는 덱으로 되돌린다."
     },
     trainerType: "Supporter"
 };

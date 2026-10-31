@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/072"
     },
     name: {
         en: "Sudowoodo",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Golpe de Cotovelo",
                 "zh-tw": "肘擊",
                 ja: "ひじうち",
-                ko: "Elbow Strike"
+                ko: "팔꿈치치기"
             },
             cost: [
                 "Colorless",
@@ -72,7 +73,7 @@ const card: Card = {
         "pt-br": "Apesar de sempre fingir ser uma árvore, sua composição tem mais semelhanças com pedras do que com vegetação.",
         "zh-tw": "總是偽裝成樹的樣子。身體構造比較接近礦物系，好像更接近石頭或岩石之類的東西。",
         ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。",
-        ko: "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation."
+        ko: "항상 나무인 척하고 있다.\n몸의 구조는 식물보다\n돌이나 바위에 가까운 듯하다."
     }
 };
 

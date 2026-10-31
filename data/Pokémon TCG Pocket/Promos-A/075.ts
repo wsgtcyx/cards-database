@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/075"
     },
     name: {
         en: "Kartana",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Kartana",
         "zh-tw": "紙御劍",
         ja: "カミツルギ",
+        ko: "종이신도",
     },
     illustrator: "Hasuno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Körper dieses Ultra-Biests ist genauso dünn\nwie Papier, ist wie ein geschärftes Schwert.",
         "pt-br": "O corpo desta Ultra Besta, que é tão fino\ncomo papel, é como uma espada afiada.",
         "zh-tw": "這究極異獸的身體，也是如此纖細\n如紙，如鋒利的劍。",
-        ja: "紙の ように 薄い 身体から 研がれた 刀に 似た 鋭さを 感じる ウルトラビーストだ。"
+        ja: "紙の ように 薄い 身体から 研がれた 刀に 似た 鋭さを 感じる ウルトラビーストだ。",
+        ko: "종이와 같은 얇은 몸에서\n연마한 칼 같은 예리함이\n느껴지는 울트라비스트다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Thrash Metal",
                 "pt-br": "Trashmetal",
                 "zh-tw": "鞭打金屬",
-                ja: "デスラッシュ"
+                ja: "デスラッシュ",
+                ko: "데스스래시"
             },
             damage: 40,
             cost: ["Grass"]

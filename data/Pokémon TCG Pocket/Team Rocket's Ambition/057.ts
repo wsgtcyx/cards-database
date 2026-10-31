@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/057"
     },
     name: {
         en: "Regidrago",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein ganzer Körper besteht aus kristallisierter Drachen-Energie. Es soll über die Kräfte aller Drachen-Pokémon verfügen.",
         "pt-br": "Seu corpo é composto por energia de dragão cristalizada. Dizem que Regidrago possui os poderes de todos os Pokémon dragão.",
         "zh-tw": "全身是由龍之能量的結晶打造而成。據說牠擁有所有的龍寶可夢的力量。",
-        ja: "全身が ドラゴンエネルギーの 結晶。 すべての ドラゴン ポケモンの 力を 持つらしい。"
+        ja: "全身が ドラゴンエネルギーの 結晶。 すべての ドラゴン ポケモンの 力を 持つらしい。",
+        ko: "온몸이 드래곤 에너지의\n결정체다. 모든 드래곤포켓몬의\n힘을 가지고 있는 듯하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Dracowucht",
                 "pt-br": "Pancada Dracônica",
                 "zh-tw": "龍之重擊",
-                ja: "ドラゴンスラム"
+                ja: "ドラゴンスラム",
+                ko: "드래곤슬램"
             },
             effect: {
                 en: "If this Pokémon has damage on it, this attack does -100 damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke – 100 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará -100 pontos de dano.",
                 "zh-tw": "若這隻寶可夢有受到傷害,則這個招式的傷害-100點。",
-                ja: "このポケモンがダメージを受けているなら、このワザのダメージを-100する。"
+                ja: "このポケモンがダメージを受けているなら、このワザのダメージを-100する。",
+                ko: "이 포켓몬이 데미지를 받고 있다면 이 기술의 데미지를 -100한다."
             },
             damage: "140-"
         }

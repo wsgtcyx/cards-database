@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/005"
     },
     name: {
         en: "Tsareena",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tsareena",
         "zh-tw": "甜冷美后",
         ja: "アマージョ",
+        ko: "달코퀸",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Steenee",
         "zh-tw": "甜舞妮",
         ja: "アママイコ",
+        ko: "달무리나",
     },
     description: {
         en: "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist stolz und aggressiv. Allerdings ist es so\nsagte, dass eine Tsareena sofort ruhig werden wird, wenn\njemand berührt die Krone an ihrem Kelch.",
         "pt-br": "Este Pokémon é orgulhoso e agressivo. No entanto, é\ndisse que uma Tsareena ficará instantaneamente calma se\nalguém toca a coroa do seu cálice.",
         "zh-tw": "這只神奇寶貝驕傲且具有攻擊性。然而，它是\n說如果 Tsareena 會立即變得平靜\n有人觸摸其花萼上的冠部。",
-        ja: "気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。"
+        ja: "気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。",
+        ko: "자존심이 강하고 공격적이지만\n꼭지의 왕관을 건드리면\n금세 얌전해진다고 한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Tritt runter",
                 "pt-br": "Chutar para baixo",
                 "zh-tw": "踢下",
-                ja: "けおとす"
+                ja: "けおとす",
+                ko: "차서떨구기"
             },
             damage: 50,
             cost: ["Grass"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dein Gegner deckt eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck.",
                 "pt-br": "Seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho.",
                 "zh-tw": "你的對手從手中隨機展示一張牌並將其洗入牌庫。",
-                ja: "相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。"
+                ja: "相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+                ko: "상대의 패를 랜덤으로 1장 앞면을 보고 상대의 덱으로 되돌린다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/063"
     },
     name: {
         en: "Tentacruel",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Tentacha",
         "pt-br": "Tentacool",
         "zh-tw": "瑪瑙水母",
-        ja: "メノクラゲ"
+        ja: "メノクラゲ",
+        ko: "왕눈해"
     },
     attacks: [{
             cost: ["Water", "Colorless"],
