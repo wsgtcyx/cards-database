@@ -1,0 +1,54 @@
+{
+  "retrievedAt": "2026-10-31T01:29:32.436980+00:00",
+  "files": {
+    "fr.dictionary.json": {
+      "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799",
+      "bytes": 511379
+    },
+    "pokeos.cards.json": {
+      "sha256": "dca59764472f6d98ce3bccc6f8fd42b8807c7937694d9a88ceed0505df20c0c0",
+      "bytes": 34111
+    },
+    "ja.dictionary.json": {
+      "sha256": "c36802a54488e7f53d3b06d54e64542a3e20bec57b1e18b46599d96406b5f9ca",
+      "bytes": 548852
+    },
+    "es.dictionary.json": {
+      "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96",
+      "bytes": 480991
+    },
+    "pokeos.set.json": {
+      "sha256": "ead69ee729294922dda97919ddf5846ec9bdf8d636f47ec3c790debb35ac990d",
+      "bytes": 1583
+    },
+    "ko.dictionary.json": {
+      "sha256": "a7bd583112e689610cfbdb81ef9ebac8d6a321285b93f01883a5cbc9015ed0a3",
+      "bytes": 493122
+    },
+    "en.dictionary.json": {
+      "sha256": "f51f63bd3ac631f7f9947219b6176799c0b861b251725fca193ba4f8e219e199",
+      "bytes": 453231
+    },
+    "master.json": {
+      "sha256": "04da3156345ae34cd058738c1d1e80a094f65bd6d3a9c7e38820a294312a8f94",
+      "bytes": 6427917
+    },
+    "pt.dictionary.json": {
+      "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483",
+      "bytes": 490563
+    },
+    "zh.dictionary.json": {
+      "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91",
+      "bytes": 455191
+    }
+  },
+  "sources": {
+    "master": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "set": "https://www.pokeos.com/api/tcg/setInfo?id=603",
+    "cards": "https://www.pokeos.com/api/tcg/set/cards?id=603"
+  },
+  "notes": [
+    "PokeOS 28–30 are temporary catalog numbers, not official printed numbers.",
+    "RaenonX negative collection numbers require explicit image-bound gameId crosswalk."
+  ]
+}

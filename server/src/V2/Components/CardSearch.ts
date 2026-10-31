@@ -94,6 +94,7 @@ const rarityOrder = [
 	'One Shiny',
 	'Two Shiny',
 	'Crown',
+	'Anomaly',
 	'None',
 ]
 

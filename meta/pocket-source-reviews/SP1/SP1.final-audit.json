@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "setId": "SP1",
+  "passed": true,
+  "verifiedAt": "2026-10-31T02:08:09.068827+00:00",
+  "counts": {
+    "cards": 30,
+    "official": 27,
+    "nameLocales": 9,
+    "fullRuleLocales": 7,
+    "imageLocales": 7,
+    "cardObjects": 420,
+    "boosterObjects": 2,
+    "r2Objects": 422,
+    "localFullCardResponses": 270
+  },
+  "inputSha256": {
+    "SP1.r2-public-preflight.json": "aadc8c860403c081a31442c121cef6016ea2833c06243c19fbf8e308d46cd9cc",
+    "SP1.r2-receipts.json": "48722ecd27f54c09c1e7aa354bf574c901061c562eb4399eec1c744a7ad8ad65",
+    "SP1.manifest.json": "d2d85a5571aa68d60fc83443cbde40f526b30b59d358511dec3886c7dedf5542",
+    "SP1.canonical.json": "24284bc833d681082fa10deac0f39bc71bce783b3b5b7c9f5a08696da8064399",
+    "SP1.reviewed-raw.json": "2e46ab5d2e38a113eac79c88591399d080ff7c9953c71e383f8bad0d2a9759b2",
+    "SP1.provenance.json": "804427b45d8d0f310aa2a5dd41894358c956cb5ce71ad7c1e70cd7c5d4c6ef5a",
+    "SP1.localization-audit.json": "d9c917d898eec2da143912732e238d97d2a0244c8c093bff761bc61ebcf84dad",
+    "SP1.r2-inventory-preflight.json": "7320d11152df69cb7252601181698009df20adf730194368daa9c7e5719c87ac",
+    "SP1.r2-public-verify.json": "0648025d5f12dc5257fae6e1c350faae03081d6553405b87367f9b5d05d87e92",
+    "SP1.native-review.json": "0a52f9f74f2ccf78925c68698f57d461d573f01be4e300a33f85b5db8b5271a5",
+    "SP1.snapshots.json": "63103c8b2b1554954c4e1508195607ac14256bf656f844d0d0e9877b4c9d8848",
+    "SP1.r2-objects.json": "26697f499694cd3188cd7e539a1d7b7ce942c8e74e71a845b41bffb5b5fe9152",
+    "SP1.localizations.json": "5627ddb08ae0df4e503f4a5b6c13816bef1f4273d49cbdd2d63bf3a7586327e1",
+    "SP1.native-evidence.json": "ed3cd15f76aeb070c6f448bcab48be5a7e68c098954e25ae9e3dd14ef197a73f",
+    "SP1.review-bindings.json": "8b565d8d08b311790b4b6acaa8ffd1a2fa69e47b4e7364ae7867fefb28856f4a",
+    "SP1.source-config.json": "1541353cdc4bece44b4a83cd413da8c3909575fb940bba9363600c6c5b8f1c75",
+    "SP1.image-evidence.json": "7369b4b0deb75c36faa3538cd44cf397c1f121119cd81c4dd661f248366b08e8"
+  },
+  "imagePublicBytesVerified": true,
+  "flavorFallbacks": [
+    {
+      "cardId": "SP1-028",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-029",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-030",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    }
+  ],
+  "validation": [
+    "pnpm validate",
+    "pnpm test",
+    "server validate in isolated frozen Bun 1.3.0 dependencies",
+    "audit-pocket-set: passed",
+    "local API: nine locales and 270 complete card responses",
+    "tcgp full tests, type-check, lint and isolated production build",
+    "desktop/mobile browser smoke and actual five-card draw without image proxy"
+  ],
+  "releaseState": "prepared locally; production deployment checked separately after merge"
+}

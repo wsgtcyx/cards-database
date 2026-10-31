@@ -62,6 +62,7 @@ const RARITY_CODES = {
 	S: 'h1',
 	SSR: 'h2',
 	UR: 'cr',
+	AN: 'an',
 }
 
 const PROMO_RARITIES = new Set(['None', 'Promo', 'PR'])

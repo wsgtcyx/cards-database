@@ -1,0 +1,2324 @@
+{
+  "schemaVersion": 1,
+  "setId": "SP1",
+  "cards": {
+    "SP1-001": {
+      "locales": {
+        "en": {
+          "name": "Bulbasaur",
+          "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+          "attacks": [
+            {
+              "name": "Leech Seed",
+              "effect": "Heal 10 damage from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Bulbizarre",
+          "description": "Il a une graine sur son dos depuis sa naissance. Elle grossit un peu chaque jour.",
+          "attacks": [
+            {
+              "name": "Vampigraine",
+              "effect": "Soignez 10 dégâts de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Bulbasaur",
+          "description": "Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.",
+          "attacks": [
+            {
+              "name": "Drenadoras",
+              "effect": "Cura 10 puntos de daño a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Bulbasaur",
+          "description": "Fin dalla nascita questo Pokémon ha sulla schiena un seme, che cresce lentamente.",
+          "attacks": [
+            {
+              "name": "Parassiseme",
+              "effect": "Cura questo Pokémon da 10 danni."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Bisasam",
+          "description": "Dieses Pokémon trägt von Geburt an einen Samen auf dem Rücken, der im Laufe der Zeit keimt und wächst.",
+          "attacks": [
+            {
+              "name": "Egelsamen",
+              "effect": "Heile 10 Schadenspunkte bei diesem Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Bulbasaur",
+          "description": "Esse Pokémon já nasce com uma semente nas costas. Aos poucos, a semente cresce.",
+          "attacks": [
+            {
+              "name": "Semente Sanguessuga",
+              "effect": "Cure 10 pontos de dano deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "妙蛙種子",
+          "description": "從出生的時候開始，背上就有一顆植物種子。這顆種子會漸漸長大。",
+          "attacks": [
+            {
+              "name": "寄生種子",
+              "effect": "將這隻寶可夢恢復10HP。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-002": {
+      "locales": {
+        "en": {
+          "name": "Charmander",
+          "description": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+          "attacks": [
+            {
+              "name": "Ember",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Salamèche",
+          "description": "Depuis sa naissance, une petite flamme brûle au bout de sa queue. Si cette flamme s’éteint, la vie de ce Pokémon s’éteindra elle aussi.",
+          "attacks": [
+            {
+              "name": "Flammèche",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Charmander",
+          "description": "Este Pokémon nace con una llama en la punta de la cola. Si se le apagara, fallecería.",
+          "attacks": [
+            {
+              "name": "Ascuas",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Charmander",
+          "description": "Una fiamma gli arde sulla punta della coda fin dalla nascita. Se si spegnesse, per lui sarebbe la fine.",
+          "attacks": [
+            {
+              "name": "Braciere",
+              "effect": "Rimuovi un’Energia {R} da questo Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Glumanda",
+          "description": "Von Geburt an brennt die Flamme auf seiner Schwanzspitze. Sobald sie verglimmt, erlischt auch sein Lebenslicht.",
+          "attacks": [
+            {
+              "name": "Glut",
+              "effect": "Lege 1 {R}-Energie von diesem Pokémon ab."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Charmander",
+          "description": "Desde o momento em que nasce, uma chama queima na ponta da sua cauda. Se a sua chama apagar, sua vida também apagará.",
+          "attacks": [
+            {
+              "name": "Brasa",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "小火龍",
+          "description": "從出生時開始尾巴上就有火焰在燃燒。火焰熄滅時，生命也會結束。",
+          "attacks": [
+            {
+              "name": "火花",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-003": {
+      "locales": {
+        "en": {
+          "name": "Squirtle",
+          "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+          "attacks": [
+            {
+              "name": "Bubble",
+              "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Carapuce",
+          "description": "Quand il rentre son cou dans sa carapace, il peut projeter de l'eau à haute pression.",
+          "attacks": [
+            {
+              "name": "Écume",
+              "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Squirtle",
+          "description": "Cuando retrae su largo cuello en el caparazón, dispara agua a una presión increíble.",
+          "attacks": [
+            {
+              "name": "Burbuja",
+              "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Squirtle",
+          "description": "Quando ritrae il lungo collo dentro la corazza, spara un vigoroso getto d'acqua.",
+          "attacks": [
+            {
+              "name": "Bolla",
+              "effect": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Schiggy",
+          "description": "Zieht es seinen langen Hals in seinen Panzer zurück, verspritzt es Wasser mit unbändiger Kraft.",
+          "attacks": [
+            {
+              "name": "Blubber",
+              "effect": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Squirtle",
+          "description": "Ao retrair o pescoço longo para dentro de seu casco, lança um jato de água muito poderoso.",
+          "attacks": [
+            {
+              "name": "Bolha",
+              "effect": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "傑尼龜",
+          "description": "當牠把長長的脖子縮回龜殼裡時，會順勢噴出力道強勁的水柱。",
+          "attacks": [
+            {
+              "name": "泡沫",
+              "effect": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-004": {
+      "locales": {
+        "en": {
+          "name": "Chikorita",
+          "description": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
+          "attacks": [
+            {
+              "name": "Razor Leaf"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Germignon",
+          "description": "Un doux parfum émane de la feuille placée sur sa tête. Il est très gentil et aime dormir au soleil.",
+          "attacks": [
+            {
+              "name": "Tranch'Herbe"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Chikorita",
+          "description": "Un dulce aroma se desprende de la hoja de su cabeza. Es dócil y le encanta absorber los rayos de sol.",
+          "attacks": [
+            {
+              "name": "Hoja Afilada"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Chikorita",
+          "description": "Un dolce profumo si diffonde dalla sua testa. È docile e ama scaldarsi al sole.",
+          "attacks": [
+            {
+              "name": "Foglielama"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Endivie",
+          "description": "Ein süßer Duft geht von dem Blatt auf seinem Kopf aus. Es ist sanftmütig und liegt gerne in der Sonne.",
+          "attacks": [
+            {
+              "name": "Rasierblatt"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Chikorita",
+          "description": "Um aroma doce é liberado gentilmente da folha em sua cabeça. Ele é dócil e adora tomar banho de sol.",
+          "attacks": [
+            {
+              "name": "Folha Navalha"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "菊草葉",
+          "description": "從頭上的葉子飄散出淡淡的甜甜香氣。性情溫和，喜歡待在陽光下。",
+          "attacks": [
+            {
+              "name": "飛葉快刀"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-005": {
+      "locales": {
+        "en": {
+          "name": "Cyndaquil",
+          "description": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Héricendre",
+          "description": "Il est timide et se roule en boule pour se protéger. Attaqué, il s’enflamme le dos pour riposter.",
+          "attacks": [
+            {
+              "name": "Charge"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Cyndaquil",
+          "description": "Es tímido y siempre se enrosca como una pelota. Si es atacado, enciende su lomo para protegerse.",
+          "attacks": [
+            {
+              "name": "Placaje"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Cyndaquil",
+          "description": "Spesso se ne sta appallottolato giacché timido. Se è attaccato, si difende infuocando il dorso.",
+          "attacks": [
+            {
+              "name": "Azione"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Feurigel",
+          "description": "Es ist ruhig und kugelt sich stets zusammen. Zum Schutz entflammt es seinen Rücken.",
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Cyndaquil",
+          "description": "Ele é tímido e sempre se enrola em uma bola. Se atacado, incendeia suas costas como proteção.",
+          "attacks": [
+            {
+              "name": "Investida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "火球鼠",
+          "description": "牠很膽小，總是把身體蜷縮成球。受到攻擊時，會燃起背上的火焰來保護自己。",
+          "attacks": [
+            {
+              "name": "撞擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-006": {
+      "locales": {
+        "en": {
+          "name": "Totodile",
+          "description": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+          "attacks": [
+            {
+              "name": "Bite"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Kaiminus",
+          "description": "La mâchoire bien développée de ce Pokémon est si puissante qu'elle peut broyer n'importe quoi. Même son partenaire doit s'en méfier.",
+          "attacks": [
+            {
+              "name": "Morsure"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Totodile",
+          "description": "Las desarrolladas y potentes mandíbulas pueden triturar cualquier cosa, por lo que hasta su propio Entrenador debe andarse con cuidado.",
+          "attacks": [
+            {
+              "name": "Mordisco"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Totodile",
+          "description": "Le sue mandibole sono così potenti da frantumare qualsiasi cosa, perciò anche chi lo allena deve agire con cautela.",
+          "attacks": [
+            {
+              "name": "Morso"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Karnimani",
+          "description": "Seine kräftigen, gut entwickelten Kiefer können alles zermalmen. Selbst sein Trainer muss sich vor ihm in Acht nehmen.",
+          "attacks": [
+            {
+              "name": "Biss"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Totodile",
+          "description": "Suas poderosas e bem desenvolvidas mandíbulas são capazes de esmagar qualquer coisa. Até mesmo seu Treinador deve ter cuidado.",
+          "attacks": [
+            {
+              "name": "Mordida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "小鋸鱷",
+          "description": "強而有力且發達的顎，連任何東西都能咬碎。因此就算是牠的訓練家也要當心。",
+          "attacks": [
+            {
+              "name": "咬住"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-007": {
+      "locales": {
+        "en": {
+          "name": "Treecko",
+          "description": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+          "attacks": [
+            {
+              "name": "Pound"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Arcko",
+          "description": "Arcko est doté de petits crochets sous les pattes, ce qui lui permet de grimper aux murs. Ce Pokémon frappe en fouettant ses ennemis avec son épaisse queue.",
+          "attacks": [
+            {
+              "name": "Écras'Face"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Treecko",
+          "description": "Treecko tiene unos ganchos pequeños en las plantas de los pies con los que puede escalar superficies verticales. Este Pokémon ataca dando un golpetazo con la cola.",
+          "attacks": [
+            {
+              "name": "Destructor"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Treecko",
+          "description": "Treecko è dotato di piccoli uncini sulla pianta delle zampe che gli consentono di camminare su pareti verticali. Attacca frustando i suoi nemici con la coda grossa e forte.",
+          "attacks": [
+            {
+              "name": "Botta"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Geckarbor",
+          "description": "Mit den kleinen Haken unter seinen Füßen kann Treecko an Wänden hochklettern. Dieses Pokémon greift Feinde an, indem es mit seinem mächtigen Schweif zuschlägt.",
+          "attacks": [
+            {
+              "name": "Klaps"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Treecko",
+          "description": "Treecko tem pequenos ganchos nas solas dos pés que permitem que escale paredes verticais. Este Pokémon ataca batendo em seus oponentes com sua cauda grossa.",
+          "attacks": [
+            {
+              "name": "Pancada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "木守宮",
+          "description": "牠腳底的小鉤子使其能在垂直的牆壁上攀爬，會用粗壯的尾巴摔打對手。",
+          "attacks": [
+            {
+              "name": "拍擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-008": {
+      "locales": {
+        "en": {
+          "name": "Torchic",
+          "description": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
+          "attacks": [
+            {
+              "name": "Peck"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Poussifeu",
+          "description": "Poussifeu ne lâche pas son Dresseur d'une semelle, marchant maladroitement derrière lui. Ce Pokémon crache des flammes pouvant atteindre 1 000 °C et des boules de feu qui carbonisent l'ennemi.",
+          "attacks": [
+            {
+              "name": "Picpic"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Torchic",
+          "description": "Torchic no se separa de su Entrenador. Siempre va tras él con sus pasitos inseguros. Este Pokémon escupe bolas de fuego que pueden alcanzar los 1000 °C y carbonizar al enemigo.",
+          "attacks": [
+            {
+              "name": "Picotazo"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Torchic",
+          "description": "Torchic segue il proprio Allenatore ovunque, saltellandogli dietro con passo incerto. Questo Pokémon sputa fiamme roventi a 1.000 °C, con sfere infuocate capaci di carbonizzare il nemico.",
+          "attacks": [
+            {
+              "name": "Beccata"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Flemmli",
+          "description": "Flemmli hängt an seinem Trainer wie eine Klette. Es watschelt immer hinter ihm her. Dieses Pokémon spuckt 1000 °C heiße Feuerbälle, die seinen Feind vollständig verkohlen.",
+          "attacks": [
+            {
+              "name": "Pikser"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Torchic",
+          "description": "Torchic acompanha seu Treinador de perto, equilibrando-se com passos incertos. Esse Pokémon cospe fogo a mais de 1.000 °C, incluindo bolas de fogo que carbonizam seus oponentes.",
+          "attacks": [
+            {
+              "name": "Bicada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "火稚雞",
+          "description": "牠會緊跟在訓練家的身後搖搖晃晃地走路。會從腹部吐出攝氏１０００度的火焰和火球，把對手燒成焦黑。",
+          "attacks": [
+            {
+              "name": "啄"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-009": {
+      "locales": {
+        "en": {
+          "name": "Mudkip",
+          "description": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+          "attacks": [
+            {
+              "name": "Mud-Slap"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Gobou",
+          "description": "La nageoire sur la tête de Gobou lui sert de radar hypersensible. Il l’utilise pour sentir les mouvements de l’eau et de l’air et savoir ce qui se passe autour de lui sans avoir à ouvrir les yeux.",
+          "attacks": [
+            {
+              "name": "Coud'Boue"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Mudkip",
+          "description": "La aleta que tiene Mudkip en la cabeza actúa como un radar ultrasensible. Puede captar movimientos que se producen en el agua y en el aire, y todo lo que ocurre a su alrededor, sin necesidad de abrir los ojos.",
+          "attacks": [
+            {
+              "name": "Bofetón Lodo"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Mudkip",
+          "description": "La pinna sulla testa di Mudkip agisce come un radar ultrasensibile. Usandola questo Pokémon può percepire i movimenti dell’acqua e dell’aria, riuscendo a determinare cosa succede attorno a lui senza bisogno di guardare.",
+          "attacks": [
+            {
+              "name": "Fangosberla"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Hydropi",
+          "description": "Die Flosse an Hydropis’ Kopf dient als hochempfindlicher Radar. Damit kann es Bewegungen im Wasser und in der Luft wahrnehmen. So weiß es jederzeit, was in seiner Umgebung passiert, ohne dabei seine Augen zu benutzen.",
+          "attacks": [
+            {
+              "name": "Lehmschelle"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Mudkip",
+          "description": "A barbatana na cabeça do Mudkip funciona como um radar muito sensível. Usando-a para sentir a água e o ar, consegue determinar o que está acontecendo ao seu redor sem usar a visão.",
+          "attacks": [
+            {
+              "name": "Tapa de Lama"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "水躍魚",
+          "description": "牠頭上的鰭是非常靈敏的雷達，能從水或空氣的流動中感知周遭的狀況，就算不使用眼睛也能行動。",
+          "attacks": [
+            {
+              "name": "擲泥"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-010": {
+      "locales": {
+        "en": {
+          "name": "Turtwig",
+          "description": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+          "attacks": [
+            {
+              "name": "Razor Leaf"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Tortipouss",
+          "description": "Ce Pokémon vit le long des lacs. Il est doté d'une carapace sur son dos qui se durcit lorsqu'il boit.",
+          "attacks": [
+            {
+              "name": "Tranch'Herbe"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Turtwig",
+          "description": "La concha de su espalda es de tierra y se endurece cuando bebe agua. Vive cerca de los lagos.",
+          "attacks": [
+            {
+              "name": "Hoja Afilada"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Turtwig",
+          "description": "Il suo guscio fatto di terra diventa più duro quando il Pokémon beve. Vive sulle rive dei laghi.",
+          "attacks": [
+            {
+              "name": "Foglielama"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Chelast",
+          "description": "Der Panzer auf seinem Rücken besteht aus Lehm und wird härter, wenn das Pokémon Wasser trinkt. Es lebt an Seen.",
+          "attacks": [
+            {
+              "name": "Rasierblatt"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Turtwig",
+          "description": "Feita de terra, a casca em suas costas endurece quando bebe água. Vive perto de lagos.",
+          "attacks": [
+            {
+              "name": "Folha Navalha"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "草苗龜",
+          "description": "背上的甲殼是由泥土形成的。喝水後會變得堅硬。棲息在湖邊。",
+          "attacks": [
+            {
+              "name": "飛葉快刀"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-011": {
+      "locales": {
+        "en": {
+          "name": "Chimchar",
+          "description": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+          "attacks": [
+            {
+              "name": "Fury Swipes",
+              "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Ouisticram",
+          "description": "Il escalade prestement les falaises escarpées et vit sur les sommets. Il éteint sa flamme avant de dormir.",
+          "attacks": [
+            {
+              "name": "Combo-Griffe",
+              "effect": "Lancez 3 pièces. Cette attaque inflige 10 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Chimchar",
+          "description": "Escala acantilados escarpados con agilidad y vive en las cimas de montañas rocosas. Su fuego se apaga cuando duerme.",
+          "attacks": [
+            {
+              "name": "Golpes Furia",
+              "effect": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Chimchar",
+          "description": "Scala agilmente pareti rocciose e va a vivere sulle cime dei monti. Prima di dormire spegne la sua fiamma.",
+          "attacks": [
+            {
+              "name": "Sfuriate",
+              "effect": "Lancia 3 volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Panflam",
+          "description": "Es lebt auf zerklüfteten Bergen und klettert mit Leichtigkeit steile Felswände hinauf. Bevor es schläft, geht das Feuer an seinem Hintern aus.",
+          "attacks": [
+            {
+              "name": "Kratzfurie",
+              "effect": "Wirf 3 Münzen. Diese Attacke fügt 10 Schadenspunkte pro Kopf zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Chimchar",
+          "description": "Vive no topo de morros e montanhas íngremes e os escala com muita agilidade. Sua chama se apaga quando dorme.",
+          "attacks": [
+            {
+              "name": "Golpes de Fúria",
+              "effect": "Jogue 3 moedas. Este ataque causa 10 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "小火焰猴",
+          "description": "能夠靈活地爬上斷崖絕壁，並棲息在岩山上。睡覺前會熄滅尾巴的火焰。",
+          "attacks": [
+            {
+              "name": "亂抓",
+              "effect": "擲3次硬幣,造成正面出現的次數×10點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-012": {
+      "locales": {
+        "en": {
+          "name": "Piplup",
+          "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+          "attacks": [
+            {
+              "name": "Peck"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Tiplouf",
+          "description": "D'un tempérament fier, il déteste que des êtres humains lui offrent de la nourriture. Son duvet épais le protège du froid.",
+          "attacks": [
+            {
+              "name": "Picpic"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Piplup",
+          "description": "Es muy orgulloso, por lo que odia aceptar comida de la gente. Su grueso plumón lo protege del frío.",
+          "attacks": [
+            {
+              "name": "Picotazo"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Piplup",
+          "description": "È molto orgoglioso e odia accettare cibo dalla gente. La folta piuma lo protegge dal freddo.",
+          "attacks": [
+            {
+              "name": "Beccata"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Plinfa",
+          "description": "Sein stark ausgeprägter Stolz hält es davon ab, von Menschen Futter anzunehmen. Die dicke Daunenschicht schützt es vor Kälte.",
+          "attacks": [
+            {
+              "name": "Pikser"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Piplup",
+          "description": "Por ser muito orgulhoso, detesta aceitar comida das pessoas. A sua penugem espessa o protege do frio.",
+          "attacks": [
+            {
+              "name": "Bicada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "波加曼",
+          "description": "自尊心很強，討厭從人類手中接受食物。厚厚的絨毛能抵禦寒冷。",
+          "attacks": [
+            {
+              "name": "啄"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-013": {
+      "locales": {
+        "en": {
+          "name": "Snivy",
+          "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+          "attacks": [
+            {
+              "name": "Vine Whip"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Vipélierre",
+          "description": "Un Pokémon intelligent et très calme. Il se déplace beaucoup plus rapidement s'il est exposé à la lumière du soleil.",
+          "attacks": [
+            {
+              "name": "Fouet Lianes"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Snivy",
+          "description": "Es muy inteligente y tranquilo. Se mueve ágilmente si recibe mucha luz solar.",
+          "attacks": [
+            {
+              "name": "Látigo Cepa"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Snivy",
+          "description": "È dotato di un'intelligenza e sangue freddo straordinari. Se viene esposto a tanta luce solare, i suoi movimenti si fanno più rapidi.",
+          "attacks": [
+            {
+              "name": "Frustata"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Serpifeu",
+          "description": "Das sehr intelligente Pokémon ist sehr ruhig. Sonnenlicht erhöht die Geschwindigkeit seiner Bewegungen.",
+          "attacks": [
+            {
+              "name": "Rankenhieb"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Snivy",
+          "description": "É muito inteligente e calmo. Quando exposto a muita luz solar, seus movimentos tornam-se mais rápidos.",
+          "attacks": [
+            {
+              "name": "Chicote de Vinha"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "藤藤蛇",
+          "description": "非常聰明且冷靜。沐浴在陽光下越久，動作就會變得越敏捷。",
+          "attacks": [
+            {
+              "name": "藤鞭"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-014": {
+      "locales": {
+        "en": {
+          "name": "Tepig",
+          "description": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+          "attacks": [
+            {
+              "name": "Ember",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Gruikui",
+          "description": "Il crache du feu par le groin. Mais quand il est enrhumé, seule une fumée noirâtre en sort.",
+          "attacks": [
+            {
+              "name": "Flammèche",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Tepig",
+          "description": "Lanza llamas por su hocico. Resfriado, echa humo negro en lugar de fuego.",
+          "attacks": [
+            {
+              "name": "Ascuas",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Tepig",
+          "description": "Sputa fuoco dalle narici. Quando ha il raffreddore, al posto del fuoco emette un fumo nerissimo.",
+          "attacks": [
+            {
+              "name": "Braciere",
+              "effect": "Rimuovi un'Energia {R} da questo Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Floink",
+          "description": "Es schleudert Flammen aus seinem Rüssel. Ist es erkältet, kommt statt Feuer aber nur pechschwarzer Rauch heraus.",
+          "attacks": [
+            {
+              "name": "Glut",
+              "effect": "Lege 1 {R}-Energie von diesem Pokémon ab."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Tepig",
+          "description": "Ele expele fogo pelo nariz. Quando fica resfriado, o fogo se torna uma fumaça preta.",
+          "attacks": [
+            {
+              "name": "Brasa",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "暖暖豬",
+          "description": "從鼻孔噴出火焰。感冒時噴出的就不是火焰，而是漆黑的煙。",
+          "attacks": [
+            {
+              "name": "火花",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-015": {
+      "locales": {
+        "en": {
+          "name": "Oshawott",
+          "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+          "attacks": [
+            {
+              "name": "Razor Shell",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Moustillon",
+          "description": "Il combat avec le coupillage de son ventre. Il peut parer une attaque et immédiatement contre-attaquer.",
+          "attacks": [
+            {
+              "name": "Coqui-Lame",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Oshawott",
+          "description": "Ataca con la vieira de su ombligo. En guardia para un ataque, pasa al contraataque de inmediato.",
+          "attacks": [
+            {
+              "name": "Concha Filo",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Oshawott",
+          "description": "Combatte con la conchiglia che ha sul ventre. Contrattacca prontamente dopo aver parato l'attacco avversario.",
+          "attacks": [
+            {
+              "name": "Conchilama",
+              "effect": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Ottaro",
+          "description": "Kämpft mit der Muschel auf seinem Bauch. Pariert es einen Angriff, schlägt es sofort mit einem Schalenhieb zurück.",
+          "attacks": [
+            {
+              "name": "Kalkklinge",
+              "effect": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Oshawott",
+          "description": "Luta usando a scalchop em sua barriga. Em resposta a uma agressão, retalia imediatamente atacando.",
+          "attacks": [
+            {
+              "name": "Concha Navalha",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "水水獺",
+          "description": "用腹部的扇貝貝戰鬥。面對攻擊時，會立刻用斬擊來反擊。",
+          "attacks": [
+            {
+              "name": "貝殼刃",
+              "effect": "擲1次硬幣若為正面,則增加30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-016": {
+      "locales": {
+        "en": {
+          "name": "Chespin",
+          "description": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+          "attacks": [
+            {
+              "name": "Pin Missile",
+              "effect": "Flip 4 coins. This attack does 20 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Marisson",
+          "description": "Lorsqu'il rassemble ses forces, les piquants souples qui recouvrent sa tête deviennent si durs et acérés qu'ils pourraient transpercer un rocher.",
+          "attacks": [
+            {
+              "name": "Dard-Nuée",
+              "effect": "Lancez 4 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Chespin",
+          "description": "Cuando contrae los músculos, las púas de su cabeza se vuelven tan duras y afiladas que hasta podrían atravesar rocas.",
+          "attacks": [
+            {
+              "name": "Pin Misil",
+              "effect": "Lanza 4 monedas. Este ataque hace 20 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Chespin",
+          "description": "Può indurire le punte sulla sua testa, di solito morbide, per farle diventare talmente affilate e appuntite da penetrare nella roccia.",
+          "attacks": [
+            {
+              "name": "Missilspillo",
+              "effect": "Lancia 4 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Igamaro",
+          "description": "Wenn es seine Kraft auf die sonst eher weichen Stacheln auf seinem Kopf konzentriert, werden diese robust genug, um damit selbst Felsen zu durchdringen.",
+          "attacks": [
+            {
+              "name": "Nadelrakete",
+              "effect": "Wirf 4 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Chespin",
+          "description": "Os espinhos em sua cabeça geralmente são macios. Quando ele os flexiona, as pontas tornam-se tão duras e afiadas que podem perfurar pedras.",
+          "attacks": [
+            {
+              "name": "Míssil de Espinhos",
+              "effect": "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "哈力栗",
+          "description": "頭上的刺平時很柔軟，一旦使力就會變得尖銳，甚至能刺穿岩石。",
+          "attacks": [
+            {
+              "name": "飛彈針",
+              "effect": "擲4次硬幣,造成正面出現的次數×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-017": {
+      "locales": {
+        "en": {
+          "name": "Fennekin",
+          "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+          "attacks": [
+            {
+              "name": "Scratch"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Feunnec",
+          "description": "Quand il grignote des rameaux, il prend des forces et ses grandes oreilles dégagent une chaleur qui dépasse les 200 °C.",
+          "attacks": [
+            {
+              "name": "Griffe"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Fennekin",
+          "description": "Tras mordisquear e ingerir pequeñas ramas se siente pletórico y expulsa aire caliente por sus grandes orejas a temperaturas superiores a los 200 °C.",
+          "attacks": [
+            {
+              "name": "Arañazo"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Fennekin",
+          "description": "Fa il pieno di energia mangiando ramoscelli ed emette aria calda dalle grandi orecchie a una temperatura di oltre 200 °C.",
+          "attacks": [
+            {
+              "name": "Graffio"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Fynx",
+          "description": "Wenn es Zweige frisst, fasst es neue Kraft und stößt über seine Ohren über 200 °C heiße Luft aus.",
+          "attacks": [
+            {
+              "name": "Kratzer"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Fennekin",
+          "description": "Comer um galho o enche de energia, suas orelhas espaçosas expelem ar mais quente que 200 °C.",
+          "attacks": [
+            {
+              "name": "Arranhão"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "火狐狸",
+          "description": "吃了小樹枝就會精神百倍，並從大大的耳朵中呼出超過攝氏２００度的熱氣。",
+          "attacks": [
+            {
+              "name": "抓"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-018": {
+      "locales": {
+        "en": {
+          "name": "Froakie",
+          "description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+          "attacks": [
+            {
+              "name": "Pound"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Grenousse",
+          "description": "Sa poitrine et son dos sécrètent une mousse qui lui permet de subir moins de dégâts en amortissant le choc des attaques.",
+          "attacks": [
+            {
+              "name": "Écras'Face"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Froakie",
+          "description": "Segrega burbujas flexibles por la espalda, como por el pecho. Gracias a la elasticidad de estas, puede parar ataques y reducir el daño recibido.",
+          "attacks": [
+            {
+              "name": "Destructor"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Froakie",
+          "description": "Dal petto e dalla schiena secerne una schiuma che gli permette di attutire i danni causati dagli attacchi nemici.",
+          "attacks": [
+            {
+              "name": "Botta"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Froxy",
+          "description": "Es stößt aus Brust und Rücken elastische Blasen aus, mit denen es gegnerische Angriffe abfängt und so den erlittenen Schaden verringert.",
+          "attacks": [
+            {
+              "name": "Klaps"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Froakie",
+          "description": "Libera bolhas flexíveis do peito e das costas. As bolhas reduzem os danos que sofreria ao serem atacadas.",
+          "attacks": [
+            {
+              "name": "Pancada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "呱呱泡蛙",
+          "description": "從胸口和背部製造泡泡。利用有彈性的泡泡承受攻擊，降低所受的傷害。",
+          "attacks": [
+            {
+              "name": "拍擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-019": {
+      "locales": {
+        "en": {
+          "name": "Rowlet",
+          "description": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Brindibou",
+          "description": "Ce Pokémon ne baisse jamais sa garde. Pendant la journée, il accumule de l’énergie par photosynthèse, pour mieux agir la nuit venue.",
+          "attacks": [
+            {
+              "name": "Charge"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Rowlet",
+          "description": "Es cauteloso, desconfiado y de naturaleza nocturna. Durante el día acumula energía mediante la fotosíntesis.",
+          "attacks": [
+            {
+              "name": "Placaje"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Rowlet",
+          "description": "Questo Pokémon è sempre all’erta. Di giorno accumula energia tramite fotosintesi per poi passare all’azione di notte.",
+          "attacks": [
+            {
+              "name": "Azione"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Bauz",
+          "description": "Ein wachsames und nachtaktives Pokémon. Tagsüber sammelt es per Photosynthese Kräfte, um fit für die Nacht zu sein.",
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Rowlet",
+          "description": "Este Pokémon cauteloso usa a fotossíntese para armazenar energia durante o dia, tornando-se ativo à noite.",
+          "attacks": [
+            {
+              "name": "Investida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "木木梟",
+          "description": "警戒心很強。白天利用光合作用積蓄力量，到了夜晚才開始活動。",
+          "attacks": [
+            {
+              "name": "撞擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-020": {
+      "locales": {
+        "en": {
+          "name": "Litten",
+          "description": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+          "attacks": [
+            {
+              "name": "Fire Fang",
+              "effect": "Your opponent's Active Pokémon is now Burned."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Flamiaou",
+          "description": "Il enflamme des poils accumulés dans son ventre après sa toilette. Les flammes qu’il crache varient en fonction de la manière dont il tousse.",
+          "attacks": [
+            {
+              "name": "Crocs Feu",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Litten",
+          "description": "Prende las bolas de pelo que se le forman en el estómago tras acicalarse. Las llamas resultantes cambian según la forma en la que escupe el pelo.",
+          "attacks": [
+            {
+              "name": "Colmillo Ígneo",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Litten",
+          "description": "Incendia le palle di pelo accumulate nello stomaco durante la toeletta ed espelle fiamme che plasma a suo piacimento.",
+          "attacks": [
+            {
+              "name": "Rogodenti",
+              "effect": "Il Pokémon attivo del tuo avversario viene bruciato."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Flamiau",
+          "description": "Es verbrennt Haare, die es bei der Körperpflege verschluckt hat, indem es Feuer speit. Die Flammen verändern je nach Art des Spuckens.",
+          "attacks": [
+            {
+              "name": "Feuerzahn",
+              "effect": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Litten",
+          "description": "Enquanto se lambe, acumula pelos em seu estômago. Acende esse pelo e expele ataques flamejantes, que podem variar dependendo de como tosse.",
+          "attacks": [
+            {
+              "name": "Presas de Fogo",
+              "effect": "O Pokémon Ativo do seu oponente agora está Queimado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "火斑喵",
+          "description": "將理毛時屯積在肚子裡的落毛引燃並吐出火焰。火焰會隨著吐毛的方式不同而變化。",
+          "attacks": [
+            {
+              "name": "火焰牙",
+              "effect": "將對手的戰鬥寶可夢灼傷。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-021": {
+      "locales": {
+        "en": {
+          "name": "Popplio",
+          "description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+          "attacks": [
+            {
+              "name": "Disarming Voice",
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Otaquin",
+          "description": "Connu pour son tempérament de battant, il rassemble l’eau de son corps au bout de son museau en un ballon qu’il projette sur l’ennemi.",
+          "attacks": [
+            {
+              "name": "Voix Enjôleuse",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Popplio",
+          "description": "Es conocido por su diligencia y predisposición. Segrega agua por la nariz para formar globos con los que golpea a sus rivales.",
+          "attacks": [
+            {
+              "name": "Voz Cautivadora",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Popplio",
+          "description": "È conosciuto per la sua forza di volontà. Lancia sul nemico dei palloncini pieni d’acqua che gonfia con il naso.",
+          "attacks": [
+            {
+              "name": "Incantavoce",
+              "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Robball",
+          "description": "Dieses Pokémon ist für seine Willensstärke bekannt. Bläst es Körperflüssigkeit durch die Nase, entsteht eine Blase, die als Waffe fungiert.",
+          "attacks": [
+            {
+              "name": "Säuselstimme",
+              "effect": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Popplio",
+          "description": "Este Pokémon expele fluidos corporais de seu nariz, enchendo balões para tacar em seus inimigos. É conhecido por ser trabalhador.",
+          "attacks": [
+            {
+              "name": "Voz Desarmante",
+              "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "球球海獅",
+          "description": "因勤奮的性格而聞名。 會用鼻子將體液吹成氣球， 然後扔向敵人。",
+          "attacks": [
+            {
+              "name": "魅惑之聲",
+              "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-022": {
+      "locales": {
+        "en": {
+          "name": "Grookey",
+          "description": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+          "attacks": [
+            {
+              "name": "Branch Poke"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Ouistempo",
+          "description": "Le rythme qu'il crée en frappant avec son bâton très spécial génère des ondes sonores qui ont le pouvoir de revitaliser les plantes.",
+          "attacks": [
+            {
+              "name": "Tapotige"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Grookey",
+          "description": "Al marcar el ritmo con su baqueta especial, produce unas ondas sonoras capaces de devolver la vitalidad a la flora.",
+          "attacks": [
+            {
+              "name": "Punzada Rama"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Grookey",
+          "description": "Battendo il ritmo con la sua bacchetta speciale diffonde vibrazioni che hanno il potere di rinvigorire fiori e piante.",
+          "attacks": [
+            {
+              "name": "Ramostoccata"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Chimpep",
+          "description": "Der Rhythmus, den es mit seinem besonderen Schlägel erzeugt, versendet Schallwellen, die Pflanzen neue Vitalität verleihen können.",
+          "attacks": [
+            {
+              "name": "Zweigstoß"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Grookey",
+          "description": "Quando usa o seu graveto especial para fazer uma batida, as ondas sonoras emitem uma energia que revitaliza plantas e flores ao redor.",
+          "attacks": [
+            {
+              "name": "Cutucada com Galho"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "敲音猴",
+          "description": "當牠用特別的木棒敲奏時，能夠給予花草活力的力量就會變成音波擴散開來。",
+          "attacks": [
+            {
+              "name": "木枝突刺"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-023": {
+      "locales": {
+        "en": {
+          "name": "Scorbunny",
+          "description": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+          "attacks": [
+            {
+              "name": "Double Kick",
+              "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Flambino",
+          "description": "Il court pour augmenter sa température et faire circuler l’énergie incandescente dans son corps. Il peut alors déployer toute sa puissance.",
+          "attacks": [
+            {
+              "name": "Double Pied",
+              "effect": "Lancez 2 pièces. Cette attaque inflige 40 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Scorbunny",
+          "description": "Se pone a correr para elevar su temperatura corporal y propagar la energía ígnea por todo el cuerpo. Desata así su verdadera fuerza.",
+          "attacks": [
+            {
+              "name": "Doble Patada",
+              "effect": "Lanza 2 monedas. Este ataque hace 40 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Scorbunny",
+          "description": "Quando corre, la sua temperatura corporea sale pervadendolo di un’energia infuocata che gli permette di scatenare la sua vera potenza.",
+          "attacks": [
+            {
+              "name": "Doppio calcio",
+              "effect": "Lancia 2 volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Hopplo",
+          "description": "Erhöht es durch Rennen seine Körpertemperatur, strömt Feuer-Energie durch seinen Körper. Dann kann es seine wahre Kraft entfesseln.",
+          "attacks": [
+            {
+              "name": "Doppelkick",
+              "effect": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Scorbunny",
+          "description": "Quando este Pokémon está em movimento, uma energia flamejante atravessa o seu corpo, preparando-o para batalhar a todo vapor.",
+          "attacks": [
+            {
+              "name": "Chute Duplo",
+              "effect": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "炎兔兒",
+          "description": "不斷奔跑使體溫升高後，火之能量會在牠體內循環，促使牠發揮出真正的力量。",
+          "attacks": [
+            {
+              "name": "二連踢",
+              "effect": "擲2次硬幣,造成正面出現的次數×40點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-024": {
+      "locales": {
+        "en": {
+          "name": "Sobble",
+          "description": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+          "attacks": [
+            {
+              "name": "Water Gun"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Larméléon",
+          "description": "Quand il a peur, il pleure des larmes contenant une substance lacrymogène d’une puissance équivalente à celle de cent oignons.",
+          "attacks": [
+            {
+              "name": "Pistolet à O"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Sobble",
+          "description": "Cuando se asusta, llora. Unas lágrimas con un factor lacrimógeno equivalente a 100 cebollas para hacer llorar también al rival.",
+          "attacks": [
+            {
+              "name": "Pistola Agua"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Sobble",
+          "description": "Se si spaventa, produce lacrime con un fattore lacrimogeno cento volte più potente di quello di una cipolla, per far piangere anche i nemici.",
+          "attacks": [
+            {
+              "name": "Pistolacqua"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Memmeon",
+          "description": "Hat es Angst, vergießt es Tränen, die Reizstoffe enthalten, welche andere genauso zum Weinen bringen. Sie sind so effektiv wie 100 Zwiebeln.",
+          "attacks": [
+            {
+              "name": "Aquaknarre"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Sobble",
+          "description": "Este Pokémon chora quando está assustado. Suas lágrimas concentram o poder de cem cebolas e aqueles que ousarem atacá-lo não conseguirão deixar de chorar também.",
+          "attacks": [
+            {
+              "name": "Revólver d'Água"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "淚眼蜥",
+          "description": "害怕時流下的淚水中含有 相當於１００顆洋蔥的催淚成分， 能讓對手淚流不止。",
+          "attacks": [
+            {
+              "name": "水槍"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-025": {
+      "locales": {
+        "en": {
+          "name": "Sprigatito",
+          "description": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+          "attacks": [
+            {
+              "name": "Leafage"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Poussacha",
+          "description": "Ce Pokémon lave assidûment sa figure pour éviter que la composition de son pelage soyeux est proche de celle des plantes.",
+          "attacks": [
+            {
+              "name": "Feuillage"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Sprigatito",
+          "description": "Su pelo es suave y similar en composición a las plantas. Se lava la cara con diligencia para que no se le seque.",
+          "attacks": [
+            {
+              "name": "Follaje"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Sprigatito",
+          "description": "Il suo pelo vellutato ha una composizione simile a quella delle piante. Si lava il muso di frequente per evitare che si inaridisca.",
+          "attacks": [
+            {
+              "name": "Fogliame"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Felori",
+          "description": "Die Zusammensetzung seines weichen Fells ähnelt der von Pflanzen. Es reinigt penibel sein Gesicht, um zu verhindern, dass dieses austrocknet.",
+          "attacks": [
+            {
+              "name": "Blattwerk"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Sprigatito",
+          "description": "A composição de seu pelo fofinho é similar à das plantas. Esse Pokémon lava o rosto frequentemente para evitar que fique ressecado.",
+          "attacks": [
+            {
+              "name": "Folhagem"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "新葉喵",
+          "description": "蓬鬆的體毛在成分上近似於植物。會勤奮地洗臉，防止乾燥。",
+          "attacks": [
+            {
+              "name": "樹葉"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-026": {
+      "locales": {
+        "en": {
+          "name": "Fuecoco",
+          "description": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+          "attacks": [
+            {
+              "name": "Flamethrower",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Chochodile",
+          "description": "Sa poche à flammes est trop petite pour contenir toute l'énergie qu'il produit. Le surplus s'échappe en vacillant par la cavité sur sa tête.",
+          "attacks": [
+            {
+              "name": "Lance-Flammes",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Fuecoco",
+          "description": "Como su saca de fuego es pequeña, la energía ígnea que rebosa se libera por la muesca de su cabeza en forma de una trémula llama.",
+          "attacks": [
+            {
+              "name": "Lanzallamas",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Fuecoco",
+          "description": "La sua sacca ignea è piccola e l'energia trabocca, fuoriuscendo sotto forma di fiammelle tremule da una fessura sulla testa.",
+          "attacks": [
+            {
+              "name": "Lanciafiamme",
+              "effect": "Rimuovi un’Energia {R} da questo Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Krokel",
+          "description": "Sein Flammensack ist noch klein, weshalb überquellende Energie über die Vertiefung an seinem Kopf flackernd freigesetzt wird.",
+          "attacks": [
+            {
+              "name": "Flammenwurf",
+              "effect": "Lege 1 {R}-Energie von diesem Pokémon ab."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Fuecoco",
+          "description": "Sua bolsa de chamas é pequenina e tem sempre energia vazando. Esta energia é liberada pela cavidade no topo da cabeça de Fuecoco e balança pra lá e pra cá.",
+          "attacks": [
+            {
+              "name": "Lança-chamas",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "呆火鱷",
+          "description": "火囊很小，因此能量會溢出來，在牠頭上的凹槽那裡搖曳晃動。",
+          "attacks": [
+            {
+              "name": "噴射火焰",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-027": {
+      "locales": {
+        "en": {
+          "name": "Quaxly",
+          "description": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+          "attacks": [
+            {
+              "name": "Wing Attack"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Coiffeton",
+          "description": "Ce Pokémon a autrefois quitté une contrée lointaine pour s’installer à Paldea. Ses plumes sont recouvertes d’un gel qui repousse l’eau et les saletés.",
+          "attacks": [
+            {
+              "name": "Cru-Ailes"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Quaxly",
+          "description": "Este Pokémon llegó hace mucho tiempo a Paldea procedente de tierras lejanas. El gel que le recubre las plumas repele el agua y la mugre.",
+          "attacks": [
+            {
+              "name": "Ataque Ala"
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Quaxly",
+          "description": "Questo Pokémon è arrivato a Paldea da terre lontane molto tempo fa. Le sue piume secernono un gel che le protegge dall’acqua e dallo sporco.",
+          "attacks": [
+            {
+              "name": "Attacco d’Ala"
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Kwaks",
+          "description": "Dieses Pokémon ist vor langer Zeit aus fernen Ländern nach Paldea gekommen. Das von seinem Gefieder abgesonderte Gel weist Wasser und Schmutz ab.",
+          "attacks": [
+            {
+              "name": "Flügelschlag"
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Quaxly",
+          "description": "Este Pokémon migrou para Paldea de terras distantes há muito tempo. O gel secretado por suas penas repele água e sujeira.",
+          "attacks": [
+            {
+              "name": "Ataque de Asa"
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "潤水鴨",
+          "description": "很久以前從遙遠的土地遷徙到帕底亞地區。羽毛分泌的凝膠能排斥水和污垢。",
+          "attacks": [
+            {
+              "name": "翅膀攻擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-028": {
+      "locales": {
+        "en": {
+          "name": "Mew",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "Psychic",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Mew",
+          "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+          "attacks": [
+            {
+              "name": "Psyko",
+              "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Mew",
+          "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Mew",
+          "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+          "attacks": [
+            {
+              "name": "Psichico",
+              "effect": "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Mew",
+          "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+          "attacks": [
+            {
+              "name": "Psychokinese",
+              "effect": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Mew",
+          "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "夢幻",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "精神強念",
+              "effect": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-029": {
+      "locales": {
+        "en": {
+          "name": "Mew",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "Psychic",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Mew",
+          "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+          "attacks": [
+            {
+              "name": "Psyko",
+              "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Mew",
+          "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Mew",
+          "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+          "attacks": [
+            {
+              "name": "Psichico",
+              "effect": "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Mew",
+          "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+          "attacks": [
+            {
+              "name": "Psychokinese",
+              "effect": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Mew",
+          "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "夢幻",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "精神強念",
+              "effect": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "SP1-030": {
+      "locales": {
+        "en": {
+          "name": "Mew",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "Psychic",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "name": "Mew",
+          "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+          "attacks": [
+            {
+              "name": "Psyko",
+              "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "name": "Mew",
+          "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "it": {
+          "name": "Mew",
+          "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+          "attacks": [
+            {
+              "name": "Psichico",
+              "effect": "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario."
+            }
+          ],
+          "abilities": []
+        },
+        "de": {
+          "name": "Mew",
+          "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+          "attacks": [
+            {
+              "name": "Psychokinese",
+              "effect": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu."
+            }
+          ],
+          "abilities": []
+        },
+        "pt-br": {
+          "name": "Mew",
+          "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh-tw": {
+          "name": "夢幻",
+          "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "attacks": [
+            {
+              "name": "精神強念",
+              "effect": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    }
+  }
+}

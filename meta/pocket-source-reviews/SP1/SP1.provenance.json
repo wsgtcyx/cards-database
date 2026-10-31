@@ -1,0 +1,4244 @@
+{
+  "schemaVersion": 1,
+  "setId": "SP1",
+  "sources": {
+    "gameMaster": {
+      "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+      "sha256": "04da3156345ae34cd058738c1d1e80a094f65bd6d3a9c7e38820a294312a8f94"
+    },
+    "pokeos": {
+      "url": "https://www.pokeos.com/api/tcg/set/cards?id=603",
+      "sha256": "dca59764472f6d98ce3bccc6f8fd42b8807c7937694d9a88ceed0505df20c0c0"
+    },
+    "deckgym": {
+      "url": "https://raw.githubusercontent.com/bcollazo/deckgym-core/7aa4ef04c02844d4f0cf236cb98424ea1eaabb4b/database.json",
+      "commit": "7aa4ef04c02844d4f0cf236cb98424ea1eaabb4b",
+      "sha256": "042940849c08d3c882cbbb26c24d57e04eadd17ca499a279f5f3e541d522d04d",
+      "role": "mechanics validation only; no content copied",
+      "license": "AGPL-3.0"
+    },
+    "flavorCorpus": {
+      "url": "https://github.com/PokeAPI/pokeapi/blob/a81dfc349390e4b53fd92e579c588b1204bbb6af/data/v2/csv/pokemon_species_flavor_text.csv",
+      "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69",
+      "role": "review against corresponding species and English description; never use different language as fallback"
+    }
+  },
+  "cards": {
+    "SP1-001": {
+      "fields": {
+        "name": {
+          "chosen": "Bulbasaur",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Leech Seed",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 30,
+              "effect": "Heal 10 damage from this Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-002": {
+      "fields": {
+        "name": {
+          "chosen": "Charmander",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Ember",
+              "cost": [
+                "Colorless",
+                "Fire"
+              ],
+              "damage": 50,
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-003": {
+      "fields": {
+        "name": {
+          "chosen": "Squirtle",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Bubble",
+              "cost": [
+                "Water"
+              ],
+              "damage": 10,
+              "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-004": {
+      "fields": {
+        "name": {
+          "chosen": "Chikorita",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Razor Leaf",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-005": {
+      "fields": {
+        "name": {
+          "chosen": "Cyndaquil",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Tackle",
+              "cost": [
+                "Fire"
+              ],
+              "damage": 20
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-006": {
+      "fields": {
+        "name": {
+          "chosen": "Totodile",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Bite",
+              "cost": [
+                "Colorless",
+                "Water",
+                "Water"
+              ],
+              "damage": 60
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-007": {
+      "fields": {
+        "name": {
+          "chosen": "Treecko",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Pound",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-008": {
+      "fields": {
+        "name": {
+          "chosen": "Torchic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Peck",
+              "cost": [
+                "Colorless",
+                "Fire"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-009": {
+      "fields": {
+        "name": {
+          "chosen": "Mudkip",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Mud-Slap",
+              "cost": [
+                "Colorless",
+                "Water"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-010": {
+      "fields": {
+        "name": {
+          "chosen": "Turtwig",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Razor Leaf",
+              "cost": [
+                "Colorless",
+                "Grass",
+                "Grass"
+              ],
+              "damage": 60
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-011": {
+      "fields": {
+        "name": {
+          "chosen": "Chimchar",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Fury Swipes",
+              "cost": [
+                "Fire"
+              ],
+              "damage": "10x",
+              "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-012": {
+      "fields": {
+        "name": {
+          "chosen": "Piplup",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Peck",
+              "cost": [
+                "Water"
+              ],
+              "damage": 20
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-013": {
+      "fields": {
+        "name": {
+          "chosen": "Snivy",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Vine Whip",
+              "cost": [
+                "Grass"
+              ],
+              "damage": 20
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-014": {
+      "fields": {
+        "name": {
+          "chosen": "Tepig",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Ember",
+              "cost": [
+                "Fire"
+              ],
+              "damage": 30,
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-015": {
+      "fields": {
+        "name": {
+          "chosen": "Oshawott",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Razor Shell",
+              "cost": [
+                "Colorless",
+                "Water"
+              ],
+              "damage": "20+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-016": {
+      "fields": {
+        "name": {
+          "chosen": "Chespin",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Pin Missile",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": "20x",
+              "effect": "Flip 4 coins. This attack does 20 damage for each heads."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-017": {
+      "fields": {
+        "name": {
+          "chosen": "Fennekin",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Scratch",
+              "cost": [
+                "Fire"
+              ],
+              "damage": 20
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-018": {
+      "fields": {
+        "name": {
+          "chosen": "Froakie",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Pound",
+              "cost": [
+                "Water"
+              ],
+              "damage": 20
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-019": {
+      "fields": {
+        "name": {
+          "chosen": "Rowlet",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Tackle",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-020": {
+      "fields": {
+        "name": {
+          "chosen": "Litten",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Fire Fang",
+              "cost": [
+                "Colorless",
+                "Fire",
+                "Fire"
+              ],
+              "damage": 40,
+              "effect": "Your opponent's Active Pokémon is now Burned."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-021": {
+      "fields": {
+        "name": {
+          "chosen": "Popplio",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Disarming Voice",
+              "cost": [
+                "Colorless",
+                "Water"
+              ],
+              "damage": 30,
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-022": {
+      "fields": {
+        "name": {
+          "chosen": "Grookey",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Branch Poke",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-023": {
+      "fields": {
+        "name": {
+          "chosen": "Scorbunny",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Double Kick",
+              "cost": [
+                "Colorless",
+                "Fire"
+              ],
+              "damage": "40x",
+              "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-024": {
+      "fields": {
+        "name": {
+          "chosen": "Sobble",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Water Gun",
+              "cost": [
+                "Colorless",
+                "Water"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-025": {
+      "fields": {
+        "name": {
+          "chosen": "Sprigatito",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Grass"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Leafage",
+              "cost": [
+                "Colorless",
+                "Grass"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-026": {
+      "fields": {
+        "name": {
+          "chosen": "Fuecoco",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Fire"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Water",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Flamethrower",
+              "cost": [
+                "Colorless",
+                "Fire"
+              ],
+              "damage": 50,
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-027": {
+      "fields": {
+        "name": {
+          "chosen": "Quaxly",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "Saboteri",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Water"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Wing Attack",
+              "cost": [
+                "Colorless",
+                "Water"
+              ],
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-028": {
+      "fields": {
+        "name": {
+          "chosen": "Mew",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "YOSHIROTTEN",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "Anomaly",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Psychic"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Darkness",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Psychic"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-029": {
+      "fields": {
+        "name": {
+          "chosen": "Mew",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "YOSHIROTTEN",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "Anomaly",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Psychic"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Darkness",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Psychic"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    },
+    "SP1-030": {
+      "fields": {
+        "name": {
+          "chosen": "Mew",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "illustrator": {
+          "chosen": "YOSHIROTTEN",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "rarity": {
+          "chosen": "Anomaly",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "boosters": {
+          "chosen": [
+            "first-partners"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "types": {
+          "chosen": [
+            "Psychic"
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Darkness",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Psychic"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "abilities": {
+          "chosen": [],
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        },
+        "description": {
+          "chosen": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+          "status": "reviewed",
+          "evidence": [
+            "SP1.native-evidence.json",
+            "SP1.snapshots.json",
+            "SP1.native-review.json"
+          ]
+        }
+      }
+    }
+  },
+  "identityCrosswalk": {
+    "SP1-028": {
+      "color": "R",
+      "gameId": "PK_20_024100_02",
+      "sourceCollectionNumber": -3
+    },
+    "SP1-029": {
+      "color": "G",
+      "gameId": "PK_20_024100_00",
+      "sourceCollectionNumber": -2
+    },
+    "SP1-030": {
+      "color": "B",
+      "gameId": "PK_20_024100_01",
+      "sourceCollectionNumber": -1
+    }
+  },
+  "flavorFallbacks": [
+    {
+      "cardId": "SP1-028",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-029",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-030",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    }
+  ]
+}
