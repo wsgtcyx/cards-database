@@ -11,7 +11,7 @@ const set: Set = {
 		fr: "Deluxe Pack: ex",
 		it: "Deluxe Pack: ex",
 		'pt-br': "Deluxe Pack: ex",
-		ko: 'Deluxe Pack: ex',
+		ko: "하이클래스팩 ex",
 		ja: "ハイクラスパック ex",
 		'zh-tw': "豪華包：ex"
 	},
@@ -31,14 +31,26 @@ const set: Set = {
 				es: 'Deluxe Pack EX',
 				it: 'Deluxe Pack EX',
 				'pt-br': 'Deluxe Pack EX',
-				ko: 'Deluxe Pack EX',
+				ko: "하이클래스팩 ex",
 				ja: "ハイクラスパック ex",
 				'zh-tw': '豪華包 EX'
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4b/boosters/deluxe_pack_ex/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4b/boosters/deluxe_pack_ex/logo.webp"
 			}
 		}
 	},
 
-	releaseDate: "2025-09-30"
+	releaseDate: "2025-09-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4b/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4b/logo"
+	}
 }
 
 export default set

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/262",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/262",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/262",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/262"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/262",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/262"
     },
     name: {
         en: "Cyndaquil",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "O fogo que sai de suas costas queima mais forte quando este Pokémon está com raiva. As chamas intimidam os inimigos.",
         "zh-tw": "從背上噴出的火焰會在生氣時燃燒得最強烈，令敵手大吃一驚。",
         ja: "背中から 吹き出す 炎は 怒ったときが いちばん 強く 燃え上がり 敵を 驚かせる。",
-        ko: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
+        ko: "등에서 내뿜는 불꽃은\n화났을 때 가장 강하게 타오르며\n적을 놀라게 한다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Chamuscada",
                 "zh-tw": "灼熱",
                 ja: "こがす",
-                ko: "Singe"
+                ko: "그을리기"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
                 ja: "相手のバトルポケモンをやけどにする。",
-                ko: "Your opponent's Active Pokémon is now Burned."
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }
     ],

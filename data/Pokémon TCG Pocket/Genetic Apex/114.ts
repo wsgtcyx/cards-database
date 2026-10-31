@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/114",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/114"
     },
     name: {
         en: "Clefable",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Piepi",
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
-        ja: "ピッピ"
+        ja: "ピッピ",
+        ko: "삐삐"
     },
     attacks: [{
             cost: ["Psychic"],

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/164",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/164",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/164"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/164",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/164"
     },
     name: {
         en: "Heracross",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Heracross",
         "zh-tw": "赫拉克羅斯",
         ja: "ヘラクロス",
+        ko: "헤라크로스",
     },
     illustrator: "GOSSAN",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es liebt süßen Nektar. Um den ganzen Nektar zu behalten\nselbst, schleudert es Rivalen mit seinem wertvollen Horn weg.",
         "pt-br": "Adora néctar doce. Para manter todo o néctar\npor si só, ele afasta os rivais com seu valioso chifre.",
         "zh-tw": "牠喜歡甜甜的花蜜。為了保留所有的花蜜\n它本身也用它珍貴的角把對手趕走。",
-        ja: "甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。"
+        ja: "甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。",
+        ko: "달콤한 꿀을 아주 좋아해서\n혼자 독차지하기 위해\n자랑스런 뿔을 써서 상대를 내동댕이친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Einzelner Ausfallschritt",
                 "pt-br": "Estocada única",
                 "zh-tw": "單弓步",
-                ja: "いってんづき"
+                ja: "いってんづき",
+                ko: "한곳찌르기"
             },
             damage: "40+",
             cost: ["Grass", "Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon keinen Schaden hat, verursacht dieser Angriff 40 weitere Schadenspunkte.",
                 "pt-br": "Se este Pokémon não causar danos, este ataque causará 40 danos a mais.",
                 "zh-tw": "如果這只神奇寶貝沒有受到任何傷害，則這次攻擊會造成 40 點額外傷害。",
-                ja: "このポケモンがダメージを受けていないなら、40ダメージ追加。"
+                ja: "このポケモンがダメージを受けていないなら、40ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있지 않다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

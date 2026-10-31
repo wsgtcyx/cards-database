@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/044"
     },
     name: {
         en: "Heatmor",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Heatmor",
         "zh-tw": "熔蟻獸",
         ja: "クイタラン",
+        ko: "앤티골",
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Eine Flamme dient als seine Zunge und schmilzt durch die Flamme\nharte Schale von Durant, damit Heatmor es verschlingen kann\nihr Inneres.",
         "pt-br": "Uma chama serve como sua língua, derretendo através do\ncasca dura de Durant para que Heatmor possa devorar\nsuas entranhas.",
         "zh-tw": "火焰作為它的舌頭，融化在\n杜蘭特的硬殼，以便 Heatmor 可以吞噬\n他們的內心。",
-        ja: "炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。"
+        ja: "炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。",
+        ko: "불꽃을 혀처럼 사용한다.\n아이앤트의 단단한 외골격을\n조금씩 녹여 먹어 치운다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Zungenpeitsche",
                 "pt-br": "Chicote de língua",
                 "zh-tw": "舌鞭",
-                ja: "ベロのムチ"
+                ja: "ベロのムチ",
+                ko: "혀채찍"
             },
             cost: ["Fire"],
             effect: {
@@ -58,13 +62,19 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
-                ja: "相手のベンチポケモン1匹に30ダメージ。"
+                ja: "相手のベンチポケモン1匹に30ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게 30데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

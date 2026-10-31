@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/200",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/200"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/200",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/200"
     },
     name: {
         en: "Rhydon",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Rhyhorn",
         "zh-tw": "獨角犀牛",
         ja: "サイホーン",
-        ko: "Rhyhorn"
+        ko: "뿔카노"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Megachifre",
                 "zh-tw": "超級角擊",
                 ja: "メガホーン",
-                ko: "Megahorn"
+                ko: "메가혼"
             },
             cost: [
                 "Fighting",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
                 "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
                 ja: "コインを1回投げウラなら、このワザは失敗。",
-                ko: "Flip a coin. If tails, this attack does nothing."
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "O chifre de um Rhydon é tão poderoso que pode até esmagar diamantes. Estes Pokémon batem seus chifres uns nos outros para mantê-los sempre lustrosos.",
         "zh-tw": "角的威力足以粉碎鑽石原石。會與夥伴碰撞彼此的角，藉此來打磨打磨它。",
         ja: "ダイヤモンドの 原石を 砕く 威力の ツノを 仲間同士で ぶつけあって 磨きあげている。",
-        ko: "The horn of a Rhydon is powerful enough to crush raw diamonds. These Pokémon polish their horns by bashing them together."
+        ko: "다이아몬드 원석도 부숴 버리는\n위력을 자랑하는 뿔을\n동료들과 부딪치며 단련한다."
     }
 };
 

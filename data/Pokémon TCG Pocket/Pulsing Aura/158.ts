@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/158"
     },
     name: {
         en: "Shroomish",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es Gefahr wittert, streut es Sporen von seinem Kopf, um sich zu schützen.",
         "pt-br": "Se sentir perigo, espalha esporos do topo da cabeça para se proteger.",
         "zh-tw": "如果它感覺到危險，就會從頭頂散播孢子來保護自己。",
-        ja: "危険を 感じると 頭の てっぺんから 毒の 胞子を ばらまき 身を 守る ポケモン。"
+        ja: "危険を 感じると 頭の てっぺんから 毒の 胞子を ばらまき 身を 守る ポケモン。",
+        ko: "위험을 감지하면\n정수리에서 독 포자를 뿌려\n몸을 지키는 포켓몬이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pilzspore",
                 "pt-br": "Esporos",
                 "zh-tw": "蘑菇孢子",
-                ja: "キノコのほうし"
+                ja: "キノコのほうし",
+                ko: "버섯포자"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }
     ],

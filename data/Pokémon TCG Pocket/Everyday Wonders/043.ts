@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/043"
     },
     name: {
         en: "Spiritomb",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es entstand durch die Vereinigung von 108 Geistern. Es wurde an den Seltsamen Schlüsselstein gebunden, um zu verhindern, dass es Unheil anrichtet.",
         "pt-br": "Foi formado pela união de 108 espíritos. Ele foi vinculado à Pedra Angular Estranha para impedi-lo de causar qualquer dano.",
         "zh-tw": "它是由108個武魂聯合而成。它被綁定到了奇怪的鑰石上以防止它做任何惡作劇。",
-        ja: "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。"
+        ja: "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。",
+        ko: "108개의 영혼으로 되어 있다.\n두 번 다시 나쁜 짓을 하지 못하게\n쐐기돌에 묶여 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Dunkler Schlummer",
                 "pt-br": "Sono Sombrio",
                 "zh-tw": "黑色微寐",
-                ja: "くろいまどろみ"
+                ja: "くろいまどろみ",
+                ko: "검은꿈결"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             },
             damage: 30
         }

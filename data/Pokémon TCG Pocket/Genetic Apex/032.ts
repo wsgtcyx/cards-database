@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/032",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/032"
     },
     name: {
         en: "Gogoat",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Mähikel",
         "pt-br": "Skiddo",
         "zh-tw": "坐騎小羊",
-        ja: "メェークル"
+        ja: "メェークル",
+        ko: "메이클"
     },
     attacks: [{
             cost: ["Grass", "Colorless", "Colorless"],

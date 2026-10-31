@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/101",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/101"
     },
     name: {
         en: "Mightyena",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Poochyena",
         "zh-tw": "土狼犬",
         ja: "ポチエナ",
+        ko: "포챠나",
     },
     description: {
         en: "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",

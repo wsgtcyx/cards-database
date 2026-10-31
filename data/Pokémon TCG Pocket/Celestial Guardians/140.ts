@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/140",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/140",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/140"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/140",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/140"
     },
     name: {
         en: "Oranguru",
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um 1 1, und seine Rückzugskosten erhöhen sich um 1 1.",
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 1 a mais e o seu custo de Recuo será 1 1 a mais.",
                 ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーとにげるためのエネルギーを、{C}エネルギー1個ぶん多くする。",
-                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지를 1에너지 1개만큼 많게 한다.",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지를 {C}에너지 1개만큼 많게 한다.",
                 "zh-tw": "在對手的下一個回合中，防御寶可夢的攻擊費用增加 1 {C}，並且其撤退費用增加 1 {C}。"
             }
         }],

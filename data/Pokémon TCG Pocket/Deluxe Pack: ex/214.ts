@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/214",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/214",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/214",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/214"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/214",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/214"
 	},
 	name: {
 		en: "Lucario ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Lucario-ex",
 		"pt-br": "Lucario ex",
 		"zh-tw": "路卡利歐ex",
-		ja: "ルカリオex"
+		ja: "ルカリオex",
+		ko: "루카리오 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Riolu",
 		"pt-br": "Riolu",
 		"zh-tw": "利歐路",
-		ja: "リオル"
+		ja: "リオル",
+		ko: "리오르"
 	},
 	stage: "Stage1",
 	suffix: "EX",

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/054"
     },
     name: {
         en: "Garchomp",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die beiden Fortslätze an seinem Kopf haben die Funktion eines Sensors. Mit ihnen kann es auch weit entfernte Beute aufsoüren.",
         "pt-br": "As protuberâncias na sua cabeça servem como sensores. Podem detectar até presas distantes.",
         "zh-tw": "頭上長著的２個突起物是作為感應器的用途。就連遠處獵物的狀況也能察覺。",
-        ja: "頭に ついた ２つの 突起は センサーの 役目。 遥か 先の 獲物の 様子も わかる。"
+        ja: "頭に ついた ２つの 突起は センサーの 役目。 遥か 先の 獲物の 様子も わかる。",
+        ko: "머리에 달린 2개의 돌기는\n센서 역할을 한다. 저 멀리 있는\n먹이의 모습도 알 수 있다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Rasantes Tarnen",
                 "pt-br": "Furtividade Supersônica",
                 "zh-tw": "音速隱形",
-                ja: "マッハステルス"
+                ja: "マッハステルス",
+                ko: "마하 스텔스"
             },
             effect: {
                 en: "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das Pokémon deines Gegners durch Schaden der Attacken dieses Pokémon kampfunfähig wird, verhindere während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "若對手的寶可夢因這隻寶可夢招式的傷害而昏厥了,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
-                ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "이 포켓몬의 기술의 데미지로 상대의 포켓몬이 기절했다면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Schollenbrecher",
                 "pt-br": "Aperto de Terra",
                 "zh-tw": "大地粉碎",
-                ja: "ランドクラッシュ"
+                ja: "ランドクラッシュ",
+                ko: "랜드크래시"
             },
             damage: 120
         }

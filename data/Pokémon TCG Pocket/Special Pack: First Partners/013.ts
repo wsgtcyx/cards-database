@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/013"
     },
     name: {
         en: "Snivy",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Chicote de Vinha",
                 "zh-tw": "藤鞭",
                 ja: "つるのムチ",
-                ko: "Vine Whip"
+                ko: "덩굴채찍"
             },
             cost: [
                 "Grass"
@@ -68,7 +69,7 @@ const card: Card = {
         "pt-br": "É muito inteligente e calmo. Quando exposto a muita luz solar, seus movimentos tornam-se mais rápidos.",
         "zh-tw": "非常聰明且冷靜。沐浴在陽光下越久，動作就會變得越敏捷。",
         ja: "知能が 高く とても 冷静。 太陽の 光を たっぷり 浴びると 動きが 鋭くなる。",
-        ko: "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter."
+        ko: "지능이 높고 매우 냉정하다.\n태양의 빛을 듬뿍 받으면\n움직임이 민첩해진다."
     }
 };
 

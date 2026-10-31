@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/011",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/011"
     },
     name: {
         en: "Fletchinder",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
         ja: "ヒノヤコマ",
+        ko: "불화살빈",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Fletchling",
         "zh-tw": "小箭雀",
         ja: "ヤヤコマ",
+        ko: "화살꼬빈",
     },
     description: {
         en: "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Fletchinder streut Glut ins hohe Gras\nwo sich Käfer-Pokémon verstecken könnten und\nDann fängt er sie auf, als sie herausspringen.",
         "pt-br": "Fletchinder espalha brasas na grama alta\nonde Pokémon insetos podem estar escondidos e\nentão os pega quando eles saltam.",
         "zh-tw": "弗萊欽德將餘燼撒在高高的草叢中\n蟲子寶可夢可能藏身的地方以及\n然後在他們跳出來時抓住他們。",
-        ja: "虫ポケモンが 潜んでいそうな 草むらに 火の粉を まき散らして 飛び出してきたところを 捕まえる。"
+        ja: "虫ポケモンが 潜んでいそうな 草むらに 火の粉を まき散らして 飛び出してきたところを 捕まえる。",
+        ko: "벌레포켓몬이 숨어 있을 것 같은\n풀숲에 불똥을 흩뿌려서\n튀어나오는 순간 잡아챈다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Feuerwehrflügel",
                 "pt-br": "Asa de Fogo",
                 "zh-tw": "火翼",
-                ja: "ほのおのつばさ"
+                ja: "ほのおのつばさ",
+                ko: "불꽃날개"
             },
             damage: 40,
             cost: ["Fire"]

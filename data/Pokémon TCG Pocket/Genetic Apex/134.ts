@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/134",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/134",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/134"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/134",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/134"
     },
     name: {
         en: "Swoobat",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Fleknoil",
         "pt-br": "Woobat",
         "zh-tw": "滾滾蝙蝠",
-        ja: "コロモリ"
+        ja: "コロモリ",
+        ko: "또르박쥐"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],

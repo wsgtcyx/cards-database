@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/026"
     },
     name: {
         en: "Magcargo",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Slugma",
         "zh-tw": "熔岩蟲",
         ja: "マグマッグ",
+        ko: "마그마그",
     },
     description: {
         en: "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",

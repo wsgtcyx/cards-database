@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/147",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/147",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/147"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/147",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/147"
     },
     name: {
         en: "Coalossal",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Coalossal",
         "zh-tw": "巨炭山",
         ja: "セキタンザン",
+        ko: "석탄산",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Carkol",
         "zh-tw": "大炭車",
         ja: "トロッゴン",
+        ko: "탄차곤",
     },
     description: {
         en: "It's gentle usually but fearsome when angered.\nWith a body that burns at over 2,700 degrees\nFahrenheit, it crushes foes and turns them to ash.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Normalerweise ist es sanft, aber furchterregend, wenn man wütend ist.\nMit einem Körper, der bei über 2.700 Grad brennt\nFahrenheit zermalmt Feinde und verwandelt sie in Asche.",
         "pt-br": "Geralmente é gentil, mas assustador quando está com raiva.\nCom um corpo que queima a mais de 2.700 graus\nFahrenheit, ele esmaga os inimigos e os transforma em cinzas.",
         "zh-tw": "平時很溫柔，但生氣時卻很可怕。\n身體燃燒溫度超過 2,700 度\n華氏度，它粉碎敵人並將他們化為灰燼。",
-        ja: "温厚な 気質だが 怒ると 怖い。 １５００度の 燃えあがる 体で のしかかり 焼きつくす。"
+        ja: "温厚な 気質だが 怒ると 怖い。 １５００度の 燃えあがる 体で のしかかり 焼きつくす。",
+        ko: "성질은 온화하나 화가 나면 무섭다.\n1500도의 타오르는 몸으로\n압박한 다음 불태워 버린다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kohletropfen",
                 "pt-br": "Gota de carvão",
                 "zh-tw": "煤滴",
-                ja: "せきたんおとし"
+                ja: "せきたんおとし",
+                ko: "석탄떨구기"
             },
             damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners ein {G}-Pokémon ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {G}, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍神奇寶貝是{G}神奇寶貝，則此攻擊造成的傷害增加 50 點。",
-                ja: "相手のバトルポケモンが{G}ポケモンなら、50ダメージ追加。"
+                ja: "相手のバトルポケモンが{G}ポケモンなら、50ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 {G}포켓몬이라면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 4
+    retreat: 4,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

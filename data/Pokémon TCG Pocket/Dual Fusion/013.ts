@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/013"
     },
     name: {
         en: "Genesect",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Feixe Sinalizador",
                 "zh-tw": "信號光束",
                 ja: "シグナルビーム",
-                ko: "Signal Beam"
+                ko: "시그널빔"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "將對手的戰鬥寶可夢混亂。",
                 ja: "相手のバトルポケモンをこんらんにする。",
-                ko: "Your opponent's Active Pokémon is now Confused."
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }
     ],
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "Este antigo Pokémon Inseto foi alterado pela Equipe Plasma. Eles aprimoraram o canhão nas suas costas.",
         "zh-tw": "被等離子隊改造的古代的蟲寶可夢。背上的大砲力量得到了提升。",
         ja: "プラズマ団によって 改造された 古代の むしポケモン。 背中の 大砲が パワーアップした。",
-        ko: "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back."
+        ko: "플라스마단에게 개조당한\n고대의 벌레포켓몬이다.\n등에 있는 대포의 파워가 올라갔다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/122"
     },
     name: {
         en: "Wishiwashi",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wishiwashi",
         "zh-tw": "弱丁魚",
         ja: "ヨワシ",
+        ko: "약어리",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Einzeln sind sie unglaublich schwach. Es geschieht durch Sammeln\nbis in die Schulen, dass sie in der Lage sind, Gegner zu konfrontieren.",
         "pt-br": "Individualmente, eles são incrivelmente fracos. É reunindo\nnas escolas para que sejam capazes de enfrentar adversários.",
         "zh-tw": "就個人而言，他們非常弱。是通過聚集\n進入學校，他們能夠對抗對手。",
-        ja: "１匹では とても ひ弱なため 群れることで 敵に 立ち向かう 能力を 獲得した。"
+        ja: "１匹では とても ひ弱なため 群れることで 敵に 立ち向かう 能力を 獲得した。",
+        ko: "1마리로는 너무나도 허약해서\n무리를 지어 상대에게 맞서는\n능력을 습득했다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Aufruf zur Familie",
                 "pt-br": "Ligue para a família",
                 "zh-tw": "呼叫家人",
-                ja: "なかまをよぶ"
+                ja: "なかまをよぶ",
+                ko: "동료부르기"
             },
             cost: ["Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege 1 zufälligen Wishiwashi oder Wishiwashi-Ex aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Wishiwashi ou ex Wishiwashi aleatório do seu deck no seu Banco.",
                 "zh-tw": "將 1 名隨機的 Wishiwashi 或 Wishiwashi ex 從你的牌組放到你的替補席上。",
-                ja: "自分の山札から「ヨワシ」または「ヨワシex」をランダムに1枚、ベンチに出す。"
+                ja: "自分の山札から「ヨワシ」または「ヨワシex」をランダムに1枚、ベンチに出す。",
+                ko: "자신의 덱에서 「약어리」 또는 「약어리 ex」를 랜덤으로 1장 벤치로 내보낸다."
             }
         }],
     weaknesses: [{

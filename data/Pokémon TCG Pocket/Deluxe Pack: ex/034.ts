@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/034",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/034",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/034",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/034"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/034",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/034"
 	},
 	name: {
 		en: "Servine",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Efoserp",
 		"pt-br": "Servine",
 		"zh-tw": "青藤蛇",
-		ja: "ジャノビー"
+		ja: "ジャノビー",
+		ko: "샤비"
 	},
 	illustrator: "Shigenori Negishi",
 	category: "Pokemon",
@@ -35,7 +37,8 @@ const card: Card = {
 		de: "Serpifeu",
 		"pt-br": "Snivy",
 		"zh-tw": "藤藤蛇",
-		ja: "ツタージャ"
+		ja: "ツタージャ",
+		ko: "주리비얀"
 	},
 	description: {
 		en: "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",

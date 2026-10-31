@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/026"
     },
     name: {
         en: "Ninetales",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Vulnona",
         "pt-br": "Ninetales",
         "zh-tw": "九尾",
-        ja: "キュウコン"
+        ja: "キュウコン",
+        ko: "나인테일"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Vulpix",
         "pt-br": "Vulpix",
         "zh-tw": "六尾",
-        ja: "ロコン"
+        ja: "ロコン",
+        ko: "식스테일"
     },
     description: {
         en: "It is said to live 1,000 years, and each of its tails\nis loaded with supernatural powers.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es wird gesagt, dass jeder seiner Schwänze 1.000 Jahre alt wird\nist voller übernatürlicher Kräfte.",
         "pt-br": "Diz-se que vive 1.000 anos, e cada uma de suas caudas\nestá carregado de poderes sobrenaturais.",
         "zh-tw": "據說它的壽命是1000歲，它的每條尾巴\n充滿了超自然的力量。",
-        ja: "しっぽの １本 １本に 神通力が 込められている。 １０００年 生きると 言われる。"
+        ja: "しっぽの １本 １本に 神通力が 込められている。 １０００年 生きると 言われる。",
+        ko: "꼬리 하나하나에\n신통력이 담겨 있다.\n1000년을 산다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sengender Atem",
                 "pt-br": "Hálito escaldante",
                 "zh-tw": "灼熱的呼吸",
-                ja: "しゃくねつのいぶき"
+                ja: "しゃくねつのいぶき",
+                ko: "작열하는숨결"
             },
             damage: 120,
             cost: ["Fire", "Fire", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
-                ja: "次の自分の番、このポケモンはワザが使えない。"
+                ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     weaknesses: [{

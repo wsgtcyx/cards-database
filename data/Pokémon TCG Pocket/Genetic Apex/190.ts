@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/190",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/190",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/190"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/190",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/190"
     },
     name: {
         en: "Raticate",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Rattfratz",
         "pt-br": "Rattata",
         "zh-tw": "小拉達",
-        ja: "コラッタ"
+        ja: "コラッタ",
+        ko: "꼬렛"
     },
     attacks: [{
             cost: ["Colorless"],

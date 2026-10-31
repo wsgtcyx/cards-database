@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/007"
     },
     name: {
         en: "Torchic",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "In seinem Inneren lodert ein Feuer. Es schleudert\n1 000 °C heiße Feuerbälle.",
         "pt-br": "Um fogo queima por dentro, então é muito quente abraçar. Ele lança bolas de fogo de 1.800 graus Fahrenheit.",
         "zh-tw": "裡面有一團火在燃燒，擁抱起來感覺很溫暖。它發射 1,800 華氏度的火球。",
-        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。"
+        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。",
+        ko: "체내에 불꽃이 타오르고 있어\n껴안으면 무척 따뜻하다.\n1000도의 불구슬을 날린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 20
         }

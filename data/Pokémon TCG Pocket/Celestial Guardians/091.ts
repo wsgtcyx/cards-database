@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/091",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/091"
     },
     name: {
         en: "Hariyama",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Makuhita",
         "zh-tw": "幕下力士",
         ja: "マクノシタ",
+        ko: "마크탕",
     },
     description: {
         en: "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/114"
     },
     name: {
         en: "Gholdengo ex",
@@ -21,7 +22,7 @@ const card: Card = {
         'pt-br': "Gholdengo ex",
         "zh-tw": "賽富豪ex",
         ja: "サーフゴーex",
-        ko: "타부자고"
+        ko: "타부자고 ex"
     },
     suffix: "EX",
     illustrator: "Akira Komayama",
@@ -39,6 +40,7 @@ const card: Card = {
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
         ja: "コレクレー",
+        ko: "모으령",
         pt: "Gimmighoul",
         'es-mx': "Gimmighoul"
     },
@@ -53,7 +55,8 @@ const card: Card = {
                 "de": "Ausgabenrausch",
                 "pt-br": "Corrida de gastos",
                 "zh-tw": "消費熱潮",
-                ja: "ばらまきラッシュ"
+                ja: "ばらまきラッシュ",
+                ko: "뿌리기러시"
             },
             cost: ["Metal"],
             effect: {
@@ -64,7 +67,8 @@ const card: Card = {
                 "de": "Für jede an dieses Pokémon angelegte Metal-Energie wird zufällig 1 Pokémon deines Gegners ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 40 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente para cada Energia Metal ligada a este Pokémon. Para cada vez que um Pokémon for escolhido, cause 40 de dano a ele.",
                 "zh-tw": "對手的寶可夢每附有一個金屬能量，就會隨機選出 1 隻對手的寶可夢。每選擇一隻寶可夢，就會對其造成 40 點傷害。",
-                ja: "このポケモンの{M}エネルギーの数ぶん、相手のポケモンがランダムに選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。"
+                ja: "このポケモンの{M}エネルギーの数ぶん、相手のポケモンがランダムに選ばれ、選ばれたポケモン全員に、選ばれた回数×40ダメージ。",
+                ko: "이 포켓몬의 {M}에너지의 개수만큼 상대의 포켓몬이 랜덤으로 선택되어 선택된 포켓몬 전원에게 선택된 횟수 × 40데미지를 준다."
             }
         },
     ],

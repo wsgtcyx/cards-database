@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/079",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/079"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/079",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/079"
     },
     name: {
         en: "Ribombee",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cutiefly",
         "zh-tw": "萌虻",
         ja: "アブリー",
+        ko: "에블리",
     },
     description: {
         en: "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",

@@ -161,9 +161,9 @@ function validateDecision(rawDecision, index, sources) {
 	}
 	if (decision.tokenException !== undefined) {
 		const exception = assertPlainObject(decision.tokenException, `${label}.tokenException`)
-		if (decision.entityKind !== 'card' || decision.locale !== 'ja'
+		if (decision.entityKind !== 'card' || !['ja', 'ko'].includes(decision.locale)
 			|| exception.entityId !== decision.entityId || exception.path !== decision.path || exception.locale !== decision.locale) {
-			throw new Error(`${label}.tokenException must match this Japanese card, field and locale`)
+			throw new Error(`${label}.tokenException must match this localized card, field and locale`)
 		}
 		assertNonEmptyString(exception.reason, `${label}.tokenException.reason`)
 		for (const key of ['expectedEnglishTokens', 'localizedTokens']) {

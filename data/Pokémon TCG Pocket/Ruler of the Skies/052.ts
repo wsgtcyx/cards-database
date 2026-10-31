@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/052",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/052",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/052"
     },
     name: {
         en: "Luxio",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Verbindet es seinen Schweif mit dem eines Artgenossen, können seine Krallen noch heftigere Stromstöße austeilen.",
         "pt-br": "Quando aproximam suas caudas, geram coletivamente uma eletricidade poderosa de suas garras.",
         "zh-tw": "只要與夥伴的尾巴互相\n串聯，就能將更加強大\n的電擊從爪子釋放出去。",
-        ja: "仲間と 尻尾を つなげると より 強力な 電撃を ツメから 出すことが できる。"
+        ja: "仲間と 尻尾を つなげると より 強力な 電撃を ツメから 出すことが できる。",
+        ko: "동료와 꼬리를 이으면\n더욱 강력한 전기를\n발톱에서 낼 수 있다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Zap-Kick",
                 "pt-br": "Chute Zap",
                 "zh-tw": "電氣踢",
-                ja: "エレキック"
+                ja: "エレキック",
+                ko: "일렉트릭킥"
             },
             damage: 40
         }

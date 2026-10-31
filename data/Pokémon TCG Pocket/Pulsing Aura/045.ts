@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/045"
     },
     name: {
         en: "Regice",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein gesamter Körper besteht aus Eis. Man sagt,\nes wurde während der Eiszeit unter einer dicken\nEisschicht geboren.",
         "pt-br": "O corpo deste Pokémon é feito de gelo sólido. Diz-se que Regice nasceu sob gelo espesso na era glacial.",
         "zh-tw": "全身都是由冰塊構成。\n據說牠是在冰河時期\n誕生在厚實的冰層下。",
-        ja: "全身が 氷で できている。 氷河時代に ぶ厚い 氷の 下で 生まれたと いわれている。"
+        ja: "全身が 氷で できている。 氷河時代に ぶ厚い 氷の 下で 生まれたと いわれている。",
+        ko: "전신이 얼음으로 되어 있다.\n빙하 시대에 두꺼운 얼음\n아래에서 태어났다고 전해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Energiereflexion",
                 "pt-br": "Refletir Energia",
                 "zh-tw": "能量反射",
-                ja: "エネリフレクト"
+                ja: "エネリフレクト",
+                ko: "에너지 리플렉트"
             },
             effect: {
                 en: "Move 2 random Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Verschiebe 2 zufällige Energien von diesem Pokémon auf 1 deiner Bank-Pokémon.",
                 "pt-br": "Mova 2 Energias aleatórias deste Pokémon para 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將該寶可夢中的 2 個隨機能量移到你後備的 1 個寶可夢上。",
-                ja: "このポケモンからエネルギーをランダムに2個、ベンチポケモン1匹につけ替える。"
+                ja: "このポケモンからエネルギーをランダムに2個、ベンチポケモン1匹につけ替える。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 2개 벤치 포켓몬 1마리에게 바꿔 붙인다."
             },
             damage: 70
         }

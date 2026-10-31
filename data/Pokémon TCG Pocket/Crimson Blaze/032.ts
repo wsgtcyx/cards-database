@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/032",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/032"
     },
     name: {
         en: "Solosis",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Monozyto",
         "pt-br": "Solosis",
         "zh-tw": "單卵細胞球",
-        ja: "ユニラン"
+        ja: "ユニラン",
+        ko: "유니란"
     },
     illustrator: "osare",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Viele sagen, dass dies eine spezielle Flüssigkeit ist\nDer Körper des Pokémon würde es ihm ermöglichen, darin zu überleben\ndas Vakuum des Weltraums.",
         "pt-br": "Muitos dizem que o líquido especial que cobre este\nO corpo do Pokémon permitiria que ele sobrevivesse em\no vácuo do espaço.",
         "zh-tw": "許多人說覆蓋此的特殊液體\n神奇寶貝的身體可以讓它生存\n太空的真空。",
-        ja: "特殊な 液体に 体を 包んでいるので 宇宙でも 生きられるとも いわれている。"
+        ja: "特殊な 液体に 体を 包んでいるので 宇宙でも 生きられるとも いわれている。",
+        ko: "특수한 액체로 몸을\n둘러싸고 있어 우주에서도\n살 수 있다고 전해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ausrollen",
                 "pt-br": "Sair da cama",
                 "zh-tw": "滾動",
-                ja: "ころがる"
+                ja: "ころがる",
+                ko: "구르기"
             },
             damage: 20,
             cost: ["Psychic"]

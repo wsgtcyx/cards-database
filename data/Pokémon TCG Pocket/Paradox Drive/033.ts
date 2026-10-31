@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/033"
     },
     name: {
         en: "Garganacl",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Viele Pokémon versammeln sich um Saltigant und hoffen, das mineralreiche Salz zu lecken.",
         "pt-br": "Muitos Pokémon se reúnem em torno de Garganacl, na esperança de lamber seu sal rico em minerais.",
         "zh-tw": "許多寶可夢聚集在 鹽石巨靈 周圍，希望舔食其富含礦物質的鹽。",
-        ja: "ミネラル豊富な 塩を 舐めたくて キョジオーンの まわりに たくさんの ポケモンが 集まってくる。"
+        ja: "ミネラル豊富な 塩を 舐めたくて キョジオーンの まわりに たくさんの ポケモンが 集まってくる。",
+        ko: "미네랄이 풍부한 소금을 핥기 위해\n콜로솔트의 주위에는\n수많은 포켓몬들이 모여든다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Gesegnetes Salz",
                 "pt-br": "Sal Abençoado",
                 "zh-tw": "恩澤之鹽",
-                ja: "めぐみのしお"
+                ja: "めぐみのしお",
+                ko: "은혜의 소금"
             },
             effect: {
                 en: "During Pokémon Checkup, heal 10 damage from each of your Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Heile während des Pokémon-Checks 10 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Durante o Pokémon Checkup, cure 10 pontos de dano de cada um dos seus Pokémon.",
                 "zh-tw": "在寶可夢檢查期間，每隻寶可夢治療 10 點傷害。",
-                ja: "このポケモンがいるかぎり、ポケモンチェックのたび、自分のポケモン全員のHPを10回復。"
+                ja: "このポケモンがいるかぎり、ポケモンチェックのたび、自分のポケモン全員のHPを10回復。",
+                ko: "이 포켓몬이 있는 한, 포켓몬 체크 때마다 자신의 포켓몬 전원의 HP를 10회복."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Schollenbrecher",
                 "pt-br": "Aperto de Terra",
                 "zh-tw": "大地粉碎",
-                ja: "ランドクラッシュ"
+                ja: "ランドクラッシュ",
+                ko: "랜드크래시"
             },
             damage: 90
         }

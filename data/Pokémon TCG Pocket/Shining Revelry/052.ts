@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/052"
     },
     name: {
         en: "Tinkatink",

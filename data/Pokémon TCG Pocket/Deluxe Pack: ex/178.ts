@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/178",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/178",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/178",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/178"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/178",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/178"
 	},
 	name: {
 		en: "Oricorio",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Choreogel",
 		"pt-br": "Oricorio",
 		"zh-tw": "花舞鳥",
-		ja: "オドリドリ"
+		ja: "オドリドリ",
+		ko: "춤추새"
 	},
 	illustrator: "Jerky",
 	rarity: "Two Diamond",

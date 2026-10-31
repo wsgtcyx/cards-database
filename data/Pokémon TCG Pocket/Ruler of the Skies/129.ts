@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/129",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/129",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/129",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/129"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/129",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/129"
     },
     name: {
         en: "Rattata",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Ein weitverbreitetes Pokémon, das nicht ganz\nungefährlich ist. Selbst hartes Holz zerkleinert\nes mit seinen scharfen Nagezähnen mühelos.",
         "zh-tw": "雖然是常見的寶可夢，但還是要小心。\n銳利的門牙十分堅硬，\n就連木材也能輕易咬斷。",
         "pt-br": "Este Pokémon é comum, mas perigoso. Seus incisivos afiados podem cortar madeiras resistentes com facilidade.",
-        ja: "ありふれた ポケモンだが 注意。 鋭い 前歯は 堅い 材木さえ 簡単に へしおる。"
+        ja: "ありふれた ポケモンだが 注意。 鋭い 前歯は 堅い 材木さえ 簡単に へしおる。",
+        ko: "흔한 포켓몬이지만 주의해야 한다.\n날카로운 앞니는 단단한 나무도\n간단하게 부러뜨린다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Überraschungsangriff",
                 "pt-br": "Ataque Surpresa",
                 "zh-tw": "偷襲",
-                ja: "ふいをつく"
+                ja: "ふいをつく",
+                ko: "허찌르기"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
                 "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 40
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/286",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/286",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/286",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/286"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/286",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/286"
     },
     name: {
         en: "Mega Altaria ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mega Altaria ex",
         "zh-tw": "超級七夕青鳥ex",
         ja: "メガチルタリスex",
+        ko: "메가파비코리 ex",
     },
     illustrator: "Susumu Maeya",
     rarity: "Three Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
         ja: "チルット",
+        ko: "파비코",
     },
     description: {
         en: "On sunny days, it flies freely through the sky and\nblends into the clouds. It sings in a beautiful\nsoprano.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "An sonnigen Tagen fliegt es frei durch den Himmel und\nverschmilzt mit den Wolken. Es singt wunderschön\nSopran.",
         "pt-br": "Em dias ensolarados, ele voa livremente pelo céu e\nse mistura com as nuvens. Ele canta de uma forma linda\nsoprano.",
         "zh-tw": "陽光明媚的日子裡，它在天空中自由自在地飛翔，\n融入雲彩。它用優美的歌聲歌唱\n女高音。",
-        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。"
+        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。",
+        ko: "녹아내릴 것만 같은 촉감의 털은\n단 몇 가닥으로 덤프트럭을\n매달아 올릴 수 있을 정도로 튼튼하다."
     },
     stage: "Stage1",
     suffix: "EX",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Mega Harmonie",
                 "pt-br": "Mega Harmonia",
                 "zh-tw": "超級和諧",
-                ja: "メガハーモニー"
+                ja: "メガハーモニー",
+                ko: "메가하모니"
             },
             damage: "40+",
             cost: ["Psychic", "Psychic"],
@@ -70,13 +75,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 danos a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 30 點額外傷害。",
-                ja: "自分のベンチポケモンの数×30ダメージ追加。"
+                ja: "自分のベンチポケモンの数×30ダメージ追加。",
+                ko: "자신의 벤치 포켓몬의 수 × 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

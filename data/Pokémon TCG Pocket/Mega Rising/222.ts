@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/222",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/222",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/222",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/222"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/222",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/222"
     },
     name: {
         en: "Hala",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Hala",
         "pt-br": "Pandam",
         "zh-tw": "哈拉",
-        ja: "ハラ"
+        ja: "ハラ",
+        ko: "할라"
     },
     illustrator: "Teeziro",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Wenn Ihr Hariyama oder Crabominable im nächsten Zug Ihres Gegners durch den Schaden eines Angriffs kampfunfähig gemacht würde, wird er nicht kampfunfähig gemacht und seine verbleibenden HP betragen 10.",
         "pt-br": "Durante o próximo turno do seu oponente, se seu Hariyama ou Crabominable for nocauteado pelo dano de um ataque, ele não será nocauteado e seu HP restante se tornará 10.",
         "zh-tw": "在對手的下一個回合中，如果你的張山或螃蟹因攻擊傷害而被擊倒，則它不會被擊倒，並且其剩餘生命值將變為 10。",
-        ja: "次の相手の番、自分の「ハリテヤマ」「ケケンカニ」が、ワザのダメージを受けてきぜつするとき、そのポケモンはきぜつせず、残りHPが10の状態で場に残る。"
+        ja: "次の相手の番、自分の「ハリテヤマ」「ケケンカニ」が、ワザのダメージを受けてきぜつするとき、そのポケモンはきぜつせず、残りHPが10の状態で場に残る。",
+        ko: "상대의 다음 차례에 자신의 「하리뭉」「모단단게」가 기술의 데미지를 받아 기절할 때 그 포켓몬은 기절하지 않고 남은 HP가 10인 상태로 필드에 남는다."
     },
-    trainerType: "Supporter"
+    trainerType: "Supporter",
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

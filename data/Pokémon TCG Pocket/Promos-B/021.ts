@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/021"
     },
     name: {
         en: "Onix",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet.",
         "pt-br": "Ele rapidamente perfura o solo a 80 km/h, contorcendo-se e torcendo seu corpo maciço e robusto.",
         "zh-tw": "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。",
-        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。"
+        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。",
+        ko: "크고 튼튼한 몸을\n뒤틀고 꼬아서 시속 80km로\n힘차게 땅을 파나간다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schwanzschmetterer",
                 "pt-br": "Pancada de Cauda",
                 "zh-tw": "長尾擊碎",
-                ja: "テールスマッシュ"
+                ja: "テールスマッシュ",
+                ko: "테일스매시"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 90
         }

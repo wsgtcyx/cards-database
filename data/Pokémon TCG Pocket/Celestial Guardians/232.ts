@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/232",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/232",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/232",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/232"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/232",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/232"
     },
     name: {
         en: "Blastoise ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
         ja: "カメール",
+        ko: "어니부기",
     },
     stage: "Stage2",
     suffix: "EX",

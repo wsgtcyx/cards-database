@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/022"
     },
     name: {
         en: "Scorbunny",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
                 ja: "ラビットジャンプ",
-                ko: "Rabbit Jumping"
+                ko: "래빗점프"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
                 ja: "コインを2回投げ、オモテの数×20ダメージ。",
-                ko: "Flip 2 coins. This attack does 20 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Quando seu corpo se aquece, Scorbunny pode usar toda a capacidade do seu poder. É por isso que faz exercícios de aquecimento.",
         "zh-tw": "當全身的溫度提升後，就會發揮出真正的力量。因此會為此做熱身運動。",
         ja: "全身が 温まることで 本来の パワーを 発揮できる。 そのため 準備運動を する。",
-        ko: "Once its body has heated up, Scorbunny can use the full extent of its power. That’s why it does warm-up exercises."
+        ko: "전신이 따뜻해지면\n본래의 힘을 발휘할 수 있다.\n그러기 위해 준비 운동을 한다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/183",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/183",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/183",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/183"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/183",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/183"
     },
     name: {
         en: "Crabominable ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
         ja: "マケンカニ",
+        ko: "오기지게",
     },
     stage: "Stage1",
     suffix: "EX",

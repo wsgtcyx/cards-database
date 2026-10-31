@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/137",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/137",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/137",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/137"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/137",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/137"
 	},
 	name: {
 		en: "Magnezone",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Magnezone",
 		"pt-br": "Magnezone",
 		"zh-tw": "自爆磁怪",
-		ja: "ジバコイル"
+		ja: "ジバコイル",
+		ko: "자포코일"
 	},
 	illustrator: "Yoshinobu Saito",
 	rarity: "Three Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Magneton",
 		"pt-br": "Magneton",
 		"zh-tw": "三合一磁怪",
-		ja: "レアコイル"
+		ja: "レアコイル",
+		ko: "레어코일"
 	},
 	description: {
 		en: "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",

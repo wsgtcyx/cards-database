@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/188",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/188",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/188",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/188"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/188",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/188"
     },
     name: {
         en: "Zigzagoon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zigzagoon",
         "zh-tw": "蛇紋熊",
         ja: "ジグザグマ",
+        ko: "지그제구리",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein Pokémon mit großer Neugier. Es zeigt eine\nInteresse an allem, also geht es immer im Zickzack.",
         "pt-br": "Um Pokémon com muita curiosidade. Ele mostra um\ninteresse por tudo, então sempre ziguezagueia.",
         "zh-tw": "好奇心豐富的寶可夢。它顯示了一個\n對一切事物都感興趣，所以它總是曲折的。",
-        ja: "好奇心 旺盛な ポケモン。 なににでも 興味を 持つので いつも ジグザグに 歩いている。"
+        ja: "好奇心 旺盛な ポケモン。 なににでも 興味を 持つので いつも ジグザグに 歩いている。",
+        ko: "호기심이 왕성한 포켓몬.\n무엇이든지 흥미를 가지므로\n항상 지그재그로 걷고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Colorless"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

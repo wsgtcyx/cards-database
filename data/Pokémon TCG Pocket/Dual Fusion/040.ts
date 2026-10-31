@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/040"
     },
     name: {
         en: "Froakie",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
                 ja: "はたく",
-                ko: "Pound"
+                ko: "막치기"
             },
             cost: [
                 "Water"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Seu ar alegre e despreocupado é uma farsa para enganar seus oponentes. De repente, abandona a fachada e os atordoa com sua velocidade ofuscante.",
         "zh-tw": "看起來悠哉的樣子其實是欺騙敵人的演技。會冷不防地用迅雷不及掩耳的速度壓制敵人。",
         ja: "呑気に 見えるが 敵を 欺く 演技。 一転 目にも留まらない スピードで 敵を 圧倒する。",
-        ko: "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed."
+        ko: "태평해 보이는 것은\n적을 속이기 위한 연기다.\n눈에 보이지 않는 스피드로 적을 압도한다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/131",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/131",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/131"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/131",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/131"
     },
     name: {
         en: "Ambipom",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
         ja: "エイパム",
+        ko: "에이팜",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.",

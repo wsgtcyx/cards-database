@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/002"
     },
     name: {
         en: "Ivysaur",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
         ja: "フシギダネ",
-        ko: "Bulbasaur"
+        ko: "이상해씨"
     },
     description: {
         en: "The more sunlight Ivysaur bathes in, the more\nstrength wells up within it, allowing the bud\non its back to grow larger.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Quanto mais banho de sol Ivysaur toma, mais força brota em seu interior, fazendo com que o botão nas suas costas cresça.",
         "zh-tw": "沐浴在陽光下越久，身體內會湧出越多力量，背上的花苞也會漸漸成長。",
         ja: "太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。",
-        ko: "The more sunlight Ivysaur bathes in, the more\nstrength wells up within it, allowing the bud\non its back to grow larger."
+        ko: "햇빛을 받을수록\n몸에 힘이 솟아나\n등의 꽃봉오리가 자라난다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Síntese",
                 "zh-tw": "光合作用",
                 ja: "こうごうせい",
-                ko: "Synthesis"
+                ko: "광합성"
             },
             cost: [
                 "Grass"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Pegue 2 Energias {G} da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出2個{G}能量,附於這隻寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{G}エネルギーを2個出し、このポケモンにつける。",
-                ko: "Take 2 {G} Energy from your Energy Zone and attach it to this Pokémon."
+                ko: "자신의 에너지존에서 {G}에너지를 2개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

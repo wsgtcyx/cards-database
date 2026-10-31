@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/068",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/068"
     },
     name: {
         en: "Frillish",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
         ja: "プルリル",
+        ko: "탱그릴",
     },
     illustrator: "Apios",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Legende nach sollen die Bewohner eines versunkenen\nDie antike Stadt hat sich in diese Pokémon verwandelt.",
         "pt-br": "Diz a lenda que os moradores de um local submerso\ncidade antiga se transformou nesses Pokémon.",
         "zh-tw": "傳說，沉沒的居民\n古城變成了這些神奇寶貝。",
-        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。"
+        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。",
+        ko: "해저에 가라앉은 고대 도시의\n주민이 포켓몬이 되었다는\n전설이 남아 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 20,
             cost: ["Water"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/006",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/006",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/006",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/006"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/006",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/006"
 	},
 	name: {
 		en: "Weedle",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Hornliu",
 		"pt-br": "Weedle",
 		"zh-tw": "獨角蟲",
-		ja: "ビードル"
+		ja: "ビードル",
+		ko: "뿔충이"
 	},
 	illustrator: "Akira Komayama",
 	rarity: "One Diamond",

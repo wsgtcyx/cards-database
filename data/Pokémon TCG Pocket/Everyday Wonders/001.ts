@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/001"
     },
     name: {
         en: "Caterpie",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat Saugnäpfe an den Beinchen, mit denen es\nmühelos Steigungen und Mauern erklimmen kann.",
         "pt-br": "Seus pés curtos possuem ventosas nas pontas que lhe permitem escalar encostas e paredes incansavelmente.",
         "zh-tw": "別看牠的腳很短，\n因為是吸盤，所以無論是\n斜坡還是牆壁都能輕鬆前進。",
-        ja: "脚は 短いが 吸盤に なっているので 坂でも 壁でも くたびれることなく 進んでいく。"
+        ja: "脚は 短いが 吸盤に なっているので 坂でも 壁でも くたびれることなく 進んでいく。",
+        ko: "다리는 짧지만 빨판으로\n되어 있어 비탈길이나 벽에서도\n지치지 않고 나아간다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schnelles Wachstum",
                 "pt-br": "Crescimento rápido",
                 "zh-tw": "成長期",
-                ja: "のびざかり"
+                ja: "のびざかり",
+                ko: "자라는 시기"
             },
             effect: {
                 en: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon am Ende des Zuges deines Gegners an der aktiven Stelle befindet, lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln.",
                 "pt-br": "No final do turno do seu oponente, se este Pokémon estiver no Ponto Ativo, coloque uma carta aleatória do seu baralho que evolui deste Pokémon neste Pokémon para evoluí-lo.",
                 "zh-tw": "在對手的回合結束時，如果這隻寶可夢位於活躍位置，則從你的牌組中隨機放置一張由該寶可夢進化的卡牌到該寶可夢上以使其進化。",
-                ja: "相手の番の終わりに、このポケモンがバトル場にいるなら、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。"
+                ja: "相手の番の終わりに、このポケモンがバトル場にいるなら、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
+                ko: "상대의 차례 마지막에 이 포켓몬이 배틀필드에 있다면 이 포켓몬에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 이 포켓몬에게 올려서 진화시킨다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Haken",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
-                ja: "ひっかける"
+                ja: "ひっかける",
+                ko: "걸기"
             },
             damage: 10
         }

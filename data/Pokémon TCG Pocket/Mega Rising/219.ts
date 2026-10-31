@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/219",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/219",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/219",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/219"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/219",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/219"
     },
     name: {
         en: "Heavy Helmet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Capacete Compacto",
         "zh-tw": "沉重頭盔",
         ja: "ヘビーメット",
+        ko: "헤비멧",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Wenn das Pokémon, an das diese Karte angelegt ist, Rückzugskosten von 3 oder mehr hat, erleidet es −20 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Se o Pokémon ao qual esta carta está ligada tiver um Custo de Recuo igual ou superior a 3, ele sofre -20 de dano dos ataques dos Pokémon do seu oponente.",
         "zh-tw": "這張卡所附著的寶可夢的撤退費用為3以上的場合，對方寶可夢的攻擊造成-20點傷害。",
-        ja: "このカードをつけているにげるためのエネルギーが3個以上のポケモンが、相手のポケモンから受けるワザのダメージを-20する。"
+        ja: "このカードをつけているにげるためのエネルギーが3個以上のポケモンが、相手のポケモンから受けるワザのダメージを-20する。",
+        ko: "이 카드를 붙이고 있는 후퇴에 필요한 에너지가 3개 이상인 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지를 -20한다."
     },
-    trainerType: "Tool"
+    trainerType: "Tool",
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

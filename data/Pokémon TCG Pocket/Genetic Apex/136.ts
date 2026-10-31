@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/136",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/136"
     },
     name: {
         en: "Golurk",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Golbit",
         "pt-br": "Golett",
         "zh-tw": "泥偶小人",
-        ja: "ゴビット"
+        ja: "ゴビット",
+        ko: "골비람"
     },
     attacks: [{
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],

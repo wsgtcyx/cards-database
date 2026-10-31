@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/165",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/165",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/165"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/165",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/165"
     },
     name: {
         en: "Meowstic",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Wenn Psiaugon kontinuierlich seine starke psychische Energie ausstrahlt, wird es seinen eigenen Körper schädigen.",
         "pt-br": "Se Meowstic emitir continuamente sua poderosa energia psíquica, danificará seu próprio corpo.",
         "zh-tw": "如果超能妙喵持續釋放出強大的精神能量，就會對自己的身體造成傷害。",
-        ja: "強力な サイコパワーを 出し続けていると ニャオニクスの 肉体にも ダメージが およぶ。"
+        ja: "強力な サイコパワーを 出し続けていると ニャオニクスの 肉体にも ダメージが およぶ。",
+        ko: "강력한 사이코 파워를\n계속해서 사용하면\n냐오닉스의 육체에도 손상이 간다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Verwirrende Ohren",
                 "pt-br": "Orelhas desconcertantes",
                 "zh-tw": "惑耳",
-                ja: "まどわすみみ"
+                ja: "まどわすみみ",
+                ko: "혼란시키는 귀"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Confused.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du das aktive Pokémon deines Gegners verwirren.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Local Ativo, você poderá confundir o Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以讓對手的活躍寶可夢陷入混亂。",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをこんらんにする。"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをこんらんにする。",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
                 "zh-tw": "精神射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 40
         }

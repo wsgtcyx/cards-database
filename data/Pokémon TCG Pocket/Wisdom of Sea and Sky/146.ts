@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/146",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/146",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/146"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/146",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/146"
     },
     name: {
         en: "Ursaring",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ursaring",
         "zh-tw": "圈圈熊",
         ja: "リングマ",
+        ko: "링곰",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
         ja: "ヒメグマ",
+        ko: "깜지곰",
     },
     description: {
         en: "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Normalerweise trägt es einen verhärteten Gesichtsausdruck, aber wann\nEs ist das Lecken von Honig – was es liebt – die Freude daran\nfühlt, wird ein breites Grinsen auslösen.",
         "pt-br": "Geralmente usa uma expressão endurecida, mas quando\nestá lambendo mel - que adora - a alegria que\nsente fará com que ele abra um amplo sorriso.",
         "zh-tw": "平時表情都比較冷酷，但當\n它正在舔蜜——它所愛的——它的快樂\n感覺會讓它咧開嘴笑。",
-        ja: "不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。"
+        ja: "不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。",
+        ko: "다부진 표정을 하고 있지만,\n좋아하는 꿀을 핥을 때는\n기쁜 나머지 입가가 절로 느슨해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwingen Sie herum",
                 "pt-br": "Balançar",
                 "zh-tw": "左右搖擺",
-                ja: "ふりまわす"
+                ja: "ふりまわす",
+                ko: "휘두르기"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 20 danos para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 20 點額外傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ追加。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ追加。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

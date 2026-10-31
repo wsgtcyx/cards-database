@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/296",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/296",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/296",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/296"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/296",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/296"
     },
     name: {
         en: "Poliwhirl",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
         ja: "ニョロゾ",
+        ko: "슈륙챙이",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
         ja: "ニョロモ",
+        ko: "발챙이",
     },
     description: {
         en: "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl's has been used in place of\nlullabies to get children to go to sleep.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das Starren auf den Wirbel auf seinem Bauch führt zu Schläfrigkeit.\nDiese Eigenschaft von Poliwhirl wurde anstelle von verwendet\nSchlaflieder, um Kinder zum Einschlafen zu bringen.",
         "pt-br": "Olhar para o redemoinho em sua barriga causa sonolência.\nEsta característica de Poliwhirl tem sido usada no lugar de\ncanções de ninar para fazer as crianças dormirem.",
         "zh-tw": "盯著腹部的漩渦會讓人昏昏欲睡。\nPoliwhirl 的這一特性已被用來代替\n搖籃曲讓孩子們入睡。",
-        ja: "お腹の 渦は ずっと 見ていると 眠くなる。 子守唄がわりに 子どもを 寝つかせるのにも 使う。"
+        ja: "お腹の 渦は ずっと 見ていると 眠くなる。 子守唄がわりに 子どもを 寝つかせるのにも 使う。",
+        ko: "배의 소용돌이를 계속 보다 보면\n잠이 온다. 자장가 대용으로\n아이를 재울 때도 사용한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Knöchelschlag",
                 "pt-br": "Soco de Dedo",
                 "zh-tw": "指節拳",
-                ja: "げんこつ"
+                ja: "げんこつ",
+                ko: "꿀밤"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

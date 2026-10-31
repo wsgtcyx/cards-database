@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/131",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/131",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/131"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/131",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/131"
     },
     name: {
         en: "Kirlia",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
-        ja: "ラルトス"
+        ja: "ラルトス",
+        ko: "랄토스"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],

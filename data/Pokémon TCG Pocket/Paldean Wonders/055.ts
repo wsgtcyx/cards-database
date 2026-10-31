@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/055"
     },
     name: {
         en: "Mankey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
         ja: "マンキー",
+        ko: "망키",
         pt: "Mankey"
     },
     illustrator: "nagimiso",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Es ist extrem schnell wütend. Es könnte in einem Moment fügsam sein und im nächsten Moment um sich schlagen.",
         "pt-br": "É extremamente rápido ficar com raiva. Poderia ser dócil em um momento e se debater no instante seguinte.",
         "zh-tw": "它非常容易生氣。它可能在某一時刻還很溫順，但下一秒就會猛烈地攻擊。",
-        ja: "普段は 機嫌が 良くても ちょっとしたことで いきなり 暴れだすから 怖いのだ。"
+        ja: "普段は 機嫌が 良くても ちょっとしたことで いきなり 暴れだすから 怖いのだ。",
+        ko: "평소에는 기분이 좋다가도\n사소한 일로 갑자기\n날뛰기 때문에 무섭다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "狂怒橫掃",
                 ja: "みだれひっかき",
+                ko: "마구할퀴기",
                 'es-mx': "Garras Furiosas",
                 pt: "Golpes de Fúria"
             },
@@ -65,6 +69,7 @@ const card: Card = {
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。",
                 ja: "コインを3回投げ、オモテの数×10ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다.",
                 pt: "Jogue 3 moedas. Este ataque causa 10 pontos de dano para cada cara.",
                 'es-mx': "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
             },

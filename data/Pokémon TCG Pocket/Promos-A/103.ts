@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/103",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/103",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/103",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/103"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/103",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/103"
 	},
 	name: {
 		en: "Poliwag",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Quapsel",
 		"pt-br": "Poliwag",
 		"zh-tw": "蚊香蝌蚪",
-		ja: "ニョロモ"
+		ja: "ニョロモ",
+		ko: "발챙이"
 	},
 	illustrator: "MAHOU",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Für Poliwag ist Schwimmen einfacher als Gehen.\nDas Wirbelmuster auf seinem Bauch ist tatsächlich ein Teil davon\nDie Innereien des Pokémon sind durch die Haut sichtbar.",
 		"pt-br": "Para Poliwag, nadar é mais fácil do que caminhar.\nO padrão de redemoinho em sua barriga é na verdade parte\nas entranhas do Pokémon aparecendo através da pele.",
 		"zh-tw": "對於 Poliwag 來說，游泳比走路更容易。\n它腹部的漩渦圖案實際上是\n神奇寶貝的內臟透過皮膚顯現出來。",
-		ja: "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。"
+		ja: "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。",
+		ko: "걷기보다 헤엄치기가 특기다.\n배의 소용돌이 모양은\n내장의 일부가 비쳐 보이는 것이다."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "Überraschungsangriff",
 				"pt-br": "Ataque surpresa",
 				"zh-tw": "偷襲",
-				ja: "ふいをつく"
+				ja: "ふいをつく",
+				ko: "허찌르기"
 			},
 			damage: 40,
 			cost: ["Colorless"],
@@ -61,7 +65,8 @@ const card: Card = {
 				de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
 				"pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
 				"zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-				ja: "コインを1回投げウラなら、このワザは失敗。"
+				ja: "コインを1回投げウラなら、このワザは失敗。",
+				ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
 			}
 		}
 	],

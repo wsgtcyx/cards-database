@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/085",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/085"
     },
     name: {
         en: "Roggenrola",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kiesling",
         "pt-br": "Roggenrola",
         "zh-tw": "石丸子",
-        ja: "ダンゴロ"
+        ja: "ダンゴロ",
+        ko: "단굴"
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es ein Geräusch erkennt, beginnt es sich zu bewegen.\nDer darin enthaltene Energiekern macht dieses Pokémon aus\nleicht warm im Griff.",
         "pt-br": "Ao detectar um ruído, ele começa a se mover.\nO núcleo de energia dentro dele faz deste Pokémon\nligeiramente quente ao toque.",
         "zh-tw": "當它檢測到噪音時，它就會開始移動。\n其內部的能量核心使這款神奇寶貝\n摸起來有點溫暖。",
-        ja: "音に 反応し 動きだす。 エネルギーコアの 影響で 触ると すこし 温かい。"
+        ja: "音に 反応し 動きだす。 エネルギーコアの 影響で 触ると すこし 温かい。",
+        ko: "소리에 반응해 움직인다.\n에너지 코어의 영향으로\n만지면 조금 따듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlammklatsch",
                 "pt-br": "Tapa de lama",
                 "zh-tw": "拍泥",
-                ja: "どろかけ"
+                ja: "どろかけ",
+                ko: "진흙뿌리기"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

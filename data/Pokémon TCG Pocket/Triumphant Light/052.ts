@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/052"
     },
     name: {
         en: "Toxicroak",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Croagunk",
         "zh-tw": "不良蛙",
         ja: "グレッグル",
+        ko: "삐딱구리",
     },
     description: {
         en: "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",

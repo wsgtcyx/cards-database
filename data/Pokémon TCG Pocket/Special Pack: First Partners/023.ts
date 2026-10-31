@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/023"
     },
     name: {
         en: "Scorbunny",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
                 ja: "にどげり",
-                ko: "Double Kick"
+                ko: "두번차기"
             },
             cost: [
                 "Colorless",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×40點傷害。",
                 ja: "コインを2回投げ、オモテの数×40ダメージ。",
-                ko: "Flip 2 coins. This attack does 40 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
             }
         }
     ],
@@ -80,7 +81,7 @@ const card: Card = {
         "pt-br": "Quando este Pokémon está em movimento, uma energia flamejante atravessa o seu corpo, preparando-o para batalhar a todo vapor.",
         "zh-tw": "不斷奔跑使體溫升高後，火之能量會在牠體內循環，促使牠發揮出真正的力量。",
         ja: "走りまわって 体温を 上げると 炎エネルギーが 体を 巡り 本来の 力を 発揮できる。",
-        ko: "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power."
+        ko: "뛰어다니며 체온을 높이면\n불꽃 에너지가 몸 안에 맴돌아\n본래의 힘을 발휘할 수 있다."
     }
 };
 

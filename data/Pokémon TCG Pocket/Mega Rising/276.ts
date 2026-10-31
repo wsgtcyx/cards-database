@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/276",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/276",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/276",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/276"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/276",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/276"
     },
     name: {
         en: "Jolteon ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jolteon ex",
         "zh-tw": "雷伊布ex",
         ja: "サンダースex",
+        ko: "쥬피썬더 ex",
     },
     illustrator: "kodama",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Elektromagnetische Wand",
                 "pt-br": "Parede Eletromagnética",
                 "zh-tw": "電磁牆",
-                ja: "でんじウォール"
+                ja: "でんじウォール",
+                ko: "전자벽"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, füge deinem Gegner jedes Mal, wenn er eine Energie aus seiner Energiezone an eines seiner Pokémon anlegt, diesem Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, sempre que seu oponente ligar uma Energia da Zona de Energia dele a 1 de seus Pokémon, cause 20 de dano a esse Pokémon.",
                 "zh-tw": "只要這只神奇寶貝在活躍點，每當你的對手將能量區中的能量附加到他們的一隻神奇寶貝上時，就會對該神奇寶貝造成 20 點傷害。",
-                ja: "このポケモンがバトル場にいるかぎり、相手はエネルギーゾーンからポケモンにエネルギーをつけるたび、そのポケモンに20ダメージ。"
+                ja: "このポケモンがバトル場にいるかぎり、相手はエネルギーゾーンからポケモンにエネルギーをつけるたび、そのポケモンに20ダメージ。",
+                ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 에너지존에서 포켓몬에게 에너지를 붙일 때마다 그 포켓몬에게 20데미지를 준다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Mach Bolt",
                 "pt-br": "Parafuso Mach",
                 "zh-tw": "馬赫螺栓",
-                ja: "マッハボルト"
+                ja: "マッハボルト",
+                ko: "마하볼트"
             },
             damage: 80,
             cost: ["Lightning", "Lightning"]
@@ -80,6 +86,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

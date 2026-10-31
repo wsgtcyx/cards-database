@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/001",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/001"
     },
     name: {
         en: "Bulbasaur",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
-        ja: "フシギダネ"
+        ja: "フシギダネ",
+        ko: "이상해씨"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Solange es jung ist, nutzt es die vorhandenen Nährstoffe\nim Samen auf seinem Rücken gespeichert, um zu wachsen.",
         "pt-br": "Embora seja jovem, utiliza os nutrientes que são\narmazenado na semente em suas costas para crescer.",
         "zh-tw": "當它還年輕的時候，它會利用\n儲存在其背上的種子中以便生長。",
-        ja: "生まれて しばらくの あいだ 背中の タネに つまった 栄養を とって 育つ。"
+        ja: "生まれて しばらくの あいだ 背中の タネに つまった 栄養を とって 育つ。",
+        ko: "태어나서 얼마 동안\n등의 씨앗에 담긴\n영양을 섭취하며 자란다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Grass"]

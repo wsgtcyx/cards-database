@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/127",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/127",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/127"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/127",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/127"
     },
     name: {
         en: "Kommo-o",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Hakamo-o",
         "zh-tw": "鱗甲龍",
         ja: "ジャランゴ",
+        ko: "짜랑고우",
     },
     description: {
         en: "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",

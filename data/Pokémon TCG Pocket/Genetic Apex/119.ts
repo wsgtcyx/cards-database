@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/119",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/119"
     },
     name: {
         en: "Slowbro",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Flegmon",
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸",
-        ja: "ヤドン"
+        ja: "ヤドン",
+        ko: "야돈"
     },
     attacks: [{
             cost: ["Psychic", "Psychic", "Colorless"],

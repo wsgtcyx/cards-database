@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/034"
     },
     name: {
         en: "Frigibax",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Frigibax",
         "zh-tw": "涼脊龍",
         ja: "セビエ",
+        ko: "드니차",
         pt: "Frigibax"
     },
     illustrator: "AKIRA EGAWA",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Dieses Pokémon lebt in Wäldern und felsigen Gebieten. Mit der Kraft seiner Rückenflosse kühlt es das Innere seines Nestes wie ein Kühlschrank.",
         "pt-br": "Este Pokémon vive em florestas e áreas escarpadas. Usando o poder de sua barbatana dorsal, ele resfria o interior do ninho como uma geladeira.",
         "zh-tw": "這種寶可夢生活在森林和崎嶇的地區。它利用背鰭的力量，像冰箱一樣冷卻巢穴內部。",
-        ja: "岩場や 森林に 生息する。 背びれの 力で 巣穴の中を 冷凍庫のように 冷やしている。"
+        ja: "岩場や 森林に 生息する。 背びれの 力で 巣穴の中を 冷凍庫のように 冷やしている。",
+        ko: "암석 지대나 삼림에 서식한다.\n등지느러미의 힘으로 굴 안을\n냉장고처럼 차갑게 만든다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Frio",
                 "zh-tw": "寒冷",
                 ja: "ひんやり",
+                ko: "썰렁",
                 'es-mx': "Frialdad",
                 pt: "Frio"
             },

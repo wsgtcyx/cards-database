@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/339",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/339",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/339",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/339"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/339",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/339"
 	},
 	name: {
         en: "Sabrina",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sabrina",
         "zh-tw": "娜姿",
         ja: "ナツメ",
+        ko: "초련",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
         "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
         "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
-        ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+        ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+        ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
     },
     trainerType: "Supporter"
 };

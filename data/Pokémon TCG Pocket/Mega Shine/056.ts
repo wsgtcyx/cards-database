@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/056"
     },
     name: {
         en: "Haxorus",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es überwältigt Feinde mit seinen wertvollen Stoßzähnen, die scharf genug sind, um mit einem Schlag einen metallenen Sendemast zu durchdringen.",
         "pt-br": "Ele domina os inimigos com suas presas valiosas, que são afiadas o suficiente para cortar uma torre de transmissão de metal com um único golpe.",
         "zh-tw": "它用珍貴的獠牙壓倒敵人，這些獠牙足夠鋒利，一擊就能切穿金屬傳輸塔。",
-        ja: "自慢の キバで 敵を 圧倒。 鉄塔を 一刀のもとに 切り捨てる 切れ味を 誇る。"
+        ja: "自慢の キバで 敵を 圧倒。 鉄塔を 一刀のもとに 切り捨てる 切れ味を 誇る。",
+        ko: "자랑스러운 어금니로 상대를 압도한다.\n철탑을 단칼에 베어 버리는\n예리함을 자랑한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Rasende Klinge",
                 "pt-br": "Lâmina Alucinada",
                 "zh-tw": "狂亂利刃",
-                ja: "きょうらんのやいば"
+                ja: "きょうらんのやいば",
+                ko: "광란의칼날"
             },
             effect: {
                 en: "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon no Banco (seu e do seu oponente).",
                 "zh-tw": "此攻擊對每個後備寶可夢（包括你的和對手的）造成 20 點額外傷害。",
-                ja: "おたがいのベンチポケモンの数×20ダメージ追加。"
+                ja: "おたがいのベンチポケモンの数×20ダメージ追加。",
+                ko: "서로의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "50+"
         }

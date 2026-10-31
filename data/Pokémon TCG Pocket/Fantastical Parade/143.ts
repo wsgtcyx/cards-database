@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/143",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/143",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/143"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/143",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/143"
     },
     name: {
         en: "Maushold",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Famieps",
         "pt-br": "Maushold",
         "zh-tw": "一家鼠",
-        ja: "イッカネズミ"
+        ja: "イッカネズミ",
+        ko: "파밀리쥐"
     },
     illustrator: "MINAMINAMI Take",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zwieps",
         "pt-br": "Tandemaus",
         "zh-tw": "一對鼠",
-        ja: "ワッカネズミ"
+        ja: "ワッカネズミ",
+        ko: "두리쥐"
     },
     description: {
         en: "The larger pair protects the little ones during\nbattles. When facing strong opponents, the\nwhole group will join the fight.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das größere Paar schützt die Kleinen währenddessen\nSchlachten. Bei starken Gegnern ist die\nDie ganze Gruppe wird sich dem Kampf anschließen.",
         "pt-br": "O par maior protege os mais pequenos durante\nbatalhas. Ao enfrentar adversários fortes, o\ntodo o grupo se juntará à luta.",
         "zh-tw": "較大的一對在期間保護較小的\n戰鬥。當面對強大的對手時\n全隊都會加入戰鬥。",
-        ja: "いつの間にか 子どもが 増えていた。 家族のように 暮らすが ３匹の 関係は 解明されていない。"
+        ja: "いつの間にか 子どもが 増えていた。 家族のように 暮らすが ３匹の 関係は 解明されていない。",
+        ko: "큰 두 마리가\n아이들을 지키며 싸운다.\n강한 상대에게는 모두가 맞서 싸운다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Familienprügel",
                 "pt-br": "Batida Familiar",
                 "zh-tw": "家庭毆打",
-                ja: "ファミリービート"
+                ja: "ファミリービート",
+                ko: "패밀리비트"
             },
             damage: "60×",
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf für jedes Tandemaus und jeden Maushold, die du im Spiel hast, eine Münze. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda para cada Tandemaus e Maushold que você tiver em jogo. Este ataque causa 60 de dano para cada cabeça.",
                 "zh-tw": "為您遊戲中的每個 Tandemaus 和 Maushold 擲一枚硬幣。這次攻擊對每個頭造成 60 點傷害。",
-                ja: "自分の場の「ワッカネズミ」と「イッカネズミ」の数ぶんコインを投げ、オモテの数×60ダメージ。"
+                ja: "自分の場の「ワッカネズミ」と「イッカネズミ」の数ぶんコインを投げ、オモテの数×60ダメージ。",
+                ko: "자신의 필드의 「두리쥐」와 「파밀리쥐」의 수만큼 동전을 던져서 앞면이 나온 수 × 60데미지를 준다."
             }
         }],
     weaknesses: [{

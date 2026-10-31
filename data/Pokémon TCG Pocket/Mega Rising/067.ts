@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/067",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/067"
     },
     name: {
         en: "Carracosta",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Carracosta",
         "zh-tw": "肋骨海龜",
         ja: "アバゴーラ",
+        ko: "늑골라",
     },
     illustrator: "match",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Tirtouga",
         "zh-tw": "原蓋海龜",
         ja: "プロトーガ",
+        ko: "프로토가",
     },
     description: {
         en: "This Pokémon emerges from the water in search\nof prey despite the fact that it moves more\nslowly on land.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon taucht auf der Suche aus dem Wasser auf\nder Beute trotz der Tatsache, dass es sich mehr bewegt\nlangsam an Land.",
         "pt-br": "Este Pokémon emerge da água em busca\nde presa, apesar de se mover mais\nlentamente em terra.",
         "zh-tw": "這只神奇寶貝從水中浮出來尋找\n儘管事實上它移動得更多\n慢慢地在陸地上。",
-        ja: "水の中と くらべて 動きは 鈍いが 獲物を 探し求め 陸上でも 活動するぞ。"
+        ja: "水の中と くらべて 動きは 鈍いが 獲物を 探し求め 陸上でも 活動するぞ。",
+        ko: "물속과 비교하면 움직임이\n둔하지만 먹이를 찾아\n육지에서도 활동한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blockierende Shell",
                 "pt-br": "Bloqueio de shell",
                 "zh-tw": "阻塞外殼",
-                ja: "ブロックシェル"
+                ja: "ブロックシェル",
+                ko: "블록셸"
             },
             damage: 100,
             cost: ["Water", "Water", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe von Basis-Pokémon zugefügt wird.",
                 "pt-br": "Previna todo o dano causado a este Pokémon por ataques de Pokémon Básicos durante o próximo turno do seu oponente.",
                 "zh-tw": "防止對手下回合中基礎寶可夢的攻擊對該寶可夢造成的所有傷害。",
-                ja: "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。"
+                ja: "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。",
+                ko: "상대의 다음 차례에 이 포켓몬은 기본 포켓몬으로부터 기술의 데미지를 받지 않는다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/008"
     },
     name: {
         en: "Vaporeon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Seine Zellzusammensetzung ähnelt der von Wassermolekülen. Daher ist es nicht sichtbar, wenn es in Wasser schmilzt.",
         "pt-br": "Sua composição celular é semelhante às moléculas de água. Como resultado, não pode ser visto quando derrete na água.",
         "zh-tw": "其細胞組成與水分子相似。因此，當它融化成水時就看不見了。",
-        ja: "体の 細胞の つくりが 水の 分子に 似ているため 水に 溶けると 見えなくなる。"
+        ja: "体の 細胞の つくりが 水の 分子に 似ているため 水に 溶けると 見えなくなる。",
+        ko: "몸의 세포 구조가\n물 분자와 닮았기 때문에\n물에 녹아들면 보이지 않는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Beschlagnahmen",
                 "pt-br": "Apreender",
                 "zh-tw": "圍困",
-                ja: "かこいこむ"
+                ja: "かこいこむ",
+                ko: "가둬두기"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             },
             damage: 60
         }

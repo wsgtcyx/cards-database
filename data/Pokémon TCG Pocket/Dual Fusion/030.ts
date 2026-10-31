@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/030"
     },
     name: {
         en: "Wartortle",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
         ja: "ゼニガメ",
-        ko: "Squirtle"
+        ko: "꼬부기"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Ataque Giratório",
                 "zh-tw": "迴轉攻擊",
                 ja: "かいてんアタック",
-                ko: "Spinning Attack"
+                ko: "회전어택"
             },
             cost: [
                 "Water",
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "A cauda longa e peluda de Wartortle é um símbolo de longevidade, por isso este Pokémon é bem popular entre pessoas mais velhas.",
         "zh-tw": "蓬鬆長長的尾巴被視為長壽的象徵。特別深受老人喜愛。",
         ja: "長くて ふさふさの 尻尾は 長生きの シンボル。 とくに お年寄りに 人気がある。",
-        ko: "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people."
+        ko: "길고 탐스러운 꼬리는\n장수의 상징이다.\n노인층에게 특히 인기가 많다."
     }
 };
 

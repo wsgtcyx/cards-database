@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/217",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/217",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/217",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/217"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/217",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/217"
     },
     name: {
         en: "Drilbur",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
         ja: "モグリュー",
+        ko: "두더류",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es bringt seine Krallen zusammen und wirbelt herum\nmit hoher Geschwindigkeit, bevor er auf seine Beute zustürmt.",
         "pt-br": "Ele junta suas garras e gira\nem alta velocidade antes de correr em direção à sua presa.",
         "zh-tw": "它把爪子合攏並旋轉\n以高速沖向獵物。",
-        ja: "両手の ツメを 重ね合わせ 体を 高速回転 させると 獲物 めがけて 突っ込むのだ。"
+        ja: "両手の ツメを 重ね合わせ 体を 高速回転 させると 獲物 めがけて 突っ込むのだ。",
+        ko: "양손의 손톱을 서로 겹치고\n몸을 고속으로 회전시킨 뒤\n먹이를 향해 돌진한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
                 "zh-tw": "划痕",
-                ja: "ひっかく"
+                ja: "ひっかく",
+                ko: "할퀴기"
             },
             damage: 10,
             cost: ["Colorless"]

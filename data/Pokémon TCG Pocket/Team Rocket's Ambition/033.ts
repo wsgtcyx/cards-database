@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/033"
     },
     name: {
         en: "Oranguru",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es lebt friedlich in den Tiefen des Waldes. Sein lilafarbenes, umhangähnliches Fell wird immer länger, je älter das Pokémon wird.",
         "pt-br": "Este Pokémon vive discretamente nas profundezas da floresta. Seu pelo roxo semelhante a uma capa fica cada vez mais longo conforme Oranguru envelhece.",
         "zh-tw": "在森林深處過著安靜的生活。如同斗蓬般的紫色體毛會隨著年齡而越變越長。",
-        ja: "森の奥で 静かに 暮らす。 マントのような 紫の 毛は 歳を 重ねるほどに 長くなる。"
+        ja: "森の奥で 静かに 暮らす。 マントのような 紫の 毛は 歳を 重ねるほどに 長くなる。",
+        ko: "숲속 깊은 곳에서 조용히 지낸다.\n망토처럼 생긴 보랏빛 털은\n나이를 먹을수록 점점 길어진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schlagen und ziehen",
                 "pt-br": "Socar e Comprar",
                 "zh-tw": "出拳&抽出",
-                ja: "パンチ&ドロー"
+                ja: "パンチ&ドロー",
+                ko: "펀치&드로"
             },
             effect: {
                 en: "Draw a card.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Ziehe 1 Karte.",
                 "pt-br": "Compre carta.",
                 "zh-tw": "從自己的牌庫抽出張卡。",
-                ja: "自分の山札を1枚引く。"
+                ja: "自分の山札を1枚引く。",
+                ko: "자신의 덱을 1장 뽑는다."
             },
             damage: 40
         }

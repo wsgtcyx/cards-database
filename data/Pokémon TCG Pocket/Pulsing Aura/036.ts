@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/036"
     },
     name: {
         en: "Paldean Tauros",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es schwimmt, indem es Wasser aus seinen Hörnern spritzt. Das bemerkenswerteste Merkmal der Aqua-Rasse ist ihr hoher Körperfettanteil, der ihr ein leichtes Schwimmen ermöglicht.",
         "pt-br": "Ele nada jorrando água de seus chifres. A característica mais notável da Raça Aqua é o alto teor de gordura corporal, o que lhe permite flutuar com facilidade.",
         "zh-tw": "它透過從角噴射水來游泳。水族品種最顯著的特徵是其高體脂，這使得它能夠輕鬆漂浮。",
-        ja: "ツノから 水を 吹きだし 泳ぐ。 脂肪分が 多く 浮きやすいのが ウォーター種の 特徴。"
+        ja: "ツノから 水を 吹きだし 泳ぐ。 脂肪分が 多く 浮きやすいのが ウォーター種の 特徴。",
+        ko: "뿔에서 물을 분출해서 헤엄친다.\n지방이 많아서 물에 뜨기 쉬운 점이\n워터종의 특징이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schmetterkick",
                 "pt-br": "Chute Poderoso",
                 "zh-tw": "踢飛",
-                ja: "けとばす"
+                ja: "けとばす",
+                ko: "걷어차기"
             },
             damage: 50
         }

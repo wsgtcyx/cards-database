@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/091"
     },
     name: {
         en: "Electrike",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Armazena eletricidade em seu pelo. Dispara faíscas de seu corpo para todos os lados quando o ar está seco.",
         "zh-tw": "會在體毛中儲存靜電。在空氣乾燥的季節會從全身散發出火花。",
         ja: "静電気を 体毛に 溜める。 空気の 乾燥した 季節には 全身から 火花を 散らす。",
-        ko: "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry."
+        ko: "정전기를 털에 모은다.\n공기가 건조한 계절에는\n전신에서 스파크를 뿌린다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Ataque Rápido",
                 "zh-tw": "電光一閃",
                 ja: "でんこうせっか",
-                ko: "Quick Attack"
+                ko: "전광석화"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
                 ja: "コインを1回投げオモテなら、30ダメージ追加。",
-                ko: "Flip a coin. If heads, this attack does 30 more damage."
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "10+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/061"
     },
     name: {
         en: "Toxtricity",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die Stromstöße, die es durch heftiges Anschlagen der Vorsprünge auf seiner Brust auslöst, überschreiten leicht 15.000 Volt.",
         "pt-br": "Os choques de eletricidade que ele lança ao tocar violentamente as saliências em seu peito excedem facilmente 15.000 volts.",
         "zh-tw": "猛烈地敲擊胸口的突起，所釋放的電擊輕鬆超過一萬五千伏特。",
-        ja: "荒々しく 胸もとの 突起を かき鳴らして 放つ 電撃は 15000ボルトを 軽く 超える。"
+        ja: "荒々しく 胸もとの 突起を かき鳴らして 放つ 電撃は 15000ボルトを 軽く 超える。",
+        ko: "거칠게 가슴팍의 돌기를 긁어서\n발산하는 전격은\n15000볼트를 가볍게 뛰어넘는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Racheschock",
                 "pt-br": "Choque Vingativo",
                 "zh-tw": "復仇衝擊",
-                ja: "リベンジショック"
+                ja: "リベンジショック",
+                ko: "리벤지쇼크"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage, and your opponent's Active Pokémon is now Paralyzed.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch den Schaden eines Angriffs kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu und das aktive Pokémon deines Gegners ist jetzt gelähmt.",
                 "pt-br": "Se algum dos seus Pokémon foi Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 de dano a mais e o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "如果你的任何一隻寶可夢在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點，並且對手的活躍寶可夢現在陷入麻痺狀態。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加し、相手のバトルポケモンをマヒにする。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加し、相手のバトルポケモンをマヒにする。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가하고 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: "40+"
         }

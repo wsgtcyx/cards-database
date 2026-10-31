@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/081"
     },
     name: {
         en: "Carvanha",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
         "pt-br": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
         "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。",
-        ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。"
+        ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。",
+        ko: "날카로운 이빨과 튼튼한 턱을\n갖고 있다. 선원들은 샤프니아\n거처에 결코 가까이 가지 않는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Wasserdüse",
                 "pt-br": "Aqua Jato",
                 "zh-tw": "水流噴射",
-                ja: "アクアジェット"
+                ja: "アクアジェット",
+                ko: "아쿠아제트"
             },
             effect: {
                 en: "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 隻寶可夢造成 10 點傷害。",
-                ja: "相手のベンチポケモン1匹にも10ダメージ。"
+                ja: "相手のベンチポケモン1匹にも10ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
             },
             damage: 10
         }

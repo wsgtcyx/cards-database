@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/030",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/030",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/030"
     },
     name: {
         en: "Psyduck",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
         "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
-        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
+        ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "偏頭痛",
                 "it": "Mal di Testa",
                 "de": "Migräne",
-                ja: "へんずつう"
+                ja: "へんずつう",
+                ko: "편두통"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢混亂。若為反面,則將這隻寶可夢混亂。",
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso. Se esce croce, questo Pokémon viene confuso.",
                 "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt. Bei Zahl ist dieses Pokémon jetzt verwirrt.",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをこんらんにする。ウラなら、このポケモンをこんらんにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをこんらんにする。ウラなら、このポケモンをこんらんにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다. 뒷면이 나오면 이 포켓몬을 혼란으로 만든다."
             },
             damage: 10
         }

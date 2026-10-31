@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/191",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/191"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/191",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/191"
     },
     name: {
         en: "Hisuian Zorua",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Zorua de Hisui",
         "zh-tw": "洗翠索羅亞",
         ja: "ヒスイゾロア",
-        ko: "히스이조로아"
+        ko: "히스이 조로아"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Uma alma que partiu deste mundo e voltou à vida em Hisui. Seu poder é oriundo do rancor, que se converte em energia no topo de sua cabeça e toma a forma de seus inimigos. Dessa maneira, Zorua se liberta da malícia persistente.",
         "zh-tw": "死後靈魂在洗翠地區復甦。怨恨化為力量，從其頭部冉冉飄升。會化成對手的樣貌去洗刷仇恨。",
         ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。",
-        ko: "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+        ko: "죽은 영혼이 히스이 땅에서 되살아났다.\n원한은 곧 힘이 되어 머리에 피어오르고\n상대의 모습으로 변하여 원한을 풀려 한다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Zoar",
                 "zh-tw": "雀躍",
                 ja: "はしゃぐ",
-                ko: "Run Around"
+                ko: "들뜸"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
                 ja: "このポケモンをベンチポケモンと入れ替える。",
-                ko: "Switch this Pokémon with 1 of your Benched Pokémon."
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }
     ],

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/075",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/075"
     },
     name: {
         en: "Buneary",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Haspiror",
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
-        ja: "ミミロル"
+        ja: "ミミロル",
+        ko: "이어롤"
     },
     illustrator: "Terada Tera",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Buneary kann angreifen, indem es die Ohren hochkrempelt und\ndann mit der durch das Abrollen erzeugten Kraft zuschlagen\nsie. Dieser Angriff wird mit dem Training stärker.",
         "pt-br": "Buneary pode atacar enrolando as orelhas e\nem seguida, golpeando com a força criada ao desenrolar\neles. Este ataque fica mais forte com o treinamento.",
         "zh-tw": "Bunary可以通過捲起耳朵來攻擊\n然後用展開時產生的力量進行打擊\n他們。這種攻擊隨著訓練而變得更強。",
-        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。"
+        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。",
+        ko: "말고 있던 귀를 뻗는 힘으로\n공격하는 기술은 트레이닝을\n할수록 위력이 커진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Doppelter Tritt",
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
-                ja: "にどげり"
+                ja: "にどげり",
+                ko: "두번차기"
             },
             damage: "20×",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

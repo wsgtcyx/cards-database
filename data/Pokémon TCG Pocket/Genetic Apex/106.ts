@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/106"
     },
     name: {
         en: "Zebstrika",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Elezeba",
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
-        ja: "シママ"
+        ja: "シママ",
+        ko: "줄뮤마"
     },
     attacks: [{
             cost: ["Lightning"],

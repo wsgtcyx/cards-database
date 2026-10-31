@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/054"
     },
     name: {
         en: "Wartortle",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
-        ja: "ゼニガメ"
+        ja: "ゼニガメ",
+        ko: "꼬부기"
     },
     attacks: [{
             cost: ["Water", "Colorless"],

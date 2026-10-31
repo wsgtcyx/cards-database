@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/052"
     },
     name: {
         en: "Wigglytuff",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Das üppige, flauschige Fell, das seinen Körper bedeckt, fühlt sich so gut an, dass jeder, der es spürt, nicht aufhören kann, es zu berühren.",
         "pt-br": "O pelo rico e fofo que cobre seu corpo é tão gostoso que qualquer um que o sente não consegue parar de tocá-lo.",
         "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。",
-        ja: "ふわふわの 体毛に 触ると 手触りが とても 良いので 離れられなくなってしまう。"
+        ja: "ふわふわの 体毛に 触ると 手触りが とても 良いので 離れられなくなってしまう。",
+        ko: "푹신푹신한 털을 만지면\n감촉이 아주 좋아서\n떨어지지 못하게 된다고 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Ausdehnen",
                 "pt-br": "Expandir",
                 "zh-tw": "膨脹*",
-                ja: "ふくらむ"
+                ja: "ふくらむ",
+                ko: "부풀기"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             },
             damage: 50
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/118",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/118",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/118"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/118",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/118"
     },
     name: {
         en: "Slurpuff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Slurpuff",
         "zh-tw": "胖甜妮",
         ja: "ペロリーム",
+        ko: "나루림",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
         ja: "ペロッパフ",
+        ko: "나룸퍼프",
     },
     description: {
         en: "Slurpuff's fur contains a lot of air, making it soft\nto the touch and lighter than it looks.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das Fell von Slurpuff enthält viel Luft und ist dadurch weich\nfühlt sich angenehm an und ist leichter als es aussieht.",
         "pt-br": "O pelo do Slurpuff contém muito ar, o que o torna macio\nao toque e mais leve do que parece.",
         "zh-tw": "slurpuff的皮毛含有大量空氣，使其柔軟\n摸起來比看起來更輕。",
-        ja: "体毛に たくさん 空気を 含んでいるので 触り心地は 柔らかく 見た目より 軽い。"
+        ja: "体毛に たくさん 空気を 含んでいるので 触り心地は 柔らかく 見た目より 軽い。",
+        ko: "털에 많은 공기를 담고 있어\n촉감이 부드럽고\n보기보다 가볍다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Erschöpfender Kuss",
                 "pt-br": "Drenando Beijo",
                 "zh-tw": "排水之吻",
-                ja: "ドレインキッス"
+                ja: "ドレインキッス",
+                ko: "드레인키스"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンのHPを30回復。"
+                ja: "このポケモンのHPを30回復。",
+                ko: "이 포켓몬의 HP를 30회복."
             }
         }],
     weaknesses: [{
             type: "Metal",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

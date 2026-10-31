@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/106"
     },
     name: {
         en: "Revavroom",
@@ -35,7 +36,8 @@ const card: Card = {
         "de": "Knattox",
         "pt-br": "Varoom",
         "zh-tw": "噗隆隆",
-        ja: "ブロロン"
+        ja: "ブロロン",
+        ko: "부르롱"
     },
     description: {
         en: "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",

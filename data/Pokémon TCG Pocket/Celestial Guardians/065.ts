@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/065"
     },
     name: {
         en: "Vikavolt",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Charjabug",
         "zh-tw": "蟲電寶",
         ja: "デンヂムシ",
+        ko: "전지충이",
     },
     description: {
         en: "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",

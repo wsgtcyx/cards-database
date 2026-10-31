@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/230",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/230",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/230",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/230"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/230",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/230"
     },
     name: {
         en: "Venusaur ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
         ja: "フシギソウ",
+        ko: "이상해풀",
     },
     stage: "Stage2",
     suffix: "EX",

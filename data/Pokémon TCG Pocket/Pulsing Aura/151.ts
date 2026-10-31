@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/151",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/151",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/151"
     },
     name: {
         en: "Cheren",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Während des nächsten Zuges deines Gegners erleiden alle deine Kukmarda und Bissbark -100 Schaden durch Angriffe des Ex-Pokémon deines Gegners.",
         "pt-br": "Durante o próximo turno do seu oponente, todos os seus Watchog e Stoutland sofrerão -100 de dano de ataques do Pokémon ex do seu oponente.",
         "zh-tw": "在對手的下一個回合中，你所有的 步哨鼠 和 長毛狗 因對手前寶可夢的攻擊而受到 -100 點傷害。",
-        ja: "次の相手の番、自分の「ミルホッグ」「ムーランド」全員が、相手の「ポケモンex」から受けるワザのダメージを-100する。"
+        ja: "次の相手の番、自分の「ミルホッグ」「ムーランド」全員が、相手の「ポケモンex」から受けるワザのダメージを-100する。",
+        ko: "상대의 다음 차례에 자신의 「보르그」「바랜드」 전원이 상대의 「포켓몬 ex」로부터 받는 기술의 데미지를 -100한다."
     },
     trainerType: "Supporter"
 };

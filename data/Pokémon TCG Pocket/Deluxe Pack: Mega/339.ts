@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/339",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/339",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/339",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/339"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/339",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/339"
     },
     name: {
         en: "Doublade",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
         ja: "ヒトツキ",
-        ko: "Honedge"
+        ko: "단칼빙"
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "As duas espadas adotam a estratégia de alternar rapidamente entre ataque e defesa para derrubar suas presas.",
         "zh-tw": "２把劍會用令人眼花撩亂的速度不斷交替攻擊和防禦，藉以制服獵物。",
         ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。",
-        ko: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey."
+        ko: "2자루의 검이 공격과 방어를\n어지러울 정도로 빠르게 바꾸는\n전법으로 먹이의 숨통을 끊는다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
                 ja: "きりさく",
-                ko: "Slash"
+                ko: "베어가르기"
             },
             damage: 40,
             cost: [

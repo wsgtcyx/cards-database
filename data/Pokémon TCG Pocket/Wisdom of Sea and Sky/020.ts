@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/020"
     },
     name: {
         en: "Pineco",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pineco",
         "zh-tw": "榛果球",
         ja: "クヌギダマ",
+        ko: "피콘",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es sieht aus wie ein Tannenzapfen. Seine Hülle schützt es\nvon Vogel-Pokémon, die es versehentlich picken.",
         "pt-br": "Parece uma pinha. Sua casca o protege\nde Pokémon pássaros que o bicam por engano.",
         "zh-tw": "它看起來就像一個松果。它的外殼保護著它\n來自誤啄它的鳥神奇寶貝。",
-        ja: "木の実に そっくり。間違われて とりポケモンに つつかれてしまうが 硬い 殻で 守られている。"
+        ja: "木の実に そっくり。間違われて とりポケモンに つつかれてしまうが 硬い 殻で 守られている。",
+        ko: "나무열매와 똑 닮았다.\n실수로 새포켓몬에게 쪼이기도 하지만\n단단한 껍질이 몸을 보호하고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

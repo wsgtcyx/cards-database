@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/211",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/211"
     },
     name: {
         en: "Wooloo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wooloo",
         "zh-tw": "毛辮羊",
         ja: "ウールー",
+        ko: "우르",
     },
     illustrator: "Yoko Hishida",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn sein Vlies zu lang wird, wächst Wooloo nicht\nin der Lage, sich zu bewegen. Aus dieser Wolle hergestellter Stoff\nPokémon ist überraschend stark.",
         "pt-br": "Se a lã crescer muito, Wooloo não será\ncapaz de se mover. Pano feito com a lã deste\nPokémon é surpreendentemente forte.",
         "zh-tw": "如果羊毛長得太長，Wooloo 就不會\n能夠移動。用這裡的羊毛布料\n神奇寶貝的實力出奇的強。",
-        ja: "毛が 伸びすぎると 動けない。 ウールーの 体毛で 織られた 布は 驚くほど 丈夫。"
+        ja: "毛が 伸びすぎると 動けない。 ウールーの 体毛で 織られた 布は 驚くほど 丈夫。",
+        ko: "털이 많이 자라면 움직이지 못한다.\n우르의 털로 짠 천은\n놀라울 정도로 튼튼하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kontinuierlicher Sturz",
                 "pt-br": "Queda Contínua",
                 "zh-tw": "連續翻滾",
-                ja: "れんぞくころがり"
+                ja: "れんぞくころがり",
+                ko: "연속 구르기"
             },
             damage: "40×",
             cost: ["Colorless", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa 40 de dano para cada cabeça.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/175",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/175"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/175",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/175"
     },
     name: {
         en: "Malamar",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es lässt die leuchtenden Punkte auf seinem Körper aufblitzen, um seine Gegner zu hypnotisieren und die vollständige Kontrolle über sie zu erlangen.",
         "pt-br": "Ele pisca os pontos luminescentes em seu corpo para hipnotizar seus oponentes, ganhando controle total sobre eles.",
         "zh-tw": "它會透過閃爍身體上的發光點來催眠對手，從而完全控制對手。",
-        ja: "発光体の 点滅によって 相手を 催眠状態にして 自由自在に 操ってしまう。"
+        ja: "発光体の 点滅によって 相手を 催眠状態にして 自由自在に 操ってしまう。",
+        ko: "발광체를 깜빡여서\n상대를 최면 상태로 만들고\n자유자재로 조종한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Entwicklungsstörer",
                 "pt-br": "Atolador de Evolução",
                 "zh-tw": "進化妨礙者",
-                ja: "しんかジャマー"
+                ja: "しんかジャマー",
+                ko: "진화방해"
             },
             effect: {
                 en: "During your opponent's next turn, they can't play any Pokémon from their hand to evolve their Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann er kein Pokémon von seiner Hand spielen, um sein Pokémon weiterzuentwickeln.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhum Pokémon da sua mão para evoluir seus Pokémon.",
                 "zh-tw": "在對手的下一個回合中，他們無法使用手中的任何寶可夢來進化他們的寶可夢。",
-                ja: "次の相手の番、相手は手札からポケモンを出して進化させられない。"
+                ja: "次の相手の番、相手は手札からポケモンを出して進化させられない。",
+                ko: "상대의 다음 차례에 상대는 패에서 포켓몬을 꺼내서 진화시킬 수 없다."
             },
             damage: 40
         }

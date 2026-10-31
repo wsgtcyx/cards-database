@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/069"
     },
     name: {
         en: "Kirlia",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
         ja: "ラルトス",
+        ko: "랄토스",
     },
     description: {
         en: "It has a psychic power that enables it to distort the space around it and see into the future.",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/207",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/207",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/207",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/207"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/207",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/207"
     },
     name: {
         en: "Magmar",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Magmar",
         "pt-br": "Magmar",
         "zh-tw": "鴨嘴火獸",
-        ja: "ブーバー"
+        ja: "ブーバー",
+        ko: "마그마"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Magmar erledigt seine Beute mit Feuer. Aber es\nbereut diese Angewohnheit, sobald es merkt, dass es so ist\nverbrannte seine beabsichtigte Beute zu einer verkohlten Kruste.",
         "pt-br": "Magmar despacha sua presa com fogo. Mas isso\nlamenta esse hábito quando percebe que\nqueimou a presa pretendida até ficar crocante.",
         "zh-tw": "瑪格瑪用火消滅獵物。但它\n一旦意識到自己已經養成了這種習慣，就會後悔\n將其預定的獵物燒成焦脆的樣子。",
-        ja: "炎で 獲物を しとめる。 ついつい 焼きすぎて 黒コゲに してしまい 後悔する。"
+        ja: "炎で 獲物を しとめる。 ついつい 焼きすぎて 黒コゲに してしまい 後悔する。",
+        ko: "불꽃으로 먹이를 꼼짝 못 하게 한다.\n무의식중에 너무 오래 익혀서\n까맣게 태우고는 후회한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schüren",
                 "pt-br": "Stoke",
                 "zh-tw": "斯托克",
-                ja: "もえあがる"
+                ja: "もえあがる",
+                ko: "타오르기"
             },
             cost: ["Fire"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege 1 {R}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 1 Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{R}能量並將其附加到該神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {R}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }],
     weaknesses: [{

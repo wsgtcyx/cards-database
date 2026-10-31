@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/021"
     },
     name: {
         en: "Sprigatito",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "O aroma doce que exala de seu corpo encanta todos à sua volta. O cheiro fica mais forte quando esse Pokémon está no sol.",
         "zh-tw": "會用身體發出甜甜香氣，讓周圍的一切為之傾倒。照到陽光後香氣會變得更濃郁。",
         ja: "体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。",
-        ko: "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+        ko: "몸에서 나오는 달콤한 향기로\n주위를 매료시킨다.\n햇빛에 닿으면 향기가 더욱 강해진다."
     },
     stage: "Basic",
     attacks: [

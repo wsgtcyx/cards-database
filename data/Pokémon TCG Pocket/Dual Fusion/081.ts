@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/081"
     },
     name: {
         en: "Gastly",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Gás Severo",
                 "zh-tw": "惡毒氣體",
                 ja: "ひどいガス",
-                ko: "Severe Gas"
+                ko: "독한가스"
             },
             cost: [
                 "Darkness"
@@ -67,7 +68,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒。",
                 ja: "相手のバトルポケモンをどくにする。",
-                ko: "Your opponent's Active Pokémon is now Poisoned."
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
         "pt-br": "Envolve o oponente em seu corpo gasoso, enfraquecendo sua presa lentamente e a envenenando pela pele.",
         "zh-tw": "會用氣體狀的身體包住獵物，再從身體表面注入毒素，使其逐漸衰弱。",
         ja: "ガス状の 体で まとわりつき 獲物の 皮膚から 少しずつ 毒を 送り込んで 弱らせる。",
-        ko: "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin."
+        ko: "가스로 된 몸으로 휘감은 다음\n먹이의 피부를 통해 조금씩\n독을 흘려보내어 약하게 만든다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/128",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/128",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/128"
     },
     name: {
         en: "Klinklang",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Klinklang",
         "zh-tw": "齒輪怪",
         ja: "ギギギアル",
+        ko: "기기기어르",
     },
     illustrator: "Akira Komayama",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Klang",
         "zh-tw": "齒輪組",
         ja: "ギギアル",
+        ko: "기기어르",
     },
     description: {
         en: "From its spikes, it launches powerful blasts of\nelectricity. Its red core contains an enormous\namount of energy.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Von seinen Stacheln aus feuert es mächtige Schüsse ab\nStrom. Sein roter Kern enthält eine enorme Menge\nMenge an Energie.",
         "pt-br": "Dos seus espinhos, ele lança rajadas poderosas de\neletricidade. Seu núcleo vermelho contém uma enorme\nquantidade de energia.",
         "zh-tw": "它從它的尖刺中發射出強大的爆炸\n電力。它的紅色核心含有巨大的\n能量量。",
-        ja: "棘の 先から 強い 電撃を 発射。 赤いコアに たくさんの エネルギーを 蓄えている。"
+        ja: "棘の 先から 強い 電撃を 発射。 赤いコアに たくさんの エネルギーを 蓄えている。",
+        ko: "가시 끝에서 강한 전격을\n발사한다. 빨간 코어에 많은\n에너지를 비축하고 있다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zahnradspinner",
                 "pt-br": "Girador de engrenagem",
                 "zh-tw": "齒輪旋轉器",
-                ja: "ギアスピナー"
+                ja: "ギアスピナー",
+                ko: "기어스피너"
             },
             damage: 70,
             cost: ["Metal", "Metal", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges verursacht der Gear-Spinner-Angriff dieses Pokémon +70 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Gear Spinner deste Pokémon causa +70 de dano.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝的齒輪旋轉攻擊造成+70點傷害。",
-                ja: "次の自分の番、このポケモンの「ギアスピナー」のダメージを+70する。"
+                ja: "次の自分の番、このポケモンの「ギアスピナー」のダメージを+70する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「기어스피너」의 데미지를 +70한다."
             }
         }],
     weaknesses: [{

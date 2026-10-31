@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/410",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/410",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/410",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/410"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/410",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/410"
     },
     name: {
         en: "Mega Sceptile ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Grovyle",
         "zh-tw": "森林蜥蜴",
         ja: "ジュプトル",
-        ko: "Grovyle"
+        ko: "나무돌이"
     },
     stage: "Stage2",
     attacks: [
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Cauda Terminal",
                 "zh-tw": "奪命利尾",
                 ja: "デッドリーテール",
-                ko: "Terminating Tail"
+                ko: "데들리테일"
             },
             effect: {
                 en: "Discard {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Descarte Energia {G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "將這隻寶可夢身上的個{G}能量丟棄。將對手的戰鬥寶可夢中毒。",
                 ja: "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
-                ko: "Discard {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+                ko: "이 포켓몬에서 {G}에너지를 1개 트래쉬한다. 상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 130
         }

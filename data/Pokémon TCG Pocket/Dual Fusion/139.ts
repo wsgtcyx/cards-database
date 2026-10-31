@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/139",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/139"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/139",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/139"
     },
     name: {
         en: "Blastoise",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
         ja: "カメール",
-        ko: "Wartortle"
+        ko: "어니부기"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
                 ja: "なみのり",
-                ko: "Surf"
+                ko: "파도타기"
             },
             cost: [
                 "Water",
@@ -85,7 +86,7 @@ const card: Card = {
                 "pt-br": "Carga Aquática",
                 "zh-tw": "水流充能",
                 ja: "アクアチャージ",
-                ko: "Aqua Charge"
+                ko: "아쿠아 차지"
             },
             effect: {
                 en: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -96,7 +97,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la a este Pokémon.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{W}能量,附於這隻寶可夢身上。",
                 ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。",
-                ko: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {W}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             },
             type: "Ability"
         }
@@ -110,7 +111,7 @@ const card: Card = {
         "pt-br": "Aumenta o seu próprio peso deliberadamente para aguentar o ricochete dos jatos de água que dispara.",
         "zh-tw": "為了讓自己能夠抵擋噴射水流的後座力，於是刻意增加體重。",
         ja: "噴射した 水の 勢いに 負けないように わざと 体重を 重くしているのだ。",
-        ko: "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires."
+        ko: "분사한 물의 기세에\n밀리지 않도록 일부러\n체중을 무겁게 불리고 있다."
     }
 };
 

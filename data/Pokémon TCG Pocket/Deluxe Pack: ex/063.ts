@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/063",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/063",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/063",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/063"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/063",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/063"
 	},
 	name: {
 		en: "Arcanine ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Arkani-ex",
 		"pt-br": "Arcanine ex",
 		"zh-tw": "風速狗ex",
-		ja: "ウインディex"
+		ja: "ウインディex",
+		ko: "윈디 ex"
 	},
 	illustrator: "PLANETA Saito",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Fukano",
 		"pt-br": "Growlithe",
 		"zh-tw": "卡蒂狗",
-		ja: "ガーディ"
+		ja: "ガーディ",
+		ko: "가디"
 	},
 	suffix: "EX",
 	attacks: [

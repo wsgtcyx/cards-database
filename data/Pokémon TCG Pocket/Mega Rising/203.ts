@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/203",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/203",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/203",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/203"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/203",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/203"
     },
     name: {
         en: "Stoutland",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Stoutland",
         "zh-tw": "長毛狗",
         ja: "ムーランド",
+        ko: "바랜드",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Herdier",
         "zh-tw": "哈約克",
         ja: "ハーデリア",
+        ko: "하데리어",
     },
     description: {
         en: "Stoutland is immensely proud of its impressive\nmoustache. It's said that moustache length is what\ndetermines social standing among this species.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Stoutland ist ungemein stolz auf seine beeindruckende\nSchnurrbart. Man sagt, dass es auf die Schnurrbartlänge ankommt\nbestimmt die soziale Stellung dieser Art.",
         "pt-br": "Stoutland está imensamente orgulhosa de sua impressionante\nbigode. Dizem que o comprimento do bigode é o que\ndetermina a posição social entre esta espécie.",
         "zh-tw": "斯托特蘭為其令人印象深刻的\n小鬍子。據說鬍子的長度是多少\n決定了該物種的社會地位。",
-        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。"
+        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。",
+        ko: "훌륭한 수염이 특징인 포켓몬이다.\n그 길이로 동료들과\n우열을 가린다고 한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gefährlicher Biss",
                 "pt-br": "Mordida Perigosa",
                 "zh-tw": "危險的咬傷",
-                ja: "デンジャラスバイト"
+                ja: "デンジャラスバイト",
+                ko: "데인저러스 바이트"
             },
             damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, este ataque causará 70 de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢是基礎寶可夢，則這次攻擊造成的傷害增加 70 點。",
-                ja: "相手のバトルポケモンがたねポケモンなら、70ダメージ追加。"
+                ja: "相手のバトルポケモンがたねポケモンなら、70ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 기본 포켓몬이라면 70데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

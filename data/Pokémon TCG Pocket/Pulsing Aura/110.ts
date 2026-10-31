@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/110",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/110",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/110"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/110",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/110"
     },
     name: {
         en: "Mandibuzz",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Vom Himmel aus beobachtend, greifen sie geschwächte Beute am Boden an. Sie haben die Angewohnheit, sich mit Knochen zu schmücken.",
         "pt-br": "Observando do céu, eles atacam presas enfraquecidas no chão. Eles têm o hábito de se enfeitarem com ossos.",
         "zh-tw": "它們從空中觀察，攻擊地面上虛弱的獵物。他們有用骨頭裝飾自己的習慣。",
-        ja: "空から 地上を 観察して 弱った 獲物に 襲いかかる。 骨で 着飾る 習性。"
+        ja: "空から 地上を 観察して 弱った 獲物に 襲いかかる。 骨で 着飾る 習性。",
+        ko: "하늘에서 지상을 관찰하다\n쇠약해진 먹이를 덮친다.\n뼈로 몸치장하는 습성이 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Aus heiterem Himmel",
                 "pt-br": "Ponto Cego",
                 "zh-tw": "暗中奇襲",
-                ja: "やみうち"
+                ja: "やみうち",
+                ko: "암습"
             },
             effect: {
                 en: "This attack does 60 damage to 1 of your opponent's Pokémon that have damage on them.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners, auf dem Schaden liegt, 60 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 60 pontos de dano a 1 dos Pokémon do seu oponente que tenham dano.",
                 "zh-tw": "這次攻擊對對手 1 隻受到傷害的寶可夢造成 60 點傷害。",
-                ja: "ダメージを受けている相手のポケモン1匹に60ダメージ。"
+                ja: "ダメージを受けている相手のポケモン1匹に60ダメージ。",
+                ko: "데미지를 받고 있는 상대의 포켓몬 1마리에게 60데미지를 준다."
             }
         }
     ],

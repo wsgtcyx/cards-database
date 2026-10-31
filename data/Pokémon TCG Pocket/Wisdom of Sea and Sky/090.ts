@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/090",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/090"
     },
     name: {
         en: "Munna",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Munna",
         "zh-tw": "食夢夢",
         ja: "ムンナ",
+        ko: "몽나",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Spät in der Nacht erscheint es neben den Kissen der Menschen.\nWährend es sich von Träumen ernährt, werden die Muster auf seinem Körper sichtbar\ngeben ein schwaches Leuchten ab.",
         "pt-br": "Tarde da noite, aparece ao lado dos travesseiros das pessoas.\nÀ medida que se alimenta de sonhos, os padrões do seu corpo\nemite um leve brilho.",
         "zh-tw": "深夜，它出現在人們的枕頭邊。\n當它以夢為食時，它身上的圖案\n發出微弱的光芒。",
-        ja: "深夜 枕元に 現れる。 夢を 食べているとき 体の 模様が ぼんやりと 光る。"
+        ja: "深夜 枕元に 現れる。 夢を 食べているとき 体の 模様が ぼんやりと 光る。",
+        ko: "깊은 밤중 머리맡에 나타난다.\n꿈을 먹는 동안 몸에 있는\n무늬가 어렴풋이 빛난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
                 "zh-tw": "心理射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 20,
             cost: ["Psychic"]

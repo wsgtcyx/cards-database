@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/142",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/142",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/142"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/142",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/142"
     },
     name: {
         en: "Primeape",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
-        ja: "マンキー"
+        ja: "マンキー",
+        ko: "망키"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

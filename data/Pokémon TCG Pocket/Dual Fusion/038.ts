@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/038"
     },
     name: {
         en: "Palkia",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Laceração Espacial",
                 "zh-tw": "亞空裂斬",
                 ja: "あくうせつだん",
-                ko: "Spacial Rend"
+                ko: "공간절단"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "Se o seu oponente tiver um Estádio em jogo, descarte-o.",
                 "zh-tw": "將場上的對手的競技場卡丟棄。",
                 ja: "場に出ている相手のスタジアムをトラッシュ。",
-                ko: "If your opponent has a Stadium in play, discard it."
+                ko: "필드에 나와 있는 상대의 스타디움을 트래쉬한다."
             }
         }
     ],
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "Dizem que vive em uma dimensão espacial paralela à nossa. Aparece em mitologias.",
         "zh-tw": "據說住在互相平行的空間之間的裂縫，是在神話中登場的寶可夢。",
         ja: "並行して 並ぶ 空間の 狭間に 住むと 言われている。 神話に 登場する ポケモン。",
-        ko: "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology."
+        ko: "평행으로 늘어선 공간의\n틈새에 산다고 전해진다.\n신화에 등장하는 포켓몬이다."
     }
 };
 

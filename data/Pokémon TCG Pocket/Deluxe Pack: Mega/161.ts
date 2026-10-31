@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/161",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/161"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/161",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/161"
     },
     name: {
         en: "Honedge",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "O olho azul na empunhadura da espada é o verdadeiro corpo de Honedge, que suga a vida das pessoas com seu tecido velho.",
         "zh-tw": "獨劍鞘護手上的藍色眼珠是牠的本體。會用陳舊的布吸取人類的精氣。",
         ja: "剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。",
-        ko: "The blue eye on the sword's handguard is the\ntrue body of Honedge. With its old cloth, it\ndrains people's lives away."
+        ko: "검의 가드 부분에 있는 푸른 눈동자가\n단칼빙의 본체다. 낡은 천으로\n사람의 생기를 빨아들인다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Perfurar",
                 "zh-tw": "突刺",
                 ja: "つきさす",
-                ko: "Pierce"
+                ko: "궤찌르기"
             },
             damage: 20,
             cost: [

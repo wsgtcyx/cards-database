@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/072"
     },
     name: {
         en: "Frogadier",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
         ja: "ゲコガシラ",
+        ko: "개굴반장",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
         ja: "ケロマツ",
+        ko: "개구마르",
     },
     description: {
         en: "Its swiftness is unparalleled.\nIt can scale a tower of more\nthan 2,000 feet in a minute's time.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine Schnelligkeit ist beispiellos.\nEs kann einen Turm von mehr erklimmen\nmehr als 2.000 Fuß in einer Minute.",
         "pt-br": "Sua rapidez é incomparável.\nEle pode escalar uma torre de mais\nmais de 2.000 pés em um minuto.",
         "zh-tw": "其速度之快是無與倫比的。\n它可以攀爬更多的塔\n一分鐘內超過 2,000 英尺。",
-        ja: "身軽さは だれにも 負けない。 ６００メートルを 超える タワーの 天辺まで １分で 登りきる。"
+        ja: "身軽さは だれにも 負けない。 ６００メートルを 超える タワーの 天辺まで １分で 登りきる。",
+        ko: "누구보다도 가벼운 몸을 갖고 있다.\n600m를 넘는 타워의\n꼭대기까지 1분이면 올라간다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Prallen",
                 "pt-br": "Quicar",
                 "zh-tw": "彈跳",
-                ja: "とびはねる"
+                ja: "とびはねる",
+                ko: "뛰어오르기"
             },
             damage: 40,
             cost: ["Water", "Water"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

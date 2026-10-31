@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/027",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/027"
     },
     name: {
         en: "Shiinotic",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Shiinotic",
         "zh-tw": "燈罩夜菇",
         ja: "マシェード",
+        ko: "마셰이드",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
         ja: "ネマシュ",
+        ko: "자마슈",
     },
     description: {
         en: "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine flackernden Sporen locken Beute an und vertreiben sie\nschlafen. Sobald die Beute dieses Pokémon schläft,\nes entzieht ihnen mit seinen Fingerspitzen ihre Lebenskraft.",
         "pt-br": "Seus esporos tremeluzentes atraem as presas e as colocam para\ndormir. Assim que este Pokémon tiver sua presa cochilando,\ndrena sua vitalidade com as pontas dos dedos.",
         "zh-tw": "它閃爍的孢子引誘獵物並將其置於死地\n睡覺。一旦這只神奇寶貝的獵物打瞌睡，\n它用指尖耗盡他們的生命力。",
-        ja: "点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。"
+        ja: "点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。",
+        ko: "깜빡이는 포자의 빛으로\n먹이를 유인해서 잠들게 한다.\n손끝으로 생기를 흡수한다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Beleuchten",
                 "pt-br": "Iluminar",
                 "zh-tw": "照亮",
-                ja: "はっこう"
+                ja: "はっこう",
+                ko: "발광"
             },
             effect: {
                 en: "Once during your turn, you may put a random Pokémon from your deck into your hand.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges darfst du ein zufälliges Pokémon aus deinem Deck auf deine Hand nehmen.",
                 "pt-br": "Uma vez durante o seu turno, você pode colocar um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "在你的回合中，你可以從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
-                ja: "自分の番に1回使える。自分の山札からポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の番に1回使える。自分の山札からポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Sanfter Schlag",
                 "pt-br": "Tapa suave",
                 "zh-tw": "輕輕一巴掌",
-                ja: "ひっぱたく"
+                ja: "ひっぱたく",
+                ko: "세게때리기"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

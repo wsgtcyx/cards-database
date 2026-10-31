@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/162",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/162",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/162"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/162",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/162"
     },
     name: {
         en: "Quagsire",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Aufgrund seiner entspannten und unbekümmerten Haltung stößt er beim Schwimmen häufig mit dem Kopf an Felsbrocken im Flussbett und Bootsrümpfen.",
         "pt-br": "Devido à sua atitude relaxada e despreocupada, muitas vezes bate a cabeça nas pedras do leito dos rios e nos cascos dos barcos enquanto nada.",
         "zh-tw": "由於其輕鬆、無憂無慮的態度，它在游泳時經常將頭撞到河床巨石和船體上。",
-        ja: "のんびりとした 性格で 泳いでいては 川底の 岩や 船底に 頭を ぶつけている。"
+        ja: "のんびりとした 性格で 泳いでいては 川底の 岩や 船底に 頭を ぶつけている。",
+        ko: "느긋한 성격으로\n헤엄치다가 강바닥의 돌과\n배의 밑바닥에 머리를 들이받곤 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schlammige Kopfnuss",
                 "pt-br": "Cabeçada Lamacenta",
                 "zh-tw": "泥巴頭擊",
-                ja: "どろんこヘッド"
+                ja: "どろんこヘッド",
+                ko: "흙탕헤드"
             },
             effect: {
                 en: "If this Pokémon has any {F} Energy attached, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon {F}-Energie angelegt ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver alguma Energia {F} anexada, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果這隻寶可夢附加了任何{F}能量，則此攻擊造成的傷害增加 60 點。",
-                ja: "このポケモンに{F}エネルギーがついているなら、60ダメージ追加。"
+                ja: "このポケモンに{F}エネルギーがついているなら、60ダメージ追加。",
+                ko: "이 포켓몬에게 {F}에너지가 붙어 있다면 60데미지를 추가한다."
             },
             damage: "60+"
         }

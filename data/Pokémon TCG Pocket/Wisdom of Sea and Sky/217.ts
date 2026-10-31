@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/217",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/217",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/217"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/217",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/217"
     },
     name: {
         en: "Magnemite",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
         ja: "コイル",
+        ko: "코일",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die von den Einheiten ausgesendeten elektromagnetischen Wellen\nan den Seiten seines Kopfes stoßen Antigravitation aus, die\nlässt es schweben.",
         "pt-br": "As ondas eletromagnéticas emitidas pelas unidades\nnas laterais de sua cabeça expelem antigravidade, que\npermite que ele flutue.",
         "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。",
-        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。"
+        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
+        ko: "좌우에 있는 유닛에서 나오는\n전자파를 이용해\n중력을 거슬러 하늘에 떠 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Blitzball",
                 "pt-br": "Bola Relâmpago",
                 "zh-tw": "閃電球",
-                ja: "ピッカリだま"
+                ja: "ピッカリだま",
+                ko: "번쩍구슬"
             },
             damage: 20,
             cost: ["Lightning"]

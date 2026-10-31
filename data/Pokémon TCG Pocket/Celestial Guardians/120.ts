@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/120",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/120",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/120",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/120"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/120",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/120"
     },
     name: {
         en: "Escavalier",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Karrablast",
         "zh-tw": "蓋蓋蟲",
         ja: "カブルモ",
+        ko: "딱정곤",
     },
     description: {
         en: "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",

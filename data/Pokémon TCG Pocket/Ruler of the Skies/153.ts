@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/153",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/153",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/153",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/153"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/153",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/153"
     },
     name: {
         en: "Wally",
@@ -34,7 +35,8 @@ const card: Card = {
         "zh-tw": "從自己的能量區抽出1個{C}能量,附於2階進化寶可夢身上。",
         "it": "Prendi un'Energia {C} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon di Fase 2.",
         "de": "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase 2 Pokémon an.",
-        ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、2進化ポケモンにつける。"
+        ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、2進化ポケモンにつける。",
+        ko: "자신의 에너지존에서 {C}에너지를 1개 내보내 2진화 포켓몬에게 붙인다."
     },
     trainerType: "Supporter"
 };

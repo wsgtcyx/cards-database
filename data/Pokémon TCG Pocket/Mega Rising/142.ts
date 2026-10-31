@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/142",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/142",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/142"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/142",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/142"
     },
     name: {
         en: "Bewear",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bewear",
         "zh-tw": "穿著熊",
         ja: "キテルグマ",
+        ko: "이븐곰",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
         ja: "ヌイコグマ",
+        ko: "포곰곰",
     },
     description: {
         en: "The moves it uses to take down its prey would\nmake a martial artist jealous. It tucks subdued\nprey under its arms to carry them to its nest.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Bewegungen, mit denen es seine Beute zur Strecke bringt, würden es tun\neinen Kampfkünstler eifersüchtig machen. Es wirkt gedämpft\nBeute unter seinen Armen, um sie zu seinem Nest zu tragen.",
         "pt-br": "Os movimentos que ele usa para derrubar suas presas seriam\ndeixar um artista marcial com ciúmes. Ele fica subjugado\npresa debaixo dos braços para carregá-la até o ninho.",
         "zh-tw": "它用來擊倒獵物的動作\n讓武者嫉妒。它褶皺柔和\n將獵物夾在腋下，然後將它們帶回巢穴。",
-        ja: "格闘家 顔負けの 技で 仕留めた 獲物を 両脇に 抱えて すみかへ 持ち帰る。"
+        ja: "格闘家 顔負けの 技で 仕留めた 獲物を 両脇に 抱えて すみかへ 持ち帰る。",
+        ko: "격투가가 무색할 정도의 기술로\n먹이를 잡아 양쪽 겨드랑이에\n끼우고 거처로 갖고 간다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
                 "zh-tw": "重擊",
-                ja: "ヘビーインパクト"
+                ja: "ヘビーインパクト",
+                ko: "헤비임팩트"
             },
             damage: 90,
             cost: ["Fighting", "Fighting", "Fighting"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/084"
     },
     name: {
         en: "Tapu Koko ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tapu Koko ex",
         "zh-tw": "卡璞・鳴鳴ex",
         ja: "カプ・コケコex",
+        ko: "카푸꼬꼬꼭 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Plasma-Hurrikan",
                 "pt-br": "Furacão de Plasma",
                 "zh-tw": "等離子颶風",
-                ja: "プラズマハリケーン"
+                ja: "プラズマハリケーン",
+                ko: "플라스마 허리케인"
             },
             damage: 20,
             cost: ["Lightning"],
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         },
         {
@@ -62,7 +66,8 @@ const card: Card = {
                 "de": "Mach Bolt",
                 "pt-br": "Parafuso Mach",
                 "zh-tw": "馬赫螺栓",
-                ja: "マッハボルト"
+                ja: "マッハボルト",
+                ko: "마하볼트"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"]

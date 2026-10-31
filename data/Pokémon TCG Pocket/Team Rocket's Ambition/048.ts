@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/048"
     },
     name: {
         en: "Team Rocket's Tinkatink",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es stellt seinen Hammer her, indem es Eisenspäne zusammenstampft. Diesen Vorgang wiederholt es so oft, bis es mit dem Ergebnis zufrieden ist.",
         "pt-br": "Este Pokémon usa ferro sucateado para fazer um martelo. Vai refazê-lo o quanto for preciso até ficar contente com o resultado.",
         "zh-tw": "敲打鐵屑來製作錘子。直到做出自己滿意的作品前，會一次又一次地重做。",
-        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。"
+        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。",
+        ko: "쇠 부스러기를 두드려 해머를 만든다.\n만족스러운 물건이 나올 때까지\n몇 번이고 다시 만든다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Sprungangriff",
                 "pt-br": "Bote",
                 "zh-tw": "撞倒",
-                ja: "つきたおし"
+                ja: "つきたおし",
+                ko: "넘어뜨리기"
             },
             damage: 20
         }

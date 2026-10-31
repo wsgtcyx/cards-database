@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/123",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/123"
     },
     name: {
         en: "Eviolite",
@@ -41,7 +42,7 @@ const card: Card = {
         it: "Il Pokémon Base a cui è assegnata questa carta subisce -20 danni dagli attacchi dei Pokémon avversari.",
         de: "Dem Basis-Pokémon, an das diese Karte angelegt ist, werden − 20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt.",
         ja: "このカードをつけているたねポケモンが、相手のポケモンから受けるワザのダメージを-20する。",
-        ko: "The Basic Pokémon this card is attached to takes −20 damage from attacks from your opponent's Pokémon."
+        ko: "이 카드를 붙이고 있는 기본 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지를 -20한다."
     }
 };
 

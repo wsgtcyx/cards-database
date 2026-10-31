@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/067",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/067"
     },
     name: {
         en: "Cloyster",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Muschas",
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
-        ja: "シェルダー"
+        ja: "シェルダー",
+        ko: "셀러"
     },
     abilities: [{
             type: "Ability",

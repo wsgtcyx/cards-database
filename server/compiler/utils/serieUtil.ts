@@ -9,12 +9,12 @@ export async function getSerie(name: string, lang: SupportedLanguages): Promise<
 }
 
 export async function isSerieAvailable(serie: Serie, lang: SupportedLanguages): Promise<boolean> {
-	if (lang === 'ja' && !serie.name?.ja) throw new Error(`Series (${serie.id}) has no Japanese name`)
+	if ((lang === 'ja' || lang === 'ko') && !serie.name?.[lang]) throw new Error(`Series (${serie.id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} name`)
 	if (!resolveText(serie.name, lang)) {
 		return false
 	}
 	const sets = await getSets(serie.name.en, lang)
-	if (lang === 'ja' && sets.length === 0) throw new Error(`Series (${serie.id}) has no Japanese sets`)
+	if ((lang === 'ja' || lang === 'ko') && sets.length === 0) throw new Error(`Series (${serie.id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} sets`)
 	return sets.length > 0
 }
 
@@ -27,7 +27,7 @@ export async function getSeries(lang: SupportedLanguages): Promise<Array<Serie>>
 		.map((it) => getSerie(it, lang))))
 		// Filter the serie if no name's exists in the selected lang
 		.filter((serie) => {
-			if (lang === 'ja' && !serie.name?.ja) throw new Error(`Series (${serie.id}) has no Japanese name`)
+			if ((lang === 'ja' || lang === 'ko') && !serie.name?.[lang]) throw new Error(`Series (${serie.id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} name`)
 			return Boolean(resolveText(serie.name, lang))
 		})
 

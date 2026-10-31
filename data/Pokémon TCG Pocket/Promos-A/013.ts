@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/013"
     },
     name: {
         en: "Butterfree",
@@ -77,7 +78,8 @@ const card: Card = {
         "de": "Safcon",
         "pt-br": "Metapod",
         "zh-tw": "鐵甲蛹",
-        ja: "トランセル"
+        ja: "トランセル",
+        ko: "단데기"
     },
     description: {
         en: "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",

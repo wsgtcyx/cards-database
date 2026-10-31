@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/053",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/053",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/053"
     },
     name: {
         en: "Luxray",
@@ -49,7 +50,8 @@ const card: Card = {
         "de": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich.",
         "pt-br": "A habilidade do Luxray de ver através dos objetos é muito útil quando confere se há perigos.",
         "zh-tw": "倫琴貓的透視能力\n在發現危險事物時\n非常有幫助。",
-        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。"
+        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。",
+        ko: "렌트라의 투시 능력은\n위험한 것을 발견할 때\n매우 도움이 된다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Rachestoß",
                 "pt-br": "Raio de Vingança",
                 "zh-tw": "復仇暴擊",
-                ja: "リベンジバースト"
+                ja: "リベンジバースト",
+                ko: "리벤지버스트"
             },
             effect: {
                 en: "This attack does 50 more damage for each point your opponent has gotten.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "pt-br": "Este ataque causa 50 pontos de dano a mais para cada ponto que seu oponente recebeu.",
                 "zh-tw": "增加對手已經獲得的分數×50點傷害。",
                 "de": "Diese Attacke fügt für jeden von deinem Gegner erhaltenen Punkt 50 Schadenspunkte mehr zu.",
-                ja: "相手がすでにとったポイントの数×50ダメージ追加。"
+                ja: "相手がすでにとったポイントの数×50ダメージ追加。",
+                ko: "상대가 이미 가져간 포인트의 수 × 50데미지를 추가한다."
             },
             damage: "80+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/024"
     },
     name: {
         en: "Cryogonal",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cryogonal",
         "zh-tw": "幾何雪花",
         ja: "フリージオ",
+        ko: "프리지오",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kryogonale treten in der kalten Jahreszeit auf. Es heißt\ndass Menschen und Pokémon, die im Schnee sterben\nBerge werden in diesen Pokémon wiedergeboren.",
         "pt-br": "Criogonais aparecem durante as estações frias. É dito\nque pessoas e Pokémon que morrem na neve\nmontanhas renascem nesses Pokémon.",
         "zh-tw": "冷凍出現在寒冷季節。據說\n那些死在雪地裡的人和神奇寶貝\n山脈在這些神奇寶貝中重生。",
-        ja: "寒い 季節に 現れる。 雪山で 亡くなった ポケモンや 人の 生まれ変わりと 言われる。"
+        ja: "寒い 季節に 現れる。 雪山で 亡くなった ポケモンや 人の 生まれ変わりと 言われる。",
+        ko: "추운 계절에 나타난다.\n설산에서 죽은 포켓몬이나 사람이\n환생한 것이라고 전해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Eisklinge",
                 "pt-br": "Lâmina de Gelo",
                 "zh-tw": "冰刃",
-                ja: "こおりのやいば"
+                ja: "こおりのやいば",
+                ko: "얼음칼날"
             },
             cost: ["Water", "Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。",
-                ja: "相手のポケモン1匹に40ダメージ。"
+                ja: "相手のポケモン1匹に40ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 40데미지를 준다."
             }
         }],
     weaknesses: [{

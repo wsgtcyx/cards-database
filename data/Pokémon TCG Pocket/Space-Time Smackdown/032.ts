@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/032",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/032"
     },
     name: {
         en: "Piloswine",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Swinub",
         "zh-tw": "小山豬",
         ja: "ウリムー",
+        ko: "꾸꾸리",
     },
     description: {
         en: "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
@@ -71,7 +73,7 @@ const card: Card = {
                 de: "Diesem Pokémon werden durch Attacken von {R}- oder {W}-Pokémon − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −20 pontos de dano de ataques de Pokémon {R} ou {W}.",
                 ja: "このポケモンが、{R}または{W}ポケモンから受けるワザのダメージを-20する。",
-                ko: "이 포켓몬이 {R} 또는 {W}포켓몬으로부터 받는 기술의 데미지를 {R}-20[/Ctrl:NoBreak]한다.",
+                ko: "이 포켓몬이 {R} 또는 {W}포켓몬으로부터 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "該神奇寶貝因 {R} 或 {W} 神奇寶貝的攻擊而受到 -20 點傷害。"
             }
         }],

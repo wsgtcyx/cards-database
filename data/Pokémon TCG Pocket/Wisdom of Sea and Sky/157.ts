@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/157",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/157",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/157"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/157",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/157"
     },
     name: {
         en: "Lyra",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lyra",
         "zh-tw": "琴音",
         ja: "コトネ",
+        ko: "금선",
     },
     illustrator: "yuu",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Tausche dein Aktives Pokémon, das Schaden hat, gegen eines deiner Bank-Pokémon aus.",
         "pt-br": "Troque o seu Pokémon Ativo que apresenta dano por 1 dos seus Pokémon no Banco.",
         "zh-tw": "將受到傷害的活躍寶可夢與 1 只後備寶可夢交換。",
-        ja: "ダメージを受けている自分のバトルポケモンを、ベンチポケモンと入れ替える。"
+        ja: "ダメージを受けている自分のバトルポケモンを、ベンチポケモンと入れ替える。",
+        ko: "데미지를 받고 있는 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다."
     },
     trainerType: "Supporter",
     boosters: ["lugia"]

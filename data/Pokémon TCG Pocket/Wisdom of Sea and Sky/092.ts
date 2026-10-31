@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/092",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/092"
     },
     name: {
         en: "Onix",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
         ja: "イワーク",
+        ko: "롱스톤",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während es sich durch den Boden gräbt, nimmt es viele auf\nharte Gegenstände. Das macht seinen Körper so robust.",
         "pt-br": "À medida que escava o solo, absorve muitos\nobjetos duros. É isso que torna seu corpo tão sólido.",
         "zh-tw": "當它挖掘地面時，它吸收了許多\n堅硬的物體。這就是它的身體如此堅固的原因。",
-        ja: "地中を 掘り進みながら いろんな 硬いものを 取り込み 頑丈な 体をつくる。"
+        ja: "地中を 掘り進みながら いろんな 硬いものを 取り込み 頑丈な 体をつくる。",
+        ko: "땅속을 파고들면서 여러 가지\n단단한 것들을 집어삼켜서\n튼튼한 몸을 만든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

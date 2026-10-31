@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/306",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/306",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/306",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/306"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/306",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/306"
 	},
 	name: {
 		en: "Cyclizar",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Mopex",
 		"pt-br": "Cyclizar",
 		"zh-tw": "摩托蜥",
-		ja: "モトトカゲ"
+		ja: "モトトカゲ",
+		ko: "모토마"
 	},
 	illustrator: "HAGIYA Kaoru",
 	rarity: "Two Diamond",

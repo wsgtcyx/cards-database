@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/043"
     },
     name: {
         en: "Wattrel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wattrel",
         "zh-tw": "電海燕",
         ja: "カイデン",
+        ko: "찌리비",
         pt: "Wattrel"
     },
     illustrator: "sowsow",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Diese Pokémon bauen ihre Nester auf Küstenklippen. Die Nester haben eine seltsame, knisternde Konsistenz und sind eine beliebte Delikatesse.",
         "pt-br": "Esses Pokémon fazem seus ninhos nas falésias costeiras. Os ninhos têm uma textura estranha e crepitante e são uma iguaria popular.",
         "zh-tw": "這些寶可夢在海岸懸崖上築巢。燕窩有一種奇怪的、劈啪作響的質地，是一種很受歡迎的美味佳餚。",
-        ja: "海岸の 崖に 巣を 作る。 巣は パチパチ 弾ける 不思議な 食感で 人気の 珍味。"
+        ja: "海岸の 崖に 巣を 作る。 巣は パチパチ 弾ける 不思議な 食感で 人気の 珍味。",
+        ko: "바닷가 절벽에 둥지를 짓는다.\n둥지는 바삭바삭한 식감 덕에\n인기 있는 별미다."
     },
     stage: "Basic",
     attacks: [

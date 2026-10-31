@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/238",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/238",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/238",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/238"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/238",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/238"
     },
     name: {
         en: "Weavile ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Weavile ex",
         "zh-tw": "瑪狃拉ex",
         ja: "マニューラex",
+        ko: "포푸니라 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
         ja: "ニューラ",
+        ko: "포푸니",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Kratzende Nägel",
                 "pt-br": "Coçar as unhas",
                 "zh-tw": "抓指甲",
-                ja: "スクラッチネイル"
+                ja: "スクラッチネイル",
+                ko: "스크래치네일"
             },
             damage: "30+",
             cost: ["Darkness"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners Schaden hat, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente sofrer dano, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果對手的出戰寶可夢受到傷害，則這次攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンがダメージを受けているなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンがダメージを受けているなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

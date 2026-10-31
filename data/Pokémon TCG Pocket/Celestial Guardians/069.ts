@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/069"
     },
     name: {
         en: "Mr. Mime",

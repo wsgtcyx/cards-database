@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/050"
     },
     name: {
         en: "Salazzle",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Molunk",
         "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
-        ja: "ヤトウモリ"
+        ja: "ヤトウモリ",
+        ko: "야도뇽"
     },
     attacks: [{
             cost: ["Fire", "Colorless"],

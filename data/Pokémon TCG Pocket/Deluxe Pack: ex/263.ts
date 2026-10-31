@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/263",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/263",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/263",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/263"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/263",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/263"
     },
     name: {
         en: "Tinkatink",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
         ja: "カヌチャン",
+        ko: "어리짱",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zum Schutz schwingt es seinen handgefertigten Hammer herum\nselbst, aber der Hammer wird oft von Pokémon gestohlen\ndie Metall fressen.",
         "pt-br": "Ele balança seu martelo artesanal para proteger\nem si, mas o martelo é frequentemente roubado por Pokémon\nque comem metal.",
         "zh-tw": "它揮舞著手工製作的錘子來保護\n本身，但錘子經常被神奇寶貝偷走\n吃金屬的。",
-        ja: "手作りの ハンマーを 振りまわして 身を 守るが 金属を 食べる ポケモンには よく 奪われる。"
+        ja: "手作りの ハンマーを 振りまわして 身を 守るが 金属を 食べる ポケモンには よく 奪われる。",
+        ko: "손수 만든 해머를 휘둘러\n몸을 지키려 하나\n금속을 먹는 포켓몬에게 자주 빼앗기고 만다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Korkenzieherstanze",
                 "pt-br": "Furador de saca-rolhas",
                 "zh-tw": "螺旋沖頭",
-                ja: "どつく"
+                ja: "どつく",
+                ko: "쥐어박기"
             },
             damage: 20,
             cost: ["Metal"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/021",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/021"
     },
     name: {
         en: "Basculin",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Barschuft",
         "pt-br": "Basculin",
         "zh-tw": "野蠻鱸魚",
-        ja: "バスラオ"
+        ja: "バスラオ",
+        ko: "배쓰나이"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Angler lieben den Kampf, den dieses Pokémon führt\nder Haken. Und es gibt immer noch mehr zu fangen –\nViele Menschen setzen sie illegal in Seen frei.",
         "pt-br": "Os pescadores adoram a luta que este Pokémon trava\no gancho. E sempre há mais para capturar—\nmuitas pessoas os liberam ilicitamente nos lagos.",
         "zh-tw": "釣魚者喜歡這只神奇寶貝的戰鬥\n鉤子。而且總是有更多的東西可以捕捉——\n許多人將它們非法釋放到湖泊中。",
-        ja: "タフな ファイトが 釣り人に 大人気。 無断で 池に 放すので どんどん 増える。"
+        ja: "タフな ファイトが 釣り人に 大人気。 無断で 池に 放すので どんどん 増える。",
+        ko: "힘이 세기 때문에 낚시꾼들에게\n인기가 많다. 무단으로 연못에 놓아줘서\n점점 개체 수가 늘어나고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Überraschungsschlag",
                 "pt-br": "Greve Surpresa",
                 "zh-tw": "奇襲",
-                ja: "きしゅうこうげき"
+                ja: "きしゅうこうげき",
+                ko: "기습공격"
             },
             damage: "40+",
             cost: ["Water", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon in diesem Zug von deiner Bank auf den aktiven Platz verschoben wurde, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon for movido do seu Banco para o Local Ativo neste turno, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果本回合這只神奇寶貝從你的替補席移至活躍位置，則這次攻擊造成的傷害增加 40 點。",
-                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、40ダメージ追加。"
+                ja: "この番、このポケモンがベンチからバトル場に出ていたなら、40ダメージ追加。",
+                ko: "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

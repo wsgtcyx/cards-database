@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/325",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/325",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/325",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/325"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/325",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/325"
 	},
 	name: {
         en: "Leaf Cape",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Capa de Folha",
         "zh-tw": "葉綠斗蓬",
         ja: "リーフマント",
+        ko: "리프망토",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Das {G}-Pokémon, an das diese Karte angelegt ist, erhält +30 HP.",
         "pt-br": "O Pokémon {G} ao qual esta carta está anexada ganha +30 HP.",
         "zh-tw": "這張卡所附著的{G}寶可夢HP+30。",
-        ja: "このカードをつけている{G}ポケモンの最大HPを+30する。"
+        ja: "このカードをつけている{G}ポケモンの最大HPを+30する。",
+        ko: "이 카드를 붙이고 있는 {G}포켓몬의 최대 HP를 +30한다."
     },
     trainerType: "Tool"
 };

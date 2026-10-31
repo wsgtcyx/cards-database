@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/090"
     },
     name: {
         en: "Trevenant",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Trombork ist sehr freundlich zu den im Wald lebenden Pokémon. Es ist ihm sogar egal, ob sich diese Pokémon im Grünen auf seinem Kopf niederlassen.",
         "pt-br": "Trevenant é muito gentil com os Pokémon que vivem na floresta. Ele nem se importa se esses Pokémon fixam residência na vegetação em sua cabeça.",
         "zh-tw": "朽木妖對住在森林裡的寶可夢非常友善。它甚至不在乎這些寶可夢是否棲息在它頭上的綠色植物中。",
-        ja: "森に 棲む ポケモンには とても 優しい。 頭の しげみを 棲み処にされても 気にしない。"
+        ja: "森に 棲む ポケモンには とても 優しい。 頭の しげみを 棲み処にされても 気にしない。",
+        ko: "숲에 사는 포켓몬에게는 매우 상냥하다.\n머리의 수풀을 거처로 삼아도\n신경 쓰지 않는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kampfstampfer",
                 "pt-br": "Furacão Estrondoso",
                 "zh-tw": "轟鳴重跺",
-                ja: "ランブルストンプ"
+                ja: "ランブルストンプ",
+                ko: "럼블스톰프"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa mais 40 danos para cada cabeça.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。",
-                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。"
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 40데미지를 추가한다."
             },
             damage: "40+"
         }

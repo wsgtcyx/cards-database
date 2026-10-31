@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/070"
     },
     name: {
         en: "Sableye",

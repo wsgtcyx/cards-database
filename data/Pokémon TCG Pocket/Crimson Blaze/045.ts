@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/045"
     },
     name: {
         en: "Grimer",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sleima",
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
-        ja: "ベトベター"
+        ja: "ベトベター",
+        ko: "질퍽이"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Erscheint in schmutzigen Bereichen. Es gedeiht durch Saugen\nverschmutzter Schlamm, der aus Fabriken gepumpt wird.",
         "pt-br": "Aparece em áreas sujas. Ele prospera sugando\nlama poluída que é bombeada para fora das fábricas.",
         "zh-tw": "出現在骯髒的地方。它靠吸吮而茁壯成長\n從工廠抽出的污染污泥。",
-        ja: "汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。"
+        ja: "汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。",
+        ko: "지저분한 곳에 모습을 드러낸다.\n공장에서 내보내는 오물\n폐수를 마시며 살고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlammbombe",
                 "pt-br": "Bomba de lama",
                 "zh-tw": "污泥炸彈",
-                ja: "ヘドロばくだん"
+                ja: "ヘドロばくだん",
+                ko: "오물폭탄"
             },
             damage: 40,
             cost: ["Darkness", "Darkness"]

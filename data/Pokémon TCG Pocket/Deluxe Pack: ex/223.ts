@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/223",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/223",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/223",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/223"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/223",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/223"
 	},
 	name: {
 		en: "Passimian ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Quartermak-ex",
 		"pt-br": "Passimian ex",
 		"zh-tw": "投擲猴ex",
-		ja: "ナゲツケサルex"
+		ja: "ナゲツケサルex",
+		ko: "내던숭이 ex"
 	},
 	illustrator: "PLANETA Tsuji",
 	rarity: "Four Diamond",

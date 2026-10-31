@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/074",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/074"
     },
     name: {
         en: "Slowking",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Slowking",
         "zh-tw": "呆呆王",
         ja: "ヤドキング",
+        ko: "야도킹",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Flegmon",
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸",
-        ja: "ヤドン"
+        ja: "ヤドン",
+        ko: "야돈"
     },
     description: {
         en: "When its head was bitten, toxins entered Slowpoke's\nhead and unlocked an extraordinary power.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Als sein Kopf gebissen wurde, gelangten Giftstoffe in Slowpokes Körper\nKopf und setzte eine außergewöhnliche Kraft frei.",
         "pt-br": "Quando sua cabeça foi mordida, toxinas entraram no corpo de Slowpoke.\ncabeça e desbloqueou um poder extraordinário.",
         "zh-tw": "當它的頭被咬時，毒素就進入了呆呆獸的身體\n頭並釋放出非凡的力量。",
-        ja: "かまれたとき 頭に 染みこんだ 毒素に よって ただならない 能力に 目覚めた ヤドン。"
+        ja: "かまれたとき 頭に 染みこんだ 毒素に よって ただならない 能力に 目覚めた ヤドン。",
+        ko: "물렸을 때 머리에 깊게 스며든\n독소에 의해 심상치 않은\n능력에 눈을 뜬 야돈이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hellseher",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             damage: "10+",
             cost: ["Psychic", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
-                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

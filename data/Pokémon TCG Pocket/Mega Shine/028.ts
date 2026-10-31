@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/028"
     },
     name: {
         en: "Drowzee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es mit der Nase zuckt, kann es erkennen, wo jemand schläft und wovon diese Person träumt.",
         "pt-br": "Quando torce o nariz, ele consegue dizer onde alguém está dormindo e com o que essa pessoa está sonhando.",
         "zh-tw": "當它抽動鼻子時，它可以知道某人在哪裡睡覺以及那個人在做什麼夢。",
-        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。"
+        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。",
+        ko: "튀어나온 코를 실룩샐룩거리면\n어디에 있는 누가 어떤 꿈을 꾸고 있는지\n전부 알 수 있다고 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Hypnose",
                 "pt-br": "Hipnose",
                 "zh-tw": "催眠術",
-                ja: "さいみんじゅつ"
+                ja: "さいみんじゅつ",
+                ko: "최면술"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }
     ],

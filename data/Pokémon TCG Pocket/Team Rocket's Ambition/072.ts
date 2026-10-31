@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/072"
     },
     name: {
         en: "Arcade",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Einmal während des Zuges jedes Spielers kann jener Spieler 3 Münzen werfen. Zeigen alle Münzen Kopf, zieht jener Spieler so lange Karten, bis er 7 Karten auf der Hand hat.",
         "pt-br": "Uma vez durante o turno de cada jogador, aquele jogador poderá jogar 3 moedas. Se todas saírem cara, aquele jogador comprará cartas até ter 7 cartas na própria mão.",
         "zh-tw": "雙方玩家在自己的回合時,可使用1次。擲3次硬幣,若全部為正面,則從牌庫抽卡直到自己的手牌滿7張為止。",
-        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを3回投げ、すべてオモテなら、自分の手札が7枚になるように、山札を引く。"
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを3回投げ、すべてオモテなら、自分の手札が7枚になるように、山札を引く。",
+        ko: "서로의 플레이어는 자신의 차례에 1번 사용할 수 있다. 동전을 3번 던져서 모두 앞면이 나오면 자신의 패가 7장이 되도록 덱을 뽑는다."
     },
     trainerType: "Stadium"
 };

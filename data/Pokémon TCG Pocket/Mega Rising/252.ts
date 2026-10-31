@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/252",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/252",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/252",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/252"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/252",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/252"
     },
     name: {
         en: "Whimsicott ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Whimsicott ex",
         "zh-tw": "風妖精ex",
         ja: "エルフーンex",
+        ko: "엘풍 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
         ja: "モンメン",
+        ko: "소미안",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Grasknoten",
                 "pt-br": "Nó de grama",
                 "zh-tw": "草結",
-                ja: "くさむすび"
+                ja: "くさむすび",
+                ko: "풀묶기"
             },
             damage: "40+",
             cost: ["Grass", "Colorless"],
@@ -60,13 +64,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 30 點額外傷害。",
-                ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

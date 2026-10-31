@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/089"
     },
     name: {
         en: "Poliwrath ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Poliwrath ex",
         "zh-tw": "蚊香泳士ex",
         ja: "ニョロボンex",
+        ko: "강챙이 ex",
     },
     illustrator: "Teeziro",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
         ja: "ニョロゾ",
+        ko: "슈륙챙이",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Hydroknöchel",
                 "pt-br": "Junta Hidrográfica",
                 "zh-tw": "液壓轉向節",
-                ja: "ハイドロナックル"
+                ja: "ハイドロナックル",
+                ko: "하이드로너클"
             },
             damage: "100+",
             cost: ["Fighting", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon {W}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver alguma Energia {W} anexada, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果該神奇寶貝附加了任何 {W} 能量，則此攻擊造成的傷害增加 40 點。",
-                ja: "このポケモンに{W}エネルギーがついているなら、40ダメージ追加。"
+                ja: "このポケモンに{W}エネルギーがついているなら、40ダメージ追加。",
+                ko: "이 포켓몬에게 {W}에너지가 붙어 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

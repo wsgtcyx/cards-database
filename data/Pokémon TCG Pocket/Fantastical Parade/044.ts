@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/044"
     },
     name: {
         en: "Drednaw",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kamalm",
         "pt-br": "Drednaw",
         "zh-tw": "暴噬龜",
-        ja: "カジリガメ"
+        ja: "カジリガメ",
+        ko: "갈가부기"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kamehaps",
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
-        ja: "カムカメ"
+        ja: "カムカメ",
+        ko: "깨물부기"
     },
     description: {
         en: "Drednaw lurks along the shoreline. When prey\ncome to drink water, Drednaw stretches its neck\nout and chomps down on them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Drednaw lauert an der Küste. Wenn Beute\nDrednaw kommt, um Wasser zu trinken, und streckt seinen Hals\nraus und kaut auf ihnen herum.",
         "pt-br": "Drednaw espreita ao longo da costa. Quando presa\nvem beber água, Drednaw estica o pescoço\ne os mastiga.",
         "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。",
-        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。"
+        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。",
+        ko: "물가에 숨어 있다가\n먹잇감이 물을 마시러 오면\n목을 길게 늘여서 덥석 물어 버린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
                 "zh-tw": "重擊",
-                ja: "ヘビーインパクト"
+                ja: "ヘビーインパクト",
+                ko: "헤비임팩트"
             },
             damage: 120,
             cost: ["Water", "Water", "Water", "Colorless"]

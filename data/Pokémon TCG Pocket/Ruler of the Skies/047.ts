@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/047",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/047",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/047"
     },
     name: {
         en: "Araquanid",
@@ -49,7 +50,8 @@ const card: Card = {
         "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug.",
         "pt-br": "Lança bolhas de água grudentas. Inimigos que perderem a consciência enquanto aprisionados nessas bolhas serão destroçados pelas mandíbulas de Araquanid.",
         "zh-tw": "會發射黏答答的水泡。\n等被困在水泡中的敵人失去意識後，\n牠就會用大顎將其咬成碎片。",
-        ja: "ねばねばの 水泡を 発射。 閉じこめた 敵が 気を 失うと 大あごで 噛み砕いてしまう。"
+        ja: "ねばねばの 水泡を 発射。 閉じこめた 敵が 気を 失うと 大あごで 噛み砕いてしまう。",
+        ko: "끈적끈적한 수포를 발사한다.\n안에 갇힌 적이 정신을 잃으면\n큰턱으로 깨물어 부순다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Ecke",
                 "pt-br": "Quina",
                 "zh-tw": "窮追不捨",
-                ja: "おいつめる"
+                ja: "おいつめる",
+                ko: "몰아붙이기"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             },
             damage: 60
         }

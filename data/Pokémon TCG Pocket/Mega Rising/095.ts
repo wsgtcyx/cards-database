@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/095"
     },
     name: {
         en: "Yamper",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
         ja: "ワンパチ",
+        ko: "멍파치",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses gefräßige Pokémon hilft Menschen nur bei\nihre Arbeit, weil sie Leckereien will. Während es läuft,\nes knistert vor Elektrizität.",
         "pt-br": "Este Pokémon guloso só ajuda pessoas com\nseu trabalho porque quer guloseimas. À medida que corre,\nele estala com eletricidade.",
         "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。",
-        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。",
+        ko: "간식에 끌려 사람의 일을\n돕는 먹보다. 탁탁 튀는\n전기를 두르고 계속 달린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Brüllen",
                 "pt-br": "Rugido",
                 "zh-tw": "吼",
-                ja: "ほえる"
+                ja: "ほえる",
+                ko: "울부짖기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
-                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+                ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

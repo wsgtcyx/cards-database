@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/288",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/288",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/288",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/288"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/288",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/288"
     },
     name: {
         en: "Weepinbell",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Weepinbell",
         "zh-tw": "口呆花",
         ja: "ウツドン",
+        ko: "우츠동",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Knofensa",
         "pt-br": "Bellsprout",
         "zh-tw": "喇叭芽",
-        ja: "マダツボミ"
+        ja: "マダツボミ",
+        ko: "모다피"
     },
     description: {
         en: "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Blattteile dienen als Messer zum Aufschlitzen von Feinden.\nEs spuckt eine Flüssigkeit aus, die alles auflöst.",
         "pt-br": "As partes folhosas atuam como cortadores para cortar os inimigos.\nCospe um fluido que dissolve tudo.",
         "zh-tw": "葉狀部分充當切割敵人的刀具。\n它噴出一種可以溶解一切的液體。",
-        ja: "葉っぱの 部分は カッターになって 相手を 切り裂く。口からは なんでも 溶かす 液体を 吐く。"
+        ja: "葉っぱの 部分は カッターになって 相手を 切り裂く。口からは なんでも 溶かす 液体を 吐く。",
+        ko: "잎사귀 부분은 칼날이 되어\n상대를 베어버린다. 입에서는\n무엇이든 녹이는 액체를 뿜어낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

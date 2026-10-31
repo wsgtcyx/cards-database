@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/016"
     },
     name: {
         en: "Snorunt",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Man sagt, dass ein Haus, das von einem Schneppke besucht wird, gedeihen wird. Es hält einer Kälte von -150 Grad Fahrenheit stand.",
         "pt-br": "Diz-se que uma casa visitada por um Snorunt prosperará. Pode suportar frio de -150 graus Fahrenheit.",
         "zh-tw": "據說雪童子拜訪過的家庭將會繁榮。它可以承受-150華氏度的寒冷。",
-        ja: "ユキワラシが 訪れた 家は お金持ちに なると 言われている。 マイナス 100度でも へっちゃら。"
+        ja: "ユキワラシが 訪れた 家は お金持ちに なると 言われている。 マイナス 100度でも へっちゃら。",
+        ko: "눈꼬마가 찾아온 집은\n부자가 된다고 전해진다.\n영하 100도에도 끄떡없다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 10
         }

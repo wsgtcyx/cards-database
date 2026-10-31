@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/096"
     },
     name: {
         en: "Pidgeotto",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
         "zh-tw": "比比鳥",
-        ja: "ピジョン"
+        ja: "ピジョン",
+        ko: "피죤"
     },
     illustrator: "Misa Tsutsui",
     category: "Pokemon",
@@ -35,6 +37,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
+        ko: "구구",
     },
     description: {
         en: "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
@@ -44,7 +47,8 @@ const card: Card = {
         "de": "Die Krallen an den Füßen sind gut entwickelt.\nEs kann Beute wie einen Exeggcute tragen\nzu seinem über 60 Meilen entfernten Nest.",
         "pt-br": "As garras dos pés são bem desenvolvidas.\nPode carregar presas como um Exeggcute\nao seu ninho a mais de 60 milhas de distância.",
         "zh-tw": "它腳上的爪子很發達。\n它可以攜帶獵物，例如Exeggcute\n到60多英里外的巢穴。",
-        ja: "足の ツメが 発達している。 エサの タマタマを つかんで １００キロ先の 巣まで 運ぶ。"
+        ja: "足の ツメが 発達している。 エサの タマタマを つかんで １００キロ先の 巣まで 運ぶ。",
+        ko: "발톱이 발달해 있다.\n먹이인 아라리를 잡아\n100km 떨어져 있는 둥지까지 나른다."
     },
     stage: "Stage1",
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "de": "Böe",
                 "pt-br": "Rajada",
                 "zh-tw": "陣風",
-                ja: "かぜおこし"
+                ja: "かぜおこし",
+                ko: "바람일으키기"
             },
             damage: 30,
             cost: ["Colorless"]

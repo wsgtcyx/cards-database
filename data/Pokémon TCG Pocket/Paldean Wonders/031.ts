@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/031"
     },
     name: {
         en: "Veluza",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Veluza",
         "zh-tw": "輕身鱈",
         ja: "ミガルーサ",
+        ko: "가비루사",
         pt: "Veluza"
     },
     illustrator: "Oswaldo KATO",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Agiluza verfügt über hervorragende Regenerationsfähigkeiten. Es wirft überschüssiges Fleisch von seinem Körper ab, um seine Beweglichkeit zu steigern, und greift dann seine Beute an.",
         "pt-br": "Veluza possui excelentes capacidades regenerativas. Ele tira a carne restante de seu corpo para aumentar sua agilidade e depois ataca sua presa.",
         "zh-tw": "輕身鱈具有出色的再生能力。它會從身體上脫落多餘的肉來增強敏捷性，然後向獵物衝鋒。",
-        ja: "高い 再生能力を 持つ。 体の 贅肉を 捨てて 身軽になり 獲物に 突撃。"
+        ja: "高い 再生能力を 持つ。 体の 贅肉を 捨てて 身軽になり 獲物に 突撃。",
+        ko: "높은 재생 능력을 자랑한다.\n군살을 버려서 몸을 가볍게 하고\n먹잇감을 향해 돌격한다."
     },
     stage: "Basic",
     attacks: [
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Haarausfallspirale",
                 "pt-br": "Espiral de derramamento",
                 "zh-tw": "脫落螺旋",
-                ja: "ダイエットスクリュー"
+                ja: "ダイエットスクリュー",
+                ko: "다이어트 스크루"
             },
             damage: "90",
             cost: ["Water", "Colorless", "Colorless", "Colorless"],
@@ -62,7 +66,8 @@ const card: Card = {
                 "de": "Wenn Sie keine Karten in Ihrem Deck haben, kann dieser Angriff für 1 Wasserenergie verwendet werden.",
                 "pt-br": "Se você não tiver cartas em seu baralho, este ataque pode ser usado por 1 Energia Água.",
                 "zh-tw": "如果你的牌組中沒有卡牌，則此攻擊可以消耗 1 點水能量。",
-                ja: "このワザは、自分の山札が1枚もないなら、{W}エネルギー1個で使える。"
+                ja: "このワザは、自分の山札が1枚もないなら、{W}エネルギー1個で使える。",
+                ko: "이 기술은 자신의 덱이 1장도 없다면 {W}에너지 1개로 사용할 수 있다."
             },
         },
     ],

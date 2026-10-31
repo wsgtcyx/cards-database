@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/068"
     },
     name: {
         en: "Team Rocket's Goo-zooka",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Bis zum Ende des nächsten Zuges deines Gegners erhöhen sich die Rückzugskosten des Aktiven Pokémon deines Gegners um 1.",
         "pt-br": "Até o final do próximo turno do seu oponente, o Custo de Recuo do Pokémon Ativo do seu oponente será 1 a mais.",
         "zh-tw": "在下個對手的回合結束前,對手的戰鬥寶可夢撤退所需的能量增加1個。",
-        ja: "次の相手の番の終わりまで、相手のバトルポケモンのにげるためのエネルギーを、1個多くする。"
+        ja: "次の相手の番の終わりまで、相手のバトルポケモンのにげるためのエネルギーを、1個多くする。",
+        ko: "상대의 다음 차례가 끝날 때까지 상대 배틀 포켓몬의 후퇴에 필요한 에너지를 1개 많게 한다."
     },
     trainerType: "Item"
 };

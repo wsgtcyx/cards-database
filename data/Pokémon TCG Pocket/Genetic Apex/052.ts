@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/052"
     },
     name: {
         en: "Centiskorch",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Thermopod",
         "pt-br": "Sizzlipede",
         "zh-tw": "燒火蚣",
-        ja: "ヤクデ"
+        ja: "ヤクデ",
+        ko: "태우지네"
     },
     attacks: [{
             cost: ["Fire", "Colorless", "Colorless", "Colorless"],

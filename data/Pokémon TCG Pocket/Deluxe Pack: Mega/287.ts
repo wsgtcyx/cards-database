@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/287",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/287",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/287",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/287"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/287",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/287"
     },
     name: {
         en: "Inteleon",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Drizzile",
         "zh-tw": "變澀蜥",
         ja: "ジメレオン",
-        ko: "Drizzile"
+        ko: "누겔레온"
     },
     stage: "Stage2",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Aparenta ter boas maneiras, mas, no fundo, tem um lado preguiçoso. Vai mandriar quando seu Treinador não estiver de olho.",
         "zh-tw": "雖然表現得很有紳士風度，但生性懶惰的部分依舊沒變，因此在訓練家沒看著牠時就會偷懶。",
         ja: "紳士的な 振る舞いを みせるが 根っこは 怠け者のまま なので トレーナーが 見ていないと さぼる。",
-        ko: "It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn’t looking."
+        ko: "신사적인 태도를 보이지만\n근본은 여전히 게으르기 때문에\n트레이너가 보지 않을 때는 농땡이를 피운다."
     },
     abilities: [
         {
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Disparo Diligente",
                 "zh-tw": "快攻",
                 ja: "はやうち",
-                ko: "Swift Shot"
+                ko: "연사"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon.",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。對手的戰鬥寶可夢受到30點傷害。",
                 ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに30ダメージ。",
-                ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon."
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다."
             }
         }
     ],
@@ -99,7 +100,7 @@ const card: Card = {
                 "pt-br": "Aqua Gume",
                 "zh-tw": "水之刀鋒",
                 ja: "アクアエッジ",
-                ko: "Aqua Edge"
+                ko: "아쿠아에지"
             },
             damage: 70
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/010",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/010"
     },
     name: {
         en: "Shiftry",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Shiftry",
         "zh-tw": "狡猾天狗",
         ja: "ダーテング",
+        ko: "다탱구",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Nuzleaf",
         "zh-tw": "長鼻葉",
         ja: "コノハナ",
+        ko: "잎새코",
     },
     description: {
         en: "It lives quietly in the deep forest. It is said to\ncreate chilly winter winds with the fans it holds.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt ruhig im tiefen Wald. Es heißt\nErzeugen Sie mit den darin enthaltenen Ventilatoren kühle Winterwinde.",
         "pt-br": "Ele vive tranquilamente nas profundezas da floresta. Diz-se que\ncrie ventos frios de inverno com os ventiladores que contém.",
         "zh-tw": "它安靜地生活在密林深處。據說\n用它所持有的風扇製造寒冷的冬風。",
-        ja: "森の 奥で ひっそりと 暮らす。 大きな 団扇を あおぐと 木枯らしが 吹くと いわれている。"
+        ja: "森の 奥で ひっそりと 暮らす。 大きな 団扇を あおぐと 木枯らしが 吹くと いわれている。",
+        ko: "숲속에서 조용히 지낸다.\n큰 부채로 부치면\n쌀쌀한 바람이 분다고 한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Erstickender Zyklon",
                 "pt-br": "Ciclone beliscador",
                 "zh-tw": "旋風分離器",
-                ja: "こがらしせんぷう"
+                ja: "こがらしせんぷう",
+                ko: "찬바람선풍"
             },
             damage: 70,
             cost: ["Grass", "Grass"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória da mão do seu oponente.",
                 "zh-tw": "隨機丟棄對手手上的一張牌。",
-                ja: "相手の手札からランダムに1枚トラッシュ。"
+                ja: "相手の手札からランダムに1枚トラッシュ。",
+                ko: "상대의 패에서 랜덤으로 1장 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

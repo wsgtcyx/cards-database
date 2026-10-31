@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/107",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/107"
     },
     name: {
         en: "Scrafty",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Irokex",
         "pt-br": "Scrafty",
         "zh-tw": "頭巾混混",
-        ja: "ズルズキン"
+        ja: "ズルズキン",
+        ko: "곤율거니"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zurrokex",
         "pt-br": "Scraggy",
         "zh-tw": "滑滑小子",
-        ja: "ズルッグ"
+        ja: "ズルッグ",
+        ko: "곤율랭"
     },
     description: {
         en: "This Pokémon may be rude, but it takes very\ngood care of its family, its friends, and its turf.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon mag unhöflich sein, aber es braucht sehr viel\ngut für seine Familie, seine Freunde und sein Revier sorgen.",
         "pt-br": "Este Pokémon pode ser rude, mas é preciso muito\ncuidar bem de sua família, de seus amigos e de seu território.",
         "zh-tw": "這個神奇寶貝可能很粗魯，但它需要非常\n照顧好它的家人、朋友和地盤。",
-        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。"
+        ja: "粗暴だが 自分の 家族や 群れの仲間や 縄張りを とっても 大切にしている ポケモンなのだ。",
+        ko: "거칠고 난폭하지만,\n자신의 가족과 무리 동료의 영역을\n매우 소중히 여기는 포켓몬이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zerstöre die Schwachen",
                 "pt-br": "Esmague os fracos",
                 "zh-tw": "碾壓弱者",
-                ja: "よわきをくじく"
+                ja: "よわきをくじく",
+                ko: "약자제압"
             },
             damage: "50+",
             cost: ["Darkness", "Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon mehr Energie angelegt ist als an das Aktive Pokémon deines Gegners, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver mais Energia ligada do que o Pokémon Ativo do seu oponente, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "如果該神奇寶貝所附加的能量比對手的活躍神奇寶貝多，則此攻擊造成的傷害增加 50 點。",
-                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、50ダメージ追加。"
+                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、50ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 개수가 상대 배틀 포켓몬의 에너지의 개수보다 많다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

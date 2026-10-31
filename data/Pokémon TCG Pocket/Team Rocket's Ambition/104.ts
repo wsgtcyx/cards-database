@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/104",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/104"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/104",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/104"
     },
     name: {
         en: "Swellow",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Findet es Beute, stürzt es sich aus großer Höhe darauf und packt sie mit seinen spitzen Krallen.",
         "pt-br": "Ele mergulha em um ângulo Íngreme assim que avista sua presa. Ele captura suas presas com garras afiadas.",
         "zh-tw": "發現居住在森林裡的獵物時，會從高空俯衝而下，用銳利的爪子捕捉獵物。",
-        ja: "森に 住む 獲物を 見つけると 上空から 急降下。 鋭い ツメで 捕まえる。"
+        ja: "森に 住む 獲物を 見つけると 上空から 急降下。 鋭い ツメで 捕まえる。",
+        ko: "숲에 사는 먹이를 찾으면\n상공에서 급강하해서\n예리한 발톱으로 잡는다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zurückwerfender Wind",
                 "pt-br": "Vento Repelente",
                 "zh-tw": "防蟲之風",
-                ja: "むしよけウインド"
+                ja: "むしよけウインド",
+                ko: "벌레회피 윈드"
             },
             effect: {
                 en: "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du das Aktive Basis-Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, você poderá mandar o Pokémon Básico Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "在自己的回合時，可使用1次。將對手的戰鬥場的基礎寶可夢與備戰寶可夢互換。（由對手選擇放置於戰鬥場的寶可夢。）",
-                ja: "自分の番に1回使える。相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+                ja: "自分の番に1回使える。相手のバトル場のたねポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+                ko: "자신의 차례에 1번 사용할 수 있다. 상대 배틀필드의 기본 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Flügelschlag",
                 "pt-br": "Ataque de Asa",
                 "zh-tw": "翅膀攻擊",
-                ja: "つばさでうつ"
+                ja: "つばさでうつ",
+                ko: "날개치기"
             },
             damage: 50
         }

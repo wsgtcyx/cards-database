@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/020"
     },
     name: {
         en: "Team Rocket's Electrode",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es explodiert schon bei kleinsten Reizen und ist unter dem Spitznamen „Bombenkugel“ gefürchtet.",
         "pt-br": "Ele explode em resposta aos menores estímulos. Ele é temido e seu apelido é \"Bola-Bomba\".",
         "zh-tw": "稍微受點刺激就會爆炸，因此得到了炸彈球的外號，被人們深深恐懼。",
-        ja: "少しの 刺激に 反応して 爆発する。 バクダンボールという あだ名で 怖がられている。"
+        ja: "少しの 刺激に 反応して 爆発する。 バクダンボールという あだ名で 怖がられている。",
+        ko: "작은 자극에도 반응해서 폭발한다.\n폭탄볼이라 불리며\n두려움의 대상이 되고 있다."
     },
     abilities: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Schicksalssalve",
                 "pt-br": "Rajada do Destino",
                 "zh-tw": "同命轟炸",
-                ja: "みちづれボンバー"
+                ja: "みちづれボンバー",
+                ko: "길동무봄버"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 70 damage to the Attacking Pokémon.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird, füge dem Angreifenden Pokémon 70 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver no Campo Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, cause 70 pontos de dano ao Pokémon Atacante.",
                 "zh-tw": "這隻寶可夢在戰鬥場上受到對手的寶可夢招式的傷害而昏厥時,使用招式的寶可夢受到70點傷害。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、ワザを使ったポケモンに70ダメージ。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、ワザを使ったポケモンに70ダメージ。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 기술을 사용한 포켓몬에게 70데미지를 준다."
             }
         }
     ],
@@ -87,7 +91,8 @@ const card: Card = {
                 de: "Zufälliger Funke",
                 "pt-br": "Fagulha Aleatória",
                 "zh-tw": "電磁電光",
-                ja: "でんじスパーク"
+                ja: "でんじスパーク",
+                ko: "전자 스파크"
             },
             effect: {
                 en: "This attack does 30 damage to 1 of your opponent's Pokémon.",
@@ -97,7 +102,8 @@ const card: Card = {
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到30點傷害。",
-                ja: "相手のポケモン1匹に30ダメージ。"
+                ja: "相手のポケモン1匹に30ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 30데미지를 준다."
             }
         }
     ],

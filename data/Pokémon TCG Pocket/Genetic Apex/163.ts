@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/163",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/163",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/163"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/163",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/163"
     },
     name: {
         en: "Grapploct",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Klopptopus",
         "pt-br": "Clobbopus",
         "zh-tw": "拳拳蛸",
-        ja: "タタッコ"
+        ja: "タタッコ",
+        ko: "때때무노"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Colorless"],

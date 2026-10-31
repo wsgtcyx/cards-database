@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/049"
     },
     name: {
         en: "Hisuian Sliggoo",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Ein Wesen, das zur Melancholie neigt. Ich vermute, dass seine metallische Hülle durch die Reaktion des Schleims auf seiner Haut mit dem Eisen in Hisuis Wasser entstanden ist.",
         "pt-br": "Uma criatura dada à melancolia. Suspeito que sua concha metálica se desenvolveu como resultado da reação do muco de sua pele com o ferro da água de Hisui.",
         "zh-tw": "一種生來憂鬱的生物。我懷疑它的金屬外殼是由於其皮膚上的粘液與翡翠水中的鐵發生反應而形成的。",
-        ja: "陰気な 性質。 ヒスイの地の 水に 含有する 鉄が 皮膚の粘液に 作用し 金属の殻へ 変容させたと 考察す。"
+        ja: "陰気な 性質。 ヒスイの地の 水に 含有する 鉄が 皮膚の粘液に 作用し 金属の殻へ 変容させたと 考察す。",
+        ko: "음침한 성격을 가졌다. 히스이 땅에 흐르는\n물에 함유된 철이 피부의 점액에 작용하여\n금속 껍질로 변한 것으로 추측된다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Einhämmern",
                 "pt-br": "Martelada",
                 "zh-tw": "頭突",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 60
         }

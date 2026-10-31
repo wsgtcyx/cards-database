@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/062"
     },
     name: {
         en: "Deoxys",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Impulso Psíquico",
                 "zh-tw": "精神突進",
                 ja: "サイコブースト",
-                ko: "Psycho Boost"
+                ko: "사이코부스트"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢「精神突進」的傷害-50點。",
                 ja: "次の自分の番、このポケモンの「サイコブースト」のダメージを-50する。",
-                ko: "During your next turn, this Pokémon's Psycho Boost does −50 damage."
+                ko: "자신의 다음 차례에 이 포켓몬의 「사이코부스트」의 데미지를 -50한다."
             }
         }
     ],
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "Um vírus alienígena que caiu na Terra em um meteoro sofreu uma mutação no DNA e se transformou neste Pokémon.",
         "zh-tw": "附著在隕石上的宇宙病毒的DNA發生變異後誕生的寶可夢。",
         ja: "隕石に 付着していた 宇宙ウイルスの ＤＮＡが 変異して 生まれた ポケモン。",
-        ko: "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+        ko: "운석에 붙어 있던\n우주 바이러스의 DNA가\n변이하여 생겨난 포켓몬이다."
     }
 };
 

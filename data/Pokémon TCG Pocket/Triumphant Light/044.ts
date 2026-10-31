@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/044"
     },
     name: {
         en: "Medicham",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
         ja: "アサナン",
+        ko: "요가랑",
     },
     description: {
         en: "Through yoga training, it gained the psychic power to predict its foe's next move.",

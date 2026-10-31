@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/144",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/144",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/144"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/144",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/144"
     },
     name: {
         en: "Dunsparce",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dunsparce",
         "zh-tw": "土龍弟弟",
         ja: "ノコッチ",
+        ko: "노고치",
     },
     illustrator: "Kazuma Koda",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schafft Labyrinthe an dunklen Orten. Wenn entdeckt,\nEs flüchtet in den Boden, indem es mit seinem Schwanz gräbt.",
         "pt-br": "Cria labirintos em locais escuros. Quando avistado,\nele foge para o chão cavando com a cauda.",
         "zh-tw": "它在黑暗的地方創造迷宮。當被發現時，\n它用尾巴挖洞逃入地下。",
-        ja: "暗い場所に 迷路を 作る。 だれかに みられると 尻尾で 地面を 掘って 逃げようとする。"
+        ja: "暗い場所に 迷路を 作る。 だれかに みられると 尻尾で 地面を 掘って 逃げようとする。",
+        ko: "어두운 장소에 미로를 만든다.\n누군가에게 발견되면 꼬리로\n땅을 파서 도망가려 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Plötzlicher Blitz",
                 "pt-br": "Flash repentino",
                 "zh-tw": "突然閃光",
-                ja: "スネークフラッシュ"
+                ja: "スネークフラッシュ",
+                ko: "스네이크 플래시"
             },
             damage: 20,
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{

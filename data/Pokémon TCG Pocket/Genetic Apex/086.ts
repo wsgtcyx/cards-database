@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/086"
     },
     name: {
         en: "Swanna",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Piccolente",
         "pt-br": "Ducklett",
         "zh-tw": "鴨寶寶",
-        ja: "コアルヒー"
+        ja: "コアルヒー",
+        ko: "꼬지보리"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],

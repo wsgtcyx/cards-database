@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/148",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/148",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/148"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/148",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/148"
     },
     name: {
         en: "Murkrow",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
         ja: "ヤミカラス",
+        ko: "니로우",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es entdeckt wird, lockt es eine unvorsichtige Person an\nin die Verfolgung hinein und verliere dann den Verfolger\nBergpfade.",
         "pt-br": "Se for detectado, atrairá uma pessoa incauta\nem persegui-lo, então perca o perseguidor\ntrilhas de montanha.",
         "zh-tw": "如果被發現，它會引誘粗心的人\n去追它，然後失去追趕者\n山間小道。",
-        ja: "ヤミカラスを 見かけて 不用意に 後を つけていくと 迷わされ 山道に 置いてけぼりに される。"
+        ja: "ヤミカラスを 見かけて 不用意に 後を つけていくと 迷わされ 山道に 置いてけぼりに される。",
+        ko: "니로우를 발견했을 때\n조심성 없이 따라가면\n길을 잃고 산중에 혼자 남게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
                 "zh-tw": "滑行",
-                ja: "かっくう"
+                ja: "かっくう",
+                ko: "활공"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

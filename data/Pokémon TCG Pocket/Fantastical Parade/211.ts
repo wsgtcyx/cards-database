@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/211",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/211"
     },
     name: {
         en: "Omanyte",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Amonitas",
         "pt-br": "Omanyte",
         "zh-tw": "菊石獸",
-        ja: "オムナイト"
+        ja: "オムナイト",
+        ko: "암나이트"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Helixfossil",
         "pt-br": "Fóssil Espiral",
         "zh-tw": "貝殼化石",
-        ja: "かいの化石"
+        ja: "かいの化石",
+        ko: "조개화석"
     },
     description: {
         en: "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Denn einigen Omanyten gelingt danach die Flucht\nwerden wiederhergestellt oder in die Wildnis entlassen\nMenschen, diese Art wird zum Problem.",
         "pt-br": "Porque alguns Omanyte conseguem escapar depois\nsendo restaurados ou soltos na natureza por\npessoas, esta espécie está se tornando um problema.",
         "zh-tw": "因為一些阿曼人在之後設法逃脫\n被恢復或被釋放到野外\n人們，這個物種正在成為一個問題。",
-        ja: "復元されたあと 逃げだしたり 逃がしてしまう ものが いるため 問題に なりつつあるのだ。"
+        ja: "復元されたあと 逃げだしたり 逃がしてしまう ものが いるため 問題に なりつつあるのだ。",
+        ko: "복원된 후 도망치거나\n놓쳐버리는 경우가 생겨서\n문제시되고 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: 40,
             cost: ["Water"]

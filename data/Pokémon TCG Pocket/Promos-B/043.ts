@@ -11,7 +11,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/043",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/043"
     },
     name: {
         en: "Electrike",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es speichert statische Elektrizität in seinem Fell.\nIn Jahreszeiten mit trockener Luft sprüht sein\nganzer Körper Funken.",
         "pt-br": "Ele armazena eletricidade em seu pelo. Ele emite faíscas por todo o corpo nas estações em que o ar está seco.",
         "zh-tw": "會在體毛中儲存靜電。\n在空氣乾燥的季節\n會從全身散發出火花。",
-        ja: "静電気を 体毛に 溜める。 空気の 乾燥した 季節には 全身から 火花を 散らす。"
+        ja: "静電気を 体毛に 溜める。 空気の 乾燥した 季節には 全身から 火花を 散らす。",
+        ko: "정전기를 털에 모은다.\n공기가 건조한 계절에는\n전신에서 스파크를 뿌린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Waghalsiger Sturmangriff",
                 "pt-br": "Carga Indomável",
                 "zh-tw": "突擊",
-                ja: "とつげき"
+                ja: "とつげき",
+                ko: "돌격"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該寶可夢也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             },
             damage: 30
         }

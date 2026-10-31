@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/025"
     },
     name: {
         en: "Yamper",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Im Austausch gegen Leckerlis hilft dieser kleine\nVielfraß Menschen bei der Arbeit. Beim Rennen\nwird es von knisternder Elektrizität umhüllt.",
         "pt-br": "Este Pokémon guloso só ajuda as pessoas no seu trabalho porque quer guloseimas. Enquanto funciona, ele estala com eletricidade.",
         "zh-tw": "因為想要得到零食而\n幫助人類工作的貪吃鬼。\n總是帶著電火花跑來跑去。",
-        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。",
+        ko: "간식에 끌려 사람의 일을\n돕는 먹보다. 탁탁 튀는\n전기를 두르고 계속 달린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
                 "zh-tw": "小狗滿地跑",
-                ja: "こいぬまみれ"
+                ja: "こいぬまみれ",
+                ko: "강아지투성이"
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
                 "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
-                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。"
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
+                ko: "자신의 필드와 패에 있는 기술 「강아지투성이」를 가진 포켓몬을 모두 상대에게 보여주고 보여준 포켓몬의 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

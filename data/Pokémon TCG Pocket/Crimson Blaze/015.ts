@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/015"
     },
     name: {
         en: "Houndour",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Hunduster",
         "pt-br": "Houndour",
         "zh-tw": "戴魯比",
-        ja: "デルビル"
+        ja: "デルビル",
+        ko: "델빌"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es verwendet verschiedene Arten von Schreien zur Kommunikation\nmit anderen seiner Art und für die Verfolgung seiner Beute.",
         "pt-br": "Ele usa diferentes tipos de gritos para se comunicar\ncom outros de sua espécie e para perseguir suas presas.",
         "zh-tw": "它使用不同種類的叫聲進行交流\n與其他同類並追捕獵物。",
-        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。"
+        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。",
+        ko: "동료에게 연락할 때와\n먹이를 쫓을 때\n울음소리의 종류가 다르다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Brüllen",
                 "pt-br": "Rugido",
                 "zh-tw": "吼",
-                ja: "ほえる"
+                ja: "ほえる",
+                ko: "울부짖기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）",
-                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+                ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             }
         }],
     weaknesses: [{

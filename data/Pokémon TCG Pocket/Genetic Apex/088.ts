@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/088",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/088"
     },
     name: {
         en: "Frogadier",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
-        ja: "ケロマツ"
+        ja: "ケロマツ",
+        ko: "개구마르"
     },
     attacks: [{
             cost: ["Colorless"],

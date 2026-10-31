@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/053"
     },
     name: {
         en: "Minun",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Minun",
         "pt-br": "Minun",
         "zh-tw": "負電拍拍",
-        ja: "マイナン"
+        ja: "マイナン",
+        ko: "마이농"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Da es Wasser nicht mag, sucht es Unterschlupf\ndie Dachtraufe der Häuser im Regen. Es werden Pompons verwendet\naus Funken zum Jubeln.",
         "pt-br": "Sua aversão à água faz com que ele se abrigue sob\nos beirais das casas na chuva. Ele usa pompons\nfeito de faíscas para torcer.",
         "zh-tw": "它不喜歡水，所以它躲在水下\n雨中的屋簷。它使用絨球\n由歡呼的火花組成。",
-        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。"
+        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。",
+        ko: "물을 싫어한다. 비가 내리면\n처마 밑에서 비를 피한다.\n스파크를 톡톡 튀겨서 동료를 응원한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kumpel Spark",
                 "pt-br": "Amigo Faísca",
                 "zh-tw": "巴迪·斯帕克",
-                ja: "バディスパーク"
+                ja: "バディスパーク",
+                ko: "버디스파크"
             },
             damage: 30,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn sich Plusle auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Se Plusle estiver no seu Banco, este ataque também causará 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "如果Plusle在你的替補席上，這次攻擊也會對對手的替補席上的每隻神奇寶貝造成10點傷害。",
-                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。"
+                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。",
+                ko: "자신의 벤치에 「플러시」가 있다면 상대의 벤치 포켓몬 전원에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

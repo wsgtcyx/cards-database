@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/197",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/197",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/197",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/197"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/197",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/197"
     },
     name: {
         en: "Magnezone ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Sturmklinge",
                 "pt-br": "Lâmina Tempestuosa",
                 "zh-tw": "雷霆利刃",
-                ja: "いかずちのやいば"
+                ja: "いかずちのやいば",
+                ko: "우뢰의검"
             },
             effect: {
                 en: "Discard a {L} Energy from this Pokémon.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine {L} Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {L} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {L} 能量。",
-                ja: "このポケモンから{L}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {L}에너지를 1개 트래쉬한다."
             },
             damage: 130
         }

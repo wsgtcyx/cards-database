@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/048",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/048",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/048"
     },
     name: {
         en: "Bruxish",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn Sonnenlicht von den Wellen reflektiert wird, die durch sein Zähneknirschen entstehen, glitzert das Wasser um es herum blendend hell.",
         "pt-br": "Quando a luz do sol reflete nas marolas criadas por Bruxish ao ranger seus dentes, a água ao seu redor brilha intensamente.",
         "zh-tw": "磨牙時會泛起波紋，當陽光\n反射在上面時，周圍的水會\n閃起令人目眩神迷的亮光。",
-        ja: "歯ぎしりで 起こる 波紋に 陽の光が 反射するとき まわりの 水は 眩いばかりに きらめく。"
+        ja: "歯ぎしりで 起こる 波紋に 陽の光が 反射するとき まわりの 水は 眩いばかりに きらめく。",
+        ko: "이를 갈 때 발생하는 파문에\n햇빛이 반사되면\n주위의 물이 눈부시게 반짝인다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/151",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/151",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/151"
     },
     name: {
         en: "Mega Absol ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mega Absol ex",
         "zh-tw": "超級阿勃梭魯ex",
         ja: "メガアブソルex",
+        ko: "메가앱솔 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während die Energie von Mega Evolution es erfüllt, ist sein Fell\nBorsten. Was Sie auf der Rückseite sehen, ist nicht wahr\nFlügel, und dieses Pokémon kann nicht fliegen.",
         "pt-br": "À medida que a energia da Mega Evolução o preenche, seu pelo\ncerdas. O que você vê nas costas não é verdade\nasas, e este Pokémon não é capaz de voar.",
         "zh-tw": "當超級進化的能量充滿它時，它的毛皮\n鬃毛。你在它背面看到的不是真的\n翅膀，但這只神奇寶貝不能飛。",
-        ja: "メガシンカの エネルギーが みなぎり 全身の 体毛が 逆立つ。 翼では ないので 飛べは しない。"
+        ja: "メガシンカの エネルギーが みなぎり 全身の 体毛が 逆立つ。 翼では ないので 飛べは しない。",
+        ko: "메가진화 에너지가 넘쳐나\n전신의 털이 곤두섰다.\n날개가 아니라 날 수는 없다."
     },
     stage: "Basic",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Dunkelheitsklaue",
                 "pt-br": "Garra da Escuridão",
                 "zh-tw": "黑暗之爪",
-                ja: "ダークネスクロー"
+                ja: "ダークネスクロー",
+                ko: "다크니스클로"
             },
             damage: 80,
             cost: ["Darkness", "Darkness"],
@@ -60,13 +64,17 @@ const card: Card = {
                 "de": "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
                 "pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
                 "zh-tw": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
-                ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。"
+                ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。",
+                ko: "상대의 패의 앞면을 모두 보고 그 중에서 서포트를 1장 선택해서 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

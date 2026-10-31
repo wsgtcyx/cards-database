@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/173",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/173",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/173",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/173"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/173",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/173"
     },
     name: {
         en: "Croagunk",
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 20 pontos de dano para cada cara.",
                 ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×20ダメージ。",
-                ko: "자신의 필드의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 20× 20데미지를[/Ctrl:NoBreak] 준다.",
+                ko: "자신의 필드의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 "zh-tw": "為遊戲中的每個神奇寶貝投一枚硬幣。這次攻擊對每個頭造成 20 點傷害。"
             }
         }],

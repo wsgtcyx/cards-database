@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/025",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/025"
     },
     name: {
         en: "Pachirisu",
@@ -61,7 +62,7 @@ const card: Card = {
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon in panchina.",
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an 1 Pokémon auf deiner Bank an.",
                 ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
-                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치 포켓몬에게 붙인다.",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치의 {L} 포켓몬에게 붙인다.",
                 'pt-br': "Pegue uma Energia {L} da sua Zona de Energia e ligue-a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備神奇寶貝上。"
             }

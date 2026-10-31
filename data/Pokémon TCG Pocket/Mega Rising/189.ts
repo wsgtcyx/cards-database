@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/189",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/189"
     },
     name: {
         en: "Linoone",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Linoone",
         "zh-tw": "直衝熊",
         ja: "マッスグマ",
+        ko: "직구리",
     },
     illustrator: "match",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Zigzagoon",
         "zh-tw": "蛇紋熊",
         ja: "ジグザグマ",
+        ko: "지그제구리",
     },
     description: {
         en: "It uses its explosive speed and razor-sharp claws\nto bring down prey. Running along winding\npaths is not its strong suit.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es nutzt seine explosive Geschwindigkeit und seine messerscharfen Krallen\nBeute erlegen. Kurvenreich entlanglaufen\nWege sind nicht seine Stärke.",
         "pt-br": "Ele usa sua velocidade explosiva e garras afiadas\npara derrubar a presa. Correndo ao longo do sinuoso\npaths não é seu forte.",
         "zh-tw": "它利用爆炸性的速度和鋒利的爪子\n打倒獵物。沿著蜿蜒的道路奔跑\n路徑不是它的強項。",
-        ja: "抜群の 瞬発力と するどいツメで 獲物を しとめる。 曲がった 道を 走るのは 下手。"
+        ja: "抜群の 瞬発力と するどいツメで 獲物を しとめる。 曲がった 道を 走るのは 下手。",
+        ko: "뛰어난 순발력과 예리한\n발톱으로 먹이의 숨통을 끊는다.\n굽은 길을 달리는 게 서툴다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Jet-Kopfstoß",
                 "pt-br": "Cabeçada de jato",
                 "zh-tw": "噴射頭撞",
-                ja: "ジェットヘッド"
+                ja: "ジェットヘッド",
+                ko: "제트헤드"
             },
             damage: 40,
             cost: ["Colorless"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

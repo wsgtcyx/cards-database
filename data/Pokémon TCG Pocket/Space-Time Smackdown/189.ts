@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/189",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/189"
     },
     name: {
         en: "Lickilicky ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
         ja: "ベロリンガ",
+        ko: "내루미",
     },
     stage: "Stage1",
     suffix: "EX",

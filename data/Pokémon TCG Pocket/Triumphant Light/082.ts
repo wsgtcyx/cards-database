@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/082",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/082"
     },
     name: {
         en: "Leafeon ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",

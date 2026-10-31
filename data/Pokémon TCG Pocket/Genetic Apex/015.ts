@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/015"
     },
     name: {
         en: "Parasect",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Paras",
         "pt-br": "Paras",
         "zh-tw": "派拉斯",
-        ja: "パラス"
+        ja: "パラス",
+        ko: "파라스"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],

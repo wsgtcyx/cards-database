@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/104",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/104"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/104",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/104"
     },
     name: {
         en: "Pidgeot",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Pidgeotto",
         "zh-tw": "比比鳥",
         ja: "ピジョン",
-        ko: "Pidgeotto"
+        ko: "피죤"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Golpe Certeiro",
                 "zh-tw": "俐落一擊",
                 ja: "クリーンヒット",
-                ko: "Clean Hit"
+                ko: "클린히트"
             },
             cost: [
                 "Colorless"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為進化寶可夢,則增加80點傷害。",
                 ja: "相手のバトルポケモンが進化ポケモンなら、80ダメージ追加。",
-                ko: "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 80 more damage."
+                ko: "상대의 배틀 포켓몬이 진화 포켓몬이라면 80데미지를 추가한다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Quando caça, bate na superfície da água em alta velocidade para capturar presas desavisadas, como Magikarp.",
         "zh-tw": "覓食的時候，會貼著水面飛行而過，抓起鯉魚王等獵物。",
         ja: "エサを 探すとき 水面 すれすれを 滑るように 飛んで コイキングなどを わしづかみにする。",
-        ko: "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
+        ko: "먹이를 찾을 때 수면을\n아슬아슬하게 미끄러지듯 날아\n잉어킹 등을 움켜잡는다."
     }
 };
 

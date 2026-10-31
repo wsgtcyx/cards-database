@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/092",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/092",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/092"
     },
     name: {
         en: "Muk",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Sleima",
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
-        ko: "알로라 질퍽이",
+        ko: "질퍽이",
         ja: "ベトベター"
     },
     stage: "Stage1",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sein Gestank ist unerträglich. Das starke Gift, aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.",
         "pt-br": "É fedorento demais! O corpo de Muk contém elementos tóxicos. Qualquer planta murchará quando ele passar por perto.",
         "zh-tw": "奇臭無比！\n身體帶有劇毒，牠所爬過\n之處，任何草木都會枯萎。",
-        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。"
+        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。",
+        ko: "냄새가 지독하다!\n몸의 성분은 맹독이며, 질뻐기가\n지나가면 어떤 초목이라도 시든다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Hinterhalt",
                 "pt-br": "Emboscada",
                 "zh-tw": "伏擊",
-                ja: "おそいかかる"
+                ja: "おそいかかる",
+                ko: "덮치기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "30+"
         }

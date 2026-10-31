@@ -13,7 +13,7 @@ const set: Set = {
 		'pt-br': "Maravilhas de Paldea",
 		'zh-tw': "帕底亞驚奇",
 		ja: "パルデアワンダー",
-		ko: "Paldean Wonders",
+		ko: "팔데아 원더",
 	},
 
 	serie: serie,
@@ -33,12 +33,24 @@ const set: Set = {
 				'pt-br': "Paldea",
 				'zh-tw': "帕底亞",
 				ja: "パルデアワンダー",
-				ko: "Paldea",
+				ko: "팔데아 원더",
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2a/boosters/paldea/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2a/boosters/paldea/logo.webp"
 			}
 		}
 	},		
 
-	releaseDate: "2026-02-26"
+	releaseDate: "2026-02-26",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2a/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2a/logo"
+	}
 }
 
 

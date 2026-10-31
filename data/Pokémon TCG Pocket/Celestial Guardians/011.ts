@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/011",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/011"
     },
     name: {
         en: "Dartrix",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
         ja: "モクロー",
+        ko: "나몰빼미",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",

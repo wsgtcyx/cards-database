@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/037"
     },
     name: {
         en: "Lapras",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Lâmina de Gelo",
                 "zh-tw": "冰之刃",
                 ja: "こおりのやいば",
-                ko: "Ice Blade"
+                ko: "얼음칼날"
             },
             cost: [
                 "Water"
@@ -67,7 +68,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到20點傷害。",
                 ja: "相手のポケモン1匹に20ダメージ。",
-                ko: "This attack does 20 damage to 1 of your opponent's Pokémon."
+                ko: "상대의 포켓몬 1마리에게 20데미지를 준다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
         "pt-br": "Cruza os mares transportando pessoas em suas costas. Pode entoar uma melodia encantadora quando está de bom humor.",
         "zh-tw": "會把人類載在背上渡過大海。當牠心情愉快的時候，還會用美妙的嗓音來唱歌。",
         ja: "人を 背中に乗せて 海を行く。 機嫌がいいと きれいな 鳴き声で 歌うことも あるらしい。",
-        ko: "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood."
+        ko: "사람을 등에 태우고 바다를 건넌다.\n기분이 좋으면 아름다운 목소리로\n노래를 하기도 하는 듯하다."
     }
 };
 

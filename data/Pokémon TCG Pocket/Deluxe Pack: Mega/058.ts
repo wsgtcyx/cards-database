@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/058"
     },
     name: {
         en: "Mega Slowbro ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸",
         ja: "ヤドン",
-        ko: "Slowpoke"
+        ko: "야돈"
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Carrossel Lavador",
                 "zh-tw": "洗來運轉",
                 ja: "ランドリーゴーランド",
-                ko: "Laundry-Go-Round"
+                ko: "론드리돌리기"
             },
             effect: {
                 en: "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Jogue 3 moedas. Este ataque também causa 20 pontos de dano para cada cara a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "擲3次硬幣,對手的所有備戰寶可夢也受到正面出現的次數×20點傷害。",
                 ja: "コインを3回投げ、オモテの数×20ダメージを、相手のベンチポケモン全員にも与える。",
-                ko: "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 20데미지를 상대의 벤치 포켓몬 전원에게도 준다."
             },
             damage: 90
         }

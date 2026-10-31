@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/007"
     },
     name: {
         en: "Combee",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
                 ja: "はばたく",
-                ko: "Flap"
+                ko: "홰치기"
             },
             cost: [
                 "Grass"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "À noite, Combee dormem amontoados em grupos de aproximadamente cem indivíduos.",
         "zh-tw": "到了晚上就會有１００隻左右的三蜜蜂擠聚成堆，依偎著彼此睡覺。",
         ja: "夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。",
-        ko: "At night, Combee sleep in a group of about a hundred, packed closely together in a lump."
+        ko: "밤이 되면 100마리 정도의\n세꿀버리가 모여\n커다란 덩어리가 되어 잠잔다."
     }
 };
 

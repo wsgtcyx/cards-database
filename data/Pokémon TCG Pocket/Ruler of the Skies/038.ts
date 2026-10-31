@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/038",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/038",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/038"
     },
     name: {
         en: "Spheal",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seemops lässt sich von den Wellen treiben, um\ndas Meer zu erkunden. Entdeckt es Beute, setzt\nes die Walraisa seiner Herde davon in Kenntnis.",
         "pt-br": "Enquanto flutua entre as ondas, Spheal explora o mar. Assim que avista uma presa, avisa Walrein.",
         "zh-tw": "會漂浮在波浪間探查\n周圍的狀況。一旦發現獵物，\n就會通知群體的帝牙海獅。",
-        ja: "波間に 漂い 海の 様子を 探る。 獲物を 発見すると 群れの トドゼルガに 知らせるのだ。"
+        ja: "波間に 漂い 海の 様子を 探る。 獲物を 発見すると 群れの トドゼルガに 知らせるのだ。",
+        ko: "파도에 떠다니며 바다의 상태를\n살핀다. 먹이를 발견하면\n무리의 씨카이저에게 알린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Walzer",
                 "pt-br": "Rolagem",
                 "zh-tw": "滾動",
-                ja: "ころがる"
+                ja: "ころがる",
+                ko: "구르기"
             },
             damage: 30
         }

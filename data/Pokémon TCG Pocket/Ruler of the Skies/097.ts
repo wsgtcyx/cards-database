@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/097",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/097",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/097"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/097",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/097"
     },
     name: {
         en: "Galarian Obstagoon",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Galar-Barrikadax",
         "pt-br": "Obstagoon de Galar",
         "zh-tw": "伽勒爾堵攔熊",
-        ko: "가라르 가라르 가로막구리",
+        ko: "가라르 가로막구리",
         ja: "ガラルタチフサグマ"
     },
     illustrator: "Kouki Saitou",
@@ -36,7 +37,7 @@ const card: Card = {
         de: "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
         "zh-tw": "伽勒爾直衝熊",
-        ko: "가라르 가라르 직구리",
+        ko: "가라르 직구리",
         ja: "ガラルマッスグマ"
     },
     stage: "Stage2",
@@ -48,7 +49,8 @@ const card: Card = {
         de: "Durch das Austragen unzähliger Kämpfe hat es\nsich entwickelt. Formt es mit den Armen ein „X“\nund stößt einen Schrei aus, verschreckt das jeden.",
         "pt-br": "Este Pokémon evoluiu depois de travar muitas batalhas. Ao cruzar os braços, solta um grito que causa hesitação em qualquer oponente.",
         "zh-tw": "在不斷的鬥爭中得到了進化。\n牠交叉著雙臂發出的怒吼\n能讓一切對手都為之膽怯。",
-        ja: "ケンカを 繰り返し 進化。 腕をクロスし 叫ぶ 雄叫びは どんな 相手も 怯ませるぞ。"
+        ja: "ケンカを 繰り返し 進化。 腕をクロスし 叫ぶ 雄叫びは どんな 相手も 怯ませるぞ。",
+        ko: "싸움을 반복하면서 진화한다.\n팔을 크로스하고 우렁차게 외치면\n어떤 상대라도 풀죽게 된다."
     },
     attacks: [
         {
@@ -61,7 +63,8 @@ const card: Card = {
                 "pt-br": "Controle de Baixo",
                 "zh-tw": "重低音",
                 "de": "Basskontrolle",
-                ja: "じゅうていおん"
+                ja: "じゅうていおん",
+                ko: "중저음"
             },
             effect: {
                 en: "This attack does 80 damage to 1 of your opponent's Pokémon.",
@@ -71,7 +74,8 @@ const card: Card = {
                 "pt-br": "Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到80點傷害。",
                 "de": "Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu.",
-                ja: "相手のポケモン1匹に80ダメージ。"
+                ja: "相手のポケモン1匹に80ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 80데미지를 준다."
             }
         }
     ],

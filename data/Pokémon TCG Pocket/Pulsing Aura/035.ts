@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/035"
     },
     name: {
         en: "Politoed",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es ist der Anführer von Quapsel und Quaputzi.\nFängt Quaxo an seinen Unmut zu äußern,\nnehmen alle vor lauter Angst sofort Reißaus.",
         "pt-br": "É o líder de Poliwag e Poliwhirl. Quando Politoed ruge, todos eles se encolhem de medo.",
         "zh-tw": "蚊香蝌蚪和蚊香君的領袖。\n蚊香蛙皇一聲吼，\n大家都嚇得伏在地上一動不動。",
-        ja: "ニョロモや ニョロゾの リーダー。 ニョロトノが 一喝 すると 皆 怯えて その場に 伏せる。"
+        ja: "ニョロモや ニョロゾの リーダー。 ニョロトノが 一喝 すると 皆 怯えて その場に 伏せる。",
+        ko: "발챙이와 슈륙챙이의 리더.\n왕구리가 크게 꾸짖으면\n모두 겁을 먹고 그 자리에 엎드린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Überfall",
                 "pt-br": "Reide",
                 "zh-tw": "襲擊",
-                ja: "しゅうげき"
+                ja: "しゅうげき",
+                ko: "습격"
             },
             effect: {
                 en: "If this Pokémon evolved from Poliwhirl during this turn, this attack does 50 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon in diesem Zug aus Quaputzi entwickelt hat, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon evoluiu de Poliwhirl durante este turno, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果這隻寶可夢在本回合中從 蚊香君 進化，則此攻擊造成的傷害增加 50 點。",
-                ja: "この番、このポケモンが「ニョロゾ」から進化していたなら、50ダメージ追加。"
+                ja: "この番、このポケモンが「ニョロゾ」から進化していたなら、50ダメージ追加。",
+                ko: "이 차례에 이 포켓몬이 「슈륙챙이」에서 진화했다면 50데미지를 추가한다."
             },
             damage: "50+"
         }

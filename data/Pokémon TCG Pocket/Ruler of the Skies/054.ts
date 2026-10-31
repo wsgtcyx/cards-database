@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/054",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/054",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/054"
     },
     name: {
         en: "Pachirisu",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Um gespeicherte Elektrizität zu teilen, reiben zwei von ihnen\nihre Backentaschen aneinander.",
         "pt-br": "É possivel ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada.",
         "zh-tw": "有時候可以見到\n為了將儲存的電力分給同伴\n而互相摩擦頰囊的帕奇利茲。",
-        ja: "たまった 電気を 分け与えようと ほほ袋を こすり合わせる パチリスを 見かけることも ある。"
+        ja: "たまった 電気を 分け与えようと ほほ袋を こすり合わせる パチリスを 見かけることも ある。",
+        ko: "모인 전기를 나눠 주려고\n뺨의 주머니를 서로 비비는\n파치리스가 발견되기도 한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "pt-br": "Estalo Estalante",
                 "zh-tw": "啪滋打亂",
                 "de": "Knisternder Knall",
-                ja: "パチッとくずす"
+                ja: "パチッとくずす",
+                ko: "찌릿부수기"
             },
             effect: {
                 en: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "pt-br": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "將自己的牌庫上方1張卡丟棄,若那張卡為物品卡,則增加20點傷害。",
                 "it": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più.",
-                ja: "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、20ダメージ追加。"
+                ja: "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、20ダメージ追加。",
+                ko: "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 아이템이라면 20데미지를 추가한다."
             },
             damage: "30+"
         }

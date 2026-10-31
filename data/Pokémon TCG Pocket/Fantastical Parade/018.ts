@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/018",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/018"
     },
     name: {
         en: "Alolan Marowak",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Knogga",
         "pt-br": "Marowak de Alola",
         "zh-tw": "阿羅拉嘎啦嘎啦",
-        ja: "アローラガラガラ"
+        ja: "アローラガラガラ",
+        ko: "알로라 텅구리"
     },
     illustrator: "Dsuke",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
-        ja: "カラカラ"
+        ja: "カラカラ",
+        ko: "탕구리"
     },
     description: {
         en: "The cursed flames that light up the bone carried\nby this Pokémon are said to cause both mental\nand physical pain that will never fade.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die verfluchten Flammen, die den getragenen Knochen erleuchten\nVon diesem Pokémon wird gesagt, dass es beides mental auslöst\nund körperliche Schmerzen, die niemals nachlassen werden.",
         "pt-br": "As chamas amaldiçoadas que iluminam o osso carregado\npor este Pokémon causam tanto problemas mentais\ne dor física que nunca desaparecerá.",
         "zh-tw": "點燃骨頭的詛咒火焰\n據說這個神奇寶貝會引起精神\n以及永遠不會消失的肉體痛苦。",
-        ja: "骨に 灯った 呪いの 炎は いつまでも 治らない 痛みを 体と 心に 残すという。"
+        ja: "骨に 灯った 呪いの 炎は いつまでも 治らない 痛みを 体と 心に 残すという。",
+        ko: "뼈에서 불타고 있는 저주의 불꽃은\n영원히 치유되지 않는 아픔을\n몸과 마음에 남긴다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Feuriger Knochen",
                 "pt-br": "Osso de Fogo",
                 "zh-tw": "火骨",
-                ja: "ヒートボーン"
+                ja: "ヒートボーン",
+                ko: "히트본"
             },
             damage: 40,
             cost: ["Fire", "Fire"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         }],
     weaknesses: [{

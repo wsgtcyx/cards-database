@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/201",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/201",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/201"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/201",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/201"
     },
     name: {
         en: "Mega Mawile ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Mega-Flunkifer-ex",
         "pt-br": "Mega Mawile ex",
         "zh-tw": "超級大嘴娃ex",
-        ja: "メガクチートex"
+        ja: "メガクチートex",
+        ko: "메가입치트 ex"
     },
     illustrator: "NC Empire",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine beiden Kieferpaare schlagen heftig um sich, als ob\njeder von ihnen hatte seinen eigenen Willen. Ein Knirschen von\nSie können einen Felsbrocken in Staub verwandeln.",
         "pt-br": "Seus dois conjuntos de mandíbulas se debatem violentamente como se\ncada um deles tinha vontade própria. Um ranger de\neles podem transformar uma pedra em pó.",
         "zh-tw": "它的兩副下顎猛烈地扭動著，彷彿\n他們每個人都有自己的意志。一咬牙從\n他們可以將巨石化為塵土。",
-        ja: "2つの アゴは 意思が あるように 激しく 暴れまくっている。 ひと噛みで 岩石も コナゴナだ。"
+        ja: "2つの アゴは 意思が あるように 激しく 暴れまくっている。 ひと噛みで 岩石も コナゴナだ。",
+        ko: "2개의 턱은 의지가 있는 것처럼\n격렬하게 마구 날뛴다.\n한 번 물면 암석도 산산조각 난다."
     },
     stage: "Basic",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Aufheiz-Crunch",
                 "pt-br": "Crunch de aquecimento",
                 "zh-tw": "熱身緊縮",
-                ja: "ヒートアップクランチ"
+                ja: "ヒートアップクランチ",
+                ko: "히트업크런치"
             },
             damage: 60,
             cost: ["Metal", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Bis dieses Pokémon den aktiven Bereich verlässt, fügt die Attacke „Heat-Up Crunch“ dieses Pokémon +30 Schaden zu. Dieser Effekt ist stapelbar.",
                 "pt-br": "Até que este Pokémon saia do Ponto Ativo, o ataque Heat-Up Crunch deste Pokémon causa +30 de dano. Este efeito acumula.",
                 "zh-tw": "在該寶可夢離開活動點之前，該寶可夢的熱身擠壓攻擊造成+30點傷害。該效果可以疊加。",
-                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ヒートアップクランチ」のダメージを+30する。この効果は重なる。"
+                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ヒートアップクランチ」のダメージを+30する。この効果は重なる。",
+                ko: "이 포켓몬이 배틀필드를 떠날 때까지 이 포켓몬의 「히트업크런치」의 데미지를 +30한다. 이 효과는 중복된다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/412",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/412",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/412",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/412"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/412",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/412"
     },
     name: {
         en: "Mega Charizard Y ex",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
         ja: "リザード",
-        ko: "Charmeleon"
+        ko: "리자드"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Mergulho Carmim",
                 "zh-tw": "紅蓮俯衝",
                 ja: "グレンダイブ",
-                ko: "Crimson Dive"
+                ko: "그렌다이브"
             },
             damage: 250,
             cost: [
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon também causa 50 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到50點傷害。",
                 ja: "このポケモンにも50ダメージ。",
-                ko: "This Pokémon also does 50 damage to itself."
+                ko: "이 포켓몬에게도 50데미지를 준다."
             }
         }
     ],

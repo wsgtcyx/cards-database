@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/099",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/099"
     },
     name: {
         en: "Lunala ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Lunala-ex",
         "pt-br": "Lunala ex",
         "zh-tw": "露奈雅拉ex",
-        ja: "ルナアーラex"
+        ja: "ルナアーラex",
+        ko: "루나아라 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Cosmovum",
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
-        ja: "コスモウム"
+        ja: "コスモウム",
+        ko: "코스모움"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Psychische Verbindung",
                 "pt-br": "Conexão Psíquica",
                 "zh-tw": "心靈連接",
-                ja: "サイココネクト"
+                ja: "サイココネクト",
+                ko: "사이코커넥트"
             },
             effect: {
                 en: "Once during your turn, you may move all {P} Energy from 1 of your Benched {P} Pokémon to your Active Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du die gesamte {P}-Energie von einem deiner {P}-Pokémon auf deiner Bank auf dein aktives Pokémon übertragen.",
                 "pt-br": "Uma vez durante o seu turno, você pode mover toda a Energia {P} de 1 dos seus Pokémon {P} no Banco para o seu Pokémon Ativo.",
                 "zh-tw": "在你的回合中，你可以將所有 {P} 能量從你的 1 個後備 {P} 神奇寶貝轉移到你的活躍神奇寶貝上。",
-                ja: "自分の番に1回使える。自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトルポケモンにつけ替える。"
+                ja: "自分の番に1回使える。自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトルポケモンにつけ替える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 벤치의 {P}포켓몬 1마리로부터 {P}에너지를 모두 배틀 포켓몬에게 바꿔 붙인다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Mondexplosion",
                 "pt-br": "Explosão Lunar",
                 "zh-tw": "月亮爆破",
-                ja: "ルナブラスト"
+                ja: "ルナブラスト",
+                ko: "루나블라스트"
             },
             damage: 100,
             cost: ["Psychic", "Colorless", "Colorless"]

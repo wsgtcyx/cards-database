@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/094",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/094"
     },
     name: {
         en: "Mightyena",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sobald es Beute in großer Entfernung wittert, setzt sich das gesamte Rudel auf Befehl des Anführers hin sofort in Bewegung.",
         "pt-br": "Assim que sente o cheiro de uma presa distante, o líder dá um sinal e todo o bando parte em busca dela.",
         "zh-tw": "當嗅到遠處有獵物的氣味，\n就會聽從領頭者吼叫的指示，\n一起展開行動。",
-        ja: "遠くにいる 獲物の においを 嗅ぎつけると リーダーの 指示で 群れが いっせいに 動きはじめる。"
+        ja: "遠くにいる 獲物の においを 嗅ぎつけると リーダーの 指示で 群れが いっせいに 動きはじめる。",
+        ko: "멀리 있는 먹잇감의 냄새를 맡으면\n리더의 지시를 따라\n무리가 일제히 움직이기 시작한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 50
         }

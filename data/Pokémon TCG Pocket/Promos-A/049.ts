@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/049",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/049"
     },
     name: {
         en: "Snorlax",

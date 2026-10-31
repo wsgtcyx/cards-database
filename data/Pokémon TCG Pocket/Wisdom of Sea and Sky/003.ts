@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/003"
     },
     name: {
         en: "Bellossom",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bellossom",
         "zh-tw": "美麗花",
         ja: "キレイハナ",
+        ko: "아르코",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Gloom",
         "zh-tw": "臭臭花",
         ja: "クサイハナ",
+        ko: "냄새꼬",
     },
     description: {
         en: "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "In den Tropen reichlich vorhanden. Wenn es tanzt, sind seine Blütenblätter\naneinander reiben und einen angenehmen Klang erzeugen.",
         "pt-br": "Abundante nos trópicos. Quando dança, suas pétalas\nesfregue e faça um som de toque agradável.",
         "zh-tw": "熱帶地區資源豐富。當它跳舞時，它的花瓣\n相互摩擦並發出悅耳的鈴聲。",
-        ja: "南国に 多く 生息する。 踊るとき 花びらが 触れあい 心地よい 音が 鳴り響く。"
+        ja: "南国に 多く 生息する。 踊るとき 花びらが 触れあい 心地よい 音が 鳴り響く。",
+        ko: "남국에 널리 분포하여 서식하고 있다.\n춤출 때 꽃잎끼리 서로 부딪혀서\n기분 좋은 소리가 울려 퍼진다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blütenblatttanz",
                 "pt-br": "Dança das Pétalas",
                 "zh-tw": "花瓣舞",
-                ja: "はなびらのまい"
+                ja: "はなびらのまい",
+                ko: "꽃잎댄스"
             },
             damage: "60×",
             cost: ["Grass", "Grass"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf. Dieses Pokémon ist jetzt verwirrt.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 60 de dano para cada cabeça. Este Pokémon agora está confuso.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 60 點傷害。這只神奇寶貝現在處於混亂狀態。",
-                ja: "コインを3回投げ、オモテの数×60ダメージ。このポケモンをこんらんにする。"
+                ja: "コインを3回投げ、オモテの数×60ダメージ。このポケモンをこんらんにする。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 60데미지를 준다. 이 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

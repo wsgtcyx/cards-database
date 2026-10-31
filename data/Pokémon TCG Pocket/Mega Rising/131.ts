@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/131",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/131",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/131"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/131",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/131"
     },
     name: {
         en: "Krokorok",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
         ja: "ワルビル",
+        ko: "악비르",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
         ja: "メグロコ",
+        ko: "깜눈크",
     },
     description: {
         en: "Thanks to the special membrane covering its\neyes, it can see its surroundings clearly, even in\nthe middle of the night.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dank der speziellen Membran, die es bedeckt\nMit seinen Augen kann es seine Umgebung auch im Dunkeln klar erkennen\nmitten in der Nacht.",
         "pt-br": "Graças à membrana especial que cobre o seu\nolhos, ele pode ver claramente o que está ao seu redor, mesmo em\nno meio da noite.",
         "zh-tw": "由於其上覆蓋有特殊的薄膜\n眼睛能看清周圍的情況，即使在\n半夜。",
-        ja: "目を 覆う 特殊な 膜の おかげで 真夜中でも あたりを はっきり 見ることが できるぞ。"
+        ja: "目を 覆う 特殊な 膜の おかげで 真夜中でも あたりを はっきり 見ることが できるぞ。",
+        ko: "눈을 감싸는 특수한 막 덕분에\n한밤중에도 주변을 똑똑히 볼 수 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 40,
             cost: ["Fighting", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

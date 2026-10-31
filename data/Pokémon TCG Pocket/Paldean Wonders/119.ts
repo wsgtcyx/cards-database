@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/119"
     },
     name: {
         en: "Pawmi",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Die Ballen seiner Pfoten sind elektrisch ableitende Organe. Pamo feuert Elektrizität aus seinen Vorderpfoten ab, während es unsicher auf seinen Hinterbeinen steht.",
         "pt-br": "As almofadas de suas patas são órgãos que descarregam eletricidade. Pawmi dispara eletricidade com suas patas dianteiras enquanto fica instável nas patas traseiras.",
         "zh-tw": "它的爪墊是放電器官。 布撥 用後腿搖搖晃晃地站立，並從前爪發射電流。",
-        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。"
+        ja: "手の 肉球が 放電器官。 後ろ脚で ようやく 立ち上がると 手のひらから 電撃を 放つ。",
+        ko: "손의 볼록살이 방전 기관이다.\n뒷발로 겨우 일어선 다음\n손바닥에서 전격을 내보낸다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +53,7 @@ const card: Card = {
                 "pt-br": "Faísca Aleatória",
                 "zh-tw": "隨機火花",
                 ja: "でんじスパーク",
+                ko: "전자 스파크",
                 pt: "Fagulha Aleatória"
             },
             cost: ["Lightning"],

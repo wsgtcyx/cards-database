@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/050"
     },
     name: {
         en: "Azumarill",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Azumarill",
         "zh-tw": "瑪力露麗",
         ja: "マリルリ",
+        ko: "마릴리",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Marill",
         "zh-tw": "瑪力露",
         ja: "マリル",
+        ko: "마릴",
     },
     description: {
         en: "Its long ears are superb sensors. It can distinguish\nthe movements of things in water and tell what\nthey are.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine langen Ohren sind hervorragende Sensoren. Es kann unterscheiden\ndie Bewegungen der Dinge im Wasser und erzählen was\nSie sind.",
         "pt-br": "Suas orelhas longas são sensores excelentes. Ele pode distinguir\nos movimentos das coisas na água e dizer o que\neles são.",
         "zh-tw": "它的長耳朵是極好的傳感器。它可以區分\n物體在水中的運動並講述什麼\n他們是。",
-        ja: "長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。"
+        ja: "長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。",
+        ko: "긴 귀는 뛰어난 센서.\n물속의 소리를 구별하여\n무엇이 움직이는지 알 수 있다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dickes Fett",
                 "pt-br": "Gordura espessa",
                 "zh-tw": "厚脂肪",
-                ja: "あついしぼう"
+                ja: "あついしぼう",
+                ko: "두꺼운지방"
             },
             effect: {
                 en: "This Pokémon takes −30 damage from attacks from {R} or {W} Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieses Pokémon erleidet −30 Schaden durch Angriffe von {R}- oder {W}-Pokémon.",
                 "pt-br": "Este Pokémon sofre -30 de dano de ataques de Pokémon {R} ou {W}.",
                 "zh-tw": "該神奇寶貝因 {R} 或 {W} 神奇寶貝的攻擊而受到 -30 點傷害。",
-                ja: "このポケモンが、{R}または{W}ポケモンから受けるワザのダメージを-30する。"
+                ja: "このポケモンが、{R}または{W}ポケモンから受けるワザのダメージを-30する。",
+                ko: "이 포켓몬이 {R} 또는 {W}포켓몬으로부터 받는 기술의 데미지를 -30한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Schwanzschlag",
                 "pt-br": "Batida de cauda",
                 "zh-tw": "尾巴拍打",
-                ja: "しっぽでたたく"
+                ja: "しっぽでたたく",
+                ko: "꼬리로때리기"
             },
             damage: 60,
             cost: ["Water", "Colorless", "Colorless"]

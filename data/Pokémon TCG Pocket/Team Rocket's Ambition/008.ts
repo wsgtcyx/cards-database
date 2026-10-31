@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/008"
     },
     name: {
         en: "Team Rocket's Houndour",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Sein Ruf bei der Beutejagd unterscheidet sich von dem Ruf, den es zum Kommunizieren mit Artgenossen verwendet.",
         "pt-br": "Usa diferentes tipos de chamados para se comunicar com outros de sua espécie e para perseguir sua presa.",
         "zh-tw": "聯絡夥伴和追趕獵物的時候，會分別發出不同種類的叫聲。",
-        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。"
+        ja: "仲間に 連絡するときと 獲物を 追いつめるときでは 鳴き声の 種類が 違うのだ。",
+        ko: "동료에게 연락할 때와\n먹이를 쫓을 때\n울음소리의 종류가 다르다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Glühende Kohlen",
                 "pt-br": "Carvão Vivo",
                 "zh-tw": "火種",
-                ja: "ひだね"
+                ja: "ひだね",
+                ko: "불씨"
             },
             damage: 20
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/076",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/076"
     },
     name: {
         en: "Grafaiai",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Sproxi",
         "pt-br": "Shroodle",
         "zh-tw": "滋汁鼴",
-        ja: "シルシュルー"
+        ja: "シルシュルー",
+        ko: "땃쭈르"
     },
     description: {
         en: "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",

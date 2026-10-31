@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/186",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/186"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/186",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/186"
     },
     name: {
         en: "Swablu",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Não consegue relaxar quando ele ou o ambiente não estão limpos. Ele esfrega a sujeira com as asas para removê-la.",
         "zh-tw": "如果自己和周圍不乾淨，就靜不下心來的性格。見到髒污會用羽毛擦掉。",
         ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
-        ko: "It can't relax if it or its surroundings are not clean.\nIt wipes off dirt with its wings."
+        ko: "자신도 주변도 깨끗하지 않으면\n진정되지 않는 성격이다.\n더러운 것을 발견하면 날개로 닦는다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Canção",
                 "zh-tw": "唱歌",
                 ja: "うたう",
-                ko: "Sing"
+                ko: "노래하기"
             },
             cost: [
                 "Colorless"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢睡眠。",
                 ja: "相手のバトルポケモンをねむりにする。",
-                ko: "Your opponent's Active Pokémon is now Asleep."
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }
     ],

@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/331",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/331",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/331",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/331"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/331",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/331"
 	},
 	name: {
         en: "Irida",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Irida",
         "zh-tw": "珠貝",
         ja: "カイ",
+        ko: "주혜",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Heile 40 Schadenspunkte bei jedem deiner Pokémon, an das mindestens {W}-Energie angelegt ist.",
         "pt-br": "Cure 40 pontos de dano de cada um dos seus Pokémon que tenha qualquer Energia {W} anexada.",
         "zh-tw": "每隻帶有 {W} 能量的神奇寶貝可治療 40 點傷害。",
-        ja: "{W}エネルギーがついている自分のポケモン全員のHPを40回復。"
+        ja: "{W}エネルギーがついている自分のポケモン全員のHPを40回復。",
+        ko: "{W}에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 40회복."
     },
     trainerType: "Supporter"
 };

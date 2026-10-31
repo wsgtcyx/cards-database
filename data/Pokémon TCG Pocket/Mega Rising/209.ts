@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/209",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/209",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/209"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/209",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/209"
     },
     name: {
         en: "Rookidee",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
         ja: "ココガラ",
+        ko: "파라꼬",
     },
     illustrator: "OKACHEKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Weibchen sind wählerischer als die Männchen. Wenn ein anderer\nWenn eine Kreatur die Flügel eines Rookidee-Weibchens beschmutzt, dann wird es das tun\npicke den Täter unerbittlich in brennender Wut.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outro\ncriatura sujar as asas de uma fêmea de Rookidee, ela\nbicar o agressor implacavelmente com uma raiva ardente.",
         "zh-tw": "雌性比雄性更挑剔。如果另一個\n生物弄髒了雌性菜鳥的翅膀，它會\n憤怒中無情地啄擊罪犯。",
-        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。",
+        ko: "암컷은 수컷보다 신경질적이다.\n깃털이 더러워지면 불같이 화를 내며\n부리로 쪼고 다닌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Klappe",
                 "pt-br": "Aba",
                 "zh-tw": "皮瓣",
-                ja: "はばたく"
+                ja: "はばたく",
+                ko: "홰치기"
             },
             damage: 20,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

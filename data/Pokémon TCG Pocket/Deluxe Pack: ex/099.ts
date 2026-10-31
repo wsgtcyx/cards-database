@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/099",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/099",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/099",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/099"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/099",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/099"
 	},
 	name: {
 		en: "Vaporeon",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Aquana",
 		"pt-br": "Vaporeon",
 		"zh-tw": "水伊布",
-		ja: "シャワーズ"
+		ja: "シャワーズ",
+		ko: "샤미드"
 	},
 	illustrator: "LINNE",
 	category: "Pokemon",
@@ -35,7 +37,8 @@ const card: Card = {
 		de: "Evoli",
 		"pt-br": "Eevee",
 		"zh-tw": "伊布",
-		ja: "イーブイ"
+		ja: "イーブイ",
+		ko: "이브이"
 	},
 	description: {
 		en: "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.",

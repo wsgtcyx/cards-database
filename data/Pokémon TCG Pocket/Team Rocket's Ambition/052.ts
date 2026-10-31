@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/052"
     },
     name: {
         en: "Gible",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon lebt in Höhlen, die Erdwärme ausgesetzt sind. Wenn Feinde sich nähern, springt es heraus und beißt mit seinem großen Maul zu.",
         "pt-br": "Faz ninhos em buracos horizontais que são aquecidos pelo calor geotérmico. Inimigos que se aproximam demais serão atacados e mordidos.",
         "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。",
-        ja: "地熱で 温められた 横穴で 暮らす。 敵が 近づくと 穴から 飛び出して 大口で かみつく。"
+        ja: "地熱で 温められた 横穴で 暮らす。 敵が 近づくと 穴から 飛び出して 大口で かみつく。",
+        ko: "지열로 데워진 구멍에서 지낸다.\n적이 가까이 오면 구멍에서 뛰쳐나와\n커다란 입으로 물어 버린다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Bodycheck",
                 "pt-br": "Desmantelar",
                 "zh-tw": "猛撞",
-                ja: "とっしん"
+                ja: "とっしん",
+                ko: "돌진"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt auch selbst sich 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也受到10點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             },
             damage: 30
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/019"
     },
     name: {
         en: "Team Rocket's Voltorb",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Viele Menschen verwechseln Voltobal mit einem Pokéball und erhalten beim Anfassen einen Stromschlag. Es lebt vorwiegend in Kraftwerken.",
         "pt-br": "Normalmente encontrado em usinas de energia elétrica. Por ser facilmente confundido com uma Poké Bola, eletrocutou muitas pessoas.",
         "zh-tw": "會出現在發電廠等地方。很多人會把牠錯當成精靈球去觸碰而被電麻。",
-        ja: "発電所などに 現れる。 モンスターボールと 間違えて 触って しびれる 人が 多い。"
+        ja: "発電所などに 現れる。 モンスターボールと 間違えて 触って しびれる 人が 多い。",
+        ko: "발전소 등에서 나타난다.\n몬스터볼과 헷갈려서\n만지고 마비되는 사람이 많다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Rollender Angriff",
                 "pt-br": "Golpe Rolador",
                 "zh-tw": "滾球攻擊",
-                ja: "ボールアタック"
+                ja: "ボールアタック",
+                ko: "볼어택"
             },
             damage: 20
         }

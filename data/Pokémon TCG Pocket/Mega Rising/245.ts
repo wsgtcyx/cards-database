@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/245",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/245",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/245",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/245"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/245",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/245"
     },
     name: {
         en: "Hydreigon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hydreigon",
         "zh-tw": "三首惡龍",
         ja: "サザンドラ",
+        ko: "삼삼드래",
     },
     illustrator: "matazo",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Zweilous",
         "zh-tw": "雙首暴龍",
         ja: "ジヘッド",
+        ko: "디헤드",
     },
     description: {
         en: "It's said that Hydreigon grew ferocious because\npeople in times long past loathed it, considering\nit to be evil incarnate and attacking it relentlessly.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Man sagt, Hydreigon sei wild geworden, weil\nDie Menschen in längst vergangenen Zeiten verabscheuten es, wenn man bedenkt\nes als das inkarnierte Böse zu betrachten und es unerbittlich anzugreifen.",
         "pt-br": "Dizem que Hydreigon ficou feroz porque\nas pessoas em tempos passados ​​odiavam isso, considerando\né o mal encarnado e ataca-o implacavelmente.",
         "zh-tw": "據說 Hydeigon 變得兇猛是因為\n很久以前的人們厭惡它，考慮到\n它是邪惡的化身，並對其進行無情的攻擊。",
-        ja: "昔 人が 邪悪 そのものと 忌み嫌い 攻撃し続けたため 凶暴になったと 言われている。"
+        ja: "昔 人が 邪悪 そのものと 忌み嫌い 攻撃し続けたため 凶暴になったと 言われている。",
+        ko: "옛날 사람들이 사악 그 자체라며\n거듭해서 배척하고 공격했기 때문에\n흉포해진 것이라 전해지고 있다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Brüllen Sie im Einklang",
                 "pt-br": "Rugir em uníssono",
                 "zh-tw": "齊聲咆哮",
-                ja: "つらなるほうこう"
+                ja: "つらなるほうこう",
+                ko: "포효타래"
             },
             effect: {
                 en: "Once during your turn, you may take 2 {D} Energy from your Energy Zone and attach it to this Pokémon. If you do, do 30 damage to this Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du 2 {D}-Energie aus deiner Energiezone nehmen und an dieses Pokémon anlegen. Wenn du dies tust, füge diesem Pokémon 30 Schadenspunkte zu.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar 2 {D} Energias da sua Zona de Energia e associá-las a este Pokémon. Se fizer isso, cause 30 de dano a este Pokémon.",
                 "zh-tw": "在你的回合中，你可以從你的能量區取出 2 個 {D} 能量並將其附加到這只神奇寶貝身上。這樣做的話，對該寶可夢造成 30 點傷害。",
-                ja: "自分の番に1回使える。自分のエネルギーゾーンから{D}エネルギーを2個出し、このポケモンにつける。その後、このポケモンに30ダメージ。"
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{D}エネルギーを2個出し、このポケモンにつける。その後、このポケモンに30ダメージ。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {D}에너지를 2개 내보내 이 포켓몬에게 붙인다. 그 뒤, 이 포켓몬에게 30데미지를 준다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Hyper Ray",
                 "pt-br": "Hiper Raio",
                 "zh-tw": "超射線",
-                ja: "ハイパービーム"
+                ja: "ハイパービーム",
+                ko: "하이퍼빔"
             },
             damage: 130,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -92,13 +99,17 @@ const card: Card = {
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的所有能量。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/062"
     },
     name: {
         en: "Ting-Lu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ting-Lu",
         "zh-tw": "古鼎鹿",
         ja: "ディンルー",
+        ko: "딩루",
         pt: "Ting-Lu"
     },
     illustrator: "AKIRA EGAWA",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Langsam senkt es seinen überaus schweren Kopf auf den Boden und reißt die Erde mit riesigen Rissen auf, die über 160 Fuß tief sind.",
         "pt-br": "Ele lentamente traz sua cabeça extremamente pesada para o chão, abrindo a terra com enormes fissuras que chegam a mais de 50 metros de profundidade.",
         "zh-tw": "它慢慢地將極其沉重的頭放在地上，將大地劈開，裂開深達 160 英尺的巨大裂縫。",
-        ja: "とても 重たい 頭を ゆっくり 振り下ろし 深さ５０メートルの 長大な 地割れを 引き起こす。"
+        ja: "とても 重たい 頭を ゆっくり 振り下ろし 深さ５０メートルの 長大な 地割れを 引き起こす。",
+        ko: "매우 무거운 머리를 천천히 내리쳐서\n땅에 50m 깊이의\n거대한 균열을 일으킨다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Impacto Arrogante",
                 "zh-tw": "傲慢的衝擊力",
                 ja: "ごうまんインパクト",
+                ko: "거만임팩트",
                 pt: "Impacto da Soberba"
             },
             damage: 130,
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Wenn die verbleibenden HP dieses Pokémon 60 oder weniger betragen, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Se o HP restante deste Pokémon for 60 ou menos, este ataque não fará nada.",
                 "zh-tw": "如果這隻寶可夢的剩餘生命值為 60 或更少，則此攻擊無效。",
-                ja: "このポケモンの残りHPが60以下なら、このワザは失敗。"
+                ja: "このポケモンの残りHPが60以下なら、このワザは失敗。",
+                ko: "이 포켓몬의 남은 HP가 60 이하라면 이 기술은 실패한다."
             },
         },
     ],

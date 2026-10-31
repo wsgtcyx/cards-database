@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/197",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/197",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/197",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/197"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/197",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/197"
     },
     name: {
         en: "Altaria",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Altaria",
         "zh-tw": "七夕青鳥",
         ja: "チルタリス",
+        ko: "파비코리",
     },
     illustrator: "sui",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
         ja: "チルット",
+        ko: "파비코",
     },
     description: {
         en: "On sunny days, it flies freely through the sky and\nblends into the clouds. It sings in a beautiful\nsoprano.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "An sonnigen Tagen fliegt es frei durch den Himmel und\nverschmilzt mit den Wolken. Es singt wunderschön\nSopran.",
         "pt-br": "Em dias ensolarados, ele voa livremente pelo céu e\nse mistura com as nuvens. Ele canta de uma forma linda\nsoprano.",
         "zh-tw": "陽光明媚的日子裡，它在天空中自由自在地飛翔，\n融入雲彩。它用優美的歌聲歌唱\n女高音。",
-        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。"
+        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。",
+        ko: "맑은 날 뭉게구름에 뒤섞인 채로\n넓은 하늘을 자유롭게 날아다니며\n아름다운 소프라노로 노래한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Mach die Welle",
                 "pt-br": "Faça a onda",
                 "zh-tw": "做波浪",
-                ja: "ともだちのわ"
+                ja: "ともだちのわ",
+                ko: "친구사이"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 20 點額外傷害。",
-                ja: "自分のベンチポケモンの数×20ダメージ追加。"
+                ja: "自分のベンチポケモンの数×20ダメージ追加。",
+                ko: "자신의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

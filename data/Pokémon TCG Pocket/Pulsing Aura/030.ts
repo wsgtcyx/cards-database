@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/030"
     },
     name: {
         en: "Darmanitan",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses Pokémon ist ausgesprochen energisch. Ein\neinziger Hieb mit seinen gewaltigen Armen macht\nselbst Lastwagen dem Erdboden gleich.",
         "pt-br": "Os braços grossos deste Pokémon de sangue quente podem desferir socos capazes de destruir um caminhão basculante.",
         "zh-tw": "總是熱血沸騰的寶可夢。\n牠厚重的手臂使出的拳擊\n甚至能把砂石車打得粉碎。",
-        ja: "血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。"
+        ja: "血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。",
+        ko: "혈기왕성한 포켓몬.\n굵직한 팔에서 날리는 펀치는\n덤프트럭도 가루로 만들어버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Doppelstoß",
                 "pt-br": "Bordoada Dupla",
                 "zh-tw": "雙重粉碎",
-                ja: "ダブルスマッシュ"
+                ja: "ダブルスマッシュ",
+                ko: "더블스매시"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 40 damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
-                ja: "コインを2回投げ、オモテの数×40ダメージ。"
+                ja: "コインを2回投げ、オモテの数×40ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
             },
             damage: "40x"
         }

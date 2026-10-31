@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/092"
     },
     name: {
         en: "Koraidon ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Legendärer Antrieb",
                 "pt-br": "Unidade Lendária",
                 "zh-tw": "傳說進擊",
-                ja: "でんせつのしんげき"
+                ja: "でんせつのしんげき",
+                ko: "전설의 진격"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Wenn du dieses Pokémon einmal während deines Zuges aus deiner Hand auf deine Bank legst, kannst du es mit deinem Aktiven Pokémon vertauschen. Wenn du dies tust, bewege deine gesamte Energie im Spiel zu diesem Pokémon.",
                 "pt-br": "Uma vez durante o seu turno, ao colocar este Pokémon da sua mão no Banco, você poderá trocá-lo pelo seu Pokémon Ativo. Se fizer isso, mova toda a sua Energia em jogo para este Pokémon.",
                 "zh-tw": "在你的回合中，當你將這隻寶可夢從你的手牌放到你的替補席上時，你可以將它與你的活躍寶可夢交換。如果這樣做，請將場上所有能量轉移到這隻寶可夢身上。",
-                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。このポケモンをバトルポケモンと入れ替える。その後、自分の場のエネルギーをすべて、このポケモンにつけ替える。"
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。このポケモンをバトルポケモンと入れ替える。その後、自分の場のエネルギーをすべて、このポケモンにつけ替える。",
+                ko: "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 이 포켓몬을 배틀 포켓몬과 교체한다. 그 뒤, 자신의 필드의 에너지를 모두 이 포켓몬에게 바꿔 붙인다."
             }
         }
     ],
@@ -67,7 +70,8 @@ const card: Card = {
                 de: "Weltzerstörer",
                 "pt-br": "Destruidor de mundo",
                 "zh-tw": "天地粉碎",
-                ja: "てんちふんさい"
+                ja: "てんちふんさい",
+                ko: "천지분쇄"
             },
             effect: {
                 en: "Discard the top card of your deck.",
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Lege die oberste Karte deines Decks ab.",
                 "pt-br": "Descarte a carta do topo do seu baralho.",
                 "zh-tw": "棄掉你牌組最上面的牌。",
-                ja: "自分の山札を上から1枚トラッシュ。"
+                ja: "自分の山札を上から1枚トラッシュ。",
+                ko: "자신의 덱을 위에서부터 1장 트래쉬한다."
             },
             damage: 110
         }

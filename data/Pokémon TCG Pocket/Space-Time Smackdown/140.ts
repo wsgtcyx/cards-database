@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/140",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/140",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/140"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/140",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/140"
     },
     name: {
         en: "Purugly",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Glameow",
         "zh-tw": "魅力喵",
         ja: "ニャルマー",
+        ko: "나옹마",
     },
     description: {
         en: "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",

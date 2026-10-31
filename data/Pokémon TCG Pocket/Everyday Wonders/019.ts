@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/019"
     },
     name: {
         en: "Piplup",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Einmischung kann es gar nicht leiden. Es ist bockig und fasst\nnur schwer Zutrauen zu seinem Trainer.",
         "pt-br": "Não gosta de ser cuidado. É difícil criar um vínculo, pois ele não escuta seu Treinador.",
         "zh-tw": "它不喜歡被照顧。它很難與它建立聯繫，因為它不聽訓練師的話。",
-        ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。"
+        ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。",
+        ko: "신세 지는 것을 싫어한다.\n트레이너의 지시를 듣지 않아\n친해지기 어렵다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Blubbstrahl",
                 "pt-br": "Feixe de bolha",
                 "zh-tw": "泡沫光線",
-                ja: "バブルこうせん"
+                ja: "バブルこうせん",
+                ko: "거품광선"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 20
         }

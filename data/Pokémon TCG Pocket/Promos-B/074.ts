@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/074"
     },
     name: {
         en: "Raichu",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Wenn die elektrischen Beutel in seinen Wangen vollständig aufgeladen sind, stellen sich beide Ohren gerade auf.",
         "pt-br": "Se as bolsas elétricas em suas bochechas ficarem totalmente carregadas, ambas as orelhas ficarão retas.",
         "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。",
-        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。"
+        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。",
+        ko: "양 볼의 전기 주머니에 모인\n전기가 가득 차게 되면\n두 귀가 곧게 선다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Flotter Sprung",
                 "pt-br": "Raio Supersônico",
                 "zh-tw": "音速伏特",
-                ja: "マッハボルト"
+                ja: "マッハボルト",
+                ko: "마하볼트"
             },
             damage: 70
         }

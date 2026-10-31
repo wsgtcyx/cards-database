@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/061"
     },
     name: {
         en: "Team Rocket's Persian",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Team Rockets Snobilikat",
         "pt-br": "Persian da Equipe Rocket",
         "zh-tw": "火箭隊的貓老大",
-        ko: "로켓단의 알로라 페르시온",
+        ko: "로켓단의 페르시온",
         ja: "ロケット団のペルシアン"
     },
     illustrator: "kodama",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es ist aufbrausend. Richtet es seinen Schweif auf, ist Vorsicht geboten. Das ist ein Anzeichen dafür, dass Snobilikat gleich losspringt und zubeißt.",
         "pt-br": "Tem um temperamento perverso. Tome cuidado se este Pokémon eriçar a cauda. Isso é um sinal de que está prestes a atacar e morder.",
         "zh-tw": "性情凶暴，豎起尾巴時要多加小心。那是牠將飛撲過來咬你的前兆。",
-        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。"
+        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。",
+        ko: "성격이 거칠기 때문에 꼬리를\n바짝 세우고 있으면 주의해야 한다.\n달려들어서 물겠다는 경고이기 때문이다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Gaunergefahr",
                 "pt-br": "Trapaceiro Perigoso",
                 "zh-tw": "凶神惡煞",
-                ja: "デスローグ"
+                ja: "デスローグ",
+                ko: "데스로그"
             },
             effect: {
                 en: "This attack does 40 more damage for each of your opponent's Benched Pokémon.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 40 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "增加對手備戰寶可夢的數量×40點傷害。",
-                ja: "相手のベンチポケモンの数×40ダメージ追加。"
+                ja: "相手のベンチポケモンの数×40ダメージ追加。",
+                ko: "상대의 벤치 포켓몬의 수 × 40데미지를 추가한다."
             },
             damage: "10+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/050"
     },
     name: {
         en: "Pawmot",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
         ja: "パモット",
-        ko: "Pawmo"
+        ko: "빠모트"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Raio Supersônico",
                 "zh-tw": "音速伏特",
                 ja: "マッハボルト",
-                ko: "Mach Bolt"
+                ko: "마하볼트"
             },
             cost: [
                 "Lightning"
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Eletrocriação",
                 "zh-tw": "造電",
                 ja: "でんきづくり",
-                ko: "Electrocreation"
+                ko: "전기 생산"
             },
             effect: {
                 en: "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot.",
@@ -94,7 +95,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e ligá-la ao Pokémon {L} no Campo Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{L}能量,附於戰鬥場的{L}寶可夢身上。",
                 ja: "自分の番に1回使える。自分のエネルギーゾーンから{L}エネルギーを1個出し、バトル場の{L}ポケモンにつける。",
-                ko: "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot."
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {L}에너지를 1개 내보내 배틀필드의 {L}포켓몬에게 붙인다."
             },
             type: "Ability"
         }
@@ -108,7 +109,7 @@ const card: Card = {
         "pt-br": "Este Pokémon costuma demorar para reagir, mas quando entra na batalha, derrota seus oponentes com golpes na velocidade da luz.",
         "zh-tw": "雖然平時動作慢吞吞的，但在進入戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。",
         ja: "普段は おっとりしているが いざ 戦いになると 電光石火の 身のこなしで 敵を 叩きのめす。",
-        ko: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements."
+        ko: "평소에는 느긋하지만\n싸움이 시작되면 전광석화와도 같은\n몸놀림으로 적을 때려눕힌다."
     }
 };
 

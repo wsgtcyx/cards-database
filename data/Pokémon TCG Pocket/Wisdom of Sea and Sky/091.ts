@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/091",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/091"
     },
     name: {
         en: "Musharna",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Musharna",
         "zh-tw": "夢夢蝕",
         ja: "ムシャーナ",
+        ko: "몽얌나",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Munna",
         "zh-tw": "食夢夢",
         ja: "ムンナ",
+        ko: "몽나",
     },
     description: {
         en: "When dark mists emanate from its body, don't\nget too near. If you do, your nightmares will\nbecome reality.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn dunkle Nebel von seinem Körper ausgehen, tun Sie es nicht\nzu nahe kommen. Wenn Sie das tun, werden Ihre Albträume es tun\nWirklichkeit werden.",
         "pt-br": "Quando névoas escuras emanam de seu corpo, não\nchegar muito perto. Se você fizer isso, seus pesadelos irão\ntornar-se realidade.",
         "zh-tw": "當它的身體散發出黑霧時，不要\n太近了。如果你這樣做，你的噩夢就會\n成為現實。",
-        ja: "出てる 煙が 黒っぽいときは 近づかないほうが いいよ。 悪夢が 現実に なるぞ。"
+        ja: "出てる 煙が 黒っぽいときは 近づかないほうが いいよ。 悪夢が 現実に なるぞ。",
+        ko: "뿜어내는 연기가 거무스름할 때는\n가까이 가지 않는 것이 좋다.\n악몽이 현실이 되기 때문이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Traumtanz",
                 "pt-br": "Dança dos Sonhos",
                 "zh-tw": "夢幻之舞",
-                ja: "ゆめみのまい"
+                ja: "ゆめみのまい",
+                ko: "꿈춤"
             },
             damage: 60,
             cost: ["Psychic", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Beide aktiven Pokémon schlafen jetzt.",
                 "pt-br": "Ambos os Pokémon ativos agora estão dormindo.",
                 "zh-tw": "兩隻活躍的神奇寶貝現在都睡著了。",
-                ja: "おたがいのバトルポケモンをねむりにする。"
+                ja: "おたがいのバトルポケモンをねむりにする。",
+                ko: "서로의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }],
     weaknesses: [{

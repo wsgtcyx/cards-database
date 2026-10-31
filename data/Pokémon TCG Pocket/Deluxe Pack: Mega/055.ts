@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/055"
     },
     name: {
         en: "Alolan Vulpix",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
         ja: "アローラロコン",
-        ko: "알로라식스테일"
+        ko: "알로라 식스테일"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Quando o clima está quente, este Pokémon cria cacos de gelo com suas seis caudas e os espalha para se refrescar.",
         "zh-tw": "天氣熱的時候會用6根尾巴製造冰礫再散向周圍，藉此讓身體冷卻下來。",
         ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
-        ko: "In hot weather, this Pokémon makes ice shards\nwith its six tails and sprays them around to cool\nitself off."
+        ko: "더울 때는 6개의 꼬리로\n얼음 뭉치를 만든 뒤\n주변에 뿌려서 몸을 식힌다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Roída",
                 "zh-tw": "咬",
                 ja: "かじる",
-                ko: "Gnaw"
+                ko: "갉기"
             },
             damage: 20,
             cost: [

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/026"
     },
     name: {
         en: "Magnezone",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Magnezone",
         "pt-br": "Magnezone",
         "zh-tw": "自爆磁怪",
-        ja: "ジバコイル"
+        ja: "ジバコイル",
+        ko: "자포코일"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Magneton",
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
-        ja: "レアコイル"
+        ja: "レアコイル",
+        ko: "레어코일"
     },
     description: {
         en: "Exposure to a special magnetic field changed\nMagneton's molecular structure, turning it into\nMagnezone.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Exposition gegenüber einem speziellen Magnetfeld veränderte sich\nDie molekulare Struktur des Magnetons, die es in umwandelt\nMagnezone.",
         "pt-br": "A exposição a um campo magnético especial mudou\nA estrutura molecular do Magneton, transformando-o em\nMagnezona.",
         "zh-tw": "暴露於特殊磁場改變\n磁子的分子結構，將其變成\n磁區。",
-        ja: "特殊な 磁場で レアコイルの 分子 構造が 組み換えられて ジバコイルに 進化した。"
+        ja: "特殊な 磁場で レアコイルの 分子 構造が 組み換えられて ジバコイルに 進化した。",
+        ko: "특수한 자기장으로 레어코일의\n분자 구조가 재구성되어\n자포코일로 진화했다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Spiegelschuss",
                 "pt-br": "Tiro no espelho",
                 "zh-tw": "鏡面拍攝",
-                ja: "ミラーショット"
+                ja: "ミラーショット",
+                ko: "미러샷"
             },
             damage: 90,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
                 "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
-                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
             }
         }],
     weaknesses: [{

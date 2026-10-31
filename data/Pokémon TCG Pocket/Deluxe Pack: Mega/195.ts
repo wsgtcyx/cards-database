@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/195",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/195"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/195",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/195"
     },
     name: {
         en: "Rookidee",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma Rookidee fêmea, ela bicará o agressor implacavelmente com uma fúria brutal.",
         "zh-tw": "雌性比雄性還要神經質。一旦羽毛被弄髒了，就會滿腔怒火地用鳥嘴猛啄。",
         ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。",
-        ko: "The females are fussier than the males. If another creature dirties a female Rookidee’s wings, it’ll peck the offender relentlessly in a burning rage."
+        ko: "암컷은 수컷보다 신경질적이다.\n깃털이 더러워지면 불같이 화를 내며\n부리로 쪼고 다닌다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Colher",
                 "zh-tw": "啄食",
                 ja: "ついばむ",
-                ko: "Pluck"
+                ko: "쪼아대기"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害前,將對手的戰鬥寶可夢身上的「寶可夢道具」丟棄。",
                 ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
-                ko: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+                ko: "데미지를 주기 전에 상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다."
             },
             damage: 10
         }

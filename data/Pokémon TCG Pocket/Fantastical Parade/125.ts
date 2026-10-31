@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/125",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/125"
     },
     name: {
         en: "Persian",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Snobilikat",
         "pt-br": "Persian",
         "zh-tw": "貓老大",
-        ja: "ペルシアン"
+        ja: "ペルシアン",
+        ko: "페르시온"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mauzi",
         "pt-br": "Meowth",
         "zh-tw": "喵喵",
-        ja: "ニャース"
+        ja: "ニャース",
+        ko: "나옹"
     },
     description: {
         en: "It has a vicious temperament. Beware if it raises\nits tail straight up. This is a signal that it is about\nto pounce and bite.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es hat ein bösartiges Temperament. Seien Sie vorsichtig, wenn es ansteigt\nsein Schwanz ist gerade nach oben. Das ist ein Signal dafür, dass es darum geht\nsich stürzen und beißen.",
         "pt-br": "Tem um temperamento cruel. Cuidado se isso aumentar\nsua cauda reta para cima. Este é um sinal de que se trata de\npara atacar e morder.",
         "zh-tw": "它有一種惡毒的氣質。小心如果它升高\n它的尾巴直立起來。這是一個信號，表明它是關於\n猛撲和咬。",
-        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。"
+        ja: "気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。",
+        ko: "성격이 거칠기 때문에 꼬리를\n바짝 세우고 있으면 주의해야 한다.\n달려들어서 물겠다는 경고이기 때문이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 60,
             cost: ["Colorless", "Colorless"]

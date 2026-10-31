@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/013"
     },
     name: {
         en: "Budew",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Este Pokémon é extremamente sensível a mudanças de temperatura. Quando seu botão começa a se abrir, é sinal de que a primavera está chegando.",
         "zh-tw": "對氣溫的變化很敏感。當牠開始打開花苞，便是冬去春來之時。",
         ja: "気温の 変化に 敏感。 つぼみが 開きはじめたら 春の 訪れは もうすぐだ。",
-        ko: "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner."
+        ko: "기온 변화에 민감하다.\n봉오리가 피기 시작하면\n곧 봄이 온다."
     },
     attacks: [
         {
@@ -57,7 +58,7 @@ const card: Card = {
                 "pt-br": "Pó Pinicante",
                 "zh-tw": "痛痛粉",
                 ja: "ひりひりパウダー",
-                ko: "Prickly Powder"
+                ko: "얼얼파우더"
             },
             effect: {
                 en: "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot.",
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Defensor perde todas as Habilidades. Este efeito dura até o Pokémon Defensor sair do Campo Ativo.",
                 "zh-tw": "將受到這個招式的寶可夢的特性全部消除。這個效果在受到這個招式的寶可夢離開戰鬥場前一直持續。",
                 ja: "このワザを受けたポケモンの特性を、すべてなくす。この効果は、このワザを受けたポケモンがバトル場をはなれるまで続く。",
-                ko: "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot."
+                ko: "이 기술을 받은 포켓몬의 특성을 모두 없앤다. 이 효과는 이 기술을 받은 포켓몬이 배틀필드를 떠날 때까지 계속된다."
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/116",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/116"
     },
     name: {
         en: "Aromatisse",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Aromatisse",
         "zh-tw": "芳香精",
         ja: "フレフワン",
+        ko: "프레프티르",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
         ja: "シュシュプ",
+        ko: "슈쁘",
     },
     description: {
         en: "The scents Aromatisse can produce range from\nsweet smells that bolster allies to foul smells\nthat sap an opponent's will to fight.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Düfte, die Aromatisse herstellen kann, reichen von\nsüße Gerüche, die Verbündete gegen üble Gerüche stärken\ndas schwächt den Kampfwillen eines Gegners.",
         "pt-br": "Os aromas que Aromatisse pode produzir vão desde\ncheiros doces que reforçam aliados aos cheiros desagradáveis\nque minam a vontade de lutar do oponente.",
         "zh-tw": "Aromatisse 可以產生的香味範圍包括\n甜蜜的氣味可以增強盟友的惡臭\n削弱對手的戰鬥意志。",
-        ja: "敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。"
+        ja: "敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。",
+        ko: "상대의 전의를 상실시키는\n악취와 같은 편을 돕는\n황홀한 향기를 만들어 낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Verwirrendes Köln",
                 "pt-br": "Confundindo Colônia",
                 "zh-tw": "令人困惑的科隆",
-                ja: "フラフラパフューム"
+                ja: "フラフラパフューム",
+                ko: "흔들흔들퍼퓸"
             },
             damage: 40,
             cost: ["Psychic"],
@@ -69,13 +74,19 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

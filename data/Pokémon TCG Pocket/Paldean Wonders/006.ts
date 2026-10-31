@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/006"
     },
     name: {
         en: "Nymble",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Nymble",
         "zh-tw": "豆蟋蟀",
         ja: "マメバッタ",
+        ko: "콩알뚜기",
         pt: "Nymble",
         'es-mx': "Nymble"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Es ist äußerst geschickt in einem Kampfstil, bei dem es seine Sprungfähigkeiten nutzt, um eingehenden Angriffen auszuweichen und gleichzeitig Gegnern Schaden zuzufügen.",
         "pt-br": "É altamente habilidoso em um estilo de luta no qual usa suas capacidades de salto para evitar ataques e, ao mesmo tempo, causar danos aos oponentes.",
         "zh-tw": "它擅長利用跳躍能力來躲避攻擊，同時對對手造成傷害。",
-        ja: "ジャンプ力を 活かして 相手の 攻撃を かわしながら ダメージを 与える 戦い方が 得意。"
+        ja: "ジャンプ力を 活かして 相手の 攻撃を かわしながら ダメージを 与える 戦い方が 得意。",
+        ko: "점프력을 이용하여\n상대의 공격을 피하며\n데미지를 주는 전법이 특기다."
     },
     stage: "Basic",
     attacks: [
@@ -52,6 +55,7 @@ const card: Card = {
                 "pt-br": "Retorno",
                 "zh-tw": "調頭",
                 ja: "とんぼがえり",
+                ko: "유턴",
                 pt: "Fazer Retorno",
                 'es-mx': "Ida y Vuelta"
             },
@@ -65,7 +69,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
         },
     ],

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/172",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/172",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/172",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/172"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/172",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/172"
 	},
 	name: {
 		en: "Giratina ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Giratina-ex",
 		"pt-br": "Giratina ex",
 		"zh-tw": "騎拉帝納ex",
-		ja: "ギラティナex"
+		ja: "ギラティナex",
+		ko: "기라티나 ex"
 	},
 	illustrator: "PLANETA Yamashita",
 	rarity: "Four Diamond",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/002"
     },
     name: {
         en: "Ivysaur",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
-        ja: "フシギダネ"
+        ja: "フシギダネ",
+        ko: "이상해씨"
     },
     attacks: [{
             cost: ["Grass", "Colorless", "Colorless"],

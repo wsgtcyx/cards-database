@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/084"
     },
     name: {
         en: "Cyclizar",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Es kann mit einer Geschwindigkeit von über 70 Meilen pro Stunde sprinten, während es einen Menschen trägt. Die Körperwärme des Reiters wärmt den Rücken von Mopex und hebt den Geist des Pokémon.",
         "pt-br": "Ele pode correr a mais de 70 mph enquanto carrega um humano. O calor do corpo do cavaleiro aquece as costas de Cyclizar e eleva o espírito do Pokémon.",
         "zh-tw": "它載人時可以以超過 70 英里/小時的速度衝刺。騎士的體溫溫暖了 摩托蜥 的背部並提升了寶可夢的精神。",
-        ja: "人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。"
+        ja: "人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。",
+        ko: "사람을 태우고 시속 120km로 질주한다.\n사람의 체온으로 등이 따뜻해지면\n기운이 난다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +53,7 @@ const card: Card = {
                 "pt-br": "Amigo de condução",
                 "zh-tw": "駕駛夥伴",
                 ja: "バディドライブ",
+                ko: "버디드라이브",
                 pt: "Carona Amiga"
             },
             damage: "40+",
@@ -64,6 +67,7 @@ const card: Card = {
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你在本回合中從手牌中打出了支持者卡，則此攻擊造成的傷害增加 60 點。",
                 ja: "この番、手札からサポートを出して使っていたなら、60ダメージ追加。",
+                ko: "이 차례에 패에서 서포트를 꺼내서 사용했다면 60데미지를 추가한다.",
                 pt: "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 60 pontos de dano a mais."
             },
         },

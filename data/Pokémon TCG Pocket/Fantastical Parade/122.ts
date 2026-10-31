@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/122"
     },
     name: {
         en: "Shelgon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Draschel",
         "pt-br": "Shelgon",
         "zh-tw": "甲殼龍",
-        ja: "コモルー"
+        ja: "コモルー",
+        ko: "쉘곤"
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kindwurm",
         "pt-br": "Bagon",
         "zh-tw": "寶貝龍",
-        ja: "タツベイ"
+        ja: "タツベイ",
+        ko: "아공이"
     },
     description: {
         en: "Its armored body makes all attacks bounce off.\nThe armor is too tough, however, making it heavy\nand somewhat sluggish.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sein gepanzerter Körper lässt alle Angriffe abprallen.\nDie Panzerung ist jedoch zu robust und dadurch schwer\nund etwas träge.",
         "pt-br": "Seu corpo blindado faz com que todos os ataques sejam refletidos.\nA armadura é muito resistente, porém, tornando-a pesada\ne um tanto lento.",
         "zh-tw": "其裝甲的身體可以將所有攻擊彈開。\n然而，盔甲太堅韌，使其變得沉重\n並且有些遲緩。",
-        ja: "あらゆる 攻撃を 跳ね返す。 丈夫すぎて 体が 重いため 少し 動きが 鈍い。"
+        ja: "あらゆる 攻撃を 跳ね返す。 丈夫すぎて 体が 重いため 少し 動きが 鈍い。",
+        ko: "모든 공격을 튕겨 낸다.\n너무 튼튼해서 몸이 무겁기 때문에\n약간 움직임이 둔하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Rollendes Gerät",
                 "pt-br": "Equipamento de rolamento",
                 "zh-tw": "滾動釣具",
-                ja: "ころがりタックル"
+                ja: "ころがりタックル",
+                ko: "구르기 태클"
             },
             damage: 60,
             cost: ["Fire", "Water"]

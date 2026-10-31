@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/124",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/124"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/124",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/124"
     },
     name: {
         en: "Tinkatuff",
@@ -38,6 +39,7 @@ const card: Card = {
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
         ja: "カヌチャン",
+        ko: "어리짱",
         pt: "Tinkatink",
         'es-mx': "Tinkatink"
     },
@@ -50,7 +52,8 @@ const card: Card = {
         "de": "Diese Pokémon bauen ihr Zuhause in Schrotthaufen. Sie testen die Stärke der Hämmer des anderen, indem sie sie zusammenschlagen.",
         "pt-br": "Esses Pokémon constroem suas casas em pilhas de sucata. Eles testam a força dos martelos um do outro, esmagando-os.",
         "zh-tw": "這些寶可夢在廢金屬堆裡安家。他們透過將彼此的錘子砸在一起來測試彼此的錘子的強度。",
-        ja: "金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。"
+        ja: "金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。",
+        ko: "금속으로 가득한 고철더미를 거처로 삼는다.\n해머의 강도를 시험하기 위해\n동료끼리 격렬하게 부딪친다."
     },
     attacks: [
         {

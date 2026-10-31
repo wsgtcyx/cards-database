@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/126",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/126",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/126"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/126",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/126"
     },
     name: {
         en: "Kangaskhan",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kangama",
         "pt-br": "Kangaskhan",
         "zh-tw": "袋獸",
-        ja: "ガルーラ"
+        ja: "ガルーラ",
+        ko: "캥카"
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es gibt Aufzeichnungen über ein verlorenes menschliches Kind\naufgezogen von einem kinderlosen Kangaskhan.",
         "pt-br": "Existem registros de uma criança humana perdida sendo\ncriado por um Kangaskhan sem filhos.",
         "zh-tw": "有記錄稱人類兒童失踪\n由沒有孩子的坎加斯汗撫養長大。",
-        ja: "子どもの いない ガルーラが 遭難した 人間の 子を 育てていたという 記録がある。"
+        ja: "子どもの いない ガルーラが 遭難した 人間の 子を 育てていたという 記録がある。",
+        ko: "새끼가 없는 캥카가\n조난한 사람의 아이를\n길렀다는 기록이 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stetiger Schlag",
                 "pt-br": "Soco constante",
                 "zh-tw": "穩定出拳",
-                ja: "ワンツーパンチ"
+                ja: "ワンツーパンチ",
+                ko: "원투펀치"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

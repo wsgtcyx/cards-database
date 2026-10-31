@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/187",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/187",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/187",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/187"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/187",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/187"
     },
     name: {
         en: "Pidgeotto",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
-        ja: "ポッポ"
+        ja: "ポッポ",
+        ko: "구구"
     },
     attacks: [{
             cost: ["Colorless"],

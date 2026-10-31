@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/185",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/185",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/185",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/185"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/185",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/185"
     },
     name: {
         en: "Delcatty",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
         ja: "エネコ",
-        ko: "Skitty"
+        ko: "에나비"
     },
     description: {
         en: "It is highly popular among female Trainers for its\nsublime fur. It does not keep a nest.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
         "zh-tw": "有著美麗的毛髮，非常受女性訓練家的歡迎。沒有固定的住所。",
         ja: "美しい 毛並みを 持ち 女性トレーナーに 大人気。 決まった 住処を 持たない。",
-        ko: "It is highly popular among female Trainers for its\nsublime fur. It does not keep a nest."
+        ko: "아름다운 털을 가지고 있어서\n여성 트레이너들에게 매우 인기 있다.\n정해진 거처를 갖고 있지 않다."
     },
     stage: "Stage1",
     abilities: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Buscar Amigos",
                 "zh-tw": "朋友搜索",
                 ja: "フレンドサーチ",
-                ko: "Search for Friends"
+                ko: "프렌드서치"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put a Supporter card from your discard pile into your hand.",
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá colocar 1 carta de Apoiador da sua pilha de descarte na sua mão.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的棄牌區選擇1張支援者卡,加入手牌。",
                 ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のトラッシュからサポートを1枚選び、手札に加える。",
-                ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put a Supporter card from your discard pile into your hand."
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 트래쉬에서 서포트를 1장 선택해서 패로 가져온다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
                 "pt-br": "Chute do Gato",
                 "zh-tw": "喵踢",
                 ja: "ねこキック",
-                ko: "Cat Kick"
+                ko: "고양이킥"
             },
             damage: 40,
             cost: [

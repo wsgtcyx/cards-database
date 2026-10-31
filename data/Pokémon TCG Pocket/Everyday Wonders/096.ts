@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/096"
     },
     name: {
         en: "Ampharos",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Wenn es dunkel wird, ist das Licht seines hellen, glänzenden Schwanzes schon von weitem auf der Meeresoberfläche zu sehen.",
         "pt-br": "Quando escurece, a luz de sua cauda brilhante e brilhante pode ser vista de longe na superfície do oceano.",
         "zh-tw": "當天黑時，從遠處的海面上就能看到它明亮、閃亮的尾巴發出的光。",
-        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。"
+        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。",
+        ko: "어두워지면 눈부시게 빛나는\n꼬리의 빛은 멀리 떨어진\n바다 위에서도 볼 수 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Stromgeschoss",
                 "pt-br": "Projétil Eletrizante",
                 "zh-tw": "麻麻子彈",
-                ja: "ビリリバレット"
+                ja: "ビリリバレット",
+                ko: "찌리리불릿"
             },
             effect: {
                 en: "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "1 Pokémon auf der Bank deines Gegners wird zufällig ausgewählt. Dieser Angriff fügt ihm außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 20 de dano.",
                 "zh-tw": "隨機選擇 1 只對手後備寶可夢。這次攻擊也會對其造成 20 點傷害。",
-                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。"
+                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。",
+                ko: "상대의 벤치 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게도 20데미지를 준다."
             },
             damage: 90
         }

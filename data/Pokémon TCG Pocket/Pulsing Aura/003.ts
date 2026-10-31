@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/003"
     },
     name: {
         en: "Heracross",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Mit seinen Herkuleskräften kann er problemlos einen Gegenstand herumwerfen, der das Hundertfache seines Eigengewichts hat.",
         "pt-br": "Com seus poderes hercúleos, ele pode facilmente arremessar um objeto com 100 vezes seu próprio peso.",
         "zh-tw": "憑藉其巨大的力量，它可以輕鬆地拋擲自身重量 100 倍的物體。",
-        ja: "ものすごい 怪力の 持ち主。 自分の 体重の １００倍の 重さでも 楽に ぶん投げる。"
+        ja: "ものすごい 怪力の 持ち主。 自分の 体重の １００倍の 重さでも 楽に ぶん投げる。",
+        ko: "엄청난 괴력의 소유자.\n자신 체중의 100배나 되는\n무게도 가뿐히 내던진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Einflussreiche Freunde",
                 "pt-br": "Amigos Poderosos",
                 "zh-tw": "百人之力",
-                ja: "ひゃくにんりき"
+                ja: "ひゃくにんりき",
+                ko: "일당백"
             },
             effect: {
                 en: "If you have any Stage 2 Pokémon on your Bench, this attack does 50 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn du ein Pokémon der Stufe 2 auf deiner Bank hast, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver qualquer Pokémon de Estágio 2 em seu Banco, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果你的替補席上有任何 2 階段寶可夢，則此攻擊造成的傷害增加 50 點。",
-                ja: "自分のベンチに2進化ポケモンがいるなら、50ダメージ追加。"
+                ja: "自分のベンチに2進化ポケモンがいるなら、50ダメージ追加。",
+                ko: "자신의 벤치에 2진화 포켓몬이 있다면 50데미지를 추가한다."
             },
             damage: "30+"
         }

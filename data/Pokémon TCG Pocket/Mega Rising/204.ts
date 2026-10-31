@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/204",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/204",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/204",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/204"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/204",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/204"
     },
     name: {
         en: "Rufflet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rufflet",
         "zh-tw": "毛頭小鷹",
         ja: "ワシボン",
+        ko: "수리둥보",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit seinen scharfen Krallen durchbohrt dieses Pokémon seine\nBeute, und dann pickt es nach ihnen. Obwohl es auch\nisst Beeren, ist im Herzen ein Fleischfresser.",
         "pt-br": "Com suas garras afiadas, este Pokémon perfura seus\npresa, e então ele os bica. Embora também\nconsome frutas vermelhas, é um carnívoro de coração.",
         "zh-tw": "這只神奇寶貝用鋒利的爪子刺穿自己的身體\n獵物，然後啄食它們。雖然這也\n以漿果為食，本質上是肉食動物。",
-        ja: "尖ったツメを 獲物に 突き立て ついばんでいる。 木の実も 食べるが 基本的に 肉食のポケモン。"
+        ja: "尖ったツメを 獲物に 突き立て ついばんでいる。 木の実も 食べるが 基本的に 肉食のポケモン。",
+        ko: "뾰족한 발톱을 사냥감에게 꽂고\n쪼아 먹는다. 나무열매도 먹지만\n기본적으로 육식 포켓몬이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
                 "zh-tw": "翼攻擊",
-                ja: "つばさでうつ"
+                ja: "つばさでうつ",
+                ko: "날개치기"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

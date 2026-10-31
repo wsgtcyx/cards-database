@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/069"
     },
     name: {
         en: "Serena",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Serena",
         "pt-br": "Serena",
         "zh-tw": "莎莉娜",
-        ja: "セレナ"
+        ja: "セレナ",
+        ko: "세레나"
     },
     illustrator: "En Morikura",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Nimm ein zufälliges Mega-Entwicklungs-Pokémon ex aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque um Pokémon Mega Evolution aleatório do seu baralho na sua mão.",
         "zh-tw": "從你的牌組中隨機將一隻超級進化前神奇寶貝置入你的手牌。",
-        ja: "自分の山札から「メガシンカex」をランダムに1枚、手札に加える。"
+        ja: "自分の山札から「メガシンカex」をランダムに1枚、手札に加える。",
+        ko: "자신의 덱에서 「메가진화 ex」를 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Supporter"
 };

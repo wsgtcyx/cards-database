@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/099",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/099"
     },
     name: {
         en: "Swalot",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es kann einen ganzen Reifen auf einmal verschlingen. Seine Poren sondern eine äußerst giftige Flüssigkeit ab.",
         "pt-br": "É capaz de engolir um pneu inteiro de uma vez só. Libera um fluido horrivelmente tóxico pelos poros do seu corpo.",
         "zh-tw": "就連輪胎都能整個吞掉，\n會從身上的毛孔分泌出\n帶有劇毒的體液。",
-        ja: "タイヤも ひと口で 丸呑み。 体の 毛穴から 猛毒の 体液を 分泌する。"
+        ja: "タイヤも ひと口で 丸呑み。 体の 毛穴から 猛毒の 体液を 分泌する。",
+        ko: "타이어도 한입에 꿀꺽 삼켜 버린다.\n모공에서 맹독성의 액체를 분비한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "大口吞",
                 "it": "Inghiottire",
                 "de": "Runterschlucken",
-                ja: "まるのみ"
+                ja: "まるのみ",
+                ko: "통째로 삼키기"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "若對手的戰鬥寶可夢的剩餘HP比這隻寶可夢的剩餘HP少,則增加80點傷害。",
                 "it": "Se il Pokémon attivo del tuo avversario ha meno PS rimanenti di questo Pokémon, questo attacco infligge 80 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners weniger verbleibende KP als dieses Pokémon hat, fügt diese Attacke 80 Schadenspunkte mehr zu.",
-                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより少ないなら、80ダメージ追加。"
+                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより少ないなら、80ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 남은 HP가 이 포켓몬의 남은 HP보다 적다면 80데미지를 추가한다."
             },
             damage: "30+"
         }

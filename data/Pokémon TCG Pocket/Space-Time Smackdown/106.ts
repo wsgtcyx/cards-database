@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/106"
     },
     name: {
         en: "Drapion",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Skorupi",
         "zh-tw": "鉗尾蠍",
         ja: "スコルピ",
+        ko: "스콜피",
     },
     description: {
         en: "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",

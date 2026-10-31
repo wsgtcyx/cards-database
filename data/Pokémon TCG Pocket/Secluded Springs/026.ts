@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/026"
     },
     name: {
         en: "Tynamo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tynamo",
         "zh-tw": "麻麻小魚",
         ja: "シビシラス",
+        ko: "저리어",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während einer allein nicht viel Macht hat,\nEine Kette aus vielen Tynamos kann ebenso mächtig sein\nals Blitz.",
         "pt-br": "Embora um sozinho não tenha muito poder,\numa cadeia de muitos Tynamo pode ser tão poderosa\ncomo um raio.",
         "zh-tw": "雖然一個人的力量並不大，\n許多 Tynamo 的鏈條也可以同樣強大\n如閃電。",
-        ja: "１匹の 電力は 小さいが たくさんの シビシラスが つながると 雷と 同じ 威力になる。"
+        ja: "１匹の 電力は 小さいが たくさんの シビシラスが つながると 雷と 同じ 威力になる。",
+        ko: "한 마리의 전력은 적지만\n많은 저리어가 연결되면\n번개와 같은 위력이 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Winziger Bolzen",
                 "pt-br": "Parafuso minúsculo",
                 "zh-tw": "小螺栓",
-                ja: "プチボルト"
+                ja: "プチボルト",
+                ko: "프티볼트"
             },
             damage: 10,
             cost: ["Colorless"]

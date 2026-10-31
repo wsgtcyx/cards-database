@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/011"
     },
     name: {
         en: "Braixen",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es entzündet seinen Zweig beim Herausziehen aus dem Schweif und nutzt diese Flamme, um mächtige Attacken zu befeuern.",
         "pt-br": "O galho de Braixen pega fogo ao ser arrancado de sua cauda. Em seguida, ele usa a chama para lançar ataques poderosos.",
         "zh-tw": "將樹枝從尾巴拔出時就會著火。牠會用點燃的火當火種，使出強力的招式。",
-        ja: "木の枝を 尻尾から 引き抜くとき 着火。 その 炎を 火種に 強力な 技を 繰りだす。"
+        ja: "木の枝を 尻尾から 引き抜くとき 着火。 その 炎を 火種に 強力な 技を 繰りだす。",
+        ko: "나뭇가지를 꼬리에서 뽑을 때\n불이 붙는다. 그 불꽃을 불씨 삼아\n강력한 기술을 내보낸다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
                 "zh-tw": "精神射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 30
         }

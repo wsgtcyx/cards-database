@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/211",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/211"
     },
     name: {
         en: "Elegant Cape",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "O Pokémon Estágio 1 ao qual esta carta está ligada recebe +30 PS.",
         "zh-tw": "附有這張卡的1階進化寶可夢的最大HP+30。",
         ja: "このカードをつけている1進化ポケモンの最大HPを+30する。",
-        ko: "The Stage 1 Pokémon this card is attached to gets +30 HP."
+        ko: "이 카드를 붙이고 있는 1진화 포켓몬의 최대 HP를 +30한다."
     },
     trainerType: "Tool"
 };

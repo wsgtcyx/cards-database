@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/268",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/268",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/268",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/268"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/268",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/268"
     },
     name: {
         en: "May",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "May",
         "zh-tw": "小遙",
         ja: "ハルカ",
+        ko: "봄이",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Star",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Nimm 2 zufällige Pokémon aus deinem Deck auf deine Hand. Wähle für jedes Pokémon, das du auf diese Weise auf die Hand nimmst, ein Pokémon aus, das du von deiner Hand in dein Deck mischst.",
         "pt-br": "Coloque 2 Pokémon aleatórios do seu baralho na sua mão. Para cada Pokémon que você colocar em sua mão dessa forma, escolha um Pokémon para embaralhar da sua mão no seu baralho.",
         "zh-tw": "從你的卡組中隨機將 2 只神奇寶貝加入你的手牌。對於以這種方式放入手牌的每隻神奇寶貝，選擇一隻神奇寶貝從手牌洗入你的牌組。",
-        ja: "自分の山札からポケモンをランダムに2枚、手札に加える。手札から、加えた枚数ぶんのポケモンを選び、山札にもどす。"
+        ja: "自分の山札からポケモンをランダムに2枚、手札に加える。手札から、加えた枚数ぶんのポケモンを選び、山札にもどす。",
+        ko: "자신의 덱에서 포켓몬을 랜덤으로 2장 패로 가져온다. 가져온 장수만큼의 포켓몬을 패에서 선택해서 덱으로 되돌린다."
     },
-    trainerType: "Supporter"
+    trainerType: "Supporter",
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/346",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/346",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/346",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/346"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/346",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/346"
     },
     name: {
         en: "Axew",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Se você vir marcas peculiares de dentes em rochedos ou árvores, significa que Axew provavelmente vive por perto.",
         "zh-tw": "如果在岩石或樹木上發現了獨特的齒痕，附近一定棲息著牙牙。",
         ja: "岩や 樹木に 独特の 歯形を 見かけたら 近くに キバゴが 棲んでいるはずだ。",
-        ko: "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby."
+        ko: "바위나 나무에서 독특한\n이빨 자국을 발견했다면\n근처에 터검니가 살고 있는 것이다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Presa Afiada",
                 "zh-tw": "銳利之牙",
                 ja: "するどいキバ",
-                ko: "Sharp Fang"
+                ko: "예리한이빨"
             },
             damage: 40
         }

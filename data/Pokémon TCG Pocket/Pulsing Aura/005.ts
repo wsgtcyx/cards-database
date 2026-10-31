@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/005"
     },
     name: {
         en: "Treecko",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Geckarbor kann selbst vertikale Flächen schnell skalieren. Mit seinem Schwanz spürt es die Luftfeuchtigkeit auf, um das Wetter für den nächsten Tag vorherzusagen.",
         "pt-br": "Treecko pode dimensionar rapidamente até mesmo superfícies verticais. Ele detecta a umidade com a cauda para prever o tempo do dia seguinte.",
         "zh-tw": "木守宮 甚至可以快速縮放垂直表面。它用尾巴感知濕度來預測第二天的天氣。",
-        ja: "垂直の 壁も すいすい 登る。 尻尾で 空気の 湿度を 感じ 明日の 天気を 当てる。"
+        ja: "垂直の 壁も すいすい 登る。 尻尾で 空気の 湿度を 感じ 明日の 天気を 当てる。",
+        ko: "수직으로 된 벽도 쭉쭉 타고 올라간다.\n꼬리로 공기 중의 습도를\n감지해서 내일 날씨를 맞힌다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Klaps",
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
-                ja: "はたく"
+                ja: "はたく",
+                ko: "막치기"
             },
             damage: 20
         }

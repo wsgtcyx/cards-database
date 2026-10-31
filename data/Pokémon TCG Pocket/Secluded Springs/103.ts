@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/103"
     },
     name: {
         en: "Garchomp ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Garchomp ex",
         "zh-tw": "烈咬陸鯊ex",
         ja: "ガブリアスex",
+        ko: "한카리아스 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
         ja: "ガバイト",
+        ko: "한바이트",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Linearer Angriff",
                 "pt-br": "Ataque Linear",
                 "zh-tw": "線性攻擊",
-                ja: "ちょくげきだん"
+                ja: "ちょくげきだん",
+                ko: "직격탄"
             },
             cost: ["Fighting"],
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
-                ja: "相手のポケモン1匹に50ダメージ。"
+                ja: "相手のポケモン1匹に50ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 50데미지를 준다."
             }
         }, {
             name: {
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Drachenklaue",
                 "pt-br": "Garra de Dragão",
                 "zh-tw": "龍爪",
-                ja: "ドラゴンクロー"
+                ja: "ドラゴンクロー",
+                ko: "드래곤클로"
             },
             damage: 100,
             cost: ["Fighting", "Fighting", "Colorless"]

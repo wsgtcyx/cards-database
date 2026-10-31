@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/099"
     },
     name: {
         en: "Hawlucha",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Resladero leben ruhig, ohne sich zusammenzudrängen. Sie kämpfen ständig mit ihren natürlichen Feinden: lauten Gruppen von Rasaff.",
         "pt-br": "Hawlucha vivem silenciosamente, sem se reunirem. Eles lutam constantemente com seus inimigos naturais: grupos barulhentos de Primeape.",
         "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。",
-        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。"
+        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。",
+        ko: "무리를 이루지 않고 조용히 지낸다.\n집단으로 떠드는 성원숭과는\n천적이라 언제나 싸움이 일어난다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Bodycheck",
                 "pt-br": "Desmantelar",
                 "zh-tw": "猛撞",
-                ja: "とっしん"
+                ja: "とっしん",
+                ko: "돌진"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該寶可夢也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             },
             damage: 50
         }

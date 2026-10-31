@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/183",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/183",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/183",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/183"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/183",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/183"
     },
     name: {
         en: "Stantler",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Stantler",
         "zh-tw": "驚角鹿",
         ja: "オドシシ",
+        ko: "노라키",
     },
     illustrator: "Noriaki Tanimura",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon lebte offenbar früher in vielen Gegenden\nraueren Umgebungen, und so war es auch einmal\nstärkere psychische Kräfte als jetzt.",
         "pt-br": "Este Pokémon aparentemente vivia em muito\nambientes mais severos e, portanto, já teve\npoderes psíquicos mais fortes do que agora.",
         "zh-tw": "這只神奇寶貝顯然曾經生活在很多地方\n環境更加惡劣，因此它曾經有過\n比現在更強的精神力量。",
-        ja: "昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。"
+        ja: "昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。",
+        ko: "옛날에는 가혹한 환경에서 살았기 때문에\n오늘날보다도 사이코 파워가\n강력했다고 전해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Verbesserte Hörner",
                 "pt-br": "Chifres aprimorados",
                 "zh-tw": "增強號角",
-                ja: "きょうかホーン"
+                ja: "きょうかホーン",
+                ko: "강화호른"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
                 "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
-                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。",
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

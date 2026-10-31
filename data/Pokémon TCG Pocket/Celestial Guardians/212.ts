@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/212",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/212",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/212"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/212",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/212"
     },
     name: {
         en: "Venusaur",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
         ja: "フシギソウ",
+        ko: "이상해풀",
     },
     description: {
         en: "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",

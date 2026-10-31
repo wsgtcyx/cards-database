@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/197",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/197",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/197",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/197"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/197",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/197"
 	},
 	name: {
 		en: "Aerodactyl ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Aerodactyl-ex",
 		"pt-br": "Aerodactyl ex",
 		"zh-tw": "化石翼龍ex",
-		ja: "プテラex"
+		ja: "プテラex",
+		ko: "프테라 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Altbernstein",
 		"pt-br": "Âmbar Velho",
 		"zh-tw": "秘密琥珀",
-		ja: "ひみつのコハク"
+		ja: "ひみつのコハク",
+		ko: "비밀의호박"
 	},
 	suffix: "EX",
 	abilities: [

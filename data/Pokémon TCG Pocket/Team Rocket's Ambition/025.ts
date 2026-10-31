@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/025"
     },
     name: {
         en: "Team Rocket's Slowpoke",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Flegmon ist stets in Gedanken versunken, aber niemand weiß, worüber es nachdenkt. Seine Rute nutzt es geschickt zum Angeln.",
         "pt-br": "Está sempre distraidamente perdido em pensamentos, mas ninguém sabe o que ele está pensando. Tem muita habilidade em pescar com a cauda.",
         "zh-tw": "總是一副在發呆的樣子，不知道在想些什麼。擅長用尾巴來釣食物。",
-        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。"
+        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
+        ko: "항상 멍하니 있어서\n무슨 생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Aasfresser",
                 "pt-br": "Vasculhar",
                 "zh-tw": "翻垃圾",
-                ja: "ゴミあさり"
+                ja: "ゴミあさり",
+                ko: "쓰레기 뒤지기"
             },
             effect: {
                 en: "Put a random Item card from your discard pile into your hand.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Nimm 1 zufällige Itemkarte aus deinem Ablagestapel auf deine Hand.",
                 "pt-br": "Coloque carta de Item aleatória da sua pilha de descarte na sua mão.",
                 "zh-tw": "從自己的棄牌區隨機將張物品卡加入手牌。",
-                ja: "自分のトラッシュからグッズをランダムに1枚、手札に加える。"
+                ja: "自分のトラッシュからグッズをランダムに1枚、手札に加える。",
+                ko: "자신의 트래쉬에서 아이템을 랜덤으로 1장 패로 가져온다."
             }
         }
     ],

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/249",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/249",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/249",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/249"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/249",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/249"
     },
     name: {
         en: "Petilil",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Se as folhas em sua cabeça forem podadas regularmente, este Pokémon pode crescer com um elegante formato rechonchudo.",
         "zh-tw": "如果偶爾修剪葉子，就會長成圓鼓鼓很華麗的樣子。",
         ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。",
-        ko: "If the leaves on its head are pruned with\nregularity, this Pokémon can be grown into\na fine plump shape."
+        ko: "가끔 잎을 손질해 주면\n둥글둥글하게 훌륭한 모습으로\n자라난다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Baque",
                 "zh-tw": "活蹦亂跳",
                 ja: "はねまわる",
-                ko: "Flop"
+                ko: "돌아다니며 뛰기"
             },
             damage: 10,
             cost: [

@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/226",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/226",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/226",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/226"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/226",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/226"
     },
     name: {
         en: "Mega Swampert ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Stark bewaffneter Zerstörer",
                 "pt-br": "Destruidor Braço-forte",
                 "zh-tw": "壯臂破壞",
-                ja: "ゴウワンバスター"
+                ja: "ゴウワンバスター",
+                ko: "완강버스터"
             },
             effect: {
                 en: "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lege 2 zufällige Energien von der Energie ab, die an alle Pokémon (dein und die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte 2 Energias aleatórias dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
                 "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄2個能量。",
-                ja: "おたがいのポケモン全員についているエネルギーからランダムに2個トラッシュ。"
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに2個トラッシュ。",
+                ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 2개 트래쉬한다."
             },
             damage: 150
         }

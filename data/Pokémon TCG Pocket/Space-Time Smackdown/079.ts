@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/079",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/079"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/079",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/079"
     },
     name: {
         en: "Cresselia",

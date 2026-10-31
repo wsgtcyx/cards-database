@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/077",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/077"
     },
     name: {
         en: "Azurill",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Azurill",
         "zh-tw": "露力麗",
         ja: "ルリリ",
+        ko: "루리리",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Schwanz hüpft wie ein Gummiball. Es wirft diesen Schwanz\nherum, um gegen Gegner zu kämpfen, die größer sind als er selbst.",
         "pt-br": "Sua cauda salta como uma bola de borracha. Ele arremessa aquela cauda\nao redor para lutar contra adversários maiores que ele.",
         "zh-tw": "它的尾巴像橡皮球一樣彈跳。它甩動那條尾巴\n四處對抗比自己強大的對手。",
-        ja: "ゴムボールのように よく 弾む。 尻尾を 振りまわし 自分よりも 大きな 相手に 立ち向かう。"
+        ja: "ゴムボールのように よく 弾む。 尻尾を 振りまわし 自分よりも 大きな 相手に 立ち向かう。",
+        ko: "고무공처럼 잘 튀는\n꼬리를 휘두르며 자신보다도\n커다란 상대에게 맞선다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Squishy-Heilung",
                 "pt-br": "Cura Mole",
                 "zh-tw": "軟軟的治療",
-                ja: "ぷにぷにヒール"
+                ja: "ぷにぷにヒール",
+                ko: "말랑말랑힐"
             },
             effect: {
                 en: "Heal 50 damage from 1 of your Benched Pokémon.",
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Heile 50 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
                 "pt-br": "Cure 50 de dano de 1 dos seus Pokémon no Banco.",
                 "zh-tw": "治療你 1 只後備神奇寶貝造成的 50 點傷害。",
-                ja: "自分のベンチポケモン1匹のHPを50回復。"
+                ja: "自分のベンチポケモン1匹のHPを50回復。",
+                ko: "자신의 벤치 포켓몬 1마리의 HP를 50회복."
             }
         }],
     retreat: 0

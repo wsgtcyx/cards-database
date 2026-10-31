@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/013"
     },
     name: {
         en: "Shinx",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
         ja: "コリンク",
+        ko: "꼬링크",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Dehnung und Kontraktion seiner Muskeln\nerzeugt Strom. Es leuchtet, wenn es in Schwierigkeiten ist.",
         "pt-br": "A extensão e contração de seus músculos\ngera eletricidade. Ele brilha quando está em apuros.",
         "zh-tw": "肌肉的伸展和收縮\n發電。當遇到困難時它會發光。",
-        ja: "体を 動かすたびに 筋肉が 伸び縮みして 電気が 生まれる。 ピンチになると 体が 輝く。"
+        ja: "体を 動かすたびに 筋肉が 伸び縮みして 電気が 生まれる。 ピンチになると 体が 輝く。",
+        ko: "몸을 움직일 때마다 근육이 늘어났다\n줄어들었다 하여 전기가 발생한다.\n궁지에 몰리면 몸이 빛난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20,
             cost: ["Lightning"]

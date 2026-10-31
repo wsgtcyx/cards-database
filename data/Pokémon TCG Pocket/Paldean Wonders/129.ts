@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/129",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/129"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/129",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/129"
     },
     name: {
         en: "Tinkaton ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tinkaton ex",
         "zh-tw": "巨鍛匠ex",
         ja: "デカヌチャンex",
+        ko: "두드리짱 ex",
         pt: "Tinkaton ex"
     },
     suffix: "EX",

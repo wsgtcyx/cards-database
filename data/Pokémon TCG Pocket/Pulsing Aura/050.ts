@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/050"
     },
     name: {
         en: "Inteleon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es mag sich als gut erzogen präsentieren, aber tief im Inneren hat es immer noch eine faule Seite. Es lässt nach, wenn sein Trainer nicht hinschaut.",
         "pt-br": "Pode se apresentar como bem-educado, mas no fundo ainda tem um lado preguiçoso. Ele irá relaxar quando seu Treinador não estiver olhando.",
         "zh-tw": "它可能表面上表現得彬彬有禮，但內心深處仍然有懶惰的一面。當訓練家不注意時，它就會懈怠。",
-        ja: "紳士的な 振る舞いを みせるが 根っこは 怠け者のまま なので トレーナーが 見ていないと さぼる。"
+        ja: "紳士的な 振る舞いを みせるが 根っこは 怠け者のまま なので トレーナーが 見ていないと さぼる。",
+        ko: "신사적인 태도를 보이지만\n근본은 여전히 게으르기 때문에\n트레이너가 보지 않을 때는 농땡이를 피운다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schneller Schuss",
                 "pt-br": "Tiro Rápido",
                 "zh-tw": "快攻",
-                ja: "はやうち"
+                ja: "はやうち",
+                ko: "연사"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante a sua vez de jogar, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的回合中，當你從手牌中使用這隻寶可夢來進化你的一隻寶可夢時，你可以對對手的活躍寶可夢造成30點傷害。",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに30ダメージ。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに30ダメージ。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 상대의 배틀 포켓몬에게 30데미지를 준다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Aquaschneide",
                 "pt-br": "Aqua Gume",
                 "zh-tw": "水之刀鋒",
-                ja: "アクアエッジ"
+                ja: "アクアエッジ",
+                ko: "아쿠아에지"
             },
             damage: 70
         }

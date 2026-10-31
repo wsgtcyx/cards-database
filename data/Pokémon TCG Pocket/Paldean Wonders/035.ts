@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/035"
     },
     name: {
         en: "Arctibax",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Arctibax",
         "zh-tw": "凍脊龍",
         ja: "セゴール",
+        ko: "드니꽁",
         pt: "Arctibax"
     },
     illustrator: "Kouki Saitou",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Frigibax",
         "zh-tw": "涼脊龍",
         ja: "セビエ",
+        ko: "드니차",
         pt: "Frigibax"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Es greift mit der Spitze seiner gefrorenen Rückenflosse an, indem es in der Luft einen Frontflip ausführt. Der starke Rücken und die starken Beine von Cryospino ermöglichen es ihm, diese Technik auszuführen.",
         "pt-br": "Ele ataca com a lâmina de sua barbatana dorsal congelada, dando um salto frontal no ar. As costas e pernas fortes do Arctibax permitem que ele execute essa técnica.",
         "zh-tw": "它透過在空中進行前空翻，並用冰凍背鰭的刀片進行攻擊。 凍脊龍 強壯的背部和腿部使其能夠完成這項技術。",
-        ja: "前方宙返りして 背びれを 凍らせた 剣で 攻撃する。 強い 足腰の 為せる業。"
+        ja: "前方宙返りして 背びれを 凍らせた 剣で 攻撃する。 強い 足腰の 為せる業。",
+        ko: "앞으로 공중제비를 돌며\n등지느러미를 얼려서 만든 검으로 공격한다.\n강한 하체를 요구하는 기술이다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Pancada Congelada",
                 "zh-tw": "冰霜粉碎",
                 ja: "フロストスマッシュ",
+                ko: "프로스트 스매시",
                 'es-mx': "Golpazo Gélido",
                 pt: "Pancada Congelada"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/120",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/120",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/120"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/120",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/120"
     },
     name: {
         en: "Aegislash",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Durengard",
         "pt-br": "Aegislash",
         "zh-tw": "堅盾劍怪",
-        ja: "ギルガルド"
+        ja: "ギルガルド",
+        ko: "킬가르도"
     },
     illustrator: "Ryuta Fuse",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Duokles",
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
-        ja: "ニダンギル"
+        ja: "ニダンギル",
+        ko: "쌍검킬"
     },
     description: {
         en: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine starken spektralen Kräfte ermöglichen ihm die Manipulation\nandere. Einst nutzte es seine Kräfte, um Menschen zu zwingen\nund Pokémon, um ein Königreich nach seinen Wünschen aufzubauen.",
         "pt-br": "Seus potentes poderes espectrais permitem manipular\noutros. Certa vez, usou seus poderes para forçar as pessoas\ne Pokémon para construir um reino ao seu gosto.",
         "zh-tw": "其強大的光譜能力使其能夠操縱\n其他人。它曾經用它的力量強迫人們\n和神奇寶貝建立一個自己喜歡的王國。",
-        ja: "強力な 霊力で 人や ポケモンを 操り ギルガルドに 都合の 良い 国を つくらせた。"
+        ja: "強力な 霊力で 人や ポケモンを 操り ギルガルドに 都合の 良い 国を つくらせた。",
+        ko: "강력한 영력으로 사람과\n포켓몬을 조종해 킬가르도의\n입맛에 맞는 나라를 만들게 했다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hervorragender Schild",
                 "pt-br": "Escudo Soberbo",
                 "zh-tw": "極品盾牌",
-                ja: "グレートシールド"
+                ja: "グレートシールド",
+                ko: "그레이트실드"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Metal"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −80 Schaden durch Angriffe des Pokémon-Ex deines Gegners.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá −80 de dano dos ataques do Pokémon ex do seu oponente.",
                 "zh-tw": "在對手的下一個回合中，該神奇寶貝因對手前神奇寶貝的攻擊而受到 -80 點傷害。",
-                ja: "次の相手の番、このポケモンが相手の「ポケモンex」から受けるワザのダメージを-80する。"
+                ja: "次の相手の番、このポケモンが相手の「ポケモンex」から受けるワザのダメージを-80する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 상대의 「포켓몬 ex」로부터 받는 기술의 데미지를 -80한다."
             }
         }],
     weaknesses: [{

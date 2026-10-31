@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/037"
     },
     name: {
         en: "Pansear",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pansear",
         "zh-tw": "爆香猴",
         ja: "バオップ",
+        ko: "바오프",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon lebt in Höhlen in Vulkanen.\nDas Feuer im Büschel auf seinem Kopf kann reichen\n600 Grad Fahrenheit.",
         "pt-br": "Este Pokémon vive em cavernas de vulcões.\nO fogo dentro do tufo em sua cabeça pode atingir\n600 graus Fahrenheit.",
         "zh-tw": "這只神奇寶貝生活在火山的洞穴中。\n其頭上毛簇內的火焰可達到\n600 華氏度。",
-        ja: "火山の 洞穴で 暮らす。 頭の ふさの 中が 燃えていて ３００度の 高温になる。"
+        ja: "火山の 洞穴で 暮らす。 頭の ふさの 中が 燃えていて ３００度の 高温になる。",
+        ko: "화산 동굴에서 산다.\n머리의 송아리 속이 불타고 있어\n300도나 되는 높은 온도가 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlagen",
                 "pt-br": "Bater",
                 "zh-tw": "打",
-                ja: "たたく"
+                ja: "たたく",
+                ko: "때리기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/013"
     },
     name: {
         en: "Vileplume",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Duflor",
         "pt-br": "Gloom",
         "zh-tw": "臭臭花",
-        ja: "クサイハナ"
+        ja: "クサイハナ",
+        ko: "냄새꼬"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],

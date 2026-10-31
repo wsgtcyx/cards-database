@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/044"
     },
     name: {
         en: "Mienshao",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Wie-Shu",
         "pt-br": "Mienshao",
         "zh-tw": "師父鼬",
-        ja: "コジョンド"
+        ja: "コジョンド",
+        ko: "비조도"
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
-        ja: "コジョフー"
+        ja: "コジョフー",
+        ko: "비조푸"
     },
     description: {
         en: "Delivered at blinding speeds, kicks from this\nPokémon can shatter massive boulders into\ntiny pieces.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mit unglaublicher Geschwindigkeit ausgeführt, Kicks davon\nPokémon können riesige Felsbrocken zerschmettern\nwinzige Stücke.",
         "pt-br": "Entregue em velocidades ofuscantes, chutes disso\nPokémon podem quebrar pedras enormes em\npequenos pedaços.",
         "zh-tw": "以令人眼花繚亂的速度交付，由此而來\n神奇寶貝可以將巨大的巨石粉碎成\n小碎片。",
-        ja: "目にも 止まらぬ スピードで 繰りだす 蹴りは 巨大な 岩も 木っ端みじんに 砕く。"
+        ja: "目にも 止まらぬ スピードで 繰りだす 蹴りは 巨大な 岩も 木っ端みじんに 砕く。",
+        ko: "눈에 보이지 않을 정도의 스피드로\n구사하는 발차기는 거대한\n바위도 산산이 조각낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Niedriger Sweep",
                 "pt-br": "Varredura baixa",
                 "zh-tw": "低掃頻",
-                ja: "ローキック"
+                ja: "ローキック",
+                ko: "로킥"
             },
             damage: 50,
             cost: ["Fighting"]

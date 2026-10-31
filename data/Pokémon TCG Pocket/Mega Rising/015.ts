@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/015"
     },
     name: {
         en: "Cottonee",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
         ja: "モンメン",
+        ko: "소미안",
     },
     illustrator: "Yuka Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Um sich zu schützen, schießt es Baumwolle von seinem Körper.\nWenn es von orkanstarken Winden erfasst wird,\nes kann auf die andere Seite der Erde geschickt werden.",
         "pt-br": "Ele atira algodão de seu corpo para se proteger.\nSe for apanhado por ventos com força de furacão,\nele pode ser enviado para o outro lado da Terra.",
         "zh-tw": "它從體內射出棉花來保護自己。\n如果遭遇颶風強度的大風，\n它可以被發送到地球的另一邊。",
-        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。"
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。",
+        ko: "솜을 날려 몸을 지킨다.\n태풍의 바람에 휩쓸려\n지구 반대편까지 갈 때도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 20,
             cost: ["Grass"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

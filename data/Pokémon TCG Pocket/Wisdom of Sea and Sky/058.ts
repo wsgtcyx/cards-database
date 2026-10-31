@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/058",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/058"
     },
     name: {
         en: "Mantine",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mantine",
         "zh-tw": "巨翅飛魚",
         ja: "マンタイン",
+        ko: "만타인",
     },
     illustrator: "0313",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während es elegant im Meer schwimmt, ignoriert es es\nRemoraid, das sich an seinen Flossen festklammert und nach Essensresten sucht.",
         "pt-br": "Enquanto nada elegantemente no mar, ignora\nRemoraid que se agarra às barbatanas em busca de restos de comida.",
         "zh-tw": "它在海裡優雅地游泳的同時，卻忽略了\n粘魚會緊貼鰭尋找食物殘渣。",
-        ja: "悠然と 海を 泳ぐうちに 食べ残しを ねらった テッポウオが ヒレに くっつくが 気にしていない。"
+        ja: "悠然と 海を 泳ぐうちに 食べ残しを ねらった テッポウオが ヒレに くっつくが 気にしていない。",
+        ko: "유연하게 바다를 헤엄칠 때\n먹다 남은 음식을 노린 총어가\n지느러미에 달라붙지만 신경 안 쓴다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tauchen",
                 "pt-br": "Mergulho",
                 "zh-tw": "潛水",
-                ja: "ダイビング"
+                ja: "ダイビング",
+                ko: "다이빙"
             },
             damage: 80,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/076",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/076",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/076"
     },
     name: {
         en: "Swoobat",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es wird in manchen Regionen für seine Nasenform\nverehrt, die angeblich Glück bringen soll.",
         "pt-br": "Dizem que o formato auspicioso do nariz deste Pokémon levou algumas regiões a considerar Swoobat um símbolo de boa sorte.",
         "zh-tw": "據說有些地區的人覺得\n牠鼻子的形狀很吉利，\n而把牠當成幸福的象徵來祭拜。",
-        ja: "鼻の 形が おめでたいと 幸福を 呼ぶ シンボルとして 祭る 地域も あるという。"
+        ja: "鼻の 形が おめでたいと 幸福を 呼ぶ シンボルとして 祭る 地域も あるという。",
+        ko: "코의 모양이 복스럽다고\n행복을 부르는 상징으로\n여기는 지역도 있다고 한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "精神歪曲",
                 "it": "Fusione Mentale",
                 "de": "Gedankenverbiegung",
-                ja: "サイコトリップ"
+                ja: "サイコトリップ",
+                ko: "사이코트립"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "將對手的戰鬥寶可夢混亂。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             },
             damage: 40
         }

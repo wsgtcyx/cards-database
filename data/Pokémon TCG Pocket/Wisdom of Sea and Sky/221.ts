@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/221",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/221",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/221"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/221",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/221"
     },
     name: {
         en: "Mankey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
         ja: "マンキー",
+        ko: "망키",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Er lebt in Gruppen in den Baumwipfeln. Wenn es aus den Augen verliert\nseiner Gruppe wird es wütend über seine Einsamkeit.",
         "pt-br": "Vive em grupos nas copas das árvores. Se perder de vista\nseu grupo, fica furioso com sua solidão.",
         "zh-tw": "它成群生活在樹頂。如果它失去了視線\n它的群體，它因孤獨而變得憤怒。",
-        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。"
+        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
+        ko: "나무 위에 무리 지어 산다.\n무리에서 떨어진 망키는\n외로운 나머지 금방 화를 낸다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Fokusfaust",
                 "pt-br": "Punho Foco",
                 "zh-tw": "聚焦拳頭",
-                ja: "きあいづき"
+                ja: "きあいづき",
+                ko: "기합찌르기"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

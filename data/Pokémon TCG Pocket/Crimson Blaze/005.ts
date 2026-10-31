@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/005"
     },
     name: {
         en: "Spinarak",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Webarak",
         "pt-br": "Spinarak",
         "zh-tw": "圓絲蛛",
-        ja: "イトマル"
+        ja: "イトマル",
+        ko: "페이검"
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Obwohl das Gift seiner Reißzähne das nicht ist\nstark, es ist stark genug, um die Beute zu schwächen\nverfängt sich in seinem Netz.",
         "pt-br": "Embora o veneno de suas presas não seja esse\nforte, é potente o suficiente para enfraquecer a presa que\nfica preso em sua teia.",
         "zh-tw": "雖然它的獠牙裡的毒不是這樣的\n強大，足以削弱獵物\n被困在它的網中。",
-        ja: "キバの 毒は さほど 強くないが 巣に かかって 動けない 獲物を 弱らせるには 充分。"
+        ja: "キバの 毒は さほど 強くないが 巣に かかって 動けない 獲物を 弱らせるには 充分。",
+        ko: "이빨의 독은 그다지 강하진 않지만\n둥지에 걸려서 움직일 수 없는 먹이를\n약하게 만들기에는 충분하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stechen",
                 "pt-br": "Picada",
                 "zh-tw": "蜇",
-                ja: "チクチクさす"
+                ja: "チクチクさす",
+                ko: "따끔따끔찌르기"
             },
             damage: 20,
             cost: ["Grass"]

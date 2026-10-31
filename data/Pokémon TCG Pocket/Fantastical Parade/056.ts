@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/056",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/056"
     },
     name: {
         en: "Tadbulb",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Blipp",
         "pt-br": "Tadbulb",
         "zh-tw": "光蚪仔",
-        ja: "ズピカ"
+        ja: "ズピカ",
+        ko: "빈나두"
     },
     illustrator: "okayamatakatoshi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schwimmt mit der in seinem Körper gespeicherten Elektrizität.\nWenn Gewitterwolken in der Nähe sind, wird Tadbulb es tun\nhöher über dem Boden schweben.",
         "pt-br": "Ele flutua usando a eletricidade armazenada em seu corpo.\nQuando as nuvens de trovoada estiverem por perto, Tadbulb irá\nflutuar mais alto do chão.",
         "zh-tw": "它利用體內儲存的電力漂浮。\n當雷雨雲出現時，Tadbulb 會\n漂浮得離地面更高。",
-        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。"
+        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。",
+        ko: "몸에 비축된 전력으로 부유한다.\n뇌운이 있을 때는 평소보다 높게\n떠오른다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ladevorgang",
                 "pt-br": "Carga",
                 "zh-tw": "收費",
-                ja: "じゅうでん"
+                ja: "じゅうでん",
+                ko: "충전"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }],
     weaknesses: [{

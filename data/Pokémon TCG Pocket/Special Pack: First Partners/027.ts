@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/027"
     },
     name: {
         en: "Quaxly",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Ataque de Asa",
                 "zh-tw": "翅膀攻擊",
                 ja: "つばさでうつ",
-                ko: "Wing Attack"
+                ko: "날개치기"
             },
             cost: [
                 "Colorless",
@@ -69,7 +70,7 @@ const card: Card = {
         "pt-br": "Este Pokémon migrou para Paldea de terras distantes há muito tempo. O gel secretado por suas penas repele água e sujeira.",
         "zh-tw": "很久以前從遙遠的土地遷徙到帕底亞地區。羽毛分泌的凝膠能排斥水和污垢。",
         ja: "昔 遠い 土地から やって来て 棲みついた。 羽から 分泌する ジェルは 水と 汚れを 弾く。",
-        ko: "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime."
+        ko: "옛날에 머나먼 땅에서 찾아와 정착했다.\n날개에서 분비되는 젤은\n물과 먼지를 튕겨 낸다."
     }
 };
 

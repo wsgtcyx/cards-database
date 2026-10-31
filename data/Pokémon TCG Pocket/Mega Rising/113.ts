@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/113",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/113",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/113"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/113",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/113"
     },
     name: {
         en: "Gothorita",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gothorita",
         "zh-tw": "哥德小童",
         ja: "ゴチミル",
+        ko: "고디보미",
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Gothita",
         "zh-tw": "哥德寶寶",
         ja: "ゴチム",
+        ko: "고디탱",
     },
     description: {
         en: "Using its psychic power, it arranges pebbles to\nform the shapes of constellations. Some people\nbelieve this Pokémon came from outer space.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mit seiner psychischen Kraft ordnet es Kieselsteine an\nbilden die Formen von Sternbildern. Einige Leute\nIch glaube, dass dieses Pokémon aus dem Weltraum stammt.",
         "pt-br": "Usando seu poder psíquico, ele organiza pedras para\nformar as formas das constelações. Algumas pessoas\nacredito que este Pokémon veio do espaço sideral.",
         "zh-tw": "它利用其精神力量排列鵝卵石\n形成星座的形狀。有些人\n相信這只神奇寶貝來自外太空。",
-        ja: "サイコパワーで 小石を 並べて 星座を 作る。 宇宙から 来たと 考える 人も いる。"
+        ja: "サイコパワーで 小石を 並べて 星座を 作る。 宇宙から 来たと 考える 人も いる。",
+        ko: "사이코 파워로 조약돌을 움직여서\n별자리를 만든다.\n우주에서 왔다고 여기는 사람도 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schlagen",
                 "pt-br": "Tapa",
                 "zh-tw": "拍擊",
-                ja: "ビンタ"
+                ja: "ビンタ",
+                ko: "뺨치기"
             },
             damage: 30,
             cost: ["Psychic"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

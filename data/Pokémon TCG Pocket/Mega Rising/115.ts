@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/115",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/115",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/115"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/115",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/115"
     },
     name: {
         en: "Spritzee",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
         ja: "シュシュプ",
+        ko: "슈쁘",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Duft, den sein Körper verströmt, verzaubert diese\nwer es riecht. An edlen Damen mangelte es nicht\nLiebe für Spritzee.",
         "pt-br": "O perfume que seu corpo exala encanta aqueles\nquem sente o cheiro. Senhoras nobres não tinham falta de\namor por Spritzee.",
         "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。",
-        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。"
+        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。",
+        ko: "사람을 매료하는 황홀한\n냄새를 몸에서 풍긴다.\n귀부인들에게 사랑받았다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Feenwind",
                 "pt-br": "Vento Fada",
                 "zh-tw": "仙風",
-                ja: "ようせいのかぜ"
+                ja: "ようせいのかぜ",
+                ko: "요정의바람"
             },
             damage: 20,
             cost: ["Psychic"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

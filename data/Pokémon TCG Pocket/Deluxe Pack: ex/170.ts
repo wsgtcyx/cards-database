@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/170",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/170",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/170",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/170"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/170",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/170"
 	},
 	name: {
 		en: "Giratina",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Giratina",
 		"pt-br": "Giratina",
 		"zh-tw": "騎拉帝納",
-		ja: "ギラティナ"
+		ja: "ギラティナ",
+		ko: "기라티나"
 	},
 	illustrator: "AKIRA EGAWA",
 	rarity: "Three Diamond",

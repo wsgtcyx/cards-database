@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/058"
     },
     name: {
         en: "Team Rocket's Rattata",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Sie strotzen vor Lebenskraft und können selbst an schmutzigen Orten problemlos überleben. Bleiben sie ungestört, vermehren sie sich rasch.",
         "pt-br": "Graças à sua grande capacidade de sobrevivência, pode viver em lugares sujos sem preocupação. Se não houver controle, sua população se multiplica rapidamente.",
         "zh-tw": "生命力很強，即使在骯髒的地方也能安然生活。放任不管的話會不停繁殖。",
-        ja: "生命力が 強く 汚い 場所でも 平気で 暮らす。 ほっておくと どんどん 増えていく。"
+        ja: "生命力が 強く 汚い 場所でも 平気で 暮らす。 ほっておくと どんどん 増えていく。",
+        ko: "생명력이 강해서 더러운\n곳에서도 사는데 문제없다.\n내버려두면 점점 수가 불어난다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Hinterhalt",
                 "pt-br": "Emboscada",
                 "zh-tw": "伏擊",
-                ja: "おそいかかる"
+                ja: "おそいかかる",
+                ko: "덮치기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加20點傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "20+"
         }

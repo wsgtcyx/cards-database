@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/089"
     },
     name: {
         en: "Growlithe",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
         ja: "ガーディ",
+        ko: "가디",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",
@@ -34,7 +36,8 @@ const card: Card = {
         "de": "Es hat eine mutige und vertrauenswürdige Natur. Es furchtlos\nhält größeren und stärkeren Feinden stand.",
         "pt-br": "Tem uma natureza corajosa e confiável. Sem medo\nenfrenta inimigos maiores e mais fortes.",
         "zh-tw": "它具有勇敢和值得信賴的本性。它無所畏懼\n能夠對抗更大更強的敵人。",
-        ja: "自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。"
+        ja: "自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。",
+        ko: "자신보다 강하고\n큰 상대라도 겁 없이 맞서는\n용감하고 믿음직스런 성격이다."
     },
     stage: "Basic",
     attacks: [{
@@ -46,7 +49,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"]

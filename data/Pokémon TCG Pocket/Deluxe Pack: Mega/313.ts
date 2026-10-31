@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/313",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/313",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/313",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/313"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/313",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/313"
     },
     name: {
         en: "Bramblin",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Ao ser levado pelo vento, nem mesmo Bramblin sabe aonde vai parar. Não suporta ficar molhado.",
         "zh-tw": "在風的吹拂下滾動於荒野間，就連自己也不知道會滾到哪裡去。最討厭身體被弄得濕答答的。",
         ja: "風に吹かれて 荒野を 転がり 行き先は 自分でも わからない。 体が 濡れるのが 大嫌い。",
-        ko: "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+        ko: "바람에 날려 황야를 구르며\n어디로 가는지는 자신도 모른다.\n몸이 젖는 것을 매우 싫어한다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Rancinho",
                 "zh-tw": "咒怨一下",
                 ja: "ちょっとうらむ",
-                ko: "Petty Grudge"
+                ko: "조금원망하기"
             },
             damage: 20
         }

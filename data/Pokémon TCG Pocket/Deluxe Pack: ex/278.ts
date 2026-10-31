@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/278",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/278",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/278",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/278"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/278",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/278"
     },
     name: {
         en: "Jigglypuff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
         ja: "プリン",
+        ko: "푸린",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn seine großen Augen zittern, singt es geheimnisvoll\nberuhigende Melodie, die ihre Feinde in den Schlaf wiegt.",
         "pt-br": "Quando seus enormes olhos vacilam, ele canta misteriosamente\nmelodia suave que acalma seus inimigos para dormir.",
         "zh-tw": "當它巨大的眼睛擺動時，它會唱出神秘的歌聲\n舒緩的旋律可以讓敵人入睡。",
-        ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。"
+        ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。",
+        ko: "초롱초롱한 눈동자가 흔들릴 때\n졸음이 쏟아지게 하는 이상하고\n기분 좋은 노래를 부른다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Pfund",
                 "pt-br": "Libra",
                 "zh-tw": "磅",
-                ja: "はたく"
+                ja: "はたく",
+                ko: "막치기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/175",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/175",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/175"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/175",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/175"
     },
     name: {
         en: "Slurpuff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Slurpuff",
         "zh-tw": "胖甜妮",
         ja: "ペロリーム",
+        ko: "나루림",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
         ja: "ペロッパフ",
+        ko: "나룸퍼프",
     },
     description: {
         en: "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Indem es den Geruch einer Person aufnimmt, kann es sie erschnüffeln\ngeistige und körperliche Verfassung. Das ist zu hoffen\nDiese Fähigkeit wird viele medizinische Anwendungen haben.",
         "pt-br": "Ao absorver o cheiro de uma pessoa, ele pode farejar seu\ncondição mental e física. Espera-se que\nessa habilidade terá muitas aplicações médicas.",
         "zh-tw": "通過吸收人的氣味，它可以嗅出他們的氣味\n精神和身體狀況。希望\n這項技能將有許多醫學應用。",
-        ja: "体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。"
+        ja: "体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。",
+        ko: "체취로 몸과 마음의 상태를\n알아낸다. 의료계에서 응용될\n것으로 기대되고 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽",
-                ja: "スイーツリレー"
+                ja: "スイーツリレー",
+                ko: "스위트릴레이"
             },
             damage: "30+",
             cost: ["Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。",
-                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。"
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。",
+                ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

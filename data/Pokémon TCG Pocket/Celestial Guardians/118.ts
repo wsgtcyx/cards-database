@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/118",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/118",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/118"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/118",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/118"
     },
     name: {
         en: "Alolan Dugtrio",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Digdri",
         'pt-br': "Dugtrio de Alola",
         ja: "アローラダグトリオ",
-        ko: "알로라닥트리오",
+        ko: "알로라 닥트리오",
         "zh-tw": "阿羅拉三地鼠",
     },
     illustrator: "Yuka Morii",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
         ja: "アローラディグダ",
+        ko: "알로라 디그다",
     },
     description: {
         en: "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",

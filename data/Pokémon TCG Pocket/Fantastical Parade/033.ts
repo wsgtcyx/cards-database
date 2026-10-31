@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/033"
     },
     name: {
         en: "Mudkip",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Hydropi",
         "pt-br": "Mudkip",
         "zh-tw": "水躍魚",
-        ja: "ミズゴロウ"
+        ja: "ミズゴロウ",
+        ko: "물짱이"
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn es seine große Schwanzflosse nutzt, nimmt es Fahrt auf\nschnell im Wasser. Es ist trotz allem stark\nkleine Größe.",
         "pt-br": "Quando usa sua grande barbatana caudal, ganha velocidade\nrapidamente na água. É forte apesar de sua\ntamanho pequeno.",
         "zh-tw": "當它使用大尾鰭時，它會加快速度\n迅速在水中。儘管它的實力很強\n尺寸小。",
-        ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。"
+        ja: "大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。",
+        ko: "커다란 꼬리지느러미로 물을 헤치면\n스피드가 쑥쑥 오른다.\n작은 몸이지만 힘이 장사다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Water"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/197",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/197",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/197",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/197"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/197",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/197"
     },
     name: {
         en: "Wailord ex",
@@ -52,7 +53,8 @@ const card: Card = {
                 "pt-br": "Ondas Encantadas",
                 "zh-tw": "奇跡鯨濤",
                 "it": "Onde Prodigiose",
-                ja: "ミラクルザブーン"
+                ja: "ミラクルザブーン",
+                ko: "미라클첨벙"
             },
             effect: {
                 en: "This Pokémon recovers from all Special Conditions.",
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Este Pokémon se recupera de todas as Condições Especiais.",
                 "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。",
                 "it": "Questo Pokémon guarisce da tutte le condizioni speciali.",
-                ja: "このポケモンの特殊状態を、すべて回復。"
+                ja: "このポケモンの特殊状態を、すべて回復。",
+                ko: "이 포켓몬의 특수 상태를 모두 회복."
             },
             damage: 100
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/020"
     },
     name: {
         en: "Iron Bundle",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ähnelt einem mysteriösen Objekt, das in einem alten Buch erwähnt wird. Es gibt nur zwei gemeldete Sichtungen dieses Pokémon.",
         "pt-br": "Assemelha-se a um objeto misterioso mencionado em um livro antigo. Existem apenas dois avistamentos relatados deste Pokémon.",
         "zh-tw": "它就像一本舊書中提到的神秘物體。據報道，這隻寶可夢的目擊事件只有兩次。",
-        ja: "古い 書物に 登場する 謎の 物体に 似た ポケモン。 目撃例は 過去 ２件のみ。"
+        ja: "古い 書物に 登場する 謎の 物体に 似た ポケモン。 目撃例は 過去 ２件のみ。",
+        ko: "오래된 서적에 등장하는\n정체불명의 물체를 닮은 포켓몬.\n목격된 사례는 과거에 단 2건뿐이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Gebündelte Pumpe",
                 "pt-br": "Bomba empacotada",
                 "zh-tw": "整合泵",
-                ja: "バンドルポンプ"
+                ja: "バンドルポンプ",
+                ko: "번들펌프"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 50 more damage. If tails, this Pokémon also does 50 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 50 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais. Se sair coroa, este Pokémon também causa 50 de dano a si mesmo.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。如果是反面，這隻寶可夢也會對自己造成 50 點傷害。",
-                ja: "コインを1回投げオモテなら、50ダメージ追加。ウラなら、このポケモンにも50ダメージ。"
+                ja: "コインを1回投げオモテなら、50ダメージ追加。ウラなら、このポケモンにも50ダメージ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 50데미지를 준다."
             },
             damage: "50+"
         }

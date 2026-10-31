@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/008"
     },
     name: {
         en: "Dolliv",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dolliv",
         "zh-tw": "奧利紐",
         ja: "オリーニョ",
+        ko: "올리뇨",
         pt: "Dolliv",
         'es-mx': "Dolliv"
     },
@@ -39,6 +41,7 @@ const card: Card = {
         "pt-br": "Smoliv",
         "zh-tw": "迷你芙",
         ja: "ミニーブ",
+        ko: "미니브",
         pt: "Smoliv",
         'es-mx': "Smoliv"
     },
@@ -50,7 +53,8 @@ const card: Card = {
         "de": "Olivinio teilt sein leckeres, frisch duftendes Öl mit anderen. Diese Art lebt seit langem mit Menschen zusammen.",
         "pt-br": "Dolliv compartilha seu óleo saboroso e com aroma fresco com outras pessoas. Esta espécie coexiste com os humanos desde tempos idos.",
         "zh-tw": "奧利紐 與他人分享其美味、清新的油。這個物種自古以來就與人類共存。",
-        ja: "フレッシュな 香りの 美味しい オイルを 分けてくれる。 古くから 人間と 共存してきた。"
+        ja: "フレッシュな 香りの 美味しい オイルを 分けてくれる。 古くから 人間と 共存してきた。",
+        ko: "신선한 향기가 나는\n맛있는 오일을 나눠 준다.\n오래전부터 인간과 공존해 왔다."
     },
     stage: "Stage1",
     attacks: [
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
                 ja: "タネばくだん",
+                ko: "씨폭탄",
                 'es-mx': "Bomba Semilla",
                 pt: "Bomba de Sementes"
             },

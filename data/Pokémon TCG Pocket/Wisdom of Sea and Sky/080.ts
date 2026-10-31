@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/080",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/080"
     },
     name: {
         en: "Togekiss",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Togekiss",
         "zh-tw": "波克基斯",
         ja: "トゲキッス",
+        ko: "토게키스",
     },
     illustrator: "sui",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Togetic",
         "zh-tw": "波克基古",
         ja: "トゲチック",
+        ko: "토게틱",
     },
     description: {
         en: "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they've hardly\nbeen seen at all.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Diese Pokémon werden nie in der Nähe gesehen\nKonflikt oder Aufruhr. In letzter Zeit haben sie kaum noch\nüberhaupt gesehen worden.",
         "pt-br": "Esses Pokémon nunca são vistos por perto\nconflito ou turbulência. Nos últimos tempos, eles dificilmente\nsido visto.",
         "zh-tw": "這些神奇寶貝在附近從未見過\n衝突或動亂。最近一段時間，他們幾乎沒有\n完全被看見了。",
-        ja: "争い事や もめ事が 起こる 場所には 姿を 見せない。 近ごろは ほとんど 見かけない。"
+        ja: "争い事や もめ事が 起こる 場所には 姿を 見せない。 近ごろは ほとんど 見かけない。",
+        ko: "분쟁이나 다툼이 일어나는\n장소에는 모습을 드러내지 않는다.\n최근에는 거의 보이지 않는다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Himmlischer Segen",
                 "pt-br": "Bênção Celestial",
                 "zh-tw": "祜",
-                ja: "てんのしゅくふく"
+                ja: "てんのしゅくふく",
+                ko: "하늘의축복"
             },
             effect: {
                 en: "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wenn diesem Pokémon durch Angriffe Schaden zugefügt wird, wirf eine Münze. Wenn Köpfe, verhindern Sie diesen Schaden.",
                 "pt-br": "Se algum dano for causado a este Pokémon por ataques, jogue uma moeda. Se der cara, evite esse dano.",
                 "zh-tw": "如果這只神奇寶貝受到攻擊造成的傷害，則擲硬幣。如果是正面，請防止損壞。",
-                ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。"
+                ja: "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。",
+                ko: "이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Magischer Schuss",
                 "pt-br": "Tiro Mágico",
                 "zh-tw": "魔法射擊",
-                ja: "マジカルショット"
+                ja: "マジカルショット",
+                ko: "매지컬숏"
             },
             damage: 70,
             cost: ["Psychic", "Colorless", "Colorless"]

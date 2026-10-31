@@ -39,7 +39,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3a/boosters/paradox-drive/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3a/boosters/paradox-drive/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/boosters/paradox-drive/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/logo-34e41854115a.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/boosters/paradox-drive/logo.webp"
             },
             artwork_front: {
@@ -50,12 +50,18 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3a/boosters/paradox-drive/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3a/boosters/paradox-drive/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/boosters/paradox-drive/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/artwork_front-ddaaa5f43d0b.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/boosters/paradox-drive/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-05-28"
+    releaseDate: "2026-05-28",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/logo"
+	}
 }
 
 export default set

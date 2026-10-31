@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/020",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/020"
     },
     name: {
         en: "Haunter",
@@ -63,7 +64,8 @@ const card: Card = {
         "de": "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
-        ja: "ゴース"
+        ja: "ゴース",
+        ko: "고오스"
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",

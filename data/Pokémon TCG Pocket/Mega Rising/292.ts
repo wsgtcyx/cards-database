@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/292",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/292",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/292",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/292"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/292",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/292"
     },
     name: {
         en: "Moltres",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Moltres",
         "zh-tw": "火焰鳥",
         ja: "ファイヤー",
+        ko: "파이어",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist eines der legendären Vogel-Pokémon. Wann\nMoltres schlägt mit seinen flammenden Flügeln, sie schimmern\nein blendendes rotes Leuchten.",
         "pt-br": "É um dos lendários Pokémon pássaros. Quando\nMoltres bate suas asas flamejantes, elas brilham com\num brilho vermelho deslumbrante.",
         "zh-tw": "是傳說中的鳥神奇寶貝之一。當\n莫爾特雷斯拍打著燃燒的翅膀，它們閃爍著光芒\n耀眼的紅光。",
-        ja: "羽ばたくと 翼の 炎が 赤く 美しく きらめく 伝説の 鳥ポケモンの １匹。"
+        ja: "羽ばたくと 翼の 炎が 赤く 美しく きらめく 伝説の 鳥ポケモンの １匹。",
+        ko: "날갯짓을 하면 날개의 불꽃이\n빨갛고 아름답게 빛나는\n전설의 새포켓몬 중 1마리다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Himmelsangriff",
                 "pt-br": "Ataque Celestial",
                 "zh-tw": "天空攻擊",
-                ja: "ゴッドバード"
+                ja: "ゴッドバード",
+                ko: "불새"
             },
             damage: 130,
             cost: ["Fire", "Colorless", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

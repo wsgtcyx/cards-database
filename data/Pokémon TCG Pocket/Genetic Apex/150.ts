@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/150",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/150",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/150",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/150"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/150",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/150"
     },
     name: {
         en: "Onix",

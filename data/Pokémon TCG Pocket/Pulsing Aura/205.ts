@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/205",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/205"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/205",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/205"
     },
     name: {
         en: "Cottonee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sie schützen sich, indem sie Watte verstreuen.\nManche werden vom Wind bis ans andere Ende\nder Welt getragen.",
         "pt-br": "Dispara algodão do seu corpo para se proteger.\nSe este Pokémon for carregado por um furacão,\npode ir parar do outro lado da Terra.",
         "zh-tw": "它從體內射出棉花來保護自己。如果它遇到颶風強度的風，它可能會被送到地球的另一邊。",
-        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。"
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。",
+        ko: "솜을 날려 몸을 지킨다.\n태풍의 바람에 휩쓸려\n지구 반대편까지 갈 때도 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rasierblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 20
         }

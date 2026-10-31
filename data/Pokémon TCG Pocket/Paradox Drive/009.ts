@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/009"
     },
     name: {
         en: "Buizel",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Füllt es die Schwimmblase um seinen Hals mit Luft,\nragt sein Kopf aus dem Wasser und es kann die\nBewegungen von Beute an Land beobachten.",
         "pt-br": "Infla sua bolsa de flutuação e mantém o rosto acima\nda água para procurar o movimento de presas.",
         "zh-tw": "它會膨脹浮囊，將臉保持在水面以上，以觀察獵物的運動。",
-        ja: "首の 浮き袋を ふくらませて 水面に 顔を 出し 地上の 獲物の 動きを 探るのだ。"
+        ja: "首の 浮き袋を ふくらませて 水面に 顔を 出し 地上の 獲物の 動きを 探るのだ。",
+        ko: "목의 부낭을 부풀려\n수면에 얼굴을 내밀고 지상에 있는\n먹이의 움직임을 살핀다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Surfer",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 40
         }

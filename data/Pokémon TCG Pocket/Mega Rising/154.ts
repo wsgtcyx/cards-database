@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/154",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/154",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/154"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/154",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/154"
     },
     name: {
         en: "Darkrai",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Darkrai",
         "pt-br": "Darkrai",
         "zh-tw": "達克萊伊",
-        ja: "ダークライ"
+        ja: "ダークライ",
+        ko: "다크라이"
     },
     illustrator: "Uta",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kann Menschen in den Schlaf wiegen und zum Träumen bringen.\nEs ist in den Nächten des Neumondes aktiv.",
         "pt-br": "Pode acalmar as pessoas para dormir e fazê-las sonhar.\nEstá ativo durante as noites de lua nova.",
         "zh-tw": "它可以使人入睡並做夢。\n它在新月的夜晚很活躍。",
-        ja: "人々を 深い 眠りに 誘い 夢を 見せる 能力を 持つ。 新月の 夜に 活動する。"
+        ja: "人々を 深い 眠りに 誘い 夢を 見せる 能力を 持つ。 新月の 夜に 活動する。",
+        ko: "사람들을 깊은 잠으로 유인하여\n꿈을 꾸게 하는 능력을 가지고 있다.\n신월이 뜨는 밤에 활동한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schattenkäfig",
                 "pt-br": "Jaula das Sombras",
                 "zh-tw": "暗影牢籠",
-                ja: "シャドーコープ"
+                ja: "シャドーコープ",
+                ko: "섀도쿠프"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/004"
     },
     name: {
         en: "Cacnea",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es wächst an trockenen Orten mit wenig Niederschlag.\nNur einmal im Jahr bildet es eine gelbe Blüte.",
         "pt-br": "Vive em locais áridos. Suas flores amarelas florescem uma vez por ano.",
         "zh-tw": "它生活在乾旱的地方。它的黃色花朵每年開放一次。",
-        ja: "雨が 少ない 乾燥した 地域に 生息。 １年に １回 黄色の 花を 咲かせる。"
+        ja: "雨が 少ない 乾燥した 地域に 生息。 １年に １回 黄色の 花を 咲かせる。",
+        ko: "비가 적은 건조한 지역에 서식한다.\n1년에 1번 노란 꽃을 피운다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Stachelstich",
                 "pt-br": "Ferroada de Espinhos",
                 "zh-tw": "針刺",
-                ja: "トゲでさす"
+                ja: "トゲでさす",
+                ko: "가시로찌르기"
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/193",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/193",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/193"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/193",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/193"
     },
     name: {
         en: "Piers",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Nezz",
         "pt-br": "Pietro",
         "zh-tw": "聶梓",
-        ja: "ネズ"
+        ja: "ネズ",
+        ko: "두송"
     },
     illustrator: "hncl",
     rarity: "Two Star",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Du kannst diese Karte nur verwenden, wenn du Galarian Obstagoon im Spiel hast.\n\nLege 2 zufällige Energien vom Aktiven Pokémon deines Gegners ab.",
         "pt-br": "Você só pode usar esta carta se tiver Galarian Obstagoon em jogo.\n\nDescarte 2 Energias aleatórias do Pokémon Ativo do seu oponente.",
         "zh-tw": "僅當你場上有加拉利安阻擊者時才可以使用這張卡。\n\n丟棄對手的活躍神奇寶貝中的 2 個隨機能量。",
-        ja: "このカードは、自分の場に「ガラルタチフサグマ」がいるときにしか使えない。 相手のバトルポケモンからエネルギーをランダムに2個トラッシュ。"
+        ja: "このカードは、自分の場に「ガラルタチフサグマ」がいるときにしか使えない。 相手のバトルポケモンからエネルギーをランダムに2個トラッシュ。",
+        ko: "이 카드는 자신의 필드에 「가라르 가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
     },
     trainerType: "Supporter"
 };

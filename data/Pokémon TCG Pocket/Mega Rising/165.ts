@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/165",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/165",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/165"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/165",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/165"
     },
     name: {
         en: "Grimmsnarl",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Grimmsnarl",
         "zh-tw": "長毛巨魔",
         ja: "オーロンゲ",
+        ko: "오롱털",
     },
     illustrator: "DOM",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Morgrem",
         "zh-tw": "詐唬魔",
         ja: "ギモー",
+        ko: "쏘겨모",
     },
     description: {
         en: "It lives deep within the forest. Even after evolving\ninto this splendid form, it hasn't given up on its\npetty misdeeds and pranks.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt tief im Wald. Auch nach der Weiterentwicklung\nin diese herrliche Form gebracht hat, hat es nicht aufgegeben\nKleinigkeiten und Streiche.",
         "pt-br": "Ele vive nas profundezas da floresta. Mesmo depois de evoluir\nnesta forma esplêndida, não desistiu de sua\npequenos delitos e brincadeiras.",
         "zh-tw": "它生活在森林深處。即使進化後\n進入這個輝煌的形式，它並沒有放棄它的\n輕微的錯誤行為和惡作劇。",
-        ja: "森の 奥深くに 暮らしている。 立派に 進化しても くだらない 悪さと 悪戯は やめないのだ。"
+        ja: "森の 奥深くに 暮らしている。 立派に 進化しても くだらない 悪さと 悪戯は やめないのだ。",
+        ko: "깊은 숲속에 살고 있다.\n늠름하게 진화했어도\n실없는 장난과 나쁜 짓을 멈추지 않는다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Machen Sie Schluss",
                 "pt-br": "Destruir",
                 "zh-tw": "鎮壓",
-                ja: "たたきつぶす"
+                ja: "たたきつぶす",
+                ko: "두들겨 부수기"
             },
             damage: 100,
             cost: ["Darkness", "Darkness", "Darkness"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

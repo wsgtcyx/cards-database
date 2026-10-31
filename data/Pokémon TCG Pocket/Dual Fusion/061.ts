@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/061"
     },
     name: {
         en: "Wobbuffet",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Cabeçada Ricochete",
                 "zh-tw": "魯莽頭擊",
                 ja: "とびだしヘッド",
-                ko: "Headbutt Bounce"
+                ko: "머리박치기"
             },
             cost: [
                 "Psychic"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Odeia luz e correntes elétricas. Quando é atacado, infla o corpo para intensificar seu contragolpe.",
         "zh-tw": "討厭光和衝擊。受到攻擊時身體會膨脹，反擊也會因此變強。",
         ja: "光や ショックを 嫌う。 攻撃されると 体が ふくらみ 反撃が 強力に なる。",
-        ko: "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+        ko: "빛과 쇼크를 싫어한다.\n공격받으면 몸이 부풀어올라\n반격이 강력해진다."
     }
 };
 

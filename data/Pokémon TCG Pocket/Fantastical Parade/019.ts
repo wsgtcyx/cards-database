@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/019"
     },
     name: {
         en: "Reshiram",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Reshiram",
         "pt-br": "Reshiram",
         "zh-tw": "萊希拉姆",
-        ja: "レシラム"
+        ja: "レシラム",
+        ko: "레시라무"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn Reshirams Schwanz aufflammt, bewegt sich die Wärmeenergie\ndie Atmosphäre und verändert das Wetter auf der Welt.",
         "pt-br": "Quando a cauda de Reshiram se alarga, a energia térmica se move\na atmosfera e muda o clima do mundo.",
         "zh-tw": "當雷希拉姆的尾巴張開時，熱能就會移動\n大氣層並改變世界的天氣。",
-        ja: "レシラムの 尻尾が 燃えると 熱エネルギーで 大気が 動いて 世界の 天気が 変化する。"
+        ja: "レシラムの 尻尾が 燃えると 熱エネルギーで 大気が 動いて 世界の 天気が 変化する。",
+        ko: "레시라무의 꼬리가 불타면\n열에너지로 대기가 움직여서\n세계의 날씨가 변화된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Blaues Leuchtfeuer",
                 "pt-br": "Sinal Azul",
                 "zh-tw": "藍色耀斑",
-                ja: "あおいほのお"
+                ja: "あおいほのお",
+                ko: "푸른불꽃"
             },
             damage: 110,
             cost: ["Fire", "Fire", "Fire"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다."
             }
         }],
     weaknesses: [{

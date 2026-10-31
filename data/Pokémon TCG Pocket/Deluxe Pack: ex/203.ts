@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/203",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/203",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/203",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/203"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/203",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/203"
 	},
 	name: {
 		en: "Nosepass",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Nasgnet",
 		"pt-br": "Nosepass",
 		"zh-tw": "朝北鼻",
-		ja: "ノズパス"
+		ja: "ノズパス",
+		ko: "코코파스"
 	},
 	illustrator: "Satoshi Shirai",
 	rarity: "One Diamond",

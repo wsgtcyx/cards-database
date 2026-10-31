@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/069"
     },
     name: {
         en: "Whitney",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Whitney",
         "zh-tw": "小茜",
         ja: "アカネ",
+        ko: "꼭두",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Heile 60 Schaden von einem deiner Miltanks und er erholt sich aus dem Schlaf, der Lähmung und der Verwirrung.",
         "pt-br": "Cure 60 de dano de 1 de seu Miltank e ele se recupera de Adormecido, Paralisado e Confuso.",
         "zh-tw": "治療你的 1 個米爾坦克 60 點傷害，並且它會從睡眠、麻痺和混亂狀態中恢復。",
-        ja: "自分の「ミルタンク」1匹のHPを60回復し、ねむり・マヒ・こんらんもすべて回復。"
+        ja: "自分の「ミルタンク」1匹のHPを60回復し、ねむり・マヒ・こんらんもすべて回復。",
+        ko: "자신의 「밀탱크」 1마리의 HP를 60회복하고 잠듦・마비・혼란도 모두 회복."
     },
     trainerType: "Supporter"
 };

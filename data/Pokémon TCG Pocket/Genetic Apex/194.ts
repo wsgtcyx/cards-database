@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/194",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/194",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/194",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/194"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/194",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/194"
     },
     name: {
         en: "Wigglytuff",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pummeluff",
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
-        ja: "プリン"
+        ja: "プリン",
+        ko: "푸린"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

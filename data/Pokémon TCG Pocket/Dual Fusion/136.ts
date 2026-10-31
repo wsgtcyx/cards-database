@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/136",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/136"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/136",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/136"
     },
     name: {
         en: "Charizard",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
         ja: "リザード",
-        ko: "Charmeleon"
+        ko: "리자드"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Asa de Fogo",
                 "zh-tw": "火焰之翼",
                 ja: "ほのおのつばさ",
-                ko: "Fire Wing"
+                ko: "불꽃날개"
             },
             cost: [
                 "Colorless",
@@ -85,7 +86,7 @@ const card: Card = {
                 "pt-br": "Aura em Chamas",
                 "zh-tw": "火焰氣場",
                 ja: "フレイムオーラ",
-                ko: "Flame Aura"
+                ko: "플레임 오라"
             },
             effect: {
                 en: "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon.",
@@ -96,7 +97,7 @@ const card: Card = {
                 "pt-br": "Sempre que você ligar uma Energia {R} da sua Zona de Energia a este Pokémon, cause 30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "每次從自己的能量區將{R}能量附於這隻寶可夢身上時,對手的戰鬥寶可夢受到30點傷害。",
                 ja: "自分のエネルギーゾーンからこのポケモンに{R}エネルギーをつけるたび、相手のバトルポケモンに30ダメージ。",
-                ko: "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
+                ko: "자신의 에너지존에서 이 포켓몬에게 {R}에너지를 붙일 때마다 상대의 배틀 포켓몬에게 30데미지를 준다."
             },
             type: "Ability"
         }
@@ -110,7 +111,7 @@ const card: Card = {
         "pt-br": "Quando Charizard fica realmente furioso, a chama na ponta da sua cauda queima em um tom azul claro.",
         "zh-tw": "當噴火龍憤怒至極時，尾巴前端就會燃起藍白色的火焰。",
         ja: "本気で 怒った リザードンの 尻尾の 先の 炎は 青白く 燃え上がる。",
-        ko: "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade."
+        ko: "정말 화가 난 리자몽의\n꼬리 끝 불꽃은\n푸르스름하게 불타오른다."
     }
 };
 

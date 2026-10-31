@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/197",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/197",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/197",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/197"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/197",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/197"
     },
     name: {
         en: "Infernape ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
         ja: "モウカザル",
+        ko: "파이숭이",
     },
     stage: "Stage2",
     suffix: "EX",

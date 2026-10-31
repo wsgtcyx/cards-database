@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/169",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/169",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/169",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/169"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/169",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/169"
     },
     name: {
         en: "Rhyperior",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Rhydon",
         "zh-tw": "鑽角犀獸",
         ja: "サイドン",
+        ko: "코뿌리",
     },
     description: {
         en: "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",

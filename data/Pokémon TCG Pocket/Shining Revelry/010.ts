@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/010",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/010"
     },
     name: {
         en: "Charizard ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "リザード"
+        ja: "リザード",
+        ko: "리자드"
     },
     stage: "Stage2",
     suffix: "EX",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/224",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/224",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/224",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/224"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/224",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/224"
     },
     name: {
         en: "Marshadow",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Marshadow",
         "pt-br": "Marshadow",
         "zh-tw": "瑪夏多",
-        ja: "マーシャドー"
+        ja: "マーシャドー",
+        ko: "마샤도"
     },
     illustrator: "kantaro",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schlüpft in den Schatten anderer und ahmt nach\nihre Kräfte und Bewegungen. Wenn es sich verbessert, wird es\nwird stärker als diejenigen, die es imitiert.",
         "pt-br": "Ele desliza para as sombras dos outros e imita\nseus poderes e movimentos. À medida que melhora,\ntorna-se mais forte do que aqueles que está imitando.",
         "zh-tw": "它潛入他人的陰影並模仿\n他們的力量和動作。當它改善時，它\n變得比它模仿的人更強。",
-        ja: "相手の 影に 潜って 動きや 力を 真似る。 真似ているうちに 本物 よりも 強くなるぞ。"
+        ja: "相手の 影に 潜って 動きや 力を 真似る。 真似ているうちに 本物 よりも 強くなるぞ。",
+        ko: "상대 그림자에 숨어들어\n움직임이나 능력을 흉내 낸다.\n그러다가 진짜보다 강해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rache",
                 "pt-br": "Vingança",
                 "zh-tw": "復仇",
-                ja: "リベンジ"
+                ja: "リベンジ",
+                ko: "리벤지"
             },
             damage: "40+",
             cost: ["Fighting", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
                 "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

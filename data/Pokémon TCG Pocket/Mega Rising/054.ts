@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/054"
     },
     name: {
         en: "Lombre",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lombre",
         "zh-tw": "蓮帽小童",
         ja: "ハスブレロ",
+        ko: "로토스",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lotad",
         "zh-tw": "蓮葉童子",
         ja: "ハスボー",
+        ko: "연꽃몬",
     },
     description: {
         en: "It lives at the water's edge where it is sunny.\nIt sleeps on a bed of water grass by day and\nbecomes active at night.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lebt am Wasser, wo es sonnig ist.\nTagsüber schläft es auf einem Bett aus Wassergras\nwird nachts aktiv.",
         "pt-br": "Vive à beira da água, onde faz sol.\nEle dorme em uma cama de grama aquática durante o dia e\ntorna-se ativo à noite.",
         "zh-tw": "它生活在陽光充足的水邊。\n白天它睡在水草床上，\n晚上變得活躍。",
-        ja: "日当たりの 良い 水辺に 棲む。 昼間は 水草の ベッドで 眠り 日が 暮れると 動き出す。"
+        ja: "日当たりの 良い 水辺に 棲む。 昼間は 水草の ベッドで 眠り 日が 暮れると 動き出す。",
+        ko: "햇볕이 잘 드는 물가에 산다.\n낮에는 수초로 된 침대에서 자고\n해가 지면 활동하기 시작한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sanfter Schlag",
                 "pt-br": "Tapa suave",
                 "zh-tw": "輕輕一巴掌",
-                ja: "ひっぱたく"
+                ja: "ひっぱたく",
+                ko: "세게때리기"
             },
             damage: 40,
             cost: ["Water", "Water"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

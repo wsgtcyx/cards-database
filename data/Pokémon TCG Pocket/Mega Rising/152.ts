@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/152",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/152",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/152",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/152"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/152",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/152"
     },
     name: {
         en: "Skorupi",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skorupi",
         "zh-tw": "鉗尾蠍",
         ja: "スコルピ",
+        ko: "스콜피",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es greift mit den Krallen an seinem Schwanz an. Einmal verschlossen\nIn seinem Griff kann sich seine Beute nicht so fortbewegen\nDas Gift des Pokémon dringt ein.",
         "pt-br": "Ele ataca usando as garras da cauda. Uma vez bloqueado\nem suas garras, sua presa é incapaz de se mover, pois isso\nO veneno do Pokémon penetra.",
         "zh-tw": "它使用尾巴上的爪子進行攻擊。一旦鎖定\n在它的控制下，它的獵物無法移動\n寶可夢的毒液滲入體內。",
-        ja: "毒のある しっぽの ツメで 襲いかかる。 挟まれると 毒が 染みて 動けなくなる。"
+        ja: "毒のある しっぽの ツメで 襲いかかる。 挟まれると 毒が 染みて 動けなくなる。",
+        ko: "독이 있는 꼬리의 발톱으로\n덤벼든다. 집히면 독이 스며들어\n움직일 수 없게 된다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Insektenstich",
                 "pt-br": "Mordida de inseto",
                 "zh-tw": "蟲咬",
-                ja: "むしくい"
+                ja: "むしくい",
+                ko: "벌레먹기"
             },
             damage: 20,
             cost: ["Darkness"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

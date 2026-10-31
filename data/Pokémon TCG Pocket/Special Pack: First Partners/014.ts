@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/014"
     },
     name: {
         en: "Tepig",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Brasa",
                 "zh-tw": "火花",
                 ja: "ひのこ",
-                ko: "Ember"
+                ko: "불꽃세례"
             },
             cost: [
                 "Fire"
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
                 ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
-                ko: "Discard a {R} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             }
         }
     ],
@@ -79,7 +80,7 @@ const card: Card = {
         "pt-br": "Ele expele fogo pelo nariz. Quando fica resfriado, o fogo se torna uma fumaça preta.",
         "zh-tw": "從鼻孔噴出火焰。感冒時噴出的就不是火焰，而是漆黑的煙。",
         ja: "鼻の 穴から 炎を 吹く。 カゼを ひくと 炎ではなく 真っ黒な 煙に なってしまう。",
-        ko: "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead."
+        ko: "콧구멍에서 불꽃을 뿜어낸다.\n감기에 걸리면 불꽃 대신\n새까만 연기를 뿜어낸다."
     }
 };
 

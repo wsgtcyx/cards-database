@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/063"
     },
     name: {
         en: "Braviary",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Ein tapferer Krieger der Lüfte, der zum Schutz seiner\nKameraden auch mit Verletzungen immer weiterkämpft.",
         "pt-br": "Pelo bem de seus amigos, este bravo guerreiro do céu não parará de lutar, mesmo que esteja ferido.",
         "zh-tw": "為了朋友，這位勇敢的天空戰士即使受傷也不會停止戰鬥。",
-        ja: "仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。"
+        ja: "仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。",
+        ko: "동료를 위해서라면 아무리\n상처를 입더라도 싸움을 포기하지 않는\n드넓은 하늘의 용감한 전사."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Sturzflug",
                 "pt-br": "Pássaro Bravo",
                 "zh-tw": "勇鳥猛攻",
-                ja: "ブレイブバード"
+                ja: "ブレイブバード",
+                ko: "브레이브버드"
             },
             effect: {
                 en: "This Pokémon also does 20 damage to itself.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             },
             damage: 100
         }

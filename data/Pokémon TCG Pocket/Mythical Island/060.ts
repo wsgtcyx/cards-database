@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/060"
     },
     name: {
         en: "Tauros",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 80 pontos de dano a mais.",
                 ja: "相手のバトルポケモンが「ポケモンex」なら、80ダメージ追加。",
-                ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 80데미지를 추가한다.",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 80데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝是神奇寶貝 {ex}，則此攻擊造成的傷害增加 80 點。"
             }
         }],

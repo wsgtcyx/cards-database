@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/007"
     },
     name: {
         en: "Hisuian Lilligant",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Ich vermute, dass seine gut entwickelten Beine das Ergebnis eines Lebens auf tief verschneiten Bergen sind. Der Duft, den seine Blütenkrone verströmt, ermuntert die Menschen in der Nähe.",
         "pt-br": "Suspeito que suas pernas bem desenvolvidas sejam o resultado de uma vida passada em montanhas cobertas de neve profunda. O perfume que exala de sua coroa de flores anima aqueles que estão próximos.",
         "zh-tw": "我懷疑它發達的腿是在厚厚的雪山上度過一生的結果。它的花冠散發出的香味使附近的人感到振奮。",
-        ja: "雪深き山に 棲みしゆえに 脚力が 発達したと 考察す。 周囲の者を 鼓舞する 香りを 冠の花より 放つ。"
+        ja: "雪深き山に 棲みしゆえに 脚力が 発達したと 考察す。 周囲の者を 鼓舞する 香りを 冠の花より 放つ。",
+        ko: "눈 덮인 산에 살기 때문에 다릿심이\n발달한 것으로 추측된다. 화관을 통해\n주위에 있는 이를 고무시키는 향기를 내보낸다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Verkleiden",
                 "pt-br": "Vestir-se",
                 "zh-tw": "盛裝打扮",
-                ja: "ドレスアップ"
+                ja: "ドレスアップ",
+                ko: "드레스업"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará mais 20 danos.",
                 "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 20 點。",
-                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、20ダメージ追加。"
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、20ダメージ追加。",
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 20데미지를 추가한다."
             },
             damage: "40+"
         }

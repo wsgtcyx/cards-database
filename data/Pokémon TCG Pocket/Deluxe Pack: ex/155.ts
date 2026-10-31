@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/155",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/155",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/155",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/155"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/155",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/155"
 	},
 	name: {
 		en: "Gengar ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Gengar-ex",
 		"pt-br": "Gengar ex",
 		"zh-tw": "耿鬼ex",
-		ja: "ゲンガーex"
+		ja: "ゲンガーex",
+		ko: "팬텀 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Alpollo",
 		"pt-br": "Haunter",
 		"zh-tw": "鬼斯通",
-		ja: "ゴースト"
+		ja: "ゴースト",
+		ko: "고우스트"
 	},
 	suffix: "EX",
 	abilities: [

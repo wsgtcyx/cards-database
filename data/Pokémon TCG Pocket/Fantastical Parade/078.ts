@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/078",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/078"
     },
     name: {
         en: "Sandslash",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Sandamer",
         "pt-br": "Sandslash",
         "zh-tw": "穿山王",
-        ja: "サンドパン"
+        ja: "サンドパン",
+        ko: "고지"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
-        ja: "サンド"
+        ja: "サンド",
+        ko: "모래두지"
     },
     description: {
         en: "The spikes on its body are made up of its\nhardened hide. It rolls up and attacks foes\nwith its spikes.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Stacheln an seinem Körper bestehen aus\ngehärtetes Fell. Es rollt sich zusammen und greift Feinde an\nmit seinen Stacheln.",
         "pt-br": "Os espinhos em seu corpo são compostos de\npele endurecida. Ele rola e ataca os inimigos\ncom seus espinhos.",
         "zh-tw": "它身上的尖刺是由它的\n硬化的皮革。它捲起並攻擊敵人\n與它的尖刺。",
-        ja: "トゲは 皮膚が 硬くなったもの。 体を 丸めて トゲトゲを 刺すように 相手を 攻撃する。"
+        ja: "トゲは 皮膚が 硬くなったもの。 体を 丸めて トゲトゲを 刺すように 相手を 攻撃する。",
+        ko: "가시는 피부가 단단해진 것.\n몸을 말아 날카로운 가시로\n찌르듯 상대를 공격한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wut-Swipes",
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "狂怒橫掃",
-                ja: "みだれひっかき"
+                ja: "みだれひっかき",
+                ko: "마구할퀴기"
             },
             damage: "30×",
             cost: ["Fighting"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 30 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
-                ja: "コインを3回投げ、オモテの数×30ダメージ。"
+                ja: "コインを3回投げ、オモテの数×30ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 30데미지를 준다."
             }
         }],
     weaknesses: [{

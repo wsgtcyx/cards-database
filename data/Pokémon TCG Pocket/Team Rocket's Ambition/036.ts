@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/036"
     },
     name: {
         en: "Marowak",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Durch die Entwicklung wurde der Schädel seiner Mutter, den es stets trug, zu einem Teil von ihm und es bekam einen aggressiven Charakter.",
         "pt-br": "Quando este Pokémon evolulu, o crânio de sua mãe se fundiu a ele. Ao mesmo tempo, o temperamento de Marowak se tornou cruel.",
         "zh-tw": "進化時，原本戴在頭上的頭骨跟著化為了牠身體的一部分。不但如此，性格也變得很凶暴。",
-        ja: "進化して 被っていた 母親の 骨が 一体化して そのうえ 凶暴な 性格に 変わった。"
+        ja: "進化して 被っていた 母親の 骨が 一体化して そのうえ 凶暴な 性格に 変わった。",
+        ko: "진화로 인해 쓰고 있던\n어미의 뼈는 일체화되었고\n성격은 더욱 난폭해졌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Bestrafung",
                 "pt-br": "Punir",
                 "zh-tw": "懲治",
-                ja: "こらしめる"
+                ja: "こらしめる",
+                ko: "혼내주기"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn „Team Rocket“ zum Namen des Aktiven Pokémon deines Gegners gehört, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver “Equipe Rocket” em seu nome, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為名稱中有「火箭隊」的寶可夢,則增加70點傷害。",
-                ja: "相手のバトルポケモンが名前に「ロケット団」とつくポケモンなら、70ダメージ追加。"
+                ja: "相手のバトルポケモンが名前に「ロケット団」とつくポケモンなら、70ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 이름에 「로켓단」이 적힌 포켓몬이라면 70데미지를 추가한다."
             },
             damage: "50+"
         }

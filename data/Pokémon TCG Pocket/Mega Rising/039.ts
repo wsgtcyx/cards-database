@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/039"
     },
     name: {
         en: "Darumaka",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
         ja: "ダルマッカ",
+        ko: "달막화",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses beliebte Glückssymbol wird es nie geben\nim Schlaf umfallen, egal wie sehr man es drückt\noder gezogen.",
         "pt-br": "Este popular símbolo de boa sorte nunca\ncair durante o sono, não importa como seja empurrado\nou puxado.",
         "zh-tw": "這種流行的吉祥象徵永遠不會\n無論怎樣推它，它都會在睡夢中倒下\n或拉。",
-        ja: "寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。"
+        ja: "寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。",
+        ko: "자고 있을 때는 밀어도 당겨도\n절대 쓰러지지 않는다.\n길조의 모티브로 인기가 높다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rücksichtsloser Angriff",
                 "pt-br": "Carga imprudente",
                 "zh-tw": "魯莽衝鋒",
-                ja: "とつげき"
+                ja: "とつげき",
+                ko: "돌격"
             },
             damage: 50,
             cost: ["Fire", "Fire"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Water",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

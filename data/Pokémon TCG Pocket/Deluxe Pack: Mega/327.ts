@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/327",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/327",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/327",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/327"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/327",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/327"
     },
     name: {
         en: "Haunter",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
         ja: "ゴース",
-        ko: "Gastly"
+        ko: "고오스"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Na escuridão total, onde nada é visível, Haunter se esconde, perseguindo silenciosamente sua próxima vítima.",
         "zh-tw": "出沒在會伸手不見五指的黑暗中追蹤捕捉獵物，不發一點聲響。",
         ja: "本当に なにも 見えない 暗闇で ゴーストは 静かに 獲物を 狙っているのだ。",
-        ko: "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim."
+        ko: "정말 아무것도 보이지 않는\n어둠 속에서 고우스트는\n조용히 먹이를 노리고 있다."
     },
     attacks: [
         {
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Volta Giratória",
                 "zh-tw": "旋轉迴旋",
                 ja: "スピンターン",
-                ko: "Spin Turn"
+                ko: "스핀턴"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
                 ja: "このポケモンをベンチポケモンと入れ替える。",
-                ko: "Switch this Pokémon with 1 of your Benched Pokémon."
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 40
         }

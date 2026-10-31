@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/061"
     },
     name: {
         en: "Snubbull",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Snubbull",
         "pt-br": "Snubbull",
         "zh-tw": "布魯",
-        ja: "ブルー"
+        ja: "ブルー",
+        ko: "블루"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Knurren verunsichert seine Gegner. Dies\nEntspannte Pokémon neigen dazu, den halben Tag zu schlafen.",
         "pt-br": "Seus rosnados deixam seus oponentes inquietos. Isto\nPokémon descontraídos tendem a dormir metade do dia.",
         "zh-tw": "它的咆哮讓對手感到不安。這個\n悠閒的神奇寶貝往往會睡半天。",
-        ja: "唸り声は 相手を 不安に させる。 普段は のんびり屋で １日の 半分は 寝ているよ。"
+        ja: "唸り声は 相手を 不安に させる。 普段は のんびり屋で １日の 半分は 寝ているよ。",
+        ko: "으르렁거리는 소리는 상대를 불안하게\n만든다. 평소에는 느긋한 성격으로\n하루의 절반은 자고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Scharfer Fangzahn",
                 "pt-br": "Presa Afiada",
                 "zh-tw": "尖牙",
-                ja: "するどいキバ"
+                ja: "するどいキバ",
+                ko: "예리한이빨"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

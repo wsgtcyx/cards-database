@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/099"
     },
     name: {
         en: "Dragonair",
@@ -46,7 +47,7 @@ const card: Card = {
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
         ja: "ミニリュウ",
-        ko: "Dratini"
+        ko: "미뇽"
     },
     attacks: [
         {
@@ -59,7 +60,7 @@ const card: Card = {
                 "pt-br": "Feixe",
                 "zh-tw": "光束",
                 ja: "ビーム",
-                ko: "Beam"
+                ko: "빔"
             },
             cost: [
                 "Colorless",
@@ -79,7 +80,7 @@ const card: Card = {
         "pt-br": "Dizem que, se o seu corpo inteiro emitir uma aura, o clima começará a mudar instantaneamente.",
         "zh-tw": "據說牠全身上下散發出氣場時，周圍的天氣就會在轉眼間為之一變。",
         ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
-        ko: "They say that if it emits an aura from its whole body, the weather will begin to change instantly."
+        ko: "전신에서 오라를 발산하면\n주변 날씨가 순식간에\n변한다고 한다."
     }
 };
 

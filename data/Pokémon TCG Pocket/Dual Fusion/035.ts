@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/035"
     },
     name: {
         en: "Cloyster",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
         ja: "シェルダー",
-        ko: "Shellder"
+        ko: "셀러"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Nevasca",
                 "zh-tw": "暴風雪",
                 ja: "ふぶき",
-                ko: "Blizzard"
+                ko: "눈보라"
             },
             cost: [
                 "Colorless",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的所有備戰寶可夢也受到20點傷害。",
                 ja: "相手のベンチポケモン全員にも20ダメージ。",
-                ko: "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+                ko: "상대의 벤치 포켓몬 전원에게도 20데미지를 준다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Cloyster que vivem em mares com correntes intensas desenvolvem espinhos grandes e afiados em suas conchas.",
         "zh-tw": "刺甲貝棲息在潮流湍急的海域，殼上的刺又大又尖銳。",
         ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。",
-        ko: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
+        ko: "조수의 흐름이 격한 바다에 서식하는\n파르셀의 껍데기에 붙은 가시는\n크고 날카롭다."
     }
 };
 

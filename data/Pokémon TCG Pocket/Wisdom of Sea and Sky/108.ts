@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/108",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/108"
     },
     name: {
         en: "Golbat",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Golbat",
         "pt-br": "Golbat",
         "zh-tw": "大嘴蝠",
-        ja: "ゴルバット"
+        ja: "ゴルバット",
+        ko: "골뱃"
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
         ja: "ズバット",
+        ko: "주뱃",
     },
     description: {
         en: "It loves to drink other creatures' blood. It's said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it's gathered.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es liebt es, das Blut anderer Lebewesen zu trinken. Es heißt\ndass, wenn es andere seiner Art hungrig vorfindet,\nManchmal teilt es das Blut, das es gesammelt hat.",
         "pt-br": "Ele adora beber o sangue de outras criaturas. Está dito\nque se encontrar outros da sua espécie passando fome,\nàs vezes compartilha o sangue que reuniu.",
         "zh-tw": "牠喜歡喝其他生物的血。據說\n如果它發現其他同類正在挨餓，\n它有時會分享它所收集的血液。",
-        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。"
+        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。",
+        ko: "살아 있는 생물의 혈액을 좋아한다.\n굶주린 동료에게 빨아들인 피를\n나눠주기도 한다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Giftiger Fangzahn",
                 "pt-br": "Presa Venenosa",
                 "zh-tw": "毒牙",
-                ja: "どくのキバ"
+                ja: "どくのキバ",
+                ko: "독이빨"
             },
             damage: 20,
             cost: ["Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

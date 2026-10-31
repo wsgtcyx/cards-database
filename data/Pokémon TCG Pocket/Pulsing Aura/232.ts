@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/232",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/232",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/232",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/232"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/232",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/232"
     },
     name: {
         en: "Mega Steelix ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Stahlhartes Rollen",
                 "pt-br": "Rolagem Adamantina",
                 "zh-tw": "堅身回轉",
-                ja: "アダマントローリング"
+                ja: "アダマントローリング",
+                ko: "애더먼트롤링"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks and has no Weakness.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon -20 Schaden durch Angriffe und hat keine Schwäche.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques e não terá Fraqueza.",
                 "zh-tw": "在對手的下一個回合中，這隻寶可夢受到的攻擊傷害為-20，並且沒有弱點。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20하고 약점도 모두 없앤다."
             },
             damage: 120
         }

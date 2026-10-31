@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/216",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/216",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/216",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/216"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/216",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/216"
     },
     name: {
         en: "Latias",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Latias",
         "pt-br": "Latias",
         "zh-tw": "拉帝亞斯",
-        ja: "ラティアス"
+        ja: "ラティアス",
+        ko: "라티아스"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kommuniziert mittels Telepathie. Sein Körper ist\nMit Daunen bedeckt, die das Licht brechen\nes unsichtbar.",
         "pt-br": "Ele se comunica por telepatia. Seu corpo é\ncoberto de penugem que refrata a luz para fazer\né invisível.",
         "zh-tw": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。",
-        ja: "テレパシーで 気持ちを 通わせる。 光を 屈折させる 羽毛で 体を 包み 姿を 消す。"
+        ja: "テレパシーで 気持ちを 通わせる。 光を 屈折させる 羽毛で 体を 包み 姿を 消す。",
+        ko: "텔레파시로 마음이 통한다.\n빛을 굴절시키는 깃털로\n몸을 둘러싸 모습을 지운다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kreuzungsflüge",
                 "pt-br": "Cruzando Voos",
                 "zh-tw": "過境航班",
-                ja: "クロスフライト"
+                ja: "クロスフライト",
+                ko: "크로스 플라이트"
             },
             damage: "20+",
             cost: ["Psychic"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn Latios auf deiner Bank ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Se Latios estiver no seu banco, este ataque causará 20 de dano a mais.",
                 "zh-tw": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。",
-                ja: "自分のベンチに「ラティオス」がいるなら、20ダメージ追加。"
+                ja: "自分のベンチに「ラティオス」がいるなら、20ダメージ追加。",
+                ko: "자신의 벤치에 「라티오스」가 있다면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

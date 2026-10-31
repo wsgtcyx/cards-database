@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/062",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/062"
     },
     name: {
         en: "Miltank",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Miltank",
         "zh-tw": "大奶罐",
         ja: "ミルタンク",
+        ko: "밀탱크",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Miltank produziert hochnährstoffreiche Milch\nunterstützt das Leben von Menschen und anderen\nPokémon seit der Antike.",
         "pt-br": "Miltank produz leite altamente nutritivo, por isso é\ntem apoiado a vida de pessoas e outros\nPokémon desde os tempos antigos.",
         "zh-tw": "Miltank 生產高營養牛奶，因此\n一直在支持人們和其他人的生活\n自古以來的神奇寶貝。",
-        ja: "栄養満点の ミルクを 出すことから 古くから 人間と ポケモンの 暮らしを 支えてきた。"
+        ja: "栄養満点の ミルクを 出すことから 古くから 人間と ポケモンの 暮らしを 支えてきた。",
+        ko: "영양 만점의 우유를 만들어내서\n옛날부터 사람과 포켓몬의\n삶을 지탱해왔다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rollende Raserei",
                 "pt-br": "Frenesi rolante",
                 "zh-tw": "滾滾狂亂",
-                ja: "ころがりフィーバー"
+                ja: "ころがりフィーバー",
+                ko: "구르기피버"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Bis dieses Pokémon den aktiven Bereich verlässt, verursacht der Angriff „Rollende Raserei“ dieses Pokémon +30 Schaden. Dieser Effekt ist stapelbar.",
                 "pt-br": "Até que este Pokémon deixe o Ponto Ativo, o ataque Rolling Frenzy deste Pokémon causa +30 de dano. Este efeito acumula.",
                 "zh-tw": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。",
-                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ころがりフィーバー」のダメージを+30する。この効果は重なる。"
+                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ころがりフィーバー」のダメージを+30する。この効果は重なる。",
+                ko: "이 포켓몬이 배틀필드를 떠날 때까지 이 포켓몬의 「구르기피버」의 데미지를 +30한다. 이 효과는 중복된다."
             }
         }],
     weaknesses: [{

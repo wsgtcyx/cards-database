@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/038"
     },
     name: {
         en: "Team Rocket's Ekans",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Ein Pokemon, das in hohem Gras weit verbreitet ist. Es schnellt mit seiner Zunge vor und zurück, um Gefahr in seiner Umgebung aufzuspüren.",
         "pt-br": "Muito comum em pradarias e lugares similares. Projeta a língua para dentro e para fora para detectar perigos ao seu redor.",
         "zh-tw": "大量棲息於草地等處。會快速顫動吐出的舌頭，藉此感知周遭的危險。",
-        ja: "草地などに 多く 生息する。 舌を チロチロ させて まわりの 危険を 感じとる。"
+        ja: "草地などに 多く 生息する。 舌を チロチロ させて まわりの 危険を 感じとる。",
+        ko: "풀밭 등에 많이 서식한다.\n혀를 날름거리며\n주위의 위험을 감지한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Fänge der Dunkelheit",
                 "pt-br": "Presa Sombria",
                 "zh-tw": "暗之牙",
-                ja: "やみのキバ"
+                ja: "やみのキバ",
+                ko: "어둠엄니"
             },
             damage: 40
         }

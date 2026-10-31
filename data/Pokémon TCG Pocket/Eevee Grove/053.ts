@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/053"
     },
     name: {
         en: "Dragonite ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dragonite ex",
         "zh-tw": "快龍ex",
         ja: "カイリューex",
+        ko: "망나뇽 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
         ja: "ハクリュー",
+        ko: "신뇽",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Giga-Impact",
                 "pt-br": "Giga Impacto",
                 "zh-tw": "千兆影響",
-                ja: "ギガインパクト"
+                ja: "ギガインパクト",
+                ko: "기가임팩트"
             },
             damage: 180,
             cost: ["Water", "Lightning", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
-                ja: "次の自分の番、このポケモンはワザが使えない。"
+                ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     retreat: 2

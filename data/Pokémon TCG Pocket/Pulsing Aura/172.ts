@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/172",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/172"
     },
     name: {
         en: "Kubfu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Durch rigoroses Training perfektioniert es seine\nKampftechnik. Diese bestimmt, welche Form\nDakuma nach der Entwicklung annimmt.",
         "pt-br": "Kubfu treina muito para aperfeiçoar seus movimentos. Os movimentos que ele dominar determinarão a forma que ele assumirá quando evoluir.",
         "zh-tw": "藉由累積嚴苛的鍛鍊來\n磨練招式。進化後的樣子\n會根據牠領會的招式而不同。",
-        ja: "厳しい 鍛錬を 積み 技を 磨く。 体得した 技によって 進化したときの 姿が 変わる。"
+        ja: "厳しい 鍛錬を 積み 技を 磨く。 体得した 技によって 進化したときの 姿が 変わる。",
+        ko: "혹독한 수련을 거듭하며 기술을\n갈고닦는다. 체득한 기술에 따라\n진화했을 때의 모습이 달라진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Training",
                 "pt-br": "Treinamento",
                 "zh-tw": "鍛鍊",
-                ja: "たんれん"
+                ja: "たんれん",
+                ko: "단련"
             },
             effect: {
                 en: "Take a {C} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm eine {C}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {C} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從你的能量區取出一個{C}能量並將其附加到那個寶可夢上。",
-                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {C}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

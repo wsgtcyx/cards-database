@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/273",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/273",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/273",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/273"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/273",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/273"
     },
     name: {
         en: "Squirtle",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Quando este Pokémon sente-se ameaçado, esconde-se dentro do seu casco e lança água pela boca.",
         "zh-tw": "當牠遇到危險的時候，會將四肢收回甲殼裡保護自己，同時從嘴裡噴出水來。",
         ja: "危なくなると 甲羅に 手足を 引っこめて 身を 守りながら 口から 水を 吹き出している。",
-        ko: "When it feels threatened, it draws its limbs inside\nits shell and sprays water from its mouth."
+        ko: "위험해지면 등껍질에 손발을\n감추고 몸을 지키면서\n입에서 물을 내뿜는다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Surra de Cauda",
                 "zh-tw": "擺尾拍擊",
                 ja: "しっぽではたく",
-                ko: "Tail Whap"
+                ko: "꼬리로 막치기"
             },
             damage: 40,
             cost: [

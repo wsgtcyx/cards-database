@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/024"
     },
     name: {
         en: "Trevenant",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Trevenant",
         "zh-tw": "朽木妖",
         ja: "オーロット",
+        ko: "대로트",
     },
     illustrator: "Hiroyuki Yamamoto",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
         ja: "ボクレー",
+        ko: "나목령",
     },
     description: {
         en: "Small roots that extend from the tips of this\nPokémon's feet can tie into the trees of the\nforest and give Trevenant control over them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Kleine Wurzeln, die von den Spitzen ausgehen\nDie Füße des Pokémon können an den Bäumen befestigt werden\nWald und geben Sie Trevenant die Kontrolle über sie.",
         "pt-br": "Pequenas raízes que se estendem das pontas deste\nOs pés dos Pokémon podem se amarrar nas árvores do\nfloresta e dê a Trevenant o controle sobre eles.",
         "zh-tw": "從這個尖端伸出的小根\n神奇寶貝的腳可以綁在樹上\n森林並給予特雷文特對它們的控制權。",
-        ja: "足の 先から 細い 根っこを 伸ばして 森の 木々と 結びつき 自在に 操る 力を もつ。"
+        ja: "足の 先から 細い 根っこを 伸ばして 森の 木々と 結びつき 自在に 操る 力を もつ。",
+        ko: "발끝에서 가느다란 뿌리를 뻗고\n숲의 나무들과 결속하여\n자유자재로 조종하는 힘을 가졌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hornblutegel",
                 "pt-br": "Sanguessuga de Chifre",
                 "zh-tw": "角水蛭",
-                ja: "ウッドホーン"
+                ja: "ウッドホーン",
+                ko: "우드혼"
             },
             damage: 60,
             cost: ["Grass", "Grass"],
@@ -69,13 +74,19 @@ const card: Card = {
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
-                ja: "このポケモンのHPを20回復。"
+                ja: "このポケモンのHPを20回復。",
+                ko: "이 포켓몬의 HP를 20회복."
             }
         }],
     weaknesses: [{
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

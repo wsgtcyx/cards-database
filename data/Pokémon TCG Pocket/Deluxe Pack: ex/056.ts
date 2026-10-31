@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/056",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/056"
     },
     name: {
         en: "Charmander",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "ヒトカゲ"
+        ja: "ヒトカゲ",
+        ko: "파이리"
     },
     illustrator: "Teeziro",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es hat eine Vorliebe für heiße Dinge. Wenn es regnet,\nAus der Spitze seines Schwanzes soll Dampf austreten.",
         "pt-br": "Tem preferência por coisas quentes. Quando chove,\ndiz-se que o vapor jorra da ponta de sua cauda.",
         "zh-tw": "它對熱的東西有偏愛。下雨的時候，\n據說蒸汽從它的尾尖噴出。",
-        ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。"
+        ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。",
+        ko: "뜨거운 것을 좋아하는 성격이다.\n비에 젖으면 꼬리 끝에서\n연기가 난다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Glut",
                 "pt-br": "Brasa",
                 "zh-tw": "餘燼",
-                ja: "ひのこ"
+                ja: "ひのこ",
+                ko: "불꽃세례"
             },
             damage: 30,
             cost: ["Fire"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

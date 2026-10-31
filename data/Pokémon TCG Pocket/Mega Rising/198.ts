@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/198",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/198",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/198"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/198",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/198"
     },
     name: {
         en: "Chatot",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chatot",
         "zh-tw": "聒噪鳥",
         ja: "ペラップ",
+        ko: "페라페",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es kann menschliche Wörter lernen und sprechen. Wenn sie sich versammeln,\nSie alle lernen das gleiche Sprichwort.",
         "pt-br": "Ele pode aprender e falar palavras humanas. Se eles se reunirem,\ntodos eles aprendem o mesmo ditado.",
         "zh-tw": "它可以學習並說出人類語言。如果他們聚集在一起，\n他們都學著同樣的一句話。",
-        ja: "人の 言葉を 覚えて 鳴く。 仲間が 一か所に 集まると みんな 同じ 言葉を 覚える。"
+        ja: "人の 言葉を 覚えて 鳴く。 仲間が 一か所に 集まると みんな 同じ 言葉を 覚える。",
+        ko: "사람의 말을 기억해서 운다.\n동료가 한 장소에 모이면\n모두 똑같은 말을 기억한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlafendes Lied",
                 "pt-br": "Canção Sonolenta",
                 "zh-tw": "昏昏欲睡的歌",
-                ja: "スリーピーソング"
+                ja: "スリーピーソング",
+                ko: "슬리피송"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

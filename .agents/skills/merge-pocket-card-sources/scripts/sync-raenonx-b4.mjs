@@ -393,13 +393,13 @@ function tokenSkeleton(template) {
 }
 
 function normalizedIndexOf(haystack, needle, from) {
-	const exact = haystack.indexOf(needle, from)
-	if (exact >= 0) return exact
-	const compact = normalize(needle)
-	if (!compact) return from
-	return normalize(haystack.slice(from)).indexOf(compact) < 0
-		? -1
-		: from + normalize(haystack.slice(from)).indexOf(compact)
+	let exact = haystack.indexOf(needle, from)
+	// Literal words must not match inside a card name such as Tandemaus.
+	while (exact >= 0 && (/^[\p{L}\p{N}]/u.test(needle) && /[\p{L}\p{N}]/u.test(haystack[exact - 1] ?? '')
+		|| /[\p{L}\p{N}]$/u.test(needle) && /[\p{L}\p{N}]/u.test(haystack[exact + needle.length] ?? ''))) {
+		exact = haystack.indexOf(needle, exact + 1)
+	}
+	return exact
 }
 
 function captureDynamicValues(rawTemplate, canonicalEnglish, context, maps) {
@@ -579,7 +579,7 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 			if (!sourceNode) throw new Error(`RaenonX ${locale} template introduced an unbindable Num:Int token for ${context}`)
 			const sourceId = attrValue(sourceNode, 'id')
 			const number = parseNumber(captured) ?? (sourceId === undefined ? undefined : bindings.numericById.get(sourceId))
-			if (locale === 'ja' && number !== undefined) return String(number)
+			if (['ja', 'ko'].includes(locale) && number !== undefined) return String(number)
 			if (number === 1 && attrValue(node, 'plural_only') !== undefined) return ''
 			if (number !== undefined) return `${number}${attrValue(node, 'plural_only') ?? ''}`
 			throw new Error(`Cannot bind ${locale} Num:Int count for ${context}`)
@@ -614,13 +614,13 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 		case 'Text:CardName': {
 			const entry = findNameIdByEnglish(captured, maps.cardEnglishNames, `${context} card name`)
 			const localized = lookup(maps.targetMaster.Card.Name, [], entry.id)
-			if (locale === 'ja' && !localized) throw new Error(`Missing ja card name ${entry.id} for ${context}`)
-			return localized ?? entry.value
+			if (['ja', 'ko'].includes(locale) && !localized) throw new Error(`Missing ${locale} card name ${entry.id} for ${context}`)
+			return normalizeRaenonxName(locale, localized ?? entry.value)
 		}
 		case 'Text:AttackName': {
 			const entry = findNameIdByEnglish(captured, maps.attackEnglishNames, `${context} attack name`)
 			const localized = lookup(maps.targetMaster.Attack.Name, [], entry.id)
-			if (locale === 'ja' && !localized) throw new Error(`Missing ja attack name ${entry.id} for ${context}`)
+			if (['ja', 'ko'].includes(locale) && !localized) throw new Error(`Missing ${locale} attack name ${entry.id} for ${context}`)
 			return localized ?? entry.value
 		}
 		case 'Text:AbilityName': {
@@ -628,7 +628,7 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 			const suffix = attrValue(node, 'suffix')
 			const localized = lookup(maps.targetMaster.Ability.Name, [], suffix ? `${entry.id}_${suffix}` : entry.id)
 				?? lookup(maps.targetMaster.Ability.Name, [], entry.id)
-			if (locale === 'ja' && !localized) throw new Error(`Missing ja ability name ${entry.id} for ${context}`)
+			if (['ja', 'ko'].includes(locale) && !localized) throw new Error(`Missing ${locale} ability name ${entry.id} for ${context}`)
 			return localized ?? entry.value
 		}
 		case 'Text:SpecialCondition':
@@ -709,10 +709,28 @@ function renderLocalizedTemplate(rawTemplate, canonicalEnglish, targetTemplate, 
 	const targetOccurrences = { grByRef: new Map() }
 	let targetIndex = 0
 	let output = ''
+	let listIndex
 	for (const node of targetNodes) {
 		if (node.type === 'literal') output += node.value
 		else if (node.type === 'tag' && node.name === 'C:Nbsp') output += ' '
 		else if (node.type === 'tag' && node.name === 'C:Nbh') output += '\u2011'
+		else if (node.type === 'tag' && node.name === 'Ctrl:OL' && locale === 'ko') listIndex = 0
+		else if (node.type === 'tag' && node.name === 'Ctrl:LI' && locale === 'ko' && listIndex !== undefined) {
+			listIndex++
+			output += ` ${listIndex <= 20 ? String.fromCodePoint(0x245F + listIndex) : `${listIndex}.`} `
+		}
+		else if (node.type === 'tag' && node.name === 'Gr:Patchim' && locale === 'ko') {
+			const pair = { eu_: '으/', eul_reul: '을/를', eun_neun: '은/는', gwa_wa: '과/와', i_: '이/', i_ga: '이/가' }[node.attrs.v] ?? node.attrs.v
+			if (!['으/', '으로/로', '을/를', '은/는', '과/와', '이/', '이/가'].includes(pair)) throw new Error(`Unknown Korean particle: ${pair}`)
+			const spoken = output.replace(/\[Gr:Pron\s+v="([^"]+)"\s*\]/gu, '$1').replace(/[\s「」『』“”"'()[\]]+$/gu, '')
+				.replace(/\{([A-Z])\}$/u, (_, marker) => maps.targetMaster.EnergyType[ENERGY_MARKERS[marker]] ?? '')
+				.replace(/ex$/iu, '스').replace(/[♂♀]$/u, '')
+			const previous = spoken.at(-1)
+			if (!previous || !/[가-힣]/u.test(previous)) throw new Error(`Unresolved Korean particle after ${JSON.stringify(output)} at ${context}`)
+			const final = (previous.charCodeAt(0) - 0xAC00) % 28
+			const consonant = final !== 0 && (!['으/', '으로/로'].includes(pair) || final !== 8)
+			output += pair.split('/')[consonant ? 0 : 1]
+		}
 		else if (isFormatting(node)) continue
 		else if (isDynamic(node)) {
 			targetOccurrences.nextNumber = undefined
@@ -742,7 +760,9 @@ function renderLocalizedTemplate(rawTemplate, canonicalEnglish, targetTemplate, 
 			throw new Error(`Unsupported RaenonX tag ${JSON.stringify(node)} for ${context}`)
 		}
 	}
-	return normalize(output)
+	return locale === 'ko'
+		? output.replace(/\[Gr:Pron\s+v="[^"]+"\s*\]/gu, '').replace(/\s+/gu, ' ').trim()
+		: normalize(output)
 }
 
 function resolveCardName(entry, messages) {

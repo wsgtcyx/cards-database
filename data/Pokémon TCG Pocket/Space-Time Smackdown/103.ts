@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/103",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/103"
     },
     name: {
         en: "Skuntank",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Stunky",
         "zh-tw": "臭鼬噗",
         ja: "スカンプー",
+        ko: "스컹뿡",
     },
     description: {
         en: "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",

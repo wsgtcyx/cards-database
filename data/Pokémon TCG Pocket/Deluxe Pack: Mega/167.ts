@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/167",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/167",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/167"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/167",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/167"
     },
     name: {
         en: "Corviknight ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
         ja: "アオガラス",
-        ko: "Corvisquire"
+        ko: "파크로우"
     },
     stage: "Stage2",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Choque Aéreo",
                 "zh-tw": "空氣粉碎",
                 ja: "エアクラッシュ",
-                ko: "Air Crash"
+                ko: "에어 크래시"
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Descarte Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
                 ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
-                ko: "Discard a random Energy from your opponent's Active Pokémon."
+                ko: "상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             },
             damage: 110
         }

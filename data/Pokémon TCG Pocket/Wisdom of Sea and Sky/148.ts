@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/148",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/148",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/148"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/148",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/148"
     },
     name: {
         en: "Smeargle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Smeargle",
         "zh-tw": "圖圖犬",
         ja: "ドーブル",
+        ko: "루브도",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Flüssigkeit der Schwanzsekrete von Smeargle verändert sich\nin der Intensität seines Farbtons wie der des Pokémon\nEmotionen verändern sich.",
         "pt-br": "O fluido das secreções da cauda de Smeargle muda\nna intensidade de sua tonalidade como a do Pokémon\nas emoções mudam.",
         "zh-tw": "Smeargle尾部分泌物的液體發生變化\n其色調的強度與神奇寶貝的顏色一樣\n情緒發生變化。",
-        ja: "シッポの 先から でる 体液は ドーブルの 感情に よって 色合いが 変化 するのだ。"
+        ja: "シッポの 先から でる 体液は ドーブルの 感情に よって 色合いが 変化 するのだ。",
+        ko: "꼬리 끝에서 나오는 체액은\n루브도의 감정에 따라\n색조가 변화한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spritzbeschichtung",
                 "pt-br": "Revestimento de respingos",
                 "zh-tw": "飛濺塗層",
-                ja: "ぬりたくる"
+                ja: "ぬりたくる",
+                ko: "막칠하기"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Ändere den Typ einer zufälligen Energie, die an das Aktive Pokémon deines Gegners angelegt ist, zufällig zu einem der folgenden: {G}, {R}, {W}, {L}, {P}, {F}, {D} oder {M}.",
                 "pt-br": "Mude o tipo de Energia aleatória ligada ao Pokémon Ativo do seu oponente para 1 dos seguintes aleatoriamente: {G}, {R}, {W}, {L}, {P}, {F}, {D} ou {M}.",
                 "zh-tw": "將對手的活躍神奇寶貝所附帶的隨機能量類型隨機更改為以下其中一種：{G}、{R}、{W}、{L}、{P}、{F}、{D}或{M}。",
-                ja: "相手のバトルポケモンについているエネルギーをランダムに1個、{G}{R}{W}{L}{P}{F}{D}{M}の中からランダムなタイプに変える。"
+                ja: "相手のバトルポケモンについているエネルギーをランダムに1個、{G}{R}{W}{L}{P}{F}{D}{M}の中からランダムなタイプに変える。",
+                ko: "상대의 배틀 포켓몬에게 붙어 있는 에너지를 랜덤으로 1개 {G}{R}{W}{L}{P}{F}{D}{M} 중에서 랜덤한 타입으로 바꾼다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/016"
     },
     name: {
         en: "Swadloon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Folikon hüllt sich zum Schutz in Blätter. Mithilfe der beiden Blätter auf seinem Kopf erkennt es Luftbewegungen und spürt seine Umgebung auf.",
         "pt-br": "Swadloon se envolve em folhas para proteção. Ele usa as duas folhas no topo da cabeça para detectar movimentos de ar e sentir o ambiente.",
         "zh-tw": "寶包繭 將自己包裹在樹葉中進行保護。它利用頭頂的兩片葉子來檢測空氣運動並感知周圍環境。",
-        ja: "葉っぱを まとって 身を 守る。 空気の 動きを 頭の 葉で キャッチして 周囲を 探る。"
+        ja: "葉っぱを まとって 身を 守る。 空気の 動きを 頭の 葉で キャッチして 周囲を 探る。",
+        ko: "잎사귀를 둘러서 몸을 보호한다.\n공기의 흐름을 머리의 잎으로 감지해서\n주위를 살핀다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schutzschild",
                 "pt-br": "Proteção",
                 "zh-tw": "守住",
-                ja: "まもる"
+                ja: "まもる",
+                ko: "방어"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }
     ],

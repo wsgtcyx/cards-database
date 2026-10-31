@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/139",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/139"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/139",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/139"
     },
     name: {
         en: "Stoutland",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Seinen üppigen Schnauzbart trägt es mit Stolz.\nAngeblich entscheidet dessen Länge über die\nRangordnung innerhalb dieser Pokémon-Art.",
         "pt-br": "Stoutland está imensamente orgulhoso de seu impressionante bigode. Diz-se que o comprimento do bigode é o que determina a posição social desta espécie.",
         "zh-tw": "以氣派的鬍鬚為傲的寶可夢。\n據說在夥伴之間的階級地位\n就取決於鬍鬚的長度。",
-        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。"
+        ja: "立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。",
+        ko: "훌륭한 수염이 특징인 포켓몬이다.\n그 길이로 동료들과\n우열을 가린다고 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kämpfende Reißzähne",
                 "pt-br": "Caninos de Luta",
                 "zh-tw": "鬥志之牙",
-                ja: "とうしのキバ"
+                ja: "とうしのキバ",
+                ko: "투사의엄니"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 70 de dano a mais.",
                 "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。",
-                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。"
+                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 70데미지를 추가한다."
             },
             damage: "70+"
         }

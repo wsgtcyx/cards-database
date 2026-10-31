@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/203",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/203",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/203"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/203",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/203"
     },
     name: {
         en: "Spearow",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
                 ja: "はばたく",
-                ko: "Flap"
+                ko: "홰치기"
             },
             cost: [
                 "Colorless"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Sua natureza descuidada leva Spearow a encarar até Pokémon maiores quando precisa proteger o seu território.",
         "zh-tw": "生性魯莽衝動，凡要是為了守護自己的地盤，即使對手是大型寶可夢也會正面迎戰。",
         ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。",
-        ko: "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory."
+        ko: "자신의 영역을 지키기 위해서라면\n상대가 큰 포켓몬이라도\n덤벼드는 무모한 성질을 가졌다."
     }
 };
 

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/070"
     },
     name: {
         en: "Rowlet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
         ja: "モクロー",
+        ko: "나몰빼미",
     },
     illustrator: "OKACHEKE",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schickt seine Federn, die ebenso scharf sind\nals Klingen, die im Angriff fliegen. Seine Beine sind stark,\nDaher sind auch seine Tritte beeindruckend.",
         "pt-br": "Ele envia suas penas, que são tão afiadas\ncomo lâminas, voando em ataque. Suas pernas são fortes,\nentão seus chutes também são formidáveis.",
         "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。",
-        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。"
+        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。",
+        ko: "칼같이 날카로운 날개를 날려\n공격한다. 발의 힘도 강해\n킥도 무시할 수 없다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wutangriff",
                 "pt-br": "Ataque de Fúria",
                 "zh-tw": "狂怒攻擊",
-                ja: "みだれづき"
+                ja: "みだれづき",
+                ko: "마구찌르기"
             },
             damage: "10×",
             cost: ["Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 10 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。",
-                ja: "コインを3回投げ、オモテの数×10ダメージ。"
+                ja: "コインを3回投げ、オモテの数×10ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
             }
         }],
     weaknesses: [{

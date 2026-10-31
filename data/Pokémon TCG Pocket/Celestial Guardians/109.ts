@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/109",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/109"
     },
     name: {
         en: "Alolan Persian",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Snobilikat",
         'pt-br': "Persian de Alola",
         ja: "アローラペルシアン",
-        ko: "알로라페르시온",
+        ko: "알로라 페르시온",
         "zh-tw": "阿羅拉貓老大",
     },
     illustrator: "kirisAki",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
         ja: "アローラニャース",
+        ko: "알로라 나옹",
     },
     description: {
         en: "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",

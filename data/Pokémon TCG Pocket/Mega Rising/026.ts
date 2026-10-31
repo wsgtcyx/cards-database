@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/026"
     },
     name: {
         en: "Thwackey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Thwackey",
         "zh-tw": "啪咚猴",
         ja: "バチンキー",
+        ko: "채키몽",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Grookey",
         "zh-tw": "敲音猴",
         ja: "サルノリ",
+        ko: "흥나숭",
     },
     description: {
         en: "When it's drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won't even\nnotice that it's already knocked out its opponent.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es im Kampf schnelle Beats trommelt, ist es\nverfängt sich so sehr im Rhythmus, dass es gar nicht mehr funktioniert\nBeachten Sie, dass es seinen Gegner bereits KO geschlagen hat.",
         "pt-br": "Quando está tocando batidas rápidas na batalha,\nfica tão preso no ritmo que nem consegue\nobserve que ele já nocauteou seu oponente.",
         "zh-tw": "當它在戰鬥中敲出急促的節拍時，\n完全陷入節奏以至於無法\n請注意，它已經擊敗了對手。",
-        ja: "激しい ビートを 刻むことに 夢中になる あまり 戦いで 相手が 気絶しても 気づかない。"
+        ja: "激しい ビートを 刻むことに 夢中になる あまり 戦いで 相手が 気絶しても 気づかない。",
+        ko: "격렬한 비트를 내는데\n열중한 나머지 싸움에서\n상대가 기절해도 모른다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
                 "zh-tw": "錘入",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 50,
             cost: ["Grass", "Grass"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

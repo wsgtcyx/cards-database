@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/029"
     },
     name: {
         en: "Iron Boulder",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es wurde nach einem mysteriösen Objekt benannt, das in einem alten Buch aufgezeichnet ist. Sein Körper scheint metallisch zu sein.",
         "pt-br": "Recebeu o nome de um objeto misterioso registrado em um livro antigo. Seu corpo parece ser metálico.",
         "zh-tw": "它因一本古書上記載的神祕物體而得名。它的身體似乎是金屬的。",
-        ja: "金属質の ボディらしい。 名前は 古い 本に 記された 謎の 物体から つけられた。"
+        ja: "金属質の ボディらしい。 名前は 古い 本に 記された 謎の 物体から つけられた。",
+        ko: "몸은 금속질로 되어있다고 한다.\n이름은 오래된 책에 기록된\n정체불명의 물체에서 유래됐다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Modulare Axt",
                 "pt-br": "Machado Modular",
                 "zh-tw": "模組斧",
-                ja: "モジュールアックス"
+                ja: "モジュールアックス",
+                ko: "모듈액스"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 40 點。",
-                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。"
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。",
+                ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 40데미지를 추가한다."
             },
             damage: "80+"
         }

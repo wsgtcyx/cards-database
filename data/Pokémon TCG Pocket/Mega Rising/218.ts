@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/218",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/218",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/218"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/218",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/218"
     },
     name: {
         en: "Sitrus Berry",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fruta Sitrus",
         "zh-tw": "文柚果",
         ja: "オボンのみ",
+        ko: "자뭉열매",
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Wenn das Pokémon, an das diese Karte angelegt ist, am Ende jeder Runde noch die Hälfte seiner maximalen HP oder weniger übrig hat, heile es 30 Schadenspunkte. Wenn du dies tust, wirf diese Karte ab.",
         "pt-br": "No final de cada turno, se o Pokémon ao qual esta carta está ligada tiver metade do seu HP máximo ou menos restante, cure 30 pontos de dano dele. Se fizer isso, descarte esta carta.",
         "zh-tw": "每回合結束時，若這張卡所附著的寶可夢的剩餘生命值為最大生命值一半以下，則回复 30 點傷害。如果這樣做，則丟棄這張卡。",
-        ja: "おたがいの番の終わりに、このカードをつけているポケモンの残りHPが最大HPの半分以下なら、そのポケモンのHPを30回復。その後、このカードをトラッシュ。"
+        ja: "おたがいの番の終わりに、このカードをつけているポケモンの残りHPが最大HPの半分以下なら、そのポケモンのHPを30回復。その後、このカードをトラッシュ。",
+        ko: "서로의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬의 남은 HP가 최대 HP의 절반 이하라면 그 포켓몬의 HP를 30회복. 그 뒤, 이 카드를 트래쉬한다."
     },
-    trainerType: "Tool"
+    trainerType: "Tool",
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

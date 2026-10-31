@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/323",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/323",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/323",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/323"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/323",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/323"
     },
     name: {
         en: "Falinks",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "O líder, mais conhecido como comandante, usa seus chifres extensíveis para mandar ordens aos outros quando chega a hora de mudar de formação.",
         "zh-tw": "被稱為頭頭的隊長會用可伸縮的角做出變換陣形的指令。",
         ja: "伸縮する ツノで ヘイチョーと 呼ばれる リーダーが 陣形を 組み替える 指示を 出しているぞ。",
-        ko: "The leader, known as the brass, uses its\nextendible horn to issue orders to the others\nwhen it's time to change formation."
+        ko: "늘었다 줄었다 하는 뿔을 이용해\n리더가 진형을 바꾸는 지시를 내린다."
     },
     stage: "Basic",
     abilities: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "pt-br": "Unidade Coordenada",
                 "zh-tw": "團結一陣",
                 ja: "れんけいユニット",
-                ko: "Coordinated Unit"
+                ko: "연계 유닛"
             },
             effect: {
                 en: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.",
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Se você tiver outro Falinks em jogo, os ataques deste Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente, e este Pokémon receberá −20 pontos de dano de ataques dos Pokémon do seu oponente.",
                 "zh-tw": "若自己的場上有其他的「列陣兵」,則這隻寶可夢對對手的戰鬥寶可夢造成的招式傷害+20點,受到對手的寶可夢招式的傷害-20點。",
                 ja: "自分の場に別の「タイレーツ」がいるなら、このポケモンの、相手のバトルポケモンへのワザのダメージを+20し、相手のポケモンから受けるワザのダメージを-20する。",
-                ko: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+                ko: "자신의 필드에 다른 「대여르」가 있다면 이 포켓몬이 상대의 배틀 포켓몬에게 주는 기술의 데미지를 +20하고 상대의 포켓몬으로부터 받는 기술의 데미지를 -20한다."
             }
         }
     ],
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Invadir",
                 "zh-tw": "攻入",
                 ja: "せめこむ",
-                ko: "Invade"
+                ko: "공격해나가기"
             },
             damage: 20,
             cost: [

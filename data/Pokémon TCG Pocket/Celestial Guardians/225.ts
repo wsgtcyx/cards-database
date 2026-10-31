@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/225",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/225",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/225",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/225"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/225",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/225"
     },
     name: {
         en: "Machamp",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Machoke",
         "zh-tw": "豪力",
         ja: "ゴーリキー",
+        ko: "근육몬",
     },
     description: {
         en: "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",

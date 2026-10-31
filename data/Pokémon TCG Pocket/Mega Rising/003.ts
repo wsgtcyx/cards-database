@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/003"
     },
     name: {
         en: "Wurmple",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
         ja: "ケムッソ",
+        ko: "개무소",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Er lebt im hohen Gras und in Wäldern. Es stößt ab\nEr greift an, indem er die Stacheln an seinem Rücken anhebt.",
         "pt-br": "Vive entre a grama alta e nas florestas. Isso repele\nataca levantando os espinhos em sua parte traseira.",
         "zh-tw": "它生活在高高的草叢和森林中。它排斥\n通過抬起背部的尖刺進行攻擊。",
-        ja: "森や 草むらに 生息。 敵に 襲われた ときは お尻の 毒の トゲで 対抗する。"
+        ja: "森や 草むらに 生息。 敵に 襲われた ときは お尻の 毒の トゲで 対抗する。",
+        ko: "숲과 수풀에 서식한다.\n적에게 습격당했을 때는 엉덩이의\n독가시로 대항한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 20,
             cost: ["Grass"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

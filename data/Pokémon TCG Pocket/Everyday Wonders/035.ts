@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/035"
     },
     name: {
         en: "Flutter Mane",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat ähnliche Merkmale wie ein geisterhafter Flugsaurier, über den in einer paranormalen Zeitschrift berichtet wurde, aber die beiden haben sonst wenig gemeinsam.",
         "pt-br": "Tem características semelhantes a um pterossauro fantasmagórico que foi abordado em uma revista paranormal, mas os dois têm pouco em comum.",
         "zh-tw": "它與超自然雜誌中報導的幽靈翼龍具有相似的特徵，但兩者幾乎沒有其他共同點。",
-        ja: "オカルト雑誌で 取り上げられた 翼竜の 幽霊と 特徴だけは 似ているのだ。"
+        ja: "オカルト雑誌で 取り上げられた 翼竜の 幽霊と 特徴だけは 似ているのだ。",
+        ko: "오컬트 잡지에서 소개했던\n익룡의 유령과\n몇몇 특징이 닮았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verhexender Flug",
                 "pt-br": "Vôo Feitiço",
                 "zh-tw": "翔天厄禍",
-                ja: "かけりたたる"
+                ja: "かけりたたる",
+                ko: "비상하는재앙"
             },
             effect: {
                 en: "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon in diesem Zug nicht von der Bank an den aktiven Ort bewegt hat, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Se este Pokémon não tiver se movido do Banco para o Local Ativo neste turno, este ataque não fará nada.",
                 "zh-tw": "如果該寶可夢本回合沒有從替補席移動到活躍點，則這次攻擊無效。",
-                ja: "この番、このポケモンがベンチからバトル場に出ていないなら、このワザは失敗。"
+                ja: "この番、このポケモンがベンチからバトル場に出ていないなら、このワザは失敗。",
+                ko: "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나오지 않았다면 이 기술은 실패한다."
             },
             damage: 90
         }

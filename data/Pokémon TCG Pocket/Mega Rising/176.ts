@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/176",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/176",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/176",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/176"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/176",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/176"
     },
     name: {
         en: "Druddigon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Druddigon",
         "zh-tw": "赤面龍",
         ja: "クリムガン",
+        ko: "크리만",
     },
     illustrator: "hatachu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Druddigon sind bösartig und gerissen. Sie nehmen auf\nAufenthalt in von anderen Pokémon gegrabenen Nestern,\nSie behandeln die gestohlenen Nester wie ihre eigenen Verstecke.",
         "pt-br": "Druddigon são cruéis e astutos. Eles ocupam\nresidência em ninhos escavados por outros Pokémon,\ntratando os ninhos roubados como seus próprios covis.",
         "zh-tw": "德魯迪岡惡毒而狡猾。他們佔用\n居住在其他神奇寶貝挖出的巢穴中，\n把偷來的巢穴當作自己的巢穴。",
-        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。"
+        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。",
+        ko: "난폭하고 교활하다.\n다른 포켓몬이 파낸\n굴을 빼앗아 거처로 삼는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Giga-Klaue",
                 "pt-br": "Giga Garra",
                 "zh-tw": "千兆爪",
-                ja: "ギガクロー"
+                ja: "ギガクロー",
+                ko: "기가클로"
             },
             damage: 120,
             cost: ["Fire", "Water", "Colorless", "Colorless"],
@@ -59,9 +63,13 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Wenn beide Schwänze sind, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem coroa, este ataque não fará nada.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩者都是反面，則此攻擊不起作用。",
-                ja: "コインを2回投げ、すべてウラなら、このワザは失敗。"
+                ja: "コインを2回投げ、すべてウラなら、このワザは失敗。",
+                ko: "동전을 2번 던져서 모두 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

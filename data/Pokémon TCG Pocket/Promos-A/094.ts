@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/094"
     },
     name: {
         en: "Horsea",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Horsea",
         "zh-tw": "墨海馬",
         ja: "タッツー",
+        ko: "쏘드라",
     },
     illustrator: "Taira Akitsu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Horsea ist sanft in den Ozeanen zu Hause\nStrömungen. Wenn dieses Pokémon angegriffen wird, spuckt es\npechschwarze Tinte und Fluchten ausstoßen.",
         "pt-br": "Horsea faz seu lar nos oceanos com suaves\ncorrentes. Se este Pokémon estiver sob ataque, ele cospe\ntinta preta como breu e escapa.",
         "zh-tw": "Horsea 以溫和的方式在海洋中安家\n電流。如果這只神奇寶貝受到攻擊，它會吐口水\n流出漆黑的墨水並逃脫。",
-        ja: "潮の 流れが 穏やかな 海に 棲む。 襲われると 真っ黒な 墨を吐いて その隙に 逃げだす。"
+        ja: "潮の 流れが 穏やかな 海に 棲む。 襲われると 真っ黒な 墨を吐いて その隙に 逃げだす。",
+        ko: "잔잔하게 흐르는 고요한 바다에\n산다. 습격당하면 새까만\n먹물을 내뿜고 그 틈에 도망친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wasserpfeil",
                 "pt-br": "Flecha de Água",
                 "zh-tw": "水箭",
-                ja: "ウォーターアロー"
+                ja: "ウォーターアロー",
+                ko: "워터애로"
             },
             cost: ["Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。",
-                ja: "相手のポケモン1匹に10ダメージ。"
+                ja: "相手のポケモン1匹に10ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             }
         }],
     weaknesses: [{

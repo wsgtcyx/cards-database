@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/017"
     },
     name: {
         en: "Glaceon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Glaceon",
         "zh-tw": "冰伊布",
         ja: "グレイシア",
+        ko: "글레이시아",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     description: {
         en: "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es kann seine Körpertemperatur nach Belieben steuern.\nDadurch kann die Feuchtigkeit im Inneren gefrieren\nAtmosphäre, die Wirbel aus Diamantstaub erzeugt.",
         "pt-br": "Ele pode controlar a temperatura corporal à vontade.\nIsso permite congelar a umidade no\natmosfera, criando rajadas de pó de diamante.",
         "zh-tw": "它可以隨意控制自己的體溫。\n這使得它能夠凍結內部的水分\n大氣層，產生鑽石塵埃。",
-        ja: "体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。"
+        ja: "体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。",
+        ko: "체온을 자유자재로 컨트롤해\n대기의 수분을 얼려서\n다이아몬드더스트를 일으킨다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Eisklinge",
                 "pt-br": "Lâmina de Gelo",
                 "zh-tw": "冰刃",
-                ja: "こおりのやいば"
+                ja: "こおりのやいば",
+                ko: "얼음칼날"
             },
             cost: ["Water", "Water"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
-                ja: "相手のポケモン1匹に50ダメージ。"
+                ja: "相手のポケモン1匹に50ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 50데미지를 준다."
             }
         }],
     weaknesses: [{

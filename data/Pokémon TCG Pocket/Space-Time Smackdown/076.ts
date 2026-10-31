@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/076",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/076"
     },
     name: {
         en: "Mesprit",
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Du kannst diese Attacke nur einsetzen, wenn du Selfe und Tobutz auf deiner Bank hast. Lege alle Energien von diesem Pokémon ab.",
                 'pt-br': "Você só pode usar este ataque se tiver Uxie e Azelf no seu Banco. Descarte todas as Energias deste Pokémon.",
                 ja: "このワザは、自分のベンチに「ユクシー」「アグノム」がいるときにしか使えない。このポケモンからエネルギーをすべてトラッシュ。",
-                ko: "이 기술은 자신의 벤치에 「유크시」「아그놈」 있을 때만 사용할 수 있다. 이 포켓몬에서 에너지를 모두 트래쉬한다.",
+                ko: "이 기술은 자신의 벤치에 「유크시」「아그놈」이 있을 때만 사용할 수 있다. 이 포켓몬에서 에너지를 모두 트래쉬한다.",
                 "zh-tw": "僅當您的替補席上有 Uxie 和 Azelf 時，您才能使用此攻擊。丟棄該神奇寶貝的所有能量。"
             }
         }],

@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/348",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/348",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/348",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/348"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/348",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/348"
 	},
 	name: {
         en: "Lillie",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Lílian",
         "zh-tw": "莉莉艾",
         ja: "リーリエ",
+        ko: "릴리에",
     },
     illustrator: "hechima",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Heile 60 Schadenspunkte bei 1 deiner Stufe-2-Pokémon.",
         "pt-br": "Cure 60 de dano de 1 dos seus Pokémon do Estágio 2.",
         "zh-tw": "治療 1 只 2 階段神奇寶貝造成的 60 點傷害。",
-        ja: "自分の2進化ポケモン1匹のHPを60回復。"
+        ja: "自分の2進化ポケモン1匹のHPを60回復。",
+        ko: "자신의 2진화 포켓몬 1마리의 HP를 60회복."
     },
     trainerType: "Supporter"
 };

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/092",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/092"
     },
     name: {
         en: "Eevee ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Eevee ex",
         "zh-tw": "伊布ex",
         ja: "イーブイex",
+        ko: "이브이 ex",
     },
     illustrator: "kurumitsu",
     rarity: "Three Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Veevee 'volve",
                 "pt-br": "Veevee 'volve",
                 "zh-tw": "威威沃爾沃",
-                ja: "ブイブイしんか"
+                ja: "ブイブイしんか",
+                ko: "브이브이 진화"
             },
             effect: {
                 en: "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Dieses Pokémon kann sich zu jedem Pokémon entwickeln, das sich aus Evoli entwickelt, wenn du es von deiner Hand auf dieses Pokémon spielst. (Dieses Pokémon kann sich weder in deinem ersten Zug noch in dem Zug, in dem du es ausspielst, weiterentwickeln.)",
                 "pt-br": "Este Pokémon pode evoluir para qualquer Pokémon que evolua de Eevee se você jogá-lo da sua mão neste Pokémon. (Este Pokémon não pode evoluir durante o seu primeiro turno ou no turno em que você o joga.)",
                 "zh-tw": "如果你從手上將伊布玩到這只神奇寶貝上，這只神奇寶貝可以進化成任何從伊布進化而來的神奇寶貝。 （該神奇寶貝在你的第一個回合或你玩它的回合中無法進化。）",
-                ja: "このポケモンは、「イーブイ」から進化するカードを手札から出して、このポケモンにのせて進化できる。(最初の自分の番や、出したばかりの番には進化できない。)"
+                ja: "このポケモンは、「イーブイ」から進化するカードを手札から出して、このポケモンにのせて進化できる。(最初の自分の番や、出したばかりの番には進化できない。)",
+                ko: "이 포켓몬은 「이브이」에서 진화하는 카드를 패에서 꺼내서 이 포켓몬에게 올려서 진화할 수 있다. (자신의 첫 번째 차례나 필드에 처음 나왔을 때에는 진화시킬 수 없다.)"
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30,
             cost: ["Colorless"]

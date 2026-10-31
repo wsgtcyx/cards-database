@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/052"
     },
     name: {
         en: "Sprigatito",

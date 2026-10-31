@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/214",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/214",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/214",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/214"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/214",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/214"
     },
     name: {
         en: "Clefairy",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Piepi",
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
-        ja: "ピッピ"
+        ja: "ピッピ",
+        ko: "삐삐"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wird gesagt, dass diejenigen, die glücklich sind, glücklich werden\nSehen Sie eine Versammlung von Clefairy, die unter einem tanzt\nVollmond.",
         "pt-br": "Diz-se que a felicidade virá para aqueles que\nveja uma reunião de Clefairy dançando sob um\nlua cheia.",
         "zh-tw": "據說幸福會降臨到那些\n看到一群 Clefairy 在燈光下跳舞\n滿月。",
-        ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。"
+        ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。",
+        ko: "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlagen",
                 "pt-br": "Tapa",
                 "zh-tw": "拍擊",
-                ja: "ビンタ"
+                ja: "ビンタ",
+                ko: "뺨치기"
             },
             damage: 20,
             cost: ["Psychic"]

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/071"
     },
     name: {
         en: "Hatterene",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Hüten Sie sich vor Wäldern, in denen sich keine Lebewesen befinden. Möglicherweise sind Sie in das Revier von Silembrim geraten.",
         "pt-br": "Cuidado com as florestas que não mostram sinais de criaturas vivas. Você pode ter entrado no território de Hatterene.",
         "zh-tw": "小心那些沒有任何生物跡象的森林。您可能已經進入了 布莉姆溫 的領域。",
-        ja: "生き物の 気配が しない 森は 要注意。 ブリムオンの 縄張りに 入ったかも しれない。"
+        ja: "生き物の 気配が しない 森は 要注意。 ブリムオンの 縄張りに 入ったかも しれない。",
+        ko: "생명체의 기척이 느껴지지 않는 숲은\n주의해야 한다. 브리무음의 영역을\n침범한 것일 수도 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Mentaler Zermalmer",
                 "pt-br": "Esmagamento Mental",
                 "zh-tw": "心靈粉碎",
-                ja: "メンタルクラッシュ"
+                ja: "メンタルクラッシュ",
+                ko: "멘탈크래시"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Confused, this attack does 70 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners verwirrt ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 70 de dano a mais.",
                 "zh-tw": "如果對手的出戰寶可夢處於混亂狀態，則這次攻擊造成的傷害增加 70 點。",
-                ja: "相手のバトルポケモンがこんらんなら、70ダメージ追加。"
+                ja: "相手のバトルポケモンがこんらんなら、70ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 혼란이라면 70데미지를 추가한다."
             },
             damage: "70+"
         }

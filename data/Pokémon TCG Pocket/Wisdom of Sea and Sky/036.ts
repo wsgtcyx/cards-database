@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/036"
     },
     name: {
         en: "Darmanitan",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Darmanitan",
         "zh-tw": "達摩狒狒",
         ja: "ヒヒダルマ",
+        ko: "불비달마",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
         ja: "ダルマッカ",
+        ko: "달막화",
     },
     description: {
         en: "The thick arms of this hot-blooded Pokémon\ncan deliver punches capable of obliterating a\ndump truck.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die dicken Arme dieses heißblütigen Pokémon\nkann Schläge ausführen, die einen auslöschen können\nMuldenkipper.",
         "pt-br": "Os braços grossos deste Pokémon de sangue quente\npode desferir socos capazes de obliterar um\ncaminhão basculante.",
         "zh-tw": "熱血神奇寶貝的粗壯手臂\n可以打出能夠消滅敵人的拳頭\n自卸車。",
-        ja: "血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。"
+        ja: "血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。",
+        ko: "혈기왕성한 포켓몬.\n굵직한 팔에서 날리는 펀치는\n덤프트럭도 가루로 만들어버린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
                 "zh-tw": "熱風",
-                ja: "ヒートブラスト"
+                ja: "ヒートブラスト",
+                ko: "히트블라스트"
             },
             damage: 70,
             cost: ["Fire", "Colorless", "Colorless"]

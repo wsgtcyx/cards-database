@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/121",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/121"
     },
     name: {
         en: "Forretress",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Forretress",
         "zh-tw": "佛烈托斯",
         ja: "フォレトス",
+        ko: "쏘콘",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Pineco",
         "zh-tw": "榛果球",
         ja: "クヌギダマ",
+        ko: "피콘",
     },
     description: {
         en: "It remains immovably rooted to its tree. It scatters\npieces of its hard shell to drive its enemies away.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es bleibt unbeweglich mit seinem Baum verwurzelt. Es zerstreut\nTeile seiner harten Schale, um seine Feinde zu vertreiben.",
         "pt-br": "Permanece firmemente enraizado em sua árvore. Ele se espalha\npedaços de sua casca dura para afastar seus inimigos.",
         "zh-tw": "它仍然牢牢地紮根於樹上。它散開\n其堅硬的外殼碎片可以驅趕敵人。",
-        ja: "木に くっついたまま 動かない。 硬い殻の 破片を ばらまいて 近づくものを 追い払う。"
+        ja: "木に くっついたまま 動かない。 硬い殻の 破片を ばらまいて 近づくものを 追い払う。",
+        ko: "나무에 붙어 있는 채로 안 움직인다.\n단단한 껍질 파편을 흩뿌려서\n다가오는 자를 쫓아버린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Shell-Absturz",
                 "pt-br": "Quebra de concha",
                 "zh-tw": "外殼碰撞",
-                ja: "シェルクラッシュ"
+                ja: "シェルクラッシュ",
+                ko: "셸크래시"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]

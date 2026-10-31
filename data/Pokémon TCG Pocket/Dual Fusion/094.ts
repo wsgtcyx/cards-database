@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/094"
     },
     name: {
         en: "Ferrothorn",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
         ja: "テッシード",
-        ko: "Ferroseed"
+        ko: "철시드"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Martelada",
                 "zh-tw": "頭突",
                 ja: "ぶちかます",
-                ko: "Hammer In"
+                ko: "한방 먹이기"
             },
             cost: [
                 "Metal",
@@ -84,7 +85,7 @@ const card: Card = {
         "pt-br": "Este Pokémon roça os seus espinhos nas rochas, depois usa as pontas das suas antenas para absorver os nutrientes que encontra dentro das pedras.",
         "zh-tw": "用尖刺刺裂岩壁之後，牠會用觸手的尖端接觸裂縫吸收營養。",
         ja: "トゲで 岩盤に キズを つけると 触手の 先端を あてて 栄養を 吸収する。",
-        ko: "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone."
+        ko: "가시로 암반에 상처를 낸 다음\n촉수 끝을 이용해서\n영양분을 흡수한다."
     }
 };
 

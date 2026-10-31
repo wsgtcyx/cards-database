@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/172",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/172"
     },
     name: {
         en: "Fuecoco ex",
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
                 ja: "かみつく",
-                ko: "Bite"
+                ko: "물기"
             },
             cost: [
                 "Fire"
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Labareda Geniosa",
                 "zh-tw": "氣鼓鼓火焰",
                 ja: "げきおこファイヤー",
-                ko: "Feisty Flames"
+                ko: "분통파이어"
             },
             cost: [
                 "Colorless",
@@ -87,7 +88,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢有受到傷害,則增加70點傷害。",
                 ja: "このポケモンがダメージを受けているなら、70ダメージ追加。",
-                ko: "If this Pokémon has damage on it, this attack does 70 more damage."
+                ko: "이 포켓몬이 데미지를 받고 있다면 70데미지를 추가한다."
             }
         }
     ],

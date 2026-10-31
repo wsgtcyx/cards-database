@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/087",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/087"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/087",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/087"
     },
     name: {
         en: "Team Rocket's Boss",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Schau dir die Hand deines Gegners an und lege beliebig viele Basis-Pokémon, die du dort findest, auf die Bank deines Gegners.",
         "pt-br": "Olhe a mão do seu oponente e coloque qualquer número de Pokémon Básicos que encontrar lá no Banco dele.",
         "zh-tw": "查看對手所有手牌的正面,從其中選擇任意數量的基礎寶可夢,放置於對手的備戰區。",
-        ja: "相手の手札のオモテをすべて見て、その中からたねポケモンを好きなだけ選び、相手のベンチに出す。"
+        ja: "相手の手札のオモテをすべて見て、その中からたねポケモンを好きなだけ選び、相手のベンチに出す。",
+        ko: "상대의 패의 앞면을 모두 보고 그 중에서 기본 포켓몬을 원하는 만큼 선택해서 상대의 벤치로 내보낸다."
     },
     trainerType: "Supporter"
 };

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/028"
     },
     name: {
         en: "Helioptile",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Eguana",
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
-        ja: "エリキテル"
+        ja: "エリキテル",
+        ko: "목도리키텔"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Sonne treibt die Elektrizität dieses Pokémon an\nGeneration. Unterbrechung dieses Prozesses\nbetont Helioptile bis zur Schwäche.",
         "pt-br": "O sol alimenta a eletricidade deste Pokémon\ngeração. Interrupção desse processo\nestressa Helioptile ao ponto da fraqueza.",
         "zh-tw": "太陽為這個神奇寶貝提供電力\n一代。中斷該過程\nHelioptile 的壓力已經到了虛弱的程度。",
-        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。"
+        ja: "太陽発電の 仕組みを もつ。 発電を じゃま されると ストレスで 弱ってしまう。",
+        ko: "태양광 발전 구조를 가졌다.\n발전을 방해하면\n스트레스를 받아서 약해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Donnerschock",
                 "pt-br": "Choque do trovão",
                 "zh-tw": "電擊",
-                ja: "でんきショック"
+                ja: "でんきショック",
+                ko: "전기쇼크"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{

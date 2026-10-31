@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/077",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/077"
     },
     name: {
         en: "Drednaw",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Drednaw",
         "zh-tw": "暴噬龜",
         ja: "カジリガメ",
+        ko: "갈가부기",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
         ja: "カムカメ",
+        ko: "깨물부기",
     },
     description: {
         en: "Drednaw lurks along the shoreline. When prey\ncome to drink water, Drednaw stretches its neck\nout and chomps down on them.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Drednaw lauert an der Küste. Wenn Beute\nDrednaw kommt, um Wasser zu trinken, und streckt seinen Hals\nraus und kaut auf ihnen herum.",
         "pt-br": "Drednaw espreita ao longo da costa. Quando presa\nvem beber água, Drednaw estica o pescoço\ne os mastiga.",
         "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。",
-        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。"
+        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。",
+        ko: "물가에 숨어 있다가\n먹잇감이 물을 마시러 오면\n목을 길게 늘여서 덥석 물어 버린다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kiefersperre",
                 "pt-br": "Bloqueio de mandíbula",
                 "zh-tw": "顎鎖",
-                ja: "くらいつく"
+                ja: "くらいつく",
+                ko: "물고버티기"
             },
             damage: 70,
             cost: ["Water", "Water", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

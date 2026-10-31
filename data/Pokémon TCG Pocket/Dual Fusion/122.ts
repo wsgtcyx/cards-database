@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/122"
     },
     name: {
         en: "Full Heal",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Il tuo Pokémon attivo guarisce da tutte le condizioni speciali.",
         de: "Dein Aktives Pokémon erholt sich von allen Speziellen Zuständen.",
         ja: "自分のバトルポケモンの特殊状態を、すべて回復。",
-        ko: "Your Active Pokémon recovers from all Special Conditions."
+        ko: "자신의 배틀 포켓몬의 특수 상태를 모두 회복."
     }
 };
 

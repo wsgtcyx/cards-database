@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/195",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/195"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/195",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/195"
     },
     name: {
         en: "Abra",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Feixe",
                 "zh-tw": "光束",
                 ja: "ビーム",
-                ko: "Beam"
+                ko: "빔"
             },
             cost: [
                 "Psychic"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Usa seus poderes psíquicos enquanto dorme. O conteúdo dos sonhos de Abra afeta os poderes que este Pokémon possui.",
         "zh-tw": "會一邊睡覺一邊操縱超能力。夢的內容會影響牠使用的能力。",
         ja: "寝ながら 超能力を 操る。 夢の 内容が 使う 力に 影響する。",
-        ko: "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields."
+        ko: "자면서 초능력을 구사한다.\n꿈의 내용이\n사용하는 힘에 영향을 준다."
     }
 };
 

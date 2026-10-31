@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/059",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/059",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/059"
     },
     name: {
         en: "Thundurus",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen\nimmer wieder Blitze erzeugt, die Waldbrände verursachen.",
         "pt-br": "Quando voa por aí, Thundurus dispara raios para todos os lados e incendeia florestas. Por isso, ninguém gosta dele.",
         "zh-tw": "一邊在空中飛來飛去，\n一邊四處打雷引發森林大火，\n因此受到厭惡。",
-        ja: "大空を 飛び回りながら あちこちに 雷を 落として 山火事を 起こすので 嫌われる。"
+        ja: "大空を 飛び回りながら あちこちに 雷を 落として 山火事を 起こすので 嫌われる。",
+        ko: "넓은 하늘을 날아다니며\n여기저기 번개를 떨어뜨려\n산불을 내기 때문에 미움받는다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "災難伏特",
                 "it": "Elettrodisastro",
                 "de": "Stromschwall",
-                ja: "ディザスターボルト"
+                ja: "ディザスターボルト",
+                ko: "디재스터 볼트"
             },
             effect: {
                 en: "Discard a {L} Energy from this Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Lege eine Lightning-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {L} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{L}能量丟棄。",
-                ja: "このポケモンから{L}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {L}에너지를 1개 트래쉬한다."
             },
             damage: 100
         }

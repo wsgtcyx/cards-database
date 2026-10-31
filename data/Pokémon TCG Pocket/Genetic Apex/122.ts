@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/122"
     },
     name: {
         en: "Gengar",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
-        ja: "ゴースト"
+        ja: "ゴースト",
+        ko: "고우스트"
     },
     attacks: [{
             cost: ["Psychic"],

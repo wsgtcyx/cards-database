@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/074"
     },
     name: {
         en: "Tinkaton",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tinkaton",
         "zh-tw": "巨鍛匠",
         ja: "デカヌチャン",
+        ko: "두드리짱",
         pt: "Tinkaton"
     },
     illustrator: "KEIICHIRO ITO",
@@ -48,7 +50,8 @@ const card: Card = {
         "de": "Der Hammer wiegt mehr als 220 Pfund, lässt sich aber leicht von Granforgita hin und her schwingen, indem er alles stiehlt, was er will, und die Beute nach Hause trägt.",
         "pt-br": "O martelo chega a pesar 220 libras, mas é facilmente usado por Tinkaton enquanto rouba tudo o que deseja e leva seu saque de volta para casa.",
         "zh-tw": "這把錘子重達 220 磅，但它很容易被 巨鍛匠 揮舞，因為它可以偷走任何牠喜歡的東西，並將其戰利品帶回家。",
-        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。"
+        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。",
+        ko: "100kg이 넘는 해머를 가볍게 휘둘러서\n원하는 것을 빼앗은 다음\n거처로 가지고 간다."
     },
     stage: "Stage2",
     attacks: [
@@ -62,6 +65,7 @@ const card: Card = {
                 "pt-br": "Martelo Gigaton",
                 "zh-tw": "十億噸錘",
                 ja: "デカハンマー",
+                ko: "거대해머",
                 'es-mx': "Martillo Colosal",
                 pt: "Martelo Colossal"
             },
@@ -76,6 +80,7 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Martelo Gigaton.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢無法使用十億噸錘。",
                 ja: "次の自分の番、このポケモンは「デカハンマー」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「거대해머」를 사용할 수 없다.",
                 'es-mx': "Durante tu próximo turno, este Pokémon no puede usar Martillo Colosal.",
                 pt: "Durante o seu próximo turno, este Pokémon não poderá usar Martelo Colossal."
             },

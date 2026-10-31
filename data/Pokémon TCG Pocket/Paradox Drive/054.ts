@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/054"
     },
     name: {
         en: "Gouging Fire",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ähnelt einem unheimlichen Pokémon, das einmal in einer paranormalen Zeitschrift gezeigt wurde. Bei diesem Pokémon soll es sich um ein aus einem Fossil regeneriertes Entei gehandelt haben.",
         "pt-br": "Assemelha-se a um Pokémon misterioso que já foi mostrado em uma revista paranormal. Dizia-se que esse Pokémon era um Entei regenerado de um fóssil.",
         "zh-tw": "它類似於超自然雜誌中曾經出現過的怪異寶可夢。據說那隻寶可夢是由化石再生的炎帝。",
-        ja: "化石から 復元された エンテイ と オカルト雑誌が 掲載した 怪しい ポケモンに 似ている。"
+        ja: "化石から 復元された エンテイ と オカルト雑誌が 掲載した 怪しい ポケモンに 似ている。",
+        ko: "화석에서 복원된 앤테이라며\n오컬트 잡지에 게재됐던\n수상한 포켓몬을 닮았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sengende Unterbrechung",
                 "pt-br": "Interrupção Escaldante",
                 "zh-tw": "炙火遮天",
-                ja: "あぶりさえぎる"
+                ja: "あぶりさえぎる",
+                ko: "태워차단하기"
             },
             effect: {
                 en: "Discard 2 Energy from this Pokémon. During your opponent's next turn, this Pokémon takes -30 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Lege 2 Energien von diesem Pokémon ab. Während des nächsten Zuges deines Gegners erleidet dieses Pokémon -30 Schaden durch Angriffe.",
                 "pt-br": "Descarte 2 Energias deste Pokémon. Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
                 "zh-tw": "丟棄該寶可夢的 2 點能量。在對手的下一個回合中，這隻寶可夢受到的攻擊傷害為-30。",
-                ja: "このポケモンからエネルギーを2個選び、トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-30する。"
+                ja: "このポケモンからエネルギーを2個選び、トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-30する。",
+                ko: "이 포켓몬에서 에너지를 2개 선택해서 트래쉬한다. 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다."
             },
             damage: 100
         }

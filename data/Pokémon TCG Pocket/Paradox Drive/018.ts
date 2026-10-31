@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/018"
     },
     name: {
         en: "Iron Thorns",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Einige seiner bemerkenswerten Merkmale stimmen mit denen eines Objekts überein, das in einem bestimmten Expeditionstagebuch als Eisendorn bezeichnet wird.",
         "pt-br": "Algumas de suas características notáveis ​​correspondem às de um objeto nomeado em um determinado diário de expedição como Espinhos Férreos.",
         "zh-tw": "它的一些顯著特徵與某個探險日誌中命名為 鐵荊棘 的物體的特徵相符。",
-        ja: "ある 探検記で テツノイバラと 紹介されている 物体と 一致する 特徴が ある。"
+        ja: "ある 探検記で テツノイバラと 紹介されている 物体と 一致する 特徴が ある。",
+        ko: "어느 탐험기에서\n\"무쇠가시\"라고 소개했던 물체와\n일치하는 특징이 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Binärer Donner",
                 "pt-br": "Trovão Binário",
                 "zh-tw": "雙雷電",
-                ja: "バイナリサンダー"
+                ja: "バイナリサンダー",
+                ko: "바이너리썬더"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンが「ポケモンex」なら、40ダメージ追加。"
+                ja: "相手のバトルポケモンが「ポケモンex」なら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 40데미지를 추가한다."
             },
             damage: "40+"
         }

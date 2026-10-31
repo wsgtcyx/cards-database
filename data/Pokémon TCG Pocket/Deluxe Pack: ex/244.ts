@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/244",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/244",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/244",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/244"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/244",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/244"
 	},
 	name: {
 		en: "Weavile ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Snibunna-ex",
 		"pt-br": "Weavile ex",
 		"zh-tw": "瑪狃拉ex",
-		ja: "マニューラex"
+		ja: "マニューラex",
+		ko: "포푸니라 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Sniebel",
 		"pt-br": "Sneasel",
 		"zh-tw": "狃拉",
-		ja: "ニューラ"
+		ja: "ニューラ",
+		ko: "포푸니"
 	},
 	stage: "Stage1",
 	suffix: "EX",

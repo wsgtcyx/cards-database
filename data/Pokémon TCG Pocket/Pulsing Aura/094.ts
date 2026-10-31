@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/094",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/094"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/094",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/094"
     },
     name: {
         en: "Coalossal",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Um seine Gegner einzuschüchtern, schüttelt Montecarbo kräftig seinen Körper und verstreut dabei Kohle von seinem glimmenden Rücken.",
         "pt-br": "Para intimidar seus oponentes, Coalossal sacudirá vigorosamente seu corpo, espalhando carvão de suas costas fumegantes.",
         "zh-tw": "為了恐嚇對手，巨炭山會劇烈晃動身體，將悶燒的背部散落煤炭。",
-        ja: "体を 大きく 振り動かし 燃え上がる 背中から 石炭を あたりに ばら撒いて 威嚇する。"
+        ja: "体を 大きく 振り動かし 燃え上がる 背中から 石炭を あたりに ばら撒いて 威嚇する。",
+        ko: "몸을 크게 휘둘러서\n타오르는 등에 있는 석탄을\n주위에 흩뿌리며 위협한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Bergbruch",
                 "pt-br": "Pulverização Montanhosa",
                 "zh-tw": "山岳粉碎",
-                ja: "マウンテンクラッシュ"
+                ja: "マウンテンクラッシュ",
+                ko: "마운틴크래시"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jede „Kopf“-Karte die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。對於每個正面，丟棄對手牌組頂牌。",
-                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手の山札を上からトラッシュ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手の山札を上からトラッシュ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 덱을 위에서부터 트래쉬한다."
             },
             damage: 90
         }

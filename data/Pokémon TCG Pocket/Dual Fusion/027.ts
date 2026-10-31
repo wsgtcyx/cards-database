@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/027"
     },
     name: {
         en: "Armarouge",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
         ja: "カルボウ",
-        ko: "Charcadet"
+        ko: "카르본"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Poder Ilimitado",
                 "zh-tw": "潛力",
                 ja: "そこぢから",
-                ko: "Boundless Power"
+                ko: "저력"
             },
             cost: [
                 "Fire",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
                 ja: "次の自分の番、このポケモンはワザが使えない。",
-                ko: "During your next turn, this Pokémon can't attack."
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Armarouge evoluiu ao usar um conjunto de armadura que pertencia a um guerreiro renomado. Este Pokémon é bastante leal.",
         "zh-tw": "藉由立下眾多戰績的戰士所穿的鎧甲進化成的樣子。是忠心耿耿的寶可夢。",
         ja: "多くの 武勲を 立てた 戦士の 鎧によって 進化した 姿。 忠誠心の 厚い ポケモン。",
-        ko: "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal."
+        ko: "많은 무공을 세운 전사의\n갑옷에 의해 진화한 모습.\n충성심이 강한 포켓몬이다."
     }
 };
 

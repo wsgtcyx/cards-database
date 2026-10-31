@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/037",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/037",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/037"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/037",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/037"
     },
     name: {
         en: "Floette",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Flabébé",
         "zh-tw": "花蓓蓓",
         ja: "フラベベ",
+        ko: "플라베베",
     },
     description: {
         en: "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",

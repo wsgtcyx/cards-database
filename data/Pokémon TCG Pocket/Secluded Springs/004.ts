@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/004"
     },
     name: {
         en: "Sunkern",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
         ja: "ヒマナッツ",
+        ko: "해너츠",
     },
     illustrator: "Toshinao Aoki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es fällt morgens plötzlich vom Himmel.\nDa es weiß, dass es schwach ist, ernährt es sich einfach, bis es sich entwickelt.",
         "pt-br": "De repente, cai do céu pela manhã.\nSabendo que está fraco, simplesmente se alimenta até evoluir.",
         "zh-tw": "早上它突然從天上掉下來。\n它知道自己很弱，只是簡單地進食，直到進化為止。",
-        ja: "ある朝 突然 降ってくる。 弱いのを 知っており 進化まで ひたすら 栄養を ためこむ。"
+        ja: "ある朝 突然 降ってくる。 弱いのを 知っており 進化まで ひたすら 栄養を ためこむ。",
+        ko: "어느 날 아침 갑자기 떨어진다.\n약한 것을 알고 있어 진화까지\n한결같이 영양을 모은다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 10,
             cost: ["Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/073",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/073"
     },
     name: {
         en: "Xerneas",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Xerneas",
         "pt-br": "Xerneas",
         "zh-tw": "哲爾尼亞斯",
-        ja: "ゼルネアス"
+        ja: "ゼルネアス",
+        ko: "제르네아스"
     },
     illustrator: "mashu",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn die Hörner auf seinem Kopf leuchten\nin sieben Farben soll es sein\newiges Leben teilen.",
         "pt-br": "Quando os chifres em sua cabeça brilham\nem sete cores, diz-se que é\ncompartilhando a vida eterna.",
         "zh-tw": "當它頭上的角閃閃發光時\n據說有七種顏色\n分享永生。",
-        ja: "頭の ツノが 七色に 輝くとき 永遠の 命を 分け与えると 言われている。"
+        ja: "頭の ツノが 七色に 輝くとき 永遠の 命を 分け与えると 言われている。",
+        ko: "머리의 뿔이 일곱 빛깔로\n빛날 때 영원한 생명을\n나눠준다고 전해진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Geoburst",
                 "pt-br": "Explosão geográfica",
                 "zh-tw": "地裂",
-                ja: "ジオバースト"
+                ja: "ジオバースト",
+                ko: "지오버스트"
             },
             damage: "120-",
             cost: ["Psychic", "Psychic", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Der Schaden dieses Angriffs wird um die Schadensmenge verringert, die dieses Pokémon verursacht.",
                 "pt-br": "O dano deste ataque é reduzido pela quantidade de dano que este Pokémon causa nele.",
                 "zh-tw": "這次攻擊的傷害會根據該神奇寶貝對其造成的傷害而減少。",
-                ja: "このポケモンが受けているダメージぶん、このワザのダメージを小さくする。"
+                ja: "このポケモンが受けているダメージぶん、このワザのダメージを小さくする。",
+                ko: "이 포켓몬이 받고 있는 데미지만큼 이 기술의 데미지를 작게 한다."
             }
         }],
     weaknesses: [{

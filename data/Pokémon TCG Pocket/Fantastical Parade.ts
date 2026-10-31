@@ -32,13 +32,25 @@ const set: Set = {
 				it: 'Booster',
 				'pt-br': 'Booster',
 				ja: "夢幻パレード",
-				ko: 'Booster',
+				ko: "몽환 퍼레이드",
 				'zh-tw': 'Booster'
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2/boosters/booster/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2/boosters/booster/logo.webp"
 			}
 		}
 	},
 
-	releaseDate: "2025-01-29"
+	releaseDate: "2025-01-29",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2/logo"
+	}
 }
 
 export default set

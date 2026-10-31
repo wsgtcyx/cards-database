@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/101",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/101"
     },
     name: {
         en: "Sableye",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sableye",
         "zh-tw": "勾魂眼",
         ja: "ヤミラミ",
+        ko: "깜까미",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Materialien aus Edelsteinen, die es gefressen hat, schweben dorthin\nOberfläche seines Körpers und kann ein Unendliches bilden\nAnzahl der Muster zwischen Individuen.",
         "pt-br": "Os materiais das gemas que ele comeu flutuam para o\nsuperfície de seu corpo e pode formar um infinito\nnúmero de padrões entre os indivíduos.",
         "zh-tw": "牠吃掉的寶石材料會漂浮到\n它的身體表面可以形成無限大的\n個體之間的模式數量。",
-        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。"
+        ja: "身体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。",
+        ko: "신체의 표면에\n먹은 보석의 성분이 떠오른다.\n그 패턴은 무한대다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schmutziger Wurf",
                 "pt-br": "Arremesso Sujo",
                 "zh-tw": "髒亂投擲",
-                ja: "ダーティスロー"
+                ja: "ダーティスロー",
+                ko: "더티스로우"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
                 "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
-                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。",
+                ko: "자신의 패를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

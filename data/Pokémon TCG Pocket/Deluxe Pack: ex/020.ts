@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/020",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/020",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/020",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/020"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/020",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/020"
 	},
 	name: {
 		en: "Yanma",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Yanma",
 		"pt-br": "Yanma",
 		"zh-tw": "蜻蜻蜓",
-		ja: "ヤンヤンマ"
+		ja: "ヤンヤンマ",
+		ko: "왕자리"
 	},
 	illustrator: "Eri Yamaki",
 	rarity: "One Diamond",

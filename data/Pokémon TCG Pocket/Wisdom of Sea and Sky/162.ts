@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/162",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/162",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/162"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/162",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/162"
     },
     name: {
         en: "Chikorita",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Chikorita",
         "zh-tw": "菊草葉",
         ja: "チコリータ",
+        ko: "치코리타",
     },
     illustrator: "Keisin",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein süßer Duft weht sanft aus dem Blatt\nKopf. Er ist fügsam und liebt es, Sonnenstrahlen aufzusaugen.",
         "pt-br": "Um aroma doce emana suavemente da folha em seu\ncabeça. É dócil e adora absorver os raios solares.",
         "zh-tw": "一股甜甜的香氣從它的葉子上輕輕地飄來\n頭。它性格溫順，喜歡吸收陽光。",
-        ja: "頭の葉っぱから ほのかに 甘い 香りが 漂う。 おとなしくて 日差しを 浴びるのが 大好き。"
+        ja: "頭の葉っぱから ほのかに 甘い 香りが 漂う。 おとなしくて 日差しを 浴びるのが 大好き。",
+        ko: "머리의 잎사귀에서 살짝 달콤한\n향기가 감돈다. 얌전하며\n햇볕을 쬐는 것을 매우 좋아한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 20,
             cost: ["Grass"]

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/126",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/126"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/126",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/126"
     },
     name: {
         en: "Entei ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Entei ex",
         "zh-tw": "炎帝ex",
         ja: "エンテイex",
+        ko: "앤테이 ex",
         'es-mx': "Entei",
         pt: "Entei ex"
     },
@@ -42,7 +44,8 @@ const card: Card = {
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
                 "zh-tw": "傳奇脈搏",
-                ja: "でんせつのこどう"
+                ja: "でんせつのこどう",
+                ko: "전설의고동"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -52,7 +55,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
                 "zh-tw": "在你的回合結束時，如果這隻寶可夢位於戰鬥場，抽一張卡。",
-                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+                ko: "자신의 차례의 마지막에 이 포켓몬이 배틀필드에 있다면 자신의 덱을 1장 뽑는다."
             }
         }],
     attacks: [{
@@ -64,7 +68,8 @@ const card: Card = {
                 "de": "Flammender Beatdown",
                 "pt-br": "Beatdown ardente",
                 "zh-tw": "熾熱的擊敗",
-                ja: "ブレイズビート"
+                ja: "ブレイズビート",
+                ko: "블레이즈비트"
             },
             damage: "60+",
             cost: ["Fire", "Fire"],
@@ -76,7 +81,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon mindestens 2 zusätzliche {R}-Energien angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 2 energias {R} extras anexadas, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果這隻寶可夢附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。",
-                ja: "追加で{R}エネルギーが2個ついているなら、60ダメージ追加。"
+                ja: "追加で{R}エネルギーが2個ついているなら、60ダメージ追加。",
+                ko: "{R}에너지 2개가 추가로 붙어 있다면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

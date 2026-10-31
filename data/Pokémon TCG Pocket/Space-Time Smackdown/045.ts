@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/045"
     },
     name: {
         en: "Abomasnow",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Snover",
         "zh-tw": "雪笠怪",
         ja: "ユキカブリ",
+        ko: "눈쓰개",
     },
     description: {
         en: "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/189"
     },
     name: {
         en: "Lillipup",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Este Pokémon é muito mais esperto do que uma criança comum. Lillipup não vai esquecer o amor que recebe, nem qualquer abuso que sofra.",
         "zh-tw": "比一般的小孩子都還要聰明。對於自己得到的關愛，或是受到的傷害牠都不會忘記。",
         ja: "並みの 子ども よりも ずっと 利口。 受けた 愛情も された 仕打ちも 忘れないのだ。",
-        ko: "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers."
+        ko: "또래의 아이보다 훨씬\n영리하다. 사랑받은 것도\n혼난 것도 잊지 않는다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Pilha de Filhotes",
                 "zh-tw": "小狗滿地跑",
                 ja: "こいぬまみれ",
-                ko: "Puppy Pile"
+                ko: "강아지투성이"
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Pilha de Filhotes, e este ataque causa 20 pontos de dano para cada Pokémon que você revelou dessa forma.",
                 "zh-tw": "在給對手看過自己的場上與手牌所有持有「小狗滿地跑」招式的寶可夢後,造成給對手看過的寶可夢的數量×20點傷害。",
                 ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。",
-                ko: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+                ko: "자신의 필드와 패에 있는 기술 「강아지투성이」를 가진 포켓몬을 모두 상대에게 보여주고 보여준 포켓몬의 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

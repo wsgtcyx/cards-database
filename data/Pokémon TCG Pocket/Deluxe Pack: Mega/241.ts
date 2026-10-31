@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/241",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/241",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/241",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/241"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/241",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/241"
     },
     name: {
         en: "Butterfree",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Metapod",
         "zh-tw": "鐵甲蛹",
         ja: "トランセル",
-        ko: "Metapod"
+        ko: "단데기"
     },
     stage: "Stage2",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Coleta mel todos os dias. Para transportá-lo até o seu ninho, esfrega mel no pelo de suas pernas.",
         "zh-tw": "每天都忙著採集花蜜。習慣在腿部的細毛上塗滿花蜜，然後帶回巢穴裡。",
         ja: "毎日 ミツを 集めまわる。 脚の 産毛に ミツを 塗りこんで 巣に 持ち帰る 習性をもつ。",
-        ko: "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
+        ko: "매일 꿀을 모으러 다닌다.\n다리의 솜털에 꿀을 발라\n둥지로 가지고 가는 습성이 있다."
     },
     attacks: [
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Vento Ensolarado",
                 "zh-tw": "太陽之風",
                 ja: "おひさまウインド",
-                ko: "Sunny Wind"
+                ko: "해님윈드"
             },
             effect: {
                 en: "Heal 20 damage from this Pokémon.",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Cure 20 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復20HP。",
                 ja: "このポケモンのHPを20回復。",
-                ko: "Heal 20 damage from this Pokémon."
+                ko: "이 포켓몬의 HP를 20회복."
             },
             damage: 60
         }

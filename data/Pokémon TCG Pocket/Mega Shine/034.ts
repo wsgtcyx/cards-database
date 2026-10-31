@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/034"
     },
     name: {
         en: "Dugtrio",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Im Kampf gräbt es sich ein und attackiert den\nGegner aus einer unvorhersehbaren Richtung.",
         "pt-br": "Na batalha, ele escava o solo e ataca o inimigo desavisado de uma direção inesperada.",
         "zh-tw": "在戰鬥中，它會挖掘地面並從意想不到的方向攻擊毫無戒心的敵人。",
-        ja: "地中を 掘りすすんで 相手が 油断しているところを 別の 場所から 攻撃する。"
+        ja: "地中を 掘りすすんで 相手が 油断しているところを 別の 場所から 攻撃する。",
+        ko: "땅속을 파고들어 가\n상대가 방심하고 있을 때\n다른 곳에서 공격한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schlammbombe",
                 "pt-br": "Bomba de Lama",
                 "zh-tw": "泥巴炸彈",
-                ja: "どろばくだん"
+                ja: "どろばくだん",
+                ko: "진흙폭탄"
             },
             damage: 60
         }

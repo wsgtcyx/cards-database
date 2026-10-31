@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/170",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/170",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/170"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/170",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/170"
     },
     name: {
         en: "Honedge",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
         ja: "ヒトツキ",
+        ko: "단칼빙",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Das blaue Auge am Handschutz des Schwertes ist das\nwahrer Körper von Honedge. Mit seinem alten Stoff, es\nraubt den Menschen das Leben.",
         "pt-br": "O olho azul no protetor de mão da espada é o\nverdadeiro corpo de Honedge. Com seu pano velho,\ndrena a vida das pessoas.",
         "zh-tw": "劍護手上的藍色眼睛是\n洪內奇的真身。用它的舊佈，\n耗盡人們的生命。",
-        ja: "剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。"
+        ja: "剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。",
+        ko: "검의 가드 부분에 있는 푸른 눈동자가\n단칼빙의 본체다. 낡은 천으로\n사람의 생기를 빨아들인다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Pierce",
                 "pt-br": "Perfurar",
                 "zh-tw": "刺穿",
-                ja: "つきさす"
+                ja: "つきさす",
+                ko: "궤찌르기"
             },
             damage: 20,
             cost: ["Metal"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

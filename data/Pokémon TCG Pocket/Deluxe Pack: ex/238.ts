@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/238",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/238",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/238",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/238"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/238",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/238"
     },
     name: {
         en: "Paldean Clodsire ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Clodsire de Paldea ex",
         "zh-tw": "帕底亞土王ex",
         ja: "パルデアドオーex",
+        ko: "팔데아 토오 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
         ja: "パルデアウパー",
+        ko: "팔데아 우파",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Venoshock",
                 "pt-br": "Venoshock",
                 "zh-tw": "靜脈休克",
-                ja: "ベノムショック"
+                ja: "ベノムショック",
+                ko: "베놈쇼크"
             },
             damage: "60+",
             cost: ["Darkness", "Darkness"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Envenenado, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンがどくなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンがどくなら、60ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 독이라면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/051"
     },
     name: {
         en: "Espathra",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Espathra",
         "zh-tw": "超能豔鴕",
         ja: "クエスパトラ",
+        ko: "클레스퍼트라",
         pt: "Espathra"
     },
     illustrator: "Sanosuke Sakuma",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Flittle",
         "zh-tw": "飄飄雛",
         ja: "ヒラヒナ",
+        ko: "하느라기",
         pt: "Flittle"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Es strahlt psychische Kraft aus den Lücken zwischen seinen bunten Rüschen aus und sprintet mit Geschwindigkeiten von mehr als 120 Meilen pro Stunde.",
         "pt-br": "Ele emite poder psíquico pelas lacunas entre seus babados multicoloridos e corre a velocidades superiores a 190 km/h.",
         "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。",
-        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。"
+        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。",
+        ko: "형형색색의 프릴 사이사이로\n사이코 파워를 방출하며\n시속 200km로 질주한다."
     },
     stage: "Stage1",
     attacks: [

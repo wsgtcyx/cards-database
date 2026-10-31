@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/285",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/285",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/285",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/285"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/285",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/285"
     },
     name: {
         en: "Mega Gyarados ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mega Gyarados ex",
         "zh-tw": "超級暴鯉龍ex",
         ja: "メガギャラドスex",
+        ko: "메가갸라도스 ex",
     },
     illustrator: "danciao",
     rarity: "Three Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     description: {
         en: "Mega Evolution also affects its brain, leaving\nno other function except its destructive instinct\nto burn everything to cinders.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mega Evolution beeinflusst auch sein Gehirn und verlässt es\nkeine andere Funktion außer seinem Zerstörungsinstinkt\nalles zu Asche verbrennen.",
         "pt-br": "A Mega Evolução também afeta seu cérebro, deixando\nnenhuma outra função exceto seu instinto destrutivo\nqueimar tudo em cinzas.",
         "zh-tw": "超級進化也會影響它的大腦，留下\n除了破壞本能之外沒有其他功能\n把一切都燒成灰燼。",
-        ja: "メガシンカが 脳にも 作用。 すべてを 焼き尽す 破壊の 本能しか 残っていない。"
+        ja: "メガシンカが 脳にも 作用。 すべてを 焼き尽す 破壊の 本能しか 残っていない。",
+        ko: "메가진화가 뇌에도 작용했다.\n모든 것을 불태우는 파괴의\n본능밖에 남아있지 않다."
     },
     stage: "Stage1",
     suffix: "EX",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Mega-Blaster",
                 "pt-br": "Mega Blaster",
                 "zh-tw": "超級衝擊波",
-                ja: "メガブラスター"
+                ja: "メガブラスター",
+                ko: "메가블래스터"
             },
             damage: 140,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -70,13 +75,17 @@ const card: Card = {
                 "de": "Wirf die obersten 3 Karten des Decks deines Gegners ab.",
                 "pt-br": "Descarte as 3 primeiras cartas do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂的 3 張牌。",
-                ja: "相手の山札を上から3枚トラッシュ。"
+                ja: "相手の山札を上から3枚トラッシュ。",
+                ko: "상대의 덱을 위에서부터 3장 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

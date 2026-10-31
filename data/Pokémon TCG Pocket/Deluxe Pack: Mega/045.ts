@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/045"
     },
     name: {
         en: "Blacephalon ex",
@@ -44,7 +45,7 @@ const card: Card = {
                 "pt-br": "Chamuscada",
                 "zh-tw": "灼熱",
                 ja: "こがす",
-                ko: "Singe"
+                ko: "그을리기"
             },
             cost: [
                 "Fire"
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
                 ja: "相手のバトルポケモンをやけどにする。",
-                ko: "Your opponent's Active Pokémon is now Burned."
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             }
         },
         {
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Pop-Punk",
                 "zh-tw": "砰破龐克",
                 ja: "ポップパンク",
-                ko: "Pop-Punk"
+                ko: "팝펑크"
             },
             damage: 140,
             cost: [
@@ -88,7 +89,7 @@ const card: Card = {
                 "pt-br": "Descarte 3 Energias {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的3個{R}能量丟棄。",
                 ja: "このポケモンから{R}エネルギーを3個トラッシュ。",
-                ko: "Discard 3 {R} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {R}에너지를 3개 트래쉬한다."
             }
         }
     ],

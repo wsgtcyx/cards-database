@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/097",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/097"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/097",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/097"
     },
     name: {
         en: "Natu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Natu",
         "zh-tw": "天然雀",
         ja: "ネイティ",
+        ko: "네이티",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Da seine Flügel noch nicht vollständig ausgewachsen sind, muss es das tun\nHop, um herumzukommen. Es starrt immer\nbei etwas.",
         "pt-br": "Como suas asas ainda não estão totalmente desenvolvidas, ele precisa\npule para se locomover. Está sempre olhando\nem alguma coisa.",
         "zh-tw": "因為它的翅膀還沒有完全長出來，所以它必須\n跳來跳去。它總是凝視著\n在某件事上。",
-        ja: "羽が 育ちきって おらず 飛び跳ねるようにして 移動する。 いつも なにかを 見つめている。"
+        ja: "羽が 育ちきって おらず 飛び跳ねるようにして 移動する。 いつも なにかを 見つめている。",
+        ko: "날개가 아직 잘 발달하지 못해서\n점프하듯 이동한다.\n항상 뭔가를 바라보고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Picken",
                 "pt-br": "Peck",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/248",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/248",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/248",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/248"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/248",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/248"
 	},
 	name: {
 		en: "Guzzlord ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Schlingking-ex",
 		"pt-br": "Guzzlord ex",
 		"zh-tw": "惡食大王ex",
-		ja: "アクジキングex"
+		ja: "アクジキングex",
+		ko: "악식킹 ex"
 	},
 	illustrator: "PLANETA Yamashita",
 	rarity: "Four Diamond",
@@ -40,7 +42,8 @@ const card: Card = {
 				de: "Grindcore",
 				"pt-br": "Grindcore",
 				"zh-tw": "磨核",
-				ja: "グラインドコア"
+				ja: "グラインドコア",
+				ko: "그라인드코어"
 			},
 			damage: 30,
 			cost: ["Colorless", "Colorless"],
@@ -52,7 +55,8 @@ const card: Card = {
 				de: "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
 				"pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
 				"zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。",
-				ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
+				ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
+				ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다."
 			}
 		},
 		{
@@ -64,7 +68,8 @@ const card: Card = {
 				de: "Tyrannisches Loch",
 				"pt-br": "Buraco Tirânico",
 				"zh-tw": "強橫洞",
-				ja: "タイラントホール"
+				ja: "タイラントホール",
+				ko: "타이런트홀"
 			},
 			damage: 120,
 			cost: ["Darkness", "Darkness", "Darkness", "Colorless"]

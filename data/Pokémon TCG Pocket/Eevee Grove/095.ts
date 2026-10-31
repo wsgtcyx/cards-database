@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/095"
     },
     name: {
         en: "Voltorb",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
         ja: "ビリリダマ",
+        ko: "찌리리공",
     },
     illustrator: "Scav",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es rollt, um sich zu bewegen. Wenn der Boden uneben ist, plötzlich\nEin Stoß durch einen Stoß kann dazu führen, dass es explodiert.",
         "pt-br": "Ele rola para se mover. Se o terreno for irregular, um repentino\nO choque ao bater em um solavanco pode fazer com que ele exploda.",
         "zh-tw": "它滾動移動。如果地面不平整，突然\n撞擊碰撞時的震動可能會導致爆炸。",
-        ja: "転がって 移動するので 地面が デコボコだと ショックで 爆発してしまう。"
+        ja: "転がって 移動するので 地面が デコボコだと ショックで 爆発してしまう。",
+        ko: "굴러서 이동하기 때문에\n땅이 울퉁불퉁하면\n충격으로 폭발해 버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Große Explosion",
                 "pt-br": "Grande Explosão",
                 "zh-tw": "大霹靂",
-                ja: "ばくはつ"
+                ja: "ばくはつ",
+                ko: "폭발"
             },
             damage: 30,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

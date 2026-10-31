@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/060"
     },
     name: {
         en: "Luxray",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
         ja: "ルクシオ",
+        ko: "럭시오",
     },
     description: {
         en: "It can see clearly through walls to track down its prey and seek its lost young.",

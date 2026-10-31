@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/038"
     },
     name: {
         en: "Tinkaton",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Der Hammer wiegt mehr als 220 Pfund, lässt sich aber leicht von Granforgita hin und her schwingen, indem er alles stiehlt, was er will, und die Beute nach Hause trägt.",
         "pt-br": "O martelo chega a pesar 220 libras, mas é facilmente usado por Tinkaton enquanto rouba tudo o que deseja e leva seu saque de volta para casa.",
         "zh-tw": "這把錘子重達 220 磅，但它很容易被 巨鍛匠 揮舞，因為它可以偷走任何牠喜歡的東西，並將其戰利品帶回家。",
-        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。"
+        ja: "100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。",
+        ko: "100kg이 넘는 해머를 가볍게 휘둘러서\n원하는 것을 빼앗은 다음\n거처로 가지고 간다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Riesenhammer",
                 "pt-br": "Martelo Gigatônico",
                 "zh-tw": "巨力錘",
-                ja: "デカハンマー"
+                ja: "デカハンマー",
+                ko: "거대해머"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't use Gigaton Hammer.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges kann dieses Pokémon Gigaton Hammer nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Martelo Gigaton.",
                 "zh-tw": "在你的下一個回合中，這隻寶可夢無法使用十億噸錘。",
-                ja: "次の自分の番、このポケモンは「デカハンマー」が使えない。"
+                ja: "次の自分の番、このポケモンは「デカハンマー」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「거대해머」를 사용할 수 없다."
             },
             damage: 140
         }

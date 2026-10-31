@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/089"
     },
     name: {
         en: "Granbull",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Granbull",
         "zh-tw": "布魯皇",
         ja: "グランブル",
+        ko: "그랑블루",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Snubbull",
         "zh-tw": "布魯",
         ja: "ブルー",
+        ko: "블루",
     },
     description: {
         en: "While it has powerful jaws, it doesn't care for\ndisputes, so it rarely has a chance to display\ntheir might.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Obwohl es kräftige Kiefer hat, ist es ihm egal\nStreitigkeiten, daher hat es selten eine Chance zur Anzeige\nihre Macht.",
         "pt-br": "Embora tenha mandíbulas poderosas, não se importa com\ndisputas, por isso raramente tem a chance de exibir\nseu poder.",
         "zh-tw": "雖然它有強大的下巴，但它並不關心\n爭議，所以很少有機會展示\n他們的力量。",
-        ja: "アゴの 力は 強力だが 争いを 好まないので 滅多に 披露する 機会は ないのだ。"
+        ja: "アゴの 力は 強力だが 争いを 好まないので 滅多に 披露する 機会は ないのだ。",
+        ko: "턱의 힘은 강력하지만\n다툼을 좋아하지 않아 그다지\n싸우는 걸 볼 기회가 많지 않다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wildes Tackle",
                 "pt-br": "Equipamento Selvagem",
                 "zh-tw": "狂野鏟球",
-                ja: "ワイルドタックル"
+                ja: "ワイルドタックル",
+                ko: "와일드태클"
             },
             damage: 100,
             cost: ["Psychic", "Psychic", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/144",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/144",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/144",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/144"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/144",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/144"
     },
     name: {
         en: "Silvally",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Der entscheidende Faktor, durch den es seine\nwahren Kräfte freisetzen kann, ist die enge\nBindung zu einem Trainer, dem es vertraut.",
         "zh-tw": "與所信賴的訓練家之間的牽絆\n是解放牠真正力量的\n最後一個要素。",
         "pt-br": "O último fator necessário para ativar o verdadeiro poder deste Pokémon é uma conexão forte com um Treinador de sua confiança.",
-        ja: "本来の 力を 解き放つ 最後の ファクターは 信頼する トレーナーとの 絆 だった。"
+        ja: "本来の 力を 解き放つ 最後の ファクターは 信頼する トレーナーとの 絆 だった。",
+        ko: "본래의 힘을 해방하게 하는\n마지막 요소는 신뢰하는\n트레이너와의 유대였다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "黃金破壞",
                 "it": "Rompioro",
                 "de": "Goldbrecher",
-                ja: "ゴールドブレイク"
+                ja: "ゴールドブレイク",
+                ko: "골드브레이크"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 90 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加90點傷害。",
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-eX, questo attacco infligge 90 danni in più.",
-                ja: "相手のバトルポケモンが「ポケモンex」なら、90ダメージ追加。"
+                ja: "相手のバトルポケモンが「ポケモンex」なら、90ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 90데미지를 추가한다."
             },
             damage: "60+"
         }

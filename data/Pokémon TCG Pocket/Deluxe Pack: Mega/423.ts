@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/423",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/423",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/423",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/423"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/423",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/423"
     },
     name: {
         en: "Arven",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Jogue uma moeda. Se sair cara, coloque 1 carta de Item aleatória do seu baralho na sua mão. Se sair coroa, coloque 1 carta de Ferramenta Pokémon aleatória do seu baralho na sua mão.",
         "zh-tw": "擲1次硬幣。若為正面,則從自己的牌庫隨機將1張「物品」卡加入手牌,若為反面,則將1張「寶可夢道具」卡加入手牌。",
         ja: "コインを1回投げる。オモテなら「グッズ」、ウラなら「ポケモンのどうぐ」を、自分の山札からランダムに1枚、手札に加える。",
-        ko: "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand."
+        ko: "동전을 1번 던진다. 앞면이 나오면 「아이템」 뒷면이 나오면 「포켓몬의 도구」를 자신의 덱에서 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Supporter"
 };

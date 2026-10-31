@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/060"
     },
     name: {
         en: "Staravia",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Staravia",
         "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
-        ja: "ムクバード"
+        ja: "ムクバード",
+        ko: "찌르버드"
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Staralili",
         "pt-br": "Starly",
         "zh-tw": "姆克兒",
-        ja: "ムックル"
+        ja: "ムックル",
+        ko: "찌르꼬"
     },
     description: {
         en: "They maintain huge flocks, although fierce\nscuffles break out between various flocks.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie halten riesige Herden, obwohl sie wild sind\nZwischen verschiedenen Herden kommt es zu Handgreiflichkeiten.",
         "pt-br": "Eles mantêm rebanhos enormes, embora ferozes\nbrigas acontecem entre vários rebanhos.",
         "zh-tw": "它們維持著龐大的羊群，儘管兇猛\n不同羊群之間爆發了扭打。",
-        ja: "大きな グループを 作って 行動する 習性。 グループ同士の 争いは 激しい。"
+        ja: "大きな グループを 作って 行動する 習性。 グループ同士の 争いは 激しい。",
+        ko: "큰 그룹을 만들어\n행동하는 습성이 있다.\n그룹 간의 분쟁이 격하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schneller Angriff",
                 "pt-br": "Ataque Rápido",
                 "zh-tw": "電光一閃",
-                ja: "でんこうせっか"
+                ja: "でんこうせっか",
+                ko: "전광석화"
             },
             damage: "30+",
             cost: ["Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

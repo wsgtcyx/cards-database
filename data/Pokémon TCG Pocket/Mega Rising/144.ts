@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/144",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/144",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/144"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/144",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/144"
     },
     name: {
         en: "Palossand",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Palossand",
         "zh-tw": "噬沙堡爺",
         ja: "シロデスナ",
+        ko: "모래성이당",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
         ja: "スナバァ",
+        ko: "모래꿍",
     },
     description: {
         en: "From the hollows in its arms, it fires the bones\nof its victims, which are all dried up after being\ndrained of their vitality.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Aus den Hohlräumen seiner Arme feuert es die Knochen ab\nseiner Opfer, die nach dem Sein alle ausgetrocknet sind\nihrer Lebenskraft beraubt.",
         "pt-br": "Das cavidades em seus braços, ele dispara os ossos\nde suas vítimas, que ficam todas secas depois de serem\ndrenados de sua vitalidade.",
         "zh-tw": "從手臂的空洞中，它發射骨頭\n它的受害者，在被吹乾後都乾了\n耗盡了他們的活力。",
-        ja: "生命エネルギーを 吸い取り 干からびた ものたちの 骨を 腕の へこみから 発射する。"
+        ja: "生命エネルギーを 吸い取り 干からびた ものたちの 骨を 腕の へこみから 発射する。",
+        ko: "생명 에너지를 흡수하여\n바싹 마른 자들의 뼈를\n팔의 움푹한 부분을 통해 발사한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Lebenssauger",
                 "pt-br": "Sugador de vida",
                 "zh-tw": "生命吸盤",
-                ja: "ライフサッカー"
+                ja: "ライフサッカー",
+                ko: "라이프서커"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -69,13 +74,19 @@ const card: Card = {
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
-                ja: "このポケモンのHPを20回復。"
+                ja: "このポケモンのHPを20回復。",
+                ko: "이 포켓몬의 HP를 20회복."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

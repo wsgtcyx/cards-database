@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/012",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/012"
     },
     name: {
         en: "Gloom",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Myrapla",
         "pt-br": "Oddish",
         "zh-tw": "走路草",
-        ja: "ナゾノクサ"
+        ja: "ナゾノクサ",
+        ko: "뚜벅쵸"
     },
     attacks: [{
             cost: ["Grass", "Colorless"],

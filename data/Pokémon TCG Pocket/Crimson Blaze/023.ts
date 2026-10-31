@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/023"
     },
     name: {
         en: "Clawitzer",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Wummer",
         "pt-br": "Clawitzer",
         "zh-tw": "鋼炮臂蝦",
-        ja: "ブロスター"
+        ja: "ブロスター",
+        ko: "블로스터"
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Scampisto",
         "pt-br": "Clauncher",
         "zh-tw": "鐵臂槍蝦",
-        ja: "ウデッポウ"
+        ja: "ウデッポウ",
+        ko: "완철포"
     },
     description: {
         en: "The cannonballs of seawater that Clawitzer\nlaunches from its claw are powerful enough to\npunch through tanker hulls.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Kanonenkugeln aus Meerwasser, die Clawitzer\nAbschüsse aus seiner Klaue sind stark genug, um\nDurchschlagen von Tankerrümpfen.",
         "pt-br": "As balas de canhão de água do mar que Clawitzer\nos lançamentos de sua garra são poderosos o suficiente para\nperfurar cascos de petroleiros.",
         "zh-tw": "克勞維策的海水砲彈\n它的爪子發射的力量足以\n擊穿油輪船體。",
-        ja: "ハサミから 撃ちだす 海水の 砲弾の 威力は タンカーの 船体を 貫くほどだ。"
+        ja: "ハサミから 撃ちだす 海水の 砲弾の 威力は タンカーの 船体を 貫くほどだ。",
+        ko: "집게에서 발사하는\n해수 포탄의 위력은\n유조선의 선체를 관통할 정도다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Aqua-Dusche",
                 "pt-br": "Chuveiro aquático",
                 "zh-tw": "水之淋浴",
-                ja: "アクアシャワー"
+                ja: "アクアシャワー",
+                ko: "아쿠아샤워"
             },
             cost: ["Water"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。",
-                ja: "相手のポケモン全員に20ダメージ。"
+                ja: "相手のポケモン全員に20ダメージ。",
+                ko: "상대의 포켓몬 전원에게 20데미지를 준다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/052"
     },
     name: {
         en: "Plusle",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Plusle",
         "pt-br": "Plusle",
         "zh-tw": "正電拍拍",
-        ja: "プラスル"
+        ja: "プラスル",
+        ko: "플러시"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon absorbiert Elektrizität vom Telefon\nStangen. Dadurch wird der darin gespeicherte Strom kurzgeschlossen\nKörper, um Geräusche zu erzeugen.",
         "pt-br": "Este Pokémon absorve eletricidade do telefone\npólos. Ele causa um curto-circuito na eletricidade armazenada dentro de seu\ncorpo para criar ruídos.",
         "zh-tw": "這個神奇寶貝可以吸收電話的電力\n兩極。它使內部存儲的電力短路\n身體產生噪音。",
-        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。"
+        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。",
+        ko: "전신주에서 전기를 흡수한다.\n몸에 모은 전기를\n합선시켜 소리를 낸다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Elektrischer Schwanz",
                 "pt-br": "Cauda Elétrica",
                 "zh-tw": "電動尾翼",
-                ja: "でんきしっぽ"
+                ja: "でんきしっぽ",
+                ko: "전기꼬리"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/295",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/295",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/295",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/295"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/295",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/295"
 	},
 	name: {
         en: "Bidoof",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
         ja: "ビッパ",
+        ko: "비버니",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mit Nerven aus Stahl kann es nichts aus der Ruhe bringen. Es ist\nagiler und aktiver als es scheint.",
         "pt-br": "Com nervos de aço, nada pode perturbá-lo. É\nmais ágil e ativo do que parece.",
         "zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它是\n比看上去更加敏捷和活躍。",
-        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。"
+        ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。",
+        ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭撞",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

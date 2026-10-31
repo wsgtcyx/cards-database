@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/065"
     },
     name: {
         en: "Togekiss",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Togetic",
         "zh-tw": "波克基古",
         ja: "トゲチック",
+        ko: "토게틱",
     },
     description: {
         en: "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.",

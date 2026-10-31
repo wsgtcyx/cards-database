@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/264",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/264",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/264",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/264"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/264",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/264"
     },
     name: {
         en: "Marowak ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
-        ja: "カラカラ"
+        ja: "カラカラ",
+        ko: "탕구리"
     },
     suffix: "EX",
     attacks: [{

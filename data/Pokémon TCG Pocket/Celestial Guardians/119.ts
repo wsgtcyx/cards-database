@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/119",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/119"
     },
     name: {
         en: "Excadrill",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
         ja: "モグリュー",
+        ko: "두더류",
     },
     description: {
         en: "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",

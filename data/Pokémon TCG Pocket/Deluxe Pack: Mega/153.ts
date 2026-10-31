@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/153",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/153",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/153"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/153",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/153"
     },
     name: {
         en: "Galarian Meowth",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Meowth de Galar",
         "zh-tw": "伽勒爾喵喵",
         ja: "ガラルニャース",
-        ko: "가라르나옹"
+        ko: "가라르 나옹"
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Estes Pokémon ousados têm moedas nas testas. Moedas escuras são mais resistentes, e moedas resistentes são mais respeitadas entre os Meowth.",
         "zh-tw": "額頭上的金幣越黑就越硬，也越能受到夥伴的尊敬。性情勇猛，什麼都不怕。",
         ja: "額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。",
-        ko: "These daring Pokémon have coins on their\nforeheads. Darker coins are harder, and harder\ncoins garner more respect among Meowth."
+        ko: "이마의 금화는 검을수록\n단단하고 동료에게 존경받는다.\n용맹하고 두려움을 모른다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
                 ja: "きりさく",
-                ko: "Slash"
+                ko: "베어가르기"
             },
             damage: 20,
             cost: [

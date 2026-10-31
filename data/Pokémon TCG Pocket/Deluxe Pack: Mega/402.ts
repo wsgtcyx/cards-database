@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/402",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/402",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/402",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/402"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/402",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/402"
     },
     name: {
         en: "Peculiar Plaza",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "O Custo de Recuo de cada Pokémon {P} em jogo (seus e do seu oponente) é 2 a menos.",
         "zh-tw": "雙方場上所有{P}寶可夢撤退所需的能量減少2個。",
         ja: "おたがいの場の{P}ポケモン全員のにげるためのエネルギーを、2個少なくする。",
-        ko: "The Retreat Cost of each {P} Pokémon in play (both yours and your opponent's) is 2 less."
+        ko: "서로의 필드의 {P}포켓몬 전원의 후퇴에 필요한 에너지를 2개 적게 만든다."
     },
     trainerType: "Stadium"
 };

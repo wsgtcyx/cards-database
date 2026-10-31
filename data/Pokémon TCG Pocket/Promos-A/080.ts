@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/080"
     },
     name: {
         en: "Stakataka",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Stakataka",
         "zh-tw": "壘磊石",
         ja: "ツンデツンデ",
+        ko: "차곡차곡",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es erschien aus einem Ultra-Wurmloch. Jeder einzelne\nscheint aus vielen Lebensformen zu bestehen\nübereinander gestapelt.",
         "pt-br": "Apareceu de um Ultra Wormhole. Cada um\nparece ser composto de muitas formas de vida\nempilhados um em cima do outro.",
         "zh-tw": "它是從究極蟲洞中出現的。每一個\n似乎由許多生命形式組成\n一個一個地疊起來。",
-        ja: "ウルトラホールから 出現した。 複数の 生命が 積み上がり １匹を 形成している ようだ。"
+        ja: "ウルトラホールから 出現した。 複数の 生命が 積み上がり １匹を 形成している ようだ。",
+        ko: "울트라홀에서 출현했다.\n여러 개의 생명이 쌓여\n1마리를 형성하고 있는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Messingrock",
                 "pt-br": "Rocha de latão",
                 "zh-tw": "黃銅岩",
-                ja: "ブラスロック"
+                ja: "ブラスロック",
+                ko: "브라스록"
             },
             damage: 40,
             cost: ["Metal", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

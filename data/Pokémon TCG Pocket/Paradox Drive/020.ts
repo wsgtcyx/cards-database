@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/020"
     },
     name: {
         en: "Espeon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es nutzt die feinen Haare, die seinen Körper bedecken, um Luftströmungen zu spüren und die Aktionen seines Feindes vorherzusagen.",
         "pt-br": "Ele usa o cabelo fino que cobre seu corpo para sentir as correntes de ar e prever as ações do inimigo.",
         "zh-tw": "它利用覆蓋身體的細毛來感知氣流並預測敵人的行動。",
-        ja: "全身の 細かな 体毛で 空気の 流れを 感じとり 相手の 行動を 予測する。"
+        ja: "全身の 細かな 体毛で 空気の 流れを 感じとり 相手の 行動を 予測する。",
+        ko: "전신의 촘촘한 털로\n공기의 흐름을 감지해\n상대방의 행동을 예측한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Hypnoschuss",
                 "pt-br": "Borrifada Hipnótica",
                 "zh-tw": "催眠波動",
-                ja: "さいみんはどう"
+                ja: "さいみんはどう",
+                ko: "최면파동"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             },
             damage: 40
         }

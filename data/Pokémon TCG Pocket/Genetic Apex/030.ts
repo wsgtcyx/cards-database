@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/030"
     },
     name: {
         en: "Lilligant",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
-        ja: "チュリネ"
+        ja: "チュリネ",
+        ko: "치릴리"
     },
     attacks: [{
             cost: ["Grass", "Grass"],

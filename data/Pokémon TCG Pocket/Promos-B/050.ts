@@ -11,7 +11,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/050",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/050"
     },
     name: {
         en: "Meloetta",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wer die Melodie hört, die es in einer speziellen Stimmlage\nvon sich gibt, steht voll in seinem Bann.",
         "pt-br": "Suas melodias são cantadas com um método especial de vocalização que consegue controlar os sentimentos de quem a ouve.",
         "zh-tw": "它的旋律是用一種特殊的發聲方法來唱的，可以控制聽者的感情。",
-        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。"
+        ja: "特殊な 発声法で 歌う メロディは 聞いた者の 感情を 自在に 操る。",
+        ko: "특수한 발성법으로 노래하는\n멜로디는 노래를 들은 자의\n감정을 자유자재로 조종한다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Seltsamer Gesang",
                 "pt-br": "Canto Estranho",
                 "zh-tw": "神奇歌聲",
-                ja: "ふしぎなうたごえ"
+                ja: "ふしぎなうたごえ",
+                ko: "이상한 노랫소리"
             },
             effect: {
                 en: "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random {P} Pokémon from your deck into your hand.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon zu Beginn deines Zuges an der aktiven Stelle befindet, nimm ein zufälliges {P}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "No início do seu turno, se este Pokémon estiver no Ponto Ativo, coloque um Pokémon {P} aleatório do seu baralho na sua mão.",
                 "zh-tw": "在你的回合開始時，如果這只寶可夢位於活躍位置，則從你的牌組中隨機將一隻 {P} 寶可夢置入你的手牌。",
-                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の番のはじめに、このポケモンがバトル場にいるなら、自分の山札から{P}ポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 차례 처음에 이 포켓몬이 배틀필드에 있다면 자신의 덱에서 {P}포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Psychoschuss",
                 "pt-br": "Tiro Psíquico",
                 "zh-tw": "精神射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 50
         }

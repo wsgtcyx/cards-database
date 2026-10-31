@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/081",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/081"
     },
     name: {
         en: "Omanyte",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Helixfossil",
         "pt-br": "Fóssil Espiral",
         "zh-tw": "貝殼化石",
-        ja: "かいの化石"
+        ja: "かいの化石",
+        ko: "조개화석"
     },
     attacks: [{
             cost: ["Water"],

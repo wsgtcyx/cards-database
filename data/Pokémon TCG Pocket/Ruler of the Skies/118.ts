@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/118",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/118",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/118",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/118"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/118",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/118"
     },
     name: {
         en: "Dragonite",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden.",
         "pt-br": "Ele pode voar apesar de seu físico grande e volumoso. Ele circunda o globo em apenas 16 horas.",
         "zh-tw": "儘管體型龐大，但它仍能飛。只需 16 小時即可繞地球一圈。",
-        ja: "大きな 体格で 空を 飛ぶ。 地球を 約１６時間で １周してしまう。"
+        ja: "大きな 体格で 空を 飛ぶ。 地球を 約１６時間で １周してしまう。",
+        ko: "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Hyperstrahl",
                 "pt-br": "Hiper-raio",
                 "zh-tw": "破壞光線",
-                ja: "はかいこうせん"
+                ja: "はかいこうせん",
+                ko: "파괴광선"
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
-                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             },
             damage: 110
         }

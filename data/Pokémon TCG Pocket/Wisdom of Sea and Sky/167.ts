@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/167",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/167",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/167",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/167"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/167",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/167"
     },
     name: {
         en: "Totodile",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Totodile",
         "zh-tw": "小鋸鱷",
         ja: "ワニノコ",
+        ko: "리아코",
     },
     illustrator: "Ayako Ozaki",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist klein, aber rau und robust. Es wird nicht zögern\nBeißen Sie in alles, was sich bewegt.",
         "pt-br": "É pequeno, mas áspero e resistente. Não hesitará em\ndê uma mordida em qualquer coisa que se mova.",
         "zh-tw": "它雖小，但粗糙而堅韌。它會毫不猶豫地\n咬一口任何會動的東西。",
-        ja: "小さいながらも 暴れん坊。 目の前で 動くものが あれば とにかく かみついてくる。"
+        ja: "小さいながらも 暴れん坊。 目の前で 動くものが あれば とにかく かみついてくる。",
+        ko: "작아도 성격은 아주 거칠다.\n눈앞에서 움직이는 것이 있으면\n무조건 물어버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
                 "zh-tw": "波浪飛濺",
-                ja: "スプラッシュ"
+                ja: "スプラッシュ",
+                ko: "스플래시"
             },
             damage: 20,
             cost: ["Water"]

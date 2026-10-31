@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/208",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/208",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/208"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/208",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/208"
     },
     name: {
         en: "Blaziken",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Trifft es auf einen hartnäckigen Gegner, schießen\nFlammen aus seinen Handgelenken. Seine starken\nBeine ermöglichen ihm, über Häuser zu springen.",
         "pt-br": "Ao enfrentar um inimigo difícil, ele solta chamas de seus pulsos. Suas pernas poderosas permitem que ele salte sobre edifícios.",
         "zh-tw": "面對強敵時，手腕會釋放火焰。它強大的腿讓它能夠跳過建築物。",
-        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。"
+        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。",
+        ko: "강적을 만나면 손목에서\n불꽃을 내뿜는다. 점프로\n빌딩을 뛰어넘는 다릿심을 가졌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Feuerfeger",
                 "pt-br": "Chute Labareda",
                 "zh-tw": "火焰踢",
-                ja: "ブレイズキック"
+                ja: "ブレイズキック",
+                ko: "블레이즈킥"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {R} 能量。",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다."
             },
             damage: 100
         }

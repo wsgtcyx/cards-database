@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/048"
     },
     name: {
         en: "Wellspring Mask Ogerpon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Quellmaske Ogerpon",
         "pt-br": "Ogerpon Máscara Nascente",
         "zh-tw": "厄鬼椪水井面具",
-        ja: "オーガポンいどのめん"
+        ja: "オーガポンいどのめん",
+        ko: "오거폰 우물의 가면"
     },
     illustrator: "Mina Nakai",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In dieser Form nutzt es die Kraft des Wassers.\nEs greift unerbittlich mit Tritten und Efeuschlägen an.",
         "pt-br": "Nesta forma, utiliza o poder da água.\nEle ataca implacavelmente com chutes e golpes de hera.",
         "zh-tw": "在這種形式下，它利用了水的力量。\n它用腳踢和常春藤攻擊進行無情的攻擊。",
-        ja: "水の力を 引き出す 姿。 蹴り技と ツタによる 打撃を 途切れなく 仕掛け続ける。"
+        ja: "水の力を 引き出す 姿。 蹴り技と ツタによる 打撃を 途切れなく 仕掛け続ける。",
+        ko: "물의 힘을 끌어올린 모습.\n발차기 기술과 덩굴을 이용한 타격을\n쉴 새 없이 퍼붓는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Quelltanz",
                 "pt-br": "Dança da Fonte",
                 "zh-tw": "泉水舞",
-                ja: "いどのまい"
+                ja: "いどのまい",
+                ko: "우물의춤"
             },
             damage: 40,
             cost: ["Water", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff außerdem 1 Pokémon auf der Bank deines Gegners 40 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque também causará 40 de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊也會對對手的 1 只後備神奇寶貝造成 40 點傷害。",
-                ja: "コインを1回投げオモテなら、相手のベンチポケモン1匹にも40ダメージ。"
+                ja: "コインを1回投げオモテなら、相手のベンチポケモン1匹にも40ダメージ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬 1마리에게도 40데미지를 준다."
             }
         }],
     weaknesses: [{

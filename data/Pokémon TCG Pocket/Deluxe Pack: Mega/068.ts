@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/068"
     },
     name: {
         en: "Wailord ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Wailmer",
         "zh-tw": "吼吼鯨",
         ja: "ホエルコ",
-        ko: "Wailmer"
+        ko: "고래왕자"
     },
     stage: "Stage1",
     attacks: [
@@ -63,7 +64,7 @@ const card: Card = {
                 "zh-tw": "奇跡鯨濤",
                 it: "Onde Prodigiose",
                 ja: "ミラクルザブーン",
-                ko: "Wondrous Waves"
+                ko: "미라클첨벙"
             },
             effect: {
                 en: "This Pokémon recovers from all Special Conditions.",
@@ -74,7 +75,7 @@ const card: Card = {
                 "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。",
                 it: "Questo Pokémon guarisce da tutte le condizioni speciali.",
                 ja: "このポケモンの特殊状態を、すべて回復。",
-                ko: "This Pokémon recovers from all Special Conditions."
+                ko: "이 포켓몬의 특수 상태를 모두 회복."
             },
             damage: 100
         }

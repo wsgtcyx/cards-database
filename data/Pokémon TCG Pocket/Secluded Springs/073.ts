@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/073",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/073"
     },
     name: {
         en: "Stunfisk",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Stunfisk",
         "zh-tw": "泥巴魚",
         ja: "マッギョ",
+        ko: "메더",
     },
     illustrator: "Akira Komayama",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dank Bakterien, die im Watt lebten\nDadurch hat dieses Pokémon die Organe entwickelt, die es benötigt\nStrom erzeugen.",
         "pt-br": "Graças às bactérias que viviam nas planícies lamacentas com\nisso, este Pokémon desenvolveu os órgãos que usa para\ngerar eletricidade.",
         "zh-tw": "感謝生活在泥灘中的細菌\n它，這個神奇寶貝開發了它用來\n發電。",
-        ja: "干潟が すみか。 泥に 棲む 細菌に よって 電気を つくる 器官が 発達した。"
+        ja: "干潟が すみか。 泥に 棲む 細菌に よって 電気を つくる 器官が 発達した。",
+        ko: "갯벌이 보금자리다.\n진흙 속에 사는 세균에 의해\n전기를 만드는 기관이 발달했다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Statischer Schock",
                 "pt-br": "Choque Estático",
                 "zh-tw": "靜電衝擊",
-                ja: "バチバチ"
+                ja: "バチバチ",
+                ko: "찌릿찌릿"
             },
             damage: 50,
             cost: ["Lightning", "Colorless"]

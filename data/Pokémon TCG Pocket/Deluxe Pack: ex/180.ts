@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/180",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/180",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/180"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/180",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/180"
     },
     name: {
         en: "Cosmog",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
         ja: "コスモッグ",
+        ko: "코스모그",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Auch wenn sein hilfloser, gasförmiger Körper in die Luft gesprengt werden kann\nweg von der geringsten Brise, es scheint ihm egal zu sein.",
         "pt-br": "Mesmo que seu corpo indefeso e gasoso possa ser explodido\nafastado pela mais leve brisa, ele não parece se importar.",
         "zh-tw": "縱然無助，氣體可吹\n微風吹過，它似乎並不在意。",
-        ja: "頼りない ガス状の 身体は ちょっとの 風にも 流されるが 全然 気にして いない 様子。"
+        ja: "頼りない ガス状の 身体は ちょっとの 風にも 流されるが 全然 気にして いない 様子。",
+        ko: "의지할 곳 없는 가스 상태의 몸은\n약한 바람에도 휩쓸리지만,\n전혀 신경 쓰지 않는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Teleportieren",
                 "pt-br": "Teleporte",
                 "zh-tw": "傳送",
-                ja: "テレポート"
+                ja: "テレポート",
+                ko: "순간이동"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

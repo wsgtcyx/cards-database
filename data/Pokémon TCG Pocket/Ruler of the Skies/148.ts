@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/148",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/148",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/148",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/148"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/148",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/148"
     },
     name: {
         en: "Deceptive Needle",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Trügerische Nadel",
         "pt-br": "Agulha Traiçoeira",
         "zh-tw": "耍詐針",
-        ko: "속임수바늘",
+        ko: "사기바늘",
         ja: "いんちきバリ"
     },
     illustrator: "Studio Bora Inc.",
@@ -34,7 +35,8 @@ const card: Card = {
         "pt-br": "No final do seu turno, se o Pokémon {D} ao qual esta carta está ligada estiver no Campo Ativo, cause 10 pontos de dano ao Pokémon Ativo do seu oponente.",
         "zh-tw": "在自己的回合結束時,若附有這張卡的{D}寶可夢在戰鬥場上,則對手的戰鬥寶可夢受到10點傷害。",
         "it": "Alla fine del tuo turno, se il Pokémon {D} a cui è assegnata questa carta è in posizione attiva, infliggi 10 danni al Pokémon attivo del tuo avversario.",
-        ja: "自分の番の終わりに、このカードをつけている{D}ポケモンがバトル場にいるなら、相手のバトルポケモンに10ダメージ。"
+        ja: "自分の番の終わりに、このカードをつけている{D}ポケモンがバトル場にいるなら、相手のバトルポケモンに10ダメージ。",
+        ko: "자신의 차례의 마지막에 이 카드를 붙이고 있는 {D}포켓몬이 배틀필드에 있다면 상대의 배틀 포켓몬에게 10데미지를 준다."
     },
     trainerType: "Tool"
 };

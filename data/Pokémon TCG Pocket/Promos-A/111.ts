@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/111",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/111",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/111",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/111"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/111",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/111"
 	},
 	name: {
 		en: "Pikachu",
@@ -19,7 +20,8 @@ const card: Card = {
 		de: "Pikachu",
 		"pt-br": "Pikachu",
 		"zh-tw": "皮卡丘",
-		ja: "ピカチュウ"
+		ja: "ピカチュウ",
+		ko: "피카츄"
 	},
 	illustrator: "sui",
 	rarity: "One Diamond",
@@ -48,7 +50,8 @@ const card: Card = {
 				de: "Schneller Angriff",
 				"pt-br": "Ataque Rápido",
 				"zh-tw": "電光一閃",
-				ja: "でんこうせっか"
+				ja: "でんこうせっか",
+				ko: "전광석화"
 			},
 			damage: "20+",
 			cost: ["Lightning", "Colorless"],
@@ -60,7 +63,8 @@ const card: Card = {
 				de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
 				"pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
 				"zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-				ja: "コインを1回投げオモテなら、30ダメージ追加。"
+				ja: "コインを1回投げオモテなら、30ダメージ追加。",
+				ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
 			}
 		}
 	],

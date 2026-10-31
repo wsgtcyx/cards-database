@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/126",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/126",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/126"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/126",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/126"
     },
     name: {
         en: "Hakamo-o",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Jangmo-o",
         "zh-tw": "心鱗寶",
         ja: "ジャラコ",
+        ko: "짜랑꼬",
     },
     description: {
         en: "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",

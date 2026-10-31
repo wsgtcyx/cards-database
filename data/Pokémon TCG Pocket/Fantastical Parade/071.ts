@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/071",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/071"
     },
     name: {
         en: "Pumpkaboo",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Irrbis",
         "pt-br": "Pumpkaboo",
         "zh-tw": "南瓜精",
-        ja: "バケッチャ"
+        ja: "バケッチャ",
+        ko: "호바귀"
     },
     illustrator: "Mousho",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Das Licht, das aus den Löchern im\nKürbis kann Menschen hypnotisieren und kontrollieren\nund Pokémon, die es sehen.",
         "pt-br": "A luz que sai dos buracos do\nabóbora pode hipnotizar e controlar as pessoas\ne Pokémon que o veem.",
         "zh-tw": "光線從孔洞中射出\n南瓜可以催眠和控制人\n以及看到它的神奇寶貝。",
-        ja: "かぼちゃの 穴から 照らしている 光は 見た 人や ポケモンを 催眠状態にして 操る。"
+        ja: "かぼちゃの 穴から 照らしている 光は 見た 人や ポケモンを 催眠状態にして 操る。",
+        ko: "호박의 구멍에서 나오는\n빛을 본 사람과 포켓몬을\n최면상태로 만들어 조종한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 20,
             cost: ["Psychic"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/122"
     },
     name: {
         en: "Sandshrew",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
         ja: "サンド",
+        ko: "모래두지",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es gräbt sich in den Boden ein, um sein Nest zu bauen. Wenn\nHarte Steine erschweren ihm den Tunnelbau, er nutzt seine Schärfe\nKrallen, um sie zu zerschmettern, und gräbt dann weiter.",
         "pt-br": "Ele se enterra no solo para criar seu ninho. Se\npedras duras impedem a sua construção de túneis, ele usa suas pontas afiadas\ngarras para quebrá-los e depois continua cavando.",
         "zh-tw": "它鑽入地下以築巢。如果\n堅硬的石頭阻礙了它的隧道挖掘，它利用其鋒利的\n用爪子把它們打碎，然後繼續挖掘。",
-        ja: "地面を 掘って 巣穴を つくる。 地中の 硬い 岩も 鋭い ツメで 砕いて 掘り進むぞ。"
+        ja: "地面を 掘って 巣穴を つくる。 地中の 硬い 岩も 鋭い ツメで 砕いて 掘り進むぞ。",
+        ko: "땅을 파서 굴을 만든다.\n땅속의 단단한 바위도 날카로운\n발톱으로 부수며 파고들어 간다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Sandspray",
                 "pt-br": "Spray de areia",
                 "zh-tw": "噴砂",
-                ja: "すなしぶき"
+                ja: "すなしぶき",
+                ko: "모래보라"
             },
             damage: 20,
             cost: ["Fighting"]
@@ -56,6 +60,11 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

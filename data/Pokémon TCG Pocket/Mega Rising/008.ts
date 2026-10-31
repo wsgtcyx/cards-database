@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/008",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/008"
     },
     name: {
         en: "Seedot",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Seedot",
         "zh-tw": "橡實果",
         ja: "タネボー",
+        ko: "도토링",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es befestigt sich mit der Spitze an einem Ast\nsein Kopf. Starke Winde können manchmal zum Absturz führen.",
         "pt-br": "Ele se prende a um galho de árvore usando a parte superior\nsua cabeça. Ventos fortes às vezes podem fazê-lo cair.",
         "zh-tw": "它利用頂部將自己附著在樹枝上\n它的頭。強風有時會使其掉落。",
-        ja: "頭の 先を 枝に くっつけて ぶら下がる。強風に あおられ 落ちてしまう ことも あるのだ。"
+        ja: "頭の 先を 枝に くっつけて ぶら下がる。強風に あおられ 落ちてしまう ことも あるのだ。",
+        ko: "머리끝을 가지에 붙여\n매달린다. 강풍이 불면\n떨어지기도 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ausrollen",
                 "pt-br": "Sair da cama",
                 "zh-tw": "推出",
-                ja: "ころがる"
+                ja: "ころがる",
+                ko: "구르기"
             },
             damage: 20,
             cost: ["Grass"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

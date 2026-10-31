@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/111",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/111"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/111",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/111"
     },
     name: {
         en: "Mega Charizard X ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Wütender Brand",
                 "pt-br": "Labareda Violenta",
                 "zh-tw": "激狂火焰",
-                ja: "レイジングブレイズ"
+                ja: "レイジングブレイズ",
+                ko: "레이징 블레이즈"
             },
             effect: {
                 en: "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wenn die verbleibenden HP dieses Pokémon 110 oder weniger betragen, fügt dieser Angriff 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se o HP restante deste Pokémon for 110 ou menos, este ataque causará 80 de dano a mais.",
                 "zh-tw": "如果這隻寶可夢的剩餘生命值為 110 或以下，則此攻擊造成的傷害增加 80 點。",
-                ja: "このポケモンの残りHPが110以下なら、80ダメージ追加。"
+                ja: "このポケモンの残りHPが110以下なら、80ダメージ追加。",
+                ko: "이 포켓몬의 남은 HP가 110 이하라면 80데미지를 추가한다."
             },
             damage: "100+"
         }

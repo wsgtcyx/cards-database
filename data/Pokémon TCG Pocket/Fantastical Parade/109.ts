@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/109",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/109"
     },
     name: {
         en: "Guzzlord",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Schlingking",
         "pt-br": "Guzzlord",
         "zh-tw": "惡食大王",
-        ja: "アクジキング"
+        ja: "アクジキング",
+        ko: "악식킹"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Eine unbekannte Lebensform namens UB. Es kann sein\nständig hungrig – auf jeden Fall ist es immer so\netwas verschlingen.",
         "pt-br": "Uma forma de vida desconhecida chamada UB. Pode ser\nconstantemente com fome - certamente está sempre\ndevorando alguma coisa.",
         "zh-tw": "一種名為 UB 的未知生命體。可能是\n不斷飢餓——當然總是\n吞噬某物。",
-        ja: "ＵＢと 呼ばれる 未知の 生命。 常に 腹を すかせているのか ずっと なにかを 喰らっている。"
+        ja: "ＵＢと 呼ばれる 未知の 生命。 常に 腹を すかせているのか ずっと なにかを 喰らっている。",
+        ko: "UB라고 불리는 미지의 생명체.\n늘 배가 고픈 상태인 것인지\n계속해서 무언가를 먹고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Breakcore",
                 "pt-br": "Breakcore",
                 "zh-tw": "突破核心",
-                ja: "ブレイクコア"
+                ja: "ブレイクコア",
+                ko: "브레이크코어"
             },
             cost: ["Darkness", "Darkness", "Darkness", "Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ lege das Aktive Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se der cara, descarte o Pokémon Ativo do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをトラッシュ。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをトラッシュ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 트래쉬한다."
             }
         }],
     weaknesses: [{

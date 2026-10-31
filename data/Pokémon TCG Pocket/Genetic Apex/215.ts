@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/215",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/215",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/215"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/215",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/215"
     },
     name: {
         en: "Dubwool",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Wolly",
         "pt-br": "Wooloo",
         "zh-tw": "毛辮羊",
-        ja: "ウールー"
+        ja: "ウールー",
+        ko: "우르"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],

@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/226",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/226",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/226",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/226"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/226",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/226"
 	},
 	name: {
 		en: "Zubat",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Zubat",
 		"pt-br": "Zubat",
 		"zh-tw": "超音蝠",
-		ja: "ズバット"
+		ja: "ズバット",
+		ko: "주뱃"
 	},
 	illustrator: "Sekio",
 	rarity: "One Diamond",

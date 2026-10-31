@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/013"
     },
     name: {
         en: "Magmortar",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sie leben in Vulkankratern. Es wird gesagt, dass auf jedem Vulkan nur ein einziges Paar Magbrant leben wird.",
         "pt-br": "Eles vivem em crateras vulcânicas. Diz-se que apenas um único par de Magmortar habitará qualquer vulcão.",
         "zh-tw": "他們居住在火山口中。據說任何一座火山上都只有一對 鴨嘴炎獸。",
-        ja: "火山の 火口に 棲む。 １つの 火山には ひとつがいの ブーバーンしかいないと いわれる。"
+        ja: "火山の 火口に 棲む。 １つの 火山には ひとつがいの ブーバーンしかいないと いわれる。",
+        ko: "화산의 화구에 산다.\n1개의 화산에는 암수 한 쌍의\n마그마번밖에 없다고 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Donnernder Vulkan",
                 "pt-br": "Vulcão Trovejante",
                 "zh-tw": "雷鳴火山",
-                ja: "らいめいボルケーノ"
+                ja: "らいめいボルケーノ",
+                ko: "천둥볼케이노"
             },
             effect: {
                 en: "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn sich Elevoltek auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Se Electivire estiver no seu Banco, este ataque também causará 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "如果電擊魔獸在你的替補席上，這次攻擊也會對對手的替補席上的每隻寶可夢造成20點傷害。",
-                ja: "自分のベンチに「エレキブル」がいるなら、相手のベンチポケモン全員にも20ダメージ。"
+                ja: "自分のベンチに「エレキブル」がいるなら、相手のベンチポケモン全員にも20ダメージ。",
+                ko: "자신의 벤치에 「에레키블」이 있다면 상대의 벤치 포켓몬 전원에게도 20데미지를 준다."
             },
             damage: 70
         }

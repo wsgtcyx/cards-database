@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/019"
     },
     name: {
         en: "Lilligant",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
         ja: "チュリネ",
-        ko: "Petilil"
+        ko: "치릴리"
     },
     description: {
         en: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Não importa quanto tempo e dinheiro é gasto no seu crescimento, suas flores serão sempre mais bonitas quando florescem na selva.",
         "zh-tw": "無論花多少功夫和金錢，比起借助人工手段培育出的花，在野外綻放的花更美。",
         ja: "どんなに 手間と お金を かけても 人の手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。",
-        ko: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild."
+        ko: "아무리 시간과 돈을 들여도\n사람 손으로 피우는 것보다\n야생에서 피는 꽃이 더 아름답다."
     },
     stage: "Stage1",
     abilities: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Aroma da Determinação",
                 "zh-tw": "堅韌芳香",
                 ja: "タフネスアロマ",
-                ko: "Toughness Aroma"
+                ko: "터프니스 아로마"
             },
             effect: {
                 en: "Each of your {G} Pokémon gets +20 HP.",
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Cada um dos seus Pokémon {G} recebe +20 PS.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有{G}寶可夢的最大HP+20。",
                 ja: "このポケモンがいるかぎり、自分の{G}ポケモン全員の最大HPを+20する。",
-                ko: "Each of your {G} Pokémon gets +20 HP."
+                ko: "이 포켓몬이 있는 한, 자신의 {G}포켓몬 전원의 최대 HP를 +20한다."
             }
         }
     ],
@@ -92,7 +93,7 @@ const card: Card = {
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
                 ja: "ひらてうち",
-                ko: "Smack"
+                ko: "수벽치기"
             },
             damage: 50,
             cost: [

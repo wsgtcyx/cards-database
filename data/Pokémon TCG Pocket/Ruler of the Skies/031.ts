@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/031",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/031"
     },
     name: {
         en: "Golduck",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Entoron mag stille, langsam fließende Flüsse und Seen. Es ist ein sehr anmutiger Schwimmer.",
         "pt-br": "Nada graciosamente por rios e lagos tranquilos e lentos, dos quais gosta muito.",
         "zh-tw": "喜歡水流平穩的\n河川和湖泊。\n泳姿相當地優雅。",
-        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。"
+        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。",
+        ko: "잔잔하게 흐르는 강이나\n호수를 좋아한다.\n헤엄치는 모습이 아주 우아하다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Surfer",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 80
         }

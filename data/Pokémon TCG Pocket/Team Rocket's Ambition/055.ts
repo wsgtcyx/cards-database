@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/055"
     },
     name: {
         en: "Duraludon",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein metallener Körper ist robust, aber heizt sich schnell auf. Um einen Hitzestau zu verhindern, leitet es Wärme durch Schlitze im Schwanz ab.",
         "pt-br": "O seu corpo de metal é resistente, mas propenso a reter calor. Libera o calor pelas fendas de sua cauda.",
         "zh-tw": "金屬構成的身體雖然堅固但無法散熱，因此牠會從尾巴上的縫隙排出熱氣。",
-        ja: "金属の ボディは 頑丈だが 熱が こもってしまうので 尻尾の スリットから 放熱している。"
+        ja: "金属の ボディは 頑丈だが 熱が こもってしまうので 尻尾の スリットから 放熱している。",
+        ko: "금속으로 된 몸은 튼튼하지만\n열을 잘 받기 때문에\n꼬리의 슬릿을 통해 열을 내보낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Power-Strahl",
                 "pt-br": "Raio de Poder",
                 "zh-tw": "強力光束",
-                ja: "パワービーム"
+                ja: "パワービーム",
+                ko: "파워빔"
             },
             damage: 50
         }

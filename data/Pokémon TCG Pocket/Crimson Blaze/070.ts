@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/070",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/070"
     },
     name: {
         en: "Ariados",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Ariados",
         "pt-br": "Ariados",
         "zh-tw": "阿利多斯",
-        ja: "アリアドス"
+        ja: "アリアドス",
+        ko: "아리아도스"
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Webarak",
         "pt-br": "Spinarak",
         "zh-tw": "圓絲蛛",
-        ja: "イトマル"
+        ja: "イトマル",
+        ko: "페이검"
     },
     description: {
         en: "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es spuckt Fäden aus seinem Mund, um es zu fangen\nBeute. Wenn die Nacht hereinbricht, verlässt es sein Netz, um zu verschwinden\naggressiv jagen.",
         "pt-br": "Ele vomita fios de sua boca para pegar seu\npresa. Quando a noite cai, ele deixa sua teia para ir\ncaçar agressivamente.",
         "zh-tw": "它從嘴裡噴出絲線來捕捉它\n獵物。當夜幕降臨時，它會離開它的網去\n積極地狩獵。",
-        ja: "糸を はいて 獲物を 捕らえる。 夜に なると 巣から 離れて 積極的に 狩りを するぞ。"
+        ja: "糸を はいて 獲物を 捕らえる。 夜に なると 巣から 離れて 積極的に 狩りを するぞ。",
+        ko: "실을 뿜어서 먹이를 잡는다.\n밤이 되면 둥지를 떠나\n적극적으로 사냥에 나선다."
     },
     stage: "Stage1",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Trap-Territorium",
                 "pt-br": "Território da Armadilha",
                 "zh-tw": "陷阱領地",
-                ja: "トラップテリトリー"
+                ja: "トラップテリトリー",
+                ko: "트랩 테리터리"
             },
             effect: {
                 en: "Your opponent's Active Pokémon's Retreat Cost is 1 more.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Die Rückzugskosten des aktiven Pokémon deines Gegners betragen 1 mehr.",
                 "pt-br": "O Custo de Recuo do Pokémon Ativo do seu oponente é de 1 a mais.",
                 "zh-tw": "對手的現役寶可夢的撤退費用再增加 1 點。",
-                ja: "このポケモンがいるかぎり、相手のバトルポケモンのにげるためのエネルギーを、1個多くする。"
+                ja: "このポケモンがいるかぎり、相手のバトルポケモンのにげるためのエネルギーを、1個多くする。",
+                ko: "이 포켓몬이 있는 한, 상대 배틀 포켓몬의 후퇴에 필요한 에너지를 1개 많게 한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Pierce",
                 "pt-br": "Perfurar",
                 "zh-tw": "刺穿",
-                ja: "つきさす"
+                ja: "つきさす",
+                ko: "궤찌르기"
             },
             damage: 30,
             cost: ["Grass"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/045"
     },
     name: {
         en: "Purrloin",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
         ja: "チョロネコ",
+        ko: "쌔비냥",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Gegner, die sich von seiner Liebenswürdigkeit anziehen lassen\nVerhalten kommt mit stechenden Kratzern weg\nseine Krallen und der stechende Stolz seines Lachens.",
         "pt-br": "Oponentes que são atraídos por seu adorável\ncomportamento sai com arranhões dolorosos de\nsuas garras e o orgulho pungente de sua risada.",
         "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。",
-        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。"
+        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。",
+        ko: "귀여운 동작으로 방심시키고\n상대가 다가오면 갑자기\n발톱으로 할퀴고는 웃는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spielerischer Knockdown",
                 "pt-br": "Nocaute brincalhão",
                 "zh-tw": "有趣的擊倒",
-                ja: "じゃれおとす"
+                ja: "じゃれおとす",
+                ko: "치근거려 떨구기"
             },
             cost: ["Darkness"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege alle Pokémon-Werkzeuge vom aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "丟棄對手的活躍神奇寶貝中的所有神奇寶貝工具。",
-                ja: "相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
+                ja: "相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
+                ko: "상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다."
             }
         }],
     weaknesses: [{

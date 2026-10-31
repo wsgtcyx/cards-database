@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/222",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/222",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/222",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/222"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/222",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/222"
     },
     name: {
         en: "Smeargle",
@@ -38,7 +39,8 @@ const card: Card = {
         "de": "Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.",
         "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle",
         "zh-tw": "每隻圖圖犬從尾巴尖端\n分泌出的神秘液體，\n都有自己固定的顏色。",
-        ja: "尻尾の 先から 分泌する 謎の 液体の 色は ドーブルごとに 決まっている。"
+        ja: "尻尾の 先から 分泌する 謎の 液体の 色は ドーブルごとに 決まっている。",
+        ko: "꼬리 끝에서 분비되는\n정체불명의 액체의 색은\n루브도마다 정해져 있다."
     },
     abilities: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Porträt",
                 "pt-br": "Retrato",
                 "zh-tw": "肖像畫",
-                ja: "にがおえ"
+                ja: "にがおえ",
+                ko: "초상화"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may look at a random Supporter card from your opponent's hand. Use the effect of that card as the effect of this Ability.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du dir eine zufällige Unterstützerkarte aus der Hand deines Gegners ansehen. Nutze den Effekt dieser Karte als Effekt dieser Fähigkeit.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá olhar uma carta de Apoiador aleatória da mão do seu oponente. Use o efeito daquela carta como o efeito desta Habilidade.",
                 "zh-tw": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從對手的手牌隨機查看1張支援者卡的正面後,將該支援者卡的效果,作為這個特性的效果使用。",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手の手札からサポートをランダムに1枚、オモテを見て、そのサポートの効果を、この特性の効果として使う。"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手の手札からサポートをランダムに1枚、オモテを見て、そのサポートの効果を、この特性の効果として使う。",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 패에서 서포트를 랜덤으로 1장 앞면을 보고 그 서포트의 효과를 이 특성의 효과로써 사용한다."
             }
         }
     ],
@@ -76,7 +80,8 @@ const card: Card = {
                 de: "Schweifvertrimmer",
                 "pt-br": "Surra de Cauda",
                 "zh-tw": "擺尾拍擊",
-                ja: "しっぽではたく"
+                ja: "しっぽではたく",
+                ko: "꼬리로 막치기"
             },
             damage: 30
         }

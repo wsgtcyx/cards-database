@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/023"
     },
     name: {
         en: "Origin Forme Palkia",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Ur-Palkia",
         'pt-br': "Palkia Forma Origem",
         ja: "オリジンパルキア",
-        ko: "오리진펄기아",
+        ko: "오리진 펄기아",
         "zh-tw": "起源帕路奇亞",
     },
     illustrator: "toriyufu",

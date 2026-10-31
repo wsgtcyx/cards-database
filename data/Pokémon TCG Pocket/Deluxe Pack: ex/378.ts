@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/378",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/378",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/378",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/378"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/378",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/378"
 	},
 	name: {
         en: "Darkrai ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Darkrai ex",
         "zh-tw": "達克萊伊ex",
         ja: "ダークライex",
+        ko: "다크라이 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Albtraum-Aura",
                 "pt-br": "Aura de Pesadelo",
                 "zh-tw": "夢魘光環",
-                ja: "ナイトメアオーラ"
+                ja: "ナイトメアオーラ",
+                ko: "나이트메어 오라"
             },
             effect: {
                 en: "Whenever you attach a {D} Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Immer wenn du diesem Pokémon eine {D}-Energie aus deiner Energiezone anlegst, füge dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Sempre que você associar uma Energia {D} da sua Zona de Energia a este Pokémon, cause 20 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。",
-                ja: "自分のエネルギーゾーンからこのポケモンに{D}エネルギーをつけるたび、相手のバトルポケモンに20ダメージ。"
+                ja: "自分のエネルギーゾーンからこのポケモンに{D}エネルギーをつけるたび、相手のバトルポケモンに20ダメージ。",
+                ko: "자신의 에너지존에서 이 포켓몬에게 {D}에너지를 붙일 때마다 상대의 배틀 포켓몬에게 20데미지를 준다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Dunkles Prisma",
                 "pt-br": "Prisma Escuro",
                 "zh-tw": "黑暗棱鏡",
-                ja: "ダークプリズム"
+                ja: "ダークプリズム",
+                ko: "다크프리즘"
             },
             damage: 80,
             cost: ["Darkness", "Darkness", "Colorless"]

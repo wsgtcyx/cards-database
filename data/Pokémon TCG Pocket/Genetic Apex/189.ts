@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/189",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/189"
     },
     name: {
         en: "Rattata",

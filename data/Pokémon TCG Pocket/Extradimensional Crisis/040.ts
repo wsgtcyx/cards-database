@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/040",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/040"
     },
     name: {
         en: "Krokorok",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
         ja: "ワルビル",
+        ko: "악비르",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
         ja: "メグロコ",
+        ko: "깜눈크",
     },
     description: {
         en: "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Geschützt durch dünne Membranen können ihre Augen sehen\nsogar mitten in der Nacht. Sie leben in Gruppen von\nein paar Einzelpersonen.",
         "pt-br": "Protegidos por membranas finas, seus olhos podem ver\nmesmo na calada da noite. Eles vivem em grupos de\nalguns indivíduos.",
         "zh-tw": "它們的眼睛受到薄膜的保護，可以看到東西\n即使是在夜深人靜的時候。他們成群結隊地生活\n幾個人。",
-        ja: "薄い 膜で 被われている 両目は 真夜中でも 見える。数匹の 群れで 暮らしている。"
+        ja: "薄い 膜で 被われている 両目は 真夜中でも 見える。数匹の 群れで 暮らしている。",
+        ko: "얇은 막으로 덮여 있는 두 눈은\n한밤중에도 잘 보인다.\n몇 마리가 무리 지어 생활한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Leichter Schlag",
                 "pt-br": "Soco Leve",
                 "zh-tw": "輕拳",
-                ja: "なぐる"
+                ja: "なぐる",
+                ko: "치기"
             },
             damage: 40,
             cost: ["Darkness", "Colorless"]

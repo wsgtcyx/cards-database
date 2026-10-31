@@ -17,7 +17,8 @@ const set: Set = {
     },
     logo: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/logo"
     },
     cardCount: {
         official: 27
@@ -44,7 +45,7 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/boosters/first-partners/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/artwork_front.webp",
@@ -55,11 +56,14 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/artwork_front.webp",
                 ja: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/artwork_front.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/boosters/first-partners/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-10-31"
+    releaseDate: "2026-10-31",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/SP1/symbol"
+	}
 }
 
 export default set

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/007",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/007"
     },
     name: {
         en: "Cherrim",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
         ja: "チェリンボ",
+        ko: "체리버",
     },
     description: {
         en: "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",

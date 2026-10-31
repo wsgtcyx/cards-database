@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/426",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/426",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/426",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/426"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/426",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/426"
     },
     name: {
         en: "Dedenne ex",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Dedecircuito",
                 "zh-tw": "咚咚陣",
                 ja: "デデサークル",
-                ko: "Dede-Circuit"
+                ko: "데데서클"
             },
             effect: {
                 en: "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon.",
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 40 pontos de dano para cada Ferramenta Pokémon ligada a todos os seus Pokémon.",
                 "zh-tw": "造成自己的所有寶可夢身上的「寶可夢道具」卡的數量×40點傷害。",
                 ja: "自分のポケモン全員の「ポケモンのどうぐ」の数×40ダメージ。",
-                ko: "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon."
+                ko: "자신의 포켓몬 전원의 「포켓몬의 도구」의 수 × 40데미지를 준다."
             },
             damage: "40x"
         }

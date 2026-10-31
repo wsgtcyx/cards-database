@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/125",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/125",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/125"
     },
     name: {
         en: "Applin",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Knapfel lebt in einem Apfel. Wenn ein Knapfel von seinem Apfel getrennt wird, verliert sein Körper Feuchtigkeit und das Pokémon wird schwach.",
         "pt-br": "Applin vive dentro de uma maçã. Quando um Applin é separado de sua maçã, seu corpo perde umidade e o Pokémon fica fraco.",
         "zh-tw": "啃果蟲 住在蘋果裡面。當啃果蟲與蘋果分離時，它的身體會失去水分，寶可夢會變得虛弱。",
-        ja: "りんごの 中で 暮らしている。 りんごが なくなると 体の 水分が 抜けて 弱ってしまう。"
+        ja: "りんごの 中で 暮らしている。 りんごが なくなると 体の 水分が 抜けて 弱ってしまう。",
+        ko: "사과 안에 살고 있다.\n사과가 없어지면\n몸의 수분이 빠져나와 약해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Rolltackle",
                 "pt-br": "Golpe de Colisão Rolante",
                 "zh-tw": "滾動衝撞",
-                ja: "ころがりタックル"
+                ja: "ころがりタックル",
+                ko: "구르기 태클"
             },
             damage: 40
         }

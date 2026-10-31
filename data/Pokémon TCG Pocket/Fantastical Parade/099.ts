@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/099",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/099"
     },
     name: {
         en: "Galarian Linoone",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
         "zh-tw": "伽勒爾直衝熊",
-        ja: "ガラルマッスグマ"
+        ja: "ガラルマッスグマ",
+        ko: "가라르 직구리"
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
         "zh-tw": "伽勒爾蛇紋熊",
-        ja: "ガラルジグザグマ"
+        ja: "ガラルジグザグマ",
+        ko: "가라르 지그제구리"
     },
     description: {
         en: "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses sehr aggressive Pokémon wird rücksichtslos sein\nFordern Sie Gegner heraus, die stärker sind als Sie selbst.",
         "pt-br": "Este Pokémon muito agressivo irá imprudentemente\ndesafiar adversários mais fortes do que ele.",
         "zh-tw": "這種非常具有攻擊性的神奇寶貝會魯莽地\n挑戰比自己更強的對手。",
-        ja: "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。"
+        ja: "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。",
+        ko: "매우 호전적인 성질을 가졌다.\n자신보다 강한 상대에게도\n개의치 않고 무모하게 덤빈다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hinterer Tritt",
                 "pt-br": "Chute traseiro",
                 "zh-tw": "後踢",
-                ja: "うしろげり"
+                ja: "うしろげり",
+                ko: "뒤로 차기"
             },
             damage: 40,
             cost: ["Darkness"]

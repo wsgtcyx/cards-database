@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/064"
     },
     name: {
         en: "Skwovet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skwovet",
         "zh-tw": "貪心栗鼠",
         ja: "ホシガリス",
+        ko: "탐리스",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es speichert Beeren in seinen Wangen. Wenn es keine gibt\nBeeren zu finden sind, wird Skwovet Kieselsteine stopfen\nin seine Wangen, um sein Verlangen zu stillen.",
         "pt-br": "Ele armazena frutas nas bochechas. Quando não há\nbagas a serem encontradas, Skwovet vai encher seixos\nem suas bochechas para afastar seus desejos.",
         "zh-tw": "它的臉頰裡儲存著漿果。當沒有\n尋找漿果，Skwovet 會填滿鵝卵石\n進入它的臉頰以避免它的渴望。",
-        ja: "ほっぺに 木の実を 蓄える。 木の実が なく 口寂しいときは 小石を ふくんで 耐えしのぐ。"
+        ja: "ほっぺに 木の実を 蓄える。 木の実が なく 口寂しいときは 小石を ふくんで 耐えしのぐ。",
+        ko: "볼에 나무열매를 비축한다.\n나무열매가 없어서 입이 심심할 때는\n조약돌을 물면서 견딘다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

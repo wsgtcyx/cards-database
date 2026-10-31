@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/044"
     },
     name: {
         en: "Team Rocket's Sneasel",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Diese raffinierten Pokémon arbeiten-bisweilen zu zweit, um Nester auszurauben. Während eines die Eltern weglöckt, holt sich das andere die Eier.",
         "pt-br": "É um Pokémon inteligente e furtivo. Ao trabalharem em dupla para roubar ovos, um deles engana os pais para afastá-los do ninho.",
         "zh-tw": "會透過團隊合作，一隻負責引開雙親的注意，一隻負責偷走蛋，非常地狡猾奸詐。",
-        ja: "ずる賢く １匹が 親を 誘き寄せ もう１匹が タマゴを 取るという チームプレーも 見せる。"
+        ja: "ずる賢く １匹が 親を 誘き寄せ もう１匹が タマゴを 取るという チームプレーも 見せる。",
+        ko: "약삭빠르게 한 마리가 어미를\n유인하고 다른 한 마리가 알을\n훔치는 팀플레이를 보여 준다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Gruppenprügler",
                 "pt-br": "Abater em Grupo",
                 "zh-tw": "圍剿",
-                ja: "みんなでしばく"
+                ja: "みんなでしばく",
+                ko: "다함께 때려잡기"
             },
             effect: {
                 en: "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 30 pontos de dano para cada cara.",
                 "zh-tw": "以自己的場上寶可夢的數量擲硬幣,造成正面出現的次數×30點傷害。",
-                ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×30ダメージ。"
+                ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×30ダメージ。",
+                ko: "자신의 필드의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 준다."
             },
             damage: "30x"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/080",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/080"
     },
     name: {
         en: "Torracat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
         ja: "ニャヒート",
+        ko: "냐오히트",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
         ja: "ニャビー",
+        ko: "냐오불",
     },
     description: {
         en: "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Torracat lässt sich von seinem Trainer verhätscheln, sobald er es getan hat\nnah herangewachsen, aber es ist ein kräftiger, scharfklauiger Mensch\nPokémon, sodass sein Trainer mit Kratzern übersät ist.",
         "pt-br": "Torracat deixará seu treinador mimá-lo assim que tiver\nse aproximou, mas é um poderoso e com garras afiadas\nPokémon, então seu Treinador fica coberto de arranhões.",
         "zh-tw": "一旦他們完成任務，托拉貓就會讓訓練師寵愛它\n距離很近，但它是一隻強大的、鋒利的爪子\n神奇寶貝，所以它的訓練師佈滿了划痕。",
-        ja: "なつくと トレーナーにも 甘えるが 力は 強く ツメも 鋭い。 全身 傷だらけに されるぞ。"
+        ja: "なつくと トレーナーにも 甘えるが 力は 強く ツメも 鋭い。 全身 傷だらけに されるぞ。",
+        ko: "친해지면 트레이너에게도 응석 부리지만,\n힘은 강하고 발톱도 날카롭다.\n온몸을 상처투성이로 만든다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hitzegerät",
                 "pt-br": "Equipamento térmico",
                 "zh-tw": "熱力鏟球",
-                ja: "ヒートタックル"
+                ja: "ヒートタックル",
+                ko: "히트태클"
             },
             damage: 40,
             cost: ["Fire"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

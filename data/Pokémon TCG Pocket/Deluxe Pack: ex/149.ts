@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/149",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/149",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/149",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/149"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/149",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/149"
 	},
 	name: {
 		en: "Zeraora",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Zeraora",
 		"pt-br": "Zeraora",
 		"zh-tw": "捷拉奧拉",
-		ja: "ゼラオラ"
+		ja: "ゼラオラ",
+		ko: "제라오라"
 	},
 	illustrator: "kawayoo",
 	rarity: "Three Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Es elektrisiert seine Krallen und zerreißt seine Gegner\ngetrennt von ihnen. Selbst wenn sie seinem Angriff ausweichen,\nSie werden durch die fliegenden Funken einen Stromschlag erleiden.",
 		"pt-br": "Eletrifica suas garras e rasga seus oponentes\nalém deles. Mesmo que eles evitem seu ataque,\neles serão eletrocutados pelas faíscas voadoras.",
 		"zh-tw": "它給它的爪子通電並撕裂它的對手\n與他們分開。就算躲過了它的攻擊，\n他們會被飛濺的火花觸電。",
-		ja: "両手足の ツメを 帯電させ 相手を 八つ裂き。 かわされても 飛び散る 電撃で 感電させる。"
+		ja: "両手足の ツメを 帯電させ 相手を 八つ裂き。 かわされても 飛び散る 電撃で 感電させる。",
+		ko: "양 손발톱에 전기를 머금어\n상대를 갈가리 찢는다. 피하더라도\n흩날리는 전격으로 감전시킨다."
 	},
 	stage: "Basic",
 	abilities: [
@@ -50,7 +53,8 @@ const card: Card = {
 				de: "Donnerschlagblitz",
 				"pt-br": "Trovão Flash",
 				"zh-tw": "雷霆閃現",
-				ja: "じんらいせんこう"
+				ja: "じんらいせんこう",
+				ko: "신뢰 섬광"
 			},
 			effect: {
 				en: "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -60,7 +64,8 @@ const card: Card = {
 				de: "Nimm am Ende deines ersten Zuges eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
 				"pt-br": "No final do seu primeiro turno, pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
 				"zh-tw": "在你的第一回合結束時，從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。",
-				ja: "最初の自分の番の終わりに、自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
+				ja: "最初の自分の番の終わりに、自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
+				ko: "자신의 첫 번째 차례의 마지막에 자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다."
 			}
 		}
 	],
@@ -74,7 +79,8 @@ const card: Card = {
 				de: "Blitzklaue",
 				"pt-br": "Garra Relâmpago",
 				"zh-tw": "閃電爪",
-				ja: "かみなりのツメ"
+				ja: "かみなりのツメ",
+				ko: "번개발톱"
 			},
 			damage: 50,
 			cost: ["Lightning", "Lightning"]

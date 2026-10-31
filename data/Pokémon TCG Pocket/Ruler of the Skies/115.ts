@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/115",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/115",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/115",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/115"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/115",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/115"
     },
     name: {
         en: "Revavroom",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
         "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
-        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。",
+        ko: "배기음을 내어 거세게 위협한다.\n원통형의 입을 통해 혀를 꺼내고는\n독액을 흩뿌린다."
     },
     abilities: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Personalização Dupla",
                 "zh-tw": "雙重改造",
                 "de": "Doppel-Modifizierung",
-                ja: "ダブルカスタム"
+                ja: "ダブルカスタム",
+                ko: "더블 커스텀"
             },
             effect: {
                 en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "An dieses Pokémon können bis zu 2 Pokémon-Ausrüstungen angelegt sein.",
                 "pt-br": "Este Pokémon pode ter até 2 cartas de Ferramenta Pokémon ligadas a ele.",
                 "zh-tw": "這隻寶可夢身上最多可附有2張「寶可夢道具」卡。",
-                ja: "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。"
+                ja: "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。",
+                ko: "이 포켓몬은 「포켓몬의 도구」를 2장까지 붙일 수 있다."
             }
         }
     ],
@@ -87,7 +91,8 @@ const card: Card = {
                 de: "Überbeschleunigung",
                 "pt-br": "Superaceleração",
                 "zh-tw": "失控暴衝",
-                ja: "オーバーアクセル"
+                ja: "オーバーアクセル",
+                ko: "오버액셀"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Overacceleration attack does +70 damage.",
@@ -97,7 +102,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 70 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 70 pontos de dano.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+70點。",
-                ja: "次の自分の番、このポケモンの「オーバーアクセル」のダメージを+70する。"
+                ja: "次の自分の番、このポケモンの「オーバーアクセル」のダメージを+70する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「오버액셀」의 데미지를 +70한다."
             },
             damage: 70
         }

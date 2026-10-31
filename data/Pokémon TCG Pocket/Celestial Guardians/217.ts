@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/217",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/217",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/217"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/217",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/217"
     },
     name: {
         en: "Blastoise",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
         ja: "カメール",
+        ko: "어니부기",
     },
     description: {
         en: "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",

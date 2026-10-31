@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/057"
     },
     name: {
         en: "Druddigon",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Shardrago ist grausam und gerissen. Es nimmt die\nselbstgegrabenen Höhlen anderer Pokémon ein,\num sie zu seinem Unterschlupf zu machen.",
         "pt-br": "Druddigon são cruéis e astutos. Eles passam a residir em ninhos escavados por outros Pokémon, tratando os ninhos roubados como seus próprios covis.",
         "zh-tw": "性情凶暴且狡猾。會搶奪\n其他寶可夢挖好的巢穴，\n來當作是自己的窩。",
-        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。"
+        ja: "凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。",
+        ko: "난폭하고 교활하다.\n다른 포켓몬이 파낸\n굴을 빼앗아 거처로 삼는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Greifer",
                 "pt-br": "Agarramento",
                 "zh-tw": "緊抓",
-                ja: "わしづかみ"
+                ja: "わしづかみ",
+                ko: "꽉쥐기"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             },
             damage: 40
         }

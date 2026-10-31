@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/034"
     },
     name: {
         en: "Combusken",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
         ja: "ワカシャモ",
+        ko: "영치코",
     },
     illustrator: "GOSSAN",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Torchic",
         "zh-tw": "火稚雞",
         ja: "アチャモ",
+        ko: "아차모",
     },
     description: {
         en: "During a battle, the hot flame in its body increases.\nIts kicks have outstanding destructive power.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Während eines Kampfes verstärkt sich die heiße Flamme in seinem Körper.\nSeine Tritte haben eine herausragende Zerstörungskraft.",
         "pt-br": "Durante uma batalha, a chama quente em seu corpo aumenta.\nSeus chutes têm um poder destrutivo extraordinário.",
         "zh-tw": "戰鬥時，它體內的熾熱火焰會增加。\n其踢腿具有超凡的破壞力。",
-        ja: "戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。"
+        ja: "戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。",
+        ko: "싸우게 되면 체내의\n불꽃이 세차게 타오른다.\n킥은 파괴력이 굉장하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hochsprung-Kick",
                 "pt-br": "Chute de salto em altura",
                 "zh-tw": "跳高踢腿",
-                ja: "とびひざげり"
+                ja: "とびひざげり",
+                ko: "무릎차기"
             },
             damage: 50,
             cost: ["Fire", "Fire"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Water",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

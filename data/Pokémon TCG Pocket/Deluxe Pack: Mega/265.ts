@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/265",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/265",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/265",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/265"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/265",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/265"
     },
     name: {
         en: "Combusken",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Torchic",
         "zh-tw": "火稚雞",
         ja: "アチャモ",
-        ko: "Torchic"
+        ko: "아차모"
     },
     description: {
         en: "During a battle, the hot flame in its body increases.\nIts kicks have outstanding destructive power.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Durante uma batalha, a chama quente em seu corpo aumenta. Seus chutes têm um poder destruidor excepcional.",
         "zh-tw": "戰鬥時體內的火焰會熊熊燃燒，踢腿極具破壞力。",
         ja: "戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。",
-        ko: "During a battle, the hot flame in its body increases.\nIts kicks have outstanding destructive power."
+        ko: "싸우게 되면 체내의\n불꽃이 세차게 타오른다.\n킥은 파괴력이 굉장하다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Chute de Pulo Alto",
                 "zh-tw": "飛膝踢",
                 ja: "とびひざげり",
-                ko: "High Jump Kick"
+                ko: "무릎차기"
             },
             damage: 50,
             cost: [

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/078",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/078"
     },
     name: {
         en: "Aerodactyl ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
         ja: "ひみつのコハク",
+        ko: "비밀의호박",
     },
     suffix: "EX",
     abilities: [{

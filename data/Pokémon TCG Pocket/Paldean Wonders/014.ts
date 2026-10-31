@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/014"
     },
     name: {
         en: "Rellor",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rellor",
         "zh-tw": "蟲滾泥",
         ja: "シガロコ",
+        ko: "구르데",
         pt: "Rellor",
         'es-mx': "Rellor"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Es rollt seinen Schlammball herum, während die Energie heranreift, die es für die Evolution braucht. Irgendwann ist die Zeit gekommen, dass es sich weiterentwickelt.",
         "pt-br": "Ele rola sua bola de lama enquanto a energia necessária para a evolução amadurece. Eventualmente chega a hora de evoluir.",
         "zh-tw": "當它進化所需的能量成熟時，它會滾動它的泥球。最終，它進化的時刻來了。",
-        ja: "泥玉を 転がしながら 進化の エネルギーを 熟成させる。 やがて 進化のときを 迎える。"
+        ja: "泥玉を 転がしながら 進化の エネルギーを 熟成させる。 やがて 進化のときを 迎える。",
+        ko: "진흙구슬을 굴리면서\n진화를 위한 에너지를 숙성시킨다.\n이윽고 진화의 때를 맞이하게 된다."
     },
     stage: "Basic",
     attacks: [
@@ -52,6 +55,7 @@ const card: Card = {
                 "pt-br": "Rolar bola",
                 "zh-tw": "滾球",
                 ja: "たまころがり",
+                ko: "구슬구르기",
                 'es-mx': "Bola Rodante",
                 pt: "Rolo Bola"
             },
@@ -66,6 +70,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 20 點傷害。",
                 ja: "ウラが出るまでコインを投げ、オモテの数×20ダメージ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 'es-mx': "Lanza 1 moneda hasta que salga cruz. Este ataque hace 20 puntos de daño por cada cara.",
                 pt: "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara."
             },

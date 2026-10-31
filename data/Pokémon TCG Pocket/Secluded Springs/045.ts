@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/045"
     },
     name: {
         en: "Relicanth",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Relicanth",
         "zh-tw": "古空棘魚",
         ja: "ジーランス",
+        ko: "시라칸",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Steinharte Schuppen und ölgefüllte Schwimmblasen\nErlaube diesem Pokémon, das intensive Wasser zu überleben\nDruck der Tiefsee.",
         "pt-br": "Escamas duras e bexigas natatórias cheias de óleo\npermita que este Pokémon sobreviva à água intensa\npressão do mar profundo.",
         "zh-tw": "堅硬的鱗片和充滿油的魚鰾\n讓這只神奇寶貝在激烈的水中生存\n深海的壓力。",
-        ja: "岩のように 硬い ウロコと 脂の 詰まった 浮袋で 深海の 水圧に 耐える。"
+        ja: "岩のように 硬い ウロコと 脂の 詰まった 浮袋で 深海の 水圧に 耐える。",
+        ko: "바위처럼 단단한 비늘과\n기름으로 가득 찬 부레로\n심해의 수압을 견딘다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Notieren",
                 "pt-br": "Derrubar",
                 "zh-tw": "記錄下來",
-                ja: "とっしん"
+                ja: "とっしん",
+                ko: "돌진"
             },
             damage: 50,
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

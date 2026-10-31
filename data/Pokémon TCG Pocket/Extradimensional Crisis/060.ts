@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/060"
     },
     name: {
         en: "Type: Null",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tipo Nulo",
         "zh-tw": "屬性：空",
         ja: "タイプ：ヌル",
+        ko: "타입:널",
     },
     illustrator: "match",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Eine Pokémon-Waffe, die für einen bestimmten Zweck entwickelt wurde\nMission, es ging während eines Experiments durch,\nalso wurde es kryogen eingefroren.",
         "pt-br": "Uma arma Pokémon desenvolvida para um determinado\nmissão, ficou furioso durante um experimento,\nentão foi congelado criogenicamente.",
         "zh-tw": "為特定的神奇寶貝開發的武器\n任務中，它在一次實驗中變得狂暴，\n所以它被低溫冷凍。",
-        ja: "ある任務の ために 開発された ポケモン兵器。 実験中に 暴走した ため 凍結された。"
+        ja: "ある任務の ために 開発された ポケモン兵器。 実験中に 暴走した ため 凍結された。",
+        ko: "특정 임무를 위해 개발된\n포켓몬 병기다. 실험 중에\n폭주해서 중단되었다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schneller Schlag",
                 "pt-br": "Golpe Rápido",
                 "zh-tw": "快速打擊",
-                ja: "クイックアタック"
+                ja: "クイックアタック",
+                ko: "퀵어택"
             },
             damage: "20+",
             cost: ["Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

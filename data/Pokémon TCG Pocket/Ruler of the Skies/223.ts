@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/223",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/223",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/223",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/223"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/223",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/223"
     },
     name: {
         en: "Buneary",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es greift an, indem es seine Ohren aufrollt und\nmit viel Schwung wieder entrollt. Durch Training\nkann Haspiror die Kraft dieser Attacke steigern.",
         "pt-br": "Buneary pode atacar enrolando as orelhas e depois atacando com a força criada ao desenrolá-las. Este ataque fica mais forte com o treinamento.",
         "zh-tw": "會利用把捲成團的耳朵伸直\n時的威力來使出攻擊招式。\n越訓練，招式威力就會越大。",
-        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。"
+        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。",
+        ko: "말고 있던 귀를 뻗는 힘으로\n공격하는 기술은 트레이닝을\n할수록 위력이 커진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Doppelkick",
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
-                ja: "にどげり"
+                ja: "にどげり",
+                ko: "두번차기"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

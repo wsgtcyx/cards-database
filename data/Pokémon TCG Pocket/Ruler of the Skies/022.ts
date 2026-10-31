@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/022",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/022",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/022"
     },
     name: {
         en: "Flareon",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es plustert das Fell um seinen Hals auf, um seine Körpertemperatur zu senken, die bis auf 900 °C steigen kann.",
         "pt-br": "Eriça os pelos no pescoço para resfriar a temperatura corporal, que pode chegar a 900 °C.",
         "zh-tw": "會展開頭部蓬鬆的體毛，\n使上升到了900度的\n體溫能夠冷卻下來。",
-        ja: "首のまわりの ふかふかした 体毛を 広げ 900度まで 上がった 体温を 冷ましている。"
+        ja: "首のまわりの ふかふかした 体毛を 広げ 900度まで 上がった 体温を 冷ましている。",
+        ko: "목 주위의 푹신푹신한\n털을 펼쳐 900도까지\n올라간 체온을 식힌다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "爆破尾",
                 "it": "Scoppiocoda",
                 "de": "Berstender Schweif",
-                ja: "バーストテール"
+                ja: "バーストテール",
+                ko: "버스트테일"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "將這隻寶可夢身上的個{R}能量丟棄。將對手的戰鬥寶可夢灼傷。",
                 "it": "Scarta un'Energia {R} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora bruciato.",
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
-                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。"
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
+                ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다. 상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 70
         }

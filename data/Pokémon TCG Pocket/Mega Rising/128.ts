@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/128",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/128",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/128",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/128"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/128",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/128"
     },
     name: {
         en: "Hippopotas",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Hippopotas",
         "zh-tw": "沙河馬",
         ja: "ヒポポタス",
+        ko: "히포포타스",
     },
     illustrator: "Yuya Oka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zur Abwehr von Keimen hüllt es sich in Sand.\nEs bewegt sich problemlos durch den Sand der Wüste.",
         "pt-br": "Ele se envolve em areia para afastar os germes.\nEle viaja facilmente pelas areias do deserto.",
         "zh-tw": "它用沙子包裹自己以抵禦細菌。\n它可以輕鬆地穿過沙漠的沙子。",
-        ja: "砂で 体を 覆うことで ばい菌から 身を 守る。 砂漠の 砂の 中を 移動。"
+        ja: "砂で 体を 覆うことで ばい菌から 身を 守る。 砂漠の 砂の 中を 移動。",
+        ko: "모래로 몸을 덮어\n세균으로부터 몸을 지킨다.\n사막의 모래 안에서 이동한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlammschuss",
                 "pt-br": "Tiro de lama",
                 "zh-tw": "泥彈",
-                ja: "マッドショット"
+                ja: "マッドショット",
+                ko: "머드샷"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/030",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/030"
     },
     name: {
         en: "Yamper",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
         ja: "ワンパチ",
+        ko: "멍파치",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses gefräßige Pokémon hilft Menschen nur bei\nihre Arbeit, weil sie Leckereien will. Während es läuft,\nes knistert vor Elektrizität.",
         "pt-br": "Este Pokémon guloso só ajuda pessoas com\nseu trabalho porque quer guloseimas. À medida que corre,\nele estala com eletricidade.",
         "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。",
-        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。",
+        ko: "간식에 끌려 사람의 일을\n돕는 먹보다. 탁탁 튀는\n전기를 두르고 계속 달린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
                 "zh-tw": "電擊踢",
-                ja: "エレキック"
+                ja: "エレキック",
+                ko: "일렉트릭킥"
             },
             damage: 20,
             cost: ["Lightning"]

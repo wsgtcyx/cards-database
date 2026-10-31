@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/117",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/117"
     },
     name: {
         en: "Alakazam",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Kadabra",
         "pt-br": "Kadabra",
         "zh-tw": "勇基拉",
-        ja: "ユンゲラー"
+        ja: "ユンゲラー",
+        ko: "윤겔라"
     },
     attacks: [{
             cost: ["Psychic", "Colorless", "Colorless"],

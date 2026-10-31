@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/100"
     },
     name: {
         en: "Weavile",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Weavile",
         "zh-tw": "瑪狃拉",
         ja: "マニューラ",
+        ko: "포푸니라",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sniebel",
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
-        ja: "ニューラ"
+        ja: "ニューラ",
+        ko: "포푸니"
     },
     description: {
         en: "Evolution made it even more devious.\nIt communicates by clawing signs in boulders.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Evolution hat es noch verschlagener gemacht.\nEs kommuniziert, indem es Zeichen in Felsbrocken kratzt.",
         "pt-br": "A evolução tornou tudo ainda mais tortuoso.\nEle se comunica arranhando sinais em pedras.",
         "zh-tw": "進化使它變得更加狡猾。\n它通過抓撓巨石上的標誌進行交流。",
-        ja: "進化して さらに ずる賢くなり ツメで 石に サインをつけて コミュニケーションを はかっている。"
+        ja: "進化して さらに ずる賢くなり ツメで 石に サインをつけて コミュニケーションを はかっている。",
+        ko: "진화한 후 더욱 약삭빨라져\n발톱으로 돌에 사인을 새겨\n커뮤니케이션을 시도한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 50,
             cost: ["Darkness"]

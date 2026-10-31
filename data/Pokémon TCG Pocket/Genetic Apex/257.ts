@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/257",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/257",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/257",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/257"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/257",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/257"
     },
     name: {
         en: "Starmie ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Sterndu",
         "pt-br": "Staryu",
         "zh-tw": "海星星",
-        ja: "ヒトデマン"
+        ja: "ヒトデマン",
+        ko: "별가사리"
     },
     suffix: "EX",
     attacks: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/089",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/089",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/089"
     },
     name: {
         en: "Conkeldurr",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Anstatt sich auf seine Stärke zu verlassen, setzt es Attacken ein, bei denen es seine Betonpfeiler mithilfe der Zentrifugalkraft umherschwingt.",
         "pt-br": "Em vez de depender da força física, dominam movimentos que fazem bom uso da força centrífuga para girar concreto.",
         "zh-tw": "能夠不憑蠻力，\n而是巧妙利用離心力\n來揮舞水泥柱使出招式。",
-        ja: "力に 頼らず 遠心力を うまく 活かして コンクリートを 振り回す 技を 使いこなせる。"
+        ja: "力に 頼らず 遠心力を うまく 活かして コンクリートを 振り回す 技を 使いこなせる。",
+        ko: "힘에 의지하지 않고 원심력을\n잘 활용하여 콘크리트를\n휘두르는 기술을 구사한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "岩盤崩裂",
                 "it": "Infrangiroccia",
                 "de": "Felsgrundbrecher",
-                ja: "がんばんくずし"
+                ja: "がんばんくずし",
+                ko: "암반허물기"
             },
             effect: {
                 en: "Discard a Stadium in play.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wirf ein im Spiel befindliches Stadion ab.",
                 "pt-br": "Descarte um Estádio em jogo.",
                 "zh-tw": "將場上的競技場卡丟棄。",
-                ja: "場に出ているスタジアムをトラッシュ。"
+                ja: "場に出ているスタジアムをトラッシュ。",
+                ko: "필드에 나와 있는 스타디움을 트래쉬한다."
             },
             damage: 100
         }

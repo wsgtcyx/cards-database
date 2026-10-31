@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/059"
     },
     name: {
         en: "Igglybuff",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Igglybuff",
         "zh-tw": "寶寶丁",
         ja: "ププリン",
+        ko: "푸푸린",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Körper hat einen leicht süßlichen Duft und ist federnd\nund weich. Wenn es auch nur einmal abprallt, kann es nicht aufhören.",
         "pt-br": "Seu corpo tem um aroma levemente adocicado e é saltitante\ne macio. Se saltar pelo menos uma vez, não poderá parar.",
         "zh-tw": "它的身體有淡淡的甜味，而且有彈性\n和柔軟的。即使彈起一次，也無法停止。",
-        ja: "ほんのり 甘い 香りが して よく 弾む 柔らかい 体は 一度 弾みだすと 止まらない。"
+        ja: "ほんのり 甘い 香りが して よく 弾む 柔らかい 体は 一度 弾みだすと 止まらない。",
+        ko: "은은하게 달콤한 향기가 나며\n잘 튕기는 부드러운 몸은\n한번 튀기 시작하면 멈추지 않는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Verschlafenes Schlaflied",
                 "pt-br": "Canção de ninar sonolenta",
                 "zh-tw": "昏昏欲睡的搖籃曲",
-                ja: "すやすやソング"
+                ja: "すやすやソング",
+                ko: "새근새근송"
             },
             damage: 10,
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
-                ja: "相手のバトルポケモンをねむりにする。"
+                ja: "相手のバトルポケモンをねむりにする。",
+                ko: "상대의 배틀 포켓몬을 잠듦으로 만든다."
             }
         }],
     retreat: 0

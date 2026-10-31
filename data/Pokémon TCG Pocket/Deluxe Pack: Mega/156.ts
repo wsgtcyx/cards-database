@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/156",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/156"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/156",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/156"
     },
     name: {
         en: "Mega Scizor ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Scyther",
         "zh-tw": "飛天螳螂",
         ja: "ストライク",
-        ko: "Scyther"
+        ko: "스라크"
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Socão Disparado",
                 "zh-tw": "子彈強擊",
                 ja: "バレットスラッガー",
-                ko: "Bullet Slugger"
+                ko: "불릿슬러거"
             },
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon foi movido do seu Banco para o Campo Ativo neste turno, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "在這個回合,若從備戰區將這隻寶可夢放置於戰鬥場,則增加50點傷害。",
                 ja: "この番、このポケモンがベンチからバトル場に出ていたなら、50ダメージ追加。",
-                ko: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+                ko: "이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 50데미지를 추가한다."
             },
             damage: "100+"
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/101",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/101"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/101",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/101"
     },
     name: {
         en: "Haunter",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "In völliger Dunkelheit, wo nichts sichtbar ist, lauert Alpollo und verfolgt lautlos sein nächstes Opfer.",
         "pt-br": "Na escuridão total, onde nada é visível, Haunter espreita, perseguindo silenciosamente a sua próxima vítima.",
         "zh-tw": "在完全黑暗、什麼也看不見的地方，鬼斯通 潛伏著，默默地跟蹤下一個受害者。",
-        ja: "本当に なにも 見えない 暗闇で ゴーストは 静かに 獲物を 狙っているのだ。"
+        ja: "本当に なにも 見えない 暗闇で ゴーストは 静かに 獲物を 狙っているのだ。",
+        ko: "정말 아무것도 보이지 않는\n어둠 속에서 고우스트는\n조용히 먹이를 노리고 있다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Absatzdreher",
                 "pt-br": "Volta Giratória",
                 "zh-tw": "旋轉迴旋",
-                ja: "スピンターン"
+                ja: "スピンターン",
+                ko: "스핀턴"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 40
         }

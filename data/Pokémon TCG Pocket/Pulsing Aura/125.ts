@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/125"
     },
     name: {
         en: "Vibrava",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es erzeugt Ultraschallwellen, indem es seine Flügel kräftig vibrieren lässt. Nachdem es seine Beute ohnmächtig gemacht hat, löst es die Beute mit seinen Verdauungssäften auf.",
         "pt-br": "Ele gera ondas ultrassônicas vibrando vigorosamente suas asas. Depois de desmaiar sua presa, ele a dissolve com seus sucos digestivos.",
         "zh-tw": "它透過劇烈振動翅膀來產生超音波。使獵物暈倒後，用消化液溶解獵物。",
-        ja: "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。"
+        ja: "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。",
+        ko: "날개를 격렬하게 진동시켜서\n초음파를 발생시킨다.\n기절한 먹이를 소화액으로 녹인다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Flugsand",
                 "pt-br": "Vento de Areia",
                 "zh-tw": "沙風",
-                ja: "すなかぜ"
+                ja: "すなかぜ",
+                ko: "샌드윈드"
             },
             effect: {
                 en: "This attack does 10 damage to each of your opponent's Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的每隻寶可夢造成 10 點傷害。",
-                ja: "相手のポケモン全員に10ダメージ。"
+                ja: "相手のポケモン全員に10ダメージ。",
+                ko: "상대의 포켓몬 전원에게 10데미지를 준다."
             }
         }
     ],

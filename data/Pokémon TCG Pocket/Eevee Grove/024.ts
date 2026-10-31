@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/024"
     },
     name: {
         en: "Primarina ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Primarina ex",
         "zh-tw": "西獅海壬ex",
         ja: "アシレーヌex",
+        ko: "누리레느 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Brionne",
         "zh-tw": "花漾海獅",
         ja: "オシャマリ",
+        ko: "키요공",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Hydropumpe",
                 "pt-br": "Bomba Hidro",
                 "zh-tw": "液壓泵",
-                ja: "ハイドロポンプ"
+                ja: "ハイドロポンプ",
+                ko: "하이드로펌프"
             },
             damage: "40+",
             cost: ["Water"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Wenn an dieses Pokémon mindestens 1 zusätzliche {W}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 1 energia {W} extra anexada, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 1 個額外的 {W} 能量，則此攻擊造成的傷害增加 40 點。",
-                ja: "追加で{W}エネルギーが1個ついているなら、40ダメージ追加。"
+                ja: "追加で{W}エネルギーが1個ついているなら、40ダメージ追加。",
+                ko: "{W}에너지 1개가 추가로 붙어 있다면 40데미지를 추가한다."
             }
         }, {
             name: {
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Funkelnde Arie",
                 "pt-br": "Ária Espumante",
                 "zh-tw": "閃閃發光的詠嘆調",
-                ja: "うたかたのアリア"
+                ja: "うたかたのアリア",
+                ko: "물거품아리아"
             },
             damage: 100,
             cost: ["Water", "Water", "Water"],
@@ -83,7 +89,8 @@ const card: Card = {
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
-                ja: "このポケモンのHPを20回復。"
+                ja: "このポケモンのHPを20回復。",
+                ko: "이 포켓몬의 HP를 20회복."
             }
         }],
     weaknesses: [{

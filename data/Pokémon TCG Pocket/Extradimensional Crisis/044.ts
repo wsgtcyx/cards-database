@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/044"
     },
     name: {
         en: "Poipole",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Poipole",
         "zh-tw": "毒貝比",
         ja: "ベベノム",
+        ko: "베베놈",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Ultra-Biest ist durchaus beliebt\nals erster Partner in seiner eigenen Welt ausgewählt.",
         "pt-br": "Esta Ultra Besta é bastante apreciada para ser\nescolhido como primeiro parceiro no seu próprio mundo.",
         "zh-tw": "這個終極野獸很受歡迎\n被選為自己世界中的第一個合作夥伴。",
-        ja: "異世界に おいては 旅立ちの パートナーに 選ばれるほど 親しまれている ウルトラビースト。"
+        ja: "異世界に おいては 旅立ちの パートナーに 選ばれるほど 親しまれている ウルトラビースト。",
+        ko: "다른 세계에서는 여행\n파트너로 삼을 정도로\n친근한 울트라비스트다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "2-stufig",
                 "pt-br": "2 etapas",
                 "zh-tw": "2步",
-                ja: "ツーステップ"
+                ja: "ツーステップ",
+                ko: "투스텝"
             },
             damage: "20×",
             cost: ["Darkness"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

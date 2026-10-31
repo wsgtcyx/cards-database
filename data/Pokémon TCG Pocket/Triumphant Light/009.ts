@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/009"
     },
     name: {
         en: "Carnivine",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, fügen die von diesem Pokémon eingesetzten Attacken dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon causarão +30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 Arceus+30[/Ctrl:NoBreak]한다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，該神奇寶貝使用的攻擊會對對手的活躍神奇寶貝造成 +30 點傷害。"
             }
         }],

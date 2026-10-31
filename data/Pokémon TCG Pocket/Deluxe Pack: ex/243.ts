@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/243",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/243",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/243",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/243"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/243",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/243"
     },
     name: {
         en: "Sneasel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
         ja: "ニューラ",
+        ko: "포푸니",
     },
     illustrator: "Hasuno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses schlaue Pokémon versteckt sich unter dem Deckmantel von\nDunkelheit, die darauf wartet, ihre Beute anzugreifen.",
         "pt-br": "Este Pokémon astuto se esconde sob a capa de\nescuridão, esperando para atacar sua presa.",
         "zh-tw": "這個狡猾的神奇寶貝隱藏在\n黑暗，等待著攻擊它的獵物。",
-        ja: "自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。"
+        ja: "自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。",
+        ko: "눈에 띄지 않도록\n어둠 속에 숨어서 먹이를 습격하는\n매우 교활한 포켓몬이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Doppelter Kratzer",
                 "pt-br": "Raspadinha Dupla",
                 "zh-tw": "雙划痕",
-                ja: "ダブルひっかき"
+                ja: "ダブルひっかき",
+                ko: "더블할퀴기"
             },
             damage: "20×",
             cost: ["Darkness"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを2回投げ、オモテの数×20ダメージ。"
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

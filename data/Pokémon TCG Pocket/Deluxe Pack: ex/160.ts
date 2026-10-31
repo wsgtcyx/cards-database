@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/160",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/160",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/160",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/160"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/160",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/160"
     },
     name: {
         en: "Espeon ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Espeon ex",
         "zh-tw": "太陽伊布ex",
         ja: "エーフィex",
+        ko: "에브이 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Psychische Heilung",
                 "pt-br": "Cura Psíquica",
                 "zh-tw": "心靈治療",
-                ja: "サイコヒール"
+                ja: "サイコヒール",
+                ko: "사이코힐"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du, wenn sich dieses Pokémon an der aktiven Stelle befindet, 30 Schadenspunkte bei einem deiner Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以治療你的 1 只神奇寶貝造成的 30 點傷害。",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 1마리의 HP를 30회복."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Super Psy Bolt",
                 "pt-br": "Raio Super Psíquico",
                 "zh-tw": "超級心靈螺栓",
-                ja: "ちょうねんりき"
+                ja: "ちょうねんりき",
+                ko: "초염동력"
             },
             damage: 80,
             cost: ["Psychic", "Psychic"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/130",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/130"
     },
     name: {
         en: "Sandile",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
         ja: "メグロコ",
+        ko: "깜눈크",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sie leben der Reihe nach versteckt unter heißem Wüstensand\num zu verhindern, dass ihre Körpertemperatur sinkt.",
         "pt-br": "Eles vivem escondidos sob as areias quentes do deserto para\npara evitar que a temperatura corporal caia.",
         "zh-tw": "它們隱藏在炎熱的沙漠之下，秩序井然\n以防止他們的體溫下降。",
-        ja: "体温を 下げないように 砂漠の 熱い 砂に 潜り 隠れながら 生活 している。"
+        ja: "体温を 下げないように 砂漠の 熱い 砂に 潜り 隠れながら 生活 している。",
+        ko: "체온이 내려가지 않게\n사막의 뜨거운 모래에 들어가\n숨어 생활하고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Nagen",
                 "pt-br": "Roer",
                 "zh-tw": "啃",
-                ja: "かじる"
+                ja: "かじる",
+                ko: "갉기"
             },
             damage: 20,
             cost: ["Fighting"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

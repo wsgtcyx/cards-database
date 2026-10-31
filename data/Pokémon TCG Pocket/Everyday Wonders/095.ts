@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/095"
     },
     name: {
         en: "Flaaffy",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Aufgrund seiner gummiartigen, stromresistenten Haut kann es in seinem Fell viel Strom speichern.",
         "pt-br": "Devido à sua pele emborrachada e resistente à eletricidade, ele pode armazenar muita eletricidade em seu pelo.",
         "zh-tw": "由於它的皮膚有彈性、耐電，它可以在皮毛中儲存大量的電力。",
-        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。"
+        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。",
+        ko: "전기가 통하지 않는 맨살은\n고무처럼 매끈하지만\n털은 전기를 모으기 쉽다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Elektroschlag",
                 "pt-br": "Murro Elétrico",
                 "zh-tw": "麻麻拳",
-                ja: "ビリリパンチ"
+                ja: "ビリリパンチ",
+                ko: "찌리리펀치"
             },
             damage: 40
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/053"
     },
     name: {
         en: "Magnezone",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
         ja: "レアコイル",
+        ko: "레어코일",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",

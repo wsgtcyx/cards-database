@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/061",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/061",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/061"
     },
     name: {
         en: "Heliolisk",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
         "pt-br": "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
         "zh-tw": "只要一隻日光蟲在陽光下伸展開來，就可以產生足夠的電力來為一座城市供電。",
-        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。"
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
+        ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Centelha Elétrica",
                 "zh-tw": "電電光",
                 "it": "Elettroscintilla",
-                ja: "エレキスパーク"
+                ja: "エレキスパーク",
+                ko: "일렉트릭 스파크"
             },
             effect: {
                 en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的所有備戰寶可夢也受到10點傷害。",
-                ja: "相手のベンチポケモン全員にも10ダメージ。"
+                ja: "相手のベンチポケモン全員にも10ダメージ。",
+                ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다."
             },
             damage: 40
         }

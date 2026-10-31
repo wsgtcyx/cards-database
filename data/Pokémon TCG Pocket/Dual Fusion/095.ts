@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/095"
     },
     name: {
         en: "Solgaleo",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
         ja: "コスモウム",
-        ko: "Cosmoem"
+        ko: "코스모움"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Garras do Sol",
                 "zh-tw": "日輪之爪",
                 ja: "にちりんのツメ",
-                ko: "Claws of the Sunne"
+                ko: "일륜의발톱"
             },
             cost: [
                 "Metal",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada ponto que você recebeu.",
                 "zh-tw": "增加自己已經獲得的分數×30點傷害。",
                 ja: "自分がすでにとったポイントの数×30ダメージ追加。",
-                ko: "This attack does 30 more damage for each point you have gotten."
+                ko: "자신이 이미 가져온 포인트의 수 × 30데미지를 추가한다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Quando seu corpo irradia luz, este Pokémon quase poderia ser confundido com o próprio sol, eliminando toda a escuridão e iluminando o mundo.",
         "zh-tw": "當牠全身放出猛烈的光芒，變成如同太陽一樣的身姿時，便會掃去黑暗，照亮世界。",
         ja: "全身から 光を 発して まるで 太陽の 姿になると 闇を 消して 世界を 照らす。",
-        ko: "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world."
+        ko: "전신에서 빛을 발산해서\n마치 태양 같은 모습이 되면\n어둠을 물리치고 세상을 비춘다."
     }
 };
 

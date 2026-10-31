@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/092"
     },
     name: {
         en: "Eevee",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     illustrator: "nisimono",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Fähigkeit, sich in viele Formen zu entwickeln, ermöglicht es ihm\npassen sich jeder Umgebung reibungslos und perfekt an.",
         "pt-br": "Sua capacidade de evoluir em muitas formas permite que ele\nadapta-se suavemente e perfeitamente a qualquer ambiente.",
         "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。",
-        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。"
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
+        ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Colorless"]

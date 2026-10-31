@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/085"
     },
     name: {
         en: "Terapagos ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Prismeneinschlag",
                 "pt-br": "Impacto do Prisma",
                 "zh-tw": "稜鏡衝擊",
-                ja: "プリズムインパクト"
+                ja: "プリズムインパクト",
+                ko: "프리즘임팩트"
             },
             effect: {
                 en: "This attack does 20 more damage for each type of Energy attached to this Pokémon.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Dieser Angriff verursacht 20 weitere Schadenspunkte für jeden Energietyp, der an dieses Pokémon angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada tipo de energia ligada a este Pokémon.",
                 "zh-tw": "對於這隻寶可夢所附加的每種能量類型，此攻擊造成的傷害增加 20 點。",
-                ja: "このポケモンのエネルギーのタイプの数×20ダメージ追加。"
+                ja: "このポケモンのエネルギーのタイプの数×20ダメージ追加。",
+                ko: "이 포켓몬의 에너지의 타입의 수 × 20데미지를 추가한다."
             },
             damage: "80+"
         }

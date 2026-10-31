@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/053"
     },
     name: {
         en: "Dragonite",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Trotz seines wuchtigen und massiven Körpers kann\nes fliegen. Es umrundet den Erdball in nur 16 Stunden.",
         "pt-br": "Ele pode voar apesar de seu físico grande e volumoso. Ele circunda o globo em apenas 16 horas.",
         "zh-tw": "儘管體型龐大，但它仍能飛。只需 16 小時即可繞地球一圈。",
-        ja: "大きな 体格で 空を 飛ぶ。 地球を 約１６時間で １周してしまう。"
+        ja: "大きな 体格で 空を 飛ぶ。 地球を 約１６時間で １周してしまう。",
+        ko: "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Drachenwelle",
                 "pt-br": "Onda de Dragão",
                 "zh-tw": "龍波",
-                ja: "ドラゴンウェーブ"
+                ja: "ドラゴンウェーブ",
+                ko: "드래곤웨이브"
             },
             effect: {
                 en: "Discard a {W} and a {L} Energy from this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Lege eine {W}- und eine {L}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma energia {W} e uma {L} deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的 {W} 和 {L} 能量。",
-                ja: "このポケモンから{W}と{L}エネルギーを1個ずつトラッシュ。"
+                ja: "このポケモンから{W}と{L}エネルギーを1個ずつトラッシュ。",
+                ko: "이 포켓몬에서 {W}과 {L}에너지를 1개씩 트래쉬한다."
             },
             damage: 150
         }

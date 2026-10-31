@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/080",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/080"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/080",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/080"
     },
     name: {
         en: "Oinkologne",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Oinkologne",
         "zh-tw": "飄香豚",
         ja: "パフュートン",
+        ko: "퍼퓨돈",
         pt: "Oinkologne",
         'es-mx': "Oinkologne"
     },
@@ -39,6 +41,7 @@ const card: Card = {
         "pt-br": "Lechonk",
         "zh-tw": "愛吃豚",
         ja: "グルトン",
+        ko: "맛보돈",
         pt: "Lechonk",
         'es-mx': "Lechonk"
     },
@@ -50,7 +53,8 @@ const card: Card = {
         "de": "Es bezaubert weibliche Pokémon mit dem süßen, verführerischen Duft, der von seinem ganzen Körper ausgeht.",
         "pt-br": "Ele encanta as Pokémon fêmeas com o aroma doce e sedutor que exala por todo o seu corpo.",
         "zh-tw": "全身散發出甜美誘人的香氣，令雌性寶可夢著迷。",
-        ja: "全身から 甘く 妖艶な 香りを 漂わせて メスの ポケモンたちを 骨抜きにする。"
+        ja: "全身から 甘く 妖艶な 香りを 漂わせて メスの ポケモンたちを 骨抜きにする。",
+        ko: "온몸에서 달콤하고\n요염한 향기를 풍겨서\n암컷 포켓몬들을 정신 차리지 못하게 만든다."
     },
     stage: "Stage1",
     attacks: [
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Beinstampfen",
                 "pt-br": "Pisada nas pernas",
                 "zh-tw": "跺腳",
-                ja: "レッグスタンプ"
+                ja: "レッグスタンプ",
+                ko: "레그스탬프"
             },
             damage: "100",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -75,7 +80,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ kann dieses Pokémon in deinem nächsten Zug nicht angreifen.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, durante seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則在你的下一個回合中，這隻寶可夢無法攻擊。",
-                ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。"
+                ja: "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             },
         },
     ],

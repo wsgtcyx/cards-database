@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/078",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/078",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/078"
     },
     name: {
         en: "Oricorio",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein faszinierender, eleganter Tanzstil macht dieses Pokémon zwar bei Erwachsenen beliebt, doch in Paldea trifft man es kaum an.",
         "pt-br": "A dança elegante e atraente destes Oricorio é popular entre os adultos, mas estes Pokémon são raramente encontrados em Paldea.",
         "zh-tw": "這個風格的舞蹈豔麗高雅，\n相當受到大人的歡迎，\n但在帕底亞卻很少見。",
-        ja: "艶やか かつ 雅な ダンスで 大人に 人気の スタイルだが パルデアでは あまり 見かけない。"
+        ja: "艶やか かつ 雅な ダンスで 大人に 人気の スタイルだが パルデアでは あまり 見かけない。",
+        ko: "기품 있으면서도 우아한 댄스로\n어른들에게 인기 있는 스타일이나\n팔데아에서는 보기 드문 편이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Übernatürliche Feder",
                 "pt-br": "Pena Sobrenatural",
                 "zh-tw": "妖異羽毛",
-                ja: "あやかしフェザー"
+                ja: "あやかしフェザー",
+                ko: "괴이페더"
             },
             effect: {
                 en: "Discard a card from your hand. If you can't, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não puder fazer isso, este ataque não fará nada.",
                 "zh-tw": "從自己的手牌抽出1張丟棄。若無法丟棄,則這個招式失敗。",
-                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。",
+                ko: "자신의 패를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
             },
             damage: 50
         }

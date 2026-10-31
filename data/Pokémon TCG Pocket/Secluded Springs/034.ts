@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/034"
     },
     name: {
         en: "Galarian Corsola",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Corsola de Galar",
         "zh-tw": "伽勒爾太陽珊瑚",
         ja: "ガラルサニーゴ",
+        ko: "가라르 코산호",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Achten Sie auf Ihren Schritt, wenn Sie durch die Ozeane wandern\neinmal abgedeckt. Was wie ein Stein aussieht, könnte sein\nDieses Pokémon wird dich verfluchen, wenn du es trittst.",
         "pt-br": "Cuidado com o passo ao vagar pelas áreas dos oceanos\numa vez coberto. O que parece ser uma pedra poderia ser\neste Pokémon, e ele irá amaldiçoá-lo se você chutá-lo.",
         "zh-tw": "在海洋中漫步時請注意腳步\n一旦覆蓋。看起來像石頭的東西可能是\n這只神奇寶貝，如果你踢它，它會詛咒你。",
-        ja: "大昔 海だった 場所に よく 転がっている。 石ころと 間違えて 蹴ると たたられる。"
+        ja: "大昔 海だった 場所に よく 転がっている。 石ころと 間違えて 蹴ると たたられる。",
+        ko: "먼 옛날에 바다였던 곳에\n흔하게 굴러다닌다. 돌멩이로\n착각해서 걷어차면 화를 입는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Psychic"]

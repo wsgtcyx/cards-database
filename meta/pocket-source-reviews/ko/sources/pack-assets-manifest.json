@@ -1,0 +1,3174 @@
+{
+  "schemaVersion": 1,
+  "objects": 168,
+  "records": [
+    {
+      "key": "ko/tcgp/A1/logo.webp",
+      "setId": "A1",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10468,
+      "sha256": "27c0881853775364fbfc3f9fddbe0502f03f87474bd6bbfd33f55276e9d7f35d",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1_Genetic_Apex/ko_KR/folder.png",
+        "sha256": "94604ce19dfce8b49f3dfd0fbf49b0780980bcc7f5a221b2f8a2c58da998144f",
+        "bytes": 31913,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/mewtwo/logo.webp",
+      "setId": "A1",
+      "boosterId": "mewtwo",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 13362,
+      "sha256": "dba8ee62a9306c008547074740aaa55f07f7246964a47d952336c671a17804a3",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1_Genetic_Apex/ko_KR/pack1_logo.png",
+        "sha256": "1f48c41836b832e132f6eabed93e027a35f883ccc2e34588eaaca6dc11272fa4",
+        "bytes": 39484,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/charizard/logo.webp",
+      "setId": "A1",
+      "boosterId": "charizard",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 13546,
+      "sha256": "8b8a220ac7f9327573f15fe4e638053a35826f9d5d0b8b5620b3936d06104eb5",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1_Genetic_Apex/ko_KR/pack2_logo.png",
+        "sha256": "9741fbdeab742a35190bb55d490f2cfc41140e08bc0fb58a87deb8c7c196001d",
+        "bytes": 39573,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/pikachu/logo.webp",
+      "setId": "A1",
+      "boosterId": "pikachu",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 13538,
+      "sha256": "4b2e9fe4d22cd743062e2a7ea1c0471c86f0407fe2b6655fddf0f5207581f5c8",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1_Genetic_Apex/ko_KR/pack3_logo.png",
+        "sha256": "6b957d4b8041966084c70771388542f23bf5d9b311f35eb6095ac2cc98e9e8ea",
+        "bytes": 40166,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1a/logo.webp",
+      "setId": "A1a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9538,
+      "sha256": "716c88431f52d0cb2d8acdd1998251c6155d6c2e7dfb5ddd2d0d4d143a5a7a02",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1a_Mythical_Island/ko_KR/folder.png",
+        "sha256": "f25cde89e29afd4da598735ab7ae2e1c54de2bcbb910e0808d834e9babbae3db",
+        "bytes": 35421,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1a/boosters/mythical-island/logo.webp",
+      "setId": "A1a",
+      "boosterId": "mythical-island",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 11312,
+      "sha256": "5de0be85c277c75289d9d881b1111afdfdf9f4a19cdab4bd7611cef71d31afc0",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A1a_Mythical_Island/ko_KR/pack1_logo.png",
+        "sha256": "a07f955f333c2595f1c7b214b34b056af0ff8a270d8c4e7f9d26c89329321b31",
+        "bytes": 38177,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/logo.webp",
+      "setId": "A2",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8768,
+      "sha256": "2632c4b30f36a53127e001565229b262b66046dc5014f79acbb30475ab1616f7",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2_Space_Time_Smackdown/ko_KR/folder.png",
+        "sha256": "5eb134bdfdd662441b9fd3b6118431e47680d3268e89264fecb7484e8c5fdd90",
+        "bytes": 31984,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/dialga/logo.webp",
+      "setId": "A2",
+      "boosterId": "dialga",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 11642,
+      "sha256": "47efb8d5ff6b710ad9abb2962ce8a561fea9abd6e66277e4881a0dbebc0a1bcc",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2_Space_Time_Smackdown/ko_KR/pack1_logo.png",
+        "sha256": "81ddd0e6ec200303038e905f8e704d37b46860987c7f66f77ea7362b64a8067e",
+        "bytes": 39491,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/palkia/logo.webp",
+      "setId": "A2",
+      "boosterId": "palkia",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 11592,
+      "sha256": "59fc6751d386373729687b87b3704b93a7d66291c0d63a27731d5b99b7376b5a",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2_Space_Time_Smackdown/ko_KR/pack2_logo.png",
+        "sha256": "5dca5cfe309f39da076b9379408f206ab10c97a4d8919a861a76da595c742566",
+        "bytes": 39607,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2a/logo.webp",
+      "setId": "A2a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7700,
+      "sha256": "f9828ddfe58e4acca9cc8fee526cf71a0b9ccf02700e8717e572addbdb77d6d6",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2a_Triumphant_Light/ko_KR/folder.png",
+        "sha256": "3060db1b49775dce9d09778be4500fb62147d01036f3e7550ed31701cd5a458d",
+        "bytes": 22218,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2a/boosters/triumphant-light/logo.webp",
+      "setId": "A2a",
+      "boosterId": "triumphant-light",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8912,
+      "sha256": "a4280ea38a7ce4e86fe6e88fb2a963387b06d5010dedb17e574caedea1738f6e",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2a_Triumphant_Light/ko_KR/pack1_logo.png",
+        "sha256": "f3c12721bac4c3bd86e1c50910ec2ca15bf4e3dd4a44ff86d3fe23156e781ef2",
+        "bytes": 25863,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2b/logo.webp",
+      "setId": "A2b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8924,
+      "sha256": "f2d318e5ba8d7c904af7d015a603206c57a743d4a59367a285ed47534957830e",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2b_Shining_Revelry/ko_KR/folder.png",
+        "sha256": "3cd86490c291995b6ea2833c45fe89be4265fe3f82a818928846be30dff6a5f1",
+        "bytes": 36792,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A2b/boosters/shining-revelry/logo.webp",
+      "setId": "A2b",
+      "boosterId": "shining-revelry",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10254,
+      "sha256": "b5c3dc7faad4c6f61d2c0f80cdab50ce6f6dad9b50356fd9b75ba19d7068f263",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A2b_Shining_Revelry/ko_KR/pack1_logo.png",
+        "sha256": "8dd9650e991fb7ac18076365b51a46dffc5a0b5cbf6dd6c90e9051a0f837a2d3",
+        "bytes": 40367,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/logo.webp",
+      "setId": "A3",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9930,
+      "sha256": "9be5c457cfd1faec4e6c3a8e7d805b73ab28be1307626f750f7ab077fb829ce2",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3_Celestial_Guardians/ko_KR/folder.png",
+        "sha256": "9f149af334d74c440f1f289941db1a522644e29f23bfb3030292defaabef781a",
+        "bytes": 36291,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/solgaleo/logo.webp",
+      "setId": "A3",
+      "boosterId": "solgaleo",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 12920,
+      "sha256": "e3a293d48645c7dca5c9e9cc1de8002a5162b881ad7832f818d337ef6eff0cf9",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3_Celestial_Guardians/ko_KR/pack1_logo.png",
+        "sha256": "c5da9c0ad14529bb40236e837af8a81d572b153f69c463fde51379c77c921540",
+        "bytes": 44497,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/lunala/logo.webp",
+      "setId": "A3",
+      "boosterId": "lunala",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 12868,
+      "sha256": "4e5a4519747f6eac474f8d3d6f2e732bb6fee0a1868e54cd3ffd55d4be7678ee",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3_Celestial_Guardians/ko_KR/pack2_logo.png",
+        "sha256": "0f2b2a70aa1c718e55d714a6609b6d6004fc8af8c9c8ae77f31d8c5c1acb690c",
+        "bytes": 44704,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3a/logo.webp",
+      "setId": "A3a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10404,
+      "sha256": "875ced603a6b521f98bad4cc66793020d4d6fde22b8794b836b05dae5ba2edf4",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3a_Extradimensional_Crisis/ko_KR/folder.png",
+        "sha256": "4e0f172b4ea8b2c618c54dcccaa6666a078921e657dd18c98b7746a387f6031a",
+        "bytes": 35485,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3a/boosters/extradimensional-crisis/logo.webp",
+      "setId": "A3a",
+      "boosterId": "extradimensional-crisis",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 11460,
+      "sha256": "1e266e3af373350da657a99dd39ce003718c26a8a410d2eb4a91b34d13b34777",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3a_Extradimensional_Crisis/ko_KR/pack1_logo.png",
+        "sha256": "2e984dbbc774eaa858eff7049951a1f95a7f8b2b4a364a9a3f1d3235e0e40860",
+        "bytes": 37718,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3b/logo.webp",
+      "setId": "A3b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9404,
+      "sha256": "fa83cc77d1fb585d4b57219577542bea3610dd81f07363082879d0dff95b77b6",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3b_Eevee_Grove/ko_KR/folder.png",
+        "sha256": "0dc47eb2250c1cdb6ae429add42ce518f88fdb598633542a754e63e48a3a5909",
+        "bytes": 27509,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A3b/boosters/eevee-grove/logo.webp",
+      "setId": "A3b",
+      "boosterId": "eevee-grove",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10532,
+      "sha256": "b382bbcc3ef17134a36d726342725626723e990441e0b9ad4cd3171e5aa3c9db",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A3b_Eevee_Grove/ko_KR/pack1_logo.png",
+        "sha256": "a9a6e5c836b910dac7b05854b63c6448847e11ae4c0e9930a995df79795d6c07",
+        "bytes": 31233,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/logo.webp",
+      "setId": "A4",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9634,
+      "sha256": "e4efdf0ad0ee7cafc39a2396651a45b44c4d457d10e568c1c8482087bf87222d",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4_Wisdom_of_Sea_and_Sky/ko_KR/folder.png",
+        "sha256": "38bf44bebf78067c6836041f42a165f6d4e831a3a54b64dfdab6880049ae6c67",
+        "bytes": 35232,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/ho-oh/logo.webp",
+      "setId": "A4",
+      "boosterId": "ho-oh",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 13022,
+      "sha256": "95551b8460001b805ff630028581ff75738bd38030d49af48ed9b3da6d72ac22",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4_Wisdom_of_Sea_and_Sky/ko_KR/pack1_logo.png",
+        "sha256": "f7c64f993e0f60c766826feccd6b92aec3b0662471250a4e22aaacc205ed2e09",
+        "bytes": 42926,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/lugia/logo.webp",
+      "setId": "A4",
+      "boosterId": "lugia",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 12948,
+      "sha256": "0d8517b9979ccae67e8788c80fc5b16d2f87c4a1672596eb8b01cb57dc417717",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4_Wisdom_of_Sea_and_Sky/ko_KR/pack2_logo.png",
+        "sha256": "25d36e9002cad1d7a30c0e56cae64173830c14845757a574bc3a275858f593ba",
+        "bytes": 43203,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4a/logo.webp",
+      "setId": "A4a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10016,
+      "sha256": "e80e521e7f208e9d0a0d28a14ff12fd42ded821710fabd613f9771a8930589ee",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4a_Secluded_Springs/ko_KR/folder.png",
+        "sha256": "29958df1fda7ec9a0b59d1c6d291da3e4206aa15acbaf081e0c8c8f7d3274998",
+        "bytes": 27100,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4a/boosters/suicune/logo.webp",
+      "setId": "A4a",
+      "boosterId": "suicune",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10348,
+      "sha256": "2aa8f5839984b0a3bddb33c52e5c70a1a5f0db8807adc649911d7c0332f2e415",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4a_Secluded_Springs/ko_KR/pack1_logo.png",
+        "sha256": "042b272e6caf91fcea05cf0a8db786aab26008b9f80d29218602a3b1b02d7e3a",
+        "bytes": 30264,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4b/logo.webp",
+      "setId": "A4b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8862,
+      "sha256": "3c217b36f7856996c46313b39984f6042c4fa65017195c67f8d301c24623a612",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4b_Deluxe_Pack_ex/ko_KR/folder.png",
+        "sha256": "a967aaa95477eeb0c3cbddfefc73619ab97765c1b9b90448747dd46f648ce718",
+        "bytes": 28897,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A4b/boosters/deluxe_pack_ex/logo.webp",
+      "setId": "A4b",
+      "boosterId": "deluxe_pack_ex",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8862,
+      "sha256": "3c217b36f7856996c46313b39984f6042c4fa65017195c67f8d301c24623a612",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/A4b_Deluxe_Pack_ex/ko_KR/pack1_logo.png",
+        "sha256": "a967aaa95477eeb0c3cbddfefc73619ab97765c1b9b90448747dd46f648ce718",
+        "bytes": 28897,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/logo.webp",
+      "setId": "P-A",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol1/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol1",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol2/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol2",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol3/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol3",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol4/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol4",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol5/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol5",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol6/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol6",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol7/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol7",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol8/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol8",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol9/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol9",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol10/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol10",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol11/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol11",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol12/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol12",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol13/logo.webp",
+      "setId": "P-A",
+      "boosterId": "vol13",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8592,
+      "sha256": "bd5b69d5856767b598e9b8f331e4786ed1aa526bfba74f43b1a0a13b46075565",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-A/ko_KR/folder.png",
+        "sha256": "ef840b2ba162c167f58e20248385b504c109e3fa20c33a16d99b1a919a159967",
+        "bytes": 25819,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/logo.webp",
+      "setId": "B1",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7596,
+      "sha256": "4d35b4e6a5772f6df918a9ecc68acba499f69192ae592b5d8d32cee9726d1287",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1_Mega_Rising/ko_KR/folder.png",
+        "sha256": "4868280b52ff0c60c1204874fa250f88966abd70871dc2958623526548010ea3",
+        "bytes": 24159,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-blaziken/logo.webp",
+      "setId": "B1",
+      "boosterId": "mega-blaziken",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10550,
+      "sha256": "393c6464d7e28831c9051a15096cf1460a1d89f798351f4ed0a11beb45902c18",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1_Mega_Rising/ko_KR/pack1_logo.png",
+        "sha256": "42733ac987d22e6e6d4d1e798f0a9e85d863f0c00508428de556ad69a39c40d2",
+        "bytes": 32214,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-gyarados/logo.webp",
+      "setId": "B1",
+      "boosterId": "mega-gyarados",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10692,
+      "sha256": "dc2801e358e74186b5a75fb462b4825c18e2a20fea1109738c642e008bacafe9",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1_Mega_Rising/ko_KR/pack2_logo.png",
+        "sha256": "5672fc0b2f10787bbe49dabcd28910b16453e6ade641e098f1d61307b0af22eb",
+        "bytes": 32712,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-altaria/logo.webp",
+      "setId": "B1",
+      "boosterId": "mega-altaria",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10660,
+      "sha256": "6b47e0a09af86cbb624b9078ba09af94c380090846854dd8b00664b9ffda467a",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1_Mega_Rising/ko_KR/pack3_logo.png",
+        "sha256": "c6ac123d9ad7e25abc5f24887858ebe9bc6189178b9e58dfe4311f50db39645d",
+        "bytes": 32432,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1a/logo.webp",
+      "setId": "B1a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7892,
+      "sha256": "abf3d7efee26504e38e24a3d87a030f568f5e52288efb58225e5de521d9ccde0",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1a_Crimson_Blaze/ko_KR/folder.png",
+        "sha256": "e0641833c189240474d7e09d8052a0e3b9be42f6bcdcba3841a883739b4764e6",
+        "bytes": 23158,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B1a/boosters/crimson-blaze/logo.webp",
+      "setId": "B1a",
+      "boosterId": "crimson-blaze",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9120,
+      "sha256": "8d69109b0a0d7e5207d8d0bba83a95f2e59df76f84d990800321c1acd2f18e45",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B1a_Crimson_Blaze/ko_KR/pack1_logo.png",
+        "sha256": "f3a4793bb3a183e16b5680daa96633145feaec571b3a315e798c34bf63ae1378",
+        "bytes": 27484,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2/logo.webp",
+      "setId": "B2",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8646,
+      "sha256": "95dfc44d3eae5a9de0dc9582b0fb65acbbe751af83ae3a24591ab3d04f2b6292",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2_Fantastical_Parade/ko_KR/folder.png",
+        "sha256": "33ee19048f224110d57627ef3bbf3a222c1ec2d7eb273bbfe1269409465c579f",
+        "bytes": 26376,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2/boosters/booster/logo.webp",
+      "setId": "B2",
+      "boosterId": "booster",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8646,
+      "sha256": "95dfc44d3eae5a9de0dc9582b0fb65acbbe751af83ae3a24591ab3d04f2b6292",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2_Fantastical_Parade/ko_KR/pack1_logo.png",
+        "sha256": "33ee19048f224110d57627ef3bbf3a222c1ec2d7eb273bbfe1269409465c579f",
+        "bytes": 26376,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2a/logo.webp",
+      "setId": "B2a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7750,
+      "sha256": "5ae49ac9dfaac79254dcfff9193fbbf63ee4a710708abbe9ca86aeb48ba4861f",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2a_Paldean_Wonders/ko_KR/folder.png",
+        "sha256": "786ce7dbd009405a7984f68d8347582a525198609d7e91203060b8a2a4b2ce55",
+        "bytes": 24607,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2a/boosters/paldea/logo.webp",
+      "setId": "B2a",
+      "boosterId": "paldea",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9024,
+      "sha256": "5c5126e40fc106f5f65d50571470d76083f1fca3af21183607b7e11bf80fbf3c",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2a_Paldean_Wonders/ko_KR/pack1_logo.png",
+        "sha256": "9388dd5bf214297ffeae350b658c16f354ce7ca7c4639fc8b778e8f5e4d406ee",
+        "bytes": 28238,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2b/logo.webp",
+      "setId": "B2b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7796,
+      "sha256": "e64c112ccf5112ed5992ae099e8039a2c799180819557de7a1799c31ce244a2d",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2b_Mega_Shine/ko_KR/folder.png",
+        "sha256": "2da2a84c7b89be25f672d61d9f06586dcf72213de0abbd4edcfbdd8d9573786c",
+        "bytes": 23800,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B2b/boosters/mega-shine/logo-6e8bc18b2359.webp",
+      "setId": "B2b",
+      "boosterId": "mega-shine",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9086,
+      "sha256": "6e8bc18b23590ad18376e72483a41083e31cbf197ab4a12e1d7ead41ee95f7d8",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B2b_Mega_Shine/ko_KR/pack1_logo.png",
+        "sha256": "137040a3f81c4a38c0ce3f29cc45110b5ec18784449c0ae1b0707fd4de2b04bf",
+        "bytes": 27815,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B2b/boosters/mega-shine/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/B3/logo.webp",
+      "setId": "B3",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 5724,
+      "sha256": "e7f1540e7e83f29b5f12145e6e8bf7fe610a84b4087eba13da029bc839503d4a",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3_Pulsing_Aura/ko_KR/folder.png",
+        "sha256": "feceded3ee72b2b1eb3587af7db907f539ff08ffdea3b1fe065bbe980154679f",
+        "bytes": 16925,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B3/boosters/pulsing-aura/logo-e7f1540e7e83.webp",
+      "setId": "B3",
+      "boosterId": "pulsing-aura",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 5724,
+      "sha256": "e7f1540e7e83f29b5f12145e6e8bf7fe610a84b4087eba13da029bc839503d4a",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3_Pulsing_Aura/ko_KR/pack1_logo.png",
+        "sha256": "feceded3ee72b2b1eb3587af7db907f539ff08ffdea3b1fe065bbe980154679f",
+        "bytes": 16925,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3/boosters/pulsing-aura/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/B3a/logo.webp",
+      "setId": "B3a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9016,
+      "sha256": "f333dc24c427d0b507fd72d93d0b89b9fc0e5d084f1a92d1432b47d8402d98df",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3a_Paradox_Drive/ko_KR/folder.png",
+        "sha256": "9531937080941c551e5cd71db88e29e86686dbe082ea6b756d12f83c029f82bc",
+        "bytes": 25832,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B3a/boosters/paradox-drive/logo-34e41854115a.webp",
+      "setId": "B3a",
+      "boosterId": "paradox-drive",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10036,
+      "sha256": "34e41854115a4c4959dd8d50eb79c401f49e6557d7b185553ad3114d2c972ee8",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3a_Paradox_Drive/ko_KR/pack1_logo.png",
+        "sha256": "f44cfc9ef9dfa8e70dba3394fa422aaf42f67a5e5d5f5f4c24cbd95bfab6493a",
+        "bytes": 30155,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3a/boosters/paradox-drive/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/B3b/logo.webp",
+      "setId": "B3b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 7592,
+      "sha256": "a63edb11d6805130c242f8c3be559ab75a3e71d18f5bd5b483109f364074b93d",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3b_Everyday_Wonders/ko_KR/folder.png",
+        "sha256": "16dad822dcbf57288ee9b5bc0f98d18aaa06407a788f5bd3c9a5236f85a5f2c6",
+        "bytes": 25984,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B3b/boosters/everyday-wonders/logo-9a0e1b2ad44e.webp",
+      "setId": "B3b",
+      "boosterId": "everyday-wonders",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9054,
+      "sha256": "9a0e1b2ad44ef846aae88788982cca4679acef4573893c3dc607dc83c06bce0b",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B3b_Everyday_Wonders/ko_KR/pack1_logo.png",
+        "sha256": "95e221c63e8dd816e3962e4006be5f9ae6aa318f48bc77c28986600f07e2058a",
+        "bytes": 29354,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3b/boosters/everyday-wonders/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/B4/logo.webp",
+      "setId": "B4",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8620,
+      "sha256": "5159817e5a4ad43e048a527a639b3ffe2bd16fdae7695219842b31c458fefae7",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4_Ruler_of_the_Skies/ko_KR/folder.png",
+        "sha256": "dff1cc6d273dd935523db63c421afce3d142097510cdac7d552df63729c9bd0b",
+        "bytes": 26305,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8620,
+      "sha256": "5159817e5a4ad43e048a527a639b3ffe2bd16fdae7695219842b31c458fefae7",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4_Ruler_of_the_Skies/ko_KR/pack1_logo.png",
+        "sha256": "dff1cc6d273dd935523db63c421afce3d142097510cdac7d552df63729c9bd0b",
+        "bytes": 26305,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B4a/logo.webp",
+      "setId": "B4a",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8032,
+      "sha256": "bc70695ec0e384e6f9179325b609e47f8ba063c0aa1d7440d3b2c2dd936d234e",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4a_Team_Rockets_Ambition/ko_KR/folder.png",
+        "sha256": "dd1f5812f530ec95e1de3e2ce6903f2743006681741033ee95a5dd90ff946010",
+        "bytes": 28521,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B4a/boosters/team-rockets-ambition/logo.webp",
+      "setId": "B4a",
+      "boosterId": "team-rockets-ambition",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9310,
+      "sha256": "d7621530c541bc15202f969bc295227f2765c964c8af7e5307406fbcc1dee237",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4a_Team_Rockets_Ambition/ko_KR/pack1_logo.png",
+        "sha256": "aad42021ca517e0f767933fd7a53251656dfae8e67297a150cdcc491c8fc1aa0",
+        "bytes": 31683,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B4b/logo.webp",
+      "setId": "B4b",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10380,
+      "sha256": "934370b88c97daadc2b1c36e719533dc0c6631b7ecaf781795e1321004da5134",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4b_Deluxe_Pack_Mega/ko_KR/folder.png",
+        "sha256": "a00ea61c4ff5308b2dd6553f3a9cc09b88f8b5995c51b68835f2226715a0a00a",
+        "bytes": 27706,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
+      "setId": "B4b",
+      "boosterId": "deluxe-pack-mega",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 10380,
+      "sha256": "934370b88c97daadc2b1c36e719533dc0c6631b7ecaf781795e1321004da5134",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/B4b_Deluxe_Pack_Mega/ko_KR/pack1_logo.png",
+        "sha256": "a00ea61c4ff5308b2dd6553f3a9cc09b88f8b5995c51b68835f2226715a0a00a",
+        "bytes": 27706,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/SP1/logo.webp",
+      "setId": "SP1",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 5212,
+      "sha256": "301153d1c0a99eff952fb325e7ebd6a352dc5d95766f7764c602e318d25f6655",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/SP1_Special_Pack_First_Partners/ko_KR/folder.png",
+        "sha256": "4c86993d370b14c77eccbff1e8e00aabd970078dc34195aa301e5ca39ffb2704",
+        "bytes": 14667,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/SP1/boosters/first-partners/logo.webp",
+      "setId": "SP1",
+      "boosterId": "first-partners",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 6442,
+      "sha256": "69f02527ce89c8a4b819afaff9f2a95ecfcd048806e37192806b54ab6db00914",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/SP1_Special_Pack_First_Partners/ko_KR/pack1_logo.png",
+        "sha256": "d61dfba59093a02c347d82cc4137af85f6b7a3924eb04d87627477de1d1c069a",
+        "bytes": 17596,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/logo.webp",
+      "setId": "P-B",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol1/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol1",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol1/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol2/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol2",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol2/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol3/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol3",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol3/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol4/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol4",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol4/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol5/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol5",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol5/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol6/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol6",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol6/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol7/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol7",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol7/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol8/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol8",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol8/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol9/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol9",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol9/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol10/logo-a6d3ade41f5d.webp",
+      "setId": "P-B",
+      "boosterId": "vol10",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol10/logo.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol11/logo.webp",
+      "setId": "P-B",
+      "boosterId": "vol11",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol12/logo.webp",
+      "setId": "P-B",
+      "boosterId": "vol12",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol13/logo.webp",
+      "setId": "P-B",
+      "boosterId": "vol13",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 8654,
+      "sha256": "a6d3ade41f5df1c913cd91c60d3a73db4fc3059bd4f2550340a3b6cf6d438429",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/PROMO-B/ko_KR/folder.png",
+        "sha256": "00859a1831e1275804fd11078ceb4825185996d714834f5f0b8d0c6fa29a5725",
+        "bytes": 25515,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/logo.webp",
+      "setId": "C1",
+      "field": "set-logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 6572,
+      "sha256": "a75feb7a7199ea54b932152a7f3a8b354d3ec91ea1cbfa2415156d196fb7e9da",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/C1_Dual_Fusion/ko_KR/folder.png",
+        "sha256": "fbce85649a412edacaa8f190a2809d0e352ed1c88f0f3826a2c1d1ce2766d75e",
+        "bytes": 20766,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "setId": "C1",
+      "boosterId": "mega-mewtwo-x",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9662,
+      "sha256": "4c1d8b1ad357c0830d70cef928bcf6f566fef82124c2f7c6a88debcb0d3dad26",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/C1_Dual_Fusion/ko_KR/pack1_logo.png",
+        "sha256": "b45222e005b7b022ee49574d80a80e029df24ce8cc29d9593f5e05d9b0e23dfe",
+        "bytes": 29632,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/pikachu/logo.webp",
+      "setId": "C1",
+      "boosterId": "pikachu",
+      "field": "logo",
+      "locale": "ko",
+      "language": "ko",
+      "width": 256,
+      "height": 113,
+      "bytes": 9718,
+      "sha256": "1a9b2a2ddfca27cb0bead9807be2738b89806de525c7bb42377f2d901096bb3b",
+      "source": {
+        "url": "https://ptcgp-assets.centropkmn.com/cards/C1_Dual_Fusion/ko_KR/pack2_logo.png",
+        "sha256": "2d0114699d5bb245c1576e7c5e5c42807328c7abf26cb61a4dc7fbd39a6ea60a",
+        "bytes": 29073,
+        "width": 256,
+        "height": 113
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/mewtwo/artwork_front.webp",
+      "setId": "A1",
+      "boosterId": "mewtwo",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15066,
+      "sha256": "07aac1526325da7a8ef1debe2851731faa9472f36729e50780c3448ac977b772",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0010_00_000.png",
+        "sha256": "4c209e469b45e890b67073ef184c8d798becd0f3ec286279018a7bc67ec81c00",
+        "bytes": 87107,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/charizard/artwork_front.webp",
+      "setId": "A1",
+      "boosterId": "charizard",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15220,
+      "sha256": "b794330d55d6f9066a944a5a14f74ffbbd75bc0ee2f5d44b0dd9d5e5bf3b342a",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0020_00_000.png",
+        "sha256": "6495c8d683f6953f15d0cc6e21c3f3b0a0e071f741bcc7c78cdde65318ee25e2",
+        "bytes": 69676,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/boosters/pikachu/artwork_front.webp",
+      "setId": "A1",
+      "boosterId": "pikachu",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 16078,
+      "sha256": "8a0a51ebda2f37f7ebfe6d0bde7eccff9081065c429d5c921f5b172b381caf68",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN001_0030_00_000.png",
+        "sha256": "a47c0033d0415ebc2999465cedbdcf55a8f7790b7c015b7bf9cc9a541eae2254",
+        "bytes": 74762,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A1a/boosters/mythical-island/artwork_front.webp",
+      "setId": "A1a",
+      "boosterId": "mythical-island",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13466,
+      "sha256": "12083add1923947046883d8056360bd96ac95c8294b02730f154fae779f1f5a1",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN002_0010_00_000.png",
+        "sha256": "601caaff97f951164a8e547335b4f1deb871991da36e780925e48b07b1017cd9",
+        "bytes": 66059,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/dialga/artwork_front.webp",
+      "setId": "A2",
+      "boosterId": "dialga",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14980,
+      "sha256": "065b4853df35edb9edd65e363cb31845b3b7eca2e45eb2f08846fd3a352f39df",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN003_0010_00_000.png",
+        "sha256": "57dddd23216d98fb1080ae37febf1d48467a7a3e36148bfbb3cacf3e4b0993c6",
+        "bytes": 68626,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/boosters/palkia/artwork_front.webp",
+      "setId": "A2",
+      "boosterId": "palkia",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14002,
+      "sha256": "b1a828f00ddc00d499209d109646f43ff56b8abb7d01da44525126ca489f6f67",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN003_0020_00_000.png",
+        "sha256": "58e5e912444dd64c9770086c8260597a647a296c3140a6228363ab427e564c24",
+        "bytes": 66547,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A2a/boosters/triumphant-light/artwork_front.webp",
+      "setId": "A2a",
+      "boosterId": "triumphant-light",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15468,
+      "sha256": "0f60660502efad1ad6a23dd40ccfe2de95f3ca539589e32c261a061aefe20cf2",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN004_0010_00_000.png",
+        "sha256": "4a73a2b2a2ddb162037cda7dde1f788a47ee7bfb725a24b9f8ee80bf12332186",
+        "bytes": 71217,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A2b/boosters/shining-revelry/artwork_front.webp",
+      "setId": "A2b",
+      "boosterId": "shining-revelry",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13006,
+      "sha256": "338c2646314322d5e4044c540824857cd04cdc740b7ac5f04df5f106e7da7b56",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN005_0010_00_000.png",
+        "sha256": "2d704c21cc4b2ceb350f96e2db17480b09c49625bbcef3fdaf1ac7c6fdbbf781",
+        "bytes": 64089,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/solgaleo/artwork_front.webp",
+      "setId": "A3",
+      "boosterId": "solgaleo",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14070,
+      "sha256": "4fbbda79f944e0405073bcb12f5d3355f92773bdf903ed9c030a430048006d46",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN006_0010_00_000.png",
+        "sha256": "5df16ec2b6224c3bd72b56c3ec81a0f7b7190c5fd007667a4ae73ffe62dd8a9d",
+        "bytes": 84631,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/boosters/lunala/artwork_front.webp",
+      "setId": "A3",
+      "boosterId": "lunala",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13700,
+      "sha256": "b4efad1e9140e44b5dfbb1d0fb16ed14b6e01cc187c107c161e1af69ed40271a",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN006_0020_00_000.png",
+        "sha256": "d87fc71ea91f38322e11855ae947e2a48ae7b526b6f6826d0039a863dff82faf",
+        "bytes": 66540,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A3a/boosters/extradimensional-crisis/artwork_front.webp",
+      "setId": "A3a",
+      "boosterId": "extradimensional-crisis",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14458,
+      "sha256": "c1f5ae967609142e1c73d22e9ca6b684bebf38e2afde90764484bfb4b821868c",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN007_0010_00_000.png",
+        "sha256": "3303dd12d1b5c3817d0ad575daedc6ab166e3bdd2aec8ff686a86dd19e656d70",
+        "bytes": 66753,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A3b/boosters/eevee-grove/artwork_front.webp",
+      "setId": "A3b",
+      "boosterId": "eevee-grove",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13958,
+      "sha256": "8c8403192ef4fe12e6dc4ca8b7a3e928eccf4a6a38e47404d6f75cbe9a1efaf7",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN008_0010_00_000.png",
+        "sha256": "dd9e110b1e1c40faf7b1275198b3697fcf223dbd65e3f687f85117badc04e743",
+        "bytes": 84382,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/ho-oh/artwork_front.webp",
+      "setId": "A4",
+      "boosterId": "ho-oh",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14714,
+      "sha256": "9d09ac136164475492f1b106db884f97b1f081eea990728e707026b16644a05f",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN009_0010_00_000.png",
+        "sha256": "7624000583ab6aa1a7e810c646e22eca0df69f78d8b92834feacead8727b53b1",
+        "bytes": 68232,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/boosters/lugia/artwork_front.webp",
+      "setId": "A4",
+      "boosterId": "lugia",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15136,
+      "sha256": "875570ab501b7b41ea73bb12e345a34d2232d2309e0e363b402688c0ab8852e0",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN009_0020_00_000.png",
+        "sha256": "4f039718af7bb7ebf394ec5a892c348012a829da0c1aeefa228db6f1cf7df389",
+        "bytes": 69880,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A4a/boosters/suicune/artwork_front.webp",
+      "setId": "A4a",
+      "boosterId": "suicune",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15638,
+      "sha256": "b40b665730d9f05d8bb293c2e8bd161e465bab84b61319998181a1ce0cce750a",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN010_0010_00_000.png",
+        "sha256": "a189041713bbb14f0bca265c92fe3503b6faecdaba7f334d40206d3fdca7feee",
+        "bytes": 70991,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A4b/boosters/deluxe_pack_ex/artwork_front.webp",
+      "setId": "A4b",
+      "boosterId": "deluxe_pack_ex",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14698,
+      "sha256": "4ec39eefb56f3c04e5e08add4253f9d0810aebf0eec6e537e34aad7eab968d57",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_AN011_0010_00_000.png",
+        "sha256": "b135788decca90474dd6be096d5bed008fe822c696611720e744c0b30413e46e",
+        "bytes": 65951,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol1/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol1",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12036,
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_1.webp",
+        "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+        "bytes": 12036,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol2/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol2",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12512,
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_2.webp",
+        "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+        "bytes": 12512,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol3/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol3",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 11908,
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_3.webp",
+        "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+        "bytes": 11908,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol4/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol4",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12036,
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_4.webp",
+        "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+        "bytes": 12036,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol5/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol5",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12512,
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_5.webp",
+        "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+        "bytes": 12512,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol6/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol6",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 11908,
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_6.webp",
+        "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+        "bytes": 11908,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol7/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol7",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12036,
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_7.webp",
+        "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+        "bytes": 12036,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol8/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol8",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12512,
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_8.webp",
+        "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+        "bytes": 12512,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol9/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol9",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 15742,
+      "sha256": "a41649d546a3fec89800f427a9f3982f9f07a78d2ae231a0d59291924e7e3ad4",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_9.webp",
+        "sha256": "a41649d546a3fec89800f427a9f3982f9f07a78d2ae231a0d59291924e7e3ad4",
+        "bytes": 15742,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol10/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol10",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 11908,
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_10.webp",
+        "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+        "bytes": 11908,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol11/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol11",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12036,
+      "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_11.webp",
+        "sha256": "b462c61cb1728b1f64d61196b7adce337e1663399a370ff301a7d13075268ddc",
+        "bytes": 12036,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol12/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol12",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12512,
+      "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_12.webp",
+        "sha256": "5b6a7ed9331c70d63166df2b0608b9c6efadc63d91e85525394c2c1a27d0d0eb",
+        "bytes": 12512,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/boosters/vol13/artwork_front.webp",
+      "setId": "P-A",
+      "boosterId": "vol13",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 11908,
+      "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-A_13.webp",
+        "sha256": "f64556750cf7c5d4c7925cd3d383f3741a8f914c9a78f93ab96fe1a63a86766f",
+        "bytes": 11908,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-blaziken/artwork_front.webp",
+      "setId": "B1",
+      "boosterId": "mega-blaziken",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15992,
+      "sha256": "7acb58c5c33f25061d6909b068e4c9c392ea2439a7acaf1228aabb69b2625d67",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0010_00_000.png",
+        "sha256": "a35be5157124deaa2d8951f08a7ed9ab1b07c16a7c3d59b75cad1b1f59ff1cfb",
+        "bytes": 81119,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-gyarados/artwork_front.webp",
+      "setId": "B1",
+      "boosterId": "mega-gyarados",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 16830,
+      "sha256": "8420c9fbbf303115273d43fd6362bacf420e513404f05f39503b33bacf54929c",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0020_00_000.png",
+        "sha256": "4034b75be8d2e6d276fc8dd19e88244a8ca89e50c88a6fe758af2636bcbb5127",
+        "bytes": 81329,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/boosters/mega-altaria/artwork_front.webp",
+      "setId": "B1",
+      "boosterId": "mega-altaria",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13764,
+      "sha256": "df994b339d75a5fa2b3840890646d91f090383d38c829e37a8ec02fb14ae10b9",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN001_0030_00_000.png",
+        "sha256": "91f7aacdea7703c858cd75641e015663ced1b71176820a282670ebf26105dbe5",
+        "bytes": 81315,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B1a/boosters/crimson-blaze/artwork_front.webp",
+      "setId": "B1a",
+      "boosterId": "crimson-blaze",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 225,
+      "height": 225,
+      "bytes": 12676,
+      "sha256": "fea7610deac76d99ed300bab0b466bb5dc16e6f25a1e328de7b3f4c12f314553",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN002_0010_00_000.png",
+        "sha256": "71dc322517e019ae74f4594e885c7c4c106f419b52c3dc6a2dd3e157cc5170b7",
+        "bytes": 61183,
+        "width": 225,
+        "height": 225
+      }
+    },
+    {
+      "key": "ko/tcgp/B2/boosters/booster/artwork_front.webp",
+      "setId": "B2",
+      "boosterId": "booster",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14422,
+      "sha256": "7a771e0e25d53d6b1b2fe62b77311f597dc603fa362a74ffb62d559043d98cc9",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN003_0010_00_000.png",
+        "sha256": "1cc9ba9b5a0b86449dbb49824ba6706837818e104e1724f854326e60fe6dd83e",
+        "bytes": 79342,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B2a/boosters/paldea/artwork_front.webp",
+      "setId": "B2a",
+      "boosterId": "paldea",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15406,
+      "sha256": "d51c4437e391873937c0c774bdabcc9598c5a5b47bb156c28967a5b49cecce02",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN004_0010_00_000.png",
+        "sha256": "818bc81bee4447c311e1c229fb617e1ff9134f1c7d40deccbe2f2297554bb4af",
+        "bytes": 83340,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B2b/boosters/mega-shine/artwork_front-c81ea9136d0e.webp",
+      "setId": "B2b",
+      "boosterId": "mega-shine",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13992,
+      "sha256": "c81ea9136d0e28e543668e21ef2dd9e78a8a8e61ae28bf7dc3d406599690a8ad",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN005_0010_00_000.png",
+        "sha256": "96f41e405a8318f3453694aea3382ebed2e930ce491f4d2ef2f9d234e568fea2",
+        "bytes": 80351,
+        "width": 256,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B2b/boosters/mega-shine/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/B3/boosters/pulsing-aura/artwork_front-ae736fc23019.webp",
+      "setId": "B3",
+      "boosterId": "pulsing-aura",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15308,
+      "sha256": "ae736fc230191c28f60d6543648c0bde0778dbf36e766b476192591501724037",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN006_0010_00_000.png",
+        "sha256": "8a252c86dfc2def97e1703b06bd44b629770d7ddc47940102198e7e28fe93321",
+        "bytes": 80851,
+        "width": 256,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3/boosters/pulsing-aura/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/B3a/boosters/paradox-drive/artwork_front-ddaaa5f43d0b.webp",
+      "setId": "B3a",
+      "boosterId": "paradox-drive",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 15936,
+      "sha256": "ddaaa5f43d0b90fcf4ff181adfa5ffec350e0a71d32800e7a63728b24a9e9965",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN007_0010_00_000.png",
+        "sha256": "144b9325534e34b66e356af46f1061a4be7ef1a410c8c849517d0a498d790e51",
+        "bytes": 84831,
+        "width": 256,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3a/boosters/paradox-drive/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/B3b/boosters/everyday-wonders/artwork_front-c3a2d252ad6c.webp",
+      "setId": "B3b",
+      "boosterId": "everyday-wonders",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 13658,
+      "sha256": "c3a2d252ad6cd4807cfbde7568b0271809f47832a0c3259fcb408a1568495707",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN008_0010_00_000.png",
+        "sha256": "2b5436fc00be3c5225536c56344967860025c11e1ca575df993d776264470e63",
+        "bytes": 82232,
+        "width": 256,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "69883978cabd017109697ca1e794640f3faf350118ea24ee95898d92ea9eee46",
+        "bytes": 69916,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B4a/boosters/team-rockets-ambition/artwork_front.webp",
+      "setId": "B4a",
+      "boosterId": "team-rockets-ambition",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14642,
+      "sha256": "a0db9144c46d668286e16a6a689b9489be79ef4b98889bcb83d3b627e80df2a3",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN010_0010_00_000.png",
+        "sha256": "37520eea524fb8f0dcdd8d0894f1afa546ae721180bb540040b7fd9cab3eb356",
+        "bytes": 64075,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front.webp",
+      "setId": "B4b",
+      "boosterId": "deluxe-pack-mega",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 17310,
+      "sha256": "23e0ace7195f3836c7add946d144006cd220f8d78baf9d73cd4d903fd3c38b07",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN011_0010_00_000.png",
+        "sha256": "1bfd06f7ec1bcd7d48bf41322d01a3ff2b8b2c58e357b01a779f63cc46ac43ce",
+        "bytes": 81840,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/SP1/boosters/first-partners/artwork_front.webp",
+      "setId": "SP1",
+      "boosterId": "first-partners",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 16468,
+      "sha256": "a4ee1bedff730886b053f4d71d5ff9c1fa2a1ac6b8f7992f0d18e47b67cbc870",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_SP001_0010_00_000.png",
+        "sha256": "e5892b6a9b9aa3ae09f2d6e51b753b4b759fbff4cfbd15c16cc16419658f7788",
+        "bytes": 74049,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol1/artwork_front-c2d815723dd8.webp",
+      "setId": "P-B",
+      "boosterId": "vol1",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12312,
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_1.webp",
+        "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+        "bytes": 12312,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol1/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol2/artwork_front-76667ac310a0.webp",
+      "setId": "P-B",
+      "boosterId": "vol2",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12400,
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_2.webp",
+        "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+        "bytes": 12400,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol2/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol3/artwork_front-0991b6a7325d.webp",
+      "setId": "P-B",
+      "boosterId": "vol3",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12152,
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_3.webp",
+        "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+        "bytes": 12152,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol3/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol4/artwork_front-c2d815723dd8.webp",
+      "setId": "P-B",
+      "boosterId": "vol4",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12312,
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_4.webp",
+        "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+        "bytes": 12312,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol4/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol5/artwork_front-76667ac310a0.webp",
+      "setId": "P-B",
+      "boosterId": "vol5",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12400,
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_5.webp",
+        "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+        "bytes": 12400,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol5/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol6/artwork_front-0991b6a7325d.webp",
+      "setId": "P-B",
+      "boosterId": "vol6",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12152,
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_6.webp",
+        "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+        "bytes": 12152,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol6/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol7/artwork_front-c2d815723dd8.webp",
+      "setId": "P-B",
+      "boosterId": "vol7",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12312,
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_7.webp",
+        "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+        "bytes": 12312,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol7/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol8/artwork_front-76667ac310a0.webp",
+      "setId": "P-B",
+      "boosterId": "vol8",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12400,
+      "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_8.webp",
+        "sha256": "76667ac310a0cf0861a8d89961b0ec32116bad7fe0e0541f578e5b76113de7d0",
+        "bytes": 12400,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol8/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol9/artwork_front-0991b6a7325d.webp",
+      "setId": "P-B",
+      "boosterId": "vol9",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12152,
+      "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_9.webp",
+        "sha256": "0991b6a7325d0e725fd6cb8d27e0d343a26e1b88f1bb5ad9e9f02294be33ee88",
+        "bytes": 12152,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol9/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol10/artwork_front-c2d815723dd8.webp",
+      "setId": "P-B",
+      "boosterId": "vol10",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "ko",
+      "width": 160,
+      "height": 256,
+      "bytes": 12312,
+      "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+      "source": {
+        "url": "https://raw.githubusercontent.com/shelken/ptcgp-assets/e76e7962090dcbebbd33978a231a6227c16e7367/images/ko-KR/packs/PROMO-B_10.webp",
+        "sha256": "c2d815723dd8fe46562e05cd4fa0521cfc8843a4b476aa8e82bc96d6547f25c5",
+        "bytes": 12312,
+        "width": 160,
+        "height": 256
+      },
+      "previousUnmodifiedKey": "ko/tcgp/P-B/boosters/vol10/artwork_front.webp"
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol11/artwork_front.webp",
+      "setId": "P-B",
+      "boosterId": "vol11",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 148,
+      "height": 251,
+      "bytes": 10734,
+      "sha256": "277830c8e1cc4b884e8ec41932ac22a065a9cc905e8b1e2a6504cef3af629202",
+      "source": {
+        "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.11.png",
+        "sha256": "db8c442a3aab36196af697d346403fba6307d0700ac2873b5acae877247c530f",
+        "bytes": 48006,
+        "width": 148,
+        "height": 251
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol12/artwork_front.webp",
+      "setId": "P-B",
+      "boosterId": "vol12",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 12134,
+      "sha256": "ee584b9893262d541ca14afb50682bd1d7d02dfa9080c0bca1418112877899fc",
+      "source": {
+        "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.12.png",
+        "sha256": "8e3f7a8f5cecc8416e0c6efd14a0006c89faa132e43ac9562d8af0a6c63bd072",
+        "bytes": 42395,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/boosters/vol13/artwork_front.webp",
+      "setId": "P-B",
+      "boosterId": "vol13",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 148,
+      "height": 251,
+      "bytes": 10634,
+      "sha256": "83c452fb674c6b81daeafdc3e316cb7b056aff5481ea41a992701807b15d4020",
+      "source": {
+        "url": "https://www.serebii.net/tcgpocket/promo/promopackbseriesvol.13.png",
+        "sha256": "1e2f789e5f8a71f676ae44fabe9e42a3e9d553612632e7cbbe71e743de676b61",
+        "bytes": 42850,
+        "width": 148,
+        "height": 251
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
+      "setId": "C1",
+      "boosterId": "mega-mewtwo-x",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14524,
+      "sha256": "c6f99b0bb45fdeff265b9014de3e6b91bf05c040f96da0a4d33f77552a57a052",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_CN001_0010_00_000.png",
+        "sha256": "1a8231807b2e3fa86ebaf7851d367ba2a349ce06915e8ee6aa0435d86c8dc029",
+        "bytes": 78323,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/boosters/pikachu/artwork_front.webp",
+      "setId": "C1",
+      "boosterId": "pikachu",
+      "field": "artwork_front",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 160,
+      "height": 256,
+      "bytes": 14450,
+      "sha256": "032501534ef5be38e52fe9998cb638ed4ec512814afb8f33c7cdd4653bcb9fb9",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_CN001_0020_00_000.png",
+        "sha256": "1c44ee68fa81885dd1ad46406a64b56e77b029bf545e7d762090564e1b9b1c46",
+        "bytes": 82232,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "key": "ko/tcgp/A1/symbol.webp",
+      "setId": "A1",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 894,
+      "sha256": "b7d3c088ea00a211078f2c7793b16ab7f2c2966dcff91747d3b3d6e92fada56b",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A1.png",
+        "sha256": "aa9c840952c17eb045b424b817a206b0f8bdcc56d375e544490adb66289f5fee",
+        "bytes": 1280,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A1a/symbol.webp",
+      "setId": "A1a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1112,
+      "sha256": "432a357af9c7cbbc74adc40066d2035b731091f96a0d38e574dc92e97b70628f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A1a.png",
+        "sha256": "f53496b6b2886097c4ac0670e13bb140a2cfe7493262d31195c003018235e6e1",
+        "bytes": 1969,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A2/symbol.webp",
+      "setId": "A2",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1126,
+      "sha256": "72e882b24f1caf9e5f4fb464b490980489fedc91b9a4d62bc02e8c5ddda7065d",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A2.png",
+        "sha256": "9247c6032bddf81eef56e8c91b0ec80b8314916a77b7d4fefbfcbae385581623",
+        "bytes": 1949,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A2a/symbol.webp",
+      "setId": "A2a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1340,
+      "sha256": "f888cb10fe4ed0f1d7043b8a8438827996a9ae55101710e55705577a8f25bbdf",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A2a.png",
+        "sha256": "af054845a41f9163a7af1d09dd06d1fec42dce91e857b5f6f6c5e7bc9c4c290b",
+        "bytes": 2259,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A2b/symbol.webp",
+      "setId": "A2b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1350,
+      "sha256": "3990a46ebb7c087449f5e874d7424cdd9491f7f27adef9b3377eaa81ca67cac4",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A2b.png",
+        "sha256": "74ce66deddffedd6131d124e0702906d76e733867bbe3b3a618ba8e873897cb3",
+        "bytes": 2253,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A3/symbol.webp",
+      "setId": "A3",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1156,
+      "sha256": "0190dc84ed4689bed30b174ec54eaa6d5ef7230d68891f340e825f9f0d210b9a",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A3.png",
+        "sha256": "6698930d316b446d2274fa362f2afa0fa12195750af3d4f6d07ec5ed5956c996",
+        "bytes": 2032,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A3a/symbol.webp",
+      "setId": "A3a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1426,
+      "sha256": "9a2e24d7668fe6c6cbab334e7a7ace30044a1590774030956d56bf885484d485",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A3a.png",
+        "sha256": "a3a5a2158b8b9ef0a0d9235534c0509582ebfbce70224b8ce11001ee1bb766ce",
+        "bytes": 2484,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A3b/symbol.webp",
+      "setId": "A3b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1466,
+      "sha256": "a10590a55c2dafd7ca0a173f42e22c492112459d707fd9db322e9986fcf65824",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A3b.png",
+        "sha256": "62c5c615c76c6273eef842ca194519792104dba9884fc9ddcdab80129a02d22d",
+        "bytes": 2524,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A4/symbol.webp",
+      "setId": "A4",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1138,
+      "sha256": "8dded8fe1a5a311ed1313dc8afd77770347c9238756827be5ed9bbfcce71b177",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A4.png",
+        "sha256": "04e71a26f0ce44c076ac00a55892b1ea32bfe9c01cb5963cc09806fbf56764df",
+        "bytes": 1926,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A4a/symbol.webp",
+      "setId": "A4a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1364,
+      "sha256": "3517de0e4c4657ec6d7bd39ea87ea61fc4b6f0e0a1b4d483a51b327bed987484",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A4a.png",
+        "sha256": "ddce38e29edd21f254920611762c0ecd3b735678973ff5c2893a884ad555bd30",
+        "bytes": 2324,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/A4b/symbol.webp",
+      "setId": "A4b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1396,
+      "sha256": "69c280bc42974fe5ca03839dd559dd870543182873d96d17f19a824fcfbb168f",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/A4b.png",
+        "sha256": "7d38038501aee5aca2081a507b90157a9607969cb527f93b63874f48d038b5b1",
+        "bytes": 2364,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B1/symbol.webp",
+      "setId": "B1",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 952,
+      "sha256": "69f4111802b41171dd13d2525311a844970740299a8fed064032ad87a89f1a70",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B1.png",
+        "sha256": "7cdcb3fa72402e3ba98298cd71cdd455a6092b5c26eb1752185929e44b9a589c",
+        "bytes": 1537,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B1a/symbol.webp",
+      "setId": "B1a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1172,
+      "sha256": "b0c46373774a0b2470f039b84ad6b02f85a01cd0477f4687e0580ebf15c579f9",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B1a.png",
+        "sha256": "52327eb4c69eae659bb2bc3f0b39e3f4bdde3b1da62da85a7cfb84b76185cd49",
+        "bytes": 2060,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B2/symbol.webp",
+      "setId": "B2",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1128,
+      "sha256": "5dc96cc21908b54fb98525f9e2d6ca2758697b6b2e6dfc77006a7504cc80dedf",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B2.png",
+        "sha256": "fcb9ce2a4756b67f7e2cc2923d62d3b14ced1779e4f9be05400f1b94759d2b64",
+        "bytes": 1884,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B2a/symbol.webp",
+      "setId": "B2a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1384,
+      "sha256": "f6e60af42abdfd47409a7122c84640a776f99d7b634c75c56b534d3d66d07aaa",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B2a.png",
+        "sha256": "7e9b368ee5e4411c562c583c15137caf47ac0aa1380a0bf488be5b3ee8423f80",
+        "bytes": 2346,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B2b/symbol.webp",
+      "setId": "B2b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1388,
+      "sha256": "40fbe9c28a14aa5ed561d452f416d9caf153a1a6b9459df03ae56d003000c904",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B2b.png",
+        "sha256": "f94a6e443572c18815caaa4c8c30885ced44c943a11df94a6d66b8b72ded7d13",
+        "bytes": 2326,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B3/symbol.webp",
+      "setId": "B3",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1124,
+      "sha256": "360e0938b4ca4e4df16cd556ff4a4bfec8b966a93df99ebd3fa6f1c4d82ce4b0",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B3.png",
+        "sha256": "eea8128b969b41878d1284432df4912acd61b0265deae82d356b4fb8acecb396",
+        "bytes": 2123,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B3a/symbol.webp",
+      "setId": "B3a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 97,
+      "height": 38,
+      "bytes": 1362,
+      "sha256": "4a47dee50a40e18a4623d56b5e786747b6c1a9dc187176abbf2ec75004ad1aab",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B3a.png",
+        "sha256": "94808f0f352aed1b10f82f8b0223c6cce4f91f4ec335a87209c5f188d6947ed6",
+        "bytes": 2230,
+        "width": 97,
+        "height": 38
+      }
+    },
+    {
+      "key": "ko/tcgp/B3b/symbol.webp",
+      "setId": "B3b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1436,
+      "sha256": "0769fd133aa8cbf6dea41fb5650c6ef0087f84e723d2f328553291108f6ad72b",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B3b.png",
+        "sha256": "881c1f2e91ed3696871ce692ff598a60400258210d1395dc69fdee73151eea88",
+        "bytes": 2459,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B4/symbol.webp",
+      "setId": "B4",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1082,
+      "sha256": "be176632486b9bff97b3f911a5dfd7ba5fe645b5a562a09349afd1ee3225e69d",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B4.png",
+        "sha256": "b56f7a7c46f95e5096b78a149052c8c6605126f5f570085d2e52875008b2f3d4",
+        "bytes": 1880,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B4a/symbol.webp",
+      "setId": "B4a",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1300,
+      "sha256": "638e4ef8e6e80a5ea5f5e979de59eb197bf2362231c9811de08dc2c731cce277",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B4a.png",
+        "sha256": "9b58b93accb4a002d1f498a8d657d8c8b146741912f89aa19873324801cf87cf",
+        "bytes": 2383,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/B4b/symbol.webp",
+      "setId": "B4b",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1354,
+      "sha256": "3ec432bda627e3c4b157c5d3347535086f0c416a7b3dfd84e8f4b525319583db",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/B4b.png",
+        "sha256": "79612389a13cdfe398a633134e97c5b5ab7a55e6fd7cd52aefe90b131f4d7bbd",
+        "bytes": 2393,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/C1/symbol.webp",
+      "setId": "C1",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 934,
+      "sha256": "95d12c92f49de77389506b166d63870020951d8a34a52570dcbf5d2ef999af4a",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/C1.png",
+        "sha256": "9bb8d4b92744069ed1485ed6d9db2588adab5f33eec895aa9f413819983ba3cb",
+        "bytes": 1601,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/P-A/symbol.webp",
+      "setId": "P-A",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 2028,
+      "sha256": "a822a647162599cf3505db7a6e27924ae59c229c6f14b03d76f00ad1590995f0",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/P-A.png",
+        "sha256": "cbf46bf96c36d63a03707c6461205b0d7d2d1cce8c9b8b6182c609594c9b6078",
+        "bytes": 3255,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/P-B/symbol.webp",
+      "setId": "P-B",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1976,
+      "sha256": "569314c613ac0e9b97416a48b29f79c25b582868ea969c737ccc45ab1127aa10",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/P-B.png",
+        "sha256": "10b85303bef6b737676cbf65d4b029119c673252268d21f3dbbb3b18a9ec319a",
+        "bytes": 3268,
+        "width": 128,
+        "height": 50
+      }
+    },
+    {
+      "key": "ko/tcgp/SP1/symbol.webp",
+      "setId": "SP1",
+      "field": "symbol",
+      "locale": "ko",
+      "language": "language-neutral",
+      "width": 128,
+      "height": 50,
+      "bytes": 1168,
+      "sha256": "2640f07f81bb63ade75eab9e30c5dccb8ba523f17a2ccb5f4d35f06d6d13bbf3",
+      "source": {
+        "url": "https://raw.githubusercontent.com/Vociferix/ptcgp-images/72d80ecf9de6e327af52a0228d8431c217d54ab8/sets/icons/SP1.png",
+        "sha256": "45060f26292e64882a1b842e94a9b01f00e5702a493f33069ecafa2412af9c80",
+        "bytes": 1689,
+        "width": 128,
+        "height": 50
+      }
+    }
+  ]
+}

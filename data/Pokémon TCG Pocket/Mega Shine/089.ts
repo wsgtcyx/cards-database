@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/089"
     },
     name: {
         en: "Phantump",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon entstand, als der Geist eines verstorbenen Kindes einen Baumstumpf besaß. Jetzt wandert es durch den Wald auf der Suche nach Freunden.",
         "pt-br": "Este Pokémon surgiu quando o espírito de uma criança falecida possuía um toco de árvore. Agora ele vagueia pela floresta em busca de amigos.",
         "zh-tw": "當死去的孩子的靈魂附在樹樁上時，就會出現這種寶可夢。它現在在森林裡徘徊尋找朋友。",
-        ja: "死んだ 子供の 魂が 切り株に 宿った ポケモン。 森を さまよい 仲間を 探す。"
+        ja: "死んだ 子供の 魂が 切り株に 宿った ポケモン。 森を さまよい 仲間を 探す。",
+        ko: "죽은 아이의 영혼이\n그루터기에 깃든 포켓몬.\n숲을 떠돌며 동료를 찾는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 10
         }

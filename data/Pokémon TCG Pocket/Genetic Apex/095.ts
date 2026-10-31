@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/095"
     },
     name: {
         en: "Raichu",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pikachu",
         "pt-br": "Pikachu",
         "zh-tw": "皮卡丘",
-        ja: "ピカチュウ"
+        ja: "ピカチュウ",
+        ko: "피카츄"
     },
     attacks: [{
             cost: ["Lightning", "Lightning", "Lightning"],

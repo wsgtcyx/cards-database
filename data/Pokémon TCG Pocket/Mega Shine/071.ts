@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/071"
     },
     name: {
         en: "Empoleon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es vermeidet unnötige Streitigkeiten, dezimiert aber gnadenlos alles, was die Sicherheit seiner Kolonie gefährdet.",
         "pt-br": "Evita disputas desnecessárias, mas dizimará impiedosamente qualquer coisa que ameace a segurança da sua colónia.",
         "zh-tw": "它避免了不必要的爭端，但它會無情地消滅任何威脅其殖民地安全的東西。",
-        ja: "むだな 争いは やらないが 群れの 安全を 脅かす 敵は 容赦なく 叩きのめす。"
+        ja: "むだな 争いは やらないが 群れの 安全を 脅かす 敵は 容赦なく 叩きのめす。",
+        ko: "쓸데없는 분쟁은 하지 않지만\n무리의 안전을 위협하는\n적은 가차없이 때려눕힌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kaiserlicher Kahlschlag",
                 "pt-br": "Ataque do Imperador",
                 "zh-tw": "皇帝一擊",
-                ja: "こうていのいちげき"
+                ja: "こうていのいちげき",
+                ko: "황제의일격"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners mehr verbleibende HP hat als dieses Pokémon, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver mais HP restante do que este Pokémon, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果對手的出戰寶可夢的剩餘生命值比這隻寶可夢多，則這次攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより多いなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンの残りHPが、このポケモンの残りHPより多いなら、60ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 남은 HP가 이 포켓몬의 남은 HP보다 많다면 60데미지를 추가한다."
             },
             damage: "80+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/155",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/155",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/155"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/155",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/155"
     },
     name: {
         en: "Rescue Scarf",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Rettender Schal",
         "pt-br": "Cachecol de Resgate",
         "zh-tw": "救援領巾",
-        ja: "レスキュースカーフ"
+        ja: "レスキュースカーフ",
+        ko: "레스큐 스카프"
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wenn das Pokémon, an das diese Karte angelegt ist, durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, nimm es auf deine Hand und nicht auf den Ablagestapel.",
         "pt-br": "Se o Pokémon ao qual esta carta está ligada for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, coloque-o na sua mão em vez de na pilha de descarte.",
         "zh-tw": "這張卡所附著的寶可夢因對方寶可夢的攻擊而被擊倒的場合，將其放入手牌而不是棄牌堆。",
-        ja: "このカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、トラッシュせず、手札にもどす。"
+        ja: "このカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、トラッシュせず、手札にもどす。",
+        ko: "이 카드를 붙이고 있는 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 트래쉬하지 않고 패로 되돌린다."
     },
     trainerType: "Tool",
     boosters: ["ho-oh", "lugia"]

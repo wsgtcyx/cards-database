@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/124",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/124",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/124"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/124",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/124"
     },
     name: {
         en: "Skarmory ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skarmory ex",
         "zh-tw": "盔甲鳥ex",
         ja: "エアームドex",
+        ko: "무장조 ex",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Stahlflügel",
                 "pt-br": "Asa de Aço",
                 "zh-tw": "鋼翼",
-                ja: "はがねのつばさ"
+                ja: "はがねのつばさ",
+                ko: "강철날개"
             },
             damage: 70,
             cost: ["Metal", "Metal"],
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

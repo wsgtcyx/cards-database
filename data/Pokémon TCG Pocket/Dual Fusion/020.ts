@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/020"
     },
     name: {
         en: "Salandit",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Chama",
                 "zh-tw": "火焰",
                 ja: "ほのお",
-                ko: "Flare"
+                ko: "불꽃"
             },
             cost: [
                 "Fire"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Provoca suas presas e as atrai para áreas estreitas e rochosas. Em seguida, espirra sobre elas um gás tóxico para deixá-las atordoadas e dar o bote.",
         "zh-tw": "會將獵物誘引進狹窄的岩縫裡，然後噴出能讓獵物頭暈的毒瓦斯使其昏倒。",
         ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。",
-        ko: "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down."
+        ko: "먹잇감을 도발해서\n좁은 암석 지대로 유인한 뒤\n어지러워지는 독가스를 뿜어서 마무리한다."
     }
 };
 

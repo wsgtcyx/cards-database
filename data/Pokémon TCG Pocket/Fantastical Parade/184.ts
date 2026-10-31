@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/184",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/184",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/184",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/184"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/184",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/184"
     },
     name: {
         en: "Toxtricity ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Riffex-ex",
         "pt-br": "Toxtricity ex",
         "zh-tw": "顫弦蠑螈ex",
-        ja: "ストリンダーex"
+        ja: "ストリンダーex",
+        ko: "스트린더 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Toxel",
         "pt-br": "Toxel",
         "zh-tw": "毒電嬰",
-        ja: "エレズン"
+        ja: "エレズン",
+        ko: "일레즌"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Schädlicher Funke",
                 "pt-br": "Faísca Danificante",
                 "zh-tw": "損壞火花",
-                ja: "ダメージスパーク"
+                ja: "ダメージスパーク",
+                ko: "데미지스파크"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners, auf dem Schaden liegt, 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 de dano a cada Pokémon no Banco do seu oponente que tenha dano.",
                 "zh-tw": "此攻擊還會對對手後備戰中每隻受到傷害的神奇寶貝造成 30 點傷害。",
-                ja: "ダメージを受けている相手のベンチポケモン全員にも30ダメージ。"
+                ja: "ダメージを受けている相手のベンチポケモン全員にも30ダメージ。",
+                ko: "데미지를 받고 있는 상대의 벤치 포켓몬 전원에게도 30데미지를 준다."
             }
         }],
     weaknesses: [{

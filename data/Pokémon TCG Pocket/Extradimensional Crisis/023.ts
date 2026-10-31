@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/023",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/023"
     },
     name: {
         en: "Clefable",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Clefable",
         "zh-tw": "皮可西",
         ja: "ピクシー",
+        ko: "픽시",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
         ja: "ピッピ",
+        ko: "삐삐",
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es ist ein schüchternes Feen-Pokémon, das man selten sieht\nrenne und verstecke dich, sobald es Menschen wahrnimmt.",
         "pt-br": "Um Pokémon fada tímido que raramente é visto, ele irá\ncorra e se esconda no momento em que sente as pessoas.",
         "zh-tw": "很少見到的膽怯的精靈寶可夢，它會\n當它感知到有人的時候就逃跑並躲起來。",
-        ja: "妖精の 仲間で めったに 人前に 出てこない。 気配を 感じて すぐに 逃げてしまうようだ。"
+        ja: "妖精の 仲間で めったに 人前に 出てこない。 気配を 感じて すぐに 逃げてしまうようだ。",
+        ko: "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Mondkick",
                 "pt-br": "Chute da Lua",
                 "zh-tw": "月踢",
-                ja: "ムーンキック"
+                ja: "ムーンキック",
+                ko: "문킥"
             },
             damage: 60,
             cost: ["Psychic", "Colorless"]

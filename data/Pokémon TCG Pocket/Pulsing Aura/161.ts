@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/161",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/161"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/161",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/161"
     },
     name: {
         en: "Tepig",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon ist ein gefräßiger Vielfraß. Es nutzt seinen hervorragenden Geruchssinn, um Nahrung zu finden und diese vor dem Verzehr knusprig zuzubereiten.",
         "pt-br": "Este Pokémon é um glutão voraz. Ele usa seu excelente olfato para encontrar comida e depois cozinha até ficar crocante antes de comer.",
         "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。",
-        ja: "食いしん坊の 大食漢。 よく利く 鼻で エサを 見つけだし こんがり 焼きあげてから いただく。"
+        ja: "食いしん坊の 大食漢。 よく利く 鼻で エサを 見つけだし こんがり 焼きあげてから いただく。",
+        ko: "먹을 것을 좋아하는 대식가다.\n뛰어난 후각으로 먹이를 찾아낸 다음\n바싹 익혀서 먹는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Anheizen",
                 "pt-br": "Carregar",
                 "zh-tw": "燃起",
-                ja: "もえあがる"
+                ja: "もえあがる",
+                ko: "타오르기"
             },
             effect: {
                 en: "Flip a coin. If heads, take 2 {R} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ nimm 2 {R}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Jogue uma moeda. Se der cara, pegue 2 {R} Energias da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面，則從自己的能量區取出 2 個 {R} 能量並將其附加到該寶可夢上。",
-                ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、このポケモンにつける。"
+                ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、このポケモンにつける。",
+                ko: "동전을 1번 던져서 앞면이 나오면 자신의 에너지존에서 {R}에너지를 2개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

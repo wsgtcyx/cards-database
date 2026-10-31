@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/153",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/153",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/153"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/153",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/153"
     },
     name: {
         en: "Steel Apron",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Avental de Aço",
         "zh-tw": "鋼鐵前掛",
         ja: "鋼鉄のまえかけ",
+        ko: "강철 앞치마",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Das {M}-Pokémon, an das diese Karte angelegt ist, erleidet −10 Schaden durch Angriffe der Pokémon deines Gegners, erholt sich von allen Sonderzuständen und kann von keinem Sonderzustand betroffen sein.",
         "pt-br": "O Pokémon {M} ao qual este card está anexado sofre -10 de dano de ataques dos Pokémon do seu oponente, se recupera de todas as Condições Especiais e não pode ser afetado por nenhuma Condições Especiais.",
         "zh-tw": "這張卡所附著的 {M} 只神奇寶貝因對手神奇寶貝的攻擊而受到 -10 傷害，從所有特殊狀態中恢復，並且不會受到任何特殊狀態的影響。",
-        ja: "このカードをつけている{M}ポケモンが、相手のポケモンから受けるワザのダメージを-10し、特殊状態にならず、受けている特殊状態は、すべて回復。"
+        ja: "このカードをつけている{M}ポケモンが、相手のポケモンから受けるワザのダメージを-10し、特殊状態にならず、受けている特殊状態は、すべて回復。",
+        ko: "이 카드를 붙이고 있는 {M}포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지를 -10하고 특수 상태가 되지 않으며 받고 있는 특수 상태는 모두 회복."
     },
     trainerType: "Tool",
     boosters: ["ho-oh"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/039",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/039",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/039"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/039",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/039"
     },
     name: {
         en: "Rowlet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
         ja: "モクロー",
+        ko: "나몰빼미",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schickt seine Federn, die ebenso scharf sind\nals Klingen, die im Angriff fliegen. Seine Beine sind stark,\nDaher sind auch seine Tritte beeindruckend.",
         "pt-br": "Ele envia suas penas, que são tão afiadas\ncomo lâminas, voando em ataque. Suas pernas são fortes,\nentão seus chutes também são formidáveis.",
         "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。",
-        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。"
+        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。",
+        ko: "칼같이 날카로운 날개를 날려\n공격한다. 발의 힘도 강해\n킥도 무시할 수 없다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
                 "zh-tw": "技能潛水",
-                ja: "ちょくげきひこう"
+                ja: "ちょくげきひこう",
+                ko: "직격비행"
             },
             cost: ["Grass"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 10 點傷害。",
-                ja: "相手のポケモン1匹に10ダメージ。"
+                ja: "相手のポケモン1匹に10ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 10데미지를 준다."
             }
         }],
     weaknesses: [{

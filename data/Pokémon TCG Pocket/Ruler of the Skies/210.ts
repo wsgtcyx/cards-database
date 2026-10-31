@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/210",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/210",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/210",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/210"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/210",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/210"
     },
     name: {
         en: "Minun",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Da es Wasser verabscheut, versteckt es sich bei Regen unter Dachvorsprüngen. Es setzt Pompons aus Funken zum Anfeuern ein.",
         "pt-br": "Detesta água, por isso se esconde sob as calhas das casas quando chove. Torce com pompons feitos de fagulhas.",
         "zh-tw": "討厭碰到水，一旦下起雨\n就會到屋簷下避雨。\n會用火花彩球幫夥伴加油。",
-        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。"
+        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。",
+        ko: "물을 싫어한다. 비가 내리면\n처마 밑에서 비를 피한다.\n스파크를 톡톡 튀겨서 동료를 응원한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kumpel Spark",
                 "pt-br": "Fagulha Amiga",
                 "zh-tw": "拍檔電光",
-                ja: "バディスパーク"
+                ja: "バディスパーク",
+                ko: "버디스파크"
             },
             effect: {
                 en: "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich Plusle auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Se Plusle estiver no seu Banco, este ataque também causará 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "若自己的備戰區有「正電拍拍」,則對手的所有備戰寶可夢也受到10點傷害。",
-                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。"
+                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。",
+                ko: "자신의 벤치에 「플러시」가 있다면 상대의 벤치 포켓몬 전원에게도 10데미지를 준다."
             },
             damage: 30
         }

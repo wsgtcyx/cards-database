@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/275",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/275",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/275",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/275"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/275",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/275"
     },
     name: {
         en: "Greninja ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Greninja ex",
         "zh-tw": "甲賀忍蛙ex",
         ja: "ゲッコウガex",
+        ko: "개굴닌자 ex",
     },
     illustrator: "Raita Kazama",
     rarity: "Two Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
         ja: "ゲコガシラ",
+        ko: "개굴반장",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wechselnder Strom",
                 "pt-br": "Mudança de fluxo",
                 "zh-tw": "轉移流",
-                ja: "すいりゅうへんげ"
+                ja: "すいりゅうへんげ",
+                ko: "수류변화"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active {W} Pokémon with 1 of your Benched Pokémon.",
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du dein Aktives {W}-Pokémon gegen 1 Pokémon auf deiner Bank austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar seu Pokémon Ativo {W} por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "在你的回合中，你可以將你的活躍 {W} 神奇寶貝與你的 1 只後備神奇寶貝交換。",
-                ja: "自分の番に1回使える。自分のバトル場の{W}ポケモンを、ベンチポケモンと入れ替える。"
+                ja: "自分の番に1回使える。自分のバトル場の{W}ポケモンを、ベンチポケモンと入れ替える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 {W}포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     attacks: [{
@@ -71,7 +76,8 @@ const card: Card = {
                 "de": "Aqua Edge",
                 "pt-br": "Borda Aqua",
                 "zh-tw": "水色邊緣",
-                ja: "アクアエッジ"
+                ja: "アクアエッジ",
+                ko: "아쿠아에지"
             },
             damage: 100,
             cost: ["Water", "Water"]
@@ -80,6 +86,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

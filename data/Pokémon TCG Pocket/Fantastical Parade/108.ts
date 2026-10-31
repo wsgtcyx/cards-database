@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/108",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/108"
     },
     name: {
         en: "Yveltal",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Yveltal",
         "pt-br": "Yveltal",
         "zh-tw": "伊裴爾塔爾",
-        ja: "イベルタル"
+        ja: "イベルタル",
+        ko: "이벨타르"
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn sein Leben zu Ende geht, absorbiert es\ndie Lebensenergie jedes Lebewesens\nund verwandelt sich wieder in einen Kokon.",
         "pt-br": "Quando sua vida chega ao fim, ele absorve\na energia vital de todos os seres vivos\ne se transforma em casulo mais uma vez.",
         "zh-tw": "當它的生命結束時，它會吸收\n一切生物的生命能量\n並再次變成繭。",
-        ja: "寿命が つきるとき あらゆる 生き物の 命を 吸いつくし 繭の 姿に 戻るという。"
+        ja: "寿命が つきるとき あらゆる 生き物の 命を 吸いつくし 繭の 姿に 戻るという。",
+        ko: "수명이 다할 때 모든\n생명의 목숨을 빨아들이고\n고치의 모습으로 돌아간다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Böser Absturz",
                 "pt-br": "Acidente Maligno",
                 "zh-tw": "邪惡崩潰",
-                ja: "イビルクラッシュ"
+                ja: "イビルクラッシュ",
+                ko: "이블크래시"
             },
             damage: 90,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab.",
                 "pt-br": "Descarte 1 Energia aleatória de ambos os Pokémon Ativos.",
                 "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。",
-                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。"
+                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
+                ko: "서로의 배틀 포켓몬에서 에너지를 랜덤으로 1개씩 트래쉬한다."
             }
         }],
     weaknesses: [{

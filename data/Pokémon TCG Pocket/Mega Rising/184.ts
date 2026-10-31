@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/184",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/184",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/184",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/184"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/184",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/184"
     },
     name: {
         en: "Eevee",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein genetischer Code ist unregelmäßig. Es könnte mutieren, wenn es so wäre\nder Strahlung von Elementsteinen ausgesetzt.",
         "pt-br": "Seu código genético é irregular. Pode sofrer mutação se for\nexposto à radiação das pedras elementares.",
         "zh-tw": "它的遺傳密碼是不規則的。如果是的話它可能會變異\n暴露於元素石的輻射之下。",
-        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。",
+        ko: "불규칙한 유전자를 가졌다.\n돌에서 나오는 방사선에 의해\n몸이 돌연변이를 일으킨다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Gesteigerte Evolution",
                 "pt-br": "Evolução Impulsionada",
                 "zh-tw": "加速進化",
-                ja: "ブーストしんか"
+                ja: "ブーストしんか",
+                ko: "부스트 진화"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, kann es sich während Ihres ersten Zuges oder in dem Zug, in dem Sie es spielen, weiterentwickeln.",
                 "pt-br": "Enquanto este Pokémon estiver no Active Spot, ele poderá evoluir durante seu primeiro turno ou no turno em que você o jogar.",
                 "zh-tw": "只要該神奇寶貝位於活動點，它就可以在你的第一個回合或你玩它的回合中進化。",
-                ja: "このポケモンは、バトル場にいるかぎり、最初の自分の番や、出したばかりの番でも進化できる。"
+                ja: "このポケモンは、バトル場にいるかぎり、最初の自分の番や、出したばかりの番でも進化できる。",
+                ko: "이 포켓몬은 배틀필드에 있는 한, 자신의 첫 번째 차례나 필드에 처음 나왔을 때라도 진화할 수 있다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Ansturm",
                 "pt-br": "Debandada",
                 "zh-tw": "踩踏",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -79,6 +85,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

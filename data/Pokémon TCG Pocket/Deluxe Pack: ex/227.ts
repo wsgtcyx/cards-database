@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/227",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/227",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/227"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/227",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/227"
     },
     name: {
         en: "Zubat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
         ja: "ズバット",
+        ko: "주뱃",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Zur Überprüfung sendet es Ultraschallwellen aus seinem Mund aus\nseine Umgebung. Selbst in engen Höhlen fliegt Zubat\nmit Geschick herumlaufen.",
         "pt-br": "Ele emite ondas ultrassônicas de sua boca para verificar\nseu entorno. Mesmo em cavernas apertadas, Zubat voa\npor aí com habilidade.",
         "zh-tw": "它從嘴裡發射超聲波來檢查\n它的周圍環境。即使在狹窄的洞穴中，祖巴特也會飛翔\n周圍有技巧。",
-        ja: "口から 出す 超音波で まわりの 様子を 探る。 狭い 洞窟も 器用に 飛びまわる。"
+        ja: "口から 出す 超音波で まわりの 様子を 探る。 狭い 洞窟も 器用に 飛びまわる。",
+        ko: "입에서 내보내는 초음파로\n주위의 상황을 살핀다. 좁은\n동굴에서도 능숙하게 날아다닌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20,
             cost: ["Darkness"]

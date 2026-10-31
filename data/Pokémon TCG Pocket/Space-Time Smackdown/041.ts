@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/041",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/041"
     },
     name: {
         en: "Gastrodon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Shellos",
         "zh-tw": "無殼海兔",
         ja: "カラナクシ",
+        ko: "깝질무",
     },
     description: {
         en: "They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/029",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/029"
     },
     name: {
         en: "Medicham",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Medicham",
         "zh-tw": "恰雷姆",
         ja: "チャーレム",
+        ko: "요가램",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
         ja: "アサナン",
+        ko: "요가랑",
     },
     description: {
         en: "Through yoga training, it gained the psychic\npower to predict its foe's next move.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Durch Yoga-Training erlangte es das Hellseher\nMacht, den nächsten Schritt seines Gegners vorherzusagen.",
         "pt-br": "Através do treinamento de yoga, ganhou o psíquico\npoder de prever o próximo movimento de seu inimigo.",
         "zh-tw": "通過瑜伽訓練，獲得了通靈的能力\n擁有預測敵人下一步行動的能力。",
-        ja: "ヨガの 修行で 鍛えられた サイコパワーで 相手の 動きを 予測することが できるのだ。"
+        ja: "ヨガの 修行で 鍛えられた サイコパワーで 相手の 動きを 予測することが できるのだ。",
+        ko: "요가 수행으로 단련된\n사이코 파워로 상대의 움직임을\n예상할 수 있다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hochsprung-Kick",
                 "pt-br": "Chute de salto em altura",
                 "zh-tw": "跳高踢腿",
-                ja: "とびひざげり"
+                ja: "とびひざげり",
+                ko: "무릎차기"
             },
             damage: 50,
             cost: ["Fighting"]

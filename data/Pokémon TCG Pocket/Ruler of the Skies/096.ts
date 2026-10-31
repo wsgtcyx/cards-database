@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/096",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/096",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/096"
     },
     name: {
         en: "Galarian Linoone",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
         "zh-tw": "伽勒爾直衝熊",
-        ko: "가라르 가라르 직구리",
+        ko: "가라르 직구리",
         ja: "ガラルマッスグマ"
     },
     illustrator: "sowsow",
@@ -37,7 +38,7 @@ const card: Card = {
         de: "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
         "zh-tw": "伽勒爾蛇紋熊",
-        ko: "가라르 가라르 지그제구리",
+        ko: "가라르 지그제구리",
         ja: "ガラルジグザグマ"
     },
     stage: "Stage1",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es ist sehr angriffslustig und schreckt auch nicht davor zurück, sich mit Gegnern anzulegen, die ihm haushoch überlegen sind.",
         "pt-br": "Este Pokémon extremamente agressivo desafia oponentes mais fortes de maneira completamente imprudente.",
         "zh-tw": "有著十分好戰的性情，\n即使是比自己強的對手\n也會魯莽地發起挑戰。",
-        ja: "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。"
+        ja: "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。",
+        ko: "매우 호전적인 성질을 가졌다.\n자신보다 강한 상대에게도\n개의치 않고 무모하게 덤빈다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Nachthieb",
                 "pt-br": "Talho Noturno",
                 "zh-tw": "暗襲要害",
-                ja: "つじぎり"
+                ja: "つじぎり",
+                ko: "깜짝베기"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 30
         }

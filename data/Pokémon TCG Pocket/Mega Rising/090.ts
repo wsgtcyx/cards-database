@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/090",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/090",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/090"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/090",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/090"
     },
     name: {
         en: "Blitzle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
         ja: "シママ",
+        ko: "줄뮤마",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Mähne glänzt, wenn er Elektrizität abgibt.\nSie nutzen die Frequenz und den Rhythmus dieser Blitze\nzu kommunizieren.",
         "pt-br": "Sua juba brilha quando descarrega eletricidade.\nEles usam a frequência e o ritmo desses flashes\npara se comunicar.",
         "zh-tw": "當它放電時，它的鬃毛會發光。\n他們利用這些閃光的頻率和節奏\n進行溝通。",
-        ja: "放電すると たてがみが 光る。 たてがみが 輝く 回数や リズムで 仲間と 会話している。"
+        ja: "放電すると たてがみが 光る。 たてがみが 輝く 回数や リズムで 仲間と 会話している。",
+        ko: "방전하면 갈기가 빛난다.\n갈기가 빛나는 횟수나\n리듬으로 동료와 대화한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Winzige Ladung",
                 "pt-br": "Carga minúscula",
                 "zh-tw": "微小的電荷",
-                ja: "プチでんき"
+                ja: "プチでんき",
+                ko: "프티전기"
             },
             damage: 10,
             cost: ["Lightning"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

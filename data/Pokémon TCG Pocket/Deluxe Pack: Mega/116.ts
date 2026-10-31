@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/116"
     },
     name: {
         en: "Indeedee ex",
@@ -47,7 +48,7 @@ const card: Card = {
                 "pt-br": "Cuidar",
                 "zh-tw": "貼心",
                 ja: "こころくばり",
-                ko: "Watch Over"
+                ko: "챙겨주기"
             },
             effect: {
                 en: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, você poderá curar 20 pontos de dano do seu Pokémon Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。將自己的戰鬥寶可夢恢復20HP。",
                 ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。",
-                ko: "Once during your turn, you may heal 20 damage from your Active Pokémon."
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 20회복."
             }
         }
     ],
@@ -77,7 +78,7 @@ const card: Card = {
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
                 ja: "サイコキネシス",
-                ko: "Psychic"
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -88,7 +89,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。",
                 ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
-                ko: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "30+"
         }

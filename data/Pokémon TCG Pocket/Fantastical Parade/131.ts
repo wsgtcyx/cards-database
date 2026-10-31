@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/131",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/131",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/131"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/131",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/131"
     },
     name: {
         en: "Lugia",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Lugia",
         "pt-br": "Lugia",
         "zh-tw": "洛奇亞",
-        ja: "ルギア"
+        ja: "ルギア",
+        ko: "루기아"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es gilt als Wächter der Meere. Es ist\nGerüchten zufolge wurde er in der Nacht eines Sturms gesehen.",
         "pt-br": "Diz-se que é o guardião dos mares. É\nhá rumores de ter sido visto na noite de uma tempestade.",
         "zh-tw": "據說它是海洋的守護者。它是\n據傳在暴風雨之夜有人看到過。",
-        ja: "海の神様と 伝えられる ポケモン。 嵐の 夜 姿を 見たという 話が 伝えられる。"
+        ja: "海の神様と 伝えられる ポケモン。 嵐の 夜 姿を 見たという 話が 伝えられる。",
+        ko: "바다의 신이라고 전해지는\n포켓몬이다. 폭풍 치는 밤에 모습을\n봤다는 이야기가 전해져온다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Aeroblast",
                 "pt-br": "Aeroblasto",
                 "zh-tw": "氣爆",
-                ja: "エアロブラスト"
+                ja: "エアロブラスト",
+                ko: "에어로블라스트"
             },
             damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 40 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 40 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點額外傷害。",
-                ja: "コインを2回投げ、オモテの数×40ダメージ追加。"
+                ja: "コインを2回投げ、オモテの数×40ダメージ追加。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/276",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/276",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/276",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/276"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/276",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/276"
     },
     name: {
         en: "Slowpoke",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Está sempre distraidamente perdido em pensamentos, mas ninguém sabe o que ele está pensando. Tem muita habilidade em pescar com a cauda.",
         "zh-tw": "總是一副在發呆的樣子，不知道在想些什麼。擅長用尾巴來釣食物。",
         ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
-        ko: "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail."
+        ko: "항상 멍하니 있어서\n무슨 생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다."
     },
     attacks: [
         {
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
                 ja: "ずつき",
-                ko: "Headbutt"
+                ko: "박치기"
             },
             damage: 30
         }

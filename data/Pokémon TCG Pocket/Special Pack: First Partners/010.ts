@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/010"
     },
     name: {
         en: "Turtwig",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Folha Navalha",
                 "zh-tw": "飛葉快刀",
                 ja: "はっぱカッター",
-                ko: "Razor Leaf"
+                ko: "잎날가르기"
             },
             cost: [
                 "Colorless",
@@ -70,7 +71,7 @@ const card: Card = {
         "pt-br": "Feita de terra, a casca em suas costas endurece quando bebe água. Vive perto de lagos.",
         "zh-tw": "背上的甲殼是由泥土形成的。喝水後會變得堅硬。棲息在湖邊。",
         ja: "土で できた 背中の 甲羅は 水を 飲むと さらに 硬くなる。 湖の ほとりで 暮らしている。",
-        ko: "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes."
+        ko: "흙으로 만들어진 등껍질은\n물을 마시면 한층 단단해진다.\n호수 근처에서 살고 있다."
     }
 };
 

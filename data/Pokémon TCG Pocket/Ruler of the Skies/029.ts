@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/029",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/029",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/029"
     },
     name: {
         en: "Heatmor",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es nutzt eine Flamme als Zunge. Damit bringt es\ndie Panzer von Fermicula zum Schmelzen und\nverspeist im Anschluss ihr Inneres.",
         "zh-tw": "將火焰當成舌頭來使用。\n會一點一點地熔化鐵蟻\n堅硬的外骨骼，然後把牠吃掉。",
         "pt-br": "A lingua de Heatmor é uma chama capaz de derreter o casco duro de Durant. permitindo que devore tudo o que há dentro.",
-        ja: "炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。"
+        ja: "炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。",
+        ko: "불꽃을 혀처럼 사용한다.\n아이앤트의 단단한 외골격을\n조금씩 녹여 먹어 치운다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Feuerkrallen",
                 "pt-br": "Garras de Fogo",
                 "zh-tw": "火之爪",
-                ja: "ほのおのツメ"
+                ja: "ほのおのツメ",
+                ko: "불꽃의발톱"
             },
             damage: 50
         }

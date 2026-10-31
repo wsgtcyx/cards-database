@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/087",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/087",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/087",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/087"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/087",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/087"
 	},
 	name: {
 		en: "Blastoise ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Turtok-ex",
 		"pt-br": "Blastoise ex",
 		"zh-tw": "水箭龜ex",
-		ja: "カメックスex"
+		ja: "カメックスex",
+		ko: "거북왕 ex"
 	},
 	illustrator: "PLANETA Tsuji",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Schillok",
 		"pt-br": "Wartortle",
 		"zh-tw": "卡咪龜",
-		ja: "カメール"
+		ja: "カメール",
+		ko: "어니부기"
 	},
 	suffix: "EX",
 	attacks: [

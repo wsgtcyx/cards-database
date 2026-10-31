@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/066",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/066"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/066",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/066"
     },
     name: {
         en: "Corvisquire",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses intelligente Pokémon lernt schnell, jedes Werkzeug zu benutzen, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar no bico ou nas garras.",
         "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。",
-        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。",
+        ko: "머리가 좋아서 부리와 발로\n다룰 수 있는 도구라면\n간단하게 사용법을 익힌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Flattern",
                 "pt-br": "Asa",
                 "zh-tw": "羽擊",
-                ja: "はばたく"
+                ja: "はばたく",
+                ko: "홰치기"
             },
             damage: 40
         }

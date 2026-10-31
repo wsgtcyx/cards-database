@@ -4,13 +4,13 @@ import { Card, Set, SupportedLanguages, Types } from '../../../interfaces'
 import { CardResume, Card as CardSingle } from '../../../meta/definitions/api'
 import { getSet, setToSetSimple } from './setUtil'
 import translate from './translationUtil'
-import { DB_PATH, fetchRemoteFile, getDataFolder, getLastEdit, resolveText, smartGlob } from './util'
+import { DB_PATH, fetchRemoteFile, getDataFolder, getLastEdit, resolveOptionalAsset, resolveText, smartGlob } from './util'
 import { objectMap, objectPick } from '@dzeio/object-util'
 
 export async function getCardPictures(cardId: string, card: Card, lang: SupportedLanguages): Promise<string | undefined> {
-	const cardPicture = lang === 'ja' ? card.image?.ja : card.image?.[lang] ?? card.image?.en
-	if (lang === 'ja' && cardPicture !== `https://game.pokemontcgpocket.app/ja/tcgp/${card.set.id}/${cardId}`) {
-		throw new Error(`Card (${card.set.id}-${cardId}) has no native Japanese image`)
+	const cardPicture = (lang === 'ja' || lang === 'ko') ? card.image?.[lang] : card.image?.[lang] ?? card.image?.en
+	if ((lang === 'ja' || lang === 'ko') && cardPicture !== `https://game.pokemontcgpocket.app/${lang}/tcgp/${card.set.id}/${cardId}`) {
+		throw new Error(`Card (${card.set.id}-${cardId}) has no native ${lang === 'ja' ? 'Japanese' : 'Korean'} image`)
 	}
 	if (cardPicture) {
 		return cardPicture
@@ -105,9 +105,9 @@ export async function cardToCardSingle(localId: string, card: Card, lang: Suppor
 		boosters: card.boosters ? objectMap(objectPick(card.set.boosters, ...card.boosters), (booster, id) => ({
 			id: `boo_${card.set.id}-${id}`,
 			name: resolveText(booster.name, lang),
-			logo: booster.logo ? resolveText(booster.logo, lang) : undefined,
-			artwork_front: booster.artwork_front ? resolveText(booster.artwork_front, lang) : undefined,
-			artwork_back: booster.artwork_back ? resolveText(booster.artwork_back, lang) : undefined,
+			logo: resolveOptionalAsset(booster.logo, lang),
+			artwork_front: resolveOptionalAsset(booster.artwork_front, lang),
+			artwork_back: resolveOptionalAsset(booster.artwork_back, lang),
 		})) : undefined,
 		updated: await getCardLastEdit(localId, card, lang),
 	}
@@ -157,7 +157,7 @@ async function loadCards(lang: SupportedLanguages, set?: Set): Promise<Array<[st
 	if (cards.length === 0) {
 		cards = await smartGlob(`${DB_PATH}/${getDataFolder(lang)}/${(set && set.serie.id) ?? '*'}/${(set && set.id) ?? '*'}/*.ts`)
 	}
-	if (lang === 'ja' && cards.length === 0) throw new Error(`No Japanese card source files: ${set?.id ?? '*'}`)
+	if ((lang === 'ja' || lang === 'ko') && cards.length === 0) throw new Error(`No ${lang === 'ja' ? 'Japanese' : 'Korean'} card source files: ${set?.id ?? '*'}`)
 	const list: Array<[string, Card]> = []
 	for (const path of cards) {
 		let items = path.split(pathLib.sep)
@@ -176,14 +176,14 @@ async function loadCards(lang: SupportedLanguages, set?: Set): Promise<Array<[st
 		const set = await getSet(setName, serieName, lang)
 
 		if (!(lang in set.name)) {
-			if (lang === 'ja') throw new Error(`Set (${set.id}) has no Japanese name`)
+			if ((lang === 'ja' || lang === 'ko')) throw new Error(`Set (${set.id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} name`)
 			continue
 		}
 
 		// console.log(path, id, set, lang)
 		const c = await getCard(set, id, lang)
 		if (!c.name[lang]) {
-			if (lang === 'ja') throw new Error(`Card (${set.id}-${id}) has no Japanese name`)
+			if ((lang === 'ja' || lang === 'ko')) throw new Error(`Card (${set.id}-${id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} name`)
 			continue
 		}
 		list.push([id, c])

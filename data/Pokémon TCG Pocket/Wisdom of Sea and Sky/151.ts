@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/151",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/151",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/151"
     },
     name: {
         en: "Elemental Switch",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Substituição Elemental",
         "zh-tw": "元素置換",
         ja: "エレメンタルつけかえ",
+        ko: "엘리멘탈 갈아 달기",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Verschiebe eine {R}-, {W}- oder {L}-Energie von einem deiner Bank-Pokémon zu deinem Aktiven Pokémon.",
         "pt-br": "Mova uma energia {R}, {W} ou {L} de 1 dos seus Pokémon no Banco para o seu Pokémon Ativo.",
         "zh-tw": "將你的 1 個後備神奇寶貝的 {R}、{W} 或 {L} 能量移動到你的活躍神奇寶貝上。",
-        ja: "自分のベンチポケモンから{R}または{W}または{L}エネルギーを1個選び、バトルポケモンにつけ替える。"
+        ja: "自分のベンチポケモンから{R}または{W}または{L}エネルギーを1個選び、バトルポケモンにつけ替える。",
+        ko: "자신의 벤치 포켓몬에서 {R} 또는 {W} 또는 {L}에너지를 1개 선택해서 배틀 포켓몬에게 바꿔 붙인다."
     },
     trainerType: "Item",
     boosters: ["lugia"]

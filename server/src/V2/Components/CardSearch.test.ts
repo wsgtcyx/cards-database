@@ -29,12 +29,12 @@ describe('card relations', () => {
 			await new Promise<void>(resolve => server.once('listening', resolve))
 			const address = server.address()
 			if (!address || typeof address === 'string') throw new Error('Missing test server port')
-			for (const lang of ['ja', 'en']) {
+			for (const lang of ['ja', 'ko', 'en']) {
 				for (const query of ['type[0][x]=Grass', 'q[x]=Pikachu', 'page[0][x]=1', 'hpMin[x]=1', 'hasAbility[x]=true']) {
 					const response = await fetch(`http://127.0.0.1:${address.port}/v2/${lang}/cards/search?${query}`)
 					const body = await response.json() as { detail: string }
 					expect(response.status).toBe(400)
-					expect(body.detail).toContain(lang === 'ja' ? '文字列または文字列の配列' : 'must be a string or an array of strings')
+					expect(body.detail).toContain(lang === 'ko' ? '문자열 또는 문자열 배열' : lang === 'ja' ? '文字列または文字列の配列' : 'must be a string or an array of strings')
 				}
 			}
 		} finally {
@@ -44,6 +44,8 @@ describe('card relations', () => {
 	test('Japanese API errors use Japanese text while English responses stay unchanged', () => {
 		for (const [path, expected] of [
 			['/v2/ja/cards/missing', '指定されたデータが見つかりません'],
+			['/v2/ko/cards/missing', '요청한 데이터를 찾을 수 없습니다'],
+			['/V2/%6Bo/cards/missing', '요청한 데이터를 찾을 수 없습니다'],
 			['/v2/%6Aa/cards/missing', '指定されたデータが見つかりません'],
 			['/V2/ja/cards/missing', '指定されたデータが見つかりません'],
 			['/v2/ja/unknown?name=foo', '指定されたデータが見つかりません'],
@@ -61,6 +63,21 @@ describe('card relations', () => {
 			expect(body.title).toBe(expected)
 			expect(status).toBe(404)
 			expect(body.type).toBe('https://tcgdex.dev/errors/not-found')
+		}
+	})
+	test('Korean 500 errors remain localized, including encoded locale paths', () => {
+		for (const path of ['/v2/ko/cards/A1-001', '/V2/%6Bo/cards/A1-001']) {
+			let body: any
+			let status: number | undefined
+			const response = {
+				req: { originalUrl: path, url: path, method: 'GET' },
+				status(value: number) { status = value; return this },
+				json(value: unknown) { body = value; return this },
+				end() {},
+			}
+			sendError(Errors.GENERAL, response as any)
+			expect(status).toBe(500)
+			expect(body.title).toBe('오류가 발생했습니다. 이 메시지와 함께 개발자에게 문의해 주세요')
 		}
 	})
 	test('Japanese metadata labels stay native while canonical filter values stay stable', () => {
@@ -93,6 +110,41 @@ describe('card relations', () => {
 				const invalid = error as CatalogSearchValidationError
 				expect(invalid.japaneseDetails.length).toBe(invalid.details.length)
 				expect(invalid.japaneseDetails.every(message => /[\p{Script=Hiragana}\p{Script=Katakana}]/u.test(message))).toBe(true)
+			}
+		}
+	})
+	test('Korean labels, filters, relations and every validation path stay localized', () => {
+		const ko = getCatalogSearchOptions('ko'), en = getCatalogSearchOptions('en')
+		expect(ko.total).toBe(4561)
+		expect(ko.sets).toHaveLength(26)
+		expect(ko.boosters).toHaveLength(58)
+		expect(ko.boosters.map(item => item.value).sort()).toEqual(en.boosters.map(item => item.value).sort())
+		const empty = ko.boosters.find(item => item.count === 0)!
+		expect(empty).toBeDefined()
+		expect(searchCatalogCards('ko', { booster: empty.value }).pagination.total).toBe(0)
+		for (const field of ['categories', 'types', 'rarities', 'stages', 'trainerTypes', 'weaknesses', 'attackCostTypes'] as const) {
+			expect(ko[field].map(item => item.value).sort()).toEqual(en[field].map(item => item.value).sort())
+			expect(ko[field].every(item => item.label !== item.value)).toBe(true)
+		}
+		expect(ko.rarities.find(item => item.value === 'Anomaly')?.label).toBe('특수 카드(일반 레어도 분류 외)')
+		const korean = searchCatalogCards('ko', { type: 'Grass', pageSize: '100' })
+		expect(korean.items.map(card => card.id)).toEqual(searchCatalogCards('en', { type: 'Grass', pageSize: '100' }).items.map(card => card.id))
+		expect(korean.items.every(card => card.category.label === '포켓몬' && card.image.includes('/ko/tcgp/'))).toBe(true)
+		expect(searchCatalogCards('ko', { q: '피카츄' }).pagination.total).toBeGreaterThan(0)
+		expect(getCardRelations('ko', 'A1-003')?.sameName?.items.every(card => card.category === '포켓몬')).toBe(true)
+		for (const query of [
+			{ unknown: 'x' }, { name: '' }, { q: 'a'.repeat(201) }, { page: '0' }, { hpMin: '-1' }, { hasAbility: 'maybe' },
+			{ hpMin: '100', hpMax: '1' }, { name: 'not a card' }, { type: 'not a type' }, { q: { x: 'value' } },
+			{ type: Array.from({ length: 21 }, (_, index) => `type${index}`) }, { type: 'a'.repeat(81) },
+		]) {
+			try {
+				searchCatalogCards('ko', query)
+				throw new Error('Expected invalid query to fail')
+			} catch (error) {
+				expect(error).toBeInstanceOf(CatalogSearchValidationError)
+				const invalid = error as CatalogSearchValidationError
+				expect(invalid.koreanDetails.length).toBe(invalid.details.length)
+				expect(invalid.koreanDetails.every(message => /[가-힣]/u.test(message))).toBe(true)
 			}
 		}
 	})

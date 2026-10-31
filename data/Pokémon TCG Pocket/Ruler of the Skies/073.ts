@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/073",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/073",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/073"
     },
     name: {
         en: "Chimecho",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Sein Ruf hallt im Hohlraum seines Körpers wider und wird zu einem wunderschönen Klang, der Gegner erschreckt und verjagt.",
         "pt-br": "Seus sons ecoam dentro de seu corpo oco e emergem como lindas notas para assustar e repelir inimigos.",
         "zh-tw": "叫聲會在身體的空洞裡\n迴盪出美麗的音色，\n趕走被嚇到的敵人。",
-        ja: "鳴き声は 体の 空洞で 響き合って きれいな 音色になり 敵を驚かせ 追いはらう。"
+        ja: "鳴き声は 体の 空洞で 響き合って きれいな 音色になり 敵を驚かせ 追いはらう。",
+        ko: "울음소리는 몸의 공동에서 메아리치며\n아름다운 음색이 되어\n상대를 놀라게 해 쫓아 버린다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Sondersensor",
                 "zh-tw": "神通力",
                 "pt-br": "Extrassensorial",
-                ja: "じんつうりき"
+                ja: "じんつうりき",
+                ko: "신통력"
             },
             effect: {
                 en: "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "若自己的手牌與對手的手牌張數相同,則增加40點傷害。",
                 "it": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 40 danni in più.",
                 "de": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 40 Schadenspunkte mehr zu.",
-                ja: "自分の手札と相手の手札が同じ枚数なら、40ダメージ追加。"
+                ja: "自分の手札と相手の手札が同じ枚数なら、40ダメージ追加。",
+                ko: "자신의 패와 상대의 패가 같은 장수라면 40데미지를 추가한다."
             },
             damage: "40+"
         }

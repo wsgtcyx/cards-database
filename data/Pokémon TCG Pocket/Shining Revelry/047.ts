@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/047"
     },
     name: {
         en: "Paldean Wooper",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Paldea-Felino",
         'pt-br': "Wooper de Paldea",
         ja: "パルデアウパー",
-        ko: "팔데아우파",
+        ko: "팔데아 우파",
         "zh-tw": "帕底亞烏波"
     },
     illustrator: "Mori Yuu",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/059",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/059",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/059"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/059",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/059"
     },
     name: {
         en: "Raticate",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Rattfratz",
         "pt-br": "Rattata",
         "zh-tw": "小拉達",
-        ja: "コラッタ"
+        ja: "コラッタ",
+        ko: "꼬렛"
     },
     description: {
         en: "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",

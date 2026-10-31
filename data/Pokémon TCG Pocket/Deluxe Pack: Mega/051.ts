@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/051"
     },
     name: {
         en: "Hearthflame Mask Ogerpon",
@@ -22,7 +23,7 @@ const card: Card = {
         "pt-br": "Ogerpon Máscara Fornalha",
         "zh-tw": "厄鬼椪火灶面具",
         ja: "オーガポンかまどのめん",
-        ko: "오거폰화덕의 가면"
+        ko: "오거폰 화덕의 가면"
     },
     illustrator: "Nurikabe",
     rarity: "Three Diamond",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Nesta forma, a fonte do seu poder é o fogo. Perfura os inimigos com suas vinhas espinhosas.",
         "zh-tw": "激發出火之力量的樣子。會自在操控帶刺的藤蔓，使其像長矛般地刺穿敵手。",
         ja: "炎の力を 引き出す 姿。 トゲの ついた ツタを 槍のように 操り 敵を 貫く。",
-        ko: "In this form, it draws on the power of fire.\nIt spears its enemies with thorn-covered ivy."
+        ko: "불꽃의 힘을 끌어올린 모습.\n가시가 난 덩굴을 창을 다루듯\n조종하여 적을 꿰뚫는다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Dança Fornalha",
                 "zh-tw": "火灶之舞",
                 ja: "かまどのまい",
-                ko: "Hearthflame Dance"
+                ko: "화덕의춤"
             },
             damage: 40,
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, pegue 2 Energias {R} da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "擲1次硬幣若為正面,則從自己的能量區抽出2個{R}能量,附於1隻備戰寶可夢身上。",
                 ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、ベンチポケモン1匹につける。",
-                ko: "Flip a coin. If heads, take 2 {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+                ko: "동전을 1번 던져서 앞면이 나오면 자신의 에너지존에서 {R}에너지를 2개 내보내 벤치 포켓몬 1마리에게 붙인다."
             }
         }
     ],

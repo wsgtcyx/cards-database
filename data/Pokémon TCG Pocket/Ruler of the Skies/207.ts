@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/207",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/207",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/207",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/207"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/207",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/207"
     },
     name: {
         en: "Swampert",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Seine Arme sind steinhart. Mit nur einem Schlag kann es Gegner zu Boden strecken. Es baut sein Nest an pittoresken Stränden.",
         "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas.",
         "zh-tw": "雙臂堅硬如岩石，\n只要揮一下就能擊倒對手。\n會在美麗的沙灘築巢。",
-        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。"
+        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。",
+        ko: "양팔은 바위처럼 단단하며\n한 번에 상대를 때려눕힌다.\n아름다운 해변에 거처를 만든다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Großer Whirlpool",
                 "pt-br": "Redemoinho Enorme",
                 "zh-tw": "大潮旋",
-                ja: "おおうずしお"
+                ja: "おおうずしお",
+                ko: "큰바다회오리"
             },
             effect: {
                 en: "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
                 "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄個能量。",
-                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+                ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 1개 트래쉬한다."
             },
             damage: 100
         }

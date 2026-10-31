@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/044"
     },
     name: {
         en: "Buzzwole ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Buzzwole ex",
         "zh-tw": "爆肌蚊ex",
         ja: "マッシブーンex",
+        ko: "매시붕 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Stempel",
                 "pt-br": "Soco",
                 "zh-tw": "沖床",
-                ja: "パンチ"
+                ja: "パンチ",
+                ko: "펀치"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]
@@ -51,7 +54,8 @@ const card: Card = {
                 "de": "Großer Schlag",
                 "pt-br": "Grande batida",
                 "zh-tw": "大節奏",
-                ja: "ビッグビート"
+                ja: "ビッグビート",
+                ko: "빅비트"
             },
             damage: 120,
             cost: ["Grass", "Grass", "Colorless"],
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Big Beat nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Big Beat.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用Big Beat。",
-                ja: "次の自分の番、このポケモンは「ビッグビート」が使えない。"
+                ja: "次の自分の番、このポケモンは「ビッグビート」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「빅비트」를 사용할 수 없다."
             }
         }],
     weaknesses: [{

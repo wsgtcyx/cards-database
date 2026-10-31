@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/029"
     },
     name: {
         en: "Squirtle",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bolha",
                 "zh-tw": "泡沫",
                 ja: "あわ",
-                ko: "Bubble"
+                ko: "거품"
             },
             cost: [
                 "Water"
@@ -68,7 +69,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
                 ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
-                ko: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }
     ],
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Depois que nasce, suas costas incham e endurecem até formar um casco. Este Pokémon lança um jato espumoso pela boca.",
         "zh-tw": "出生後背部會隆起成堅硬的甲殼。會從口中吐出強而有力的泡沫。",
         ja: "生まれたあと 背中が ふくらんで 硬い 甲羅が できる。 口から 強力な 泡を 出す。",
-        ko: "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth."
+        ko: "태어난 뒤 등이 부풀면서\n단단한 등껍질이 생긴다.\n입에서 강력한 거품을 발사한다."
     }
 };
 

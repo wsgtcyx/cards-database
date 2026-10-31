@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/122",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/122",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/122"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/122",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/122"
     },
     name: {
         en: "Steelix",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Steelix",
         "zh-tw": "大鋼蛇",
         ja: "ハガネール",
+        ko: "강철톤",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
         ja: "イワーク",
+        ko: "롱스톤",
     },
     description: {
         en: "It is said that if an Onix lives for over 100 years,\nits composition changes to become diamond-like.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es heißt, wenn ein Onix über 100 Jahre lebt,\nseine Zusammensetzung ändert sich und wird diamantenartig.",
         "pt-br": "Diz-se que se um Onix viver mais de 100 anos,\nsua composição muda para se tornar semelhante a um diamante.",
         "zh-tw": "據說，如果Onix能活100歲以上，\n它的成分發生變化，變得像鑽石一樣。",
-        ja: "イワークが １００年 以上 生きると 体の 成分が ダイヤのように 変化する という。"
+        ja: "イワークが １００年 以上 生きると 体の 成分が ダイヤのように 変化する という。",
+        ko: "롱스톤이 100년 이상 살면\n몸의 성분이 다이아몬드처럼\n변한다고 전해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
                 "zh-tw": "重擊",
-                ja: "ヘビーインパクト"
+                ja: "ヘビーインパクト",
+                ko: "헤비임팩트"
             },
             damage: 110,
             cost: ["Metal", "Colorless", "Colorless", "Colorless"]

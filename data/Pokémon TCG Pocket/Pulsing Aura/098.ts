@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/098"
     },
     name: {
         en: "Zubat",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Zubat leben tief in Höhlen, wo das Sonnenlicht\nsie nicht erreicht. Bei Tagesanbruch rücken sie\nzusammen, um sich im Schlaf zu wärmen.",
         "pt-br": "Zubat vivem em cavernas, onde a luz do sol não alcança. De manhã, eles se reúnem para se aquecerem enquanto dormem.",
         "zh-tw": "棲息在陽光照射不到的洞窟裡。\n到了早上就會和夥伴相聚，\n一邊互相取暖一邊睡覺。",
-        ja: "陽の 当たらない 洞窟に 棲む。 朝になると 仲間で 集まり 体を 温めあいながら 寝る。"
+        ja: "陽の 当たらない 洞窟に 棲む。 朝になると 仲間で 集まり 体を 温めあいながら 寝る。",
+        ko: "볕이 들지 않는 동굴에 산다.\n아침이 되면 동료들끼리 모여\n서로의 온기를 나누면서 잔다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Absatzdreher",
                 "pt-br": "Volta Giratória",
                 "zh-tw": "旋轉迴旋",
-                ja: "スピンターン"
+                ja: "スピンターン",
+                ko: "스핀턴"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 10
         }

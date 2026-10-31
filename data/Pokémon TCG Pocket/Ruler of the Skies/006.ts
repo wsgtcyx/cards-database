@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/006",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/006",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/006"
     },
     name: {
         en: "Lileep",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Liliep heftet sich an Felsen am Meeresgrund.\nNähert sich Beute, fängt es diese mit seinen\nwie Blütenblätter geformten Tentakeln.",
         "pt-br": "Lileep se agarra às rochas no fundo do mar. Quando a presa se aproxima, este Pokémon a envolve com tentáculos semelhantes apétalas.",
         "zh-tw": "會吸附在海底的岩石上，\n並用花瓣般的觸手纏住\n接近自己的獵物。",
-        ja: "海底の 岩に 貼りつき 獲物が 近くにくると 花びらのような 触手で 絡めとる。"
+        ja: "海底の 岩に 貼りつき 獲物が 近くにくると 花びらのような 触手で 絡めとる。",
+        ko: "해저 바위에 달라붙어\n먹이가 가까이 오면 꽃잎처럼\n생긴 촉수로 감아버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Fleck",
                 "pt-br": "Borrão",
                 "zh-tw": "吸取一下",
-                ja: "ちょっとすいとる"
+                ja: "ちょっとすいとる",
+                ko: "조금흡수"
             },
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復10HP。",
-                ja: "このポケモンのHPを10回復。"
+                ja: "このポケモンのHPを10回復。",
+                ko: "이 포켓몬의 HP를 10회복."
             },
             damage: 40
         }

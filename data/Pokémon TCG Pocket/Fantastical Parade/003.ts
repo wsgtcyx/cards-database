@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/003"
     },
     name: {
         en: "Shuckle",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pottrott",
         "pt-br": "Shuckle",
         "zh-tw": "壺壺",
-        ja: "ツボツボ"
+        ja: "ツボツボ",
+        ko: "단단지"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Beeren lagerten schließlich in ihrer vasenartigen Schale\nzu einem dicken, breiigen Saft werden.",
         "pt-br": "As bagas armazenadas em sua casca em forma de vaso eventualmente\ntorne-se um suco espesso e carnudo.",
         "zh-tw": "漿果最終儲存在花瓶般的外殼中\n變成濃稠的果肉汁。",
-        ja: "ツボのような 甲羅の 中に ためこんだ 木の実は いつの間にか ドロドロの ジュースに 変わる。"
+        ja: "ツボのような 甲羅の 中に ためこんだ 木の実は いつの間にか ドロドロの ジュースに 変わる。",
+        ko: "항아리 같은 등껍질 속에\n모은 나무열매는 어느샌가\n걸쭉한 주스로 변한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
                 "zh-tw": "守衛壓力機",
-                ja: "ガードプレス"
+                ja: "ガードプレス",
+                ko: "가드프레스"
             },
             damage: 40,
             cost: ["Grass", "Grass"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     weaknesses: [{

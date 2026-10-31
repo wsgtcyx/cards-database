@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/185",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/185",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/185",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/185"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/185",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/185"
     },
     name: {
         en: "Crustle ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Felsenquetscher",
                 "pt-br": "Rocha Esmagadora",
                 "zh-tw": "岩石粉碎",
-                ja: "ロックスマッシュ"
+                ja: "ロックスマッシュ",
+                ko: "록스매시"
             },
             damage: 90
         }

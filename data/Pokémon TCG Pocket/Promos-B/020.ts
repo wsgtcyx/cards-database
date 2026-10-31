@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/020"
     },
     name: {
         en: "Charmeleon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Steigert es sich in einen Kampf hinein, spuckt es\nFlammen, die alles in seiner Umgebung\nniederbrennen.",
         "pt-br": "Se ficar agitado durante a batalha, ele solta chamas intensas, incinerando o ambiente ao seu redor.",
         "zh-tw": "如果牠在戰鬥中亢奮起來，\n就會噴出灼熱的火焰，\n把周圍的東西燒得一乾二淨。",
-        ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。"
+        ja: "戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。",
+        ko: "싸움으로 기분이 고조되면\n작열하는 불꽃을 뿜으며\n주변을 태워버린다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zündung",
                 "pt-br": "Ignição",
                 "zh-tw": "點火",
-                ja: "イグニッション"
+                ja: "イグニッション",
+                ko: "이그니션"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du eine {R}-Energie aus deiner Energiezone nehmen und sie an dein aktives {R}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá pegar uma Energia {R} da sua Zona de Energia e ligá-la aos seus Pokémon {R} Ativos.",
                 "zh-tw": "在你的回合中，當你從手上使用這只寶可夢來進化你的一隻寶可夢時，你可以從你的能量區取出一個{R}能量並將其附加到你的活躍{R}寶可夢上。",
-                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。"
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のエネルギーゾーンから{R}エネルギーを1個出し、バトル場の{R}ポケモンにつける。",
+                ko: "자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 자신의 에너지존에서 {R}에너지를 1개 내보내 배틀필드의 {R}포켓몬에게 붙인다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Stetiger Feuerhauch",
                 "pt-br": "Hálito de Fogo Constante",
                 "zh-tw": "吐火",
-                ja: "ひをはく"
+                ja: "ひをはく",
+                ko: "불토하기"
             },
             damage: 50
         }

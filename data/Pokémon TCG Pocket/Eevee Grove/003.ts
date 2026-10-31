@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/003",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/003",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/003"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/003",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/003"
     },
     name: {
         en: "Bounsweet",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
         ja: "アマカジ",
+        ko: "달콤아",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Schweiß ist süß, wie Sirup aus eingekochtem Wasser\nFrucht. Aus diesem Grund wurde Bounsweet sehr geschätzt\ndie Vergangenheit, als Süßstoffe knapp waren.",
         "pt-br": "Seu suor é doce, como xarope feito de fervido\nfruta. Por causa disso, Bounsweet foi altamente valorizado em\nno passado, quando os adoçantes eram escassos.",
         "zh-tw": "它的汗水是甜的，就像熬成的糖漿一樣\n水果。正因為如此，Bounsweet 受到了高度重視。\n過去，甜味劑稀缺。",
-        ja: "果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。"
+        ja: "果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。",
+        ko: "과일을 졸인 것만 같은 달콤한 땀을\n흘리기 때문에, 달콤한 음식이 적었던\n옛날에는 매우 귀하게 여겨졌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Flop",
                 "pt-br": "Fracasso",
                 "zh-tw": "翻牌",
-                ja: "はねまわる"
+                ja: "はねまわる",
+                ko: "돌아다니며 뛰기"
             },
             damage: 10,
             cost: ["Colorless"]

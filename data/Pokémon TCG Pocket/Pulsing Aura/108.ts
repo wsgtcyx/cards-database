@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/108",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/108"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/108",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/108"
     },
     name: {
         en: "Amoonguss",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Hutsassa ahmt Pokébälle nach. Es ist noch nicht klar, ob diese Mimikry gegen andere Pokémon wirksam ist.",
         "pt-br": "Amoonguss imita Pokébolas. Ainda não está claro se este mimetismo é eficaz contra outros Pokémon.",
         "zh-tw": "敗露球菇 模仿寶可夢球。目前尚不清楚這種模仿是否對其他寶可夢有效。",
-        ja: "モンスターボールに 擬態するが ポケモンに 対して 効果が あるのかは よくわかっていない。"
+        ja: "モンスターボールに 擬態するが ポケモンに 対して 効果が あるのかは よくわかっていない。",
+        ko: "몬스터볼로 위장하고 있지만\n포켓몬에게 효과가 있는지에 대해서는\n알려진 것이 없다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Gefährliche Sporen",
                 "pt-br": "Esporos Perigosos",
                 "zh-tw": "險惡孢子",
-                ja: "あぶないほうし"
+                ja: "あぶないほうし",
+                ko: "위험한포자"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt vergiftet und gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Envenenado e Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，對手的活躍寶可夢現在中毒並麻痺。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독과 마비로 만든다."
             },
             damage: 30
         }

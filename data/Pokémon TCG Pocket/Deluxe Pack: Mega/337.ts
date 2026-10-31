@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/337",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/337",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/337",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/337"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/337",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/337"
     },
     name: {
         en: "Metang",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Beldum",
         "zh-tw": "鐵啞鈴",
         ja: "ダンバル",
-        ko: "Beldum"
+        ko: "메탕"
     },
     stage: "Stage1",
     description: {
@@ -55,7 +56,7 @@ const card: Card = {
         "pt-br": "Adora minerais magnéticos, então persegue Nosepass a velocidades que ultrapassam 100 km/h.",
         "zh-tw": "非常喜歡能放出磁力的礦物。會以１００公里的時速窮追朝北鼻。",
         ja: "磁力を 放つ 鉱物が 好物。 時速 １００キロで ノズパスを 追いつめるぞ。",
-        ko: "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph."
+        ko: "자력을 발산하는 광물을\n좋아한다. 시속 100km로\n코코파스를 몰아넣는다."
     },
     attacks: [
         {
@@ -72,7 +73,7 @@ const card: Card = {
                 "zh-tw": "子彈拳",
                 "pt-br": "Soco Projétil",
                 ja: "バレットパンチ",
-                ko: "Bullet Punch"
+                ko: "불릿펀치"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano a mais para cada cara.",
                 "zh-tw": "擲2次硬幣,增加正面出現的次數×20點傷害。",
                 ja: "コインを2回投げ、オモテの数×20ダメージ追加。",
-                ko: "Flip 2 coins. This attack does 20 more damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 추가한다."
             },
             damage: "30+"
         }

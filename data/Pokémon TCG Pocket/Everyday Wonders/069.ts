@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/069"
     },
     name: {
         en: "Kid's Room",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Einmal während seines Zuges kann jeder Spieler eine Karte auf seiner Hand auswählen und sie durch eine zufällige Pokémon-Ausrüstungskarte in seinem Deck austauschen.",
         "pt-br": "Uma vez durante o turno de cada jogador, ele pode escolher uma carta de sua mão e trocá-la por uma carta de Ferramenta Pokémon aleatória de seu baralho.",
         "zh-tw": "在每個玩家的回合中一次，該玩家可以選擇自己手中的一張卡，並將其與卡組中隨機的寶可夢工具卡交換。",
-        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分の手札を1枚選び、山札にあるランダムな「ポケモンのどうぐ」1枚と入れ替える。"
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分の手札を1枚選び、山札にあるランダムな「ポケモンのどうぐ」1枚と入れ替える。",
+        ko: "서로의 플레이어는 자신의 차례에 1번 사용할 수 있다. 자신의 패를 1장 선택해서 덱에서 랜덤하게 「포켓몬의 도구」 1장과 교체한다."
     },
     trainerType: "Stadium"
 };

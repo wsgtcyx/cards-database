@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/089"
     },
     name: {
         en: "Audino",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Audino",
         "zh-tw": "差不多娃娃",
         ja: "タブンネ",
+        ko: "다부니",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon hat ein freundliches Herz. Durch das Berühren mit seinen Fühlern,\nAudino kann die Gefühle und den körperlichen Zustand anderer Lebewesen einschätzen.",
         "pt-br": "Este Pokémon tem um coração bondoso. Ao tocar com seus sensores,\nAudino pode avaliar os sentimentos e condições físicas de outras criaturas.",
         "zh-tw": "這只神奇寶貝有一顆善良的心。通過用觸角觸碰，\n奧迪諾可以測量其他生物的感受和身體狀況。",
-        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。"
+        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。",
+        ko: "마음 착한 포켓몬이다.\n더듬이를 갖다 대어 상대의\n마음과 몸 상태를 파악한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Drain Slap",
                 "pt-br": "Tapa de drenagem",
                 "zh-tw": "排水管拍打",
-                ja: "ドレインビンタ"
+                ja: "ドレインビンタ",
+                ko: "드레인 뺨치기"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
-                ja: "このポケモンのHPを10回復。"
+                ja: "このポケモンのHPを10回復。",
+                ko: "이 포켓몬의 HP를 10회복."
             }
         }],
     weaknesses: [{

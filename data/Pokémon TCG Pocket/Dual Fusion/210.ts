@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/210",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/210",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/210",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/210"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/210",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/210"
     },
     name: {
         en: "Lycanroc ex",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
         ja: "イワンコ",
-        ko: "Rockruff"
+        ko: "암멍이"
     },
     suffix: "EX",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Garra Cortadora",
                 "zh-tw": "利爪揮砍",
                 ja: "スラッシュクロー",
-                ko: "Slashing Claw"
+                ko: "슬래시크루"
             },
             cost: [
                 "Colorless",
@@ -85,7 +86,7 @@ const card: Card = {
                 "pt-br": "Retaliação Reflexiva",
                 "zh-tw": "反擊回去",
                 ja: "ストライクバック",
-                ko: "Reflexive Retaliation"
+                ko: "스트라이크 백"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon.",
@@ -96,7 +97,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 30 pontos de dano ao Pokémon Atacante.",
                 "zh-tw": "這隻寶可夢在戰鬥場受到對手的寶可夢招式的傷害時,使用招式的寶可夢受到30點傷害。",
                 ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに30ダメージ。",
-                ko: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 30데미지를 준다."
             },
             type: "Ability"
         }

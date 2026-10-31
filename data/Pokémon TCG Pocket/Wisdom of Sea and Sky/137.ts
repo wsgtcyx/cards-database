@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/137",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/137",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/137"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/137",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/137"
     },
     name: {
         en: "Porygon-Z",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Porygon-Z",
         "zh-tw": "多邊獸Ｚ",
         ja: "ポリゴンZ",
+        ko: "폴리곤Z",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
         ja: "ポリゴン2",
+        ko: "폴리곤2",
     },
     description: {
         en: "Porygon-Z had a program installed to allow it to\nmove between dimensions, but the program also\ncaused instability in Porygon-Z's behavior.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Porygon-Z hatte ein Programm installiert, um dies zu ermöglichen\nBewegen Sie sich zwischen den Dimensionen, aber auch das Programm\nverursachte Instabilität im Verhalten von Porygon-Z.",
         "pt-br": "Porygon-Z tinha um programa instalado para permitir\nmover-se entre dimensões, mas o programa também\ncausou instabilidade no comportamento de Porygon-Z.",
         "zh-tw": "Porygon-Z 安裝了一個程序，允許它\n在維度之間移動，但程序也\n導致 Porygon-Z 行為不穩定。",
-        ja: "異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。"
+        ja: "異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。",
+        ko: "다른 공간에 드나들 수 있는\n프로그램을 추가한 결과\n움직임이 불안정해졌다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Verlangsamender Strahl",
                 "pt-br": "Feixe lento",
                 "zh-tw": "減速光束",
-                ja: "スロービーム"
+                ja: "スロービーム",
+                ko: "슬로빔"
             },
             damage: 70,
             cost: ["Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊額外花費 1 {C} 點。",
-                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 많게 한다."
             }
         }],
     weaknesses: [{

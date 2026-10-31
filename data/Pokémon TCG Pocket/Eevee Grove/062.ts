@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/062",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/062",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/062"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/062",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/062"
     },
     name: {
         en: "Minccino",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Minccino",
         "zh-tw": "泡沫栗鼠",
         ja: "チラーミィ",
+        ko: "치라미",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Art, wie es mit seinem Schwanz Schmutz wegfegt\nkann beim Reinigen hilfreich sein. Aber sein Fokus liegt auf\nSauberkeit kann die Reinigung zu einem größeren Aufwand machen.",
         "pt-br": "A maneira como ele limpa a sujeira com o rabo\npode ser útil durante a limpeza. Mas seu foco em\na impecabilidade pode tornar a limpeza mais complicada.",
         "zh-tw": "它用尾巴掃去污垢的方式\n清潔時會有幫助。但其重點在於\n一塵不染會使清潔變得更加麻煩。",
-        ja: "しっぽで 汚れを 払い落す。 掃除を するときに 助かるが 潔癖症 なので 大変。"
+        ja: "しっぽで 汚れを 払い落す。 掃除を するときに 助かるが 潔癖症 なので 大変。",
+        ko: "꼬리로 더러운 것을 떨어낸다.\n청소를 할 때는 도움이 되지만\n결벽증이 있어서 힘들기도 하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Pfund",
                 "pt-br": "Libra",
                 "zh-tw": "磅",
-                ja: "はたく"
+                ja: "はたく",
+                ko: "막치기"
             },
             damage: 10,
             cost: ["Colorless"]

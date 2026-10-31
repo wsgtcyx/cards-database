@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/018",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/018"
     },
     name: {
         en: "Slowking",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Slowking",
         "zh-tw": "呆呆王",
         ja: "ヤドキング",
+        ko: "야도킹",
     },
     illustrator: "Aya Kusube",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Flegmon",
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸",
-        ja: "ヤドン"
+        ja: "ヤドン",
+        ko: "야돈"
     },
     description: {
         en: "When its head was bitten, toxins entered Slowpoke's\nhead and unlocked an extraordinary power.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Als sein Kopf gebissen wurde, gelangten Giftstoffe in Slowpokes Körper\nKopf und setzte eine außergewöhnliche Kraft frei.",
         "pt-br": "Quando sua cabeça foi mordida, toxinas entraram no corpo de Slowpoke.\ncabeça e desbloqueou um poder extraordinário.",
         "zh-tw": "當它的頭被咬時，毒素就進入了呆呆獸的身體\n頭並釋放出非凡的力量。",
-        ja: "かまれたとき 頭に 染みこんだ 毒素に よって ただならない 能力に 目覚めた ヤドン。"
+        ja: "かまれたとき 頭に 染みこんだ 毒素に よって ただならない 能力に 目覚めた ヤドン。",
+        ko: "물렸을 때 머리에 깊게 스며든\n독소에 의해 심상치 않은\n능력에 눈을 뜬 야돈이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wurf",
                 "pt-br": "Lixo",
                 "zh-tw": "垃圾",
-                ja: "ポイすて"
+                ja: "ポイすて",
+                ko: "함부로버리기"
             },
             damage: "50×",
             cost: ["Water"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf bis zu 2 Pokémon-Ausrüstungskarten aus deiner Hand ab. Dieser Angriff fügt 50 Schadenspunkte für jede auf diese Weise abgeworfene Karte zu.",
                 "pt-br": "Descarte até 2 cartas de Ferramentas Pokémon da sua mão. Este ataque causa 50 de dano para cada carta descartada dessa forma.",
                 "zh-tw": "從手牌捨棄最多2張寶可夢工具卡。你以這種方式丟棄的每張牌都會造成 50 點傷害。",
-                ja: "自分の手札から「ポケモンのどうぐ」を2枚までトラッシュし、その枚数×50ダメージ。"
+                ja: "自分の手札から「ポケモンのどうぐ」を2枚までトラッシュし、その枚数×50ダメージ。",
+                ko: "자신의 패에서 「포켓몬의 도구」를 2장까지 트래쉬하고 그 장수 × 50데미지를 준다."
             }
         }],
     weaknesses: [{

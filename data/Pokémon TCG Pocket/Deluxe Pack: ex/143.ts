@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/143",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/143",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/143"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/143",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/143"
     },
     name: {
         en: "Pachirisu",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pachirisu",
         "pt-br": "Pachirisu",
         "zh-tw": "帕奇利茲",
-        ja: "パチリス"
+        ja: "パチリス",
+        ko: "파치리스"
     },
     illustrator: "imoniii",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist eine der Pokémon-Arten mit Elektrizität\nBackentaschen. Es schießt Ladungen aus seinem Schwanz.",
         "pt-br": "É um dos tipos de Pokémon com eletricidade\nbolsas nas bochechas. Ele atira cargas com sua cauda.",
         "zh-tw": "它是帶有電力的神奇寶貝之一\n頰袋。它從尾巴發射電荷。",
-        ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。"
+        ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。",
+        ko: "볼에 전기 주머니를 가진 포켓몬의 일종.\n꼬리에 모인 전기를 방출한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Plasma",
                 "pt-br": "Plasma",
                 "zh-tw": "電漿",
-                ja: "プラズマ"
+                ja: "プラズマ",
+                ko: "플라스마"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an eines deiner {L}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {L} no Banco.",
                 "zh-tw": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。",
-                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
+                ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치의 {L} 포켓몬에게 붙인다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/028"
     },
     name: {
         en: "Eelektross",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Eelektross",
         "zh-tw": "麻麻鰻魚王",
         ja: "シビルドン",
+        ko: "저리더프",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Eelektrik",
         "zh-tw": "麻麻鰻",
         ja: "シビビール",
+        ko: "저리릴",
     },
     description: {
         en: "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie kriechen mit ihren Armen aus dem Meer.\nSie greifen ihre Beute sofort an Land an\nZieh es ins Meer.",
         "pt-br": "Eles rastejam para fora do oceano usando os braços.\nEles atacarão as presas na costa e imediatamente\narraste-o para o oceano.",
         "zh-tw": "他們用手臂從海裡爬出來。\n他們會立即攻擊岸上的獵物\n將其拖入大海。",
-        ja: "腕の 力で 海から はい出し 水辺の 獲物に 襲いかかる。 一瞬で 海へ 引きずりこむ。"
+        ja: "腕の 力で 海から はい出し 水辺の 獲物に 襲いかかる。 一瞬で 海へ 引きずりこむ。",
+        ko: "팔 힘으로 바다에서 기어 나와\n물가에 있는 먹이를 덮친다.\n한순간에 바다로 끌고 들어간다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wilder Angriff",
                 "pt-br": "Carga Selvagem",
                 "zh-tw": "狂野衝鋒",
-                ja: "ワイルドボルト"
+                ja: "ワイルドボルト",
+                ko: "와일드볼트"
             },
             damage: 120,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

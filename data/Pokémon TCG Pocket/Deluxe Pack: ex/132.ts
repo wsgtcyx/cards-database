@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/132",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/132",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/132"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/132",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/132"
     },
     name: {
         en: "Pikachu ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pikachu ex",
         "zh-tw": "皮卡丘ex",
         ja: "ピカチュウex",
+        ko: "피카츄 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Blitz",
                 "pt-br": "Raio",
                 "zh-tw": "霹靂",
-                ja: "10まんボルト"
+                ja: "10まんボルト",
+                ko: "10만볼트"
             },
             damage: 150,
             cost: ["Lightning", "Lightning", "Lightning"],
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的所有能量。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             }
         }],
     weaknesses: [{

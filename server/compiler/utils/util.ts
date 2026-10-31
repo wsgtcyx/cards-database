@@ -207,11 +207,11 @@ export function getLastEdit(path: string): string {
 export function resolveText<T>(text: Languages<T> | undefined, lang: SupportedLanguages): T | undefined {
 	if (!text) return text as undefined
 	const res: T | undefined = text[lang]
-	if (lang === 'ja' && (res === undefined || (typeof res === 'string' && !res.trim()))) {
-		throw new Error('Missing Japanese localized value')
+	if ((lang === 'ja' || lang === 'ko') && (res === undefined || (typeof res === 'string' && !res.trim()))) {
+		throw new Error(`Missing ${lang === 'ja' ? 'Japanese' : 'Korean'} localized value`)
 	}
-	if (lang === 'ja' && typeof res === 'string' && /\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(res)) {
-		throw new Error('Unresolved Japanese localization template')
+	if ((lang === 'ja' || lang === 'ko') && typeof res === 'string' && /\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(res)) {
+		throw new Error(`Unresolved ${lang === 'ja' ? 'Japanese' : 'Korean'} localization template`)
 	}
 	if (lang === 'ja' && typeof res === 'string' && /(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(res)) {
 		throw new Error('Missing Japanese numeric count')
@@ -222,9 +222,19 @@ export function resolveText<T>(text: Languages<T> | undefined, lang: SupportedLa
 		&& !['CHECK', 'GUARD', 'POWER'].includes(res)) {
 		throw new Error('Japanese localized text is not native Japanese')
 	}
+	if (lang === 'ko' && typeof res === 'string' && !/^https?:\/\//u.test(res)
+		&& !/[가-힣]/u.test(res) && !/^PROMO-[A-Z]$/u.test(res) && !['GUARD', 'POWER'].includes(res)) {
+		throw new Error('Korean localized text is not native Korean')
+	}
 	if (typeof res === 'undefined' && !lang.includes('-')) {
 		const key = Object.keys(text).find(key => key.startsWith(lang))
 		return text[key as keyof Languages<T>]
 	}
 	return res
+}
+
+/** Optional assets can be published for one locale without creating assets for the others. */
+export function resolveOptionalAsset(text: Languages | undefined, lang: SupportedLanguages): string | undefined {
+	if (!text || (text.en === undefined && text[lang] === undefined)) return undefined
+	return resolveText(text, lang)
 }

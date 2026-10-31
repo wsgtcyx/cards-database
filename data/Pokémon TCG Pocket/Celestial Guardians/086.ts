@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/086",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/086"
     },
     name: {
         en: "Cosmoem",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
         ja: "コスモッグ",
+        ko: "코스모그",
     },
     description: {
         en: "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",

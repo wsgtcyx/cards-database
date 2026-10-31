@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/060"
     },
     name: {
         en: "Espeon",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Eevee",
         "zh-tw": "伊布",
         ja: "イーブイ",
-        ko: "Eevee"
+        ko: "이브이"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Onda Cerebral",
                 "zh-tw": "腦力波",
                 ja: "ブレインウェーブ",
-                ko: "Brainwave"
+                ko: "브레인웨이브"
             },
             cost: [
                 "Colorless"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {P} ligada a este Pokémon.",
                 "zh-tw": "增加這隻寶可夢身上的{P}能量的數量×20點傷害。",
                 ja: "このポケモンの{P}エネルギーの数×20ダメージ追加。",
-                ko: "This attack does 20 more damage for each {P} Energy attached to this Pokémon."
+                ko: "이 포켓몬의 {P}에너지의 개수 × 20데미지를 추가한다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "A ponta de sua cauda bifurcada treme enquanto prevê o próximo movimento de seu oponente.",
         "zh-tw": "預知對手的行動時，分叉的尾巴前端就會微微地擺動。",
         ja: "相手の 動きを 予知するとき ふたまたに なっている 尻尾の 先は 微妙に 揺れている。",
-        ko: "The tip of its forked tail quivers when it is predicting its opponent’s next move."
+        ko: "상대의 움직임을 예지할 때\n두 갈래로 갈라져 있는 꼬리의\n끝이 미세하게 떨린다."
     }
 };
 

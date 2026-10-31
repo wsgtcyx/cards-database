@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/107",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/107"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/107",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/107"
     },
     name: {
         en: "Nemona",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Noêmia",
         "zh-tw": "妮莫",
         ja: "ネモ",
+        ko: "네모",
         pt: "Noêmia"
     },
     illustrator: "Sanosuke Sakuma",
@@ -34,7 +36,8 @@ const card: Card = {
         "de": "Während dieser Runde fügen Angriffe deines Pamomamo dem aktiven Pokémon Ex deines Gegners +80 Schaden zu.",
         "pt-br": "Durante este turno, os ataques usados ​​pelo seu Pawmot causam +80 de dano ao Pokémon Ativo ex do seu oponente.",
         "zh-tw": "這個回合中，你的巴布土撥所使用的攻擊對對手的戰鬥寶可夢造成+80點傷害。",
-        ja: "この番、自分の「パーモット」が使うワザの、相手のバトル場の「ポケモンex」へのダメージを+80する。"
+        ja: "この番、自分の「パーモット」が使うワザの、相手のバトル場の「ポケモンex」へのダメージを+80する。",
+        ko: "이 차례에 자신의 「빠르모트」가 사용하는 기술이 상대 배틀필드의 「포켓몬 ex」에게 주는 데미지를 +80한다."
     },
     trainerType: "Supporter",
 };

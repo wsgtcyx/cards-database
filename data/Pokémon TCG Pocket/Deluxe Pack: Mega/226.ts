@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/226",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/226"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/226",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/226"
     },
     name: {
         en: "Lisia",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Coloque 2 Pokémon Básicos aleatórios com 50 PS ou menos do seu baralho na sua mão.",
         "zh-tw": "從自己的牌庫隨機將2張HP為50以下的基礎寶可夢卡加入手牌。",
         ja: "自分の山札から、HPが50以下のたねポケモンをランダムに2枚、手札に加える。",
-        ko: "Put 2 random Basic Pokémon with 50 HP or less from your deck into your hand."
+        ko: "자신의 덱에서 HP가 50이하인 기본 포켓몬을 랜덤으로 2장 패로 가져온다."
     },
     trainerType: "Supporter"
 };

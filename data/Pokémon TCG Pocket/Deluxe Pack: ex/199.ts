@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/199",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/199",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/199"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/199",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/199"
     },
     name: {
         en: "Sudowoodo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
         ja: "ウソッキー",
+        ko: "꼬지모",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Obwohl es immer vorgibt, ein Baum zu sein,\nseine Zusammensetzung scheint ähnlicher zu sein\nFelsen als zur Vegetation.",
         "pt-br": "Embora sempre finja ser uma árvore,\nsua composição parece mais semelhante a\nrocha do que à vegetação.",
         "zh-tw": "雖然它總是假裝是一棵樹，\n它的組成看起來更類似於\n岩石比植被更重要。",
-        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。"
+        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。",
+        ko: "항상 나무인 척하고 있다.\n몸의 구조는 식물보다\n돌이나 바위에 가까운 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kampf gegen den Kopfstoß",
                 "pt-br": "Lutando cabeçada",
                 "zh-tw": "格鬥頭撞",
-                ja: "とうしのずつき"
+                ja: "とうしのずつき",
+                ko: "투지의박치기"
             },
             damage: "20+",
             cost: ["Fighting"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 30 de dano a mais.",
                 "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 30 點。",
-                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。"
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

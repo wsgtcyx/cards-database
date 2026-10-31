@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/206",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/206",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/206",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/206"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/206",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/206"
     },
     name: {
         en: "Gible",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gible",
         "zh-tw": "圓陸鯊",
         ja: "フカマル",
+        ko: "딥상어동",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es schleicht in Höhlen herum und wenn es um Beute oder Feinde geht\ngeht vorbei, es springt heraus und zerfrisst sie.\nDie Wucht seines Angriffs bricht ihm manchmal die Zähne aus.",
         "pt-br": "Ele se esconde em cavernas e quando uma presa ou inimigo\npassa, salta e os mastiga.\nA força do seu ataque às vezes quebra seus dentes.",
         "zh-tw": "它躲藏在洞穴裡，當獵物或敵人時\n當他們經過時，它會跳出來咬掉他們。\n它的攻擊力有時會碎掉牙齒。",
-        ja: "穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。"
+        ja: "穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。",
+        ko: "구멍에 숨어서 먹이나 적이\n지나가면 뛰쳐나가 문다.\n기세가 대단해 이가 빠질 때도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Fighting"]

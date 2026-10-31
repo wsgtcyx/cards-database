@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/184",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/184",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/184",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/184"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/184",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/184"
     },
     name: {
         en: "Dragonair",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Dratini",
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
-        ja: "ミニリュウ"
+        ja: "ミニリュウ",
+        ko: "미뇽"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless"],

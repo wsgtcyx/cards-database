@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/145",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/145"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/145",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/145"
     },
     name: {
         en: "Rookidee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Weibchen sind wählerischer als die Männchen. Wenn eine andere Kreatur die Flügel eines weiblichen Meikro beschmutzt, wird sie den Täter in brennender Wut unerbittlich picken.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma fêmea Rookidee, ela bicará o agressor implacavelmente em uma fúria ardente.",
         "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。",
-        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。",
+        ko: "암컷은 수컷보다 신경질적이다.\n깃털이 더러워지면 불같이 화를 내며\n부리로 쪼고 다닌다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pflücker",
                 "pt-br": "Colher",
                 "zh-tw": "啄食",
-                ja: "ついばむ"
+                ja: "ついばむ",
+                ko: "쪼아대기"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Bevor du Schaden verursachst, wirf alle Pokémon-Werkzeuge vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。",
-                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
+                ko: "데미지를 주기 전에 상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다."
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/036"
     },
     name: {
         en: "Electivire",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Elektek",
         "pt-br": "Electabuzz",
         "zh-tw": "電擊獸",
-        ja: "エレブー"
+        ja: "エレブー",
+        ko: "에레브"
     },
     description: {
         en: "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",

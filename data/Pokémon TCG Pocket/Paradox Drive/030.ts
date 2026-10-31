@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/030"
     },
     name: {
         en: "Iron Crown",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Angeblich gab es einen Vorfall, bei dem es mit glänzenden Klingen alles um sich herum in Stücke schnitt. Sonst ist darüber kaum etwas bekannt.",
         "pt-br": "Supostamente houve um incidente em que ele lançou lâminas brilhantes para cortar tudo ao seu redor em pedaços. Pouco mais se sabe sobre isso.",
         "zh-tw": "據說曾發生過發射閃亮的刀刃將周圍的一切切成碎片的事件。對此我們知之甚少。",
-        ja: "光る 刃を 撃ちだし あたりの すべてを 切り裂いたらしいが ほかに 情報はなく 正体不明。"
+        ja: "光る 刃を 撃ちだし あたりの すべてを 切り裂いたらしいが ほかに 情報はなく 正体不明。",
+        ko: "빛나는 칼날을 발사하며\n주위의 모든 것을 베어 버렸다고 하나\n그 밖의 정보는 전무하여 정체불명이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aufzählklinge",
                 "pt-br": "Enumerando Lâmina",
                 "zh-tw": "計數刃",
-                ja: "カウントブレード"
+                ja: "カウントブレード",
+                ko: "카운트 블레이드"
             },
             effect: {
                 en: "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手的後備寶可夢每造成 20 點額外傷害。",
-                ja: "相手のベンチポケモンの数×20ダメージ追加。"
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
+                ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다."
             },
             damage: "10+"
         }

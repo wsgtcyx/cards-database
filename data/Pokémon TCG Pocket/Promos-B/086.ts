@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/086"
     },
     name: { en: "Beldum", fr: "Terhal", es: "Beldum", it: "Beldum", de: "Tanhel", "pt-br": "Beldum", "zh-tw": "鐵啞鈴", ko: "메탕", ja: "ダンバル" },
     illustrator: "Naoyo Kimura",
@@ -23,7 +24,7 @@ const card: Card = {
     stage: "Basic",
     abilities: [{
         type: "Ability",
-        name: { en: "Conductive Body", fr: "Corps Conducteur", es: "Cuerpo Conductor", it: "Corpo Conduttore", de: "Leitender Körper", "pt-br": "Corpo Condutor", "zh-tw": "牽引身軀", ja: "ひきあうからだ" },
+        name: { en: "Conductive Body", fr: "Corps Conducteur", es: "Cuerpo Conductor", it: "Corpo Conduttore", de: "Leitender Körper", "pt-br": "Corpo Condutor", "zh-tw": "牽引身軀", ja: "ひきあうからだ", ko: "인력의 몸" },
         effect: {
             en: "If you have another Beldum in play, this Pokémon's Retreat Cost is 1 less.",
             fr: "Si vous avez un autre Terhal en jeu, le Coût de Retraite de ce Pokémon est diminué de 1.",
@@ -32,12 +33,13 @@ const card: Card = {
             de: "Wenn du ein anderes Tanhel im Spiel hast, sind die Rückzugskosten dieses Pokémon um 1 geringer.",
             "pt-br": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 1 a menos.",
             "zh-tw": "若自己的場上有其他的「鐵啞鈴」，則這隻寶可夢撤退所需的能量減少1個。",
-            ja: "自分の場に別の「ダンバル」がいるなら、このポケモンのにげるためのエネルギーを、1個少なくする。"
+            ja: "自分の場に別の「ダンバル」がいるなら、このポケモンのにげるためのエネルギーを、1個少なくする。",
+            ko: "자신의 필드에 다른 「메탕」가 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다."
         }
     }],
     attacks: [{
         cost: ["Metal"],
-        name: { en: "Ram", fr: "Collision", es: "Apisonar", it: "Carica", de: "Ramme", "pt-br": "Aríete", "zh-tw": "衝撞", ja: "ぶつかる" },
+        name: { en: "Ram", fr: "Collision", es: "Apisonar", it: "Carica", de: "Ramme", "pt-br": "Aríete", "zh-tw": "衝撞", ja: "ぶつかる", ko: "부딪치기" },
         damage: 10
     }],
     weaknesses: [{ type: "Fire", value: "+20" }],

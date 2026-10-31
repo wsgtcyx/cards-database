@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/013"
     },
     name: {
         en: "Paldean Tauros",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Paldea-Tauros",
         'pt-br': "Tauros de Paldea",
         ja: "パルデアケンタロス",
-        ko: "팔데아켄타로스",
+        ko: "팔데아 켄타로스",
         "zh-tw": "帕底亞肯泰羅"
     },
     illustrator: "Minahamu",

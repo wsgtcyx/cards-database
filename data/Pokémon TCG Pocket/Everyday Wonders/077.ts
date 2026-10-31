@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/077"
     },
     name: {
         en: "Greedent",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses Pokémon macht sich mit Haufen heruntergefallener Beeren auf den Weg, indem es sie in seinen Schwanz einwickelt, der etwa doppelt so lang ist wie sein Körper.",
         "pt-br": "Este Pokémon foge de montes de frutas caídas, enrolando-as em sua cauda, ​​que tem aproximadamente o dobro do comprimento de seu corpo.",
         "zh-tw": "這隻寶可夢用它的尾巴捲住掉落的漿果，大約是它身體長度的兩倍，從而將它們帶走。",
-        ja: "体の 約２倍の 長さの 尻尾で 木から 落とした 木の実を ごっそり 包んで 持ち去るぞ。"
+        ja: "体の 約２倍の 長さの 尻尾で 木から 落とした 木の実を ごっそり 包んで 持ち去るぞ。",
+        ko: "몸 길이의 약 2배나 되는 꼬리로\n나무에서 떨어진 나무열매를\n몽땅 싸서 가져가 버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kollaps",
                 "pt-br": "Colapso",
                 "zh-tw": "倒下",
-                ja: "たおれこむ"
+                ja: "たおれこむ",
+                ko: "쓰러지기"
             },
             effect: {
                 en: "This Pokémon is now Asleep.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Dieses Pokémon schläft jetzt.",
                 "pt-br": "Este Pokémon agora está dormindo.",
                 "zh-tw": "這只寶可夢現在已經睡著了。",
-                ja: "このポケモンをねむりにする。"
+                ja: "このポケモンをねむりにする。",
+                ko: "이 포켓몬을 잠듦으로 만든다."
             },
             damage: 100
         }

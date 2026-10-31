@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/193",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/193",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/193"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/193",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/193"
     },
     name: {
         en: "Skitty",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skitty",
         "zh-tw": "向尾喵",
         ja: "エネコ",
+        ko: "에나비",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es zeigt seine süße Seite, indem es seinem eigenen Schwanz nachjagt\nbis es schwindelig wird.",
         "pt-br": "Ele mostra seu lado fofo perseguindo o próprio rabo\naté ficar tonto.",
         "zh-tw": "它追逐自己的尾巴，展現可愛的一面\n直到頭暈。",
-        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。"
+        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。",
+        ko: "자신의 꼬리를 쫓아서\n놀고 있으면 눈이 핑 돌고 마는\n귀여운 일면을 보인다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rau spielen",
                 "pt-br": "Jogue duro",
                 "zh-tw": "玩粗暴",
-                ja: "じゃれつく"
+                ja: "じゃれつく",
+                ko: "치근거리기"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

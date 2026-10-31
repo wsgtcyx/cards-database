@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/186",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/186",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/186"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/186",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/186"
     },
     name: {
         en: "Shuckle ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Shuckle ex",
         "zh-tw": "壺壺ex",
         ja: "ツボツボex",
+        ko: "단단지 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Solide Schale",
                 "pt-br": "Casca Sólida",
                 "zh-tw": "實心外殼",
-                ja: "かたいこうら"
+                ja: "かたいこうら",
+                ko: "단단한 껍질"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Dieses Pokémon erleidet −20 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -20 de dano de ataques.",
                 "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Dreifacher Schlag",
                 "pt-br": "Tapa Triplo",
                 "zh-tw": "三重耳光",
-                ja: "トリプルビンタ"
+                ja: "トリプルビンタ",
+                ko: "트리플뺨치기"
             },
             damage: "20×",
             cost: ["Grass"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 20 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
-                ja: "コインを3回投げ、オモテの数×20ダメージ。"
+                ja: "コインを3回投げ、オモテの数×20ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 20데미지를 준다."
             }
         }],
     weaknesses: [{

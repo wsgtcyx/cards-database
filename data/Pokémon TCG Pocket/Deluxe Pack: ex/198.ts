@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/198",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/198",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/198",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/198"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/198",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/198"
 	},
 	name: {
 		en: "Sudowoodo",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Mogelbaum",
 		"pt-br": "Sudowoodo",
 		"zh-tw": "樹才怪",
-		ja: "ウソッキー"
+		ja: "ウソッキー",
+		ko: "꼬지모"
 	},
 	illustrator: "Tomokazu Komiya",
 	rarity: "Two Diamond",
@@ -63,7 +65,7 @@ const card: Card = {
 				de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
 				"pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 30 pontos de dano a mais.",
 				ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。",
-				ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 30데미지를 추가한다.",
+				ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 30데미지를 추가한다.",
 				"zh-tw": "如果對手的活躍神奇寶貝是神奇寶貝 {ex}，則此攻擊造成的傷害增加 30 點。"
 			}
 		}

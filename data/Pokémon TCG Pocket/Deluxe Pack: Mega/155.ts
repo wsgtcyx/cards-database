@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/155",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/155"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/155",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/155"
     },
     name: {
         en: "Mega Steelix ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Onix",
         "zh-tw": "大岩蛇",
         ja: "イワーク",
-        ko: "Onix"
+        ko: "롱스톤"
     },
     stage: "Stage1",
     attacks: [
@@ -63,7 +64,7 @@ const card: Card = {
                 "pt-br": "Rolagem Adamantina",
                 "zh-tw": "堅身回轉",
                 ja: "アダマントローリング",
-                ko: "Adamantine Rolling"
+                ko: "애더먼트롤링"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness.",
@@ -74,7 +75,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques e não terá Fraqueza.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害-20點,弱點也全部消除。",
                 ja: "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
-                ko: "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20하고 약점도 모두 없앤다."
             },
             damage: 120
         }

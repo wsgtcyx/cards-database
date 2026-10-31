@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/072"
     },
     name: {
         en: "Alolan Grimer",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Sleima",
         'pt-br': "Grimer de Alola",
         ja: "アローラベトベター",
-        ko: "알로라질퍽이",
+        ko: "알로라 질퍽이",
         "zh-tw": "阿羅拉臭泥",
     },
     illustrator: "Naoki Saito",

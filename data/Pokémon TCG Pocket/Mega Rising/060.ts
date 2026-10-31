@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/060",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/060",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/060"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/060",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/060"
     },
     name: {
         en: "Luvdisc",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Luvdisc",
         "zh-tw": "愛心魚",
         ja: "ラブカス",
+        ko: "사랑동이",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Während der Laichzeit entstehen unzählige Luvdisc\nversammeln sich an Korallenriffen und färben das Wasser rosa.",
         "pt-br": "Durante a época de desova, inúmeros Luvdisc\nse reúnem em recifes de corais, tornando as águas rosadas.",
         "zh-tw": "在產卵季節，無數的 Luvdisc\n聚集在珊瑚礁上，使海水變成粉紅色。",
-        ja: "繁殖シーズンには たくさんの ラブカスが サンゴ礁に 集まり 海面が ピンク色に 染まる。"
+        ja: "繁殖シーズンには たくさんの ラブカスが サンゴ礁に 集まり 海面が ピンク色に 染まる。",
+        ko: "번식기에는 많은 사랑동이가\n산호초에 모여들어서\n해수면이 핑크색으로 물든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Gepaartes Tackle",
                 "pt-br": "Equipamento emparelhado",
                 "zh-tw": "配對鏟球",
-                ja: "カップルタックル"
+                ja: "カップルタックル",
+                ko: "커플태클"
             },
             damage: "30+",
             cost: ["Water", "Water"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wenn du genau 2, 4 oder 6 Karten auf der Hand hast, fügt dieser Angriff 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver exatamente 2, 4 ou 6 cartas em sua mão, este ataque causa 30 de dano a mais.",
                 "zh-tw": "如果你的手牌恰好有 2、4 或 6 張，則此攻擊造成的傷害增加 30 點。",
-                ja: "自分の手札が2枚・4枚・6枚なら、30ダメージ追加。"
+                ja: "自分の手札が2枚・4枚・6枚なら、30ダメージ追加。",
+                ko: "자신의 패가 2장・4장・6장이라면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

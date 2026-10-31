@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/055",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/055"
     },
     name: {
         en: "Magnezone",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
         ja: "レアコイル",
+        ko: "레어코일",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
@@ -71,7 +73,7 @@ const card: Card = {
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon receberá −30 pontos de dano de ataques.",
                 ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが受けるワザのダメージを-30する。",
-                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬이 받는 기술의 데미지를 -30한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，這只神奇寶貝受到的攻擊傷害為 -30。"
             }
         }],

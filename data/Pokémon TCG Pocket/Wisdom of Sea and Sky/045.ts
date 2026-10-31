@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/045"
     },
     name: {
         en: "Gyarados",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Garados",
         "pt-br": "Gyarados",
         "zh-tw": "暴鯉龍",
-        ja: "ギャラドス"
+        ja: "ギャラドス",
+        ko: "갸라도스"
     },
     illustrator: "hatachu",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     description: {
         en: "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sobald es auftaucht, tobt es.\nEs bleibt wütend, bis es zerstört wird\nalles drumherum.",
         "pt-br": "Uma vez que aparece, ele fica furioso.\nEle permanece enfurecido até destruir\ntudo ao seu redor.",
         "zh-tw": "一旦出現，就會橫衝直撞。\n它仍然憤怒，直到它被摧毀\n它周圍的一切。",
-        ja: "一度 姿を 現すと まわりを すべて 焼き尽くさないと 怒りが 鎮まらない という。"
+        ja: "一度 姿を 現すと まわりを すべて 焼き尽くさないと 怒りが 鎮まらない という。",
+        ko: "한번 모습을 나타내면\n주변 전체를 태워 버리지 않고는\n분노가 가라앉지 않는다고 전해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wilder Swing",
                 "pt-br": "Balanço Selvagem",
                 "zh-tw": "狂野搖擺",
-                ja: "あばれスイング"
+                ja: "あばれスイング",
+                ko: "난동스윙"
             },
             damage: "20+",
             cost: ["Water", "Water"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Du kannst eine beliebige Anzahl deiner {W}-Pokémon auf deiner Bank abwerfen. Dieser Angriff verursacht 40 weitere Schadenspunkte für jedes Bank-Pokémon, das du auf diese Weise abgeworfen hast.",
                 "pt-br": "Você pode descartar qualquer número dos seus Pokémon {W} no Banco. Este ataque causa 40 pontos de dano a mais para cada Pokémon no Banco que você descartou dessa forma.",
                 "zh-tw": "您可以丟棄任意數量的替補 {W} 神奇寶貝。你以這種方式丟棄的每個後備神奇寶貝都會額外受到 40 點傷害。",
-                ja: "自分のベンチの{W}ポケモンを好きなだけトラッシュし、トラッシュしたベンチポケモンの数×40ダメージ追加。"
+                ja: "自分のベンチの{W}ポケモンを好きなだけトラッシュし、トラッシュしたベンチポケモンの数×40ダメージ追加。",
+                ko: "자신의 벤치의 {W}포켓몬을 원하는 만큼 트래쉬하고 트래쉬한 벤치 포켓몬의 수 × 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

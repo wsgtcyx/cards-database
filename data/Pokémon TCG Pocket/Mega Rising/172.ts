@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/172",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/172"
     },
     name: {
         en: "Aegislash",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Aegislash",
         "zh-tw": "堅盾劍怪",
         ja: "ギルガルド",
+        ko: "킬가르도",
     },
     illustrator: "miki kudo",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
         ja: "ニダンギル",
+        ko: "쌍검킬",
     },
     description: {
         en: "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es war einmal ein König mit einem Aegislash\nregierte über das Land. Sein Pokémon schließlich\nraubte ihm das Leben und sein Königreich fiel mit ihm.",
         "pt-br": "Era uma vez um rei com um Aegislash\nreinou sobre a terra. Seu Pokémon eventualmente\ndrenou sua vida e seu reino caiu com ele.",
         "zh-tw": "從前，有一位擁有神盾的國王\n統治了這片土地。他的神奇寶貝最終\n耗盡了他的生命，他的王國也隨之滅亡。",
-        ja: "昔 ギルガルドを 連れた 王が 国を 支配 していたが やがて 生気を 吸われ 国も 滅びた。"
+        ja: "昔 ギルガルドを 連れた 王が 国を 支配 していたが やがて 生気を 吸われ 国も 滅びた。",
+        ko: "옛날에 킬가르도를 거느린 왕이\n나라를 지배했지만 머지않아\n생기를 뺏겨 나라도 멸망했다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Verfluchtes Metall",
                 "pt-br": "Metal Amaldiçoado",
                 "zh-tw": "被詛咒的金屬",
-                ja: "カースドメタル"
+                ja: "カースドメタル",
+                ko: "커스메탈"
             },
             effect: {
                 en: "Attacks used by your {P} Pokémon and {M} Pokémon do +30 damage to your opponent's Active Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Angriffe deiner {P}-Pokémon und {M}-Pokémon fügen dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
                 "pt-br": "Os ataques usados pelos seus Pokémon {P} e {M} causam +30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "你的{P}神奇寶貝和{M}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+30傷害。",
-                ja: "このポケモンがいるかぎり、自分の{P}または{M}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。"
+                ja: "このポケモンがいるかぎり、自分の{P}または{M}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
+                ko: "이 포켓몬이 있는 한, 자신의 {P} 또는 {M}포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Schneidklinge",
                 "pt-br": "Lâmina de corte",
                 "zh-tw": "切片刀片",
-                ja: "スライスブレード"
+                ja: "スライスブレード",
+                ko: "슬라이스 블레이드"
             },
             damage: 70,
             cost: ["Metal", "Colorless", "Colorless"]
@@ -89,6 +96,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

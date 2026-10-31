@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/078",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/078"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/078",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/078"
     },
     name: {
         en: "Glimmora",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die Blütenblätter von Lumiflora bestehen aus kristallisierter Giftenergie. Es hat sich kürzlich herausgestellt, dass diese Blütenblätter Tera Jewels ähneln.",
         "pt-br": "As pétalas de Glimmora são feitas de energia venenosa cristalizada. Recentemente tornou-se evidente que estas pétalas se assemelham às Joias Tera.",
         "zh-tw": "晶光花的花瓣是由毒能結晶而成。最近發現這些花瓣很像泰拉珠寶。",
-        ja: "毒エネルギーが 結晶化した 花びらは テラスタルの 宝石に 似ていると 最近 判明した。"
+        ja: "毒エネルギーが 結晶化した 花びらは テラスタルの 宝石に 似ていると 最近 判明した。",
+        ko: "독 에너지가 결정화한 꽃잎은\n테라스탈의 보석을 닮은 것으로\n최근에 밝혀졌다."
     },
     abilities: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zerbrechender Kristall",
                 "pt-br": "Cristal Quebrando",
                 "zh-tw": "碎裂結晶",
-                ja: "くだけるけっしょう"
+                ja: "くだけるけっしょう",
+                ko: "깨어진 결정"
             },
             effect: {
                 en: "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn dieses Pokémon kampfunfähig ist, wirf eine Münze. Bei „Kopf“ kann Ihr Gegner dafür keine Punkte bekommen.",
                 "pt-br": "Quando este Pokémon for nocauteado, jogue uma moeda. Se der cara, seu oponente não poderá ganhar nenhum ponto por isso.",
                 "zh-tw": "當這只寶可夢被擊倒時，擲硬幣。如果出現正面，您的對手將無法獲得任何分數。",
-                ja: "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はポイントをとれない。"
+                ja: "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はポイントをとれない。",
+                ko: "이 포켓몬이 기절했을 때 자신은 동전을 1번 던진다. 앞면이 나오면 상대는 포인트를 가져갈 수 없다."
             }
         }
     ],
@@ -88,7 +92,8 @@ const card: Card = {
                 de: "Giftiger Treffer",
                 "pt-br": "Golpe Venenoso",
                 "zh-tw": "毒液一擊",
-                ja: "ベノムヒット"
+                ja: "ベノムヒット",
+                ko: "베놈히트"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -98,7 +103,8 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 30
         }

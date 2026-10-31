@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/029",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/029",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/029",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/029"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/029",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/029"
 	},
 	name: {
 		en: "Leafeon ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Folipurba-ex",
 		"pt-br": "Leafeon ex",
 		"zh-tw": "葉伊布ex",
-		ja: "リーフィアex"
+		ja: "リーフィアex",
+		ko: "리피아 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Evoli",
 		"pt-br": "Eevee",
 		"zh-tw": "伊布",
-		ja: "イーブイ"
+		ja: "イーブイ",
+		ko: "이브이"
 	},
 	stage: "Stage1",
 	suffix: "EX",

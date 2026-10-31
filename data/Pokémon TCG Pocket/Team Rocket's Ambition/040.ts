@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/040"
     },
     name: {
         en: "Team Rocket's Grimer",
@@ -21,7 +22,7 @@ const card: Card = {
         de: "Team Rockets Sleima",
         "pt-br": "Grimer da Equipe Rocket",
         "zh-tw": "火箭隊的阿羅拉 臭泥",
-        ko: "로켓단의 알로라 질퍽이",
+        ko: "로켓단의 질퍽이",
         ja: "ロケット団のベトベター"
     },
     illustrator: "Taiga Kasai",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Wenn die Körper von zwei Sleima mitenander kombiniert werden, so entstehen vollig neue Arten von Gift.",
         "pt-br": "Quando dois corpos deste Pakémon se unem. novos vemenos são criados.",
         "zh-tw": "當臭泥彼此黏在一起，身體就會互相融合，進而產生新種毒素。",
-        ja: "ベトベター同士が くっつくと おたがいの 体が 混ざりあって 新しい 毒が 生みだされる。"
+        ja: "ベトベター同士が くっつくと おたがいの 体が 混ざりあって 新しい 毒が 生みだされる。",
+        ko: "질퍽이끼리 달라붙으면\n서로의 몸이 뒤섞여서\n새로운 독이 만들어진다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Schlammbad",
                 "pt-br": "Ataque de Lama",
                 "zh-tw": "污泥攻擊",
-                ja: "ヘドロこうげき"
+                ja: "ヘドロこうげき",
+                ko: "오물공격"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 20
         }

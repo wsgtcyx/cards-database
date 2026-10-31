@@ -2,7 +2,7 @@ import { objectKeys, objectMap } from '@dzeio/object-util'
 import { Card, Set, SupportedLanguages } from '../../../interfaces'
 import { SetResume, Set as SetSingle } from '../../../meta/definitions/api'
 import { cardToCardSimple, getCards } from './cardUtil'
-import { DB_PATH, fetchRemoteFile, getDataFolder, resolveText, smartGlob } from './util'
+import { DB_PATH, fetchRemoteFile, getDataFolder, resolveOptionalAsset, resolveText, smartGlob } from './util'
 import path from 'node:path'
 
 
@@ -13,7 +13,7 @@ interface t {
 const setCache: t = {}
 
 export function isSetAvailable(set: Set, lang: SupportedLanguages): boolean {
-	if (lang === 'ja' && (!set.name?.ja || !set.serie.name?.ja)) throw new Error(`Set (${set.id}) has no Japanese name or series`)
+	if ((lang === 'ja' || lang === 'ko') && (!set.name?.[lang] || !set.serie.name?.[lang])) throw new Error(`Set (${set.id}) has no ${lang === 'ja' ? 'Japanese' : 'Korean'} name or series`)
 	return !!resolveText(set.name, lang) && !!resolveText(set.serie.name, lang)
 }
 
@@ -53,16 +53,17 @@ export async function getSets(serie = '*', lang: SupportedLanguages): Promise<Ar
 }
 
 export async function getSetPictures(set: Set, lang: SupportedLanguages): Promise<[string | undefined, string | undefined]> {
-	const logo = lang === 'ja' && set.logo ? resolveText(set.logo, lang) : set.logo?.[lang] ?? set.logo?.en
-	if (logo) return [logo, undefined]
-	if (lang === 'ja') return [undefined, undefined]
+	const symbol = resolveOptionalAsset(set.symbol, lang)
+	const logo = (lang === 'ja' || lang === 'ko') ? resolveOptionalAsset(set.logo, lang) : set.logo?.[lang] ?? set.logo?.en
+	if (logo) return [logo, symbol]
+	if (lang === 'ja' || lang === 'ko') return [undefined, symbol]
 	try {
 		const file = await fetchRemoteFile('https://assets.tcgdex.net/datas.json')
 		const logoExists = file[lang]?.[set.serie.id]?.[set.id]?.logo ? `https://assets.tcgdex.net/${lang}/${set.serie.id}/${set.id}/logo` : undefined
 		const symbolExists = file.univ?.[set.serie.id]?.[set.id]?.symbol ? `https://assets.tcgdex.net/univ/${set.serie.id}/${set.id}/symbol` : undefined
 		return [
 			logoExists,
-			symbolExists
+			symbol ?? symbolExists
 		]
 	} catch {
 		return [undefined, undefined]
@@ -110,9 +111,9 @@ export async function setToSetSingle(set: Set, lang: SupportedLanguages): Promis
 		boosters: set.boosters ? objectMap(set.boosters, (booster, id) => ({
 			id: `boo_${set.id}-${id}`,
 			name: resolveText(booster.name, lang),
-			logo: booster.logo ? resolveText(booster.logo, lang) : undefined,
-			artwork_front: booster.artwork_front ? resolveText(booster.artwork_front, lang) : undefined,
-			artwork_back: booster.artwork_back ? resolveText(booster.artwork_back, lang) : undefined,
+			logo: resolveOptionalAsset(booster.logo, lang),
+			artwork_front: resolveOptionalAsset(booster.artwork_front, lang),
+			artwork_back: resolveOptionalAsset(booster.artwork_back, lang),
 		})) : undefined
 	}
 }

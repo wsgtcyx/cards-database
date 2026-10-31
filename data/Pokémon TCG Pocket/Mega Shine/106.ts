@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/106"
     },
     name: {
         en: "Dragonair",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es wird das göttliche Pokémon genannt. Wenn sich sein ganzer Körper leicht aufhellt, ändert sich das Wetter.",
         "pt-br": "É chamado de Pokémon divino. Quando todo o seu corpo ilumina ligeiramente, o clima muda.",
         "zh-tw": "被稱為神寶可夢。當它的整個身體稍微變亮時，天氣就會改變。",
-        ja: "神聖な ポケモンと 言われる。 全身が ほのかに 光ると あたりの 天気が 様変わりする。"
+        ja: "神聖な ポケモンと 言われる。 全身が ほのかに 光ると あたりの 天気が 様変わりする。",
+        ko: "신성한 포켓몬이라 전해지고 있다.\n온몸이 은은하게 빛나면\n주변의 날씨가 바뀌어 버린다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Himmelssegen",
                 "pt-br": "Bênção dos Céus",
                 "zh-tw": "天空祈願",
-                ja: "てんくうのいのり"
+                ja: "てんくうのいのり",
+                ko: "천공의기도"
             },
             effect: {
                 en: "Take a {W} and a {L} Energy from your Energy Zone and attach them to this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Nimm eine {W}- und eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma energia {W} e uma {L} da sua zona de energia e ligue-as a este Pokémon.",
                 "zh-tw": "從你的能量區域取出一個{W}和一個{L}能量並將它們附加到那個寶可夢上。",
-                ja: "自分のエネルギーゾーンから{W}と{L}エネルギーを1個ずつ出し、このポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{W}と{L}エネルギーを1個ずつ出し、このポケモンにつける。",
+                ko: "자신의 에너지존에서 {W}과 {L}에너지를 1개씩 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

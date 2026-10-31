@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/198",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/198",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/198"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/198",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/198"
     },
     name: {
         en: "Lunala",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
         ja: "コスモウム",
-        ko: "Cosmoem"
+        ko: "코스모움"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Asas Lunares",
                 "zh-tw": "月輪之翼",
                 ja: "がちりんのつばさ",
-                ko: "Wings of the Moone"
+                ko: "월륜의날개"
             },
             cost: [
                 "Psychic",
@@ -80,7 +81,7 @@ const card: Card = {
                 "pt-br": "Mova todas as Energias deste Pokémon para os seus Pokémon no Banco como desejar.",
                 "zh-tw": "將這隻寶可夢身上的能量,全部以任意方式改附於備戰寶可夢身上。",
                 ja: "このポケモンからエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。",
-                ko: "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+                ko: "이 포켓몬에서 에너지를 모두 벤치 포켓몬에게 원하는 대로 바꿔 붙인다."
             }
         }
     ],
@@ -94,7 +95,7 @@ const card: Card = {
         "pt-br": "Conhecido como A Criatura que Traz a Lua, este Pokémon converte toda a luz ao seu alcance em sua própria energia para sobreviver.",
         "zh-tw": "被稱為招引月亮之獸。將照耀一切的光轉化為能量來維持生命。",
         ja: "月を 誘いし 獣 という 名前を もつ。 あらゆる 光を エネルギーに 変えて 生きている。",
-        ko: "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy."
+        ko: "달을 현혹하는 짐승이라는\n이름을 가졌다. 모든 빛을\n에너지로 변환해서 살고 있다."
     }
 };
 

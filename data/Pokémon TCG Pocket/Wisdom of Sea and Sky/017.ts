@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/017"
     },
     name: {
         en: "Sunflora",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sunflora",
         "zh-tw": "向日花怪",
         ja: "キマワリ",
+        ko: "해루미",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
         ja: "ヒマナッツ",
+        ko: "해너츠",
     },
     description: {
         en: "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Tagsüber herrscht Hektik\nArt und Weise, aber es kommt völlig zum Stillstand, wenn\ndie Sonne geht unter.",
         "pt-br": "Durante o dia, ele corre em uma agitação\nmaneira, mas para completamente quando\no sol se põe.",
         "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。",
-        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。"
+        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。",
+        ko: "낮에는 지나칠 정도로 활발히\n돌아다니지만 해가 저물면\n돌연 움직이지 않게 된다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Sonnenstrahl",
                 "pt-br": "Raio Solar",
                 "zh-tw": "太陽光束",
-                ja: "ソーラービーム"
+                ja: "ソーラービーム",
+                ko: "솔라빔"
             },
             damage: 70,
             cost: ["Grass", "Grass"]

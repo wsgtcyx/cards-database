@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/077"
     },
     name: {
         en: "Happiny",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hält den runden, weißen Stein für ein Ei und kümmert sich um ihn. Es achtet sehr auf seine Haarlocke.",
         "pt-br": "Carrega cuidadosamente uma pedra branca e redonda que pensa ser um ovo. Fica incomodada com a aparência de seu cabelo enrolado.",
         "zh-tw": "深信白白圓圓的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
-        ja: "白くて まるい 石を タマゴと 思いこんで 大事に 持っている。 巻き毛の 形を 気にしている。"
+        ja: "白くて まるい 石を タマゴと 思いこんで 大事に 持っている。 巻き毛の 形を 気にしている。",
+        ko: "하얗고 둥근 돌을 알이라고\n생각하고는 소중히 가지고 있다.\n말려 있는 머리 모양을 신경 쓰고 있다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Kugeljubel",
                 "pt-br": "Torcida Fofa",
                 "zh-tw": "福福聲援",
-                ja: "ぷくぷくエール"
+                ja: "ぷくぷくエール",
+                ko: "탱탱옐"
             },
             effect: {
                 en: "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Während deines nächsten Zuges fügen Attacken deiner Pokémon dem Aktiven Pokémon deines Gegners + 20 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在下個自己的回合,自己的寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。",
-                ja: "次の自分の番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。"
+                ja: "次の自分の番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。",
+                ko: "자신의 다음 차례에 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +20한다."
             },
             damage: 10
         }

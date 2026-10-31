@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/027"
     },
     name: {
         en: "Team Rocket's Drowzee",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Wenn es mit seiner großen Nase zuckt, kann es feststellen, wo jemand schläft und was er gerade träumt.",
         "pt-br": "Quando contrai seu nariz, consegue saber onde alguém está dormindo e com o que está sonhando.",
         "zh-tw": "據說當牠抽動凸出的鼻子，無論是誰在哪裡做著什麼夢，都會被牠知道得一清二楚。",
-        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。"
+        ja: "突き出た 鼻を ひくひくさせると どこの だれが どんな 夢を 見ているのか 全部 わかるという。",
+        ko: "튀어나온 코를 실룩샐룩거리면\n어디에 있는 누가 어떤 꿈을 꾸고 있는지\n전부 알 수 있다고 한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Grummeln",
                 "pt-br": "Resmungo",
                 "zh-tw": "囈語",
-                ja: "つぶやく"
+                ja: "つぶやく",
+                ko: "중얼거리기"
             },
             damage: 40
         }

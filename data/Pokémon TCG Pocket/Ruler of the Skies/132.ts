@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/132",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/132",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/132",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/132"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/132",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/132"
     },
     name: {
         en: "Aipom",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Griffel lebt hoch oben in Baumwipfeln, wo es seinen Schweif geschickt einsetzt. Dieser ist viel beweglicher als seine Hände.",
         "pt-br": "Sua cauda se move com mais destreza do que suas mãos. Fazendo bom uso de seu rabo, Aipom vive entre os topos de árvores.",
         "zh-tw": "會巧妙地操縱比雙手\n還靈活的尾巴，\n生活在高高的樹上。",
-        ja: "手よりも 自由自在に 動く 尻尾を 巧みに 操りながら 高い 木の上で 暮らしている。"
+        ja: "手よりも 自由自在に 動く 尻尾を 巧みに 操りながら 高い 木の上で 暮らしている。",
+        ko: "꼬리를 능숙하게 사용하여\n손보다 자유자재로 움직이며\n높은 나무 위에서 지낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verspielter Kick",
                 "pt-br": "Chute Brincalhão",
                 "zh-tw": "調皮踢",
-                ja: "やんちゃげり"
+                ja: "やんちゃげり",
+                ko: "개구쟁이킥"
             },
             damage: 40
         }

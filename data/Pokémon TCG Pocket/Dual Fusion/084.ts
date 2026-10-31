@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/084"
     },
     name: {
         en: "Umbreon",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Eevee",
         "zh-tw": "伊布",
         ja: "イーブイ",
-        ko: "Eevee"
+        ko: "이브이"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Incursão ao Luar",
                 "zh-tw": "月亮突襲",
                 ja: "ムーンレイド",
-                ko: "Moonlit Raid"
+                ko: "문레이드"
             },
             cost: [
                 "Darkness"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Básicos, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為基礎寶可夢,則增加50點傷害。",
                 ja: "相手のバトルポケモンがたねポケモンなら、50ダメージ追加。",
-                ko: "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
+                ko: "상대의 배틀 포켓몬이 기본 포켓몬이라면 50데미지를 추가한다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Quando exposto à aura da lua, os anéis em seu corpo brilham intensamente e ele recebe um misterioso poder.",
         "zh-tw": "當身體沐浴了月亮的光輝，圓環便會微微發光，使牠得到神秘力量。",
         ja: "月の 波動を 体に 浴びると 輪っか模様が ほのかに 輝き 不思議な 力に 目覚めるのだ。",
-        ko: "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power."
+        ko: "달의 파동을 몸에 쬐면\n고리 모양이 희미하게 빛나며\n이상한 힘에 눈을 뜬다."
     }
 };
 

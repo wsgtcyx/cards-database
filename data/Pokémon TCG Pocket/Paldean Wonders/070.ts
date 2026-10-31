@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/070"
     },
     name: {
         en: "Grafaiai",
@@ -38,6 +39,7 @@ const card: Card = {
         "pt-br": "Shroodle",
         "zh-tw": "滋汁鼴",
         ja: "シルシュルー",
+        ko: "땃쭈르",
         pt: "Shroodle",
         'es-mx': "Shroodle"
     },
@@ -49,7 +51,8 @@ const card: Card = {
         "de": "Jeder Affiti malt sein eigenes, individuelles Muster und wird im Laufe seines Lebens immer wieder dasselbe Muster malen.",
         "pt-br": "Cada Grafaiai pinta seu próprio padrão individual e pintará esse mesmo padrão repetidas vezes ao longo de sua vida.",
         "zh-tw": "每個 塗標客 都會繪製自己的單獨圖案，並且在其生命週期中一遍又一遍地繪製相同的圖案。",
-        ja: "タギングルが 描く 模様は 個体によって 異なり 生涯 同じ 模様を 描き続ける。"
+        ja: "タギングルが 描く 模様は 個体によって 異なり 生涯 同じ 模様を 描き続ける。",
+        ko: "태깅구르가 그리는 무늬는\n개체마다 다르며\n평생 같은 무늬만을 그린다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,7 +65,8 @@ const card: Card = {
                 "de": "Bunter Angriff",
                 "pt-br": "Ataque Colorido",
                 "zh-tw": "多彩攻擊",
-                ja: "カラフルアタック"
+                ja: "カラフルアタック",
+                ko: "컬러풀어택"
             },
             damage: "30+",
             cost: ["Colorless"],
@@ -74,7 +78,8 @@ const card: Card = {
                 "de": "Wenn an deine Pokémon im Spiel 3 oder mehr verschiedene Arten von Energie angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o seu Pokémon em jogo tiver 3 ou mais tipos diferentes de energia anexados, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果場上的寶可夢附有 3 種或更多不同類型的能量，則此攻擊造成的傷害增加 60 點。",
-                ja: "自分の場のポケモンに3種類以上のタイプのエネルギーがついているなら、60ダメージ追加。"
+                ja: "自分の場のポケモンに3種類以上のタイプのエネルギーがついているなら、60ダメージ追加。",
+                ko: "자신의 필드의 포켓몬에게 3종류 이상의 타입의 에너지가 붙어 있다면 60데미지를 추가한다."
             },
         },
     ],

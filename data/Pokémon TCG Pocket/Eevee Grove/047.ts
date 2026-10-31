@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/047"
     },
     name: {
         en: "Mawile",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mawile",
         "zh-tw": "大嘴娃",
         ja: "クチート",
+        ko: "입치트",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es nutzt sein fügsam aussehendes Gesicht, um Feinde einzulullen\nSelbstgefälligkeit, dann beißt er mit seinem riesigen,\nunerbittliche Kiefer.",
         "pt-br": "Ele usa seu rosto de aparência dócil para acalmar os inimigos.\ncomplacência, então morde com seu enorme,\nmandíbulas implacáveis.",
         "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。",
-        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。"
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。",
+        ko: "얌전한 얼굴로 상대를 방심하게\n만들고 큰 턱으로 덥석 문다.\n한번 물면 절대로 놓지 않는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Leistungsstarker Schraubstock",
                 "pt-br": "Torno poderoso",
                 "zh-tw": "強力虎鉗",
-                ja: "まんりきばさみ"
+                ja: "まんりきばさみ",
+                ko: "바이스집게"
             },
             damage: 30,
             cost: ["Metal", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{

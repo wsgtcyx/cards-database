@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/245",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/245",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/245",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/245"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/245",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/245"
 	},
 	name: {
 		en: "Darkrai ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Darkrai-ex",
 		"pt-br": "Darkrai ex",
 		"zh-tw": "達克萊伊ex",
-		ja: "ダークライex"
+		ja: "ダークライex",
+		ko: "다크라이 ex"
 	},
 	illustrator: "PLANETA Yamashita",
 	rarity: "Four Diamond",

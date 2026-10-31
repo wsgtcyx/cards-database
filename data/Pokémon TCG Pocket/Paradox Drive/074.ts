@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/074",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/074"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/074",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/074"
     },
     name: {
         en: "Area Zero",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Einmal während seines Zuges darf jeder Spieler ein Basis-Pokémon aus seiner Hand in sein Deck mischen. Wenn ja, ziehen sie eine Karte.",
         "pt-br": "Uma vez durante o turno de cada jogador, ele pode embaralhar um Pokémon Básico de sua mão em seu baralho. Se o fizerem, eles compram uma carta.",
         "zh-tw": "在每位玩家的回合中，該玩家可以將手牌中的基本寶可夢洗入牌組中一次。如果他們這樣做了，他們就會抽一張牌。",
-        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分の手札からたねポケモンを1枚選び、山札にもどす。その後、自分の山札を1枚引く。"
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。自分の手札からたねポケモンを1枚選び、山札にもどす。その後、自分の山札を1枚引く。",
+        ko: "서로의 플레이어는 자신의 차례에 1번 사용할 수 있다. 자신의 패에서 기본 포켓몬을 1장 선택해서 덱으로 되돌린다. 그 뒤, 자신의 덱을 1장 뽑는다."
     },
     trainerType: "Stadium"
 };

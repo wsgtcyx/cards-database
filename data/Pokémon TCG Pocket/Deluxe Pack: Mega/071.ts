@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/071"
     },
     name: {
         en: "Froakie",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Protege sua pele cobrindo seu corpo com bolhas delicadas. Por trás do seu ar alegre e despreocupado, mantém um olhar atento sobre os arredores.",
         "zh-tw": "以細膩的泡沫包住身體，保護皮膚。裝出一副悠閒的樣子，但其實精明地打量著四周。",
         ja: "繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。",
-        ko: "It protects its skin by covering its body in\ndelicate bubbles. Beneath its happy-go-lucky air,\nit keeps a watchful eye on its surroundings."
+        ko: "섬세한 거품으로 몸을 감싸\n피부를 보호한다. 태평한 척하면서\n빈틈없이 주위를 살핀다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Gotejo",
                 "zh-tw": "水漂",
                 ja: "みずきり",
-                ko: "Water Drip"
+                ko: "물수제비"
             },
             damage: 20,
             cost: [

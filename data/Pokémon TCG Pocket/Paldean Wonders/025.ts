@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/025"
     },
     name: {
         en: "Wiglett",
@@ -37,7 +38,8 @@ const card: Card = {
         "de": "Obwohl es wie Digda aussieht, ist Schligda eine völlig andere Spezies. Die Ähnlichkeit scheint ein zufälliges Ergebnis der Anpassung an die Umwelt zu sein.",
         "pt-br": "Embora se pareça com Diglett, Wiglett é uma espécie totalmente diferente. A semelhança parece ser um resultado coincidente da adaptação ambiental.",
         "zh-tw": "雖然它看起來像 地鼠，但 海地鼠 是一個完全不同的物種。這種相似性似乎是環境適應的巧合結果。",
-        ja: "ディグダに 似るが まるで 別の 種類。 生息 環境に 適応して 偶然 似たらしい。"
+        ja: "ディグダに 似るが まるで 別の 種類。 生息 環境に 適応して 偶然 似たらしい。",
+        ko: "디그다를 닮았지만 전혀 다른 종류다.\n서식하는 환경에 적응한 결과,\n우연히 닮게 되었다는 듯하다."
     },
     stage: "Basic",
     attacks: [
@@ -50,7 +52,8 @@ const card: Card = {
                 de: "Aquaknarre",
                 "pt-br": "Pistola de água",
                 "zh-tw": "水槍",
-                ja: "みずでっぽう"
+                ja: "みずでっぽう",
+                ko: "물대포"
             },
             damage: "20",
             cost: ["Water"],

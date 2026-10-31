@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/081",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/081",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/081"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/081",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/081"
     },
     name: {
         en: "Wugtrio ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Schligda",
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠",
-        ja: "ウミディグダ"
+        ja: "ウミディグダ",
+        ko: "바다그다"
     },
     stage: "Stage1",
     suffix: "EX",

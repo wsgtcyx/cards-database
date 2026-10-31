@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/172",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/172",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/172"
     },
     name: {
         en: "Ampharos",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ampharos",
         "zh-tw": "電龍",
         ja: "デンリュウ",
+        ko: "전룡",
     },
     illustrator: "Whisker",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
         ja: "モココ",
+        ko: "보송송",
     },
     description: {
         en: "The bright light on its tail can be seen far\naway. It has been treasured since ancient\ntimes as a beacon.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das helle Licht an seinem Schwanz ist weithin sichtbar\nweg. Es wird seit der Antike geschätzt\nMal als Leuchtturm.",
         "pt-br": "A luz brilhante em sua cauda pode ser vista de longe\nembora. É valorizado desde a antiguidade\nvezes como um farol.",
         "zh-tw": "尾巴上的亮光遠遠就能看見\n離開。自古以來就被人們珍藏\n時代如燈塔。",
-        ja: "尻尾の 灯りは 遠くまで 届くので 昔より かがり火として 大事に されている。"
+        ja: "尻尾の 灯りは 遠くまで 届くので 昔より かがり火として 大事に されている。",
+        ko: "꼬리의 빛은 멀리까지\n전해지기 때문에 예전부터\n봉화 역할로서 중요하게 여겨지고 있다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Donnerschlag",
                 "pt-br": "Soco Trovão",
                 "zh-tw": "雷霆拳",
-                ja: "かみなりパンチ"
+                ja: "かみなりパンチ",
+                ko: "번개펀치"
             },
             damage: "80+",
             cost: ["Lightning", "Lightning"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte mehr zu. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 20 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 40 de dano a mais. Se sair coroa, este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。",
-                ja: "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。"
+                ja: "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{

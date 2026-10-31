@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/125",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/125"
     },
     name: {
         en: "Mawile",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mawile",
         "zh-tw": "大嘴娃",
         ja: "クチート",
+        ko: "입치트",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es nutzt sein fügsam aussehendes Gesicht, um Feinde einzulullen\nSelbstgefälligkeit, dann beißt er mit seinem riesigen,\nunerbittliche Kiefer.",
         "pt-br": "Ele usa seu rosto de aparência dócil para acalmar os inimigos.\ncomplacência, então morde com seu enorme,\nmandíbulas implacáveis.",
         "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。",
-        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。"
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。",
+        ko: "얌전한 얼굴로 상대를 방심하게\n만들고 큰 턱으로 덥석 문다.\n한번 물면 절대로 놓지 않는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30,
             cost: ["Metal"]

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/043",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/043",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/043"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/043",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/043"
     },
     name: {
         en: "Cloyster",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
         ja: "シェルダー",
+        ko: "셀러",
     },
     description: {
         en: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",

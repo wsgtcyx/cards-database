@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/057",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/057"
     },
     name: {
         en: "Delibird",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Delibird",
         "zh-tw": "信使鳥",
         ja: "デリバード",
+        ko: "딜리버드",
     },
     illustrator: "Narumi Sato",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es trägt den ganzen Tag über Nahrung. Es gibt Geschichten darüber\nverlorene Menschen, die durch die Nahrung, die es gab, gerettet wurden.",
         "pt-br": "Ele carrega comida o dia todo. Existem contos sobre\nperdeu pessoas que foram salvas pela comida que tinha.",
         "zh-tw": "它整天攜帶食物。有一些關於\n失去的人被它所擁有的食物拯救了。",
-        ja: "１日 ずっと エサを運んでいる。 遭難した 人が デリバードの エサで 助かった 話もある。"
+        ja: "１日 ずっと エサを運んでいる。 遭難した 人が デリバードの エサで 助かった 話もある。",
+        ko: "온종일 먹이를 운반한다.\n조난당한 사람이 딜리버드의\n먹이로 살아났다는 이야기도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stolpernder Zug",
                 "pt-br": "Empate de tropeço",
                 "zh-tw": "跌跌撞撞的平局",
-                ja: "ずっこけドロー"
+                ja: "ずっこけドロー",
+                ko: "꽈당드로"
             },
             damage: 10,
             cost: ["Water"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
                 "zh-tw": "畫一張卡片。",
-                ja: "自分の山札を1枚引く。"
+                ja: "自分の山札を1枚引く。",
+                ko: "자신의 덱을 1장 뽑는다."
             }
         }],
     weaknesses: [{

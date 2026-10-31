@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/151",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/151",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/151"
     },
     name: {
         en: "Drayden",
@@ -34,7 +35,8 @@ const card: Card = {
         "zh-tw": "在這個回合,對手的寶可夢因自己的寶可夢使用的招式「流星群」被選擇的次數增加1次。",
         "it": "Durante questo turno, uno dei Pokémon dell'avversario viene scelto una volta in più quando i tuoi Pokémon usano l'attacco Dragobolide.",
         "de": "Während dieses Zuges wird 1 Pokémon des Gegners 1 Mal mehr ausgewählt, wenn deine Pokémon die Attacke Draco Meteor einsetzen.",
-        ja: "この番、自分のポケモンが使うワザ「りゅうせいぐん」で相手のポケモンが選ばれる回数を、1回多くする。"
+        ja: "この番、自分のポケモンが使うワザ「りゅうせいぐん」で相手のポケモンが選ばれる回数を、1回多くする。",
+        ko: "이 차례에 자신의 포켓몬이 사용하는 기술 「용성군」으로 상대의 포켓몬이 선택되는 횟수를 1번 많게 한다."
     },
     trainerType: "Supporter"
 };

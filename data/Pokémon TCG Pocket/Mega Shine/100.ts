@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/100"
     },
     name: {
         en: "Gastly",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken.",
         "pt-br": "Seu corpo é feito de gás. Apesar de não ter substância, pode envolver um oponente de qualquer tamanho e causar asfixia.",
         "zh-tw": "它的身體是由氣體構成的。儘管缺乏實質內容，但它可以包圍任何體型的對手並導致窒息。",
-        ja: "ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。"
+        ja: "ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。",
+        ko: "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Grummeln",
                 "pt-br": "Resmungo",
                 "zh-tw": "囈語",
-                ja: "つぶやく"
+                ja: "つぶやく",
+                ko: "중얼거리기"
             },
             damage: 20
         }

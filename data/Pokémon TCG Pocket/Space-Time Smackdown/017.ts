@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/017"
     },
     name: {
         en: "Combee",
@@ -61,7 +62,7 @@ const card: Card = {
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
                 ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
-                ko: "자신의 덱에서 기본 포켓몬eul_reul 랜덤으로 1장 벤치로 내보낸다.",
+                ko: "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 벤치로 내보낸다.",
                 "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的替補席上。"
             }
         }],

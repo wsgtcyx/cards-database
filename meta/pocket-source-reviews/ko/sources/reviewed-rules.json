@@ -1,0 +1,35 @@
+{
+  "B2a-063": {
+    "attacks[0].effect": {
+      "value": "이 포켓몬에서 {F}에너지를 2개 트래쉬한다.",
+      "evidence": {
+        "sourceCardId": "PK_10_015720_00",
+        "sourceSha256": "79f4f5e34363825432d11b83189ac08d5b427ff92bb2ed10b40573c491564124",
+        "sourceBytes": 330850
+      },
+      "note": "Independently read native Korean card face and matched Centro JSON: canonical English has an incorrect energy type or numeric value. Other locales are outside this correction scope."
+    }
+  },
+  "P-B-085": {
+    "attacks[0].effect": {
+      "value": "자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 아이템이라면 20데미지를 추가한다.",
+      "evidence": {
+        "sourceCardId": "PK_90_020150_00",
+        "sourceSha256": "94c698c3498273270bf6e65c5ddd64ce1048bd7f86edbaefb12262999ff7361f",
+        "sourceBytes": 258461
+      },
+      "note": "Independently read native Korean card face and matched Centro JSON: canonical English has an incorrect energy type or numeric value. Other locales are outside this correction scope."
+    }
+  },
+  "P-B-086": {
+    "abilities[0].effect": {
+      "value": "자신의 필드에 다른 「메탕」가 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다.",
+      "evidence": {
+        "sourceCardId": "PK_90_020670_00",
+        "sourceSha256": "9afc2c2da197ad3a2891874dde905df95ab8aa6461b82ee725ee1d12329b545d",
+        "sourceBytes": 311571
+      },
+      "note": "Independently read native Korean card face and matched Centro JSON: canonical English has an incorrect energy type or numeric value. Other locales are outside this correction scope."
+    }
+  }
+}

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/052"
     },
     name: {
         en: "Altaria",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Bei gutem Wetter mischt es sich unter die Wolken\nund genießt die Freiheit. Es hat eine entzückende\nSopranstimme.",
         "pt-br": "Em dias ensolarados, ele voa livremente pelo céu e se mistura às nuvens. Canta em um lindo soprano.",
         "zh-tw": "陽光明媚的日子，它自由自在地飛過天空，融入雲彩之中。它以美麗的女高音歌唱。",
-        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。"
+        ja: "晴れた日 綿雲に まぎれながら 大空を 自由に 飛び回り 美しい ソプラノで 歌う。",
+        ko: "맑은 날 뭉게구름에 뒤섞인 채로\n넓은 하늘을 자유롭게 날아다니며\n아름다운 소프라노로 노래한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Fliegen",
                 "pt-br": "Voar",
                 "zh-tw": "飛翔",
-                ja: "そらをとぶ"
+                ja: "そらをとぶ",
+                ko: "공중날기"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             },
             damage: 50
         }

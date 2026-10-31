@@ -6,11 +6,13 @@ import { createHash } from 'node:crypto'
 
 const objectSource = value => JSON.stringify(value, null, 4).replace(/^(\s*)"([A-Za-z_$][\w$]*)":/gm, '$1$2:')
 
-function assertJapaneseText(value, label) {
-	assert(typeof value === 'string' && value.trim(), `${label}: missing Japanese text`)
-	assert(/[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u.test(value)
-		|| label.endsWith('.name') && ['CHECK', 'GUARD', 'POWER'].includes(value), `${label}: text must be native Japanese`)
-	assert(!/\[\/?[A-Za-z][A-Za-z0-9]*:|(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(value), `${label}: unresolved Japanese text`)
+function assertNativeText(value, label, locale) {
+ const language = locale === 'ja' ? 'Japanese' : 'Korean'
+ assert(typeof value === 'string' && value.trim(), `${label}: missing ${language} text`)
+ const native = locale === 'ja' ? /[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u : /[가-힣]/u
+ assert(native.test(value) || label.endsWith('.name') && ['CHECK', 'GUARD', 'POWER'].includes(value), `${label}: text must be native ${language}`)
+ assert(!/\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(value), `${label}: unresolved ${language} text`)
+ if (locale === 'ja') assert(!/(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(value), `${label}: unresolved Japanese text`)
 }
 
 export function renderReviewedSet(config, cards, audit) {
@@ -19,13 +21,15 @@ export function renderReviewedSet(config, cards, audit) {
 	assert.equal(audit.passed, true, 'Localization audit must pass before metadata is written')
 	assert(Number.isSafeInteger(config.total) && config.total > 0, 'total must be a positive integer')
 	assert.equal(Object.keys(cards).length, config.total)
-	const japanese = config.nameLocales.includes('ja') || config.ruleLocales.includes('ja')
-	if (japanese) {
-		assert(config.nameLocales.includes('ja'), 'Japanese imports require ja in nameLocales')
-		assert(config.ruleLocales.includes('ja'), 'Japanese imports require ja in ruleLocales')
-		assertJapaneseText(config.setNames?.ja, `${config.setId}.name`)
-		for (const booster of config.boosters) assertJapaneseText(booster.names?.ja, `${config.setId}.${booster.slug}.name`)
-	}
+	const strictLocales = ['ja', 'ko'].filter(locale => config.nameLocales.includes(locale) || config.ruleLocales.includes(locale))
+ for (const locale of strictLocales) {
+  const language = locale === 'ja' ? 'Japanese' : 'Korean'
+  assert(config.nameLocales.includes(locale), `${language} imports require ${locale} in nameLocales`)
+  assert(config.ruleLocales.includes(locale), `${language} imports require ${locale} in ruleLocales`)
+  assertNativeText(config.setNames?.[locale], `${config.setId}.name`, locale)
+  for (const booster of config.boosters) assertNativeText(booster.names?.[locale], `${config.setId}.${booster.slug}.name`, locale)
+ }
+
 	const image = (number) => Object.fromEntries(config.ruleLocales.map(locale => [locale, `${config.r2Origin}/${locale}/tcgp/${config.setId}/${number}`]))
 	const files = {}
 	for (let number = 1; number <= config.total; number++) {
@@ -33,11 +37,11 @@ export function renderReviewedSet(config, cards, audit) {
 		const id = `${config.setId}-${localId}`
 		const card = cards[id]
 		assert(card, `Missing ${id}`)
-		if (japanese) {
-			for (const field of ['name', 'effect', 'description', 'evolveFrom']) if (field === 'name' || card[field]) assertJapaneseText(card[field]?.ja, `${id}.${field}`)
-			if (card.item) for (const field of ['name', 'effect']) assertJapaneseText(card.item[field]?.ja, `${id}.item.${field}`)
+		for (const locale of strictLocales) {
+			for (const field of ['name', 'effect', 'description', 'evolveFrom']) if (field === 'name' || card[field]) assertNativeText(card[field]?.[locale], `${id}.${field}`, locale)
+			if (card.item) for (const field of ['name', 'effect']) assertNativeText(card.item[field]?.[locale], `${id}.item.${field}`, locale)
 			for (const group of ['attacks', 'abilities']) for (const [index, item] of (card[group] ?? []).entries()) {
-				for (const field of ['name', 'effect']) if (field === 'name' || group === 'abilities' || item[field]) assertJapaneseText(item[field]?.ja, `${id}.${group}.${index}.${field}`)
+				for (const field of ['name', 'effect']) if (field === 'name' || group === 'abilities' || item[field]) assertNativeText(item[field]?.[locale], `${id}.${group}.${index}.${field}`, locale)
 			}
 		}
 		for (const locale of config.nameLocales) assert(card.name?.[locale], `${id}: missing ${locale} name`)
@@ -61,17 +65,17 @@ export function renderReviewedSet(config, cards, audit) {
 		const fallbackText = text => ({ ...text, ...Object.fromEntries(config.nameLocales.filter(locale => !config.ruleLocales.includes(locale)).map(locale => [locale, text.en])) })
 		for (const field of ['effect', 'description', 'evolveFrom']) if (renderedCard[field]) renderedCard[field] = fallbackText(renderedCard[field])
 		for (const group of ['attacks', 'abilities']) for (const item of renderedCard[group] ?? []) for (const field of ['name', 'effect']) if (item[field]) item[field] = fallbackText(item[field])
-		const json = objectSource(japanese ? { ...renderedCard, image: image(localId) } : { image: image(localId), ...renderedCard }).slice(1)
+		const json = objectSource(strictLocales.length ? { ...renderedCard, image: image(localId) } : { image: image(localId), ...renderedCard }).slice(1)
 		files[`${config.setFile}/${localId}.ts`] = `import { Card } from "../../../interfaces";\nimport Set from ${JSON.stringify(`../${config.setFile}`)};\n\nconst card: Card = {\n    set: Set,${json};\n\nexport default card;\n`
 	}
 	const set = {
 		id: config.setId, name: config.setNames,
-		logo: Object.fromEntries((japanese ? ['en', 'ja'] : ['en']).map(locale => [locale, `${config.r2Origin}/${locale}/tcgp/${config.setId}/boosters/${config.boosters[0].slug}/logo`])),
+		logo: Object.fromEntries(['en', ...strictLocales].map(locale => [locale, `${config.r2Origin}/${locale}/tcgp/${config.setId}/boosters/${config.boosters[0].slug}/logo`])),
 		cardCount: { official: config.officialCount },
 		boosters: Object.fromEntries(config.boosters.map(booster => [booster.slug, {
 			name: booster.names,
-			logo: Object.fromEntries(config.nameLocales.map(locale => [locale, `${config.r2Origin}/${locale === 'ja' ? 'ja' : 'en'}/tcgp/${config.setId}/boosters/${booster.slug}/logo.webp`])),
-			artwork_front: Object.fromEntries(config.nameLocales.map(locale => [locale, `${config.r2Origin}/${locale === 'ja' ? 'ja' : 'en'}/tcgp/${config.setId}/boosters/${booster.slug}/artwork_front.webp`])),
+			logo: Object.fromEntries(config.nameLocales.map(locale => [locale, `${config.r2Origin}/${strictLocales.includes(locale) ? locale : 'en'}/tcgp/${config.setId}/boosters/${booster.slug}/logo.webp`])),
+			artwork_front: Object.fromEntries(config.nameLocales.map(locale => [locale, `${config.r2Origin}/${strictLocales.includes(locale) ? locale : 'en'}/tcgp/${config.setId}/boosters/${booster.slug}/artwork_front.webp`])),
 		}])),
 		releaseDate: config.releaseDate,
 	}

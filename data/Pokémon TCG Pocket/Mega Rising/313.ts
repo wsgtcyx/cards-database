@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/313",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/313",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/313",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/313"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/313",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/313"
     },
     name: {
         en: "Persian",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Persian",
         "zh-tw": "貓老大",
         ja: "ペルシアン",
+        ko: "페르시온",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Mauzi",
         "pt-br": "Meowth",
         "zh-tw": "喵喵",
-        ja: "ニャース"
+        ja: "ニャース",
+        ko: "나옹"
     },
     description: {
         en: "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Obwohl sein Fell viele Bewunderer hat, ist es schwierig\nwegen seiner launischen Gemeinheit als Haustier aufziehen.",
         "pt-br": "Embora sua pelagem tenha muitos admiradores, é difícil\ncrie como animal de estimação por causa de sua maldade inconstante.",
         "zh-tw": "雖然它的皮毛有很多崇拜者，但很難\n由於其反复無常的卑鄙行為而被當作寵物飼養。",
-        ja: "毛並みが 美しく ペットにしたがる 人も 多いが すぐ ひっかいたり するので 手強いぞ。"
+        ja: "毛並みが 美しく ペットにしたがる 人も 多いが すぐ ひっかいたり するので 手強いぞ。",
+        ko: "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만,\n곧잘 할퀴려 들기 때문에 쉽지 않다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schattenklaue",
                 "pt-br": "Garra Sombria",
                 "zh-tw": "暗影爪",
-                ja: "シャドークロー"
+                ja: "シャドークロー",
+                ko: "섀도클로"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma carta aleatória da mão do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。",
-                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 패에서 랜덤으로 1장 트래쉬한다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

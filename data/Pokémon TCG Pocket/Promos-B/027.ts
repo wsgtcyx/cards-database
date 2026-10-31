@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/027",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/027"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/027",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/027"
     },
     name: {
         en: "Plusle",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon absorbiert Elektrizität von Telefonmasten. Es schließt die in seinem Körper gespeicherte Elektrizität kurz und erzeugt Geräusche.",
         "pt-br": "Este Pokémon absorve eletricidade de postes telefônicos. Ele causa um curto-circuito na eletricidade armazenada dentro de seu corpo para criar ruídos.",
         "zh-tw": "這隻寶可夢從電線桿吸收電力。它使體內儲存的電流短路，從而產生噪音。",
-        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。"
+        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。",
+        ko: "전신주에서 전기를 흡수한다.\n몸에 모은 전기를\n합선시켜 소리를 낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Stromschweif",
                 "pt-br": "Cauda Elétrica",
                 "zh-tw": "電尾",
-                ja: "でんきしっぽ"
+                ja: "でんきしっぽ",
+                ko: "전기꼬리"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 10
         }

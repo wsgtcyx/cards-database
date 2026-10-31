@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/179",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/179",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/179"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/179",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/179"
     },
     name: {
         en: "Cinccino",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Aus seinem Körper tritt besonders schmieriges\nÖl aus, das für Menschen, die unter trockener\nHaut leiden, von großem Nutzen ist.",
         "pt-br": "O óleo que escorre de seu corpo é muito suave. Para pessoas com problemas de pele, este óleo é um tratamento eficaz.",
         "zh-tw": "從全身滲出的油非常滑。\n對於因為肌膚乾燥而\n煩惱的人也很有效果。",
-        ja: "全身から 染み出す 油は とても なめらか。 肌荒れに 悩む 人にも 効果的なのだ。"
+        ja: "全身から 染み出す 油は とても なめらか。 肌荒れに 悩む 人にも 効果的なのだ。",
+        ko: "전신에서 배어 나오는 기름은\n매우 부드럽다. 거친 피부가\n고민인 사람에게도 효과적이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Zurückschlagen",
                 "pt-br": "Jogar Longe",
                 "zh-tw": "擊飛",
-                ja: "はねとばす"
+                ja: "はねとばす",
+                ko: "띄워날리기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "30+"
         }

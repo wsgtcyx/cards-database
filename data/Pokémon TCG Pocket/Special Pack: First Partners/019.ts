@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/019"
     },
     name: {
         en: "Rowlet",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
                 ja: "たいあたり",
-                ko: "Tackle"
+                ko: "몸통박치기"
             },
             cost: [
                 "Colorless",
@@ -69,7 +70,7 @@ const card: Card = {
         "pt-br": "Este Pokémon cauteloso usa a fotossíntese para armazenar energia durante o dia, tornando-se ativo à noite.",
         "zh-tw": "警戒心很強。白天利用光合作用積蓄力量，到了夜晚才開始活動。",
         ja: "警戒心が 強い。 昼は 光合成で 力を 溜めて 夜になったら 活動開始。",
-        ko: "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night."
+        ko: "경계심이 강하다. 낮에는\n광합성으로 힘을 비축하고\n밤이 되면 활동을 개시한다."
     }
 };
 

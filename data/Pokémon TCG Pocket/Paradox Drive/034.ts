@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/034"
     },
     name: {
         en: "Great Tusk",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Diese Kreatur ähnelt einem mysteriösen Pokémon, das laut einer paranormalen Zeitschrift seit der Antike lebt.",
         "pt-br": "Esta criatura lembra um misterioso Pokémon que, segundo uma revista paranormal, vive desde os tempos antigos.",
         "zh-tw": "根據超自然雜誌的說法，這種生物類似於一種神秘的寶可夢，它自古以來就存在。",
-        ja: "太古から 生き続けていると オカルト雑誌が 紹介した 謎の ポケモンに 似ている。"
+        ja: "太古から 生き続けていると オカルト雑誌が 紹介した 謎の ポケモンに 似ている。",
+        ko: "태곳적부터 살아 있었다며\n오컬트 잡지에 소개됐던\n정체불명의 포켓몬을 닮았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schüttelndes Stampfen",
                 "pt-br": "Agitação",
                 "zh-tw": "跺地撼盪",
-                ja: "ふみこみゆさぶる"
+                ja: "ふみこみゆさぶる",
+                ko: "내딛고휘젓기"
             },
             effect: {
                 en: "This attack also does 20 damage to each of your Benched Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a cada um dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你的每隻後備寶可夢造成 20 點傷害。",
-                ja: "自分のベンチポケモン全員にも20ダメージ。"
+                ja: "自分のベンチポケモン全員にも20ダメージ。",
+                ko: "자신의 벤치 포켓몬 전원에게도 20데미지를 준다."
             },
             damage: 80
         }

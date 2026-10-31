@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/203",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/203",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/203"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/203",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/203"
     },
     name: {
         en: "Alolan Raichu ex",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Alola-Raichu-ex",
         'pt-br': "Raichu de Alola ex",
         ja: "アローラライチュウex",
-        ko: "알로라라이츄 ex",
+        ko: "알로라 라이츄 ex",
         "zh-tw": "阿羅拉雷丘ex",
     },
     illustrator: "Yoshimi Miyoshi",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Pikachu",
         "pt-br": "Pikachu",
         "zh-tw": "皮卡丘",
-        ja: "ピカチュウ"
+        ja: "ピカチュウ",
+        ko: "피카츄"
     },
     stage: "Stage1",
     suffix: "EX",

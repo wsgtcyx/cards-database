@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/290",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/290",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/290",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/290"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/290",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/290"
 	},
 	name: {
 		en: "Skitty",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Eneco",
 		"pt-br": "Skitty",
 		"zh-tw": "向尾喵",
-		ja: "エネコ"
+		ja: "エネコ",
+		ko: "에나비"
 	},
 	illustrator: "Sumiyoshi Kizuki",
 	rarity: "One Diamond",

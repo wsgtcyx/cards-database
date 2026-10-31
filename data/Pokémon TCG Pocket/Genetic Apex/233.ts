@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/233",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/233",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/233",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/233"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/233",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/233"
     },
     name: {
         en: "Gyarados",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     attacks: [{
             cost: ["Water", "Water", "Water", "Water"],

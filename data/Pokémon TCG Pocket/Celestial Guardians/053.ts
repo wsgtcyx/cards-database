@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/053",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/053"
     },
     name: {
         en: "Araquanid",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Dewpider",
         "zh-tw": "滴蛛",
         ja: "シズクモ",
+        ko: "물거미",
     },
     description: {
         en: "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
@@ -71,7 +73,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon Base, questo attacco infligge 60 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 ja: "相手のバトルポケモンがたねポケモンなら、60ダメージ追加。",
-                ko: "상대의 배틀 포켓몬이 기본 포켓몬i_라면 60데미지를 추가한다.",
+                ko: "상대의 배틀 포켓몬이 기본 포켓몬이라면 60데미지를 추가한다.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢是基礎寶可夢，則這次攻擊造成的傷害增加 60 點。"
             }

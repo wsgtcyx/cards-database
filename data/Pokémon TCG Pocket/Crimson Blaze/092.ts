@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/092",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/092",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/092"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/092",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/092"
     },
     name: {
         en: "Shellder",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Muschas",
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
-        ja: "シェルダー"
+        ja: "シェルダー",
+        ko: "셀러"
     },
     illustrator: "whomor Inc.",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist von einer Schale umgeben, die härter als Diamant ist.\nIm Inneren ist es jedoch überraschend zart.",
         "pt-br": "Está envolto em uma concha que é mais dura que o diamante.\nPor dentro, porém, é surpreendentemente macio.",
         "zh-tw": "它被包裹在比鑽石還硬的殼裡。\n然而，它的內部卻出奇的柔軟。",
-        ja: "ダイヤモンドよりも 硬い殻に 覆われている。 しかし 中は 意外と 柔らかい。"
+        ja: "ダイヤモンドよりも 硬い殻に 覆われている。 しかし 中は 意外と 柔らかい。",
+        ko: "다이아몬드보다 단단한\n껍데기에 싸여 있지만\n속은 의외로 말랑하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "撞擊",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 10,
             cost: ["Water"]

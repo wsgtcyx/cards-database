@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/298",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/298",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/298",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/298"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/298",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/298"
     },
     name: {
         en: "Articuno",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Arktos",
         "pt-br": "Articuno",
         "zh-tw": "急凍鳥",
-        ja: "フリーザー"
+        ja: "フリーザー",
+        ko: "프리져"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wird gesagt, dass dieses Pokémon wunderschöne blaue Flügel hat\nbestehen aus Eis. Articuno fliegt über Schnee\nBerge, sein langer Schwanz flattert hinter ihm her.",
         "pt-br": "Dizem que as lindas asas azuis deste Pokémon\nsão feitos de gelo. Articuno voa sobre a neve\nmontanhas, sua longa cauda flutuando atrás dele.",
         "zh-tw": "據說這只神奇寶貝有著美麗的藍色翅膀\n是由冰製成的。急凍鳥飛過雪地\n山，長長的尾巴在身後飄揚。",
-        ja: "青く 美しい 羽根は 氷で できていると 言われている。 長い 尾を たなびかせ 雪山を 飛ぶ。"
+        ja: "青く 美しい 羽根は 氷で できていると 言われている。 長い 尾を たなびかせ 雪山を 飛ぶ。",
+        ko: "푸르고 아름다운 날개는 얼음으로\n되어 있다고 전해진다. 긴 꼬리를\n나부끼며 설산 위를 난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Eisstrahl",
                 "pt-br": "Raio de Gelo",
                 "zh-tw": "冰光束",
-                ja: "れいとうビーム"
+                ja: "れいとうビーム",
+                ko: "냉동빔"
             },
             damage: 60,
             cost: ["Water", "Water", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

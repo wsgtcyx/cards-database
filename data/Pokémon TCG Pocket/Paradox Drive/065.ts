@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/065"
     },
     name: {
         en: "Rookidee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die Weibchen sind wählerischer als die Männchen. Wenn eine andere Kreatur die Flügel eines weiblichen Meikro beschmutzt, wird sie den Täter in brennender Wut unerbittlich picken.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma fêmea Rookidee, ela bicará o agressor implacavelmente em uma fúria ardente.",
         "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。",
-        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。",
+        ko: "암컷은 수컷보다 신경질적이다.\n깃털이 더러워지면 불같이 화를 내며\n부리로 쪼고 다닌다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Klaue",
                 "pt-br": "Garra",
                 "zh-tw": "鉤爪",
-                ja: "かぎづめ"
+                ja: "かぎづめ",
+                ko: "갈고리손톱"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             },
             damage: 40
         }

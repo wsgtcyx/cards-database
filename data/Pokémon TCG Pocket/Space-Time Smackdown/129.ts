@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/129",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/129",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/129"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/129",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/129"
     },
     name: {
         en: "Porygon-Z",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Porygon2",
         "zh-tw": "多邊獸Ⅱ",
         ja: "ポリゴン2",
+        ko: "폴리곤2",
     },
     description: {
         en: "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.",
@@ -72,7 +74,7 @@ const card: Card = {
                 de: "Ändere den Typ der Energie, die für deinen Gegner als Nächstes generiert wird, zufällig zu 1 der folgenden: , , , , , , oder .",
                 'pt-br': "Mude o tipo da próxima Energia que será gerada para seu oponente para 1 das seguintes Energias aleatoriamente: , , , , , , ou .",
                 ja: "相手の次に発生するエネルギーのタイプを、{G} {R} {W} {L} {P} {F} {D} {M}の中からランダムな1つに変える。",
-                ko: "상대의 다음에 발생하는 에너지의 타입을 중에서 1가지로 랜덤하게 바꾼다.",
+                ko: "상대의 다음에 발생하는 에너지의 타입을 {G} {R} {W} {L} {P} {F} {D} {M} 중에서 1가지로 랜덤하게 바꾼다.",
                 "zh-tw": "將為對手生成的下一個能量類型隨機更改為以下其中一種：{G}、{R}、{W}、{L}、{P}、{F}、{D}或{M}。"
             }
         }],

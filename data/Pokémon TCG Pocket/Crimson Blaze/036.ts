@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/036",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/036",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/036"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/036",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/036"
     },
     name: {
         en: "Aromatisse",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Parfinesse",
         "pt-br": "Aromatisse",
         "zh-tw": "芳香精",
-        ja: "フレフワン"
+        ja: "フレフワン",
+        ko: "프레프티르"
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Parfi",
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
-        ja: "シュシュプ"
+        ja: "シュシュプ",
+        ko: "슈쁘"
     },
     description: {
         en: "The scents Aromatisse can produce range from\nsweet smells that bolster allies to foul smells\nthat sap an opponent's will to fight.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Düfte, die Aromatisse herstellen kann, reichen von\nsüße Gerüche, die Verbündete gegen üble Gerüche stärken\ndas schwächt den Kampfwillen eines Gegners.",
         "pt-br": "Os aromas que Aromatisse pode produzir vão desde\ncheiros doces que reforçam aliados aos cheiros desagradáveis\nque minam a vontade de lutar do oponente.",
         "zh-tw": "Aromatisse 可以產生的香味範圍包括\n甜蜜的氣味可以增強盟友的惡臭\n削弱對手的戰鬥意志。",
-        ja: "敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。"
+        ja: "敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。",
+        ko: "상대의 전의를 상실시키는\n악취와 같은 편을 돕는\n황홀한 향기를 만들어 낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Parfüm-Explosion",
                 "pt-br": "Explosão de perfume",
                 "zh-tw": "香水爆炸",
-                ja: "パフュームボム"
+                ja: "パフュームボム",
+                ko: "퍼퓸봄"
             },
             damage: 60,
             cost: ["Psychic", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊額外花費 1 {C} 點。",
-                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 많게 한다."
             }
         }],
     weaknesses: [{

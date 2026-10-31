@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/022",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/022"
     },
     name: {
         en: "Golisopod",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Wimpod",
         "zh-tw": "膽小蟲",
         ja: "コソクムシ",
+        ko: "꼬시레",
     },
     description: {
         en: "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",

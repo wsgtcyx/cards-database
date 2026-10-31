@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/064"
     },
     name: {
         en: "Furfrou",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Trimmt man sein Fell nicht regelmäßig, wächst es\nohne Unterlass. Allerdings lässt es sich nur von\njemandem frisieren, dem es traut.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais, mas só permitirá que alguém de sua confiança o corte.",
         "zh-tw": "如果放著不管，體毛就會\n不斷變長，但牠只允許\n信賴的人幫自己修剪。",
-        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。",
+        ko: "가만히 두면 털이 점점\n자라지만 신뢰하는 자가 아니면\n커트를 허락하지 않는다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Fellkleid",
                 "pt-br": "Casaco de pele",
                 "zh-tw": "毛皮大衣",
-                ja: "ファーコート"
+                ja: "ファーコート",
+                ko: "퍼코트"
             },
             effect: {
                 en: "This Pokémon takes -20 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Diesem Pokémon werden durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe -20 pontos de dano de ataques.",
                 "zh-tw": "該寶可夢受到的攻擊傷害為 -20。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Schnellschlag",
                 "pt-br": "Golpe Rápido",
                 "zh-tw": "快速攻擊",
-                ja: "クイックアタック"
+                ja: "クイックアタック",
+                ko: "퀵어택"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -87,7 +92,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "40+"
         }

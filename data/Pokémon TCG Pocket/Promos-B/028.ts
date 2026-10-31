@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/028"
     },
     name: {
         en: "Ralts",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas e dos Pokémon. Ele se esconde se sentir hostilidade.",
         "zh-tw": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。",
-        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。",
+        ko: "사람이나 포켓몬의 감정을\n민감하게 캐치한다.\n적의가 느껴지면 그늘로 숨는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Diebeskuss",
                 "pt-br": "Beijo Drenante",
                 "zh-tw": "吸取之吻",
-                ja: "ドレインキッス"
+                ja: "ドレインキッス",
+                ko: "드레인키스"
             },
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "治療該寶可夢造成的 10 點傷害。",
-                ja: "このポケモンのHPを10回復。"
+                ja: "このポケモンのHPを10回復。",
+                ko: "이 포켓몬의 HP를 10회복."
             },
             damage: 10
         }

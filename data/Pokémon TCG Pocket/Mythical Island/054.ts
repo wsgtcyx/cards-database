@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/054"
     },
     name: {
         en: "Whirlipede",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Venipede",
         "zh-tw": "百足蜈蚣",
         ja: "フシデ",
+        ko: "마디네",
     },
     description: {
         en: "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",

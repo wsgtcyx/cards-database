@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/019"
     },
     name: {
         en: "Volcanion",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Vapor de Dinamite",
                 "zh-tw": "炸藥蒸汽",
                 ja: "ダイナマイトスチーム",
-                ko: "Dynamite Steam"
+                ko: "다이너마이트 스팀"
             },
             cost: [
                 "Colorless",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 110 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×110點傷害。",
                 ja: "コインを2回投げ、オモテの数×110ダメージ。",
-                ko: "Flip 2 coins. This attack does 110 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 110데미지를 준다."
             }
         }
     ],
@@ -85,7 +86,7 @@ const card: Card = {
         "pt-br": "Solta vapor intenso e desaparece na névoa densa. Dizem que vive nas montanhas onde pessoas não andam.",
         "zh-tw": "噴出水蒸氣，用濃霧隱蔽自己。據說住在沒有人煙的山裡。",
         ja: "水蒸気を 噴き出して 自分の 姿を 濃霧で 隠す。人の 立ち入らない 山に 住むという。",
-        ko: "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread."
+        ko: "수증기를 뿜어내어 자신의\n모습을 짙은 안개 속에 숨긴다. 사람이\n오지 않는 산에 산다고 한다."
     }
 };
 

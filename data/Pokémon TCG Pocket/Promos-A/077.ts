@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/077",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/077"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/077",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/077"
     },
     name: {
         en: "Xurkitree",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Xurkitree",
         "zh-tw": "電束木",
         ja: "デンジュモク",
+        ko: "전수목",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Obwohl es dieser Welt fremd und hier eine Gefahr darstellt, ist es das offenbar\nein gewöhnlicher Organismus auf der Welt, wo er normalerweise lebt.",
         "pt-br": "Embora seja estranho a este mundo e seja um perigo aqui, aparentemente é\num organismo comum no mundo onde normalmente vive.",
         "zh-tw": "雖然它對這個世界來說是陌生的，並且是這裡的危險，但它顯然是\n其正常生活的世界中的常見有機體。",
-        ja: "この世界では 異質で 危険だが 本来 棲んでいる 世界では 普通に 見かける 生物らしい。"
+        ja: "この世界では 異質で 危険だが 本来 棲んでいる 世界では 普通に 見かける 生物らしい。",
+        ko: "이 세계와는 성질이 다르고\n위험하지만 원래 살던 세계에서는\n흔히 볼 수 있는 생물인 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Electronica",
                 "pt-br": "Eletrônica",
                 "zh-tw": "電子樂",
-                ja: "エレクトロニカ"
+                ja: "エレクトロニカ",
+                ko: "일렉트로니카"
             },
             damage: 60,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/068",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/068"
     },
     name: {
         en: "Looker",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Looker",
         "zh-tw": "帥哥",
         ja: "ハンサム",
+        ko: "핸섬",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Dein Gegner deckt alle Unterstützerkarten in seinem Deck auf.",
         "pt-br": "Seu oponente revela todas as cartas de Apoiador do seu baralho.",
         "zh-tw": "你的對手展示了他們牌組中的所有支持者牌。",
-        ja: "相手の山札にあるサポートをすべて見る。"
+        ja: "相手の山札にあるサポートをすべて見る。",
+        ko: "상대의 덱에 있는 서포트를 모두 본다."
     },
     trainerType: "Supporter"
 };

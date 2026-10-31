@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/057"
     },
     name: {
         en: "Annihilape",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Annihilape",
         "zh-tw": "棄世猴",
         ja: "コノヨザル",
+        ko: "저승갓숭",
         pt: "Annihilape",
         'es-mx': "Annihilape"
     },
@@ -49,7 +51,8 @@ const card: Card = {
         "de": "Es erfüllt seine Fäuste mit der Kraft der Wut, die es in seinem Herzen verborgen hielt. Gegner, die von diesen machtvollen Fäusten getroffen werden, werden bis ins Mark zerschmettert.",
         "pt-br": "Ele imbui seus punhos com o poder da raiva que mantinha escondida em seu coração. Os oponentes atingidos por esses punhos imbuídos serão totalmente despedaçados.",
         "zh-tw": "它的拳頭充滿了隱藏在心中的憤怒之力。被這些充滿力量的拳頭擊中的對手將會被徹底粉碎。",
-        ja: "心に 秘めた 怒りのパワーを こぶしに 込めて 叩きつけると 相手を 骨の髄から 砕く。"
+        ja: "心に 秘めた 怒りのパワーを こぶしに 込めて 叩きつけると 相手を 骨の髄から 砕く。",
+        ko: "마음속에 감춰 둔 분노의 파워를\n주먹에 담아 날려서\n상대를 뼛속까지 바스러뜨린다."
     },
     stage: "Stage2",
     attacks: [
@@ -63,6 +66,7 @@ const card: Card = {
                 "pt-br": "Soco Dinamite",
                 "zh-tw": "炸藥沖頭",
                 ja: "ダイナマイトパンチ",
+                ko: "다이너마이트 펀치",
                 pt: "Soco Dinamite"
             },
             damage: "90",
@@ -76,6 +80,7 @@ const card: Card = {
                 "pt-br": "Este Pokémon também causa 30 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 30 點傷害。",
                 ja: "このポケモンにも30ダメージ。",
+                ko: "이 포켓몬에게도 30데미지를 준다.",
                 pt: "Este Pokémon também causa 30 pontos de dano a si mesmo.",
                 'es-mx': "Este Pokémon también se hace 30 puntos de daño a sí mismo."
             },

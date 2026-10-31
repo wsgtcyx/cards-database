@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/332",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/332",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/332",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/332"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/332",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/332"
     },
     name: {
         en: "Bombirdier",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Bombirdier usa o avental em seu peitoral para carregar alimento de volta ao seu ninho. Gosta de derrubar as coisas para fazer barulho.",
         "zh-tw": "會用胸口的袋子包住食物，再攜帶回巢穴。以弄掉會發出響亮聲音的東西為樂。",
         ja: "胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。",
-        ko: "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+        ko: "가슴팍의 주머니에 먹이를 담아서\n둥지로 가져간다. 큰 소리가 나는 물건을\n떨어뜨리는 것을 즐긴다."
     },
     abilities: [
         {
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Entrega Vilanesca",
                 "zh-tw": "壞蛋快遞",
                 ja: "わるものびん",
-                ko: "Villainous Delivery"
+                ko: "못된 택배"
             },
             effect: {
                 en: "As long as this Pokémon is on your Bench, your Active {D} Pokémon's Retreat Cost is 1 less.",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, o Custo de Recuo do seu Pokémon {D} Ativo será 1 a menos.",
                 "zh-tw": "只要這隻寶可夢在備戰區,自己的戰鬥場的{D}寶可夢撤退所需的能量減少1個。",
                 ja: "このポケモンがベンチにいるかぎり、自分のバトル場の{D}ポケモンのにげるためのエネルギーを、1個少なくする。",
-                ko: "As long as this Pokémon is on your Bench, your Active {D} Pokémon's Retreat Cost is 1 less."
+                ko: "이 포켓몬이 벤치에 있는 한, 자신의 배틀필드의 {D}포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다."
             }
         }
     ],
@@ -87,7 +88,7 @@ const card: Card = {
                 "pt-br": "Cortador de Escuridão",
                 "zh-tw": "暗黑利刃",
                 ja: "ダークカッター",
-                ko: "Dark Cutter"
+                ko: "다크커터"
             },
             damage: 30
         }

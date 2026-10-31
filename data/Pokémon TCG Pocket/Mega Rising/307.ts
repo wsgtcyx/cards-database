@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/307",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/307",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/307",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/307"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/307",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/307"
     },
     name: {
         en: "Geodude",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Geodude",
         "zh-tw": "小拳石",
         ja: "イシツブテ",
+        ko: "꼬마돌",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Geodude, die ein langes Leben gelebt haben, haben alle gehabt\nIhre Ränder werden geglättet, bis sie völlig glatt sind\nrund. Sie haben auch ein ruhiges, ruhiges Gemüt.",
         "pt-br": "Geodude que viveu uma vida longa teve tudo\nsuas bordas suavizadas até ficarem totalmente\nredondo. Eles também têm uma disposição calma e tranquila.",
         "zh-tw": "長壽的晶石已經擁有了一切\n他們的邊緣被平滑，直到他們完全\n圓形。他們的性格也很沉穩、安靜。",
-        ja: "長く 生きた イシツブテは 角が とれて まんまる。 性格も とても 落ち着いていて 穏やか なのだ。"
+        ja: "長く 生きた イシツブテは 角が とれて まんまる。 性格も とても 落ち着いていて 穏やか なのだ。",
+        ko: "오래 산 꼬마돌은 모가 없이\n동그랗다. 성격도 매우\n차분하고 온화하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
                 "zh-tw": "處理",
-                ja: "たいあたり"
+                ja: "たいあたり",
+                ko: "몸통박치기"
             },
             damage: 20,
             cost: ["Fighting"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

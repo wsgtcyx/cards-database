@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/095"
     },
     name: {
         en: "Alolan Persian",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Alola-Snobilikat",
         "pt-br": "Persian de Alola",
         "zh-tw": "阿羅拉貓老大",
-        ja: "アローラペルシアン"
+        ja: "アローラペルシアン",
+        ko: "알로라 페르시온"
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
-        ja: "アローラニャース"
+        ja: "アローラニャース",
+        ko: "알로라 나옹"
     },
     description: {
         en: "This Pokémon is one tough opponent. Not only\ndoes it have formidable physical abilities, but it's\nalso not above fighting dirty.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist ein harter Gegner. Nicht nur\nHat es beeindruckende körperliche Fähigkeiten, aber es ist so\nauch nicht davor zurück, schmutzig zu kämpfen.",
         "pt-br": "Este Pokémon é um oponente difícil. Não só\ntem habilidades físicas formidáveis, mas é\ntambém não hesita em lutar sujo.",
         "zh-tw": "這只神奇寶貝是一位強大的對手。不僅\n它有強大的身體能力嗎？\n也不是上面鬥臟的。",
-        ja: "高い 身体能力を もつ うえに 卑劣な 戦いかたを するので 手に負えない 強さ。"
+        ja: "高い 身体能力を もつ うえに 卑劣な 戦いかたを するので 手に負えない 強さ。",
+        ko: "뛰어난 신체 능력을 갖추고 있으며\n비열한 방식으로 싸우기 때문에\n감당할 수 없을 정도로 강하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 40,
             cost: ["Darkness"]

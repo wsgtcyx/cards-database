@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/227",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/227",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/227"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/227",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/227"
     },
     name: {
         en: "Kingdra ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Seedraking-ex",
         "pt-br": "Kingdra ex",
         "zh-tw": "刺龍王ex",
-        ja: "キングドラex"
+        ja: "キングドラex",
+        ko: "킹드라 ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seemon",
         "pt-br": "Seadra",
         "zh-tw": "海刺龍",
-        ja: "シードラ"
+        ja: "シードラ",
+        ko: "시드라"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Stürmisches Gefängnis",
                 "pt-br": "Prisão Tempestuosa",
                 "zh-tw": "風雨飄搖的監獄",
-                ja: "ストームジェイル"
+                ja: "ストームジェイル",
+                ko: "스톰제일"
             },
             damage: 90,
             cost: ["Water", "Water"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
-                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }],
     weaknesses: [{

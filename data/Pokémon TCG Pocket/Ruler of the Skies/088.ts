@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/088",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/088",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/088"
     },
     name: {
         en: "Gurdurr",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt.",
         "pt-br": "Este Pokémon é tão musculoso e robusto que mesmo um grupo de lutadores não o faria se mexer um centímetro.",
         "zh-tw": "身體的肌肉經過完美鍛鍊，\n即使好幾個摔角手一擁而上\n進行攻擊，也能毫髮無傷。",
-        ja: "鍛え上げられた 筋肉の 体は プロレスラーが 束になって 攻撃しても びくともしない。"
+        ja: "鍛え上げられた 筋肉の 体は プロレスラーが 束になって 攻撃しても びくともしない。",
+        ko: "단련을 거듭한 근육덩어리 몸은\n프로레슬러가 단체로 공격해도\n꿈쩍도 하지 않는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Trommler",
                 "pt-br": "Esmurrar",
                 "zh-tw": "狂毆",
-                ja: "ぶんなぐる"
+                ja: "ぶんなぐる",
+                ko: "후려갈기기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "30+"
         }

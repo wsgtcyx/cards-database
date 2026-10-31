@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/100",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/100"
     },
     name: {
         en: "Mismagius",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mismagius",
         "zh-tw": "夢妖魔",
         ja: "ムウマージ",
+        ko: "무우마직",
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
         ja: "ムウマ",
+        ko: "무우마",
     },
     description: {
         en: "Its cries sound like incantations to torment the\nfoe. It appears where you least expect it.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine Schreie klingen wie Beschwörungsformeln zur Qual\nFeind. Es erscheint dort, wo Sie es am wenigsten erwarten.",
         "pt-br": "Seus gritos soam como encantamentos para atormentar o\ninimigo. Aparece onde você menos espera.",
         "zh-tw": "它的叫聲聽起來就像是在折磨人的咒語\n敵人。它會出現在您最意想不到的地方。",
-        ja: "じゅもんの ような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。"
+        ja: "じゅもんの ような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。",
+        ko: "주문 같은 수상한\n울음소리로 상대를 괴롭힌다.\n신출귀몰한 포켓몬이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
                 "zh-tw": "幽靈射擊",
-                ja: "ホロウショット"
+                ja: "ホロウショット",
+                ko: "홀로숏"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"]
@@ -66,6 +71,11 @@ const card: Card = {
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

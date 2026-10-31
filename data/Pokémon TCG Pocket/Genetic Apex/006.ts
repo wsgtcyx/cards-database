@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/006",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/006"
     },
     name: {
         en: "Metapod",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Raupy",
         "pt-br": "Caterpie",
         "zh-tw": "綠毛蟲",
-        ja: "キャタピー"
+        ja: "キャタピー",
+        ko: "캐터피"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

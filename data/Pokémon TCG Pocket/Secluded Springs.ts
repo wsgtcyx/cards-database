@@ -33,12 +33,25 @@ const set: Set = {
 				de: "Suicune",
 				"pt-br": "Suicune",
 				"zh-tw": "水君",
-				ja: "未知なる水域"
+				ja: "未知なる水域",
+				ko: "미지의 수역"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4a/boosters/suicune/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4a/boosters/suicune/logo.webp"
 			}
 		}
 	},
 
-	releaseDate: "2025-08-28"
+	releaseDate: "2025-08-28",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4a/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/A4a/logo"
+	}
 }
 
 export default set

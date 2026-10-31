@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/065",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/065",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/065"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/065",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/065"
     },
     name: {
         en: "Bibarel ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Bidiza",
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
-        ja: "ビッパ"
+        ja: "ビッパ",
+        ko: "비버니"
     },
     stage: "Stage1",
     suffix: "EX",

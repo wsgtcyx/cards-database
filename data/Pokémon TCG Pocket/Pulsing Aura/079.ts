@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/079",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/079"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/079",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/079"
     },
     name: {
         en: "Riolu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat die besondere Fähigkeit, Emotionen wie Freude und Wut in Form von Wellen zu sehen.",
         "pt-br": "Tem o poder peculiar de poder ver emoções, como alegria e raiva, em forma de ondas.",
         "zh-tw": "它具有一種特殊的力量，能夠以波浪的形式看到情緒，例如喜悅和憤怒。",
-        ja: "喜びや 怒りと いった 感情を 波の形 として 見分ける 不思議な力を 持つ。"
+        ja: "喜びや 怒りと いった 感情を 波の形 として 見分ける 不思議な力を 持つ。",
+        ko: "기쁨과 분노 등의 감정을\n물결의 형태로 만들어 분별하는\n이상한 힘을 지녔다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kampffaust",
                 "pt-br": "Punhos de Guerreiro",
                 "zh-tw": "鬥志之拳",
-                ja: "とうしのこぶし"
+                ja: "とうしのこぶし",
+                ko: "투지의주먹"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 30 de dano a mais.",
                 "zh-tw": "如果對手的現役寶可夢是前寶可夢，則此攻擊造成的傷害增加 30 點。",
-                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。"
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 「포켓몬 ex」라면 30데미지를 추가한다."
             },
             damage: "10+"
         }

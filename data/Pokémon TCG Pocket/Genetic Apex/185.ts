@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/185",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/185",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/185",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/185"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/185",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/185"
     },
     name: {
         en: "Dragonite",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Dragonir",
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
-        ja: "ハクリュー"
+        ja: "ハクリュー",
+        ko: "신뇽"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless", "Colorless"],

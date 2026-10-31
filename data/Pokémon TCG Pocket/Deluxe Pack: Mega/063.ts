@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/063"
     },
     name: {
         en: "Marshtomp",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Mudkip",
         "zh-tw": "水躍魚",
         ja: "ミズゴロウ",
-        ko: "Mudkip"
+        ko: "물짱이"
     },
     description: {
         en: "It is at its best when on muddy ground that offers\npoor footing. It quickly overwhelms opponents\nthat are bogged down and unable to move.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Prefere terrenos lamacentos e escorregadios. Atordoa os oponentes presos na lama, incapazes de se mover.",
         "zh-tw": "在泥濘的地上更能發揮真本事。會把無法動彈的對手一口氣逼入絕境。",
         ja: "ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。",
-        ko: "It is at its best when on muddy ground that offers\npoor footing. It quickly overwhelms opponents\nthat are bogged down and unable to move."
+        ko: "질퍽거리는 곳에서 진가를 드러낸다.\n제대로 움직일 수 없는 상대를\n단숨에 몰아붙인다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
                 ja: "なみのり",
-                ko: "Surf"
+                ko: "파도타기"
             },
             damage: 40,
             cost: [

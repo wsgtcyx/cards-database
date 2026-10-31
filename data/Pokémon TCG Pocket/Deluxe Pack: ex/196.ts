@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/196",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/196",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/196",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/196"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/196",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/196"
 	},
 	name: {
 		en: "Marowak ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Knogga-ex",
 		"pt-br": "Marowak ex",
 		"zh-tw": "嘎啦嘎啦ex",
-		ja: "ガラガラex"
+		ja: "ガラガラex",
+		ko: "텅구리 ex"
 	},
 	illustrator: "PLANETA Mochizuki",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Tragosso",
 		"pt-br": "Cubone",
 		"zh-tw": "卡拉卡拉",
-		ja: "カラカラ"
+		ja: "カラカラ",
+		ko: "탕구리"
 	},
 	suffix: "EX",
 	attacks: [

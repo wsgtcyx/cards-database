@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/138",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/138"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/138",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/138"
     },
     name: {
         en: "Ceruledge",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
         ja: "カルボウ",
-        ko: "Charcadet"
+        ko: "카르본"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Responder à Altura",
                 "zh-tw": "捲土重來",
                 ja: "まきかえす",
-                ko: "Rally Back"
+                ko: "반격하기"
             },
             cost: [
                 "Colorless",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "在上個對手的回合,若自己的寶可夢因招式的傷害而昏厥了,則增加70點傷害。",
                 ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、70ダメージ追加。",
-                ko: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 70데미지를 추가한다."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "As lâminas de fogo em seus braços queimam com o ressentimento duradouro de um espadachim derrotado em batalha antes de alcançar seu objetivo.",
         "zh-tw": "雙臂的火焰之劍燃著在戰鬥中喪命的劍士的怨念。",
         ja: "両腕の 炎の剣は 志半ばで 力つきた 剣士の 怨念で 燃え上がる。",
-        ko: "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal."
+        ko: "양팔의 불꽃 검은\n뜻을 다 이루지 못한 채 스러진\n검사의 원념에 의해 타오르고 있다."
     }
 };
 

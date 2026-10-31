@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/054"
     },
     name: {
         en: "Pawmot",
@@ -48,7 +49,8 @@ const card: Card = {
         "de": "Pamamo",
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
-        ja: "パモット"
+        ja: "パモット",
+        ko: "빠모트"
     },
     weaknesses: [{
             type: "Fighting",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/115",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/115",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/115"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/115",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/115"
     },
     name: {
         en: "Sneasel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
         ja: "ニューラ",
+        ko: "포푸니",
     },
     illustrator: "yuu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses schlaue Pokémon versteckt sich unter dem Deckmantel von\nDunkelheit, die darauf wartet, ihre Beute anzugreifen.",
         "pt-br": "Este Pokémon astuto se esconde sob a capa de\nescuridão, esperando para atacar sua presa.",
         "zh-tw": "這個狡猾的神奇寶貝隱藏在\n黑暗，等待著攻擊它的獵物。",
-        ja: "自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。"
+        ja: "自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。",
+        ko: "눈에 띄지 않도록\n어둠 속에 숨어서 먹이를 습격하는\n매우 교활한 포켓몬이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
                 "zh-tw": "划痕",
-                ja: "ひっかく"
+                ja: "ひっかく",
+                ko: "할퀴기"
             },
             damage: 20,
             cost: ["Darkness"]

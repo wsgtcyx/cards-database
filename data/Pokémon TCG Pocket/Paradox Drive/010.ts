@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/010",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/010"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/010",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/010"
     },
     name: {
         en: "Floatzel",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es ist ein häufiger Anblick rund um Fischereihäfen. Es ist bekannt, dass es Menschen rettet und Fischern hilft, ihren Fang zu transportieren.",
         "pt-br": "É uma visão comum nos portos de pesca. É conhecido por resgatar pessoas e ajudar os pescadores a carregar o que pescaram.",
         "zh-tw": "這是漁港周圍常見的景象。眾所周知，它可以拯救人們並幫助漁民攜帶他們捕獲的東西。",
-        ja: "漁師町に 多く 暮らし おぼれた 人を 助けたり 捕った 獲物を 運んでいる。"
+        ja: "漁師町に 多く 暮らし おぼれた 人を 助けたり 捕った 獲物を 運んでいる。",
+        ko: "어촌에서 많이 살고 있으며\n물에 빠진 사람을 구하거나\n잡은 먹이를 운반한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kaskade",
                 "pt-br": "Cachoeira",
                 "zh-tw": "攀瀑",
-                ja: "たきのぼり"
+                ja: "たきのぼり",
+                ko: "폭포오르기"
             },
             damage: 90
         }

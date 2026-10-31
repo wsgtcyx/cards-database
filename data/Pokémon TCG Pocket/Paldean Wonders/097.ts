@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/097",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/097"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/097",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/097"
     },
     name: {
         en: "Paldean Wooper",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
         ja: "パルデアウパー",
+        ko: "팔데아 우파",
         'es-mx': "Wooper de Paldea",
         pt: "Wooper de Paldea"
     },
@@ -38,7 +40,8 @@ const card: Card = {
         "de": "Für Wooper ist es gefährlich, alleine zu reisen. Sie stellen sich in Dreier- oder Vierergruppen auf und helfen sich gegenseitig, während sie durch die Feuchtgebiete laufen.",
         "pt-br": "É perigoso para Wooper viajar sozinho. Eles se alinham em grupos de três ou quatro e ajudam uns aos outros enquanto caminham pelos pântanos.",
         "zh-tw": "伍珀獨自旅行很危險。它們三、四人一組，在濕地裡行走時互相幫助。",
-        ja: "単独行動は 危険なので 3、4匹が 一列に 並んで 助け合いながら 沼地を 歩く。"
+        ja: "単独行動は 危険なので 3、4匹が 一列に 並んで 助け合いながら 沼地を 歩く。",
+        ko: "단독 행동은 위험하기 때문에\n3, 4마리가 일렬로 서서\n협동하면서 늪지를 걷는다."
     },
     stage: "Basic",
     attacks: [
@@ -51,7 +54,8 @@ const card: Card = {
                 de: "Flop",
                 "pt-br": "Fracasso",
                 "zh-tw": "翻牌",
-                ja: "はねまわる"
+                ja: "はねまわる",
+                ko: "돌아다니며 뛰기"
             },
             damage: "40",
             cost: ["Darkness", "Colorless"],

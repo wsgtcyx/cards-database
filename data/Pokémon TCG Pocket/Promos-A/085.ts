@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/085"
     },
     name: {
         en: "Vanillite",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
         ja: "バニプッチ",
+        ko: "바닐프티",
     },
     illustrator: "OOYAMA",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Da es in heißen Gegenden nicht überlebensfähig ist, macht es sich selbst\nangenehm, indem Sie Luft ausatmen, die kalt genug ist\nSchnee verursachen. Es vergräbt sich im Schnee, um zu schlafen.",
         "pt-br": "Incapaz de sobreviver em áreas quentes, torna-se\nconfortável expirando ar frio o suficiente para\ncausar neve. Ele se enterra na neve para dormir.",
         "zh-tw": "無法在炎熱地區生存，它使自己\n通過呼吸足夠冷的空氣來舒適\n導致下雪。它鑽進雪裡睡覺。",
-        ja: "暑い 土地では 暮らせない。 冷気を 吐いて 雪を 降らせ 積もった 中に 潜って 眠る。"
+        ja: "暑い 土地では 暮らせない。 冷気を 吐いて 雪を 降らせ 積もった 中に 潜って 眠る。",
+        ko: "더운 곳에서는 살 수 없다.\n냉기를 뿜어 눈을 내리게 한 뒤\n쌓인 눈 속에 들어가 잠든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽",
-                ja: "スイーツリレー"
+                ja: "スイーツリレー",
+                ko: "스위트릴레이"
             },
             damage: "10+",
             cost: ["Water"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
                 "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
-                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。",
+                ko: "자신의 이전 차례에 자신의 포켓몬이 「스위트릴레이」를 사용했다면 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

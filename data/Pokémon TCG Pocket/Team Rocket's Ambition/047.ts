@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/047"
     },
     name: {
         en: "Copperajah",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es ist sehr stolz und mürrisch. Exemplare mit leuchtend grüner Haut werden von ihren Artgenossen besonders stark respektiert.",
         "pt-br": "Copperajah são Pokémon orgulhosos e rabugentos. Os espécimes de pele verde vibrante impõem o respeito aos outros Copperajah.",
         "zh-tw": "自尊心強，脾氣刁鑽。皮膚的綠色越是鮮豔，就越受到同伴的尊敬。",
-        ja: "プライドが 高く 気難しい。 鮮やかな 緑の 皮膚の ものが 仲間の 尊敬を 集める。"
+        ja: "プライドが 高く 気難しい。 鮮やかな 緑の 皮膚の ものが 仲間の 尊敬を 集める。",
+        ko: "자존심이 강하고 성미가 까다롭다.\n선명한 녹색 피부를 띠는 개체일수록\n동료들에게 존경받는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schwerer Einschlag",
                 "pt-br": "Impacto Pesado",
                 "zh-tw": "重磅衝擊",
-                ja: "ヘビーインパクト"
+                ja: "ヘビーインパクト",
+                ko: "헤비임팩트"
             },
             damage: 80
         }

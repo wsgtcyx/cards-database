@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/049"
     },
     name: {
         en: "Rabsca",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Rabsca",
         "zh-tw": "蟲甲聖",
         ja: "ベラカス",
+        ko: "베라카스",
         pt: "Rabsca"
     },
     illustrator: "Oswaldo KATO",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Rellor",
         "zh-tw": "蟲滾泥",
         ja: "シガロコ",
+        ko: "구르데",
         pt: "Rellor",
         'es-mx': "Rellor"
     },
@@ -49,7 +52,8 @@ const card: Card = {
         "de": "Ein Kleinkind schläft im Ball. Skarabaks rollt den Ball beruhigend mit seinen Beinen, um sicherzustellen, dass das Kind bequem schläft.",
         "pt-br": "Uma criança dorme dentro da bola. Rabsca rola a bola suavemente com as pernas para garantir que o bebê durma confortavelmente.",
         "zh-tw": "嬰兒睡在球內。 蟲甲聖 用腿舒緩地滾動球，確保嬰兒舒適睡眠。",
-        ja: "玉の中に 赤ん坊が 眠る。 心地よく 眠れるように 脚で 玉を まわして あやしているのだ。"
+        ja: "玉の中に 赤ん坊が 眠る。 心地よく 眠れるように 脚で 玉を まわして あやしているのだ。",
+        ko: "구슬 안에는 아이가 잠들어 있다.\n편하게 잠들 수 있게\n다리로 구슬을 굴려서 달랜다."
     },
     stage: "Stage1",
     attacks: [
@@ -63,6 +67,7 @@ const card: Card = {
                 "pt-br": "Raio Psíquico",
                 "zh-tw": "心電束",
                 ja: "サイケこうせん",
+                ko: "환상빔",
                 pt: "Feixe Psíquico"
             },
             damage: "80",
@@ -76,6 +81,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
                 ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 pt: "O Pokémon Ativo do seu oponente agora está Confuso."
             },
         },

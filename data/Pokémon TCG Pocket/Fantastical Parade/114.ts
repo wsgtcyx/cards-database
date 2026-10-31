@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/114",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/114"
     },
     name: {
         en: "Excadrill",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Stalobor",
         "pt-br": "Excadrill",
         "zh-tw": "龍頭地鼠",
-        ja: "ドリュウズ"
+        ja: "ドリュウズ",
+        ko: "몰드류"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Rotomurf",
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
-        ja: "モグリュー"
+        ja: "モグリュー",
+        ko: "두더류"
     },
     description: {
         en: "Its drill, which has evolved into steel, is strong\nenough to bore through iron plates. This\nPokémon is a great help in tunnel construction.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sein Bohrer, der sich zu Stahl entwickelt hat, ist stark\ngenug, um Eisenplatten zu durchbohren. Dies\nPokémon ist eine große Hilfe beim Tunnelbau.",
         "pt-br": "Sua broca, que evoluiu para aço, é forte\no suficiente para perfurar placas de ferro. Isto\nPokémon é uma grande ajuda na construção de túneis.",
         "zh-tw": "它的鑽頭已進化為鋼，堅固\n足以穿透鐵板。這個\n神奇寶貝對隧道建設有很大幫助。",
-        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。"
+        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。",
+        ko: "강철로 진화한 드릴은\n철판을 뚫는 파괴력을 가졌다.\n터널 공사에서 크게 활약한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schlagklaue",
                 "pt-br": "Garra Cortante",
                 "zh-tw": "斬擊利爪",
-                ja: "スラッシュクロー"
+                ja: "スラッシュクロー",
+                ko: "슬래시크루"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]

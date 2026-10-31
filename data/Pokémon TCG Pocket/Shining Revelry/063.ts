@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/063"
     },
     name: {
         en: "Lickilicky",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Schlurp",
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
-        ja: "ベロリンガ"
+        ja: "ベロリンガ",
+        ko: "내루미"
     },
     description: {
         en: "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",

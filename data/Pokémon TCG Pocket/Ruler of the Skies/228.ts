@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/228",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/228",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/228",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/228"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/228",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/228"
     },
     name: {
         en: "Mega Lopunny ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Schnelle Zertrümmerer",
                 "pt-br": "Pancadaria Ligeira",
                 "zh-tw": "快腿粉碎者",
-                ja: "ラピッドスマッシャー"
+                ja: "ラピッドスマッシャー",
+                ko: "래피드스매셔"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 90 Schaden pro Kopf. Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 90 pontos de dano para cada cara. O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×90點傷害。將對手的戰鬥寶可夢混亂。",
-                ja: "コインを2回投げ、オモテの数×90ダメージ。相手のバトルポケモンをこんらんにする。"
+                ja: "コインを2回投げ、オモテの数×90ダメージ。相手のバトルポケモンをこんらんにする。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 90데미지를 준다. 상대의 배틀 포켓몬을 혼란으로 만든다."
             },
             damage: "90x"
         }

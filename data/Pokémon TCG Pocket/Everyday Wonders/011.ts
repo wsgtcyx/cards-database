@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/011"
     },
     name: {
         en: "Psyduck",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er seltsame Kräfte zeigen. Es scheint nicht in der Lage zu sein, sich an eine solche Episode zu erinnern.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, ela poderá exibir poderes estranhos. Parece incapaz de recordar tal episódio.",
         "zh-tw": "如果它的慢性頭痛達到頂峰，它可能會表現出奇怪的力量。似乎無法回憶起這樣的情節。",
-        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
+        ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verwirrungswelle",
                 "pt-br": "Onda de confusão",
                 "zh-tw": "混亂波動",
-                ja: "へんなねんぱ"
+                ja: "へんなねんぱ",
+                ko: "괴상한염력파"
             },
             effect: {
                 en: "Both Active Pokémon are now Confused.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Beide aktiven Pokémon sind jetzt verwirrt.",
                 "pt-br": "Ambos os Pokémon ativos agora estão confusos.",
                 "zh-tw": "兩隻活躍的寶可夢現在都處於混亂狀態。",
-                ja: "おたがいのバトルポケモンをこんらんにする。"
+                ja: "おたがいのバトルポケモンをこんらんにする。",
+                ko: "서로의 배틀 포켓몬을 혼란으로 만든다."
             }
         }
     ],

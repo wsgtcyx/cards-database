@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/048"
     },
     name: {
         en: "Psyduck",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
         ja: "コダック",
+        ko: "고라파덕",
     },
     illustrator: "nagimiso",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn der chronische Kopfschmerz seinen Höhepunkt erreicht, kann er auftreten\nseltsame Kräfte. Es scheint nicht in der Lage zu sein, sich an so etwas zu erinnern\nFolge.",
         "pt-br": "Se a dor de cabeça crônica atingir o pico, pode apresentar\npoderes estranhos. Parece incapaz de lembrar tal\nepisódio.",
         "zh-tw": "如果慢性頭痛達到頂峰，可能會表現出\n奇怪的權力。似乎無法回憶起這樣的事情\n情節。",
-        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。"
+        ja: "いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。",
+        ko: "평상시보다 두통이 심해지면\n이상한 힘을 발산하지만\n그때의 기억은 없는 듯하다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Regenspritzer",
                 "pt-br": "Respingo de chuva",
                 "zh-tw": "雨濺",
-                ja: "みずかけ"
+                ja: "みずかけ",
+                ko: "물뿌리기"
             },
             damage: 20,
             cost: ["Water"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

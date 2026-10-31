@@ -220,3 +220,36 @@ test('Japanese audit rejects an English-only series display while allowing nativ
   assert.ok(!JSON.parse(run(fixture, ['--locales', 'ja']).stdout).issues.some(x => x.scope === 'series'))
  } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
 })
+
+test('Korean audit rejects English rules, English images and unresolved particles', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const file = path.join(fixture.root, 'data/Pocket/Fixture Set/001.ts')
+  fs.writeFileSync(file, `const card = {
+   name: { en: 'Bulbasaur', ko: '이상해씨' },
+   image: { en: 'https://example.invalid/en/001', ko: 'https://example.invalid/en/001' },
+   attacks: [{ name: { en: 'Tackle', ko: '몸통박치기' }, effect: { en: 'Draw a card.', ko: 'Draw a card.' } }],
+   description: { en: 'Seed Pokemon', ko: '포켓몬[Gr:Patchim v="이/가"]' }
+  }; export default card`)
+  const report = JSON.parse(run(fixture, ['--locales', 'ko']).stdout)
+  for (const [field, kind] of [['image', 'image-fallback'], ['attacks[0].effect', 'english-fallback'], ['description', 'unresolved-markup']]) {
+   assert.ok(report.issues.some(issue => issue.path === field && issue.kind === kind))
+  }
+  assert.ok(!report.issues.some(issue => issue.scope === 'card' && issue.path === 'name'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
+test('optional assets may exist for Korean alone without inventing images for other locales', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const file = path.join(fixture.root, 'data/Pocket/Fixture Set.ts')
+  const source = fs.readFileSync(file, 'utf8')
+  fs.writeFileSync(file, source.replace('    boosters:', '    logo: { ko: "https://game.pokemontcgpocket.app/ko/tcgp/T/logo" },\n    boosters:'))
+  assert.equal(run(fixture).status, 0)
+  let report = JSON.parse(run(fixture, ['--locales', 'ko']).stdout)
+  assert.ok(!report.issues.some(issue => issue.path === 'logo'))
+  fs.writeFileSync(file, source.replace('    boosters:', '    logo: { ko: "not a URL" },\n    boosters:'))
+  report = JSON.parse(run(fixture, ['--locales', 'ko']).stdout)
+  assert.ok(report.issues.some(issue => issue.path === 'logo' && issue.kind === 'invalid-asset-url'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/089"
     },
     name: {
         en: "Team Rocket's Articuno ex",
@@ -41,7 +42,8 @@ const card: Card = {
                 de: "Frostschwinge",
                 "pt-br": "Asa de Gelo",
                 "zh-tw": "冰之翼",
-                ja: "アイスウイング"
+                ja: "アイスウイング",
+                ko: "아이스윙"
             },
             damage: 40
         },
@@ -55,7 +57,8 @@ const card: Card = {
                 de: "Eisiger Sturm",
                 "pt-br": "Toró de Granizo",
                 "zh-tw": "冰雪風暴",
-                ja: "ひょうせつのあらし"
+                ja: "ひょうせつのあらし",
+                ko: "빙설의폭풍"
             },
             effect: {
                 en: "This attack also does 20 damage to each of your Benched Pokémon.",
@@ -65,7 +68,8 @@ const card: Card = {
                 de: "Diese Attacke fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco.",
                 "zh-tw": "自己的所有備戰寶可夢也受到20點傷害。",
-                ja: "自分のベンチポケモン全員にも20ダメージ。"
+                ja: "自分のベンチポケモン全員にも20ダメージ。",
+                ko: "자신의 벤치 포켓몬 전원에게도 20데미지를 준다."
             },
             damage: 130
         }

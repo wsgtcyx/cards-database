@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/205",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/205",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/205"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/205",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/205"
     },
     name: {
         en: "Braviary",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Braviary",
         "zh-tw": "勇士雄鷹",
         ja: "ウォーグル",
+        ko: "워글",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Rufflet",
         "zh-tw": "毛頭小鷹",
         ja: "ワシボン",
+        ko: "수리둥보",
     },
     description: {
         en: "For the sake of its friends, this brave warrior of\nthe sky will not stop battling, even if injured.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Zum Wohle seiner Freunde, dieser tapfere Krieger\nDer Himmel wird nicht aufhören zu kämpfen, selbst wenn er verletzt ist.",
         "pt-br": "Pelo bem dos seus amigos, este bravo guerreiro de\no céu não vai parar de lutar, mesmo ferido.",
         "zh-tw": "為了朋友，這位勇敢的戰士\n天空不會停止戰鬥，哪怕受傷。",
-        ja: "仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。"
+        ja: "仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。",
+        ko: "동료를 위해서라면 아무리\n상처를 입더라도 싸움을 포기하지 않는\n드넓은 하늘의 용감한 전사."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 80,
             cost: ["Colorless", "Colorless", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/004"
     },
     name: {
         en: "Caterpie",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Seus pés curtos contam com ventosas que permitem que escale penhascos e paredes sem se cansar.",
         "zh-tw": "別看牠的腳很短，因為是吸盤，所以無論是斜坡還是牆壁都能輕鬆前進。",
         ja: "脚は 短いが 吸盤に なっているので 坂でも 壁でも くたびれることなく 進んでいく。",
-        ko: "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+        ko: "다리는 짧지만 빨판으로\n되어 있어 비탈길이나 벽에서도\n지치지 않고 나아간다."
     },
     abilities: [
         {
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Estirão Acelerado",
                 "zh-tw": "成長期",
                 ja: "のびざかり",
-                ko: "Quick Growth"
+                ko: "자라는 시기"
             },
             effect: {
                 en: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "No final do turno do seu oponente, se este Pokémon estiver no Campo Ativo, coloque uma carta aleatória do seu baralho que evolua deste Pokémon sobre este Pokémon para evoluí-lo.",
                 "zh-tw": "在對手的回合結束時,若這隻寶可夢在戰鬥場上,則從自己的牌庫隨機將1張從這隻寶可夢進化而來的卡,放置於這隻寶可夢身上完成進化。",
                 ja: "相手の番の終わりに、このポケモンがバトル場にいるなら、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
-                ko: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
+                ko: "상대의 차례 마지막에 이 포켓몬이 배틀필드에 있다면 이 포켓몬에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 이 포켓몬에게 올려서 진화시킨다."
             }
         }
     ],
@@ -87,7 +88,7 @@ const card: Card = {
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
                 ja: "ひっかける",
-                ko: "Hook"
+                ko: "걸기"
             },
             damage: 10
         }

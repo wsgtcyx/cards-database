@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/116"
     },
     name: {
         en: "Registeel",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Gerüchten zufolge wurde dieses Pokémon tief\nim Mantel des Planeten geboren und kam vor\netwa 10 000 Jahren an die Oberfläche.",
         "pt-br": "Há rumores de que este Pokémon nasceu nas profundezas do manto do planeta e emergiu na superfície há 10.000 anos.",
         "zh-tw": "據說牠誕生於地底的\n地幔中，並且在大約\n１萬年前出現在地表。",
-        ja: "地下の マントルの 中で 生まれて およそ １万年前に 地上に 出てきたと 噂されている。"
+        ja: "地下の マントルの 中で 生まれて およそ １万年前に 地上に 出てきたと 噂されている。",
+        ko: "땅속 맨틀에서 태어나\n약 1만 년 전에 지상으로\n올라왔다는 이야기가 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schützender Sturmangriff",
                 "pt-br": "Carga Protetora",
                 "zh-tw": "防護充能",
-                ja: "プロテクトチャージ"
+                ja: "プロテクトチャージ",
+                ko: "프로텍트차지"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -30 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon -30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-30。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다."
             },
             damage: 60
         }

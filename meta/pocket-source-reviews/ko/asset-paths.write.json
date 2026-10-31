@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "reason": "Different existing R2 objects preserved; publish source-bound content hashes under new keys",
+  "initialManifestSha256": "328d28f9530ed440d56b63e003f77302726ba620659cdc1d34cf94f589f9be31",
+  "changes": [
+    {
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders.ts",
+      "beforeSha256": "51229ed3ac567a5998170125b6f431e3c6e7ca1d4e5058dcf76b9e300c43fa51",
+      "afterSha256": "38c7a06060e9cb036131cafc4ffdf8747fe1a7158e5b39e50d479a0907e6d15f",
+      "replacements": [
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/logo-9a0e1b2ad44e.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3b/boosters/everyday-wonders/artwork_front-c3a2d252ad6c.webp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura.ts",
+      "beforeSha256": "d2d392b833bbdea871d0558e8bc54c51a968c7edf4eec81ecd72f654c65bb4ac",
+      "afterSha256": "70e2e088ad5b380a7add82011483b9cf52dd52e58a892359cf1e0b059eba733f",
+      "replacements": [
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/logo-e7f1540e7e83.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/artwork_front-ae736fc23019.webp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-B.ts",
+      "beforeSha256": "7d9671978d67f414d2f1a59f645a20cf5da81574296a4e01f2f166ec45b5ec97",
+      "afterSha256": "1e919688de64e5f5a07655f4ebd8bb3ca88382668722084aab8cbf4076ce8207",
+      "replacements": [
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/logo-a6d3ade41f5d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol1/artwork_front-c2d815723dd8.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol2/artwork_front-76667ac310a0.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol3/artwork_front-0991b6a7325d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol4/artwork_front-c2d815723dd8.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol5/artwork_front-76667ac310a0.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol6/artwork_front-0991b6a7325d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol7/artwork_front-c2d815723dd8.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol8/artwork_front-76667ac310a0.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol9/artwork_front-0991b6a7325d.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/artwork_front-c2d815723dd8.webp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Shine.ts",
+      "beforeSha256": "6ff0702d389275d438a23ccc9cdb8a138ddd113c37f94dec5b5e8a9ea484ca3e",
+      "afterSha256": "e7bebf1117b39c8cf703510dcc793918f77dcec7f2dff6e6a62df29fd0303bf4",
+      "replacements": [
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/logo-6e8bc18b2359.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/artwork_front-c81ea9136d0e.webp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Paradox Drive.ts",
+      "beforeSha256": "f289e3e68afcfcd577846615fb4caa2953f291050eb6c4070920c26dd7b7e657",
+      "afterSha256": "fa70a68bd267273f7b1daec9e142b6c1d016fb33a523b49154abadc1e0e92378",
+      "replacements": [
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/logo.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/logo-34e41854115a.webp",
+          "count": 1
+        },
+        {
+          "old": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/artwork_front.webp",
+          "value": "https://game.pokemontcgpocket.app/ko/tcgp/B3a/boosters/paradox-drive/artwork_front-ddaaa5f43d0b.webp",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

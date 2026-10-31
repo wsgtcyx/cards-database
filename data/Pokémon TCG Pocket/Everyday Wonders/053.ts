@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/053",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/053"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/053",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/053"
     },
     name: {
         en: "Eevee",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Sein genetischer Code ist unregelmäßig. Es kann mutieren, wenn es der Strahlung von Elementsteinen ausgesetzt wird.",
         "pt-br": "Seu código genético é irregular. Ele pode sofrer mutação se for exposto à radiação das pedras elementares.",
         "zh-tw": "它的遺傳密碼是不規則的。如果受到元素石的輻射，就有可能發生變異。",
-        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。"
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。",
+        ko: "불규칙한 유전자를 가졌다.\n돌에서 나오는 방사선에 의해\n몸이 돌연변이를 일으킨다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Nagen",
                 "pt-br": "Roída",
                 "zh-tw": "咬",
-                ja: "かじる"
+                ja: "かじる",
+                ko: "갉기"
             },
             damage: 10
         }

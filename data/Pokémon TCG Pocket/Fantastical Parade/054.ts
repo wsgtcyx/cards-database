@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/054"
     },
     name: {
         en: "Toxel",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Toxel",
         "pt-br": "Toxel",
         "zh-tw": "毒電嬰",
-        ja: "エレズン"
+        ja: "エレズン",
+        ko: "일레즌"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Diese egoistischen, aufmerksamkeitsstarken Pokémon-Shops\nGift und Elektrizität in zwei verschiedenen Säcken im Inneren\nsein Körper.",
         "pt-br": "Este Pokémon egoísta e em busca de atenção armazena\nveneno e eletricidade em dois sacos diferentes dentro\nseu corpo.",
         "zh-tw": "這家自私、尋求關注的神奇寶貝商店\n裡面有兩個不同的毒囊和電\n它的身體。",
-        ja: "わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。"
+        ja: "わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。",
+        ko: "제멋대로에 엄청난 응석꾸러기다.\n체내에 있는 2개의 주머니에\n독과 전기를 나눠서 비축하고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Statischer Schock",
                 "pt-br": "Choque Estático",
                 "zh-tw": "靜電衝擊",
-                ja: "バチバチ"
+                ja: "バチバチ",
+                ko: "찌릿찌릿"
             },
             damage: 30,
             cost: ["Lightning", "Colorless"]

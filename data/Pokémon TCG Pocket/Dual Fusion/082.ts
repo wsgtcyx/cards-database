@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/082"
     },
     name: {
         en: "Haunter",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
         ja: "ゴース",
-        ko: "Gastly"
+        ko: "고오스"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Gás Asfixiante",
                 "zh-tw": "瓦斯包圍",
                 ja: "ガスでつつむ",
-                ko: "Suffocating Gas"
+                ko: "가스로감싸기"
             },
             cost: [
                 "Darkness"
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "Gosta de se esconder no escuro e bater nos ombros dos outros com sua mão gasosa. Seu toque causa arrepios que não acabam mais.",
         "zh-tw": "喜歡在黑暗中伸出氣體狀的手拍人的肩膀。一旦被摸到，就會顫抖個不停。",
         ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
-        ko: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
+        ko: "어둠을 틈타 가스로 된 손을 뻗쳐\n사람의 어깨를 두드리기 좋아한다.\n그 손에 닿으면 떨림이 멈추지 않는다."
     }
 };
 

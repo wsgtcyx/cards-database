@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/061"
     },
     name: {
         en: "Ursaring",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ursaring",
         "zh-tw": "圈圈熊",
         ja: "リングマ",
+        ko: "링곰",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
         ja: "ヒメグマ",
+        ko: "깜지곰",
     },
     description: {
         en: "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Normalerweise trägt es einen verhärteten Gesichtsausdruck, aber wann\nEs ist das Lecken von Honig – was es liebt – die Freude daran\nfühlt, wird ein breites Grinsen auslösen.",
         "pt-br": "Geralmente usa uma expressão endurecida, mas quando\nestá lambendo mel - que adora - a alegria que\nsente fará com que ele abra um amplo sorriso.",
         "zh-tw": "平時表情都比較冷酷，但當\n它正在舔蜜——它所愛的——它的快樂\n感覺會讓它咧開嘴笑。",
-        ja: "不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。"
+        ja: "不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。",
+        ko: "다부진 표정을 하고 있지만,\n좋아하는 꿀을 핥을 때는\n기쁜 나머지 입가가 절로 느슨해진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Klauenhieb",
                 "pt-br": "Corte de Garra",
                 "zh-tw": "利爪斬",
-                ja: "ツメできりさく"
+                ja: "ツメできりさく",
+                ko: "발톱 베어가르기"
             },
             damage: 110,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"]

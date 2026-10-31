@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/055",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/055"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/055",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/055"
     },
     name: {
         en: "Raging Bolt",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es hat Ähnlichkeit mit einem Pokémon, das für kurze Zeit ein heißes Thema wurde, nachdem ein paranormales Magazin es als Raikous Vorfahren angepriesen hatte.",
         "pt-br": "Ele se parece com um Pokémon que se tornou um tema quente por um curto período de tempo depois que uma revista paranormal o considerou o ancestral de Raikou.",
         "zh-tw": "它與一隻寶可夢很相似，在超自然雜誌將其吹捧為 雷公 的祖先後，該寶可夢一度成為熱門話題。",
-        ja: "オカルト雑誌が 取り上げて 短い あいだ 話題になった ライコウの 祖先に 似ている。"
+        ja: "オカルト雑誌が 取り上げて 短い あいだ 話題になった ライコウの 祖先に 似ている。",
+        ko: "오컬트 잡지에 나와\n한동안 화제였던\n라이코의 선조를 닮았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verhängnisvoller Boom",
                 "pt-br": "Boom Nefasto",
                 "zh-tw": "轟雷必殺",
-                ja: "ごうらいひっさつ"
+                ja: "ごうらいひっさつ",
+                ko: "굉음우레필살"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Lege die gesamte Energie dieses Pokémon ab. Knocke das aktive Pokémon deines Gegners aus.",
                 "pt-br": "Descarte todas as Energias deste Pokémon. Nocauteie o Pokémon Ativo do seu oponente.",
                 "zh-tw": "丟棄該寶可夢的所有能量。擊倒對手的活躍寶可夢。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトルポケモンをきぜつさせる。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトルポケモンをきぜつさせる。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다. 상대의 배틀 포켓몬을 기절시킨다."
             }
         }
     ],

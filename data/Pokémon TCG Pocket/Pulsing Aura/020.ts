@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/020",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/020"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/020",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/020"
     },
     name: {
         en: "Flapple",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es nutzt seine eigene Körperflüssigkeit, um seinen Apfel zu reparieren. Starke Drapfel, die viele Schlachten gewonnen haben, haben Äpfel, die überall lehmfarben sind.",
         "pt-br": "Ele usa seu próprio fluido corporal para reparar sua maçã. Flapple fortes que venceram muitas batalhas têm maçãs totalmente cor de argila.",
         "zh-tw": "它用自己的體液來修復它的蘋果。屢戰屢勝的強者蘋裹龍擁有全身都是黏土色的蘋果。",
-        ja: "体液で りんごを 補修する。 歴戦の 強者の りんごは 全体的に 粘土色。"
+        ja: "体液で りんごを 補修する。 歴戦の 強者の りんごは 全体的に 粘土色。",
+        ko: "체액으로 사과를 보수한다.\n많은 싸움을 거듭한 강자의 사과는\n전체적으로 찰흙빛이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Sauerspucke",
                 "pt-br": "Cuspe Azedo",
                 "zh-tw": "酸酸唾液",
-                ja: "すっぱいだえき"
+                ja: "すっぱいだえき",
+                ko: "새콤한타액"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
                 "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊額外花費 1 {C} 點。",
-                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 많게 한다."
             },
             damage: 40
         }

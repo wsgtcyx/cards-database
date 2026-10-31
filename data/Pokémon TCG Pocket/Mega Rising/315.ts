@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/315",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/315",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/315",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/315"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/315",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/315"
     },
     name: {
         en: "Dodrio",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dodrio",
         "zh-tw": "嘟嘟利",
         ja: "ドードリオ",
+        ko: "두트리오",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Doduo",
         "zh-tw": "嘟嘟",
         ja: "ドードー",
+        ko: "두두",
     },
     description: {
         en: "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Ein Feind, der jeden von ihnen aus den Augen lässt\ndrei Köpfe – auch nur für eine Sekunde – werden es schaffen\nheftig gepickt.",
         "pt-br": "Um inimigo que tira os olhos de qualquer um dos\ntrês cabeças - mesmo que por um segundo - ficarão\nbicou severamente.",
         "zh-tw": "敵人將目光從任何一個物體上移開\n三個頭——哪怕只是一秒鐘——都會得到\n狠狠地啄了一下。",
-        ja: "３つの 頭が 見ている前で わずかでも すきを 見せると クチバシで 激しく つつかれる。"
+        ja: "３つの 頭が 見ている前で わずかでも すきを 見せると クチバシで 激しく つつかれる。",
+        ko: "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Drill Peck",
                 "pt-br": "Broca Peck",
                 "zh-tw": "鑽啄",
-                ja: "ドリルくちばし"
+                ja: "ドリルくちばし",
+                ko: "회전부리"
             },
             damage: 40,
             cost: ["Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 0
+    retreat: 0,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

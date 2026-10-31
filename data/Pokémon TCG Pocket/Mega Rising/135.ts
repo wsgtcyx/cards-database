@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/135",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/135",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/135"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/135",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/135"
     },
     name: {
         en: "Golett",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Golett",
         "zh-tw": "泥偶小人",
         ja: "ゴビット",
+        ko: "골비람",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon wurde aus Ton hergestellt. Es wurde empfangen\nBefehle von seinem Meister viele tausend Jahre\nvor, und es befolgt diese Befehle bis heute.",
         "pt-br": "Este Pokémon foi criado a partir de argila. Recebeu\nordens de seu mestre há muitos milhares de anos\natrás, e ainda segue essas ordens até hoje.",
         "zh-tw": "這只神奇寶貝是用粘土創造的。它收到了\n來自其主人數千年的命令\n直到今天，它仍然遵循這些命令。",
-        ja: "粘土から つくられた ポケモン。 何千年も 前の 主の 命令を 今も 守っている。"
+        ja: "粘土から つくられた ポケモン。 何千年も 前の 主の 命令を 今も 守っている。",
+        ko: "점토로 만들어진 포켓몬이다.\n수천 년 전 주인의 명령을\n지금도 따르고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ansturm",
                 "pt-br": "Debandada",
                 "zh-tw": "踩踏",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 20,
             cost: ["Fighting"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/042"
     },
     name: {
         en: "Mega Greninja ex",
@@ -52,7 +53,7 @@ const card: Card = {
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
         ja: "ゲコガシラ",
-        ko: "Frogadier"
+        ko: "개굴반장"
     },
     suffix: "EX",
     attacks: [
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Jato Sombrio",
                 "zh-tw": "暗黑水飛濺",
                 ja: "スプラッシュダーク",
-                ko: "Splash of Darkness"
+                ko: "스플래시다크"
             },
             cost: [
                 "Water",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。",
                 ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
-                ko: "During your opponent's next turn, the Defending Pokémon can't retreat."
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다."
             }
         }
     ],

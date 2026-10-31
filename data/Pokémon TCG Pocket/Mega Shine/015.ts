@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/015"
     },
     name: {
         en: "Slowpoke",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist stets in Gedanken versunken und niemand\nweiß, worüber es nachdenkt. Es kann mit seiner\nRute gut angeln.",
         "pt-br": "Está sempre vagamente perdido em pensamentos, mas ninguém sabe no que está pensando. É bom pescar com a cauda.",
         "zh-tw": "它总是茫然若失，却无人知道它在想什么。它擅長用尾巴釣魚。",
-        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。"
+        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
+        ko: "항상 멍하니 있어서\n무슨 생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 30
         }

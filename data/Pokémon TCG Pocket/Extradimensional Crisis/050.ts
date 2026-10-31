@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/050"
     },
     name: {
         en: "Aggron",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Aggron",
         "zh-tw": "波士可多拉",
         ja: "ボスゴドラ",
+        ko: "보스로라",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lairon",
         "zh-tw": "可多拉",
         ja: "コドラ",
+        ko: "갱도라",
     },
     description: {
         en: "Aggron has a horn sharp enough to perforate\nthick iron sheets. It brings down its opponents by\nramming into them horn first.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Aggron hat ein Horn, das scharf genug ist, um zu durchbohren\ndicke Eisenbleche. Es bringt seine Gegner um\nrammt sie zuerst mit der Hupe.",
         "pt-br": "Aggron tem um chifre afiado o suficiente para perfurar\ngrossas chapas de ferro. Ele derruba seus oponentes por\nbatendo neles com a buzina primeiro.",
         "zh-tw": "阿格隆有一隻鋒利的角，足以刺穿\n厚鐵片。它通過以下方式打倒對手\n首先撞向他們的號角。",
-        ja: "ぶ厚い 鉄板を 貫くほどの 鋭い ツノを 体当たりとともに くらわせて 敵を しとめる。"
+        ja: "ぶ厚い 鉄板を 貫くほどの 鋭い ツノを 体当たりとともに くらわせて 敵を しとめる。",
+        ko: "두꺼운 철판을 꿰뚫을 정도로\n예리한 뿔을 몸통박치기와 함께\n찔러넣어 상대를 처리한다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Giga-Impact",
                 "pt-br": "Giga Impacto",
                 "zh-tw": "千兆影響",
-                ja: "ギガインパクト"
+                ja: "ギガインパクト",
+                ko: "기가임팩트"
             },
             damage: 150,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
-                ja: "次の自分の番、このポケモンはワザが使えない。"
+                ja: "次の自分の番、このポケモンはワザが使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
             }
         }],
     weaknesses: [{

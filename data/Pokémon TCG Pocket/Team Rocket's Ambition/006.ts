@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/006"
     },
     name: {
         en: "Team Rocket's Magmar",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Auf der Oberfläche seines Körpers entstehen lodernde Flammen, die an die der Sonne erinnern.",
         "pt-br": "Chamas tremeluzentes, similares às do sol, surgem na superficie do corpo deste Pokémon.",
         "zh-tw": "身體表面會產生像太陽一樣的火焰熱浪。",
-        ja: "体の 表面には 太陽と 同じような 炎の ゆらめきが 発生している。"
+        ja: "体の 表面には 太陽と 同じような 炎の ゆらめきが 発生している。",
+        ko: "몸의 표면에는\n태양과 같은 정도로\n불꽃의 이글거림이 발생하고 있다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Höhnisches Rösten",
                 "pt-br": "Calcinação Sarcástica",
                 "zh-tw": "燒壞",
-                ja: "なぶりやき"
+                ja: "なぶりやき",
+                ko: "조롱태우기"
             },
             effect: {
                 en: "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jeden Speziellen Zustand, von dem das Aktive Pokémon deines Gegners betroffen ist, 50 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a mais para cada Condição Especial que estiver afetando o Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢處於特殊狀態的數量×50點傷害。",
-                ja: "相手のバトルポケモンが受けている特殊状態の数×50ダメージ追加。"
+                ja: "相手のバトルポケモンが受けている特殊状態の数×50ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 받고 있는 특수 상태의 수 × 50데미지를 추가한다."
             },
             damage: "10+"
         }

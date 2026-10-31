@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/021",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/021"
     },
     name: {
         en: "Lumineon",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Finneon",
         "zh-tw": "螢光魚",
         ja: "ケイコウオ",
+        ko: "형광어",
     },
     description: {
         en: "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/130",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/130"
     },
     name: {
         en: "Fearow",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fearow",
         "zh-tw": "大嘴雀",
         ja: "オニドリル",
+        ko: "깨비드릴조",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
         ja: "オニスズメ",
+        ko: "깨비참",
     },
     description: {
         en: "Carrying food through Fearow's territory is\ndangerous. It will snatch the food away from\nyou in a flash!",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das Tragen von Lebensmitteln durch Fearows Territorium ist\ngefährlich. Es wird das Essen wegreißen\nDu im Handumdrehen!",
         "pt-br": "Transportar comida pelo território de Fearow é\nperigoso. Isso vai roubar a comida\nvocê em um piscar de olhos!",
         "zh-tw": "通過費羅領地運送食物是\n危險的。它會搶走食物\n你在一瞬間！",
-        ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。"
+        ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。",
+        ko: "깨비드릴조 영역에서 음식을\n갖고 다니는 것은 위험하다.\n순식간에 빼앗긴다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Pick Bugs",
                 "pt-br": "Bicar insetos",
                 "zh-tw": "啄蟲",
-                ja: "むしをついばむ"
+                ja: "むしをついばむ",
+                ko: "벌레쪼아대기"
             },
             damage: "30+",
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wenn das Aktive Pokémon deines Gegners ein {G}-Pokémon ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {G}, este ataque causará 40 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢是 {G} 寶可夢，則此攻擊造成的傷害增加 40 點。",
-                ja: "相手のバトルポケモンが{G}ポケモンなら、40ダメージ追加。"
+                ja: "相手のバトルポケモンが{G}ポケモンなら、40ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 {G}포켓몬이라면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

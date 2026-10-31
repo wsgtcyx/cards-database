@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/106",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/106"
     },
     name: {
         en: "Jirachi",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jirachi",
         "zh-tw": "基拉祈",
         ja: "ジラーチ",
+        ko: "지라치",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ihm wird die Fähigkeit nachgesagt, jeden Wunsch zu erfüllen\nnur eine Woche alle tausend Jahre.",
         "pt-br": "Diz-se que tem a capacidade de realizar qualquer desejo de\napenas uma semana a cada mil anos.",
         "zh-tw": "據說有能力實現任何願望\n每千年只有一周。",
-        ja: "１０００年間で ７日だけ 目を 覚まし どんな 願い事でも かなえる 力を 使うという。"
+        ja: "１０００年間で ７日だけ 目を 覚まし どんな 願い事でも かなえる 力を 使うという。",
+        ko: "1000년 중 7일 동안만 깨어나\n모든 소원을 이루어 주는\n능력을 발휘한다고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Sternentropfen",
                 "pt-br": "Gota de estrela",
                 "zh-tw": "星星掉落",
-                ja: "ほしおとし"
+                ja: "ほしおとし",
+                ko: "별떨구기"
             },
             cost: ["Psychic"],
             effect: {
@@ -58,13 +62,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。",
-                ja: "相手のポケモン1匹に30ダメージ。"
+                ja: "相手のポケモン1匹に30ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 30데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Darkness",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/202",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/202",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/202"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/202",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/202"
     },
     name: {
         en: "Herdier",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Herdier",
         "zh-tw": "哈約克",
         ja: "ハーデリア",
+        ko: "하데리어",
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Lillipup",
         "zh-tw": "小約克",
         ja: "ヨーテリー",
+        ko: "요테리",
     },
     description: {
         en: "The black fur that covers this Pokémon's body\nis dense and springy. Even sharp fangs bounce\nright off.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das schwarze Fell, das den Körper dieses Pokémon bedeckt\nist dicht und federnd. Sogar scharfe Reißzähne hüpfen\nsofort los.",
         "pt-br": "O pelo preto que cobre o corpo deste Pokémon\né denso e elástico. Até as presas afiadas saltam\nimediatamente.",
         "zh-tw": "覆蓋這只神奇寶貝身體的黑色皮毛\n緻密且有彈性。即使鋒利的獠牙也會彈跳\n馬上。",
-        ja: "体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。"
+        ja: "体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。",
+        ko: "몸을 뒤덮은 검은 털은\n두껍고 탄력이 있다.\n날카로운 이빨도 튕겨낸다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
                 "zh-tw": "頭撞彈跳",
-                ja: "とびだしヘッド"
+                ja: "とびだしヘッド",
+                ko: "머리박치기"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

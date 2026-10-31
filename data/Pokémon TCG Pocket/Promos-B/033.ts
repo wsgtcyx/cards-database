@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/033"
     },
     name: {
         en: "Quaxly",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dank seiner starken Beine kann er selbst in schnell fließenden Flüssen problemlos schwimmen. Er sorgt gerne für Ordnung und neigt dazu, zu viel nachzudenken.",
         "pt-br": "Suas pernas fortes permitem que ele nade facilmente até mesmo em rios de correnteza rápida. Gosta de manter as coisas arrumadas e tem tendência a pensar demais nas coisas.",
         "zh-tw": "它強壯的腿使它即使在水流湍急的河流中也能輕鬆遊動。牠喜歡讓事情保持整潔，並且容易想太多。",
-        ja: "流れが 急な 川も 自由に 泳ぎまわる 脚力を 持つ。 きれい好きで 思い込みが 強い。"
+        ja: "流れが 急な 川も 自由に 泳ぎまわる 脚力を 持つ。 きれい好きで 思い込みが 強い。",
+        ko: "유속이 빠른 강에서도\n자유롭게 헤엄칠 수 있는 다릿심을 가졌다.\n깔끔한 것을 좋아하며 집착이 강하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Ausweichplatscher",
                 "pt-br": "Evasão de Borrifada",
                 "zh-tw": "躍起閃避",
-                ja: "はねてかわす"
+                ja: "はねてかわす",
+                ko: "튀어올라 피하기"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             },
             damage: 10
         }

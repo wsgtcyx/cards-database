@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/114",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/114",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/114",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/114"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/114",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/114"
 	},
 	name: {
 		en: "Greninja",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Quajutsu",
 		"pt-br": "Greninja",
 		"zh-tw": "甲賀忍蛙",
-		ja: "ゲッコウガ"
+		ja: "ゲッコウガ",
+		ko: "개굴닌자"
 	},
 	illustrator: "5ban Graphics",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Amphizel",
 		"pt-br": "Frogadier",
 		"zh-tw": "呱頭蛙",
-		ja: "ゲコガシラ"
+		ja: "ゲコガシラ",
+		ko: "개굴반장"
 	},
 	abilities: [
 		{

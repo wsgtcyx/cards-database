@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/110",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/110",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/110",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/110"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/110",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/110"
     },
     name: {
         en: "Escavalier",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Es ist bei der Entwicklung in die Muschel eines Schnuthelm\ngeschlüpft. Die Eisenrüstung schützt seinen ganzen Körper.",
         "pt-br": "Estes Pokémon evoluem ao vestir a concha de um Shelmet. A armadura de aço protege seu corpo inteiro.",
         "zh-tw": "穿上小嘴蝸的殼進化的寶可夢。\n鋼鐵盔甲保護著全身。",
-        ja: "チョボマキの 殻を 身につけて 進化した ポケモン。鋼鉄の よろいが 全身を ガードする。"
+        ja: "チョボマキの 殻を 身につけて 進化した ポケモン。鋼鉄の よろいが 全身を ガードする。",
+        ko: "쪼마리의 껍질을 입고\n진화한 포켓몬이다. 강철의\n갑옷이 전신을 보호한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "鐵槍",
                 "it": "Spunzone Ferreo",
                 "de": "Eisenlanze",
-                ja: "アイアンランス"
+                ja: "アイアンランス",
+                ko: "아이언랜스"
             },
             damage: 70
         }

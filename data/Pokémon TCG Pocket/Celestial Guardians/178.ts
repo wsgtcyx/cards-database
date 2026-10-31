@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/178",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/178",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/178",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/178"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/178",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/178"
     },
     name: {
         en: "Bewear",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
         ja: "ヌイコグマ",
+        ko: "포곰곰",
     },
     description: {
         en: "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",

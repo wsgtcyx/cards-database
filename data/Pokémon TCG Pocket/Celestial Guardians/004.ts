@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/004"
     },
     name: {
         en: "Masquerain",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Surskit",
         "zh-tw": "溜溜糖球",
         ja: "アメタマ",
+        ko: "비구술",
     },
     description: {
         en: "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/219",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/219",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/219",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/219"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/219",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/219"
     },
     name: {
         en: "Hitmonchan",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Nockchan",
         "pt-br": "Hitmonchan",
         "zh-tw": "快拳郎",
-        ja: "エビワラー"
+        ja: "エビワラー",
+        ko: "홍수몬"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Schläge zerschneiden die Luft. Sie werden um gestartet\nBei solch einer hohen Geschwindigkeit könnte sogar eine leichte Schürfwunde entstehen\neine Verbrennung.",
         "pt-br": "Seus socos cortam o ar. Eles são lançados em\nvelocidade tão alta, mesmo um leve arranhão pode causar\numa queimadura.",
         "zh-tw": "它的拳頭劃破空氣。它們的發佈時間為\n如此高的速度，即使是輕微的擦傷也可能導致\n燒傷。",
-        ja: "空気を 切り裂く パンチ。 かすっただけで 火傷に なるほど パンチの スピードは 速いのだ。"
+        ja: "空気を 切り裂く パンチ。 かすっただけで 火傷に なるほど パンチの スピードは 速いのだ。",
+        ko: "주변의 공기를 가르는 펀치.\n스치기만 해도 화상을 입을 정도로\n펀치 스피드가 매우 빠르다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Boxschlag",
                 "pt-br": "Murro",
                 "zh-tw": "戳",
-                ja: "ジャブ"
+                ja: "ジャブ",
+                ko: "잽"
             },
             damage: 30,
             cost: ["Fighting"]

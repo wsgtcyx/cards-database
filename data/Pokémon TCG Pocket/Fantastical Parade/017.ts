@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/017"
     },
     name: {
         en: "Teal Mask Ogerpon ex",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Türkisgrüne-Maske-Ogerpon-ex",
         "pt-br": "Ogerpon Máscara Turquesa ex",
         "zh-tw": "厄鬼椪碧草面具ex",
-        ja: "オーガポンみどりのめんex"
+        ja: "オーガポンみどりのめんex",
+        ko: "오거폰 벽록의 가면 ex"
     },
     illustrator: "5ban Graphics",
     rarity: "Four Diamond",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Beruhigender Wind",
                 "pt-br": "Vento calmante",
                 "zh-tw": "舒緩的風",
-                ja: "やすらぎのかぜ"
+                ja: "やすらぎのかぜ",
+                ko: "평온의 바람"
             },
             effect: {
                 en: "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Jedes deiner Pokémon, an das Energie angelegt ist, erholt sich von allen Sonderzuständen und kann von keinen Sonderzuständen betroffen sein.",
                 "pt-br": "Cada um dos seus Pokémon que tenha alguma Energia anexada se recupera de todas as Condições Especiais e não pode ser afetado por nenhuma Condição Especial.",
                 "zh-tw": "你的每隻附有能量的神奇寶貝都會從所有特殊狀況中恢復，並且不會受到任何特殊狀況的影響。",
-                ja: "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復。"
+                ja: "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復。",
+                ko: "이 포켓몬이 있는 한, 에너지가 붙어 있는 자신의 포켓몬 전원은 특수 상태가 되지 않으며 받고 있는 특수 상태는 모두 회복."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Energetisierte Blätter",
                 "pt-br": "Folhas Energizadas",
                 "zh-tw": "充滿活力的葉子",
-                ja: "エナジーリーフ"
+                ja: "エナジーリーフ",
+                ko: "에너지리프"
             },
             damage: "60+",
             cost: ["Grass", "Grass"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Wenn die an beide Aktiven Pokémon angelegte Energiemenge 5 oder mehr beträgt, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se a quantidade de Energia ligada a ambos os Pokémon Ativos for 5 ou mais, este ataque causará 60 de dano a mais.",
                 "zh-tw": "如果兩隻活躍寶可夢身上附加的能量為 5 點或更多，則此攻擊造成的傷害增加 60 點。",
-                ja: "おたがいのバトルポケモンのエネルギーが5個以上なら、60ダメージ追加。"
+                ja: "おたがいのバトルポケモンのエネルギーが5個以上なら、60ダメージ追加。",
+                ko: "서로의 배틀 포켓몬의 에너지가 5개 이상이면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

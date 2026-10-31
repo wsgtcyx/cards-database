@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/120",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/120",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/120"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/120",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/120"
     },
     name: {
         en: "Super Potion",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Pokémon che ha delle Energie assegnate da 40 danni. Se hai curato dei danni in questo modo, rimuovi un'Energia a caso da quel Pokémon.",
         de: "Heile 40 Schadenspunkte bei 1 deiner Pokémon, an das mindestens 1 Energie angelegt ist. Wenn du auf diese Weise Schaden geheilt hast, lege 1 zufällige Energie von jenem Pokémon ab.",
         ja: "エネルギーがついている自分のポケモン1匹のHPを40回復。その後、そのポケモンからエネルギーをランダムに1個トラッシュ。",
-        ko: "Heal 40 damage from 1 of your Pokémon that has any Energy attached. If you healed any damage in this way, discard a random Energy from that Pokémon."
+        ko: "에너지가 붙어 있는 자신의 포켓몬 1마리의 HP를 40회복. 그 뒤, 그 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
     }
 };
 

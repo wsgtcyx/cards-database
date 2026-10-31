@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/014"
     },
     name: {
         en: "Magikarp",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Die urzeitlichen Vorfahren dieses Pokémon waren\nsehr viel stärker als ihre heutigen Nachkommen.",
         "pt-br": "No passado distante, era um pouco mais forte do que os descendentes terrivelmente fracos que existem hoje.",
         "zh-tw": "在遙遠的過去，它比現在弱小的後裔要強一些。",
-        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。"
+        ja: "大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。",
+        ko: "아주 먼 옛날에는 좀 더\n강했던 것 같다. 그러나 지금은\n안쓰러울 정도로 약하다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Platschexperte",
                 "pt-br": "Borrifador Experiente",
                 "zh-tw": "跳躍高手",
-                ja: "はねじょうず"
+                ja: "はねじょうず",
+                ko: "튀어오르기 고수"
             },
             effect: {
                 en: "Flip 2 coins. If both of them are heads, this attack does 20 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Wenn beide Köpfe sind, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue 2 moedas. Se ambos derem cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，這次攻擊會造成額外 20 點傷害。",
-                ja: "コインを2回投げ、すべてオモテなら、20ダメージ追加。"
+                ja: "コインを2回投げ、すべてオモテなら、20ダメージ追加。",
+                ko: "동전을 2번 던져서 모두 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "10+"
         }

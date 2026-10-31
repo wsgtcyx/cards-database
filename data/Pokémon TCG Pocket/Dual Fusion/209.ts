@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/209",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/209"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/209",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/209"
     },
     name: {
         en: "Mega Gallade ex",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
         ja: "キルリア",
-        ko: "Kirlia"
+        ko: "킬리아"
     },
     suffix: "EX",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Lâmina Ressonante",
                 "zh-tw": "共鳴刃",
                 ja: "レゾナンスブレード",
-                ko: "Resonating Blade"
+                ko: "레저넌스 블레이드"
             },
             cost: [
                 "Colorless",
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "在這個回合,若從手牌使出了支援者卡,則增加50點傷害。",
                 ja: "この番、手札からサポートを出して使っていたなら、50ダメージ追加。",
-                ko: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+                ko: "이 차례에 패에서 서포트를 꺼내서 사용했다면 50데미지를 추가한다."
             }
         }
     ],

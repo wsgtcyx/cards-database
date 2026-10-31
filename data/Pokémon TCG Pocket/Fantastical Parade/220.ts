@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/220",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/220",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/220"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/220",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/220"
     },
     name: {
         en: "Kabuto",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kabuto",
         "pt-br": "Kabuto",
         "zh-tw": "化石盔",
-        ja: "カブト"
+        ja: "カブト",
+        ko: "투구"
     },
     illustrator: "Krgc",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Domfossil",
         "pt-br": "Fóssil Cúpula",
         "zh-tw": "甲殼化石",
-        ja: "こうらの化石"
+        ja: "こうらの化石",
+        ko: "껍질화석"
     },
     description: {
         en: "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Diese Art ist fast vollständig ausgestorben. Kabuto\nalle drei Tage häuten, wodurch ihre Schalen härter werden\nund härter.",
         "pt-br": "Esta espécie está quase totalmente extinta. Kabuto\nmudam a cada três dias, tornando suas conchas mais duras\ne mais difícil.",
         "zh-tw": "這個物種幾乎完全滅絕了。兜\n每三天換一次皮，使外殼變硬\n而且更難。",
-        ja: "ほぼ 全滅した ポケモン。 ３日に 一度 脱皮して 殻を どんどん 硬くする。"
+        ja: "ほぼ 全滅した ポケモン。 ３日に 一度 脱皮して 殻を どんどん 硬くする。",
+        ko: "거의 멸종된 포켓몬이다.\n3일에 1번 탈피하여\n껍질을 점점 단단하게 만든다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Granatenangriff",
                 "pt-br": "Ataque de concha",
                 "zh-tw": "砲彈攻擊",
-                ja: "こうらアタック"
+                ja: "こうらアタック",
+                ko: "등껍질 어택"
             },
             damage: 40,
             cost: ["Fighting"]

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/211",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/211"
     },
     name: {
         en: "Onix",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es bohrt sich mit 80 km/h durch das Erdreich,\nindem es seinen massiven, rauen Körper dreht\nund windet.",
         "pt-br": "Ele rapidamente perfura o solo a 80 km/h, contorcendo-se e torcendo seu corpo maciço e robusto.",
         "zh-tw": "彎曲扭動巨大結實的身體，\n以時速８０公里的\n猛烈勢頭挖掘前進。",
-        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。"
+        ja: "大きく 丈夫な 体を くねらせ よじらせ 時速８０キロで 地面を 勢いよく 掘り進む。",
+        ko: "크고 튼튼한 몸을\n뒤틀고 꼬아서 시속 80km로\n힘차게 땅을 파나간다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schaufler",
                 "pt-br": "Cavar",
                 "zh-tw": "挖洞",
-                ja: "あなをほる"
+                ja: "あなをほる",
+                ko: "구멍파기"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             },
             damage: 30
         }

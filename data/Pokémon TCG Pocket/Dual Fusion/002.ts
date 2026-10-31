@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/002"
     },
     name: {
         en: "Ivysaur",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
         ja: "フシギダネ",
-        ko: "Bulbasaur"
+        ko: "이상해씨"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Dreno Folha",
                 "zh-tw": "綠葉吸取",
                 ja: "リーフドレイン",
-                ko: "Leaf Drain"
+                ko: "리프드레인"
             },
             cost: [
                 "Colorless",
@@ -81,7 +82,7 @@ const card: Card = {
                 "pt-br": "Cure 20 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復20HP。",
                 ja: "このポケモンのHPを20回復。",
-                ko: "Heal 20 damage from this Pokémon."
+                ko: "이 포켓몬의 HP를 20회복."
             }
         }
     ],
@@ -95,7 +96,7 @@ const card: Card = {
         "pt-br": "Quanto mais banho de sol Ivysaur toma, mais força brota em seu interior, fazendo com que o botão nas suas costas cresça.",
         "zh-tw": "沐浴在陽光下越久，身體內會湧出越多力量，背上的花苞也會漸漸成長。",
         ja: "太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。",
-        ko: "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger."
+        ko: "햇빛을 받을수록\n몸에 힘이 솟아나\n등의 꽃봉오리가 자라난다."
     }
 };
 

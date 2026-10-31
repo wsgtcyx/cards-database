@@ -28,11 +28,26 @@ import dualFusion from '../../../data/Pokémon TCG Pocket/Dual Fusion'
 import firstPartners from '../../../data/Pokémon TCG Pocket/Special Pack: First Partners'
 import TCGdex from '@tcgdex/sdk'
 import translate from './translationUtil'
-import { getDataFolder, resolveText } from './util'
+import { getDataFolder, resolveOptionalAsset, resolveText } from './util'
 import { getCardPictures, getCards } from './cardUtil'
 import { getSetPictures, isSetAvailable } from './setUtil'
 
 describe('B4 catalog metadata regressions', () => {
+ test('locale-only optional assets preserve other locales and reject English fallback', () => {
+  expect(resolveOptionalAsset({ ko: 'https://game.pokemontcgpocket.app/ko/tcgp/A1/logo.webp' }, 'ja')).toBeUndefined()
+  expect(resolveOptionalAsset({ ko: 'https://game.pokemontcgpocket.app/ko/tcgp/A1/logo.webp' }, 'ko')).toContain('/ko/')
+  expect(() => resolveOptionalAsset({ en: 'https://example.test/en/logo.webp' }, 'ko')).toThrow('Missing Korean')
+ })
+ test('Korean compilation rejects missing text, unresolved templates and English images', async () => {
+  expect(() => resolveText({ en: 'English' }, 'ko')).toThrow('Missing Korean')
+  expect(() => resolveText({ en: 'English', ko: 'English' }, 'ko')).toThrow('not native Korean')
+  expect(() => resolveText({ en: 'English', ko: '카드 [Gr:Patchim v="이/가"]' }, 'ko')).toThrow('Unresolved Korean')
+  expect(resolveText({ en: 'Bulbasaur', ko: '이상해씨' }, 'ko')).toBe('이상해씨')
+  expect(() => isSetAvailable({ ...rulerOfTheSkies, name: { en: 'English' } }, 'ko')).toThrow('Korean')
+  await expect(getCardPictures('001', { ...firstCard, image: { en: 'https://example.com/en/001' } }, 'ko')).rejects.toThrow('native Korean image')
+  await expect(getSetPictures({ ...rulerOfTheSkies, logo: { en: 'https://example.com/en/logo' } }, 'ko')).rejects.toThrow('Missing Korean')
+ })
+
 	test('uses native Japanese Pocket metadata and rejects missing translations', async () => {
 		expect(translate('types', 'Grass', 'ja')).toBe('草')
 		expect(translate('stage', 'Basic', 'ja')).toBe('たね')
@@ -93,7 +108,7 @@ describe('B4 catalog metadata regressions', () => {
 				for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'] as const) {
 					const [logo] = await getSetPictures(set, lang)
 					const booster = Object.values(set.boosters!)[0]
-					const expectedImage = booster.logo?.[lang] ?? booster.logo?.en
+					const expectedImage = lang === 'ko' ? `https://game.pokemontcgpocket.app/ko/tcgp/${set.id}/logo.webp` : booster.logo?.[lang] ?? booster.logo?.en
 					expect(logo).toBeDefined()
 					expect(logo).not.toMatch(/\.(?:png|jpe?g|webp)$/u)
 					TCGdex.fetch = async () => new Response(JSON.stringify({ id: 'tcgp', name: 'Pocket', logo, sets: [] }))
@@ -107,8 +122,10 @@ describe('B4 catalog metadata regressions', () => {
 		}
 	})
 	test('keeps Promo-B 79–86 rarity and Vol. 11 membership aligned', () => {
-		expect(promosB.boosters?.vol11?.logo).toBeUndefined()
-		expect(promosB.boosters?.vol11?.artwork_front).toBeUndefined()
+		expect(promosB.boosters?.vol11?.logo?.en).toBeUndefined()
+		expect(promosB.boosters?.vol11?.logo?.ko).toBe('https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/logo.webp')
+		expect(promosB.boosters?.vol11?.artwork_front?.en).toBeUndefined()
+		expect(promosB.boosters?.vol11?.artwork_front?.ko).toBe('https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol11/artwork_front.webp')
 		expect([promo79, promo80, promo81, promo82, promo83, promo84, promo85, promo86].map((card) => card.rarity)).toEqual([
 			'One Star', 'Four Diamond', 'One Diamond', 'One Diamond', 'Three Diamond', 'One Diamond', 'Three Diamond', 'Three Diamond',
 		])

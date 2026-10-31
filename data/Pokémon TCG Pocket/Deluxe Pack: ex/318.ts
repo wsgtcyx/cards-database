@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/318",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/318",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/318",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/318"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/318",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/318"
 	},
 	name: {
         en: "Electrical Cord",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fio Elétrico",
         "zh-tw": "電線",
         ja: "エレキコード",
+        ko: "일렉트릭코드",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wenn sich das {L}-Pokémon, an das diese Karte angelegt ist, an der aktiven Stelle befindet und durch Schaden durch einen Angriff des Pokémon deines Gegners kampfunfähig gemacht wird, bewege 2 {L}-Energie von diesem Pokémon und lege jeweils 1 Energie an 2 deiner Pokémon auf deiner Bank an.",
         "pt-br": "Se o Pokémon {L} ao qual este card está ligado estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, mova 2 {L} Energias desse Pokémon e ligue 1 Energia cada a 2 dos seus Pokémon no Banco.",
         "zh-tw": "這張卡所附著的 {L} 只寶可夢位於活躍位置，並且因對方寶可夢的攻擊而被擊倒的場合，移動該寶可夢 2 點 {L} 能量，並為你後備的 2 只寶可夢各附加 1 點能量。",
-        ja: "このカードをつけている{L}ポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、そのポケモンから{L}エネルギーを2個、ベンチポケモン2匹に1個ずつつけ替える。"
+        ja: "このカードをつけている{L}ポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、そのポケモンから{L}エネルギーを2個、ベンチポケモン2匹に1個ずつつけ替える。",
+        ko: "이 카드를 붙이고 있는 {L}포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 그 포켓몬에서 {L}에너지를 2개 벤치 포켓몬 2마리에게 1개씩 바꿔 붙인다."
     },
     trainerType: "Tool"
 };

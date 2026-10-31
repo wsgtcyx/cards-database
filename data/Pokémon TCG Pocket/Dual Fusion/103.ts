@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/103"
     },
     name: {
         en: "Pidgeotto",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
-        ko: "Pidgey"
+        ko: "구구"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Vento Dilacerante",
                 "zh-tw": "利刃之風",
                 ja: "カッターウインド",
-                ko: "Cutting Wind"
+                ko: "커터윈드"
             },
             cost: [
                 "Colorless"
@@ -82,7 +83,7 @@ const card: Card = {
         "pt-br": "As garras nos seus pés são bem desenvolvidas. Ele pode levar presas como Exeggcute para seu ninho a mais de 100 km de distância.",
         "zh-tw": "腳爪非常發達。曾一把抓住獵物蛋蛋，帶回１００公里外的巢穴。",
         ja: "足の ツメが 発達している。 エサの タマタマを つかんで １００キロ先の 巣まで 運ぶ。",
-        ko: "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away."
+        ko: "발톱이 발달해 있다.\n먹이인 아라리를 잡아\n100km 떨어져 있는 둥지까지 나른다."
     }
 };
 

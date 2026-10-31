@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/023",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/023"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/023",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/023"
     },
     name: {
         en: "Meowscarada ex",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Floragato",
         "zh-tw": "蒂蕾喵",
         ja: "ニャローテ",
-        ko: "Floragato"
+        ko: "나로테"
     },
     stage: "Stage2",
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Truque Floral",
                 "zh-tw": "千變萬花",
                 ja: "トリックフラワー",
-                ko: "Flower Trick"
+                ko: "트릭플라워"
             },
             cost: [
                 "Grass"
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 pontos de dano ao Pokémon no lugar que você escolheu.",
                 "zh-tw": "選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,位於所選位置的寶可夢受到70點傷害。",
                 ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。",
-                ko: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+                ko: "상대 배틀필드 또는 벤치를 1군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬에게 70데미지를 준다."
             }
         },
         {
@@ -87,7 +88,7 @@ const card: Card = {
                 "es-mx": "Rayo Solar",
                 pt: "Raio Solar",
                 ja: "ソーラービーム",
-                ko: "Solar Beam"
+                ko: "솔라빔"
             },
             damage: 80,
             cost: [

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/035"
     },
     name: {
         en: "Groudon",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Legendäre Pokémon soll das Land verkörpern.\nEs ist in einen Schlaf gefallen, nachdem es mit Kyogre\ngekämpft hat.",
         "pt-br": "Diz-se que este Pokémon lendário representa a terra. Adormeceu depois de duelar com Kyogre.",
         "zh-tw": "據說這隻傳說中的寶可夢代表了這片土地。它在決鬥 蓋歐卡 後進入睡眠狀態。",
-        ja: "カイオーガと 死闘の末 長い 眠りに ついた。大地の 化身と 言われる 伝説の ポケモン。"
+        ja: "カイオーガと 死闘の末 長い 眠りに ついた。大地の 化身と 言われる 伝説の ポケモン。",
+        ko: "가이오가와 사투 끝에 긴 잠에\n들었다. 대지의 화신이라\n불리는 전설의 포켓몬이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Gaia-Ausbruch",
                 "pt-br": "Disparo de Gaia",
                 "zh-tw": "蓋亞爆破",
-                ja: "ガイアブラスト"
+                ja: "ガイアブラスト",
+                ko: "가이아 블라스트"
             },
             effect: {
                 en: "Discard 2 random Energy from among the Energy attached to all of your Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Lege 2 zufällige Energien der an alle deine Pokémon angelegten Energien ab.",
                 "pt-br": "Descarte 2 Energias aleatórias dentre as Energias ligadas a todos os seus Pokémon.",
                 "zh-tw": "從你所有的寶可夢所附帶的能量中隨機丟棄 2 個能量。",
-                ja: "自分のポケモン全員についているエネルギーからランダムに2個トラッシュ。"
+                ja: "自分のポケモン全員についているエネルギーからランダムに2個トラッシュ。",
+                ko: "자신의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 2개 트래쉬한다."
             },
             damage: 130
         }

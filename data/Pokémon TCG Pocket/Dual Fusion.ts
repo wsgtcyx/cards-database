@@ -17,7 +17,8 @@ const set: Set = {
     },
     logo: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/logo"
     },
     cardCount: {
         official: 131
@@ -44,7 +45,7 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/boosters/mega-mewtwo-x/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
@@ -55,7 +56,7 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
                 ja: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/boosters/mega-mewtwo-x/artwork_front.webp"
             }
         },
         pikachu: {
@@ -79,7 +80,7 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/pikachu/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/boosters/pikachu/logo.webp"
             },
             artwork_front: {
                 en: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/artwork_front.webp",
@@ -90,11 +91,14 @@ const set: Set = {
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/artwork_front.webp",
                 ja: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/artwork_front.webp"
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/boosters/pikachu/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-10-29"
+    releaseDate: "2026-10-29",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/C1/symbol"
+	}
 }
 
 export default set

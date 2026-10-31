@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/166",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/166"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/166",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/166"
     },
     name: {
         en: "Blue's Provocation",
@@ -40,7 +41,7 @@ const card: Card = {
         it: "Puoi usare questa carta solo se hai Venusaur, Charizard, Blastoise o Pidgeot in gioco. Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
         de: "Du kannst diese Karte nur einsetzen, wenn du Bisaflor, Glurak, Turtok oder Tauboss im Spiel hast. Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein.",
         ja: "このカードは、自分の場に「フシギバナ」または「リザードン」または「カメックス」または「ピジョット」がいるときにしか使えない。 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
-        ko: "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+        ko: "이 카드는 자신의 필드에 「이상해꽃」 또는 「리자몽」 또는 「거북왕」 또는 「피죤투」가 있을 때만 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다."
     }
 };
 

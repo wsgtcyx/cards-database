@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/252",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/252",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/252",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/252"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/252",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/252"
     },
     name: {
         en: "Exeggutor ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Owei",
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
-        ja: "タマタマ"
+        ja: "タマタマ",
+        ko: "아라리"
     },
     suffix: "EX",
     attacks: [{

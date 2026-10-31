@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/076",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/076",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/076"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/076",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/076"
     },
     name: {
         en: "Heatran",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Heatran",
         "zh-tw": "席多藍恩",
         ja: "ヒードラン",
+        ko: "히드런",
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wohnt in vulkanischen Höhlen. Es gräbt sich ein\nkreuzförmige Füße zum Klettern an Decken und Wänden.",
         "pt-br": "Habita cavernas vulcânicas. Ele cava com seu\npés em forma de cruz para rastejar em tetos e paredes.",
         "zh-tw": "它棲息在火山洞穴中。它用它的方式挖掘\n十字形的腳可以在天花板和牆壁上爬行。",
-        ja: "火山の 洞穴に 生息。 十字の ツメを 食いこませて 壁や 天井を はい回る。"
+        ja: "火山の 洞穴に 生息。 十字の ツメを 食いこませて 壁や 天井を はい回る。",
+        ko: "화산의 동굴에서 서식한다.\n십자형의 발톱을 박아서\n벽이나 천장을 돌아다닌다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Speedlink",
                 "pt-br": "Link de velocidade",
                 "zh-tw": "極速鏈接",
-                ja: "スピードリンク"
+                ja: "スピードリンク",
+                ko: "스피드 링크"
             },
             effect: {
                 en: "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn du Arceus oder Arceus ex im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
                 "pt-br": "Se você tiver Arceus ou Arceus ex em jogo, este Pokémon não terá custo de recuo.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，則該神奇寶貝沒有撤退成本。",
-                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。"
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
+                ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」가 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Ragin' Mad Strike",
                 "pt-br": "Ragin 'Mad Strike",
                 "zh-tw": "狂暴的瘋狂打擊",
-                ja: "ぶちぎれボンバー"
+                ja: "ぶちぎれボンバー",
+                ko: "대노봄버"
             },
             damage: "40+",
             cost: ["Fire", "Fire"],
@@ -82,7 +88,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon Schaden hat, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque causará 40 de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 40 點傷害。",
-                ja: "このポケモンがダメージを受けているなら、40ダメージ追加。"
+                ja: "このポケモンがダメージを受けているなら、40ダメージ追加。",
+                ko: "이 포켓몬이 데미지를 받고 있다면 40데미지를 추가한다."
             }
         }],
     weaknesses: [{

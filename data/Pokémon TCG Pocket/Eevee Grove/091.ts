@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/091",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/091"
     },
     name: {
         en: "Snorlax ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Snorlax ex",
         "zh-tw": "卡比獸ex",
         ja: "カビゴンex",
+        ko: "잠만보 ex",
     },
     illustrator: "Mékayu",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Full-Mouth-Manier",
                 "pt-br": "Maneira de boca cheia",
                 "zh-tw": "滿嘴的方式",
-                ja: "ほおばりぐせ"
+                ja: "ほおばりぐせ",
+                ko: "볼가득 버릇"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, heile 20 Schadenspunkte bei ihm.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Ponto Ativo, cure 20 pontos de dano dele.",
                 "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，則治療它造成的 20 點傷害。",
-                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、このポケモンのHPを20回復。"
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、このポケモンのHPを20回復。",
+                ko: "자신의 차례의 마지막에 이 포켓몬이 배틀필드에 있다면 이 포켓몬의 HP를 20회복."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Flop-Down-Schlag",
                 "pt-br": "Soco Flop-Down",
                 "zh-tw": "下翻拳",
-                ja: "たおれこみパンチ"
+                ja: "たおれこみパンチ",
+                ko: "자빠지기펀치"
             },
             damage: 130,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Dieses Pokémon schläft jetzt.",
                 "pt-br": "Este Pokémon agora está dormindo.",
                 "zh-tw": "這只神奇寶貝現在已經睡著了。",
-                ja: "このポケモンをねむりにする。"
+                ja: "このポケモンをねむりにする。",
+                ko: "이 포켓몬을 잠듦으로 만든다."
             }
         }],
     weaknesses: [{

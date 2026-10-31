@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/SP1/007"
     },
     name: {
         en: "Treecko",
@@ -50,7 +51,7 @@ const card: Card = {
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
                 ja: "はたく",
-                ko: "Pound"
+                ko: "막치기"
             },
             cost: [
                 "Colorless",
@@ -69,7 +70,7 @@ const card: Card = {
         "pt-br": "Treecko tem pequenos ganchos nas solas dos pés que permitem que escale paredes verticais. Este Pokémon ataca batendo em seus oponentes com sua cauda grossa.",
         "zh-tw": "牠腳底的小鉤子使其能在垂直的牆壁上攀爬，會用粗壯的尾巴摔打對手。",
         ja: "足の 裏の 小さな トゲを 引っ掛けて 垂直の カベを 登ることが できる。 太い 尻尾を たたきつけて 攻撃する。",
-        ko: "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail."
+        ko: "다리 뒤의 작은 가시를 박아\n수직인 벽을 올라갈 수 있다.\n굵은 꼬리로 힘껏 쳐서 공격한다."
     }
 };
 

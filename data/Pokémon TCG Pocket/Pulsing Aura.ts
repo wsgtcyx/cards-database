@@ -39,7 +39,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3/boosters/pulsing-aura/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3/boosters/pulsing-aura/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/boosters/pulsing-aura/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/logo-e7f1540e7e83.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/boosters/pulsing-aura/logo.webp"
             },
             artwork_front: {
@@ -50,12 +50,18 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B3/boosters/pulsing-aura/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B3/boosters/pulsing-aura/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/boosters/pulsing-aura/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/boosters/pulsing-aura/artwork_front-ae736fc23019.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/boosters/pulsing-aura/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-04-28"
+    releaseDate: "2026-04-28",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B3/logo"
+	}
 }
 
 export default set

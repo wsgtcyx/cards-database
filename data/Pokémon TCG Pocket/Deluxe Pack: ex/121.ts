@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/121",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/121",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/121",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/121"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/121",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/121"
 	},
 	name: {
 		en: "Crabominable ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Krawell-ex",
 		"pt-br": "Crabominable ex",
 		"zh-tw": "好勝毛蟹ex",
-		ja: "ケケンカニex"
+		ja: "ケケンカニex",
+		ko: "모단단게 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Krabbox",
 		"pt-br": "Crabrawler",
 		"zh-tw": "好勝蟹",
-		ja: "マケンカニ"
+		ja: "マケンカニ",
+		ko: "오기지게"
 	},
 	stage: "Stage1",
 	suffix: "EX",

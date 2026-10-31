@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/022"
     },
     name: {
         en: "Camerupt",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Die Vulkane auf seinem Rücken ereignen sich alle 10 Jahre – oder immer dann, wenn es richtig heftig wird – zu einem großen Ausbruch.",
         "pt-br": "Os vulcões nas suas costas têm uma grande erupção a cada 10 anos – ou sempre que fica realmente furioso.",
         "zh-tw": "它背上的火山每十年就會爆發一次大噴發——或者每當它變得非常憤怒時。",
-        ja: "背中の コブの 火山は １０年ごとに 大噴火 するが 激しく 怒っても 噴火する。"
+        ja: "背中の コブの 火山は １０年ごとに 大噴火 するが 激しく 怒っても 噴火する。",
+        ko: "등의 혹 모양 화산은\n10년마다 대분화하나\n심하게 화가 나도 분화한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Eruption",
                 "pt-br": "Erupção",
                 "zh-tw": "噴火",
-                ja: "ふんか"
+                ja: "ふんか",
+                ko: "분화"
             },
             effect: {
                 en: "Flip 3 coins. For each heads, discard a {R} Energy from this Pokémon. This attack does 30 more damage for each {R} Energy you discarded in this way.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Lege für jeden Kopf eine {R}-Energie von diesem Pokémon ab. Dieser Angriff verursacht 30 weitere Schadenspunkte für jede {R}-Energie, die du auf diese Weise abgeworfen hast.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, descarte uma Energia {R} deste Pokémon. Este ataque causa 30 pontos de dano a mais para cada {R} Energia que você descartou dessa forma.",
                 "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄該寶可夢的一個 {R} 能量。您以這種方式每丟棄一個 {R} 能量，此攻擊就會造成 30 點額外傷害。",
-                ja: "コインを3回投げ、オモテの数ぶん、このポケモンから{R}エネルギーをトラッシュし、トラッシュした{R}エネルギーの数×30ダメージ追加。"
+                ja: "コインを3回投げ、オモテの数ぶん、このポケモンから{R}エネルギーをトラッシュし、トラッシュした{R}エネルギーの数×30ダメージ追加。",
+                ko: "동전을 3번 던져서 앞면이 나온 수만큼 이 포켓몬에서 {R}에너지를 트래쉬하고 트래쉬한 {R}에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "60+"
         }

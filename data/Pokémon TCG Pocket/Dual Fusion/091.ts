@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/091"
     },
     name: {
         en: "Mega Skarmory ex",
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Grifa Triturante",
                 "zh-tw": "碎裂爪",
                 ja: "シュレッダークロー",
-                ko: "Shredding Claw"
+                ko: "슈레더클로"
             },
             cost: [
                 "Colorless",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 50 pontos de dano a mais para cada cara.",
                 "zh-tw": "擲硬幣直到出現反面,增加正面出現的次數×50點傷害。",
                 ja: "ウラが出るまでコインを投げ、オモテの数×50ダメージ追加。",
-                ko: "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 50데미지를 추가한다."
             }
         }
     ],

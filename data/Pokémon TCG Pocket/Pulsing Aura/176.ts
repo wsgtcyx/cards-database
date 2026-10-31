@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/176",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/176",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/176",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/176"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/176",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/176"
     },
     name: {
         en: "Bisharp",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Caesurio zerteilt seine Gegner gnadenlos mit den scharfen Klingen, die seinen Körper bedecken. Es wird alles tun, um zu gewinnen.",
         "pt-br": "Bisharp corta impiedosamente seus oponentes em pedaços com as lâminas afiadas que cobrem seu corpo. Fará de tudo para vencer.",
         "zh-tw": "劈斬司令用覆蓋全身的鋒利刀片無情地將對手切成碎片。為了獲勝，它會不擇手段。",
-        ja: "体中の 鋭利な 刃で 容赦なく 相手を 切り刻む。 勝つために 手段は 選ばない。"
+        ja: "体中の 鋭利な 刃で 容赦なく 相手を 切り刻む。 勝つために 手段は 選ばない。",
+        ko: "온몸에 달린 예리한 칼날로\n자비 없이 상대를 베어 버린다.\n이기기 위해서라면 수단을 가리지 않는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Nachthieb",
                 "pt-br": "Talho Noturno",
                 "zh-tw": "暗襲要害",
-                ja: "つじぎり"
+                ja: "つじぎり",
+                ko: "깜짝베기"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             },
             damage: 60
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/063"
     },
     name: {
         en: "Meowscarada ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Blumentrick",
                 "pt-br": "Truque Floral",
                 "zh-tw": "千變萬花",
-                ja: "トリックフラワー"
+                ja: "トリックフラワー",
+                ko: "트릭플라워"
             },
             effect: {
                 en: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wählen Sie einen Platz aus dem aktiven Platz und der Bank Ihres Gegners. Füge am Ende des nächsten Zuges deines Gegners dem Pokémon an der von dir gewählten Stelle 70 Schadenspunkte zu.",
                 "pt-br": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
                 "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
-                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。"
+                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。",
+                ko: "상대 배틀필드 또는 벤치를 1군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬에게 70데미지를 준다."
             }
         },
         {
@@ -76,7 +79,8 @@ const card: Card = {
                 de: "Solarstrahl",
                 "pt-br": "Raio Solar",
                 "zh-tw": "日光束",
-                ja: "ソーラービーム"
+                ja: "ソーラービーム",
+                ko: "솔라빔"
             },
             damage: 80
         }

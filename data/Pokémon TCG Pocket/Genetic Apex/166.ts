@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/166",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/166",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/166"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/166",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/166"
     },
     name: {
         en: "Nidoran♀",
@@ -49,7 +50,7 @@ const card: Card = {
                 de: "Lege 1 zufälliges Nidoran♂ aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 Nidoran♂ aleatório do seu baralho no seu Banco.",
                 ja: "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
-                ko: "자신의 덱에서 「니드런♂」를 랜덤으로 1장 벤치로 내보낸다.",
+                ko: "자신의 덱에서 「니드런♂」을 랜덤으로 1장 벤치로 내보낸다.",
                 "zh-tw": "從你的牌組中隨機將 1 張 Nidoran♂ 放到你的替補席上。"
             }
         }],

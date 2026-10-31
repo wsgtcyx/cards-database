@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/018",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/018"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/018",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/018"
     },
     name: {
         en: "Heliolisk",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
         "pt-br": "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
         "zh-tw": "只要一隻日光蟲在陽光下伸展開來，就可以產生足夠的電力來為一座城市供電。",
-        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。"
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
+        ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Donnerblitz",
                 "pt-br": "Relâmpago",
                 "zh-tw": "十萬伏特",
-                ja: "10まんボルト"
+                ja: "10まんボルト",
+                ko: "10만볼트"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
                 "zh-tw": "丟棄該寶可夢的所有能量。",
-                ja: "このポケモンからエネルギーをすべてトラッシュ。"
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
+                ko: "이 포켓몬에서 에너지를 모두 트래쉬한다."
             },
             damage: 120
         }

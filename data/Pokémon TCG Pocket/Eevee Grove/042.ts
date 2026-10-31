@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/042",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/042"
     },
     name: {
         en: "Carbink",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Carbink",
         "zh-tw": "小碎鑽",
         ja: "メレシー",
+        ko: "멜리시",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn er von Angreifern bedrängt wird, löscht Carbink sie alle aus\ndurch Abfeuern hochenergetischer Strahlen aus den Edelsteinen heraus\nin seinen Körper eingebettet.",
         "pt-br": "Quando assediado por agressores, Carbink elimina todos eles\ndisparando feixes de alta energia das gemas\nembutido em seu corpo.",
         "zh-tw": "當受到攻擊者圍攻時，Carbink 將其全部消滅\n通過從寶石中發射高能光束來釋放\n鑲嵌在它的身體裡。",
-        ja: "体に 埋まっている 宝石から 高エネルギーの ビームを 放ち 襲いかかる 敵を 一掃する。"
+        ja: "体に 埋まっている 宝石から 高エネルギーの ビームを 放ち 襲いかかる 敵を 一掃する。",
+        ko: "몸에 묻어 있는 보석에서\n강한 에너지 빔을 쏘아 덤벼드는\n적을 한꺼번에 날려버린다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Harte Rolle",
                 "pt-br": "Rolo Duro",
                 "zh-tw": "硬捲",
-                ja: "ハードロール"
+                ja: "ハードロール",
+                ko: "하드롤"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/069",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/069",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/069"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/069",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/069"
     },
     name: {
         en: "Chandelure",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Skelabra",
         "pt-br": "Chandelure",
         "zh-tw": "水晶燈火靈",
-        ja: "シャンデラ"
+        ja: "シャンデラ",
+        ko: "샹델라"
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Laternecto",
         "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
-        ja: "ランプラー"
+        ja: "ランプラー",
+        ko: "램프라"
     },
     description: {
         en: "It absorbs spirits, which it then burns. By waving\nthe flames on its arms, it puts its foes into a\nhypnotic trance.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es nimmt Spiritus auf und verbrennt diesen. Durch Winken\nDie Flammen auf seinen Armen, es bringt seine Feinde in eine\nhypnotische Trance.",
         "pt-br": "Absorve espíritos, que depois queima. Ao acenar\nas chamas em seus braços, ele coloca seus inimigos em uma\ntranse hipnótico.",
         "zh-tw": "它吸收靈魂，然後將其燃燒。通過揮手\n手臂上的火焰將敵人置於地獄之中\n催眠恍惚。",
-        ja: "魂を 吸い取って 燃やす。 腕の 炎を 揺らして 相手を 催眠状態に する。"
+        ja: "魂を 吸い取って 燃やす。 腕の 炎を 揺らして 相手を 催眠状態に する。",
+        ko: "영혼을 빨아들여 태운다.\n불꽃을 흔들어서 상대를\n최면 상태로 만든다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Ehemalige Freunde",
                 "pt-br": "Amigos anteriores",
                 "zh-tw": "過去的朋友",
-                ja: "デッドストック"
+                ja: "デッドストック",
+                ko: "데드스톡"
             },
             damage: "60+",
             cost: ["Psychic", "Psychic"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dieser Angriff verursacht 20 weitere Schadenspunkte für jede Unterstützerkarte in deinem Ablagestapel.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada carta de Apoiador em sua pilha de descarte.",
                 "zh-tw": "此攻擊對你的棄牌堆中每張支持者卡造成 20 點額外傷害。",
-                ja: "自分のトラッシュにあるサポートの枚数×20ダメージ追加。"
+                ja: "自分のトラッシュにあるサポートの枚数×20ダメージ追加。",
+                ko: "자신의 트래쉬에 있는 서포트의 장수 × 20데미지를 추가한다."
             }
         }],
     weaknesses: [{

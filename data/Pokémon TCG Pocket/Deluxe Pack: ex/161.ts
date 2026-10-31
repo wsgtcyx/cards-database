@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/161",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/161",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/161",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/161"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/161",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/161"
 	},
 	name: {
 		en: "Misdreavus",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Traunfugil",
 		"pt-br": "Misdreavus",
 		"zh-tw": "夢妖",
-		ja: "ムウマ"
+		ja: "ムウマ",
+		ko: "무우마"
 	},
 	illustrator: "Sumiyoshi Kizuki",
 	rarity: "One Diamond",

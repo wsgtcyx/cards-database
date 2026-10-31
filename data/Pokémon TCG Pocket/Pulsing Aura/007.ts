@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/007"
     },
     name: {
         en: "Sceptile",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es huscht flink durch den Dschungel und nutzt die scharfkantigen Blätter an seinen Armen, um seine Beute zu erlegen.",
         "pt-br": "Ele voa agilmente pela selva e usa as folhas afiadas de seus braços para abater suas presas.",
         "zh-tw": "它敏捷地飛過叢林，利用手臂上鋒利的葉子砍倒獵物。",
-        ja: "ジャングルを 身軽に 走り回り 腕に 生えた 切れ味 鋭い 葉っぱで 獲物を しとめるのだ。"
+        ja: "ジャングルを 身軽に 走り回り 腕に 生えた 切れ味 鋭い 葉っぱで 獲物を しとめるのだ。",
+        ko: "정글을 가볍게 뛰어\n팔에 자란 예리하며 잘 드는 잎날로\n먹이를 꼼짝 못 하게 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Laubklinge",
                 "pt-br": "Lâmina de Folha",
                 "zh-tw": "葉刃",
-                ja: "リーフブレード"
+                ja: "リーフブレード",
+                ko: "리프블레이드"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 50 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
-                ja: "コインを1回投げオモテなら、50ダメージ追加。"
+                ja: "コインを1回投げオモテなら、50ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다."
             },
             damage: "70+"
         }

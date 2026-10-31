@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/134",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/134",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/134",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/134"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/134",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/134"
     },
     name: {
         en: "Skitty",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird.",
         "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto",
         "zh-tw": "有時會展現出追著自己的尾巴玩，\n但玩著玩著就會頭昏眼花的可愛一面。",
-        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。"
+        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。",
+        ko: "자신의 꼬리를 쫓아서\n놀고 있으면 눈이 핑 돌고 마는\n귀여운 일면을 보인다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Charme",
                 "pt-br": "Encantar",
                 "zh-tw": "撒嬌",
-                ja: "あまえる"
+                ja: "あまえる",
+                ko: "애교부리기"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu.",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }
     ],

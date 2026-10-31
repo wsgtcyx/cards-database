@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/056"
     },
     name: {
         en: "Archaludon",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Auf der Suche nach Futter gräbt es in den Bergen Löcher. Es ist so robust, dass es ihm auch nichts ausmacht, wenn diese über ihm einstürzen.",
         "pt-br": "Cava buracos em montanhas em busca de comida. É tão robusto que, mesmo que fique preso em uma caverna, não ficará incomodado.",
         "zh-tw": "會在山裡挖洞來尋找食物。身體非常堅硬，即使遇到洞穴坍塌也絲毫不會在意。",
-        ja: "山中で 穴を 掘り エサを 探す。 落盤に 巻きこまれても へっちゃらなくらい 頑丈。※ ブルーベリー学園での冒険で出会うことができます。"
+        ja: "山中で 穴を 掘り エサを 探す。 落盤に 巻きこまれても へっちゃらなくらい 頑丈。※ ブルーベリー学園での冒険で出会うことができます。",
+        ko: "산속에서 굴을 파며 먹이를 찾는다.\n낙반에 휩쓸려도\n아무렇지 않을 정도로 튼튼하다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Schützender Sturmangriff",
                 "pt-br": "Carga Protetora",
                 "zh-tw": "防護充能",
-                ja: "プロテクトチャージ"
+                ja: "プロテクトチャージ",
+                ko: "프로텍트차지"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -30 damage from attacks.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken -30 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -30 pontos de dano de ataques.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害-30點。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다."
             },
             damage: 110
         }

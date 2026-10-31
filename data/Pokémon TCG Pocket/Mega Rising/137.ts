@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/137",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/137",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/137"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/137",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/137"
     },
     name: {
         en: "Terrakion",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Terrakion",
         "zh-tw": "代拉基翁",
         ja: "テラキオン",
+        ko: "테라키온",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es hat eine phänomenale Kraft. Es wird gnadenlos zermalmen\nirgendjemand oder irgendetwas, das kleine Pokémon schikaniert.",
         "pt-br": "Tem um poder fenomenal. Ele irá esmagar impiedosamente\nqualquer pessoa ou qualquer coisa que intimide pequenos Pokémon.",
         "zh-tw": "它具有驚人的力量。它將無情地碾壓\n任何欺負小神奇寶貝的人或事物。",
-        ja: "けた外れの パワーの 持ち主。 小さな ポケモンを いじめる 相手は とことん 叩きのめす。"
+        ja: "けた外れの パワーの 持ち主。 小さな ポケモンを いじめる 相手は とことん 叩きのめす。",
+        ko: "차원이 다른 파워의 소유자.\n작은 포켓몬을 괴롭히는\n상대는 철저히 때려눕힌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
                 "zh-tw": "聖劍",
-                ja: "せいなるつるぎ"
+                ja: "せいなるつるぎ",
+                ko: "성스러운칼"
             },
             damage: 110,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -59,13 +63,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
-                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。",
+                ko: "자신의 다음 차례에 이 포켓몬은 「성스러운칼」을 사용할 수 없다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

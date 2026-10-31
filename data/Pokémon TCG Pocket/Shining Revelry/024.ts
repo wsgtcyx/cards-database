@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/024"
     },
     name: {
         en: "Electrode",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Voltobal",
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
-        ja: "ビリリダマ"
+        ja: "ビリリダマ",
+        ko: "찌리리공"
     },
     description: {
         en: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",

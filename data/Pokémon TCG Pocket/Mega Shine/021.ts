@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/021"
     },
     name: {
         en: "Phione",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Lässt sich in warmen Meeren treiben, kehrt aber immer\nan den Platz seiner Geburt zurück.",
         "pt-br": "Ele flutua em mares quentes. Ele sempre retorna ao lugar onde nasceu, não importa o quão longe tenha ido.",
         "zh-tw": "它在溫暖的海洋中漂流。無論漂流多遠，它總會回到它誕生的地方。",
-        ja: "暖かい 海を 漂っている。 どんな 遠くに 流されても 生まれた 場所に かならず戻る。"
+        ja: "暖かい 海を 漂っている。 どんな 遠くに 流されても 生まれた 場所に かならず戻る。",
+        ko: "따뜻한 바다를 떠돌고 있다.\n아무리 먼 곳으로 흘러가도\n태어난 장소로 반드시 돌아온다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Wasser-Turbo",
                 "pt-br": "Aqua Turbo",
                 "zh-tw": "水流渦輪",
-                ja: "アクアターボ"
+                ja: "アクアターボ",
+                ko: "아쿠아터보"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner {W}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {W} no Banco.",
                 "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只 {W} 寶可夢上。",
-                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチの{W}ポケモンにつける。"
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチの{W}ポケモンにつける。",
+                ko: "자신의 에너지존에서 {W}에너지를 1개 내보내 벤치의 {W} 포켓몬에게 붙인다."
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/008",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/008"
     },
     name: {
         en: "Trevenant",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
         ja: "ボクレー",
+        ko: "나목령",
     },
     description: {
         en: "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",

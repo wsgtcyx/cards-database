@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/127",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/127",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/127"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/127",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/127"
     },
     name: {
         en: "Klang",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Klang",
         "zh-tw": "齒輪組",
         ja: "ギギアル",
+        ko: "기기어르",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Klink",
         "zh-tw": "齒輪兒",
         ja: "ギアル",
+        ko: "기어르",
     },
     description: {
         en: "When Klang goes all out, the minigear links up\nperfectly with the outer part of the big gear, and\nthis Pokémon's rotation speed increases sharply.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn der Klang aufs Ganze geht, schaltet sich das Mini-Getriebe ein\nperfekt mit dem äußeren Teil des großen Zahnrads und\nDie Rotationsgeschwindigkeit dieses Pokémon erhöht sich stark.",
         "pt-br": "Quando Klang dá tudo de si, o minigear se conecta\nperfeitamente com a parte externa da engrenagem grande, e\na velocidade de rotação deste Pokémon aumenta drasticamente.",
         "zh-tw": "當巴生全力以赴時，迷你齒輪聯動起來\n與大齒輪的外部完美配合，並且\n該寶可夢的旋轉速度急劇增加。",
-        ja: "本気の ときは でかギアの 外の 歯車と ちびギアが 合致。 回転速度が 飛躍 するのだ。"
+        ja: "本気の ときは でかギアの 外の 歯車と ちびギアが 合致。 回転速度が 飛躍 するのだ。",
+        ko: "전력을 다할 때는 왕기어의\n바깥쪽 톱니와 꼬마기어가 맞물린다.\n회전 속도를 빠르게 하기 위함이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zahnradschneider",
                 "pt-br": "Cortador de engrenagem",
                 "zh-tw": "齒輪銑刀",
-                ja: "ギアカッター"
+                ja: "ギアカッター",
+                ko: "기어커터"
             },
             damage: 40,
             cost: ["Metal", "Colorless"]

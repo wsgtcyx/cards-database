@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/056",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/056"
     },
     name: {
         en: "Mawile",

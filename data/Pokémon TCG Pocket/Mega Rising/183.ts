@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/183",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/183",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/183",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/183"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/183",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/183"
     },
     name: {
         en: "Tauros ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tauros ex",
         "zh-tw": "肯泰羅ex",
         ja: "ケンタロスex",
+        ko: "켄타로스 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Wildes Tackle",
                 "pt-br": "Equipamento Selvagem",
                 "zh-tw": "狂野鏟球",
-                ja: "ワイルドタックル"
+                ja: "ワイルドタックル",
+                ko: "와일드태클"
             },
             damage: 90,
             cost: ["Colorless", "Colorless"],
@@ -50,13 +53,17 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 30 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 30 de dano a si mesmo.",
                 "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 30 點傷害。",
-                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。"
+                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게도 30데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

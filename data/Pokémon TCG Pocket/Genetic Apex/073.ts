@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/073",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/073",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/073"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/073",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/073"
     },
     name: {
         en: "Seaking",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Goldini",
         "pt-br": "Goldeen",
         "zh-tw": "角金魚",
-        ja: "トサキント"
+        ja: "トサキント",
+        ko: "콘치"
     },
     attacks: [{
             cost: ["Water"],

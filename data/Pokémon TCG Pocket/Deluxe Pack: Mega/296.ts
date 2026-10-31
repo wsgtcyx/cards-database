@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/296",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/296",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/296",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/296"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/296",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/296"
     },
     name: {
         en: "Flaaffy",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
         ja: "メリープ",
-        ko: "Mareep"
+        ko: "메리프"
     },
     description: {
         en: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Consegue armazenar grandes quantidades de energia em seu pelo porque sua pele elástica é resistente à eletricidade.",
         "zh-tw": "如同橡膠般光滑的皮膚並不導電，但體毛卻很容易蓄電。",
         ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。",
-        ko: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur."
+        ko: "전기가 통하지 않는 맨살은\n고무처럼 매끈하지만\n털은 전기를 모으기 쉽다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Murro Elétrico",
                 "zh-tw": "麻麻拳",
                 ja: "ビリリパンチ",
-                ko: "Electric Punch"
+                ko: "찌리리펀치"
             },
             damage: 40,
             cost: [

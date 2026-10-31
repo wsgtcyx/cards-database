@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/005"
     },
     name: {
         en: "Roserade",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Roserade",
         "pt-br": "Roserade",
         "zh-tw": "羅絲雷朵",
-        ja: "ロズレイド"
+        ja: "ロズレイド",
+        ko: "로즈레이드"
     },
     illustrator: "chibi",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Roselia",
         "pt-br": "Roselia",
         "zh-tw": "毒薔薇",
-        ja: "ロゼリア"
+        ja: "ロゼリア",
+        ko: "로젤리아"
     },
     description: {
         en: "The poison in its right hand is quick acting.\nThe poison in its left hand is slow acting.\nBoth are life threatening.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Das Gift in seiner rechten Hand wirkt schnell.\nDas Gift in seiner linken Hand wirkt langsam.\nBeides ist lebensgefährlich.",
         "pt-br": "O veneno em sua mão direita atua rapidamente.\nO veneno em sua mão esquerda tem ação lenta.\nAmbos são fatais.",
         "zh-tw": "右手的毒藥起效很快。\n左手的毒藥起效緩慢。\n兩人都有生命危險。",
-        ja: "右手の 毒は 即効性。 左手の 毒は 遅効性。 どちらも 命に かかわるぞ。"
+        ja: "右手の 毒は 即効性。 左手の 毒は 遅効性。 どちらも 命に かかわるぞ。",
+        ko: "오른손의 독은 즉효성이고\n왼손의 독은 지효성을 띠고 있다.\n양쪽 모두 생명에 지장을 준다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Giftring",
                 "pt-br": "Anel Venenoso",
                 "zh-tw": "毒環",
-                ja: "ポイズンサークル"
+                ja: "ポイズンサークル",
+                ko: "포이즌서클"
             },
             damage: 50,
             cost: ["Grass", "Grass"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Während des nächsten Zuges deines Gegners kann sich dieses Pokémon nicht zurückziehen.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado. Durante o próximo turno do seu oponente, esse Pokémon não poderá recuar.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。在對手的下一個回合中，該寶可夢不能撤退。",
-                ja: "相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴를 할 수 없다."
             }
         }],
     weaknesses: [{

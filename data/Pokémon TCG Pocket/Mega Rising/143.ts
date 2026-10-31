@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/143",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/143",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/143"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/143",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/143"
     },
     name: {
         en: "Sandygast",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
         ja: "スナバァ",
+        ko: "모래꿍",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wirft Sand in die Augen seiner Beute und versucht es auch\nNähere dich ihnen, während sie geblendet sind, aber seitdem\nSandygast ist so langsam, dass die Beute dazu neigt, zu entkommen.",
         "pt-br": "Ele joga areia nos olhos de sua presa e tenta\naproxime-se deles enquanto estão cegos, mas desde\nSandygast é tão lento que a presa tende a escapar.",
         "zh-tw": "它把沙子扔進獵物的眼睛裡，並試圖\n在他們失明的時候接近他們，但自從\n桑迪加斯特行動緩慢，獵物往往會逃跑。",
-        ja: "獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。"
+        ja: "獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。",
+        ko: "모래로 먹잇감의 눈을 멀게 하고\n그 틈에 접근하려 하지만\n움직임이 느려서 놓치고 만다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Sandangriff",
                 "pt-br": "Ataque de Areia",
                 "zh-tw": "沙土襲擊",
-                ja: "すなかけ"
+                ja: "すなかけ",
+                ko: "모래뿌리기"
             },
             damage: 20,
             cost: ["Fighting", "Colorless"],
@@ -59,13 +63,19 @@ const card: Card = {
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
                 "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
-                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria",
+		"mega-blaziken",
+		"mega-gyarados"
+	]
 };
 export default card;

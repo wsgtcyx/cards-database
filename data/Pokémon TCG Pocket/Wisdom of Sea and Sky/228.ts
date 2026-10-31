@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/228",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/228",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/228",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/228"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/228",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/228"
     },
     name: {
         en: "Nidoking",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Nidoking",
         "zh-tw": "尼多王",
         ja: "ニドキング",
+        ko: "니드킹",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Nidorino",
         "zh-tw": "尼多力諾",
         ja: "ニドリーノ",
+        ko: "니드리노",
     },
     description: {
         en: "When it goes on a rampage, it's impossible to\ncontrol. But in the presence of a Nidoqueen it's\nlived with for a long time, Nidoking calms down.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es tobt, ist das unmöglich\nKontrolle. Aber in der Gegenwart einer Nidoqueen ist es so\nNidoking, mit dem er lange zusammenlebte, beruhigt sich.",
         "pt-br": "Quando fica furioso, é impossível\ncontrole. Mas na presença de uma Nidoqueen é\nconviveu por muito tempo, Nidoking se acalma.",
         "zh-tw": "當它狂暴起來時，就不可能了\n控制。但在尼多女王面前\n相處久了，尼多金平靜下來。",
-        ja: "暴れると 手が つけられなくなるが 長年 連れ添った ニドクインの 前では 穏やかな 顔に なる。"
+        ja: "暴れると 手が つけられなくなるが 長年 連れ添った ニドクインの 前では 穏やかな 顔に なる。",
+        ko: "날뛰기 시작하면 손쓸 수 없게 되지만\n긴 세월 함께 지낸 니드퀸\n앞에서는 온순해진다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Gifthorn",
                 "pt-br": "Chifre Venenoso",
                 "zh-tw": "毒角",
-                ja: "どくのつの"
+                ja: "どくのつの",
+                ko: "독뿔"
             },
             damage: 90,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
-                ja: "相手のバトルポケモンをどくにする。"
+                ja: "相手のバトルポケモンをどくにする。",
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/086"
     },
     name: {
         en: "Magnezone ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
         ja: "レアコイル",
-        ko: "Magneton"
+        ko: "레어코일"
     },
     stage: "Stage2",
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Lâmina Tempestuosa",
                 "zh-tw": "雷霆利刃",
                 ja: "いかずちのやいば",
-                ko: "Storm Blade"
+                ko: "우뢰의검"
             },
             effect: {
                 en: "Discard a {L} Energy from this Pokémon.",
@@ -73,7 +74,7 @@ const card: Card = {
                 "pt-br": "Descarte 1 Energia {L} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{L}能量丟棄。",
                 ja: "このポケモンから{L}エネルギーを1個トラッシュ。",
-                ko: "Discard a {L} Energy from this Pokémon."
+                ko: "이 포켓몬에서 {L}에너지를 1개 트래쉬한다."
             },
             damage: 130
         }

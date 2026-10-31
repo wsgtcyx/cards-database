@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/034"
     },
     name: {
         en: "Marshtomp",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Moorabbel",
         "pt-br": "Marshtomp",
         "zh-tw": "沼躍魚",
-        ja: "ヌマクロー"
+        ja: "ヌマクロー",
+        ko: "늪짱이"
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Hydropi",
         "pt-br": "Mudkip",
         "zh-tw": "水躍魚",
-        ja: "ミズゴロウ"
+        ja: "ミズゴロウ",
+        ko: "물짱이"
     },
     description: {
         en: "It is at its best when on muddy ground that offers\npoor footing. It quickly overwhelms opponents\nthat are bogged down and unable to move.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es ist am besten, wenn es sich auf schlammigem Untergrund befindet\nschlechter Stand. Es überwältigt Gegner schnell\ndie festsitzen und sich nicht bewegen können.",
         "pt-br": "Está no seu melhor quando em terreno lamacento que oferece\npéssimos pés. Ele rapidamente domina os oponentes\nque estão atolados e incapazes de se mover.",
         "zh-tw": "當在泥濘的地面上時它是最好的\n立足點差。很快就壓倒了對手\n陷入困境無法移動。",
-        ja: "ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。"
+        ja: "ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。",
+        ko: "질퍽거리는 곳에서 진가를 드러낸다.\n제대로 움직일 수 없는 상대를\n단숨에 몰아붙인다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Surfen",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

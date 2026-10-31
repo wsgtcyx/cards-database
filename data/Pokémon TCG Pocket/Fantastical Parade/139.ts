@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/139",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/139",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/139"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/139",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/139"
     },
     name: {
         en: "Bunnelby",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Scoppel",
         "pt-br": "Bunnelby",
         "zh-tw": "掘掘兔",
-        ja: "ホルビー"
+        ja: "ホルビー",
+        ko: "파르빗"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist sehr empfindlich gegenüber Gefahren. Der Klang von\nCorviknights Flattern wird Bunnelby haben\nIn wenigen Augenblicken ein Loch graben, um sich unter der Erde zu verstecken.",
         "pt-br": "É muito sensível ao perigo. O som de\nAs batidas de Corviknight terão Bunnelby\ncavar um buraco para se esconder no subsolo em instantes.",
         "zh-tw": "它對危險非常敏感。的聲音\n科維克奈特的撲翼將讓邦內爾比\n瞬間挖個洞躲到地下。",
-        ja: "危険に 敏感。 アーマーガアの 羽音を 聴きとると あっという間に 穴を 掘って 地面に 潜る。"
+        ja: "危険に 敏感。 アーマーガアの 羽音を 聴きとると あっという間に 穴を 掘って 地面に 潜る。",
+        ko: "위험에 민감하다. 아머까오의\n날갯소리를 들으면 눈 깜짝할 사이에\n구멍을 파고 땅으로 숨어든다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Nagen",
                 "pt-br": "Roer",
                 "zh-tw": "啃",
-                ja: "かじる"
+                ja: "かじる",
+                ko: "갉기"
             },
             damage: 20,
             cost: ["Colorless"]

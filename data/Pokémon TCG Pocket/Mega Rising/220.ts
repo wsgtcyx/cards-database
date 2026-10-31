@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/220",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/220",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/220"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/220",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/220"
     },
     name: {
         en: "Lucky Mittens",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Luvas Sortudas",
         "zh-tw": "幸運手套",
         ja: "ラッキーミトン",
+        ko: "럭키미튼",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Immer wenn das Pokémon deines Gegners durch Schaden durch einen Angriff des Pokémon, an das diese Karte angelegt ist, kampfunfähig wird, ziehe eine Karte.",
         "pt-br": "Sempre que o Pokémon do seu oponente for Nocauteado pelo dano de um ataque usado pelo Pokémon ao qual esta carta está ligada, compre uma carta.",
         "zh-tw": "每當對手的寶可夢因這張卡所附著的寶可夢的攻擊而被擊倒時，抽一張卡。",
-        ja: "このカードをつけているポケモンが使うワザのダメージで、相手のポケモンがきぜつするたび、自分の山札を1枚引く。"
+        ja: "このカードをつけているポケモンが使うワザのダメージで、相手のポケモンがきぜつするたび、自分の山札を1枚引く。",
+        ko: "이 카드를 붙이고 있는 포켓몬이 사용하는 기술의 데미지로 상대의 포켓몬이 기절할 때마다 자신의 덱을 1장 뽑는다."
     },
-    trainerType: "Tool"
+    trainerType: "Tool",
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

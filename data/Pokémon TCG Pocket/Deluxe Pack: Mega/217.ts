@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/217",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/217",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/217"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/217",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/217"
     },
     name: {
         en: "Korrina",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Durante este turno, os ataques usados pelos seus Pokémon {F} causam +30 pontos de dano ao Pokémon ex Ativo do seu oponente.",
         "zh-tw": "在這個回合,自己的{F}寶可夢使用的招式,對對手的戰鬥場的「寶可夢ex」造成的傷害+30點。",
         ja: "この番、自分の{F}ポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージを+30する。",
-        ko: "During this turn, attacks used by your {F} Pokémon do +30 damage to your opponent's Active Pokémon ex."
+        ko: "이 차례에 자신의 {F}포켓몬이 사용하는 기술이 상대 배틀필드의 「포켓몬 ex」에게 주는 데미지를 +30한다."
     },
     trainerType: "Supporter"
 };

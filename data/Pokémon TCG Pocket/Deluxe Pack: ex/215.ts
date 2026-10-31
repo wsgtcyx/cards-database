@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/215",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/215",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/215",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/215"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/215",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/215"
 	},
 	name: {
 		en: "Gallade ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Galagladi-ex",
 		"pt-br": "Gallade ex",
 		"zh-tw": "艾路雷朵ex",
-		ja: "エルレイドex"
+		ja: "エルレイドex",
+		ko: "엘레이드 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Kirlia",
 		"pt-br": "Kirlia",
 		"zh-tw": "奇魯莉安",
-		ja: "キルリア"
+		ja: "キルリア",
+		ko: "킬리아"
 	},
 	stage: "Stage2",
 	suffix: "EX",

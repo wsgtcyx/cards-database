@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/031",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/031"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/031",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/031"
     },
     name: {
         en: "Carbink",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es heißt, irgendwo auf der Welt gäbe es eine\nGesteinsader aus schlafenden Rocara. Dort soll\nman auch ihre Königin antreffen können.",
         "pt-br": "Diz-se que em algum lugar do mundo existe um veio mineral que abriga um grande pacote de Carbink adormecidos. Também é dito que este bando tem uma rainha.",
         "zh-tw": "據說在世界的某處，有個\n沉睡著許多小碎鑽的礦床，\n群體的女王也在那裡。",
-        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。"
+        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。",
+        ko: "세상 어딘가에는 멜리시가\n많이 잠들어 있는 광맥이 있고\n무리의 여왕도 있다고 한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Glitzerndes Geschenk",
                 "pt-br": "Presente brilhante",
                 "zh-tw": "璀璨禮物",
-                ja: "きらめくおくりもの"
+                ja: "きらめくおくりもの",
+                ko: "반짝이는소포"
             },
             effect: {
                 en: "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a {P} Energy from your Energy Zone and attach it to that Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wähle 2 deiner Bank-Pokémon. Nimm für jedes dieser Pokémon eine {P}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Escolha 2 dos seus Pokémon no Banco. Para cada um desses Pokémon, pegue uma Energia {P} da sua Zona de Energia e ligue-a àquele Pokémon.",
                 "zh-tw": "選擇 2 個後備寶可夢。對於每個寶可夢，從你的能量區域獲取一個 {P} 能量並將其附加到該寶可夢上。",
-                ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{P}エネルギーを出し、1個ずつつける。"
+                ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{P}エネルギーを出し、1個ずつつける。",
+                ko: "자신의 벤치 포켓몬을 2마리 선택해서 에너지존에서 {P}에너지를 내보내 1개씩 붙인다."
             }
         }
     ],

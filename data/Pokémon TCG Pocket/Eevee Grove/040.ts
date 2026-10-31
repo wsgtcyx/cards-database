@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/040",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/040",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/040"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/040",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/040"
     },
     name: {
         en: "Mienfoo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
         ja: "コジョフー",
+        ko: "비조푸",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In einer Minute kann ein gut trainierter Mienfoo hacken\nmit seinen Armen mehr als 100 Mal.",
         "pt-br": "Em um minuto, um Mienfoo bem treinado pode cortar\ncom os braços mais de 100 vezes.",
         "zh-tw": "一分鐘內，訓練有素的 Mienfoo 就可以砍\n手臂轉動超過100次。",
-        ja: "よく鍛えられた コジョフーは １分で １００回を 超える チョップを 打つことが できる。"
+        ja: "よく鍛えられた コジョフーは １分で １００回を 超える チョップを 打つことが できる。",
+        ko: "잘 단련된 비조푸는\n1분에 100회 이상\n촙 공격을 할 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Kick-Shot",
                 "pt-br": "Chute",
                 "zh-tw": "踢球",
-                ja: "いっぱつげり"
+                ja: "いっぱつげり",
+                ko: "한방차기"
             },
             damage: 40,
             cost: ["Fighting"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
-                ja: "コインを1回投げウラなら、このワザは失敗。"
+                ja: "コインを1回投げウラなら、このワザは失敗。",
+                ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

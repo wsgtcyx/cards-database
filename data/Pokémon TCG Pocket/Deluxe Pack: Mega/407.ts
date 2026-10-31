@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/407",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/407",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/407",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/407"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/407",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/407"
     },
     name: {
         en: "Dratini",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Nasce com um corpo grande e troca de pele repetidamente à medida que cresce.",
         "zh-tw": "從出生開始就已經很大一隻。在反覆蛻皮的成長過程中，身體會變得越來越長。",
         ja: "生まれたときから すでに 大きい。 脱皮を 繰り返しては どんどん 育って 長くなる。",
-        ko: "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer."
+        ko: "태어났을 때부터 이미 크다.\n탈피를 반복해서\n점점 자라나 길어진다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "zh-tw": "摔打",
                 "pt-br": "Pancada Brusca",
                 ja: "たたきつける",
-                ko: "Slam"
+                ko: "힘껏치기"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
                 ja: "コインを2回投げ、オモテの数×20ダメージ。",
-                ko: "Flip 2 coins. This attack does 20 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다."
             },
             damage: "20x"
         }

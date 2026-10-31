@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/056"
     },
     name: {
         en: "Teddiursa",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine Pfoten sind in Unmengen Honig getränkt. Wenn er nervös ist, leckt sich Teddiursa die Pfoten und hat bald wieder ein Lächeln im Gesicht.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando nervoso, Teddiursa lamberá as patas e logo terá um sorriso no rosto.",
         "zh-tw": "它的爪子浸滿了蜂蜜。緊張時，熊寶寶 會舔爪子，很快臉上就會露出笑容。",
-        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。",
+        ko: "손바닥에는 달콤한 꿀이\n잔뜩 배어들어 있다.\n불안할 때 손바닥을 핥으면 웃게 된다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Charme",
                 "pt-br": "Encantar",
                 "zh-tw": "撒嬌",
-                ja: "あまえる"
+                ja: "あまえる",
+                ko: "애교부리기"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon -20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
                 "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊造成-20點傷害。",
-                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다."
             }
         }
     ],

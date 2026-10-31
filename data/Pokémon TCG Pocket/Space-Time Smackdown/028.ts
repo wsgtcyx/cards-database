@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/028",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/028",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/028"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/028",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/028"
     },
     name: {
         en: "Monferno",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Chimchar",
         "zh-tw": "小火焰猴",
         ja: "ヒコザル",
+        ko: "불꽃숭이",
     },
     description: {
         en: "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",

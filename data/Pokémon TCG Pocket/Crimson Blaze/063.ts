@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/063"
     },
     name: {
         en: "Lopunny",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Schlapor",
         "pt-br": "Lopunny",
         "zh-tw": "長耳兔",
-        ja: "ミミロップ"
+        ja: "ミミロップ",
+        ko: "이어롭"
     },
     illustrator: "Ryuta Fuse",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Haspiror",
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
-        ja: "ミミロル"
+        ja: "ミミロル",
+        ko: "이어롤"
     },
     description: {
         en: "Once hot seasons are over, Lopunny's coat will\nbe replaced with fur that holds a lot of insulating\nair in preparation for colder weather.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sobald die heiße Jahreszeit vorbei ist, wird Lopunnys Fell vorbei sein\ndurch Fell ersetzt werden, das viel Isolierung enthält\nLuft zur Vorbereitung auf kälteres Wetter.",
         "pt-br": "Quando as estações quentes acabarem, o casaco de Lopunny\nser substituído por pele que contenha muito isolamento\nar em preparação para um clima mais frio.",
         "zh-tw": "一旦炎熱的季節結束，垂耳兔的外套就會\n被替換為具有大量隔熱功能的毛皮\n空氣，為寒冷的天氣做準備。",
-        ja: "暑い 季節が 終わると 空気を たくさん 含んだ 体毛に 生え変わり 寒さに 備える。"
+        ja: "暑い 季節が 終わると 空気を たくさん 含んだ 体毛に 生え変わり 寒さに 備える。",
+        ko: "더운 계절이 끝나면 공기를\n많이 머금은 털로 털갈이를 하여\n추위에 대비한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Doppelter Tritt",
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
-                ja: "にどげり"
+                ja: "にどげり",
+                ko: "두번차기"
             },
             damage: "50×",
             cost: ["Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 50 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 50 點傷害。",
-                ja: "コインを2回投げ、オモテの数×50ダメージ。"
+                ja: "コインを2回投げ、オモテの数×50ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다."
             }
         }],
     weaknesses: [{

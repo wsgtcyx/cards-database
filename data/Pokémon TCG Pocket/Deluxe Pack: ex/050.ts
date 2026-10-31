@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/050",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/050"
     },
     name: {
         en: "Sprigatito",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sprigatito",
         "zh-tw": "新葉喵",
         ja: "ニャオハ",
+        ko: "나오하",
     },
     illustrator: "mashu",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein flauschiges Fell ähnelt in seiner Zusammensetzung Pflanzen.\nDieses Pokémon wäscht häufig sein Gesicht, um es zu behalten\nes vor dem Austrocknen.",
         "pt-br": "Seu pelo fofo tem composição semelhante à das plantas.\nEste Pokémon lava frequentemente o rosto para manter\nevitar que seque.",
         "zh-tw": "它蓬鬆的皮毛與植物的成分相似。\n這只神奇寶貝經常洗臉以保持健康\n防止它變乾。",
-        ja: "フワフワの 体毛は 植物に 近い 成分。 こまめに 顔を 洗って 乾燥を 防ぐ。"
+        ja: "フワフワの 体毛は 植物に 近い 成分。 こまめに 顔を 洗って 乾燥を 防ぐ。",
+        ko: "복슬복슬한 털은 식물에 가까운 성분으로\n이루어져 있다. 수시로 세수를 하면서\n건조해지는 것을 방지한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Hilferuf",
                 "pt-br": "Clame por ajuda",
                 "zh-tw": "求救",
-                ja: "ともだちをよぶ"
+                ja: "ともだちをよぶ",
+                ko: "친구부르기"
             },
             cost: ["Grass"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。",
-                ja: "自分の山札から{G}ポケモンをランダムに1枚、手札に加える。"
+                ja: "自分の山札から{G}ポケモンをランダムに1枚、手札に加える。",
+                ko: "자신의 덱에서 {G}포켓몬을 랜덤으로 1장 패로 가져온다."
             }
         }],
     weaknesses: [{

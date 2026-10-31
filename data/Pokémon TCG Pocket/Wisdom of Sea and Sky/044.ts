@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/044",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/044"
     },
     name: {
         en: "Magikarp",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "コイキング"
+        ja: "コイキング",
+        ko: "잉어킹"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein schwaches, erbärmliches Pokémon. Es kann sein\nSpringe in seltenen Fällen hoch, aber nie öfter\nals sieben Fuß.",
         "pt-br": "Um Pokémon patético e pouco poderoso. Pode\npular alto em raras ocasiões, mas nunca mais\ndo que sete pés.",
         "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。",
-        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。"
+        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。",
+        ko: "힘없는 한심한 포켓몬이다.\n가끔 높이 뛰어오르지만\n2m를 겨우 넘기는 게 고작이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spritzender Dodge",
                 "pt-br": "Salpicos de esquiva",
                 "zh-tw": "潑水道奇",
-                ja: "はねてかわす"
+                ja: "はねてかわす",
+                ko: "튀어올라 피하기"
             },
             damage: 10,
             cost: ["Water"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다."
             }
         }],
     weaknesses: [{

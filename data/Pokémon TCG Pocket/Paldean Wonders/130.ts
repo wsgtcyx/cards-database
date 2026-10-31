@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/130"
     },
     name: {
         en: "Baxcalibur",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Baxcalibur",
         "zh-tw": "戟脊龍",
         ja: "セグレイブ",
+        ko: "드닐레이브",
         pt: "Baxcalibur"
     },
     illustrator: "PLANETA Igarashi",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Arctibax",
         "zh-tw": "凍脊龍",
         ja: "セゴール",
+        ko: "드니꽁",
         pt: "Arctibax"
     },
     stage: "Stage2",
@@ -49,7 +52,8 @@ const card: Card = {
         "de": "Es stürzt sich in die Schlacht, indem es sich auf den Kopf dreht und eiskalte Luft aus seinem Mund spuckt. Es erledigt Gegner mit seiner Rückenklinge.",
         "pt-br": "Ele se lança na batalha virando de cabeça para baixo e expelindo ar gelado pela boca. Ele acaba com os oponentes com sua lâmina dorsal.",
         "zh-tw": "它透過翻轉並從嘴裡噴出寒冷的空氣來投入戰鬥。它用背刃消滅對手。",
-        ja: "逆さまになり 口から 冷気を 吹きだす 力で 突進。 背びれの剣で 敵を 仕留める。"
+        ja: "逆さまになり 口から 冷気を 吹きだす 力で 突進。 背びれの剣で 敵を 仕留める。",
+        ko: "물구나무선 채 입으로 냉기를 뿜어내서\n그 추진력으로 돌진하고는\n등지느러미의 검으로 적을 처치한다."
     },
     abilities: [
         {
@@ -62,7 +66,8 @@ const card: Card = {
                 "de": "Eismaschine",
                 "pt-br": "Máquina de fazer gelo",
                 "zh-tw": "製冰機",
-                ja: "アイスメーカー"
+                ja: "アイスメーカー",
+                ko: "아이스 메이커"
             },
             effect: {
                 en: "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot.",
@@ -72,7 +77,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du eine Wasser-Energie aus deiner Energiezone nehmen und sie an das Wasser-Pokémon an der aktiven Stelle anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia Água da sua Zona de Energia e anexá-la ao Pokémon Água no Ponto Ativo.",
                 "zh-tw": "在你的回合中，你可以從你的能量區域取出一個水能量並將其附加到戰鬥場的水寶可夢上。",
-                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、バトル場の{W}ポケモンにつける。"
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、バトル場の{W}ポケモンにつける。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {W}에너지를 1개 내보내 배틀필드의 {W}포켓몬에게 붙인다."
             },
         },
     ],
@@ -87,6 +93,7 @@ const card: Card = {
                 "pt-br": "Cauda Buster",
                 "zh-tw": "巴斯特尾巴",
                 ja: "バスターテール",
+                ko: "버스터테일",
                 pt: "Cauda Aniquiladora"
             },
             damage: "90",

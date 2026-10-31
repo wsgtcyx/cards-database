@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/179",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/179",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/179"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/179",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/179"
     },
     name: {
         en: "Goodra",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Goodra",
         "zh-tw": "黏美龍",
         ja: "ヌメルゴン",
+        ko: "미끄래곤",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Sliggoo",
         "zh-tw": "黏美兒",
         ja: "ヌメイル",
+        ko: "미끄네일",
     },
     description: {
         en: "This Pokémon is uncontrollable when enraged.\nIt rampages on and on, lashing its tail with\nenough power to send a dump truck flying.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist unkontrollierbar, wenn es wütend ist.\nEs tobt immer weiter und peitscht mit dem Schwanz\ngenug Leistung, um einen Muldenkipper in die Luft zu jagen.",
         "pt-br": "Este Pokémon é incontrolável quando enfurecido.\nEle ataca sem parar, chicoteando sua cauda com\nenergia suficiente para fazer um caminhão basculante voar.",
         "zh-tw": "該寶可夢在憤怒時無法控制。\n它不斷地狂暴，用尾巴鞭打著\n足夠的動力讓自卸卡車飛起來。",
-        ja: "怒りだすと 手がつけられなくなる。 ダンプカーを 跳ね飛ばす 威力の 尻尾 攻撃で 暴れまくる。"
+        ja: "怒りだすと 手がつけられなくなる。 ダンプカーを 跳ね飛ばす 威力の 尻尾 攻撃で 暴れまくる。",
+        ko: "화를 내면 손을 쓸 수 없게 된다.\n덤프트럭을 날려 버릴 정도의 위력을 가진\n꼬리로 공격하며 마구 날뛴다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Spiralablauf",
                 "pt-br": "Dreno Espiral",
                 "zh-tw": "螺旋排水管",
-                ja: "スパイラルドレイン"
+                ja: "スパイラルドレイン",
+                ko: "스파이럴 드레인"
             },
             damage: 100,
             cost: ["Water", "Psychic", "Colorless"],
@@ -69,9 +74,13 @@ const card: Card = {
                 "de": "Heile 40 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 40 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 40 點傷害。",
-                ja: "このポケモンのHPを40回復。"
+                ja: "このポケモンのHPを40回復。",
+                ko: "이 포켓몬의 HP를 40회복."
             }
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

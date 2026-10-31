@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/172",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/172",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/172"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/172",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/172"
     },
     name: {
         en: "Falinks",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Legios",
         "pt-br": "Falinks",
         "zh-tw": "列陣兵",
-        ja: "タイレーツ"
+        ja: "タイレーツ",
+        ko: "대여르"
     },
     illustrator: "okayamatakatoshi",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Anführer, bekannt als Brass, verwendet seine\nausfahrbares Horn, um den anderen Befehle zu erteilen\nwenn es Zeit ist, die Formation zu ändern.",
         "pt-br": "O líder, conhecido como latão, usa seu\nbuzina extensível para dar ordens aos outros\nquando é hora de mudar a formação.",
         "zh-tw": "領導者，被稱為黃銅，使用它的\n可伸縮喇叭向其他人發出命令\n當需要改變陣型的時候。",
-        ja: "伸縮する ツノで ヘイチョーと 呼ばれる リーダーが 陣形を 組み替える 指示を 出しているぞ。"
+        ja: "伸縮する ツノで ヘイチョーと 呼ばれる リーダーが 陣形を 組み替える 指示を 出しているぞ。",
+        ko: "늘었다 줄었다 하는 뿔을 이용해\n리더가 진형을 바꾸는 지시를 내린다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Koordinierte Einheit",
                 "pt-br": "Unidade Coordenada",
                 "zh-tw": "協調單位",
-                ja: "れんけいユニット"
+                ja: "れんけいユニット",
+                ko: "연계 유닛"
             },
             effect: {
                 en: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn du einen weiteren Falinks im Spiel hast, fügen die Angriffe dieses Pokémon dem Aktiven Pokémon deines Gegners +20 Schaden zu und dieses Pokémon erleidet −20 Schaden durch Angriffe der Pokémon deines Gegners.",
                 "pt-br": "Se você tiver outro Falinks em jogo, os ataques deste Pokémon causarão +20 de dano ao Pokémon Ativo do seu oponente e este Pokémon sofrerá -20 de dano dos ataques dos Pokémon do seu oponente.",
                 "zh-tw": "如果你場上還有其他法林克，這只神奇寶貝的攻擊會對對手的活躍神奇寶貝造成 +20 傷害，並且這只神奇寶貝會因對手神奇寶貝的攻擊而受到 -20 點傷害。",
-                ja: "自分の場に別の「タイレーツ」がいるなら、このポケモンの、相手のバトルポケモンへのワザのダメージを+20し、相手のポケモンから受けるワザのダメージを-20する。"
+                ja: "自分の場に別の「タイレーツ」がいるなら、このポケモンの、相手のバトルポケモンへのワザのダメージを+20し、相手のポケモンから受けるワザのダメージを-20する。",
+                ko: "자신의 필드에 다른 「대여르」가 있다면 이 포켓몬이 상대의 배틀 포켓몬에게 주는 기술의 데미지를 +20하고 상대의 포켓몬으로부터 받는 기술의 데미지를 -20한다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Einmarschieren",
                 "pt-br": "Invadir",
                 "zh-tw": "入侵",
-                ja: "せめこむ"
+                ja: "せめこむ",
+                ko: "공격해나가기"
             },
             damage: 20,
             cost: ["Fighting"]

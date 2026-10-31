@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/154",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/154",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/154"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/154",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/154"
     },
     name: {
         en: "Haunter",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
         ja: "ゴースト",
+        ko: "고우스트",
     },
     illustrator: "Nisota Niso",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
         ja: "ゴース",
+        ko: "고오스",
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es lauert gerne im Dunkeln und tippt sich auf die Schultern\nmit einer gasförmigen Hand. Seine Berührung verursacht Unendlichkeit\nschaudernd.",
         "pt-br": "Ele gosta de se esconder no escuro e bater nos ombros\ncom uma mão gasosa. Seu toque causa infinitas\nestremecendo.",
         "zh-tw": "牠喜歡潛伏在黑暗中拍拍肩膀\n用氣手。它的觸動引發無盡的\n顫抖。",
-        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。"
+        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
+        ko: "어둠을 틈타 가스로 된 손을 뻗쳐\n사람의 어깨를 두드리기 좋아한다.\n그 손에 닿으면 떨림이 멈추지 않는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
                 "zh-tw": "鬼火",
-                ja: "おにび"
+                ja: "おにび",
+                ko: "도깨비불"
             },
             damage: 30,
             cost: ["Psychic"]

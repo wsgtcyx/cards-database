@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/002"
     },
     name: {
         en: "Skiploom",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
         ja: "ポポッコ",
+        ko: "두코",
     },
     illustrator: "Dsuke",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Hoppip",
         "zh-tw": "毽子草",
         ja: "ハネッコ",
+        ko: "통통코",
     },
     description: {
         en: "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Skiploom-Enthusiasten können offenbar erkennen, wo a\nSkiploom wurde durch den Duft geboren, der von dort wehte\nBlume auf dem Kopf des Pokémon.",
         "pt-br": "Os entusiastas do Skiploom aparentemente podem dizer onde um\nSkiploom nasceu do perfume que vem do\nflor na cabeça do Pokémon.",
         "zh-tw": "Skiploom 愛好者顯然可以分辨出\nSkiploom 的誕生是由飄來的香味所決定的。\n神奇寶貝頭上的花。",
-        ja: "ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。"
+        ja: "ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。",
+        ko: "두코 마니아들은\n머리에 달린 꽃에서 나는 향기로\n어디서 태어났는지를 알 수 있다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Prallen",
                 "pt-br": "Quicar",
                 "zh-tw": "彈跳",
-                ja: "とびはねる"
+                ja: "とびはねる",
+                ko: "뛰어오르기"
             },
             damage: 30,
             cost: ["Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/200",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/200"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/200",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/200"
     },
     name: {
         en: "Order Pad",
@@ -36,7 +37,7 @@ const card: Card = {
         it: "Lancia una moneta. Se esce testa, prendi una carta Strumento a caso dal tuo mazzo e aggiungila alle carte che hai in mano.",
         de: "Wirf 1 Münze. Nimm bei Kopf 1 zufällige Itemkarte aus deinem Deck auf deine Hand.",
         ja: "コインを1回投げオモテなら、自分の山札からグッズをランダムに1枚、手札に加える。",
-        ko: "Flip a coin. If heads, put a random Item card from your deck into your hand."
+        ko: "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 아이템을 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Item"
 };

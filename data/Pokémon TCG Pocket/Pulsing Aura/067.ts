@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/067",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/067"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/067",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/067"
     },
     name: {
         en: "Diancie",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es kann im Nu viele Diamanten erzeugen, indem es\nluftgebundene Kohlenstoffpartikel mit seinen Händen\nkomprimiert.",
         "pt-br": "Ele pode criar instantaneamente muitos diamantes comprimindo o carbono do ar entre as mãos.",
         "zh-tw": "它透過雙手壓縮空氣中的碳，可以瞬間製造出許多鑽石。",
-        ja: "両手の すきまで 空気中の 炭素を 圧縮して たくさんの ダイヤを 一瞬で 生み出す。"
+        ja: "両手の すきまで 空気中の 炭素を 圧縮して たくさんの ダイヤを 一瞬で 生み出す。",
+        ko: "양손의 틈으로 공기 중의\n탄소를 압축하여 많은\n다이아를 한순간에 만들어 낸다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Diamantsturm",
                 "pt-br": "Tempestade Diamante",
                 "zh-tw": "鑽石風暴",
-                ja: "ダイヤストーム"
+                ja: "ダイヤストーム",
+                ko: "다이아스톰"
             },
             effect: {
                 en: "Heal 20 damage from each of your {P} Pokémon.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Heile 20 Schadenspunkte bei jedem deiner {P} Pokémon.",
                 "pt-br": "Cure 20 pontos de dano de cada um dos seus Pokémon {P}.",
                 "zh-tw": "治療你每隻 {P} 寶可夢造成的 20 點傷害。",
-                ja: "自分の{P}ポケモン全員のHPを20回復。"
+                ja: "自分の{P}ポケモン全員のHPを20回復。",
+                ko: "자신의 {P}포켓몬 전원의 HP를 20회복."
             },
             damage: 50
         }

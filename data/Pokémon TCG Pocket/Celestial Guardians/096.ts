@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/096"
     },
     name: {
         en: "Conkeldurr",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gurdurr",
         "zh-tw": "鐵骨土人",
         ja: "ドテッコツ",
+        ko: "토쇠골",
     },
     description: {
         en: "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/096",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/096"
     },
     name: {
         en: "Swinub",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Swinub",
         "zh-tw": "小山豬",
         ja: "ウリムー",
+        ko: "꾸꾸리",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es reibt seine Schnauze über den Boden, um es zu finden und auszugraben\nEssen. Manchmal entdeckt es heiße Quellen.",
         "pt-br": "Ele esfrega o focinho no chão para encontrar e desenterrar\ncomida. Às vezes descobre fontes termais.",
         "zh-tw": "它用鼻子在地上摩擦來尋找和挖掘\n食物。有時它會發現溫泉。",
-        ja: "エサを 探すため 鼻を こすり合わせ 地面を 掘っている。 たまに 温泉を 掘り当てる。"
+        ja: "エサを 探すため 鼻を こすり合わせ 地面を 掘っている。 たまに 温泉を 掘り当てる。",
+        ko: "먹이를 찾기 위해 코를\n바닥에 비벼 땅을 파고 있다.\n가끔 온천을 찾아낸다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlammklatsch",
                 "pt-br": "Tapa de lama",
                 "zh-tw": "拍泥",
-                ja: "どろかけ"
+                ja: "どろかけ",
+                ko: "진흙뿌리기"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"]

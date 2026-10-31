@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/114",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/114",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/114"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/114",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/114"
 	},
 	name: {
 		en: "Machamp",
@@ -19,7 +20,8 @@ const card: Card = {
 		de: "Machomei",
 		"pt-br": "Machamp",
 		"zh-tw": "怪力",
-		ja: "カイリキー"
+		ja: "カイリキー",
+		ko: "괴력몬"
 	},
 	illustrator: "Naoki Saito",
 	rarity: "One Diamond",
@@ -34,7 +36,8 @@ const card: Card = {
 		de: "Maschock",
 		"pt-br": "Machoke",
 		"zh-tw": "豪力",
-		ja: "ゴーリキー"
+		ja: "ゴーリキー",
+		ko: "근육몬"
 	},
 	description: {
 		en: "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
@@ -58,7 +61,8 @@ const card: Card = {
 				de: "Hurrikanhieb",
 				"pt-br": "Soco Furacão",
 				"zh-tw": "颶風拳",
-				ja: "ハリケーンパンチ"
+				ja: "ハリケーンパンチ",
+				ko: "허리케인펀치"
 			},
 			damage: "50x",
 			cost: ["Fighting", "Fighting", "Fighting"],
@@ -70,7 +74,8 @@ const card: Card = {
 				de: "Wirf 4 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
 				"pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
 				"zh-tw": "翻轉4個硬幣。每出現1次正面，這個招式造成50點傷害。",
-				ja: "コインを4回投げ、オモテの数×50ダメージ。"
+				ja: "コインを4回投げ、オモテの数×50ダメージ。",
+				ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
 			}
 		}
 	],

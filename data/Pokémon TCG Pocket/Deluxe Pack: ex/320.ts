@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/320",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/320",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/320",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/320"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/320",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/320"
 	},
 	name: {
         en: "Giant Cape",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Capa Gigante",
         "zh-tw": "大斗蓬",
         ja: "大きなマント",
+        ko: "커다란망토",
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Das Pokémon, an das diese Karte angelegt ist, erhält +20 HP.",
         "pt-br": "O Pokémon ao qual esta carta está anexada recebe +20 HP.",
         "zh-tw": "貼有這張卡的神奇寶貝HP+20。",
-        ja: "このカードをつけているポケモンの最大HPを+20する。"
+        ja: "このカードをつけているポケモンの最大HPを+20する。",
+        ko: "이 카드를 붙이고 있는 포켓몬의 최대 HP를 +20한다."
     },
     trainerType: "Tool"
 };

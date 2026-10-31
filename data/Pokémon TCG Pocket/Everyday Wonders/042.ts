@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/042",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/042"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/042",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/042"
     },
     name: {
         en: "Cacturne",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es lebt in Wüsten. Es wird nachts aktiv, wenn es erschöpft von der Wüstenhitze auf Beutejagd geht.",
         "pt-br": "Vive em desertos. Torna-se ativo à noite quando caça presas, exausto pelo calor do deserto.",
         "zh-tw": "它生活在沙漠中。當它在夜間尋找因沙漠炎熱而疲憊不堪的獵物時，它就會變得活躍。",
-        ja: "砂漠に 生息。 夜になると 動きだし 砂漠の 暑さで 疲れ果てた 獲物を 捕らえる。"
+        ja: "砂漠に 生息。 夜になると 動きだし 砂漠の 暑さで 疲れ果てた 獲物を 捕らえる。",
+        ko: "사막에 서식한다. 밤이 되면\n움직이기 시작하여 사막의 더위에\n지쳐 버린 먹이를 사냥한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Letzter Schlag",
                 "pt-br": "Golpe Finalizador",
                 "zh-tw": "致命刺擊",
-                ja: "とどめをさす"
+                ja: "とどめをさす",
+                ko: "마무리하기"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn dem Aktiven Pokémon deines Gegners bereits Schaden zugefügt wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 60 點。",
-                ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。"
+                ja: "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
+                ko: "상대의 배틀 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다."
             },
             damage: "10+"
         }

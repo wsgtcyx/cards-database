@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/342",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/342",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/342",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/342"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/342",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/342"
 	},
 	name: {
 		en: "Dawn",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Lucia",
 		"pt-br": "Dawn",
 		"zh-tw": "小光",
-		ja: "ヒカリ"
+		ja: "ヒカリ",
+		ko: "빛나"
 	},
 	illustrator: "saino misaki",
 	rarity: "Two Diamond",

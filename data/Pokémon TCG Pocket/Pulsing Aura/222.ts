@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/222",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/222",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/222"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/222",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/222"
     },
     name: {
         en: "Porygon",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde.",
         "pt-br": "Tecnologia de ponta foi usada na criação\nde Porygon. Foi o primeiro Pokémon artificial\ncriado por meio de um programa de computador.",
         "zh-tw": "Porygon 的製造採用了最先進的技術。它是第一個通過計算機編程創建的人造寶可夢。",
-        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。"
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。",
+        ko: "최고의 과학 기술을 사용해\n세계에서 처음으로 프로그래밍되어\n만들어진 인공 포켓몬이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verhärten",
                 "pt-br": "Fortificar",
                 "zh-tw": "凝固",
-                ja: "かたまる"
+                ja: "かたまる",
+                ko: "딱딱해지기"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
                 "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
-                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+                ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }
     ],

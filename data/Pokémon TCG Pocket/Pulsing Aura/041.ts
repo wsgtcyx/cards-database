@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/041",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/041"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/041",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/041"
     },
     name: {
         en: "Castform Snowy Form",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dies ist die Form von Formeo, wenn es in einen Hagelsturm gerät. Sein ganzer Körper ist gekühlt und seine Haut ist teilweise gefroren!",
         "pt-br": "Esta é a forma de Castform quando pego por uma tempestade de granizo. Todo o seu corpo está gelado e sua pele parcialmente congelada!",
         "zh-tw": "這是飄浮泡泡遭遇冰雹時的型態。它的全身都是冰冷的，連皮膚都被凍住了！",
-        ja: "霰に 打たれると この 姿に 変化する。 全身 冷たく 皮膚は 少し 凍っているぞ。"
+        ja: "霰に 打たれると この 姿に 変化する。 全身 冷たく 皮膚は 少し 凍っているぞ。",
+        ko: "싸라기눈을 맞으면 이 모습으로\n변화한다. 전신이 차갑고\n피부는 조금 얼어 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Verschneites Frieren",
                 "pt-br": "Friagem Nevada",
                 "zh-tw": "雪雲冰凍",
-                ja: "こごえるゆきぐも"
+                ja: "こごえるゆきぐも",
+                ko: "얼어붙은설운"
             },
             effect: {
                 en: "If a Stadium is in play, your opponent's Active Pokémon is now Asleep.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn ein Stadion im Spiel ist, schläft das aktive Pokémon deines Gegners jetzt.",
                 "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente agora estará Adormecido.",
                 "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在處於睡眠狀態。",
-                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをねむりにする。"
+                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをねむりにする。",
+                ko: "필드에 스타디움이 나와 있다면 상대의 배틀 포켓몬을 잠듦으로 만든다."
             },
             damage: 40
         }

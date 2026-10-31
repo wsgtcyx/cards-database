@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/044"
     },
     name: {
         en: "Kilowattrel",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Kilowattrel",
         "zh-tw": "大電海燕",
         ja: "タイカイデン",
+        ko: "찌리비크",
         pt: "Kilowattrel"
     },
     illustrator: "Pani Kobayashi",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Wattrel",
         "zh-tw": "電海燕",
         ja: "カイデン",
+        ko: "찌리비",
         pt: "Wattrel"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Es nutzt seinen Kehlsack, um die von seinen Flügeln erzeugte Elektrizität zu speichern. Da es kaum Öl in seinen Federn hat, ist es ein schlechter Schwimmer.",
         "pt-br": "Ele usa seu saco na garganta para armazenar a eletricidade gerada por suas asas. Quase não há óleo em suas penas, então ele é um péssimo nadador.",
         "zh-tw": "它利用喉囊來儲存翅膀產生的電力。它的羽毛中幾乎沒有油脂，所以它的游泳能力很差。",
-        ja: "のど袋に 翼で 作った 電気を 溜める。 羽の 油分が とても 少なく 泳ぎは 苦手。"
+        ja: "のど袋に 翼で 作った 電気を 溜める。 羽の 油分が とても 少なく 泳ぎは 苦手。",
+        ko: "목의 주머니에 날개로 만든 전기를 저장한다.\n깃털에 유분이 매우 적어서\n헤엄치는 것은 서툴다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Asa de velocidade",
                 "zh-tw": "速度之翼",
                 ja: "スピードウイング",
+                ko: "스피드윙",
                 'es-mx': "Ala Veloz",
                 pt: "Asa da Velocidade"
             },

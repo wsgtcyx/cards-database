@@ -1,0 +1,5093 @@
+{
+  "schemaVersion": 1,
+  "operation": "Source-exact Korean form and owner spacing; only whitespace changes",
+  "mode": "write",
+  "changes": [
+    {
+      "cardId": "B3-040",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/040.ts",
+      "beforeSha256": "2e79486b8dcc04b881c9d9e14d547c432ab06f69f7068999abf629a0285a002f",
+      "afterSha256": "56ac01e16450587b1140714236c0d0917156f1e43d95108407c7f91b492e2479",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "캐스퐁빗방울의 모습",
+          "value": "캐스퐁 빗방울의 모습"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1004,
+          "end": 1016,
+          "text": "\"캐스퐁 빗방울의 모습\""
+        }
+      ],
+      "secondarySha256": "ccc65bf00ff22e1d3ff5c10edc79819ad79309856d821e35d12ad6b87c153d4e"
+    },
+    {
+      "cardId": "B3-051",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/051.ts",
+      "beforeSha256": "b5dd079494d3a6240dad8ca1df1b2bf94bd87ea4a372fc874d4c7ab67806af57",
+      "afterSha256": "5ec8880155fcdef619b635f591a50fe8f8b06d3229b2143d8a1693fdacf68d43",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "연격우라오스",
+          "value": "연격 우라오스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1003,
+          "end": 1011,
+          "text": "\"연격 우라오스\""
+        }
+      ],
+      "secondarySha256": "76e1319bef071a03dfd43f4e7c142868cb78175c32d5ba35426968cf1e0fbdbb"
+    },
+    {
+      "cardId": "B3-041",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/041.ts",
+      "beforeSha256": "f19ee0dc30287c1c1c9054a579dc8eff691128721360f5ffd85aa9cbc2cacf1f",
+      "afterSha256": "aa688d05832e1e6d6af3f4138b4b2ebcb88e59cd7c6efcbee771c632a8cecc16",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "캐스퐁설운의 모습",
+          "value": "캐스퐁 설운의 모습"
+        }
+      ],
+      "edits": [
+        {
+          "start": 996,
+          "end": 1007,
+          "text": "\"캐스퐁 설운의 모습\""
+        }
+      ],
+      "secondarySha256": "ce7a0ad93701460f662f40b43fce8082587f65319cae251440ae77a7d73aebc2"
+    },
+    {
+      "cardId": "B3-024",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/024.ts",
+      "beforeSha256": "6e0963c5b100d0c0701b3111bcf0c6588a0a3a9d48c1f7c815f24e7b5fd60657",
+      "afterSha256": "15c2971409acd54e0d2c73012fe789653952431e861449a0f186aab3030f7129",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "캐스퐁태양의 모습",
+          "value": "캐스퐁 태양의 모습"
+        }
+      ],
+      "edits": [
+        {
+          "start": 997,
+          "end": 1008,
+          "text": "\"캐스퐁 태양의 모습\""
+        }
+      ],
+      "secondarySha256": "971d550e485288a501df43ab1bfdf0191274f885b1cc1148d664d4a1186a93fa"
+    },
+    {
+      "cardId": "B3-036",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/036.ts",
+      "beforeSha256": "c6ebbe07b6ef797ca2cc4800d58d00e61f24411c3688448674fd413e29945e81",
+      "afterSha256": "45846aa241c07de7b4545e922c49f6fb1ac09090563b18ad15334b9d936b47ac",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아켄타로스",
+          "value": "팔데아 켄타로스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 966,
+          "end": 975,
+          "text": "\"팔데아 켄타로스\""
+        }
+      ],
+      "secondarySha256": "ab96d8f5c00e8a1db186d36536b55b7eb45430e28a57a11edb779d8ae828431a"
+    },
+    {
+      "cardId": "B3-113",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/113.ts",
+      "beforeSha256": "fdd9f4a7ebadf4a7c172d5d2b9c710622280801cc21e07a8119b8488e856396c",
+      "afterSha256": "77d6730d7cf62662fe17b6569eb3a6cb5ee39b5767e565198992d8f144670c7c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "일격우라오스",
+          "value": "일격 우라오스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1008,
+          "end": 1016,
+          "text": "\"일격 우라오스\""
+        }
+      ],
+      "secondarySha256": "1c4cc5c2c0bf6cd5273a7b733bbf2642993dd4d5da73c1a61d47ad5ef7f45bfe"
+    },
+    {
+      "cardId": "A2a-060",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/060.ts",
+      "beforeSha256": "6b9511b25d1c5882e281f25ea47b7bc76b384cc7e9876ae97955de16e19305e0",
+      "afterSha256": "b68335f361c833a21c20f41eb5a71aaef42e4a2fcf4448a1a82037ebd9d583fb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오리진디아루가",
+          "value": "오리진 디아루가"
+        }
+      ],
+      "edits": [
+        {
+          "start": 989,
+          "end": 998,
+          "text": "\"오리진 디아루가\""
+        }
+      ],
+      "secondarySha256": "d29e8003109edc7ab217d5eba3e6176e0043426122da90d9ba7a5052fc0b1a7c"
+    },
+    {
+      "cardId": "A2a-023",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/023.ts",
+      "beforeSha256": "e1ef855dd2579ab87ff070afb38da83cefb2d6fe6aaee7a0dddf093573caa047",
+      "afterSha256": "4fe7bd3949a3b245e276203017136cb9740120d93ba59f59c16feb6778a0a8ee",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오리진펄기아",
+          "value": "오리진 펄기아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 988,
+          "end": 996,
+          "text": "\"오리진 펄기아\""
+        }
+      ],
+      "secondarySha256": "65f21c16b4707c3d81213fa4f0e7eddbc3bae262dee6794361a86f6126b86d59"
+    },
+    {
+      "cardId": "P-A-070",
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+      "beforeSha256": "68c0add82f6c9f2c0c75fcdff0623016d931b159cf6f8e322f6d922545493b39",
+      "afterSha256": "bacb84ccc24cf98935f977d22e970ce927cf2c9613e0cd90ec457e8446f14f6a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일",
+          "value": "알로라 나인테일"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1399,
+          "end": 1408,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 975,
+          "end": 984,
+          "text": "\"알로라 나인테일\""
+        }
+      ],
+      "secondarySha256": "a9e090448415fe918b661af22917d5c85d3de89caf38d518c43ac8021dba9ef5"
+    },
+    {
+      "cardId": "P-A-072",
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+      "beforeSha256": "64fcd32d281b9bce4d2c3b3285fb13d875dfd58686fcf16a5f876dbe037eefaf",
+      "afterSha256": "dd428845a2239bf734ac1fd9747f4020e481eef8bdf089068d9e7b4e44c61117",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 962,
+          "end": 970,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "507ca3b243b2d9b050d6843d7277e46ef61763c03793920f2e586a8f5f651c78"
+    },
+    {
+      "cardId": "P-A-078",
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "beforeSha256": "17ea4aa446d8b2dec4fde8e3e5890ec4a8a11544846ed05d18732faf5c71e3b5",
+      "afterSha256": "6e41182a4231f68678aac48e72bf7e70b2104aaa582f6fc7e12f1893fd3157ab",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "네크로즈마새벽의 날개",
+          "value": "네크로즈마 새벽의 날개"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1055,
+          "end": 1068,
+          "text": "\"네크로즈마 새벽의 날개\""
+        }
+      ],
+      "secondarySha256": "82cd67eed58cb7fcac58e8e595eca7cb8f06abc0e057d34cf2a753e164a3c2c5"
+    },
+    {
+      "cardId": "P-A-069",
+      "file": "data/Pokémon TCG Pocket/Promos-A/069.ts",
+      "beforeSha256": "1f9daf9d01abfc3cae611843d9223cd5def8629cda0d94634c7dacb324db4977",
+      "afterSha256": "9d140ee6d5ec87d5fbd1cad754006c581b5bedebe7251957f92f0a010669ef78",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시",
+          "value": "알로라 나시"
+        }
+      ],
+      "edits": [
+        {
+          "start": 975,
+          "end": 982,
+          "text": "\"알로라 나시\""
+        }
+      ],
+      "secondarySha256": "aa5d8a65c80f9b5fd0ff7cfdd32bde7e3362fa536823d45ffdaba0478ed62aa3"
+    },
+    {
+      "cardId": "P-A-079",
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "beforeSha256": "189919a9bf06051a043caa7d19b79b8ad01f1c8fcecb9736002267409963571c",
+      "afterSha256": "232b54ccf37a8eae55c2a8332a0a670f1f28353507bf9192257752832862a97f",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "네크로즈마황혼의 갈기",
+          "value": "네크로즈마 황혼의 갈기"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1071,
+          "end": 1084,
+          "text": "\"네크로즈마 황혼의 갈기\""
+        }
+      ],
+      "secondarySha256": "1bbad1c2f8907d1a4a7b24da9bc8abf791cc9dd4451a268194834c403f3685f1"
+    },
+    {
+      "cardId": "A3-188",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/188.ts",
+      "beforeSha256": "2fd00254846c71ace62ea10f514f2ecf667dead8e4b49ea261e666c33c7e5c48",
+      "afterSha256": "a4c072e9a18f92ad4d9b313a324ee42b2da45806dd474f8306151e236e45d575",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기 ex",
+          "value": "알로라 질뻐기 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1424,
+          "end": 1432,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 976,
+          "end": 987,
+          "text": "\"알로라 질뻐기 ex\""
+        }
+      ],
+      "secondarySha256": "4354b2be6862b207be06de468208783e8f5c5ff1a59584b39c50a00451d1a453"
+    },
+    {
+      "cardId": "A3-060",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/060.ts",
+      "beforeSha256": "cf661018bb3099a70069d291715caf63d91b64ae1bced208c0ba401351876f6d",
+      "afterSha256": "9ef36e8d9a03396930fef2aa1280a6e43d99a8c14e78079164a7790c8bbc82f6",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라데구리",
+          "value": "알로라 데구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라꼬마돌",
+          "value": "알로라 꼬마돌"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1421,
+          "end": 1429,
+          "text": "\"알로라 꼬마돌\""
+        },
+        {
+          "start": 974,
+          "end": 982,
+          "text": "\"알로라 데구리\""
+        }
+      ],
+      "secondarySha256": "4ead793c350119d6ac086400a350072d69524f35667789d3b4e8a0c426ebb073"
+    },
+    {
+      "cardId": "A3-203",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/203.ts",
+      "beforeSha256": "3cea56b2d7d2edcba5098c9f1ed7cc54dba489d0d7b3d3d25a0fc39addb72f1f",
+      "afterSha256": "a8849a33c64c47f710a95a91b052ecc7f4cf39a6890595efe3c7fa40465a7321",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라라이츄 ex",
+          "value": "알로라 라이츄 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 983,
+          "end": 994,
+          "text": "\"알로라 라이츄 ex\""
+        }
+      ],
+      "secondarySha256": "214af48968a3e22c52670c582bcee9ec5194e6d0c8edfc42403040e170521b42"
+    },
+    {
+      "cardId": "A3-192",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/192.ts",
+      "beforeSha256": "ff104b903343091e7b10260836cffdd03e38963682d7b1c038f179592cdac19a",
+      "afterSha256": "ff8a16fc3bc20aebd51ba705ad8520fe50d37809a2218009e1a78e31ca148873",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다.",
+          "value": "이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라 텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2502,
+          "end": 2600,
+          "text": "\"이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라 텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다.\""
+        }
+      ],
+      "secondarySha256": "9e72243834b3bb2ec7ade39ce71183bb6b1084bbf257024fd91ac2c7dafc31b1"
+    },
+    {
+      "cardId": "A3-110",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/110.ts",
+      "beforeSha256": "3931444407fd9a852ea44f44ecdb7c96e2a274674c718ddc38c9ca3f94a21db7",
+      "afterSha256": "92c4f4a3b35826b0681f18e56a133ee4930cefe28a7c2492798cc8d028ddf06b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 964,
+          "end": 972,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "8cef5d572076758f8df7967ce4845cc51f43cff49565452cd75568d6de2e657c"
+    },
+    {
+      "cardId": "A3-040",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/040.ts",
+      "beforeSha256": "be9a4c51c5cc42582c5dbeb00948300c16599d4f90ba7a5b46bb8d3fdbd2ce08",
+      "afterSha256": "bd718b873c3fbafc2edfc1caba09662b76ada4e33b6351f145ded71b3d93f054",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 961,
+          "end": 970,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "96dcd1da4a8baa62903ebdf4934e43d8db8f266ac890a3d036cee8047f6d0db5"
+    },
+    {
+      "cardId": "A3-111",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/111.ts",
+      "beforeSha256": "6ba9c1fe644356434e4d1d967f4ea4f0730d688cee3fef915a76d25bd9022632",
+      "afterSha256": "371e02fe28aee028415a396099ff79576f2f26c6256c9cbecb08981e3bca8fc6",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기 ex",
+          "value": "알로라 질뻐기 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1428,
+          "end": 1436,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 976,
+          "end": 987,
+          "text": "\"알로라 질뻐기 ex\""
+        }
+      ],
+      "secondarySha256": "c60e6e340891bfcc38c09b9cc24e39692c4d43dfdb1c614f844c264081a94f0e"
+    },
+    {
+      "cardId": "A3-150",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/150.ts",
+      "beforeSha256": "c75d4c29e4cac0eea2965f9175cfd8550505a1cb130c624a76f1fbbbf773003a",
+      "afterSha256": "2d92993d54da39c9965e13569f7c9fbc15603c4ca632f1681932694f2069af70",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다.",
+          "value": "이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라 텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2505,
+          "end": 2603,
+          "text": "\"이 카드를 사용하면 자신의 차례는 끝난다. 자신의 「알로라 텅구리」 또는 「폭거북스」를 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다.\""
+        }
+      ],
+      "secondarySha256": "4cba662bd0a1a7a0694a82be8f8b40cb1f017e4bda66324a6a90a084b75964fe"
+    },
+    {
+      "cardId": "A3-041",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/041.ts",
+      "beforeSha256": "3fc7b1fccecb68ae561e8fdf022603551a7967f61ef82290bcb293267b4b54fe",
+      "afterSha256": "c0079f20e8433e913ff20c1af33185a8f62a2cf4f108c2d5a7dfc2cd35d30f85",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일",
+          "value": "알로라 나인테일"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1412,
+          "end": 1421,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 977,
+          "end": 986,
+          "text": "\"알로라 나인테일\""
+        }
+      ],
+      "secondarySha256": "a00bb5bc9088635f7912373532475e029ef3203742bd4a4b9350069efdf5f8ed"
+    },
+    {
+      "cardId": "A3-206",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/206.ts",
+      "beforeSha256": "940ea05fe33852421e7ffe0d90abc746dc5723f8f6a7071743ce4087d3e76523",
+      "afterSha256": "7c800f43fc5581a5eb03862cff8a6a334a44f71615c52c79d08ae4fbbdf6c664",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기 ex",
+          "value": "알로라 질뻐기 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1413,
+          "end": 1421,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 976,
+          "end": 987,
+          "text": "\"알로라 질뻐기 ex\""
+        }
+      ],
+      "secondarySha256": "f787bbb804b18ca4b629b75d15fe7ece9dd1e97757462188edfe1b08ba3c59b9"
+    },
+    {
+      "cardId": "A3-061",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/061.ts",
+      "beforeSha256": "99a1ef66177ee969a7367db4d58f14000d3de48ddd14f549ee49653661cd34ca",
+      "afterSha256": "fd46d92713baf26c3d12b941357ee159cba98d655af889ea4cfbc66ac9fdb1b8",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라딱구리",
+          "value": "알로라 딱구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라데구리",
+          "value": "알로라 데구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1410,
+          "end": 1418,
+          "text": "\"알로라 데구리\""
+        },
+        {
+          "start": 959,
+          "end": 967,
+          "text": "\"알로라 딱구리\""
+        }
+      ],
+      "secondarySha256": "096a200847124171d9e883aa4289cedafdc2245d38d5f8fc545145317604e39f"
+    },
+    {
+      "cardId": "A3-160",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/160.ts",
+      "beforeSha256": "263ab451e2824ecc61a68cbd851158d502500326d27e65b83c9f8162d8ef456a",
+      "afterSha256": "a00b8f02ba814485a905a9a5697781ae318d887d8281eb3dcd49cb88b83a2b81",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라텅구리",
+          "value": "알로라 텅구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 969,
+          "end": 977,
+          "text": "\"알로라 텅구리\""
+        }
+      ],
+      "secondarySha256": "b8da056473a3b790baa7152f05a70aab614b03d5f35ea032a5f7b4ebcd03479d"
+    },
+    {
+      "cardId": "A3-153",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/153.ts",
+      "beforeSha256": "f40a48f1310fdc49a7fff9cd75dfb07b0fe71fa2e4694b6a90eb052dfd8acb53",
+      "afterSha256": "700769a90f59a10c75dfc2ad5033bd4aa3830e2cf184403fb11e03098a308b40",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 차례에 자신의 「알로라딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.",
+          "value": "이 차례에 자신의 「알로라 딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2541,
+          "end": 2612,
+          "text": "\"이 차례에 자신의 「알로라 딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.\""
+        }
+      ],
+      "secondarySha256": "08a73ca66f1a08765716963ef8916227ea939a89aa064785cb69d7bff20af5b2"
+    },
+    {
+      "cardId": "A3-027",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "beforeSha256": "4d0c9a732cf04f9e78888f70e1cadadf1ccc2387185b2d8eb439380406e6f054",
+      "afterSha256": "327abcfbc32a853e18ff5274eb9c5b1ed3089e5f14bef8401aa05e4d462a5800",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라텅구리",
+          "value": "알로라 텅구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 969,
+          "end": 977,
+          "text": "\"알로라 텅구리\""
+        }
+      ],
+      "secondarySha256": "40cc06b6fd5c354c061aaa85bd177510568a2d78ada7c5f8418e0cfd1e7d2fca"
+    },
+    {
+      "cardId": "A3-106",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/106.ts",
+      "beforeSha256": "9ef8a5375a25184294b68c07721df59e9b5c764ac08c53d1e590402ef4eac410",
+      "afterSha256": "1b1f569d395e3f6706a5a6590795ebca31699cf67db62a70420fe353c30a47a7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라꼬렛",
+          "value": "알로라 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 970,
+          "end": 977,
+          "text": "\"알로라 꼬렛\""
+        }
+      ],
+      "secondarySha256": "e8a167d0180fb5adfb6fcdc85b3d35897ce6145f73b88a66f3436fa87d932b76"
+    },
+    {
+      "cardId": "A3-117",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/117.ts",
+      "beforeSha256": "89f7e6e13def655d66a17f66d0db4dd0c9cff63a8d40e609bfebf69fbd87916a",
+      "afterSha256": "3b109fdf2f11a3bc9c8a36c51db1254ded1b45d2201c29527799f8e23413b7cb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 969,
+          "end": 977,
+          "text": "\"알로라 디그다\""
+        }
+      ],
+      "secondarySha256": "277f46e2abc30a932ca26b94e974c775a2fa65382ddd44daed4a1684bb0f5e58"
+    },
+    {
+      "cardId": "A3-162",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/162.ts",
+      "beforeSha256": "f88667923dc907ec27750b6532a956230c493b48fc87f9e0259aa4bd94dec218",
+      "afterSha256": "0505e3db2785005d48c4ae68bacc21f90c218c2e9d8dc77903351ab83b5474af",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 961,
+          "end": 970,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "6e252e7cb52fe84dfc6b90397424685965f754afa6791f63c13635278caa5e20"
+    },
+    {
+      "cardId": "A3-156",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/156.ts",
+      "beforeSha256": "dd8b3496057f6d8f2051df14897a11902892f3d4cd9d2cf3a4acbdcddea000c5",
+      "afterSha256": "178eb9d358d0d71ccaef1e25965477b7084b51298f8454db32bbff684f6fd969",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시",
+          "value": "알로라 나시"
+        }
+      ],
+      "edits": [
+        {
+          "start": 977,
+          "end": 984,
+          "text": "\"알로라 나시\""
+        }
+      ],
+      "secondarySha256": "8591de5b111f8aaf20bd510edd6f68c5c6e85aa203a11c854fcdab0c5559ecf4"
+    },
+    {
+      "cardId": "A3-107",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/107.ts",
+      "beforeSha256": "65ebbdd9f948df45272e5ad9a498a23430c7cc348502ac49a23fc295ea5fc94d",
+      "afterSha256": "4c1c52649fbdd34adb2ab37fa681dd45b2bbd7b7fd275b439b0045c5cc79c0aa",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라레트라",
+          "value": "알로라 레트라"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라꼬렛",
+          "value": "알로라 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1418,
+          "end": 1425,
+          "text": "\"알로라 꼬렛\""
+        },
+        {
+          "start": 974,
+          "end": 982,
+          "text": "\"알로라 레트라\""
+        }
+      ],
+      "secondarySha256": "a799387d8d3ba711a77431dec205978a81a96af1c32ef191b5e0cfcc78233675"
+    },
+    {
+      "cardId": "A3-185",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/185.ts",
+      "beforeSha256": "76f141d9537c6da01e088e8c83254bf72414df8541a420fe50040661183b6dfa",
+      "afterSha256": "32fdafb8d85d44a90cba8f59c91d5446beb0ddceaf38274da354a64453196020",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라라이츄 ex",
+          "value": "알로라 라이츄 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 983,
+          "end": 994,
+          "text": "\"알로라 라이츄 ex\""
+        }
+      ],
+      "secondarySha256": "7c789f728fdbd465fa7f1ab34dc998c095810ab396c244304bd0660e656bac8d"
+    },
+    {
+      "cardId": "A3-002",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "beforeSha256": "ce614e1d7e391342aab4a1fba972b8529736ecb992cf53313ebe3299969324ee",
+      "afterSha256": "a6d30ba09dd58e11bc56a6204f5e9e48a417d58a5005f20ffe81822d650afba3",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시",
+          "value": "알로라 나시"
+        }
+      ],
+      "edits": [
+        {
+          "start": 977,
+          "end": 984,
+          "text": "\"알로라 나시\""
+        }
+      ],
+      "secondarySha256": "6603e146ba2f30cd2fcd72819294f9a0906527a72e5b0468b7b2190ea9a9cccc"
+    },
+    {
+      "cardId": "A3-195",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/195.ts",
+      "beforeSha256": "63fc46149a0604581b5cd91b8c0c1ed4ba071df8e3b8588d53fdb2a69b6dac58",
+      "afterSha256": "a31b84e40b1e65a7c1487702a12990bd0376c1e49119e35e0affaf0542fc26f1",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 차례에 자신의 「알로라딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.",
+          "value": "이 차례에 자신의 「알로라 딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2538,
+          "end": 2609,
+          "text": "\"이 차례에 자신의 「알로라 딱구리」「투구뿌논」「토게데마루」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.\""
+        }
+      ],
+      "secondarySha256": "5c86d08e3f4b07d3c06359e0089b933f6c99706666e88bb14dd4c6ffcff2707a"
+    },
+    {
+      "cardId": "A3-118",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/118.ts",
+      "beforeSha256": "0e98b59b949aa58d22b7d6f214d68e1fddc432c996e39e8c328c9e638794d562",
+      "afterSha256": "339694ef3acd4d2ce2b2d470f1c7aac1e68a25fafa45d340e84a16df537133fa",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오",
+          "value": "알로라 닥트리오"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1413,
+          "end": 1421,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 971,
+          "end": 980,
+          "text": "\"알로라 닥트리오\""
+        }
+      ],
+      "secondarySha256": "6712ab920612c2fa986dad47dded7fbc8c5a5e8570a8c36982af4f0a641a617a"
+    },
+    {
+      "cardId": "A3-058",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/058.ts",
+      "beforeSha256": "dda783ba419ce78a7948e392ea40a36cb79dc50f66b853b87e191a484ebc06db",
+      "afterSha256": "b8972a062d9b6164bfaeff57c13e2f794a8b5ddeabfe48b0951dfec3612175a5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라라이츄 ex",
+          "value": "알로라 라이츄 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 983,
+          "end": 994,
+          "text": "\"알로라 라이츄 ex\""
+        }
+      ],
+      "secondarySha256": "f1a234912328e647b14fb1ec601ba4856900fa075ea7a930ad7693e050bc893d"
+    },
+    {
+      "cardId": "A3-108",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/108.ts",
+      "beforeSha256": "93a813e6aba261e8b9424e818e076ff8388f86b189a9c7ea66c9529166cada12",
+      "afterSha256": "1ac517539865f3f9a7474e137c4f328ba4752aba970e45a60aa4c42a5cb93d30",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 962,
+          "end": 969,
+          "text": "\"알로라 나옹\""
+        }
+      ],
+      "secondarySha256": "becfb58733a30a933e84b5cd2f30a51035a4f025ad4773e5a9f8c7a6e230c1e5"
+    },
+    {
+      "cardId": "A3-039",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/039.ts",
+      "beforeSha256": "f48809300ce1bf91408b70a3e8d046e6f44a115cd33ba2545ad74e6d38d03129",
+      "afterSha256": "a13c04c72795766d3b554d54d16a07f9988a0e39799698cd5aa17f5037d9c74b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라고지",
+          "value": "알로라 고지"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라모래두지",
+          "value": "알로라 모래두지"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1426,
+          "end": 1435,
+          "text": "\"알로라 모래두지\""
+        },
+        {
+          "start": 981,
+          "end": 988,
+          "text": "\"알로라 고지\""
+        }
+      ],
+      "secondarySha256": "72cf43d045435f364db05490e012eeaffff99cff26532cc4b20cee53ba743494"
+    },
+    {
+      "cardId": "A3-038",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/038.ts",
+      "beforeSha256": "2cf21e2df3d103dfb7e35fd3e6c28f39e9fb6e297d1499bb84e26e76390a3600",
+      "afterSha256": "dae8b9a5aee51255c2091e27673dae930c5e0894e4143ef9ec104dd39ff0e4f0",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라모래두지",
+          "value": "알로라 모래두지"
+        }
+      ],
+      "edits": [
+        {
+          "start": 976,
+          "end": 985,
+          "text": "\"알로라 모래두지\""
+        }
+      ],
+      "secondarySha256": "ce317c5c94dc8acaa2f140b9783a1f53334953fddbdcb2136c0b8b974c3954e9"
+    },
+    {
+      "cardId": "A3-059",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/059.ts",
+      "beforeSha256": "566e47fe82e2dc6f8c4ec78ed84248d79a65affd07724d40d48d5b44e2e0b6c0",
+      "afterSha256": "47dbce23e11e196ead7c88b7eafaa56bd8cf2083eeae107fc0bc9ca75b70a617",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라꼬마돌",
+          "value": "알로라 꼬마돌"
+        }
+      ],
+      "edits": [
+        {
+          "start": 974,
+          "end": 982,
+          "text": "\"알로라 꼬마돌\""
+        }
+      ],
+      "secondarySha256": "07dc273ba9488874e0c2b0e7bc27930ccef75ca3c2c91e8093c8b4b1baa6f7b5"
+    },
+    {
+      "cardId": "A3-109",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/109.ts",
+      "beforeSha256": "2ee0874eedc5fa1f6772ee16bdee06d2b4c6f87d2ee75800bbe09ae84c71640c",
+      "afterSha256": "848418488aa8c6f284dd3891c20a628896829688a27844beab85b844bfc25b09",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라페르시온",
+          "value": "알로라 페르시온"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1411,
+          "end": 1418,
+          "text": "\"알로라 나옹\""
+        },
+        {
+          "start": 972,
+          "end": 981,
+          "text": "\"알로라 페르시온\""
+        }
+      ],
+      "secondarySha256": "12496e895540329e1c297be64824f8704796a85b252ec6a7604fbf18e87bc503"
+    },
+    {
+      "cardId": "B4b-192",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/192.ts",
+      "beforeSha256": "e691f113c301aa535c6c530ace35bbf632d152ce945e72c3b6bf06877ca9c18c",
+      "afterSha256": "12b02deb563f2c2fb1db9205c872b338390271d94425b5cfb8f3847ce073b816",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아크 ex",
+          "value": "히스이 조로아크 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1484,
+          "end": 1492,
+          "text": "\"히스이 조로아\""
+        },
+        {
+          "start": 1030,
+          "end": 1042,
+          "text": "\"히스이 조로아크 ex\""
+        }
+      ],
+      "secondarySha256": "63124fa540e3b8b207b0fb7f3d5d080aafb69a5ec7d26e238a402716a649b140"
+    },
+    {
+      "cardId": "B4b-272",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/272.ts",
+      "beforeSha256": "b37b08686525d55cf96b50f16b51915baa4e4edb8785280667780485d92f225d",
+      "afterSha256": "72f9b3c1c6dcf1c3dbe393cb8e9e41f4ab8cd0cfd48caf8c3a25842c637950e2",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰화덕의 가면",
+          "value": "오거폰 화덕의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1057,
+          "end": 1068,
+          "text": "\"오거폰 화덕의 가면\""
+        }
+      ],
+      "secondarySha256": "efe045d920a4bdc5f0f2d990239a1c3638535140641bffa3a85aff2c52a6ea96"
+    },
+    {
+      "cardId": "B4b-051",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/051.ts",
+      "beforeSha256": "26f092e0dbb45ad3c16f2ac9c35a09514e56780f9c67c99dd92d5517db71e8f6",
+      "afterSha256": "92f388e62b1eae031389e8a328cc831d40fa2d11ec13869f1d9a88021bee92b8",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰화덕의 가면",
+          "value": "오거폰 화덕의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1057,
+          "end": 1068,
+          "text": "\"오거폰 화덕의 가면\""
+        }
+      ],
+      "secondarySha256": "d604f8d20886e886da4f13c15f2155b43e65730fd4d1a54c64ddd3eab5b50f24"
+    },
+    {
+      "cardId": "B4b-257",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/257.ts",
+      "beforeSha256": "04c3568cef57f7030c4ee1db8b8c181c4e9fa3091531609e6b3bc192229a7b23",
+      "afterSha256": "7168042c4951265ad6f51f9bc9a86b27f7b924b9dcc42b56672ea45f4b1aae31",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면",
+          "value": "오거폰 벽록의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1059,
+          "end": 1070,
+          "text": "\"오거폰 벽록의 가면\""
+        }
+      ],
+      "secondarySha256": "64b6d83e5352350033a4f4f46e06c70b79ee1ef9808d42e07d3927092bcaa62d"
+    },
+    {
+      "cardId": "B4b-055",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/055.ts",
+      "beforeSha256": "111adeb34c3481776b1825caeb7f63fd7f597615a9f2d01749cc7b9d35d430a1",
+      "afterSha256": "b8249b64d9e8436aa83089a3ef7b04354a6d41c681ca73ea2d87942967932121",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 998,
+          "end": 1007,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "a8b84135c0970b2173ef9175ea573d3056721ded7b515944b235922c15bae00a"
+    },
+    {
+      "cardId": "B4b-154",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/154.ts",
+      "beforeSha256": "01010f722f546895582b3b7d82da7741cc776431bc9ca59b38d50a5002fe7027",
+      "afterSha256": "6221ebed8a24a67141192b13931a6abc2cb33455a53c24f3c2fc9ef41424f2a7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나이킹",
+          "value": "가라르 나이킹"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1451,
+          "end": 1458,
+          "text": "\"가라르 나옹\""
+        },
+        {
+          "start": 1027,
+          "end": 1035,
+          "text": "\"가라르 나이킹\""
+        }
+      ],
+      "secondarySha256": "3978d4f40193d8c4dcbadf0c7990bda1969ea051a8e899cfae29c88c90cd7c07"
+    },
+    {
+      "cardId": "B4b-153",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/153.ts",
+      "beforeSha256": "bd7cf398dcc933ba5556b2c2bf17f60f4847a00b95df60991b66a8e45f0d8de8",
+      "afterSha256": "12ee07df19bcc8023087e29094d38cef224107b1cf283d1d24f37134f8adeb0d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1001,
+          "end": 1008,
+          "text": "\"가라르 나옹\""
+        }
+      ],
+      "secondarySha256": "f7e3b39b31ce4f68f3dc1ebaa3284d9e1de8c90842827faec078818657f8f8c9"
+    },
+    {
+      "cardId": "B4b-027",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/027.ts",
+      "beforeSha256": "dc08f6d3c757209311b7e71bf84ded28664b51a2384b7d5ebde6b249546b6c73",
+      "afterSha256": "1a6b7ebd7d4c07600e460c989a1dee1ac89b8aa419a87b1a4eaec6da66694432",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면",
+          "value": "오거폰 벽록의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1059,
+          "end": 1070,
+          "text": "\"오거폰 벽록의 가면\""
+        }
+      ],
+      "secondarySha256": "d6d37a47dcd9bc55e768241724fe74db8fadfb65b8c4dd6b86c2283505bfa25c"
+    },
+    {
+      "cardId": "B4b-056",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/056.ts",
+      "beforeSha256": "80e28f74ab1a6169214d24e71288691b88edec0f9033046914566d77cfd81cc3",
+      "afterSha256": "78fe6794cd07d72c5291c517fd8233dee4a3a2e20880e727c7743059e0c10a3f",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일 ex",
+          "value": "알로라 나인테일 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1459,
+          "end": 1468,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 1036,
+          "end": 1048,
+          "text": "\"알로라 나인테일 ex\""
+        }
+      ],
+      "secondarySha256": "f6d88de1796555a056bbfa1235b0c89f79ac807c5985b47c45a7344593f11ecf"
+    },
+    {
+      "cardId": "B4b-334",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/334.ts",
+      "beforeSha256": "42b46f4759d1dc26c568b49007ac34ba4d0dcb9c9b597da6d103e722703080cd",
+      "afterSha256": "9b346a93a90ae6d21e9272498b7ddf0dafe0f8d72dfdf0428b5db3053f104701",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1001,
+          "end": 1008,
+          "text": "\"가라르 나옹\""
+        }
+      ],
+      "secondarySha256": "54cba28a9e5695143fe99754730368d28cc1decf49e0c1d529c2296b96c1564d"
+    },
+    {
+      "cardId": "B4b-324",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/324.ts",
+      "beforeSha256": "a00015ccdf85ee7daf9c591fbfd3760e3feb5dc8cff364919b77621bd168f51d",
+      "afterSha256": "895fb9408afb0dd97f9c4b784d0b4029158fbe9cbd6a9f810b7d26674d686119",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1001,
+          "end": 1009,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "230b99a08efc2d470e7672238d99e955963c6b68aaab0331868790c48278ea88"
+    },
+    {
+      "cardId": "B4b-275",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/275.ts",
+      "beforeSha256": "26741f72bebfe32b0c96aec8b5e90490a23f5669d60acd02506e5861dd4065ae",
+      "afterSha256": "aabe5bcf7592caf704d512b5c1d39ebf9ac35b3b4f6816b9f1b8a8b59951f561",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 998,
+          "end": 1007,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "3ab996fdaaa35fc839ed1cfbf2cee5fa54465ade3485e99e571f4fbd2c559164"
+    },
+    {
+      "cardId": "B4b-335",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/335.ts",
+      "beforeSha256": "750bca4c8e0aaf6783dd7ebb6c4842b0858dae47b9f56532ff9b602bd7c1ec7e",
+      "afterSha256": "d5c59930b2789e73cec22809466962335936926c1f45e2e11381a8aa567d962b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나이킹",
+          "value": "가라르 나이킹"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1451,
+          "end": 1458,
+          "text": "\"가라르 나옹\""
+        },
+        {
+          "start": 1027,
+          "end": 1035,
+          "text": "\"가라르 나이킹\""
+        }
+      ],
+      "secondarySha256": "e226967dc45000f75492bc51ad2958bcbd84669389faea993a693c35f04b1fa1"
+    },
+    {
+      "cardId": "B4b-191",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/191.ts",
+      "beforeSha256": "58279076b5fded221a5a3fb3772d33575fbb8bab95d2ccb7973046b2120c5689",
+      "afterSha256": "cc3f62dec389ee9af908d96bc7cc791d1b1b99bab5fc860d4cc7c21680d4f12e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 993,
+          "end": 1001,
+          "text": "\"히스이 조로아\""
+        }
+      ],
+      "secondarySha256": "aad15adea99d604ffbd21870fea2bca9f7719746455da90797203d7ca2e00f6e"
+    },
+    {
+      "cardId": "B4b-325",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/325.ts",
+      "beforeSha256": "ba436228d3400ab5f2c900b1f60c42cc4815b48fbe10339df97d55e5fcbbace9",
+      "afterSha256": "b11a1a1eeea131f03b84099ee1ee966a2302c6da71a7c34f1a1932e1f646f3b4",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기",
+          "value": "알로라 질뻐기"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1417,
+          "end": 1425,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 994,
+          "end": 1002,
+          "text": "\"알로라 질뻐기\""
+        }
+      ],
+      "secondarySha256": "3e04c3f721c20a3886585e008e4a9ea3cf0d9b8e5d682ca944c6a2c22d32aa9c"
+    },
+    {
+      "cardId": "B4b-360",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/360.ts",
+      "beforeSha256": "26d5c11e0e3b8bd6b239d5ffe728d768c9d6123068ef4600b2d925148186a43f",
+      "afterSha256": "22fc44463f0eed418d2512081e172c8cb8f02bcb6db4e62e7802079db69aff63",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 993,
+          "end": 1001,
+          "text": "\"히스이 조로아\""
+        }
+      ],
+      "secondarySha256": "e0c1a3106882494aae53db889e1a61516055fb80af2367b2ba740fcf04efaa42"
+    },
+    {
+      "cardId": "B4b-137",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/137.ts",
+      "beforeSha256": "7d244c5d8a64e50b431a9ab3f3131f488971e445ed25e8008fca8f0fe9aea7e7",
+      "afterSha256": "c2a6574eeb51a62f141c5982cfd3f94b8169c17037f2f965a133835d37ce618a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1001,
+          "end": 1009,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "1d2767488d8853039acac70b039ad3e9c043ef9cb1cc118126b9be2afa38dc00"
+    },
+    {
+      "cardId": "B4b-138",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/138.ts",
+      "beforeSha256": "9052052ee7ddb6fa478406fdc74a10dbf609012c2edce9ac3db741e903f922fa",
+      "afterSha256": "1e43f5b7cadfcb60c81f3329aae5509091a8182369434adf29c4f5a8a39df51d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기",
+          "value": "알로라 질뻐기"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1417,
+          "end": 1425,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 994,
+          "end": 1002,
+          "text": "\"알로라 질뻐기\""
+        }
+      ],
+      "secondarySha256": "bf89a563386a0227be750872bc6035a9f40e725ea90ba651da19e67de9253e9b"
+    },
+    {
+      "cardId": "B4b-028",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/028.ts",
+      "beforeSha256": "251e6cd27e32953debec2064b5782e285968e12cb359d202a784d42770519ce2",
+      "afterSha256": "2df4b74a511e4015624713b3f8b3dbeed3ff558af29287ac880518e345caa90f",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면 ex",
+          "value": "오거폰 벽록의 가면 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1081,
+          "end": 1095,
+          "text": "\"오거폰 벽록의 가면 ex\""
+        }
+      ],
+      "secondarySha256": "ef043acb7fcdce3ddc77691aa5848097e5a0eb50679ccf1e29df5f1e2866ff8f"
+    },
+    {
+      "cardId": "B4a-089",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/089.ts",
+      "beforeSha256": "cec044cadbf874054b11451fbb7a9333aa942fc55b93bf859bc42077ceac9937",
+      "afterSha256": "5c981f560a8cb6cecea710ce1f2700089c7ff95ed706d97ac4f5fb3f8e4bcd81",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의프리져 ex",
+          "value": "로켓단의 프리져 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1059,
+          "end": 1071,
+          "text": "\"로켓단의 프리져 ex\""
+        }
+      ],
+      "secondarySha256": "445294e24ec80d5b7c78c3224b3863d62d0f8f37bc86c5c999c2558fb4a6a778"
+    },
+    {
+      "cardId": "B4a-088",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/088.ts",
+      "beforeSha256": "03a722a5b81af6583ab7f57824851aa55cd33df0d24af1ed6a69454dc1efb8d3",
+      "afterSha256": "a86465f2c0c937dc12a29a611e1d773ab3a67a43983cfd04c0ead80c9854b1a5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의파이어 ex",
+          "value": "로켓단의 파이어 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1054,
+          "end": 1066,
+          "text": "\"로켓단의 파이어 ex\""
+        }
+      ],
+      "secondarySha256": "0535868ecec2f11756c61a2ece4b4a90c7e9b2446eb6cea05d4a0c57e61f2d46"
+    },
+    {
+      "cardId": "B4a-093",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/093.ts",
+      "beforeSha256": "49ff2ca67519a81863b8a907ca0890299b3dbac035a7cec8dd00901b05fec103",
+      "afterSha256": "9cd3954fbc3791e35fb007e34c3e5ac65f0f874a0622f1dd1837613382746052",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의레트라 ex",
+          "value": "로켓단의 레트라 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의꼬렛",
+          "value": "로켓단의 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1517,
+          "end": 1525,
+          "text": "\"로켓단의 꼬렛\""
+        },
+        {
+          "start": 1060,
+          "end": 1072,
+          "text": "\"로켓단의 레트라 ex\""
+        }
+      ],
+      "secondarySha256": "d07508ae5fb2a20075af239a5263d0d8373a6ccd5120c4ef4c3ead06cef2d958"
+    },
+    {
+      "cardId": "B4a-060",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/060.ts",
+      "beforeSha256": "94e66e2bc7430720eeb5872b967f9442d83ee5ff20e064adfdcab48dca570386",
+      "afterSha256": "c88519281fdeab9fb96e519c7b72673d8fb48c5dc04b2ecb21e73dc9c340165b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의나옹",
+          "value": "로켓단의 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1027,
+          "end": 1035,
+          "text": "\"로켓단의 나옹\""
+        }
+      ],
+      "secondarySha256": "665ee75cf417a8e4c9586438124e4d93332318a1b308a79eb07d49226213912e"
+    },
+    {
+      "cardId": "B4a-021",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/021.ts",
+      "beforeSha256": "34e2a6fa80580c01997d02eaa159db30587d2908eaec2e80c383d875d09c1458",
+      "afterSha256": "f77b49fcecb26f28c50a9d640c6e55abfde06c38681c116e341b9d14a8422b2c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의썬더 ex",
+          "value": "로켓단의 썬더 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1050,
+          "end": 1061,
+          "text": "\"로켓단의 썬더 ex\""
+        }
+      ],
+      "secondarySha256": "390726ce4a6f3ab895b90ca166276ddb64d1d11d6ca62e833231c5537eefa784"
+    },
+    {
+      "cardId": "B4a-083",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/083.ts",
+      "beforeSha256": "503d4faff886bb9f96eb6e9c40140e53c4ae6a237bcf99ced5f644fc0f827b6d",
+      "afterSha256": "d28b62400c898843014c7643ca2ade462e5be356af5f805d42abb303702a52fa",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의또도가스 ex",
+          "value": "로켓단의 또도가스 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의또가스",
+          "value": "로켓단의 또가스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1521,
+          "end": 1530,
+          "text": "\"로켓단의 또가스\""
+        },
+        {
+          "start": 1055,
+          "end": 1068,
+          "text": "\"로켓단의 또도가스 ex\""
+        }
+      ],
+      "secondarySha256": "4e45a183e0cfd0acd76c4e3f665973b5559a68f36b2055c55b5b917fd491af12"
+    },
+    {
+      "cardId": "B4a-044",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/044.ts",
+      "beforeSha256": "abdcea5b74c66a9e9f00afeca8c2942daaf3e83125c0bc8ca40234504fa1ca8b",
+      "afterSha256": "d139ba545e7d1cfc12b26a90bd714aeec28d70ab4d9a6326a3df8973d9de1a8c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의포푸니",
+          "value": "로켓단의 포푸니"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1034,
+          "end": 1043,
+          "text": "\"로켓단의 포푸니\""
+        }
+      ],
+      "secondarySha256": "7dc4d62a5bb6a2f4ecddb66a2b60e3cdda319cf1493376030e0e2f0639b1b1d0"
+    },
+    {
+      "cardId": "B4a-050",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/050.ts",
+      "beforeSha256": "3cd9fd25fd702d4d1d03459dc928eb06281cbb7d36c9ea5a89f42bf771573a37",
+      "afterSha256": "0ac48a660b0af3c08063dbfd829ea4b2740f1463008231a3c579bbc295f994d1",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의두드리짱",
+          "value": "로켓단의 두드리짱"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의벼리짱",
+          "value": "로켓단의 벼리짱"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1522,
+          "end": 1531,
+          "text": "\"로켓단의 벼리짱\""
+        },
+        {
+          "start": 1044,
+          "end": 1054,
+          "text": "\"로켓단의 두드리짱\""
+        }
+      ],
+      "secondarySha256": "60cfb039ac746c26255ef18c437e38995a2826ca50cf98146eba7b5c6fc8f111"
+    },
+    {
+      "cardId": "B4a-040",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/040.ts",
+      "beforeSha256": "b6a7b4290e68b19e0bc58564668f8aaee3ac26f99ecb53ec56cb76c3e762294c",
+      "afterSha256": "de2c59e64383259d3b6da8e75c807ea5614421f9357b7e36351ea21e0163897a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의질퍽이",
+          "value": "로켓단의 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1032,
+          "end": 1041,
+          "text": "\"로켓단의 질퍽이\""
+        }
+      ],
+      "secondarySha256": "cf6856618d4fa074c2bba7b16fad9bbcfbb3fd641b235fbf5a68ed794e082b48"
+    },
+    {
+      "cardId": "B4a-074",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/074.ts",
+      "beforeSha256": "5205116c3e12c8b3ac3cc269d0bcec75afc1189f06d18cefb5b5e155b4239c31",
+      "afterSha256": "0df5b376f34670b1679269b194e764ad814f257524c908ac642c302f02322134",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의슬리퍼",
+          "value": "로켓단의 슬리퍼"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의슬리프",
+          "value": "로켓단의 슬리프"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1487,
+          "end": 1496,
+          "text": "\"로켓단의 슬리프\""
+        },
+        {
+          "start": 1027,
+          "end": 1036,
+          "text": "\"로켓단의 슬리퍼\""
+        }
+      ],
+      "secondarySha256": "8cf47fa6b9c1d6ff1e89d86508462c20e9047f05f7f3addaf3fc7b98662b13f6"
+    },
+    {
+      "cardId": "B4a-025",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/025.ts",
+      "beforeSha256": "e814e7064ec6e928b172bc123e5a8ce35d9b52d68d16f75abcda3ef77a21a6eb",
+      "afterSha256": "bcb1efb357993c8641c9967bf880f73e448bcd60d0ec7e9e27f2cd50f675ed42",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의야돈",
+          "value": "로켓단의 야돈"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1039,
+          "end": 1047,
+          "text": "\"로켓단의 야돈\""
+        }
+      ],
+      "secondarySha256": "435752b04941d4d9611b419d16a63953a7d4d05be4ba2d68b994baa326a5fd5d"
+    },
+    {
+      "cardId": "B4a-041",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/041.ts",
+      "beforeSha256": "ffb42dc98d641cf7212e0697a0ce6916d212c2509aebabd8ecf573323ec598f8",
+      "afterSha256": "848b353b86e956c209572ab4a2534d5c40536a55030bd17cc8f4f6cdf1d593d7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의질뻐기",
+          "value": "로켓단의 질뻐기"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의질퍽이",
+          "value": "로켓단의 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1482,
+          "end": 1491,
+          "text": "\"로켓단의 질퍽이\""
+        },
+        {
+          "start": 1021,
+          "end": 1030,
+          "text": "\"로켓단의 질뻐기\""
+        }
+      ],
+      "secondarySha256": "78cad1e15d6562cb1c013f825665b9ba6cabd1d857b748da46e20a4626978f5a"
+    },
+    {
+      "cardId": "B4a-075",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/075.ts",
+      "beforeSha256": "db8ef2dfaa311aaca2b8c0a2bb9746699dd6a6770e3447a978d5bab6427ba0f9",
+      "afterSha256": "903c80ae2263bdc80bb2229167cb70cd7b90af7e7a720382abf7f03d520f147a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의두드리짱",
+          "value": "로켓단의 두드리짱"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의벼리짱",
+          "value": "로켓단의 벼리짱"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1513,
+          "end": 1522,
+          "text": "\"로켓단의 벼리짱\""
+        },
+        {
+          "start": 1044,
+          "end": 1054,
+          "text": "\"로켓단의 두드리짱\""
+        }
+      ],
+      "secondarySha256": "615ea6a022db2eb76b1a4ef72783456e93c42c8c19875e81a28eb0bc07ba3157"
+    },
+    {
+      "cardId": "B4a-024",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/024.ts",
+      "beforeSha256": "655d90780f24a00f337f1e2987f949d3255ee8d33731f6af0dcffc91491bde2a",
+      "afterSha256": "4d3ca8b3c17d7fc8ed3f27f75fa1eff978a438f25681189d4c7af7682d7af93a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의찌르성게",
+          "value": "로켓단의 찌르성게"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1050,
+          "end": 1060,
+          "text": "\"로켓단의 찌르성게\""
+        }
+      ],
+      "secondarySha256": "7af589d7031082cb36698a96bf7983b50830d05a1179e91c1f1ce5c374ff455b"
+    },
+    {
+      "cardId": "B4a-092",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/092.ts",
+      "beforeSha256": "a0025899e8423d90861fb81e49ff8e6630cbed0f4dc184ab3fa85ba3e5d7f099",
+      "afterSha256": "984216dda7dca30420d9922628361215ce4a367d4517afbd3b73faa8025f4e88",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의또도가스 ex",
+          "value": "로켓단의 또도가스 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의또가스",
+          "value": "로켓단의 또가스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1521,
+          "end": 1530,
+          "text": "\"로켓단의 또가스\""
+        },
+        {
+          "start": 1055,
+          "end": 1068,
+          "text": "\"로켓단의 또도가스 ex\""
+        }
+      ],
+      "secondarySha256": "3d613f7b7cf31414c03ad3f5b7f67f12eec43cbeeb35a0bcd1674dbeac4a1b1c"
+    },
+    {
+      "cardId": "B4a-061",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/061.ts",
+      "beforeSha256": "e851d774eba88dcf5feccc0e174b1334b138fbc8fd196b4f23b4b7fe10fa4b00",
+      "afterSha256": "803ebb618e309747d7a1d2ca7757a52e9f015c7d3ef626f9b0c43895f6fbec11",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의페르시온",
+          "value": "로켓단의 페르시온"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의나옹",
+          "value": "로켓단의 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1488,
+          "end": 1496,
+          "text": "\"로켓단의 나옹\""
+        },
+        {
+          "start": 1037,
+          "end": 1047,
+          "text": "\"로켓단의 페르시온\""
+        }
+      ],
+      "secondarySha256": "f957d48ea3b8551080a07b27472c6820cd693cc036e22ba464b85e3c8c8316b7"
+    },
+    {
+      "cardId": "B4a-030",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/030.ts",
+      "beforeSha256": "31f79a2b80a57eac6e063c12630392557e19187dfa84920f5e8d56d1f9899cb7",
+      "afterSha256": "2598144c8d2ede012e87558b58fa25cf79afbb517c59466a7ac6282dd169fe3e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의뮤츠",
+          "value": "로켓단의 뮤츠"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1026,
+          "end": 1034,
+          "text": "\"로켓단의 뮤츠\""
+        }
+      ],
+      "secondarySha256": "16c321bb3a2ea58cc9af9c5be6a8a53af5441817703f6e75ca073bb25974122f"
+    },
+    {
+      "cardId": "B4a-020",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/020.ts",
+      "beforeSha256": "4f19f53df9a31fe315fd435f37fddcd68c063013049df91cdd73a1084c9c8750",
+      "afterSha256": "dd7fd011925e12dffc28e1949b8ad2c27526fe94641546448d182c561c733c0a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의붐볼",
+          "value": "로켓단의 붐볼"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의찌리리공",
+          "value": "로켓단의 찌리리공"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1503,
+          "end": 1513,
+          "text": "\"로켓단의 찌리리공\""
+        },
+        {
+          "start": 1047,
+          "end": 1055,
+          "text": "\"로켓단의 붐볼\""
+        }
+      ],
+      "secondarySha256": "b50922c130ba8b9ad6b47da39a10ba65782831ca577f3cc325e7e9de1935c63f"
+    },
+    {
+      "cardId": "B4a-082",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/082.ts",
+      "beforeSha256": "7666a4f0b8c79bb74e9a1854f12fcdfcb0660153bc38daaf35ce743d2e35ca4a",
+      "afterSha256": "862ca618413b2d3e74431da2b9d5bb583e564c06f4e3acfa34c793753b7f1048",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의야도킹 ex",
+          "value": "로켓단의 야도킹 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의야돈",
+          "value": "로켓단의 야돈"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1533,
+          "end": 1541,
+          "text": "\"로켓단의 야돈\""
+        },
+        {
+          "start": 1061,
+          "end": 1073,
+          "text": "\"로켓단의 야도킹 ex\""
+        }
+      ],
+      "secondarySha256": "02c63b1d1732a86c72e5df3d41501a2e0787c833f49044ecb6e72a4c144b493e"
+    },
+    {
+      "cardId": "B4a-014",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/014.ts",
+      "beforeSha256": "5e8665b983bb6772849be5af5a163e7adc313584f1917468f477c5e92e63a18f",
+      "afterSha256": "b6ea90ef49f504aea88ab8b77318bbd6f47bc35183886619a8ea76bb8449dae6",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의프리져 ex",
+          "value": "로켓단의 프리져 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1059,
+          "end": 1071,
+          "text": "\"로켓단의 프리져 ex\""
+        }
+      ],
+      "secondarySha256": "c07d92aafcef157357ebe16d2842f026efbd261edcba7ca43b3d183bfb4fc741"
+    },
+    {
+      "cardId": "B4a-042",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/042.ts",
+      "beforeSha256": "62dfb19c443fdd70a9c34eaf7bd7992cb57669b63b9c138680d6ccf6d68be0fe",
+      "afterSha256": "0c7752cd2bb1ae4268fa3b9e8afecf8181e2e016ecf6801b469f3e2d2c3b012b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의또가스",
+          "value": "로켓단의 또가스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1031,
+          "end": 1040,
+          "text": "\"로켓단의 또가스\""
+        }
+      ],
+      "secondarySha256": "d6f36fe9eeefbc08ef47a9799c532be2a55c864f9f88aa7b1f0e2b281d4ffed9"
+    },
+    {
+      "cardId": "B4a-013",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/013.ts",
+      "beforeSha256": "f874bf0082cb9e1b0cfb2b6ff4ee16f222cbb52a7dd7bcaca5cb9ab7d7976017",
+      "afterSha256": "5424928915b29aada3c2aed3492ea8bbc04e67947e561c82f5601a37bcf102eb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의라프라스",
+          "value": "로켓단의 라프라스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1031,
+          "end": 1041,
+          "text": "\"로켓단의 라프라스\""
+        }
+      ],
+      "secondarySha256": "c1ccfee22180ff51abfda8136c2d32f36f3fa55ca902a55c01af60fab68c5666"
+    },
+    {
+      "cardId": "B4a-027",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/027.ts",
+      "beforeSha256": "aecf2a93e02b40420f291f5f6e384b6356a42eb6acdfa11cb2e01c2a44a11e4f",
+      "afterSha256": "84ad9541cb864cbc2089d9b3bf114a81d8bc58f8133145c65b40552d2f08125e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의슬리프",
+          "value": "로켓단의 슬리프"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1037,
+          "end": 1046,
+          "text": "\"로켓단의 슬리프\""
+        }
+      ],
+      "secondarySha256": "05cf99fcd54a741cb2d3331de50b4298a444f282f1e7c1a3ce3a744095aa8e46"
+    },
+    {
+      "cardId": "B4a-076",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/076.ts",
+      "beforeSha256": "1c73fb263c60d99224b4cdf05209d9d4c30733e8140f4e3ae006b3655669fd9e",
+      "afterSha256": "de65fc6d6edd826c07795ee24dd997e3676eb8faf02d1c8004b11573c7863418",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의켈리몬",
+          "value": "로켓단의 켈리몬"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1034,
+          "end": 1043,
+          "text": "\"로켓단의 켈리몬\""
+        }
+      ],
+      "secondarySha256": "01f5f2a0e7e5bdb4b06f422b6363769c4b795ba41deae83e91c68ec15a797819"
+    },
+    {
+      "cardId": "B4a-007",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/007.ts",
+      "beforeSha256": "e3db9b490bb778342b9caeeadb0f59c57e1f934dbcacb029e8e3cb5823ae93af",
+      "afterSha256": "dc9b58e752aff4ba0dca1999c9d17f2fbf9b039a83fb71a85912e570b40c53ba",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의파이어 ex",
+          "value": "로켓단의 파이어 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1054,
+          "end": 1066,
+          "text": "\"로켓단의 파이어 ex\""
+        }
+      ],
+      "secondarySha256": "548bb7586e56c7412bcc0feb4aa83ff3f4acd35fbde2928cf33608d9e86fcba9"
+    },
+    {
+      "cardId": "B4a-062",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/062.ts",
+      "beforeSha256": "0f98f0b40268a7a83483257365d1a74bc8f6154b827a2a29ebaf07eaf3565dbd",
+      "afterSha256": "465211e61d828959d879cfcc7455df9d6a462bfc9f6496f35f7bc8215a79a6be",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의켈리몬",
+          "value": "로켓단의 켈리몬"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1034,
+          "end": 1043,
+          "text": "\"로켓단의 켈리몬\""
+        }
+      ],
+      "secondarySha256": "e61c617ab9e0df6e4fc2b534c4e3e3124de7e90e23f3f0c7873676e4e66a46f2"
+    },
+    {
+      "cardId": "B4a-091",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/091.ts",
+      "beforeSha256": "7cde41e12b54decb9b2d273ce7a8475d2239af00582afce592af72eb8c2891f0",
+      "afterSha256": "ea56072a66bc0979a323ac2cd1a404349ce9c7950b20435a69a7a5bbf3bb96ed",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의야도킹 ex",
+          "value": "로켓단의 야도킹 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의야돈",
+          "value": "로켓단의 야돈"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1533,
+          "end": 1541,
+          "text": "\"로켓단의 야돈\""
+        },
+        {
+          "start": 1061,
+          "end": 1073,
+          "text": "\"로켓단의 야도킹 ex\""
+        }
+      ],
+      "secondarySha256": "5190f0f2601870c22bf7f00da26c460b28dd73c761b5efd345d8dccc0dbfa351"
+    },
+    {
+      "cardId": "B4a-081",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/081.ts",
+      "beforeSha256": "5825c2bce81ab07a9fe8dc91e28b8095ac983567cf8aacff5af151e2d68c77ac",
+      "afterSha256": "b28daa6d65f3c3293e60ca50f11e27e700c1cd3b68240b8ddb6c4890379ecfbb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의썬더 ex",
+          "value": "로켓단의 썬더 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1050,
+          "end": 1061,
+          "text": "\"로켓단의 썬더 ex\""
+        }
+      ],
+      "secondarySha256": "f907cf279a08a725f10e7760d0c5b301102f06e23e24fcb22a2492d548d0ebd5"
+    },
+    {
+      "cardId": "B4a-017",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/017.ts",
+      "beforeSha256": "cf07705c2e5da3ba632218c8d5678b8c20a0431487f5507ba4024edb90e1c334",
+      "afterSha256": "9725eff1ce36feda41f7c0fa9fe4496216e11b244a2612e0be6be0f4b96e4325",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이배쓰나이",
+          "value": "히스이 배쓰나이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 999,
+          "end": 1008,
+          "text": "\"히스이 배쓰나이\""
+        }
+      ],
+      "secondarySha256": "d59e80d1a00ad622ff5d96702cf55a137b0f5cde42c8d616aa0ffbdd75f5ef6f"
+    },
+    {
+      "cardId": "B4a-006",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/006.ts",
+      "beforeSha256": "efb9e50dfd7a1cc729fadf90d831bac24c0c9261caedecde1fccfd8f77d3d9f6",
+      "afterSha256": "97c334fe9b2a4af48b0fa63571849ebdf4e8ed80891c7792d7ba8d4e8791b1b6",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의마그마",
+          "value": "로켓단의 마그마"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1029,
+          "end": 1038,
+          "text": "\"로켓단의 마그마\""
+        }
+      ],
+      "secondarySha256": "3153fd689d0e7df5de779c76a3d0999bb214c11818173c6832f6f46d6bb505c1"
+    },
+    {
+      "cardId": "B4a-090",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/090.ts",
+      "beforeSha256": "a4a6d94f9e25286b166c9c92abf031de189adeb08d888fb3c859f45b0403ec77",
+      "afterSha256": "b3a4dbcf70a2a948f5fa42a3c2ea984f722ff3a8b4c333d086740df49858ce41",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의썬더 ex",
+          "value": "로켓단의 썬더 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1050,
+          "end": 1061,
+          "text": "\"로켓단의 썬더 ex\""
+        }
+      ],
+      "secondarySha256": "7ae258458fc490402cf96210ed6fb402dd321d706a77a42cf21331525d1c192a"
+    },
+    {
+      "cardId": "B4a-080",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/080.ts",
+      "beforeSha256": "5ac1cfb1ef92574ec56abcc4de6dbc6b25a43bc1bb3191b5357defbc7b9574e5",
+      "afterSha256": "5c21bf9682253148e6fc9720e654db15f91b40cb82b9a6b69491d0b2d26622f3",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의프리져 ex",
+          "value": "로켓단의 프리져 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1059,
+          "end": 1071,
+          "text": "\"로켓단의 프리져 ex\""
+        }
+      ],
+      "secondarySha256": "945d719c6a613a0cbeae1ccef61042537dcd5fab8d99198e2ce6e22d1aa8f18e"
+    },
+    {
+      "cardId": "B4a-043",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/043.ts",
+      "beforeSha256": "2bc192f6c40b0e7be2ffacc3d2dcd8a809a464940108d7fc4c72f815519ce645",
+      "afterSha256": "2c0508ec599679ed031d7f88aae7e4307feb78c29486030c8fd65657d07b7025",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의또도가스 ex",
+          "value": "로켓단의 또도가스 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의또가스",
+          "value": "로켓단의 또가스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1525,
+          "end": 1534,
+          "text": "\"로켓단의 또가스\""
+        },
+        {
+          "start": 1055,
+          "end": 1068,
+          "text": "\"로켓단의 또도가스 ex\""
+        }
+      ],
+      "secondarySha256": "73fa839b4484b818f634495eea26fc8358b26d91280dae521938375a9ce68d9b"
+    },
+    {
+      "cardId": "B4a-084",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/084.ts",
+      "beforeSha256": "66b1738f514ec529ab4aeb8899126492228c8e3369a2c6da943926aeaff552f9",
+      "afterSha256": "379731399728ed874a7b7de5af452605cf119a35bcc98ff48eeb1b74f988c005",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의레트라 ex",
+          "value": "로켓단의 레트라 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의꼬렛",
+          "value": "로켓단의 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1529,
+          "end": 1537,
+          "text": "\"로켓단의 꼬렛\""
+        },
+        {
+          "start": 1060,
+          "end": 1072,
+          "text": "\"로켓단의 레트라 ex\""
+        }
+      ],
+      "secondarySha256": "43e5e9faf71f8111b630800875cbf1a1591987944df073c4ea1e340cfa624ad6"
+    },
+    {
+      "cardId": "B4a-026",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/026.ts",
+      "beforeSha256": "3992bf8da6e85ea1b6ba05715374fd5d6c143ea3194a874147ecb81897ad3378",
+      "afterSha256": "c1d5c152d0cc50dd2810947cf973ef3b13e9939ba37efed52fe70ccf7d4debfe",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의야도킹 ex",
+          "value": "로켓단의 야도킹 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의야돈",
+          "value": "로켓단의 야돈"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1537,
+          "end": 1545,
+          "text": "\"로켓단의 야돈\""
+        },
+        {
+          "start": 1061,
+          "end": 1073,
+          "text": "\"로켓단의 야도킹 ex\""
+        }
+      ],
+      "secondarySha256": "08678fbefdefd4b36ad65bd8df600162a459789905c5da2f861d66793dc9524a"
+    },
+    {
+      "cardId": "B4a-009",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/009.ts",
+      "beforeSha256": "43b9bff6fdd1d2625d26d419be99ed0aa811a8ec80aa0a677bc30db601c4c64a",
+      "afterSha256": "11531f1deb8bb91031bb6b6e12c261bcd5fd8c25c92996ca041deeb8ecb45e90",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의헬가",
+          "value": "로켓단의 헬가"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의델빌",
+          "value": "로켓단의 델빌"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1498,
+          "end": 1506,
+          "text": "\"로켓단의 델빌\""
+        },
+        {
+          "start": 1041,
+          "end": 1049,
+          "text": "\"로켓단의 헬가\""
+        }
+      ],
+      "secondarySha256": "fe7b8d08f46f4034dce39f9a596f2bf505bdd9c3885b2fe2b8dce4dd8b806c8a"
+    },
+    {
+      "cardId": "B4a-058",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/058.ts",
+      "beforeSha256": "c3eb7a51690f02d099cb047587a809ae469dc1e84d872aa6e608e53342e024b1",
+      "afterSha256": "811c1798e1fcfa5fd88ff51644a21dfc9a549bb12bb48b8971638a850cb236d2",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의꼬렛",
+          "value": "로켓단의 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1036,
+          "end": 1044,
+          "text": "\"로켓단의 꼬렛\""
+        }
+      ],
+      "secondarySha256": "cc10ff31b8fe4c5d00929782bb6b48fd40b19c3a57d8c00d09064535bb58eae1"
+    },
+    {
+      "cardId": "B4a-048",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/048.ts",
+      "beforeSha256": "c4c60a192f12616dcc7d6fa597b0474bda9e1f1ce6563f715079632fbbe2b28a",
+      "afterSha256": "47ecba7a03e7b5dd69e3c82f97db1a5f47e5e13f3a1a2dab650926e4e242085a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의어리짱",
+          "value": "로켓단의 어리짱"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1045,
+          "end": 1054,
+          "text": "\"로켓단의 어리짱\""
+        }
+      ],
+      "secondarySha256": "897376f67bf59d5719a263db83be429454999dd2035ce4694c4179d5651c4a70"
+    },
+    {
+      "cardId": "B4a-019",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/019.ts",
+      "beforeSha256": "275fb52f03e0d744efeb47c93a656601578d03267ccc332c070c4ad6cd45cc9e",
+      "afterSha256": "06b1ebe65c91351e1300c9fbd8a092693507a05eaf6ca05100786a06f0195faf",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의찌리리공",
+          "value": "로켓단의 찌리리공"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1037,
+          "end": 1047,
+          "text": "\"로켓단의 찌리리공\""
+        }
+      ],
+      "secondarySha256": "ff7eb22129d0ec91955c3053bec03af5df00733f9547e37574e8a95a6fdcdf2c"
+    },
+    {
+      "cardId": "B4a-039",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/039.ts",
+      "beforeSha256": "f1bdddeb4e725c515d7ab33c2e2dea9c8df210fa327acfb8c04db5dfef5544e7",
+      "afterSha256": "36dcc1331bc2323575ebc5eb4f1f49831b50703ca77f5f7ffd16dcc4065a6a37",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의아보크",
+          "value": "로켓단의 아보크"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의아보",
+          "value": "로켓단의 아보"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1472,
+          "end": 1480,
+          "text": "\"로켓단의 아보\""
+        },
+        {
+          "start": 1022,
+          "end": 1031,
+          "text": "\"로켓단의 아보크\""
+        }
+      ],
+      "secondarySha256": "d7d9d875e833d510ac0c24ad9eaf5e61d2db322f85008d9060073bf24e7891ad"
+    },
+    {
+      "cardId": "B4a-029",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/029.ts",
+      "beforeSha256": "bdd5bc04d21e25922e0cea8e9821e299c424cca809fc4385b0e4fcab5f406721",
+      "afterSha256": "2ebb46fa6a37eaf8b833cd1e900b6dd6e27b4ac7b07e853067c48ff1e7cec3ad",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의마임맨",
+          "value": "로켓단의 마임맨"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1040,
+          "end": 1049,
+          "text": "\"로켓단의 마임맨\""
+        }
+      ],
+      "secondarySha256": "9507fb26cf718a501e07329bc8acee7c59e077038bc403044b9a4ec5d0181ec7"
+    },
+    {
+      "cardId": "B4a-038",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/038.ts",
+      "beforeSha256": "c1bee0b4577e6dfc21731854b9095f314c072cec2fb50d852e202d7b87152621",
+      "afterSha256": "7323ad3b5915b2da77878359b2296a6bf40ffa48528198ac194b5f300899f914",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의아보",
+          "value": "로켓단의 아보"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1021,
+          "end": 1029,
+          "text": "\"로켓단의 아보\""
+        }
+      ],
+      "secondarySha256": "2b75fef6f22d2898637178aaa9ec5af94acdd4fe254e58345560c145fb43e362"
+    },
+    {
+      "cardId": "B4a-079",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/079.ts",
+      "beforeSha256": "7b7a9c04420b56ed5d084c4f0065fdd0b76203e59018f2540ab88e7b9615daae",
+      "afterSha256": "f2ca9b70a135e813ee4e643aa7913ae65608b7307c9c535426a6ed08986ca4b9",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의파이어 ex",
+          "value": "로켓단의 파이어 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1054,
+          "end": 1066,
+          "text": "\"로켓단의 파이어 ex\""
+        }
+      ],
+      "secondarySha256": "13cfa712f49906f7be8f055f0a9db41eca6fe8aafbba11982459fdc51f9b7ce5"
+    },
+    {
+      "cardId": "B4a-028",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/028.ts",
+      "beforeSha256": "ff97b57171dbc7abf83732dd58e7ee42b849adac9d902a055bf1ba8637396f76",
+      "afterSha256": "b3b0946e03edc8c3afb2d17c64c04754bee9ff1c9dd63b703b8e98ca6b552648",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의슬리퍼",
+          "value": "로켓단의 슬리퍼"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의슬리프",
+          "value": "로켓단의 슬리프"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1489,
+          "end": 1498,
+          "text": "\"로켓단의 슬리프\""
+        },
+        {
+          "start": 1027,
+          "end": 1036,
+          "text": "\"로켓단의 슬리퍼\""
+        }
+      ],
+      "secondarySha256": "033cbd329e940dbd52cb8bda84f112f142c7997cef13b3cb57533e430ef5225f"
+    },
+    {
+      "cardId": "B4a-008",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/008.ts",
+      "beforeSha256": "9c004a5b74caa4648e841bed815907bb57968742c4470f0ebbf0665735d72959",
+      "afterSha256": "87a7dcedd79d85ab4dfec30e9a1e92b06d4896b2dacf6de1aeda2bb59fcb4750",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의델빌",
+          "value": "로켓단의 델빌"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1040,
+          "end": 1048,
+          "text": "\"로켓단의 델빌\""
+        }
+      ],
+      "secondarySha256": "1b7b4ce559648561778ee2029cf5bfa8642fb04ca955066a6724a4ff9fa5f87f"
+    },
+    {
+      "cardId": "B4a-059",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/059.ts",
+      "beforeSha256": "dfd7bbcddce42f99348988d801b96163a5a76fc07ae50b8e8f0b5a7193a717ca",
+      "afterSha256": "6952e0b86fc121e236c86bd042fd592207427ce4394675b07462b02946d1fcc5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의레트라 ex",
+          "value": "로켓단의 레트라 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의꼬렛",
+          "value": "로켓단의 꼬렛"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1533,
+          "end": 1541,
+          "text": "\"로켓단의 꼬렛\""
+        },
+        {
+          "start": 1060,
+          "end": 1072,
+          "text": "\"로켓단의 레트라 ex\""
+        }
+      ],
+      "secondarySha256": "e55eface1ac74d65f1d75e020654ad5dfde6426f2f58636b40715e5f2a60b360"
+    },
+    {
+      "cardId": "B4a-049",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/049.ts",
+      "beforeSha256": "b38081a2bbdad79f8cc9839701139b930ef9f0b173799984b2f7fb4e564d5e75",
+      "afterSha256": "9226ceb70d49b74fb732017706e9a96df9f52d839184efac5ff151095280609e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의벼리짱",
+          "value": "로켓단의 벼리짱"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "로켓단의어리짱",
+          "value": "로켓단의 어리짱"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1510,
+          "end": 1519,
+          "text": "\"로켓단의 어리짱\""
+        },
+        {
+          "start": 1046,
+          "end": 1055,
+          "text": "\"로켓단의 벼리짱\""
+        }
+      ],
+      "secondarySha256": "ad07551e05ec75371847a9c654c2e138bcdda9024c2c6c41ef129ab90f092290"
+    },
+    {
+      "cardId": "B4a-018",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/018.ts",
+      "beforeSha256": "481f425c9497882e3fc6eadc0832dbc7c6af63c5d26195f6cd61b4844ae4c442",
+      "afterSha256": "b115846ab76df4ce2a5f41acdbf4c7f914d7d5bc3474efac0d0275abef7058d0",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이대쓰여너",
+          "value": "히스이 대쓰여너"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이배쓰나이",
+          "value": "히스이 배쓰나이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1452,
+          "end": 1461,
+          "text": "\"히스이 배쓰나이\""
+        },
+        {
+          "start": 1011,
+          "end": 1020,
+          "text": "\"히스이 대쓰여너\""
+        }
+      ],
+      "secondarySha256": "d75d526a792fa234da508a589729484798244cf933259f0694ffcb5ab3434324"
+    },
+    {
+      "cardId": "B2a-097",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/097.ts",
+      "beforeSha256": "368f6a692da28b08e5e83ebe4ab5f7203622cd6b3a4fa25b7e7dc3c7932bbc8d",
+      "afterSha256": "eef4a0b4b60562054d98585a415c3362005585dce5d80f08b0f251af5b40d50a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1000,
+          "end": 1007,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "ac4929659cb54edf97efda12ef13e734cfc91b78714e9a3af9c5617fb909ffae"
+    },
+    {
+      "cardId": "B2a-064",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/064.ts",
+      "beforeSha256": "1e5c9f6999150680fa48b17fcf498974f1aebede8d7ba5a8dd9074160c0bed80",
+      "afterSha256": "ed431b7cdf73a6bdabb069d419677470d133dce206dd9aa77acf8c4341c952a1",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1000,
+          "end": 1007,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "47eed5a058f155208c51fe18a662e6f634784715c5bdcc8a12d58697e5d297b0"
+    },
+    {
+      "cardId": "B2a-065",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/065.ts",
+      "beforeSha256": "ea8595d248d53f5ec73dd87348d55dd5207d397c4915c3381ceb27358c191e68",
+      "afterSha256": "ab056c61fba372e539289d1ebd65bbbe931cb5bed3dca1a095a0e5f2a1133997",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오",
+          "value": "팔데아 토오"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1474,
+          "end": 1481,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1011,
+          "end": 1018,
+          "text": "\"팔데아 토오\""
+        }
+      ],
+      "secondarySha256": "cb6a12400ce9caa8db69e7adcb2c13295c42d1c783e1d625dd0654ead2cf800f"
+    },
+    {
+      "cardId": "B2a-058",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/058.ts",
+      "beforeSha256": "c06f92e6b4702ff0478f5857343c5579073a1fd39376cf815c032a9db264d03c",
+      "afterSha256": "da8b6b0a3d2b94d9865fe803538b44703a95836fb55819a742bd3d3f29cb4b11",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아켄타로스",
+          "value": "팔데아 켄타로스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1002,
+          "end": 1011,
+          "text": "\"팔데아 켄타로스\""
+        }
+      ],
+      "secondarySha256": "efa6dcdad6cf94fb5bd278055bf5b43b9517bb396840a44db4ad3e84bb1fba53"
+    },
+    {
+      "cardId": "B2-099",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/099.ts",
+      "beforeSha256": "241316f37f69d4d2c541b1778cf1aa0fcdca3eef9222cbeab1a64e2ed10423c8",
+      "afterSha256": "47a0563eb4b38de5254687c2a3c0216df3a7e0d044ed06cb5d9b5902ee88ad69",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르직구리",
+          "value": "가라르 직구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르지그제구리",
+          "value": "가라르 지그제구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1432,
+          "end": 1442,
+          "text": "\"가라르 지그제구리\""
+        },
+        {
+          "start": 1005,
+          "end": 1013,
+          "text": "\"가라르 직구리\""
+        }
+      ],
+      "secondarySha256": "3779c9f38692c9f3d4e2bc83fdf794f77a3dfeabad280314d786c731f8fa3d0e"
+    },
+    {
+      "cardId": "B2-098",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/098.ts",
+      "beforeSha256": "d80fdf894ce985ce62843270537210f79ef94b97faf9358f371f496aaad91acf",
+      "afterSha256": "eebdc86d5b2d8c023007d760b172bcab5c1203ed0329bceec8f3326e2682bdde",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르지그제구리",
+          "value": "가라르 지그제구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1015,
+          "end": 1025,
+          "text": "\"가라르 지그제구리\""
+        }
+      ],
+      "secondarySha256": "879b73b0d44721287b356b35199d18fb655c7fe633c0d560199f94fa1a969cfd"
+    },
+    {
+      "cardId": "B2-182",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/182.ts",
+      "beforeSha256": "b6e60f2a71a07321ecced7415fdc83e86119d8d0c83bcc35df5a3c3b30e0ecef",
+      "afterSha256": "e4ea00d0e57ba608286f1f6502e57e5d5790194cae917f818a051e5c212fb04e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일 ex",
+          "value": "알로라 나인테일 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1445,
+          "end": 1454,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 1032,
+          "end": 1044,
+          "text": "\"알로라 나인테일 ex\""
+        }
+      ],
+      "secondarySha256": "e9f8f2498d13795a768ed2ff9eb54db1c91fc4aefdc6dc320b24ad90b008d654"
+    },
+    {
+      "cardId": "B2-093",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/093.ts",
+      "beforeSha256": "60661ff51987320ed3ac97994626b03902cd83bddc4362aa6a5fb9a58539363e",
+      "afterSha256": "7c314a83bdf288b32a8fa8b62d831340fc5a86e94971007561c8ec1c530b02d0",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰주춧돌의 가면",
+          "value": "오거폰 주춧돌의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1075,
+          "end": 1087,
+          "text": "\"오거폰 주춧돌의 가면\""
+        }
+      ],
+      "secondarySha256": "8229b3d3923463893339504fb6611cc0ea12e8e709e641e41d22b3b9bd45aafc"
+    },
+    {
+      "cardId": "B2-031",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/031.ts",
+      "beforeSha256": "05dd68e1c7a01d0e1a7e509a0003b488f8ccededa99dfa8343493e9d72ae1f93",
+      "afterSha256": "17c68ac2a2f3ce256751a973b9d464ab22d5904de483401b00e656d3d529697a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르마임꽁꽁",
+          "value": "가라르 마임꽁꽁"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르마임맨",
+          "value": "가라르 마임맨"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1443,
+          "end": 1451,
+          "text": "\"가라르 마임맨\""
+        },
+        {
+          "start": 1018,
+          "end": 1027,
+          "text": "\"가라르 마임꽁꽁\""
+        }
+      ],
+      "secondarySha256": "457ebba2ce0811e847b4277823fd6d470f78da8e9624bd702db1d68dbc5f066c"
+    },
+    {
+      "cardId": "B2-097",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/097.ts",
+      "beforeSha256": "acd62a522534a86dfb64f37bfc48c9c467425c76eee23f57318d9f89d28f3c97",
+      "afterSha256": "9f0bde184f83341911525142cfebea2751fcb1054161f78cec2978c97a73a55d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기",
+          "value": "알로라 질뻐기"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1407,
+          "end": 1415,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 990,
+          "end": 998,
+          "text": "\"알로라 질뻐기\""
+        }
+      ],
+      "secondarySha256": "a8cdab63ec12bf927069573bd5a0be2f283a56f98eea285f07ab79b5e630dbb0"
+    },
+    {
+      "cardId": "B2-110",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/110.ts",
+      "beforeSha256": "3ab35fcf2eb9c43478586d33ffc04354c3f1957d03b562254ea7364435a7143d",
+      "afterSha256": "812c76c9fa2b9316feef7b4c66335cd1cce2bae4f5062c7f210f593f6bce9905",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 997,
+          "end": 1004,
+          "text": "\"가라르 나옹\""
+        }
+      ],
+      "secondarySha256": "87af0245d94ca22780b2bf1175a6779a2eda8c22d86532176d640cbeccca01ba"
+    },
+    {
+      "cardId": "B2-050",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/050.ts",
+      "beforeSha256": "8221409a21f8c1f90af45b23ef6b8226618e01dfea581fd4c4f11759239b1e6f",
+      "afterSha256": "fcef5cc5bf895a32ad95c0e3786627868f9b80aea20a23deb5289649706a203b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라라이츄",
+          "value": "알로라 라이츄"
+        }
+      ],
+      "edits": [
+        {
+          "start": 996,
+          "end": 1004,
+          "text": "\"알로라 라이츄\""
+        }
+      ],
+      "secondarySha256": "00c95d22c749572126169dc45bcdc0490b2d8705827a7e4cccf33429722f73a0"
+    },
+    {
+      "cardId": "B2-100",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/100.ts",
+      "beforeSha256": "460edaacd4354560c95a6002e742355de57a8645d1ce399b55cded483605bc93",
+      "afterSha256": "cb67677dfcd985cf72d87be09825e914c6f6e80f32711c365cd69c1393abda8d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르가로막구리",
+          "value": "가라르 가로막구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르직구리",
+          "value": "가라르 직구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1434,
+          "end": 1442,
+          "text": "\"가라르 직구리\""
+        },
+        {
+          "start": 1014,
+          "end": 1024,
+          "text": "\"가라르 가로막구리\""
+        }
+      ],
+      "secondarySha256": "dbc299e75572b4b4de97f3101d01e69557808821b2e984e834c5873c3470a271"
+    },
+    {
+      "cardId": "B2-196",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/196.ts",
+      "beforeSha256": "aaefa947a6679ac12a0ce2bdaf3cd1a144df7a0298e058644d21633f97ead84b",
+      "afterSha256": "67bf36dd2e18935436315167531e6e293073a97e63e47a119773da71059f054e",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일 ex",
+          "value": "알로라 나인테일 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1434,
+          "end": 1443,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 1032,
+          "end": 1044,
+          "text": "\"알로라 나인테일 ex\""
+        }
+      ],
+      "secondarySha256": "ad412206e8387791143a3f37f60d5e283a19f0f3454f3b6c9672ee1a13abf621"
+    },
+    {
+      "cardId": "B2-096",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/096.ts",
+      "beforeSha256": "16739051f77725ab657080160bcd70607596c0ebabf1ef7dd629aa2a1040fba4",
+      "afterSha256": "5577e87f16383e7e072a9cf209ebf35bd0ed79d97da926519ac63c79ebd10f56",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 997,
+          "end": 1005,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "2ab26cdf3fb4bb76d7f8194196faccd32b3dfe876ebacd918d3b82a279150341"
+    },
+    {
+      "cardId": "B2-111",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/111.ts",
+      "beforeSha256": "b9889855cbb32125b9359440ae9e4f4fa57ccf84386da96267829a9b18fbaed5",
+      "afterSha256": "42f3c6f321800d61c9de444d9a0a6ede69899ace9a8ebedfbfe15428c9066d89",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나이킹",
+          "value": "가라르 나이킹"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1441,
+          "end": 1448,
+          "text": "\"가라르 나옹\""
+        },
+        {
+          "start": 1023,
+          "end": 1031,
+          "text": "\"가라르 나이킹\""
+        }
+      ],
+      "secondarySha256": "4d5b33fcbfb674fa098148561f31dca857f56391d716975d5ca80705968e7498"
+    },
+    {
+      "cardId": "B2-030",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/030.ts",
+      "beforeSha256": "36580798c22fed863f425a0354fb226c85bf8488488f2976366b17f10752b761",
+      "afterSha256": "54b24eab2825cd95f3487a3aa2df0be05901431fc675eb569589d86adef1e9ed",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르마임맨",
+          "value": "가라르 마임맨"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1011,
+          "end": 1019,
+          "text": "\"가라르 마임맨\""
+        }
+      ],
+      "secondarySha256": "04756e229d11c0837d3a9c6662f3eff79e959b7ef969ffb888c5c10970f6e2ac"
+    },
+    {
+      "cardId": "B2-193",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/193.ts",
+      "beforeSha256": "816fbaad5e2392651a7d2a74a5adce4a2156b184b9dea3296403bc6b54875857",
+      "afterSha256": "4a9264c3ac332fcb1f18d542e8fe7d2fa67ce6242b87ef32843073cdbc208cd9",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 카드는 자신의 필드에 「가라르가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다.",
+          "value": "이 카드는 자신의 필드에 「가라르 가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2143,
+          "end": 2219,
+          "text": "\"이 카드는 자신의 필드에 「가라르 가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다.\""
+        }
+      ],
+      "secondarySha256": "82013589d1ef57a1af184bcbac0871f2f53a3c9528890978f88e095dec919e14"
+    },
+    {
+      "cardId": "B2-177",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/177.ts",
+      "beforeSha256": "22f218410de9d429722a8116d37fbca38936f23eaa3c6637acb77ec18e3090be",
+      "afterSha256": "80d8fb0a3af125d82804afe4e01d868d0c721f242956c7c96d9141cccab3d856",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나이킹",
+          "value": "가라르 나이킹"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1434,
+          "end": 1441,
+          "text": "\"가라르 나옹\""
+        },
+        {
+          "start": 1023,
+          "end": 1031,
+          "text": "\"가라르 나이킹\""
+        }
+      ],
+      "secondarySha256": "d3eddaa89d66038b3b458649af81ef7b2a58944cb5a2831bde1d31521c068610"
+    },
+    {
+      "cardId": "B2-095",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/095.ts",
+      "beforeSha256": "a6565ebbb5092f427ff7750b9310f646592f8d7919e5796556b543ee8a9cc28d",
+      "afterSha256": "07271a027c78de5fcb2afdc8dbbc2616842370b7bfe9f40f8d2b1fcd9e5a7893",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라페르시온",
+          "value": "알로라 페르시온"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1422,
+          "end": 1429,
+          "text": "\"알로라 나옹\""
+        },
+        {
+          "start": 1006,
+          "end": 1015,
+          "text": "\"알로라 페르시온\""
+        }
+      ],
+      "secondarySha256": "8654d546eaa1feadc69790a12eb82bafc6a1c332581b910806156cedb9c43d84"
+    },
+    {
+      "cardId": "B2-194",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/194.ts",
+      "beforeSha256": "6045f3902dd2a0d0c635221091c77e9b550fa46473fae11a4dd8e094e3d00a47",
+      "afterSha256": "4eda15ea8fc1a25ed2ef47f2db9f7eb336ff3cf236438d81a9bdba894819ba3c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면 ex",
+          "value": "오거폰 벽록의 가면 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1077,
+          "end": 1091,
+          "text": "\"오거폰 벽록의 가면 ex\""
+        }
+      ],
+      "secondarySha256": "7e82f262658904d16d98be47ec44ad438a9c6405a9889e82e32961539460ef2b"
+    },
+    {
+      "cardId": "B2-167",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/167.ts",
+      "beforeSha256": "05b447f75c5a4356945ad3d931ef6896fd9b6528b95f22615d0bc23c325a0888",
+      "afterSha256": "836749045372f696dbab68ffb3af9cfd266f5a65f09fee7a09da7beee1fcf0d4",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르포니타",
+          "value": "가라르 포니타"
+        }
+      ],
+      "edits": [
+        {
+          "start": 998,
+          "end": 1006,
+          "text": "\"가라르 포니타\""
+        }
+      ],
+      "secondarySha256": "d283fb1170a25e7177ae521054c2efce045fef254246bb8683defa6413d3d87c"
+    },
+    {
+      "cardId": "B2-027",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/027.ts",
+      "beforeSha256": "9d3ce32c79c3b5419b9766dc07ca33cf6899530499f13d229f799f9437236da7",
+      "afterSha256": "ab817b861fa51ca96c428ba09d7015e43bf8017f90ec59a44540df703522260a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰화덕의 가면",
+          "value": "오거폰 화덕의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1053,
+          "end": 1064,
+          "text": "\"오거폰 화덕의 가면\""
+        }
+      ],
+      "secondarySha256": "e1fead9e12341e15f1eb7fe54f5fded09489e07d1cbb047a3b8080b942c0057f"
+    },
+    {
+      "cardId": "B2-173",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/173.ts",
+      "beforeSha256": "736cc937bc8f21744dc2398b9d025a5e3c22552e68ef7e0eacb2383441abfec5",
+      "afterSha256": "d339fb2dd067cb2eec05aff132248cf0e2d3d3f264627a65ce334383bd2fc6a9",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기",
+          "value": "알로라 질뻐기"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1395,
+          "end": 1403,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 990,
+          "end": 998,
+          "text": "\"알로라 질뻐기\""
+        }
+      ],
+      "secondarySha256": "36e98026cb6f20cec07243223e692498e82cf7cdef96ada9b097280435b383f5"
+    },
+    {
+      "cardId": "B2-180",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/180.ts",
+      "beforeSha256": "2c7c2260a00ef3c0ab476d606f4217982cf2d7494ed5c2dc5c3b3d0172c83460",
+      "afterSha256": "6f373a5370a671200db71918f7cdfbc58133d9900bb23caf6b7e436638ef8719",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면 ex",
+          "value": "오거폰 벽록의 가면 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1077,
+          "end": 1091,
+          "text": "\"오거폰 벽록의 가면 ex\""
+        }
+      ],
+      "secondarySha256": "d86aefcaec5fab216ad7580bc6b20f9310e82fc3bcfa95a90399896abccdec05"
+    },
+    {
+      "cardId": "B2-017",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/017.ts",
+      "beforeSha256": "a8ef3e6aba9a7169193bbd51e11b9b37c0e8129aa13f1d50fdef413144d158b7",
+      "afterSha256": "7cb58a6e76f5902dc7a91ab4bc232c2ee5034499171740b02e00e60429edf01b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면 ex",
+          "value": "오거폰 벽록의 가면 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1077,
+          "end": 1091,
+          "text": "\"오거폰 벽록의 가면 ex\""
+        }
+      ],
+      "secondarySha256": "a403b22e9a58e7b04a694b0c1b281f256b089dbdb066fb71c3ebf3c9ce25c119"
+    },
+    {
+      "cardId": "B2-117",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/117.ts",
+      "beforeSha256": "4939955ce1db6d69568c691199fa1cf599230d84ba03f267026e097af5ba9450",
+      "afterSha256": "a4917854869bcae9c6b903af8a41560f837722f78e07f107ec9ecab43665e0b7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르메더",
+          "value": "가라르 메더"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1011,
+          "end": 1018,
+          "text": "\"가라르 메더\""
+        }
+      ],
+      "secondarySha256": "7b126c73864df245551f297b4b6b7c0745349e7056e78193abcb96ab8feb945b"
+    },
+    {
+      "cardId": "B2-176",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/176.ts",
+      "beforeSha256": "5e2f68c287635a4a91c5b90b088f02edb96f0812fe9a3d632b5f0c9e93b401e6",
+      "afterSha256": "9e04f0860b05a1ec2283503bde270c9b049798d6949f5b52538f77ae72cab695",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르가로막구리",
+          "value": "가라르 가로막구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르직구리",
+          "value": "가라르 직구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1429,
+          "end": 1437,
+          "text": "\"가라르 직구리\""
+        },
+        {
+          "start": 1014,
+          "end": 1024,
+          "text": "\"가라르 가로막구리\""
+        }
+      ],
+      "secondarySha256": "f3bd206332037a027236d11bc7860f79f9f915deb8984d76a673e0727ece7e26"
+    },
+    {
+      "cardId": "B2-094",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/094.ts",
+      "beforeSha256": "584caf80037a2a4e9d0c68946da0e8a1b82ba169f7c4a8434134d8571c8a8233",
+      "afterSha256": "2a85bc664bb6e64529ae207840ee522e0657f8a829606dc51bac5cef79ade27f",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 995,
+          "end": 1002,
+          "text": "\"알로라 나옹\""
+        }
+      ],
+      "secondarySha256": "c385da6739cba053943572bd64e49adda3559a0d431f9c56e96503c9adf65ebf"
+    },
+    {
+      "cardId": "B2-152",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/152.ts",
+      "beforeSha256": "306cbd0f08d7b365e47ca56fc918b44126c1f01478cc8afd9e3d60b8d444268c",
+      "afterSha256": "b381e572ccec39c6180ce5882ce84ce76e143948446316571455bcc7724d593d",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "이 카드는 자신의 필드에 「가라르가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다.",
+          "value": "이 카드는 자신의 필드에 「가라르 가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 2146,
+          "end": 2222,
+          "text": "\"이 카드는 자신의 필드에 「가라르 가로막구리」가 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다.\""
+        }
+      ],
+      "secondarySha256": "9abf79c1c1b5677842916a02e1e787a1f1c2ac167ff0da799ef699b9d0031cff"
+    },
+    {
+      "cardId": "B2-058",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/058.ts",
+      "beforeSha256": "06372cbc9e5df0efe8677f7af197e32249695f1a18fd42ed6eead8540fa81f79",
+      "afterSha256": "5b3928366fb72d6a7f397fff1127104efc8b49669b91838217915ac63ad5d934",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르포니타",
+          "value": "가라르 포니타"
+        }
+      ],
+      "edits": [
+        {
+          "start": 998,
+          "end": 1006,
+          "text": "\"가라르 포니타\""
+        }
+      ],
+      "secondarySha256": "05000d154878a98f7ee5710a597b1f0d878a77936b726bc0d37228530e26adf5"
+    },
+    {
+      "cardId": "B2-048",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/048.ts",
+      "beforeSha256": "1862d46b2b0e55838f6951a2ee39194d5da12e298d443efc146f176a77729843",
+      "afterSha256": "b4ce24b026fb218f65b3dd730ac48d1a9bf453f4a624a461712993c8c42823c7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰우물의 가면",
+          "value": "오거폰 우물의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1056,
+          "end": 1067,
+          "text": "\"오거폰 우물의 가면\""
+        }
+      ],
+      "secondarySha256": "08efbdd538ee43209efea8b21adfa9dcbc673d162d5053b5345d8e6f7dfdf007"
+    },
+    {
+      "cardId": "B2-029",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/029.ts",
+      "beforeSha256": "8c0431d91f5d888964a6ed4abd255a685a3e6d082739982f619adc9c7a430625",
+      "afterSha256": "8617d69e53ed9a61a8ffcc63eb0fa7e0fb71a64fb244dce6c74d6b6b191ea582",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일 ex",
+          "value": "알로라 나인테일 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1449,
+          "end": 1458,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 1032,
+          "end": 1044,
+          "text": "\"알로라 나인테일 ex\""
+        }
+      ],
+      "secondarySha256": "13af83e33aff6686b1d4a195b48a6d5b55cf7630ad77581931972da6bfc0f5e1"
+    },
+    {
+      "cardId": "B2-028",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/028.ts",
+      "beforeSha256": "1fc302e231b2ac2268888f96e341ff323fcf05547678a7f441fde72045356d2a",
+      "afterSha256": "b5aecb84081cf7ceda32b19eaf1fff7992e22034d180e3565849b6b0df71fae8",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 994,
+          "end": 1003,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "8e231e5c951540dd0209f9a6a79c5628ccde1bd7ac8e97b8681d5c17d1cbab10"
+    },
+    {
+      "cardId": "B2-059",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/059.ts",
+      "beforeSha256": "e11261bde0498a3defea133d741886518d133072788b6a009bc1762086061338",
+      "afterSha256": "0fb08ef26fe69785f383edb927d169e802713bc26aaa4387ca19ccedeb4a2083",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르날쌩마",
+          "value": "가라르 날쌩마"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르포니타",
+          "value": "가라르 포니타"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1419,
+          "end": 1427,
+          "text": "\"가라르 포니타\""
+        },
+        {
+          "start": 1008,
+          "end": 1016,
+          "text": "\"가라르 날쌩마\""
+        }
+      ],
+      "secondarySha256": "79f94a766f84de56d0c74e1e108c204251ae3e1571f230c870ac08c084ef7801"
+    },
+    {
+      "cardId": "B2-018",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/018.ts",
+      "beforeSha256": "cf84f39d1f464b1c2d48dfb75c8eaec813cbceec75fe10cce882509c3a06a8f3",
+      "afterSha256": "18df6a8ffdb70e20c22cfa9bab4e92859df76e24d746659b225d9ac6dd8f322c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라텅구리",
+          "value": "알로라 텅구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1004,
+          "end": 1012,
+          "text": "\"알로라 텅구리\""
+        }
+      ],
+      "secondarySha256": "1154810b0c655c850bf7ce174d463637826d31a5089f9b4b28526d3799e3a966"
+    },
+    {
+      "cardId": "B4-219",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/219.ts",
+      "beforeSha256": "a4fa9940380ba8d2cc77f0f65346dd5451220e2c0073d6b349ad40b1e2f7259a",
+      "afterSha256": "0c2eda388ebde9995ff132a9f596eed90587038fa72d0d97cacb7a841fdd9032",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나이킹",
+          "value": "가라르 나이킹"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1387,
+          "end": 1394,
+          "text": "\"가라르 나옹\""
+        },
+        {
+          "start": 991,
+          "end": 999,
+          "text": "\"가라르 나이킹\""
+        }
+      ],
+      "secondarySha256": "11e5ebbf263e0832cd4e2ad25f136bed361dc6fa5c1bdf305656ece8857b7b13"
+    },
+    {
+      "cardId": "B4-218",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/218.ts",
+      "beforeSha256": "920d2afdd660629fa2c48fff99bea7b538bb336714f5c20ad6fa4eafa7dc2522",
+      "afterSha256": "3ee66a2b4390c12c2016bdea4a48553fd5c4aa9f790c8276b6a143c1d39dd0d3",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르나옹",
+          "value": "가라르 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 966,
+          "end": 973,
+          "text": "\"가라르 나옹\""
+        }
+      ],
+      "secondarySha256": "9aef9bb8331f8995e335b5df11e62e183cf6c73076c5033489c2cca862c23d74"
+    },
+    {
+      "cardId": "B4-097",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/097.ts",
+      "beforeSha256": "4547921ce956e2404d1ece7aa476e25e9a0c521bcfc141e9efcc643b85b7ac16",
+      "afterSha256": "1a874b803bcf9ac329b0c641a1b171be1126a422d6e2fc1545d5ff648e3b06bc",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르가로막구리",
+          "value": "가라르 가로막구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르직구리",
+          "value": "가라르 직구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1400,
+          "end": 1408,
+          "text": "\"가라르 직구리\""
+        },
+        {
+          "start": 981,
+          "end": 991,
+          "text": "\"가라르 가로막구리\""
+        }
+      ],
+      "secondarySha256": "72ea6ebb728d42f3ddcbd93a1eee4e94fe89dfe18e7565f503e45f5a3b74b07a"
+    },
+    {
+      "cardId": "B4-096",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/096.ts",
+      "beforeSha256": "526f3ba6da1892aa2d94b160819a4a998f18b199aa7975f02d9c3bcb05b32788",
+      "afterSha256": "4acea65b65d5b1aebae160c4672b7c0ab70e6eb01cdc20e07baa367062ca727c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르직구리",
+          "value": "가라르 직구리"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르지그제구리",
+          "value": "가라르 지그제구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1391,
+          "end": 1401,
+          "text": "\"가라르 지그제구리\""
+        },
+        {
+          "start": 974,
+          "end": 982,
+          "text": "\"가라르 직구리\""
+        }
+      ],
+      "secondarySha256": "5f33b484fb426365857914fbef5c7472d42a0cdf6b41c13f3f7a74b2f8ba2a49"
+    },
+    {
+      "cardId": "B4-095",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/095.ts",
+      "beforeSha256": "b2ebf5f65e5dc2d5bf3a627b581495e582f23f76542255ff98acdf1a01b3fabb",
+      "afterSha256": "a15fe2895fb13e3e780e22aeb573db61890dde0a0affed7e1c05fa823a0b8624",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르지그제구리",
+          "value": "가라르 지그제구리"
+        }
+      ],
+      "edits": [
+        {
+          "start": 984,
+          "end": 994,
+          "text": "\"가라르 지그제구리\""
+        }
+      ],
+      "secondarySha256": "93545c9fd8ed698304274581d324c3565245c2d192f847a730fb990b65ff497b"
+    },
+    {
+      "cardId": "B4-225",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/225.ts",
+      "beforeSha256": "b1c7b0d1fafaa5a66c6533b9ab0e4f12c250a697c42fb99e206ecbce6716768c",
+      "afterSha256": "7a6cd4d672a91e49d87e2f46b5614b7225dfb615c8f7503af3ebade254565250",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나인테일 ex",
+          "value": "알로라 나인테일 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1425,
+          "end": 1434,
+          "text": "\"알로라 식스테일\""
+        },
+        {
+          "start": 998,
+          "end": 1010,
+          "text": "\"알로라 나인테일 ex\""
+        }
+      ],
+      "secondarySha256": "a280e58025566dc8fd4c9f12338a8394141a2a942a0980bca2a00f761d8c2b66"
+    },
+    {
+      "cardId": "B4-204",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/204.ts",
+      "beforeSha256": "2b481f92032a627a1a81ca80507f31a5065fc53ea77f9a0b4ce75e9333b2fbdd",
+      "afterSha256": "e002bccca063e741029003e19bd17d0c6cbd72764e2cb4fca273e1079060ed90",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 964,
+          "end": 973,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "17ccdbf50d5cdbad767d068a1ed15b07ee6469b2c58156d400e3c2f15711ee72"
+    },
+    {
+      "cardId": "B4-019",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/019.ts",
+      "beforeSha256": "da70d53daa367f09deb4fe7d1e922446774d8e4a1d70ec7e2213b3ae348ba4b6",
+      "afterSha256": "3e38ced018a95ea6ae11497d2b6a2ef9609a15906a800401f213765d24317f5a",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "오거폰벽록의 가면",
+          "value": "오거폰 벽록의 가면"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1020,
+          "end": 1031,
+          "text": "\"오거폰 벽록의 가면\""
+        }
+      ],
+      "secondarySha256": "b39209cb3527a5f07162546de48dc146b444ba63f8e26fd549e289be0e7ce1ad"
+    },
+    {
+      "cardId": "B1-311",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/311.ts",
+      "beforeSha256": "3ce0c6039641390c50fc90ed186f4b368d7e52445e36cd105e6bf3fbef051124",
+      "afterSha256": "91cde39c77b5c800d3f7873be2b6184e45e1faea524ae6608a5d95246ffd827d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 995,
+          "end": 1003,
+          "text": "\"알로라 디그다\""
+        }
+      ],
+      "secondarySha256": "c67121b8095a085c16097a2f1312c9aea60a0b680c51b31dbe3ed1e7b87654fe"
+    },
+    {
+      "cardId": "B1-325",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/325.ts",
+      "beforeSha256": "35ec5067358ebc0942602e3d6dbc2dc462497b2cd8c8bb905da3e36d5759248f",
+      "afterSha256": "d76adc8b6216e83dfff3812e9723d23f31a04392eab2548ca6d1fdc072fce8fe",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오 ex",
+          "value": "알로라 닥트리오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1443,
+          "end": 1451,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 1020,
+          "end": 1032,
+          "text": "\"알로라 닥트리오 ex\""
+        }
+      ],
+      "secondarySha256": "59d49e74febd85990585930f11fa92485dbc129c6bfea3fc52bb6c013300d05e"
+    },
+    {
+      "cardId": "B3b-089",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/089.ts",
+      "beforeSha256": "7640539149e9389551b76fb5510fc35ef1464f433948bb69d6ca9ab98848b947",
+      "afterSha256": "3b67c74a69030d8d3daf4dcc597ccd61832653e5c3aa64148ede8a11df15f29c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아크 ex",
+          "value": "히스이 조로아크 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1366,
+          "end": 1374,
+          "text": "\"히스이 조로아\""
+        },
+        {
+          "start": 1000,
+          "end": 1012,
+          "text": "\"히스이 조로아크 ex\""
+        }
+      ],
+      "secondarySha256": "6fc67ad512f38f5ad56c39eab4cb4501062a13aded088000b33400a3ddfc1a31"
+    },
+    {
+      "cardId": "B3b-060",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/060.ts",
+      "beforeSha256": "cb87b80ac4959e42240bedcfb743876eec43ca2a11e39216ed8e9ed376fbaf7a",
+      "afterSha256": "bad126c461b70dc8f18e99deed1634ec71ec33612648d03236548ceaed7210a7",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아크 ex",
+          "value": "히스이 조로아크 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1378,
+          "end": 1386,
+          "text": "\"히스이 조로아\""
+        },
+        {
+          "start": 1000,
+          "end": 1012,
+          "text": "\"히스이 조로아크 ex\""
+        }
+      ],
+      "secondarySha256": "85f7ceaa8a9e9e500692932d5c2add7733abfc8ddb7a500393efb96a99bb961d"
+    },
+    {
+      "cardId": "B3b-050",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/050.ts",
+      "beforeSha256": "d08fd2cea24307b245f2704baf1aba8a530ee13b5fe7ed6f13a7a8e1960134b4",
+      "afterSha256": "f1b6bb3ee2382ede042bc0faa8dc0293b8e31cbbc772ed9f292a40eb61febde9",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이미끄래곤",
+          "value": "히스이 미끄래곤"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이미끄네일",
+          "value": "히스이 미끄네일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1364,
+          "end": 1373,
+          "text": "\"히스이 미끄네일\""
+        },
+        {
+          "start": 979,
+          "end": 988,
+          "text": "\"히스이 미끄래곤\""
+        }
+      ],
+      "secondarySha256": "a57a07c0d3948c19180275effa79f8a909b407459bfd508fc678e5e566f75641"
+    },
+    {
+      "cardId": "B3b-082",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/082.ts",
+      "beforeSha256": "ee6dfc4b7bd3633811a9ef33c643a8193db3c37041895e9124f61be66f747347",
+      "afterSha256": "bef312d07aa2720db9bf8b2ce6579e88f4d4a5f45b63067d3d5f3bb3a8107653",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아크 ex",
+          "value": "히스이 조로아크 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1374,
+          "end": 1382,
+          "text": "\"히스이 조로아\""
+        },
+        {
+          "start": 1000,
+          "end": 1012,
+          "text": "\"히스이 조로아크 ex\""
+        }
+      ],
+      "secondarySha256": "c0e03f1d9ab3380661d5cf5aaaea679b26072f488aa479730aa194c9da4baed9"
+    },
+    {
+      "cardId": "B3b-007",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/007.ts",
+      "beforeSha256": "4856923a2b23847ae4a390b766ad2987de9fe63fc191c3670e99791b3992a826",
+      "afterSha256": "29499c7bec729f1ba1c138e9be5a62f5d24150c90ee870ee062a9886fe959ef2",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이드레디어",
+          "value": "히스이 드레디어"
+        }
+      ],
+      "edits": [
+        {
+          "start": 992,
+          "end": 1001,
+          "text": "\"히스이 드레디어\""
+        }
+      ],
+      "secondarySha256": "36994d25bc447be3bbb2f94157993e72474e603f1b155864179e03fcffb6af41"
+    },
+    {
+      "cardId": "B3b-059",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/059.ts",
+      "beforeSha256": "4b3d978dbfc57f6564e0cf91ac31478a0ce28d84b0338020381aa0e408273289",
+      "afterSha256": "a374215d23e9977ded011d7494565f096acaed4214f0022c9426393cc120e743",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 967,
+          "end": 975,
+          "text": "\"히스이 조로아\""
+        }
+      ],
+      "secondarySha256": "3246000730531ac60f16c9a770e568545a91dab959c60fbc23a884b6f691a55e"
+    },
+    {
+      "cardId": "B3b-049",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/049.ts",
+      "beforeSha256": "27c26441637575c021ce6a7fdce1651edc9da472a235c522bca282f195dde399",
+      "afterSha256": "b8c9493a5d52785b4d014b78d517a83825f66df1558791829385a0fb808667f0",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이미끄네일",
+          "value": "히스이 미끄네일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 983,
+          "end": 992,
+          "text": "\"히스이 미끄네일\""
+        }
+      ],
+      "secondarySha256": "23f8f4708f8971e43f4b30e7d013ac9b7c206e588090d6d17051d8f0c608a5f0"
+    },
+    {
+      "cardId": "A4b-238",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/238.ts",
+      "beforeSha256": "f12523f9830134615c2e6b6ef9c4516f48f31bd93a6e3aac3d9a0a611431c600",
+      "afterSha256": "896decb2e1f2a739b036169ec326ffa05cb4b8e3f8f9cb325dc042268af0f6ea",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오 ex",
+          "value": "팔데아 토오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1469,
+          "end": 1476,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1041,
+          "end": 1051,
+          "text": "\"팔데아 토오 ex\""
+        }
+      ],
+      "secondarySha256": "82d8ab209c8cbfd3d5833009b5da598fd87be2818247235258ef48c04c981372"
+    },
+    {
+      "cardId": "A4b-249",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/249.ts",
+      "beforeSha256": "93a5664b7df0916c9981f804a2981b1c0717301a85d6604be273b4d066fa08ec",
+      "afterSha256": "f9755ae926be96e43059ab2ca0ff038fa64e85ec4eb414f222b33bcd42396689",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 881,
+          "end": 889,
+          "text": "\"알로라 디그다\""
+        }
+      ],
+      "secondarySha256": "1bd4b0748450c777a102dba8713c52c1041af49a26c85ccea3fbfc6e86a01522"
+    },
+    {
+      "cardId": "A4b-130",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/130.ts",
+      "beforeSha256": "ad6bbed226a06932455cc72ec1dccc1810546092de0a0d13cd878706d55566f9",
+      "afterSha256": "11661ee90560a28ea1b92559d9df0db440808b1f1a889e87d429200f265f8cbb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라라이츄 ex",
+          "value": "알로라 라이츄 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1024,
+          "end": 1035,
+          "text": "\"알로라 라이츄 ex\""
+        }
+      ],
+      "secondarySha256": "7aa85d9be996c9dc1bf2ba7bc37eb05598fdcc74dd6d9bed3ae9f4bb48a27ea9"
+    },
+    {
+      "cardId": "A4b-237",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/237.ts",
+      "beforeSha256": "622f93a073e87474d6342b7186ae55e82b5375301d29ea69fa8f969949273ede",
+      "afterSha256": "160fd2b9a3fd446f38325600a7653d2cb8123b43e8bf2a7387fb499cc77639a5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1008,
+          "end": 1015,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "229c891fc30eb352eb01cc9957da2a6f2f1fad0ad83343d4330eb4e8cb422643"
+    },
+    {
+      "cardId": "A4b-233",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/233.ts",
+      "beforeSha256": "b09c2ec080e4bbc9f1772af80489c360c28e9481026438303382966c9403981e",
+      "afterSha256": "3907b7689ecc48a0af277e17c900a783af51550d1ba681e37712470e0b5dd2de",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 876,
+          "end": 884,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "33cdd43c7b8f4ead8be8fbbe9612dad99aa05bee3dc3976a5c690ebf219b4ebe"
+    },
+    {
+      "cardId": "A4b-236",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/236.ts",
+      "beforeSha256": "4cf309b2af4bc129a8ec6f6628d1008381a0e7e9aaa7da3fdfeccbc492662323",
+      "afterSha256": "c76091e75821562fb702e42a999a688c085f861a2624763327f0e58949727f1f",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1008,
+          "end": 1015,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "13382da4bc68a4271dfddc4860326b8dfbb693a44d7db1fb1146a929b3973700"
+    },
+    {
+      "cardId": "A4b-250",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/250.ts",
+      "beforeSha256": "bb99522685cf38201cec15fb4ff66ede9f206beecd970aa1cc48d79c1b89da67",
+      "afterSha256": "61d5ac89c486debe75c4e9ebf94cf769338538646d7d7fb656160760663ba834",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1008,
+          "end": 1016,
+          "text": "\"알로라 디그다\""
+        }
+      ],
+      "secondarySha256": "1f36f5956cd9a6ebac04fac7dfab423bf68a61e27385edc4128e0201dac0f0b3"
+    },
+    {
+      "cardId": "A4b-235",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/235.ts",
+      "beforeSha256": "3bd7f9dd1f6a638a31d172553bba508f6a48022eff8712b3b9c08410939f41fe",
+      "afterSha256": "46db522465ff3931a74829a16cf8eb54e323f457cc3ece67af7e4222f7e3f622",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질뻐기 ex",
+          "value": "알로라 질뻐기 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1441,
+          "end": 1449,
+          "text": "\"알로라 질퍽이\""
+        },
+        {
+          "start": 1018,
+          "end": 1029,
+          "text": "\"알로라 질뻐기 ex\""
+        }
+      ],
+      "secondarySha256": "7664464e4dddb2fce3b0534fbe74ddd333ac6d3213cd2ab86b32c9dab6b4c410"
+    },
+    {
+      "cardId": "A4b-251",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/251.ts",
+      "beforeSha256": "76f2ba3d3c4ddbb2f0b256d2589d46e77a79b1443b781485c61a03ff62270460",
+      "afterSha256": "40cb387e9132b110b8acf66f41902c49f438f4b64842cedcddcb681cea057fc5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오 ex",
+          "value": "알로라 닥트리오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1197,
+          "end": 1205,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 906,
+          "end": 918,
+          "text": "\"알로라 닥트리오 ex\""
+        }
+      ],
+      "secondarySha256": "03bbd6a94dcd939c0f68db735de3afd4b86632cb648fedad9d7a549a0d616637"
+    },
+    {
+      "cardId": "A4b-234",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/234.ts",
+      "beforeSha256": "9f64d3e73a519388a47c3dca27149ccc27b7733346271ef325ccc821f4c768a0",
+      "afterSha256": "beededd0497426a1a8a39f7657d37193c0ab492d2d1e8f7bea6c0cdbafcc1cfd",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라질퍽이",
+          "value": "알로라 질퍽이"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1003,
+          "end": 1011,
+          "text": "\"알로라 질퍽이\""
+        }
+      ],
+      "secondarySha256": "8f84dee3b8f3364db4288403363f4c27671d9449d524504d26abb27ad98e0554"
+    },
+    {
+      "cardId": "A4a-104",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+      "beforeSha256": "fbff29354137f42ccdaa6a51211912f29efe470fe8b596d2ad6bd47bd1dc99e5",
+      "afterSha256": "8eb45ce5b30bb66c23a85cc2e590679c75d68f5e60c239fd6496b0914fcf1b7d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오 ex",
+          "value": "팔데아 토오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1466,
+          "end": 1473,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1042,
+          "end": 1052,
+          "text": "\"팔데아 토오 ex\""
+        }
+      ],
+      "secondarySha256": "37412604a990cb8fcc22e48813c4c3f84b221012d15b46cc7a586a4b297d51f1"
+    },
+    {
+      "cardId": "A4a-035",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+      "beforeSha256": "9cb1228f7331cf6be9f6adfa1bf2049ca827bd8f06d32c8f9daf3da97051b238",
+      "afterSha256": "4456b0d12ebbf8518fe762815fe426706e53cb39618769075b066bc341bff1c4",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르산호르곤",
+          "value": "가라르 산호르곤"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "가라르코산호",
+          "value": "가라르 코산호"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1444,
+          "end": 1452,
+          "text": "\"가라르 코산호\""
+        },
+        {
+          "start": 1016,
+          "end": 1025,
+          "text": "\"가라르 산호르곤\""
+        }
+      ],
+      "secondarySha256": "341400e9b97f6e8a361b7af0fb5cc7c36188c42f7b3ae0e4f17a32921a4a5991"
+    },
+    {
+      "cardId": "A4a-100",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/100.ts",
+      "beforeSha256": "a2e8d1f12423b6c6ed8c617acbaa10e6bc7648188afc61a071b7caf358e65d4c",
+      "afterSha256": "cf94207d1482643b650bed572348021e60b906659423b77039f3bf162c212d70",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1009,
+          "end": 1016,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "8259bcc195756675c7a0cc1ef82b8c5137cbee21a21d406bb6ba48db692a7571"
+    },
+    {
+      "cardId": "A4a-034",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/034.ts",
+      "beforeSha256": "89a020853f5b26e309e2074152ffbcf3eb414c3cea640debeb8041d3fad1e33e",
+      "afterSha256": "5c0283a160d7de5bab82f802845862767d298c6ecd252140523e04bdcf711656",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "가라르코산호",
+          "value": "가라르 코산호"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1013,
+          "end": 1021,
+          "text": "\"가라르 코산호\""
+        }
+      ],
+      "secondarySha256": "3630c2099f2c4d3775aa73ea2b97772a65f05db3c766ccbc536eeef3687acf84"
+    },
+    {
+      "cardId": "C1-005",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/005.ts",
+      "beforeSha256": "32382b11ed8af9f69fd6731db55c7d5da26cfc57abff80197feb9c3c9bed583a",
+      "afterSha256": "12c35e7142aa639821968c140031235c3aec4689ba76c800c952f96405ae0169",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시 ex",
+          "value": "알로라 나시 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 953,
+          "end": 963,
+          "text": "\"알로라 나시 ex\""
+        }
+      ],
+      "secondarySha256": "7ece463f21db2ff1c20062447c3afc6cf53f0621277e5213424e26ef37611708"
+    },
+    {
+      "cardId": "C1-213",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/213.ts",
+      "beforeSha256": "1cc7518e4bdd096bec574f899c2718007f8a90d859229bed236b1f3b81dd99eb",
+      "afterSha256": "80d8f3815cbed31c74026a760f1d457310b691adc05f388ad7a2d95db60dfb4c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아크 ex",
+          "value": "히스이 조로아크 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1612,
+          "end": 1620,
+          "text": "\"히스이 조로아\""
+        },
+        {
+          "start": 948,
+          "end": 960,
+          "text": "\"히스이 조로아크 ex\""
+        }
+      ],
+      "secondarySha256": "2d0a9f9cbe87e3af7fa4d7cf096156eeb7abd2f178db771297a3e2050336df5b"
+    },
+    {
+      "cardId": "C1-171",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/171.ts",
+      "beforeSha256": "e75163a7265eccdc979756143a53b6565d9df222304889a62df9460c358562bd",
+      "afterSha256": "de2593c6ecc55c5ca0baa193f4836e650913a2a1da5c46504d8a825e73e1701c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시 ex",
+          "value": "알로라 나시 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 953,
+          "end": 963,
+          "text": "\"알로라 나시 ex\""
+        }
+      ],
+      "secondarySha256": "70bf177dfbc645d91ccc827e7cd43f3dc1bb214a4dbac59f9a47e1f78a9760f4"
+    },
+    {
+      "cardId": "C1-074",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/074.ts",
+      "beforeSha256": "566c8c389fc5668e3a386de53ab5ceb1b0b3a0d4233de520a73b1c6ad704d5d7",
+      "afterSha256": "5b370032393f3c41f7631955eee4b1c42fcef7288d382985f31680b2c8208365",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오",
+          "value": "팔데아 토오"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1600,
+          "end": 1607,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 938,
+          "end": 945,
+          "text": "\"팔데아 토오\""
+        }
+      ],
+      "secondarySha256": "660d303942aeeb6b23d144f05b9dd38faf1f42ec725686d2eef216db735bb5f9"
+    },
+    {
+      "cardId": "C1-153",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/153.ts",
+      "beforeSha256": "ac0a26b28dc2d5810b8020bb4b2ac85ec0779766dd41ff467d73b3b37bf06624",
+      "afterSha256": "4e0a6be50e043b61fda5fce0a395977f7a9ab4168e84212f4513c9d351417279",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나시 ex",
+          "value": "알로라 나시 ex"
+        }
+      ],
+      "edits": [
+        {
+          "start": 953,
+          "end": 963,
+          "text": "\"알로라 나시 ex\""
+        }
+      ],
+      "secondarySha256": "2fd2e71789ad0f3142e87fdd6c5dd1965e7980416b21b101d7fc100661930a2e"
+    },
+    {
+      "cardId": "C1-205",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/205.ts",
+      "beforeSha256": "6125da20ca873cf50cc33dc69d28f9cabf19800ed9ac5f88b021eafbb8330968",
+      "afterSha256": "4bc17594559406699ea7ea1fb92d3eb3b63a3bc8f2589fc3935a015ea23ea3c5",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 921,
+          "end": 929,
+          "text": "\"히스이 조로아\""
+        }
+      ],
+      "secondarySha256": "0b9bf2c29ab5e27fc9154b1d494512ffba9607fe79e508f24d8d6afbfc14b7e6"
+    },
+    {
+      "cardId": "C1-147",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/147.ts",
+      "beforeSha256": "a8b33527d38278e0e8248b9a93b37569255404575c0da3da66d18355d740fab4",
+      "afterSha256": "414292cb4a9b2f096f088dca2b61f6b50071a28cf529a2ff61a0eb7db921980c",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오",
+          "value": "팔데아 토오"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1608,
+          "end": 1615,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 938,
+          "end": 945,
+          "text": "\"팔데아 토오\""
+        }
+      ],
+      "secondarySha256": "1c22210eaa39963f87d0a722f3c82b12edeabf12047b1a5f7899b3f0c157e1df"
+    },
+    {
+      "cardId": "C1-073",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/073.ts",
+      "beforeSha256": "bfacae8505b8b63d1a90ff9aa6bf1a23777d0c8ccf9a933833c5e4874adfa519",
+      "afterSha256": "1775aaa861110598d8fe7ad36aa086e69539424a3aa29e0a56563413ff84c509",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 930,
+          "end": 937,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "0db3a27b63dc8ea099e66193c3aa655aef90643e59679451c63100b04f925a43"
+    },
+    {
+      "cardId": "C1-128",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/128.ts",
+      "beforeSha256": "0310683ad74dcec9753ceb3aa67d21abd313ed22a173b764bfa13f4bb4716c99",
+      "afterSha256": "7933842460852c4c1771efc5266cbea9687f04a5c27bc86d3c83c01b5a19f68c",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아토오」 1마리에게 붙인다.",
+          "value": "자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아 토오」 1마리에게 붙인다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 1951,
+          "end": 2005,
+          "text": "\"자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아 토오」 1마리에게 붙인다.\""
+        }
+      ],
+      "secondarySha256": "2e8d7605cbe5a8af5938ecd2fab6a968535adc0bd7e00a6a4cd97da5c8c31845"
+    },
+    {
+      "cardId": "C1-168",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/168.ts",
+      "beforeSha256": "3def9fe070394b57f534d3e3a4fc851d6645a612d4080b0b0bde7b9b2f0e2a33",
+      "afterSha256": "c02ec96be735f5bad34a297c688c402e9049adb0c97a74ea887e36b6e31c526a",
+      "fields": [
+        {
+          "path": "effect",
+          "expectedCurrent": "자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아토오」 1마리에게 붙인다.",
+          "value": "자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아 토오」 1마리에게 붙인다."
+        }
+      ],
+      "edits": [
+        {
+          "start": 1948,
+          "end": 2002,
+          "text": "\"자신의 에너지존에서 {F}에너지를 2개 내보내 「메깅」 또는 「팔데아 토오」 1마리에게 붙인다.\""
+        }
+      ],
+      "secondarySha256": "9536855724f9b461555ba01362a5b50a0b919a4ebeab95f5ba504878848f9b60"
+    },
+    {
+      "cardId": "B2b-014",
+      "file": "data/Pokémon TCG Pocket/Mega Shine/014.ts",
+      "beforeSha256": "e7958bdbb622af8c0864b5a1589a4f41411ac6c82f12c92522f85bbeca38ee13",
+      "afterSha256": "56a189e6e9524647adb6e820285159cad2ec4a4ad6907469783fec55beede5f3",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아켄타로스",
+          "value": "팔데아 켄타로스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 973,
+          "end": 982,
+          "text": "\"팔데아 켄타로스\""
+        }
+      ],
+      "secondarySha256": "4add7c8a3ee3b445bbbab2c8a2986b3b29480a374d16ee55eb06a8980b4929e6"
+    },
+    {
+      "cardId": "P-B-089",
+      "file": "data/Pokémon TCG Pocket/Promos-B/089.ts",
+      "beforeSha256": "83dc74520fc3627f20b14acb26db0e596508a6fe1b62a5d09398dd5d727d4e50",
+      "afterSha256": "7e9393a0e001d27e1d8c28b2874b06a2e6ef70c34fcd06661169f780dbb17684",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의라프라스",
+          "value": "로켓단의 라프라스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 874,
+          "end": 884,
+          "text": "\"로켓단의 라프라스\""
+        }
+      ],
+      "secondarySha256": "d5fe358e61dc26db983f453a7cfec22a26970c6b8205d63b1600a4fb8564cfd0"
+    },
+    {
+      "cardId": "P-B-088",
+      "file": "data/Pokémon TCG Pocket/Promos-B/088.ts",
+      "beforeSha256": "3e293f757f7a2faaf41e64c8ceb33632563a0da0ca87ef35257c9eaea6650170",
+      "afterSha256": "aa54f96a15c2bdaab357b6d5568cb46790cd31faca5d336cc6e679a80a74e739",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의스라크",
+          "value": "로켓단의 스라크"
+        }
+      ],
+      "edits": [
+        {
+          "start": 957,
+          "end": 966,
+          "text": "\"로켓단의 스라크\""
+        }
+      ],
+      "secondarySha256": "d4199860a1f3f244caa7358a185816f1a5a00b565ec9199f2a8c7edaaba52127"
+    },
+    {
+      "cardId": "P-B-040",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "beforeSha256": "f69eacd1dcd9b45ad57618376ac8d9e0e08d4a30b927c48c3e4d3719504feedd",
+      "afterSha256": "78545b3ee8856aaeeb6216df65f272ff86975a9257772dfbaea044196556b28d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오",
+          "value": "팔데아 토오"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1345,
+          "end": 1352,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 982,
+          "end": 989,
+          "text": "\"팔데아 토오\""
+        }
+      ],
+      "secondarySha256": "b371ecb00b84872b4627efc69465bbef940570a91fdb17c9906b85f08a54e1f8"
+    },
+    {
+      "cardId": "P-B-076",
+      "file": "data/Pokémon TCG Pocket/Promos-B/076.ts",
+      "beforeSha256": "b36d68c161d258d3ea2fba43aef4d105c4f8b458c3b2deaf8ab1850828a238af",
+      "afterSha256": "979dd577e4e128e6da2961a535738df20382cc78b9ca7b6db37cf45f159a2f33",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "히스이조로아",
+          "value": "히스이 조로아"
+        }
+      ],
+      "edits": [
+        {
+          "start": 959,
+          "end": 967,
+          "text": "\"히스이 조로아\""
+        }
+      ],
+      "secondarySha256": "2d167874a0dbe1e5ec6f0b8cb2241800f1d22e08cc8526034d11e4fcef0a6d5f"
+    },
+    {
+      "cardId": "P-B-091",
+      "file": "data/Pokémon TCG Pocket/Promos-B/091.ts",
+      "beforeSha256": "c9376d4aeba5090fb8fe7aaa25efc0b876cee8582adf9bf7c9864afac09c8d6d",
+      "afterSha256": "9cffbe12ec26a7f9c8bcb3e63e757f6d4bdfabf1faabb24065a3f86e537548c8",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "로켓단의마자용",
+          "value": "로켓단의 마자용"
+        }
+      ],
+      "edits": [
+        {
+          "start": 889,
+          "end": 898,
+          "text": "\"로켓단의 마자용\""
+        }
+      ],
+      "secondarySha256": "07a90c2ff4564af0dab6490e514defd6ae2df6d6845b51735a4fa9136f969c21"
+    },
+    {
+      "cardId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "beforeSha256": "ce719d781d0de252cbd35e58dd4ebdd325fdb8965400a3c747262935d74a3c0a",
+      "afterSha256": "d5b07be1d0c76e458d84810c330a126dc22c6bc604a569022e0636450cb56483",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "캐스퐁태양의 모습",
+          "value": "캐스퐁 태양의 모습"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1002,
+          "end": 1013,
+          "text": "\"캐스퐁 태양의 모습\""
+        }
+      ],
+      "secondarySha256": "fa22489081259dde8368a5fd4d25337636cb316fab2e23ae03b98539bd9f9b6f"
+    },
+    {
+      "cardId": "P-B-032",
+      "file": "data/Pokémon TCG Pocket/Promos-B/032.ts",
+      "beforeSha256": "0733ac50a530a1361fbff49615e4352c9ad3d1a0fc72a82f233c61cdb4ff88be",
+      "afterSha256": "2989a5ec79f7c3daa4e51cc36262354b482aae9b218281464ae60680b35fe43b",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라식스테일",
+          "value": "알로라 식스테일"
+        }
+      ],
+      "edits": [
+        {
+          "start": 963,
+          "end": 972,
+          "text": "\"알로라 식스테일\""
+        }
+      ],
+      "secondarySha256": "8cb623145f724b9c9b1b171ff9edabb188d37222acd87e9ed5eacbeb162e5f4b"
+    },
+    {
+      "cardId": "A3a-087",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+      "beforeSha256": "93a82fb5bf6d2297c722ae88a415ca49ce601bf38e609060dab542c408d4dcc5",
+      "afterSha256": "99689cf050b43026cf0edcdf61f1fc37828c831e58b33e4f7ca9b6e8c1def9f8",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오 ex",
+          "value": "알로라 닥트리오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1460,
+          "end": 1468,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 1041,
+          "end": 1053,
+          "text": "\"알로라 닥트리오 ex\""
+        }
+      ],
+      "secondarySha256": "bc65715ed5f2e30eb429a5c7cebb73b2319e0654f5d998efe5a377749f727b8f"
+    },
+    {
+      "cardId": "A3a-037",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+      "beforeSha256": "83d6a99ad564157e590bbe010789eeecea8fd5d62f21c0e8fce8ee9b22a8b629",
+      "afterSha256": "9708f9cfa56e2e022a79d12f94b5e07abb1079fae7155cc61ae63b4c1693ceb2",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1009,
+          "end": 1016,
+          "text": "\"알로라 나옹\""
+        }
+      ],
+      "secondarySha256": "376350a5c850905f505eaa1e54c23e135767065f673feabe599cbf56165e843e"
+    },
+    {
+      "cardId": "A3a-046",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+      "beforeSha256": "5a6d6bc6b7112ddbc539a60f78b68f03be695c9f3ee724fb3229c27002f74a24",
+      "afterSha256": "a49a86f517aefc18b5ec3e031d75cc5fa5796da77c9b70c03ad41053e1b07846",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1016,
+          "end": 1024,
+          "text": "\"알로라 디그다\""
+        }
+      ],
+      "secondarySha256": "56a515b0bdb0dbfcf679362e49f09269a45b52e04516caa4c429ec3e7498f737"
+    },
+    {
+      "cardId": "A3a-080",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+      "beforeSha256": "845eb2bed3c091a9e805bd5ddcb3027576cdc300dfec2eadba37f75c94a1d0e5",
+      "afterSha256": "8d6c5b464746a10fd30819ba0537d2a4d51469c5b3b81e0f3cd2c98fd937f4fb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오 ex",
+          "value": "알로라 닥트리오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1463,
+          "end": 1471,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 1041,
+          "end": 1053,
+          "text": "\"알로라 닥트리오 ex\""
+        }
+      ],
+      "secondarySha256": "579e968371503fc14d59595a80f65168fee49cdfff0c1fd5e747dcd040beef89"
+    },
+    {
+      "cardId": "A3a-073",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+      "beforeSha256": "09d29c26a7cc174a043156f0ebec7a27c1eb2637c675f693916e0b44cb47615d",
+      "afterSha256": "36fc202700dd5da833a1821a432fb87d2adbdb57d23e8c6f9e3d1297bf9b81c4",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1009,
+          "end": 1016,
+          "text": "\"알로라 나옹\""
+        }
+      ],
+      "secondarySha256": "db51ee92589d2836d2ee5ca3000e310faa2fdf76b6d9ae53e5a4226f0fffa677"
+    },
+    {
+      "cardId": "A3a-047",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+      "beforeSha256": "cf3ac3ee0b1076684c2fef47525d864f5d4dd5743874bea5a6fb86e2633f41e7",
+      "afterSha256": "0a6f0b8e166b2cb26f7f0734d9b8b29a3963ee67d4d9e54fbd8268d2981669c9",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라닥트리오 ex",
+          "value": "알로라 닥트리오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라디그다",
+          "value": "알로라 디그다"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1467,
+          "end": 1475,
+          "text": "\"알로라 디그다\""
+        },
+        {
+          "start": 1041,
+          "end": 1053,
+          "text": "\"알로라 닥트리오 ex\""
+        }
+      ],
+      "secondarySha256": "52d8066de5c107a3ea505d2d71fd1abe175f6e36ee49ed55c0260978e0bf5b7a"
+    },
+    {
+      "cardId": "A3a-038",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+      "beforeSha256": "2fd1f2679ba785b3d59d43946d2f574c9476ae230b074276bc0ac408bfc11c08",
+      "afterSha256": "fb88652c8224b231b6f065772d2b730c29ec62bcbdac0e2e07232cdb3ccb9d4d",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "알로라페르시온",
+          "value": "알로라 페르시온"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "알로라나옹",
+          "value": "알로라 나옹"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1436,
+          "end": 1443,
+          "text": "\"알로라 나옹\""
+        },
+        {
+          "start": 1020,
+          "end": 1029,
+          "text": "\"알로라 페르시온\""
+        }
+      ],
+      "secondarySha256": "fa6b26bcb450efbd649cc24ba26362fb9272d9eb5ca0c8b41adbda5f3a30e5a4"
+    },
+    {
+      "cardId": "A2b-093",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/093.ts",
+      "beforeSha256": "d3ff785546ed6e8158c5e8187e43bfcd1c8d2475b811943875d78a195f12d74a",
+      "afterSha256": "af84408904e5804a010727417a63d1669789bd08ee12285b32c5aae432fe50a3",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오 ex",
+          "value": "팔데아 토오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1444,
+          "end": 1451,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1005,
+          "end": 1015,
+          "text": "\"팔데아 토오 ex\""
+        }
+      ],
+      "secondarySha256": "3d34d3a48a39f19e0892693ab00e447fe7e07fd501ff0caa5ffe7fe4b775fc6e"
+    },
+    {
+      "cardId": "A2b-013",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/013.ts",
+      "beforeSha256": "cf862d119345ebcabb17cc2c6fdc746599c956a918c8819ca6b44d9660614043",
+      "afterSha256": "744e11a9c3b30b90e46a5379e0b339d7c920c08c70888afd2f74928ec540c3bb",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아켄타로스",
+          "value": "팔데아 켄타로스"
+        }
+      ],
+      "edits": [
+        {
+          "start": 975,
+          "end": 984,
+          "text": "\"팔데아 켄타로스\""
+        }
+      ],
+      "secondarySha256": "50628f2215fe4cc5ff5a2c494ca5770a572963aa5254863b8c706fae5948f3be"
+    },
+    {
+      "cardId": "A2b-085",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "beforeSha256": "57eccdb18171c922417523cbcc85d46d70c9bc5370315c79b518bc8e9bc25118",
+      "afterSha256": "c8966ca11338e295070e9518e62bed75196f91593692e6c0a54d7d6e721f3d52",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오 ex",
+          "value": "팔데아 토오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1456,
+          "end": 1463,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1005,
+          "end": 1015,
+          "text": "\"팔데아 토오 ex\""
+        }
+      ],
+      "secondarySha256": "dfd99d9dd01b18e8d23f1584b849a5fe0d5ddbbcd6bf7d6f2a10e572851163ff"
+    },
+    {
+      "cardId": "A2b-047",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/047.ts",
+      "beforeSha256": "52e5e55635e773bff766f5277a1a659fb7d341395f0599e60ac2dc37d2bce913",
+      "afterSha256": "4e7b8d251ad14e0e0605514064764587839dc74c460ff268b0170592596a59d6",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 974,
+          "end": 981,
+          "text": "\"팔데아 우파\""
+        }
+      ],
+      "secondarySha256": "84740b160cab2efcb407fd0bc9a5e4677c3b1c39ba3f189f983c211a22657ce7"
+    },
+    {
+      "cardId": "A2b-048",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "beforeSha256": "f20b75f2b7d089d6a4fe2e68c8a34c090a94bf32398e10f1f9a7c06e7d380175",
+      "afterSha256": "e8a58454d70b9c6b0172c01333478cd1e7e8895c65fc9fb57b0b1a95daec6597",
+      "fields": [
+        {
+          "path": "name",
+          "expectedCurrent": "팔데아토오 ex",
+          "value": "팔데아 토오 ex"
+        },
+        {
+          "path": "evolveFrom",
+          "expectedCurrent": "팔데아우파",
+          "value": "팔데아 우파"
+        }
+      ],
+      "edits": [
+        {
+          "start": 1461,
+          "end": 1468,
+          "text": "\"팔데아 우파\""
+        },
+        {
+          "start": 1005,
+          "end": 1015,
+          "text": "\"팔데아 토오 ex\""
+        }
+      ],
+      "secondarySha256": "c2c03e6def87aa76a00dfcdf742f485a6592867e9627ca8268a9bbf609a80379"
+    }
+  ]
+}

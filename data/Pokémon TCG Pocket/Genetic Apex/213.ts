@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/213",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/213",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/213",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/213"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/213",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/213"
     },
     name: {
         en: "Cinccino",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Picochilla",
         "pt-br": "Minccino",
         "zh-tw": "泡沫栗鼠",
-        ja: "チラーミィ"
+        ja: "チラーミィ",
+        ko: "치라미"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],

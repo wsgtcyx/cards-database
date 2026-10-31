@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/047"
     },
     name: {
         en: "Purrloin",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
-        ja: "チョロネコ"
+        ja: "チョロネコ",
+        ko: "쌔비냥"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Gegner, die sich von seiner Liebenswürdigkeit anziehen lassen\nVerhalten kommt mit stechenden Kratzern weg\nseine Krallen und der stechende Stolz seines Lachens.",
         "pt-br": "Oponentes que são atraídos por seu adorável\ncomportamento sai com arranhões dolorosos de\nsuas garras e o orgulho pungente de sua risada.",
         "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。",
-        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。"
+        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。",
+        ko: "귀여운 동작으로 방심시키고\n상대가 다가오면 갑자기\n발톱으로 할퀴고는 웃는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
                 "zh-tw": "絆倒",
-                ja: "ころばす"
+                ja: "ころばす",
+                ko: "걸어 넘어뜨리기"
             },
             damage: "10+",
             cost: ["Darkness"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             }
         }],
     weaknesses: [{

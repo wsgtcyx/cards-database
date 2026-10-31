@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/158",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/158"
     },
     name: {
         en: "Kabuto",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Domfossil",
         "pt-br": "Fóssil Cúpula",
         "zh-tw": "甲殼化石",
-        ja: "こうらの化石"
+        ja: "こうらの化石",
+        ko: "껍질화석"
     },
     attacks: [{
             cost: ["Fighting"],

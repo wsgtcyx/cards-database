@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/116",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/116"
     },
     name: {
         en: "Toxapex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Mareanie",
         "zh-tw": "好壞星",
         ja: "ヒドイデ",
+        ko: "시마사리",
     },
     description: {
         en: "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",

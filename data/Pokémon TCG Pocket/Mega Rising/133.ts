@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/133",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/133",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/133"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/133",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/133"
     },
     name: {
         en: "Archen",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Archen",
         "zh-tw": "始祖小鳥",
         ja: "アーケン",
+        ko: "아켄",
     },
     illustrator: "0313",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Fóssil Pluma",
         "zh-tw": "羽毛化石",
         ja: "はねの化石",
+        ko: "날개화석",
     },
     description: {
         en: "Archen is said to be the ancestor of bird\nPokémon. It lived in treetops, eating berries\nand bug Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Archen soll der Vorfahre des Vogels sein\nPokémon. Es lebte in Baumwipfeln und ernährte sich von Beeren\nund Käfer-Pokémon.",
         "pt-br": "Diz-se que Archen é o ancestral do pássaro\nPokémon. Vivia nas copas das árvores, comendo frutas\ne insetos Pokémon.",
         "zh-tw": "據說Archen是鳥類的祖先\n神奇寶貝。它住在樹頂，吃漿果\n和蟲子神奇寶貝。",
-        ja: "鳥ポケモンの 祖先と 言われる。 木の上で 暮らし 木の実や 虫ポケモンを 食っていた。"
+        ja: "鳥ポケモンの 祖先と 言われる。 木の上で 暮らし 木の実や 虫ポケモンを 食っていた。",
+        ko: "새포켓몬의 선조로 불린다.\n나무 위에서 살며 나무열매나\n벌레포켓몬을 먹는다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Steinwurf",
                 "pt-br": "Lançamento de pedra",
                 "zh-tw": "扔石頭",
-                ja: "いわおとし"
+                ja: "いわおとし",
+                ko: "돌떨구기"
             },
             damage: 40,
             cost: ["Fighting"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

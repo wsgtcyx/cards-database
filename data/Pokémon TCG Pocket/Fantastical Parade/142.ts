@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/142",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/142",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/142"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/142",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/142"
     },
     name: {
         en: "Tandemaus",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Zwieps",
         "pt-br": "Tandemaus",
         "zh-tw": "一對鼠",
-        ja: "ワッカネズミ"
+        ja: "ワッカネズミ",
+        ko: "두리쥐"
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Das Paar hält zusammen, egal was passiert. Sie\nTeilen Sie alle Lebensmittel, die sie finden, genau in zwei Hälften und dann\ngemeinsam essen.",
         "pt-br": "O par permanece unido, não importa o que aconteça. Eles\ndividir qualquer comida que encontrarem exatamente pela metade e depois\ncomam juntos.",
         "zh-tw": "無論如何，這一對都會粘在一起。他們\n將他們找到的任何食物精確地分成兩半，然後\n一起吃。",
-        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。"
+        ja: "どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。",
+        ko: "언제나 두 마리가 함께한다.\n발견한 먹이는 정확히 반으로 나눠서\n사이좋게 먹는다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Herde",
                 "pt-br": "Rebanho",
                 "zh-tw": "群",
-                ja: "むれる"
+                ja: "むれる",
+                ko: "무리짓기"
             },
             cost: ["Colorless"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Lege 3 zufällige Karten aus Tandemaus und Maushold aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 3 cartas aleatórias entre Tandemaus e Maushold do seu baralho no seu Banco.",
                 "zh-tw": "將你牌庫中的坦德莫斯和莫斯霍爾德中的 3 張隨機牌放到你的替補席上。",
-                ja: "自分の山札から「ワッカネズミ」または「イッカネズミ」をランダムに3枚、ベンチに出す。"
+                ja: "自分の山札から「ワッカネズミ」または「イッカネズミ」をランダムに3枚、ベンチに出す。",
+                ko: "자신의 덱에서 「두리쥐」 또는 「파밀리쥐」를 랜덤으로 3장 벤치로 내보낸다."
             }
         }],
     weaknesses: [{

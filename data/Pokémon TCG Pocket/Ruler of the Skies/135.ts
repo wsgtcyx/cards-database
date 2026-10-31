@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/135",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/135",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/135",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/135"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/135",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/135"
     },
     name: {
         en: "Delcatty",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Dieses Pokémon ist bei weiblichen Trainern\naufgrund seines Fells beliebt.",
         "pt-br": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
         "zh-tw": "有著美麗的毛髮，\n非常受女性訓練家的歡迎。\n沒有固定的住所。",
-        ja: "美しい 毛並みを 持ち 女性トレーナーに 大人気。 決まった 住処を 持たない。"
+        ja: "美しい 毛並みを 持ち 女性トレーナーに 大人気。 決まった 住処を 持たない。",
+        ko: "아름다운 털을 가지고 있어서\n여성 트레이너들에게 매우 인기 있다.\n정해진 거처를 갖고 있지 않다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "zh-tw": "能量攪拌",
                 "it": "Miscelenergia",
                 "de": "Energiemix",
-                ja: "エナジーミキサー"
+                ja: "エナジーミキサー",
+                ko: "에너지믹서"
             },
             effect: {
                 en: "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
                 "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
                 "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon.",
-                ja: "自分の場のポケモンからエネルギーを好きなだけ選び、自分のポケモンに好きなようにつけ替える。"
+                ja: "自分の場のポケモンからエネルギーを好きなだけ選び、自分のポケモンに好きなようにつけ替える。",
+                ko: "자신의 필드의 포켓몬에서 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 바꿔 붙인다."
             },
             damage: 50
         }

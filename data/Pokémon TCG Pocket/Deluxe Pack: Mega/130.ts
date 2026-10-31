@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/130",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/130"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/130",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/130"
     },
     name: {
         en: "Boldore",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Roggenrola",
         "zh-tw": "石丸子",
         ja: "ダンゴロ",
-        ko: "Roggenrola"
+        ko: "단굴"
     },
     description: {
         en: "It relies on sound in order to monitor what's in its\nvicinity. When angered, it will attack without ever\nchanging the direction it's facing.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Depende de sons para monitorar as proximidades. Quando enraivecido, ataca sem sequer mudar de direção.",
         "zh-tw": "透過聲音來探測四周。要是惹牠生氣了，牠會連身體方向也不轉就朝你追來。",
         ja: "音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。",
-        ko: "It relies on sound in order to monitor what's in its\nvicinity. When angered, it will attack without ever\nchanging the direction it's facing."
+        ko: "소리로 주위 상황을 살핀다.\n화나게 하면 몸의 방향을\n바꾸지 않은 채로 쫓아온다."
     },
     stage: "Stage1",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Gema Poderosa",
                 "zh-tw": "力量寶石",
                 ja: "パワージェム",
-                ko: "Power Gem"
+                ko: "파워젬"
             },
             damage: 70,
             cost: [

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/263",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/263",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/263",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/263"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/263",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/263"
     },
     name: {
         en: "Machamp ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
-        ja: "ゴーリキー"
+        ja: "ゴーリキー",
+        ko: "근육몬"
     },
     suffix: "EX",
     attacks: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/100",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/100"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/100",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/100"
     },
     name: {
         en: "Meowscarada ex",
@@ -21,7 +22,7 @@ const card: Card = {
         'pt-br': "Meowscarada ex",
         "zh-tw": "魔幻假面喵ex",
         ja: "マスカーニャex",
-        ko: "마스카나"
+        ko: "마스카나 ex"
     },
     suffix: "EX",
     illustrator: "5ban Graphics",
@@ -52,7 +53,8 @@ const card: Card = {
                 "de": "Blumentrick",
                 "pt-br": "Truque de flores",
                 "zh-tw": "花戲法",
-                ja: "トリックフラワー"
+                ja: "トリックフラワー",
+                ko: "트릭플라워"
             },
             cost: ["Grass"],
             effect: {
@@ -63,7 +65,8 @@ const card: Card = {
                 "de": "Wählen Sie einen Platz aus dem aktiven Platz und der Bank Ihres Gegners. Füge am Ende des nächsten Zuges deines Gegners dem Pokémon an der von dir gewählten Stelle 70 Schadenspunkte zu.",
                 "pt-br": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
                 "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
-                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。"
+                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。",
+                ko: "상대 배틀필드 또는 벤치를 1군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬에게 70데미지를 준다."
             },
         },
         {
@@ -76,6 +79,7 @@ const card: Card = {
                 "pt-br": "Raio Solar",
                 "zh-tw": "太陽光束",
                 ja: "ソーラービーム",
+                ko: "솔라빔",
                 'es-mx': "Rayo Solar",
                 pt: "Raio Solar"
             },

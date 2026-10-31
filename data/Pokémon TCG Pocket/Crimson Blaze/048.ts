@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/048",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/048",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/048"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/048",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/048"
     },
     name: {
         en: "Liepard",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kleoparda",
         "pt-br": "Liepard",
         "zh-tw": "酷豹",
-        ja: "レパルダス"
+        ja: "レパルダス",
+        ko: "레파르다스"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
-        ja: "チョロネコ"
+        ja: "チョロネコ",
+        ko: "쌔비냥"
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Lassen Sie sich nicht von seinem wunderschönen Fell und seiner Eleganz täuschen\nFigur. Dies ist ein launisches und bösartiges Pokémon.",
         "pt-br": "Não se deixe enganar pelo seu pelo lindo e elegante\nfigura. Este é um Pokémon temperamental e cruel.",
         "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。",
-        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。"
+        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。",
+        ko: "아름다운 털과 스타일에\n쉽게 매료되지만 변덕스럽고\n흉포한 포켓몬이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schnappen und fliehen",
                 "pt-br": "Arrebatar e Fugir",
                 "zh-tw": "搶奪與逃跑",
-                ja: "うばってドロン"
+                ja: "うばってドロン",
+                ko: "뺏고사라지기"
             },
             damage: 60,
             cost: ["Darkness"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Dein Gegner deckt eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck. Mische dieses Pokémon in dein Deck.",
                 "pt-br": "Seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho. Embaralhe este Pokémon no seu baralho.",
                 "zh-tw": "你的對手從手中隨機展示一張牌並將其洗入牌庫。將這只神奇寶貝洗入你的牌庫。",
-                ja: "相手の手札からランダムに1枚、オモテを見て、山札にもどす。このポケモンを山札にもどす。"
+                ja: "相手の手札からランダムに1枚、オモテを見て、山札にもどす。このポケモンを山札にもどす。",
+                ko: "상대의 패에서 랜덤으로 1장 앞면을 보고 덱으로 되돌린다. 이 포켓몬을 덱으로 되돌린다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/224",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/224",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/224",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/224"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/224",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/224"
     },
     name: {
         en: "Fantina",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Fantina",
         "zh-tw": "梅麗莎",
         ja: "メリッサ",
+        ko: "멜리사",
     },
     illustrator: "hncl",
     rarity: "Two Diamond",
@@ -33,8 +35,12 @@ const card: Card = {
         "de": "Nimm eine {P}-Energie aus deiner Energiezone und lege sie an jeden deiner Drifblim und Mismagius an.",
         "pt-br": "Pegue uma Energia {P} da sua Zona de Energia e anexe-a a cada um dos seus Drifblim e Mismagius.",
         "zh-tw": "從你的能量區取出一個 {P} 能量並將其附加到你的 Drifblim 和 Mismagius 上。",
-        ja: "自分のエネルギーゾーンから{P}エネルギーを出し、自分の「フワライド」「ムウマージ」全員に1個ずつつける。"
+        ja: "自分のエネルギーゾーンから{P}エネルギーを出し、自分の「フワライド」「ムウマージ」全員に1個ずつつける。",
+        ko: "자신의 에너지존에서 {P}에너지를 내보내 자신의 「둥실라이드」「무우마직」 전원에게 1개씩 붙인다."
     },
-    trainerType: "Supporter"
+    trainerType: "Supporter",
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

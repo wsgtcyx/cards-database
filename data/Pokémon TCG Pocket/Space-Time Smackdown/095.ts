@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/095",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/095",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/095"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/095",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/095"
     },
     name: {
         en: "Gallade ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
         ja: "キルリア",
+        ko: "킬리아",
     },
     stage: "Stage2",
     suffix: "EX",

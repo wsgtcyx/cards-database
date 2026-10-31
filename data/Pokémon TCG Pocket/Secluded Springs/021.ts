@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/021",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/021",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/021"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/021",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/021"
     },
     name: {
         en: "Feebas",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Feebas",
         "zh-tw": "醜醜魚",
         ja: "ヒンバス",
+        ko: "빈티나",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dies ist zwar unattraktiv und unbeliebt\nDie wunderbare Vitalität von Pokémon hat es zu einem gemacht\nGegenstand der Forschung.",
         "pt-br": "Embora pouco atraente e impopular, este\nA maravilhosa vitalidade do Pokémon tornou-o um\nobjeto de pesquisa.",
         "zh-tw": "儘管沒有吸引力且不受歡迎，但這\n神奇寶貝神奇的生命力使其成為\n研究課題。",
-        ja: "見た目が 悪いので 人気はないが 脅威の 生命力が あり 研究対象には なっている。"
+        ja: "見た目が 悪いので 人気はないが 脅威の 生命力が あり 研究対象には なっている。",
+        ko: "겉모습이 좋지 않아 인기는 없지만\n경이로운 생명력을 지니고 있어\n연구 대상이 되고 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Spring raus",
                 "pt-br": "Salte",
                 "zh-tw": "跳出",
-                ja: "はねにげ"
+                ja: "はねにげ",
+                ko: "튀튀기"
             },
             cost: ["Water"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
-                ja: "このポケモンをベンチポケモンと入れ替える。"
+                ja: "このポケモンをベンチポケモンと入れ替える。",
+                ko: "이 포켓몬을 벤치 포켓몬과 교체한다."
             }
         }],
     weaknesses: [{

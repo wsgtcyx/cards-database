@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/030",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/030"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/030",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/030"
     },
     name: {
         en: "Tornadus",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Mit der Energie aus seiner Rute erzeugt es wilde Stürme,\ndie stark genug sind, um ganze Wohnhäuser davonzuwehen.",
         "pt-br": "Tornadus expele energia massiva de sua cauda, ​​causando fortes tempestades. Seu poder é grande o suficiente para explodir casas.",
         "zh-tw": "龍捲雲從尾部排出大量能量，引發嚴重風暴。其威力之大足以炸毀房屋。",
-        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。"
+        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。",
+        ko: "토네로스의 꼬리에서 뿜어져 나온\n에너지가 큰 폭풍을 일으킨다.\n민가를 날려버릴 정도의 힘이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Durchdringender Strahl",
                 "pt-br": "Sopro Intenso",
                 "zh-tw": "穿堂風",
-                ja: "ふきぬける"
+                ja: "ふきぬける",
+                ko: "불어지나가기"
             },
             effect: {
                 en: "If a Stadium is in play, this attack does 40 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 40 de dano a mais.",
                 "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。",
-                ja: "場にスタジアムが出ているなら、40ダメージ追加。"
+                ja: "場にスタジアムが出ているなら、40ダメージ追加。",
+                ko: "필드에 스타디움이 나와 있다면 40데미지를 추가한다."
             },
             damage: "40+"
         }

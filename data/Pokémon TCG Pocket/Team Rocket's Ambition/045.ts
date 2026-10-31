@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/045"
     },
     name: {
         en: "Togedemaru",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Bei Gefahr rollt es sich zusammen, stellt seine Rückenstacheln auf und schießt willkürlich mit Elektrizität um sich.",
         "pt-br": "Quando está em apuros, Togedemaru se enrola como uma bola, levanta seus espinhos e descarrega eletricidade indiscriminadamente.",
         "zh-tw": "在危急時刻會把身體捲成一團、倒豎起背上的尖刺，不分青紅皂白地發出電擊。",
-        ja: "ピンチになると 体を 丸めて 背中の とげとげを 逆立てると でたらめに 電撃を 撃ちまくる。"
+        ja: "ピンチになると 体を 丸めて 背中の とげとげを 逆立てると でたらめに 電撃を 撃ちまくる。",
+        ko: "위기에 처하면 몸을 둥글게 말고\n등의 가시를 곤두세워\n마구잡이로 전격을 쏘아댄다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Taumler",
                 "pt-br": "Ataque Cambalhota",
                 "zh-tw": "回轉攻擊",
-                ja: "ローリングアタック"
+                ja: "ローリングアタック",
+                ko: "롤링어택"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "コインを1回投げオモテなら、30ダメージ追加。"
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다."
             },
             damage: "20+"
         }

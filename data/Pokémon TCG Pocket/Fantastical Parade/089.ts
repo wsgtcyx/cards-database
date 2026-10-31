@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/089",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/089",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/089"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/089",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/089"
     },
     name: {
         en: "Tyrunt",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Balgoras",
         "pt-br": "Tyrunt",
         "zh-tw": "寶寶暴龍",
-        ja: "チゴラス"
+        ja: "チゴラス",
+        ko: "티고라스"
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kieferfossil",
         "pt-br": "Fóssil de Mandíbula",
         "zh-tw": "顎之化石",
-        ja: "アゴの化石"
+        ja: "アゴの化石",
+        ko: "턱화석"
     },
     description: {
         en: "This Pokémon is selfish and likes to be pampered.\nIt can also inflict grievous wounds on its Trainer\njust by playing around.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist egoistisch und lässt sich gerne verwöhnen.\nEs kann seinem Trainer auch schwere Wunden zufügen\neinfach durch Herumspielen.",
         "pt-br": "Este Pokémon é egoísta e gosta de ser mimado.\nEle também pode causar ferimentos graves em seu Treinador\napenas brincando.",
         "zh-tw": "這只神奇寶貝很自私，喜歡被寵愛。\n它還可以對其訓練師造成嚴重傷害\n只是玩玩而已。",
-        ja: "わがままだが 甘えん坊。 じゃれてるだけで トレーナーに 大けがを 負わせてしまう。"
+        ja: "わがままだが 甘えん坊。 じゃれてるだけで トレーナーに 大けがを 負わせてしまう。",
+        ko: "제멋대로지만 응석꾸러기다.\n장난만 쳐도 트레이너에게\n큰 상처를 입히고 만다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Einschlagen",
                 "pt-br": "Martelo",
                 "zh-tw": "錘入",
-                ja: "ぶちかます"
+                ja: "ぶちかます",
+                ko: "한방 먹이기"
             },
             damage: 60,
             cost: ["Fighting", "Fighting"]

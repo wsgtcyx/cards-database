@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/281",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/281",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/281",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/281"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/281",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/281"
     },
     name: {
         en: "Farfetch'd",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Farfetch'd",
         "zh-tw": "大蔥鴨",
         ja: "カモネギ",
+        ko: "파오리",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Stiel, den dieses Pokémon in seinen Flügeln trägt, dient dazu\nals Schwert, um Gegner niederzuschlagen. In einer schlimmen Situation\nIn bestimmten Situationen kann der Stängel auch als Nahrung dienen.",
         "pt-br": "O talo que este Pokémon carrega em suas asas serve\ncomo uma espada para derrubar oponentes. Em uma situação terrível\nsituação, o talo também pode servir de alimento.",
         "zh-tw": "這只神奇寶貝翅膀上的莖是用來服務的\n作為砍倒對手的利劍。在一個可怕的\n這種情況下，莖也可以當食物。",
-        ja: "羽で もつ 茎を 刀のように 操り 敵を 切り捨てる。 いざと いうときは エサに する。"
+        ja: "羽で もつ 茎を 刀のように 操り 敵を 切り捨てる。 いざと いうときは エサに する。",
+        ko: "날개로 쥐고 있는 파 줄기를\n칼처럼 휘둘러 상대를 베어버린다.\n몹시 허기질 때는 먹기도 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Lauch-Schlag",
                 "pt-br": "Tapa de alho-poró",
                 "zh-tw": "韭菜拍打",
-                ja: "ネギでたたく"
+                ja: "ネギでたたく",
+                ko: "파로 때리기"
             },
             damage: 40,
             cost: ["Colorless"]

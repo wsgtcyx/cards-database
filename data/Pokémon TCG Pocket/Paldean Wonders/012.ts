@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/012",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/012"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/012",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/012"
     },
     name: {
         en: "Capsakid",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Capsakid",
         "zh-tw": "熱辣娃",
         ja: "カプサイジ",
+        ko: "캡싸이",
         pt: "Capsakid"
     },
     illustrator: "GIDORA",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Traditionelle paldäische Gerichte können extrem scharf sein, da sie unter anderem die abgeworfenen Vorderzähne von Chilingel enthalten.",
         "pt-br": "Os pratos tradicionais de Paldean podem ser extremamente picantes porque incluem os dentes da frente do Capsakid entre seus ingredientes.",
         "zh-tw": "傳統的帕爾迪安菜餚非常辣，因為它們的配料中含有 熱辣娃 脫落的門牙。",
-        ja: "パルデアの 郷土料理は 抜け落ちた カプサイジの 前歯が 使われているので 激辛なのだ。"
+        ja: "パルデアの 郷土料理は 抜け落ちた カプサイジの 前歯が 使われているので 激辛なのだ。",
+        ko: "팔데아의 향토 요리에는\n떨어져 나온 캡싸이의\n앞니가 쓰이기 때문에 불같이 맵다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Chute brincalhão",
                 "zh-tw": "俏皮踢",
                 ja: "やんちゃげり",
+                ko: "개구쟁이킥",
                 'es-mx': "Patada Juguetona",
                 pt: "Chute Brincalhão"
             },

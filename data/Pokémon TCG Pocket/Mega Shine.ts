@@ -39,7 +39,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B2b/boosters/mega-shine/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B2b/boosters/mega-shine/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/boosters/mega-shine/logo.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/logo.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/logo-6e8bc18b2359.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/boosters/mega-shine/logo.webp"
             },
             artwork_front: {
@@ -50,12 +50,18 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/de/tcgp/B2b/boosters/mega-shine/artwork_front.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B2b/boosters/mega-shine/artwork_front.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/boosters/mega-shine/artwork_front.webp",
-                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/artwork_front.webp",
+                ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/boosters/mega-shine/artwork_front-c81ea9136d0e.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/boosters/mega-shine/artwork_front.webp"
             }
         }
     },
-    releaseDate: "2026-03-26"
+    releaseDate: "2026-03-26",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/B2b/logo"
+	}
 }
 
 export default set

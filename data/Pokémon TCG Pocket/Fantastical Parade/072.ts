@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/072",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/072",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/072"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/072",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/072"
     },
     name: {
         en: "Gourgeist",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Pumpdjinn",
         "pt-br": "Gourgeist",
         "zh-tw": "南瓜怪人",
-        ja: "パンプジン"
+        ja: "パンプジン",
+        ko: "펌킨인"
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Irrbis",
         "pt-br": "Pumpkaboo",
         "zh-tw": "南瓜精",
-        ja: "バケッチャ"
+        ja: "バケッチャ",
+        ko: "호바귀"
     },
     description: {
         en: "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "In der Dunkelheit einer Neumondnacht, Gourgeist\nwird anklopfen. Wer auch immer die Tür öffnet\nwird ins Jenseits geschwemmt.",
         "pt-br": "Na escuridão de uma noite de lua nova, Gourgeist\nvirá bater. Quem atende a porta\nserá levado para a vida após a morte.",
         "zh-tw": "在新月之夜的黑暗中，美食家\n會來敲門。誰來開門\n將會被掃到來世。",
-        ja: "新月の 夜 玄関の ドアを パンプジンが ノックする。 開けた 人を あの世へ 連れて行くのだ。"
+        ja: "新月の 夜 玄関の ドアを パンプジンが ノックする。 開けた 人を あの世へ 連れて行くのだ。",
+        ko: "초승달이 뜨는 밤이 되면 펌킨인이\n현관문을 노크한다. 그리고는 열어준\n사람을 저세상으로 데리고 간다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Seelenschuss",
                 "pt-br": "Tiro de alma",
                 "zh-tw": "靈魂射擊",
-                ja: "ソウルシュート"
+                ja: "ソウルシュート",
+                ko: "소울슛"
             },
             damage: 70,
             cost: ["Psychic"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
                 "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
-                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。",
+                ko: "자신의 패를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다."
             }
         }],
     weaknesses: [{

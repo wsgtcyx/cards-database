@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/142",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/142",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/142",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/142"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/142",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/142"
     },
     name: {
         en: "Furfrou",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Trimmt man sein Fell nicht regelmäßig, wächst es\nohne Unterlass. Allerdings lässt es sich nur von\njemandem frisieren, dem es traut.",
         "pt-br": "Deixado sozinho, seu pelo crescerá cada vez mais, mas só permitirá que alguém de sua confiança o corte.",
         "zh-tw": "如果放著不管，體毛就會\n不斷變長，但牠只允許\n信賴的人幫自己修剪。",
-        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。",
+        ko: "가만히 두면 털이 점점\n자라지만 신뢰하는 자가 아니면\n커트를 허락하지 않는다."
     },
     abilities: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Fellkleid",
                 "pt-br": "Camada de Pelos",
                 "zh-tw": "毛皮大衣",
-                ja: "ファーコート"
+                ja: "ファーコート",
+                ko: "퍼코트"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Diesem Pokémon werden durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe −20 pontos de dano de ataques.",
                 "zh-tw": "這隻寶可夢受到招式的傷害-20點。",
-                ja: "このポケモンが受けるワザのダメージを-20する。"
+                ja: "このポケモンが受けるワザのダメージを-20する。",
+                ko: "이 포켓몬이 받는 기술의 데미지를 -20한다."
             }
         }
     ],
@@ -77,7 +81,8 @@ const card: Card = {
                 de: "Heimzahlung",
                 "zh-tw": "報仇",
                 "pt-br": "Retaliação",
-                ja: "かたきうち"
+                ja: "かたきうち",
+                ko: "원수갚기"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage.",
@@ -87,7 +92,8 @@ const card: Card = {
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "在上個對手的回合,若自己的寶可夢因招式的傷害而昏厥了,則增加50點傷害。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、50ダメージ追加。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、50ダメージ追加。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 50데미지를 추가한다."
             },
             damage: "20+"
         }

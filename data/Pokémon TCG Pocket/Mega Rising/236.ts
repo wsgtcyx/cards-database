@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/236",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/236",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/236",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/236"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/236",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/236"
     },
     name: {
         en: "Eiscue",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Eiscue",
         "zh-tw": "冰砌鵝",
         ja: "コオリッポ",
+        ko: "빙큐보",
     },
     illustrator: "Mékayu",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn Sie das Eis lecken, das sein Gesicht bedeckt, werden Sie es finden\nhat einen leicht salzigen Geschmack. Diese Art ritt hier weiter\nMeeresströmungen aus einem kalten, fernen Land.",
         "pt-br": "Se você lamber o gelo que cobre seu rosto, você o encontrará\ntem um sabor levemente salgado. Esta espécie andou aqui em\ncorrentes oceânicas de uma terra fria e distante.",
         "zh-tw": "如果你舔它臉上的冰，你就會發現它\n有淡淡的鹹味。這個物種騎在這裡\n來自寒冷、遙遠的陸地的洋流。",
-        ja: "顔の 氷は 舐めると ほんのり しょっぱい。 海流に 乗って 遠くの 寒い 土地から 来た。"
+        ja: "顔の 氷は 舐めると ほんのり しょっぱい。 海流に 乗って 遠くの 寒い 土地から 来た。",
+        ko: "얼굴의 얼음을 핥아 보면 살짝 짜다.\n멀리 떨어진 추운 땅에서\n해류를 타고 왔다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Eisgesicht",
                 "pt-br": "Cara de Gelo",
                 "zh-tw": "冰面",
-                ja: "アイスフェイス"
+                ja: "アイスフェイス",
+                ko: "아이스페이스"
             },
             effect: {
                 en: "If this Pokémon has full HP, it takes −40 damage from attacks from your opponent's Pokémon.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Wenn dieses Pokémon volle KP hat, erleidet es −40 Schaden durch Angriffe der Pokémon deines Gegners.",
                 "pt-br": "Se este Pokémon estiver com HP cheio, ele sofrerá -40 de dano dos ataques dos Pokémon do seu oponente.",
                 "zh-tw": "如果這只神奇寶貝的 HP 為滿，則對手的神奇寶貝的攻擊會對其造成 -40 點傷害。",
-                ja: "このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージを-40する。"
+                ja: "このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージを-40する。",
+                ko: "이 포켓몬의 HP가 가득한 상태라면 이 포켓몬이 상대의 포켓몬으로부터 받는 기술의 데미지를 -40한다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "RAM",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
-                ja: "ぶつかる"
+                ja: "ぶつかる",
+                ko: "부딪치기"
             },
             damage: 50,
             cost: ["Water", "Water"]
@@ -79,6 +85,9 @@ const card: Card = {
             type: "Metal",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

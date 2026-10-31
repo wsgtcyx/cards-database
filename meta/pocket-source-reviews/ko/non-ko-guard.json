@@ -1,0 +1,1359 @@
+{
+  "baseline": "22324fc35f4bb5f7c17a2de820ca9b5e8787cf17",
+  "passed": true,
+  "checkedFiles": 4588,
+  "allowedChanges": [
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/001.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/002.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/003.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/004.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/005.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/006.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/007.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/008.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/009.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/010.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/011.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/012.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/013.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/014.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/015.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/016.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/017.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/018.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/019.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/020.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/021.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/022.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/023.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/024.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/025.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/026.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/027.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/028.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/029.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/030.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/031.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/032.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/033.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/034.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/035.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/036.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/037.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/038.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/039.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/040.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/041.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/042.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/043.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/044.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/045.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/046.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/047.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/048.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/049.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/050.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/051.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/052.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/053.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/054.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/055.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/056.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/057.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/058.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/059.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/060.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/061.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/062.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/063.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/064.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/065.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/066.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/067.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/068.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/069.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/070.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/071.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/072.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/073.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/074.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/075.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/076.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/077.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/078.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/079.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/080.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/081.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/082.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/083.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/084.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/085.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/086.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/087.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/088.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/089.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/090.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/091.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/092.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/093.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/094.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/095.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/096.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/097.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/098.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/099.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/100.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/101.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/102.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/103.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/104.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/105.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/106.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/107.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/108.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/109.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/110.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/111.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/112.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/113.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/114.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/115.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/116.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/117.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/118.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/119.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/120.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/121.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/122.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/123.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/124.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/125.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/126.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/127.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/128.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/129.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/130.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/131.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/132.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/133.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/134.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/135.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/136.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/137.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/138.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/139.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/140.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/141.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/142.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/143.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/144.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/145.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/146.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/147.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/148.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/149.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/150.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/151.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/152.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/153.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/154.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/155.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/156.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/157.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/158.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/159.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/160.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/161.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/162.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/163.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/164.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/165.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/166.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/167.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/168.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/169.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/170.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/171.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/172.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/173.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/174.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/175.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/176.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/177.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/178.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/179.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/180.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/181.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/182.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/183.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/184.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/185.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/186.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/187.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/188.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/189.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/190.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/191.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/192.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/193.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/194.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/195.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/196.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/197.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/198.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/199.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/200.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/201.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/202.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/203.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/204.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/205.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/206.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/207.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/208.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/209.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/210.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/211.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/212.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/213.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/214.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/215.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/216.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/217.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/218.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/219.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/220.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/221.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/222.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/223.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/224.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/225.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/226.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/227.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/228.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/229.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/230.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/231.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/232.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/233.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/234.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/235.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/236.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/237.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/238.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/239.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/240.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/241.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/242.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/243.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/244.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/245.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/246.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/247.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/248.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/249.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/250.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/251.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/252.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/253.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/254.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/255.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/256.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/257.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/258.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/259.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/260.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/261.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/262.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/263.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/264.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/265.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/266.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/267.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/268.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/269.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/270.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/271.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/272.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/273.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/274.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/275.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/276.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/277.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/278.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/279.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/280.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/281.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/282.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/283.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/284.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/285.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/286.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/287.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/288.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/289.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/290.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/291.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/292.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/293.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/294.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/295.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/296.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/297.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/298.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/299.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/300.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/301.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/302.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/303.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/304.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/305.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/306.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/307.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/308.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/309.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/310.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/311.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/312.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/313.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/314.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/315.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/316.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/317.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/318.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/319.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/320.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/321.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/322.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/323.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/324.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/325.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/326.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/327.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/328.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/329.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/330.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/331.ts",
+      "change": "approved B1 card pack membership"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry.ts",
+      "change": "approved missing booster definitions"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light.ts",
+      "change": "approved missing booster definitions"
+    }
+  ]
+}

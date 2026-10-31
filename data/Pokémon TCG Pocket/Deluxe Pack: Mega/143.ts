@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/143",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/143"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/143",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/143"
     },
     name: {
         en: "Mega Absol ex",
@@ -44,7 +45,7 @@ const card: Card = {
                 "pt-br": "Garra das Trevas",
                 "zh-tw": "暗黑爪",
                 ja: "ダークネスクロー",
-                ko: "Darkness Claw"
+                ko: "다크니스클로"
             },
             damage: 80,
             cost: [
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Seu oponente revela a mão dele. Escolha 1 carta de Apoiador que encontrar lá e descarte-a.",
                 "zh-tw": "查看對手所有手牌的正面,從其中選擇1張支援者卡,將其丟棄。",
                 ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。",
-                ko: "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
+                ko: "상대의 패의 앞면을 모두 보고 그 중에서 서포트를 1장 선택해서 트래쉬한다."
             }
         }
     ],

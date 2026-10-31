@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/230",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/230",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/230",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/230"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/230",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/230"
     },
     name: {
         en: "Mega Absol ex",
@@ -42,7 +43,8 @@ const card: Card = {
                 de: "Finstere Klaue",
                 "pt-br": "Garra das Trevas",
                 "zh-tw": "暗黑爪",
-                ja: "ダークネスクロー"
+                ja: "ダークネスクロー",
+                ko: "다크니스클로"
             },
             effect: {
                 en: "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
                 "pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
                 "zh-tw": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
-                ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。"
+                ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。",
+                ko: "상대의 패의 앞면을 모두 보고 그 중에서 서포트를 1장 선택해서 트래쉬한다."
             },
             damage: 80
         }

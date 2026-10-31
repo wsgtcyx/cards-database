@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/049",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/049"
     },
     name: {
         en: "Golbat",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
         ja: "ズバット",
+        ko: "주뱃",
     },
     description: {
         en: "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",

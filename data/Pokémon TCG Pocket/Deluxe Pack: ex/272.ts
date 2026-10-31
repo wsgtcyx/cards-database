@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/272",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/272",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/272",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/272"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/272",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/272"
     },
     name: {
         en: "Pidgey",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pidgey",
         "zh-tw": "波波",
         ja: "ポッポ",
+        ko: "구구",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Ein häufiger Anblick in Wäldern und Wäldern. Es flattert\nSeine Flügel befinden sich auf Bodenhöhe, um blendenden Sand aufzuwirbeln.",
         "pt-br": "Uma visão comum em florestas e bosques. Ele bate\nsuas asas ao nível do solo para levantar areia ofuscante.",
         "zh-tw": "森林和樹林中常見的景象。它拍打著\n它的翅膀在地面上，可以揚起令人眼花繚亂的沙子。",
-        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。"
+        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。",
+        ko: "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Klappe",
                 "pt-br": "Aba",
                 "zh-tw": "皮瓣",
-                ja: "はばたく"
+                ja: "はばたく",
+                ko: "홰치기"
             },
             damage: 20,
             cost: ["Colorless"]

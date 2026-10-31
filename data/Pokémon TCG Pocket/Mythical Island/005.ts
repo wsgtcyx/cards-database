@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/005"
     },
     name: {
         en: "Servine",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Snivy",
         "zh-tw": "藤藤蛇",
         ja: "ツタージャ",
+        ko: "주리비얀",
     },
     description: {
         en: "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",

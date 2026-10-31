@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/088",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/088"
     },
     name: {
         en: "Raikou ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Raikou ex",
         "zh-tw": "雷公ex",
         ja: "ライコウex",
+        ko: "라이코 ex",
     },
     illustrator: "Tsuyoshi Nagano",
     rarity: "Two Star",
@@ -39,7 +41,8 @@ const card: Card = {
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
                 "zh-tw": "傳奇脈搏",
-                ja: "でんせつのこどう"
+                ja: "でんせつのこどう",
+                ko: "전설의고동"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -49,7 +52,8 @@ const card: Card = {
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
                 "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
-                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+                ko: "자신의 차례의 마지막에 이 포켓몬이 배틀필드에 있다면 자신의 덱을 1장 뽑는다."
             }
         }],
     attacks: [{
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Voltaische Kugel",
                 "pt-br": "Bala Voltaica",
                 "zh-tw": "伏打子彈",
-                ja: "ボルテージバレット"
+                ja: "ボルテージバレット",
+                ko: "볼티지불릿"
             },
             damage: 60,
             cost: ["Lightning", "Lightning"],
@@ -73,7 +78,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 10 點傷害。",
-                ja: "相手のベンチポケモン1匹にも10ダメージ。"
+                ja: "相手のベンチポケモン1匹にも10ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 10데미지를 준다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/071",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/071",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/071"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/071",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/071"
     },
     name: {
         en: "Dusclops",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
         ja: "ヨマワル",
+        ko: "해골몽",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",

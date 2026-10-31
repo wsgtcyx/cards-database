@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/098"
     },
     name: {
         en: "Dratini",
@@ -48,7 +49,7 @@ const card: Card = {
                 "pt-br": "Gancho",
                 "zh-tw": "鉤住",
                 ja: "ひっかける",
-                ko: "Hook"
+                ko: "걸기"
             },
             cost: [
                 "Colorless",
@@ -67,7 +68,7 @@ const card: Card = {
         "pt-br": "Troca de pele várias vezes à medida que cresce. Durante este processo, é protegido por uma cachoeira agitada.",
         "zh-tw": "會在湍流而下的瀑布保護下反覆蛻皮，使身體變得越來越大。",
         ja: "激しく 流れ落ちる 滝に 守られながら 脱皮を 繰り返し どんどん 大きくなる。",
-        ko: "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall."
+        ko: "세차게 떨어지는 폭포의 보호를 받으며\n탈피를 거듭해 점점 크게 자란다."
     }
 };
 

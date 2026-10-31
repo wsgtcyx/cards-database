@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/035",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/035",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/035"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/035",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/035"
     },
     name: {
         en: "Spritzee",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Parfi",
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
-        ja: "シュシュプ"
+        ja: "シュシュプ",
+        ko: "슈쁘"
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Der Duft, den sein Körper verströmt, verzaubert diese\nwer es riecht. An edlen Damen mangelte es nicht\nLiebe für Spritzee.",
         "pt-br": "O perfume que seu corpo exala encanta aqueles\nquem sente o cheiro. Senhoras nobres não tinham falta de\namor por Spritzee.",
         "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。",
-        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。"
+        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。",
+        ko: "사람을 매료하는 황홀한\n냄새를 몸에서 풍긴다.\n귀부인들에게 사랑받았다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Süßer Duft",
                 "pt-br": "Aroma Doce",
                 "zh-tw": "甜香",
-                ja: "あまいかおり"
+                ja: "あまいかおり",
+                ko: "달콤한향기"
             },
             cost: ["Psychic"],
             effect: {
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Heile 20 Schadenspunkte bei 1 deiner Pokémon.",
                 "pt-br": "Cure 20 de dano de 1 dos seus Pokémon.",
                 "zh-tw": "治療你的 1 只神奇寶貝造成的 20 點傷害。",
-                ja: "自分のポケモン1匹のHPを20回復。"
+                ja: "自分のポケモン1匹のHPを20回復。",
+                ko: "자신의 포켓몬 1마리의 HP를 20회복."
             }
         }],
     weaknesses: [{

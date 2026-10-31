@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/044"
     },
     name: {
         en: "Gorebyss",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es saugt die Körpersäfte seiner Beute aus.\nWas übrig bleibt, sinkt zu Boden und wird\nvon anderen Pokémon verspeist.",
         "pt-br": "Ele suga os fluidos corporais de suas presas. Os restos de carne vão para o fundo do mar, onde se transformam em alimento para outros Pokémon.",
         "zh-tw": "會吸取獵物的體液。\n剩下的肉會沉入海底，\n成為其他寶可夢的食物。",
-        ja: "獲物の 体液を 吸う。 肉は 海底に 沈み 他の ポケモンの エサに なるのだ。"
+        ja: "獲物の 体液を 吸う。 肉は 海底に 沈み 他の ポケモンの エサに なるのだ。",
+        ko: "먹이의 체액을 빨아들인다.\n고기는 바다 밑으로 가라앉아\n다른 포켓몬의 먹이가 된다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Aquaschneide",
                 "pt-br": "Aqua Gume",
                 "zh-tw": "水之刀鋒",
-                ja: "アクアエッジ"
+                ja: "アクアエッジ",
+                ko: "아쿠아에지"
             },
             damage: 40
         }

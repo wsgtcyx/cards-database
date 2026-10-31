@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/163",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/163"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/163",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/163"
     },
     name: {
         en: "Aegislash",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
         ja: "ニダンギル",
-        ko: "Doublade"
+        ko: "쌍검킬"
     },
     description: {
         en: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking.",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Seus formidáveis poderes espectrais permitem que Aegislash manipule os outros. Certa vez, usou seus poderes para forçar pessoas e Pokémon a construir um reino segundo os seus caprichos.",
         "zh-tw": "堅盾劍怪曾經用強大的靈力控制人和寶可夢，建立了適合自己生活的國家。",
         ja: "強力な 霊力で 人や ポケモンを 操り ギルガルドに 都合の 良い 国を つくらせた。",
-        ko: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking."
+        ko: "강력한 영력으로 사람과\n포켓몬을 조종해 킬가르도의\n입맛에 맞는 나라를 만들게 했다."
     },
     stage: "Stage2",
     attacks: [
@@ -65,7 +66,7 @@ const card: Card = {
                 "pt-br": "Escudo Espetacular",
                 "zh-tw": "卓越盾牌",
                 ja: "グレートシールド",
-                ko: "Superb Shield"
+                ko: "그레이트실드"
             },
             damage: 80,
             cost: [
@@ -82,7 +83,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá −80 pontos de dano de ataques dos Pokémon ex do seu oponente.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到對手的「寶可夢ex」招式的傷害-80點。",
                 ja: "次の相手の番、このポケモンが相手の「ポケモンex」から受けるワザのダメージを-80する。",
-                ko: "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
+                ko: "상대의 다음 차례에 이 포켓몬이 상대의 「포켓몬 ex」로부터 받는 기술의 데미지를 -80한다."
             }
         }
     ],

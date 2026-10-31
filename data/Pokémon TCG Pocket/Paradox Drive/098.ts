@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/098",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/098"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/098",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/098"
     },
     name: {
         en: "Diglett",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine Haut ist sehr dünn. Wird es Sonnenlicht\nausgesetzt, erhitzt sich sein Blut und es wird schwach.",
         "pt-br": "Sua pele é muito fina. Se for exposto à luz, seu sangue aquece, enfraquecendo-o.",
         "zh-tw": "它的皮很薄。如果暴露在光線下，它的血液就會升溫，導致它變得虛弱。",
-        ja: "皮膚が とても 薄いので 光に 照らされると 血液が 温められて 弱ってしまう。"
+        ja: "皮膚が とても 薄いので 光に 照らされると 血液が 温められて 弱ってしまう。",
+        ko: "피부가 매우 얇아서\n빛을 쪼이게 되면\n혈액이 데워져 약해진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Vorwagen",
                 "pt-br": "Leve Invasão",
                 "zh-tw": "撞一下",
-                ja: "ちょっとつっこむ"
+                ja: "ちょっとつっこむ",
+                ko: "가벼운돌입"
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
                 "zh-tw": "該寶可夢也會對其自身造成 10 點傷害。",
-                ja: "このポケモンにも10ダメージ。"
+                ja: "このポケモンにも10ダメージ。",
+                ko: "이 포켓몬에게도 10데미지를 준다."
             },
             damage: 30
         }

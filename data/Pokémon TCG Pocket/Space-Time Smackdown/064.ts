@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/064",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/064",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/064"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/064",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/064"
     },
     name: {
         en: "Togetic",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Togepi",
         "zh-tw": "波克比",
         ja: "トゲピー",
+        ko: "토게피",
     },
     description: {
         en: "They say that it will appear before kindhearted, caring people and shower them with happiness.",

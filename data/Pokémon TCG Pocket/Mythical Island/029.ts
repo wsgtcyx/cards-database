@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/029",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/029"
     },
     name: {
         en: "Galvantula",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Joltik",
         "zh-tw": "電電蟲",
         ja: "バチュル",
+        ko: "파쪼옥",
     },
     description: {
         en: "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",

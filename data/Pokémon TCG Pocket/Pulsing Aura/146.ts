@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/146",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/146"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/146",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/146"
     },
     name: {
         en: "Corvisquire",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Dieses intelligente Pokémon lernt schnell, jedes Werkzeug zu benutzen, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar no bico ou nas garras.",
         "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。",
-        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。",
+        ko: "머리가 좋아서 부리와 발로\n다룰 수 있는 도구라면\n간단하게 사용법을 익힌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lanzenstich",
                 "pt-br": "Justar",
                 "zh-tw": "狙落",
-                ja: "ねらいおとす"
+                ja: "ねらいおとす",
+                ko: "노려떨구기"
             },
             effect: {
                 en: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Bevor du Schaden verursachst, wirf alle Pokémon-Werkzeuge vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害之前，丟棄對手的活躍寶可夢中的所有寶可夢工具。",
-                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。"
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
+                ko: "데미지를 주기 전에 상대의 배틀 포켓몬으로부터 「포켓몬의 도구」를 트래쉬한다."
             },
             damage: 30
         }

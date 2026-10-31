@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/125",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/125"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/125",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/125"
     },
     name: {
         en: "Gholdengo",
@@ -38,6 +39,7 @@ const card: Card = {
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
         ja: "コレクレー",
+        ko: "모으령",
         pt: "Gimmighoul",
         'es-mx': "Gimmighoul"
     },
@@ -76,7 +78,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda para cada Energia de {M} ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara.",
                 "zh-tw": "為該寶可夢附加的每 {M} 能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。",
                 ja: "このポケモンの{M}エネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
-                ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 {M}× 50[/Ctrl:NoBreak]데미지를 준다."
+                ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 × 50데미지를 준다."
             }
         }],
     weaknesses: [

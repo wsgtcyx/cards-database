@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/192",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/192",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/192",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/192"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/192",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/192"
     },
     name: {
         en: "Fearow",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Habitak",
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
-        ja: "オニスズメ"
+        ja: "オニスズメ",
+        ko: "깨비참"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

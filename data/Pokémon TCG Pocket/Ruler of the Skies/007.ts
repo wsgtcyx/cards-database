@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/007",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/007",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/007"
     },
     name: {
         en: "Cradily",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Sobald es mit seinen Tentakeln Beute erfasst hat,\nlöst es diese mit seiner Verdauungsflüssigkeit auf\nund absorbiert ihre Nährstoffe.",
         "zh-tw": "用觸手捕捉到獵物時，\n會直接用消化液溶解\n獵物然後吸收養分。",
         "pt-br": "Assim que captura a presa com seus tentáculos. Cradily a digere inteira e absorve seus nutrientes",
-        ja: "触手で 獲物を 捕まえると そのまま 消化液で 溶かして 栄養分を 吸収する。"
+        ja: "触手で 獲物を 捕まえると そのまま 消化液で 溶かして 栄養分を 吸収する。",
+        ko: "촉수로 먹이를 잡은 후\n그대로 소화액으로 녹여\n영양분을 흡수한다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 "pt-br": "Grudar e Absorver",
                 "zh-tw": "纏繞吸取",
                 "it": "Avvinghia e Assorbi",
-                ja: "からめてすいとる"
+                ja: "からめてすいとる",
+                ko: "감아서흡수"
             },
             effect: {
                 en: "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -72,7 +75,8 @@ const card: Card = {
                 "zh-tw": "將這隻寶可夢恢復30HP。在下個對手的回合,受到這個招式的寶可夢無法撤退。",
                 "it": "Cura questo Pokémon da 30 danni. Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon. Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
-                ja: "このポケモンのHPを30回復。次の相手の番、このワザを受けたポケモンはにげるができない。"
+                ja: "このポケモンのHPを30回復。次の相手の番、このワザを受けたポケモンはにげるができない。",
+                ko: "이 포켓몬의 HP를 30회복. 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴를 할 수 없다."
             },
             damage: 70
         }

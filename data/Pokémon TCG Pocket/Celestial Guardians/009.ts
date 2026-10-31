@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/009"
     },
     name: {
         en: "Rowlet",

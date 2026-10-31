@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/056"
     },
     name: {
         en: "Primeape",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Primeape",
         "zh-tw": "火爆猴",
         ja: "オコリザル",
+        ko: "성원숭",
         pt: "Primeape"
     },
     illustrator: "Shin Nagasawa",
@@ -38,6 +40,7 @@ const card: Card = {
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
         ja: "マンキー",
+        ko: "망키",
         pt: "Mankey"
     },
     description: {
@@ -48,7 +51,8 @@ const card: Card = {
         "de": "Einige Forscher gehen davon aus, dass Rasaff auch dann wütend bleibt, wenn er sich in einem Pokéball befindet.",
         "pt-br": "Alguns pesquisadores teorizam que Primeape permanece com raiva mesmo dentro de uma Pokébola.",
         "zh-tw": "一些研究人員推測，即使在寶可夢球內，火爆猴 仍然會生氣。",
-        ja: "ある研究者の 学説では モンスターボールの 中でも オコリザルは 怒っているらしい。"
+        ja: "ある研究者の 学説では モンスターボールの 中でも オコリザルは 怒っているらしい。",
+        ko: "어느 연구자의 학설에 의하면\n몬스터볼 안에서도\n성원숭은 화나 있다는 듯하다."
     },
     stage: "Stage1",
     attacks: [
@@ -62,6 +66,7 @@ const card: Card = {
                 "pt-br": "Raiva",
                 "zh-tw": "憤怒",
                 ja: "いかり",
+                ko: "분노",
                 pt: "Ira"
             },
             damage: "30+",

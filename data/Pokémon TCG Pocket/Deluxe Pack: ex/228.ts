@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/228",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/228",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/228",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/228"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/228",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/228"
 	},
 	name: {
 		en: "Golbat",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Golbat",
 		"pt-br": "Golbat",
 		"zh-tw": "大嘴蝠",
-		ja: "ゴルバット"
+		ja: "ゴルバット",
+		ko: "골뱃"
 	},
 	illustrator: "Kyoko Umemoto",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Zubat",
 		"pt-br": "Zubat",
 		"zh-tw": "超音蝠",
-		ja: "ズバット"
+		ja: "ズバット",
+		ko: "주뱃"
 	},
 	description: {
 		en: "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",

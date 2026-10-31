@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/045"
     },
     name: {
         en: "Miraidon",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Miraidon",
         "zh-tw": "密勒頓",
         ja: "ミライドン",
+        ko: "미라이돈",
         pt: "Miraidon"
     },
     illustrator: "Kouki Saitou",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Dies scheint die Eiserne Schlange zu sein, die in einem alten Buch erwähnt wird. Die Eiserne Schlange soll mit ihrem Blitz das Land in Asche verwandelt haben.",
         "pt-br": "Esta parece ser a Serpente de Ferro mencionada em um livro antigo. Diz-se que a Serpente de Ferro transformou a terra em cinzas com seus raios.",
         "zh-tw": "這似乎就是一本古書中提到的鐵蛇。據說鐵蛇用閃電將大地化為灰燼。",
-        ja: "古い 書物に 名が ある テツノオロチらしい。 雷で 大地を 灰に 変えたという。"
+        ja: "古い 書物に 名が ある テツノオロチらしい。 雷で 大地を 灰に 変えたという。",
+        ko: "오래된 서적에 \"무쇠이무기\"라는\n이름으로 기록된 존재인 것 같다.\n벼락으로 대지를 잿더미로 만들었다고 한다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Laser relâmpago",
                 "zh-tw": "閃電雷射",
                 ja: "ライトニングレーザー",
+                ko: "라이트닝 레이저",
                 pt: "Laser Relampejante"
             },
             damage: "60",
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 30 點傷害。",
                 ja: "相手のベンチポケモン1匹にも30ダメージ。",
+                ko: "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다.",
                 pt: "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente."
             },
         },

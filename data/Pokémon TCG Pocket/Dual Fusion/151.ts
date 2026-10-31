@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/151",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/151",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/151",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/151"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/151",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/151"
     },
     name: {
         en: "Bidoof",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Roída",
                 "zh-tw": "咬",
                 ja: "かじる",
-                ko: "Gnaw"
+                ko: "갉기"
             },
             cost: [
                 "Colorless"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Com nervos de aço, nada pode perturbá-lo. É mais ágil e ativo do que parece.",
         "zh-tw": "遇到任何事都不慌不忙，神經很大條的傢伙。能做出與外表不相稱的靈敏動作。",
         ja: "なにごとにも 動じない 図太い 神経の 持ち主。 見かけの 割には 機敏に 活動する。",
-        ko: "With nerves of steel, nothing can perturb it. It is more agile and active than it appears."
+        ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다."
     }
 };
 

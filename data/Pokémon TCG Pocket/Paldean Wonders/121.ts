@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/121"
     },
     name: {
         en: "Pawmot",
@@ -38,6 +39,7 @@ const card: Card = {
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
         ja: "パモット",
+        ko: "빠모트",
         'es-mx': "Pawmo",
         pt: "Pawmo"
     },
@@ -50,7 +52,8 @@ const card: Card = {
         "de": "Das flauschige Fell von Pamomamo fungiert als Batterie. Es kann die gleiche Menge Strom speichern wie ein Elektroauto.",
         "pt-br": "O pelo fofo do Pawmot funciona como uma bateria. Ele pode armazenar a mesma quantidade de eletricidade que um carro elétrico.",
         "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。",
-        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。"
+        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。",
+        ko: "복슬복슬한 털이 배터리 역할을 한다.\n전기 자동차에 맞먹는 양의\n전기를 비축할 수 있다."
     },
     attacks: [
         {
@@ -63,6 +66,7 @@ const card: Card = {
                 "pt-br": "Explosão de trovão",
                 "zh-tw": "雷霆衝擊",
                 ja: "サンダーブラスト",
+                ko: "썬더블라스트",
                 'es-mx': "Explosión Atronadora",
                 pt: "Explosão de Trovões"
             },
@@ -76,7 +80,8 @@ const card: Card = {
                 "de": "Lege eine Lightning-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia Relâmpago deste Pokémon.",
                 "zh-tw": "丟棄這隻寶可夢的閃電能量。",
-                ja: "このポケモンから{L}エネルギーを1個トラッシュ。"
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。",
+                ko: "이 포켓몬에서 {L}에너지를 1개 트래쉬한다."
             },
         },
     ],

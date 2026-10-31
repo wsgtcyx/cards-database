@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/261",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/261",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/261",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/261"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/261",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/261"
     },
     name: {
         en: "Ponyta",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Se você foi aceito por Ponyta, a crina abrasadora deste Pokémon misteriosamente não queimará ao ser tocada.",
         "zh-tw": "得到了小火馬認可的人，在觸摸牠燃燒著的鬃毛時不會覺得燙手，真是不可思議。",
         ja: "ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。",
-        ko: "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch."
+        ko: "포니타에게 인정받으면\n타오르는 갈기를 만져도\n뜨거움을 느끼지 않게 된다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Carregar",
                 "zh-tw": "燃起",
                 ja: "もえあがる",
-                ko: "Stoke"
+                ko: "타오르기"
             },
             effect: {
                 en: "Take a {R} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -71,7 +72,7 @@ const card: Card = {
                 "pt-br": "Pegue 1 Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出1個{R}能量,附於這隻寶可夢身上。",
                 ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、このポケモンにつける。",
-                ko: "Take a {R} Energy from your Energy Zone and attach it to this Pokémon."
+                ko: "자신의 에너지존에서 {R}에너지를 1개 내보내 이 포켓몬에게 붙인다."
             }
         }
     ],

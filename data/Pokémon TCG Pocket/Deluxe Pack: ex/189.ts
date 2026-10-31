@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/189",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/189",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/189",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/189"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/189",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/189"
     },
     name: {
         en: "Machop",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Machop",
         "zh-tw": "腕力",
         ja: "ワンリキー",
+        ko: "알통몬",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein ganzer Körper besteht aus Muskeln.\nObwohl es die Größe eines menschlichen Kindes hat, kann es\nWirf 100 Erwachsene.",
         "pt-br": "Todo o seu corpo é composto por músculos.\nMesmo sendo do tamanho de uma criança humana, pode\narremessar 100 adultos.",
         "zh-tw": "它的整個身體都是由肌肉組成的。\n儘管它只有人類兒童的大小，但它可以\n投擲 100 個成年人。",
-        ja: "全身が 筋肉になっており 子どもほどの 大きさしかないのに 大人 １００人を 投げ飛ばせる。"
+        ja: "全身が 筋肉になっており 子どもほどの 大きさしかないのに 大人 １００人を 投げ飛ばせる。",
+        ko: "몸집은 어린아이만 하지만\n온몸이 근육으로 되어 있어서\n어른 100명은 날려 버릴 수 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Knöchelschlag",
                 "pt-br": "Soco de Dedo",
                 "zh-tw": "指節拳",
-                ja: "げんこつ"
+                ja: "げんこつ",
+                ko: "꿀밤"
             },
             damage: 20,
             cost: ["Fighting"]

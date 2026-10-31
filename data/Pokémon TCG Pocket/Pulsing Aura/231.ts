@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/231",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/231",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/231",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/231"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/231",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/231"
     },
     name: {
         en: "Dragalge ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Giftdorn",
                 "pt-br": "Ponto Venenoso",
                 "zh-tw": "毒刺",
-                ja: "どくのトゲ"
+                ja: "どくのトゲ",
+                ko: "독가시"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, ist das angreifende Pokémon jetzt vergiftet.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, o Pokémon atacante ficará Envenenado.",
                 "zh-tw": "如果該寶可夢位於活動點並因對手寶可夢的攻擊而受到傷害，則攻擊的寶可夢現在會中毒。",
-                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。"
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。",
+                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 독으로 만든다."
             }
         }
     ],
@@ -78,7 +81,8 @@ const card: Card = {
                 de: "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
                 "zh-tw": "龍之鞭打",
-                ja: "ドラゴンウィップ"
+                ja: "ドラゴンウィップ",
+                ko: "드래곤휩"
             },
             damage: 80
         }

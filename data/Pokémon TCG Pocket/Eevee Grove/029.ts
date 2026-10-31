@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/029",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/029",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/029"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/029",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/029"
     },
     name: {
         en: "Woobat",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Woobat",
         "zh-tw": "滾滾蝙蝠",
         ja: "コロモリ",
+        ko: "또르박쥐",
     },
     illustrator: "match",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn Sie in einer Höhle nach oben schauen und viel sehen\nEs gibt herzförmige Markierungen an den Wänden\nBeweise dafür, dass Woobat dort lebt.",
         "pt-br": "Enquanto estiver dentro de uma caverna, se você olhar para cima e ver muitas\nde marcas em forma de coração revestindo as paredes, é\nevidência de que Woobat mora lá.",
         "zh-tw": "在洞穴內時，如果你抬頭看到很多\n牆上排列著心形的標記，它是\n伍巴特住在那裡的證據。",
-        ja: "洞窟を 見上げて 壁に ハート型の 跡が あれば コロモリが 棲んでいる 証拠。"
+        ja: "洞窟を 見上げて 壁に ハート型の 跡が あれば コロモリが 棲んでいる 証拠。",
+        ko: "동굴을 올려다봤을 때 벽에\n하트 모양 자국이 있다면\n또르박쥐가 살고 있다는 증거다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Böe",
                 "pt-br": "Rajada",
                 "zh-tw": "陣風",
-                ja: "かぜおこし"
+                ja: "かぜおこし",
+                ko: "바람일으키기"
             },
             damage: 20,
             cost: ["Psychic"]

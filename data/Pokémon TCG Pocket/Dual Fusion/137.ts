@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/137",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/137"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/137",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/137"
     },
     name: {
         en: "Raboot",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Scorbunny",
         "zh-tw": "炎兔兒",
         ja: "ヒバニー",
-        ko: "Scorbunny"
+        ko: "염버니"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
                 ja: "ずつき",
-                ko: "Headbutt"
+                ko: "박치기"
             },
             cost: [
                 "Colorless"
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Instrutor Saltitante",
                 "zh-tw": "跳躍指導",
                 ja: "ジャンピングコーチ",
-                ko: "Jumping Coach"
+                ko: "점핑 코치"
             },
             effect: {
                 en: "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon.",
@@ -94,7 +95,7 @@ const card: Card = {
                 "pt-br": "Enquanto este Pokémon estiver em jogo, jogue 3 moedas a mais para o ataque Salto do Coelho usado pelos seus Pokémon.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的寶可夢使用的招式「兔兒跳」擲硬幣的次數增加3次。",
                 ja: "このポケモンがいるかぎり、自分のポケモンが使うワザ「ラビットジャンプ」で投げるコインの数を、3回多くする。",
-                ko: "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
+                ko: "이 포켓몬이 있는 한, 자신의 포켓몬이 사용하는 기술 「래빗점프」로 던지는 동전의 수를 3번 많게 한다."
             },
             type: "Ability"
         }
@@ -108,7 +109,7 @@ const card: Card = {
         "pt-br": "Graças ao seu pelo macio e fofinho, Raboot consegue aquecer rapidamente sua energia de fogo e produzir chamas mais poderosas.",
         "zh-tw": "蓬鬆的體毛幫助牠迅速 提升火之能量的溫度 釋放出更強烈的火焰。",
         ja: "ふかふかの 体毛の おかげで 炎エネルギーを 温めやすく さらに 強い 炎を 出せる。",
-        ko: "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power."
+        ko: "푹신푹신한 털 덕분에\n불꽃 에너지의 온도를 올리기 쉬워져서\n더욱 강한 불꽃을 내보낼 수 있다."
     }
 };
 

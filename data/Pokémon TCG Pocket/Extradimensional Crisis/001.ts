@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/001",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/001"
     },
     name: {
         en: "Petilil",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
         ja: "チュリネ",
+        ko: "치릴리",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Blätter auf seinem Kopf wachsen gleich wieder nach, auch wenn\nsie fallen heraus. Diese bitteren Blätter erfrischen diese\nwer sie isst.",
         "pt-br": "As folhas em sua cabeça voltam a crescer, mesmo que\neles caem. Estas folhas amargas refrescam aqueles\nquem os come.",
         "zh-tw": "即使它頭上的葉子馬上又長出來\n他們會掉下來。這些苦澀的葉子使那些\n誰吃它們。",
-        ja: "抜け落ちても すぐに 生えてくる 頭の 葉っぱは とても 苦いが かじれば すぐ 元気に なれる。"
+        ja: "抜け落ちても すぐに 生えてくる 頭の 葉っぱは とても 苦いが かじれば すぐ 元気に なれる。",
+        ko: "빠져도 바로 자라나는\n머리의 잎사귀는 아주 쓰지만\n갉아 먹으면 바로 기운이 난다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
-                ja: "タネばくだん"
+                ja: "タネばくだん",
+                ko: "씨폭탄"
             },
             damage: 20,
             cost: ["Grass"]

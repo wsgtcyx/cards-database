@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/075",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/075"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/075",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/075"
     },
     name: {
         en: "Snom",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "In seinen inneren Organen verstärkt Snomnom die kalte Luft, die es durch das Fressen von Schnee erhält, und nutzt diese verstärkte Luft dann, um eiszapfenartige Spitzen zu erzeugen.",
         "pt-br": "Dentro de seus órgãos internos, Snom amplifica o ar gelado que obtém ao comer neve e, em seguida, usa esse ar amplificado para criar pontas semelhantes a pingentes de gelo.",
         "zh-tw": "在它的內部器官中，雪吞蟲 放大了它從吃雪中獲得的寒冷空氣，然後利用這種放大的空氣產生冰柱狀的尖刺。",
-        ja: "食べた 雪から 得た 冷気を 体内の 器官で 増幅して 氷柱のような トゲを 作る。"
+        ja: "食べた 雪から 得た 冷気を 体内の 器官で 増幅して 氷柱のような トゲを 作る。",
+        ko: "먹은 눈을 통해 얻은 냉기를\n체내 기관에서 증폭시켜서\n고드름 같은 가시를 만든다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Nagen",
                 "pt-br": "Roída",
                 "zh-tw": "咬",
-                ja: "かじる"
+                ja: "かじる",
+                ko: "갉기"
             },
             damage: 20
         }

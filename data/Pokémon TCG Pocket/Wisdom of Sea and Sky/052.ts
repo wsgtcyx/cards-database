@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/052",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/052",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/052"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/052",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/052"
     },
     name: {
         en: "Quagsire",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Quagsire",
         "zh-tw": "沼王",
         ja: "ヌオー",
+        ko: "누오",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Wooper",
         "zh-tw": "烏波",
         ja: "ウパー",
+        ko: "우파",
     },
     description: {
         en: "It has an easygoing nature. It doesn't care if it\nbumps its head on boats and boulders\nwhile swimming.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es hat eine lockere Natur. Es ist egal, ob es so ist\nstößt mit dem Kopf gegen Boote und Felsbrocken\nbeim Schwimmen.",
         "pt-br": "Tem uma natureza descontraída. Não importa se\nbate a cabeça em barcos e pedras\nenquanto nadava.",
         "zh-tw": "它有一種隨和的性格。它不在乎是否\n頭撞到船隻和巨石上\n游泳時。",
-        ja: "船底や 川の岩に 頭を ぶつけまくっても 気にせず 気ままに 泳いでいる のんきな ポケモン。"
+        ja: "船底や 川の岩に 頭を ぶつけまくっても 気にせず 気ままに 泳いでいる のんきな ポケモン。",
+        ko: "배의 밑바닥이나 물가의 바위에\n머리를 부딪쳐도 신경 쓰지 않고\n헤엄치는 무사태평한 포켓몬이다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Surfen",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "なみのり"
+                ja: "なみのり",
+                ko: "파도타기"
             },
             damage: 80,
             cost: ["Water", "Water", "Colorless"]

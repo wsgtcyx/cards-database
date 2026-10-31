@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/099",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/099"
     },
     name: {
         en: "Gardevoir",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Gardevoir",
         "zh-tw": "沙奈朵",
         ja: "サーナイト",
+        ko: "가디안",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Kirlia",
         "zh-tw": "奇魯莉安",
         ja: "キルリア",
+        ko: "킬리아",
     },
     description: {
         en: "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Um seinen Trainer zu schützen, wird es sein gesamtes psychisches Potenzial aufwenden\nMacht, ein kleines Schwarzes Loch zu erzeugen.",
         "pt-br": "Para proteger seu Treinador, ele gastará todo o seu poder psíquico\npoder para criar um pequeno buraco negro.",
         "zh-tw": "為了保護訓練家，它會耗盡所有的靈能\n產生小黑洞的能力。",
-        ja: "トレーナーを 守るためなら サイコパワーを 使いきり 小さな ブラックホールを 作り出す。"
+        ja: "トレーナーを 守るためなら サイコパワーを 使いきり 小さな ブラックホールを 作り出す。",
+        ko: "트레이너를 지키기 위해서라면\n사이코 파워를 모두 써서\n작은 블랙홀을 만들어 낸다."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Psi-Schatten",
                 "pt-br": "Sombra Psíquica",
                 "zh-tw": "心靈陰影",
-                ja: "トランスシェイド"
+                ja: "トランスシェイド",
+                ko: "트랜스 셰이드"
             },
             effect: {
                 en: "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du eine {P}-Energie aus deiner Energiezone nehmen und sie an das {P}-Pokémon an der aktiven Stelle anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia {P} da sua Zona de Energia e anexá-la ao Pokémon {P} no Ponto Ativo.",
                 "zh-tw": "在你的回合中，你可以從你的能量區取出一個 {P} 能量並將其附加到活動地點的 {P} 神奇寶貝上。",
-                ja: "自分の番に1回使える。自分のエネルギーゾーンから{P}エネルギーを1個出し、バトル場の{P}ポケモンにつける。"
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{P}エネルギーを1個出し、バトル場の{P}ポケモンにつける。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {P}에너지를 1개 내보내 배틀필드의 {P}포켓몬에게 붙인다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
                 "zh-tw": "心理射擊",
-                ja: "サイコショット"
+                ja: "サイコショット",
+                ko: "사이코숏"
             },
             damage: 60,
             cost: ["Psychic", "Psychic", "Colorless"]

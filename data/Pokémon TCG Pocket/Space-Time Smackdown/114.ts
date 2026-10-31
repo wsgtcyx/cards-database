@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/114",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/114"
     },
     name: {
         en: "Bastiodon",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Shieldon",
         "zh-tw": "盾甲龍",
         ja: "タテトプス",
+        ko: "방패톱스",
     },
     description: {
         en: "The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.",

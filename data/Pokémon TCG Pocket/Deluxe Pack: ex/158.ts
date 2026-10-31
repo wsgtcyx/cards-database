@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/158",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/158"
     },
     name: {
         en: "Mewtwo ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Mewtwo ex",
         "zh-tw": "超夢ex",
         ja: "ミュウツーex",
+        ko: "뮤츠 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Psychische Sphäre",
                 "pt-br": "Esfera Psíquica",
                 "zh-tw": "心靈領域",
-                ja: "ねんどうだん"
+                ja: "ねんどうだん",
+                ko: "염동탄"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"]
@@ -51,7 +54,8 @@ const card: Card = {
                 "de": "Psydrive",
                 "pt-br": "Psicodrive",
                 "zh-tw": "心靈驅動器",
-                ja: "サイコドライブ"
+                ja: "サイコドライブ",
+                ko: "사이코 드라이브"
             },
             damage: 150,
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],
@@ -63,7 +67,8 @@ const card: Card = {
                 "de": "Lege 2 {P}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {P} Energias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。",
-                ja: "このポケモンから{P}エネルギーを2個トラッシュ。"
+                ja: "このポケモンから{P}エネルギーを2個トラッシュ。",
+                ko: "이 포켓몬에서 {P}에너지를 2개 트래쉬한다."
             }
         }],
     weaknesses: [{

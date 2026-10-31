@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/400",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/400",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/400",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/400"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/400",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/400"
     },
     name: {
         en: "Hiking Trail",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "No final do turno de cada jogador, aquele jogador comprará cartas até ter 3 cartas na própria mão.",
         "zh-tw": "雙方玩家在自己的回合結束時,從牌庫抽卡直到自己的手牌滿3張為止。",
         ja: "おたがいのプレイヤーは、自分の番の終わりに、自分の手札が3枚になるように、山札を引く。",
-        ko: "At the end of each player's turn, that player draws cards until they have 3 cards in their hand."
+        ko: "서로의 플레이어는 자신의 차례의 마지막에 자신의 패가 3장이 되도록 덱을 뽑는다."
     },
     trainerType: "Stadium"
 };

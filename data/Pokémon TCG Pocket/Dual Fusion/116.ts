@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/116"
     },
     name: {
         en: "Lopunny",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
         ja: "ミミロル",
-        ko: "Buneary"
+        ko: "이어롤"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
                 ja: "ラビットジャンプ",
-                ko: "Rabbit Jumping"
+                ko: "래빗점프"
             },
             cost: [
                 "Colorless"
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×40點傷害。",
                 ja: "コインを2回投げ、オモテの数×40ダメージ。",
-                ko: "Flip 2 coins. This attack does 40 damage for each heads."
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Lopunny está constantemente monitorando seus arredores. Se o perigo se aproxima, este Pokémon responde com chutes superdestrutivos.",
         "zh-tw": "總是注意著周圍的狀況。危險逼近時，便會給予對手破壞力十足的踢腿。",
         ja: "まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。",
-        ko: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks."
+        ko: "주위 상황을 항상 신경 쓰고 있으며\n위험이 닥치면 무시무시한 파괴력을\n가진 킥을 날린다."
     }
 };
 

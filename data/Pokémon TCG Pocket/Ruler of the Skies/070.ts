@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/070",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/070"
     },
     name: {
         en: "Mewtwo",
@@ -38,7 +39,8 @@ const card: Card = {
         "de": "Dieses Pokémon ist das Resultat der Experimente eines gewissen Forschers: Es setzt all seine Kraft fürs Kämpfen ein.",
         "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha.",
         "zh-tw": "某位科學家的研究\n造就了超夢的誕生，\n牠的力量專為戰鬥而存在。",
-        ja: "ある 科学者が 研究の 末に 生み出した。 その力は 戦うことに 特化 している。"
+        ja: "ある 科学者が 研究の 末に 生み出した。 その力は 戦うことに 特化 している。",
+        ko: "어느 과학자의 연구로\n태어났다. 그 힘은\n싸움에 특화되어 있다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "サイコキネシス"
+                ja: "サイコキネシス",
+                ko: "사이코키네시스"
             },
             effect: {
                 en: "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -61,7 +64,8 @@ const card: Card = {
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×40點傷害。",
                 "it": "Questo attacco infligge 40 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 "de": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 40 Schadenspunkte mehr zu.",
-                ja: "相手のバトルポケモンのエネルギーの数×40ダメージ追加。"
+                ja: "相手のバトルポケモンのエネルギーの数×40ダメージ追加。",
+                ko: "상대 배틀 포켓몬의 에너지의 개수 × 40데미지를 추가한다."
             },
             damage: "10+"
         }

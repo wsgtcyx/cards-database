@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/058"
     },
     name: {
         en: "Paldean Tauros",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tauros de Paldea",
         "zh-tw": "帕底亞肯泰羅",
         ja: "パルデアケンタロス",
+        ko: "팔데아 켄타로스",
         pt: "Tauros de Paldea"
     },
     illustrator: "Shin Nagasawa",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Diese Art von Tauros, bekannt als Kampfrasse, zeichnet sich durch ihre dicken, kräftigen Muskeln und ihr wildes Wesen aus.",
         "pt-br": "Este tipo de Tauros, conhecido como Raça Combatente, distingue-se pelos seus músculos grossos e poderosos e pela sua disposição feroz.",
         "zh-tw": "這種金牛座被稱為戰鬥品種，其特徵是肌肉粗壯有力，性情兇猛。",
-        ja: "ぶ厚く 力強い 筋肉と 気性の 荒さが 特徴。 コンバット種と 呼ばれる。"
+        ja: "ぶ厚く 力強い 筋肉と 気性の 荒さが 特徴。 コンバット種と 呼ばれる。",
+        ko: "두껍고도 강한 근육과\n사나운 성질이 특징이다.\n컴뱃종이라고 불린다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Chute traseiro",
                 "zh-tw": "後踢",
                 ja: "うしろげり",
+                ko: "뒤로 차기",
                 pt: "Chute Traseiro",
                 'es-mx': "Patada Trasera"
             },

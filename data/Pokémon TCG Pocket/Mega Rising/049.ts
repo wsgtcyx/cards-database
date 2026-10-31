@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/049",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/049",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/049"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/049",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/049"
     },
     name: {
         en: "Golduck",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Golduck",
         "zh-tw": "哥達鴨",
         ja: "ゴルダック",
+        ko: "골덕",
     },
     illustrator: "Hasuno",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
         ja: "コダック",
+        ko: "고라파덕",
     },
     description: {
         en: "It swims gracefully along on the quiet, slow-\nmoving rivers and lakes of which it is so fond.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es schwimmt anmutig auf dem ruhigen, langsamen Weg dahin.\nfließende Flüsse und Seen, die es so liebt.",
         "pt-br": "Ele nada graciosamente na calma e lenta\nmover rios e lagos de que tanto gosta.",
         "zh-tw": "它在安靜、緩慢的水面上優雅地游動——\n它如此喜愛的流動的河流和湖泊。",
-        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。"
+        ja: "流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。",
+        ko: "잔잔하게 흐르는 강이나\n호수를 좋아한다.\n헤엄치는 모습이 아주 우아하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
                 "zh-tw": "波浪飛濺",
-                ja: "スプラッシュ"
+                ja: "スプラッシュ",
+                ko: "스플래시"
             },
             damage: 50,
             cost: ["Water"]
@@ -66,6 +71,9 @@ const card: Card = {
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/221",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/221",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/221",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/221"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/221",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/221"
     },
     name: {
         en: "Kabutops",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kabutops",
         "pt-br": "Kabutops",
         "zh-tw": "鐮刀盔",
-        ja: "カブトプス"
+        ja: "カブトプス",
+        ko: "투구푸스"
     },
     illustrator: "Krgc",
     rarity: "One Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kabuto",
         "pt-br": "Kabuto",
         "zh-tw": "化石盔",
-        ja: "カブト"
+        ja: "カブト",
+        ko: "투구"
     },
     description: {
         en: "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Kabutops schneidet seine Beute in Stücke und saugt sie aus\ndie Flüssigkeiten. Die weggeworfenen Körperteile werden\nNahrung für andere Pokémon.",
         "pt-br": "Kabutops corta sua presa e a suga\nos fluidos. As partes do corpo descartadas tornam-se\ncomida para outros Pokémon.",
         "zh-tw": "Kabutops 將獵物切開並吸出\n液體。被丟棄的身體部位變成\n其他神奇寶貝的食物。",
-        ja: "獲物を 切り裂き 体液を すする。 残った 体は ほかのポケモンの エサになる。"
+        ja: "獲物を 切り裂き 体液を すする。 残った 体は ほかのポケモンの エサになる。",
+        ko: "먹이를 베어 갈라 체액을\n빨아먹는다. 남은 몸은\n다른 포켓몬의 먹이가 된다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blutsauger",
                 "pt-br": "Suga-vidas",
                 "zh-tw": "水蛭生命",
-                ja: "きゅうけつ"
+                ja: "きゅうけつ",
+                ko: "흡혈"
             },
             damage: 50,
             cost: ["Fighting"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast.",
                 "pt-br": "Cure deste Pokémon a mesma quantidade de dano que você causou ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "該神奇寶貝所造成的傷害與你對對手的活躍神奇寶貝造成的傷害相同。",
-                ja: "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復。"
+                ja: "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復。",
+                ko: "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복."
             }
         }],
     weaknesses: [{

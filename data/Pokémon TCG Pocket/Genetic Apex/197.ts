@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/197",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/197",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/197",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/197"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/197",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/197"
     },
     name: {
         en: "Persian",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Mauzi",
         "pt-br": "Meowth",
         "zh-tw": "喵喵",
-        ja: "ニャース"
+        ja: "ニャース",
+        ko: "나옹"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

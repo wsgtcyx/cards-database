@@ -11,7 +11,7 @@ const set: Set = {
 		fr: "Promo-A",
 		it: "Promo-A",
 		ja: "PROMO-A",
-		ko: "Promo-A",
+		ko: "PROMO-A",
 		'pt-br': "Promo-A",
 		'zh-tw': "Promo-A"
 	},
@@ -32,7 +32,14 @@ const set: Set = {
 				de: 'Vol. 1',
 				'pt-br': 'Vol. 1',
 				'zh-tw': 'Vol. 1',
-				ja: "プロモカードパック Aシリーズ 第1弾"
+				ja: "プロモカードパック Aシリーズ 第1弾",
+				ko: "프로모 카드 팩 A시리즈 제1탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol1/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol1/logo.webp"
 			}
 		},
 		vol2: {
@@ -44,7 +51,14 @@ const set: Set = {
 				de: 'Vol. 2',
 				'pt-br': 'Vol. 2',
 				'zh-tw': 'Vol. 2',
-				ja: "プロモカードパック Aシリーズ 第2弾"
+				ja: "プロモカードパック Aシリーズ 第2弾",
+				ko: "프로모 카드 팩 A시리즈 제2탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol2/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol2/logo.webp"
 			}
 		},
 		vol3: {
@@ -56,7 +70,14 @@ const set: Set = {
 				de: 'Vol. 3',
 				'pt-br': 'Vol. 3',
 				'zh-tw': 'Vol. 3',
-				ja: "プロモカードパック Aシリーズ 第3弾"
+				ja: "プロモカードパック Aシリーズ 第3弾",
+				ko: "프로모 카드 팩 A시리즈 제3탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol3/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol3/logo.webp"
 			}
 		},
 		vol4: {
@@ -68,7 +89,14 @@ const set: Set = {
 				de: 'Vol. 4',
 				'pt-br': 'Vol. 4',
 				'zh-tw': 'Vol. 4',
-				ja: "プロモカードパック Aシリーズ 第4弾"
+				ja: "プロモカードパック Aシリーズ 第4弾",
+				ko: "프로모 카드 팩 A시리즈 제4탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol4/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol4/logo.webp"
 			}
 		},
 		vol5: {
@@ -80,7 +108,14 @@ const set: Set = {
 				de: 'Vol. 5',
 				'pt-br': 'Vol. 5',
 				'zh-tw': 'Vol. 5',
-				ja: "プロモカードパック Aシリーズ 第5弾"
+				ja: "プロモカードパック Aシリーズ 第5弾",
+				ko: "프로모 카드 팩 A시리즈 제5탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol5/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol5/logo.webp"
 			}
 		},
 		vol6: {
@@ -92,7 +127,14 @@ const set: Set = {
 				de: 'Vol. 6',
 				'pt-br': 'Vol. 6',
 				'zh-tw': 'Vol. 6',
-				ja: "プロモカードパック Aシリーズ 第6弾"
+				ja: "プロモカードパック Aシリーズ 第6弾",
+				ko: "프로모 카드 팩 A시리즈 제6탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol6/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol6/logo.webp"
 			}
 		},
 		vol7: {
@@ -104,7 +146,14 @@ const set: Set = {
 				de: 'Vol. 7',
 				'pt-br': 'Vol. 7',
 				'zh-tw': 'Vol. 7',
-				ja: "プロモカードパック Aシリーズ 第7弾"
+				ja: "プロモカードパック Aシリーズ 第7弾",
+				ko: "프로모 카드 팩 A시리즈 제7탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol7/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol7/logo.webp"
 			}
 		},
 		vol8: {
@@ -116,7 +165,14 @@ const set: Set = {
 				de: 'Vol. 8',
 				'pt-br': 'Vol. 8',
 				'zh-tw': 'Vol. 8',
-				ja: "プロモカードパック Aシリーズ 第8弾"
+				ja: "プロモカードパック Aシリーズ 第8弾",
+				ko: "프로모 카드 팩 A시리즈 제8탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol8/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol8/logo.webp"
 			}
 		},
 		vol9: {
@@ -128,7 +184,14 @@ const set: Set = {
 				de: 'Promopack Serie A, Vol. 9',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 9)',
 				'zh-tw': '特典卡牌包 A系列第9波',
-				ja: "プロモカードパック Aシリーズ 第9弾"
+				ja: "プロモカードパック Aシリーズ 第9弾",
+				ko: "프로모 카드 팩 A시리즈 제9탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol9/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol9/logo.webp"
 			}
 		},
 		vol10: {
@@ -140,7 +203,14 @@ const set: Set = {
 				de: 'Promopack Serie A, Vol. 10',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 10)',
 				'zh-tw': '特典卡牌包 A系列第10波',
-				ja: "プロモカードパック Aシリーズ 第10弾"
+				ja: "プロモカードパック Aシリーズ 第10弾",
+				ko: "프로모 카드 팩 A시리즈 제10탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol10/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol10/logo.webp"
 			}
 		},
 		vol11: {
@@ -152,7 +222,14 @@ const set: Set = {
 				de: 'Promopack Serie A, Vol. 11',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 11)',
 				'zh-tw': '特典卡牌包 A系列第11波',
-				ja: "プロモカードパック Aシリーズ 第11弾"
+				ja: "プロモカードパック Aシリーズ 第11弾",
+				ko: "프로모 카드 팩 A시리즈 제11탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol11/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol11/logo.webp"
 			}
 		},
 		vol12: {
@@ -164,7 +241,14 @@ const set: Set = {
 				de: 'Promopack Serie A, Vol. 12',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 12)',
 				'zh-tw': '特典卡牌包 A系列第12波',
-				ja: "プロモカードパック Aシリーズ 第12弾"
+				ja: "プロモカードパック Aシリーズ 第12弾",
+				ko: "프로모 카드 팩 A시리즈 제12탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol12/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol12/logo.webp"
 			}
 		},
 		vol13: {
@@ -176,12 +260,25 @@ const set: Set = {
 				de: 'Ein Promopack aus Serie A, Vol. 13',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 13)',
 				'zh-tw': '特典卡牌包 A系列第13波',
-				ja: "プロモカードパック Aシリーズ 第13弾"
+				ja: "プロモカードパック Aシリーズ 第13弾",
+				ko: "프로모 카드 팩 A시리즈 제13탄"
+			},
+			artwork_front: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol13/artwork_front.webp"
+			},
+			logo: {
+				"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/boosters/vol13/logo.webp"
 			}
 		}
 	},
 
-	releaseDate: "2024-10-30"
+	releaseDate: "2024-10-30",
+	symbol: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/symbol"
+	},
+	logo: {
+		"ko": "https://game.pokemontcgpocket.app/ko/tcgp/P-A/logo"
+	}
 }
 
 export default set

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/093",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/093",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/093"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/093",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/093"
     },
     name: {
         en: "Cornerstone Mask Ogerpon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Ecksteinmaske Ogerpon",
         "pt-br": "Ogerpon Máscara Alicerce",
         "zh-tw": "厄鬼椪礎石面具",
-        ja: "オーガポンいしずえのめん"
+        ja: "オーガポンいしずえのめん",
+        ko: "오거폰 주춧돌의 가면"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "In dieser Form greift es auf die Kraft des Steins zurück.\nSein Körper ist felsenfest und schützt ihn vor allem\nArt der Angriffe.",
         "pt-br": "Nesta forma, baseia-se no poder da pedra.\nSeu corpo é sólido como uma rocha, protegendo-o de todos\ntipo de ataques.",
         "zh-tw": "在這種形式中，它利用了石頭的力量。\n它的身體堅如磐石，可以保護它免受一切傷害\n攻擊方式。",
-        ja: "岩の力を 引き出す 姿。 頑丈な 石の 体で あらゆる 攻撃から 身を守る。"
+        ja: "岩の力を 引き出す 姿。 頑丈な 石の 体で あらゆる 攻撃から 身を守る。",
+        ko: "바위의 힘을 끌어올린 모습.\n튼튼한 돌 같은 상태로\n온갖 공격으로부터 몸을 보호한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Grundsteintanz",
                 "pt-br": "Dança da Pedra Angular",
                 "zh-tw": "基石舞蹈",
-                ja: "いしずえのまい"
+                ja: "いしずえのまい",
+                ko: "주춧돌의춤"
             },
             damage: 40,
             cost: ["Fighting", "Colorless"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ erleidet dieses Pokémon im nächsten Zug deines Gegners −100 Schaden durch Angriffe.",
                 "pt-br": "Jogue uma moeda. Se der cara, durante o próximo turno do seu oponente, este Pokémon sofrerá -100 de dano de ataques.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為−100。",
-                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンが受けるワザのダメージを-100する。"
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンが受けるワザのダメージを-100する。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -100한다."
             }
         }],
     weaknesses: [{

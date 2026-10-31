@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/007"
     },
     name: {
         en: "Smoliv",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Smoliv",
         "zh-tw": "迷你芙",
         ja: "ミニーブ",
+        ko: "미니브",
         pt: "Smoliv"
     },
     illustrator: "yuu",
@@ -37,7 +39,8 @@ const card: Card = {
         "de": "Es schützt sich vor Feinden, indem es Öl aus der Frucht auf seinem Kopf abgibt. Dieses Öl ist so bitter und adstringierend, dass es jemanden zusammenzucken lässt.",
         "pt-br": "Ele se protege dos inimigos emitindo óleo da fruta em sua cabeça. Este óleo é amargo e adstringente o suficiente para fazer alguém estremecer.",
         "zh-tw": "它透過從頭上的果實中噴出油來保護自己免受敵人的侵害。這種油又苦又澀，足以讓人畏縮。",
-        ja: "頭の 実から オイルを 出して 敵から 身を 守る。 オイルは とびあがるほど 苦くて 渋い。"
+        ja: "頭の 実から オイルを 出して 敵から 身を 守る。 オイルは とびあがるほど 苦くて 渋い。",
+        ko: "머리의 열매에서 오일을 나오게 해서\n적으로부터 몸을 지킨다.\n오일은 펄쩍 뛸 만큼 떫고 쓰다."
     },
     stage: "Basic",
     attacks: [
@@ -51,6 +54,7 @@ const card: Card = {
                 "pt-br": "Absorver",
                 "zh-tw": "吸收",
                 ja: "すいとる",
+                ko: "흡수",
                 pt: "Absorção"
             },
             damage: "10",
@@ -64,6 +68,7 @@ const card: Card = {
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "治療該寶可夢造成的 10 點傷害。",
                 ja: "このポケモンのHPを10回復。",
+                ko: "이 포켓몬의 HP를 10회복.",
                 pt: "Cure 10 pontos de dano deste Pokémon."
             },
         },

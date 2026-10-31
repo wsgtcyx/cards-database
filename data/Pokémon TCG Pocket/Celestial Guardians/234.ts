@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/234",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/234",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/234"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/234",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/234"
     },
     name: {
         en: "Gengar ex",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
         ja: "ゴースト",
+        ko: "고우스트",
     },
     stage: "Stage2",
     suffix: "EX",

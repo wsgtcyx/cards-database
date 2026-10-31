@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/038",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/038",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/038"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/038",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/038"
     },
     name: {
         en: "Donphan",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Phanpy",
         "zh-tw": "小小象",
         ja: "ゴマゾウ",
+        ko: "코코리",
     },
     description: {
         en: "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.",

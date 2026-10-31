@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/013"
     },
     name: {
         en: "Arcanine",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Sein bezauberndes Bellen klingt majestätisch. Jeder,\nder es vernimmt, muss sich automatisch verbeugen.",
         "pt-br": "A sua magnífica casca transmite uma sensação de majestade. Qualquer um que ouça isso não pode deixar de rastejar diante disso.",
         "zh-tw": "其雄偉的樹皮給人一種威嚴的感覺。任何人聽到它都會情不自禁地在它面前卑躬屈膝。",
-        ja: "堂々とした 鳴き声は 威厳に あふれ 聞いたものは 思わず ひれ伏してしまう。"
+        ja: "堂々とした 鳴き声は 威厳に あふれ 聞いたものは 思わず ひれ伏してしまう。",
+        ko: "위풍당당한 울음소리는\n위엄이 넘쳐 소리를 들은 상대는\n무의식중에 몸을 움츠리게 된다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Feuerzahn",
                 "pt-br": "Presas de Fogo",
                 "zh-tw": "火焰牙",
-                ja: "ほのおのキバ"
+                ja: "ほのおのキバ",
+                ko: "불꽃엄니"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍寶可夢現在被燒毀。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 50
         }

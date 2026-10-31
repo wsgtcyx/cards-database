@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/045",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/045",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/045"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/045",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/045"
     },
     name: {
         en: "Nosepass",

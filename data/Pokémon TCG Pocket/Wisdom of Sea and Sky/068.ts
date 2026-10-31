@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/068",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/068"
     },
     name: {
         en: "Flaaffy",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
         ja: "モココ",
+        ko: "보송송",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
         ja: "メリープ",
+        ko: "메리프",
     },
     description: {
         en: "As a result of storing too much electricity,\nit developed patches where even downy\nwool won't grow.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Da zu viel Strom gespeichert wird,\nEs entwickelten sich sogar flaumige Stellen\nWolle wächst nicht.",
         "pt-br": "Como resultado de armazenar muita eletricidade,\ndesenvolveu manchas onde até mesmo felpudo\na lã não crescerá.",
         "zh-tw": "由於儲存過多的電力，\n它甚至出現了絨毛狀的斑塊\n羊毛不會生長。",
-        ja: "電気を 蓄えすぎた 結果 体の 表面に 産毛すら 生えない 部分が できてしまった。"
+        ja: "電気を 蓄えすぎた 結果 体の 表面に 産毛すら 生えない 部分が できてしまった。",
+        ko: "전기를 너무 많이 모은 결과\n몸의 표면에 솜털조차\n자라지 않는 부분이 생겼다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
                 "zh-tw": "電擊踢",
-                ja: "エレキック"
+                ja: "エレキック",
+                ko: "일렉트릭킥"
             },
             damage: 50,
             cost: ["Lightning", "Lightning"]

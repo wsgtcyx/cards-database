@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/317",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/317",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/317",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/317"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/317",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/317"
     },
     name: {
         en: "Decidueye ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Decidueye ex",
         "zh-tw": "狙射樹梟ex",
         ja: "ジュナイパーex",
+        ko: "모크나이퍼 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
         ja: "フクスロー",
+        ko: "빼미스로우",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Durchbohre den Schmerz",
                 "pt-br": "Perfure a dor",
                 "zh-tw": "刺穿痛苦",
-                ja: "きずをうちぬく"
+                ja: "きずをうちぬく",
+                ko: "상처노려쏘기"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners, auf dem Schaden liegt, 100 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 100 pontos de dano a 1 dos Pokémon do seu oponente que tenham dano.",
                 "zh-tw": "這次攻擊對對手的 1 只受到傷害的神奇寶貝造成 100 點傷害。",
-                ja: "ダメージを受けている相手のポケモン1匹に100ダメージ。"
+                ja: "ダメージを受けている相手のポケモン1匹に100ダメージ。",
+                ko: "데미지를 받고 있는 상대의 포켓몬 1마리에게 100데미지를 준다."
             }
         }, {
             name: {
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 80,
             cost: ["Grass", "Grass"]
@@ -79,6 +85,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

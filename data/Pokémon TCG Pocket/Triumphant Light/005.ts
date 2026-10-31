@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/005",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/005",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/005"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/005",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/005"
     },
     name: {
         en: "Vespiquen",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Combee",
         "zh-tw": "三蜜蜂",
         ja: "ミツハニー",
+        ko: "세꿀버리",
     },
     description: {
         en: "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",

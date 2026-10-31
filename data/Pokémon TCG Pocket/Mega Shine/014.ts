@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/014",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/014"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/014",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/014"
     },
     name: {
         en: "Paldean Tauros",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Aufgrund der heißen Luft, die es aus seinen Nasenlöchern schnupft, nennen die Leute diese Art von Tauros die Blaze-Rasse. Seine drei Schwänze sind ineinander verschlungen.",
         "pt-br": "As pessoas chamam esse tipo de Tauros de Raça Blaze devido ao ar quente que ele exala pelas narinas. Suas três caudas estão entrelaçadas.",
         "zh-tw": "人們稱這種肯泰羅為火焰品種，因為它從鼻孔噴出熱氣。它的三個尾巴是糾纏在一起的。",
-        ja: "高温の 鼻息を 吹きだすので ブレイズ種と 名づけられた。 3本の 尻尾を 束ねている。"
+        ja: "高温の 鼻息を 吹きだすので ブレイズ種と 名づけられた。 3本の 尻尾を 束ねている。",
+        ko: "고온의 콧김을 불어 대는 까닭에\n블레이즈종이라는 이름이 붙었다.\n세 개의 꼬리를 한데 묶고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Bodycheck",
                 "pt-br": "Desmantelar",
                 "zh-tw": "猛撞",
-                ja: "とっしん"
+                ja: "とっしん",
+                ko: "돌진"
             },
             effect: {
                 en: "This Pokémon also does 20 damage to itself.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
                 "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。",
-                ja: "このポケモンにも20ダメージ。"
+                ja: "このポケモンにも20ダメージ。",
+                ko: "이 포켓몬에게도 20데미지를 준다."
             },
             damage: 60
         }

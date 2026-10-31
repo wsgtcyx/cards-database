@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/116",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/116",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/116"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/116",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/116"
     },
     name: {
         en: "Ferrothorn",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Tentantel",
         "pt-br": "Ferrothorn",
         "zh-tw": "堅果啞鈴",
-        ja: "ナットレイ"
+        ja: "ナットレイ",
+        ko: "너트령"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Kastadur",
         "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
-        ja: "テッシード"
+        ja: "テッシード",
+        ko: "철시드"
     },
     description: {
         en: "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Seine Spitzen sind härter als Stahl. Dieses Pokémon\nkriecht über Felswände, indem es die Stacheln durchsticht\nauf seinen Fühlern in den Stein.",
         "pt-br": "Suas pontas são mais duras que o aço. Este Pokémon\nrasteja pelas paredes rochosas apunhalando os espinhos\nem suas antenas na pedra.",
         "zh-tw": "它的尖刺比鋼還硬。這只寶可夢\n通過刺穿尖刺爬過岩壁\n用它的觸角進入石頭。",
-        ja: "鋼より 硬い 棘を もつ。 触手の 棘を 突き刺し 岩壁を 這って 移動する。"
+        ja: "鋼より 硬い 棘を もつ。 触手の 棘を 突き刺し 岩壁を 這って 移動する。",
+        ko: "강철보다 견고한 가시를 갖고 있다.\n촉수 가시를 찔러서\n바위 벽을 기어 다니며 이동한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Trommler",
                 "pt-br": "Esmurrar",
                 "zh-tw": "揍",
-                ja: "ぶんなぐる"
+                ja: "ぶんなぐる",
+                ko: "후려갈기기"
             },
             damage: "40+",
             cost: ["Metal", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 60 點額外傷害。",
-                ja: "コインを1回投げオモテなら、60ダメージ追加。"
+                ja: "コインを1回投げオモテなら、60ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다."
             }
         }],
     weaknesses: [{

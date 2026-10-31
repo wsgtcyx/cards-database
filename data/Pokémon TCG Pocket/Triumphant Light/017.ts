@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/017"
     },
     name: {
         en: "Whiscash",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
         ja: "ドジョッチ",
+        ko: "미꾸리",
     },
     description: {
         en: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",

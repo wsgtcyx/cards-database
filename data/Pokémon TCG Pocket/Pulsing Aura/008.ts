@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/008",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/008"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/008",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/008"
     },
     name: {
         en: "Mega Sceptile ex",
@@ -53,7 +54,8 @@ const card: Card = {
                 de: "Vernichtender Schweif",
                 "pt-br": "Cauda Terminal",
                 "zh-tw": "奪命利尾",
-                ja: "デッドリーテール"
+                ja: "デッドリーテール",
+                ko: "데들리테일"
             },
             effect: {
                 en: "Discard Grass{G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Lege Grass{G}-Energie von diesem Pokémon ab. Das aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "Descarte a Energia Grass{G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "丟棄該寶可夢的草{G}能量。你對手的主動寶可夢現在中毒了。",
-                ja: "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。"
+                ja: "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+                ko: "이 포켓몬에서 {G}에너지를 1개 트래쉬한다. 상대의 배틀 포켓몬을 독으로 만든다."
             },
             damage: 130
         }

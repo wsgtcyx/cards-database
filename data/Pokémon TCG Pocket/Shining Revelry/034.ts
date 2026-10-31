@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/034",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/034",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/034"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/034",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/034"
     },
     name: {
         en: "Drifblim",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Driftlon",
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
-        ja: "フワンテ"
+        ja: "フワンテ",
+        ko: "흔들풍손"
     },
     description: {
         en: "It can generate and release gas within its body. That's how it can control the altitude of its drift.",

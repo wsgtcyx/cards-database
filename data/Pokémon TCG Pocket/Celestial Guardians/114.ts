@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/114",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/114"
     },
     name: {
         en: "Garbodor",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Trubbish",
         "zh-tw": "破破袋",
         ja: "ヤブクロン",
+        ko: "깨봉이",
     },
     description: {
         en: "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",

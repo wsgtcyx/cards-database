@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/112",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/112",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/112",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/112"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/112",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/112"
 	},
 	name: {
 		en: "Frogadier",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Amphizel",
 		"pt-br": "Frogadier",
 		"zh-tw": "呱頭蛙",
-		ja: "ゲコガシラ"
+		ja: "ゲコガシラ",
+		ko: "개굴반장"
 	},
 	illustrator: "Akira Komayama",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Froxy",
 		"pt-br": "Froakie",
 		"zh-tw": "呱呱泡蛙",
-		ja: "ケロマツ"
+		ja: "ケロマツ",
+		ko: "개구마르"
 	},
 	attacks: [
 		{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/019",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/019",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/019"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/019",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/019"
     },
     name: {
         en: "Jynx",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Jynx",
         "zh-tw": "迷唇姐",
         ja: "ルージュラ",
+        ko: "루주라",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine seltsamen Schreie klingen wie menschliche Sprache.\nEs gibt einige Musiker, die Lieder komponieren\ndamit Jynx singen kann.",
         "pt-br": "Seus gritos estranhos soam como linguagem humana.\nExistem alguns músicos que compõem músicas\npara Jynx cantar.",
         "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。",
-        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。"
+        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。",
+        ko: "인간의 언어를 닮은 이상한\n울음소리를 가졌다. 루주라가 부르는\n곡을 만드는 음악가도 있다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Blendender Tanz",
                 "pt-br": "Dança Deslumbrante",
                 "zh-tw": "炫舞",
-                ja: "げんわくダンス"
+                ja: "げんわくダンス",
+                ko: "미혹댄스"
             },
             damage: 40,
             cost: ["Water", "Water"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
-                ja: "相手のバトルポケモンをこんらんにする。"
+                ja: "相手のバトルポケモンをこんらんにする。",
+                ko: "상대의 배틀 포켓몬을 혼란으로 만든다."
             }
         }],
     weaknesses: [{

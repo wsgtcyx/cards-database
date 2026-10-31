@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/015"
     },
     name: {
         en: "Ribombee",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Cutiefly",
         "zh-tw": "萌虻",
         ja: "アブリー",
-        ko: "Cutiefly"
+        ko: "에블리"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Zumbido de Inseto",
                 "zh-tw": "蟲鳴",
                 ja: "むしのさざめき",
-                ko: "Bug Buzz"
+                ko: "벌레의야단법석"
             },
             cost: [
                 "Grass"
@@ -83,7 +84,7 @@ const card: Card = {
                 "pt-br": "Pegar Mel",
                 "zh-tw": "採蜜",
                 ja: "みつあつめ",
-                ko: "Honey Gather"
+                ko: "꿀모으기"
             },
             effect: {
                 en: "Once during your turn, you may use this Ability. Put a Sweet Honey rental card into your hand.",
@@ -94,7 +95,7 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, você poderá usar esta Habilidade. Coloque 1 carta de aluguel Mel Doce na sua mão.",
                 "zh-tw": "在自己的回合時,可使用1次。將1張租用卡牌的「甜甜蜜」加入手牌。",
                 ja: "自分の番に1回使える。レンタルカードの「あまいミツ」を1枚、手札に加える。",
-                ko: "Once during your turn, you may use this Ability. Put a Sweet Honey rental card into your hand."
+                ko: "자신의 차례에 1번 사용할 수 있다. 렌탈 카드 「달콤한꿀」을 1장 패로 가져온다."
             },
             type: "Ability"
         }
@@ -108,7 +109,7 @@ const card: Card = {
         "pt-br": "Ribombee consegue perceber quando pessoas ou Pokémon estão deprimidos e os anima com bolas de pólen feitas à mão.",
         "zh-tw": "只要感覺到人類或寶可夢沮喪的情緒，就會送上自製的花粉團來為其打氣。",
         ja: "落ちこんでいる 人や ポケモンの 気持ちを 感じ取っては 手作りの 花粉団子で 元気づけたりする。",
-        ko: "Ribombee can sense when people or Pokémon are feeling down, and it will cheer them up with handmade pollen puffs."
+        ko: "기운이 없는 사람이나 포켓몬의\n감정을 감지하면 직접 만든\n꽃가루경단으로 기운을 북돋워 준다."
     }
 };
 

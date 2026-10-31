@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/017"
     },
     name: {
         en: "Whimsicott ex",
@@ -43,7 +44,7 @@ const card: Card = {
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
         ja: "モンメン",
-        ko: "Cottonee"
+        ko: "소미안"
     },
     stage: "Stage1",
     attacks: [
@@ -61,7 +62,7 @@ const card: Card = {
                 "pt-br": "Nó de Grama",
                 "zh-tw": "打草結",
                 ja: "くさむすび",
-                ko: "Grass Knot"
+                ko: "풀묶기"
             },
             effect: {
                 en: "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",
@@ -72,7 +73,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢撤退所需的能量的數量×30點傷害。",
                 ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。",
-                ko: "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+                ko: "상대 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다."
             },
             damage: "40+"
         }

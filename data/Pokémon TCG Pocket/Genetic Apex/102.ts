@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/102",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/102",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/102"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/102",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/102"
     },
     name: {
         en: "Jolteon",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "イーブイ"
+        ja: "イーブイ",
+        ko: "이브이"
     },
     attacks: [{
             cost: ["Lightning", "Colorless"],

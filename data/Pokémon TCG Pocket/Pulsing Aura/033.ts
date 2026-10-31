@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/033"
     },
     name: {
         en: "Poliwag",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine Beine sind neu ausgewachsen und er kann nicht sehr gut laufen. Stattdessen scheint es lieber durch das Wasser zu schwimmen.",
         "pt-br": "Suas pernas cresceram recentemente e ele não consegue andar muito bem. Parece preferir nadar na água.",
         "zh-tw": "它的腿是新長出來的，走路不太好。它似乎更喜歡在水中游泳。",
-        ja: "まだ 脚が 生えた ばかりで うまく 歩けない。 水の中を 泳いでる ほうが 好きなようだ。"
+        ja: "まだ 脚が 生えた ばかりで うまく 歩けない。 水の中を 泳いでる ほうが 好きなようだ。",
+        ko: "다리가 생긴 지 얼마 되지 않아서\n잘 걷지 못한다. 물속을 헤엄치는 쪽을\n더 좋아하는 것 같다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Regenplatscher",
                 "pt-br": "Chuva Borrifante",
                 "zh-tw": "潑水",
-                ja: "みずかけ"
+                ja: "みずかけ",
+                ko: "물뿌리기"
             },
             damage: 20
         }

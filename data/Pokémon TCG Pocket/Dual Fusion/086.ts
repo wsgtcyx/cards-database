@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/086",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/086"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/086",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/086"
     },
     name: {
         en: "Seviper",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Dente Venenoso",
                 "zh-tw": "毒牙",
                 ja: "どくのキバ",
-                ko: "Venomous Fang"
+                ko: "독이빨"
             },
             cost: [
                 "Darkness",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "將對手的戰鬥寶可夢中毒。",
                 ja: "相手のバトルポケモンをどくにする。",
-                ko: "Your opponent's Active Pokémon is now Poisoned."
+                ko: "상대의 배틀 포켓몬을 독으로 만든다."
             }
         }
     ],
@@ -83,7 +84,7 @@ const card: Card = {
         "pt-br": "Sua cauda semelhante a uma espada é afiada em pedras rígidas. Esconde-se em grama alta e surpreende as vítimas com suas presas venenosas.",
         "zh-tw": "平時都用堅硬的岩石打磨刀刃般的尾巴。會躲在草叢裡，然後趁對手靠近時用毒牙襲擊。",
         ja: "硬い 岩で 刀の 尻尾を 研ぐ。 しげみに 隠れて 獲物に 近寄り 毒の キバで 襲う。",
-        ko: "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes at unwary prey with venomous fangs."
+        ko: "단단한 바위로 칼날 같은 꼬리를 간다.\n수풀에 숨어서 먹이에 접근한 다음\n독 이빨로 공격한다."
     }
 };
 

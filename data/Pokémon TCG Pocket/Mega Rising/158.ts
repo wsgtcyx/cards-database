@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/158",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/158",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/158"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/158",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/158"
     },
     name: {
         en: "Pangoro",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pangoro",
         "zh-tw": "流氓熊貓",
         ja: "ゴロンダ",
+        ko: "부란다",
     },
     illustrator: "Uta",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Pancham",
         "zh-tw": "頑皮熊貓",
         ja: "ヤンチャム",
+        ko: "판짱",
     },
     description: {
         en: "Using its leaf, Pangoro can predict the moves of\nits opponents. It strikes with punches that can\nturn a dump truck into scrap with just one hit.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Mithilfe seines Blattes kann Pangoro die Bewegungen von vorhersagen\nseine Gegner. Es schlägt mit Schlägen zu, die es können\nVerwandle einen Muldenkipper mit nur einem Schlag in Schrott.",
         "pt-br": "Usando sua folha, Pangoro pode prever os movimentos de\nseus adversários. Ele ataca com socos que podem\ntransforme um caminhão basculante em sucata com apenas um golpe.",
         "zh-tw": "Pangoro 可以利用它的葉子來預測\n它的對手。它的拳頭可以擊打\n只需一擊，即可將一輛自卸卡車變成廢品。",
-        ja: "葉っぱで 相手の 動きを 読む。 大型 ダンプカーを 一撃で スクラップにする パンチを もつ。"
+        ja: "葉っぱで 相手の 動きを 読む。 大型 ダンプカーを 一撃で スクラップにする パンチを もつ。",
+        ko: "잎사귀로 상대의 움직임을 읽는다.\n대형 덤프트럭을 일격에 고철로\n만들어버리는 펀치를 가졌다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Overdrive-Smash",
                 "pt-br": "Overdrive quebra",
                 "zh-tw": "超速粉碎",
-                ja: "オーバースマッシュ"
+                ja: "オーバースマッシュ",
+                ko: "오버스매시"
             },
             damage: 30,
             cost: ["Darkness"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges verursacht der Overdrive-Smash-Angriff dieses Pokémon +30 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Overdrive Smash deste Pokémon causa +30 de dano.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝的超速粉碎攻擊造成+30點傷害。",
-                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+30する。"
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+30する。",
+                ko: "자신의 다음 차례에 이 포켓몬의 「오버스매시」의 데미지를 +30한다."
             }
         }],
     weaknesses: [{
             type: "Grass",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

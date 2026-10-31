@@ -3,7 +3,7 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
-    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/094", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/094", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/094", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/094", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/094", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/094", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/094", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/094" },
+    image: { en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/094", fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/094", es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/094", it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/094", de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/094", "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/094", "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/094", ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/094", ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/094" },
     name: { en: "Meowstic", fr: "Mistigrix", es: "Meowstic", it: "Meowstic", de: "Psiaugon", "pt-br": "Meowstic", "zh-tw": "超能妙喵", ko: "냐오닉스", ja: "ニャオニクス" },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -21,9 +21,10 @@ const card: Card = {
         de: "Über das Augenmuster auf der Innenseite seiner Ohren setzt es seine Psycho-Kräfte frei. Da diese aber viel zu stark sind, hält es das Muster bedeckt.",
         "pt-br": "O modelo dos globos oculares no interior das suas orelhas emite energia psíquica. O modelo é mantido coberto porque esse poder é grande demais.",
         "zh-tw": "由於耳朵內側的眼珠花紋釋放出的精神力量實在太過強烈，因此總是將耳朵摺住。",
-        ja: "耳の 内側の 目玉模様から サイコパワーを 出すが あまりにも 強力なので ふさいでいる。"
+        ja: "耳の 内側の 目玉模様から サイコパワーを 出すが あまりにも 強力なので ふさいでいる。",
+        ko: "귀 안쪽의 눈알 모양에서\n사이코 파워를 내지만\n너무나도 강력하여 귀를 막고 있다."
     },
-    attacks: [{ cost: ["Psychic", "Psychic"], name: { en: "Super Psy Bolt", fr: "Super Psy", es: "Superrayo Psi", it: "Superpsico", de: "Super-Psischlag", "pt-br": "Super-raio Psíquico", "zh-tw": "超念力", ja: "ちょうねんりき" }, damage: 70 }],
+    attacks: [{ cost: ["Psychic", "Psychic"], name: { en: "Super Psy Bolt", fr: "Super Psy", es: "Superrayo Psi", it: "Superpsico", de: "Super-Psischlag", "pt-br": "Super-raio Psíquico", "zh-tw": "超念力", ja: "ちょうねんりき", ko: "초염동력" }, damage: 70 }],
     weaknesses: [{ type: "Darkness", value: "+20" }],
     retreat: 1,
     boosters: []

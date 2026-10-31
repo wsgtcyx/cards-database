@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/424",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/424",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/424",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/424"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/424",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/424"
     },
     name: {
         en: "Copycat",
@@ -36,7 +37,7 @@ const card: Card = {
         "pt-br": "Embaralhe a sua mão no seu baralho. Compre uma carta para cada carta na mão do seu oponente.",
         "zh-tw": "將自己的手牌全部放回牌庫。從自己的牌庫抽出與對手的手牌張數相同數量的卡。",
         ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。",
-        ko: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+        ko: "자신의 패를 모두 덱으로 되돌린다. 상대의 패의 장수만큼 자신의 덱을 뽑는다."
     },
     trainerType: "Supporter"
 };

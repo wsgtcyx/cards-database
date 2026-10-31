@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/143",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/143",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/143"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/143",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/143"
     },
     name: {
         en: "Ambipom",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ambipom",
         "zh-tw": "雙尾怪手",
         ja: "エテボース",
+        ko: "겟핸보숭",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
         ja: "エイパム",
+        ko: "에이팜",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es nutzt seinen Schwanz für alles. Wenn es beides umhüllt\nseiner Schwänze um dich herum und drückt dich,\nDas ist der Beweis, dass es dich wirklich mag.",
         "pt-br": "Ele usa a cauda para tudo. Se envolver ambos\nde suas caudas ao seu redor e lhe dá um aperto,\nisso é prova de que ele realmente gosta de você.",
         "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。",
-        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。"
+        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。",
+        ko: "무엇을 하더라도 꼬리를 사용한다.\n2개의 꼬리로 껴안는다면\n정말로 친밀해졌다는 증거다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Schwanzstoß",
                 "pt-br": "Golpe de cauda",
                 "zh-tw": "尾刺",
-                ja: "しっぽパンチ"
+                ja: "しっぽパンチ",
+                ko: "꼬리펀치"
             },
             damage: 40,
             cost: ["Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/237",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/237",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/237",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/237"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/237",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/237"
     },
     name: {
         en: "Luxray",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Luxray",
         "zh-tw": "倫琴貓",
         ja: "レントラー",
+        ko: "렌트라",
     },
     illustrator: "GIDORA",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
         ja: "ルクシオ",
+        ko: "럭시오",
     },
     description: {
         en: "Luxray's ability to see through objects comes in\nhandy when it's scouting for danger.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Luxrays Fähigkeit, durch Objekte zu sehen, kommt zum Tragen\npraktisch, wenn es darum geht, nach Gefahren Ausschau zu halten.",
         "pt-br": "A capacidade do Luxray de ver através dos objetos entra em ação\nútil quando está procurando perigo.",
         "zh-tw": "Luxray 具有透視物體的能力\n當它偵察危險時很方便。",
-        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。"
+        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。",
+        ko: "렌트라의 투시 능력은\n위험한 것을 발견할 때\n매우 도움이 된다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Blitzeinschlag",
                 "pt-br": "Impacto Flash",
                 "zh-tw": "閃光衝擊",
-                ja: "フラッシュインパクト"
+                ja: "フラッシュインパクト",
+                ko: "플래시임팩트"
             },
             damage: 110,
             cost: ["Lightning", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Dieser Angriff fügt außerdem 1 deiner Bank-Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "這次攻擊還會對你後備的 1 只神奇寶貝造成 20 點傷害。",
-                ja: "自分のベンチポケモン1匹にも20ダメージ。"
+                ja: "自分のベンチポケモン1匹にも20ダメージ。",
+                ko: "자신의 벤치 포켓몬 1마리에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 0
+    retreat: 0,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

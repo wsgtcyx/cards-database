@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/147",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/147"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/147",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/147"
     },
     name: {
         en: "Field Blower",
@@ -35,7 +36,8 @@ const card: Card = {
         de: "Wirf eine Pokémon-Ausrüstungskarte von einem Pokémon (deinem oder dem deines Gegners) ab oder wirf eine Stadionkarte im Spiel ab.",
         "pt-br": "Descarte uma carta de Ferramenta Pokémon de um Pokémon (seu ou do seu oponente) ou descarte uma carta de Estádio em jogo.",
         "zh-tw": "丟棄來自寶可夢（你的或對手的）的寶可夢工具卡，或丟棄遊戲中的體育場卡。",
-        ja: "おたがいのポケモンの「ポケモンのどうぐ」と場に出ている「スタジアム」の中から1枚選び、トラッシュ。"
+        ja: "おたがいのポケモンの「ポケモンのどうぐ」と場に出ている「スタジアム」の中から1枚選び、トラッシュ。",
+        ko: "서로의 포켓몬의 「포켓몬의 도구」와 필드에 나와 있는 「스타디움」 중에서 1장 선택해서 트래쉬한다."
     },
     trainerType: "Item"
 };

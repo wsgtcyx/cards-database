@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/119",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/119",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/119"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/119",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/119"
     },
     name: {
         en: "Tyranitar",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Tyranitar",
         "zh-tw": "班基拉斯",
         ja: "バンギラス",
+        ko: "마기라스",
     },
     illustrator: "Hasuno",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Pupitar",
         "zh-tw": "沙基拉斯",
         ja: "サナギラス",
+        ko: "데기라스",
     },
     description: {
         en: "Extremely strong, it can change the landscape.\nIt is so insolent that it doesn't care about others.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es ist extrem stark und kann die Landschaft verändern.\nEs ist so unverschämt, dass es sich nicht um andere kümmert.",
         "pt-br": "Extremamente forte, pode mudar a paisagem.\nÉ tão insolente que não se importa com os outros.",
         "zh-tw": "極其強大，可以改變地貌。\n它太囂張了，根本不關心別人。",
-        ja: "あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。"
+        ja: "あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。",
+        ko: "주변 지형을 바꾸는 정도쯤은\n쉽게 해낼 정도의 힘을 가지고 있다.\n주위를 신경 쓰지 않는 대담한 성격."
     },
     stage: "Stage2",
     abilities: [{
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Energieplünderung",
                 "pt-br": "Pilhagem de energia",
                 "zh-tw": "能源掠奪",
-                ja: "ぶんどりエナジー"
+                ja: "ぶんどりエナジー",
+                ko: "탈취에너지"
             },
             effect: {
                 en: "Once during your turn, you may move all {D} Energy from each of your Pokémon to this Pokémon.",
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du alle {D}-Energien von jedem deiner Pokémon auf dieses Pokémon übertragen.",
                 "pt-br": "Uma vez durante o seu turno, você pode mover todas as energias {D} de cada um dos seus Pokémon para este Pokémon.",
                 "zh-tw": "在你的回合中，你可以將每隻神奇寶貝的所有 {D} 能量移至該神奇寶貝。",
-                ja: "自分の番に1回使える。自分のポケモン全員から{D}エネルギーをすべて、このポケモンにつけ替える。"
+                ja: "自分の番に1回使える。自分のポケモン全員から{D}エネルギーをすべて、このポケモンにつけ替える。",
+                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원으로부터 {D}에너지를 모두 이 포켓몬에게 바꿔 붙인다."
             }
         }],
     attacks: [{
@@ -80,7 +86,8 @@ const card: Card = {
                 "de": "Buster Tail",
                 "pt-br": "Cauda Buster",
                 "zh-tw": "巴斯特尾巴",
-                ja: "バスターテール"
+                ja: "バスターテール",
+                ko: "버스터테일"
             },
             damage: 130,
             cost: ["Darkness", "Darkness", "Darkness", "Colorless"]

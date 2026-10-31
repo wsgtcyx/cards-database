@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/022",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/022",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/022"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/022",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/022"
     },
     name: {
         en: "Oricorio",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Choreogel",
         "pt-br": "Oricorio",
         "zh-tw": "花舞鳥",
-        ja: "オドリドリ"
+        ja: "オドリドリ",
+        ko: "춤추새"
     },
     illustrator: "GOTO minori",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Diese Form von Oricorio hat roten Nektar getrunken. Es peitscht\nlodernde Flammen, während es sich zu den Schritten seines leidenschaftlichen Tanzes bewegt.",
         "pt-br": "Esta forma de Oricorio bebeu néctar vermelho. Isso chicoteia\nchamas ardentes enquanto segue os passos de sua dança apaixonada.",
         "zh-tw": "這種形態的奧里科里奧正在啜飲著紅色的花蜜。它激起\n當它邁著充滿激情的舞步時，熊熊燃燒的火焰。",
-        ja: "くれないのミツを 吸った 姿。 情熱的な ステップを 踏み 激しい 炎を 巻き起こす。"
+        ja: "くれないのミツを 吸った 姿。 情熱的な ステップを 踏み 激しい 炎を 巻き起こす。",
+        ko: "다홍꿀을 빨아들인 모습.\n정열적인 스텝을 밟으며\n격렬한 불꽃을 일으킨다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Inspirierender Tanz",
                 "pt-br": "Dança inspiradora",
                 "zh-tw": "鼓舞人心的舞蹈",
-                ja: "ダンシングエール"
+                ja: "ダンシングエール",
+                ko: "댄싱옐"
             },
             damage: 10,
             cost: ["Fire"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "de": "Während deines nächsten Zuges fügen Angriffe deines Pokémon dem aktiven Pokémon deines Gegners +20 Schaden zu.",
                 "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causam +20 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的下一個回合中，你的神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。",
-                ja: "次の自分の番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。"
+                ja: "次の自分の番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+20する。",
+                ko: "자신의 다음 차례에 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +20한다."
             }
         }],
     weaknesses: [{

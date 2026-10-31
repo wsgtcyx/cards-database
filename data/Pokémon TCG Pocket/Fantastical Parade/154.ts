@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/154",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/154",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/154"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/154",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/154"
     },
     name: {
         en: "Starting Plains",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Feld des Anfangs",
         "pt-br": "Planície Primordial",
         "zh-tw": "起始平原",
-        ja: "はじまりの平原"
+        ja: "はじまりの平原",
+        ko: "시작의 평원"
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Jedes Basis-Pokémon im Spiel (sowohl deins als auch das deines Gegners) erhält +20 HP.",
         "pt-br": "Cada Pokémon Básico em jogo (seu e do seu oponente) recebe +20 HP.",
         "zh-tw": "場上的每個基本神奇寶貝（你的和你對手的）都會獲得+20 HP。",
-        ja: "おたがいの場のたねポケモン全員の最大HPを+20する。"
+        ja: "おたがいの場のたねポケモン全員の最大HPを+20する。",
+        ko: "서로의 필드의 기본 포켓몬 전원의 최대 HP를 +20한다."
     },
     trainerType: "Stadium"
 };

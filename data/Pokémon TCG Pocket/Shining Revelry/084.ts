@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/084"
     },
     name: {
         en: "Lucario ex",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Riolu",
         "pt-br": "Riolu",
         "zh-tw": "利歐路",
-        ja: "リオル"
+        ja: "リオル",
+        ko: "리오르"
     },
     stage: "Stage1",
     suffix: "EX",

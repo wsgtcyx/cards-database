@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/016",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/016"
     },
     name: {
         en: "Wormadam",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
         ja: "ミノムッチ",
+        ko: "도롱충이",
     },
     description: {
         en: "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "file": "sources/all-image-manifest.json",
+      "sha256": "b569ebfff4d02f94c88357d2ef0e0acb7d1513723995c1b3eacb7c24262487ed",
+      "bytes": 1287249
+    },
+    {
+      "file": "sources/card-bindings.json",
+      "sha256": "957676af9c4811580cbb960a54b12b8d28b9da5d8b2ebd8552a8e508c0d38e52",
+      "bytes": 642757
+    },
+    {
+      "file": "sources/card-image-ocr.json.gz",
+      "sha256": "58931d88c532f0ecd9e68f446e81e6d5db788ae641d364620fc9660e062fee1a",
+      "bytes": 1534957
+    },
+    {
+      "file": "sources/card-manifest.json",
+      "sha256": "2173d5837a78b501c5f1811879dbc0f7d3164e01c6b17570ae8730ddc3da62c3",
+      "bytes": 4985684
+    },
+    {
+      "file": "sources/centro-details.json.gz",
+      "sha256": "47ce69f2eca08c23ff8e318107393461ea2a80ed408f557e06fc6001b0838f71",
+      "bytes": 790182
+    },
+    {
+      "file": "sources/centro-manifest.json",
+      "sha256": "efb803b40f346248a7feb6dd9724eab44d67469342076b0a084e0e890c2703fe",
+      "bytes": 1260654
+    },
+    {
+      "file": "sources/cross-source-rules.json",
+      "sha256": "fe4735f74a3808a191231b1807ca2fad60b4467c62b51b8e3a417d42c0359bad",
+      "bytes": 21622
+    },
+    {
+      "file": "sources/en-messages.json",
+      "sha256": "791b094f30bcadbb84f72f6493526bd424af64ed94a47f6a60e61f612cc4037b",
+      "bytes": 471315
+    },
+    {
+      "file": "sources/evolve-values.json",
+      "sha256": "10397e56449a3019f84ceb52121b4cfd8084b2092958a31a80863ee7193d002d",
+      "bytes": 52652
+    },
+    {
+      "file": "sources/extras-source-manifest.json",
+      "sha256": "0932a645d45dd6db27fa4a7870463aeafcbf7eb9c28ab8119b6f1ef12345c991",
+      "bytes": 27169
+    },
+    {
+      "file": "sources/flavors-final.json",
+      "sha256": "d6d478c84a92a4706cda84f63138703f54087e19857f8fdbd40c467f8a5b3019",
+      "bytes": 1571318
+    },
+    {
+      "file": "sources/image-language-check.json",
+      "sha256": "d31aec5c33b43f2ae97098c04a09749b108df46be1ce803e39e054d05442b02a",
+      "bytes": 56
+    },
+    {
+      "file": "sources/ko-messages.json",
+      "sha256": "68ab5e3a7f8cd11733635be0ab488a71c4b3428fb538b21d5311c58175f2844f",
+      "bytes": 562461
+    },
+    {
+      "file": "sources/manual-reviewed-flavors.json",
+      "sha256": "5e3a3554cc3565a88ae5e5a83c1612b4c9fec49cc45d9735030f820bfd1daca3",
+      "bytes": 1361
+    },
+    {
+      "file": "sources/master.json",
+      "sha256": "b6f3ef88c7f816fddac90d9879fe40296ab4fb9a92698746522cc897d6acd411",
+      "bytes": 12816808
+    },
+    {
+      "file": "sources/official-news-4378.html",
+      "sha256": "56d7bc34c672219492ee27af51a50c5ca0fe5f4a144adafe68f0f75d1d5f0a9a",
+      "bytes": 35515
+    },
+    {
+      "file": "sources/pack-assets-manifest.json",
+      "sha256": "f9c6368a45162589d19935428e603bd77bc2815c74b73826fec5fbc45b0a8a72",
+      "bytes": 107352
+    },
+    {
+      "file": "sources/pack-icon-manifest.json",
+      "sha256": "62e7623646988c6c143e9f3e68b0ecbbc277bcbc0cb1af683ab5979f84a8fd48",
+      "bytes": 18218
+    },
+    {
+      "file": "sources/pack-source-manifest.json",
+      "sha256": "f47988e2f07243e3f5a4a2936b24080c7cc001ce261896da1ccde3b92e3c659f",
+      "bytes": 61109
+    },
+    {
+      "file": "sources/reviewed-rules.json",
+      "sha256": "97be796b16febd921826a121d1186a31c809caff0b88f2d26d9bfd58630b23ef",
+      "bytes": 1693
+    },
+    {
+      "file": "sources/rules-resolved-spaced.json",
+      "sha256": "9229f96a85d9b4fd4896cc6b063ae14f522790c100568ce4b4eddf03eec69c57",
+      "bytes": 2105339
+    },
+    {
+      "file": "sources/rules-resolved.json",
+      "sha256": "4a54b827a2fbaaa548194cc771d904f325ff45e84fa065bcb3ea17055ca7b376",
+      "bytes": 2105133
+    },
+    {
+      "file": "sources/set-pack-names.json",
+      "sha256": "649f055d706bad9e689a328b8e33d3410fc69f18d644da78864d5c74b06806db",
+      "bytes": 8476
+    }
+  ]
+}

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/017"
     },
     name: {
         en: "Iron Hands",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon hat viele Ähnlichkeiten mit Eisenhand, einem Objekt, das in einem bestimmten Expeditionstagebuch erwähnt wird.",
         "pt-br": "Este Pokémon compartilha muitas semelhanças com Mãos Férreas, um objeto mencionado em um determinado diário de expedição.",
         "zh-tw": "這隻寶可夢與某探險日記中提到的鐵臂膀有許多相似之處。",
-        ja: "ある探検記に 記された テツノカイナという 物体と 似た点が 多い ポケモン。"
+        ja: "ある探検記に 記された テツノカイナという 物体と 似た点が 多い ポケモン。",
+        ko: "어느 탐험기에 기록된\n\"무쇠손\"이라는 물체와\n닮은 점이 많은 포켓몬."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Aufeinanderfolgende Ohrfeigen",
                 "pt-br": "Tapas Sucessivas",
                 "zh-tw": "連摑掌",
-                ja: "リピートスラップ"
+                ja: "リピートスラップ",
+                ko: "리피트슬랩"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 70 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 70 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 70 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 70 點傷害。",
-                ja: "コインを2回投げ、オモテの数×70ダメージ。"
+                ja: "コインを2回投げ、オモテの数×70ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 70데미지를 준다."
             },
             damage: "70x"
         }

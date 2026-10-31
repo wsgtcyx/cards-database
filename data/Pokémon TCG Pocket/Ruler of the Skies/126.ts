@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/126",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/126",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/126"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/126",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/126"
     },
     name: {
         en: "Dipplin",
@@ -49,7 +50,8 @@ const card: Card = {
         de: "Im Apfel leben die sich gegenseitig helfenden „Kopfel“ und „Schwanzel“. Beim Ersten ragt der Kopf heraus, beim Zweiten der Schwanz.",
         "pt-br": "A cabeça que aponta para fora pertence à criatura frontal, enquanto a cauda pertence à criatura central. As duas compartilham uma maçã e ajudam uma à outra.",
         "zh-tw": "由露出了頭部的外頭蟲與\n露出了尾巴的裡頭蟲相扶相持，\n一起在蘋果裡面生活。",
-        ja: "頭を 出している そとッチュと 尻尾を 出している なかッチュが 助け合い りんごのなかで 暮らす。※ キタカミの里での冒険で出会うことができます。"
+        ja: "頭を 出している そとッチュと 尻尾を 出している なかッチュが 助け合い りんごのなかで 暮らす。※ キタカミの里での冒険で出会うことができます。",
+        ko: "머리를 내밀고 있는 외미르와\n꼬리를 내밀고 있는 내미르가\n사과 안에서 서로 도우며 지낸다."
     },
     attacks: [
         {
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Doppelschlag",
                 "pt-br": "Golpe Duplo",
                 "zh-tw": "二連擊",
-                ja: "ダブルアタック"
+                ja: "ダブルアタック",
+                ko: "더블어택"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 60 damage for each heads.",
@@ -72,7 +75,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。",
-                ja: "コインを2回投げ、オモテの数×60ダメージ。"
+                ja: "コインを2回投げ、オモテの数×60ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 60데미지를 준다."
             },
             damage: "60x"
         }

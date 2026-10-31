@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/088"
     },
     name: {
         en: "Zoroark",
@@ -51,7 +52,7 @@ const card: Card = {
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
         ja: "ゾロア",
-        ko: "Zorua"
+        ko: "조로아"
     },
     attacks: [
         {
@@ -64,7 +65,7 @@ const card: Card = {
                 "pt-br": "Jogo Sujo",
                 "zh-tw": "欺詐",
                 ja: "イカサマ",
-                ko: "Foul Play"
+                ko: "속임수"
             },
             cost: [
                 "Colorless",
@@ -79,7 +80,7 @@ const card: Card = {
                 "pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
                 "zh-tw": "選擇1個對手的戰鬥寶可夢持有的招式,作為這個招式使用。",
                 ja: "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。",
-                ko: "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+                ko: "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다."
             }
         }
     ],
@@ -93,7 +94,7 @@ const card: Card = {
         "pt-br": "Rezam as lendas que aqueles que tentaram capturar Zoroark foram aprisionados em uma ilusão e punidos.",
         "zh-tw": "據說索羅亞克會把企圖捕捉牠的人困在虛幻的景色裡給予懲罰。",
         ja: "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。",
-        ko: "Stories say those who tried to catch Zoroark were trapped in an illusion and punished."
+        ko: "조로아크를 잡으려 한 사람을\n환영의 경치 속에 가둬서\n혼내 줬다고 전해진다."
     }
 };
 

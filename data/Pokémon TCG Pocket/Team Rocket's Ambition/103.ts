@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/103",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/103"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/103",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/103"
     },
     name: {
         en: "Taillow",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es mag die kalte Jahreszeit nicht. Daher legt es auf der Suche nach wärmeren Gefilden mehr als 300 km am Tag zurück.",
         "pt-br": "Detesta estações frias. Eles migram para outras terras em busca de calor, voando mais de 280 km em um dia.",
         "zh-tw": "不擅長應付寒冷的季節。為了尋找溫暖的地帶，會1天飛上300公里的距離。",
-        ja: "寒い 季節は 苦手。暖かい 土地を 探し １日 ３００キロの 距離を 飛んで 移動する。"
+        ja: "寒い 季節は 苦手。暖かい 土地を 探し １日 ３００キロの 距離を 飛んで 移動する。",
+        ko: "추운 계절에 약하다. 따뜻한\n지방을 찾아 하루에 300km의\n거리를 날아서 이동한다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "つつく"
+                ja: "つつく",
+                ko: "쪼기"
             },
             damage: 20
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/096",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/096"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/096",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/096"
     },
     name: {
         en: "Sandaconda",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Der Sand, den es ausspuckt, enthält scharfen, spitzen Kies, bei dem es sich eigentlich nur um Sand handelt, den der Speichel von Sanaconda zu unregelmäßigen Formen verhärtet hat.",
         "pt-br": "A areia que ele vomita contém cascalho afiado e pontiagudo, que na verdade é apenas areia que a saliva de Sandaconda endureceu em formas irregulares.",
         "zh-tw": "它噴出的沙子裡含有鋒利、尖尖的礫石，其實只是沙螺蟒的唾液硬化成不規則形狀的沙子。",
-        ja: "吐き出す 砂に 混ざる 鋭く 尖った 砂利は 唾液で 砂が いびつに 固まったものだ。"
+        ja: "吐き出す 砂に 混ざる 鋭く 尖った 砂利は 唾液で 砂が いびつに 固まったものだ。",
+        ko: "뿜어내는 모래에 섞여 있는\n날카롭고 뾰족한 자갈은 침에 의해\n모래가 이상하게 굳어진 것이다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Super-Sandwirbel",
                 "pt-br": "Superataque de Areia",
                 "zh-tw": "狂撥沙",
-                ja: "すごいすなかけ"
+                ja: "すごいすなかけ",
+                ko: "굉장한 모래뿌리기"
             },
             effect: {
                 en: "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
                 "zh-tw": "在對手的下一個回合中，如果防御寶可夢嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
-                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
+                ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 1번 던진다. 뒷면이 나오면 그 기술은 실패한다."
             },
             damage: 70
         }

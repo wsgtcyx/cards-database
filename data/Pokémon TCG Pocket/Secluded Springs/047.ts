@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/047",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/047",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/047"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/047",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/047"
     },
     name: {
         en: "Crustle",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Crustle",
         "zh-tw": "岩殿居蟹",
         ja: "イワパレス",
+        ko: "암팰리스",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Dwebble",
         "zh-tw": "石居蟹",
         ja: "イシズマイ",
+        ko: "돌살이",
     },
     description: {
         en: "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses sehr territoriale Pokémon bevorzugt Trockenheit\nKlimazonen. Es kommt nicht aus seinem Felsblock heraus\nregnerische Tage.",
         "pt-br": "Este Pokémon altamente territorial prefere áreas secas\nclimas. Não vai sair da pedra\ndias chuvosos.",
         "zh-tw": "這種領地意識很強的神奇寶貝喜歡乾燥\n氣候。它不會從巨石中出來\n下雨天。",
-        ja: "乾燥した 場所を 好み 雨の日は 岩から 出ない。 縄張り意識が 強いぞ。"
+        ja: "乾燥した 場所を 好み 雨の日は 岩から 出ない。 縄張り意識が 強いぞ。",
+        ko: "건조한 곳을 좋아하며\n비가 내리는 날에는 바위에서 나오지 않는다.\n자기 영역에 대한 의식이 강하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Steinkante",
                 "pt-br": "Borda de Pedra",
                 "zh-tw": "石邊",
-                ja: "ストーンエッジ"
+                ja: "ストーンエッジ",
+                ko: "스톤에지"
             },
             damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
-                ja: "コインを1回投げオモテなら、50ダメージ追加。"
+                ja: "コインを1回投げオモテなら、50ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다."
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/117",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/117",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/117"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/117",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/117"
     },
     name: {
         en: "Popplio",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Popplio",
         "zh-tw": "球球海獅",
         ja: "アシマリ",
+        ko: "누리공",
     },
     illustrator: "match",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Die Ballons, die es mit seiner Nase aufbläst, wachsen\ngrößer und größer, je mehr es Tag für Tag praktiziert.",
         "pt-br": "Os balões que ele infla com o nariz crescem\ncada vez maior à medida que pratica dia após dia.",
         "zh-tw": "它用鼻子吹的氣球長大了\n隨著它日復一日的練習，它變得越來越大。",
-        ja: "鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。"
+        ja: "鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。",
+        ko: "코로 부풀리는 벌룬은\n매일 연습을 반복하면서\n조금씩 커진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Bewässerung",
                 "pt-br": "Rega",
                 "zh-tw": "澆水",
-                ja: "みずまき"
+                ja: "みずまき",
+                ko: "물끼얹기"
             },
             damage: 30,
             cost: ["Water", "Colorless"]

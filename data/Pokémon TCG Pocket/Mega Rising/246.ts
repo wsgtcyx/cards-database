@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/246",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/246",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/246",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/246"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/246",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/246"
     },
     name: {
         en: "Corviknight",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Corviknight",
         "zh-tw": "鋼鎧鴉",
         ja: "アーマーガア",
+        ko: "아머까오",
     },
     illustrator: "hncl",
     rarity: "One Star",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
         ja: "アオガラス",
+        ko: "파크로우",
     },
     description: {
         en: "Although its wings have partly turned to steel and\nbecome heavy as a result, this Pokémon flies\nthrough the skies with ease.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Obwohl seine Flügel teilweise zu Stahl geworden sind und\nWird das Pokémon dadurch schwer, fliegt es\nmit Leichtigkeit durch die Lüfte.",
         "pt-br": "Embora suas asas tenham se transformado parcialmente em aço e\ncomo resultado, este Pokémon voa\npelos céus com facilidade.",
         "zh-tw": "雖然它的翅膀已經部分變成了鋼鐵，\n結果變得很重，這只神奇寶貝會飛\n輕鬆穿越天空。",
-        ja: "羽の 一部が 鋼に 変化。 重たい 翼を ものともせずに 大空を ゆうゆうと 飛びまわる。"
+        ja: "羽の 一部が 鋼に 変化。 重たい 翼を ものともせずに 大空を ゆうゆうと 飛びまわる。",
+        ko: "깃털의 일부가 강철로 변화했다.\n무거운 날개에도 아랑곳하지 않고\n넓은 하늘을 유유히 날아다닌다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Eisenflügel",
                 "pt-br": "Asas de Ferro",
                 "zh-tw": "鐵翼",
-                ja: "くろがねのつばさ"
+                ja: "くろがねのつばさ",
+                ko: "무쇠날개"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "Lege 2 {M} Energie von diesem Pokémon ab. Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −50 Schadenspunkte durch Angriffe.",
                 "pt-br": "Descarte 2 {M} Energias deste Pokémon. Durante o próximo turno do seu oponente, este Pokémon sofrerá −50 de dano de ataques.",
                 "zh-tw": "丟棄該神奇寶貝的 2 {M} 點能量。在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。",
-                ja: "このポケモンから{M}エネルギーを2個トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-50する。"
+                ja: "このポケモンから{M}エネルギーを2個トラッシュ。次の相手の番、このポケモンが受けるワザのダメージを-50する。",
+                ko: "이 포켓몬에서 {M}에너지를 2개 트래쉬한다. 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -50한다."
             }
         }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

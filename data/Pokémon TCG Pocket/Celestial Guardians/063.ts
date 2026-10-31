@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/063"
     },
     name: {
         en: "Heliolisk",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
         ja: "エリキテル",
+        ko: "목도리키텔",
     },
     description: {
         en: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",

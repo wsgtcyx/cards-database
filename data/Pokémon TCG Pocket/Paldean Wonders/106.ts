@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/106",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/106"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/106",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2a/106"
     },
     name: {
         en: "Iono",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Kissera",
         "zh-tw": "奇樹",
         ja: "ナンジャモ",
+        ko: "모야모",
         pt: "Kissera"
     },
     illustrator: "Sanosuke Sakuma",

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/001",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/001"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/001",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/001"
     },
     name: {
         en: "Tangela",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen.",
         "pt-br": "Escondido sob um emaranhado de vinhas que cresce sem parar mesmo que as vinhas sejam arrancadas, a verdadeira aparência deste Pokémon permanece um mistério.",
         "zh-tw": "藤蔓即使斷了也會繼續\n無限地生長。藤蔓下的\n真面目至今仍是個謎。",
-        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。"
+        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。",
+        ko: "잘려도 잘려도 무한으로 늘어나는\n덩굴 속의 정체는\n아직 밝혀지지 않았다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Klammergriff",
                 "pt-br": "Ligação",
                 "zh-tw": "綁緊",
-                ja: "しめつける"
+                ja: "しめつける",
+                ko: "조이기"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 20
         }

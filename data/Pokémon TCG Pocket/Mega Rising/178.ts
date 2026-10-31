@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/178",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/178",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/178",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/178"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/178",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/178"
     },
     name: {
         en: "Sliggoo",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Sliggoo",
         "zh-tw": "黏美兒",
         ja: "ヌメイル",
+        ko: "미끄네일",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Goomy",
         "zh-tw": "黏黏寶",
         ja: "ヌメラ",
+        ko: "미끄메라",
     },
     description: {
         en: "When Sliggoo senses danger, the mucus coating\nits entire body becomes more concentrated—\nit'll dissolve anything.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn Sliggoo eine Gefahr spürt, bildet sich eine Schleimschicht\nsein ganzer Körper wird konzentrierter –\nes wird alles auflösen.",
         "pt-br": "Quando Sliggoo sente o perigo, a camada de muco\ntodo o seu corpo fica mais concentrado -\nisso dissolverá qualquer coisa.",
         "zh-tw": "當 Sligoo 感覺到危險時，粘液塗層\n整個身體變得更加集中——\n它會溶解任何東西。",
-        ja: "危険を 感じると 全身を 覆う 粘液の 濃度が 上がり なんでも 溶かすようになるのだ。"
+        ja: "危険を 感じると 全身を 覆う 粘液の 濃度が 上がり なんでも 溶かすようになるのだ。",
+        ko: "위험을 느끼면 온몸을 뒤덮고 있는\n점액의 농도가 짙어져서\n무엇이든 녹일 수 있게 된다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,11 +61,15 @@ const card: Card = {
                 "de": "Sanfter Schlag",
                 "pt-br": "Tapa suave",
                 "zh-tw": "輕輕一巴掌",
-                ja: "ひっぱたく"
+                ja: "ひっぱたく",
+                ko: "세게때리기"
             },
             damage: 60,
             cost: ["Water", "Psychic"]
         }],
-    retreat: 2
+    retreat: 2,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/243",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/243",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/243",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/243"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/243",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/243"
     },
     name: {
         en: "Celebi",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Este Pokémon viajou no tempo e veio do futuro. Ele revigora a grama e as árvores com sua própria força e pode curar feridas.",
         "zh-tw": "從未來穿越時光而來。能夠治癒傷痛，也會把自己的力量分給草木。",
         ja: "未来から 時を 渡って やって来た。 キズを 癒し 草木に 力を 分け与える。",
-        ko: "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too."
+        ko: "미래에서 시간을 건너\n찾아왔다. 상처를 치료하고\n초목에 힘을 나누어준다."
     },
     abilities: [
         {
@@ -58,7 +59,7 @@ const card: Card = {
                 "pt-br": "Retorno no Tempo",
                 "zh-tw": "時光回溯",
                 ja: "タイムリコール",
-                ko: "Time Recall"
+                ko: "타임리콜"
             },
             effect: {
                 en: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
@@ -69,7 +70,7 @@ const card: Card = {
                 "pt-br": "Cada um dos seus Pokémon evoluídos pode usar qualquer ataque de suas Evoluções anteriores. (Você ainda precisa da Energia necessária para usar cada ataque.)",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有進化寶可夢,可使用進化前持有的所有招式。[[需要有足夠使用招式的能量。]]",
                 ja: "このポケモンがいるかぎり、自分の進化しているポケモン全員は、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]",
-                ko: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+                ko: "이 포켓몬이 있는 한, 자신의 진화한 포켓몬 전원은 진화 전에 가지고 있던 기술을 모두 사용할 수 있다. (기술을 사용하기 위한 에너지는 필요하다.)"
             }
         }
     ],
@@ -88,7 +89,7 @@ const card: Card = {
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
                 ja: "ひらてうち",
-                ko: "Smack"
+                ko: "수벽치기"
             },
             damage: 30
         }

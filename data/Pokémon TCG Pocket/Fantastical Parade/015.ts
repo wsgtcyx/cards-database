@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/015",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/015",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/015"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/015",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/015"
     },
     name: {
         en: "Gossifleur",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Cottini",
         "pt-br": "Gossifleur",
         "zh-tw": "幼棉棉",
-        ja: "ヒメンカ"
+        ja: "ヒメンカ",
+        ko: "꼬모카"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wirbelt im Wind herum und singt fröhlich\nLied. Diese entzückende Darstellung hat viele verzaubert\ndaran interessiert, dieses Pokémon großzuziehen.",
         "pt-br": "Ele gira ao vento enquanto canta uma alegre\ncanção. Esta deliciosa exibição encantou muitos\nem criar este Pokémon.",
         "zh-tw": "它在風中旋轉，唱著歡樂的歌\n歌曲。這場精彩的表演吸引了很多人\n來撫養這只神奇寶貝。",
-        ja: "そよ風で くるくる 回りながら 楽しそうに 歌う 愛らしさに 魅せられ 育てる 人が 多い。"
+        ja: "そよ風で くるくる 回りながら 楽しそうに 歌う 愛らしさに 魅せられ 育てる 人が 多い。",
+        ko: "산들바람에 빙글빙글 돌면서\n즐겁게 노래하는 귀여운 모습에\n반해서 키우는 사람이 많다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
                 "zh-tw": "剃刀葉",
-                ja: "はっぱカッター"
+                ja: "はっぱカッター",
+                ko: "잎날가르기"
             },
             damage: 20,
             cost: ["Grass"]

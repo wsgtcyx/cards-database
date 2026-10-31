@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/082",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/082"
     },
     name: {
         en: "Palossand",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
         ja: "スナバァ",
+        ko: "모래꿍",
     },
     description: {
         en: "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",

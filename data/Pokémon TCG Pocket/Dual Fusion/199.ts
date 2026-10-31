@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/199",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/199"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/199",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/199"
     },
     name: {
         en: "Rhyhorn",
@@ -53,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bote",
                 "zh-tw": "撞倒",
                 ja: "つきたおし",
-                ko: "Lunge Out"
+                ko: "넘어뜨리기"
             },
             cost: [
                 "Fighting"
@@ -71,7 +72,7 @@ const card: Card = {
         "pt-br": "Rhyhorn reivindica uma área com mais de dez quilômetros de raio como seu território, mas dizem que, ao correr, esquece onde ele fica.",
         "zh-tw": "獨角犀牛把半徑10公里的範圍當作地盤，但那奔跑起來就會忘記自己的地盤在哪裡。",
         ja: "半径１０キロメートルの 範囲を 縄張りにしているが 走っていると 縄張りを 忘れてしまうらしい。",
-        ko: "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however."
+        ko: "반경 10km의 범위를\n영역으로 삼고 있으나,\n달리다 보면 영역을 잊어버린다고 한다."
     }
 };
 

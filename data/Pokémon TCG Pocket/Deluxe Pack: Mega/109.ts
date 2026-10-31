@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/109",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/109"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/109",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/109"
     },
     name: {
         en: "Chingling",
@@ -40,7 +41,7 @@ const card: Card = {
         "pt-br": "Há um orbe dentro de sua boca. Quando pula, o orbe chacoalha de um lado para o outro e cria um som ressonante.",
         "zh-tw": "如果跳起來，嘴裡的珠子就會到處反彈，發出鈴鐺一般的音色。",
         ja: "飛び跳ねると 口の中にある 玉が あちこちに 反射して 鈴のような 音色と なる。",
-        ko: "There is an orb inside its mouth. When it hops,\nthe orb bounces all over and makes a\nringing sound."
+        ko: "뛰어오르면 입안에 있는\n구슬이 이리저리 부딪치며\n방울 같은 음색을 만들어 낸다."
     },
     stage: "Basic",
     attacks: [
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Barulho Blém-blém",
                 "zh-tw": "響響噪音",
                 ja: "しゃんしゃんノイズ",
-                ko: "Jingly Noise"
+                ko: "짤랑짤랑 노이즈"
             },
             damage: 10,
             effect: {
@@ -66,7 +67,7 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da mão dele.",
                 "zh-tw": "在下個對手的回合,對手無法從手牌使出物品卡。",
                 ja: "次の相手の番、相手は手札からグッズを出して使えない。",
-                ko: "During your opponent's next turn, they can't play any Item cards from their hand."
+                ko: "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다."
             }
         }
     ],

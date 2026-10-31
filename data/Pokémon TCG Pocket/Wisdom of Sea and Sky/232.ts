@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/232",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/232",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/232",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/232"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/232",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/232"
     },
     name: {
         en: "Yanmega ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Yanmega ex",
         "zh-tw": "遠古巨蜓ex",
         ja: "メガヤンマex",
+        ko: "메가자리 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Yanma",
         "zh-tw": "蜻蜻蜓",
         ja: "ヤンヤンマ",
+        ko: "왕자리",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Luftschnitt",
                 "pt-br": "Corte de Ar",
                 "zh-tw": "空氣斬",
-                ja: "エアスラッシュ"
+                ja: "エアスラッシュ",
+                ko: "에어슬래시"
             },
             damage: 120,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -60,7 +64,8 @@ const card: Card = {
                 "de": "Lege eine zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的隨機能量。",
-                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다."
             }
         }],
     weaknesses: [{

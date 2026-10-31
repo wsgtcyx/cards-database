@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/091",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/091"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/091",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4a/091"
     },
     name: {
         en: "Team Rocket's Slowking ex",
@@ -52,7 +53,8 @@ const card: Card = {
                 de: "Boshafte Inspiration",
                 "pt-br": "Inspiração Maligna",
                 "zh-tw": "邪惡點子",
-                ja: "わるいひらめき"
+                ja: "わるいひらめき",
+                ko: "나쁜 번뜩임"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
@@ -62,7 +64,8 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du 1 Karte ziehen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá comprar 1 carta.",
                 "zh-tw": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從自己的牌庫抽出1張卡。",
-                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札を1枚引く。"
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札を1枚引く。",
+                ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다."
             }
         }
     ],
@@ -77,7 +80,8 @@ const card: Card = {
                 de: "Handkinese",
                 "pt-br": "Cinese de Mão",
                 "zh-tw": "手中強念",
-                ja: "ハンドキネシス"
+                ja: "ハンドキネシス",
+                ko: "핸드키네시스"
             },
             effect: {
                 en: "This attack does 20 damage for each card in your hand.",
@@ -87,7 +91,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede Karte auf deiner Hand 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano para cada carta na sua mão.",
                 "zh-tw": "造成自己的手牌的張數×20點傷害。",
-                ja: "自分の手札の枚数×20ダメージ。"
+                ja: "自分の手札の枚数×20ダメージ。",
+                ko: "자신의 패의 장수 × 20데미지를 준다."
             },
             damage: "20x"
         }

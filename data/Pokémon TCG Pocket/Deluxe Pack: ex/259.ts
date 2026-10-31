@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/259",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/259",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/259",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/259"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/259",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/259"
 	},
 	name: {
 		en: "Solgaleo ex",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Solgaleo-ex",
 		"pt-br": "Solgaleo ex",
 		"zh-tw": "索爾迦雷歐ex",
-		ja: "ソルガレオex"
+		ja: "ソルガレオex",
+		ko: "솔가레오 ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Cosmovum",
 		"pt-br": "Cosmoem",
 		"zh-tw": "科斯莫姆",
-		ja: "コスモウム"
+		ja: "コスモウム",
+		ko: "코스모움"
 	},
 	stage: "Stage2",
 	suffix: "EX",

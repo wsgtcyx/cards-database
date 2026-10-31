@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/044",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/044"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/044",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3b/044"
     },
     name: {
         en: "Scraggy",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es wird jedem, der Augenkontakt damit hat, einen plötzlichen Kopfstoß verpassen. Sein Schädel ist extrem hart.",
         "pt-br": "Ele dará uma cabeçada abrupta em qualquer um que fizer contato visual com ele. Seu crânio é extremamente duro.",
         "zh-tw": "它會突然用頭撞任何與它有眼神接觸的人。它的頭骨極為堅硬。",
-        ja: "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。とても 硬い 頭がい骨を 持つ。"
+        ja: "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。とても 硬い 頭がい骨を 持つ。",
+        ko: "눈이 마주친 상대에게 느닷없이\n박치기 공격을 한다.\n매우 단단한 두개골을 가지고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Fußkick",
                 "pt-br": "Rasteira",
                 "zh-tw": "踢倒",
-                ja: "けたぐり"
+                ja: "けたぐり",
+                ko: "안다리걸기"
             },
             damage: 10
         }

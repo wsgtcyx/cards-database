@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/025",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/025",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/025"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/025",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/025"
     },
     name: {
         en: "Raboot",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kickerlo",
         "pt-br": "Raboot",
         "zh-tw": "騰蹴小將",
-        ja: "ラビフット"
+        ja: "ラビフット",
+        ko: "래비풋"
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Hopplo",
         "pt-br": "Scorbunny",
         "zh-tw": "炎兔兒",
-        ja: "ヒバニー"
+        ja: "ヒバニー",
+        ko: "염버니"
     },
     description: {
         en: "While it prides itself on its varied kicking moves,\nit can also deliver powerful headbutts once its\nflames have heated up its forehead.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Während es stolz auf seine abwechslungsreichen Trittbewegungen ist,\nEs kann auch kraftvolle Kopfstöße ausführen, sobald es soweit ist\nFlammen haben seine Stirn erhitzt.",
         "pt-br": "Embora se orgulhe de seus variados movimentos de chute,\nele também pode desferir cabeçadas poderosas quando estiver\nas chamas aqueceram sua testa.",
         "zh-tw": "雖然它以其多樣化的踢腿動作而自豪，\n一旦它被擊中，它還可以提供強有力的頭撞\n火焰已經加熱了它的額頭。",
-        ja: "多彩な キック技が 自慢だが 炎で 熱くなった 額で 繰り出す 頭突きも 強力。"
+        ja: "多彩な キック技が 自慢だが 炎で 熱くなった 額で 繰り出す 頭突きも 強力。",
+        ko: "다채로운 킥 기술을 자랑하지만\n불꽃에 의해 뜨거워진 이마로 부딪치는\n박치기도 상당히 강력하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Tritt",
                 "pt-br": "Chute",
                 "zh-tw": "踢",
-                ja: "キック"
+                ja: "キック",
+                ko: "킥"
             },
             damage: 40,
             cost: ["Fire"]

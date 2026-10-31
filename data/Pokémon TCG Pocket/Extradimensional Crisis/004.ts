@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/004",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/004",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/004"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/004",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/004"
     },
     name: {
         en: "Dartrix",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
         ja: "フクスロー",
+        ko: "빼미스로우",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
         ja: "モクロー",
+        ko: "나몰빼미",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Dieses narzisstische Pokémon ist ein Sauberkeitsfreak. Wenn Sie\nPflegen Sie es nicht fleißig, es könnte sein, dass es Ihnen nicht mehr zuhört.",
         "pt-br": "Este Pokémon narcisista é uma aberração limpa. Se você\nnão o prepare diligentemente, ele pode parar de ouvi-lo.",
         "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你\n不要勤奮地梳理它，它可能會不再聽你的。",
-        ja: "ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。"
+        ja: "ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。",
+        ko: "나르시스트로 깔끔한 걸 좋아한다.\n자주 관리해 주지 않으면\n말을 안 듣기도 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
                 "zh-tw": "技能潛水",
-                ja: "ちょくげきひこう"
+                ja: "ちょくげきひこう",
+                ko: "직격비행"
             },
             cost: ["Grass"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 20 點傷害。",
-                ja: "相手のポケモン1匹に20ダメージ。"
+                ja: "相手のポケモン1匹に20ダメージ。",
+                ko: "상대의 포켓몬 1마리에게 20데미지를 준다."
             }
         }],
     weaknesses: [{

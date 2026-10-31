@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/123",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/123",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/123",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/123"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/123",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/123"
     },
     name: {
         en: "Turtonator",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Da es in Vulkanen lebt, nimmt es mit der Nahrung\nviel Schwefel auf, was seinen Panzer und seinen\nKot explosiv macht. Letzterer ist ein Gefahrengut.",
         "pt-br": "Os compostos explosivos no seu casco são resultado da sua dieta de enxofre do seu habitat vulcânico. Suas fezes também são perigosamente explosivas.",
         "zh-tw": "在火山上生活，吃下的硫磺\n就是甲殼上炸藥的原料。\n連糞便也會爆炸，十分危險。",
-        ja: "火山で 暮らし 食べた 硫黄が 甲羅の 爆薬の もとになる。 フンも 爆発する 危険物。"
+        ja: "火山で 暮らし 食べた 硫黄が 甲羅の 爆薬の もとになる。 フンも 爆発する 危険物。",
+        ko: "화산에서 살며 먹은 유황이\n등껍질에 있는 폭약의 원료가 된다.\n위험하게도 배설물 역시 폭발물이다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Sengende Flamme",
                 "pt-br": "Chama Cauterizante",
                 "zh-tw": "灼燒",
-                ja: "やきこがす"
+                ja: "やきこがす",
+                ko: "태워그을리기"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
-                ja: "相手のバトルポケモンをやけどにする。"
+                ja: "相手のバトルポケモンをやけどにする。",
+                ko: "상대의 배틀 포켓몬을 화상으로 만든다."
             },
             damage: 70
         }

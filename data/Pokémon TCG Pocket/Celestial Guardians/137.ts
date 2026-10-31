@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/137",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3/137",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/137"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/137",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3/137"
     },
     name: {
         en: "Gumshoos",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Yungoos",
         "zh-tw": "貓鼬少",
         ja: "ヤングース",
+        ko: "영구스",
     },
     description: {
         en: "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",

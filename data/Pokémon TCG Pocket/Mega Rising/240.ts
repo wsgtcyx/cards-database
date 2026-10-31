@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/240",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/240",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/240",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/240"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/240",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/240"
     },
     name: {
         en: "Makuhita",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Makuhita",
         "zh-tw": "幕下力士",
         ja: "マクノシタ",
+        ko: "마크탕",
     },
     illustrator: "Koji Nakata",
     rarity: "One Star",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es wird härter, wenn es gegen dicke Bäume prallt\nimmer und immer wieder. Es erhält einen robusten Körper und\nunerschrockener Geist.",
         "pt-br": "Ele se fortalece ao bater em árvores grossas\nrepetidamente. Ganha um corpo robusto e\nespírito destemido.",
         "zh-tw": "它通過撞擊茂密的樹木而變得堅強\n一遍又一遍。它獲得了強健的身體和\n大無畏的精神。",
-        ja: "大木に 何度も 体当たりして 強靭な 体と くじけない 心を 鍛え上げるのだ。"
+        ja: "大木に 何度も 体当たりして 強靭な 体と くじけない 心を 鍛え上げるのだ。",
+        ko: "큰 나무에 몇 번이나 몸통박치기를 하며\n강인한 몸과 굴하지 않는 마음을 단련한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Ausholen",
                 "pt-br": "Avançar",
                 "zh-tw": "向前衝出",
-                ja: "つきたおし"
+                ja: "つきたおし",
+                ko: "넘어뜨리기"
             },
             damage: 50,
             cost: ["Fighting", "Fighting", "Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Psychic",
             value: "+20"
         }],
-    retreat: 3
+    retreat: 3,
+	boosters: [
+		"mega-blaziken"
+	]
 };
 export default card;

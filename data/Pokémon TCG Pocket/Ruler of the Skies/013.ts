@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/013",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/013"
     },
     name: {
         en: "Shelmet",
@@ -38,7 +39,8 @@ const card: Card = {
         de: "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Es heißt, die Anwesenheit von\nLaukaps löse bei ihm die Entwicklung aus.",
         "zh-tw": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。",
         "pt-br": "A fisiologia estranha deste Pokémon reage à eletricidade. Por alguma razão, Shelmet evolui quando está perto de Karrablast.",
-        ja: "電気 エネルギーに 反応する 不思議な 体質。 カブルモと ともに いると なぜか 進化する。"
+        ja: "電気 エネルギーに 反応する 不思議な 体質。 カブルモと ともに いると なぜか 進化する。",
+        ko: "전기 에너지에 반응하는 신비한\n체질을 지녔다. 딱정곤과 함께\n있으면 무슨 이유인지 진화한다."
     },
     attacks: [
         {
@@ -51,7 +53,8 @@ const card: Card = {
                 "zh-tw": "硬殼攻擊",
                 "it": "Conchigliata",
                 "de": "Seemuschelangriff",
-                ja: "シェルアタック"
+                ja: "シェルアタック",
+                ko: "셸어택"
             },
             damage: 20
         }

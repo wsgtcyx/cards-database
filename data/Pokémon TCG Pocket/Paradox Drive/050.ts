@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/050",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/050"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/050",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/050"
     },
     name: {
         en: "Copperajah",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Patinaraja sind stolze, streitsüchtige Pokémon. Exemplare mit leuchtend grüner Haut erregen den Respekt ihrer Artgenossen.",
         "pt-br": "Copperajah são Pokémon orgulhosos e rabugentos. Espécimes com pele verde vibrante conquistam o respeito de outros de sua espécie.",
         "zh-tw": "大王銅象 是驕傲、脾氣暴躁的寶可夢。擁有充滿活力的綠色皮膚的標本贏得了同類的尊重。",
-        ja: "プライドが 高く 気難しい。 鮮やかな 緑の 皮膚の ものが 仲間の 尊敬を 集める。"
+        ja: "プライドが 高く 気難しい。 鮮やかな 緑の 皮膚の ものが 仲間の 尊敬を 集める。",
+        ko: "자존심이 강하고 성미가 까다롭다.\n선명한 녹색 피부를 띠는 개체일수록\n동료들에게 존경받는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Eisenschaukel",
                 "pt-br": "Balanço de Ferro",
                 "zh-tw": "鐵之掃",
-                ja: "アイアンスイング"
+                ja: "アイアンスイング",
+                ko: "아이언스윙"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 100 damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 100 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 100 de dano para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。",
-                ja: "コインを2回投げ、オモテの数×100ダメージ。"
+                ja: "コインを2回投げ、オモテの数×100ダメージ。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 100데미지를 준다."
             },
             damage: "100x"
         }

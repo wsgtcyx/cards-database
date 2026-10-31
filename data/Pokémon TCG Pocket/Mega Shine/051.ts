@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/051",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/051"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/051",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/051"
     },
     name: {
         en: "Dratini",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Von Anfang an wird es groß geboren. Während es immer länger wird, häutet es sich immer wieder.",
         "pt-br": "Para começar, nasce grande. Ele troca de pele repetidamente à medida que cresce continuamente.",
         "zh-tw": "它一開始就很大。隨著它不斷變長，它會不斷地蛻皮。",
-        ja: "生まれたときから すでに 大きい。 脱皮を 繰り返しては どんどん 育って 長くなる。"
+        ja: "生まれたときから すでに 大きい。 脱皮を 繰り返しては どんどん 育って 長くなる。",
+        ko: "태어났을 때부터 이미 크다.\n탈피를 반복해서\n점점 자라나 길어진다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Schwanzstreich",
                 "pt-br": "Golpe de Cauda",
                 "zh-tw": "擺尾刺擊",
-                ja: "しっぽでつく"
+                ja: "しっぽでつく",
+                ko: "꼬리로찌르기"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
-                ja: "コインを1回投げオモテなら、20ダメージ追加。"
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
+                ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다."
             },
             damage: "10+"
         }

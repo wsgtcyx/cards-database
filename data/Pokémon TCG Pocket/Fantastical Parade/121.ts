@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/121",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/121",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/121"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/121",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/121"
     },
     name: {
         en: "Bagon",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Kindwurm",
         "pt-br": "Bagon",
         "zh-tw": "寶貝龍",
-        ja: "タツベイ"
+        ja: "タツベイ",
+        ko: "아공이"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Sein Glaube, dass es eines Tages fliegen kann, ist\noffenbar der Einfluss der übermittelten Informationen\nin seinen Genen.",
         "pt-br": "Sua crença de que um dia poderá voar é\naparentemente a influência da informação transportada\nem seus genes.",
         "zh-tw": "它堅信自己有一天能夠飛翔，這是\n顯然是所攜帶信息的影響\n在它的基因中。",
-        ja: "いつか 飛べると 信じているのは 遺伝子の 中の 情報が 影響 しているから らしい。"
+        ja: "いつか 飛べると 信じているのは 遺伝子の 中の 情報が 影響 しているから らしい。",
+        ko: "언젠가 날 수 있다고 믿는 것은\n유전자 안의 정보가\n영향을 주고 있기 때문이라고 한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20,
             cost: ["Colorless"]

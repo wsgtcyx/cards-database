@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/082",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/082",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/082"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/082",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/082"
     },
     name: {
         en: "Xatu",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Xatu",
         "zh-tw": "天然鳥",
         ja: "ネイティオ",
+        ko: "네이티오",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Natu",
         "zh-tw": "天然雀",
         ja: "ネイティ",
+        ko: "네이티",
     },
     description: {
         en: "They say that it stays still and quiet because it is\nseeing both the past and future at the same time.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Sie sagen, dass es still und still bleibt, weil es so ist\nVergangenheit und Zukunft gleichzeitig sehen.",
         "pt-br": "Dizem que fica quieto e quieto porque é\nvendo o passado e o futuro ao mesmo tempo.",
         "zh-tw": "他們說它保持靜止和安靜，因為它是\n同時看到過去和未來。",
-        ja: "ほとんど 動かず 鳴きもせず じっとするのは 過去と 未来を 見ているからだと 信じられている。"
+        ja: "ほとんど 動かず 鳴きもせず じっとするのは 過去と 未来を 見ているからだと 信じられている。",
+        ko: "움직이거나 울음소리를 내지 않고\n가만히 있는 것은 과거와 미래를\n보고 있기 때문이라고 여겨진다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Lebensentzug",
                 "pt-br": "Dreno de Vida",
                 "zh-tw": "生命汲取",
-                ja: "ライフダウン"
+                ja: "ライフダウン",
+                ko: "라이프다운"
             },
             cost: ["Psychic", "Psychic"],
             effect: {
@@ -68,7 +73,8 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ betragen die verbleibenden HP des Aktiven Pokémon deines Gegners jetzt 10.",
                 "pt-br": "Jogue uma moeda. Se der cara, o HP restante do Pokémon Ativo do seu oponente será agora 10.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則對手的活躍神奇寶貝的剩餘生命值現在為 10。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンの残りHPを10にする。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンの残りHPを10にする。",
+                ko: "동전을 1번 던져서 앞면이 나오면 상대 배틀 포켓몬의 남은 HP를 10으로 만든다."
             }
         }],
     weaknesses: [{

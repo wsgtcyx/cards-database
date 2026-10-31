@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/085",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/085"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/085",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/085"
     },
     name: {
         en: "Throh",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es verfügt über ein exzellentes Repertoire an\nWurftechniken. Sein Gürtel färbt sich dunkler,\nje mehr Schweiß er bei Kämpfen in sich aufsaugt.",
         "pt-br": "Ele executa movimentos de arremesso com habilidade de primeira linha. Ao longo de muitas batalhas, o cinto de Throh fica mais escuro à medida que absorve o suor do usuário.",
         "zh-tw": "能使出一流的投摔招式。\n帶子被戰鬥時流下的汗水\n浸濕，顏色越變越深。",
-        ja: "投げ技の 腕は 一流。 戦いで かいた 汗が 染み 帯の 色が 濃く 染まっていく。"
+        ja: "投げ技の 腕は 一流。 戦いで かいた 汗が 染み 帯の 色が 濃く 染まっていく。",
+        ko: "메치는 기술의 실력은 일류다.\n싸움으로 흘린 땀이 배어\n띠의 색이 진해져 간다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Überkopfwurf",
                 "pt-br": "Arremesso Circular",
                 "zh-tw": "巴投",
-                ja: "ともえなげ"
+                ja: "ともえなげ",
+                ko: "배대뒤치기"
             },
             effect: {
                 en: "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Tauschen Sie das aktive Pokémon Ihres Gegners auf die Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Troque o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
                 "zh-tw": "將對手的活躍寶可夢移至替補席。 （你的對手選擇新的活躍寶可夢。）",
-                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
+                ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)"
             },
             damage: 70
         }

@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/070",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/070"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/070",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/070"
     },
     name: {
         en: "Lapras",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Er kann die menschliche Sprache verstehen und ist sehr intelligent. Er liebt es, mit Menschen auf seinem Rücken im Meer zu schwimmen.",
         "pt-br": "Capaz de entender a fala humana e muito inteligente, adora nadar no mar com gente nas costas.",
         "zh-tw": "它能聽懂人類的語言，非常聰明，喜歡背著人在海裡游泳。",
-        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。"
+        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。",
+        ko: "인간의 말을 이해하는\n높은 지능을 가졌으며 등에 사람을 태우고\n바다를 헤엄치는 것을 좋아하는 포켓몬."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Wutstarre",
                 "pt-br": "Congelamento Estarrecedor",
                 "zh-tw": "激狂冰凍",
-                ja: "レイジングフリーズ"
+                ja: "レイジングフリーズ",
+                ko: "레이징프리즈"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch den Schaden eines Angriffs kampfunfähig gemacht wurde, ist das aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Se algum dos seus Pokémon foi Nocauteado por dano de um ataque durante o último turno do seu oponente, o Pokémon Ativo do seu oponente ficará Paralisado.",
                 "zh-tw": "如果你的任何寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則對手的活躍寶可夢現在陷入麻痺狀態。",
-                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、相手のバトルポケモンをマヒにする。"
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、相手のバトルポケモンをマヒにする。",
+                ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 상대의 배틀 포켓몬을 마비로 만든다."
             },
             damage: 60
         }

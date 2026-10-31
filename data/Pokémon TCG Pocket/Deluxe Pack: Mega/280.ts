@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/280",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/280",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/280",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/280"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/280",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/280"
     },
     name: {
         en: "Carvanha",
@@ -44,7 +45,7 @@ const card: Card = {
         "pt-br": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
         "zh-tw": "擁有銳利的牙齒和結實的下巴。船員們絕對不會去靠近利牙魚棲息的地方。",
         ja: "鋭い キバと たくましい 顎を もつ。 船乗りたちは キバニアの すみかには けっして 近づかない。",
-        ko: "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs."
+        ko: "날카로운 이빨과 튼튼한 턱을\n갖고 있다. 선원들은 샤프니아\n거처에 결코 가까이 가지 않는다."
     },
     attacks: [
         {
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Presa Afiada",
                 "zh-tw": "銳利之牙",
                 ja: "するどいキバ",
-                ko: "Sharp Fang"
+                ko: "예리한이빨"
             },
             damage: 30
         }

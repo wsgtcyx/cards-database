@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/006",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/006",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/006"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/006",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2b/006"
     },
     name: {
         en: "Floragato",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Felori",
         "pt-br": "Sprigatito",
         "zh-tw": "新葉喵",
-        ja: "ニャオハ"
+        ja: "ニャオハ",
+        ko: "나오하"
     },
     description: {
         en: "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",

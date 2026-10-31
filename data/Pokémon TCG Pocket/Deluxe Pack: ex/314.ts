@@ -10,7 +10,8 @@ const card: Card = {
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/314",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/314",
 		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/314",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/314"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/314",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/314"
 	},
 	name: {
         en: "Rare Candy",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Doce Raro",
         "zh-tw": "神奇糖果",
         ja: "ふしぎなアメ",
+        ko: "이상한사탕",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
         "de": "Wähle 1 deiner Basis-Pokémon im Spiel. Wenn du eine Stufe-2-Karte auf deiner Hand hast, die sich aus diesem Pokémon entwickelt, lege diese Karte auf das Basis-Pokémon, um es weiterzuentwickeln, und überspringe Stufe 1. Du kannst diese Karte nicht während deines ersten Zuges oder für ein Basis-Pokémon verwenden, das in diesem Zug ins Spiel gebracht wurde.",
         "pt-br": "Escolha 1 dos seus Pokémon Básicos em jogo. Se você tiver uma carta de Estágio 2 em sua mão que evolua daquele Pokémon, coloque essa carta no Pokémon Básico para evoluí-lo, pulando a Fase 1. Você não pode usar esta carta durante seu primeiro turno ou em um Pokémon Básico que foi colocado em jogo neste turno.",
         "zh-tw": "選擇場上的 1 個基礎神奇寶貝。如果你手上有一張從該神奇寶貝進化而來的第二階段卡，則將該卡放在基本神奇寶貝上使其進化，跳過第一階段。你不能在你的第一回合或本回合進場的基本神奇寶貝上使用這張卡。",
-        ja: "自分の手札から2進化ポケモンを1枚選び、そのポケモンへと進化する自分の場のたねポケモンにのせ、1進化をとばして進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)"
+        ja: "自分の手札から2進化ポケモンを1枚選び、そのポケモンへと進化する自分の場のたねポケモンにのせ、1進化をとばして進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)",
+        ko: "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다. (자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)"
     },
     trainerType: "Item"
 };

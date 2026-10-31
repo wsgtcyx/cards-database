@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/215",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/215"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/215",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/215"
     },
     name: {
         en: "Grimer",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Dieses Pokémon lebt vorwiegend in schmutzigen\nGebieten und ernährt sich von Industrieabfällen.",
         "pt-br": "Aparece em áreas sujas. Ela prospera sugando o lodo poluído que é bombeado para fora das fábricas.",
         "zh-tw": "出現在骯髒的地方。它透過吸收從工廠抽出的污染污泥而茁壯成長。",
-        ja: "汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。"
+        ja: "汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。",
+        ko: "지저분한 곳에 모습을 드러낸다.\n공장에서 내보내는 오물\n폐수를 마시며 살고 있다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Matschbombe",
                 "pt-br": "Bomba de Lodo",
                 "zh-tw": "污泥炸彈",
-                ja: "ヘドロばくだん"
+                ja: "ヘドロばくだん",
+                ko: "오물폭탄"
             },
             damage: 40
         }

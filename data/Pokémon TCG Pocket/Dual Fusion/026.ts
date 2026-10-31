@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/026"
     },
     name: {
         en: "Charcadet",
@@ -54,7 +55,7 @@ const card: Card = {
                 "pt-br": "Fogo Fátuo",
                 "zh-tw": "鬼火",
                 ja: "おにび",
-                ko: "Will-O-Wisp"
+                ko: "도깨비불"
             },
             cost: [
                 "Fire",
@@ -73,7 +74,7 @@ const card: Card = {
         "pt-br": "Um carvão queimado ganhou vida e tornou-se um Pokémon. Com um espírito de luta flamejante, Charcadet batalhará até mesmo contra oponentes mais fortes.",
         "zh-tw": "生命寄宿在燃燒的木炭上，變成了寶可夢。即使敵人再強，也會以燃燒的鬥志迎面而戰。",
         ja: "焼けた 木炭に 命が 宿り ポケモンになった。 燃える 闘志で 強敵にも 戦いを 挑む。",
-        ko: "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents."
+        ko: "불탄 숯에 영혼이 깃들어서\n포켓몬이 되었다. 타오르는 투지로\n강한 상대에게도 싸움을 건다."
     }
 };
 

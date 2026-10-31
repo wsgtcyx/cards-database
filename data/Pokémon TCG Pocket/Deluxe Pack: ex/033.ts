@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/033",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/033",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/033"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/033",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/033"
     },
     name: {
         en: "Snivy",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Snivy",
         "zh-tw": "藤藤蛇",
         ja: "ツタージャ",
+        ko: "주리비얀",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Seine Bewegungen entstehen durch die Einwirkung von Sonnenlicht\nschneller. Es nutzt Ranken geschickter als seine Hände.",
         "pt-br": "Estar exposto à luz solar faz com que seus movimentos\nmais rápido. Ele usa vinhas com mais habilidade do que suas mãos.",
         "zh-tw": "暴露在陽光下使其運動\n更快。它比雙手更擅長使用藤蔓。",
-        ja: "太陽の 光を 浴びると いつもよりも 素早く 動ける。 手よりも ツルを うまく使う。"
+        ja: "太陽の 光を 浴びると いつもよりも 素早く 動ける。 手よりも ツルを うまく使う。",
+        ko: "태양의 빛을 받으면\n평소보다 빨리 움직일 수 있다.\n손보다 덩굴을 잘 사용한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
                 "zh-tw": "藤鞭",
-                ja: "つるのムチ"
+                ja: "つるのムチ",
+                ko: "덩굴채찍"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

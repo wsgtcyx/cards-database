@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/056",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/056"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/056",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/056"
     },
     name: {
         en: "Electrode",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Je mehr elektrische Energie es speichert, desto\nschneller ist es. Allerdings steigt dabei auch das\nRisiko, dass es explodiert.",
         "pt-br": "Quanto mais energia carrega, mais\nvelocidade ganha. Mas também aumenta\na sua probabilidade de explodir.",
         "zh-tw": "它充電的能量越多，速度就越快。但這也使得它更容易爆炸。",
-        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。"
+        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。",
+        ko: "전기 에너지를 모을수록\n고속으로 이동할 수 있게 되나\n그만큼 폭발하기도 쉬워진다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Elektrokracher",
                 "pt-br": "Explosão Elétrica",
                 "zh-tw": "電氣轟炸",
-                ja: "エレキボンバー"
+                ja: "エレキボンバー",
+                ko: "일렉봄버"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 30 more damage for each heads.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 30 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 30 danos para cada cabeça.",
                 "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 30 點額外傷害。",
-                ja: "コインを2回投げ、オモテの数×30ダメージ追加。"
+                ja: "コインを2回投げ、オモテの数×30ダメージ追加。",
+                ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 추가한다."
             },
             damage: "20+"
         }

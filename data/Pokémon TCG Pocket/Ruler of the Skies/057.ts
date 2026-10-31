@@ -11,7 +11,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/057",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/057",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/057"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/057",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/057"
     },
     name: {
         en: "Eelektrik",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Hat es seine Beute erspäht, lähmt es sie mit Elektrizität und\nverspeist sie anschließend.",
         "pt-br": "Esses Pokémon possuem um enorme apetite. Ao avistarem suas presas, eles atacam e usam eletricidade para paralisá-las.",
         "zh-tw": "食慾旺盛的寶可夢。\n一發現獵物就會發動襲擊，\n用電流使其麻痺後大快朵頤。",
-        ja: "食欲 旺盛な ポケモン。 獲物を 見つけると 襲いかかり 電気で しびれさせてから 食べる。"
+        ja: "食欲 旺盛な ポケモン。 獲物を 見つけると 襲いかかり 電気で しびれさせてから 食べる。",
+        ko: "식욕이 왕성한 포켓몬이다.\n먹이를 발견하면 덮쳐서\n전기로 마비시킨 후 먹는다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "ずつき"
+                ja: "ずつき",
+                ko: "박치기"
             },
             damage: 50
         }

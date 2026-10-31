@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/017"
     },
     name: {
         en: "Venomoth",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Bluzuk",
         "pt-br": "Venonat",
         "zh-tw": "毛球",
-        ja: "コンパン"
+        ja: "コンパン",
+        ko: "콘팡"
     },
     attacks: [{
             cost: ["Grass"],

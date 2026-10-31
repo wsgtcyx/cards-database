@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/032",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/032",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/032"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/032",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4a/032"
     },
     name: {
         en: "Misdreavus",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
         ja: "ムウマ",
+        ko: "무우마",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Dieses Pokémon erschreckt die Leute mittendrin\ndie Nacht. Es sammelt Angst als seine Energie.",
         "pt-br": "Este Pokémon assusta as pessoas no meio de\na noite. Ele reúne o medo como sua energia.",
         "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。",
-        ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。"
+        ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。",
+        ko: "한밤중에 사람을 놀라게 하고\n무서워하는 마음을 모아 자신의\n에너지로 만드는 포켓몬이다."
     },
     stage: "Basic",
     abilities: [{
@@ -48,7 +51,8 @@ const card: Card = {
                 "de": "Infiltrierende Inspektion",
                 "pt-br": "Inspeção de infiltração",
                 "zh-tw": "滲透檢查",
-                ja: "すりぬけチェック"
+                ja: "すりぬけチェック",
+                ko: "틈새포착체크"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand.",
@@ -58,7 +62,8 @@ const card: Card = {
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank legst, kannst du deinen Gegner seine Hand aufdecken lassen.",
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá fazer com que seu oponente revele a mão dele.",
                 "zh-tw": "在你的回合中，當你將這只神奇寶貝從你的手牌放到你的替補席上時，你可能會讓對手亮出他們的手牌。",
-                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。相手の手札のオモテをすべて見る。"
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。相手の手札のオモテをすべて見る。",
+                ko: "자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 상대의 패의 앞면을 모두 본다."
             }
         }],
     attacks: [{
@@ -70,7 +75,8 @@ const card: Card = {
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
                 "zh-tw": "鬼火",
-                ja: "おにび"
+                ja: "おにび",
+                ko: "도깨비불"
             },
             damage: 20,
             cost: ["Psychic"]

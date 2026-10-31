@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/013",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/013",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/013"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/013",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/013"
     },
     name: {
         en: "Pansage",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pansage",
         "zh-tw": "花椰猴",
         ja: "ヤナップ",
+        ko: "야나프",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es ist gut darin, Beeren zu finden und sie zu pflücken\nüberall. Es ist so nett, sie zu teilen\nmit Freunden.",
         "pt-br": "É bom em encontrar frutas e colhê-las\ntudo acabado. É gentil o suficiente compartilhá-los\ncom amigos.",
         "zh-tw": "它擅長尋找漿果並從中收集它們\n一切都結束了。很高興分享它們\n和朋友們。",
-        ja: "木の実を 探すのが 上手で あちこちで 集めて 仲間に 分け与える 優しさを 持つ。"
+        ja: "木の実を 探すのが 上手で あちこちで 集めて 仲間に 分け与える 優しさを 持つ。",
+        ko: "나무열매를 잘 찾아\n여기저기에서 모아 동료에게\n나누어 주는 상냥함을 가졌다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schlagen",
                 "pt-br": "Bater",
                 "zh-tw": "打",
-                ja: "たたく"
+                ja: "たたく",
+                ko: "때리기"
             },
             damage: 10,
             cost: ["Colorless"]
@@ -56,6 +60,9 @@ const card: Card = {
             type: "Fire",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-gyarados"
+	]
 };
 export default card;

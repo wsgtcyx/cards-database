@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/011",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3b/011"
     },
     name: {
         en: "Litten",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
         ja: "ニャビー",
+        ko: "냐오불",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn man sich zu sehr anstrengt, sich ihm zu nähern, wird es nicht funktionieren\nöffne mich dir. Auch wenn Sie sich näher kommen,\nEs ist immer noch ein Tabu, ihm zu viel Zuneigung zu schenken.",
         "pt-br": "Se você tentar muito chegar perto disso, não vai\nse abra para você. Mesmo que você se aproxime,\ndar muito carinho ainda é proibido.",
         "zh-tw": "如果你太努力去接近它，它不會\n向你敞開心扉。就算你們的關係越來越親近，\n給予它太多的感情仍然是一個禁忌。",
-        ja: "しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。"
+        ja: "しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。",
+        ko: "집요하게 따라다니면\n마음을 열지 않는다. 친밀해져도\n과도한 스킨십은 금물이다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Fackel",
                 "pt-br": "Sinalizador",
                 "zh-tw": "耀斑",
-                ja: "ほのお"
+                ja: "ほのお",
+                ko: "불꽃"
             },
             damage: 40,
             cost: ["Fire", "Colorless"]

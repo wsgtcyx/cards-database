@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/163",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/163"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/163",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/163"
     },
     name: {
         en: "Giratina ex",
@@ -49,7 +50,7 @@ const card: Card = {
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
                 ja: "きりさく",
-                ko: "Slash"
+                ko: "베어가르기"
             },
             cost: [
                 "Colorless",
@@ -67,7 +68,7 @@ const card: Card = {
                 "pt-br": "Impacto do Dragão",
                 "zh-tw": "狂龍衝擊",
                 ja: "ドラゴンインパクト",
-                ko: "Dragon Impact"
+                ko: "드래곤임팩트"
             },
             cost: [
                 "Colorless",
@@ -84,7 +85,7 @@ const card: Card = {
                 "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。",
                 ja: "このポケモンからエネルギーをランダムに2個トラッシュ。",
-                ko: "Discard 2 random Energy from this Pokémon."
+                ko: "이 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
             }
         }
     ],

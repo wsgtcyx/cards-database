@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/132",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/132"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/132",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3/132"
     },
     name: {
         en: "Ursaring",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Es ist ziemlich geschickt darin, auf Bäume zu klettern. Wenn es bei der Suche nach Beeren in den Baumwipfeln auf einen Rasaff stößt, wird es sicherlich Ärger geben.",
         "pt-br": "É bastante habilidoso em subir em árvores. Se ele encontrar um Primeape enquanto procura frutas nas copas das árvores, certamente surgirão problemas.",
         "zh-tw": "它爬樹的技術相當熟練。如果它在樹頂尋找漿果時遇到了火爆猴，麻煩肯定會接踵而至。",
-        ja: "木登りが 得意。 木の上で 木の実を 探すうちに オコリザルと 鉢合わせて ひと悶着。"
+        ja: "木登りが 得意。 木の上で 木の実を 探すうちに オコリザルと 鉢合わせて ひと悶着。",
+        ko: "나무 타기가 특기다.\n나무 위에서 나무열매를 찾다가\n성원숭과 마주쳐서 싸움이 나기도 한다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Wutklauen",
                 "pt-br": "Garras Devastadoras",
                 "zh-tw": "憤怒之爪",
-                ja: "いかりのツメ"
+                ja: "いかりのツメ",
+                ko: "분노발톱"
             },
             effect: {
                 en: "This attack does more damage equal to the damage this Pokémon has on it.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Diese Attacke fügt zusätzlichen Schaden in Höhe des Schadens zu, der diesem Pokémon bereits zugefügt wurde.",
                 "pt-br": "Este ataque causa dano a mais, equivalente ao dano que este Pokémon tiver nele.",
                 "zh-tw": "這次攻擊造成的傷害等於該寶可夢對其造成的傷害。",
-                ja: "このポケモンが受けているダメージぶん、ダメージ追加。"
+                ja: "このポケモンが受けているダメージぶん、ダメージ追加。",
+                ko: "이 포켓몬이 받고 있는 데미지만큼 데미지를 추가한다."
             },
             damage: "40+"
         }

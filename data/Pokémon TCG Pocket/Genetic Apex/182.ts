@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/182",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1/182",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/182"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/182",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1/182"
     },
     name: {
         en: "Melmetal",
@@ -36,7 +37,8 @@ const card: Card = {
         "de": "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
-        ja: "メルタン"
+        ja: "メルタン",
+        ko: "멜탄"
     },
     abilities: [{
             type: "Ability",

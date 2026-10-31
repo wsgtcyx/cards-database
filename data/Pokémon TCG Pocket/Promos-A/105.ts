@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/105",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/105",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/105",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/105"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/105",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-A/105"
 	},
 	name: {
 		en: "Zorua",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Zorua",
 		"pt-br": "Zorua",
 		"zh-tw": "索羅亞",
-		ja: "ゾロア"
+		ja: "ゾロア",
+		ko: "조로아"
 	},
 	illustrator: "Naoyo Kimura",
 	rarity: "One Diamond",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Es verwandelt sich in die Formen anderer, um zu überraschen\nsie. Anscheinend verwandelt es sich oft in ein\nstilles Kind.",
 		"pt-br": "Ele muda para a forma de outros para surpreender\neles. Aparentemente, muitas vezes se transforma em um\ncriança silenciosa.",
 		"zh-tw": "變化成別人的形態給大家帶來驚喜\n他們。顯然，它經常轉變為\n沉默的孩子。",
-		ja: "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。"
+		ja: "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。",
+		ko: "상대의 모습으로 둔갑하여\n놀라게 한다. 말수가 적은 아이로\n둔갑해 있을 때가 잦다고 한다."
 	},
 	stage: "Basic",
 	attacks: [
@@ -49,7 +52,8 @@ const card: Card = {
 				de: "RAM",
 				"pt-br": "Bater",
 				"zh-tw": "內存",
-				ja: "ぶつかる"
+				ja: "ぶつかる",
+				ko: "부딪치기"
 			},
 			damage: 20,
 			cost: ["Darkness"]

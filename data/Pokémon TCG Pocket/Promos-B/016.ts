@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/016",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/016"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/016",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/016"
     },
     name: {
         en: "Krookodile",
@@ -50,7 +51,8 @@ const card: Card = {
         de: "Seine Augen sind so außergewöhnlich, dass es\nsogar in einem Sandsturm kleinste Beute aus\n50 km Entfernung entdecken kann.",
         "pt-br": "Sua capacidade de visão única pode detectar pequenas presas a mais de 48 quilômetros de distância, mesmo no meio de uma tempestade de areia.",
         "zh-tw": "擁有特殊的雙眼，\n即使在沙暴中也能發現\n前方５０公里處的小獵物。",
-        ja: "砂嵐でも ５０キロ先に いる 小さな 獲物も 発見する 特殊な 両目を 持つ。"
+        ja: "砂嵐でも ５０キロ先に いる 小さな 獲物も 発見する 特殊な 両目を 持つ。",
+        ko: "모래 폭풍 속에서도 50km 앞에 있는\n작은 먹이를 발견하는\n특수한 두 눈을 가졌다."
     },
     attacks: [
         {
@@ -63,7 +65,8 @@ const card: Card = {
                 de: "Mampfbiss",
                 "pt-br": "Mordida Nhoc Nhoc",
                 "zh-tw": "大口啃咬",
-                ja: "ガブガブバイト"
+                ja: "ガブガブバイト",
+                ko: "우걱우걱 바이트"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
@@ -73,7 +76,8 @@ const card: Card = {
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍寶可夢中的隨機能量。",
-                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
+                ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다."
             },
             damage: 90
         }

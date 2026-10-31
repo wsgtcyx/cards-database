@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/061",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/061"
     },
     name: {
         en: "Staraptor",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Staraptor",
         "pt-br": "Staraptor",
         "zh-tw": "姆克鷹",
-        ja: "ムクホーク"
+        ja: "ムクホーク",
+        ko: "찌르호크"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Staravia",
         "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
-        ja: "ムクバード"
+        ja: "ムクバード",
+        ko: "찌르버드"
     },
     description: {
         en: "It never stops attacking even if it is injured.\nIt fusses over the shape of its comb.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es hört nie auf anzugreifen, selbst wenn es verletzt ist.\nEs macht sich Gedanken über die Form seines Kamms.",
         "pt-br": "Ele nunca para de atacar, mesmo que esteja ferido.\nEle se preocupa com o formato do pente.",
         "zh-tw": "即使受傷也不會停止攻擊。\n它對梳子的形狀很在意。",
-        ja: "自分の 体が 傷つこうとも 攻撃を やめなくなった。 トサカの 形を 気にしている。"
+        ja: "自分の 体が 傷つこうとも 攻撃を やめなくなった。 トサカの 形を 気にしている。",
+        ko: "자신의 몸이 상처를 입더라도\n공격을 그만두지 않게 되었다.\n볏의 모양을 신경 쓴다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Hurrikanflügel",
                 "pt-br": "Asa do furacão",
                 "zh-tw": "颶風之翼",
-                ja: "ハリケーンウイング"
+                ja: "ハリケーンウイング",
+                ko: "허리케인윙"
             },
             damage: "50×",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -69,7 +74,8 @@ const card: Card = {
                 "de": "Wirf 4 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue 4 moedas. Este ataque causa 50 de dano para cada cabeça.",
                 "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 50 點傷害。",
-                ja: "コインを4回投げ、オモテの数×50ダメージ。"
+                ja: "コインを4回投げ、オモテの数×50ダメージ。",
+                ko: "동전을 4번 던져서 앞면이 나온 수 × 50데미지를 준다."
             }
         }],
     weaknesses: [{

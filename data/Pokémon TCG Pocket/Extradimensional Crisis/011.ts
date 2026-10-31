@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/011",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/011",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/011"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/011",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/011"
     },
     name: {
         en: "Carvanha",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Carvanha",
         "zh-tw": "利牙魚",
         ja: "キバニア",
+        ko: "샤프니아",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es greift nicht an, solange es alleine ist – nicht einmal wenn es so ist\nentdeckt Beute. Stattdessen wartet es darauf, dass andere Carvanha es tun\nSchließen Sie sich ihm an und dann greifen die Pokémon als Gruppe an.",
         "pt-br": "Ele não atacará enquanto estiver sozinho – nem mesmo se\navista a presa. Em vez disso, espera que outro Carvanha\njunte-se a ele e então os Pokémon atacam como um grupo.",
         "zh-tw": "當它獨自一人時它不會攻擊——即使它\n斑點獵物。相反，它會等待其他 Carvanha 來\n加入它，然後神奇寶貝就會集體攻擊。",
-        ja: "獲物を 見つけても １匹のときは 襲わない。 仲間が 来るのを 待って 集団で 襲いかかる。"
+        ja: "獲物を 見つけても １匹のときは 襲わない。 仲間が 来るのを 待って 集団で 襲いかかる。",
+        ko: "먹이를 발견해도 혼자일 때는\n공격하지 않는다. 동료가 오는 것을\n기다린 다음 집단으로 공격한다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 20,
             cost: ["Water"]

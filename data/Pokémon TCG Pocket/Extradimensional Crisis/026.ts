@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/026",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/026",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/026"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/026",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/026"
     },
     name: {
         en: "Morelull",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
         ja: "ネマシュ",
+        ko: "자마슈",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Es verstreut Sporen, die flackern und leuchten. Jedermann\nBeim Anblick dieser Lichter fällt man in einen tiefen Schlaf.",
         "pt-br": "Ele espalha esporos que tremeluzem e brilham. Qualquer um\nver essas luzes cai em um sono profundo.",
         "zh-tw": "它會散佈閃爍和發光的孢子。任何人\n看到這些燈光就陷入了沉睡。",
-        ja: "点滅しながら 発光する 胞子を あたりに ばら撒く。 その光を 見た者は 深い眠りに おちる。"
+        ja: "点滅しながら 発光する 胞子を あたりに ばら撒く。 その光を 見た者は 深い眠りに おちる。",
+        ko: "깜빡이면서 빛나는 포자를\n주변에 뿌린다. 그 빛을\n본 자는 깊은 잠에 빠진다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Haken",
                 "pt-br": "Gancho",
                 "zh-tw": "鉤",
-                ja: "ひっかける"
+                ja: "ひっかける",
+                ko: "걸기"
             },
             damage: 20,
             cost: ["Psychic"]

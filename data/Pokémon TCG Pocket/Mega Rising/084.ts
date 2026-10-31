@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1/084"
     },
     name: {
         en: "Ampharos",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Ampharos",
         "zh-tw": "電龍",
         ja: "デンリュウ",
+        ko: "전룡",
     },
     illustrator: "Megumi Mizutani",
     rarity: "Three Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
         ja: "モココ",
+        ko: "보송송",
     },
     description: {
         en: "When it gets dark, the light from its bright,\nshiny tail can be seen from far away on the\nocean's surface.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn es dunkel wird, geht das Licht aus seinem hellen,\nDer glänzende Schwanz ist schon von weitem zu sehen\nMeeresoberfläche.",
         "pt-br": "Quando escurece, a luz brilha,\ncauda brilhante pode ser vista de longe no\nsuperfície do oceano.",
         "zh-tw": "當天黑時，燈光從明亮處發出，\n從遠處就可以看到閃亮的尾巴\n海洋表面。",
-        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。"
+        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。",
+        ko: "어두워지면 눈부시게 빛나는\n꼬리의 빛은 멀리 떨어진\n바다 위에서도 볼 수 있다."
     },
     stage: "Stage2",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kugel zappen",
                 "pt-br": "Bala Zapping",
                 "zh-tw": "電擊子彈",
-                ja: "ビリリバレット"
+                ja: "ビリリバレット",
+                ko: "찌리리불릿"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -69,13 +74,17 @@ const card: Card = {
                 "de": "1 Pokémon auf der Bank deines Gegners wird zufällig ausgewählt. Dieser Angriff fügt ihm außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 20 de dano.",
                 "zh-tw": "隨機選擇 1 只對手後備神奇寶貝。這次攻擊也會對其造成 20 點傷害。",
-                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。"
+                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。",
+                ko: "상대의 벤치 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게도 20데미지를 준다."
             }
         }],
     weaknesses: [{
             type: "Fighting",
             value: "+20"
         }],
-    retreat: 1
+    retreat: 1,
+	boosters: [
+		"mega-altaria"
+	]
 };
 export default card;

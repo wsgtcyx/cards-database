@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/145",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/145",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4/145",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/145"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/145",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4/145"
     },
     name: {
         en: "Order Pad",
@@ -20,7 +21,7 @@ const card: Card = {
         de: "Bestellpad",
         "pt-br": "Tablet de Pedido",
         "zh-tw": "訂購平板",
-        ko: "주문 패드",
+        ko: "끌어당기기 패드",
         ja: "おとりよせパッド"
     },
     illustrator: "Studio Bora Inc.",
@@ -34,7 +35,8 @@ const card: Card = {
         "zh-tw": "擲1次硬幣若為正面,則從自己的牌庫隨機將1張物品卡加入手牌。",
         "it": "Lancia una moneta. Se esce testa, prendi una carta Strumento a caso dal tuo mazzo e aggiungila alle carte che hai in mano.",
         "de": "Wirf 1 Münze. Nimm bei Kopf 1 zufällige Itemkarte aus deinem Deck auf deine Hand.",
-        ja: "コインを1回投げオモテなら、自分の山札からグッズをランダムに1枚、手札に加える。"
+        ja: "コインを1回投げオモテなら、自分の山札からグッズをランダムに1枚、手札に加える。",
+        ko: "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 아이템을 랜덤으로 1장 패로 가져온다."
     },
     trainerType: "Item"
 };

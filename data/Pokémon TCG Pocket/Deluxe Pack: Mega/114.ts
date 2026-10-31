@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/114",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/114"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/114",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B4b/114"
     },
     name: {
         en: "Mega Diancie ex",
@@ -51,7 +52,7 @@ const card: Card = {
                 "pt-br": "Tempestade Brilhante",
                 "zh-tw": "晶燦風暴",
                 ja: "ブリリアントストーム",
-                ko: "Brilliant Storm"
+                ko: "브릴리언트 스톰"
             },
             effect: {
                 en: "This attack does 20 more damage for each {P} Energy attached to all of your Pokémon.",
@@ -62,7 +63,7 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {P} ligada a todos os seus Pokémon.",
                 "zh-tw": "增加自己的所有寶可夢身上的{P}能量的數量×20點傷害。",
                 ja: "自分のポケモン全員の{P}エネルギーの数×20ダメージ追加。",
-                ko: "This attack does 20 more damage for each {P} Energy attached to all of your Pokémon."
+                ko: "자신의 포켓몬 전원의 {P}에너지의 개수 × 20데미지를 추가한다."
             },
             damage: "40+"
         }

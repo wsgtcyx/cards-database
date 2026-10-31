@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/110",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/110",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/110"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/110",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/110"
     },
     name: {
         en: "Galarian Meowth",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Galar-Mauzi",
         "pt-br": "Meowth de Galar",
         "zh-tw": "伽勒爾喵喵",
-        ja: "ガラルニャース"
+        ja: "ガラルニャース",
+        ko: "가라르 나옹"
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Diese mutigen Pokémon haben Münzen bei sich\nStirnen. Dunklere Münzen sind immer härter\nMünzen verschaffen Mauzi mehr Respekt.",
         "pt-br": "Esses Pokémon ousados têm moedas em seus\ntestas. Moedas mais escuras são cada vez mais difíceis\nas moedas conquistam mais respeito entre Meowth.",
         "zh-tw": "這些勇敢的神奇寶貝身上都有硬幣\n額頭。顏色越深的硬幣越難，越難\n硬幣在 Meowth 中贏得了更多尊重。",
-        ja: "額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。"
+        ja: "額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。",
+        ko: "이마의 금화는 검을수록\n단단하고 동료에게 존경받는다.\n용맹하고 두려움을 모른다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
                 "zh-tw": "削減",
-                ja: "きりさく"
+                ja: "きりさく",
+                ko: "베어가르기"
             },
             damage: 20,
             cost: ["Metal"]

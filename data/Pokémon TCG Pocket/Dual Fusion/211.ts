@@ -11,7 +11,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/211",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/211",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/211",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/211"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/211",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/C1/211"
     },
     name: {
         en: "Mega Dragonite ex",
@@ -46,7 +47,7 @@ const card: Card = {
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
         ja: "ハクリュー",
-        ko: "Dragonair"
+        ko: "신뇽"
     },
     suffix: "EX",
     attacks: [
@@ -60,7 +61,7 @@ const card: Card = {
                 "pt-br": "Meteoro Dracônico",
                 "zh-tw": "翔龍流星擊",
                 ja: "ドラゴニックメテオ",
-                ko: "Draconic Meteor"
+                ko: "드래고닉 메테오"
             },
             cost: [
                 "Colorless",
@@ -78,7 +79,7 @@ const card: Card = {
                 "pt-br": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele.",
                 "zh-tw": "對手的寶可夢會隨機被選擇1次,被選擇的寶可夢受到250點傷害。",
                 ja: "相手のポケモンがランダムに1回選ばれ、選ばれたポケモンに、250ダメージ。",
-                ko: "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+                ko: "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 250데미지를 준다."
             }
         }
     ],

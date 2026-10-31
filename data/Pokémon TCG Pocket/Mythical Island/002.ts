@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/002",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/002",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/002"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/002",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/002"
     },
     name: {
         en: "Exeggutor",
@@ -36,6 +37,7 @@ const card: Card = {
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
         ja: "タマタマ",
+        ko: "아라리",
     },
     description: {
         en: "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",

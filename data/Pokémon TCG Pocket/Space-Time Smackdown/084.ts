@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/084",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/084"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/084",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/084"
     },
     name: {
         en: "Gliscor",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Gligar",
         "zh-tw": "天蠍",
         ja: "グライガー",
+        ko: "글라이거",
     },
     description: {
         en: "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",

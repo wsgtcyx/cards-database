@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/229",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/229",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/229",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/229"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/229",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/229"
     },
     name: {
         en: "Golbat",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Golbat",
         "pt-br": "Golbat",
         "zh-tw": "大嘴蝠",
-        ja: "ゴルバット"
+        ja: "ゴルバット",
+        ko: "골뱃"
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
         ja: "ズバット",
+        ko: "주뱃",
     },
     description: {
         en: "It loves to drink other creatures' blood. It's said\nthat if it finds others of its kind going hungry,\nit sometimes shares the blood it's gathered.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Es liebt es, das Blut anderer Lebewesen zu trinken. Es heißt\ndass, wenn es andere seiner Art hungrig vorfindet,\nManchmal teilt es das Blut, das es gesammelt hat.",
         "pt-br": "Ele adora beber o sangue de outras criaturas. Está dito\nque se encontrar outros da sua espécie passando fome,\nàs vezes compartilha o sangue que reuniu.",
         "zh-tw": "牠喜歡喝其他生物的血。據說\n如果它發現其他同類正在挨餓，\n它有時會分享它所收集的血液。",
-        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。"
+        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。",
+        ko: "살아 있는 생물의 혈액을 좋아한다.\n굶주린 동료에게 빨아들인 피를\n나눠주기도 한다고 한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Beißen",
                 "pt-br": "Morder",
                 "zh-tw": "咬",
-                ja: "かみつく"
+                ja: "かみつく",
+                ko: "물기"
             },
             damage: 30,
             cost: ["Darkness"]

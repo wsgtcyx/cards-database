@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/054",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/054",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/054"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/054",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2a/054"
     },
     name: {
         en: "Magneton",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
         ja: "コイル",
+        ko: "코일",
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",

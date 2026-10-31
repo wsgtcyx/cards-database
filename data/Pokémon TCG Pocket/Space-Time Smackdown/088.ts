@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/088",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A2/088",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/088"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/088",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A2/088"
     },
     name: {
         en: "Cranidos",
@@ -37,6 +38,7 @@ const card: Card = {
         "pt-br": "Fóssil Crânio",
         "zh-tw": "頭蓋化石",
         ja: "ずがいの化石",
+        ko: "두개의화석",
     },
     description: {
         en: "A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.",

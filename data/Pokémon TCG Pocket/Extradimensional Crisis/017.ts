@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/017",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/017",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/017"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/017",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A3a/017"
     },
     name: {
         en: "Zebstrika",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Zebstrika",
         "zh-tw": "雷電斑馬",
         ja: "ゼブライカ",
+        ko: "제브라이카",
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
         ja: "シママ",
+        ko: "줄뮤마",
     },
     description: {
         en: "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Wenn dieses schlecht gelaunte Pokémon wild herumläuft, ist es\nschießt Blitze aus seiner Mähne in alle Richtungen.",
         "pt-br": "Quando este Pokémon mal-humorado corre solto, ele\ndispara raios de sua crina em todas as direções.",
         "zh-tw": "當這只脾氣暴躁的神奇寶貝瘋狂時，它\n從鬃毛中向四面八方射出閃電。",
-        ja: "激しい 気性の 持ち主。 荒ぶると たてがみから 雷を 四方八方に 放電する。"
+        ja: "激しい 気性の 持ち主。 荒ぶると たてがみから 雷を 四方八方に 放電する。",
+        ko: "격렬한 기질의 소유자.\n날뛰면 갈기에서 번개를\n사방팔방으로 방전한다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kopfschraube",
                 "pt-br": "Parafuso de cabeça",
                 "zh-tw": "頭部螺栓",
-                ja: "ヘッドボルト"
+                ja: "ヘッドボルト",
+                ko: "헤드볼트"
             },
             damage: 70,
             cost: ["Lightning", "Lightning"]

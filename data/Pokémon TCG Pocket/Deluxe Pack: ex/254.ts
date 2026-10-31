@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/254",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/254",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/254",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/254"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/254",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/254"
     },
     name: {
         en: "Dialga ex",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Dialga ex",
         "zh-tw": "帝牙盧卡ex",
         ja: "ディアルガex",
+        ko: "디아루가 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -38,7 +40,8 @@ const card: Card = {
                 "de": "Metallischer Turbo",
                 "pt-br": "Turbo Metálico",
                 "zh-tw": "金屬渦輪",
-                ja: "メタルターボ"
+                ja: "メタルターボ",
+                ko: "메탈터보"
             },
             damage: 30,
             cost: ["Metal", "Metal"],
@@ -50,7 +53,8 @@ const card: Card = {
                 "de": "Nimm 2 {M}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue 2 {M} Energias da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。",
-                ja: "自分のエネルギーゾーンから{M}エネルギーを2個出し、ベンチポケモン1匹につける。"
+                ja: "自分のエネルギーゾーンから{M}エネルギーを2個出し、ベンチポケモン1匹につける。",
+                ko: "자신의 에너지존에서 {M}에너지를 2개 내보내 벤치 포켓몬 1마리에게 붙인다."
             }
         }, {
             name: {
@@ -61,7 +65,8 @@ const card: Card = {
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
                 "zh-tw": "重擊",
-                ja: "ヘビーインパクト"
+                ja: "ヘビーインパクト",
+                ko: "헤비임팩트"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless", "Colorless"]

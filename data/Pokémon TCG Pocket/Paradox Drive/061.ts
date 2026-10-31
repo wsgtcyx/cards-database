@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/061",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/061"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/061",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B3a/061"
     },
     name: {
         en: "Swablu",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Es kann sich nicht entspannen, wenn es oder seine Umgebung nicht sauber sind. Mit seinen Flügeln wischt es Schmutz weg.",
         "pt-br": "Ele não pode relaxar se ele ou seus arredores não estiverem limpos. Ele limpa a sujeira com suas asas.",
         "zh-tw": "如果它或它的周圍環境不乾淨，它就不能放鬆。它用翅膀擦去污垢。",
-        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。"
+        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
+        ko: "자신도 주변도 깨끗하지 않으면\n진정되지 않는 성격이다.\n더러운 것을 발견하면 날개로 닦는다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Furienschlag",
                 "pt-br": "Ataque de Fúria",
                 "zh-tw": "亂擊",
-                ja: "みだれづき"
+                ja: "みだれづき",
+                ko: "마구찌르기"
             },
             effect: {
                 en: "Flip 3 coins. This attack does 10 damage for each heads.",
@@ -62,7 +65,8 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Dieser Angriff verursacht 10 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 de dano para cada cabeça.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。",
-                ja: "コインを3回投げ、オモテの数×10ダメージ。"
+                ja: "コインを3回投げ、オモテの数×10ダメージ。",
+                ko: "동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다."
             },
             damage: "10x"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/009",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/009"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/009",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B1a/009"
     },
     name: {
         en: "Burmy",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Burmy",
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
-        ja: "ミノムッチ"
+        ja: "ミノムッチ",
+        ko: "도롱충이"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Wenn sein Umhang im Kampf zerbrochen wird, wird er schnell wieder hergestellt\nder Umhang mit Materialien in der Nähe.",
         "pt-br": "Se seu manto for quebrado em batalha, ele rapidamente refaz\na capa com materiais próximos.",
         "zh-tw": "如果它的斗篷在戰鬥中破損，它會迅速重製\n斗篷附近有材料。",
-        ja: "戦いで ミノが 壊れてしまうと 近くにある 材料で ミノを すぐに 作り直す。"
+        ja: "戦いで ミノが 壊れてしまうと 近くにある 材料で ミノを すぐに 作り直す。",
+        ko: "싸움으로 도롱이가 부서져 버리면\n가까이 있는 재료로\n도롱이를 바로 만들어 고친다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Herabhängen",
                 "pt-br": "Pendure",
                 "zh-tw": "垂下",
-                ja: "ぶらさがる"
+                ja: "ぶらさがる",
+                ko: "매달리기"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

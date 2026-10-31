@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/068",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2/068",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/068"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/068",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2/068"
     },
     name: {
         en: "Lampent",
@@ -20,7 +21,8 @@ const card: Card = {
         "de": "Laternecto",
         "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
-        ja: "ランプラー"
+        ja: "ランプラー",
+        ko: "램프라"
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Lichtel",
         "pt-br": "Litwick",
         "zh-tw": "燭光靈",
-        ja: "ヒトモシ"
+        ja: "ヒトモシ",
+        ko: "불켜미"
     },
     description: {
         en: "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Die Geister, die es aufnimmt, schüren sein unheilvolles Feuer. Es hängt\nrund um Krankenhäuser, die darauf warten, dass Menschen weitergeben.",
         "pt-br": "Os espíritos que absorve alimentam seu fogo sinistro. Ele trava\nem torno de hospitais esperando que as pessoas falecessem.",
         "zh-tw": "它吸收的靈魂助長了它的惡火。它掛了\n醫院周圍等待著人們過去。",
-        ja: "魂を 吸いとり 火を灯す。 人が 死ぬのを 待つため 病院を うろつくようになった。"
+        ja: "魂を 吸いとり 火を灯す。 人が 死ぬのを 待つため 病院を うろつくようになった。",
+        ko: "영혼을 빨아들여 불을 밝힌다.\n사람이 죽는 것을 기다리기 위해\n병원을 서성거리게 되었다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Kleiner Groll",
                 "pt-br": "Rancor mesquinho",
                 "zh-tw": "小怨恨",
-                ja: "ちょっとうらむ"
+                ja: "ちょっとうらむ",
+                ko: "조금원망하기"
             },
             damage: 30,
             cost: ["Psychic"]

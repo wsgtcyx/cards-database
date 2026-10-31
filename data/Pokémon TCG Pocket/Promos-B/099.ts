@@ -34,7 +34,8 @@ const card: Card = {
                 de: "Fallende Klinge",
                 "pt-br": "Gume Descendente",
                 "zh-tw": "劈斬刀鋒",
-                ja: "フォーリングエッジ"
+                ja: "フォーリングエッジ",
+                ko: "폴링에지"
             },
             effect: {
                 en: "Discard 2 random Energy from this Pokémon.",
@@ -44,7 +45,8 @@ const card: Card = {
                 de: "Lege 2 zufällige Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。",
-                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。"
+                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。",
+                ko: "이 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다."
             },
             damage: 190,
             cost: [
@@ -76,7 +78,8 @@ const card: Card = {
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/099"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/099",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/099"
     },
     boosters: [
         "vol13"

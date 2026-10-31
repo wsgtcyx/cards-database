@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/063",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/063"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/063",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A1a/063"
     },
     name: {
         en: "Old Amber",
@@ -33,7 +34,7 @@ const card: Card = {
         de: "Spiele diese Karte, als ob sie ein Basis-{C}-Pokémon mit 40 KP wäre. Du kannst diese Karte jederzeit während deines Zuges aus dem Spiel nehmen und auf deinen Ablagestapel legen.\nDiese Karte kann sich nicht zurückziehen.",
         'pt-br': "Jogue esta carta como se fosse um Pokémon {C} Básico com PS 40.\nA qualquer momento, durante o seu turno, você poderá descartar esta carta do jogo.\nEsta carta não pode recuar.",
         ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。",
-        ko: "이 카드는 HP40의 {C}타입의 기본 포켓몬으로서 필드에 내보낼 수 있다.\n자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬해도 좋다.\n이 카드는 후퇴할 수 없다.",
+        ko: "이 카드는 HP40의 {C}타입의 기본 포켓몬으로서 필드에 내보낼 수 있다. 자신의 차례라면 필드에 나와 있는 이 카드를 트래쉬해도 좋다. 이 카드는 후퇴할 수 없다.",
         "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。"
     },
     trainerType: "Item",

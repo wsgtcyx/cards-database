@@ -11,7 +11,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/135",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/135",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/135",
-		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/135"
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/135",
+		ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4b/135"
 	},
 	name: {
 		en: "Magneton",
@@ -21,7 +22,8 @@ const card: Card = {
 		de: "Magneton",
 		"pt-br": "Magneton",
 		"zh-tw": "三合一磁怪",
-		ja: "レアコイル"
+		ja: "レアコイル",
+		ko: "레어코일"
 	},
 	illustrator: "kirisAki",
 	category: "Pokemon",
@@ -36,7 +38,8 @@ const card: Card = {
 		de: "Magnetilo",
 		"pt-br": "Magnemite",
 		"zh-tw": "小磁怪",
-		ja: "コイル"
+		ja: "コイル",
+		ko: "코일"
 	},
 	abilities: [
 		{

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/007",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/007",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/007"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/007",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/007"
     },
     name: {
         en: "Pinsir",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Pinsir",
         "zh-tw": "凱羅斯",
         ja: "カイロス",
+        ko: "쁘사이저",
     },
     illustrator: "Toshinao Aoki",
     rarity: "One Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
         "de": "Diese Pokémon beurteilen sich gegenseitig anhand\nZangen. Dickere, eindrucksvollere Zangen ergeben\nfür mehr Beliebtheit beim anderen Geschlecht.",
         "pt-br": "Esses Pokémon julgam uns aos outros com base em\npinças. Pinças mais grossas e impressionantes fazem\npara mais popularidade com o sexo oposto.",
         "zh-tw": "這些神奇寶貝根據以下標準相互評判\n鉗子。更厚、更令人印象深刻的鉗子\n為了更受異性歡迎。",
-        ja: "ツノで 互いを 格付けする。 太く 立派な ツノを 持つ カイロスほど 異性に 人気。"
+        ja: "ツノで 互いを 格付けする。 太く 立派な ツノを 持つ カイロスほど 異性に 人気。",
+        ko: "뿔로 서로의 등급을 매긴다.\n굵고 훌륭한 뿔을 가진\n쁘사이저일수록 이성에게 인기다."
     },
     stage: "Basic",
     attacks: [{
@@ -47,7 +50,8 @@ const card: Card = {
                 "de": "Guillotine",
                 "pt-br": "Guilhotina",
                 "zh-tw": "斷頭台",
-                ja: "ハサミギロチン"
+                ja: "ハサミギロチン",
+                ko: "가위자르기"
             },
             damage: 70,
             cost: ["Grass", "Grass", "Colorless"]

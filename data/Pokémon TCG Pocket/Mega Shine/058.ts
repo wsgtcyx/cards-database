@@ -11,7 +11,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/058",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/058"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/058",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/B2b/058"
     },
     name: {
         en: "Jigglypuff",
@@ -39,7 +40,8 @@ const card: Card = {
         de: "Wenn es Gesang einsetzt, steigt seine Ausdauer\nund seine Zuhörer werden in Tiefschlaf versetzt.",
         "pt-br": "Se inflar para cantar uma canção de ninar, pode durar mais tempo e causar certa sonolência no público.",
         "zh-tw": "如果它充氣來唱搖籃曲，它可以表演更長時間並導致觀眾昏昏欲睡。",
-        ja: "大きく 体を ふくらませてから 歌う 子守歌は いつもより 長くて ぜったいに 眠くなる。"
+        ja: "大きく 体を ふくらませてから 歌う 子守歌は いつもより 長くて ぜったいに 眠くなる。",
+        ko: "크게 몸을 부풀리고 노래할 때의\n자장가는 평소보다 길어서\n반드시 잠이 온다."
     },
     attacks: [
         {
@@ -52,7 +54,8 @@ const card: Card = {
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
                 "zh-tw": "踩",
-                ja: "ふむ"
+                ja: "ふむ",
+                ko: "밟기"
             },
             damage: 30
         }

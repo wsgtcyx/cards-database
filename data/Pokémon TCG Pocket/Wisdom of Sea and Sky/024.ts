@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/024",
         en: "https://game.pokemontcgpocket.app/en/tcgp/A4/024",
-        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/024"
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/024",
+        ko: "https://game.pokemontcgpocket.app/ko/tcgp/A4/024"
     },
     name: {
         en: "Cherrim",
@@ -21,6 +22,7 @@ const card: Card = {
         "pt-br": "Cherrim",
         "zh-tw": "櫻花兒",
         ja: "チェリム",
+        ko: "체리꼬",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -36,6 +38,7 @@ const card: Card = {
         "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
         ja: "チェリンボ",
+        ko: "체리버",
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",
@@ -45,7 +48,8 @@ const card: Card = {
         "de": "Nachdem Cherrim viel Sonnenlicht absorbiert hat, nimmt er es auf\ndieses Formular. Es ist voller Energie, während es so ist,\nund seine Lebendigkeit wird bis zum Sonnenuntergang anhalten.",
         "pt-br": "Depois de absorver bastante luz solar, Cherrim leva\neste formulário. Está cheio de energia enquanto está assim,\ne sua vivacidade continuará até o pôr do sol.",
         "zh-tw": "吸收充足的陽光後，Cherrim 採取\n這種形式。這樣一來就充滿了能量，\n它的熱鬧將會持續到日落。",
-        ja: "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。"
+        ja: "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。",
+        ko: "태양의 빛을 받아\n기운이 넘치는 모습.\n해가 지기 전까지는 활발하다."
     },
     stage: "Stage1",
     attacks: [{
@@ -57,7 +61,8 @@ const card: Card = {
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
                 "zh-tw": "種子炸彈",
-                ja: "タネばくだん"
+                ja: "タネばくだん",
+                ko: "씨폭탄"
             },
             damage: 40,
             cost: ["Colorless"]
