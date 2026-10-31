@@ -21,7 +21,8 @@ const set: Set = {
         "it": "https://game.pokemontcgpocket.app/it/tcgp/B4a/boosters/team-rockets-ambition/logo",
         "de": "https://game.pokemontcgpocket.app/de/tcgp/B4a/boosters/team-rockets-ambition/logo",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/boosters/team-rockets-ambition/logo",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/logo"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo"
     },
     serie: serie,
     cardCount: {

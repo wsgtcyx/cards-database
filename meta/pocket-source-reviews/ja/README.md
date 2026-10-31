@@ -15,7 +15,9 @@
 
 部分 Mega ex 卡面不印描述，仅印「メガシンカexルール」。这些卡已有的英文 description 属于游戏图鉴补充元数据；日语选择对应的原生游戏图鉴段落，并在人工审定记录中明确说明。不得将这类字段描述为卡面逐字转录。
 
-## 两阶段可重放变更
+## 三阶段可重放变更
+
+完整变更为 20,633 个 JA 字段：第一阶段 17,245 个、第二阶段 3,380 个、第三阶段 8 个。第三阶段的来源与独立基线见下文。
 
 `initial.decisions.json` 包含 17,245 个字段，`initial.write.json` 为写入回执。`descriptions.decisions.json` 包含 3,380 个字段（3,376 个描述和 4 个 booster 资产地址），通过前驱 SHA-256 固定 initial 决策。回执为 `descriptions.write.json`。每条决策都绑定实体、字段、JA、原英文和原日语 CAS 值、来源文件 SHA-256 与 locator。
 
@@ -26,11 +28,23 @@
 ```sh
 node scripts/apply-reviewed-pocket-localizations.mjs --decisions meta/pocket-source-reviews/ja/initial.decisions.json --write --base-ref 6f9822023054840981e5595f736616a48ee4a38c
 node scripts/apply-reviewed-pocket-localizations.mjs --decisions meta/pocket-source-reviews/ja/descriptions.decisions.json --write --base-ref 6f9822023054840981e5595f736616a48ee4a38c
+node scripts/apply-reviewed-pocket-localizations.mjs --decisions meta/pocket-source-reviews/ja/set-logos.decisions.json --write --base-ref 6ac7d56b41de6c67ca4b36582bdfb1fa8682ba63
 node scripts/audit-pocket-localization-metadata.mjs --locales ja --output meta/pocket-source-reviews/ja/metadata-audit.json
 ```
 
 ## 本地资产包与发布边界
 
-`sources/prepared-assets-manifest.json` 包含 9,126 个本地 WebP 对象：4,561 张卡的 high/low 共 9,122 个，以及 B4/B4a 的日语 logo 和已验证无文字的 pack artwork 共 4 个。high 保留原生尺寸，low 使用已有 prepare-r2-assets 流程压到宽 245，不放大。四个 booster 的来源 URL、原图 SHA-256、输出 SHA-256、尺寸与视觉审查见 `booster-evidence.json`。
+前两阶段的固定证据 `sources/prepared-assets-manifest.json` 包含 9,126 个本地 WebP 对象：4,561 张卡的 high/low 共 9,122 个，以及 B4/B4a 的日语 logo 和已验证无文字的 pack artwork 共 4 个。第三阶段追加 4 个 logo；完整包共 9,130 个对象、364,900,922 bytes。high 保留原生尺寸，low 使用已有 prepare-r2-assets 流程压到宽 245，不放大。前四个 booster 资源的来源 URL、原图 SHA-256、输出 SHA-256、尺寸与视觉审查见 `booster-evidence.json`。
 
 manifest 的 `publicationStatus` 为 `prepared-locally-not-uploaded`。源文件已写入最终 JA 对象地址，以供本地真实联调；本记录不证明 R2 已存在这些对象，也不证明生产环境已上线。R2 上传与部署必须由后续获授权发布步骤单独完成。
+
+
+## CI 回归修复：Set.logo
+
+CI 在后续完整数据上发现，`getSetPictures` 优先取顶层 `Set.logo`，不会使用已新增的 `booster.logo.ja`，因此缺失日语顶层值会回退英文。本次阶段三以提交 `6ac7d56b41de6c67ca4b36582bdfb1fa8682ba63` 为新基线，通过 `set-logos.decisions.json` / `set-logos.write.json` 写入 8 个 JA 字段：4 个现有 Set.logo 和 4 个原先指向英文图的 booster.logo。B4 本身没有顶层 logo 对象，保持现有结构；B4a 复用已审日语 logo 的去扩展名图片基址。
+
+B4b、C1、SP1 新下载并实际查看原生日本扩展包 logo，保留原图于 `sources/set-logos/`。图片上的文字分别为「ハイクラスパック MEGA」「デュアルフュージョン」「はじまりのパートナー」。无放大或以 pack 卡包图冒充 logo。新增 4 个 WebP，对应增量 manifest `sources/set-logos-assets-manifest.json`；本地完整包现在为 9,130 个对象、其中 booster 资产 8 个。先前 manifest 是前两阶段的不可变证据，后续上传应合并本增量或使用本地完整包 manifest。
+
+审计现在检查已存在的顶层 Set.logo，并拒绝其 JA 值直接复用英文地址；不存在 logo 的集合不因此报缺失。现有通用 PROMO-B 标识图不属于需要译写的扩展包日语文字。更新后 JA 审计覆盖 22,750 个对象，缺失、无效值和结构错误均为 0。默认六语审计会同时揭露 C1/SP1 顶层 logo 的 12 个既有缺失；本次不改写原有语言。
+
+`set-logos-regression.json` 记录 Bun 1.4.4 的 12 pass / 1 fail 复现，以及修复后 Bun 1.3.0、1.4.4 均 13 pass / 0 fail。SDK logo 测试扩展到四个现有顶层 logo 的集合，共 309 个断言。四个数据文件删除 JA 叶字段后均与阶段三基线 AST 等价，原有语言保持不变。

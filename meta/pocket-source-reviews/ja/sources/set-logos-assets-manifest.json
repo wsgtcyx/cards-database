@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "publicationStatus": "prepared-locally-not-uploaded",
+  "supersedesBoosterObjects": 4,
+  "addedObjects": 4,
+  "totalObjects": 9130,
+  "records": [
+    {
+      "key": "ja/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
+      "setId": "B4b",
+      "boosterId": "deluxe-pack-mega",
+      "field": "logo",
+      "locale": "ja",
+      "language": "ja",
+      "width": 256,
+      "height": 113,
+      "bytes": 11012,
+      "sha256": "9d88309744ed9059345144a108e7f53183da2d4433eb2176e5128dac3cfa27c7",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4b_ja_JP.png",
+        "file": "meta/pocket-source-reviews/ja/sources/set-logos/B4b.png",
+        "sha256": "0f4b1aefcdc966a2657c18077fae7adfad5218534f76f2d4cf3996f049654a5b",
+        "bytes": 34009,
+        "width": 256,
+        "height": 113
+      },
+      "visualReview": "Viewed original PNG; Japanese text reads ハイクラスパック MEGA. This is native Japanese game expansion artwork, not the legacy English-labelled logo. No enlargement."
+    },
+    {
+      "key": "ja/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "setId": "C1",
+      "boosterId": "mega-mewtwo-x",
+      "field": "logo",
+      "locale": "ja",
+      "language": "ja",
+      "width": 256,
+      "height": 113,
+      "bytes": 8770,
+      "sha256": "5be7cf8c5a0b31fa8b39d7a95c586e759b554ef5eafca22bc3a43fb8e1ad54a3",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_C1_ja_JP.png",
+        "file": "meta/pocket-source-reviews/ja/sources/set-logos/C1.png",
+        "sha256": "a8ce0c70f69c7becee44a556f524e56bfc93e367322731a09c5cf92fd8ff1c55",
+        "bytes": 35321,
+        "width": 256,
+        "height": 113
+      },
+      "visualReview": "Viewed original PNG; Japanese text reads デュアルフュージョン. This is native Japanese game expansion artwork, not the legacy English-labelled logo. No enlargement."
+    },
+    {
+      "key": "ja/tcgp/C1/boosters/pikachu/logo.webp",
+      "setId": "C1",
+      "boosterId": "pikachu",
+      "field": "logo",
+      "locale": "ja",
+      "language": "ja",
+      "width": 256,
+      "height": 113,
+      "bytes": 8770,
+      "sha256": "5be7cf8c5a0b31fa8b39d7a95c586e759b554ef5eafca22bc3a43fb8e1ad54a3",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_C1_ja_JP.png",
+        "file": "meta/pocket-source-reviews/ja/sources/set-logos/C1.png",
+        "sha256": "a8ce0c70f69c7becee44a556f524e56bfc93e367322731a09c5cf92fd8ff1c55",
+        "bytes": 35321,
+        "width": 256,
+        "height": 113
+      },
+      "visualReview": "Viewed original PNG; Japanese text reads デュアルフュージョン. This is native Japanese game expansion artwork, not the legacy English-labelled logo. No enlargement."
+    },
+    {
+      "key": "ja/tcgp/SP1/boosters/first-partners/logo.webp",
+      "setId": "SP1",
+      "boosterId": "first-partners",
+      "field": "logo",
+      "locale": "ja",
+      "language": "ja",
+      "width": 256,
+      "height": 113,
+      "bytes": 7914,
+      "sha256": "06b53f2edb4a159ec354a2198e2e1fe23448ee44e61900e831d324df5c744113",
+      "source": {
+        "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_SP1_ja_JP.png",
+        "file": "meta/pocket-source-reviews/ja/sources/set-logos/SP1.png",
+        "sha256": "5a6729f4e5b1b753632f3cdc29f36c76466a9e2467a8a9f8d08ab1526ee373f6",
+        "bytes": 30573,
+        "width": 256,
+        "height": 113
+      },
+      "visualReview": "Viewed original PNG; Japanese text reads はじまりのパートナー. This is native Japanese game expansion artwork, not the legacy English-labelled logo. No enlargement."
+    }
+  ]
+}

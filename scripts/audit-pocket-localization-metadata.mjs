@@ -73,7 +73,8 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 		if (!property) kind = 'missing'
 		else if (current === undefined) kind = 'non-string'
 		else if (current.trim().length === 0) kind = 'empty'
-		else if (locale === 'ja' && context.scope === 'card' && fieldPath === 'image' && current === english) kind = 'image-fallback'
+		else if (locale === 'ja' && (context.scope === 'card' && fieldPath === 'image' || context.scope === 'set' && fieldPath === 'logo')
+			&& current === english) kind = 'image-fallback'
 		else if (locale === 'ja' && context.scope === 'card' && fieldPath !== 'image'
 			&& /[A-Za-z]/u.test(english) && current === english) kind = 'english-fallback'
 		else if (locale === 'ja' && fieldPath !== 'image'
@@ -134,6 +135,7 @@ function auditSeries(state, series, context) {
 
 function auditSet(state, set, context) {
 	requiredLocalizedProperty(state, set, 'name', context)
+	optionalLocalizedProperty(state, set, 'logo', context)
 	const releaseDate = propertyInitializer(findProperty(set, 'releaseDate'))
 	if (releaseDate && ts.isObjectLiteralExpression(releaseDate)) auditLocalizedObject(state, releaseDate, context, 'releaseDate')
 	const boostersProperty = findProperty(set, 'boosters')

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "operation": "apply-reviewed-pocket-localizations",
+  "mode": "write",
+  "baseRef": "6ac7d56b41de6c67ca4b36582bdfb1fa8682ba63",
+  "decisionArtifactFile": "meta/pocket-source-reviews/ja/set-logos.decisions.json",
+  "decisionArtifactSha256": "ffe3c215ad6bfb2624ede725fc12091bea6d276cbd7696b0193eb0aa4b888b83",
+  "predecessors": [],
+  "sources": [
+    {
+      "id": "booster-evidence-json",
+      "file": "meta/pocket-source-reviews/ja/sources/booster-evidence.json",
+      "sha256": "aa1f61bf2f9353cd66f91a193dcd8baf3b96bbd1a0f36d2154c973893e60dc55"
+    },
+    {
+      "id": "original-B4b",
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/B4b.png",
+      "sha256": "0f4b1aefcdc966a2657c18077fae7adfad5218534f76f2d4cf3996f049654a5b"
+    },
+    {
+      "id": "original-C1",
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/C1.png",
+      "sha256": "a8ce0c70f69c7becee44a556f524e56bfc93e367322731a09c5cf92fd8ff1c55"
+    },
+    {
+      "id": "original-SP1",
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/SP1.png",
+      "sha256": "5a6729f4e5b1b753632f3cdc29f36c76466a9e2467a8a9f8d08ab1526ee373f6"
+    },
+    {
+      "id": "set-logos-assets-manifest-json",
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos-assets-manifest.json",
+      "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec"
+    }
+  ],
+  "summary": {
+    "decisions": 8,
+    "files": 4,
+    "changedDecisions": 8,
+    "alreadyAppliedDecisions": 0,
+    "changedFiles": 4,
+    "fills": 4,
+    "corrections": 4,
+    "tokenExceptions": 0
+  },
+  "results": [
+    {
+      "entityKind": "set",
+      "entityId": "B4b",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega.ts",
+      "path": "boosters[\"deluxe-pack-mega\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "B4b",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "boosters[\"mega-mewtwo-x\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "boosters[\"pikachu\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "SP1",
+      "file": "data/Pokémon TCG Pocket/Special Pack: First Partners.ts",
+      "path": "boosters[\"first-partners\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "SP1",
+      "file": "data/Pokémon TCG Pocket/Special Pack: First Partners.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "B4a",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "status": "changed"
+    }
+  ]
+}

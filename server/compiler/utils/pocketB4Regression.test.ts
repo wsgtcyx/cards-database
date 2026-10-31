@@ -24,6 +24,8 @@ import promo100 from '../../../data/Pokémon TCG Pocket/Promos-B/100'
 import promosB from '../../../data/Pokémon TCG Pocket/Promos-B'
 import teamRocketsAmbition from '../../../data/Pokémon TCG Pocket/Team Rocket\'s Ambition'
 import deluxePackMega from '../../../data/Pokémon TCG Pocket/Deluxe Pack: Mega'
+import dualFusion from '../../../data/Pokémon TCG Pocket/Dual Fusion'
+import firstPartners from '../../../data/Pokémon TCG Pocket/Special Pack: First Partners'
 import TCGdex from '@tcgdex/sdk'
 import translate from './translationUtil'
 import { getDataFolder } from './util'
@@ -55,7 +57,7 @@ describe('B4 catalog metadata regressions', () => {
 	test('keeps set and series logos as image bases compatible with the SDK', async () => {
 		const originalFetch = TCGdex.fetch
 		try {
-			for (const set of [teamRocketsAmbition, deluxePackMega]) {
+			for (const set of [teamRocketsAmbition, deluxePackMega, dualFusion, firstPartners]) {
 				for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'] as const) {
 					const [logo] = await getSetPictures(set, lang)
 					const booster = Object.values(set.boosters!)[0]

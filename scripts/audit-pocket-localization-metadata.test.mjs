@@ -173,3 +173,21 @@ test('Japanese audit rejects English rules and unresolved game tags', () => {
   assert.ok(!report.issues.some(issue => issue.scope === 'card' && issue.path === 'name'))
  } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
 })
+
+test('metadata audit checks an optional set logo without requiring an absent logo', () => {
+ const fixture = createFixture({ complete: true })
+ const file = path.join(fixture.root, 'data/Pocket/Fixture Set.ts')
+ const original = fs.readFileSync(file, 'utf8')
+ try {
+  assert.equal(run(fixture).status, 0)
+  fs.writeFileSync(file, original.replace('    boosters:', '    logo: { en: "https://example.invalid/en/logo" },\n    boosters:'))
+  let report = JSON.parse(run(fixture, ['--locales', 'ja']).stdout)
+  assert.ok(report.issues.some(issue => issue.scope === 'set' && issue.path === 'logo' && issue.kind === 'missing'))
+  fs.writeFileSync(file, original.replace('    boosters:', '    logo: { en: "https://example.invalid/en/logo", ja: "https://example.invalid/en/logo" },\n    boosters:'))
+  report = JSON.parse(run(fixture, ['--locales', 'ja']).stdout)
+  assert.ok(report.issues.some(issue => issue.scope === 'set' && issue.path === 'logo' && issue.kind === 'image-fallback'))
+  fs.writeFileSync(file, original.replace('    boosters:', '    logo: "https://example.invalid/logo",\n    boosters:'))
+  report = JSON.parse(run(fixture).stdout)
+  assert.ok(report.errors.some(error => error.scope === 'set' && error.path === 'logo'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
