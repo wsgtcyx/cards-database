@@ -118,3 +118,9 @@ set 改变的值都必须显式配置，不能写进脚本：
 
 路径相对 config 文件解析；生产持久化的 evidence 只保存 URL/hash/bytes/object key，不保存
 这些临时本地路径。对象期望数由 cards、locales、boosters 和 OCR locales 动态计算。
+
+## 韩语
+
+新卡集必须读取 [韩语契约](../../add-pocket-translations/references/korean.md)。`nameLocales/ruleLocales` 同时包含 `ko`，审计按 canonical 字段和攻击/特性数组形状检查完整性，不能只遍历候选已有键。人工覆盖与字典渲染使用相同的数值、对象、助词检查；次来源与人工覆盖一致仍不能替代实际卡面。
+
+韩语专名按原文保留空格、形态、所有者及 `ex`。同名实体卡牌或机器翻译不能作为 Pocket 规则。没有官方等级名的机器分类使用明确标记的说明性标签，不能声称官方名称。

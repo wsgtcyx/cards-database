@@ -1,13 +1,13 @@
 ---
 name: add-pocket-translations
-description: Add multilingual (fr/es/it/de/pt-br/zh-tw/ja) localizations for new Pokemon TCG Pocket sets and card data under `data/Pokémon TCG Pocket/**`, using PokeOS or RaenonX localized candidates with provenance and cross-validation. Use when scanning for missing language keys, collecting official translations, updating `scripts/tmp/pocket-translations.json`, running the localization codemod, verifying coverage, or fixing zh-tw name/evolveFrom consistency.
+description: Add multilingual (fr/es/it/de/pt-br/zh-tw/ja/ko) localizations for new Pokemon TCG Pocket sets and card data under `data/Pokémon TCG Pocket/**`, using PokeOS or RaenonX localized candidates with provenance and cross-validation. Use when scanning for missing language keys, collecting official translations, updating `scripts/tmp/pocket-translations.json`, running the localization codemod, verifying coverage, or fixing zh-tw name/evolveFrom consistency.
 ---
 
 # Add Pocket Translations
 
 ## Overview
 
-为新集合卡片与 set 元信息补齐 fr/es/it/de/pt-br/zh-tw/ja，多语言仅增补缺失键并保持 en 不变。
+为新集合卡片与 set 元信息补齐 fr/es/it/de/pt-br/zh-tw/ja/ko，多语言仅增补缺失键并保持 en 不变。
 
 ## Workflow (Batch-based)
 
@@ -16,12 +16,14 @@ description: Add multilingual (fr/es/it/de/pt-br/zh-tw/ja) localizations for new
    fallback、CJK 名称拉丁占位、截断/括号不平衡，以及同 canonical 名称的不同 printing
    翻译不一致。
 3) 收集官方译名并更新全局映射 `scripts/tmp/pocket-translations.json`；不确定的条目标注 TODO，不要强行机翻落地。
-   RaenonX 可作为 `fr/es/pt/zh` 的本地化候选源；它不覆盖本项目所需的 `de/it`，且不能替代第二个独立来源。记录抓取 URL/时间/response hash，并对卡名、招式/特性名及规则文本做逐字段交叉验证。
-4) 先 dry-run 注入缺失语言，再执行写入；保持语言顺序：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw/ja`。
+   RaenonX 可作为 `fr/es/pt/zh/ja/ko` 的本地化候选源；它不覆盖本项目所需的 `de/it`，且不能替代第二个独立来源。记录抓取 URL/时间/response hash，并对卡名、招式/特性名及规则文本做逐字段交叉验证。
+4) 先 dry-run 注入缺失语言，再执行写入；保持语言顺序：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw/ja/ko`。
 5) 复扫确认缺口为 0，并运行语义审计。英文 fallback、TODO/markup、token multiset
    不一致、分隔符错误或同名卡翻译不一致都必须为 0；有逐卡卡面证据的真实 token 排版
    差异只能写入带理由的 reviewed exception。
 6) 抽查卡片与 set 元信息文件（`data/Pokémon TCG Pocket/<batch>.ts`），然后运行 lint/tsc 检查。
+
+涉及韩语时，完整读取 [韩语契约](references/korean.md)，按卡片身份和字段绑定官方游戏文本，不能把机器翻译当作官方译文。
 
 涉及日语时，完整读取 [日语契约](references/japanese.md)，使用日语来源、审定写入和真实两仓联调门禁。
 

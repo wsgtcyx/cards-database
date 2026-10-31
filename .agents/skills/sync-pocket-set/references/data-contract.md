@@ -18,7 +18,7 @@ Set 文件定义 `id`、多语言 `name`、`cardCount.official`、`boosters` 和
 image?: Languages
 ```
 
-API 输出 `image?: string`。compiler 解析顺序：
+API 输出 `image?: string`。`ja/ko` 必须使用对应语言的精确卡图基址，缺失即失败，禁止回退英文。其他历史语言的 compiler 解析顺序：
 
 1. `card.image[requestedLanguage]`；
 2. `card.image.en`；
@@ -39,6 +39,10 @@ Booster 图片固定为：
 <language>/tcgp/<set-id>/boosters/<booster-id>/logo.webp
 <language>/tcgp/<set-id>/boosters/<booster-id>/artwork_front.webp
 ```
+
+已有 R2 key 的内容不同时禁止覆盖；可使用带内容哈希的 `logo-<hash>.webp` / `artwork_front-<hash>.webp` 新路径，并把实际 URL 传到 metadata。不要假定所有 booster URL 必然是无哈希文件名。
+
+Set 的 `logo` / `symbol` 为不带扩展名的基址；Booster 图片为完整 WebP URL。语言独有的可选资产允许其他语言保持缺省；不能让韩语指向英文图。
 
 Set metadata 中保存 booster 图片的完整 WebP URL；Card metadata 中只保存
 不含 `/high.webp`、`/low.webp` 的图片基址。

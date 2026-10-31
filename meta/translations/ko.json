@@ -4,7 +4,7 @@
 	"rarity": {
 		"One Diamond": "♦1", "Two Diamond": "♦2", "Three Diamond": "♦3", "Four Diamond": "♦4",
 		"One Star": "★1", "Two Star": "★2", "Three Star": "★3",
-		"One Shiny": "색이 다른 ★1", "Two Shiny": "색이 다른 ★2", "Crown": "크라운",
+		"One Shiny": "색이 다른1", "Two Shiny": "색이 다른2", "Crown": "왕관",
 		"Anomaly": "특수 카드(일반 레어도 분류 외)", "None": "레어도 없음"
 	},
 	"stage": { "Basic": "기본", "Stage1": "1진화", "Stage2": "2진화" },

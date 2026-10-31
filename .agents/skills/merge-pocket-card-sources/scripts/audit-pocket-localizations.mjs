@@ -20,6 +20,8 @@ const reviewedCardsFile = arg('reviewed-cards', { required: false })
 const reviewedCards = reviewedCardsFile ? JSON.parse(fs.readFileSync(path.resolve(reviewedCardsFile), 'utf8')) : undefined
 const locales = config.ruleLocales ?? ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
 const reviewedExceptions = config.reviewedTokenExceptions ?? {}
+if (!Array.isArray(canonical.cards) || canonical.cards.length === 0) throw new Error('Canonical cards must not be empty')
+if (!locales.length || new Set(locales).size !== locales.length) throw new Error('ruleLocales must be non-empty and unique')
 const findings = []
 const tokenChecks = { exact: 0, reviewedExceptions: [], unresolved: [] }
 
@@ -32,7 +34,19 @@ function tokens(value) {
 }
 
 function checkText(cardId, locale, field, value) {
-	if (typeof value !== 'string' || !value.trim()) return
+	if (typeof value !== 'string' || !value.trim()) {
+ findings.push({ cardId, locale, field, kind: 'missing-text' })
+ return
+ }
+ if (locale === 'ko') for (const match of value.matchAll(/「([^「」]+)」(으로|로|을|를|은|는|과|와|이|가)/gu)) {
+  const spoken = match[1].trim().replace(/ex$/iu, '스').replace(/[♂♀]$/u, '').replace(/[\]）)]+$/u, '')
+  const last = spoken.at(-1)
+  if (!last || !/[가-힣]/u.test(last)) continue
+  const final = (last.charCodeAt(0) - 0xAC00) % 28
+  const pair = [['으로','로'],['을','를'],['은','는'],['과','와'],['이','가']].find(pair => pair.includes(match[2]))
+  const expected = pair[final !== 0 && (pair[0] !== '으로' || final !== 8) ? 0 : 1]
+  if (expected !== match[2]) findings.push({ cardId, locale, field, kind: 'korean-particle-mismatch', value, expected, actual: match[2] })
+ }
 	if (locale === 'ko' && (/\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(value) || !/[가-힣]/u.test(value) && !['GUARD', 'POWER'].includes(value))) findings.push({ cardId, locale, field, kind: 'invalid-korean-text', value })
 	if (/(?:^|\s)(?:TODO|TBD)(?=\s|$)|\[C:[^\]]+\]/u.test(value) || /ILLUSTRATOR[_\s-]*\d+/iu.test(value) || /[\uFFFDÃÂ√]/u.test(value)) findings.push({ cardId, locale, field, kind: 'placeholder-or-mojibake', value })
 	const prose = ['name', 'evolveFrom'].includes(field) ? value.replace(/\bPorygon2\b/gu, '') : value
@@ -67,6 +81,9 @@ function compareRules(card, locale, localized) {
 }
 
 const sameName = new Map()
+if (localizations.setId !== undefined && localizations.setId !== canonical.setId || config.setId !== undefined && config.setId !== canonical.setId) findings.push({ kind: 'set-id-mismatch' })
+if (Object.keys(localizations.cards ?? {}).length !== canonical.cards.length) findings.push({ kind: 'localized-card-count-mismatch' })
+if (new Set(canonical.cards.map(card => card.id)).size !== canonical.cards.length) findings.push({ kind: 'duplicate-canonical-card' })
 if (reviewedCards && Object.keys(reviewedCards).length !== canonical.cards.length) findings.push({ kind: 'reviewed-card-count-mismatch' })
 for (const card of canonical.cards) {
 	const entry = localizations.cards?.[card.id]
@@ -100,10 +117,19 @@ for (const card of canonical.cards) {
 			const stripped = localized.name.replace(/ex/giu, '').replace(/[QXY]/gu, '')
 			if (/[A-Za-z]{2,}/u.test(stripped)) findings.push({ cardId: card.id, locale, field: 'name', kind: 'latin-fallback-in-cjk-name', value: localized.name })
 		}
-		for (const [field, value] of Object.entries(localized)) {
-			if (typeof value === 'string') checkText(card.id, locale, field, value)
-			if (Array.isArray(value)) value.forEach((item, index) => Object.entries(item).forEach(([nested, text]) => checkText(card.id, locale, `${field}.${index}.${nested}`, text)))
-		}
+  for (const [field, value] of Object.entries(localized)) {
+   if (typeof value === 'string') checkText(card.id, locale, field, value)
+   if (Array.isArray(value)) value.forEach((item, index) => {
+    if (!item || typeof item !== 'object') { findings.push({ cardId: card.id, locale, field, kind: 'invalid-localized-item' }); return }
+    Object.entries(item).forEach(([nested, text]) => checkText(card.id, locale, `${field}.${index}.${nested}`, text))
+   })
+  }
+		for (const field of ['name', 'description', 'evolveFrom', 'effect']) if (field === 'name' || card[field] !== undefined) checkText(card.id, locale, field, localized[field])
+  for (const group of ['attacks', 'abilities']) {
+   const expected = card[group] ?? [], actual = localized[group] ?? []
+   if (!Array.isArray(actual) || actual.length !== expected.length) findings.push({ cardId: card.id, locale, field: group, kind: 'localized-array-shape-mismatch' })
+   for (const [index, item] of expected.entries()) for (const field of ['name', 'effect']) if (field === 'name' || item[field] !== undefined) checkText(card.id, locale, `${group}.${index}.${field}`, actual?.[index]?.[field])
+  }
 		compareRules(card, locale, localized)
 	}
 	if (/ILLUSTRATOR[_\s-]*\d+/iu.test(card.illustrator ?? '') || /[\uFFFDÃÂ√]/u.test(card.illustrator ?? '')) findings.push({ cardId: card.id, field: 'illustrator', kind: 'placeholder-or-mojibake', value: card.illustrator })

@@ -42,10 +42,17 @@ const defaultSetConfig = {
 		'zh-TW': 'card_name_lang_4', 'ko-KR': 'card_name_lang_3', 'ja-JP': 'card_name_lang_1',
 	},
 }
-const setConfig = setConfigPath ? { ...defaultSetConfig, ...loadJson(setConfigPath) } : defaultSetConfig
-setConfig.setNames = { ...defaultSetConfig.setNames, ...setConfig.setNames }
-setConfig.packNames = { ...defaultSetConfig.packNames, ...setConfig.packNames }
+const suppliedConfig = setConfigPath ? loadJson(setConfigPath) : undefined
+// B4 defaults are only for the historical no-config invocation.
+const setConfig = suppliedConfig ?? defaultSetConfig
+if (!/^[A-Za-z0-9][A-Za-z0-9-]*$/u.test(setConfig.setId ?? '')) throw new Error('setId must be a safe Pocket ID without path separators')
 setConfig.localizedCardFields = { ...defaultSetConfig.localizedCardFields, ...setConfig.localizedCardFields }
+for (const key of ['setId', 'total', 'releaseDate', 'series', 'skuId']) if (setConfig[key] === undefined || setConfig[key] === '') throw new Error(`Missing set config ${key}`)
+for (const locale of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ko', 'ja']) {
+ if (!setConfig.setNames?.[locale]?.trim()) throw new Error(`Missing setNames.${locale}; historical B4 names cannot fill a new set`)
+ if (suppliedConfig?.packNames && !suppliedConfig.packNames[locale]?.trim()) throw new Error(`Missing packNames.${locale}`)
+}
+setConfig.packNames = setConfig.packNames ?? setConfig.setNames
 setConfig.cardNameOverrides = setConfig.cardNameOverrides ?? {}
 if (canonical.setId !== setConfig.setId || canonical.cards?.length !== setConfig.total) {
 	throw new Error(`Reviewed source builder expected ${setConfig.total} ${setConfig.setId} cards`)
@@ -305,10 +312,11 @@ function constructFormName(english, locale) {
 function resolveLocalizedName(english, locale) {
 	if (locale === 'en-US') return { name: normalize(english), source: 'canonical-en' }
 	const lang = LANG_BY_LOCALE[locale]
-	const override = configuredNameOverrides.get(normalize(english))?.[lang] ?? TRAINER_NAMES[english]?.[lang] ?? NAME_OVERRIDES[english]?.[lang]
+	const override = configuredNameOverrides.get(normalize(english))?.[lang] ?? (lang === 'ko' ? undefined : TRAINER_NAMES[english]?.[lang] ?? NAME_OVERRIDES[english]?.[lang])
 	if (override) return { name: override, source: 'reviewed-override' }
 	const exact = localizedNames[locale].get(normalize(english))
 	if (exact) return { name: exact, source: 'historical-card-name' }
+	if (lang === 'ko') return { name: english, source: 'unresolved-english-fallback' }
 	const constructed = constructFormName(english, locale)
 	if (constructed) return { name: constructed, source: 'official-base-plus-form-rule' }
 	if (/ ex$/iu.test(english)) {
@@ -399,3 +407,4 @@ const report = {
 const reportPath = path.join(path.resolve(outputRoot), `${setConfig.setId}.localization-report.json`)
 fs.writeFileSync(reportPath, `${JSON.stringify(report, null, 2)}\n`)
 console.log(JSON.stringify({ ...report, reportPath }, null, 2))
+if (unresolved.length) process.exitCode = 1

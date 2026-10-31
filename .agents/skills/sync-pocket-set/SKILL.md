@@ -23,7 +23,7 @@ locale、图片、R2、API 和下游作为同一条 fail-closed 流水线处理�
 
 ## 执行骨架
 
-1. 检查 `AGENTS.md`、两个仓库的 branch/status/diff，记录既有 preflight/source registry 的
+1. 检查 `AGENTS.md`、本仓库的 branch/status/diff；仅在下游纳入范围时检查下游仓库，记录既有 preflight/source registry 的
    SHA-256；未经授权不 commit、push、deploy 或覆盖 R2。
 2. 用 `scripts/discover-pocket-set.mjs` 生成 manifest；固定官方 set facts、真实 release asset、
    完整 commit/HTTP metadata/body hash/license。先跑十张分层 pilot，再扩大到连续 `001..total`。
@@ -43,5 +43,7 @@ locale、图片、R2、API 和下游作为同一条 fail-closed 流水线处理�
 只有 ID 连续、所有审计通过、R2 receipts/public verify 数量精确、API/下游 key 集一致、视觉素材
 清晰且实际渲染正常时才声明完成。分别报告 name/full-rule/image locale、对象数、测试、未解决项、
 两个仓库最终 status，以及 commit/push/deploy 是否执行。
+
+涉及韩语时，读取 [韩语契约](../add-pocket-translations/references/korean.md)，新 set 同时声明 `nameLocales/ruleLocales` 的 `ko`，审计、原图和 R2 必须一起覆盖。API 支持韩语不代表下游已启用；不因新增韩语修改未授权的 tcgp。
 
 涉及日语时，读取 [日语契约](../add-pocket-translations/references/japanese.md)。图片按现有其他语言规格生成，不新增未经用户要求的分辨率门槛。

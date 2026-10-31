@@ -13,7 +13,11 @@ function arg(name) {
 const canonical = JSON.parse(fs.readFileSync(arg('canonical'), 'utf8'))
 const localizations = JSON.parse(fs.readFileSync(arg('localizations'), 'utf8'))
 const output = arg('output')
-const targetLocales = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
+const configIndex = process.argv.indexOf('--config')
+const config = configIndex >= 0 ? JSON.parse(fs.readFileSync(process.argv[configIndex + 1], 'utf8')) : undefined
+if (!Array.isArray(canonical.cards) || canonical.cards.length === 0) throw new Error('Canonical cards must not be empty')
+const targetLocales = (config?.ruleLocales ?? [...new Set(canonical.cards.flatMap(card => Object.keys(localizations.cards?.[card.id]?.locales ?? {})))]).filter(locale => locale !== 'en')
+if (!targetLocales.length || new Set(targetLocales).size !== targetLocales.length || targetLocales.some(locale => !['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'].includes(locale))) throw new Error('Expected explicit supported ruleLocales or non-empty localized cards')
 const mapping = {}
 
 function add(english, values, context) {
@@ -34,16 +38,16 @@ function add(english, values, context) {
 for (const card of canonical.cards) {
 	const locales = localizations.cards?.[card.id]?.locales
 	if (!locales) throw new Error(`${card.id}: localization record is missing`)
-	if (card.description) add(card.description, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].description])), `${card.id}.description`)
+	if (card.description) add(card.description, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.description])), `${card.id}.description`)
 	for (const [index, attack] of (card.attacks ?? []).entries()) {
-		add(attack.name, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].attacks?.[index]?.name])), `${card.id}.attacks[${index}].name`)
-		if (attack.effect) add(attack.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].attacks?.[index]?.effect])), `${card.id}.attacks[${index}].effect`)
+		add(attack.name, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.attacks?.[index]?.name])), `${card.id}.attacks[${index}].name`)
+		if (attack.effect) add(attack.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.attacks?.[index]?.effect])), `${card.id}.attacks[${index}].effect`)
 	}
 	for (const [index, ability] of (card.abilities ?? []).entries()) {
-		add(ability.name, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].abilities?.[index]?.name])), `${card.id}.abilities[${index}].name`)
-		add(ability.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].abilities?.[index]?.effect])), `${card.id}.abilities[${index}].effect`)
+		add(ability.name, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.abilities?.[index]?.name])), `${card.id}.abilities[${index}].name`)
+		add(ability.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.abilities?.[index]?.effect])), `${card.id}.abilities[${index}].effect`)
 	}
-	if (card.effect) add(card.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale].effect])), `${card.id}.effect`)
+	if (card.effect) add(card.effect, Object.fromEntries(targetLocales.map(locale => [locale, locales[locale]?.effect])), `${card.id}.effect`)
 }
 
 const ordered = Object.fromEntries(Object.entries(mapping).sort(([left], [right]) => left.localeCompare(right)))

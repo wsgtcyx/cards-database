@@ -30,8 +30,9 @@ const localeDirs = Object.fromEntries(repeated('locale').map(value => {
 	if (separator < 1) throw new Error(`Invalid --locale ${value}; expected LOCALE:/absolute/ocr-dir`)
 	return [value.slice(0, separator), path.resolve(value.slice(separator + 1))]
 }))
-const sourceField = { fr: 'card_name_lang_5', es: 'card_name_lang_7', it: 'card_name_lang_8', de: 'card_name_lang_6', 'pt-br': 'card_name_lang_10' }
-const baseLocale = { en: 'en', fr: 'fr', es: 'es', 'pt-br': 'pt', 'zh-tw': 'zh' }
+const sourceField = { fr: 'card_name_lang_5', es: 'card_name_lang_7', it: 'card_name_lang_8', de: 'card_name_lang_6', 'pt-br': 'card_name_lang_10', 'zh-tw': 'card_name_lang_4', ja: 'card_name_lang_1', ko: 'card_name_lang_3' }
+const sourceAliases = { en: 'en', fr: 'fr', es: 'es', 'pt-br': 'pt', 'zh-tw': 'zh', ja: 'ja', ko: 'ko' }
+const baseLocale = Object.fromEntries(Object.entries(sourceAliases).filter(([, source]) => Object.values(baseOverlay.cards ?? {}).some(card => card.locales?.[source])))
 
 function page(dir, number) {
 	const file = path.join(dir, `${String(number).padStart(3, '0')}.json`)
@@ -190,6 +191,7 @@ for (let index = 0; index < canonical.cards.length; index++) {
 	const englishLines = page(englishDir, number)
 	const locales = {}
 	for (const [locale, sourceLocale] of Object.entries(baseLocale)) {
+		if (!baseOverlay.cards?.[card.id]?.locales?.[sourceLocale]) throw new Error(`${card.id}: missing base overlay ${sourceLocale}`)
 		locales[locale] = structuredClone(baseOverlay.cards[card.id].locales[sourceLocale])
 		const sourceName = locale === 'en'
 			? card.name
@@ -212,6 +214,7 @@ for (let index = 0; index < canonical.cards.length; index++) {
 			const value = translationMap[card.description]?.[locale]
 				?? reviewedDescriptions[locale].get(signature)
 				?? description(page(dir, number))
+			if (!locales[locale]) throw new Error(`${card.id}: OCR locale ${locale} needs a rule overlay before description transcription`)
 			if (value) locales[locale].description = value
 			if (value) reviewedDescriptions[locale].set(signature, value)
 		}

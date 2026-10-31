@@ -34,7 +34,7 @@ const card: Card = {
             "pt-br": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 1 a menos.",
             "zh-tw": "若自己的場上有其他的「鐵啞鈴」，則這隻寶可夢撤退所需的能量減少1個。",
             ja: "自分の場に別の「ダンバル」がいるなら、このポケモンのにげるためのエネルギーを、1個少なくする。",
-            ko: "자신의 필드에 다른 「메탕」가 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다."
+            ko: "자신의 필드에 다른 「메탕」이 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다."
         }
     }],
     attacks: [{

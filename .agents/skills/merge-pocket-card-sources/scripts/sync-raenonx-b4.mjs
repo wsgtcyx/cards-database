@@ -44,6 +44,8 @@ const CONDITION_TRANSLATIONS = {
 	es: { Asleep: 'Dormido', Burned: 'Quemado', Confused: 'Confundido', Paralyzed: 'Paralizado', Poisoned: 'Envenenado' },
 	pt: { Asleep: 'Adormecido', Burned: 'Queimado', Confused: 'Confuso', Paralyzed: 'Paralisado', Poisoned: 'Envenenado' },
 	zh: { Asleep: '睡眠', Burned: '灼傷', Confused: '混亂', Paralyzed: '麻痺', Poisoned: '中毒' },
+	ko: { Asleep: '잠듦', Burned: '화상', Confused: '혼란', Paralyzed: '마비', Poisoned: '독' },
+	ja: { Asleep: 'ねむり', Burned: 'やけど', Confused: 'こんらん', Paralyzed: 'マヒ', Poisoned: 'どく' },
 }
 const ENERGY_MARKERS = {
 	C: '1', G: '2', R: '3', W: '4', L: '5', P: '6', F: '7', D: '8', M: '9',
@@ -869,12 +871,12 @@ function normalizeOracle(value) {
 		.replace(/[\-−–—‑]/gu, '-')
 }
 
-function bindDictionaryName(englishSection, targetSection, canonical, context) {
+function bindDictionaryName(englishSection, targetSection, canonical, context, locale) {
 	const matches = Object.entries(englishSection ?? {})
 		.filter(([, value]) => normalizeOracle(value) === normalizeOracle(canonical))
 	const outputs = [...new Set(matches.map(([id]) => targetSection?.[id]).filter(Boolean))]
 	if (outputs.length !== 1) throw new Error(`Dictionary-only ${context} name binding has ${outputs.length} outputs for ${JSON.stringify(canonical)}`)
-	return outputs[0]
+	return normalizeRaenonxName(locale, outputs[0])
 }
 
 function bindDictionaryTemplate(section, canonical, locale, messages, maps, context) {
@@ -891,7 +893,7 @@ function bindDictionaryTemplate(section, canonical, locale, messages, maps, cont
 			const localized = renderLocalizedTemplate(sourceTemplate, canonical, targetTemplate, locale, context, maps[locale])
 			candidates.push({ id, localized })
 		} catch {
-			if (plainMatch) candidates.push({ id, localized: normalize(targetTemplate.replace(/\[[^\]]+\]/gu, '')) })
+			if (plainMatch && !['ja', 'ko'].includes(locale)) candidates.push({ id, localized: normalize(targetTemplate.replace(/\[[^\]]+\]/gu, '')) })
 		}
 	}
 	const configuredId = dictionaryTemplateOverrides?.[section]?.[canonical]
@@ -904,13 +906,13 @@ function bindDictionaryTemplate(section, canonical, locale, messages, maps, cont
 	return outputs[0]
 }
 
-function dictionaryOnlyOverlay(canonical, messages) {
+function dictionaryOnlyOverlay(canonical, messages, selectedLocales = Object.keys(messages)) {
 	const englishMaster = messages.en.Game.Master
 	const cardEnglishNames = indexNames(englishMaster.Card.Name)
 	const attackEnglishNames = indexNames(englishMaster.Attack.Name)
 	const abilityEnglishNames = indexNames(englishMaster.Ability.Name)
 	const maps = {}
-	for (const locale of LOCALES) {
+	for (const locale of selectedLocales) {
 		maps[locale] = {
 			cardEnglishNames,
 			attackEnglishNames,
@@ -924,17 +926,17 @@ function dictionaryOnlyOverlay(canonical, messages) {
 	const cards = {}
 	for (const canonicalCard of canonical.cards) {
 		const locales = {}
-		for (const locale of LOCALES) {
+		for (const locale of selectedLocales) {
 			const card = {}
 			if (canonicalCard.category === 'Trainer') {
 				card.effect = bindDictionaryTemplate('Trainer', canonicalCard.effect, locale, messages, maps, `${canonicalCard.id} trainer effect`)
 			} else {
 				card.attacks = (canonicalCard.attacks ?? []).map((attack, index) => ({
-					name: bindDictionaryName(englishMaster.Attack.Name, messages[locale].Game.Master.Attack.Name, attack.name, `${canonicalCard.id} attack ${index}`),
+					name: bindDictionaryName(englishMaster.Attack.Name, messages[locale].Game.Master.Attack.Name, attack.name, `${canonicalCard.id} attack ${index}`, locale),
 					...(attack.effect ? { effect: bindDictionaryTemplate('Attack', attack.effect, locale, messages, maps, `${canonicalCard.id} attack ${index} effect`) } : {}),
 				}))
 				card.abilities = (canonicalCard.abilities ?? []).map((ability, index) => ({
-					name: bindDictionaryName(englishMaster.Ability.Name, messages[locale].Game.Master.Ability.Name, ability.name, `${canonicalCard.id} ability ${index}`),
+					name: bindDictionaryName(englishMaster.Ability.Name, messages[locale].Game.Master.Ability.Name, ability.name, `${canonicalCard.id} ability ${index}`, locale),
 					effect: bindDictionaryTemplate('Ability', ability.effect, locale, messages, maps, `${canonicalCard.id} ability ${index} effect`),
 				}))
 			}
@@ -945,7 +947,7 @@ function dictionaryOnlyOverlay(canonical, messages) {
 	return cards
 }
 
-export { renderLocalizedTemplate, indexNames, buildTranslatedValueMap }
+export { renderLocalizedTemplate, indexNames, buildTranslatedValueMap, dictionaryOnlyOverlay }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
 const canonicalPath = arg('canonical', 'meta/pocket-source-reviews/B4/B4.canonical.json')
@@ -960,7 +962,13 @@ const requestedNumbers = arg('numbers')
 const pilot = process.argv.includes('--pilot')
 const dictionaryOnly = process.argv.includes('--dictionary-only')
 const dictionaryConfigPath = arg('dictionary-config')
-dictionaryTemplateOverrides = dictionaryConfigPath ? loadJson(dictionaryConfigPath).raenonxTemplateIds ?? {} : {}
+const dictionaryConfig = dictionaryConfigPath ? loadJson(dictionaryConfigPath) : undefined
+dictionaryTemplateOverrides = dictionaryConfig?.raenonxTemplateIds ?? {}
+const sourceLocale = { en: 'en', fr: 'fr', es: 'es', 'pt-br': 'pt', 'zh-tw': 'zh', ja: 'ja', ko: 'ko' }
+const selectedLocales = dictionaryConfig?.ruleLocales
+ ? [...new Set(['en', ...dictionaryConfig.ruleLocales.filter(locale => sourceLocale[locale]).map(locale => sourceLocale[locale])])]
+ : LOCALES
+if (dictionaryConfig?.ruleLocales?.some(locale => ![...Object.keys(sourceLocale), 'de', 'it'].includes(locale))) throw new Error('Unsupported dictionary rule locale')
 
 const canonical = loadJson(canonicalPath)
 if (!dictionaryOnly && (canonical.setId !== 'B4' || canonical.cards?.length !== 233)) throw new Error('B4 canonical input must contain exactly 233 cards')
@@ -976,7 +984,7 @@ const master = JSON.parse(masterResponse.body)
 const entries = dictionaryOnly ? [] : b4Entries(master)
 const pageResponses = {}
 const messages = {}
-for (const locale of LOCALES) {
+for (const locale of selectedLocales) {
 	const url = SOURCE.pageUrlTemplate.replace('{locale}', locale).replace('{cardId}', pageCardId)
 	const response = await fetchText(url, `RaenonX ${locale} card page`)
 	pageResponses[locale] = { url, status: response.status, headers: response.headers, sha256: sha256(response.body), bytes: Buffer.byteLength(response.body) }
@@ -984,7 +992,7 @@ for (const locale of LOCALES) {
 }
 
 if (dictionaryOnly) {
-	const cards = dictionaryOnlyOverlay(canonical, messages)
+	const cards = dictionaryOnlyOverlay(canonical, messages, selectedLocales)
 	const now = new Date().toISOString()
 	const source = {
 		...SOURCE,
@@ -997,13 +1005,13 @@ if (dictionaryOnly) {
 			lastModified: masterResponse.headers['last-modified'] ?? null,
 		},
 		pages: pageResponses,
-		permission: 'User authorized attribution and publication of a direct RaenonX mirror for this project; RaenonX repository licence was not found.',
+		permission: 'Candidate collection only; this command does not establish publication authorization or a source licence.',
 	}
 	writeJson(snapshotPath, {
 		schemaVersion: 1,
 		setId: canonical.setId,
 		source,
-		locales: LOCALES,
+		locales: selectedLocales,
 		entryCount: 0,
 		dictionaryOnly: true,
 	})
@@ -1011,10 +1019,10 @@ if (dictionaryOnly) {
 		schemaVersion: 1,
 		setId: canonical.setId,
 		source,
-		policy: { mode: 'dictionary-only', locales: LOCALES, credit: SOURCE.credit },
+		policy: { mode: 'dictionary-only', locales: selectedLocales, credit: SOURCE.credit },
 		cards,
 	})
-	console.log(JSON.stringify({ setId: canonical.setId, mode: 'dictionary-only', cards: Object.keys(cards).length, locales: LOCALES, snapshotPath: path.resolve(snapshotPath), outputPath: path.resolve(outputPath) }, null, 2))
+	console.log(JSON.stringify({ setId: canonical.setId, mode: 'dictionary-only', cards: Object.keys(cards).length, locales: selectedLocales, snapshotPath: path.resolve(snapshotPath), outputPath: path.resolve(outputPath) }, null, 2))
 	process.exit(0)
 }
 
@@ -1069,7 +1077,7 @@ const snapshot = {
 			lastModified: masterResponse.headers['last-modified'] ?? null,
 		},
 		pages: pageResponses,
-		permission: 'User authorized attribution and publication of a direct RaenonX mirror for this project; RaenonX repository licence was not found.',
+		permission: 'Candidate collection only; this command does not establish publication authorization or a source licence.',
 	},
 	locales: LOCALES,
 	refs,
