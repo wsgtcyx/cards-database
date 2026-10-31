@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/043"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/043"
     },
     name: {
         en: "Cherrim",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cherrim",
         de: "Kinoso",
         'pt-br': "Cherrim",
+        ja: "チェリム",
         ko: "체리꼬",
         "zh-tw": "櫻花兒",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Cherubi",
         "de": "Kikugi",
         "pt-br": "Cherubi",
-        "zh-tw": "櫻花寶"
+        "zh-tw": "櫻花寶",
+        ja: "チェリンボ"
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Assume questa forma dopo essersi esposto\nalla luce solare e aver fatto il pieno di energia.\nResta vivace fino al crepuscolo.",
         de: "Diese Form nimmt Kinoso an, wenn es viel Sonne\ngetankt und dadurch seine Energie aufgefüllt hat.\nEs bleibt bis zum Sonnenuntergang aktiv.",
         'pt-br': "Após absorver uma grande quantidade de luz solar,\nCherrim assume esta forma. Enquanto estiver assim, fica\ncheio de energia, e seu vigor permanece até o cair do sol.",
+        ja: "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。",
         ko: "태양의 빛을 받아\n기운이 넘치는 모습.\n해가 지기 전까지는 활발하다.",
         "zh-tw": "吸收充足的陽光後，Cherrim 採取\n這種形式。這樣一來就充滿了能量，\n它的熱鬧將會持續到日落。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Parassiseme",
                 de: "Egelsamen",
                 'pt-br': "Semente Sanguessuga",
+                ja: "やどりぎのタネ",
                 ko: "씨뿌리기",
                 "zh-tw": "水蛭種子"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
             }

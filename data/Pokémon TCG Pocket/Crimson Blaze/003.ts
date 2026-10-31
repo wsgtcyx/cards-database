@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/003"
     },
     name: {
         en: "Venusaur",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Venusaur",
         "de": "Bisaflor",
         "pt-br": "Venusaur",
-        "zh-tw": "妙蛙花"
+        "zh-tw": "妙蛙花",
+        ja: "フシギバナ"
     },
     illustrator: "Eske Yoshinob",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
-        "zh-tw": "妙蛙草"
+        "zh-tw": "妙蛙草",
+        ja: "フシギソウ"
     },
     description: {
         en: "A bewitching aroma wafts from its flower.\nThe fragrance becalms those engaged\nin a battle.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dal suo fiore si diffonde un profumo ammaliante.\nLa fragranza calma i fidanzati\nin una battaglia.",
         "de": "Ein betörender Duft entströmt seiner Blüte.\nDer Duft beruhigt die Verlobten\nin einer Schlacht.",
         "pt-br": "Um aroma encantador exala de sua flor.\nA fragrância acalma os noivos\nem uma batalha.",
-        "zh-tw": "從它的花中散發出迷人的香氣。\n這款香水使那些訂婚的人平靜下來\n在一場戰鬥中。"
+        "zh-tw": "從它的花中散發出迷人的香氣。\n這款香水使那些訂婚的人平靜下來\n在一場戰鬥中。",
+        ja: "花から うっとりする 香りが ただよい 戦うものの 気持ちを なだめてしまう。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Frusta Velenosa",
                 "de": "Giftige Peitsche",
                 "pt-br": "Chicote Venenoso",
-                "zh-tw": "毒鞭"
+                "zh-tw": "毒鞭",
+                ja: "どくのムチ"
             },
             damage: 90,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

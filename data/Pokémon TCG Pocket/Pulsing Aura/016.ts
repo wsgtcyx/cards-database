@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/016",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/016",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/016"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/016"
     },
     name: {
         en: "Swadloon",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Swadloon si avvolge nelle foglie per proteggersi. Usa le due foglie sopra la testa per rilevare i movimenti dell'aria e percepire l'ambiente circostante.",
         de: "Folikon hüllt sich zum Schutz in Blätter. Mithilfe der beiden Blätter auf seinem Kopf erkennt es Luftbewegungen und spürt seine Umgebung auf.",
         "pt-br": "Swadloon se envolve em folhas para proteção. Ele usa as duas folhas no topo da cabeça para detectar movimentos de ar e sentir o ambiente.",
-        "zh-tw": "寶包繭 將自己包裹在樹葉中進行保護。它利用頭頂的兩片葉子來檢測空氣運動並感知周圍環境。"
+        "zh-tw": "寶包繭 將自己包裹在樹葉中進行保護。它利用頭頂的兩片葉子來檢測空氣運動並感知周圍環境。",
+        ja: "葉っぱを まとって 身を 守る。 空気の 動きを 頭の 葉で キャッチして 周囲を 探る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Protezione",
                 de: "Schutzschild",
                 "pt-br": "Proteção",
-                "zh-tw": "守住"
+                "zh-tw": "守住",
+                ja: "まもる"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }
     ],

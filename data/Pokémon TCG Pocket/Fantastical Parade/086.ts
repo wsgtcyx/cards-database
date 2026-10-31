@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/086"
     },
     name: {
         en: "Boldore",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Boldore",
         "de": "Sedimantur",
         "pt-br": "Boldore",
-        "zh-tw": "地幔岩"
+        "zh-tw": "地幔岩",
+        ja: "ガントル"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Roggenrola",
         "de": "Kiesling",
         "pt-br": "Roggenrola",
-        "zh-tw": "石丸子"
+        "zh-tw": "石丸子",
+        ja: "ダンゴロ"
     },
     description: {
         en: "It relies on sound in order to monitor what's in its\nvicinity. When angered, it will attack without ever\nchanging the direction it's facing.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si basa sul suono per monitorare cosa c'è dentro\nvicinanze. Quando è arrabbiato, attaccherà senza mai\ncambiando la direzione in cui è rivolto.",
         "de": "Es ist auf den Ton angewiesen, um zu überwachen, was sich darin befindet\nUmgebung. Wenn es verärgert ist, greift es ohne jemals an\ndie Richtung ändern, in die es zeigt.",
         "pt-br": "Ele depende do som para monitorar o que está em seu\nvizinhança. Quando irritado, ele atacará sem nunca\nmudando a direção para a qual está voltado.",
-        "zh-tw": "它依靠聲音來監視其內部的內容\n附近。當它被激怒時，它會毫不猶豫地攻擊\n改變它所面對的方向。"
+        "zh-tw": "它依靠聲音來監視其內部的內容\n附近。當它被激怒時，它會毫不猶豫地攻擊\n改變它所面對的方向。",
+        ja: "音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Gemma del potere",
                 "de": "Kraftjuwel",
                 "pt-br": "Gema de Poder",
-                "zh-tw": "能量寶石"
+                "zh-tw": "能量寶石",
+                ja: "パワージェム"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"]

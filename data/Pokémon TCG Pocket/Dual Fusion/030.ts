@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/030",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/030",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/030"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/030"
     },
     name: {
         en: "Wartortle",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜",
-        ja: "Squirtle",
+        ja: "ゼニガメ",
         ko: "Squirtle"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Rundumangriff",
                 "pt-br": "Ataque Giratório",
                 "zh-tw": "迴轉攻擊",
-                ja: "Spinning Attack",
+                ja: "かいてんアタック",
                 ko: "Spinning Attack"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Sein langer und buschiger Schweif zeugt von Langlebigkeit. Es ist besonders bei älteren Menschen beliebt.",
         "pt-br": "A cauda longa e peluda de Wartortle é um símbolo de longevidade, por isso este Pokémon é bem popular entre pessoas mais velhas.",
         "zh-tw": "蓬鬆長長的尾巴被視為長壽的象徵。特別深受老人喜愛。",
-        ja: "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.",
+        ja: "長くて ふさふさの 尻尾は 長生きの シンボル。 とくに お年寄りに 人気がある。",
         ko: "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people."
     }
 };

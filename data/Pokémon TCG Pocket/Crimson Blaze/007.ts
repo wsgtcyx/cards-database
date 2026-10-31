@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/007"
     },
     name: {
         en: "Sunkern",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sunkern",
         "de": "Sonnkern",
         "pt-br": "Sunkern",
-        "zh-tw": "向日種子"
+        "zh-tw": "向日種子",
+        ja: "ヒマナッツ"
     },
     illustrator: "Saboteri",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È molto debole. Il suo unico mezzo di difesa è\nagita disperatamente le foglie contro il suo aggressore.",
         "de": "Es ist sehr schwach. Seine einzige Verteidigungsmöglichkeit besteht darin\nschüttelt verzweifelt seine Blätter gegen seinen Angreifer.",
         "pt-br": "É muito fraco. Seu único meio de defesa é\nagite suas folhas desesperadamente para seu atacante.",
-        "zh-tw": "它非常弱。它唯一的防御手段是\n向攻擊者拼命搖動葉子。"
+        "zh-tw": "它非常弱。它唯一的防御手段是\n向攻擊者拼命搖動葉子。",
+        ja: "とても ひ弱。 襲われても 葉っぱを 必死に 振りまわして 追い払うのが やっとだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Bomba di semi",
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
-                "zh-tw": "種子炸彈"
+                "zh-tw": "種子炸彈",
+                ja: "タネばくだん"
             },
             damage: 20,
             cost: ["Grass"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/172",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/172",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/172"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/172",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/172"
     },
     name: {
         en: "Zubat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Zubat",
         de: "Zubat",
         'pt-br': "Zubat",
+        ja: "ズバット",
         ko: "주뱃",
         "zh-tw": "超音蝠",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Aliante",
                 de: "Gleiten",
                 'pt-br': "Planeio",
+                ja: "かっくう",
                 ko: "활공",
                 "zh-tw": "滑行"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Sonda l'ambiente circostante emettendo\nultrasuoni dalla bocca. In questo modo riesce\na volteggiare agilmente anche in caverne strette.",
         de: "Über den Mund stößt es Ultraschallwellen aus,\num seine Umgebung zu erkunden. So kann es\nselbst in engen Höhlen geschickt umherfliegen.",
         'pt-br': "Emite ondas ultrassônicas de sua boca para\nverificar os arredores. Zubat voa com certa\ndestreza mesmo em cavernas apertadas.",
+        ja: "口から 出す 超音波で まわりの 様子を 探る。 狭い 洞窟も 器用に 飛びまわる。",
         ko: "입에서 내보내는 초음파로\n주위의 상황을 살핀다. 좁은\n동굴에서도 능숙하게 날아다닌다.",
         "zh-tw": "它從嘴裡發射超聲波來檢查周圍的情況。即使在狹窄的洞穴中，祖巴特也能熟練地飛行。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/004"
     },
     name: {
         en: "Masquerain",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Masquerain",
         de: "Maskeregen",
         'pt-br': "Masquerain",
+        ja: "アメモース",
         ko: "비나방",
         "zh-tw": "雨翅蛾",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Gehweiher",
         "pt-br": "Surskit",
         "zh-tw": "溜溜糖球",
+        ja: "アメタマ",
     },
     description: {
         en: "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Le sue quattro ali gli permettono di\nvolare a piacimento in ogni direzione.",
         de: "Dank seiner vier Flügel kann es frei in alle\nRichtungen fliegen, sogar seitwärts und rückwärts.",
         'pt-br': "Bate suas quatro asas para sair do chão\ne voar livremente em qualquer direção:\npara a frente, para trás e para os lados.",
+        ja: "４枚の 羽で 浮かび上がり 前後 左右 自由自在に 飛び回る ことが できる。",
         ko: "4장의 날개로 떠올라\n전후좌우 자유자재로\n날아다닐 수 있다.",
         "zh-tw": "它拍動四個翅膀可以懸停並在任何方向自由飛行——前後和側向。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ronzio",
                 de: "Käfergebrumm",
                 'pt-br': "Zumbido de Inseto",
+                ja: "むしのさざめき",
                 ko: "벌레의야단법석",
                 "zh-tw": "錯誤嗡嗡聲"
             },

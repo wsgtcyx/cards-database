@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/049",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/049",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/049"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/049"
     },
     name: {
         en: "Pawmo",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Pamo",
         "pt-br": "Pawmi",
         "zh-tw": "布撥",
-        ja: "Pawmi",
+        ja: "パモ",
         ko: "Pawmi"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Elektroschlag",
                 "pt-br": "Murro Elétrico",
                 "zh-tw": "麻麻拳",
-                ja: "Electric Punch",
+                ja: "ビリリパンチ",
                 ko: "Electric Punch"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Wird seine Kolonie angegriffen, stürzt es sich sofort in den Kampf und besiegt den Feind mit Kampftechniken, die auf Elektroschocks setzen.",
         "pt-br": "Quando seu grupo é atacado, Pawmo é o primeiro a entrar na batalha, derrotando os inimigos com uma técnica de combate que utiliza choques elétricos.",
         "zh-tw": "當群體受到襲擊的時候，會率先挑戰敵人，以結合了電擊的格鬥技痛毆敵人。",
-        ja: "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+        ja: "群れが 襲われたときは 電撃を 駆使した 格闘技で 真っ先に 戦いを 挑み 敵を 倒す。",
         ko: "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks."
     }
 };

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/039",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/039",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/039"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/039"
     },
     name: {
         en: "Weavile",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Si muove in gruppi di quattro o cinque individui.\nDurante la caccia, si coordina con i compagni\nlasciando dei segni sulle rocce e sugli alberi.",
         de: "Sie sind immer zu viert oder fünft unterwegs.\nBei der Jagd arbeiten sie zusammen, indem\nsie Zeichen in Felsen und Bäume ritzen.",
         "pt-br": "Eles viajam em grupos de quatro ou cinco, deixando sinais uns para os outros em árvores e pedras. Eles derrubam suas presas com ataques coordenados.",
-        "zh-tw": "４～５隻一組行動。\n在岩石和樹木上留下記號，\n以團隊合作捕殺獵物。"
+        "zh-tw": "４～５隻一組行動。\n在岩石和樹木上留下記號，\n以團隊合作捕殺獵物。",
+        ja: "４～５匹の グループで 行動。 岩や 樹木に サインを 残し 連係プレイで 獲物を 仕留める。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Raid",
                 de: "Überfall",
                 "pt-br": "Reide",
-                "zh-tw": "襲擊"
+                "zh-tw": "襲擊",
+                ja: "しゅうげき"
             },
             effect: {
                 en: "If this Pokémon evolved from Sneasel during this turn, this attack does 20 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon si è evoluto da Sneasel durante questo turno, questo attacco infligge 20 danni in più.",
                 de: "Wenn sich dieses Pokémon in diesem Zug aus Sniebel entwickelt hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon evoluiu de Sneasel durante este turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果這隻寶可夢在本回合中從 狃拉 進化，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果這隻寶可夢在本回合中從 狃拉 進化，則此攻擊造成的傷害增加 20 點。",
+                ja: "この番、このポケモンが「ニューラ」から進化していたなら、20ダメージ追加。"
             },
             damage: "40+"
         }

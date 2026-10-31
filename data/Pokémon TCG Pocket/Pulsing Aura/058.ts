@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/058",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/058"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/058"
     },
     name: {
         en: "Lanturn",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Acceca la preda con un’intensa ondata di luce,\nimmobilizzandola, per poi ingoiarla in un sol boccone.",
         de: "Es blendet seine Beute mit einem starken Blitz und\nverschlingt die gelähmte Beute mit einem Schluck.",
         "pt-br": "Ele cega a presa com uma intensa explosão de luz. Com a presa incapacitada, o Pokémon a engole de um só gole.",
-        "zh-tw": "它會發出強烈的光芒，使獵物失明。當獵物喪失行動能力時，寶可夢會一口氣將其吞下。"
+        "zh-tw": "它會發出強烈的光芒，使獵物失明。當獵物喪失行動能力時，寶可夢會一口氣將其吞下。",
+        ja: "まぶしい 光を 放って 相手の 目を くらませ 動けない あいだに まるのみに してしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Lamposfera",
                 de: "Stromball",
                 "pt-br": "Bola de Eletricidade",
-                "zh-tw": "雷電球"
+                "zh-tw": "雷電球",
+                ja: "ライトニングボール"
             },
             damage: 70
         }

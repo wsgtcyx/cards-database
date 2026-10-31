@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/054",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/054",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/054"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/054"
     },
     name: {
         en: "Kadabra",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Abra",
         "pt-br": "Abra",
         "zh-tw": "凱西",
-        ja: "Abra",
+        ja: "ケーシィ",
         ko: "Abra"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Psychosphäre",
                 "pt-br": "Esfera Psíquica",
                 "zh-tw": "念動彈",
-                ja: "Psychic Sphere",
+                ja: "ねんどうだん",
                 ko: "Psychic Sphere"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Kadabras Psycho-Kräfte ermöglichen es ihm, schwebend zu schlafen. Seinen äußerst elastischen Schweif nutzt es dabei als Kissen.",
         "pt-br": "Usando seu poder psíquico, Kadabra levita enquanto dorme. Usa sua cauda elástica como um travesseiro.",
         "zh-tw": "會用精神力量浮在空中睡覺。伸縮性非凡的尾巴會當成枕頭用。",
-        ja: "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+        ja: "サイコパワーで 宙に 浮いたまま 眠る。 弾力に 優れた しっぽを 枕がわりに するぞ。",
         ko: "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow."
     }
 };

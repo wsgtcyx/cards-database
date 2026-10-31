@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/001",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/001"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/001"
     },
     name: {
         en: "Bulbasaur",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Egelsamen",
                 "pt-br": "Semente Sanguessuga",
                 "zh-tw": "寄生種子",
-                ja: "Leech Seed",
+                ja: "やどりぎのタネ",
                 ko: "Leech Seed"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復10HP。",
-                ja: "Heal 10 damage from this Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "Heal 10 damage from this Pokémon."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Nach der Geburt nutzt es für eine Weile die Nährstoffe im Samen auf seinem Rücken, um zu wachsen.",
         "pt-br": "Durante algum tempo após nascer, usa os nutrientes armazenados na semente em suas costas para crescer.",
         "zh-tw": "在出生後的一段時間內，牠會吸收背上種子裡儲存的營養成長。",
-        ja: "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+        ja: "生まれて しばらくの あいだ 背中の タネに 詰まった 栄養を 取って 育つ。",
         ko: "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow."
     }
 };

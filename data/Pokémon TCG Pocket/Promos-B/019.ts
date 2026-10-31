@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/019",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/019",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/019"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/019"
     },
     name: {
         en: "Buneary",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Attacca estendendo con impeto l’orecchio\narrotolato. Più si allena, più la potenza\ndei suoi attacchi aumenta.",
         de: "Es greift an, indem es seine Ohren aufrollt und\nmit viel Schwung wieder entrollt. Durch Training\nkann Haspiror die Kraft dieser Attacke steigern.",
         "pt-br": "Buneary pode atacar enrolando as orelhas e depois atacando com a força criada ao desenrolá-las. Este ataque fica mais forte com o treinamento.",
-        "zh-tw": "會利用把捲成團的耳朵伸直\n時的威力來使出攻擊招式。\n越訓練，招式威力就會越大。"
+        "zh-tw": "會利用把捲成團的耳朵伸直\n時的威力來使出攻擊招式。\n越訓練，招式威力就會越大。",
+        ja: "まるめた 耳を 伸ばす 勢いで 攻撃する 技は トレーニングを するほど 威力が 増していく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Doppiocalcio",
                 de: "Doppelkick",
                 "pt-br": "Chute Duplo",
-                "zh-tw": "二連踢"
+                "zh-tw": "二連踢",
+                ja: "にどげり"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/098",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/098",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/098"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/098"
     },
     name: {
         en: "Kangaskhan",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Alcuni documenti parlano di Kangaskhan\nsenza cuccioli che hanno allevato bambini\numani dispersi.",
         de: "Es liegen Berichte vor, laut denen Kangama ohne\neigenen Nachwuchs stattdessen Menschenkinder\nin Not aufgezogen haben.",
         "pt-br": "Existem registros de uma criança humana perdida sendo criada por um Kangaskhan sem filhos.",
-        "zh-tw": "紀錄中記載著，\n曾經有沒孩子的袋獸\n養育了遇難的人類孩子。"
+        "zh-tw": "紀錄中記載著，\n曾經有沒孩子的袋獸\n養育了遇難的人類孩子。",
+        ja: "子どもの いない ガルーラが 遭難した 人間の 子を 育てていたという 記録がある。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugnosecco",
                 de: "Ruhiger Schlag",
                 "pt-br": "Soco Firme",
-                "zh-tw": "連續擊拳"
+                "zh-tw": "連續擊拳",
+                ja: "ワンツーパンチ"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "60+"
         }

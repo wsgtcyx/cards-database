@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/004"
     },
     name: {
         en: "Ivysaur",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
+        ja: "フシギソウ",
     },
     illustrator: "Kurata So",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Bulbasaur",
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
-        "zh-tw": "妙蛙種子"
+        "zh-tw": "妙蛙種子",
+        ja: "フシギダネ"
     },
     description: {
         en: "When the bulb on its back grows large, it\nappears to lose the ability to stand on its\nhind legs.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando il bulbo sul dorso diventa grande,\nsembra perdere la capacità di reggersi in piedi\nzampe posteriori.",
         "de": "Wenn die Knolle auf ihrem Rücken groß wird, wird sie\nscheint die Fähigkeit zu verlieren, darauf zu stehen\nHinterbeine.",
         "pt-br": "Quando o bulbo em suas costas cresce, ele\nparece perder a capacidade de se manter em pé\npatas traseiras.",
-        "zh-tw": "當它背上的燈泡長大後，\n似乎失去了站立的能力\n後腿。"
+        "zh-tw": "當它背上的燈泡長大後，\n似乎失去了站立的能力\n後腿。",
+        ja: "背中の つぼみが 大きく 育ってくると ２本脚で 立つことが できなくなるらしい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 60,
             cost: ["Grass", "Colorless", "Colorless"]

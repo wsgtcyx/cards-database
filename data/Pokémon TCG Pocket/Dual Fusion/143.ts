@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/143",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/143",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/143"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/143"
     },
     name: {
         en: "Mimikyu",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "In Schale werfen",
                 "pt-br": "Vestir-se",
                 "zh-tw": "盛裝打扮",
-                ja: "Dress Up",
+                ja: "ドレスアップ",
                 ko: "Dress Up"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加30點傷害。",
-                ja: "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
                 ko: "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Es lebt an dunklen Orten ohne Sonnenlicht. Menschen zeigt es sich nur, wenn es mit einem Lumpen bedeckt ist, der aussieht wie ein Pikachu.",
         "pt-br": "Este Pokémon vive em lugares escuros livres da luz do sol. Quando aparece diante de humanos, esconde-se sob um pano parecido com Pikachu.",
         "zh-tw": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用看似破布般的布來隱藏身子。",
-        ja: "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+        ja: "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。",
         ko: "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu."
     }
 };

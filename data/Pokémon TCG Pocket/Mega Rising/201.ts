@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/201",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/201",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/201"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/201",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/201"
     },
     name: {
         en: "Lillipup",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Yorkleff",
         "pt-br": "Lillipup",
         "zh-tw": "小約克",
+        ja: "ヨーテリー",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è molto più luminoso della media\nbambino, e Lillipup non dimenticherà di amarlo\nriceve o qualsiasi abuso subisce.",
         "de": "Dieses Pokémon ist viel heller als der Durchschnitt\nKind, und Lillipup wird die Liebe nicht vergessen\nerhält oder irgendeinen Missbrauch erleidet.",
         "pt-br": "Este Pokémon é muito mais brilhante que a média\ncriança, e Lillipup não esquecerá o amor que\nrecebe ou qualquer abuso que sofra.",
-        "zh-tw": "這只神奇寶貝比一般神奇寶貝明亮得多\n孩子，利利普不會忘記對它的愛\n受到或遭受任何虐待。"
+        "zh-tw": "這只神奇寶貝比一般神奇寶貝明亮得多\n孩子，利利普不會忘記對它的愛\n受到或遭受任何虐待。",
+        ja: "並みの 子ども よりも ずっと 利口。 受けた 愛情も された 仕打ちも 忘れないのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Raccogliere",
                 "de": "Sammeln",
                 "pt-br": "Coletar",
-                "zh-tw": "收集"
+                "zh-tw": "收集",
+                ja: "もってくる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を1枚引く。"
             }
         }],
     weaknesses: [{

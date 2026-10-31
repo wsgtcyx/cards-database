@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/017",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/017",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/017"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/017"
     },
     name: {
         en: "Froslass",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Congela la preda emettendo il suo respiro a -58 gradi Fahrenheit. Si dice che poi mostri segretamente la sua preda.",
         de: "Es friert Beute ein, indem es seinen -58 Grad Fahrenheit hohen Atem ausbläst. Anschließend soll es seine Beute heimlich zur Schau stellen.",
         "pt-br": "Ele congela a presa soprando seu hálito de -58 graus Fahrenheit. Diz-se que então exibe secretamente sua presa.",
-        "zh-tw": "它透過吹出華氏 -58 度的呼吸來凍結獵物。據說它隨後會秘密地展示它的獵物。"
+        "zh-tw": "它透過吹出華氏 -58 度的呼吸來凍結獵物。據說它隨後會秘密地展示它的獵物。",
+        ja: "マイナス50度の 息を 吹きかけ 凍らせた 獲物を 秘密の 場所に 飾っていると 言われる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpospirito",
                 de: "Seelenschuss",
                 "pt-br": "Disparo da Alma",
-                "zh-tw": "靈魂射擊"
+                "zh-tw": "靈魂射擊",
+                ja: "ソウルシュート"
             },
             effect: {
                 en: "Discard a card from your hand. If you can't, this attack does nothing.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Scarta una carta dalla tua mano. Se non puoi, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
-                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。"
+                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
             },
             damage: 70
         }

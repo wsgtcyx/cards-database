@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/011"
     },
     name: {
         en: "Houndour",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Houndour",
         de: "Hunduster",
         'pt-br': "Houndour",
+        ja: "デルビル",
         ko: "델빌",
         "zh-tw": "戴魯比",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È abbastanza intelligente da cacciare in\nbranco, utilizzando una varietà di versi\nper comunicare con i compagni.",
         de: "Es ist intelligent genug, um bei der Jagd über eine ganze\nReihe von Rufen mit seinem Rudel zu kommunizieren.",
         'pt-br': "É inteligente o suficiente para caçar em bandos.\nEle usa uma variedade de choros para se comunicar\ncom os outros.",
+        ja: "様々な 鳴き声を 使い分け 仲間と コミュニケーションしながら 狩りを おこなう 賢さを持つ。",
         ko: "수많은 울음소리를 가려 써서\n동료들과 의사소통을 하며\n사냥을 하는 지능을 가지고 있다.",
         "zh-tw": "它足夠聰明，可以成群狩獵。它使用各種叫聲與他人交流。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fiammata",
                 de: "Flackern",
                 'pt-br': "Chama",
+                ja: "ほのお",
                 ko: "불꽃",
                 "zh-tw": "耀斑"
             },

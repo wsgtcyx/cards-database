@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/020"
     },
     name: {
         en: "Leafeon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Leafeon",
         de: "Folipurba",
         'pt-br': "Leafeon",
+        ja: "リーフィア",
         ko: "리피아",
         "zh-tw": "葉伊布",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Nelle belle giornate dorme al sole e usa\nla fotosintesi, producendo aria pulita.",
         de: "An klaren Tagen erzeugt ein schlafendes Folipurba\nsaubere Luft, indem es Fotosynthese betreibt.",
         'pt-br': "Quando vir um Leafeon adormecido sob os raios de sol,\nvocê saberá que ele está fazendo fotossíntese\npara produzir ar fresco.",
+        ja: "晴れた 日に 寝ている リーフィアは 光合成を して きれいな 空気を 作り出しているのだ。",
         ko: "맑은 날에 잠든 리피아는\n광합성을 해서\n깨끗한 공기를 만들어 낸다.",
         "zh-tw": "當你看到Leafeon在陽光下熟睡時，你就會知道它正在利用光合作用來產生清潔的空氣。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Fogliaturbine",
                 de: "Blättergewirbel",
                 'pt-br': "Ciclone Folhoso",
+                ja: "はっぱサイクロン",
                 ko: "잎날사이클론",
                 "zh-tw": "葉旋風"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 'pt-br': "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+                ja: "次の自分の番、このポケモンはワザが使えない。",
                 ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
             }

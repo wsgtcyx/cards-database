@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/115",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/115"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/115"
     },
     name: {
         en: "Spritzee",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Parfi",
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
+        ja: "シュシュプ",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il profumo che emana il suo corpo li incanta\nche l'annusano. Le nobildonne non mancavano\namore per Spritzee.",
         "de": "Der Duft, den sein Körper verströmt, verzaubert diese\nwer es riecht. An edlen Damen mangelte es nicht\nLiebe für Spritzee.",
         "pt-br": "O perfume que seu corpo exala encanta aqueles\nquem sente o cheiro. Senhoras nobres não tinham falta de\namor por Spritzee.",
-        "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。"
+        "zh-tw": "它的身體散發出的香味讓那些人著迷\n誰聞到了。貴族小姐們都不缺\n對Spritzee的愛。",
+        ja: "人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Vento fatato",
                 "de": "Feenwind",
                 "pt-br": "Vento Fada",
-                "zh-tw": "仙風"
+                "zh-tw": "仙風",
+                ja: "ようせいのかぜ"
             },
             damage: 20,
             cost: ["Psychic"]

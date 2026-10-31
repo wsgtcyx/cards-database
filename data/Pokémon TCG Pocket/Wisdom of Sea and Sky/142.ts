@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/142"
     },
     name: {
         en: "Aipom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Come faceva sempre di più con la coda, con le mani\nè diventato goffo. Fa il suo nido in alto\nle cime degli alberi.",
         "de": "Wie es immer mehr mit seinem Schwanz und seinen Händen tat\nwurde ungeschickt. Es baut sein Nest hoch oben\ndie Baumwipfel.",
         "pt-br": "À medida que fazia mais e mais com a cauda, as mãos\nficou desajeitado. Faz seu ninho no alto\nas copas das árvores.",
-        "zh-tw": "當它越來越多地用尾巴做事時，它的雙手\n變得笨拙。它把巢築在高處\n樹梢。"
+        "zh-tw": "當它越來越多地用尾巴做事時，它的雙手\n變得笨拙。它把巢築在高處\n樹梢。",
+        ja: "シッポで いろんなことを していたら 手先は 不器用に なってしまった。 高い 木の上に 巣を 作る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Imitare",
                 "de": "Imitieren",
                 "pt-br": "Imitar",
-                "zh-tw": "模擬"
+                "zh-tw": "模擬",
+                ja: "さるまね"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Pesca carte finché non hai lo stesso numero di carte in mano del tuo avversario.",
                 "de": "Ziehe Karten, bis du die gleiche Anzahl Karten auf der Hand hast wie dein Gegner.",
                 "pt-br": "Compre cartas até ter o mesmo número de cartas na mão que seu oponente.",
-                "zh-tw": "抽牌直到你的手牌數量與對手相同。"
+                "zh-tw": "抽牌直到你的手牌數量與對手相同。",
+                ja: "自分の手札が、相手の手札と同じ枚数になるように、山札を引く。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/026",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/026",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/026"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/026"
     },
     name: {
         en: "Arboliva",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Olivinio",
         "pt-br": "Dolliv",
         "zh-tw": "奧利紐",
-        ja: "Dolliv",
+        ja: "オリーニョ",
         ko: "Dolliv"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Dieses Pokémon ist sehr friedlich und gütig. Es teilt sein leckeres, nährstoffreiches Öl mit geschwächten Pokémon.",
         "pt-br": "Este Pokémon calmo tem muita compaixão. Divide seu delicioso azeite rico em nutrientes com Pokémon enfraquecidos.",
         "zh-tw": "性情溫和，慈悲為懷。會把營養豐富且美味可口的油分給虛弱的寶可夢。",
-        ja: "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+        ja: "穏やかで とても 慈悲深い。 栄養豊富な 美味しい オイルを 弱った ポケモンに 分け与える。",
         ko: "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon."
     },
     stage: "Stage2",
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Extraheilung",
                 "pt-br": "Cura Complementar",
                 "zh-tw": "額外治療",
-                ja: "Extra Heal",
+                ja: "エクストラヒール",
                 ko: "Extra Heal"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 60 Schadenspunkte bei 1 deiner Pokémon-ex heilen, an das mindestens 1 Energie angelegt ist. Wenn du das machst, lege 1 zufällige Energie von jenem Pokémon ab.",
                 "pt-br": "Uma vez durante o seu turno, você poderá curar 60 pontos de dano de 1 dos seus Pokémon ex que tiver alguma Energia ligada a ele. Se fizer isso, descarte 1 Energia aleatória daquele Pokémon.",
                 "zh-tw": "在自己的回合時,可使用1次。將自己的1隻身上附有能量的「寶可夢ex」恢復60HP。然後,將該寶可夢身上的隨機1個能量丟棄。",
-                ja: "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon.",
+                ja: "自分の番に1回使える。エネルギーがついている自分の「ポケモンex」1匹のHPを60回復。その後、そのポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
             }
         }
@@ -95,7 +96,7 @@ const card: Card = {
                 "zh-tw": "種子炸彈",
                 "es-mx": "Bomba Semilla",
                 pt: "Bomba de Sementes",
-                ja: "Seed Bomb",
+                ja: "タネばくだん",
                 ko: "Seed Bomb"
             },
             damage: 70,

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/091",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/091",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/091"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/091",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/091"
     },
     name: {
         en: "Bewear",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La sua devastante forza fisica lo rende\nestremamente pericoloso, tanto che di solito\nè vietato l’accesso alle zone in cui vive.",
         de: "Dieses Pokémon verfügt über immense\nMuskelkraft und ist äußerst gefährlich.\nSein Habitat ist generell Sperrgebiet.",
         "pt-br": "Este Pokémon imensamente perigoso possui uma força física avassaladora. Seu habitat geralmente está fora dos limites.",
-        "zh-tw": "擁有壓倒性的肌肉力量，\n是非常危險的寶可夢。\n棲息地基本上是禁止進入。"
+        "zh-tw": "擁有壓倒性的肌肉力量，\n是非常危險的寶可夢。\n棲息地基本上是禁止進入。",
+        ja: "圧倒的な 筋力を 持つ 非常に 危険な ポケモン。 生息地は 基本 立ち入り禁止。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Tripla Schiacciata",
                 de: "Dreifachschmetterer",
                 "pt-br": "Pancada Tripla",
-                "zh-tw": "三重粉碎"
+                "zh-tw": "三重粉碎",
+                ja: "トリプルスマッシュ"
             },
             effect: {
                 en: "Flip 3 coins. This attack does 50 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
                 de: "Wirf 3 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 50 pontos de dano para cada cara.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 50 點傷害。",
+                ja: "コインを3回投げ、オモテの数×50ダメージ。"
             },
             damage: "50x"
         }

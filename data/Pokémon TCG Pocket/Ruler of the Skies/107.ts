@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/107",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/107",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/107"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/107"
     },
     name: {
         en: "Metang",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È ghiotto di minerali dotati di proprietà\nmagnetiche. Quando dà la caccia ai Nosepass,\npuò raggiungere i 100 km/h.",
         de: "Es liebt Mineralien, die Magnetfelder erzeugen.\nKein Wunder, dass es Nasgnet mit 100 km/h\nhinterherjagt.",
         "pt-br": "Adora minerais magnéticos, então persegue Nosepass a velocidades que ultrapassam 100 km/h.",
-        "zh-tw": "非常喜歡能放出磁力的礦物。\n會以１００公里的時速窮追朝北鼻。"
+        "zh-tw": "非常喜歡能放出磁力的礦物。\n會以１００公里的時速窮追朝北鼻。",
+        ja: "磁力を 放つ 鉱物が 好物。 時速 １００キロで ノズパスを 追いつめるぞ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Pugnoscarica",
                 de: "Patronenhieb",
                 "zh-tw": "子彈拳",
-                "pt-br": "Soco Projétil"
+                "pt-br": "Soco Projétil",
+                ja: "バレットパンチ"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni in più per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano a mais para cada cara.",
-                "zh-tw": "擲2次硬幣,增加正面出現的次數×20點傷害。"
+                "zh-tw": "擲2次硬幣,增加正面出現的次數×20點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ追加。"
             },
             damage: "30+"
         }

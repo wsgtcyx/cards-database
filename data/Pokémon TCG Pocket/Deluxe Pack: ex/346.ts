@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/346",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/346",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/346",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/346"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/346",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/346"
 	},
 	name: {
         en: "Leaf",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Leaf",
         "de": "Leaf",
         "pt-br": "Leaf",
-        "zh-tw": "葉子"
+        "zh-tw": "葉子",
+        ja: "リーフ"
     },
     illustrator: "En Morikura",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Durante questo turno, il costo di ritirata del tuo Pokémon attivo è di 2 in meno.",
         "de": "Während dieser Runde sind die Rückzugskosten deines aktiven Pokémon um 2 geringer.",
         "pt-br": "Durante este turno, o Custo de Recuo do seu Pokémon Ativo é 2 a menos.",
-        "zh-tw": "在這個回合中，你的活躍寶可夢的撤退費用減少 2 點。"
+        "zh-tw": "在這個回合中，你的活躍寶可夢的撤退費用減少 2 點。",
+        ja: "この番、自分のバトルポケモンのにげるためのエネルギーを、2個少なくする。"
     },
     trainerType: "Supporter"
 };

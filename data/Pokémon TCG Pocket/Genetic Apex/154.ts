@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/154",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/154",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/154"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/154",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/154"
     },
     name: {
         en: "Hitmonlee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hitmonlee",
         de: "Kicklee",
         'pt-br': "Hitmonlee",
+        ja: "サワムラー",
         ko: "시라소몬",
         "zh-tw": "飛腿郎",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Calciallungo",
                 de: "Streckkick",
                 'pt-br': "Chute Esticado",
+                ja: "のびるキック",
                 ko: "늘어나는킥",
                 "zh-tw": "伸展踢"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹に30ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게 30데미지를 준다.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Questo straordinario Pokémon ha\nun grande equilibrio. Può tirare\nraffiche di calci da qualsiasi posizione.",
         de: "Dieses Pokémon besitzt einen formidablen\nGleichgewichtssinn. Es kann in jeder Position\npausenlos zutreten.",
         'pt-br': "Este incrível Pokémon possui um ótimo equilíbrio.\nConsegue chutar repetidamente de qualquer posição.",
+        ja: "見事な バランス感覚。 どんな 姿勢でも 連続で キックを 放てる すごい やつ。",
         ko: "훌륭한 밸런스 감각으로\n어떤 자세라도 연속\n킥을 날리는 대단한 녀석이다.",
         "zh-tw": "這個神奇的神奇寶貝具有令人敬畏的平衡感。它可以從任何位置連續踢球。"
     },

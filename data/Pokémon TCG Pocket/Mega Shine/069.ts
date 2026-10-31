@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/069",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/069"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/069"
     },
     name: {
         en: "Hiking Trail",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Alla fine del turno di ogni giocatore, quel giocatore pesca carte finché non ne ha 3 in mano.",
         de: "Am Ende des Zuges jedes Spielers zieht dieser Spieler Karten, bis er 3 Karten auf der Hand hat.",
         "pt-br": "No final do turno de cada jogador, esse jogador compra cartas até ter 3 cartas na mão.",
-        "zh-tw": "在每位玩家的回合結束時，該玩家抓牌，直到手中有 3 張牌。"
+        "zh-tw": "在每位玩家的回合結束時，該玩家抓牌，直到手中有 3 張牌。",
+        ja: "おたがいのプレイヤーは、自分の番の終わりに、自分の手札が3枚になるように、山札を引く。"
     },
     trainerType: "Stadium"
 };

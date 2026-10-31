@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/106"
     },
     name: {
         en: "Scraggy",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Scraggy",
         "de": "Zurrokex",
         "pt-br": "Scraggy",
-        "zh-tw": "滑滑小子"
+        "zh-tw": "滑滑小子",
+        ja: "ズルッグ"
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Darà una testata improvvisa a chiunque attiri l'attenzione\ncontatto con esso. Il suo cranio è estremamente duro.",
         "de": "Es wird jedem, der Aufmerksamkeit erregt, einen plötzlichen Kopfstoß verpassen\nKontakt damit. Sein Schädel ist extrem hart.",
         "pt-br": "Ele vai dar uma cabeçada abrupta em qualquer um que olhar\nentre em contato com ele. Seu crânio é extremamente duro.",
-        "zh-tw": "它會突然用頭撞任何引起注意的人\n與它接觸。它的頭骨極其堅硬。"
+        "zh-tw": "它會突然用頭撞任何引起注意的人\n與它接觸。它的頭骨極其堅硬。",
+        ja: "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。とても 硬い 頭がい骨を 持つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 20,
             cost: ["Darkness"]

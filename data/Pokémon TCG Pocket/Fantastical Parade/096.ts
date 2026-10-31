@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/096"
     },
     name: {
         en: "Alolan Grimer",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Grimer di Alola",
         "de": "Alola-Sleima",
         "pt-br": "Grimer de Alola",
-        "zh-tw": "阿羅拉臭泥"
+        "zh-tw": "阿羅拉臭泥",
+        ja: "アローラベトベター"
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Alolan Grimer divorerà volentieri qualsiasi tipo\ndi spazzatura, rendendolo un oggetto ampiamente utilizzato e popolare\nPokémon negli impianti di smaltimento dei rifiuti.",
         "de": "Alolan Grimer verschlingt gerne jede Sorte\nvon Müll, was es zu einem weit verbreiteten und beliebten Gerät macht\nPokémon bei Müllentsorgungsanlagen.",
         "pt-br": "Alolan Grimer engolirá com prazer qualquer tipo\nde lixo, tornando-o um recurso amplamente utilizado e popular\nPokémon em instalações de coleta de lixo.",
-        "zh-tw": "阿羅蘭·格里默會很樂意吞噬任何種類\n垃圾，使其成為廣泛使用和流行的\n垃圾處理設施中的神奇寶貝。"
+        "zh-tw": "阿羅蘭·格里默會很樂意吞噬任何種類\n垃圾，使其成為廣泛使用和流行的\n垃圾處理設施中的神奇寶貝。",
+        ja: "どんな ゴミでも おいしく 食べて くれるので ゴミ処分場では 大活躍の 人気者。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Libbra",
                 "de": "Pfund",
                 "pt-br": "Libra",
-                "zh-tw": "磅"
+                "zh-tw": "磅",
+                ja: "はたく"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"]

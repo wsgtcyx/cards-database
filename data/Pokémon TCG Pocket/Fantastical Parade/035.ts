@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/035"
     },
     name: {
         en: "Swampert",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Swampert",
         "de": "Sumpex",
         "pt-br": "Swampert",
-        "zh-tw": "巨沼怪"
+        "zh-tw": "巨沼怪",
+        ja: "ラグラージ"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Marshtomp",
         "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "沼躍魚"
+        "zh-tw": "沼躍魚",
+        ja: "ヌマクロー"
     },
     description: {
         en: "Swampert's arms are rock-hard. With one swing,\nthey can batter down Swampert's foes. This\nPokémon makes its nest on beautiful beaches.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le braccia di Swampert sono dure come la roccia. Con uno swing,\npossono abbattere i nemici di Swampert. Questo\nI Pokémon nidificano su bellissime spiagge.",
         "de": "Swamperts Arme sind steinhart. Mit einem Schwung,\nSie können Swamperts Feinde niederschmettern. Dies\nPokémon nisten an wunderschönen Stränden.",
         "pt-br": "Os braços de Swampert são duros como pedra. Com um balanço,\neles podem derrotar os inimigos de Swampert. Isto\nPokémon faz seus ninhos em belas praias.",
-        "zh-tw": "斯瓦伯特的手臂堅如磐石。一揮桿，\n他們可以擊敗斯瓦伯特的敵人。這個\n神奇寶貝在美麗的海灘上築巢。"
+        "zh-tw": "斯瓦伯特的手臂堅如磐石。一揮桿，\n他們可以擊敗斯瓦伯特的敵人。這個\n神奇寶貝在美麗的海灘上築巢。",
+        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Grande idromassaggio",
                 "de": "Großer Whirlpool",
                 "pt-br": "Hidromassagem Grande",
-                "zh-tw": "大漩渦"
+                "zh-tw": "大漩渦",
+                ja: "おおうずしお"
             },
             damage: 100,
             cost: ["Water", "Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 "de": "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
+                "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

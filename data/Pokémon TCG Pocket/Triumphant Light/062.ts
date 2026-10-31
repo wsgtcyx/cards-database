@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/062"
     },
     name: {
         en: "Eevee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Eevee",
         de: "Evoli",
         'pt-br': "Eevee",
+        ja: "イーブイ",
         ko: "이브이",
         "zh-tw": "伊布"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La capacità di evolversi in diverse specie gli permette\ndi adattarsi perfettamente a qualsiasi tipo di ambiente.",
         de: "Um sich jeder Umgebung perfekt anpassen zu\nkönnen, ist es in der Lage, sich zu verschiedenen\nPokémon zu entwickeln.",
         'pt-br': "Sua capacidade de evoluir para muitas formas\npermite que se adapte fácil e perfeitamente\na qualquer ambiente.",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。",
         ko: "환경 변화에 곧바로 적응할 수 있도록\n여러 형태로 진화할 수 있는\n가능성을 가지고 있다.",
         "zh-tw": "它進化成多種形態的能力使其能夠順利、完美地適應任何環境。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Codabotta",
                 de: "Schweifvertrimmer",
                 'pt-br': "Surra de Cauda",
+                ja: "しっぽではたく",
                 ko: "꼬리로 막치기",
                 "zh-tw": "尾擊"
             },

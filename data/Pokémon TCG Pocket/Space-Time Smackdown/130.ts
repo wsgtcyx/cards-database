@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/130",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/130"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/130"
     },
     name: {
         en: "Aipom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Aipom",
         de: "Griffel",
         'pt-br': "Aipom",
+        ja: "エイパム",
         ko: "에이팜",
         "zh-tw": "長尾怪手",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Poiché utilizza la coda per fare qualsiasi cosa, le sue vere mani\nsono diventate molto maldestre. Fa il nido sugli alberi più alti.",
         de: "Der übermäßige Einsatz seines Schweifes hatte\ndie Zurückbildung seiner Hände zur Folge.\nEs lebt in den Kronen hoher Bäume.",
         'pt-br': "Como costuma fazer tudo com sua cauda, tornou-se\ndesajeitado com as mãos. Seus ninhos podem ser\nencontrados no topo das árvores.",
+        ja: "シッポで いろんなことを していたら 手先は 不器用に なってしまった。 高い 木の上に 巣を 作る。",
         ko: "꼬리로 이것저것 하는 사이에\n손이 둔해지고 말았다.\n높은 나무 위에 둥지를 만든다.",
         "zh-tw": "隨著它尾巴的動作越來越多，它的手也變得笨拙了。它把巢築在高高的樹頂上。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Stoccacoda",
                 de: "Schweifstoß",
                 'pt-br': "Sova de Cauda",
+                ja: "しっぽパンチ",
                 ko: "꼬리펀치",
                 "zh-tw": "尾刺"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/238",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/238",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/238",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/238"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/238",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/238"
     },
     name: {
         en: "Lunala ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lunala-ex",
         de: "Lunala-ex",
         'pt-br': "Lunala ex",
+        ja: "ルナアーラex",
         ko: "루나아라 ex",
         "zh-tw": "露奈雅拉ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Cosmoem",
         "de": "Cosmovum",
         "pt-br": "Cosmoem",
-        "zh-tw": "科斯莫姆"
+        "zh-tw": "科斯莫姆",
+        ja: "コスモウム"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Connessione Psichica",
                 de: "Psychoverbindung",
                 'pt-br': "Conexão Psíquica",
+                ja: "サイココネクト",
                 ko: "사이코커넥트",
                 "zh-tw": "心靈連接"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi spostare tutte le Energie {P} da uno dei tuoi Pokémon {P} in panchina al tuo Pokémon attivo.",
                 de: "Einmal während deines Zuges kannst du alle {P}-Energien von 1 {P}-Pokémon auf deiner Bank auf dein Aktives Pokémon verschieben.",
                 'pt-br': "Uma vez durante o seu turno, você pode mover todas as Energias {P} de 1 dos seus Pokémon {P} no Banco para o seu Pokémon Ativo.",
+                ja: "自分の番に1回使える。自分のベンチの{P}ポケモン1匹から{P}エネルギーをすべて、バトルポケモンにつけ替える。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 벤치의 {P}포켓몬 1마리로부터 {P}에너지를 모두 배틀 포켓몬에게 바꿔 붙인다.",
                 "zh-tw": "在你的回合中，你可以將所有 {P} 能量從你的 1 個後備 {P} 神奇寶貝轉移到你的活躍神奇寶貝上。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Furia Lunare",
                 de: "Mondsturm",
                 'pt-br': "Detonação Lunar",
+                ja: "ルナブラスト",
                 ko: "루나블라스트",
                 "zh-tw": "月球爆炸"
             },

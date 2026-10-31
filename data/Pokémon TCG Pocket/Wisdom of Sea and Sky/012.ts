@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/012"
     },
     name: {
         en: "Ledian",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ledian",
         "pt-br": "Ledian",
         "zh-tw": "安瓢蟲",
+        ja: "レディアン",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Ledyba",
         "pt-br": "Ledyba",
         "zh-tw": "芭瓢蟲",
+        ja: "レディバ",
     },
     description: {
         en: "It's said that the patterns on its back are\nrelated to the stars in the night sky, but the\ndetails of that relationship remain unclear.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che i motivi sul dorso lo siano\nlegato alle stelle nel cielo notturno, ma il\ni dettagli di tale relazione rimangono poco chiari.",
         "de": "Es wird gesagt, dass die Muster auf der Rückseite so sind\nim Zusammenhang mit den Sternen am Nachthimmel, aber die\nEinzelheiten dieser Beziehung bleiben unklar.",
         "pt-br": "Diz-se que os padrões nas suas costas são\nrelacionado com as estrelas no céu noturno, mas o\nos detalhes desse relacionamento permanecem obscuros.",
-        "zh-tw": "據說它背上的圖案是\n與夜空中的星星有關，但\n這種關係的細節仍不清楚。"
+        "zh-tw": "據說它背上的圖案是\n與夜空中的星星有關，但\n這種關係的細節仍不清楚。",
+        ja: "背中の 模様は 夜空の 星と 関係 していると 言われているが 詳しいことは まだ 不明のまま。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Punch",
                 "de": "Stempel",
                 "pt-br": "Soco",
-                "zh-tw": "沖床"
+                "zh-tw": "沖床",
+                ja: "パンチ"
             },
             damage: 50,
             cost: ["Grass"]

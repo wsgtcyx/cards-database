@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/026"
     },
     name: {
         en: "Magcargo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magcargo",
         de: "Magcargo",
         'pt-br': "Magcargo",
+        ja: "マグカルゴ",
         ko: "마그카르고",
         "zh-tw": "熔岩蝸牛",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schneckmag",
         "pt-br": "Slugma",
         "zh-tw": "熔岩蟲",
+        ja: "マグマッグ",
     },
     description: {
         en: "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "A volte intense fiamme partono dal fragile\nguscio e avvolgono tutto il suo corpo.",
         de: "Aus seinem porösen Schneckengehäuse sprudeln\nFeuerfontänen, die seinen Körper durchfluten.",
         'pt-br': "Sua frágil concha ocasionalmente lança chamas intensas\nque circulam em volta do seu corpo.",
+        ja: "背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。",
         ko: "등껍질은 깨어지기 쉬우며\n가끔 체내를 순환하고 있는\n고열의 불꽃을 뿜어낸다.",
         "zh-tw": "它脆弱的外殼偶爾會噴出強烈的火焰，並在其全身循環。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Fiamme Ustionanti",
                 de: "Sengende Flammen",
                 'pt-br': "Chama Cauterizante",
+                ja: "やきこがす",
                 ko: "태워그을리기",
                 "zh-tw": "灼熱火焰"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"

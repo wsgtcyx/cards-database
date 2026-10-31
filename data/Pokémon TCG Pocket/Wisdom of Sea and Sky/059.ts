@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/059"
     },
     name: {
         en: "Suicune",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Suicune",
         "de": "Suicune",
         "pt-br": "Suicune",
-        "zh-tw": "水君"
+        "zh-tw": "水君",
+        ja: "スイクン"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Corre in giro per il mondo per purificare l'acqua contaminata.\nSi allontana con il vento del nord.",
         "de": "Es rast um die Welt, um verschmutztes Wasser zu reinigen.\nEs rennt mit dem Nordwind davon.",
         "pt-br": "Ele corre ao redor do mundo para purificar a água suja.\nEle foge com o vento norte.",
-        "zh-tw": "它在世界各地競相淨化污水。\n隨北風而逝。"
+        "zh-tw": "它在世界各地競相淨化污水。\n隨北風而逝。",
+        ja: "世界中を 駆け巡り 汚れた 水を 清めている。 北風と ともに 走り去る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flusso di cura",
                 "de": "Cure-Stream",
                 "pt-br": "Fluxo de cura",
-                "zh-tw": "治愈流"
+                "zh-tw": "治愈流",
+                ja: "キュアストリーム"
             },
             damage: 70,
             cost: ["Water", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 "de": "Während des nächsten Zuges deines Gegners verursachen Angriffe des verteidigenden Pokémon −20 Schadenspunkte.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causam -20 de dano.",
-                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
+                "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/125",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/125"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/125"
     },
     name: {
         en: "Hypno",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hypno",
         de: "Hypno",
         'pt-br': "Hypno",
+        ja: "スリーパー",
         ko: "슬리퍼",
         "zh-tw": "引夢貘人",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Drowzee",
         "de": "Traumato",
         "pt-br": "Drowzee",
-        "zh-tw": "催眠貘"
+        "zh-tw": "催眠貘",
+        ja: "スリープ"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Ipnopendolo",
                 de: "Schlafpendel",
                 'pt-br': "Pêndulo do Sono",
+                ja: "ねむりのふりこ",
                 ko: "잠듦의 추",
                 "zh-tw": "睡眠鐘擺"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Einmal während deines Zuges kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon jetzt schläft.",
+                ja: "自分の番に1回使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "Uma vez durante o seu turno, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Adormecido.",
                 "zh-tw": "在你的回合中，你可以拋一次硬幣。如果正面，則對手的活躍神奇寶貝現在處於睡眠狀態。"
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Psicopugno",
                 de: "Psyhieb",
                 'pt-br': "Soco Psíquico",
+                ja: "サイコパンチ",
                 ko: "사이코펀치",
                 "zh-tw": "靈拳"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Quando cattura lo sguardo del\nnemico, usa una varietà di poteri\npsichici come, ad esempio, l'ipnosi.",
         de: "Es heißt, wenn dieses Pokémon einem Gegner\nins Auge blicke, setze es zahlreiche Psycho-Kräfte\nwie beispielsweise Hypnose ein.",
         'pt-br': "Quando encara um inimigo, usa uma mistura de\nmovimentos psíquicos, como Hipnose e Confusão.",
+        ja: "相手と 目が 合ったときに 催眠術など 数々の 超能力を 使うという。",
         ko: "상대와 눈이 마주쳤을 때\n최면술 등의 다양한 초능력을\n사용한다고 전해진다.",
         "zh-tw": "當它鎖定敵人時，它會使用多種 psi 動作，例如催眠和混亂。"
     },

@@ -20,6 +20,53 @@ test('game card-ID name tokens retain the localized card identity', () => {
 
 const root = path.resolve(fileURLToPath(new URL('../../../..', import.meta.url)))
 
+test('restores an English singular article as an explicit Japanese count', () => {
+	const source = 'Draw [Num:Int plural_only=" " ][Gr:Count s="a card" p="cards" ].'
+	const target = '自分の山札を[Num:Int id="0" max_length="1"]枚引く。'
+	assert.equal(renderLocalizedTemplate(source, 'Draw a card.', target, 'ja', 'singular draw', {}), '自分の山札を1枚引く。')
+	assert.equal(renderLocalizedTemplate(source, 'Draw 2 cards.', target, 'ja', 'plural draw', {}), '自分の山札を2枚引く。')
+	assert.equal(renderLocalizedTemplate(source, 'Draw a card.', source, 'en', 'English singular retained', {}), 'Draw a card.')
+	assert.equal(renderLocalizedTemplate(
+		'Discard the top [Num:Int plural_only=" "][Gr:Count s="card" p="cards" ref="0"] of your deck.',
+		'Discard the top card of your deck.', '自分の山札を上から[Num:Int id="0"]枚トラッシュ。',
+		'ja', 'referenced unnamed singular', {},
+	), '自分の山札を上から1枚トラッシュ。')
+})
+
+test('Japanese numeric output keeps one even when the target token has plural-only spacing', () => {
+ assert.equal(renderLocalizedTemplate('Draw [Num:Int plural_only=" "][Gr:Count s="a card" p="cards"].', 'Draw a card.', '自分の山札を[Num:Int plural_only=" "]枚引く。', 'ja', 'native count with spacing', {}), '自分の山札を1枚引く。')
+})
+
+test('binds an omitted singular count independently of another explicit number', () => {
+	assert.equal(renderLocalizedTemplate(
+		'Draw [Num:Int plural_only=" "][Gr:Count s="a card" p="cards"]. Deal [Num:Int id="1"] damage.',
+		'Draw a card. Deal 20 damage.',
+		'[Num:Int id="1"]ダメージ。山札を[Num:Int id="0"]枚引く。',
+		'ja', 'singular beside damage', {},
+	), '20ダメージ。山札を1枚引く。')
+})
+
+test('refuses an empty numeric binding without singular grammar evidence', () => {
+	assert.throws(() => renderLocalizedTemplate(
+		'Draw [Num:Int] cards.', 'Draw cards.', '山札を[Num:Int]枚引く。',
+		'ja', 'missing count', {},
+	), /Cannot bind.*Num:Int/)
+})
+
+test('Japanese named references refuse missing dictionary entries', () => {
+	for (const token of ['CardName', 'CardNameByCardID', 'AttackName', 'AbilityName']) {
+		const maps = {
+			cardEnglishNames: indexNames({ '25': 'Pikachu' }),
+			attackEnglishNames: indexNames({ '25': 'Pikachu' }),
+			abilityEnglishNames: indexNames({ '25': 'Pikachu' }),
+			targetMaster: { Card: { Name: {} }, Attack: { Name: {} }, Ability: { Name: {} } },
+		}
+		const source = `Choose [Text:${token} id="0"].`
+		assert.throws(() => renderLocalizedTemplate(source, 'Choose Pikachu.', source, 'ja', `${token} missing`, maps), /Missing ja.*name/)
+		assert.equal(renderLocalizedTemplate(source, 'Choose Pikachu.', source, 'fr', `${token} legacy`, maps), 'Choose Pikachu.')
+	}
+})
+
 test('binds unnumbered French count tokens to the remaining source number', () => {
 	const rendered = renderLocalizedTemplate(
 		'This attack does [Num:Int id="1"] damage to [Num:Int id="0"] of your opponent’s Benched Pokémon.',

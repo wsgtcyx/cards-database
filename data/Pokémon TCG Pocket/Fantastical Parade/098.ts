@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/098"
     },
     name: {
         en: "Galarian Zigzagoon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Zigzagoon di Galar",
         "de": "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
-        "zh-tw": "伽勒爾蛇紋熊"
+        "zh-tw": "伽勒爾蛇紋熊",
+        ja: "ガラルジグザグマ"
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pensato per essere la forma più antica di Zigzagoon,\nsi muove a zigzag e semina il caos\ni suoi dintorni.",
         "de": "Gilt als die älteste Form des Zickzacks.\nes bewegt sich im Zickzack und richtet verheerende Schäden an\nseine Umgebung.",
         "pt-br": "Considerada a forma mais antiga de Zigzagoon,\nele se move em ziguezagues e causa estragos\nseu entorno.",
-        "zh-tw": "被認為是 Zigzagoon 最古老的形式，\n它以之字形移動並造成嚴重破壞\n它的周圍環境。"
+        "zh-tw": "被認為是 Zigzagoon 最古老的形式，\n它以之字形移動並造成嚴重破壞\n它的周圍環境。",
+        ja: "この姿が いちばん 古い ジグザグマの 姿 らしい。 ジグザグ動いて あたりを 荒らす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scavare gli artigli",
                 "de": "Krallen graben",
                 "pt-br": "Cavar Garras",
-                "zh-tw": "挖爪"
+                "zh-tw": "挖爪",
+                ja: "ツメをたてる"
             },
             damage: 20,
             cost: ["Darkness"]

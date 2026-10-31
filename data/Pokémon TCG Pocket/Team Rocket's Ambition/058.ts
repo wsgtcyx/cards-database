@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/058",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/058",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/058"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/058"
     },
     name: {
         en: "Team Rocket's Rattata",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "La sua straordinaria resistenza gli permette di adattarsi anche ad habitat insalubri. Se lasciato indisturbato, si riproduce in gran numero.",
         de: "Sie strotzen vor Lebenskraft und können selbst an schmutzigen Orten problemlos überleben. Bleiben sie ungestört, vermehren sie sich rasch.",
         "pt-br": "Graças à sua grande capacidade de sobrevivência, pode viver em lugares sujos sem preocupação. Se não houver controle, sua população se multiplica rapidamente.",
-        "zh-tw": "生命力很強，即使在骯髒的地方也能安然生活。放任不管的話會不停繁殖。"
+        "zh-tw": "生命力很強，即使在骯髒的地方也能安然生活。放任不管的話會不停繁殖。",
+        ja: "生命力が 強く 汚い 場所でも 平気で 暮らす。 ほっておくと どんどん 増えていく。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Imboscata",
                 de: "Hinterhalt",
                 "pt-br": "Emboscada",
-                "zh-tw": "伏擊"
+                "zh-tw": "伏擊",
+                ja: "おそいかかる"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais.",
-                "zh-tw": "擲1次硬幣若為正面,則增加20點傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則增加20點傷害。",
+                ja: "コインを1回投げオモテなら、20ダメージ追加。"
             },
             damage: "20+"
         }

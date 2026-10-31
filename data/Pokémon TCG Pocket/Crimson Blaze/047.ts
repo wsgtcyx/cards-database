@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/047"
     },
     name: {
         en: "Purrloin",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Purrloin",
         "de": "Felilou",
         "pt-br": "Purrloin",
-        "zh-tw": "扒手貓"
+        "zh-tw": "扒手貓",
+        ja: "チョロネコ"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Avversari che vengono attratti dalla sua adorabile\ncomportamento viene via con graffi pungenti\ni suoi artigli e l'orgoglio pungente delle sue risate.",
         "de": "Gegner, die sich von seiner Liebenswürdigkeit anziehen lassen\nVerhalten kommt mit stechenden Kratzern weg\nseine Krallen und der stechende Stolz seines Lachens.",
         "pt-br": "Oponentes que são atraídos por seu adorável\ncomportamento sai com arranhões dolorosos de\nsuas garras e o orgulho pungente de sua risada.",
-        "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。"
+        "zh-tw": "被其可愛所吸引的對手\n行為會隨著刺痛的划痕而消失\n它的爪子和笑聲帶來的刺痛的驕傲。",
+        ja: "愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Inciampare",
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
-                "zh-tw": "絆倒"
+                "zh-tw": "絆倒",
+                ja: "ころばす"
             },
             damage: "10+",
             cost: ["Darkness"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

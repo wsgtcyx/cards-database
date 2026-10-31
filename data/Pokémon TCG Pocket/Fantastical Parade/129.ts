@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/129",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/129"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/129"
     },
     name: {
         en: "Furret",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Furret",
         "de": "Wiesenior",
         "pt-br": "Furret",
-        "zh-tw": "大尾立"
+        "zh-tw": "大尾立",
+        ja: "オオタチ"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sentret",
         "de": "Wiesor",
         "pt-br": "Sentret",
-        "zh-tw": "尾立"
+        "zh-tw": "尾立",
+        ja: "オタチ"
     },
     description: {
         en: "It is nimble and has a very flexible body.\nEven if you get ahold of it, it'll slip right out\nof your arms.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "È agile e ha un corpo molto flessibile.\nAnche se riesci a trattenerlo, ti scivolerà via\ndelle tue braccia.",
         "de": "Es ist flink und hat einen sehr flexiblen Körper.\nSelbst wenn man es in die Hand nimmt, rutscht es sofort heraus\ndeiner Arme.",
         "pt-br": "É ágil e possui um corpo muito flexível.\nMesmo se você conseguir, ele vai escapar\ndos seus braços.",
-        "zh-tw": "它行動敏捷，身體非常靈活。\n即使你抓住它，它也會直接滑落\n你的手臂。"
+        "zh-tw": "它行動敏捷，身體非常靈活。\n即使你抓住它，它也會直接滑落\n你的手臂。",
+        ja: "すばしっこく とても 体が 柔らかいので 捕まえても するりと 腕から 抜け出すぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Rimbalzo della testata",
                 "de": "Kopfstoß-Abprall",
                 "pt-br": "Salto de cabeçada",
-                "zh-tw": "頭撞彈跳"
+                "zh-tw": "頭撞彈跳",
+                ja: "とびだしヘッド"
             },
             damage: 40,
             cost: ["Colorless"]

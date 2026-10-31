@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/164",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/164",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/164"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/164",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/164"
     },
     name: {
         en: "Tapu Fini",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tapu Fini",
         de: "Kapu-Kime",
         'pt-br': "Tapu Fini",
+        ja: "カプ・レヒレ",
         ko: "카푸느지느",
         "zh-tw": "卡璞・鰭鰭",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Protettore di Poni, ha il potere di controllare i flutti. Vive\nin una fitta nebbia, venerato e temuto allo stesso tempo.",
         de: "Als Schutzpatron von Poni kontrolliert es das Wasser\nund lauert im dichten Nebel. Es wird gleichermaßen\ngefürchtet wie respektiert.",
         'pt-br': "O espírito guardião da Ilha Poni manipula a água.\nVive nas profundezas de uma névoa espessa,\npor isso passou a ser temido e reverenciado.",
+        ja: "深い 霧の 奥に 棲んでいると 恐れ 敬われてきた。 水を 操る ポニの 守り神だ。",
         ko: "짙은 안개 속에 살고 있다고\n두려움과 존경을 받아 왔다.\n물을 조종하는 포니의 수호신이다.",
         "zh-tw": "這位波尼島的守護神可以操縱水。因為它生活在濃霧深處，所以人們既害怕又尊敬它。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Assorbimento Spirale",
                 de: "Spiralsauger",
                 'pt-br': "Dreno Espiral",
+                ja: "スパイラルドレイン",
                 ko: "스파이럴 드레인",
                 "zh-tw": "螺旋排水管"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
             }

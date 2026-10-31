@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/217",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/217",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/217"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/217",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/217"
     },
     name: {
         en: "Flame Patch",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flammenpflaster",
         "pt-br": "Fragmento Incendiário",
         "zh-tw": "火補丁",
+        ja: "フレイムパッチ",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Assegna un'Energia {R} dalla tua pila degli scarti al tuo Pokémon attivo {R}.",
         "de": "Lege eine {R}-Energie von deinem Ablagestapel an dein aktives {R}-Pokémon an.",
         "pt-br": "Ligue uma Energia {R} da sua pilha de descarte ao seu Pokémon {R} ativo.",
-        "zh-tw": "將棄牌堆中的 {R} 能量附加到你的活躍 {R} 神奇寶貝上。"
+        "zh-tw": "將棄牌堆中的 {R} 能量附加到你的活躍 {R} 神奇寶貝上。",
+        ja: "自分のトラッシュから{R}エネルギーを1個、バトル場の{R}ポケモンにつける。"
     },
     trainerType: "Item"
 };

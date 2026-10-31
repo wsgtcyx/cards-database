@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/094"
     },
     name: {
         en: "Alolan Meowth",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Meowth di Alola",
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
-        "zh-tw": "阿羅拉喵喵"
+        "zh-tw": "阿羅拉喵喵",
+        ja: "アローラニャース"
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Profondamente orgoglioso e profondamente intelligente, questo Pokémon\nsi muove con astuzia durante la battaglia e senza sosta\nattacca i punti deboli dei nemici.",
         "de": "Dieses Pokémon ist zutiefst stolz und überaus klug\nbewegt sich im Kampf mit List und unerbittlich\ngreift die Schwachstellen der Feinde an.",
         "pt-br": "Profundamente orgulhoso e extremamente inteligente, este Pokémon\nmove-se com astúcia durante a batalha e incansavelmente\nataca os pontos fracos dos inimigos.",
-        "zh-tw": "這只神奇寶貝非常自豪且非常聰明\n在戰鬥中狡猾而無情地行動\n攻擊敵人的弱點。"
+        "zh-tw": "這只神奇寶貝非常自豪且非常聰明\n在戰鬥中狡猾而無情地行動\n攻擊敵人的弱點。",
+        ja: "プライドと 知能が 高い。 ずる賢く 立ちまわり 相手の 弱点を 執拗に 攻める。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spavalderia",
                 "de": "Stolzieren",
                 "pt-br": "Arrogância",
-                "zh-tw": "昂首闊步"
+                "zh-tw": "昂首闊步",
+                ja: "いばる"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

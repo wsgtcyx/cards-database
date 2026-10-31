@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/119",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/119"
     },
     name: {
         en: "Carbink",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rocara",
         "pt-br": "Carbink",
         "zh-tw": "小碎鑽",
+        ja: "メレシー",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che da qualche parte nel mondo esista\nuna vena minerale che ospita un grande branco di dormienti\nCarbink. Si dice anche che questo branco abbia una regina.",
         "de": "Es heißt, dass es irgendwo auf der Welt so etwas gibt\neine mineralische Ader, in der ein großes Rudel schlummert\nCarbink. Es heißt auch, dass dieses Rudel eine Königin hat.",
         "pt-br": "Diz-se que em algum lugar do mundo existe\num veio mineral que abriga um grande pacote de adormecidos\nCarabina. Também é dito que este bando tem uma rainha.",
-        "zh-tw": "據說，在世界的某個地方，有\n礦脈裡藏著一大群沉睡的人\n卡賓克。據說這個包裡有一個女王。"
+        "zh-tw": "據說，在世界的某個地方，有\n礦脈裡藏著一大群沉睡的人\n卡賓克。據說這個包裡有一個女王。",
+        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 30,
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
             }
         }],
     weaknesses: [{

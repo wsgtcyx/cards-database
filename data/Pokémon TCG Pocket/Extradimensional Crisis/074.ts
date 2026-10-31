@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/074"
     },
     name: {
         en: "Silvally",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Amigento",
         "pt-br": "Silvally",
         "zh-tw": "銀伴戰獸",
+        ja: "シルヴァディ",
     },
     illustrator: "hncl",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Typ:Null",
         "pt-br": "Tipo Nulo",
         "zh-tw": "屬性：空",
+        ja: "タイプ：ヌル",
     },
     description: {
         en: "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questa è la sua forma una volta che si è risvegliato e\nevoluto. Liberata dalla sua pesante maschera, la sua velocità è\nnotevolmente aumentato.",
         "de": "Dies ist seine Form, sobald es erwacht ist und\nweiterentwickelt. Von seiner schweren Maske befreit, ist seine Geschwindigkeit\nstark erhöht.",
         "pt-br": "Esta é a sua forma, uma vez que ele despertou e\nevoluiu. Livre de sua máscara pesada, sua velocidade é\naumentou muito.",
-        "zh-tw": "這是它覺醒後的形態\n進化了。擺脫了沉重的面具，它的速度是\n大大增加。"
+        "zh-tw": "這是它覺醒後的形態\n進化了。擺脫了沉重的面具，它的速度是\n大大增加。",
+        ja: "覚醒し 進化した 姿。 重い マスクから 解き放たれ スピードが 大幅に アップ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Amici coraggiosi",
                 "de": "Tapfere Freunde",
                 "pt-br": "Bravos amigos",
-                "zh-tw": "勇敢的伙伴"
+                "zh-tw": "勇敢的伙伴",
+                ja: "バディブレイブ"
             },
             damage: "50+",
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se hai giocato una carta Aiuto dalla tua mano durante questo turno, questo attacco infligge 50 danni in più.",
                 "de": "Wenn du in diesem Zug eine Unterstützerkarte aus deiner Hand gespielt hast, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果你在本回合中從手牌中打出了支持者卡，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果你在本回合中從手牌中打出了支持者卡，則此攻擊造成的傷害增加 50 點。",
+                ja: "この番、手札からサポートを出して使っていたなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

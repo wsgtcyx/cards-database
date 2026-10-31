@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/002"
     },
     name: {
         en: "Kakuna",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kakuna",
         de: "Kokuna",
         'pt-br': "Kakuna",
+        ja: "コクーン",
         ko: "딱충이",
         "zh-tw": "鐵殼蛹"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Weedle",
         "de": "Hornliu",
         "pt-br": "Weedle",
-        "zh-tw": "獨角蟲"
+        "zh-tw": "獨角蟲",
+        ja: "ビードル"
     },
     description: {
         en: "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quasi incapace di muoversi, questo Pokémon può\nsolo indurire il proprio guscio per proteggersi.",
         de: "Dieses Pokémon kann sich kaum bewegen.\nBei drohender Gefahr verhärtet es seinen Panzer.",
         'pt-br': "Quase incapaz de se mover, esse Pokémon\npode apenas endurecer sua carapaça para\nse proteger quando está em perigo.",
+        ja: "自分では ほとんど 動けないが 危ないときは 硬くなって 身を守っているようだ。",
         ko: "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다.",
         "zh-tw": "這種神奇寶貝幾乎無法移動，只有在遇到危險時才能硬化外殼來保護自己。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Millebave",
             de: "Fadenschuss",
             'pt-br': "Estilingada",
+            ja: "いとをはく",
             ko: "실뿜기",
             "zh-tw": "弦擊"
         },
@@ -65,6 +70,7 @@ const card: Card = {
             es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
             it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
             de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+            ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
             ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
             'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
             "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"

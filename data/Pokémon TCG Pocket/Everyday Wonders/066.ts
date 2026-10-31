@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/066",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/066"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/066"
     },
     name: {
         en: "Elesa",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Fai ritornare tutti gli Strumenti Pokémon assegnati a ciascun Pokémon (sia tuo che del tuo avversario) in mano al rispettivo proprietario.",
         de: "Bringe alle an jedem Pokémon befestigten Pokémon-Werkzeuge (sowohl deines als auch die deines Gegners) auf die Hand ihres Besitzers zurück.",
         "pt-br": "Devolva todas as Ferramentas Pokémon anexadas a cada Pokémon (tanto o seu quanto o do seu oponente) para a mão do dono dele.",
-        "zh-tw": "將每個寶可夢（你的和對手的）上附著的所有寶可夢工具送回其所有者的手上。"
+        "zh-tw": "將每個寶可夢（你的和對手的）上附著的所有寶可夢工具送回其所有者的手上。",
+        ja: "おたがいのポケモン全員から「ポケモンのどうぐ」をすべて、持ち主の手札にもどす。"
     },
     trainerType: "Supporter"
 };

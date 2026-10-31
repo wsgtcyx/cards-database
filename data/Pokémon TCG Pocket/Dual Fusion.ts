@@ -16,7 +16,8 @@ const set: Set = {
         ko: "듀얼 퓨전"
     },
     logo: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo"
     },
     cardCount: {
         official: 131
@@ -42,7 +43,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
-                ja: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
                 ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp"
             },
             artwork_front: {
@@ -77,7 +78,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
-                ja: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/pikachu/logo.webp",
                 ko: "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp"
             },
             artwork_front: {

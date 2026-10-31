@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/156",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/156"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/156",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/156"
     },
     name: {
         en: "Will",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Willi",
         "pt-br": "Will",
         "zh-tw": "一樹",
+        ja: "イツキ",
     },
     illustrator: "GIDORA",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "La prossima volta che lanci un qualsiasi numero di monete per l'effetto di un attacco, di un'abilità o di una carta Allenatore dopo aver usato questa carta in questo turno, il primo lancio di moneta darà sicuramente testa.",
         "de": "Wenn Sie das nächste Mal eine beliebige Anzahl von Münzen für den Effekt einer Angriffs-, Fähigkeits- oder Trainerkarte werfen, nachdem Sie diese Karte in diesem Zug verwendet haben, wird der erste Münzwurf definitiv „Kopf“ sein.",
         "pt-br": "Na próxima vez que você lançar qualquer número de moedas para o efeito de uma carta de ataque, habilidade ou treinador depois de usar esta carta neste turno, o primeiro lançamento de moeda será definitivamente cara.",
-        "zh-tw": "在本回合使用這張卡後，下次為攻擊、能力或訓練卡的效果而翻轉任意數量的硬幣時，第一個硬幣翻轉肯定是正面。"
+        "zh-tw": "在本回合使用這張卡後，下次為攻擊、能力或訓練卡的效果而翻轉任意數量的硬幣時，第一個硬幣翻轉肯定是正面。",
+        ja: "この番、このカードを使ったあとに、ワザ・特性・トレーナーズの効果で自分が次に投げるコインは、最初の1回だけ、必ずオモテになる。"
     },
     trainerType: "Supporter",
     boosters: ["lugia"]

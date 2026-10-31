@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/206",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/206",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/206",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/206"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/206",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/206"
     },
     name: {
         en: "Torchic",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nel suo corpo brucia una fiamma e abbracciandolo\nsi avverte calore. Lancia palle di fuoco a 1000 °C.",
         de: "In seinem Inneren lodert ein Feuer. Es schleudert\n1 000 °C heiße Feuerbälle.",
         "pt-br": "Um fogo queima por dentro, então é muito quente abraçar. Ele lança bolas de fogo de 1.800 graus Fahrenheit.",
-        "zh-tw": "裡面有一團火在燃燒，擁抱起來感覺很溫暖。它發射 1,800 華氏度的火球。"
+        "zh-tw": "裡面有一團火在燃燒，擁抱起來感覺很溫暖。它發射 1,800 華氏度的火球。",
+        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 "pt-br": "Bicada",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20
         }

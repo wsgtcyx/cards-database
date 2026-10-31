@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/170",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/170"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/170"
     },
     name: {
         en: "Nidorino",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidorino",
         de: "Nidorino",
         'pt-br': "Nidorino",
+        ja: "ニドリーノ",
         ko: "니드리노",
         "zh-tw": "尼多力諾",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Nidoran ♂",
         "de": "Nidoran♂",
         "pt-br": "Nidoran♂",
-        "zh-tw": "尼多朗"
+        "zh-tw": "尼多朗",
+        ja: "ニドラン♂"
     },
     attacks: [{
             cost: ["Darkness", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Incornata",
                 de: "Hornattacke",
                 'pt-br': "Ataque de Chifre",
+                ja: "つのでつく",
                 ko: "뿔찌르기",
                 "zh-tw": "號角攻擊"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Vaga alla ricerca di una Pietralunare frantumando\nrocce con il suo corno più duro del diamante.",
         de: "Auf der Suche nach einem Mondstein\nzerstört es Felsen mit seinem Horn,\ndas härter ist als ein Diamant.",
         'pt-br': "Com um chifre mais duro que um diamente,\neste Pokémon sai por aí destruindo rochas\nenquanto busca por uma Pedra da Lua.",
+        ja: "ダイヤモンドより 硬い ツノで 岩石を 砕いて まわる。 つきのいしを 探しているのだ。",
         ko: "다이아몬드보다 단단한 뿔로\n암석을 부수며 다닌다.\n달의돌을 찾고 있는 것이다.",
         "zh-tw": "這只神奇寶貝擁有比鑽石還硬的角，在尋找月光石時會繞過破碎的巨石。"
     },

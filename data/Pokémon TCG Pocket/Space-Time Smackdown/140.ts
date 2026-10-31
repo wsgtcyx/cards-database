@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/140",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/140"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/140"
     },
     name: {
         en: "Purugly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Purugly",
         de: "Shnurgarst",
         'pt-br': "Purugly",
+        ja: "ブニャット",
         ko: "몬냥이",
         "zh-tw": "東施喵",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Charmian",
         "pt-br": "Glameow",
         "zh-tw": "魅力喵",
+        ja: "ニャルマー",
     },
     description: {
         en: "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si introduce sfacciatamente nelle tane degli\naltri Pokémon rivendicandole poi come proprie.",
         de: "Behagt ihm die Behausung eines anderen Pokémon,\nbleibt Shnurgarst einfach da und nistet sich dort ein.",
         'pt-br': "Se encontra um ninho de outro Pokémon que acha\nconfortável o bastante, toma-o para si.",
+        ja: "ほかの ポケモンの 住処でも 居心地が 良ければ 居座って 自分の 住処に してしまう。",
         ko: "다른 포켓몬의 거처라 할지라도\n편안하면 눌러앉아\n자신의 거처로 삼아버린다.",
         "zh-tw": "如果它發現一個足夠舒適的巢穴，它會聲稱另一個神奇寶貝的巢穴是自己的。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Interruzione",
                 de: "Stören",
                 'pt-br': "Interrupção",
+                ja: "じゃまする",
                 ko: "방해하기",
                 "zh-tw": "打斷"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Il tuo avversario mostra le carte che ha in mano. Scegline una e rimischiala nel suo mazzo.",
                 de: "Dein Gegner zeigt dir seine Handkarten. Wähle 1 Karte, die du dort findest, und mische sie in das Deck deines Gegners.",
                 'pt-br': "Seu oponente revela a mão dele. Escolha 1 carta que encontrar lá e embaralhe-a no baralho do seu oponente.",
+                ja: "相手の手札のオモテをすべて見て、その中からカードを1枚選び、山札にもどす。",
                 ko: "상대의 패의 앞면을 모두 보고 그 중에서 카드를 1장 선택해서 덱으로 되돌린다.",
                 "zh-tw": "你的對手亮出了他們的牌。選擇在那裡找到的一張牌並將其洗入對手的牌庫中。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/208",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/208",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/208"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/208",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/208"
     },
     name: {
         en: "Typhlosion ex",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Igelavar",
         "pt-br": "Quilava",
         "zh-tw": "火岩鼠",
-        ja: "Quilava",
+        ja: "マグマラシ",
         ko: "Quilava"
     },
     suffix: "EX",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Verzehrendes Inferno",
                 "pt-br": "Inferno Destrutivo",
                 "zh-tw": "破壞業火",
-                ja: "Destructive Inferno",
+                ja: "はかいのごうか",
                 ko: "Destructive Inferno"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Lege pro Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。",
-                ja: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
                 ko: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
             }
         }

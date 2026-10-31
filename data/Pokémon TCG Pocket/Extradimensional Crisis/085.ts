@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/085",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/085"
     },
     name: {
         en: "Lycanroc ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wolwerock-ex",
         "pt-br": "Lycanroc ex",
         "zh-tw": "鬃岩狼人ex",
+        ja: "ルガルガンex",
     },
     illustrator: "Jiro Sasumo",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
+        ja: "イワンコ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Lycanfang",
                 "de": "Lycanfang",
                 "pt-br": "Presa Licantina",
-                "zh-tw": "狼牙"
+                "zh-tw": "狼牙",
+                ja: "ガルファング"
             },
             damage: 130,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {F} da questo Pokémon.",
                 "de": "Wirf eine {F}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {F} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {F} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {F} 能量。",
+                ja: "このポケモンから{F}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

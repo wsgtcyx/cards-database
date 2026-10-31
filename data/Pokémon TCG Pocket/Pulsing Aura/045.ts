@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/045",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/045"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/045"
     },
     name: {
         en: "Regice",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo corpo è interamente costituito da ghiaccio.\nSi narra che nacque sotto un massiccio strato\ndi ghiaccio durante l’era glaciale.",
         de: "Sein gesamter Körper besteht aus Eis. Man sagt,\nes wurde während der Eiszeit unter einer dicken\nEisschicht geboren.",
         "pt-br": "O corpo deste Pokémon é feito de gelo sólido. Diz-se que Regice nasceu sob gelo espesso na era glacial.",
-        "zh-tw": "全身都是由冰塊構成。\n據說牠是在冰河時期\n誕生在厚實的冰層下。"
+        "zh-tw": "全身都是由冰塊構成。\n據說牠是在冰河時期\n誕生在厚實的冰層下。",
+        ja: "全身が 氷で できている。 氷河時代に ぶ厚い 氷の 下で 生まれたと いわれている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rifletti Energia",
                 de: "Energiereflexion",
                 "pt-br": "Refletir Energia",
-                "zh-tw": "能量反射"
+                "zh-tw": "能量反射",
+                ja: "エネリフレクト"
             },
             effect: {
                 en: "Move 2 random Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Sposta due Energie casuali da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 de: "Verschiebe 2 zufällige Energien von diesem Pokémon auf 1 deiner Bank-Pokémon.",
                 "pt-br": "Mova 2 Energias aleatórias deste Pokémon para 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將該寶可夢中的 2 個隨機能量移到你後備的 1 個寶可夢上。"
+                "zh-tw": "將該寶可夢中的 2 個隨機能量移到你後備的 1 個寶可夢上。",
+                ja: "このポケモンからエネルギーをランダムに2個、ベンチポケモン1匹につけ替える。"
             },
             damage: 70
         }

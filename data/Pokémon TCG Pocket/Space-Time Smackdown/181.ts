@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/181",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/181",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/181",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/181"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/181",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/181"
     },
     name: {
         en: "Infernape ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Infernape-ex",
         de: "Panferno-ex",
         'pt-br': "Infernape ex",
+        ja: "ゴウカザルex",
         ko: "초염몽 ex",
         "zh-tw": "烈焰猴ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Panpyro",
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
+        ja: "モウカザル",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuococarica",
                 de: "Flammenblitz",
                 'pt-br': "Blitz de Labaredas",
+                ja: "フレアドライブ",
                 ko: "플레어드라이브",
                 "zh-tw": "耀斑閃電戰"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Rimuovi tutte le Energie {R} da questo Pokémon.",
                 de: "Lege alle {R}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte todas as Energias {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーをすべてトラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 모두 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。"
             }

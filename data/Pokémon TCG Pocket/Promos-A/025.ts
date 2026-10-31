@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/025"
     },
     name: {
         en: "Moltres ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Moltres-ex",
         de: "Lavados-ex",
         'pt-br': "Moltres ex",
+        ja: "ファイヤーex",
         ko: "파이어 ex",
         "zh-tw": "火焰鳥ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Danza Fiammeggiante",
                 de: "Infernotanz",
                 'pt-br': "Dança Infernal",
+                ja: "れっかのまい",
                 ko: "열화의춤",
                 "zh-tw": "地獄之舞"
             },
@@ -47,6 +50,7 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Prendi un numero di Energie {R} dalla tua Zona Energia uguale al numero di volte in cui è uscito testa e assegnale ai tuoi Pokémon {R} in panchina nel modo che preferisci.",
                 de: "Wirf 3 Münzen. Lege pro Kopf 1 {R}-Energie aus deinem Energiebereich beliebig an die {R}-Pokémon auf deiner Bank an.",
                 'pt-br': "Jogue 3 moedas. Pegue uma quantidade de Energia {R} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {R} no Banco como desejar.",
+                ja: "コインを3回投げ、オモテの数ぶんの{R}エネルギーを自分のエネルギーゾーンから出し、ベンチの{R}ポケモンに好きなようにつける。",
                 ko: "동전을 3번 던져서 앞면이 나온 수만큼의 {R}에너지를 자신의 에너지존에서 내보내 벤치의 {R}포켓몬에게 원하는 대로 붙인다.",
                 "zh-tw": "翻轉 3 個硬幣。從你的能量區取出相當於頭部數量的 {R} 能量，並以你喜歡的任何方式將其附加到你的後備 {R} 神奇寶貝上。"
             }
@@ -58,6 +62,7 @@ const card: Card = {
                 it: "Caldobomba",
                 de: "Hitzestoß",
                 'pt-br': "Raio de Calor",
+                ja: "ヒートブラスト",
                 ko: "히트블라스트",
                 "zh-tw": "熱風"
             },

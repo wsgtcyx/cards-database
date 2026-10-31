@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/169",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/169",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/169"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/169",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/169"
     },
     name: {
         en: "Indeedee",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Indeedee",
         "de": "Servol",
         "pt-br": "Indeedee",
-        "zh-tw": "愛管侍"
+        "zh-tw": "愛管侍",
+        ja: "イエッサン"
     },
     illustrator: "saino misaki",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon non lascia mai il fianco del suo Allenatore.\nPredice le loro azioni con il suo potere psichico\ne si prende cura delle loro necessità quotidiane.",
         "de": "Dieses Pokémon verlässt niemals die Seite seines Trainers.\nEs sagt ihre Handlungen mit seiner psychischen Kraft voraus\nund kümmert sich um ihre alltäglichen Bedürfnisse.",
         "pt-br": "Este Pokémon nunca sai do lado do seu Treinador.\nPrevê suas ações com seu poder psíquico\ne cuida de suas necessidades do dia a dia.",
-        "zh-tw": "這只神奇寶貝永遠不會離開訓練家的身邊。\n用心靈力量預測他們的行動\n並照顧他們的日常需求。"
+        "zh-tw": "這只神奇寶貝永遠不會離開訓練家的身邊。\n用心靈力量預測他們的行動\n並照顧他們的日常需求。",
+        ja: "つねに トレーナーの そばに いる。 サイコパワーで 行動を 予知して 身のまわりの 世話をする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frammento Zen",
                 "de": "Zen-Scherbe",
                 "pt-br": "Fragmento Zen",
-                "zh-tw": "禪宗碎片"
+                "zh-tw": "禪宗碎片",
+                ja: "しねんのつぶて"
             },
             cost: ["Psychic", "Psychic", "Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 70 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 70 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 70 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 70 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 70 點傷害。",
+                ja: "相手のベンチポケモン1匹に70ダメージ。"
             }
         }],
     weaknesses: [{

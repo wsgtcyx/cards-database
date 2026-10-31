@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/173",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/173",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/173",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/173"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/173",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/173"
     },
     name: {
         en: "Golbat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golbat",
         de: "Golbat",
         'pt-br': "Golbat",
+        ja: "ゴルバット",
         ko: "골뱃",
         "zh-tw": "大嘴蝠"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Zubat",
         "de": "Zubat",
         "pt-br": "Zubat",
-        "zh-tw": "超音蝠"
+        "zh-tw": "超音蝠",
+        ja: "ズバット"
     },
     attacks: [{
             cost: ["Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Attacco d'Ala",
                 de: "Flügelschlag",
                 'pt-br': "Ataque de Asa",
+                ja: "つばさでうつ",
                 ko: "날개치기",
                 "zh-tw": "翼攻擊"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Va matto per il sangue di altre creature. Si dice\nche a volte lo condivida con i compagni affamati.",
         de: "Das Blut anderer Lebewesen ist seine Leibspeise.\nMan sagt, dass es das abgesaugte Blut manchmal\nmit hungrigen Artgenossen teilt.",
         'pt-br': "Ama beber o sangue de outras criaturas. Dizem que,\nse encontra outros de sua espécie passando fome,\nàs vezes compartilha o sangue que recolheu.",
+        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。",
         ko: "살아 있는 생물의 혈액을 좋아한다.\n굶주린 동료에게 빨아들인 피를\n나눠주기도 한다고 한다.",
         "zh-tw": "牠喜歡喝其他生物的血。據說，如果它發現其他同類挨餓，有時它會分享它收集的血液。"
     },

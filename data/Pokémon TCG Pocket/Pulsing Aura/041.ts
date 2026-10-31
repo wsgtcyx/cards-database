@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/041"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/041"
     },
     name: {
         en: "Castform Snowy Form",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Castform Forma Nevada",
         "zh-tw": "飄浮泡泡雪雲的樣子",
         ko: "캐스퐁 설운의 모습",
-        ja: "ポワルン ゆきぐものすがた"
+        ja: "ポワルンゆきぐものすがた"
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questa è la forma di Castform quando viene sorpreso da una grandinata. Tutto il suo corpo è freddo e la sua pelle è parzialmente congelata!",
         de: "Dies ist die Form von Formeo, wenn es in einen Hagelsturm gerät. Sein ganzer Körper ist gekühlt und seine Haut ist teilweise gefroren!",
         "pt-br": "Esta é a forma de Castform quando pego por uma tempestade de granizo. Todo o seu corpo está gelado e sua pele parcialmente congelada!",
-        "zh-tw": "這是飄浮泡泡遭遇冰雹時的型態。它的全身都是冰冷的，連皮膚都被凍住了！"
+        "zh-tw": "這是飄浮泡泡遭遇冰雹時的型態。它的全身都是冰冷的，連皮膚都被凍住了！",
+        ja: "霰に 打たれると この 姿に 変化する。 全身 冷たく 皮膚は 少し 凍っているぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Neve Raggelante",
                 de: "Verschneites Frieren",
                 "pt-br": "Friagem Nevada",
-                "zh-tw": "雪雲冰凍"
+                "zh-tw": "雪雲冰凍",
+                ja: "こごえるゆきぐも"
             },
             effect: {
                 en: "If a Stadium is in play, your opponent's Active Pokémon is now Asleep.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se è in gioco uno Stadio, il Pokémon attivo del tuo avversario è addormentato.",
                 de: "Wenn ein Stadion im Spiel ist, schläft das aktive Pokémon deines Gegners jetzt.",
                 "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente agora estará Adormecido.",
-                "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在處於睡眠狀態。"
+                "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在處於睡眠狀態。",
+                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをねむりにする。"
             },
             damage: 40
         }

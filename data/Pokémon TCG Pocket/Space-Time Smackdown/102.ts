@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/102"
     },
     name: {
         en: "Stunky",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Stunky",
         de: "Skunkapuh",
         'pt-br': "Stunky",
+        ja: "スカンプー",
         ko: "스컹뿡",
         "zh-tw": "臭鼬噗",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Emette un fluido puzzolente dal posteriore. Il\ntanfo tiene lontani i Pokémon nel raggio di 2 km.",
         de: "Der Gestank der Substanz, die es aus seinem\nHinterleib versprüht, verbreitet sich in einem\nRadius von 2 km und vertreibt andere Pokémon.",
         'pt-br': "Espirra um fluído malcheiroso das costas.\nSeu fedor espalha-se por mais de 1 quilômetro,\nafastando outros Pokémon.",
+        ja: "お尻から飛ばす くさい 汁の においは 半径２キロに 広がり まわりの ポケモンは いなくなる。",
         ko: "엉덩이에서 뿜어지는 역한 분비액의\n냄새는 반경 2km까지 멀리 퍼져\n주변의 포켓몬이 자리를 뜨게 한다.",
         "zh-tw": "它從後部噴出骯髒的液體。它的惡臭蔓延一英里半徑，將神奇寶貝趕走了。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

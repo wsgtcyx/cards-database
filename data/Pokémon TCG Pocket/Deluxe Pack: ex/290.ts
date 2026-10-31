@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/290",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/290",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/290",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/290"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/290",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/290"
 	},
 	name: {
 		en: "Skitty",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Skitty",
 		de: "Eneco",
 		"pt-br": "Skitty",
-		"zh-tw": "向尾喵"
+		"zh-tw": "向尾喵",
+		ja: "エネコ"
 	},
 	illustrator: "Sumiyoshi Kizuki",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Non riesce a evitare di inseguire tutto ciò che si\nmuove e corre in tondo a caccia della propria coda.",
 		de: "Es muss Dinge, die sich bewegen, einfach jagen.\nEs rennt oft im Kreis und jagt seinen eigenen Schweif.",
 		"pt-br": "Não consegue parar de perseguir tudo que se move.\nCorre em círculos atrás de sua própria cauda.",
+		ja: "動くものを つい 追ってしまう。 自分の 尻尾を 追いかけて 同じ 場所を グルグル 回る。",
 		ko: "움직이는 것을 무심코 쫓아간다.\n자신의 꼬리를 쫓아서\n똑같은 장소를 빙글빙글 돈다.",
 		"zh-tw": "它無法阻止自己追逐移動的東西，它繞著圈跑，追著自己的尾巴。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Azione",
 				de: "Tackle",
 				"pt-br": "Investida",
+				ja: "たいあたり",
 				ko: "몸통박치기",
 				"zh-tw": "處理"
 			},

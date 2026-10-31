@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/075",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/075",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/075"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/075"
     },
     name: {
         en: "Varoom",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Knattox",
         "pt-br": "Varoom",
         "zh-tw": "噗隆隆",
+        ja: "ブロロン",
         pt: "Varoom"
     },
     illustrator: "nagimiso",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "La sezione in acciaio è il vero corpo di Varoom. Questo Pokémon si aggrappa alle rocce e converte i minerali al suo interno in energia per alimentare le sue attività.",
         "de": "Der Stahlabschnitt ist der eigentliche Körper von Knattox. Dieses Pokémon klammert sich an Steine ​​und wandelt die darin enthaltenen Mineralien in Energie um, um seine Aktivitäten anzutreiben.",
         "pt-br": "A seção de aço é o corpo real do Varoom. Este Pokémon se agarra às rochas e converte os minerais contidos em energia para alimentar suas atividades.",
-        "zh-tw": "鋼截面是噗隆隆的實體。這種寶可夢會附著在岩石上，並將其中的礦物質轉化為能量來為其活動提供燃料。"
+        "zh-tw": "鋼截面是噗隆隆的實體。這種寶可夢會附著在岩石上，並將其中的礦物質轉化為能量來為其活動提供燃料。",
+        ja: "鋼の 体が 本体。 岩に 張りつき その成分を エネルギーに 変えて 活動する。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Bater",
                 "zh-tw": "內存",
+                ja: "ぶつかる",
                 'es-mx': "Colisión",
                 pt: "Aríete"
             },

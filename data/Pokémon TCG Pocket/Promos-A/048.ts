@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/048"
     },
     name: {
         en: "Manaphy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Manaphy",
         de: "Manaphy",
         'pt-br': "Manaphy",
+        ja: "マナフィ",
         ko: "마나피",
         "zh-tw": "瑪納霏"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Dispone di un potere innato che lo fa\nlegare con qualsiasi specie di Pokémon.",
         de: "Es wird mit einer wundersamen Kraft geboren,\ndie eine Bindung zu jedem anderen Pokémon\nmöglich macht.",
         'pt-br': "Ele nasce com um poder extraordinário\nque o permite se ligar a qualquer tipo de Pokémon.",
+        ja: "生まれたときから 備わっている 不思議な 力を 使うと どんな ポケモンとも 心が 通い合う。",
         ko: "태어났을 때부터 가지고 있는\n이상한 힘을 쓰면 어떤 포켓몬과도\n마음이 서로 통하게 된다.",
         "zh-tw": "它與生俱來就有一種奇妙的力量，可以讓它結合在一起\n與任何種類的神奇寶貝。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Dono del Mare",
                 de: "Geschenk des Meeres",
                 'pt-br': "Presente Oceânico",
+                ja: "うみのおくりもの",
                 ko: "바다의소포",
                 "zh-tw": "海洋禮物"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Scegli 2 dei tuoi Pokémon in panchina e assegna un'Energia {W} dalla tua Zona Energia a ognuno di essi.",
                 de: "Wähle 2 Pokémon auf deiner Bank. Lege für jedes jener Pokémon 1 {W}-Energie aus deinem Energiebereich an jene Pokémon an.",
                 'pt-br': "Escolha 2 dos seus Pokémon no Banco. Para cada um daqueles Pokémon, pegue 1 Energia {W} da sua Zona de Energia e ligue-a àquele Pokémon.",
+                ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{W}エネルギーを出し、1個ずつつける。",
                 ko: "자신의 벤치 포켓몬을 2마리 선택해서 에너지존에서 {W}에너지를 내보내 1개씩 붙인다.",
                 "zh-tw": "選擇 2 個後備神奇寶貝。對於每一個神奇寶貝，從你的能量區獲取一個 {W} 能量並將其附加到該神奇寶貝上。"
             }

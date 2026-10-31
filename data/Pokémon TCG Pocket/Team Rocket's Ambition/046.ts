@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/046",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/046",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/046"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/046"
     },
     name: {
         en: "Cufant",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Può sollevare carichi di cinque tonnellate. Al mattino si dirige in gruppo con i suoi simili verso le grotte, in cerca del minerali di cui sí nutre.",
         de: "Kupfanti kann ein Gewicht von 5 t stemmen. Morgens macht es sich mit seiner Herde auf den Weg zu Höhlen, wo es Erz zum Fressen sucht.",
         "pt-br": "Cufant consegue levantar cinco toneladas de carga. Pela manhã, parte para as cavernas com sua manada em busca do minério do qual se alimentam.",
-        "zh-tw": "能夠舉起重達５噸的貨物。天一亮就會成群結隊前往洞窟找礦石來吃。"
+        "zh-tw": "能夠舉起重達５噸的貨物。天一亮就會成群結隊前往洞窟找礦石來吃。",
+        ja: "５トンの 荷物を 持ち上げられる。 朝になると 群れで 洞窟へと 向かい エサの 鉱石を 探す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rotolamento",
                 de: "Walzer",
                 "pt-br": "Rolagem",
-                "zh-tw": "滾動"
+                "zh-tw": "滾動",
+                ja: "ころがる"
             },
             damage: 40
         }

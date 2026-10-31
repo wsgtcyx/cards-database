@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/067",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/067"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/067"
     },
     name: {
         en: "Diglett",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Schaufler",
                 "pt-br": "Cavar",
                 "zh-tw": "挖洞",
-                ja: "Dig",
+                ja: "あなをほる",
                 ko: "Dig"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
                 "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
-                ja: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Dieses Pokémon lebt 1 m unter der Erde. Es frisst Wurzeln und kommt hin und wieder an die Oberfläche.",
         "pt-br": "Vive cerca de 1 metro embaixo da terra, onde se alimenta de raízes de plantas. Algumas vezes, são vistos acima da terra.",
         "zh-tw": "在大約1公尺深的地底挖洞棲息，靠啃食植物之類的根部生活。偶爾會到地面上露個臉。",
-        ja: "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+        ja: "地下１メートルくらいを 掘りすすみ 木の根っこなどを かじって 生きる。 たまに 地上に 顔を出す。",
         ko: "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground."
     }
 };

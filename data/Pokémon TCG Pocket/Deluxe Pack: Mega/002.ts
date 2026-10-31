@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/002",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/002",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/002"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/002"
     },
     name: {
         en: "Ivysaur",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Bisasam",
         "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子",
-        ja: "Bulbasaur",
+        ja: "フシギダネ",
         ko: "Bulbasaur"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Die Sonne macht es stärker. Die Knospe auf seinem Rücken wächst unter dem Einfluss von Sonnenlicht.",
         "pt-br": "Quanto mais banho de sol Ivysaur toma, mais força brota em seu interior, fazendo com que o botão nas suas costas cresça.",
         "zh-tw": "沐浴在陽光下越久，身體內會湧出越多力量，背上的花苞也會漸漸成長。",
-        ja: "The more sunlight Ivysaur bathes in, the more\nstrength wells up within it, allowing the bud\non its back to grow larger.",
+        ja: "太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。",
         ko: "The more sunlight Ivysaur bathes in, the more\nstrength wells up within it, allowing the bud\non its back to grow larger."
     },
     stage: "Stage1",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Synthese",
                 "pt-br": "Síntese",
                 "zh-tw": "光合作用",
-                ja: "Synthesis",
+                ja: "こうごうせい",
                 ko: "Synthesis"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Lege 2 {G}-Energien aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 2 Energias {G} da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出2個{G}能量,附於這隻寶可夢身上。",
-                ja: "Take 2 {G} Energy from your Energy Zone and attach it to this Pokémon.",
+                ja: "自分のエネルギーゾーンから{G}エネルギーを2個出し、このポケモンにつける。",
                 ko: "Take 2 {G} Energy from your Energy Zone and attach it to this Pokémon."
             }
         }

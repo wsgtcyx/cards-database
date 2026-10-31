@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/056",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/056",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/056",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/056"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/056"
     },
     name: {
         en: "Mega Heracross ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Cornata Dinamica",
                 de: "Dynamisches Horn",
                 "pt-br": "Chifre Dinâmico",
-                "zh-tw": "強力角擊"
+                "zh-tw": "強力角擊",
+                ja: "ダイナミックホーン"
             },
             effect: {
                 en: "Flip a coin. If tails, this Pokémon also does 60 damage to itself.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo Pokémon infligge anche 60 danni a se stesso.",
                 de: "Wirf eine Münze. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 60 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 60 de dano a si mesmo.",
-                "zh-tw": "拋一枚硬幣。如果是反面，这只神奇宝贝也会对自己造成 60 点伤害。"
+                "zh-tw": "拋一枚硬幣。如果是反面，这只神奇宝贝也会对自己造成 60 点伤害。",
+                ja: "コインを1回投げウラなら、このポケモンにも60ダメージ。"
             },
             damage: 170
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/042",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/042",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/042"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/042"
     },
     name: {
         en: "Team Rocket's Koffing",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "gas velenosi che contiene sona di paco più leggeri dell'aria, perció resta sollevato da terra.",
         de: "Das giftige Gas in seinem lrneren ist etwas leichter als Luft. Dadurch schwebt es stets Höhe.",
         "pt-br": "Sous gises venenosos são um pouco mais leves que o ar. Por isso, está sempre levemente flutuando.",
-        "zh-tw": "體內的毒瓦斯成分比空氣來得輕一點，所以總是微微浮在空中。"
+        "zh-tw": "體內的毒瓦斯成分比空氣來得輕一點，所以總是微微浮在空中。",
+        ja: "体内の 毒ガスは 空気より 少し 軽い 成分。 だから いつも 少しだけ 浮かんでいる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Tornaindietro",
                 de: "Umkehrschub",
                 "pt-br": "Impulso Reverso",
-                "zh-tw": "逆向噴射"
+                "zh-tw": "逆向噴射",
+                ja: "ぎゃくふんしゃ"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Scambia questo Pokémon con uno della tua panchina.",
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
+                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             },
             damage: 10
         }

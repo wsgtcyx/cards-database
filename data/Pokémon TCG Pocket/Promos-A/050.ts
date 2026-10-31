@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/050"
     },
     name: {
         en: "Mewtwo ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mewtwo-ex",
         de: "Mewtu-ex",
         'pt-br': "Mewtwo ex",
+        ja: "ミュウツーex",
         ko: "뮤츠 ex",
         "zh-tw": "超夢ex",
     },
@@ -37,6 +39,7 @@ const card: Card = {
                 it: "Psicosfera",
                 de: "Psychosphäre",
                 'pt-br': "Esfera Psíquica",
+                ja: "ねんどうだん",
                 ko: "염동탄",
                 "zh-tw": "心靈領域"
             },
@@ -50,6 +53,7 @@ const card: Card = {
                 it: "Psicomotore",
                 de: "Psycho-Antrieb",
                 'pt-br': "Controle Psíquico",
+                ja: "サイコドライブ",
                 ko: "사이코 드라이브",
                 "zh-tw": "心靈驅動器"
             },
@@ -60,6 +64,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {P} da questo Pokémon.",
                 de: "Lege 2 {P}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {P} deste Pokémon.",
+                ja: "このポケモンから{P}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {P}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。"
             },

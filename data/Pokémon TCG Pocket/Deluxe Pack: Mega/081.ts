@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/081",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/081",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/081"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/081"
     },
     name: {
         en: "Chien-Pao ex",
@@ -47,7 +48,7 @@ const card: Card = {
                 "zh-tw": "冰柱",
                 pt: "Pingente de Gelo",
                 "es-mx": "Témpano de Hielo",
-                ja: "Icicle",
+                ja: "つらら",
                 ko: "Icicle"
             },
             damage: 20,
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Eiszapfenregen",
                 "pt-br": "Mergulho Gélido",
                 "zh-tw": "冰柱俯衝",
-                ja: "Diving Icicles",
+                ja: "アイシクルダイブ",
                 ko: "Diving Icicles"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Lege alle {W}-Energien von diesem Pokémon ab. Diese Attacke fügt 1 Pokémon deines Gegners 130 Schadenspunkte zu.",
                 "pt-br": "Descarte todas as Energias {W} deste Pokémon. Este ataque causa 130 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的{W}能量全部丟棄,對手的1隻寶可夢受到130點傷害。",
-                ja: "Discard all {W} Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon.",
+                ja: "このポケモンから{W}エネルギーをすべてトラッシュし、相手のポケモン1匹に130ダメージ。",
                 ko: "Discard all {W} Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
             }
         }

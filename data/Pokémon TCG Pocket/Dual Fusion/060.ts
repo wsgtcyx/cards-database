@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/060",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/060"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/060"
     },
     name: {
         en: "Espeon",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "Eevee",
+        ja: "イーブイ",
         ko: "Eevee"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Gehirnwelle",
                 "pt-br": "Onda Cerebral",
                 "zh-tw": "腦力波",
-                ja: "Brainwave",
+                ja: "ブレインウェーブ",
                 ko: "Brainwave"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an dieses Pokémon angelegte {P}-Energie 20 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {P} ligada a este Pokémon.",
                 "zh-tw": "增加這隻寶可夢身上的{P}能量的數量×20點傷害。",
-                ja: "This attack does 20 more damage for each {P} Energy attached to this Pokémon.",
+                ja: "このポケモンの{P}エネルギーの数×20ダメージ追加。",
                 ko: "This attack does 20 more damage for each {P} Energy attached to this Pokémon."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Die Spitze seines geteilten Schweifs bebt, wenn es die nächste Attacke seines Feindes voraussagt.",
         "pt-br": "A ponta de sua cauda bifurcada treme enquanto prevê o próximo movimento de seu oponente.",
         "zh-tw": "預知對手的行動時，分叉的尾巴前端就會微微地擺動。",
-        ja: "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+        ja: "相手の 動きを 予知するとき ふたまたに なっている 尻尾の 先は 微妙に 揺れている。",
         ko: "The tip of its forked tail quivers when it is predicting its opponent’s next move."
     }
 };

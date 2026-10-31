@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/122",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/122"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/122"
     },
     name: {
         en: "Wishiwashi",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lusardin",
         "pt-br": "Wishiwashi",
         "zh-tw": "弱丁魚",
+        ja: "ヨワシ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Individualmente, sono incredibilmente deboli. È raccogliendo\nnelle scuole che sono in grado di affrontare gli avversari.",
         "de": "Einzeln sind sie unglaublich schwach. Es geschieht durch Sammeln\nbis in die Schulen, dass sie in der Lage sind, Gegner zu konfrontieren.",
         "pt-br": "Individualmente, eles são incrivelmente fracos. É reunindo\nnas escolas para que sejam capazes de enfrentar adversários.",
-        "zh-tw": "就個人而言，他們非常弱。是通過聚集\n進入學校，他們能夠對抗對手。"
+        "zh-tw": "就個人而言，他們非常弱。是通過聚集\n進入學校，他們能夠對抗對手。",
+        ja: "１匹では とても ひ弱なため 群れることで 敵に 立ち向かう 能力を 獲得した。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Chiamata per la famiglia",
                 "de": "Aufruf zur Familie",
                 "pt-br": "Ligue para a família",
-                "zh-tw": "呼叫家人"
+                "zh-tw": "呼叫家人",
+                ja: "なかまをよぶ"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti 1 Wishiwashi o Wishiwashi ex casuale dal tuo mazzo nella tua panchina.",
                 "de": "Lege 1 zufälligen Wishiwashi oder Wishiwashi-Ex aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Wishiwashi ou ex Wishiwashi aleatório do seu deck no seu Banco.",
-                "zh-tw": "將 1 名隨機的 Wishiwashi 或 Wishiwashi ex 從你的牌組放到你的替補席上。"
+                "zh-tw": "將 1 名隨機的 Wishiwashi 或 Wishiwashi ex 從你的牌組放到你的替補席上。",
+                ja: "自分の山札から「ヨワシ」または「ヨワシex」をランダムに1枚、ベンチに出す。"
             }
         }],
     weaknesses: [{

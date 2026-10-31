@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/240",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/240",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/240",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/240"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/240",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/240"
     },
     name: {
         en: "Makuhita",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Makuhita",
         "pt-br": "Makuhita",
         "zh-tw": "幕下力士",
+        ja: "マクノシタ",
     },
     illustrator: "Koji Nakata",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si irrigidisce sbattendo contro alberi spessi\nancora e ancora. Acquisisce un corpo robusto e\nspirito intrepido.",
         "de": "Es wird härter, wenn es gegen dicke Bäume prallt\nimmer und immer wieder. Es erhält einen robusten Körper und\nunerschrockener Geist.",
         "pt-br": "Ele se fortalece ao bater em árvores grossas\nrepetidamente. Ganha um corpo robusto e\nespírito destemido.",
-        "zh-tw": "它通過撞擊茂密的樹木而變得堅強\n一遍又一遍。它獲得了強健的身體和\n大無畏的精神。"
+        "zh-tw": "它通過撞擊茂密的樹木而變得堅強\n一遍又一遍。它獲得了強健的身體和\n大無畏的精神。",
+        ja: "大木に 何度も 体当たりして 強靭な 体と くじけない 心を 鍛え上げるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lanciati fuori",
                 "de": "Ausholen",
                 "pt-br": "Avançar",
-                "zh-tw": "向前衝出"
+                "zh-tw": "向前衝出",
+                ja: "つきたおし"
             },
             damage: 50,
             cost: ["Fighting", "Fighting", "Colorless"]

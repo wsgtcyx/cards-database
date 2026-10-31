@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/059"
     },
     name: {
         en: "Raticate",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Raticate",
         de: "Rattikarl",
         'pt-br': "Raticate",
+        ja: "ラッタ",
         ko: "레트라",
         "zh-tw": "拉達"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Rattata",
         "de": "Rattfratz",
         "pt-br": "Rattata",
-        "zh-tw": "小拉達"
+        "zh-tw": "小拉達",
+        ja: "コラッタ"
     },
     description: {
         en: "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che sia sfuggito ai nemici nuotando\nda un'isola all'altra grazie alle minuscole\nmembrane tra le dita delle zampe posteriori.",
         de: "Auf der Flucht vor seinen Feinden nutzt es die\nSchwimmhäute an seinen Hinterläufen, um von\nInsel zu Insel zu schwimmen.",
         'pt-br': "Dizem que fugiu dos seus inimigos\nusando seus pés palmados para nadar\nde ilha em ilha em Alola.",
+        ja: "後ろ足の 小さい 水かきで 海を 泳いで 島を 渡り 敵から 逃げていた という。",
         ko: "뒷발의 작은 물갈퀴로\n바다를 헤엄쳐 섬을 건너\n적을 피해 도망쳤다고 한다.",
         "zh-tw": "人們說它是為了躲避敵人而用後足的小蹼在阿羅拉的一個島嶼之間游動。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Azione",
             de: "Tackle",
             'pt-br': "Investida",
+            ja: "たいあたり",
             ko: "몸통박치기",
             "zh-tw": "處理"
         },

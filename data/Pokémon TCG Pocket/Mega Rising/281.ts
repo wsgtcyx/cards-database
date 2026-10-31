@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/281",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/281",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/281",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/281"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/281",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/281"
     },
     name: {
         en: "Dragalge ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tandrak-ex",
         "pt-br": "Dragalge ex",
         "zh-tw": "毒藻龍ex",
+        ja: "ドラミドロex",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Algitt",
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
+        ja: "クズモー",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Punto Veleno",
                 "de": "Giftpunkt",
                 "pt-br": "Ponto Venenoso",
-                "zh-tw": "毒點"
+                "zh-tw": "毒點",
+                ja: "どくのトゲ"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, il Pokémon attaccante è avvelenato.",
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, ist das angreifende Pokémon jetzt vergiftet.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque do Pokémon do seu oponente, o Pokémon atacante ficará Envenenado.",
-                "zh-tw": "如果該神奇寶貝位於活動點並因對手神奇寶貝的攻擊而受到傷害，則攻擊的神奇寶貝現在會中毒。"
+                "zh-tw": "如果該神奇寶貝位於活動點並因對手神奇寶貝的攻擊而受到傷害，則攻擊的神奇寶貝現在會中毒。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Frusta Draconica",
                 "de": "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
-                "zh-tw": "龍鞭"
+                "zh-tw": "龍鞭",
+                ja: "ドラゴンウィップ"
             },
             damage: 80,
             cost: ["Darkness", "Colorless"]

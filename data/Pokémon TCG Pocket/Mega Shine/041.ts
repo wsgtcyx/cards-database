@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/041",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/041"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/041"
     },
     name: {
         en: "Trubbish",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È nato da un sacchetto pieno di spazzatura.\nI Weezing di Galar sono ghiotti del gas tossico\nche esala.",
         de: "Es ist aus einer überfüllten Mülltüte entstanden.\nDie Smogmog der Galar-Region sind verrückt\nnach den giftigen Gasen, die es ausstößt.",
         "pt-br": "Este Pokémon nasceu de um saco cheio de lixo. Galarian Weezing aprecia a fumaça expelida por Trubbish.",
-        "zh-tw": "誕生自塞滿垃圾的垃圾袋裡。\n牠嘴裡噴出的毒氣\n是伽勒爾雙彈瓦斯的最愛。"
+        "zh-tw": "誕生自塞滿垃圾的垃圾袋裡。\n牠嘴裡噴出的毒氣\n是伽勒爾雙彈瓦斯的最愛。",
+        ja: "ゴミの 詰まった ゴミ袋から 生まれた。 吐き出す 毒ガスは ガラルの マタドガスの 好物。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Lanciamelma",
                 de: "Schleimwurf",
                 "pt-br": "Arremesso de Lodo",
-                "zh-tw": "污泥上投"
+                "zh-tw": "污泥上投",
+                ja: "ヘドロなげ"
             },
             damage: 40
         }

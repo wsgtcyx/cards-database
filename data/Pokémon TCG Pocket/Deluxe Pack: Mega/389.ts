@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/389",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/389",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/389",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/389"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/389",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/389"
     },
     name: {
         en: "Wallace",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Wähle 1 deiner {W}-Pokémon im Spiel, dessen maximale KP 50 oder weniger betragen. Lege ein zufälliges {W}-Pokémon aus deinem Deck, das sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es zu entwickeln.",
         "pt-br": "Escolha 1 dos seus Pokémon {W} em jogo com um PS máximo de 50 ou menos. Coloque um Pokémon {W} aleatório do seu baralho que evolua daquele Pokémon sobre aquele Pokémon para evoluí‐lo.",
         "zh-tw": "選擇1隻自己的場上的最大HP為50以下的{W}寶可夢,從自己的牌庫隨機將1張從該寶可夢進化而來的{W}寶可夢卡,放置於該寶可夢身上完成進化。",
-        ja: "Choose 1 of your {W} Pokémon in play with a maximum HP of 50 or less. Put a random {W} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it.",
+        ja: "自分の場の最大HPが50以下の{W}ポケモンを1匹選び、そのポケモンから進化する{W}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。",
         ko: "Choose 1 of your {W} Pokémon in play with a maximum HP of 50 or less. Put a random {W} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it."
     },
     trainerType: "Supporter"

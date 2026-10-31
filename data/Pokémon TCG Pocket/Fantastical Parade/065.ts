@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/065"
     },
     name: {
         en: "Gardevoir",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Gardevoir",
         "de": "Guardevoir",
         "pt-br": "Gardevoir",
-        "zh-tw": "沙奈朵"
+        "zh-tw": "沙奈朵",
+        ja: "サーナイト"
     },
     illustrator: "mingo",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "奇魯莉安"
+        "zh-tw": "奇魯莉安",
+        ja: "キルリア"
     },
     description: {
         en: "It unleashes psychokinetic energy at full power\nwhen protecting a Trainer it has bonded closely\nwith.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Scatena l'energia psicocinetica a piena potenza\nquando protegge un Allenatore si lega strettamente\ncon.",
         "de": "Es setzt psychokinetische Energie mit voller Kraft frei\nBeim Schutz eines Trainers hat es sich eng verbunden\nmit.",
         "pt-br": "Ele libera energia psicocinética com potência total\nao proteger um treinador, ele está intimamente ligado\ncom.",
-        "zh-tw": "它全力釋放心動能量\n當保護訓練師時，它已經緊密結合\n與."
+        "zh-tw": "它全力釋放心動能量\n當保護訓練師時，它已經緊密結合\n與.",
+        ja: "心の 通い合った トレーナーを 守るとき 最大 パワーの サイコエネルギーが 発揮される。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Psico Turbo",
                 "de": "Psy Turbo",
                 "pt-br": "Psy Turbo",
-                "zh-tw": "心靈渦輪"
+                "zh-tw": "心靈渦輪",
+                ja: "サイコターボ"
             },
             damage: 60,
             cost: ["Psychic", "Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Prendi 2 Energie {P} dalla tua Zona Energetica e assegnale a 1 dei tuoi Pokémon {P} in panchina.",
                 "de": "Nimm 2 {P}-Energie aus deiner Energiezone und lege sie an eines deiner {P}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue 2 {P} Energias da sua Zona de Energia e ligue-as a 1 dos seus Pokémon {P} no Banco.",
-                "zh-tw": "從你的能量區取出 2 個 {P} 能量並將其附加到你後備的 1 只 {P} 神奇寶貝上。"
+                "zh-tw": "從你的能量區取出 2 個 {P} 能量並將其附加到你後備的 1 只 {P} 神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{P}エネルギーを2個出し、ベンチの{P}ポケモン1匹につける。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/058"
     },
     name: {
         en: "Mantine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mantax",
         "pt-br": "Mantine",
         "zh-tw": "巨翅飛魚",
+        ja: "マンタイン",
     },
     illustrator: "0313",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mentre nuota elegantemente nel mare, ignora\nRemoraid che si aggrappa alle sue pinne alla ricerca di avanzi di cibo.",
         "de": "Während es elegant im Meer schwimmt, ignoriert es es\nRemoraid, das sich an seinen Flossen festklammert und nach Essensresten sucht.",
         "pt-br": "Enquanto nada elegantemente no mar, ignora\nRemoraid que se agarra às barbatanas em busca de restos de comida.",
-        "zh-tw": "它在海裡優雅地游泳的同時，卻忽略了\n粘魚會緊貼鰭尋找食物殘渣。"
+        "zh-tw": "它在海裡優雅地游泳的同時，卻忽略了\n粘魚會緊貼鰭尋找食物殘渣。",
+        ja: "悠然と 海を 泳ぐうちに 食べ残しを ねらった テッポウオが ヒレに くっつくが 気にしていない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Tuffo",
                 "de": "Tauchen",
                 "pt-br": "Mergulho",
-                "zh-tw": "潛水"
+                "zh-tw": "潛水",
+                ja: "ダイビング"
             },
             damage: 80,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     weaknesses: [{

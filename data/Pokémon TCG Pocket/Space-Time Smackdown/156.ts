@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/156",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/156"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/156",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/156"
     },
     name: {
         en: "Tangrowth",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tangrowth",
         de: "Tangoloss",
         'pt-br': "Tangrowth",
+        ja: "モジャンボ",
         ko: "덩쿠림보",
         "zh-tw": "巨蔓藤",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Tangela",
         "pt-br": "Tangela",
         "zh-tw": "蔓藤怪",
+        ja: "モンジャラ",
     },
     description: {
         en: "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Può estendere le braccia a piacimento. In seguito a recenti\nricerche si è scoperto che sono in realtà fasci di liane.",
         de: "Jüngsten Erkenntnissen zufolge bestehen seine\nzwei Arme, die es beliebig verlängern kann,\naus gebündelten Ranken.",
         'pt-br': "Tangrowth tem dois braços, os quais pode estender como\nbem quiser. Pesquisas recentes mostraram que esses\nbraços são, na verdade, um monte de trepadeiras.",
+        ja: "自在に 伸びる ２本の 腕は じつは ツルが 束になったものと 最近の 研究で わかった。",
         ko: "자유자재로 늘어나는 2개의 팔은\n덩굴이 뭉쳐진 것이었다는 사실이\n최근 연구로 밝혀졌다.",
         "zh-tw": "Tangrowth 有兩條手臂，可以隨意伸展。最近的研究表明，這些手臂實際上是一束藤蔓。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Megassorbimento",
                 de: "Megasauger",
                 'pt-br': "Megadreno",
+                ja: "メガドレイン",
                 ko: "메가드레인",
                 "zh-tw": "巨型排水管"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 30 danni.",
                 de: "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 30 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを30回復。",
                 ko: "이 포켓몬의 HP를 30회복.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
             }

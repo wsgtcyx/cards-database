@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/054",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/054",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/054"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/054"
     },
     name: {
         en: "Garchomp",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Le protuberanze che ha ai lati della testa hanno funzione di sensori e percepiscono le prede anche a grande distanza.",
         de: "Die beiden Fortslätze an seinem Kopf haben die Funktion eines Sensors. Mit ihnen kann es auch weit entfernte Beute aufsoüren.",
         "pt-br": "As protuberâncias na sua cabeça servem como sensores. Podem detectar até presas distantes.",
-        "zh-tw": "頭上長著的２個突起物是作為感應器的用途。就連遠處獵物的狀況也能察覺。"
+        "zh-tw": "頭上長著的２個突起物是作為感應器的用途。就連遠處獵物的狀況也能察覺。",
+        ja: "頭に ついた ２つの 突起は センサーの 役目。 遥か 先の 獲物の 様子も わかる。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Occultamento Mach",
                 de: "Rasantes Tarnen",
                 "pt-br": "Furtividade Supersônica",
-                "zh-tw": "音速隱形"
+                "zh-tw": "音速隱形",
+                ja: "マッハステルス"
             },
             effect: {
                 en: "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se un Pokémon del tuo avversario viene messo KO dai danni degli attacchi di questo Pokémon, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wenn das Pokémon deines Gegners durch Schaden der Attacken dieses Pokémon kampfunfähig wird, verhindere während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
-                "zh-tw": "若對手的寶可夢因這隻寶可夢招式的傷害而昏厥了,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+                "zh-tw": "若對手的寶可夢因這隻寶可夢招式的傷害而昏厥了,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+                ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Schiacciaterra",
                 de: "Schollenbrecher",
                 "pt-br": "Aperto de Terra",
-                "zh-tw": "大地粉碎"
+                "zh-tw": "大地粉碎",
+                ja: "ランドクラッシュ"
             },
             damage: 120
         }

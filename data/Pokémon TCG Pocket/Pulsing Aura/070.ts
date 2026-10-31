@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/070",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/070"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/070"
     },
     name: {
         en: "Hattrem",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nel momento in cui questo Pokémon trova qualcuno che emette forti emozioni, lo prende a pugni fino a fargli perdere i sensi con le sue trecce per zittirlo.",
         de: "Sobald dieses Pokémon jemanden findet, der starke Gefühle ausstrahlt, wird es ihn mit seinen Zöpfen bewusstlos schlagen, um ihn zum Schweigen zu bringen.",
         "pt-br": "No momento em que este Pokémon encontrar alguém que esteja emitindo emoções fortes, ele irá esmurrá-lo com suas tranças para silenciá-lo.",
-        "zh-tw": "當這隻寶可夢發現有強烈情緒的人時，它會用辮子將他們打昏，讓他們安靜下來。"
+        "zh-tw": "當這隻寶可夢發現有強烈情緒的人時，它會用辮子將他們打昏，讓他們安靜下來。",
+        ja: "強い 感情を 発するものを 見つけしだい おさげで 叩きのめし 意識を 奪って 黙らせる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Incantavoce",
                 de: "Säuselstimme",
                 "pt-br": "Voz Desarmante",
-                "zh-tw": "魅惑之聲"
+                "zh-tw": "魅惑之聲",
+                ja: "チャームボイス"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 20
         }

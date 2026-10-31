@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/086"
     },
     name: {
         en: "Swanna",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Swanna",
         de: "Swaroness",
         'pt-br': "Swanna",
+        ja: "スワンナ",
         ko: "스완나",
         "zh-tw": "舞天鵝",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ducklett",
         "de": "Piccolente",
         "pt-br": "Ducklett",
-        "zh-tw": "鴨寶寶"
+        "zh-tw": "鴨寶寶",
+        ja: "コアルヒー"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Attacco d'Ala",
                 de: "Flügelschlag",
                 'pt-br': "Ataque de Asa",
+                ja: "つばさでうつ",
                 ko: "날개치기",
                 "zh-tw": "翼攻擊"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Non è solo elegante. Con il poderoso battito d'ali riesce\na volare per migliaia di chilometri senza fermarsi.",
         de: "Sie wirken zerbrechlich, aber ihre starken Schwingen\ntragen sie in einem Stück bis zu 1000 km weit.",
         'pt-br': "Apesar de sua aparência elegante, podem bater\nas asas com vigor e voar por milhares de quilômetros.",
+        ja: "優雅な みかけに よらず 翼で 力強く 羽ばたき 数千キロ 飛び続けられる。",
         ko: "우아한 외모와 다르게\n날개로 힘차게 날개 치며\n수천 km를 계속 날 수 있다.",
         "zh-tw": "儘管外表優雅，但它們卻能有力地扇動翅膀，飛翔千里。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/120",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/120",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/120"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/120",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/120"
     },
     name: {
         en: "Gastly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gastly",
         de: "Nebulak",
         'pt-br': "Gastly",
+        ja: "ゴース",
         ko: "고오스",
         "zh-tw": "鬼斯",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Gas Soffocante",
                 de: "Würgegas",
                 'pt-br': "Gás Asfixiante",
+                ja: "ガスでつつむ",
                 ko: "가스로감싸기",
                 "zh-tw": "窒息性氣體"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Avvolge le prede nel corpo gassoso\ne le indebolisce lentamente facendo\npenetrare il veleno nella loro pelle.",
         de: "Es hüllt seine Beute in seinen Gaskörper ein\nund schwächt sie, indem es sie nach und nach\nüber die Haut vergiftet.",
         'pt-br': "Envolve o oponente em seu corpo gasoso,\nenfraquecendo sua presa lentamente\ne a envenenando pela pele.",
+        ja: "ガス状の 体で まとわりつき 獲物の 皮膚から 少しずつ 毒を 送り込んで 弱らせる。",
         ko: "가스로 된 몸으로 휘감은 다음\n먹이의 피부를 통해 조금씩\n독을 흘려보내어 약하게 만든다.",
         "zh-tw": "它將對手包裹在氣體般的身體中，通過皮膚毒害獵物，慢慢削弱獵物的力量。"
     },

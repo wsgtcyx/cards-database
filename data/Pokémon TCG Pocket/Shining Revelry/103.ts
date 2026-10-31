@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/103"
     },
     name: {
         en: "Pachirisu",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Pachirisu",
         it: "Pachirisu",
         de: "Pachirisu",
+        ja: "パチリス",
         ko: "파치리스",
         'pt-br': "Pachirisu",
         "zh-tw": "帕奇利茲"
@@ -31,6 +33,7 @@ const card: Card = {
         es: "Forma parte del grupo de Pokémon que\nposee bolsas de electricidad en las mejillas.\nDescarga por la cola la electricidad que acumula.",
         it: "Appartiene alla tipologia di Pokémon\nmuniti di sacche elettriche sulle guance.\nRilascia dalla coda l'elettricità accumulata.",
         de: "Pachirisu ist eines der Pokémon, die mit ihren\nBackentaschen Elektrizität erzeugen. Den so\ngesammelten Strom gibt es über den Schweif ab.",
+        ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。",
         ko: "볼에 전기 주머니를 가진 포켓몬의 일종.\n꼬리에 모인 전기를 방출한다.",
         'pt-br': "É um dos tipos de Pokémon com bolsas elétricas\nnas bochechas. Ele dispara cargas de sua cauda.",
         "zh-tw": "它是帶有電動頰囊的神奇寶貝之一。它從尾巴發射電荷。"
@@ -43,6 +46,7 @@ const card: Card = {
                 es: "Plasma",
                 it: "Plasma",
                 de: "Plasma",
+                ja: "プラズマ",
                 ko: "플라스마",
                 'pt-br': "Plasma",
                 "zh-tw": "電漿"
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon en Banca.",
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon in panchina.",
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an 1 Pokémon auf deiner Bank an.",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
                 ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치 포켓몬에게 붙인다.",
                 'pt-br': "Pegue uma Energia {L} da sua Zona de Energia e ligue-a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備神奇寶貝上。"

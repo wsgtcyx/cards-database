@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/007"
     },
     name: {
         en: "Meowscarada",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Meowscarada",
         de: "Maskagato",
         'pt-br': "Meowscarada",
+        ja: "マスカーニャ",
         ko: "마스카나",
         "zh-tw": "魔幻假面喵"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Floragato",
         "de": "Feliospa",
         "pt-br": "Floragato",
-        "zh-tw": "蒂蕾喵"
+        "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ"
     },
     description: {
         en: "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "I riflessi del pelo all'interno del mantello\ncamuffano lo stelo del suo fiore, che\ncosì sembra fluttuare nell'aria.",
         de: "Es erweckt den Eindruck, als würde seine Blume\nschweben, indem es ihren Stiel mit der Reflexion\ndes Fells an der Innenseite seines Mantels tarnt.",
         'pt-br': "Este Pokémon usa a pelugem reflexiva da sua capa\npara camuflar o caule da sua flor, criando a ilusão\nde que a flor está flutuando.",
+        ja: "浮いているように 見える 花は マント裏の 毛の 反射で 茎を カモフラージュしているのだ。",
         ko: "꽃이 떠 있는 것처럼 보이는 것은\n망토 뒷면의 털이 빛을 반사해서\n줄기를 보이지 않게 하기 때문이다.",
         "zh-tw": "這只神奇寶貝使用斗篷內襯的反光毛皮來偽裝花莖，創造出花朵漂浮的錯覺。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Lottartigli",
             de: "Kampfkrallen",
             'pt-br': "Garras de Luta",
+            ja: "とうしのツメ",
             ko: "투지의손톱",
             "zh-tw": "戰鬥利爪"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Se il Pokémon attivo del tuo avversario è un Pokémon-{ex}, questo attacco infligge 70 danni in più.",
             de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
             'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
+            ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
             ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다.",
             "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/272",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/272",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/272",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/272"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/272",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/272"
     },
     name: {
         en: "Hearthflame Mask Ogerpon",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "In dieser Form macht es sich die Kraft des Feuers zunutze. Es verwendet seine dornige Ranke wie einen Speer, um Feinde zu durchbohren.",
         "pt-br": "Nesta forma, a fonte do seu poder é o fogo. Perfura os inimigos com suas vinhas espinhosas.",
         "zh-tw": "激發出火之力量的樣子。會自在操控帶刺的藤蔓，使其像長矛般地刺穿敵手。",
-        ja: "In this form, it draws on the power of fire.\nIt spears its enemies with thorn-covered ivy.",
+        ja: "炎の力を 引き出す 姿。 トゲの ついた ツタを 槍のように 操り 敵を 貫く。",
         ko: "In this form, it draws on the power of fire.\nIt spears its enemies with thorn-covered ivy."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Ofentanz",
                 "pt-br": "Dança Fornalha",
                 "zh-tw": "火灶之舞",
-                ja: "Hearthflame Dance",
+                ja: "かまどのまい",
                 ko: "Hearthflame Dance"
             },
             damage: 40,
@@ -68,7 +69,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Lege bei Kopf 2 {R}-Energien aus deinem Energiebereich an 1 Pokémon auf deiner Bank an.",
                 "pt-br": "Jogue uma moeda. Se sair cara, pegue 2 Energias {R} da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
                 "zh-tw": "擲1次硬幣若為正面,則從自己的能量區抽出2個{R}能量,附於1隻備戰寶可夢身上。",
-                ja: "Flip a coin. If heads, take 2 {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+                ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、ベンチポケモン1匹につける。",
                 ko: "Flip a coin. If heads, take 2 {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
             }
         }

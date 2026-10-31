@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/067"
     },
     name: {
         en: "Gladion",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Gladio",
         "pt-br": "Gladio",
         "zh-tw": "格拉吉歐",
+        ja: "グラジオ",
     },
     illustrator: "hncl",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Metti 1 Tipo casuale: Null o Silvally dal tuo mazzo nella tua mano.",
         "de": "Nimm 1 zufälligen Typ: Null oder Silvally aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 1 Tipo aleatório: Nulo ou Silvally do seu baralho na sua mão.",
-        "zh-tw": "從你的牌組中將 1 種隨機類型：空或希爾瓦利置入你的手牌。"
+        "zh-tw": "從你的牌組中將 1 種隨機類型：空或希爾瓦利置入你的手牌。",
+        ja: "自分の山札から「タイプ:ヌル」または「シルヴァディ」をランダムに1枚、手札に加える。"
     },
     trainerType: "Supporter"
 };

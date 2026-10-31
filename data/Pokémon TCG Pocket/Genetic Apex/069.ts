@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/069"
     },
     name: {
         en: "Kingler",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kingler",
         de: "Kingler",
         'pt-br': "Kingler",
+        ja: "キングラー",
         ko: "킹크랩",
         "zh-tw": "巨鉗蟹",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Krabby",
         "de": "Krabby",
         "pt-br": "Krabby",
-        "zh-tw": "大鉗蟹"
+        "zh-tw": "大鉗蟹",
+        ja: "クラブ"
     },
     attacks: [{
             cost: ["Water", "Water", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Chela Micidiale",
                 de: "K.O.-Krabbe",
                 'pt-br': "Nocaute Caranguejo",
+                ja: "ひっさつクラブ",
                 ko: "필살크랩",
                 "zh-tw": "KO蟹"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 80 danni in più.",
                 de: "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 80 pontos de dano a mais.",
+                ja: "コインを2回投げ、すべてオモテなら、80ダメージ追加。",
                 ko: "동전을 2번 던져서 모두 앞면이 나오면 80데미지를 추가한다.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，則這次攻擊會造成 80 點額外傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "La chela più grande sprigiona una\npotenza di 10.000 CV. Le dimensioni\ngli rendono difficili gli spostamenti.",
         de: "Die Kraft seiner großen und harten Schere\nentspricht 10 000 PS. Durch die Größe ist sie\naber auch äußerst unhandlich und sperrig.",
         'pt-br': "Sua pinça grande e dura possui a força de\n10.000 cavalos-vapor. No entanto, por ser\ntão grande, movê-la é um incômodo.",
+        ja: "硬い ハサミは １万馬力の パワーを もっているが 大きすぎて 動きが 鈍い。",
         ko: "단단한 집게는 1만 마력의\n파워를 지녔지만\n너무 커서 움직임이 둔하다.",
         "zh-tw": "其大而堅硬的鉗子具有萬馬力的力量。但由於體型太大，移動起來很不便。"
     },

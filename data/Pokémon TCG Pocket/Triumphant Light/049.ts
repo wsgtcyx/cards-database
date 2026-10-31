@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/049"
     },
     name: {
         en: "Golbat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golbat",
         de: "Golbat",
         'pt-br': "Golbat",
+        ja: "ゴルバット",
         ko: "골뱃",
         "zh-tw": "大嘴蝠"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Zubat",
         "pt-br": "Zubat",
         "zh-tw": "超音蝠",
+        ja: "ズバット",
     },
     description: {
         en: "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Va matto per il sangue di altre creature. Si dice\nche a volte lo condivida con i compagni affamati.",
         de: "Das Blut anderer Lebewesen ist seine Leibspeise.\nMan sagt, dass es das abgesaugte Blut manchmal\nmit hungrigen Artgenossen teilt.",
         'pt-br': "Ama beber o sangue de outras criaturas. Dizem que,\nse encontra outros de sua espécie passando fome,\nàs vezes compartilha o sangue que recolheu.",
+        ja: "生き物の 血液が 好物。 腹ペコの 仲間に 吸った 血を 分け与えることも あるという。",
         ko: "살아 있는 생물의 혈액을 좋아한다.\n굶주린 동료에게 빨아들인 피를\n나눠주기도 한다고 한다.",
         "zh-tw": "牠喜歡喝其他生物的血。據說，如果它發現其他同類挨餓，有時它會分享它收集的血液。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/056"
     },
     name: {
         en: "Mawile",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mawile",
         de: "Flunkifer",
         'pt-br': "Mawile",
+        ja: "クチート",
         ko: "입치트",
         "zh-tw": "大嘴娃",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Distrae i nemici con la sua faccia innocente,\nper poi azzannarli con le sue possenti mascelle.\nNon molla la presa a nessun costo.",
         de: "Mit seinem friedlichen Gesicht wiegt es Gegner\nin Sicherheit und beißt dann mit seinem riesigen\nKiefer zu. Danach gibt es kein Entkommen mehr.",
         'pt-br': "Usa seu rosto dócil para fazer seus inimigos\ncomplacentes e então os morde com suas\nmandíbulas enormes sem dar trégua.",
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。",
         ko: "얌전한 얼굴로 상대를 방심하게\n만들고 큰 턱으로 덥석 문다.\n한번 물면 절대로 놓지 않는다.",
         "zh-tw": "它用它看起來溫順的臉來讓敵人陷入自滿，然後用它巨大的、無情的下巴撕咬。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Spaccametallo",
                 de: "Stahlgerüstbrecher",
                 'pt-br': "Quebrador de Viga Férrea",
+                ja: "てっこつくだき",
                 ko: "철골깨기",
                 "zh-tw": "鐵光束破壞者"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon {M}, questo attacco infligge 30 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein {M}-Pokémon ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {M}, este ataque causará 30 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが{M}ポケモンなら、30ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 {M}포켓몬이라면 30데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝是{M}神奇寶貝，則此攻擊造成的傷害增加 30 點。"
             }

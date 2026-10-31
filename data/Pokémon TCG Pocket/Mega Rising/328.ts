@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/328",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/328",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/328",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/328"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/328",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/328"
     },
     name: {
         en: "Arceus ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arceus-ex",
         "pt-br": "Arceus ex",
         "zh-tw": "阿爾宙斯ex",
+        ja: "アルセウスex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Lucentezza leggendaria",
                 "de": "Sagenhafter Glanz",
                 "pt-br": "Brilho lendário",
-                "zh-tw": "傳說中的光澤"
+                "zh-tw": "傳說中的光澤",
+                ja: "しんわのかがやき"
             },
             effect: {
                 en: "This Pokémon can't be affected by any Special Conditions.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Questo Pokémon non può essere influenzato da alcuna condizione speciale.",
                 "de": "Dieses Pokémon kann von keinen Sonderzuständen betroffen sein.",
                 "pt-br": "Este Pokémon não pode ser afetado por nenhuma condição especial.",
-                "zh-tw": "該神奇寶貝不會受到任何特殊條件的影響。"
+                "zh-tw": "該神奇寶貝不會受到任何特殊條件的影響。",
+                ja: "このポケモンは特殊状態にならない。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Forza Ultima",
                 "de": "Ultimative Kraft",
                 "pt-br": "Força Suprema",
-                "zh-tw": "終極力量"
+                "zh-tw": "終極力量",
+                ja: "アルティメットフォース"
             },
             damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ciascuno dei tuoi Pokémon in panchina.",
                 "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 20 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada um dos seus Pokémon no Banco.",
-                "zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 20 點額外傷害。"
+                "zh-tw": "此攻擊對你的每隻後備神奇寶貝造成 20 點額外傷害。",
+                ja: "自分のベンチポケモンの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

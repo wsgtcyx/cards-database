@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/046"
     },
     name: {
         en: "Gabite",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gabite",
         de: "Knarksel",
         'pt-br': "Gabite",
+        ja: "ガバイト",
         ko: "한바이트",
         "zh-tw": "尖牙陸鯊",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Kaumalat",
         "pt-br": "Gible",
         "zh-tw": "圓陸鯊",
+        ja: "フカマル",
     },
     description: {
         en: "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Fa la muta molto di rado. Con le scaglie perse\nin questo modo si possono preparare tonici che\nalleviano la stanchezza e ripristinano le energie.",
         de: "Ab und zu häutet es sich und verliert Schuppen.\nMedizin, die solche Schuppen enthält, macht\nmüde Körper munter.",
         'pt-br': "Troca de pele raramente e deixa suas escamas para trás.\nRemédios feitos com suas escamas farão um adoecido\nsentir-se revigorado.",
+        ja: "稀に 脱皮し ウロコが 剥げる。 その成分が 含まれる 薬は 疲れた 体を ギンギンにする。",
         ko: "드물게 탈피해서 비늘이 벗겨진다.\n그 성분이 들어 있는 약은\n피곤한 몸을 회복시켜 준다.",
         "zh-tw": "在極少數情況下，它會蛻皮並脫落鱗片。含有其鱗片的藥物可以使疲倦的身體感到精神振奮。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Falcetagliente",
                 de: "Scharfe Sense",
                 'pt-br': "Foice Afiada",
+                ja: "するどいカマ",
                 ko: "날카로운낫",
                 "zh-tw": "鋒利的鐮刀"
             },

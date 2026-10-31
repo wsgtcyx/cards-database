@@ -16,6 +16,12 @@ const titles: Record<Errors, string> = {
 	[Errors.GENERAL]: 'An unknown error occured, please contact a developper with this message'
 }
 
+const japaneseTitles: Record<Errors, string> = {
+	[Errors.LANGUAGE_INVALID]: '指定された言語には対応していません',
+	[Errors.NOT_FOUND]: '指定されたデータが見つかりません',
+	[Errors.GENERAL]: 'エラーが発生しました。このメッセージを添えて開発者にお問い合わせください',
+}
+
 const status: Record<Errors, number> = {
 	[Errors.LANGUAGE_INVALID]: 404,
 	[Errors.NOT_FOUND]: 404,
@@ -28,9 +34,12 @@ const details: Partial<Record<Errors, (meta?: Record<string, unknown>) => string
 }
 
 export function sendError(error: Errors, res: Response, metadata?: Record<string, unknown>) {
+	let pathname = (res.req.originalUrl || res.req.url).split('?')[0]
+	try { pathname = decodeURIComponent(pathname) } catch {}
+	const japanese = res.req.params?.lang === 'ja' || /^\/v2\/ja(?:\/|$)/iu.test(pathname)
 	const json: RFC7807 & Record<string, unknown> = {
 		type: `https://tcgdex.dev/errors/${error}`,
-		title: titles[error],
+		title: japanese ? japaneseTitles[error] : titles[error],
 		status: status[error],
 		endpoint: res.req.url,
 		method: res.req.method,
@@ -39,7 +48,7 @@ export function sendError(error: Errors, res: Response, metadata?: Record<string
 
 	const dt = details[error]
 	if (dt) {
-		json.details = dt(metadata)
+		json.details = japanese ? `対応言語は ${languages.join(', ')} です。指定された言語: ${metadata?.lang}` : dt(metadata)
 	}
 
 	res.status(json.status ?? 500).json(json).end()

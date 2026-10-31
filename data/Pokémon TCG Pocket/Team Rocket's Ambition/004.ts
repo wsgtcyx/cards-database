@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/004",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/004",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/004"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/004"
     },
     name: {
         en: "Servine",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo unico difetto è l'essere molto orgoglioso. Gli ci vuole tempo per imparare a collaborare con altri Pokémon.",
         de: "Sein übermäßiger Stolz ist sein einziger Makel. Es braucht Zeit, bis es mit anderen Pokémon zusammenarbeiten kann.",
         "pt-br": "A única fraqueza de Servine é seu orgulho inflado. Leva um tempo para conseguir cooperar com outros Pokémon.",
-        "zh-tw": "小缺點是自尊心過高。需要不少時間才能與其他寶可夢合作。"
+        "zh-tw": "小缺點是自尊心過高。需要不少時間才能與其他寶可夢合作。",
+        ja: "高すぎる プライドが 玉にきず。 ほかの ポケモンと 連携できる ようになるまで 時間が かかる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Passofoglia",
                 de: "Blattschritt",
                 "pt-br": "Passo de Folha",
-                "zh-tw": "綠葉舞步"
+                "zh-tw": "綠葉舞步",
+                ja: "リーフステップ"
             },
             damage: 30
         }

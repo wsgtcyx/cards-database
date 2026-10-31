@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/042"
     },
     name: {
         en: "Carbink",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rocara",
         "pt-br": "Carbink",
         "zh-tw": "小碎鑽",
+        ja: "メレシー",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando viene assalito dagli aggressori, Carbink li spazza via tutti\nfuori sparando raggi ad alta energia dalle gemme\nincastonato nel suo corpo.",
         "de": "Wenn er von Angreifern bedrängt wird, löscht Carbink sie alle aus\ndurch Abfeuern hochenergetischer Strahlen aus den Edelsteinen heraus\nin seinen Körper eingebettet.",
         "pt-br": "Quando assediado por agressores, Carbink elimina todos eles\ndisparando feixes de alta energia das gemas\nembutido em seu corpo.",
-        "zh-tw": "當受到攻擊者圍攻時，Carbink 將其全部消滅\n通過從寶石中發射高能光束來釋放\n鑲嵌在它的身體裡。"
+        "zh-tw": "當受到攻擊者圍攻時，Carbink 將其全部消滅\n通過從寶石中發射高能光束來釋放\n鑲嵌在它的身體裡。",
+        ja: "体に 埋まっている 宝石から 高エネルギーの ビームを 放ち 襲いかかる 敵を 一掃する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rotolo duro",
                 "de": "Harte Rolle",
                 "pt-br": "Rolo Duro",
-                "zh-tw": "硬捲"
+                "zh-tw": "硬捲",
+                ja: "ハードロール"
             },
             damage: 30,
             cost: ["Fighting", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     weaknesses: [{

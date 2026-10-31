@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/170",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/170",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/170",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/170"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/170",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/170"
 	},
 	name: {
 		en: "Giratina",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Giratina",
 		de: "Giratina",
 		"pt-br": "Giratina",
-		"zh-tw": "騎拉帝納"
+		"zh-tw": "騎拉帝納",
+		ja: "ギラティナ"
 	},
 	illustrator: "AKIRA EGAWA",
 	rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Vive nel Mondo Distorto che, sfidando l'ordine\ncosmico, si trova sul lato opposto al nostro.",
 		de: "Es lebt in einer Zerrwelt, die auf der Kehrseite\nder unseren liegt und die sich aller Logik entzieht.",
 		"pt-br": "Dizem que este Pokémon vive em um mundo reverso\nao nosso, onde o senso comum é distorcido e estranho.",
+		ja: "常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。",
 		ko: "상식이 통하지 않는\n이 세상의 이면에 있다고 불리는\n깨어진 세계에 서식한다.",
 		"zh-tw": "據說這只神奇寶貝生活在與我們相反的世界，那裡的常識被扭曲和奇怪。"
 	},
@@ -47,6 +50,7 @@ const card: Card = {
 				it: "Levitazione",
 				de: "Schwebe",
 				"pt-br": "Levitação",
+				ja: "ふゆう",
 				ko: "부유",
 				"zh-tw": "懸浮"
 			},
@@ -57,6 +61,7 @@ const card: Card = {
 				it: "Se questo Pokémon ha delle Energie assegnate, non ha costo di ritirata.",
 				de: "Wenn an dieses Pokémon mindestens 1 Energie angelegt ist, hat es keine Rückzugskosten.",
 				"pt-br": "Se este Pokémon tiver alguma Energia ligada a ele, não terá custo de Recuo.",
+				ja: "このポケモンにエネルギーがついているなら、このポケモンのにげるためのエネルギーを、すべてなくす。",
 				ko: "이 포켓몬에게 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
 				"zh-tw": "如果該神奇寶貝附加了任何能量，則它沒有撤退成本。"
 			}
@@ -71,6 +76,7 @@ const card: Card = {
 				it: "Colpomistero",
 				de: "Spukschuss",
 				"pt-br": "Tiro Assustador",
+				ja: "ホロウショット",
 				ko: "홀로숏",
 				"zh-tw": "幽靈射擊"
 			},

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/047",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/047",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/047"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/047"
     },
     name: {
         en: "Araquanid",
@@ -47,7 +48,8 @@ const card: Card = {
         "it": "Lancia delle bolle d'acqua appiccicose per inglobare il nemico. Quando questi perde i sensi, lo fa a pezzi con le grosse mandibole.",
         "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug.",
         "pt-br": "Lança bolhas de água grudentas. Inimigos que perderem a consciência enquanto aprisionados nessas bolhas serão destroçados pelas mandíbulas de Araquanid.",
-        "zh-tw": "會發射黏答答的水泡。\n等被困在水泡中的敵人失去意識後，\n牠就會用大顎將其咬成碎片。"
+        "zh-tw": "會發射黏答答的水泡。\n等被困在水泡中的敵人失去意識後，\n牠就會用大顎將其咬成碎片。",
+        ja: "ねばねばの 水泡を 発射。 閉じこめた 敵が 気を 失うと 大あごで 噛み砕いてしまう。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Angolo",
                 de: "Ecke",
                 "pt-br": "Quina",
-                "zh-tw": "窮追不捨"
+                "zh-tw": "窮追不捨",
+                ja: "おいつめる"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             },
             damage: 60
         }

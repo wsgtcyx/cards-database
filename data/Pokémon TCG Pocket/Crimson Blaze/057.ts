@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/057"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/057"
     },
     name: {
         en: "Porygon2",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Porygon2",
         "de": "Porygon2",
         "pt-br": "Porygon2",
-        "zh-tw": "多邊獸Ⅱ"
+        "zh-tw": "多邊獸Ⅱ",
+        ja: "ポリゴン2"
     },
     illustrator: "Kent Kanetsuna",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Porygon",
         "de": "Porygon",
         "pt-br": "Porygon",
-        "zh-tw": "多邊獸"
+        "zh-tw": "多邊獸",
+        ja: "ポリゴン"
     },
     description: {
         en: "This is a Porygon that was updated with special\ndata. Porygon2 develops itself by learning about\nmany different subjects all on its own.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo è un Porygon che è stato aggiornato con qualcosa di speciale\ndati. Porygon2 si sviluppa imparando a conoscere\nmolti argomenti diversi da solo.",
         "de": "Dies ist ein Porygon, der mit etwas Besonderem aktualisiert wurde\nDaten. Porygon2 entwickelt sich durch Lernen\nviele verschiedene Themen für sich.",
         "pt-br": "Este é um Porygon que foi atualizado com especial\ndados. Porygon2 se desenvolve aprendendo sobre\nmuitos assuntos diferentes por conta própria.",
-        "zh-tw": "這是一個經過特殊更新的 Porygon\n數據。 Porygon2 通過學習來發展自己\n許多不同的主題都是獨立的。"
+        "zh-tw": "這是一個經過特殊更新的 Porygon\n數據。 Porygon2 通過學習來發展自己\n許多不同的主題都是獨立的。",
+        ja: "ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Attacco veloce",
                 "de": "Geschwindigkeitsangriff",
                 "pt-br": "Ataque Rápido",
-                "zh-tw": "速度攻擊"
+                "zh-tw": "速度攻擊",
+                ja: "スピードアタック"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/008"
     },
     name: {
         en: "Chespin",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Chespin",
         "de": "Igamaro",
         "pt-br": "Chespin",
-        "zh-tw": "哈力栗"
+        "zh-tw": "哈力栗",
+        ja: "ハリマロン"
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mangiare molte bacche fa sì che la corteccia si sguscia\ncopre la testa e il corpo di Chespin che diventano più robusti.",
         "de": "Wenn man viele Beeren isst, bildet sich die Rindenschale\nbedeckt Chespins Kopf und Körper werden stabiler.",
         "pt-br": "Comer muitas frutas faz com que a casca da casca fique\ncobre a cabeça e o corpo de Chespin ficam mais robustos.",
-        "zh-tw": "吃大量漿果會使樹皮殼\n覆蓋了切斯平的頭部，身體變得更加堅固。"
+        "zh-tw": "吃大量漿果會使樹皮殼\n覆蓋了切斯平的頭部，身體變得更加堅固。",
+        ja: "エサの 木の実を たくさん 食べると 頭と 体を 覆う 樹皮の 殻が 頑丈に 育つのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Frusta di vite",
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 30,
             cost: ["Grass", "Colorless"]

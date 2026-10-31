@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/235",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/235",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/235",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/235"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/235",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/235"
     },
     name: {
         en: "Electrode",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electrode",
         de: "Lektrobal",
         'pt-br': "Electrode",
+        ja: "マルマイン",
         ko: "붐볼",
         "zh-tw": "頑皮雷彈",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Voltorb",
         "de": "Voltobal",
         "pt-br": "Voltorb",
-        "zh-tw": "霹靂電球"
+        "zh-tw": "霹靂電球",
+        ja: "ビリリダマ"
     },
     attacks: [{
             cost: ["Lightning", "Lightning"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Energisfera",
                 de: "Elektroball",
                 'pt-br': "Bola Elétrica",
+                ja: "エレキボール",
                 ko: "일렉트릭볼",
                 "zh-tw": "電球"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "L'energia Elettro che immagazzina\nlo fa andare sempre più veloce, ma\nlo fa anche esplodere più facilmente.",
         de: "Je mehr elektrische Energie es speichert, desto\nschneller ist es. Allerdings steigt dabei auch das\nRisiko, dass es explodiert.",
         'pt-br': "Quanto mais energia carrega, mais\nvelocidade ganha. Mas também aumenta\na sua probabilidade de explodir.",
+        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。",
         ko: "전기 에너지를 모을수록\n고속으로 이동할 수 있게 되나\n그만큼 폭발하기도 쉬워진다.",
         "zh-tw": "它充電的能量越多，速度就越快。但這也使得它更容易爆炸。"
     },

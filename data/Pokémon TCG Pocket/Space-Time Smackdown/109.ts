@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/109"
     },
     name: {
         en: "Darkrai",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Darkrai",
         de: "Darkrai",
         'pt-br': "Darkrai",
+        ja: "ダークライ",
         ko: "다크라이",
         "zh-tw": "達克萊伊"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Respinge umani e Pokémon dal suo\nterritorio inducendoli a un sonno\nprofondo e provocando incubi.",
         de: "Es vertreibt Eindringlinge aus seinem Revier, indem\nes sie in Schlaf versetzt und mit Alpträumen quält.",
         'pt-br': "Causa um sono profundo e cheio de pesadelos\nem pessoas e Pokémon para afugentá-los\nde seu território.",
+        ja: "深い 眠りに 誘う 力で 人や ポケモンに 悪夢を 見せて 自分の 縄張りから 追い出す。",
         ko: "깊은 잠으로 끌어들이는 힘으로\n사람과 포켓몬에게 악몽을 꾸게 해\n자신의 영역에서 쫓아낸다.",
         "zh-tw": "它通過讓人類和神奇寶貝經歷噩夢般的深度睡眠來將他們驅逐出其領地。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Vuototetro",
                 de: "Schlummerort",
                 'pt-br': "Vácuo da Escuridão",
+                ja: "ダークホール",
                 ko: "다크홀",
                 "zh-tw": "黑暗虛空"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/013"
     },
     name: {
         en: "Vileplume",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vileplume",
         de: "Giflor",
         'pt-br': "Vileplume",
+        ja: "ラフレシア",
         ko: "라플레시아",
         "zh-tw": "霸王花",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Gloom",
         "de": "Duflor",
         "pt-br": "Gloom",
-        "zh-tw": "臭臭花"
+        "zh-tw": "臭臭花",
+        ja: "クサイハナ"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Aroma Calmante",
                 de: "Beruhigender Duft",
                 'pt-br': "Odor Calmante",
+                ja: "アロマスリープ",
                 ko: "아로마슬립",
                 "zh-tw": "舒緩香氣"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Ha i petali più grandi del mondo.\nAd ogni suo passo, i petali liberano\nfitte nubi di polline tossico.",
         de: "Es besitzt die größten Blütenblätter\nder Welt. Bei jedem Schritt streut es\ngroße Mengen an Giftpollen zu Boden.",
         'pt-br': "Tem as maiores pétalas do mundo.\nA cada passo, as pétalas se agitam\ne liberam pesadas nuvens de pólen tóxico.",
+        ja: "世界一 大きな 花びらは 歩くたびに 揺れて 大量の 毒花粉を ばらまいてしまう。",
         ko: "세계에서 제일 큰 꽃잎은\n걸을 때마다 흔들려 대량의\n독 꽃가루를 흩뿌린다.",
         "zh-tw": "它擁有世界上最大的花瓣。每走一步，花瓣就會抖落出大量有毒花粉。"
     },

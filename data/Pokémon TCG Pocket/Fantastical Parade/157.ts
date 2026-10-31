@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/157",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/157",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/157"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/157",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/157"
     },
     name: {
         en: "Roserade",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Roserade",
         "de": "Roserade",
         "pt-br": "Roserade",
-        "zh-tw": "羅絲雷朵"
+        "zh-tw": "羅絲雷朵",
+        ja: "ロズレイド"
     },
     illustrator: "tono",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Roselia",
         "de": "Roselia",
         "pt-br": "Roselia",
-        "zh-tw": "毒薔薇"
+        "zh-tw": "毒薔薇",
+        ja: "ロゼリア"
     },
     description: {
         en: "The poison in its right hand is quick acting.\nThe poison in its left hand is slow acting.\nBoth are life threatening.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il veleno nella sua mano destra agisce rapidamente.\nIl veleno nella sua mano sinistra agisce lentamente.\nEntrambi sono in pericolo di vita.",
         "de": "Das Gift in seiner rechten Hand wirkt schnell.\nDas Gift in seiner linken Hand wirkt langsam.\nBeides ist lebensgefährlich.",
         "pt-br": "O veneno em sua mão direita atua rapidamente.\nO veneno em sua mão esquerda tem ação lenta.\nAmbos são fatais.",
-        "zh-tw": "右手的毒藥起效很快。\n左手的毒藥起效緩慢。\n兩人都有生命危險。"
+        "zh-tw": "右手的毒藥起效很快。\n左手的毒藥起效緩慢。\n兩人都有生命危險。",
+        ja: "右手の 毒は 即効性。 左手の 毒は 遅効性。 どちらも 命に かかわるぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Anello del Veleno",
                 "de": "Giftring",
                 "pt-br": "Anel Venenoso",
-                "zh-tw": "毒環"
+                "zh-tw": "毒環",
+                ja: "ポイズンサークル"
             },
             damage: 50,
             cost: ["Grass", "Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato. Durante il prossimo turno del tuo avversario, quel Pokémon non può ritirarsi.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Während des nächsten Zuges deines Gegners kann sich dieses Pokémon nicht zurückziehen.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado. Durante o próximo turno do seu oponente, esse Pokémon não poderá recuar.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。在對手的下一個回合中，該寶可夢不能撤退。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。在對手的下一個回合中，該寶可夢不能撤退。",
+                ja: "相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

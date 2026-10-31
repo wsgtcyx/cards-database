@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/198",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/198",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/198"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/198",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/198"
     },
     name: {
         en: "Lunala",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Cosmovum",
         "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆",
-        ja: "Cosmoem",
+        ja: "コスモウム",
         ko: "Cosmoem"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Mondscheiben-Flügel",
                 "pt-br": "Asas Lunares",
                 "zh-tw": "月輪之翼",
-                ja: "Wings of the Moone",
+                ja: "がちりんのつばさ",
                 ko: "Wings of the Moone"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Verschiebe alle Energien von diesem Pokémon beliebig auf die Pokémon auf deiner Bank.",
                 "pt-br": "Mova todas as Energias deste Pokémon para os seus Pokémon no Banco como desejar.",
                 "zh-tw": "將這隻寶可夢身上的能量,全部以任意方式改附於備戰寶可夢身上。",
-                ja: "Move all Energy from this Pokémon to your Benched Pokémon in any way you like.",
+                ja: "このポケモンからエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。",
                 ko: "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Ihm wurde der Name „Mondbringer“ verliehen. Solange es lebt, wandelt es jedes Licht in Energie um.",
         "pt-br": "Conhecido como A Criatura que Traz a Lua, este Pokémon converte toda a luz ao seu alcance em sua própria energia para sobreviver.",
         "zh-tw": "被稱為招引月亮之獸。將照耀一切的光轉化為能量來維持生命。",
-        ja: "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+        ja: "月を 誘いし 獣 という 名前を もつ。 あらゆる 光を エネルギーに 変えて 生きている。",
         ko: "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy."
     }
 };

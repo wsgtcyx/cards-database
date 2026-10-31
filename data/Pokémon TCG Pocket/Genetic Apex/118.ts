@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/118",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/118"
     },
     name: {
         en: "Slowpoke",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Slowpoke",
         de: "Flegmon",
         'pt-br': "Slowpoke",
+        ja: "ヤドン",
         ko: "야돈",
         "zh-tw": "呆呆獸"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Codabotta",
                 de: "Schweifvertrimmer",
                 'pt-br': "Surra de Cauda",
+                ja: "しっぽではたく",
                 ko: "꼬리로 막치기",
                 "zh-tw": "尾擊"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Incredibilmente lento e tonto, ci\nmette cinque secondi a percepire\nil dolore dopo essere stato colpito.",
         de: "Ein unglaublich träges und einfältiges Pokémon.\nWenn es angegriffen wird, bemerkt es den\nSchmerz erst fünf Sekunden später.",
         'pt-br': "É extremamente lento e tonto. Demora uns cinco\nsegundos para sentir dor após sofrer um ataque.",
+        ja: "動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。",
         ko: "움직임이 둔하고 멍청하다.\n맞아도 5초는 지나야\n아픔을 느낄 정도다.",
         "zh-tw": "它非常緩慢且愚蠢。當受到攻擊時，它需要五秒鐘的時間才會感到疼痛。"
     },

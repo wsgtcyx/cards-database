@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/048"
     },
     name: {
         en: "Primarina",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Primarina",
         de: "Primarene",
         'pt-br': "Primarina",
+        ja: "アシレーヌ",
         ko: "누리레느",
         "zh-tw": "西獅海壬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Marikeck",
         "pt-br": "Brionne",
         "zh-tw": "花漾海獅",
+        ja: "オシャマリ",
     },
     description: {
         en: "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Per Primarina la lotta è uno show. Dà il colpo di grazia\nalla sua preda cantando e piroettando con eleganza.",
         de: "Für Primarene ist jeder Kampf wie eine Aufführung.\nEs erlegt seine Beute durch anmutiges Singen und Tanzen.",
         'pt-br': "Para Primarina, cada batalha é um palco.\nDerrota sua presa com sua dança e seu canto magníficos.",
+        ja: "アシレーヌにとって 戦いは ステージ。 華麗に 歌って 舞い踊り 獲物を 仕留める。",
         ko: "누리레느에게 싸움은 스테이지다.\n화려하게 노래하고 춤을 추며\n먹이의 숨통을 끊는다.",
         "zh-tw": "對於Primarina來說，每一場戰鬥都是一個舞台。它用優美的歌聲和舞蹈來捕食獵物。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Canto Curativo",
                 de: "Melodische Heilung",
                 'pt-br': "Cura Melódica",
+                ja: "ヒールメロディ",
                 ko: "힐 멜로디",
                 "zh-tw": "悠揚治愈"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon {W} da 30 danni.",
                 de: "Einmal während deines Zuges kannst du 30 Schadenspunkte bei jedem deiner {W}-Pokémon heilen.",
                 'pt-br': "Uma vez durante o seu turno, você poderá curar 30 pontos de dano de cada um dos seus Pokémon {W}.",
+                ja: "自分の番に1回使える。自分の{W}ポケモン全員のHPを30回復。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 {W}포켓몬 전원의 HP를 30회복.",
                 "zh-tw": "在你的回合中，你可以治療每隻 {W} 神奇寶貝造成的 30 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 'pt-br': "Surfar",
+                ja: "なみのり",
                 ko: "파도타기",
                 "zh-tw": "衝浪"
             },

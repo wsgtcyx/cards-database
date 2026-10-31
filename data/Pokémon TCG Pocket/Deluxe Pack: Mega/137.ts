@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/137",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/137",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/137"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/137"
     },
     name: {
         en: "Alolan Grimer",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Da es sämtliche Arten von Müll mit Freuden verschlingt, gilt es als großer Star einer jeden Abfallentsorgungsanlage.",
         "pt-br": "Grimer de Alola devora alegremente qualquer tipo de lixo, o que o torna um Pokémon muito usado e popular em centros de tratamento de lixo.",
         "zh-tw": "任何垃圾都會美味地吃下肚，因此在垃圾處理場不辭辛勞大顯身手，在那非常受歡迎。",
-        ja: "Alolan Grimer will gladly gobble up any kind\nof trash, making it a widely used and popular\nPokémon at garbage disposal facilities.",
+        ja: "どんな ゴミでも おいしく 食べて くれるので ゴミ処分場では 大活躍の 人気者。",
         ko: "Alolan Grimer will gladly gobble up any kind\nof trash, making it a widely used and popular\nPokémon at garbage disposal facilities."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Klaps",
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
-                ja: "Pound",
+                ja: "はたく",
                 ko: "Pound"
             },
             damage: 20,

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/116",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/116",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/116",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/116"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/116",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/116"
 	},
 	name: {
 		en: "Popplio",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Popplio",
 		de: "Robball",
 		"pt-br": "Popplio",
-		"zh-tw": "球球海獅"
+		"zh-tw": "球球海獅",
+		ja: "アシマリ"
 	},
 	illustrator: "match",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "I palloncini che gonfia con il naso crescono\nsempre più grande man mano che si esercita giorno dopo giorno.",
 		de: "Die Ballons, die es mit seiner Nase aufbläst, wachsen\ngrößer und größer, je mehr es Tag für Tag praktiziert.",
 		"pt-br": "Os balões que ele infla com o nariz crescem\ncada vez maior à medida que pratica dia após dia.",
-		"zh-tw": "它用鼻子吹的氣球長大了\n隨著它日復一日的練習，它變得越來越大。"
+		"zh-tw": "它用鼻子吹的氣球長大了\n隨著它日復一日的練習，它變得越來越大。",
+		ja: "鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Irrigazione",
 				de: "Bewässerung",
 				"pt-br": "Rega",
-				"zh-tw": "澆水"
+				"zh-tw": "澆水",
+				ja: "みずまき"
 			},
 			damage: 30,
 			cost: ["Water", "Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/140",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/140",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/140"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/140"
     },
     name: {
         en: "Haunter",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
-        ja: "Gastly",
+        ja: "ゴース",
         ko: "Gastly"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Alpollo wartet in absoluter Finsternis auf seine Opfer. Es lauert ihnen auf und stellt ihnen nach.",
         "pt-br": "Na escuridão total, onde nada é visível, Haunter se esconde, perseguindo silenciosamente sua próxima vítima.",
         "zh-tw": "出沒在會伸手不見五指的黑暗中追蹤捕捉獵物，不發一點聲響。",
-        ja: "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+        ja: "本当に なにも 見えない 暗闇で ゴーストは 静かに 獲物を 狙っているのだ。",
         ko: "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim."
     },
     attacks: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Absatzdreher",
                 "pt-br": "Volta Giratória",
                 "zh-tw": "旋轉迴旋",
-                ja: "Spin Turn",
+                ja: "スピンターン",
                 ko: "Spin Turn"
             },
             effect: {
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
-                ja: "Switch this Pokémon with 1 of your Benched Pokémon.",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "Switch this Pokémon with 1 of your Benched Pokémon."
             },
             damage: 40

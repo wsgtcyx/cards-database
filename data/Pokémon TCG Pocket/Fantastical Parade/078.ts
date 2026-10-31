@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/078"
     },
     name: {
         en: "Sandslash",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sandslash",
         "de": "Sandamer",
         "pt-br": "Sandslash",
-        "zh-tw": "穿山王"
+        "zh-tw": "穿山王",
+        ja: "サンドパン"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "穿山鼠"
+        "zh-tw": "穿山鼠",
+        ja: "サンド"
     },
     description: {
         en: "The spikes on its body are made up of its\nhardened hide. It rolls up and attacks foes\nwith its spikes.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le punte sul suo corpo sono costituite da esso\npelle indurita. Si arrotola e attacca i nemici\ncon le sue punte.",
         "de": "Die Stacheln an seinem Körper bestehen aus\ngehärtetes Fell. Es rollt sich zusammen und greift Feinde an\nmit seinen Stacheln.",
         "pt-br": "Os espinhos em seu corpo são compostos de\npele endurecida. Ele rola e ataca os inimigos\ncom seus espinhos.",
-        "zh-tw": "它身上的尖刺是由它的\n硬化的皮革。它捲起並攻擊敵人\n與它的尖刺。"
+        "zh-tw": "它身上的尖刺是由它的\n硬化的皮革。它捲起並攻擊敵人\n與它的尖刺。",
+        ja: "トゲは 皮膚が 硬くなったもの。 体を 丸めて トゲトゲを 刺すように 相手を 攻撃する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpi di furia",
                 "de": "Wut-Swipes",
                 "pt-br": "Golpes de Fúria",
-                "zh-tw": "狂怒橫掃"
+                "zh-tw": "狂怒橫掃",
+                ja: "みだれひっかき"
             },
             damage: "30×",
             cost: ["Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 30 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを3回投げ、オモテの数×30ダメージ。"
             }
         }],
     weaknesses: [{

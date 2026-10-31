@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/058",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/058",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/058"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/058"
     },
     name: {
         en: "Marill",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Walzer",
                 "pt-br": "Rolagem",
                 "zh-tw": "滾動",
-                ja: "Rollout",
+                ja: "ころがる",
                 ko: "Rollout"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.",
         "pt-br": "A sua pelagem repele água naturalmente. Pode brincar na água por horas sem se molhar.",
         "zh-tw": "全身的體毛有著能將水彈開的特性，所以就算跳到水裡也不會弄濕。",
-        ja: "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+        ja: "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。",
         ko: "The fur on its body naturally repels water. It can stay dry even when it plays in the water."
     }
 };

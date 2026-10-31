@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/074"
     },
     name: {
         en: "Slowking",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Laschoking",
         "pt-br": "Slowking",
         "zh-tw": "呆呆王",
+        ja: "ヤドキング",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Slowpoke",
         "de": "Flegmon",
         "pt-br": "Slowpoke",
-        "zh-tw": "呆呆獸"
+        "zh-tw": "呆呆獸",
+        ja: "ヤドン"
     },
     description: {
         en: "When its head was bitten, toxins entered Slowpoke's\nhead and unlocked an extraordinary power.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando gli viene morsa la testa, le tossine entrano in quella di Slowpoke\ntesta e sbloccò un potere straordinario.",
         "de": "Als sein Kopf gebissen wurde, gelangten Giftstoffe in Slowpokes Körper\nKopf und setzte eine außergewöhnliche Kraft frei.",
         "pt-br": "Quando sua cabeça foi mordida, toxinas entraram no corpo de Slowpoke.\ncabeça e desbloqueou um poder extraordinário.",
-        "zh-tw": "當它的頭被咬時，毒素就進入了呆呆獸的身體\n頭並釋放出非凡的力量。"
+        "zh-tw": "當它的頭被咬時，毒素就進入了呆呆獸的身體\n頭並釋放出非凡的力量。",
+        ja: "かまれたとき 頭に 染みこんだ 毒素に よって ただならない 能力に 目覚めた ヤドン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Psichico",
                 "de": "Hellseher",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神"
+                "zh-tw": "精神",
+                ja: "サイコキネシス"
             },
             damage: "10+",
             cost: ["Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
             }
         }],
     weaknesses: [{

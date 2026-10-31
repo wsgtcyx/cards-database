@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/050"
     },
     name: {
         en: "Alolan Raichu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Raichu di Alola",
         "de": "Alola-Raichu",
         "pt-br": "Raichu de Alola",
-        "zh-tw": "阿羅拉雷丘"
+        "zh-tw": "阿羅拉雷丘",
+        ja: "アローラライチュウ"
     },
     illustrator: "Akira Komayama",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     description: {
         en: "This Pokémon rides on its tail while it uses\nits psychic powers to levitate. It attacks with\nstar-shaped thunderbolts.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon cavalca sulla sua coda mentre usa\ni suoi poteri psichici per levitare. Attacca con\nfulmini a forma di stella.",
         "de": "Dieses Pokémon reitet auf seinem Schwanz, während es es benutzt\nseine psychischen Kräfte zum Schweben. Es greift mit an\nsternförmige Blitze.",
         "pt-br": "Este Pokémon anda na sua cauda enquanto usa\nseus poderes psíquicos para levitar. Ele ataca com\nraios em forma de estrela.",
-        "zh-tw": "這只神奇寶貝在使用時騎在尾巴上\n它的靈力可以懸浮。它攻擊與\n星狀雷電。"
+        "zh-tw": "這只神奇寶貝在使用時騎在尾巴上\n它的靈力可以懸浮。它攻擊與\n星狀雷電。",
+        ja: "しっぽに 乗って サイコパワーで 浮遊しながら 星形に 作った 10万ボルトで 攻撃する。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Surfista in sovratensione",
                 "de": "Surge Surfer",
                 "pt-br": "Surfista",
-                "zh-tw": "衝浪者"
+                "zh-tw": "衝浪者",
+                ja: "サーフテール"
             },
             effect: {
                 en: "If a Stadium is in play, this Pokémon has no Retreat Cost.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Se è in gioco uno Stadio, questo Pokémon non ha costo di ritirata.",
                 "de": "Wenn ein Stadion im Spiel ist, hat dieses Pokémon keine Rückzugskosten.",
                 "pt-br": "Se um Estádio estiver em jogo, este Pokémon não terá custo de Recuo.",
-                "zh-tw": "如果體育場正在進行中，則該神奇寶貝沒有撤退成本。"
+                "zh-tw": "如果體育場正在進行中，則該神奇寶貝沒有撤退成本。",
+                ja: "場にスタジアムが出ているなら、このポケモンのにげるためのエネルギーを、すべてなくす。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Tuonolancia",
                 "de": "Donnerspeer",
                 "pt-br": "Lança do Trovão",
-                "zh-tw": "雷霆之矛"
+                "zh-tw": "雷霆之矛",
+                ja: "サンダーアロー"
             },
             cost: ["Lightning", "Lightning"],
             effect: {
@@ -83,7 +90,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 50 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。",
+                ja: "相手のポケモン1匹に50ダメージ。"
             }
         }],
     weaknesses: [{

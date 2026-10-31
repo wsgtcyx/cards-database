@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/048",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/048",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/048",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/048"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/048"
     },
     name: {
         en: "Wigglytuff",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La pelliccia ricca e soffice che ricopre il suo corpo è così bella che chiunque la senta non può smettere di toccarla.",
         de: "Das üppige, flauschige Fell, das seinen Körper bedeckt, fühlt sich so gut an, dass jeder, der es spürt, nicht aufhören kann, es zu berühren.",
         "pt-br": "O pelo rico e fofo que cobre seu corpo é tão gostoso que qualquer um que o sente não consegue parar de tocá-lo.",
-        "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。"
+        "zh-tw": "覆蓋它身體的濃密蓬鬆的皮毛感覺非常好，任何摸到它的人都會忍不住去觸摸它。",
+        ja: "ふわふわの 体毛に 触ると 手触りが とても 良いので 離れられなくなってしまう。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Martello",
                 de: "Einhämmern",
                 "pt-br": "Martelada",
-                "zh-tw": "頭突"
+                "zh-tw": "頭突",
+                ja: "ぶちかます"
             },
             damage: 80
         }

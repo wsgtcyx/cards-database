@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/022"
     },
     name: {
         en: "Heracross",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Skaraborn",
         "pt-br": "Heracross",
         "zh-tw": "赫拉克羅斯",
+        ja: "ヘラクロス",
     },
     illustrator: "Naoki Saito",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ama il nettare dolce. Per conservare tutto il nettare\nstesso, scaglia via i rivali con il suo prezioso corno.",
         "de": "Es liebt süßen Nektar. Um den ganzen Nektar zu behalten\nselbst, schleudert es Rivalen mit seinem wertvollen Horn weg.",
         "pt-br": "Adora néctar doce. Para manter todo o néctar\npor si só, ele afasta os rivais com seu valioso chifre.",
-        "zh-tw": "牠喜歡甜甜的花蜜。為了保留所有的花蜜\n它本身也用它珍貴的角把對手趕走。"
+        "zh-tw": "牠喜歡甜甜的花蜜。為了保留所有的花蜜\n它本身也用它珍貴的角把對手趕走。",
+        ja: "甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Affondo singolo",
                 "de": "Einzelner Ausfallschritt",
                 "pt-br": "Estocada única",
-                "zh-tw": "單弓步"
+                "zh-tw": "單弓步",
+                ja: "いってんづき"
             },
             damage: "40+",
             cost: ["Grass", "Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon non ha danni su di sé, questo attacco infligge 40 danni in più.",
                 "de": "Wenn dieses Pokémon keinen Schaden hat, verursacht dieser Angriff 40 weitere Schadenspunkte.",
                 "pt-br": "Se este Pokémon não causar danos, este ataque causará 40 danos a mais.",
-                "zh-tw": "如果這只神奇寶貝沒有受到任何傷害，則這次攻擊會造成 40 點額外傷害。"
+                "zh-tw": "如果這只神奇寶貝沒有受到任何傷害，則這次攻擊會造成 40 點額外傷害。",
+                ja: "このポケモンがダメージを受けていないなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

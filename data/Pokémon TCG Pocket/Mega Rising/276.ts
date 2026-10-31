@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/276",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/276",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/276",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/276"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/276",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/276"
     },
     name: {
         en: "Jolteon ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Blitza-ex",
         "pt-br": "Jolteon ex",
         "zh-tw": "雷伊布ex",
+        ja: "サンダースex",
     },
     illustrator: "kodama",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Muro elettromagnetico",
                 "de": "Elektromagnetische Wand",
                 "pt-br": "Parede Eletromagnética",
-                "zh-tw": "電磁牆"
+                "zh-tw": "電磁牆",
+                ja: "でんじウォール"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Fintanto che questo Pokémon è in posizione attiva, ogni volta che il tuo avversario assegna un'Energia dalla sua Zona di Energia a uno dei suoi Pokémon, infliggi 20 danni a quel Pokémon.",
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, füge deinem Gegner jedes Mal, wenn er eine Energie aus seiner Energiezone an eines seiner Pokémon anlegt, diesem Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, sempre que seu oponente ligar uma Energia da Zona de Energia dele a 1 de seus Pokémon, cause 20 de dano a esse Pokémon.",
-                "zh-tw": "只要這只神奇寶貝在活躍點，每當你的對手將能量區中的能量附加到他們的一隻神奇寶貝上時，就會對該神奇寶貝造成 20 點傷害。"
+                "zh-tw": "只要這只神奇寶貝在活躍點，每當你的對手將能量區中的能量附加到他們的一隻神奇寶貝上時，就會對該神奇寶貝造成 20 點傷害。",
+                ja: "このポケモンがバトル場にいるかぎり、相手はエネルギーゾーンからポケモンにエネルギーをつけるたび、そのポケモンに20ダメージ。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Mach Bolt",
                 "de": "Mach Bolt",
                 "pt-br": "Parafuso Mach",
-                "zh-tw": "馬赫螺栓"
+                "zh-tw": "馬赫螺栓",
+                ja: "マッハボルト"
             },
             damage: 80,
             cost: ["Lightning", "Lightning"]

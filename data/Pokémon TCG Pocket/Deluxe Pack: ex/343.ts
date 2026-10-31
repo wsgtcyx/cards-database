@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/343",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/343",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/343",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/343"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/343",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/343"
 	},
 	name: {
         en: "Dawn",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lucia",
         "pt-br": "Dawn",
         "zh-tw": "小光",
+        ja: "ヒカリ",
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Sposta un'Energia da 1 dei tuoi Pokémon in panchina al tuo Pokémon attivo.",
         "de": "Verschiebe eine Energie von einem deiner Bank-Pokémon auf dein Aktives Pokémon.",
         "pt-br": "Mova uma Energia de 1 dos seus Pokémon no Banco para o seu Pokémon Ativo.",
-        "zh-tw": "將能量從你的 1 個後備神奇寶貝轉移到你的活躍神奇寶貝上。"
+        "zh-tw": "將能量從你的 1 個後備神奇寶貝轉移到你的活躍神奇寶貝上。",
+        ja: "自分のベンチポケモンからエネルギーを1個選び、バトルポケモンにつけ替える。"
     },
     trainerType: "Supporter"
 };

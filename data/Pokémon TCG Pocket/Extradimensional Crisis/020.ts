@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/020"
     },
     name: {
         en: "Xurkitree",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voltriant",
         "pt-br": "Xurkitree",
         "zh-tw": "電束木",
+        ja: "デンジュモク",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sebbene sia estraneo a questo mondo e un pericolo qui, a quanto pare lo è\nun organismo comune nel mondo in cui vive normalmente.",
         "de": "Obwohl es dieser Welt fremd und hier eine Gefahr darstellt, ist es das offenbar\nein gewöhnlicher Organismus auf der Welt, wo er normalerweise lebt.",
         "pt-br": "Embora seja estranho a este mundo e seja um perigo aqui, aparentemente é\num organismo comum no mundo onde normalmente vive.",
-        "zh-tw": "雖然它對這個世界來說是陌生的，並且是這裡的危險，但它顯然是\n其正常生活的世界中的常見有機體。"
+        "zh-tw": "雖然它對這個世界來說是陌生的，並且是這裡的危險，但它顯然是\n其正常生活的世界中的常見有機體。",
+        ja: "この世界では 異質で 危険だが 本来 棲んでいる 世界では 普通に 見かける 生物らしい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Elettronica",
                 "de": "Electronica",
                 "pt-br": "Eletrônica",
-                "zh-tw": "電子樂"
+                "zh-tw": "電子樂",
+                ja: "エレクトロニカ"
             },
             damage: 60,
             cost: ["Lightning", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora confuso.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

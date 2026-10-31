@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/055"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/055"
     },
     name: {
         en: "Remoraid",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Remoraid",
         "pt-br": "Remoraid",
         "zh-tw": "鐵炮魚",
+        ja: "テッポウオ",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'acqua che sparano dalla bocca può colpire\nspostare la preda a più di 300 piedi di distanza.",
         "de": "Das Wasser, das ihnen aus dem Mund spritzt, kann treffen\nBewegen von Beute aus mehr als 300 Fuß Entfernung.",
         "pt-br": "A água que eles expelem da boca pode atingir\nmover presas a mais de 300 pés de distância.",
-        "zh-tw": "它們從嘴裡噴出的水可以擊中\n將獵物從 300 英尺以外移動。"
+        "zh-tw": "它們從嘴裡噴出的水可以擊中\n將獵物從 300 英尺以外移動。",
+        ja: "口から 噴き出す 水流は １００メートル先で 動く 獲物に だって 命中する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

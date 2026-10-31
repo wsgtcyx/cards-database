@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/136",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/136",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/136"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/136"
     },
     name: {
         en: "Kecleon",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Cambia colore per mimetizzarsi e sorprendere la preda. Il disegno sulla pancia rimane sempre visibile.",
         "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich.",
         "pt-br": "Muda de cor para se misturar ao ambiente e surpreender a presa. No entanto, não consegue fazer as marcas na sua barriga desaparecerem.",
-        "zh-tw": "能夠改變體色，融入景色中，\n悄悄地靠近獵物。\n但腹部的花紋是不會消失的。"
+        "zh-tw": "能夠改變體色，融入景色中，\n悄悄地靠近獵物。\n但腹部的花紋是不會消失的。",
+        ja: "体の 色を 変えて 景色に 溶けこみ 獲物に 忍び寄る。 お腹の 模様は 消せないのだ。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 de: "Spiegelklatscher",
                 "pt-br": "Tapa Combinado",
                 "zh-tw": "撞能巴掌",
-                "it": "Schiaffaffine"
+                "it": "Schiaffaffine",
+                ja: "おそろいビンタ"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Se questo Pokémon e il Pokémon attivo del tuo avversario hanno in comune uno o più tipi fra le loro Energie assegnate, questo attacco infligge 30 danni in più.",
                 de: "Wenn an dieses Pokémon und das Aktive Pokémon deines Gegners mindestens 1 gleicher Energietyp angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem 1 ou mais do mesmo tipo de Energia ligada a eles, este ataque causará 30 pontos de dano a mais.",
-                "zh-tw": "若這隻寶可夢身上的能量的屬性與對手的戰鬥寶可夢身上的能量的屬性有1種以上相同,則增加30點傷害。"
+                "zh-tw": "若這隻寶可夢身上的能量的屬性與對手的戰鬥寶可夢身上的能量的屬性有1種以上相同,則增加30點傷害。",
+                ja: "このポケモンのエネルギーのタイプと、相手のバトルポケモンのエネルギーのタイプが1種類以上同じなら、30ダメージ追加。"
             },
             damage: "20+"
         }

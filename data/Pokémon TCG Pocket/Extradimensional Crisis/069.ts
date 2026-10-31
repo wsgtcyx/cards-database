@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/069"
     },
     name: {
         en: "Lusamine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Samantha",
         "pt-br": "Samina",
         "zh-tw": "露莎米奈",
+        ja: "ルザミーネ",
     },
     illustrator: "Taira Akitsu",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Puoi utilizzare questa carta solo se il tuo avversario ha ottenuto almeno 1 punto.\n\nScegli 1 delle tue Ultracreature. Assegna due Energie casuali dalla tua pila degli scarti a quel Pokémon.",
         "de": "Du kannst diese Karte nur verwenden, wenn dein Gegner mindestens 1 Punkt erreicht hat.\n\nWähle 1 deiner Ultrabestien. Lege 2 zufällige Energien von deinem Ablagestapel an dieses Pokémon an.",
         "pt-br": "Você só pode usar esta carta se seu oponente tiver obtido pelo menos 1 ponto.\n\nEscolha 1 de suas Ultra Bestas. Ligue 2 Energias aleatórias da sua pilha de descarte a esse Pokémon.",
-        "zh-tw": "僅當對手獲得至少 1 點時才能使用這張卡。\n\n選擇你的 1 只究極異獸。將棄牌堆中的 2 個隨機能量附加到該神奇寶貝上。"
+        "zh-tw": "僅當對手獲得至少 1 點時才能使用這張卡。\n\n選擇你的 1 只究極異獸。將棄牌堆中的 2 個隨機能量附加到該神奇寶貝上。",
+        ja: "このカードは、相手がポイントをとっているときにしか使えない。 自分の「ウルトラビースト」を1匹選ぶ。自分のトラッシュからエネルギーをランダムに2個、そのポケモンにつける。"
     },
     trainerType: "Supporter"
 };

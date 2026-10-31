@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/354",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/354",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/354",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/354"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/354",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/354"
     },
     name: {
         en: "Skitty",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es zeigt gerne seine niedliche Seite, indem es seinen eigenen Schweif jagt, bis ihm schwindlig wird.",
         "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto.",
         "zh-tw": "有時會展現出追著自己的尾巴玩，但玩著玩著就會頭暈眼花的可愛一面。",
-        ja: "It shows its cute side by chasing its own tail\nuntil it gets dizzy.",
+        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。",
         ko: "It shows its cute side by chasing its own tail\nuntil it gets dizzy."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Knuddler",
                 "pt-br": "Jogo Duro",
                 "zh-tw": "嬉鬧",
-                ja: "Play Rough",
+                ja: "じゃれつく",
                 ko: "Play Rough"
             },
             damage: "10+",
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "Flip a coin. If heads, this attack does 30 more damage.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "Flip a coin. If heads, this attack does 30 more damage."
             }
         }

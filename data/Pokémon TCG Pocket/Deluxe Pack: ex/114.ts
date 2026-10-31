@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/114",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/114",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/114",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/114"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/114",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/114"
 	},
 	name: {
 		en: "Greninja",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Greninja",
 		de: "Quajutsu",
 		"pt-br": "Greninja",
-		"zh-tw": "甲賀忍蛙"
+		"zh-tw": "甲賀忍蛙",
+		ja: "ゲッコウガ"
 	},
 	illustrator: "5ban Graphics",
 	category: "Pokemon",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Frogadier",
 		de: "Amphizel",
 		"pt-br": "Frogadier",
-		"zh-tw": "呱頭蛙"
+		"zh-tw": "呱頭蛙",
+		ja: "ゲコガシラ"
 	},
 	abilities: [
 		{
@@ -45,6 +48,7 @@ const card: Card = {
 				it: "Acqualame",
 				de: "Wasser-Shuriken",
 				"pt-br": "Estrela Ninja de Água",
+				ja: "みずしゅりけん",
 				ko: "물수리검",
 				"zh-tw": "水手裡劍"
 			},
@@ -55,6 +59,7 @@ const card: Card = {
 				it: "Una sola volta durante il tuo turno, puoi infliggere 20 danni a uno dei Pokémon del tuo avversario.",
 				de: "Einmal während deines Zuges kannst du 1 Pokémon deines Gegners 20 Schadenspunkte zufügen.",
 				"pt-br": "Uma vez durante o seu turno, você poderá causar 20 pontos de dano a 1 dos Pokémon do seu oponente.",
+				ja: "自分の番に1回使える。相手のポケモン1匹に20ダメージ。",
 				ko: "자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 20데미지를 준다.",
 				"zh-tw": "在你的回合中，你可以對對手的 1 只神奇寶貝造成 20 點傷害。"
 			}
@@ -70,6 +75,7 @@ const card: Card = {
 				it: "Squarcianebbia",
 				de: "Schleierschlitzer",
 				"pt-br": "Golpe de Névoa",
+				ja: "かすみぎり",
 				ko: "안개베기",
 				"zh-tw": "霧斬"
 			},
@@ -91,6 +97,7 @@ const card: Card = {
 		it: "Crea lame d'acqua micidiali che ruotano ad alta\nvelocità e, se lanciate, possono perforare il metallo.",
 		de: "Es stellt Wurfsterne aus komprimiertem Wasser\nher, die durch ihre hohe Drehgeschwindigkeit\nbeim Werfen sogar Metall durchtrennen.",
 		"pt-br": "Cria estrelas ninja de água comprimida.\nAo girá-las e atirá-las em alta velocidade,\nas estrelas podem dividir metais ao meio.",
+		ja: "水を 圧縮して 手裏剣を 作り出す。 高速回転させて 飛ばすと 金属も 真っ二つ。",
 		ko: "물을 압축시켜 수리검을\n만들어 낸다. 고속으로 회전시키며\n던지면 금속도 두 동강이 난다.",
 		"zh-tw": "它用壓縮水製造出飛濺的星星。當它旋轉並高速拋出它們時，這些恆星可以將金屬分成兩半。"
 	}

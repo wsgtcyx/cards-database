@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/101"
     },
     name: {
         en: "Arbok",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arbok",
         "pt-br": "Arbok",
         "zh-tw": "阿柏怪",
+        ja: "アーボック",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Rettan",
         "pt-br": "Ekans",
         "zh-tw": "阿柏蛇",
+        ja: "アーボ",
     },
     description: {
         en: "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le ultime ricerche hanno stabilito che lì\nsono oltre 20 possibili arrangiamenti del\nmodelli sul suo stomaco.",
         "de": "Das haben neueste Untersuchungen dort festgestellt\nEs gibt über 20 mögliche Anordnungen der\nMuster auf seinem Bauch.",
         "pt-br": "As pesquisas mais recentes determinaram que há\nsão mais de 20 arranjos possíveis do\npadrões em seu estômago.",
-        "zh-tw": "最新研究確定，有\n有超過20種可能的安排\n肚子上有圖案。"
+        "zh-tw": "最新研究確定，有\n有超過20種可能的安排\n肚子上有圖案。",
+        ja: "最新の 研究で お腹の 模様は ２０種類 以上の パターンが あることが 判明。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Angolo",
                 "de": "Ecke",
                 "pt-br": "Canto",
-                "zh-tw": "角落"
+                "zh-tw": "角落",
+                ja: "おいつめる"
             },
             damage: 60,
             cost: ["Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

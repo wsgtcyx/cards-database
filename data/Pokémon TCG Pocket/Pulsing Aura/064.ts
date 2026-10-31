@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/064",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/064",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/064"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/064"
     },
     name: {
         en: "Kirlia",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Lo spirito gioioso è alla base dei suoi poteri\npsicocinetici. Quando è felice si lancia in danze\ne piroette.",
         de: "Die fröhliche Stimmung seines Trainers verleiht ihm\nEnergie für psychokinetische Kraft. Wenn es\nglücklich ist, tanzt und dreht es sich.",
         "pt-br": "O espírito alegre do seu Treinador dá-lhe energia pelo seu poder psicocinético. Ele gira e dança quando está feliz.",
-        "zh-tw": "訓練家的歡快精神為其心靈動力提供了能量。它高興時會旋轉、跳舞。"
+        "zh-tw": "訓練家的歡快精神為其心靈動力提供了能量。它高興時會旋轉、跳舞。",
+        ja: "トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分になると クルクル 踊る。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Doppioturbo",
                 de: "Doppeldreher",
                 "pt-br": "Giro Duplo",
-                "zh-tw": "雙重旋轉"
+                "zh-tw": "雙重旋轉",
+                ja: "ダブルスピン"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。"
             },
             damage: "30x"
         }

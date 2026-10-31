@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/063"
     },
     name: {
         en: "Tentacruel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tentacruel",
         de: "Tentoxa",
         'pt-br': "Tentacruel",
+        ja: "ドククラゲ",
         ko: "독파리",
         "zh-tw": "毒刺水母",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Tentacool",
         "de": "Tentacha",
         "pt-br": "Tentacool",
-        "zh-tw": "瑪瑙水母"
+        "zh-tw": "瑪瑙水母",
+        ja: "メノクラゲ"
     },
     attacks: [{
             cost: ["Water", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Tentacoli Velenosi",
                 de: "Giftige Tentakel",
                 'pt-br': "Tentáculos Venenosos",
+                ja: "どくのしょくしゅ",
                 ko: "독촉수",
                 "zh-tw": "劇毒觸手"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Meglio fare attenzione quando le sfere rosse\nche ha sulla testa brillano intensamente, perché\nvuol dire che sta per emettere ultrasuoni.",
         de: "Leuchten die roten Kugeln auf seinem Kopf stark\nauf, ist Vorsicht geboten, da es kurz danach\nUltraschallwellen ausstoßen wird.",
         'pt-br': "Quando o orbe vermelho na cabeça de Tantacruel\nbrilha intensamente, cuidado: este Pokémon está\nprestes a disparar uma rajada de ondas ultrassônicas.",
+        ja: "頭の 赤い 玉の 光が 強くなったら 要注意。 超音波を 放つ 前触れだ。",
         ko: "머리의 빨간 구슬이\n밝게 빛나면 주의가 필요하다.\n초음파를 발산하려는 전조다.",
         "zh-tw": "當刺傷獸頭上的紅色球體發出明亮的光芒時，請小心。神奇寶貝即將發射出一陣超聲波。"
     },

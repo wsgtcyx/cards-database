@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/210",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/210",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/210",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/210"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/210",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/210"
     },
     name: {
         en: "Jellicent",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Nelle notti di luna piena emergono in massa,\nrendendosi visibili sulla superficie del mare,\nin attesa di prede.",
         de: "Bei Vollmond treiben Apoquallyp in Schwärmen\nan die Meeresoberfläche und lauern dort ihrer\nBeute auf.",
         "pt-br": "Sempre que há lua cheia no céu noturno, cardumes de Jellicent se reúnem perto da superfície do mar, esperando que suas presas apareçam.",
-        "zh-tw": "每到滿月時，胖嘟嘟會\n成群結隊地來到海面上。\n這麼做是為了等待獵物上門。"
+        "zh-tw": "每到滿月時，胖嘟嘟會\n成群結隊地來到海面上。\n這麼做是為了等待獵物上門。",
+        ja: "満月に なると 群れを 引き連れ 海面に 姿を 見せる。 獲物が 来るのを 待っているのだ。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Corpo rimbalzante",
                 de: "Federnder Körper",
                 "pt-br": "Corpo saltitante",
-                "zh-tw": "水嫩之軀"
+                "zh-tw": "水嫩之軀",
+                ja: "ぷるぷるボディ"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, prendi un'Energia {W} dalla tua Zona d'Energia e assegnala a 1 dei tuoi Pokémon in panchina.",
                 de: "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for danificado por um ataque dos Pokémon do seu oponente, pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則從自己的能量區取出 {W} 能量並將其附加到您後備的 1 只寶可夢身上。"
+                "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則從自己的能量區取出 {W} 能量並將其附加到您後備的 1 只寶可夢身上。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチポケモンにつける。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 60
         }

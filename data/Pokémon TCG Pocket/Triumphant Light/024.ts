@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/024"
     },
     name: {
         en: "Phione",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Phione",
         de: "Phione",
         'pt-br': "Phione",
+        ja: "フィオネ",
         ko: "피오네",
         "zh-tw": "霏歐納",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando la temperatura del mare si alza, gonfia\nil galleggiante che ha in testa e fluttua in gruppo.",
         de: "Steigt die Meerestemperatur, bläst es seinen\nSchwimmbeutel auf und treibt in Schwärmen\nauf dem Wasser.",
         'pt-br': "Em águas mornas, inflam as boias de suas cabeças\ne, em bando, flutuam lentamente no mar.",
+        ja: "海の 温度が 高くなると 頭の 浮き袋を ふくらませて 海面を 集団で 漂う。",
         ko: "바다 온도가 높아지면\n머리의 부낭을 부풀려서\n해수면을 집단으로 떠돈다.",
         "zh-tw": "當水溫變暖時，它們將頭上的浮囊充氣，成群結隊地在海面上慵懶地漂流。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Idropulsar",
                 de: "Aquawelle",
                 'pt-br': "Pulso d'Água",
+                ja: "みずのはどう",
                 ko: "물의파동",
                 "zh-tw": "水脈衝"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

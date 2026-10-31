@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/075",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/075",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/075"
     },
     name: {
         en: "Banette",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Banette",
         de: "Banette",
         'pt-br': "Banette",
+        ja: "ジュペッタ",
         ko: "다크펫",
         "zh-tw": "詛咒娃娃",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Shuppet",
         "pt-br": "Shuppet",
         "zh-tw": "怨影娃娃",
+        ja: "カゲボウズ",
     },
     description: {
         en: "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Un peluche gettato via, tramutato in Pokémon da\nun profondo rancore. Lo si vede spesso in vicoli bui.",
         de: "Es war einst eine weggeworfene Plüschpuppe,\ndie durch einen tiefen Groll zu einem Pokémon\nwurde. Man findet es in dunklen Gassen.",
         'pt-br': "Este Pokémon surgiu de uma boneca abandonada\nque acumulava inveja. Ele é visto em becos escuros.",
+        ja: "捨てられた ぬいぐるみに 怨念が 溜まって ポケモンになった。 薄暗い 路地裏で 見かける。",
         ko: "버려진 인형에 원념이\n깃들어 포켓몬이 되었다.\n어둑한 뒷골목에서 발견된다.",
         "zh-tw": "該寶可夢是由懷有怨恨的廢棄玩偶進化而來。在黑暗的小巷裡可以看到它。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Leganotte",
                 de: "Nachtbindung",
                 'pt-br': "Aprisionamento Noturno",
+                ja: "ナイトバインド",
                 ko: "나이트바인드",
                 "zh-tw": "夜間束縛"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il suo prossimo turno, il tuo avversario non può prendere nessuna Energia dalla sua Zona Energia per assegnarla al suo Pokémon attivo.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 'pt-br': "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
+                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。",
                 ko: "상대의 다음 차례에 상대는 에너지존에서 에너지를 내보내서 배틀 포켓몬에게 붙일 수 없다.",
                 "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍神奇寶貝上。"
             }

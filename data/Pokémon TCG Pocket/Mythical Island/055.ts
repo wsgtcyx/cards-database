@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/055"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/055"
     },
     name: {
         en: "Scolipede",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Scolipede",
         de: "Cerapendra",
         'pt-br': "Scolipede",
+        ja: "ペンドラー",
         ko: "펜드라",
         "zh-tw": "蜈蚣王",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Rollum",
         "pt-br": "Whirlipede",
         "zh-tw": "車輪毬",
+        ja: "ホイーガ",
     },
     description: {
         en: "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Sbatte a terra la preda afferrandola con gli artigli\ndel collo per poi infilzarla con le punte velenose.",
         de: "Kriegt es seine Beute mit den Krallen an seinem\nHals zu fassen, wirft es sie zu Boden und rammt\ndie giftigen Spitzen der Krallen in sie hinein.",
         'pt-br': "Scolipede fixa-se à sua presa com as garras em seu pescoço. Em seguida,\nlança-a ao chão e a espeta com os espinhos tóxicos de suas garras.",
+        ja: "首のツメで 獲物を つかむと そのまま 地面に 叩きつけ 毒のトゲを 突きたてるぞ。",
         ko: "목의 가시로 먹이를 잡은 채\n그대로 땅으로 내동댕이쳐서\n독가시를 꽂는다.",
         "zh-tw": "蜈蚣用脖子上的爪子抓住獵物，然後將它們猛烈地摔到地上，並用爪子上的有毒尖刺刺痛它們。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Velenoshock",
                 de: "Giftschock",
                 'pt-br': "Venochoque",
+                ja: "ベノムショック",
                 ko: "베놈쇼크",
                 "zh-tw": "靜脈休克"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 50 puntos de daño más.",
                 it: "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 50 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+                ja: "相手のバトルポケモンがどくなら、50ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 독이라면 50데미지를 추가한다.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver Envenenado, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 50 點。"

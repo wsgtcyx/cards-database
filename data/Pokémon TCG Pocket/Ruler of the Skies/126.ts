@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/126",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/126"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/126",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/126"
     },
     name: {
         en: "Dipplin",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "L'Applitesta, che fa capolino, e l'Applicoda, di cui invece sbuca solo la parte posteriore, vivono nel pomo aiutandosi a vicenda.",
         de: "Im Apfel leben die sich gegenseitig helfenden „Kopfel“ und „Schwanzel“. Beim Ersten ragt der Kopf heraus, beim Zweiten der Schwanz.",
         "pt-br": "A cabeça que aponta para fora pertence à criatura frontal, enquanto a cauda pertence à criatura central. As duas compartilham uma maçã e ajudam uma à outra.",
-        "zh-tw": "由露出了頭部的外頭蟲與\n露出了尾巴的裡頭蟲相扶相持，\n一起在蘋果裡面生活。"
+        "zh-tw": "由露出了頭部的外頭蟲與\n露出了尾巴的裡頭蟲相扶相持，\n一起在蘋果裡面生活。",
+        ja: "頭を 出している そとッチュと 尻尾を 出している なかッチュが 助け合い りんごのなかで 暮らす。※ キタカミの里での冒険で出会うことができます。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Doppiosmash",
                 de: "Doppelschlag",
                 "pt-br": "Golpe Duplo",
-                "zh-tw": "二連擊"
+                "zh-tw": "二連擊",
+                ja: "ダブルアタック"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 60 damage for each heads.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 60 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara.",
-                "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。"
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。",
+                ja: "コインを2回投げ、オモテの数×60ダメージ。"
             },
             damage: "60x"
         }

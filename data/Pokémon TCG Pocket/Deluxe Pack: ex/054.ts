@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/054"
     },
     name: {
         en: "Meowscarada",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Maskagato",
         "pt-br": "Meowscarada",
         "zh-tw": "魔幻假面喵",
+        ja: "マスカーニャ",
     },
     illustrator: "mashu",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Feliospa",
         "pt-br": "Floragato",
         "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ",
     },
     description: {
         en: "This Pokémon uses the reflective fur lining its\ncape to camouflage the stem of its flower,\ncreating the illusion that the flower is floating.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon utilizza la pelliccia riflettente che lo ricopre\nmantello per mimetizzare lo stelo del suo fiore,\ncreando l'illusione che il fiore stia fluttuando.",
         "de": "Dieses Pokémon nutzt das reflektierende Fell als Futter\nUmhang, um den Stiel seiner Blüte zu tarnen,\nDadurch entsteht die Illusion, dass die Blume schwebt.",
         "pt-br": "Este Pokémon usa o pelo reflexivo que reveste seu\ncapa para camuflar o caule de sua flor,\ncriando a ilusão de que a flor está flutuando.",
-        "zh-tw": "這款神奇寶貝使用反光毛皮襯裡\n披風偽裝其花的莖，\n創造花朵漂浮的錯覺。"
+        "zh-tw": "這款神奇寶貝使用反光毛皮襯裡\n披風偽裝其花的莖，\n創造花朵漂浮的錯覺。",
+        ja: "浮いているように 見える 花は マント裏の 毛の 反射で 茎を カモフラージュしているのだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Artigli da combattimento",
                 "de": "Kampfklauen",
                 "pt-br": "Garras de combate",
-                "zh-tw": "戰鬥利爪"
+                "zh-tw": "戰鬥利爪",
+                ja: "とうしのツメ"
             },
             damage: "60+",
             cost: ["Grass", "Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 70 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 70 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 70 de dano a mais.",
-                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
+                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。"
             }
         }],
     weaknesses: [{

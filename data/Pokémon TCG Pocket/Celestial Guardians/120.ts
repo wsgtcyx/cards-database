@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/120",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/120",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/120",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/120"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/120",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/120"
     },
     name: {
         en: "Escavalier",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Escavalier",
         de: "Cavalanzas",
         'pt-br': "Escavalier",
+        ja: "シュバルゴ",
         ko: "슈바르고",
         "zh-tw": "騎士蝸牛",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Laukaps",
         "pt-br": "Karrablast",
         "zh-tw": "蓋蓋蟲",
+        ja: "カブルモ",
     },
     description: {
         en: "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Protegge il corpo con la conchiglia che ha rubato a\nShelmet mentre spunzona il nemico con due lance.",
         de: "Eine von einem Schnuthelm gestohlene Muschel\ndient ihm als Helm. Es greift Gegner mit seinen\nbeiden Lanzen an.",
         'pt-br': "Usando a cobertura que roubaram de Shelmet,\nse defendem e atacam com duas lanças.",
+        ja: "チョボマキから 奪った 殻で 体を 覆い ガードしながら ２本の ヤリで 突いてくる。",
         ko: "쪼마리에게서 뺏은 껍질로\n몸을 에워싸 가드하면서\n2개의 창으로 찔러온다.",
         "zh-tw": "他們穿著從謝爾梅特偷來的貝殼，自衛並用兩支長矛攻擊。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Picca",
                 de: "Langspieß",
                 'pt-br': "Lança",
+                ja: "ロングスピア",
                 ko: "롱스피어",
                 "zh-tw": "派克"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
             }

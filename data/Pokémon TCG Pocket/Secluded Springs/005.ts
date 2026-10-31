@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/005"
     },
     name: {
         en: "Sunflora",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sonnflora",
         "pt-br": "Sunflora",
         "zh-tw": "向日花怪",
+        ja: "キマワリ",
     },
     illustrator: "Miki Tanaka",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sonnkern",
         "pt-br": "Sunkern",
         "zh-tw": "向日種子",
+        ja: "ヒマナッツ",
     },
     description: {
         en: "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Di giorno corre freneticamente\nmodo, ma si ferma completamente quando\nil sole tramonta.",
         "de": "Tagsüber herrscht Hektik\nArt und Weise, aber es kommt völlig zum Stillstand, wenn\ndie Sonne geht unter.",
         "pt-br": "Durante o dia, ele corre em uma agitação\nmaneira, mas para completamente quando\no sol se põe.",
-        "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。"
+        "zh-tw": "白天，它忙碌地奔波\n方式，但當它完全停止時\n太陽落山了。",
+        ja: "昼間は むやみやたらと 元気に 動きまわるが 日が 沈むと ばったり 動かなくなる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Inciampare",
                 "de": "Stolpern vorbei",
                 "pt-br": "Viagem",
-                "zh-tw": "絆倒"
+                "zh-tw": "絆倒",
+                ja: "ころばす"
             },
             damage: "50+",
             cost: ["Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

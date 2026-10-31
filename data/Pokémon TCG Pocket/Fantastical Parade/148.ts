@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/148",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/148"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/148",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/148"
     },
     name: {
         en: "Metal Core Barrier",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Barriera Metallica",
         "de": "Metallkernbarriere",
         "pt-br": "Barreira de Núcleo Metálico",
-        "zh-tw": "金屬核心屏障"
+        "zh-tw": "金屬核心屏障",
+        ja: "メタルコアバリア"
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Se questa carta è assegnata a 1 dei tuoi Pokémon, scartala alla fine del turno del tuo avversario.\n\nIl Pokémon {M} a cui è assegnata questa carta subisce -50 danni dagli attacchi dei Pokémon del tuo avversario.",
         "de": "Wenn diese Karte an 1 deiner Pokémon angelegt ist, wirf sie am Ende des Zuges deines Gegners ab.\n\nDas {M}-Pokémon, an das diese Karte angelegt ist, erleidet −50 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Se esta carta estiver ligada a 1 dos seus Pokémon, descarte-a no final do turno do seu oponente.\n\nO Pokémon {M} ao qual este card está anexado sofre -50 de dano de ataques dos Pokémon do seu oponente.",
-        "zh-tw": "自己的1只寶可夢身上有這張卡的場合，對手回合結束時將其捨棄。\n\n這張卡所附著的{M}神奇寶貝因對方神奇寶貝的攻擊而受到-50點傷害。"
+        "zh-tw": "自己的1只寶可夢身上有這張卡的場合，對手回合結束時將其捨棄。\n\n這張卡所附著的{M}神奇寶貝因對方神奇寶貝的攻擊而受到-50點傷害。",
+        ja: "ポケモンについているこのカードは、相手の番の終わりにトラッシュ。 このカードをつけている{M}ポケモンが、相手のポケモンから受けるワザのダメージを-50する。"
     },
     trainerType: "Tool"
 };

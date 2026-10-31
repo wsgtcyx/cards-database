@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/072"
     },
     name: {
         en: "Dusknoir",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dusknoir",
         de: "Zwirrfinst",
         'pt-br': "Dusknoir",
+        ja: "ヨノワール",
         ko: "야느와르몽",
         "zh-tw": "黑夜魔靈",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Zwirrklop",
         "pt-br": "Dusclops",
         "zh-tw": "彷徨夜靈",
+        ja: "サマヨール",
     },
     description: {
         en: "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Non si sa se abbia una volontà propria.\nSegue le onde che provengono dal mondo\ndegli spiriti e vi conduce persone e Pokémon.",
         de: "Niemand weiß, ob es einen eigenen Willen hat.\nÜber Radiowellen empfängt es Befehle aus dem\nJenseits, Menschen und Pokémon zu entführen.",
         'pt-br': "Atendendo a pedidos do mundo espiritual, leva embora\npessoas e outros Pokémon. Ninguém sabe se possui\nvontade própria.",
+        ja: "意思が あるのか わかっていない。 霊界からの 電波に 従い 人や ポケモンを 連れ去るのだ。",
         ko: "의지가 있는 것인지 알 수 없다.\n영계로부터의 전파에 따라\n사람이나 포켓몬을 데리고 간다.",
         "zh-tw": "在來自靈界的傳送指令下，它會偷走人類和神奇寶貝。沒有人知道它是否有自己的意志。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Vuotoscuro",
                 de: "Dunkles Nichts",
                 'pt-br': "Vácuo Sombrio",
+                ja: "シャドーホール",
                 ko: "섀도홀",
                 "zh-tw": "暗影虛空"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Durante il tuo turno, puoi scegliere uno dei tuoi Pokémon danneggiati e spostare tutti i suoi danni su questo Pokémon tutte le volte che vuoi.",
                 de: "Beliebig oft während deines Zuges kannst du 1 deiner Pokémon wählen, dem bereits Schaden zugefügt wurde, und seinen gesamten Schaden auf dieses Pokémon verschieben.",
                 'pt-br': "Quantas vezes desejar durante o seu turno, você poderá escolher 1 dos seus Pokémon que estiver danificado e mover todo o dano dele a este Pokémon.",
+                ja: "自分の番に何回でも使える。ダメージを受けている自分のポケモンを1匹選び、選んだポケモンが受けているダメージをすべて、このポケモンに移し替える。",
                 ko: "자신의 차례에 몇 번이라도 사용할 수 있다. 데미지를 받고 있는 자신의 포켓몬을 1마리 선택해서 선택한 포켓몬이 받고 있는 데미지를 모두 이 포켓몬에게 옮긴다.",
                 "zh-tw": "在你的回合中，你可以隨時選擇一隻受到傷害的神奇寶貝，並將其所有傷害轉移到這只神奇寶貝上。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Divoranima",
                 de: "Seelenverschlinger",
                 'pt-br': "Devorador de Almas",
+                ja: "ソウルイート",
                 ko: "소울이트",
                 "zh-tw": "吞噬靈魂"
             },

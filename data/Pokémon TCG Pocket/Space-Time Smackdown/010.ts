@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/010"
     },
     name: {
         en: "Turtwig",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Turtwig",
         de: "Chelast",
         'pt-br': "Turtwig",
+        ja: "ナエトル",
         ko: "모부기",
         "zh-tw": "草苗龜",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si espone ai raggi solari ed esegue la fotosintesi con\ntutto il corpo. La sua corazza è fatta di terra rassodata.",
         de: "Es badet im Sonnenlicht und betreibt dabei mit\ndem ganzen Körper Fotosynthese. Sein Panzer\nbesteht aus hartem Lehm.",
         'pt-br': "Usa o corpo todo para fazer fotossíntese ao se expor\nà luz do sol. Seu casco é feito de solo endurecido.",
+        ja: "太陽の 光を 浴びて 全身で 光合成を する。 甲羅は 土が 硬くなったもの。",
         ko: "태양의 빛을 쬐어\n전신으로 광합성을 한다.\n등껍질은 흙이 딱딱해진 것이다.",
         "zh-tw": "當暴露在陽光下時，它會利用整個身體進行光合作用。它的外殼是由硬化的土壤製成的。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },

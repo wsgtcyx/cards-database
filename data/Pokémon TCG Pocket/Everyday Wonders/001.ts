@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/001",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/001",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/001"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/001"
     },
     name: {
         en: "Caterpie",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le ventose sulle sue corte zampe gli permettono\ndi affrontare ogni salita e di scalare senza fatica\nqualsiasi muro.",
         de: "Es hat Saugnäpfe an den Beinchen, mit denen es\nmühelos Steigungen und Mauern erklimmen kann.",
         "pt-br": "Seus pés curtos possuem ventosas nas pontas que lhe permitem escalar encostas e paredes incansavelmente.",
-        "zh-tw": "別看牠的腳很短，\n因為是吸盤，所以無論是\n斜坡還是牆壁都能輕鬆前進。"
+        "zh-tw": "別看牠的腳很短，\n因為是吸盤，所以無論是\n斜坡還是牆壁都能輕鬆前進。",
+        ja: "脚は 短いが 吸盤に なっているので 坂でも 壁でも くたびれることなく 進んでいく。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Crescita rapida",
                 de: "Schnelles Wachstum",
                 "pt-br": "Crescimento rápido",
-                "zh-tw": "成長期"
+                "zh-tw": "成長期",
+                ja: "のびざかり"
             },
             effect: {
                 en: "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Alla fine del turno del tuo avversario, se questo Pokémon è in posizione attiva, metti una carta a caso dal tuo mazzo che si evolve da questo Pokémon a questo Pokémon per farlo evolvere.",
                 de: "Wenn sich dieses Pokémon am Ende des Zuges deines Gegners an der aktiven Stelle befindet, lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln.",
                 "pt-br": "No final do turno do seu oponente, se este Pokémon estiver no Ponto Ativo, coloque uma carta aleatória do seu baralho que evolui deste Pokémon neste Pokémon para evoluí-lo.",
-                "zh-tw": "在對手的回合結束時，如果這隻寶可夢位於活躍位置，則從你的牌組中隨機放置一張由該寶可夢進化的卡牌到該寶可夢上以使其進化。"
+                "zh-tw": "在對手的回合結束時，如果這隻寶可夢位於活躍位置，則從你的牌組中隨機放置一張由該寶可夢進化的卡牌到該寶可夢上以使其進化。",
+                ja: "相手の番の終わりに、このポケモンがバトル場にいるなら、このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Uncino",
                 de: "Haken",
                 "pt-br": "Gancho",
-                "zh-tw": "鉤住"
+                "zh-tw": "鉤住",
+                ja: "ひっかける"
             },
             damage: 10
         }

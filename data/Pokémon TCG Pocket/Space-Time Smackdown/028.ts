@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/028"
     },
     name: {
         en: "Monferno",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Monferno",
         de: "Panpyro",
         'pt-br': "Monferno",
+        ja: "モウカザル",
         ko: "파이숭이",
         "zh-tw": "猛火猴",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Panflam",
         "pt-br": "Chimchar",
         "zh-tw": "小火焰猴",
+        ja: "ヒコザル",
     },
     description: {
         en: "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Controlla abilmente l'intensità delle fiamme sulla\nsua coda per tenere i nemici alla distanza ideale.",
         de: "Es kontrolliert die Stärke des Feuers an seinem Schweif\ngeschickt, um Gegner auf idealer Distanz zu halten.",
         'pt-br': "Controla habilmente a intensidade do fogo em sua cauda\npara manter seus inimigos a uma distância ideal.",
+        ja: "尻尾の 炎の 勢いを うまく コントロールして 自分の 得意な 間合いで 戦うのだ。",
         ko: "꼬리의 불꽃 세기를\n잘 컨트롤하여 자신에게\n맞는 거리를 두고 싸운다.",
         "zh-tw": "它巧妙地控制尾部火焰的強度，使敵人保持在理想的距離。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Pugnodifuoco",
                 de: "Flammenschlag",
                 'pt-br': "Soco Ardente",
+                ja: "ほのおパンチ",
                 ko: "불꽃튀는펀치",
                 "zh-tw": "烈火拳"
             },

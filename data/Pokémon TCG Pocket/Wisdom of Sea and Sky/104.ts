@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/104",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/104"
     },
     name: {
         en: "Pupitar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pupitar",
         "pt-br": "Pupitar",
         "zh-tw": "沙基拉斯",
+        ja: "サナギラス",
     },
     illustrator: "Sekio",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Larvitar",
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
+        ja: "ヨーギラス",
     },
     description: {
         en: "This pupa flies around wildly by venting with\ngreat force the gas pressurized inside its body.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questa pupa vola in giro all'impazzata sfogandosi con\ngrande forza il gas pressurizzato all'interno del suo corpo.",
         "de": "Diese Puppe fliegt wild umher, indem sie sich Luft macht\nMit großer Kraft wird das Gas in seinem Körper unter Druck gesetzt.",
         "pt-br": "Esta pupa voa descontroladamente, desabafando com\ngrande força o gás pressurizado dentro de seu corpo.",
-        "zh-tw": "這只蛹通過發洩來瘋狂地飛來飛去\n體內的氣體受到巨大的壓力。"
+        "zh-tw": "這只蛹通過發洩來瘋狂地飛來飛去\n體內的氣體受到巨大的壓力。",
+        ja: "体内で 圧縮 させた ガスを 勢いよく 噴出させ 飛んで 暴れまわる サナギだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 20,
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/186",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/186",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/186"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/186"
     },
     name: {
         en: "Shuckle ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pottrott-ex",
         "pt-br": "Shuckle ex",
         "zh-tw": "壺壺ex",
+        ja: "ツボツボex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Two Star",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Guscio solido",
                 "de": "Solide Schale",
                 "pt-br": "Casca Sólida",
-                "zh-tw": "實心外殼"
+                "zh-tw": "實心外殼",
+                ja: "かたいこうら"
             },
             effect: {
                 en: "This Pokémon takes −20 damage from attacks.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Dieses Pokémon erleidet −20 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -20 de dano de ataques.",
-                "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。"
+                "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。",
+                ja: "このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Triplo schiaffo",
                 "de": "Dreifacher Schlag",
                 "pt-br": "Tapa Triplo",
-                "zh-tw": "三重耳光"
+                "zh-tw": "三重耳光",
+                ja: "トリプルビンタ"
             },
             damage: "20×",
             cost: ["Grass"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 20 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを3回投げ、オモテの数×20ダメージ。"
             }
         }],
     weaknesses: [{

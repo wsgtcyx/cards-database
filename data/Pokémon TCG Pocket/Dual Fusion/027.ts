@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/027",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/027",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/027"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/027"
     },
     name: {
         en: "Armarouge",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Knarbon",
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
-        ja: "Charcadet",
+        ja: "カルボウ",
         ko: "Charcadet"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Unbegrenzte Kraft",
                 "pt-br": "Poder Ilimitado",
                 "zh-tw": "潛力",
-                ja: "Boundless Power",
+                ja: "そこぢから",
                 ko: "Boundless Power"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
-                ja: "During your next turn, this Pokémon can't attack.",
+                ja: "次の自分の番、このポケモンはワザが使えない。",
                 ko: "During your next turn, this Pokémon can't attack."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Es entwickelte sich durch die Rüstung eines heldenhaften Kriegers zu dieser Form. Crimanzo besitzt einen ausgeprägten Sinn für Loyalität.",
         "pt-br": "Armarouge evoluiu ao usar um conjunto de armadura que pertencia a um guerreiro renomado. Este Pokémon é bastante leal.",
         "zh-tw": "藉由立下眾多戰績的戰士所穿的鎧甲進化成的樣子。是忠心耿耿的寶可夢。",
-        ja: "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+        ja: "多くの 武勲を 立てた 戦士の 鎧によって 進化した 姿。 忠誠心の 厚い ポケモン。",
         ko: "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal."
     }
 };

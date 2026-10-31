@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/035",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/035"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/035"
     },
     name: {
         en: "Sandy Shocks",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Assomiglia leggermente a uno Magneton che visse per 10.000 anni e fu descritto in un articolo su una rivista paranormale.",
         de: "Es ähnelt ein wenig einem Magneton, der 10.000 Jahre alt war und in einem Artikel in einem paranormalen Magazin vorgestellt wurde.",
         "pt-br": "Assemelha-se um pouco a um Magneton que viveu por 10.000 anos e foi publicado em um artigo de uma revista paranormal.",
-        "zh-tw": "它有點像一隻活了 10,000 年的 三合一磁怪，曾在超自然雜誌的一篇文章中出現過。"
+        "zh-tw": "它有點像一隻活了 10,000 年的 三合一磁怪，曾在超自然雜誌的一篇文章中出現過。",
+        ja: "オカルト雑誌の 記事にあった １万年 生きた レアコイルの 姿に やや 似ている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tirare dentro e battere",
                 de: "Einziehen und hämmern",
                 "pt-br": "Puxar e bater",
-                "zh-tw": "引而碎之"
+                "zh-tw": "引而碎之",
+                ja: "ひきよせくだく"
             },
             effect: {
                 en: "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Metti in posizione attiva uno dei Pokémon nella panchina del tuo avversario. Se lo fai, questo attacco infligge 50 danni al nuovo Pokémon attivo.",
                 de: "Tauschen Sie 1 Pokémon auf der Bank Ihres Gegners an der aktiven Stelle aus. Wenn du dies tust, fügt dieser Angriff dem neuen Aktiven Pokémon 50 Schadenspunkte zu.",
                 "pt-br": "Troque 1 dos Pokémon do Banco do seu oponente para o Ponto Ativo. Se fizer isso, este ataque causará 50 de dano ao novo Pokémon Ativo.",
-                "zh-tw": "將對手的 1 隻後備寶可夢切換到活動位置。如果這樣做，這次攻擊會對新的活躍寶可夢造成 50 點傷害。"
+                "zh-tw": "將對手的 1 隻後備寶可夢切換到活動位置。如果這樣做，這次攻擊會對新的活躍寶可夢造成 50 點傷害。",
+                ja: "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンに50ダメージ。"
             }
         }
     ],

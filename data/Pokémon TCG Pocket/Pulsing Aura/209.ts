@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/209",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/209",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/209"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/209",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/209"
     },
     name: {
         en: "Frillish",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La leggenda narra che i Frillish siano in realtà gli\nabitanti di un’antica città sommersa che si sono\ntrasformati in Pokémon.",
         de: "Einer Sage nach sind Quabbel in Wirklichkeit\nBewohner einer uralten, im Meer versunkenen\nStadt, die zu Pokémon wurden.",
         "pt-br": "Diz a lenda que os residentes de uma cidade antiga submersa se transformaram nestes Pokémon.",
-        "zh-tw": "據流傳至今的傳說所述，\n牠是由沉沒到海底的古代都市\n的居民變成的寶可夢。"
+        "zh-tw": "據流傳至今的傳說所述，\n牠是由沉沒到海底的古代都市\n的居民變成的寶可夢。",
+        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 "pt-br": "Revólver d'Água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20
         }

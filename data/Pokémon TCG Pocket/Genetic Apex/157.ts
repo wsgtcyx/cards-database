@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/157",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/157",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/157"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/157",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/157"
     },
     name: {
         en: "Rhydon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rhydon",
         de: "Rizeros",
         'pt-br': "Rhydon",
+        ja: "サイドン",
         ko: "코뿌리",
         "zh-tw": "鑽角犀獸",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Rhyhorn",
         "de": "Rihorn",
         "pt-br": "Rhyhorn",
-        "zh-tw": "獨角犀牛"
+        "zh-tw": "獨角犀牛",
+        ja: "サイホーン"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Perforcorno",
                 de: "Hornbohrer",
                 'pt-br': "Chifre Broca",
+                ja: "つのドリル",
                 ko: "뿔드릴",
                 "zh-tw": "喇叭鑽"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Dopo l'evoluzione inizia a muoversi sulle zampe\nposteriori. Con il corno può perforare la roccia.",
         de: "Nach seiner Entwicklung geht es aufrecht auf\nseinen Hinterbeinen. Mit seinem Horn kann es\nLöcher in Felsen bohren.",
         'pt-br': "Após evoluir, começa a andar com\nsuas pernas traseiras. Consegue furar\nrochedos com seu chifre.",
+        ja: "進化して 後ろ足だけで 立つようになった。 ツノで 突くと 岩石にも 穴を 開けてしまう。",
         ko: "진화하여 뒷다리만으로\n서게 되었다. 뿔로 찌르면\n암석에도 구멍이 뚫리고 만다.",
         "zh-tw": "進化後，它開始用後腿行走。它可以用角在巨石上打孔。"
     },

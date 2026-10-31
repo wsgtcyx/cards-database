@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/018"
     },
     name: {
         en: "Bellsprout",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bellsprout",
         de: "Knofensa",
         'pt-br': "Bellsprout",
+        ja: "マダツボミ",
         ko: "모다피",
         "zh-tw": "喇叭芽"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 'pt-br': "Chicote de Vinha",
+                ja: "つるのムチ",
                 ko: "덩굴채찍",
                 "zh-tw": "藤鞭"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Sebbene abbia un corpo magrissimo, sa essere\nmolto rapido quando si scaglia sulla preda.",
         de: "Obwohl sein Körper sehr schmal ist,\nschnappt es blitzschnell nach Beute.",
         'pt-br': "Mesmo tendo um corpo extremamente magro,\né estupidamente rápido para pegar suas presas.",
+        ja: "ひょろっとした 体つきだが 獲物を 捕らえるときの 動きは 目にも とまらないほど 素早い。",
         ko: "홀쭉한 체격이지만\n먹이를 잡을 때의 움직임은\n눈에 보이지 않을 정도로 빠르다.",
         "zh-tw": "儘管它的身體極其瘦弱，但捕捉獵物的速度卻快得驚人。"
     },

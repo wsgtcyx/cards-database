@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/011",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/011",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/011"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/011"
     },
     name: {
         en: "Brambleghast",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Horrerba",
         "pt-br": "Brambleghast",
         "zh-tw": "怖納噬草",
+        ja: "アノホラグサ",
         pt: "Brambleghast"
     },
     illustrator: "KEIICHIRO ITO",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Weherba",
         "pt-br": "Bramblin",
         "zh-tw": "納噬草",
+        ja: "アノクサ",
         pt: "Bramblin"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Brambleghast vaga per regioni aride. In rare occasioni, epidemie di massa di questi Pokémon seppelliranno un'intera città.",
         "de": "Horrerba wandert durch trockene Regionen. In seltenen Fällen begraben Massenausbrüche dieser Pokémon eine ganze Stadt.",
         "pt-br": "Brambleghast vagueia por regiões áridas. Em raras ocasiões, surtos em massa destes Pokémon enterrarão uma cidade inteira.",
-        "zh-tw": "怖納噬草在乾旱地區徘徊。在極少數情況下，這些寶可夢的大規模爆發將埋葬整個城鎮。"
+        "zh-tw": "怖納噬草在乾旱地區徘徊。在極少數情況下，這些寶可夢的大規模爆發將埋葬整個城鎮。",
+        ja: "乾燥地帯を 放浪する。 ごくまれに 大量発生して 町ひとつを 埋めつくしてしまう。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Dauerrollen",
                 "pt-br": "Queda Contínua",
                 "zh-tw": "連續翻滾",
+                ja: "れんぞくころがり",
                 pt: "Tombo Contínuo"
             },
             damage: "60×",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 60 點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
                 pt: "Jogue 1 moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara."
             },
         },

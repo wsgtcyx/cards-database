@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/288",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/288",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/288",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/288"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/288",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/288"
     },
     name: {
         en: "Weepinbell",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ultrigaria",
         "pt-br": "Weepinbell",
         "zh-tw": "口呆花",
+        ja: "ウツドン",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Bellsprout",
         "de": "Knofensa",
         "pt-br": "Bellsprout",
-        "zh-tw": "喇叭芽"
+        "zh-tw": "喇叭芽",
+        ja: "マダツボミ"
     },
     description: {
         en: "The leafy parts act as cutters for slashing foes.\nIt spits a fluid that dissolves everything.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le parti frondose fungono da taglienti per squarciare i nemici.\nSputa un fluido che scioglie tutto.",
         "de": "Die Blattteile dienen als Messer zum Aufschlitzen von Feinden.\nEs spuckt eine Flüssigkeit aus, die alles auflöst.",
         "pt-br": "As partes folhosas atuam como cortadores para cortar os inimigos.\nCospe um fluido que dissolve tudo.",
-        "zh-tw": "葉狀部分充當切割敵人的刀具。\n它噴出一種可以溶解一切的液體。"
+        "zh-tw": "葉狀部分充當切割敵人的刀具。\n它噴出一種可以溶解一切的液體。",
+        ja: "葉っぱの 部分は カッターになって 相手を 切り裂く。口からは なんでも 溶かす 液体を 吐く。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

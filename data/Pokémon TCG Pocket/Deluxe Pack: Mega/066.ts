@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/066",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/066",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/066"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/066"
     },
     name: {
         en: "Mega Sharpedo ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Kanivanha",
         "pt-br": "Carvanha",
         "zh-tw": "利牙魚",
-        ja: "Carvanha",
+        ja: "キバニア",
         ko: "Carvanha"
     },
     stage: "Stage1",
@@ -58,7 +59,7 @@ const card: Card = {
                 "zh-tw": "增能鯊擊",
                 it: "Turbosqualo",
                 de: "Turbohai",
-                ja: "Turbo Shark",
+                ja: "ターボシャーク",
                 ko: "Turbo Shark"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Lege 1 {W}-Energie aus deinem Energiebereich an 1 {W}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue 1 Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {W} no Banco.",
                 "zh-tw": "從自己的能量區抽出1個{W}能量,附於備戰區的{W}寶可夢身上。",
-                ja: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon.",
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチの{W}ポケモンにつける。",
                 ko: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon."
             },
             damage: 70

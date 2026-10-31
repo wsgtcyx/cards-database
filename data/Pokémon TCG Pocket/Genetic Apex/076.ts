@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/076"
     },
     name: {
         en: "Starmie ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Starmie-ex",
         de: "Starmie-ex",
         'pt-br': "Starmie ex",
+        ja: "スターミーex",
         ko: "아쿠스타 ex",
         "zh-tw": "寶石海星ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Staryu",
         "de": "Sterndu",
         "pt-br": "Staryu",
-        "zh-tw": "海星星"
+        "zh-tw": "海星星",
+        ja: "ヒトデマン"
     },
     suffix: "EX",
     attacks: [{
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Idrosplash",
                 de: "Hydroplatscher",
                 'pt-br': "Hidroborrifada",
+                ja: "ハイドロスプラッシュ",
                 ko: "하이드로 스플래시",
                 "zh-tw": "水濺"
             },

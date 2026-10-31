@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/098",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/098",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/098"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/098"
     },
     name: {
         en: "Electrike",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Accumula elettricità statica nella pelliccia. Nella\nstagione secca, il suo corpo sprizza scintille.",
         de: "Es speichert statische Elektrizität in seinem Fell.\nIn Jahreszeiten mit trockener Luft sprüht sein\nganzer Körper Funken.",
         "pt-br": "Ele armazena eletricidade em seu pelo. Ele emite faíscas por todo o corpo nas estações em que o ar está seco.",
-        "zh-tw": "會在體毛中儲存靜電。\n在空氣乾燥的季節\n會從全身散發出火花。"
+        "zh-tw": "會在體毛中儲存靜電。\n在空氣乾燥的季節\n會從全身散發出火花。",
+        ja: "静電気を 体毛に 溜める。 空気の 乾燥した 季節には 全身から 火花を 散らす。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco Rapido",
                 de: "Ruckzuckhieb",
                 "pt-br": "Ataque Rápido",
-                "zh-tw": "電光一閃"
+                "zh-tw": "電光一閃",
+                ja: "でんこうせっか"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "10+"
         }

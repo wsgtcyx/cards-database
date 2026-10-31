@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/065",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/065"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/065"
     },
     name: {
         en: "Paldean Clodsire",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Paldea-Suelord",
         "pt-br": "Clodsire de Paldea",
         "zh-tw": "帕底亞土王",
+        ja: "パルデアドオー",
         pt: "Clodsire de Paldea"
     },
     illustrator: "Shin Nagasawa",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Paldea-Felino",
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
+        ja: "パルデアウパー",
         'es-mx': "Wooper de Paldea",
         pt: "Wooper de Paldea"
     },
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Vive sul fondo di stagni e paludi. Trasporterà Wooper sul dorso e li traghetterà attraverso l'acqua da una riva all'altra.",
         "de": "Es lebt am Grund von Teichen und Sümpfen. Es wird Wooper auf seinem Rücken tragen und sie über das Wasser von einem Ufer zum anderen befördern.",
         "pt-br": "Vive no fundo de lagoas e pântanos. Ele carregará Wooper nas costas e os transportará através da água de uma margem a outra.",
-        "zh-tw": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。"
+        "zh-tw": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。",
+        ja: "池や 沼の 水底で 暮らす。 背中に ウパーを 乗せて 泳ぎ 対岸まで 運んであげる。"
     },
     stage: "Stage1",
     attacks: [
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Schlammhammer",
                 "pt-br": "Martelo Enlameado",
                 "zh-tw": "土錘",
+                ja: "どろんこハンマー",
                 pt: "Martelo Lamacento"
             },
             damage: 70,
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。",
                 pt: "Descarte a carta de cima do baralho do seu oponente."
             },
         },

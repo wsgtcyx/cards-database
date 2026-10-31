@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/100",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/100",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/100"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/100"
     },
     name: {
         en: "Gastly",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo corpo sottile è fatto di gas. Avvolge nemici\ndi ogni dimensione, soffocandoli.",
         de: "Es hat einen gasförmigen Körper. Es kann jeden\nGegner mit Giftgas einnebeln und dadurch ersticken.",
         "pt-br": "Seu corpo é feito de gás. Apesar de não ter substância, pode envolver um oponente de qualquer tamanho e causar asfixia.",
-        "zh-tw": "它的身體是由氣體構成的。儘管缺乏實質內容，但它可以包圍任何體型的對手並導致窒息。"
+        "zh-tw": "它的身體是由氣體構成的。儘管缺乏實質內容，但它可以包圍任何體型的對手並導致窒息。",
+        ja: "ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Borbottio",
                 de: "Grummeln",
                 "pt-br": "Resmungo",
-                "zh-tw": "囈語"
+                "zh-tw": "囈語",
+                ja: "つぶやく"
             },
             damage: 20
         }

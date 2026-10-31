@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/096",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/096",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/096"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/096"
     },
     name: {
         en: "Tadbulb",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Galleggia sfruttando l'elettricità immagazzinata nel suo corpo. Quando ci sono nuvole temporalesche, Tadbulb galleggerà più in alto da terra.",
         de: "Es schwimmt mit der in seinem Körper gespeicherten Elektrizität. Wenn Gewitterwolken in der Nähe sind, schwebt Blipp höher über dem Boden.",
         "pt-br": "Ele flutua usando a eletricidade armazenada em seu corpo. Quando há nuvens de trovoada, o Tadbulb flutuará mais alto do solo.",
-        "zh-tw": "它利用體內儲存的電力漂浮。當雷雨雲出現時，光蚪仔 會漂浮在離地面更高的地方。"
+        "zh-tw": "它利用體內儲存的電力漂浮。當雷雨雲出現時，光蚪仔 會漂浮在離地面更高的地方。",
+        ja: "体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Sottocarica",
                 de: "Ladevorgang",
                 "pt-br": "Carga",
-                "zh-tw": "充電"
+                "zh-tw": "充電",
+                ja: "じゅうでん"
             },
             effect: {
                 en: "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un'Energia {L} dalla tua Zona Energetica e assegnala a questo Pokémon.",
                 de: "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該寶可夢上。"
+                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該寶可夢上。",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
             }
         }
     ],

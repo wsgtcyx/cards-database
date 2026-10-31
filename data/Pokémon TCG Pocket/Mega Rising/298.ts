@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/298",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/298",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/298",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/298"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/298",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/298"
     },
     name: {
         en: "Articuno",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Articuno",
         "de": "Arktos",
         "pt-br": "Articuno",
-        "zh-tw": "急凍鳥"
+        "zh-tw": "急凍鳥",
+        ja: "フリーザー"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che le bellissime ali blu di questo Pokémon\nsono fatti di ghiaccio. Articuno vola sopra la neve\nmontagne, con la lunga coda che sventola dietro di lui.",
         "de": "Es wird gesagt, dass dieses Pokémon wunderschöne blaue Flügel hat\nbestehen aus Eis. Articuno fliegt über Schnee\nBerge, sein langer Schwanz flattert hinter ihm her.",
         "pt-br": "Dizem que as lindas asas azuis deste Pokémon\nsão feitos de gelo. Articuno voa sobre a neve\nmontanhas, sua longa cauda flutuando atrás dele.",
-        "zh-tw": "據說這只神奇寶貝有著美麗的藍色翅膀\n是由冰製成的。急凍鳥飛過雪地\n山，長長的尾巴在身後飄揚。"
+        "zh-tw": "據說這只神奇寶貝有著美麗的藍色翅膀\n是由冰製成的。急凍鳥飛過雪地\n山，長長的尾巴在身後飄揚。",
+        ja: "青く 美しい 羽根は 氷で できていると 言われている。 長い 尾を たなびかせ 雪山を 飛ぶ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Raggio di ghiaccio",
                 "de": "Eisstrahl",
                 "pt-br": "Raio de Gelo",
-                "zh-tw": "冰光束"
+                "zh-tw": "冰光束",
+                ja: "れいとうビーム"
             },
             damage: 60,
             cost: ["Water", "Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

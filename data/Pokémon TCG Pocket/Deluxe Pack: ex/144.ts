@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/144",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/144"
     },
     name: {
         en: "Pachirisu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pachirisu",
         "de": "Pachirisu",
         "pt-br": "Pachirisu",
-        "zh-tw": "帕奇利茲"
+        "zh-tw": "帕奇利茲",
+        ja: "パチリス"
     },
     illustrator: "imoniii",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È uno dei tipi di Pokémon con l'elettricità\ntasche per le guance. Spara cariche dalla coda.",
         "de": "Es ist eine der Pokémon-Arten mit Elektrizität\nBackentaschen. Es schießt Ladungen aus seinem Schwanz.",
         "pt-br": "É um dos tipos de Pokémon com eletricidade\nbolsas nas bochechas. Ele atira cargas com sua cauda.",
-        "zh-tw": "它是帶有電力的神奇寶貝之一\n頰袋。它從尾巴發射電荷。"
+        "zh-tw": "它是帶有電力的神奇寶貝之一\n頰袋。它從尾巴發射電荷。",
+        ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Plasma",
                 "de": "Plasma",
                 "pt-br": "Plasma",
-                "zh-tw": "電漿"
+                "zh-tw": "電漿",
+                ja: "プラズマ"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {L} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon {L} in panchina.",
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an eines deiner {L}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {L} no Banco.",
-                "zh-tw": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。"
             }
         }],
     weaknesses: [{

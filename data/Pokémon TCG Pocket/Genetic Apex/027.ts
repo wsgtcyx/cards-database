@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/027"
     },
     name: {
         en: "Cottonee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cottonee",
         de: "Waumboll",
         'pt-br': "Cottonee",
+        ja: "モンメン",
         ko: "소미안",
         "zh-tw": "木棉球",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Appiccicoso",
                 de: "Festkleben",
                 'pt-br': "Conectar",
+                ja: "くっつく",
                 ko: "들러붙기",
                 "zh-tw": "附"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Si difende creando una nuvola di cotone. A volte viene\ntrasportato fino all'altro capo del mondo dai tifoni.",
         de: "Sie schützen sich, indem sie Watte verstreuen.\nManche werden vom Wind bis ans andere Ende\nder Welt getragen.",
         'pt-br': "Dispara algodão do seu corpo para se proteger.\nSe este Pokémon for carregado por um furacão,\npode ir parar do outro lado da Terra.",
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。",
         ko: "솜을 날려 몸을 지킨다.\n태풍의 바람에 휩쓸려\n지구 반대편까지 갈 때도 있다.",
         "zh-tw": "它從體內射出棉花來保護自己。如果它遇到颶風強度的風，它可能會被送到地球的另一邊。"
     },

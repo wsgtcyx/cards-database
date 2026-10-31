@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/008"
     },
     name: {
         en: "Shiinotic",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shiinotic",
         de: "Lamellux",
         'pt-br': "Shiinotic",
+        ja: "マシェード",
         ko: "마셰이드",
         "zh-tw": "燈罩夜菇",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bubungus",
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
+        ja: "ネマシュ",
     },
     description: {
         en: "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Attira a sé la preda con la luce intermittente\ndelle sue spore e l'addormenta. Poi ne succhia\nl'energia vitale con le estremità delle dita.",
         de: "Mit blinkenden Sporen lullt es seine Beute\nin den Schlaf und saugt ihr dann über seine\nFingerspitzen die Lebenskraft aus.",
         'pt-br': "Os seus esporos tremeluzentes atraem as presas e as deixam adormecidas.\nAssim que este Pokémon coloca a sua presa para dormir, drena a vitalidade\ndela com as pontas dos seus dedos.",
+        ja: "点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。",
         ko: "깜빡이는 포자의 빛으로\n먹이를 유인해서 잠들게 한다.\n손끝으로 생기를 흡수한다.",
         "zh-tw": "它閃爍的孢子引誘獵物並使它們入睡。一旦這只神奇寶貝讓獵物打瞌睡，它就會用指尖吸取獵物的活力。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Spore Guizzanti",
                 de: "Flimmernde Sporen",
                 'pt-br': "Esporos Tremeluzentes",
+                ja: "ゆれるほうし",
                 ko: "흔들리는포자",
                 "zh-tw": "閃爍的孢子"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

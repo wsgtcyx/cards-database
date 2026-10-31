@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/026"
     },
     name: {
         en: "Raichu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Raichu",
         de: "Raichu",
         'pt-br': "Raichu",
+        ja: "ライチュウ",
         ko: "라이츄",
         "zh-tw": "雷丘",
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     description: {
         en: "Its tail discharges electricity into the ground, protecting it from getting shocked.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche.",
         de: "Mithilfe seines Schweifs entlädt es Elektrizität\nin den Boden, um sich auf diese Weise vor\nelektrischen Schlägen zu schützen.",
         'pt-br': "Sua cauda descarrega a eletricidade\nno solo, protegendo-o contra choques.",
+        ja: "尻尾が アースの 役目をはたして 電気を 地面に 逃がすので 自分自身は しびれたりしない。",
         ko: "꼬리가 어스 역할을 하여\n전기를 지면으로 흘려보내므로\n자신은 감전되거나 하지 않는다.",
         "zh-tw": "它的尾巴會向地面釋放電流，以保護它免受電擊。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Superscossa",
                 de: "Gigaschock",
                 'pt-br': "Gigachoque",
+                ja: "ギガスパーク",
                 ko: "기가스파크",
                 "zh-tw": "千兆衝擊"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン全員にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 20 點傷害。"
             }

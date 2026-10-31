@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/011"
     },
     name: {
         en: "Rapidash",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rapidash",
         de: "Gallopa",
         'pt-br': "Rapidash",
+        ja: "ギャロップ",
         ko: "날쌩마",
         "zh-tw": "烈焰馬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Ponita",
         "pt-br": "Ponyta",
         "zh-tw": "小火馬",
+        ja: "ポニータ",
     },
     description: {
         en: "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Sfreccia nelle praterie a una velocità di 240 km/h,\nfacendo sventolare la sua criniera ardente.",
         de: "Die lodernde Mähne dieses Pokémon flattert im\nWind, wenn es mit einer Geschwindigkeit von\n240 km/h über Felder und Wiesen galoppiert.",
         'pt-br': "Este Pokémon pode ser encontrado galopando\nnas pradarias, com sua crina de fogo ao vento,\na velocidades de até 240 km/h.",
+        ja: "燃える たてがみを はためかせ 時速 ２４０キロの 速度で 大草原を 駆けぬけるのだ。",
         ko: "불타는 갈기를 휘날리며\n시속 240km의 속도로\n넓은 초원을 달려나간다.",
         "zh-tw": "這只神奇寶貝以高達 150 英里/小時的速度在田野中奔跑，火熱的鬃毛在風中飄揚。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Elevazione",
                 de: "Aufwärtsstoß",
                 'pt-br': "Investida Ascendente",
+                ja: "つきあげる",
                 ko: "밀어올리기",
                 "zh-tw": "上升弓步"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、60ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 60 點額外傷害。"
             }

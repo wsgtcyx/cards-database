@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/079",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/079",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/079"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/079"
     },
     name: {
         en: "Rockruff",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Pfötchenhieb",
                 "pt-br": "Dá Soquinho",
                 "zh-tw": "握手拳",
-                ja: "Paw Shake Punch",
+                ja: "おてパンチ",
                 ko: "Paw Shake Punch"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Wuffels ist sehr zutraulich, solange es jung ist. Mit dem Alter wird es zunehmend wilder, doch es bleibt seinem Trainer auf ewig verbunden.",
         "pt-br": "Este Pokémon é amigável quando jovem. Adquire um temperamento cruel ao crescer, mas nunca se esquece da bondade de seu mestre.",
         "zh-tw": "年幼時非常容易親近。雖然長大後脾氣會變得粗暴，卻絕不會忘記主人的恩情。",
-        ja: "This Pokémon is very friendly when it’s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+        ja: "小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。",
         ko: "This Pokémon is very friendly when it’s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master."
     }
 };

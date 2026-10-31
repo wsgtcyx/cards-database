@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/012"
     },
     name: {
         en: "Sharpedo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tohaido",
         "pt-br": "Sharpedo",
         "zh-tw": "巨牙鯊",
+        ja: "サメハダー",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kanivanha",
         "pt-br": "Carvanha",
         "zh-tw": "利牙魚",
+        ja: "キバニア",
     },
     description: {
         en: "As soon as it catches the scent of prey, Sharpedo\nwill jet seawater from its backside, hurtling\ntoward the target to attack at 75 mph.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non appena sente l'odore della preda, Sharpedo\ngetterà l'acqua di mare dal suo didietro, sfrecciando\nverso il bersaglio per attaccare a 75 mph.",
         "de": "Sobald es den Geruch von Beute wahrnimmt, Sharpedo\nwird Meerwasser aus seiner Rückseite spritzen\nauf das Ziel zu, um mit 75 Meilen pro Stunde anzugreifen.",
         "pt-br": "Assim que sente o cheiro da presa, Sharpedo\nlançará água do mar pela parte traseira, arremessando-se\nem direção ao alvo para atacar a 75 mph.",
-        "zh-tw": "一旦捕捉到獵物的氣味，夏皮多\n會從背面噴出海水，飛馳而過\n以 75 英里/小時的速度向目標發起攻擊。"
+        "zh-tw": "一旦捕捉到獵物的氣味，夏皮多\n會從背面噴出海水，飛馳而過\n以 75 英里/小時的速度向目標發起攻擊。",
+        ja: "獲物の 匂いを 嗅ぎとると お尻から 海水を 噴射して 時速１２０キロで 襲撃する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Crunch",
                 "de": "Knirschen",
                 "pt-br": "Trituração",
-                "zh-tw": "緊縮"
+                "zh-tw": "緊縮",
+                ja: "かみくだく"
             },
             damage: 50,
             cost: ["Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

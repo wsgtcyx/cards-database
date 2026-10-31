@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/053"
     },
     name: {
         en: "Stakataka",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Muramura",
         "pt-br": "Stakataka",
         "zh-tw": "壘磊石",
+        ja: "ツンデツンデ",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È apparso da un Ultravarco. Ognuno\nsembra essere composto da molte forme di vita\nimpilati uno sopra l'altro.",
         "de": "Es erschien aus einem Ultra-Wurmloch. Jeder einzelne\nscheint aus vielen Lebensformen zu bestehen\nübereinander gestapelt.",
         "pt-br": "Apareceu de um Ultra Wormhole. Cada um\nparece ser composto de muitas formas de vida\nempilhados um em cima do outro.",
-        "zh-tw": "它是從究極蟲洞中出現的。每一個\n似乎由許多生命形式組成\n一個一個地疊起來。"
+        "zh-tw": "它是從究極蟲洞中出現的。每一個\n似乎由許多生命形式組成\n一個一個地疊起來。",
+        ja: "ウルトラホールから 出現した。 複数の 生命が 積み上がり １匹を 形成している ようだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Roccia d'ottone",
                 "de": "Messingrock",
                 "pt-br": "Rocha de latão",
-                "zh-tw": "黃銅岩"
+                "zh-tw": "黃銅岩",
+                ja: "ブラスロック"
             },
             damage: 40,
             cost: ["Metal", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

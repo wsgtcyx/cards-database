@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/087",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/087"
     },
     name: {
         en: "Gigalith ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Gigalith-ex",
         "de": "Brockoloss-ex",
         "pt-br": "Gigalith ex",
-        "zh-tw": "龐岩怪ex"
+        "zh-tw": "龐岩怪ex",
+        ja: "ギガイアスex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Boldore",
         "de": "Sedimantur",
         "pt-br": "Boldore",
-        "zh-tw": "地幔岩"
+        "zh-tw": "地幔岩",
+        ja: "ガントル"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Cannone Megatone",
                 "de": "Megaton-Kanone",
                 "pt-br": "Canhão Megaton",
-                "zh-tw": "百萬噸級大砲"
+                "zh-tw": "百萬噸級大砲",
+                ja: "メガトンキャノン"
             },
             cost: ["Fighting", "Fighting", "Fighting", "Fighting"],
             effect: {
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 140 danni a 1 dei Pokémon del tuo avversario. Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 140 Schadenspunkte zu. Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Este ataque causa 140 pontos de dano a 1 dos Pokémon do seu oponente. Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 140 點傷害。在你的下一個回合中，這只神奇寶貝無法攻擊。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 140 點傷害。在你的下一個回合中，這只神奇寶貝無法攻擊。",
+                ja: "相手のポケモン1匹に140ダメージ。次の自分の番、このポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

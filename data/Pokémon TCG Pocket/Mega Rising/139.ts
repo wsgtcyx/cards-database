@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/139",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/139"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/139"
     },
     name: {
         en: "Crabrawler",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krabbox",
         "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
+        ja: "マケンカニ",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se perde le tenaglie, queste ricresceranno rapidamente.\nLe tenaglie sono un ingrediente popolare nella paella\npoiché dal loro guscio si ricava un gustoso brodo.",
         "de": "Wenn es seine Zangen verliert, wachsen diese schnell nach.\nDie Zange ist eine beliebte Zutat in der Paella\ndenn ihre Schalen ergeben eine schmackhafte Suppenbrühe.",
         "pt-br": "Se perder as pinças, elas crescerão rapidamente.\nAs pinças são ingredientes populares na paella\njá que suas cascas produzem um caldo saboroso.",
-        "zh-tw": "如果它失去了鉗子，它們會很快重新長出來。\n鉗子是西班牙海鮮飯中受歡迎的食材\n因為它們的殼可以製作出美味的湯料。"
+        "zh-tw": "如果它失去了鉗子，它們會很快重新長出來。\n鉗子是西班牙海鮮飯中受歡迎的食材\n因為它們的殼可以製作出美味的湯料。",
+        ja: "ハサミは もげても すぐに 生える。 カラから 良い 出汁が でるので パエリアの 具材として 人気。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pugno sulle nocche",
                 "de": "Knöchelschlag",
                 "pt-br": "Soco de Dedo",
-                "zh-tw": "指節拳"
+                "zh-tw": "指節拳",
+                ja: "げんこつ"
             },
             damage: 20,
             cost: ["Fighting"]

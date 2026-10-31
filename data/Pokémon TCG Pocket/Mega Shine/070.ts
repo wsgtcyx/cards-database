@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/070",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/070"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/070"
     },
     name: {
         en: "Lapras",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Capace di comprendere il linguaggio umano e molto intelligente, ama nuotare nel mare con le persone sul dorso.",
         de: "Er kann die menschliche Sprache verstehen und ist sehr intelligent. Er liebt es, mit Menschen auf seinem Rücken im Meer zu schwimmen.",
         "pt-br": "Capaz de entender a fala humana e muito inteligente, adora nadar no mar com gente nas costas.",
-        "zh-tw": "它能聽懂人類的語言，非常聰明，喜歡背著人在海裡游泳。"
+        "zh-tw": "它能聽懂人類的語言，非常聰明，喜歡背著人在海裡游泳。",
+        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Furiagelo",
                 de: "Wutstarre",
                 "pt-br": "Congelamento Estarrecedor",
-                "zh-tw": "激狂冰凍"
+                "zh-tw": "激狂冰凍",
+                ja: "レイジングフリーズ"
             },
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch den Schaden eines Angriffs kampfunfähig gemacht wurde, ist das aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Se algum dos seus Pokémon foi Nocauteado por dano de um ataque durante o último turno do seu oponente, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "如果你的任何寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則對手的活躍寶可夢現在陷入麻痺狀態。"
+                "zh-tw": "如果你的任何寶可夢在對手的最後回合中因攻擊傷害而被擊倒，則對手的活躍寶可夢現在陷入麻痺狀態。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 60
         }

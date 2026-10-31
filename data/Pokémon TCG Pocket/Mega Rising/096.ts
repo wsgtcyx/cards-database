@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/096"
     },
     name: {
         en: "Boltund",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bellektro",
         "pt-br": "Boltund",
         "zh-tw": "逐電犬",
+        ja: "パルスワン",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Voldi",
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
+        ja: "ワンパチ",
     },
     description: {
         en: "It sends electricity through its legs to boost their\nstrength. Running at top speed, it easily breaks\n50 mph.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Invia elettricità attraverso le gambe per potenziarle\nforza. Correndo alla massima velocità si rompe facilmente\n50 miglia all'ora.",
         "de": "Es sendet Elektrizität durch seine Beine, um sie anzukurbeln\nStärke. Bei Höchstgeschwindigkeit geht es leicht kaputt\n50 Meilen pro Stunde.",
         "pt-br": "Ele envia eletricidade pelas pernas para aumentar seu\nforça. Correndo em alta velocidade, ele quebra facilmente\n50 mph.",
-        "zh-tw": "它通過腿部發送電力來增強其力量\n力量。高速跑很容易壞\n50 英里/小時。"
+        "zh-tw": "它通過腿部發送電力來增強其力量\n力量。高速跑很容易壞\n50 英里/小時。",
+        ja: "電気の 力で 脚力を 増強。 トップスピードは 時速 ９０キロを 軽く 超える。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio di zap",
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
-                "zh-tw": "電擊踢"
+                "zh-tw": "電擊踢",
+                ja: "エレキック"
             },
             damage: 60,
             cost: ["Lightning", "Colorless"]

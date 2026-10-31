@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/005"
     },
     name: {
         en: "Poké Ball",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Poké Ball",
         de: "Pokéball",
         'pt-br': "Poké Bola",
+        ja: "モンスターボール",
         ko: "몬스터볼",
         "zh-tw": "精靈球"
     },
@@ -30,6 +32,7 @@ const card: Card = {
         es: "Pon 1 Pokémon Básico aleatorio de tu baraja en tu mano.",
         it: "Prendi un Pokémon Base a caso dal tuo mazzo e aggiungilo alle carte che hai in mano.",
         de: "Nimm 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Hand.",
+        ja: "自分の山札からたねポケモンをランダムに1枚、手札に加える。",
         ko: "자신의 덱에서 기본 포켓몬을 랜덤으로 1장 패로 가져온다.",
         'pt-br': "Coloque 1 Pokémon Básico aleatório do seu baralho na sua mão.",
         "zh-tw": "從你的牌組中隨機將一隻基礎寶可夢置入你的手牌。"

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/044",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/044",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/044"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/044"
     },
     name: {
         en: "Glimmet",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I cristalli minerali tossici di Glimmet sembrano proprio petali di fiori. Questo Pokémon sparge polvere velenosa come il polline per proteggersi.",
         de: "Die giftigen Mineralkristalle von Lumispross sehen aus wie Blütenblätter. Dieses Pokémon verstreut giftiges Pulver wie Pollen, um sich zu schützen.",
         "pt-br": "Os cristais minerais tóxicos de Glimmet parecem pétalas de flores. Este Pokémon espalha pó venenoso como pólen para se proteger.",
-        "zh-tw": "晶光芽的有毒礦物晶體看起來就像花瓣。這種寶可夢會散佈花粉等有毒粉末來保護自己。"
+        "zh-tw": "晶光芽的有毒礦物晶體看起來就像花瓣。這種寶可夢會散佈花粉等有毒粉末來保護自己。",
+        ja: "毒成分の 結晶が まるで 花びらに 見える。 花粉のように 毒の粉を ばらまき 身を守る。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tirar Giù",
                 de: "Herunterhängen",
                 "pt-br": "Dependurar",
-                "zh-tw": "垂吊"
+                "zh-tw": "垂吊",
+                ja: "ぶらさがる"
             },
             damage: 20
         }

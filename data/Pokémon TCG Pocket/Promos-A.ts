@@ -10,6 +10,7 @@ const set: Set = {
 		es: "Promo-A",
 		fr: "Promo-A",
 		it: "Promo-A",
+		ja: "PROMO-A",
 		ko: "Promo-A",
 		'pt-br': "Promo-A",
 		'zh-tw': "Promo-A"
@@ -30,7 +31,8 @@ const set: Set = {
 				it: 'Vol. 1',
 				de: 'Vol. 1',
 				'pt-br': 'Vol. 1',
-				'zh-tw': 'Vol. 1'
+				'zh-tw': 'Vol. 1',
+				ja: "プロモカードパック Aシリーズ 第1弾"
 			}
 		},
 		vol2: {
@@ -41,7 +43,8 @@ const set: Set = {
 				it: 'Vol. 2',
 				de: 'Vol. 2',
 				'pt-br': 'Vol. 2',
-				'zh-tw': 'Vol. 2'
+				'zh-tw': 'Vol. 2',
+				ja: "プロモカードパック Aシリーズ 第2弾"
 			}
 		},
 		vol3: {
@@ -52,7 +55,8 @@ const set: Set = {
 				it: 'Vol. 3',
 				de: 'Vol. 3',
 				'pt-br': 'Vol. 3',
-				'zh-tw': 'Vol. 3'
+				'zh-tw': 'Vol. 3',
+				ja: "プロモカードパック Aシリーズ 第3弾"
 			}
 		},
 		vol4: {
@@ -63,7 +67,8 @@ const set: Set = {
 				it: 'Vol. 4',
 				de: 'Vol. 4',
 				'pt-br': 'Vol. 4',
-				'zh-tw': 'Vol. 4'
+				'zh-tw': 'Vol. 4',
+				ja: "プロモカードパック Aシリーズ 第4弾"
 			}
 		},
 		vol5: {
@@ -74,7 +79,8 @@ const set: Set = {
 				it: 'Vol. 5',
 				de: 'Vol. 5',
 				'pt-br': 'Vol. 5',
-				'zh-tw': 'Vol. 5'
+				'zh-tw': 'Vol. 5',
+				ja: "プロモカードパック Aシリーズ 第5弾"
 			}
 		},
 		vol6: {
@@ -85,7 +91,8 @@ const set: Set = {
 				it: 'Vol. 6',
 				de: 'Vol. 6',
 				'pt-br': 'Vol. 6',
-				'zh-tw': 'Vol. 6'
+				'zh-tw': 'Vol. 6',
+				ja: "プロモカードパック Aシリーズ 第6弾"
 			}
 		},
 		vol7: {
@@ -96,7 +103,8 @@ const set: Set = {
 				it: 'Vol. 7',
 				de: 'Vol. 7',
 				'pt-br': 'Vol. 7',
-				'zh-tw': 'Vol. 7'
+				'zh-tw': 'Vol. 7',
+				ja: "プロモカードパック Aシリーズ 第7弾"
 			}
 		},
 		vol8: {
@@ -107,7 +115,8 @@ const set: Set = {
 				it: 'Vol. 8',
 				de: 'Vol. 8',
 				'pt-br': 'Vol. 8',
-				'zh-tw': 'Vol. 8'
+				'zh-tw': 'Vol. 8',
+				ja: "プロモカードパック Aシリーズ 第8弾"
 			}
 		},
 		vol9: {
@@ -118,7 +127,8 @@ const set: Set = {
 				it: 'Busta promozionale (serie A, vol. 9)',
 				de: 'Promopack Serie A, Vol. 9',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 9)',
-				'zh-tw': '特典卡牌包 A系列第9波'
+				'zh-tw': '特典卡牌包 A系列第9波',
+				ja: "プロモカードパック Aシリーズ 第9弾"
 			}
 		},
 		vol10: {
@@ -129,7 +139,8 @@ const set: Set = {
 				it: 'Busta promo (serie A, vol. 10)',
 				de: 'Promopack Serie A, Vol. 10',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 10)',
-				'zh-tw': '特典卡牌包 A系列第10波'
+				'zh-tw': '特典卡牌包 A系列第10波',
+				ja: "プロモカードパック Aシリーズ 第10弾"
 			}
 		},
 		vol11: {
@@ -140,7 +151,8 @@ const set: Set = {
 				it: 'Busta promo (serie A, vol. 11)',
 				de: 'Promopack Serie A, Vol. 11',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 11)',
-				'zh-tw': '特典卡牌包 A系列第11波'
+				'zh-tw': '特典卡牌包 A系列第11波',
+				ja: "プロモカードパック Aシリーズ 第11弾"
 			}
 		},
 		vol12: {
@@ -151,7 +163,8 @@ const set: Set = {
 				it: 'Busta promo (serie A, vol. 12)',
 				de: 'Promopack Serie A, Vol. 12',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 12)',
-				'zh-tw': '特典卡牌包 A系列第12波'
+				'zh-tw': '特典卡牌包 A系列第12波',
+				ja: "プロモカードパック Aシリーズ 第12弾"
 			}
 		},
 		vol13: {
@@ -162,7 +175,8 @@ const set: Set = {
 				it: 'Busta promo (serie A, vol. 13)',
 				de: 'Ein Promopack aus Serie A, Vol. 13',
 				'pt-br': 'Pacote Promocional da Série A (Vol. 13)',
-				'zh-tw': '特典卡牌包 A系列第13波'
+				'zh-tw': '特典卡牌包 A系列第13波',
+				ja: "プロモカードパック Aシリーズ 第13弾"
 			}
 		}
 	},

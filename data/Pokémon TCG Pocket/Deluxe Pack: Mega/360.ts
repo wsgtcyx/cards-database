@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/360",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/360",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/360",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/360"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/360",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/360"
     },
     name: {
         en: "Hisuian Zorua",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Eine verstorbene Seele, die in Hisui zu neuem Leben erwachte. Groll verleiht ihm Kraft und quillt aus seinem Kopf, um als Ventil für den eigenen Hass die Gestalt seiner Feinde anzunehmen.",
         "pt-br": "Uma alma que partiu deste mundo e voltou à vida em Hisui. Seu poder é oriundo do rancor, que se converte em energia no topo de sua cabeça e toma a forma de seus inimigos. Dessa maneira, Zorua se liberta da malícia persistente.",
         "zh-tw": "死後靈魂在洗翠地區復甦。怨恨化為力量，從其頭部冉冉飄升。會化成對手的樣貌去洗刷仇恨。",
-        ja: "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
+        ja: "死した魂 ヒスイの地にて 蘇る。 怨嗟は 力となり 頭より 立ち昇り 相手の姿に 変じ 恨み 晴らしたり。",
         ko: "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Herumrennen",
                 "pt-br": "Zoar",
                 "zh-tw": "雀躍",
-                ja: "Run Around",
+                ja: "はしゃぐ",
                 ko: "Run Around"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
                 "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
-                ja: "Switch this Pokémon with 1 of your Benched Pokémon.",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "Switch this Pokémon with 1 of your Benched Pokémon."
             }
         }

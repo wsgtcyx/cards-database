@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/237",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/237",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/237",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/237"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/237",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/237"
     },
     name: {
         en: "Bulbasaur",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Nach der Geburt nutzt es für eine Weile die Nährstoffe im Samen auf seinem Rücken, um zu wachsen.",
         "pt-br": "Durante sua juventude, usa os nutrientes armazenados na semente em suas costas para crescer.",
         "zh-tw": "在出生後的一段時間內，牠會吸收背上種子裡儲存著的營養成長。",
-        ja: "While it is young, it uses the nutrients that are\nstored in the seed on its back in order to grow.",
+        ja: "生まれて しばらくの あいだ 背中の タネに つまった 栄養を とって 育つ。",
         ko: "While it is young, it uses the nutrients that are\nstored in the seed on its back in order to grow."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Tackle",
                 "pt-br": "Investida",
                 "zh-tw": "撞擊",
-                ja: "Tackle",
+                ja: "たいあたり",
                 ko: "Tackle"
             },
             damage: 20,

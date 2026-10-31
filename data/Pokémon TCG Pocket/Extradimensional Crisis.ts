@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Crise Extradimensionnelle",
 		it: "Crisi Extradimensionale",
 		'pt-br': "Crise Extradimensional",
+		ja: "異次元クライシス",
 		ko: '초차원 위기',
 		'zh-tw': "次元危機"
 	},

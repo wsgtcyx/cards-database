@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/019"
     },
     name: {
         en: "Froslass",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Froslass",
         de: "Frosdedje",
         'pt-br': "Froslass",
+        ja: "ユキメノコ",
         ko: "눈여아",
         "zh-tw": "雪妖女",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schneppke",
         "pt-br": "Snorunt",
         "zh-tw": "雪童子",
+        ja: "ユキワラシ",
     },
     description: {
         en: "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Con il suo alito glaciale congela gli esseri\numani e i Pokémon che gli piacciono\ne li usa per decorare la sua tana.",
         de: "Menschen und Pokémon, die ihm gefallen,\nfriert es mit eisiger Luft ein. Dann nimmt es\nsie mit in seinen Bau und stellt sie dort aus.",
         'pt-br': "Quando encontra humanos ou Pokémon de que gosta,\ncongela-os e os leva para seu covil gelado,\nonde são transformados em decoração.",
+        ja: "気に入った 人間や ポケモンを 冷気で 凍らせる。 巣穴に 持って帰って 飾るのだ。",
         ko: "마음에 든 인간과 포켓몬을\n냉기로 얼린 다음\n보금자리에 가져가서 장식한다.",
         "zh-tw": "當它發現人類或牠喜歡的神奇寶貝時，它會將它們冷凍起來，並將它們帶到寒冷的巢穴，在那裡它們成為裝飾品。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Bora",
                 de: "Blizzard",
                 'pt-br': "Nevasca",
+                ja: "ふぶき",
                 ko: "눈보라",
                 "zh-tw": "暴風雪"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン全員にも10ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
                 "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
             }

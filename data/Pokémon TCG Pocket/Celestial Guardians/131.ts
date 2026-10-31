@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/131",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/131"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/131"
     },
     name: {
         en: "Fletchling",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Fletchling",
         de: "Dartiri",
         'pt-br': "Fletchling",
+        ja: "ヤヤコマ",
         ko: "화살꼬빈",
         "zh-tw": "小箭雀",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Di solito ha un'indole molto tranquilla, ma quando lotta\nil suo equilibrio ormonale cambia, rendendolo aggressivo.",
         de: "Normalerweise sind Dartiri friedfertig, doch wenn\nsie kämpfen, ändert sich ihr Hormonhaushalt und\nsie werden angriffslustig.",
         'pt-br': "Este Pokémon é geralmente calmo, mas quando entra\nem batalha, seu equilíbrio hormonal muda, fazendo\ncom que se torne agressivo.",
+        ja: "普段は 穏やかな 気性だが 戦いになると ホルモンバランスが 変わり 攻撃的になる。",
         ko: "평소에는 온순하지만\n싸움에 들어가면 호르몬의\n균형이 바뀌어 공격적이게 된다.",
         "zh-tw": "這只神奇寶貝通常很平靜，但一旦進入戰鬥，荷爾蒙平衡就會發生變化，變得具有攻擊性。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 'pt-br': "Asa",
+                ja: "はばたく",
                 ko: "홰치기",
                 "zh-tw": "皮瓣"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/036",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/036",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/036"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/036"
     },
     name: {
         en: "Paldean Tauros",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Tauros de Paldea",
         "zh-tw": "帕底亞肯泰羅",
         ko: "팔데아 켄타로스",
-        ja: "パルデア ケンタロス"
+        ja: "パルデアケンタロス"
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nuota lanciando acqua dalle corna. La caratteristica più notevole dell'Aqua Breed è il suo elevato grasso corporeo, che gli consente di galleggiare facilmente.",
         de: "Es schwimmt, indem es Wasser aus seinen Hörnern spritzt. Das bemerkenswerteste Merkmal der Aqua-Rasse ist ihr hoher Körperfettanteil, der ihr ein leichtes Schwimmen ermöglicht.",
         "pt-br": "Ele nada jorrando água de seus chifres. A característica mais notável da Raça Aqua é o alto teor de gordura corporal, o que lhe permite flutuar com facilidade.",
-        "zh-tw": "它透過從角噴射水來游泳。水族品種最顯著的特徵是其高體脂，這使得它能夠輕鬆漂浮。"
+        "zh-tw": "它透過從角噴射水來游泳。水族品種最顯著的特徵是其高體脂，這使得它能夠輕鬆漂浮。",
+        ja: "ツノから 水を 吹きだし 泳ぐ。 脂肪分が 多く 浮きやすいのが ウォーター種の 特徴。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Calcio Esplosivo",
                 de: "Schmetterkick",
                 "pt-br": "Chute Poderoso",
-                "zh-tw": "踢飛"
+                "zh-tw": "踢飛",
+                ja: "けとばす"
             },
             damage: 50
         }

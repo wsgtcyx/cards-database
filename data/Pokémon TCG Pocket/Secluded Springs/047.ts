@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/047"
     },
     name: {
         en: "Crustle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Castellith",
         "pt-br": "Crustle",
         "zh-tw": "岩殿居蟹",
+        ja: "イワパレス",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Lithomith",
         "pt-br": "Dwebble",
         "zh-tw": "石居蟹",
+        ja: "イシズマイ",
     },
     description: {
         en: "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon altamente territoriale preferisce l'asciutto\nclimi. Non uscirà dal suo masso\ngiorni di pioggia.",
         "de": "Dieses sehr territoriale Pokémon bevorzugt Trockenheit\nKlimazonen. Es kommt nicht aus seinem Felsblock heraus\nregnerische Tage.",
         "pt-br": "Este Pokémon altamente territorial prefere áreas secas\nclimas. Não vai sair da pedra\ndias chuvosos.",
-        "zh-tw": "這種領地意識很強的神奇寶貝喜歡乾燥\n氣候。它不會從巨石中出來\n下雨天。"
+        "zh-tw": "這種領地意識很強的神奇寶貝喜歡乾燥\n氣候。它不會從巨石中出來\n下雨天。",
+        ja: "乾燥した 場所を 好み 雨の日は 岩から 出ない。 縄張り意識が 強いぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bordo di pietra",
                 "de": "Steinkante",
                 "pt-br": "Borda de Pedra",
-                "zh-tw": "石邊"
+                "zh-tw": "石邊",
+                ja: "ストーンエッジ"
             },
             damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
+                ja: "コインを1回投げオモテなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

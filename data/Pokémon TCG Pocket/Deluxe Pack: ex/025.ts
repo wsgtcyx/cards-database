@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/025",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/025",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/025",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/025"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/025",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/025"
 	},
 	name: {
 		en: "Cherubi",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Cherubi",
 		de: "Kikugi",
 		"pt-br": "Cherubi",
-		"zh-tw": "櫻花寶"
+		"zh-tw": "櫻花寶",
+		ja: "チェリンボ"
 	},
 	illustrator: "Saya Tsuruta",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Si lancia agilmente per evitare di essere beccato\nda Pokémon uccello che vorrebbero scappare\ncon la sua piccola sfera di stoccaggio ricca di sostanze nutritive.",
 		de: "Es rennt flink umher, um nicht gepickt zu werden\nvon Vogel-Pokémon, die sich gerne aus dem Staub machen würden\nmit seiner kleinen, nährstoffreichen Speicherkugel.",
 		"pt-br": "Ele corre agilmente para evitar ser bicado\npor Pokémon pássaros que adorariam fugir\ncom sua pequena bola de armazenamento rica em nutrientes.",
-		"zh-tw": "它敏捷地奔跑以避免被啄\n喜歡偷走的鳥神奇寶貝\n其小而營養豐富的存儲球。"
+		"zh-tw": "它敏捷地奔跑以避免被啄\n喜歡偷走的鳥神奇寶貝\n其小而營養豐富的存儲球。",
+		ja: "栄養の 詰まった 玉は 鳥ポケモンの 大好物。 ついばまれないよう 逃げまわる。"
 	},
 	stage: "Basic",
 	abilities: [
@@ -46,7 +49,8 @@ const card: Card = {
 				it: "En-fruits-iastic",
 				de: "En-fruits-iastisch",
 				"pt-br": "En-frutas-iastic",
-				"zh-tw": "水果類"
+				"zh-tw": "水果類",
+				ja: "はりきりフルーツ"
 			},
 			effect: {
 				en: "If this Pokémon has a Pokémon Tool attached, attacks used by this Pokémon cost 1 less {G} Energy.",
@@ -55,7 +59,8 @@ const card: Card = {
 				it: "Se questo Pokémon ha un'Azione Pokémon assegnata, gli attacchi utilizzati da questo Pokémon costano 1 Energia {G} in meno.",
 				de: "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, kosten Angriffe dieses Pokémon 1 {G}-Energie weniger.",
 				"pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, os ataques usados por este Pokémon custarão 1 {G} Energia a menos.",
-				"zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則該神奇寶貝使用的攻擊會減少 1 點 {G} 能量。"
+				"zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則該神奇寶貝使用的攻擊會減少 1 點 {G} 能量。",
+				ja: "このポケモンに「ポケモンのどうぐ」がついているなら、このポケモンがワザを使うためのエネルギーを、{G}エネルギー1個ぶん少なくする。"
 			}
 		}
 	],
@@ -68,7 +73,8 @@ const card: Card = {
 				it: "Relè dei dolci",
 				de: "Süßigkeiten-Staffel",
 				"pt-br": "Revezamento de Doces",
-				"zh-tw": "糖果接力賽"
+				"zh-tw": "糖果接力賽",
+				ja: "スイーツリレー"
 			},
 			damage: "10+",
 			cost: ["Grass"],
@@ -79,7 +85,8 @@ const card: Card = {
 				it: "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
 				de: "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
 				"pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-				"zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。"
+				"zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+				ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
 			}
 		}
 	],

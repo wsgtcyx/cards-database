@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/065"
     },
     name: {
         en: "Vikavolt",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vikavolt",
         de: "Donarion",
         'pt-br': "Vikavolt",
+        ja: "クワガノン",
         ko: "투구뿌논",
         "zh-tw": "鍬農炮蟲",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Akkup",
         "pt-br": "Charjabug",
         "zh-tw": "蟲電寶",
+        ja: "デンヂムシ",
     },
     description: {
         en: "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Concentra nelle grandi mandibole l'elettricità\ngenerata nella pancia per colpire l'avversario\ncon un raggio ad altissima potenza.",
         de: "In seinem Bauch erzeugt es Elektrizität, die es in\nseinem großen Kiefer sammelt und dann als\nHochleistungsstrahlen abfeuern kann.",
         'pt-br': "Acumula eletricidade no seu abdômen, depois a focaliza\nna sua mandíbula e a dispara em raios concentrados.",
+        ja: "お腹で 発電した 電気を 大きな 顎で 収束させて 大出力の ビームを 撃つ。",
         ko: "복부에서 만든 전기를\n커다란 턱에 집중시켜서\n고출력의 빔을 쏜다.",
         "zh-tw": "它在腹部積聚電流，通過下巴將其聚焦，然後將電流集中發射出去。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Disconnessione",
                 de: "Unterbrechen",
                 'pt-br': "Desconexão",
+                ja: "でんじしょうがい",
                 ko: "전자장해",
                 "zh-tw": "斷開"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Il tuo avversario non può giocare le carte Strumento che ha in mano durante il suo prossimo turno.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Itemkarten aus seiner Hand spielen.",
                 'pt-br': "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da mão dele.",
+                ja: "次の相手の番、相手は手札からグッズを出して使えない。",
                 ko: "상대의 다음 차례에 상대는 패에서 아이템을 꺼내서 사용할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/268",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/268",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/268",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/268"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/268",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/268"
     },
     name: {
         en: "Blaine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Blaine",
         de: "Pyro",
         'pt-br': "Blaine",
+        ja: "カツラ",
         ko: "강연",
         "zh-tw": "夏伯",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Durante questo turno, gli attacchi usati dal tuo Ninetales, Rapidash o Magmar infliggono +30 danni al Pokémon attivo dell'avversario.",
         de: "Während dieses Zuges fügen die Attacken deines Vulnona, Gallopa oder Magmar dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
         'pt-br': "Durante este turno, os ataques usados pelos seus Ninetales, Rapidash ou Magmar causam +30 pontos de dano ao Pokémon Ativo do seu oponente.",
+        ja: "この番、自分の「キュウコン」「ギャロップ」「ブーバー」が使うワザの、相手のバトルポケモンへのダメージを+30する。",
         ko: "이 차례에 자신의 「나인테일」「날쌩마」「마그마」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 +30한다.",
         "zh-tw": "這個回合中，你的九尾、急流或熔岩使用的攻擊對對手的活躍寶可夢造成 +30 點傷害。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/054",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/054",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/054"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/054"
     },
     name: {
         en: "Pachirisu",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Talvolta due esemplari si sfregano le guance per condividere\nl’elettricità immagazzinata.",
         de: "Um gespeicherte Elektrizität zu teilen, reiben zwei von ihnen\nihre Backentaschen aneinander.",
         "pt-br": "É possivel ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada.",
-        "zh-tw": "有時候可以見到\n為了將儲存的電力分給同伴\n而互相摩擦頰囊的帕奇利茲。"
+        "zh-tw": "有時候可以見到\n為了將儲存的電力分給同伴\n而互相摩擦頰囊的帕奇利茲。",
+        ja: "たまった 電気を 分け与えようと ほほ袋を こすり合わせる パチリスを 見かけることも ある。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Crepitio Elettrico",
                 "pt-br": "Estalo Estalante",
                 "zh-tw": "啪滋打亂",
-                "de": "Knisternder Knall"
+                "de": "Knisternder Knall",
+                ja: "パチッとくずす"
             },
             effect: {
                 en: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 de: "Lege die oberste Karte deines Decks ab. Wenn jene Karte ein Item ist, fügt diese Attacke 20 Schadenspunkte mehr zu.",
                 "pt-br": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "將自己的牌庫上方1張卡丟棄,若那張卡為物品卡,則增加20點傷害。",
-                "it": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più."
+                "it": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più.",
+                ja: "自分の山札を上から1枚トラッシュし、そのカードがグッズなら、20ダメージ追加。"
             },
             damage: "30+"
         }

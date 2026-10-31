@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/080"
     },
     name: {
         en: "Vaporeon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vaporeon",
         de: "Aquana",
         'pt-br': "Vaporeon",
+        ja: "シャワーズ",
         ko: "샤미드",
         "zh-tw": "水伊布",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     attacks: [{
             cost: ["Water", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Assorbibolla",
                 de: "Blasengully",
                 'pt-br': "Dreno de Bolha",
+                ja: "バブルドレイン",
                 ko: "버블드레인",
                 "zh-tw": "氣泡排水管"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 30 danni.",
                 de: "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 30 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを30回復。",
                 ko: "이 포켓몬의 HP를 30회복.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Vive vicino all'acqua. Sulla punta della coda ha una\npinna, per questo alcuni lo scambiano per una sirena.",
         de: "Dieses Pokémon lebt nahe an Gewässern.\nWegen seiner fischähnlichen Schwanzflosse wird\nes manchmal für eine Meerjungfrau gehalten.",
         'pt-br': "Este Pokémon vive perto da água. A sua longa\ncauda é coberta por uma barbatana e muitas\nvezes é confundida com a de uma sereia.",
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。",
         ko: "물가에 살지만 꼬리에\n물고기처럼 지느러미가 남아 있어서\n인어로 착각하는 사람도 있다.",
         "zh-tw": "它生活在靠近水的地方。它的長尾巴上有脊狀鰭，經常被誤認為是美人魚的尾巴。"
     },

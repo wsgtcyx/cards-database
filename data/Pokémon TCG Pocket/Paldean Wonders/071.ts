@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/071",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/071",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/071"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/071"
     },
     name: {
         en: "Bombirdier",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Adebom",
         "pt-br": "Bombirdier",
         "zh-tw": "下石鳥",
+        ja: "オトシドリ",
         pt: "Bombirdier",
         'es-mx': "Bombirdier"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Bombirdier usa il grembiule che ha sul petto per impacchettare il cibo, che poi riporta al nido. Gli piace far cadere oggetti che producono forti rumori.",
         "de": "Adebom nutzt die Schürze auf seiner Brust, um Nahrung zu bündeln, die er zu seinem Nest zurückträgt. Es genießt, Dinge fallen zu lassen, die laute Geräusche machen.",
         "pt-br": "Bombirdier usa o avental no peito para embrulhar a comida, que leva de volta ao ninho. Ele gosta de deixar cair coisas que fazem barulho.",
-        "zh-tw": "下石鳥用胸前的圍裙捆紮食物，然後帶回巢穴。牠喜歡掉落發出巨大噪音的東西。"
+        "zh-tw": "下石鳥用胸前的圍裙捆紮食物，然後帶回巢穴。牠喜歡掉落發出巨大噪音的東西。",
+        ja: "胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Fliegen",
                 "pt-br": "Voar",
                 "zh-tw": "飛",
+                ja: "そらをとぶ",
                 pt: "Voar"
             },
             damage: "70",
@@ -60,6 +64,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques feitos a este Pokémon.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面，則在對手的下一個回合中，阻止對該寶可夢造成的所有傷害和攻擊效果。",
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 pt: "Jogue uma moeda. Se sair coroa, este ataque não fará nada. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
             },
         },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/317",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/317",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/317",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/317"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/317",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/317"
     },
     name: {
         en: "Decidueye ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Silvarro-ex",
         "pt-br": "Decidueye ex",
         "zh-tw": "狙射樹梟ex",
+        ja: "ジュナイパーex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
+        ja: "フクスロー",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Perforare il dolore",
                 "de": "Durchbohre den Schmerz",
                 "pt-br": "Perfure a dor",
-                "zh-tw": "刺穿痛苦"
+                "zh-tw": "刺穿痛苦",
+                ja: "きずをうちぬく"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 100 danni a 1 dei Pokémon del tuo avversario che hanno danni su di sé.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners, auf dem Schaden liegt, 100 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 100 pontos de dano a 1 dos Pokémon do seu oponente que tenham dano.",
-                "zh-tw": "這次攻擊對對手的 1 只受到傷害的神奇寶貝造成 100 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只受到傷害的神奇寶貝造成 100 點傷害。",
+                ja: "ダメージを受けている相手のポケモン1匹に100ダメージ。"
             }
         }, {
             name: {
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 80,
             cost: ["Grass", "Grass"]

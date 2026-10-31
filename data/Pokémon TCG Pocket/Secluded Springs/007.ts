@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/007"
     },
     name: {
         en: "Durant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fermicula",
         "pt-br": "Durant",
         "zh-tw": "鐵蟻",
+        ja: "アイアント",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Attaccano in gruppi, ricoprendosi di acciaio\narmatura per proteggersi da Heatmor.",
         "de": "Sie greifen in Gruppen an und bedecken sich mit Stahl\nRüstung, um sich vor Heatmor zu schützen.",
         "pt-br": "Eles atacam em grupos, cobrindo-se com aço\narmadura para se proteger do Heatmor.",
-        "zh-tw": "他們成群結隊地攻擊，用鋼鐵覆蓋自己\n保護自己免受熱魔傷害的盔甲。"
+        "zh-tw": "他們成群結隊地攻擊，用鋼鐵覆蓋自己\n保護自己免受熱魔傷害的盔甲。",
+        ja: "鋼の よろいを 身にまとう。 天敵の クイタランの 攻撃を 集団で 防ぎ 反撃する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Munch di montagna",
                 "de": "Berg Munch",
                 "pt-br": "Montanha Munch",
-                "zh-tw": "蒙克山"
+                "zh-tw": "蒙克山",
+                ja: "やまかじり"
             },
             damage: 40,
             cost: ["Grass", "Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta la prima carta del mazzo del tuo avversario.",
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂牌。"
+                "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。"
             }
         }],
     weaknesses: [{

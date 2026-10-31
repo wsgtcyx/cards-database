@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/023"
     },
     name: {
         en: "Magmar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magmar",
         de: "Magmar",
         'pt-br': "Magmar",
+        ja: "ブーバー",
         ko: "마그마",
         "zh-tw": "鴨嘴火獸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Abbatte le sue prede con le fiamme, ma\nfinisce per carbonizzarle accidentalmente,\ncon suo grande rammarico.",
         de: "Magmar erlegt seine Beute mit Feuer. Manchmal\nröstet es diese zu seinem Bedauern so stark,\ndass sie versehentlich verkohlt.",
         'pt-br': "Magmar incendeia suas presas, mas sempre se\narrepende ao perceber que as reduziu a cinzas.",
+        ja: "炎で 獲物を しとめる。 ついつい 焼きすぎて 黒コゲに してしまい 後悔する。",
         ko: "불꽃으로 먹이를 꼼짝 못 하게 한다.\n무의식중에 너무 오래 익혀서\n까맣게 태우고는 후회한다.",
         "zh-tw": "瑪格瑪用火消滅獵物。但一旦它意識到自己已經把它想要的獵物燒成了焦脆的東西，它就會後悔這個習慣。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Attizzatoio",
                 de: "Anheizen",
                 'pt-br': "Carregar",
+                ja: "もえあがる",
                 ko: "타오르기",
                 "zh-tw": "斯托克"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Prendi un'Energia {R} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {R}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 'pt-br': "Pegue 1 Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {R}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出一個{R}能量並將其附加到該神奇寶貝上。"
             }

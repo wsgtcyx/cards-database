@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/063"
     },
     name: {
         en: "Swanna",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Swaroness",
         "pt-br": "Swanna",
         "zh-tw": "舞天鵝",
+        ja: "スワンナ",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Piccolente",
         "pt-br": "Ducklett",
         "zh-tw": "鴨寶寶",
+        ja: "コアルヒー",
     },
     description: {
         en: "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Nonostante il loro aspetto elegante, possono sbattere le ali\nle loro ali fortemente e volano per migliaia di miglia.",
         "de": "Trotz ihres eleganten Aussehens können sie flattern\nIhre Flügel sind stark und fliegen Tausende von Kilometern.",
         "pt-br": "Apesar de sua aparência elegante, eles podem bater\nsuas asas fortemente e voam por milhares de quilômetros.",
-        "zh-tw": "儘管它們外表優雅，但它們可以拍打\n它們的翅膀有力，飛翔千里。"
+        "zh-tw": "儘管它們外表優雅，但它們可以拍打\n它們的翅膀有力，飛翔千里。",
+        ja: "優雅な みかけに よらず 翼で 力強く 羽ばたき 数千キロ 飛び続けられる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ciclone piumato",
                 "de": "Gefiederter Zyklon",
                 "pt-br": "Ciclone emplumado",
-                "zh-tw": "羽毛旋風"
+                "zh-tw": "羽毛旋風",
+                ja: "フェザーサイクロン"
             },
             damage: 60,
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Sposta tutte le Energie da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 "de": "Verschiebe die gesamte Energie dieses Pokémon auf eines deiner Bank-Pokémon.",
                 "pt-br": "Mova todas as Energias deste Pokémon para 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將這只神奇寶貝的所有能量轉移到你後備的 1 只神奇寶貝上。"
+                "zh-tw": "將這只神奇寶貝的所有能量轉移到你後備的 1 只神奇寶貝上。",
+                ja: "このポケモンからエネルギーをすべて、ベンチポケモン1匹につけ替える。"
             }
         }],
     weaknesses: [{

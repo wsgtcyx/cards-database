@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/149",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/149",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/149",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/149"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/149",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/149"
 	},
 	name: {
 		en: "Zeraora",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Zeraora",
 		de: "Zeraora",
 		"pt-br": "Zeraora",
-		"zh-tw": "捷拉奧拉"
+		"zh-tw": "捷拉奧拉",
+		ja: "ゼラオラ"
 	},
 	illustrator: "kawayoo",
 	rarity: "Three Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Elettrizza i suoi artigli e dilania i suoi avversari\na parte loro. Anche se schivano il suo attacco,\nsaranno fulminati dalle scintille volanti.",
 		de: "Es elektrisiert seine Krallen und zerreißt seine Gegner\ngetrennt von ihnen. Selbst wenn sie seinem Angriff ausweichen,\nSie werden durch die fliegenden Funken einen Stromschlag erleiden.",
 		"pt-br": "Eletrifica suas garras e rasga seus oponentes\nalém deles. Mesmo que eles evitem seu ataque,\neles serão eletrocutados pelas faíscas voadoras.",
-		"zh-tw": "它給它的爪子通電並撕裂它的對手\n與他們分開。就算躲過了它的攻擊，\n他們會被飛濺的火花觸電。"
+		"zh-tw": "它給它的爪子通電並撕裂它的對手\n與他們分開。就算躲過了它的攻擊，\n他們會被飛濺的火花觸電。",
+		ja: "両手足の ツメを 帯電させ 相手を 八つ裂き。 かわされても 飛び散る 電撃で 感電させる。"
 	},
 	stage: "Basic",
 	abilities: [
@@ -46,7 +49,8 @@ const card: Card = {
 				it: "Lampo di tuono",
 				de: "Donnerschlagblitz",
 				"pt-br": "Trovão Flash",
-				"zh-tw": "雷霆閃現"
+				"zh-tw": "雷霆閃現",
+				ja: "じんらいせんこう"
 			},
 			effect: {
 				en: "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -55,7 +59,8 @@ const card: Card = {
 				it: "Alla fine del tuo primo turno, prendi un'Energia {L} dalla tua Zona Energetica e assegnala a questo Pokémon.",
 				de: "Nimm am Ende deines ersten Zuges eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
 				"pt-br": "No final do seu primeiro turno, pegue uma Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
-				"zh-tw": "在你的第一回合結束時，從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。"
+				"zh-tw": "在你的第一回合結束時，從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。",
+				ja: "最初の自分の番の終わりに、自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。"
 			}
 		}
 	],
@@ -68,7 +73,8 @@ const card: Card = {
 				it: "Artiglio del Fulmine",
 				de: "Blitzklaue",
 				"pt-br": "Garra Relâmpago",
-				"zh-tw": "閃電爪"
+				"zh-tw": "閃電爪",
+				ja: "かみなりのツメ"
 			},
 			damage: 50,
 			cost: ["Lightning", "Lightning"]

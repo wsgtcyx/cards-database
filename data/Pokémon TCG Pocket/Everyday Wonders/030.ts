@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/030",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/030",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/030"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/030"
     },
     name: {
         en: "Sylveon",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sylveon fa una figura elegante mentre danza con leggerezza, agitando le antenne, ma le sue mosse penetranti mirano direttamente ai punti deboli dei suoi avversari.",
         de: "Feelinara macht eine elegante Figur, wenn es mit flatternden Fühlern leicht herumtanzt, seine durchdringenden Bewegungen jedoch direkt auf die Schwachstellen seiner Gegner zielen.",
         "pt-br": "Sylveon tem uma figura elegante enquanto dança levemente, com as antenas vibrando, mas seus movimentos penetrantes visam diretamente os pontos fracos de seus oponentes.",
-        "zh-tw": "仙子伊布的姿態優雅，舞動輕盈，觸角飄動，但其刺穿的招式卻直指對手的弱點。"
+        "zh-tw": "仙子伊布的姿態優雅，舞動輕盈，觸角飄動，但其刺穿的招式卻直指對手的弱點。",
+        ja: "触角を なびかせ 軽やかに 舞う 姿は 優雅だが 技は 鋭く 急所を 狙う。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Nastro lenitivo",
                 de: "Beruhigendes Band",
                 "pt-br": "Fita Calmante",
-                "zh-tw": "治癒緞帶"
+                "zh-tw": "治癒緞帶",
+                ja: "いやしのリボン"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon ha un Oggetto Pokémon assegnato, puoi curare 1 dei tuoi Pokémon da 30 danni.",
                 de: "Wenn an diesem Pokémon einmal während deines Zuges ein Pokémon-Werkzeug angebracht ist, kannst du 30 Schadenspunkte bei einem deiner Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon tiver uma Ferramenta Pokémon anexada, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
-                "zh-tw": "在你的回合中，如果這隻寶可夢附有寶可夢工具，你可以從你的 1 隻寶可夢那裡治療 30 點傷害。"
+                "zh-tw": "在你的回合中，如果這隻寶可夢附有寶可夢工具，你可以從你的 1 隻寶可夢那裡治療 30 點傷害。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Magicolpo",
                 de: "Magischer Schuss",
                 "pt-br": "Tiro Mágico",
-                "zh-tw": "魔法射擊"
+                "zh-tw": "魔法射擊",
+                ja: "マジカルショット"
             },
             damage: 60
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/005"
     },
     name: {
         en: "Vespiquen",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vespiquen",
         de: "Honweisel",
         'pt-br': "Vespiquen",
+        ja: "ビークイン",
         ko: "비퀸",
         "zh-tw": "蜂女王",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Wadribie",
         "pt-br": "Combee",
         "zh-tw": "三蜜蜂",
+        ja: "ミツハニー",
     },
     description: {
         en: "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Nell'addome ospita la sua progenie, sulla quale esercita\nun controllo assoluto tramite i feromoni che rilascia.",
         de: "Sein Rumpf fungiert als Wabe für die Larven,\ndie es mithilfe verschiedener Pheromone frei\nherumkommandieren kann.",
         'pt-br': "Guarda sua colônia em células do seu corpo\ne libera vários feromônios para que as larvas\ncumpram suas exigências.",
+        ja: "胴体は 子供たちの 巣穴。 いろんな フェロモンを だして 子供たちを 自由に 操る。",
         ko: "몸통은 새끼들의 둥지다.\n여러 페로몬을 내뿜어\n새끼들을 자유롭게 조종한다.",
         "zh-tw": "它把自己的群體安置在體內的細胞中，並釋放各種信息素，讓這些幼蟲聽從它的命令。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Carica Avventata",
                 de: "Waghalsiger Sturmangriff",
                 'pt-br': "Carga Indomável",
+                ja: "とつげき",
                 ko: "돌격",
                 "zh-tw": "魯莽衝鋒"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 30 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 30 pontos de dano a si mesmo.",
+                ja: "このポケモンにも30ダメージ。",
                 ko: "이 포켓몬에게도 30데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 30 點傷害。"
             }

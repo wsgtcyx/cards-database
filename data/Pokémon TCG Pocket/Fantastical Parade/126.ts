@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/126",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/126"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/126",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/126"
     },
     name: {
         en: "Kangaskhan",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Kangaskhan",
         "de": "Kangama",
         "pt-br": "Kangaskhan",
-        "zh-tw": "袋獸"
+        "zh-tw": "袋獸",
+        ja: "ガルーラ"
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ci sono registrazioni di un bambino umano perduto\ncresciuto da un Kangaskhan senza figli.",
         "de": "Es gibt Aufzeichnungen über ein verlorenes menschliches Kind\naufgezogen von einem kinderlosen Kangaskhan.",
         "pt-br": "Existem registros de uma criança humana perdida sendo\ncriado por um Kangaskhan sem filhos.",
-        "zh-tw": "有記錄稱人類兒童失踪\n由沒有孩子的坎加斯汗撫養長大。"
+        "zh-tw": "有記錄稱人類兒童失踪\n由沒有孩子的坎加斯汗撫養長大。",
+        ja: "子どもの いない ガルーラが 遭難した 人間の 子を 育てていたという 記録がある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pugno costante",
                 "de": "Stetiger Schlag",
                 "pt-br": "Soco constante",
-                "zh-tw": "穩定出拳"
+                "zh-tw": "穩定出拳",
+                ja: "ワンツーパンチ"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

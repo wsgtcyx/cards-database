@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/032"
     },
     name: {
         en: "Gogoat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gogoat",
         de: "Chevrumm",
         'pt-br': "Gogoat",
+        ja: "ゴーゴート",
         ko: "고고트",
         "zh-tw": "坐騎山羊",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Skiddo",
         "de": "Mähikel",
         "pt-br": "Skiddo",
-        "zh-tw": "坐騎小羊"
+        "zh-tw": "坐騎小羊",
+        ja: "メェークル"
     },
     attacks: [{
             cost: ["Grass", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 'pt-br': "Folha Navalha",
+                ja: "はっぱカッター",
                 ko: "잎날가르기",
                 "zh-tw": "剃刀葉"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Riesce a percepire lo stato d'animo di\nchiunque tocchi con le corna. Aiuta gli esseri\numani nelle loro attività da 5.000 anni.",
         de: "Berührt es sein Gegenüber mit den Hörnern, kann\nes dessen Gefühle erspüren. Seit 5000 Jahren\ngeht es den Menschen bei der Arbeit zur Hand.",
         'pt-br': "É capaz de saber o que os outros estão sentindo só\nde tocá-los com seus chifres. Esta espécie tem ajudado\nas pessoas com suas tarefas há mais de 5.000 anos.",
+        ja: "ツノで 触れると 相手の 気持ちを 感じとれる。 5000年前から 人の 仕事を 手伝ってきた。",
         ko: "뿔에 닿으면 상대의 기분을 느낄 수 있다.\n5천 년 전부터 인간의 일을 도왔다.",
         "zh-tw": "它可以通過用角觸碰他人來感知他人的感受。自 5000 年前以來，這個物種就一直在幫助人們工作。"
     },

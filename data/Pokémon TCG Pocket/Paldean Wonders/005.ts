@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/005"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/005"
     },
     name: {
         en: "Spidops",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Spinsidias",
         "pt-br": "Spidops",
         "zh-tw": "操陷蛛",
+        ja: "ワナイダー",
         pt: "Spidops"
     },
     illustrator: "Anesaki Dynamic",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Tarundel",
         "pt-br": "Tarountula",
         "zh-tw": "團珠蛛",
+        ja: "タマンチュラ",
         pt: "Tarountula"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Gli Spidops ricoprono il loro territorio con fili resistenti e appiccicosi per creare trappole per gli intrusi.",
         "de": "Spinsidias deckt sein Revier mit zähen, klebrigen Fäden ab, um Fallen für Eindringlinge aufzustellen.",
         "pt-br": "Spidops cobre seu território com fios resistentes e pegajosos para preparar armadilhas para intrusos.",
-        "zh-tw": "操陷蛛 用堅韌、黏性的線覆蓋其領地，為入侵者設置陷阱。"
+        "zh-tw": "操陷蛛 用堅韌、黏性的線覆蓋其領地，為入侵者設置陷阱。",
+        ja: "丈夫で ネバネバの 糸を 縄張りの 中に 張り巡らせて 侵入者を 罠にかけるのだ。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Anbinden",
                 "pt-br": "Vincular",
                 "zh-tw": "綁定",
+                ja: "しばりつける",
                 pt: "Aprisionamento",
                 'es-mx': "Amarrar"
             },
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 'es-mx': "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
                 pt: "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar."
             },

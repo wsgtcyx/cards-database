@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/134",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/134",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/134"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/134"
     },
     name: {
         en: "Skitty",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È davvero carino quando barcolla per i giramenti di\ntesta, dopo aver cercato di mordersi la coda.",
         de: "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird.",
         "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto",
-        "zh-tw": "有時會展現出追著自己的尾巴玩，\n但玩著玩著就會頭昏眼花的可愛一面。"
+        "zh-tw": "有時會展現出追著自己的尾巴玩，\n但玩著玩著就會頭昏眼花的可愛一面。",
+        ja: "自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Fascino",
                 de: "Charme",
                 "pt-br": "Encantar",
-                "zh-tw": "撒嬌"
+                "zh-tw": "撒嬌",
+                ja: "あまえる"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
-                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu."
+                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu.",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }
     ],

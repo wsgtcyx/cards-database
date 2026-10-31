@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/140",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/140"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/140"
     },
     name: {
         en: "Oranguru",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Oranguru",
         de: "Kommandutan",
         'pt-br': "Oranguru",
+        ja: "ヤレユータン",
         ko: "하랑우탄",
         "zh-tw": "智揮猩",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vedendolo dare ordini agli altri Pokémon nella foresta, in\npassato la gente lo scambiava spesso per un essere umano.",
         de: "Wegen der Art und Weise, wie sie den Pokémon\ndes Waldes ständig Befehle erteilen, hielt man sie\nvor langer Zeit für Menschen.",
         'pt-br': "As pessoas costumavam confundir Oranguru com um\nhumano quando o viam comandar outros Pokémon\nda floresta.",
+        ja: "森の ポケモンたちに つぎつぎと 指示を だす 姿から 昔は 人間だと 思われていた。",
         ko: "숲의 포켓몬들에게\n계속해서 지시를 내리는 모습 때문에\n옛날에는 인간이었던 것으로 여겨지고 있다.",
         "zh-tw": "當人們看到猩猩向森林中的其他神奇寶貝發出一個又一個的命令時，他們常常將其誤認為是人類。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Trappola del Primate",
                 de: "Primatenhinterhalt",
                 'pt-br': "Armadilha de Primata",
+                ja: "さるのわな",
                 ko: "원숭이함정",
                 "zh-tw": "靈長類動物的陷阱"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il costo degli attacchi usati dal Pokémon difensore e il suo costo di ritirata aumentano di 1 1.",
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um 1 1, und seine Rückzugskosten erhöhen sich um 1 1.",
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 1 a mais e o seu custo de Recuo será 1 1 a mais.",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーとにげるためのエネルギーを、{C}エネルギー1個ぶん多くする。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬의 기술을 사용하기 위한 에너지와 후퇴에 필요한 에너지를 1에너지 1개만큼 많게 한다.",
                 "zh-tw": "在對手的下一個回合中，防御寶可夢的攻擊費用增加 1 {C}，並且其撤退費用增加 1 {C}。"
             }

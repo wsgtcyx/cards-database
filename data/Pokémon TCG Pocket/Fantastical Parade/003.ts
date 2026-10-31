@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/003"
     },
     name: {
         en: "Shuckle",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Shuckle",
         "de": "Pottrott",
         "pt-br": "Shuckle",
-        "zh-tw": "壺壺"
+        "zh-tw": "壺壺",
+        ja: "ツボツボ"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Alla fine le bacche furono conservate nel suo guscio simile a un vaso\ndiventare un succo denso e polposo.",
         "de": "Die Beeren lagerten schließlich in ihrer vasenartigen Schale\nzu einem dicken, breiigen Saft werden.",
         "pt-br": "As bagas armazenadas em sua casca em forma de vaso eventualmente\ntorne-se um suco espesso e carnudo.",
-        "zh-tw": "漿果最終儲存在花瓶般的外殼中\n變成濃稠的果肉汁。"
+        "zh-tw": "漿果最終儲存在花瓶般的外殼中\n變成濃稠的果肉汁。",
+        ja: "ツボのような 甲羅の 中に ためこんだ 木の実は いつの間にか ドロドロの ジュースに 変わる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 40,
             cost: ["Grass", "Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −20 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -20 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/099",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/099",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/099"
     },
     name: {
         en: "Rockruff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rockruff",
         de: "Wuffels",
         'pt-br': "Rockruff",
+        ja: "イワンコ",
         ko: "암멍이",
         "zh-tw": "岩狗狗",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "I cuccioli di Rockruff si affezionano subito. Crescendo diventano più\nferoci, ma provano per sempre gratitudine verso chi li ha allenati.",
         de: "Wuffels ist sehr zutraulich, solange es jung ist.\nMit dem Alter wird es zunehmend wilder, doch es\nbleibt seinem Trainer auf ewig verbunden.",
         'pt-br': "Este Pokémon é amigável quando jovem. Adquire um\ntemperamento cruel ao crescer, mas nunca se esquece\nda bondade de seu mestre.",
+        ja: "小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。",
         ko: "어렸을 때는 매우 잘 따른다.\n자라면서 성질이 사나워지지만\n주인에게 입은 은혜는 잊지 않는다.",
         "zh-tw": "這只神奇寶貝年輕時非常友好。長大後性情變得惡毒，但它卻永遠不會忘記主人的恩德。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },

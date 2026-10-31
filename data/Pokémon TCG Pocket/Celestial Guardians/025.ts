@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/025"
     },
     name: {
         en: "Growlithe",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Growlithe",
         de: "Fukano",
         'pt-br': "Growlithe",
+        ja: "ガーディ",
         ko: "가디",
         "zh-tw": "卡蒂狗",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Coraggioso e affidabile, si oppone senza\npaura anche a nemici più grandi e forti di lui.",
         de: "Es ist von Natur aus tapfer und vertrauenswürdig\nund scheut auch vor Gegnern nicht zurück,\ndie größer und stärker sind als es selbst.",
         'pt-br': "Tem uma natureza corajosa e leal e enfrenta\nsem medo adversários maiores e mais fortes.",
+        ja: "自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。",
         ko: "자신보다 강하고\n큰 상대라도 겁 없이 맞서는\n용감하고 믿음직스런 성격이다.",
         "zh-tw": "它具有勇敢和值得信賴的本性。它無所畏懼地對抗更大更強的敵人。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuoco Continuo",
                 de: "Glühen",
                 'pt-br': "Combustão",
+                ja: "かえん",
                 ko: "화염",
                 "zh-tw": "燃燒"
             },

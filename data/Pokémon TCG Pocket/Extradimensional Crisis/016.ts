@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/016"
     },
     name: {
         en: "Blitzle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Elezeba",
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
+        ja: "シママ",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando le nuvole temporalesche coprono il cielo, apparirà.\nPuò catturare i fulmini con la criniera e immagazzinarli\nl'elettricità.",
         "de": "Wenn Gewitterwolken den Himmel bedecken, wird es erscheinen.\nMit seiner Mähne kann es Blitze einfangen und speichern\nder Strom.",
         "pt-br": "Quando as nuvens de tempestade cobrirem o céu, ele aparecerá.\nEle pode pegar raios com sua crina e armazenar\na eletricidade.",
-        "zh-tw": "當雷雲遮蓋天空時，它就會出現。\n它可以用鬃毛捕捉閃電並儲存\n電力。"
+        "zh-tw": "當雷雲遮蓋天空時，它就會出現。\n它可以用鬃毛捕捉閃電並儲存\n電力。",
+        ja: "雷雲で 空が 覆われると 現れる。たてがみで 雷を キャッチして 電気を ためる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Calcio posteriore",
                 "de": "Hinterer Tritt",
                 "pt-br": "Chute traseiro",
-                "zh-tw": "後踢"
+                "zh-tw": "後踢",
+                ja: "うしろげり"
             },
             damage: 40,
             cost: ["Lightning", "Lightning"]

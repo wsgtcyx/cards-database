@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/038",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/038",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/038"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/038"
     },
     name: {
         en: "Palkia",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Raumschlag",
                 "pt-br": "Laceração Espacial",
                 "zh-tw": "亞空裂斬",
-                ja: "Spacial Rend",
+                ja: "あくうせつだん",
                 ko: "Spacial Rend"
             },
             cost: [
@@ -68,7 +69,7 @@ const card: Card = {
                 de: "Wenn dein Gegner eine Stadionkarte im Spiel hat, lege sie auf seinen Ablagestapel.",
                 "pt-br": "Se o seu oponente tiver um Estádio em jogo, descarte-o.",
                 "zh-tw": "將場上的對手的競技場卡丟棄。",
-                ja: "If your opponent has a Stadium in play, discard it.",
+                ja: "場に出ている相手のスタジアムをトラッシュ。",
                 ko: "If your opponent has a Stadium in play, discard it."
             }
         }
@@ -82,7 +83,7 @@ const card: Card = {
         de: "Man sagt, es lebe in einem Spalt in einer Paralleldimension. Es wird in der Mythologie erwähnt.",
         "pt-br": "Dizem que vive em uma dimensão espacial paralela à nossa. Aparece em mitologias.",
         "zh-tw": "據說住在互相平行的空間之間的裂縫，是在神話中登場的寶可夢。",
-        ja: "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+        ja: "並行して 並ぶ 空間の 狭間に 住むと 言われている。 神話に 登場する ポケモン。",
         ko: "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology."
     }
 };

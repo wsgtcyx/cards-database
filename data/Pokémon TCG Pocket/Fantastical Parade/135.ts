@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/135",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/135",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/135"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/135"
     },
     name: {
         en: "Vigoroth",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vigoroth",
         "de": "Muntier",
         "pt-br": "Vigoroth",
-        "zh-tw": "過動猿"
+        "zh-tw": "過動猿",
+        ja: "ヤルキモノ"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Slakoth",
         "de": "Bummelz",
         "pt-br": "Slakoth",
-        "zh-tw": "懶人獺"
+        "zh-tw": "懶人獺",
+        ja: "ナマケロ"
     },
     description: {
         en: "It is always hungry because it won't stop\nrampaging. Even while it is eating, it can't\nkeep still.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha sempre fame perché non si ferma\nfurioso. Anche mentre mangia, non può\nstai fermo.",
         "de": "Es ist immer hungrig, weil es nicht aufhören will\ntobend. Selbst während es frisst, kann es nicht\nbleib still.",
         "pt-br": "Está sempre com fome porque não para\nfurioso. Mesmo enquanto está comendo, ele não consegue\nfique quieto.",
-        "zh-tw": "它總是很餓，因為它不會停止\n橫衝直撞。即使在吃東西的時候也不能\n保持靜止。"
+        "zh-tw": "它總是很餓，因為它不會停止\n橫衝直撞。即使在吃東西的時候也不能\n保持靜止。",
+        ja: "いつも 暴れているので すぐに お腹が 空いてしまうが 食事の ときも じっとして いられない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Miglior pugno",
                 "de": "Bester Schlag",
                 "pt-br": "Melhor soco",
-                "zh-tw": "最佳拳擊"
+                "zh-tw": "最佳拳擊",
+                ja: "ぜんりょくパンチ"
             },
             damage: 90,
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

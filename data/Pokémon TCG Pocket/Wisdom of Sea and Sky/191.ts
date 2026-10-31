@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/191"
     },
     name: {
         en: "Donphan ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Donphan-ex",
         "pt-br": "Donphan ex",
         "zh-tw": "頓甲ex",
+        ja: "ドンファンex",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Phanpy",
         "pt-br": "Phanpy",
         "zh-tw": "小小象",
+        ja: "ゴマゾウ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Stampa gigantesca",
                 "de": "Gigantische Presse",
                 "pt-br": "Imprensa gigantesca",
-                "zh-tw": "巨大的壓力機"
+                "zh-tw": "巨大的壓力機",
+                ja: "ギガントプレス"
             },
             damage: "50+",
             cost: ["Fighting"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha almeno due Energie {F} extra assegnate, questo attacco infligge 60 danni in più.",
                 "de": "Wenn an dieses Pokémon mindestens 2 zusätzliche {F}-Energien angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 2 energias {F} extras anexadas, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 60 點。",
+                ja: "追加で{F}エネルギーが2個ついているなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/107",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/107"
     },
     name: {
         en: "Drifloon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Driftlon",
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
+        ja: "フワンテ",
     },
     illustrator: "Asako Ito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Per il modo in cui galleggia senza meta, è vecchio\nil racconto popolare lo definisce un \"segnale per gli spiriti erranti\".",
         "de": "Aufgrund der Art und Weise, wie es ziellos schwebt, ein altes\nDas Volksmärchen nennt es einen „Wegweiser für wandernde Geister“.",
         "pt-br": "Pela forma como flutua sem rumo, um velho\no conto popular chama isso de \"placa de sinalização para espíritos errantes\".",
-        "zh-tw": "由於它漫無目的地漂浮的方式，一個古老的\n民間傳說稱其為“遊魂的路標”。"
+        "zh-tw": "由於它漫無目的地漂浮的方式，一個古老的\n民間傳說稱其為“遊魂的路標”。",
+        ja: "あてもなく 浮かぶ 様子から 迷える 魂の道しるべ と 伝える 昔話も ある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scoppio di vento",
                 "de": "Windstoß",
                 "pt-br": "Explosão de Vento",
-                "zh-tw": "風之衝擊"
+                "zh-tw": "風之衝擊",
+                ja: "かぜふんしゃ"
             },
             cost: ["Psychic"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹に20ダメージ。"
             }
         }],
     weaknesses: [{

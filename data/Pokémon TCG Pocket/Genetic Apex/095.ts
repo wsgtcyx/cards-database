@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/095",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/095",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/095"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/095"
     },
     name: {
         en: "Raichu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Raichu",
         de: "Raichu",
         'pt-br': "Raichu",
+        ja: "ライチュウ",
         ko: "라이츄",
         "zh-tw": "雷丘",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     attacks: [{
             cost: ["Lightning", "Lightning", "Lightning"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fulmine",
                 de: "Donnerblitz",
                 'pt-br': "Relâmpago",
+                ja: "10まんボルト",
                 ko: "10만볼트",
                 "zh-tw": "霹靂"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rimuovi tutte le Energie assegnate a questo Pokémon.",
                 de: "Lege alle Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte todas as Energias deste Pokémon.",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。",
                 ko: "이 포켓몬에서 에너지를 모두 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的所有能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "La sua coda scarica elettricità a terra,\nproteggendolo dalle scosse elettriche.",
         de: "Mithilfe seines Schweifs entlädt es Elektrizität\nin den Boden, um sich auf diese Weise vor\nelektrischen Schlägen zu schützen.",
         'pt-br': "Sua cauda descarrega a eletricidade\nno solo, protegendo-o contra choques.",
+        ja: "尻尾が アースの 役目をはたして 電気を 地面に 逃がすので 自分自身は しびれたりしない。",
         ko: "꼬리가 어스 역할을 하여\n전기를 지면으로 흘려보내므로\n자신은 감전되거나 하지 않는다.",
         "zh-tw": "它的尾巴會向地面釋放電流，以保護它免受電擊。"
     },

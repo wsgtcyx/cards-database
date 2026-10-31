@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/078"
     },
     name: {
         en: "Wigglytuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wigglytuff",
         de: "Knuddeluff",
         'pt-br': "Wigglytuff",
+        ja: "プクリン",
         ko: "푸크린",
         "zh-tw": "胖可丁"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Jigglypuff",
         "de": "Pummeluff",
         "pt-br": "Jigglypuff",
-        "zh-tw": "胖丁"
+        "zh-tw": "胖丁",
+        ja: "プリン"
     },
     description: {
         en: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Ha un pelo molto fino. Attenzione a non farlo adirare,\nperché può gonfiarsi e caricare con tutto il suo peso.",
         de: "Es hat sehr feines Fell. Doch Vorsicht: Verärgert\nman Knuddeluff, bläst es sich stark auf und stürzt\nsich mit seinem ganzen Körper auf einen.",
         'pt-br': "Ele tem a pele muito fina. Tome cuidado para\nnão zangá-lo ou ele pode inflar permanentemente\ne golpear com uma pancada de corpo.",
+        ja: "キメ細やかな 毛皮の 持ち主。 怒らせると どんどん ふくらみ のしかかってくるので 注意。",
         ko: "얇고 고운 털을 지니고 있다.\n화나게 하면 몸을 점점 부풀리며\n덮쳐 오기 때문에 주의가 필요하다.",
         "zh-tw": "它有非常細膩的皮毛。注意不要讓它生氣，否則它可能會不斷膨脹並用身體猛烈撞擊。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
             it: "Canto Soave",
             de: "Wohltuendes Lied",
             'pt-br': "Canção Reconfortante",
+            ja: "やすらぎのうた",
             ko: "평온의 노래",
             "zh-tw": "安慰歌曲"
         },
@@ -65,6 +70,7 @@ const card: Card = {
             it: "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 20 danni.",
             de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
             'pt-br': "Uma vez durante o seu turno, você poderá curar 20 pontos de dano do seu Pokémon Ativo.",
+            ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。",
             ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 20회복.",
             "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍神奇寶貝的傷害。"
         }
@@ -77,6 +83,7 @@ const card: Card = {
             it: "Schiaffetto",
             de: "Sanfter Hieb",
             'pt-br': "Tapinha",
+            ja: "ひっぱたく",
             ko: "세게때리기",
             "zh-tw": "輕輕一巴掌"
         },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/059",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/059",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/059"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/059"
     },
     name: {
         en: "Zekrom",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Secondo le leggende, può radere al suolo\nun intero paese con fulmini terribili se i suoi\nabitanti hanno perso il senso della giustizia.",
         de: "Viele Mythen besingen den Donner, mit dem es\ndie Welt vernichten wird, wenn die Menschen\nden Sinn für die Gerechtigkeit verlieren.",
         "pt-br": "A mitologia nos diz que se as pessoas perderem a justiça em seus corações, seus reinos serão arrasados ​​pelos raios de Zekrom.",
-        "zh-tw": "在神話的敘述裡，如果人類\n失去了正義之心，牠就會用\n狂暴的雷電毀滅他們的王國。"
+        "zh-tw": "在神話的敘述裡，如果人類\n失去了正義之心，牠就會用\n狂暴的雷電毀滅他們的王國。",
+        ja: "人が 正しい 心を なくすと 激しい 雷を 落とし 国を 亡ぼすと 神話に 描かれた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Lucesiluro",
                 de: "Blitzschlag",
                 "pt-br": "Ataque de Raios",
-                "zh-tw": "雷擊"
+                "zh-tw": "雷擊",
+                ja: "らいげき"
             },
             effect: {
                 en: "Flip a coin. If tails, this Pokémon also does 30 damage to itself.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo Pokémon infligge 30 danni anche a se stesso.",
                 de: "Wirf eine Münze. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 30 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 30 de dano a si mesmo.",
-                "zh-tw": "拋一枚硬幣。如果是反面，這只寶可夢也會對自己造成 30 點傷害。"
+                "zh-tw": "拋一枚硬幣。如果是反面，這只寶可夢也會對自己造成 30 點傷害。",
+                ja: "コインを1回投げウラなら、このポケモンにも30ダメージ。"
             },
             damage: 110
         }

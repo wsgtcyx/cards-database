@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/037",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/037"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/037"
     },
     name: {
         en: "Umbreon",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando cala l'oscurità, gli anelli sul corpo iniziano a brillare, incutendo timore nei cuori di chiunque si trovi nelle vicinanze.",
         de: "Wenn die Dunkelheit hereinbricht, beginnen die Ringe am Körper zu leuchten und lösen bei jedem in der Nähe Angst und Schrecken aus.",
         "pt-br": "Quando a escuridão cai, os anéis do corpo começam a brilhar, causando medo nos corações de qualquer pessoa próxima.",
-        "zh-tw": "當夜幕降臨時，身體上的光環開始發光，引起附近任何人心中的恐懼。"
+        "zh-tw": "當夜幕降臨時，身體上的光環開始發光，引起附近任何人心中的恐懼。",
+        ja: "近寄るものを 恐れさせるため 体の 輪っか模様は 暗くなると 自然に光り出す。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Stordiraggio",
                 de: "Konfusstrahl",
                 "pt-br": "Raio da Confusão",
-                "zh-tw": "奇異之光"
+                "zh-tw": "奇異之光",
+                ja: "あやしいひかり"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 50
         }

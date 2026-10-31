@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/034"
     },
     name: {
         en: "Oricorio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Oricorio",
         de: "Choreogel",
         'pt-br': "Oricorio",
+        ja: "オドリドリ",
         ko: "춤추새",
         "zh-tw": "花舞鳥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Forma assunta da un Oricorio che si è nutrito\ndi Nettare rosso. Con i suoi ardenti passi di\ndanza crea impetuosi turbini fiammeggianti.",
         de: "Dieses Choreogel hat Roten Nektar geschlürft.\nMit seinen feurigen Tanzschritten lässt es\nlodernde Flammen aufwirbeln.",
         'pt-br': "Esta forma de Oricorio bebericou néctar vermelho.\nCria labaredas flamejantes enquanto se move aos passos\nde sua dança fervorosa.",
+        ja: "くれないのミツを 吸った 姿。 情熱的な ステップを 踏み 激しい 炎を 巻き起こす。",
         ko: "다홍꿀을 빨아들인 모습.\n정열적인 스텝을 밟으며\n격렬한 불꽃을 일으킨다.",
         "zh-tw": "這種形態的奧里科里奧正在啜飲著紅色的花蜜。當它邁著充滿激情的舞步時，它會激起熊熊的火焰。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Infiammare",
                 de: "Anzünden",
                 'pt-br': "Inflamar",
+                ja: "メラメラ",
                 ko: "활활",
                 "zh-tw": "點燃"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia a caso da entrambi i Pokémon attivi.",
                 de: "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab.",
                 'pt-br': "Descarte 1 Energia aleatória de ambos os Pokémon Ativos.",
+                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
                 ko: "서로의 배틀 포켓몬에서 에너지를 랜덤으로 1개씩 트래쉬한다.",
                 "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/038"
     },
     name: {
         en: "Alolan Sandshrew",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sandshrew di Alola",
         de: "Alola-Sandan",
         'pt-br': "Sandshrew de Alola",
+        ja: "アローラサンド",
         ko: "알로라모래두지",
         "zh-tw": "阿羅拉穿山鼠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vivendo in zone montuose gelide e impenetrabili ha\nsviluppato un corpo di ghiaccio duro come l'acciaio.",
         de: "Da es in einer durch Schnee abgeschotteten\nBergregion lebt, hat es sich einen stahlharten\nKörper aus Eis angeeignet.",
         'pt-br': "A vida nas montanhas cobertas de neve concedeu\na este Pokémon um corpo de gelo tão forte quanto aço.",
+        ja: "雪に 閉ざされた 山岳地帯で 暮らすうちに 鋼のように 硬い 氷の 体を 手に入れた。",
         ko: "눈으로 봉쇄된 산악 지대에\n사는 동안 얼음으로 된\n강철처럼 단단한 몸을 갖게 되었다.",
         "zh-tw": "生活在厚厚積雪的山上，賦予了這款神奇寶貝堅硬如鋼的冰體。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/051",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/051",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/051"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/051"
     },
     name: {
         en: "Rapid Strike Urshifu",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Questa forma di Urshifu crede fermamente nello sconfiggere i nemici facendo piovere su di loro molti colpi. I suoi colpi sono continui e scorrono come un fiume.",
         de: "Diese Form von Wulaosu glaubt fest daran, Feinde zu besiegen, indem man viele Schläge auf sie niederprasselt. Seine Schläge sind ununterbrochen und fließen wie ein Fluss.",
         "pt-br": "Esta forma de Urshifu acredita firmemente em derrotar os inimigos desferindo muitos golpes sobre eles. Seus ataques são ininterruptos, fluindo como um rio.",
-        "zh-tw": "這種形式的 武道熊師 堅信透過對敵人進行大量打擊來擊敗他們。其攻擊連綿不絕，如河水般流淌。"
+        "zh-tw": "這種形式的 武道熊師 堅信透過對敵人進行大量打擊來擊敗他們。其攻擊連綿不絕，如河水般流淌。",
+        ja: "多撃必倒を 信条とする。 水の 流れのように 途切れなく 打撃技を 相手に 叩きこむ。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Doppio tipo",
                 de: "Doppelter Typ",
                 "pt-br": "Tipo Duplo",
-                "zh-tw": "雙重屬性"
+                "zh-tw": "雙重屬性",
+                ja: "ダブルタイプ"
             },
             effect: {
                 en: "As long as this Pokémon is in play, it is {W} and {F} type.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Finché questo Pokémon è in gioco, è di tipo {W} e {F}.",
                 de: "Solange dieses Pokémon im Spiel ist, ist es vom Typ {W} und {F}.",
                 "pt-br": "Enquanto este Pokémon estiver em jogo, ele será do tipo {W} e {F}.",
-                "zh-tw": "只要這隻寶可夢在場，它就是{W}和{F}類型。"
+                "zh-tw": "只要這隻寶可夢在場，它就是{W}和{F}類型。",
+                ja: "このポケモンは、場にいるかぎり{W}と{F}の2つのタイプになる。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Colpo Tornado",
                 de: "Tornadoschuss",
                 "pt-br": "Disparo de Tornado",
-                "zh-tw": "龍捲射擊"
+                "zh-tw": "龍捲射擊",
+                ja: "トルネードショット"
             },
             effect: {
                 en: "Discard a {W} Energy from this Pokémon, and this attack also does 40 damage to 1 of your opponent's Benched Pokémon.",
@@ -92,7 +97,8 @@ const card: Card = {
                 it: "Scarta un'Energia {W} da questo Pokémon e questo attacco infligge anche 40 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 de: "Wirf eine {W}-Energie von diesem Pokémon ab und dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 40 Schadenspunkte zu.",
                 "pt-br": "Descarte uma Energia {W} deste Pokémon e este ataque também causará 40 de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "丟棄這隻寶可夢的 {W} 能量，而此攻擊還會對對手後備的 1 隻寶可夢造成 40 點傷害。"
+                "zh-tw": "丟棄這隻寶可夢的 {W} 能量，而此攻擊還會對對手後備的 1 隻寶可夢造成 40 點傷害。",
+                ja: "このポケモンから{W}エネルギーを1個トラッシュし、相手のベンチポケモン1匹にも40ダメージ。"
             },
             damage: 40
         }

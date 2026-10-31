@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/147",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/147"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/147",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/147"
     },
     name: {
         en: "Oricorio",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Choreogel",
         "pt-br": "Oricorio",
         "zh-tw": "花舞鳥",
+        ja: "オドリドリ",
     },
     illustrator: "Jerky",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questa forma di Oricorio ha sorseggiato nettare giallo.\nUtilizza passi agili per avvicinarsi agli avversari,\npoi li mette fuori combattimento con pugni elettrici.",
         "de": "Diese Form von Oricorio hat gelben Nektar getrunken.\nMit flinken Schritten nähert es sich Gegnern,\nschlägt sie dann mit elektrischen Schlägen nieder.",
         "pt-br": "Esta forma de Oricorio bebeu néctar amarelo.\nEle usa passos ágeis para se aproximar dos oponentes,\nem seguida, nocauteia-os com socos elétricos.",
-        "zh-tw": "這種形式的 Oricorio 啜飲著黃色的花蜜。\n它以敏捷的步伐接近對手，\n然後用電拳把他們打倒。"
+        "zh-tw": "這種形式的 Oricorio 啜飲著黃色的花蜜。\n它以敏捷的步伐接近對手，\n然後用電拳把他們打倒。",
+        ja: "やまぶきのミツを 吸った 姿。 軽快な ステップで 相手に 近寄り 電撃パンチで KO。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Salvaguardia",
                 "de": "Sichern",
                 "pt-br": "Salvaguarda",
-                "zh-tw": "保障"
+                "zh-tw": "保障",
+                ja: "しんぴのまもり"
             },
             effect: {
                 en: "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon ex del tuo avversario.",
                 "de": "Verhindere jeglichen Schaden, der diesem Pokémon durch Angriffe des Pokémon-Ex deines Gegners zugefügt wird.",
                 "pt-br": "Evite todos os danos causados a este Pokémon por ataques do Pokémon ex do seu oponente.",
-                "zh-tw": "防止對手前神奇寶貝的攻擊對該神奇寶貝造成的所有傷害。"
+                "zh-tw": "防止對手前神奇寶貝的攻擊對該神奇寶貝造成的所有傷害。",
+                ja: "このポケモンは、相手の「ポケモンex」からワザのダメージを受けない。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Zzzap",
                 "de": "Zzzap",
                 "pt-br": "Zzzap",
-                "zh-tw": "扎普"
+                "zh-tw": "扎普",
+                ja: "パチパチ"
             },
             damage: 50,
             cost: ["Lightning", "Colorless"]

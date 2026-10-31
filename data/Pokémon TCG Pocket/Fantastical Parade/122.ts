@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/122",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/122"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/122"
     },
     name: {
         en: "Shelgon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Shelgon",
         "de": "Draschel",
         "pt-br": "Shelgon",
-        "zh-tw": "甲殼龍"
+        "zh-tw": "甲殼龍",
+        ja: "コモルー"
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Bagon",
         "de": "Kindwurm",
         "pt-br": "Bagon",
-        "zh-tw": "寶貝龍"
+        "zh-tw": "寶貝龍",
+        ja: "タツベイ"
     },
     description: {
         en: "Its armored body makes all attacks bounce off.\nThe armor is too tough, however, making it heavy\nand somewhat sluggish.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo corpo corazzato fa rimbalzare tutti gli attacchi.\nL'armatura, tuttavia, è troppo resistente e quindi pesante\ne un po' lento.",
         "de": "Sein gepanzerter Körper lässt alle Angriffe abprallen.\nDie Panzerung ist jedoch zu robust und dadurch schwer\nund etwas träge.",
         "pt-br": "Seu corpo blindado faz com que todos os ataques sejam refletidos.\nA armadura é muito resistente, porém, tornando-a pesada\ne um tanto lento.",
-        "zh-tw": "其裝甲的身體可以將所有攻擊彈開。\n然而，盔甲太堅韌，使其變得沉重\n並且有些遲緩。"
+        "zh-tw": "其裝甲的身體可以將所有攻擊彈開。\n然而，盔甲太堅韌，使其變得沉重\n並且有些遲緩。",
+        ja: "あらゆる 攻撃を 跳ね返す。 丈夫すぎて 体が 重いため 少し 動きが 鈍い。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Contrasto rotolante",
                 "de": "Rollendes Gerät",
                 "pt-br": "Equipamento de rolamento",
-                "zh-tw": "滾動釣具"
+                "zh-tw": "滾動釣具",
+                ja: "ころがりタックル"
             },
             damage: 60,
             cost: ["Fire", "Water"]

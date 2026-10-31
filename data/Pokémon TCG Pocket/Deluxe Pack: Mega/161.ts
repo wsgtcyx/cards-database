@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/161",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/161",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/161"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/161",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/161"
     },
     name: {
         en: "Honedge",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Das blaue Auge auf der Parierstange ist sein wahrer Körper. Mithilfe eines alten Tuchs absorbiert es die Lebenskraft von Menschen.",
         "pt-br": "O olho azul na empunhadura da espada é o verdadeiro corpo de Honedge, que suga a vida das pessoas com seu tecido velho.",
         "zh-tw": "獨劍鞘護手上的藍色眼珠是牠的本體。會用陳舊的布吸取人類的精氣。",
-        ja: "The blue eye on the sword's handguard is the\ntrue body of Honedge. With its old cloth, it\ndrains people's lives away.",
+        ja: "剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。",
         ko: "The blue eye on the sword's handguard is the\ntrue body of Honedge. With its old cloth, it\ndrains people's lives away."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Durchbohren",
                 "pt-br": "Perfurar",
                 "zh-tw": "突刺",
-                ja: "Pierce",
+                ja: "つきさす",
                 ko: "Pierce"
             },
             damage: 20,

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/318",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/318",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/318",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/318"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/318",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/318"
     },
     name: {
         en: "Riolu",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es hat die eigenartige Fähigkeit, Gefühle wie Freude oder Wut in Wellenform zu sehen.",
         "pt-br": "Ele tem o poder peculiar de poder ver emoções como alegria e raiva na forma de ondas.",
         "zh-tw": "擁有能夠透過波形來分辨出喜悅及憤怒等情感的神奇力量。",
-        ja: "It has the peculiar power of being able to see emotions, such as joy and rage, in the form of waves.",
+        ja: "喜びや 怒りと いった 感情を 波の形 として 見分ける 不思議な力を 持つ。",
         ko: "It has the peculiar power of being able to see emotions, such as joy and rage, in the form of waves."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Kampffaust",
                 "pt-br": "Punhos de Guerreiro",
                 "zh-tw": "鬥志之拳",
-                ja: "Fighting Fist",
+                ja: "とうしのこぶし",
                 ko: "Fighting Fist"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加30點傷害。",
-                ja: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。",
                 ko: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
             },
             damage: "10+"

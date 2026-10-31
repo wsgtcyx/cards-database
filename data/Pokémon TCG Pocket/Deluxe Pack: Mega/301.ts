@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/301",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/301",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/301",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/301"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/301",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/301"
     },
     name: {
         en: "Toxel",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Dieses selbstsüchtige und verzogene Pokémon speichert Gift und Elektrizität in zwei separaten Säcken in seinem Körper.",
         "pt-br": "Este Pokémon egoísta que adora atenção guarda veneno e eletricidade em duas bolsas diferentes em seu corpo.",
         "zh-tw": "任性且非常愛撒嬌。體內的兩個囊袋分別儲存著毒和電。",
-        ja: "This selfish, attention-seeking Pokémon stores\npoison and electricity in two different sacs inside\nits body.",
+        ja: "わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。",
         ko: "This selfish, attention-seeking Pokémon stores\npoison and electricity in two different sacs inside\nits body."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Statischer Schock",
                 "pt-br": "Choque de Estática",
                 "zh-tw": "劈哩啪啦",
-                ja: "Static Shock",
+                ja: "バチバチ",
                 ko: "Static Shock"
             },
             damage: 30,

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/076",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/076",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/076"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/076"
     },
     name: {
         en: "Pupitar",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Larvitar",
         "pt-br": "Larvitar",
         "zh-tw": "幼基拉斯",
-        ja: "Larvitar",
+        ja: "ヨーギラス",
         ko: "Larvitar"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Anhäufen",
                 "pt-br": "Acumular",
                 "zh-tw": "聚積",
-                ja: "Amass",
+                ja: "ためる",
                 ko: "Amass"
             },
             cost: [
@@ -76,7 +77,7 @@ const card: Card = {
                 de: "Lege 2 {F}-Energien aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 2 Energias {F} da sua Zona de Energia e ligue-as a este Pokémon.",
                 "zh-tw": "從自己的能量區抽出2個{F}能量,附於這隻寶可夢身上。",
-                ja: "Take 2 {F} Energy from your Energy Zone and attach it to this Pokémon.",
+                ja: "自分のエネルギーゾーンから{F}エネルギーを2個出し、このポケモンにつける。",
                 ko: "Take 2 {F} Energy from your Energy Zone and attach it to this Pokémon."
             }
         }
@@ -90,7 +91,7 @@ const card: Card = {
         de: "Diese Puppe katapultiert sich in die Luft, indem sie Gas ausstößt, das sich in ihrem Körper angestaut hat, und sorgt so für Unruhe.",
         "pt-br": "Esta pupa voa por aí de maneira indomada ao liberar com força o gás pressurizado presente em seu corpo.",
         "zh-tw": "會以強勁的力道噴出在體內壓縮的氣體，好讓自己能飛在空中大肆破壞的蛹。",
-        ja: "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+        ja: "体内で 圧縮 させた ガスを 勢いよく 噴出させ 飛んで 暴れまわる サナギだ。",
         ko: "This pupa flies around wildly by venting with great force the gas pressurized inside its body."
     }
 };

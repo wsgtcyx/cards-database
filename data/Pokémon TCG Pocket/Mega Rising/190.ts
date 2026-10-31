@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/190",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/190"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/190",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/190"
     },
     name: {
         en: "Whismur",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flurmel",
         "pt-br": "Whismur",
         "zh-tw": "咕妞妞",
+        ja: "ゴニョニョ",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando Whismur piange, il suono della sua stessa voce\nlo spaventa, facendo piangere il Pokémon ancora più forte.\nPiange fino allo sfinimento, poi si addormenta.",
         "de": "Wenn Whismur weint, erklingt seine eigene Stimme\nerschreckt es und lässt das Pokémon noch lauter weinen.\nEs weint, bis es erschöpft ist, dann schläft es ein.",
         "pt-br": "Quando Whismur chora, o som de sua própria voz\nassusta, fazendo o Pokémon chorar ainda mais alto.\nEle chora até ficar exausto e depois adormece.",
-        "zh-tw": "當威斯莫哭泣時，是它自己的聲音\n嚇到了它，讓神奇寶貝哭得更大聲。\n它會哭到筋疲力盡，然後就睡著了。"
+        "zh-tw": "當威斯莫哭泣時，是它自己的聲音\n嚇到了它，讓神奇寶貝哭得更大聲。\n它會哭到筋疲力盡，然後就睡著了。",
+        ja: "鳴きはじめると 自分の 声に 驚いて さらに 激しく 鳴く。 鳴き疲れると 眠ってしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Libbra",
                 "de": "Pfund",
                 "pt-br": "Libra",
-                "zh-tw": "磅"
+                "zh-tw": "磅",
+                ja: "はたく"
             },
             damage: 20,
             cost: ["Colorless"]

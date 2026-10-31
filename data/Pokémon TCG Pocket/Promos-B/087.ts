@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/087",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/087",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/087"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/087"
     },
     name: { en: "Mega Sceptile ex", fr: "Méga-Jungko-ex", es: "Mega-Sceptile ex", it: "Mega Sceptile-ex", de: "Mega-Gewaldro-ex", "pt-br": "Mega Sceptile ex", "zh-tw": "超級蜥蜴王ex", ko: "메가나무킹 ex", ja: "メガジュカインex" },
     illustrator: "PLANETA CG Works",
@@ -23,7 +24,7 @@ const card: Card = {
     stage: "Stage2",
     attacks: [{
         cost: ["Grass", "Grass"],
-        name: { en: "Terminating Tail", fr: "Queue Mortelle", es: "Coletazo Letal", it: "Codata Letale", de: "Vernichtender Schweif", "pt-br": "Cauda Terminal", "zh-tw": "奪命利尾" },
+        name: { en: "Terminating Tail", fr: "Queue Mortelle", es: "Coletazo Letal", it: "Codata Letale", de: "Vernichtender Schweif", "pt-br": "Cauda Terminal", "zh-tw": "奪命利尾", ja: "デッドリーテール" },
         effect: {
             en: "Discard Grass{G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
             fr: "Défaussez l'Énergie Plante{G} de ce Pokémon. Le Pokémon Actif de votre adversaire est désormais Empoisonné.",
@@ -31,7 +32,8 @@ const card: Card = {
             it: "Scarta Energia Grass{G} da questo Pokémon. Il Pokémon attivo del tuo avversario ora è avvelenato.",
             de: "Lege Grass{G}-Energie von diesem Pokémon ab. Das aktive Pokémon deines Gegners ist jetzt vergiftet.",
             "pt-br": "Descarte a Energia Grass{G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
-            "zh-tw": "丟棄該寶可夢的草{G}能量。你對手的主動寶可夢現在中毒了。"
+            "zh-tw": "丟棄該寶可夢的草{G}能量。你對手的主動寶可夢現在中毒了。",
+            ja: "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。"
         },
         damage: 130
     }],

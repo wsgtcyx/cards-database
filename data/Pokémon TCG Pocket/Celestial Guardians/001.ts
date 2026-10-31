@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/001"
     },
     name: {
         en: "Exeggcute",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggcute",
         de: "Owei",
         'pt-br': "Exeggcute",
+        ja: "タマタマ",
         ko: "아라리",
         "zh-tw": "蛋蛋",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Somiglia a un mucchio di uova, ma è\nun Pokémon a tutti gli effetti. Pare che\ncomunichi con i suoi simili telepaticamente.",
         de: "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren.",
         'pt-br': "Apesar de parecer só um monte de ovos, é um Pokémon\nde verdade. Exeggcute se comunica com outros de sua\nespécie por meio de telepatia.",
+        ja: "タマゴのように 見えるが 立派な ポケモン。 テレパシーで 仲間と 交信している らしいぞ。",
         ko: "알처럼 보이지만 엄연한\n포켓몬이다. 텔레파시로\n동료와 교신하는 듯하다.",
         "zh-tw": "雖然它看起來只是一堆雞蛋，但它是一隻真正的神奇寶貝。顯然，Exeggcute 是通過心靈感應與其他同類進行交流的。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },

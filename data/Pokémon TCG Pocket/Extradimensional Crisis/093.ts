@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/093"
     },
     name: {
         en: "Greninja",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quajutsu",
         "pt-br": "Greninja",
         "zh-tw": "甲賀忍蛙",
+        ja: "ゲッコウガ",
     },
     illustrator: "Souichirou Gunjima",
     category: "Pokemon",
@@ -32,6 +34,7 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
+        ja: "ゲコガシラ",
     },
     description: {
         en: "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
@@ -40,7 +43,8 @@ const card: Card = {
         "it": "Crea stelle lancianti dall'acqua compressa.\nQuando li fa girare e li lancia ad alta velocità,\nqueste stelle possono dividere il metallo in due.",
         "de": "Es entstehen Wurfsterne aus komprimiertem Wasser.\nWenn es sie dreht und mit hoher Geschwindigkeit schleudert,\nDiese Sterne können Metall in zwei Teile spalten.",
         "pt-br": "Ele cria estrelas a partir de água comprimida.\nQuando ele os gira e os lança em alta velocidade,\nessas estrelas podem dividir o metal em dois.",
-        "zh-tw": "它用壓縮水製造出飛濺的星星。\n當它高速旋轉並投擲它們時，\n這些星星可以將金屬分成兩半。"
+        "zh-tw": "它用壓縮水製造出飛濺的星星。\n當它高速旋轉並投擲它們時，\n這些星星可以將金屬分成兩半。",
+        ja: "水を 圧縮して 手裏剣を 作り出す。 高速回転させて 飛ばすと 金属も 真っ二つ。"
     },
     stage: "Stage2",
     abilities: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Shuriken dell'acqua",
                 "de": "Wasser-Shuriken",
                 "pt-br": "Shuriken de água",
-                "zh-tw": "水手裡劍"
+                "zh-tw": "水手裡劍",
+                ja: "みずしゅりけん"
             },
             effect: {
                 en: "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
@@ -61,7 +66,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi infliggere 20 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Einmal während deines Zuges kannst du einem Pokémon deines Gegners 20 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante o seu turno, você pode causar 20 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "在你的回合中，你可以對對手的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "在你的回合中，你可以對對手的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "自分の番に1回使える。相手のポケモン1匹に20ダメージ。"
             }
         }],
     attacks: [{
@@ -72,7 +78,8 @@ const card: Card = {
                 "it": "Taglio di nebbia",
                 "de": "Nebelhieb",
                 "pt-br": "Corte de névoa",
-                "zh-tw": "霧斬"
+                "zh-tw": "霧斬",
+                ja: "かすみぎり"
             },
             damage: 60,
             cost: ["Water", "Colorless"]

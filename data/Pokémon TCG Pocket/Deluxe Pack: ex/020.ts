@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/020",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/020",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/020",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/020"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/020",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/020"
 	},
 	name: {
 		en: "Yanma",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Yanma",
 		de: "Yanma",
 		"pt-br": "Yanma",
-		"zh-tw": "蜻蜻蜓"
+		"zh-tw": "蜻蜻蜓",
+		ja: "ヤンヤンマ"
 	},
 	illustrator: "Eri Yamaki",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Ha un campo visivo a 360 gradi senza muovere la\ntesta. Riesce a vedere persino le prede alle sue spalle.",
 		de: "Mit seinen Augen hat es einen Blickwinkel von 360 Grad.\nEs sieht sogar Beute, die sich hinter ihm befindet.",
 		"pt-br": "Seus olhos podem enxergar 360 graus sem que ele mova\na cabeça. Ele não perde uma presa – mesmo aquela\nque está atrás.",
+		ja: "顔を 動かさずに ３６０度 すべてを 見渡す 目を 持つので 真後ろの 獲物も 見逃さない。",
 		ko: "얼굴을 움직이지 않고 360도 전부\n볼 수 있는 눈을 가지고 있어서\n바로 뒤의 먹이도 놓치지 않는다.",
 		"zh-tw": "它的眼睛無需移動頭部即可看到 360 度。它不會錯過獵物——甚至是獵物背後的獵物。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Alabattito",
 				de: "Flattern",
 				"pt-br": "Asa",
+				ja: "はばたく",
 				ko: "홰치기",
 				"zh-tw": "皮瓣"
 			},

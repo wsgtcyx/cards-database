@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/031"
     },
     name: {
         en: "Galarian Mr. Rime",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mr. Rime di Galar",
         "de": "Galar-Pantifrost",
         "pt-br": "Mr. Rime de Galar",
-        "zh-tw": "伽勒爾踏冰人偶"
+        "zh-tw": "伽勒爾踏冰人偶",
+        ja: "ガラルバリコオル"
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mr. Mime di Galar",
         "de": "Galar-Pantimos",
         "pt-br": "Mr. Mime de Galar",
-        "zh-tw": "伽勒爾魔牆人偶"
+        "zh-tw": "伽勒爾魔牆人偶",
+        ja: "ガラルバリヤード"
     },
     description: {
         en: "Its amusing movements make it very popular.\nIt releases its psychic power from the pattern\non its belly.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "I suoi movimenti divertenti lo rendono molto popolare.\nLibera il suo potere psichico dallo schema\nsulla sua pancia.",
         "de": "Seine lustigen Bewegungen machen ihn sehr beliebt.\nEs setzt seine psychische Kraft aus dem Muster frei\nauf seinem Bauch.",
         "pt-br": "Seus movimentos divertidos o tornam muito popular.\nEle libera seu poder psíquico do padrão\nem sua barriga.",
-        "zh-tw": "其有趣的動作使其深受人們喜愛。\n它從圖案中釋放出精神力量\n在它的肚子上。"
+        "zh-tw": "其有趣的動作使其深受人們喜愛。\n它從圖案中釋放出精神力量\n在它的肚子上。",
+        ja: "ユーモラスな 動きで みんなの 人気者。 お腹の 模様から サイコパワーを 放出する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Triplo giro",
                 "de": "Dreifacher Spin",
                 "pt-br": "Giro Triplo",
-                "zh-tw": "三重旋轉"
+                "zh-tw": "三重旋轉",
+                ja: "トリプルスピン"
             },
             damage: "60×",
             cost: ["Water", "Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 60 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 60 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 60 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 60 點傷害。",
+                ja: "コインを3回投げ、オモテの数×60ダメージ。"
             }
         }],
     weaknesses: [{

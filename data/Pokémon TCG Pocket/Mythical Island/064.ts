@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/064"
     },
     name: {
         en: "Pokémon Flute",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pokéflauto",
         de: "Pokémon-Flöte",
         'pt-br': "Flauta Pokémon",
+        ja: "ポケモンの笛",
         ko: "포켓몬피리",
         "zh-tw": "寶可夢之笛"
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Prendi un Pokémon Base dalla pila degli scarti del tuo avversario e mettilo nella sua panchina.",
         de: "Lege 1 Basis-Pokémon aus dem Ablagestapel deines Gegners auf seine Bank.",
         'pt-br': "Coloque 1 Pokémon Básico da pilha de descarte do seu oponente no Banco dele.",
+        ja: "相手のトラッシュからたねポケモンを1枚選び、相手のベンチに出す。",
         ko: "상대의 트래쉬에서 기본 포켓몬을 1장 선택해서 상대의 벤치로 내보낸다.",
         "zh-tw": "將對手棄牌堆中的一隻基本寶可夢放到他們的替補席上。"
     },

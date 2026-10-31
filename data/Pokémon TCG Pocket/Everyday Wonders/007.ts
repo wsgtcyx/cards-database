@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/007",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/007",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/007"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/007"
     },
     name: {
         en: "Hisuian Lilligant",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Lilligant de Hisui",
         "zh-tw": "洗翠裙兒小姐",
         ko: "히스이 드레디어",
-        ja: "ヒスイ ドレディア"
+        ja: "ヒスイドレディア"
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ho il sospetto che le sue zampe ben sviluppate siano il risultato di una vita trascorsa su montagne coperte di neve profonda. Il profumo che emana dalla sua corona di fiori rincuora chi si trova nelle vicinanze.",
         de: "Ich vermute, dass seine gut entwickelten Beine das Ergebnis eines Lebens auf tief verschneiten Bergen sind. Der Duft, den seine Blütenkrone verströmt, ermuntert die Menschen in der Nähe.",
         "pt-br": "Suspeito que suas pernas bem desenvolvidas sejam o resultado de uma vida passada em montanhas cobertas de neve profunda. O perfume que exala de sua coroa de flores anima aqueles que estão próximos.",
-        "zh-tw": "我懷疑它發達的腿是在厚厚的雪山上度過一生的結果。它的花冠散發出的香味使附近的人感到振奮。"
+        "zh-tw": "我懷疑它發達的腿是在厚厚的雪山上度過一生的結果。它的花冠散發出的香味使附近的人感到振奮。",
+        ja: "雪深き山に 棲みしゆえに 脚力が 発達したと 考察す。 周囲の者を 鼓舞する 香りを 冠の花より 放つ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vestirsi",
                 de: "Verkleiden",
                 "pt-br": "Vestir-se",
-                "zh-tw": "盛裝打扮"
+                "zh-tw": "盛裝打扮",
+                ja: "ドレスアップ"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 20 danni in più.",
                 de: "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará mais 20 danos.",
-                "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 20 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、20ダメージ追加。"
             },
             damage: "40+"
         }

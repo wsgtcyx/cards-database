@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/216",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/216",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/216",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/216"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/216",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/216"
     },
     name: {
         en: "Pawmot",
@@ -50,7 +51,7 @@ const card: Card = {
         de: "Pamamo",
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
-        ja: "Pawmo",
+        ja: "パモット",
         ko: "Pawmo"
     },
     attacks: [
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Flotter Sprung",
                 "pt-br": "Raio Supersônico",
                 "zh-tw": "音速伏特",
-                ja: "Mach Bolt",
+                ja: "マッハボルト",
                 ko: "Mach Bolt"
             },
             cost: [
@@ -82,7 +83,7 @@ const card: Card = {
                 de: "Stromerzeugung",
                 "pt-br": "Eletrocriação",
                 "zh-tw": "造電",
-                ja: "Electrocreation",
+                ja: "でんきづくり",
                 ko: "Electrocreation"
             },
             effect: {
@@ -93,7 +94,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 1 {L}-Energie aus deinem Energiebereich an dein Aktives {L}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e ligá-la ao Pokémon {L} no Campo Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{L}能量,附於戰鬥場的{L}寶可夢身上。",
-                ja: "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{L}エネルギーを1個出し、バトル場の{L}ポケモンにつける。",
                 ko: "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot."
             },
             type: "Ability"
@@ -107,7 +108,7 @@ const card: Card = {
         de: "Dieses Pokémon ist für gewöhnlich sehr gelassen, doch sobald ein Kampf beginnt, streckt es den Gegner mit blitzschnellen Bewegungen zu Boden.",
         "pt-br": "Este Pokémon costuma demorar para reagir, mas quando entra na batalha, derrota seus oponentes com golpes na velocidade da luz.",
         "zh-tw": "雖然平時動作慢吞吞的，但在進入戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。",
-        ja: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+        ja: "普段は おっとりしているが いざ 戦いになると 電光石火の 身のこなしで 敵を 叩きのめす。",
         ko: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements."
     }
 };

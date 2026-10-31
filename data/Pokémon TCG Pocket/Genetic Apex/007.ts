@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/007"
     },
     name: {
         en: "Butterfree",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Butterfree",
         de: "Smettbo",
         'pt-br': "Butterfree",
+        ja: "バタフリー",
         ko: "버터플",
         "zh-tw": "巴大蝶",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Metapod",
         "de": "Safcon",
         "pt-br": "Metapod",
-        "zh-tw": "鐵甲蛹"
+        "zh-tw": "鐵甲蛹",
+        ja: "トランセル"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Polvere Lenitiva",
                 de: "Puderheilung",
                 'pt-br': "Cura em Pó",
+                ja: "パウダーヒール",
                 ko: "파우더 힐",
                 "zh-tw": "粉療"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon da 20 danni.",
                 de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei jedem deiner Pokémon heilen.",
                 'pt-br': "Uma vez durante o seu turno, você poderá curar 20 pontos de dano de cada um dos seus Pokémon.",
+                ja: "自分の番に1回使える。自分のポケモン全員のHPを20回復。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원의 HP를 20회복.",
                 "zh-tw": "在你的回合中，你可以治療每隻神奇寶貝造成的 20 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Raffica",
                 de: "Windstoß",
                 'pt-br': "Lufada de Vento",
+                ja: "かぜおこし",
                 ko: "바람일으키기",
                 "zh-tw": "陣風"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Sbatte le ali a gran velocità per liberare\nle sue polveri tossiche nell'aria.",
         de: "Wenn es sehr schnell mit den Flügeln schlägt,\nsetzt es hochgiftigen Flügelstaub frei.",
         'pt-br': "Durante as batalhas, bate as asas muito rápido\npara liberar uma poeira altamente tóxica no ar.",
+        ja: "こまかく 速く 羽ばたいたら 猛毒の りんぷんが 風に のって 飛んでくるぞ。",
         ko: "매우 빠르게 날갯짓하면\n맹독성의 인분이\n바람을 타고 날아간다.",
         "zh-tw": "在戰鬥中，它會以極快的速度拍打翅膀，將劇毒粉塵釋放到空氣中。"
     },

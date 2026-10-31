@@ -1,0 +1,40 @@
+{
+  "status": "pass",
+  "cards": 4561,
+  "cardDetails": 4561,
+  "cardRelations": 4561,
+  "sets": 26,
+  "series": 1,
+  "localizedTextFieldsChecked": 47043,
+  "searchPages": 46,
+  "searchTotal": 4561,
+  "kanaSearchTotals": [
+    11,
+    11,
+    11
+  ],
+  "optionCounts": {
+    "sets": 26,
+    "boosters": 48,
+    "categories": 2,
+    "types": 10,
+    "rarities": 12,
+    "stages": 3,
+    "trainerTypes": 4,
+    "suffixes": 1,
+    "weaknesses": 8,
+    "retreats": 5,
+    "attackCostTypes": 9
+  },
+  "requests": 9207,
+  "apiBase": "real local compiled Bun API",
+  "evidenceLevel": "real local compiled Bun API; no mock; R2 publication independently verified",
+  "nodeTests": 82,
+  "catalogTests": 8,
+  "compilerTests": 15,
+  "tcgpFullTests": 423,
+  "nonJapaneseDataFilesUnchanged": 4583,
+  "scope": "existing repository corpus; not a claim of every newly announced game card",
+  "manualReviewLimit": "Not every card face was manually read word for word.",
+  "canonicalFilterValuesChecked": 128
+}

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/028",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/028"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/028"
     },
     name: {
         en: "Team Rocket's Hypno",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Ha sempre con sé un pendolo che agita a ritmo regolare. Fa assopire chiunque gli si avvicini.",
         de: "Es hält immer ein Pendel, welches es in einem gleichmäßigen Rhythmus bewegt. Dies verursacht bei jedem in seiner Nähe Müdigkeit.",
         "pt-br": "Sempre carrega um pêndulo que fica balançando em ritmo constante, causando sonolência em qualquer pessoa que se aproxime.",
-        "zh-tw": "會以固定的節奏擺動著形影不離的鐘擺。一靠近牠就會不由自主地昏昏欲睡。"
+        "zh-tw": "會以固定的節奏擺動著形影不離的鐘擺。一靠近牠就會不由自主地昏昏欲睡。",
+        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Intrappolamento",
                 de: "Falle stellen",
                 "pt-br": "Armação",
-                "zh-tw": "設下圈套"
+                "zh-tw": "設下圈套",
+                ja: "わなにはめる"
             },
             effect: {
                 en: "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo. Se lo fai, questo attacco infligge 50 danni al nuovo Pokémon attivo.",
                 de: "Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein. Wenn du das machst, fügt diese Attacke dem neuen Aktiven Pokémon 50 Schadenspunkte zu.",
                 "pt-br": "Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo. Se fizer isso, este ataque causará 50 pontos de dano ao novo Pokémon Ativo.",
-                "zh-tw": "選擇對手的1隻備戰寶可夢,與戰鬥寶可夢互換。然後,新上場的寶可夢受到50點傷害。"
+                "zh-tw": "選擇對手的1隻備戰寶可夢,與戰鬥寶可夢互換。然後,新上場的寶可夢受到50點傷害。",
+                ja: "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンに50ダメージ。"
             }
         }
     ],

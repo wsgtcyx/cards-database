@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/022"
     },
     name: {
         en: "Clauncher",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Clauncher",
         "de": "Scampisto",
         "pt-br": "Clauncher",
-        "zh-tw": "鐵臂槍蝦"
+        "zh-tw": "鐵臂槍蝦",
+        ja: "ウデッポウ"
     },
     illustrator: "Krgc",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Gli artigli di Clauncher ricresceranno se cadono.\nLa carne all'interno degli artigli è commestibile, ma ha un\nsapore deciso che non piace a tutti i gusti.",
         "de": "Die Krallen des Claunchers wachsen nach, wenn sie abfallen.\nDas Fleisch in den Krallen ist essbar, hat aber eine\nausgeprägter Geschmack, der nicht jeden Geschmack anspricht.",
         "pt-br": "As garras do Clauncher crescerão novamente se caírem.\nA carne dentro das garras é comestível, mas tem um\nsabor distinto que não agrada a todos os gostos.",
-        "zh-tw": "如果發射器的爪子脫落，它們會重新長出來。\n爪子裡面的肉是可以吃的，但是有一個\n獨特的風味並不適合所有口味。"
+        "zh-tw": "如果發射器的爪子脫落，它們會重新長出來。\n爪子裡面的肉是可以吃的，但是有一個\n獨特的風味並不適合所有口味。",
+        ja: "ハサミは 取れても 再生する。 中の 身は 食べられるが クセが 強いので 好みは 分かれる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

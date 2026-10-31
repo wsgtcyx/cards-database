@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/068"
     },
     name: {
         en: "Flaaffy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Waaty",
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
+        ja: "モココ",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
+        ja: "メリープ",
     },
     description: {
         en: "As a result of storing too much electricity,\nit developed patches where even downy\nwool won't grow.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "A causa dell’immagazzinamento di troppa elettricità,\nha sviluppato macchie anche lanuginose\nla lana non crescerà.",
         "de": "Da zu viel Strom gespeichert wird,\nEs entwickelten sich sogar flaumige Stellen\nWolle wächst nicht.",
         "pt-br": "Como resultado de armazenar muita eletricidade,\ndesenvolveu manchas onde até mesmo felpudo\na lã não crescerá.",
-        "zh-tw": "由於儲存過多的電力，\n它甚至出現了絨毛狀的斑塊\n羊毛不會生長。"
+        "zh-tw": "由於儲存過多的電力，\n它甚至出現了絨毛狀的斑塊\n羊毛不會生長。",
+        ja: "電気を 蓄えすぎた 結果 体の 表面に 産毛すら 生えない 部分が できてしまった。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio di zap",
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
-                "zh-tw": "電擊踢"
+                "zh-tw": "電擊踢",
+                ja: "エレキック"
             },
             damage: 50,
             cost: ["Lightning", "Lightning"]

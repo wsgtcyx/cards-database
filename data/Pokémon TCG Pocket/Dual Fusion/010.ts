@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/010",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/010",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/010"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/010"
     },
     name: {
         en: "Sawsbuck",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Sesokitz",
         "pt-br": "Deerling",
         "zh-tw": "四季鹿",
-        ja: "Deerling",
+        ja: "シキジカ",
         ko: "Deerling"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Laubstreu-Tackle",
                 "pt-br": "Joga Folha no Lixo",
                 "zh-tw": "落葉衝撞",
-                ja: "Leaf Litter Tackle",
+                ja: "らくようタックル",
                 ko: "Leaf Litter Tackle"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Lege 1 {G}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {G} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{G}能量丟棄。",
-                ja: "Discard a {G} Energy from this Pokémon.",
+                ja: "このポケモンから{G}エネルギーを1個トラッシュ。",
                 ko: "Discard a {G} Energy from this Pokémon."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Dieses Pokémon hat viele Bewunderer. Es wird als umso schicker empfunden, je tiefer das Rot der Blätter ist, die von seinem Geweih herabhängen.",
         "pt-br": "Sawsbuck tem muitos fãs. Dizem que, quanto mais escura for a folhagem vermelha em seus chifres, mais estiloso Sawsbuck será considerado.",
         "zh-tw": "有許多愛好者的寶可夢。愛好者們認為牠角上垂下的枝葉顏色越紅越是氣派。",
-        ja: "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be.",
+        ja: "愛好家の 多い ポケモン。 ツノから 垂れる 枝葉の 赤が 濃いものほど 乙と されている。",
         ko: "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be."
     }
 };

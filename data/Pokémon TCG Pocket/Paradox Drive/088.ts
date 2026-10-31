@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/088",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/088",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/088"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/088"
     },
     name: {
         en: "Professor Turo",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Rimischia 1 dei tuoi Pokémon del futuro in gioco nel tuo mazzo.",
         de: "Mische 1 deiner Zukunfts-Pokémon im Spiel in dein Deck.",
         "pt-br": "Embaralhe 1 dos seus Pokémon do Futuro em jogo no seu deck.",
-        "zh-tw": "將場上的 1 個未來寶可夢洗入你的牌庫。"
+        "zh-tw": "將場上的 1 個未來寶可夢洗入你的牌庫。",
+        ja: "自分の場の「未来」のポケモンを1匹選び、山札にもどす。"
     },
     trainerType: "Supporter"
 };

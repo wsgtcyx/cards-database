@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/079",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/079",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/079",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/079"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/079"
     },
     name: {
         en: "Team Rocket's Moltres ex",
@@ -39,7 +40,8 @@ const card: Card = {
                 it: "Termocarica",
                 de: "Hitzeaufladung",
                 "pt-br": "Carga de Calor",
-                "zh-tw": "高溫充能"
+                "zh-tw": "高溫充能",
+                ja: "ヒートチャージ"
             },
             effect: {
                 en: "Flip 3 coins. For each heads, produce a {R} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Ogni volta che esce testa, crea un'Energia {R} nella tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Wirf 3 Münzen. Generiere pro Kopf 1 {R}-Energie in deinem Energiebereich und lege sie an dieses Pokémon an.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, pegue uma Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,附於這隻寶可夢身上。"
+                "zh-tw": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,附於這隻寶可夢身上。",
+                ja: "コインを3回投げ、オモテの数ぶんの{R}エネルギーを自分のエネルギーゾーンから出し、このポケモンにつける。"
             }
         },
         {
@@ -60,7 +63,8 @@ const card: Card = {
                 it: "Ali di Fuoco",
                 de: "Infernale Flügel",
                 "pt-br": "Asa do Inferno",
-                "zh-tw": "獄炎之翼"
+                "zh-tw": "獄炎之翼",
+                ja: "ごくえんのつばさ"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon.",
@@ -69,7 +73,8 @@ const card: Card = {
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
-                "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。"
+                "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
             },
             damage: 130
         }

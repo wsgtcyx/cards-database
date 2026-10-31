@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/203",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/203",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/203",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/203"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/203",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/203"
     },
     name: {
         en: "Alolan Raichu ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Raichu di Alola-ex",
         de: "Alola-Raichu-ex",
         'pt-br': "Raichu de Alola ex",
+        ja: "アローラライチュウex",
         ko: "알로라라이츄 ex",
         "zh-tw": "阿羅拉雷丘ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스",
                 "zh-tw": "精神"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
             }

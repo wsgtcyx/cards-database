@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/032"
     },
     name: {
         en: "Piloswine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Piloswine",
         de: "Keifel",
         'pt-br': "Piloswine",
+        ja: "イノムー",
         ko: "메꾸리",
         "zh-tw": "長毛豬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Quiekel",
         "pt-br": "Swinub",
         "zh-tw": "小山豬",
+        ja: "ウリムー",
     },
     description: {
         en: "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando carica il nemico, i peli gli si\nrizzano sul dorso. È molto sensibile ai suoni.",
         de: "Beim Angriff auf einen Gegner stellen sich seine\nRückenhaare auf. Es hört außergewöhnlich gut.",
         'pt-br': "Quando Piloswine dispara contra um oponente,\nos pelos nas suas costas se arrepiam.\nEste Pokémon é muito sensível ao som.",
+        ja: "相手 めがけて 突進するとき 背中の 体毛が 逆立つ。 音に ものすごく 敏感。",
         ko: "상대를 목표로 삼고 돌진할 때\n등에 있는 털이 곤두선다.\n소리에 매우 민감하다.",
         "zh-tw": "如果它沖向敵人，它背上的汗毛就會豎起來。它對聲音非常敏感。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Grassospesso",
                 de: "Speckschicht",
                 'pt-br': "Gordura Espessa",
+                ja: "あついしぼう",
                 ko: "두꺼운지방",
                 "zh-tw": "厚脂肪"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi dei Pokémon {R} o {W}.",
                 de: "Diesem Pokémon werden durch Attacken von {R}- oder {W}-Pokémon − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −20 pontos de dano de ataques de Pokémon {R} ou {W}.",
+                ja: "このポケモンが、{R}または{W}ポケモンから受けるワザのダメージを-20する。",
                 ko: "이 포켓몬이 {R} 또는 {W}포켓몬으로부터 받는 기술의 데미지를 {R}-20[/Ctrl:NoBreak]한다.",
                 "zh-tw": "該神奇寶貝因 {R} 或 {W} 神奇寶貝的攻擊而受到 -20 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Martello",
                 de: "Einhämmern",
                 'pt-br': "Martelada",
+                ja: "ぶちかます",
                 ko: "한방 먹이기",
                 "zh-tw": "錘入"
             },

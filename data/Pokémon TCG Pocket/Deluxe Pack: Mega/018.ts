@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/018",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/018"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/018"
     },
     name: {
         en: "Petilil",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Wenn man ab und zu seine Blätter schneidet, wächst sein Körper rund und prächtig heran.",
         "pt-br": "Se as folhas em sua cabeça forem podadas regularmente, este Pokémon pode crescer com um elegante formato rechonchudo.",
         "zh-tw": "如果偶爾修剪葉子，就會長成圓鼓鼓很華麗的樣子。",
-        ja: "If the leaves on its head are pruned with\nregularity, this Pokémon can be grown into\na fine plump shape.",
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。",
         ko: "If the leaves on its head are pruned with\nregularity, this Pokémon can be grown into\na fine plump shape."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Plumps",
                 "pt-br": "Baque",
                 "zh-tw": "活蹦亂跳",
-                ja: "Flop",
+                ja: "はねまわる",
                 ko: "Flop"
             },
             damage: 10,

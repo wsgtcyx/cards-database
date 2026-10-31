@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/161",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/161",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/161"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/161",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/161"
     },
     name: {
         en: "Mareanie",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Garstella",
         "pt-br": "Mareanie",
         "zh-tw": "好壞星",
+        ja: "ヒドイデ",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ha eccellenti capacità rigenerative. Gambe\nche un Mareanie ha perso ha un sapore molto amaro,\nsapore astringente: non sono adatti come cibo.",
         "de": "Es verfügt über hervorragende Regenerationsfähigkeiten. Beine\nDass eine Mareanie verloren hat, hat einen sehr bitteren,\nadstringierender Geschmack – sie sind nicht als Lebensmittel geeignet.",
         "pt-br": "Possui excelentes capacidades regenerativas. Pernas\nque uma Mareanie perdeu é muito amarga,\nsabor adstringente - eles não são adequados como alimento.",
-        "zh-tw": "它具有出色的再生能力。腿\nMareanie 失去了一個非常痛苦的人，\n味道澀，不適合作為食品。"
+        "zh-tw": "它具有出色的再生能力。腿\nMareanie 失去了一個非常痛苦的人，\n味道澀，不適合作為食品。",
+        ja: "再生力が とても 強い。 ちぎれた 脚は 苦味と 渋味が 強く 食材には むかない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Puntura di veleno",
                 "de": "Giftstich",
                 "pt-br": "Picada Venenosa",
-                "zh-tw": "毒刺"
+                "zh-tw": "毒刺",
+                ja: "どくばり"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/191"
     },
     name: {
         en: "Spearow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Spearow",
         de: "Habitak",
         'pt-br': "Spearow",
+        ja: "オニスズメ",
         ko: "깨비참",
         "zh-tw": "烈雀",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Temerario di natura, per difendere\nil proprio territorio non esita a lanciarsi\nanche contro avversari più grandi di lui.",
         de: "Wenn es um die Verteidigung seines Reviers\ngeht, schreckt das draufgängerische Habitak\nselbst vor großen Pokémon nicht zurück.",
         'pt-br': "Sua natureza descuidada leva Spearow a\nencarar até Pokémon maiores quando\nprecisa proteger o seu território.",
+        ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。",
         ko: "자신의 영역을 지키기 위해서라면\n상대가 큰 포켓몬이라도\n덤벼드는 무모한 성질을 가졌다.",
         "zh-tw": "它魯莽的本性導致它在必須保護自己的領地時敢於對抗其他神奇寶貝，甚至是大型神奇寶貝。"
     },

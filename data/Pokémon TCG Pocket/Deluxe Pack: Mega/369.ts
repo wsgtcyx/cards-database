@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/369",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/369",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/369",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/369"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/369",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/369"
     },
     name: {
         en: "Flame Patch",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Lege 1 {R}-Energie aus deinem Ablagestapel an dein {R}-Pokémon in der Aktiven Position an.",
         "pt-br": "Ligue 1 Energia {R} da sua pilha de descarte ao seu Pokémon {R} Ativo.",
         "zh-tw": "從自己的棄牌區將1個{R}能量附於戰鬥場的{R}寶可夢身上。",
-        ja: "Attach a {R} Energy from your discard pile to your Active {R} Pokémon.",
+        ja: "自分のトラッシュから{R}エネルギーを1個、バトル場の{R}ポケモンにつける。",
         ko: "Attach a {R} Energy from your discard pile to your Active {R} Pokémon."
     },
     trainerType: "Item"

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/345",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/345",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/345",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/345"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/345",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/345"
     },
     name: {
         en: "Vibrava",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Knacklion",
         "pt-br": "Trapinch",
         "zh-tw": "大顎蟻",
-        ja: "Trapinch",
+        ja: "ナックラー",
         ko: "Trapinch"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Durch gewaltiges Schlagen seiner Flügel entstehen Ultraschallwellen. Ohnmächtig gewordene Beute löst es mittels Säure auf.",
         "pt-br": "Gera ondas ultrassônicas ao vibrar vigorosamente suas asas. Após fazer suas presas desmaiarem, dissolve-as com seus sucos digestivos.",
         "zh-tw": "會劇烈地振動翅膀來產生超音波。能用消化液來溶解昏迷的獵物。",
-        ja: "It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices.",
+        ja: "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。",
         ko: "It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices."
     },
     attacks: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Flugsand",
                 "pt-br": "Vento de Areia",
                 "zh-tw": "沙風",
-                ja: "Sand Wind",
+                ja: "すなかぜ",
                 ko: "Sand Wind"
             },
             effect: {
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "對手的所有寶可夢受到10點傷害。",
-                ja: "This attack does 10 damage to each of your opponent's Pokémon.",
+                ja: "相手のポケモン全員に10ダメージ。",
                 ko: "This attack does 10 damage to each of your opponent's Pokémon."
             }
         }

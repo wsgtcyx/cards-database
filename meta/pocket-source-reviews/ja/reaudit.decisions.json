@@ -1,0 +1,3408 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "480ae98de02f64219e80b44bb0ede0ea1e04a128",
+  "sources": {
+    "reaudit-rules": {
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-rules.json",
+      "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+      "role": "Native Japanese game templates with restored explicitly evidenced singular counts; complete stable-ID bindings",
+      "version": "2026-10-31-reaudit",
+      "license": "Game text and artwork copyright The Pokemon Company, Creatures and DeNA; source credited, not a licence grant",
+      "url": "https://ptcgp.raenonx.cc/ja/card/PK_10_000010_00"
+    },
+    "reaudit-reviewed-rules": {
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-reviewed-rules.json",
+      "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+      "role": "Native Japanese game templates with restored explicitly evidenced singular counts; complete stable-ID bindings",
+      "version": "2026-10-31-reaudit",
+      "license": "Game text and artwork copyright The Pokemon Company, Creatures and DeNA; source credited, not a licence grant",
+      "url": "https://ptcgp.raenonx.cc/ja/card/PK_10_000010_00"
+    },
+    "pack-name": {
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-pack-name.json",
+      "sha256": "5b91196eb01a2aab02ae0994ab78c7d3ce2bca262f94b071eb9f358a42e2a8bb",
+      "role": "Native Japanese dictionary plus official Pocket announcement resolves promo pack template",
+      "version": "2026-10-31",
+      "license": "Game text copyright The Pokemon Company, Creatures and DeNA; factual citation",
+      "url": "https://www.pokemontcgpocket.com/ja/news/86/"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "card",
+      "entityId": "B3a-092",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/092.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3a-092;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3a-092;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-036",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/036.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3a-036;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3a-036;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-002",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/002.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3a-002;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3a-002;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-084",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/084.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3a-084;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3a-084;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-209",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に1回使える。自分の山札を上から枚見て、もとにもどす。",
+      "expectedEnglish": "Once during your turn, you may look at the top card of your deck.",
+      "value": "自分の番に1回使える。自分の山札を上から1枚見て、もとにもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-209;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-209;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-249",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/249.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に1回使える。自分の山札を上から枚見て、もとにもどす。",
+      "expectedEnglish": "Once during your turn, you may look at the top card of your deck.",
+      "value": "自分の番に1回使える。自分の山札を上から1枚見て、もとにもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-249;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-249;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-192",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/192.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-192;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-192;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-246",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/246.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-246;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-246;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-233",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/233.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-233;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-233;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-196",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-196;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-196;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-197",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/197.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札からランダムに枚トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+      "value": "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-197;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-197;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-078",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-078;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-078;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-178",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/178.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1-178;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1-178;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-188",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/188.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-188;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-188;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-203",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/203.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-203;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-203;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-124",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-124;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-124;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-187",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/187.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-187;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-187;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-126",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/126.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-126;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-126;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-201",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/201.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-201;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-201;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-200",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/200.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-200;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-200;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-048",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/048.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3-048;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3-048;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-031",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/031.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+      "expectedEnglish": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+      "value": "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2a-031;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2a-031;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-070",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/070.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2a-070;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2a-070;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-034",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から枚見て、もとにもどす。",
+      "expectedEnglish": "Once during your turn, you may choose either player. Look at the top card of that player's deck.",
+      "value": "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から1枚見て、もとにもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2a-034;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2a-034;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-078",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/078.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から枚見て、もとにもどす。",
+      "expectedEnglish": "Once during your turn, you may choose either player. Look at the top card of that player's deck.",
+      "value": "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から1枚見て、もとにもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2a-078;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2a-078;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-A-093;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-A-093;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-A-110;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-A-110;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札からランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random card from your opponent's hand.",
+      "value": "相手の手札からランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-A-096;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-A-096;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-012",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-A-012;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-A-012;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-068",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-A-068;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-A-068;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-145",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/145.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚見て、もとにもどす。のぞむなら、自分の山札を切る。",
+      "expectedEnglish": "Look at the top card of your deck. Then, you may shuffle your deck.",
+      "value": "自分の山札を上から1枚見て、もとにもどす。のぞむなら、自分の山札を切る。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-145;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-145;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-100",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/100.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-100;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-100;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-034",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/034.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのバトルポケモンからエネルギーをランダムに個ずつトラッシュ。",
+      "expectedEnglish": "Discard a random Energy from both Active Pokémon.",
+      "value": "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-034;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-034;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-121",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/121.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-121;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-121;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-107",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札からグッズをランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random Item card from your opponent's hand.",
+      "value": "相手の手札からグッズをランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-107;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-107;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-220",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/220.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+      "expectedEnglish": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+      "value": "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3-220;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3-220;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-021",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/021.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-021;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-021;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-175",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/175.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に、自分の手札を枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+      "expectedEnglish": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card.",
+      "value": "自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-175;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-175;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-196",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/196.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-196;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-196;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-140",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/140.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札のオモテをすべて見て、その中からカードを枚選び、山札にもどす。",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a card you find there and shuffle it into your opponent's deck.",
+      "value": "相手の手札のオモテをすべて見て、その中からカードを1枚選び、山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-140;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-140;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-007",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/007.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-007;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-007;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-180",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/180.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-180;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-180;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-146",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/146.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の手札からポケモンを枚選び、山札にあるランダムなポケモン枚と入れ替える。",
+      "expectedEnglish": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
+      "value": "自分の手札からポケモンを1枚選び、山札にあるランダムなポケモン1枚と入れ替える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-146;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-146;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-123",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/123.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に、自分の手札を枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+      "expectedEnglish": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card.",
+      "value": "自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2-123;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2-123;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-064",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/064.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のトラッシュからたねポケモンを枚選び、相手のベンチに出す。",
+      "expectedEnglish": "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+      "value": "相手のトラッシュからたねポケモンを1枚選び、相手のベンチに出す。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1a-064;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1a-064;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-076",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1a-076;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1a-076;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-033",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/033.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1a-033;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1a-033;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-023",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/023.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1a-023;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1a-023;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-018",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/018.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A1a-018;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A1a-018;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-188",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/188.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-188;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-188;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-349",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/349.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-349;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-349;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-358",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/358.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-358;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-358;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-285",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/285.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-285;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-285;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-429",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/429.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-429;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-429;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-074",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/074.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-074;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-074;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-352",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/352.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-352;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-352;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-177",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/177.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-177;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-177;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-231",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/231.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
+      "value": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-231;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-231;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-167",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/167.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-167;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-167;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-136",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/136.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-136;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-136;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-180",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/180.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-180;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-180;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-397",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/397.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
+      "value": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-397;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-397;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-172",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/172.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your deck.",
+      "value": "自分の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-172;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-172;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-012",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンから{G}エネルギーを個トラッシュ。相手のバトルポケモンをどくにする。",
+      "expectedEnglish": "Discard {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-012;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-012;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-410",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/410.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンから{G}エネルギーを個トラッシュ。相手のバトルポケモンをどくにする。",
+      "expectedEnglish": "Discard {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned.",
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4b-410;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4b-410;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4a-033",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/033.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4a-033;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4a-033;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-093",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/093.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand. You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+      "value": "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2a-093;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2a-093;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-065",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/065.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2a-065;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2a-065;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-126",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/126.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2a-126;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2a-126;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-127",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/127.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2a-127;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2a-127;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-128",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/128.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2a-128;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2a-128;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-035",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/035.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-035;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-035;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-175",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/175.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのバトルポケモンからエネルギーをランダムに個ずつトラッシュ。",
+      "expectedEnglish": "Discard a random Energy from both Active Pokémon.",
+      "value": "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-175;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-175;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-124",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-124;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-124;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-136",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/136.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-136;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-136;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-081",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/081.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-081;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-081;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-094",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/094.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-094;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-094;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-204",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/204.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-204;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-204;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-108",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのバトルポケモンからエネルギーをランダムに個ずつトラッシュ。",
+      "expectedEnglish": "Discard a random Energy from both Active Pokémon.",
+      "value": "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2-108;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2-108;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1a-050",
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/050.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1a-050;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1a-050;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-124",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4-124;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4-124;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-207",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/207.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4-207;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4-207;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-118",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/118.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4-118;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4-118;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-028",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/028.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B4-028;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B4-028;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-312",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/312.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1-312;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1-312;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-051",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/051.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1-051;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1-051;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-010",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/010.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札からランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random card from your opponent's hand.",
+      "value": "相手の手札からランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1-010;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1-010;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-313",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/313.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札からランダムに枚トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+      "value": "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1-313;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1-313;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-201",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/201.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B1-201;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B1-201;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-054",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/054.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3b-054;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3b-054;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-105",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/105.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3b-105;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3b-105;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-058",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B3b-058;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B3b-058;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-258",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/258.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-258;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-258;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-098",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/098.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-098;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-098;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-336",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/336.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札のオモテをすべて見て、その中からサポートを枚選び、山札にもどす。",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
+      "value": "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-336;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-336;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-285",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/285.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-285;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-285;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-316",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/316.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の手札からポケモンを枚選び、山札にあるランダムなポケモン枚と入れ替える。",
+      "expectedEnglish": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
+      "value": "自分の手札からポケモンを1枚選び、山札にあるランダムなポケモン1枚と入れ替える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-316;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-316;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-010",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/010.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-010;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-010;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-257",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/257.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-257;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-257;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-317",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/317.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の手札からポケモンを枚選び、山札にあるランダムなポケモン枚と入れ替える。",
+      "expectedEnglish": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
+      "value": "自分の手札からポケモンを1枚選び、山札にあるランダムなポケモン1枚と入れ替える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-317;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-317;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-337",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/337.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札のオモテをすべて見て、その中からサポートを枚選び、山札にもどす。",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
+      "value": "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-337;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-337;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-286",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/286.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-286;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-286;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-022",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/022.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4b-022;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4b-022;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-088",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-088;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-088;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-025",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-025;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-025;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-087",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-087;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-087;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-010",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-010;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-010;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-020",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-020;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-020;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-007",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-007;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-007;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-081",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-081;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-081;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-090",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-090;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-090;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-080",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-080;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-080;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-079",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。",
+      "expectedEnglish": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+      "value": "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4a-079;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4a-079;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-064",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/064.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=C1-064;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=C1-064;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-092",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/092.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=C1-092;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=C1-092;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-149",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/149.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=C1-149;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=C1-149;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-108",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=C1-108;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=C1-108;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2b-061",
+      "file": "data/Pokémon TCG Pocket/Mega Shine/061.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=B2b-061;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=B2b-061;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-040",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の山札を上から枚トラッシュ。",
+      "expectedEnglish": "Discard the top card of your opponent's deck.",
+      "value": "相手の山札を上から1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-B-040;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-B-040;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-B-066;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-B-066;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-017",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-B-017;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-B-017;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=P-B-046;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=P-B-046;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-037",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札から「ポケモンのどうぐ」をランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random Pokémon Tool card from your opponent's hand.",
+      "value": "相手の手札から「ポケモンのどうぐ」をランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3a-037;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3a-037;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-073",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札から「ポケモンのどうぐ」をランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random Pokémon Tool card from your opponent's hand.",
+      "value": "相手の手札から「ポケモンのどうぐ」をランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3a-073;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3a-073;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-012",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3a-012;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3a-012;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-005",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+      "expectedEnglish": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+      "value": "相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3b-005;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3b-005;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-055",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3b-055;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3b-055;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-078",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3b-078;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3b-078;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-059",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の番に1回使える。自分の山札から「ポケモンのどうぐ」をランダムに枚、手札に加える。",
+      "expectedEnglish": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand.",
+      "value": "自分の番に1回使える。自分の山札から「ポケモンのどうぐ」をランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A3b-059;field=abilities[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A3b-059;field=abilities[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-198",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/198.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札のオモテをすべて見て、その中からサポートを枚選び、山札にもどす。",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
+      "value": "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-198;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-198;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-054",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/054.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-054;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-054;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-134",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/134.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-134;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-134;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-232",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/232.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "このポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from this Pokémon.",
+      "value": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-232;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-232;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-170",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/170.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-170;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-170;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-231",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/231.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-231;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-231;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-057",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札を枚引く。",
+      "expectedEnglish": "Draw a card.",
+      "value": "自分の山札を1枚引く。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-057;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-057;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-234",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/234.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "value": "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-234;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-234;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-113",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/113.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+      "expectedEnglish": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+      "value": "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-113;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-113;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-077",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "自分の山札からポケモンをランダムに枚、手札に加える。",
+      "expectedEnglish": "Put a random Pokémon from your deck into your hand.",
+      "value": "自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-077;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-077;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-118",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/118.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札からランダムに枚トラッシュ。",
+      "expectedEnglish": "Discard a random card from your opponent's hand.",
+      "value": "相手の手札からランダムに1枚トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-118;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-118;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-048",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/048.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-048;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-048;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-178",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/178.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+      "expectedEnglish": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+      "value": "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-178;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-178;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-158",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/158.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手の手札のオモテをすべて見て、その中からサポートを枚選び、山札にもどす。",
+      "expectedEnglish": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
+      "value": "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A4-158;field=effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A4-158;field=effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-003",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2b-003;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2b-003;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-107",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2b-107;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2b-107;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-079",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+      "expectedEnglish": "Discard a random Energy from your opponent's Active Pokémon.",
+      "value": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+      "evidence": [
+        {
+          "sourceId": "reaudit-rules",
+          "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456",
+          "locator": "cardId=A2b-079;field=attacks[0].effect"
+        },
+        {
+          "sourceId": "reaudit-reviewed-rules",
+          "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999",
+          "locator": "native-template/printed-card numeric review;cardId=A2b-079;field=attacks[0].effect"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "P-B",
+      "file": "data/Pokémon TCG Pocket/Promos-B.ts",
+      "path": "boosters[\"vol13\"].name",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "プロモカードパック [Mst:SeriesName v=\"SERIES_NAME_2\"]シリーズ [Mst:CommonPackLabel v=\"COMMON_PACK_LABEL_013\"]",
+      "expectedEnglish": "Promo Pack B Series Vol. 13",
+      "value": "プロモカードパック Bシリーズ 第13弾",
+      "evidence": [
+        {
+          "sourceId": "pack-name",
+          "sha256": "5b91196eb01a2aab02ae0994ab78c7d3ce2bca262f94b071eb9f358a42e2a8bb",
+          "locator": "Game.Master.Pack.Description.PROMO_B_13"
+        }
+      ]
+    }
+  ]
+}

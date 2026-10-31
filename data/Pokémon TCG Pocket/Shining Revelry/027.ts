@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/027"
     },
     name: {
         en: "Pawmo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pawmo",
         de: "Pamamo",
         'pt-br': "Pawmo",
+        ja: "パモット",
         ko: "빠모트",
         "zh-tw": "布土撥"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pawmi",
         "de": "Pamo",
         "pt-br": "Pawmi",
-        "zh-tw": "布撥"
+        "zh-tw": "布撥",
+        ja: "パモ"
     },
     description: {
         en: "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando il branco viene attaccato, lotta in prima\nfila contro il nemico per atterrarlo con tecniche\nmarziali che rilasciano scariche elettriche.",
         de: "Wird seine Kolonie angegriffen, stürzt es sich\nsofort in den Kampf und besiegt den Feind mit\nKampftechniken, die auf Elektroschocks setzen.",
         'pt-br': "Quando seu grupo é atacado, Pawmo é o primeiro a\nentrar na batalha, derrotando os inimigos com uma\ntécnica de combate que utiliza choques elétricos.",
+        ja: "群れが 襲われたときは 電撃を 駆使した 格闘技で 真っ先に 戦いを 挑み 敵を 倒す。",
         ko: "무리가 공격을 받으면\n전격을 날리는 격투기로\n먼저 싸움을 걸고 적을 쓰러뜨린다.",
         "zh-tw": "當群體受到攻擊時，Pawmo 會第一個投入戰鬥，用電擊的戰鬥技術擊敗敵人。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Pugno",
             de: "Boxhieb",
             'pt-br': "Soco",
+            ja: "パンチ",
             ko: "펀치",
             "zh-tw": "沖床"
         },

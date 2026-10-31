@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/089",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/089",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/089"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/089"
     },
     name: {
         en: "Audino",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ohrdoch",
         "pt-br": "Audino",
         "zh-tw": "差不多娃娃",
+        ja: "タブンネ",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon ha un cuore gentile. Toccando con le sue antenne,\nAudino può valutare i sentimenti e le condizioni fisiche delle altre creature.",
         "de": "Dieses Pokémon hat ein freundliches Herz. Durch das Berühren mit seinen Fühlern,\nAudino kann die Gefühle und den körperlichen Zustand anderer Lebewesen einschätzen.",
         "pt-br": "Este Pokémon tem um coração bondoso. Ao tocar com seus sensores,\nAudino pode avaliar os sentimentos e condições físicas de outras criaturas.",
-        "zh-tw": "這只神奇寶貝有一顆善良的心。通過用觸角觸碰，\n奧迪諾可以測量其他生物的感受和身體狀況。"
+        "zh-tw": "這只神奇寶貝有一顆善良的心。通過用觸角觸碰，\n奧迪諾可以測量其他生物的感受和身體狀況。",
+        ja: "心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Drenare lo schiaffo",
                 "de": "Drain Slap",
                 "pt-br": "Tapa de drenagem",
-                "zh-tw": "排水管拍打"
+                "zh-tw": "排水管拍打",
+                ja: "ドレインビンタ"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 10 danni.",
                 "de": "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 10 點傷害。",
+                ja: "このポケモンのHPを10回復。"
             }
         }],
     weaknesses: [{

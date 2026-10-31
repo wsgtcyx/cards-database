@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/245",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/245",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/245",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/245"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/245",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/245"
     },
     name: {
         en: "Hydreigon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Trikephalo",
         "pt-br": "Hydreigon",
         "zh-tw": "三首惡龍",
+        ja: "サザンドラ",
     },
     illustrator: "matazo",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Duodino",
         "pt-br": "Zweilous",
         "zh-tw": "雙首暴龍",
+        ja: "ジヘッド",
     },
     description: {
         en: "It's said that Hydreigon grew ferocious because\npeople in times long past loathed it, considering\nit to be evil incarnate and attacking it relentlessly.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che Hydreigon sia diventato feroce perché\nla gente in tempi lontani lo detestava, considerandolo\nessere il male incarnato e attaccarlo incessantemente.",
         "de": "Man sagt, Hydreigon sei wild geworden, weil\nDie Menschen in längst vergangenen Zeiten verabscheuten es, wenn man bedenkt\nes als das inkarnierte Böse zu betrachten und es unerbittlich anzugreifen.",
         "pt-br": "Dizem que Hydreigon ficou feroz porque\nas pessoas em tempos passados ​​odiavam isso, considerando\né o mal encarnado e ataca-o implacavelmente.",
-        "zh-tw": "據說 Hydeigon 變得兇猛是因為\n很久以前的人們厭惡它，考慮到\n它是邪惡的化身，並對其進行無情的攻擊。"
+        "zh-tw": "據說 Hydeigon 變得兇猛是因為\n很久以前的人們厭惡它，考慮到\n它是邪惡的化身，並對其進行無情的攻擊。",
+        ja: "昔 人が 邪悪 そのものと 忌み嫌い 攻撃し続けたため 凶暴になったと 言われている。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Ruggisci all'unisono",
                 "de": "Brüllen Sie im Einklang",
                 "pt-br": "Rugir em uníssono",
-                "zh-tw": "齊聲咆哮"
+                "zh-tw": "齊聲咆哮",
+                ja: "つらなるほうこう"
             },
             effect: {
                 en: "Once during your turn, you may take 2 {D} Energy from your Energy Zone and attach it to this Pokémon. If you do, do 30 damage to this Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi prendere 2 Energie {D} dalla tua Zona Energetica e assegnarle a questo Pokémon. Se lo fai, infliggi 30 danni a questo Pokémon.",
                 "de": "Einmal während deines Zuges kannst du 2 {D}-Energie aus deiner Energiezone nehmen und an dieses Pokémon anlegen. Wenn du dies tust, füge diesem Pokémon 30 Schadenspunkte zu.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar 2 {D} Energias da sua Zona de Energia e associá-las a este Pokémon. Se fizer isso, cause 30 de dano a este Pokémon.",
-                "zh-tw": "在你的回合中，你可以從你的能量區取出 2 個 {D} 能量並將其附加到這只神奇寶貝身上。這樣做的話，對該寶可夢造成 30 點傷害。"
+                "zh-tw": "在你的回合中，你可以從你的能量區取出 2 個 {D} 能量並將其附加到這只神奇寶貝身上。這樣做的話，對該寶可夢造成 30 點傷害。",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{D}エネルギーを2個出し、このポケモンにつける。その後、このポケモンに30ダメージ。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Iper raggio",
                 "de": "Hyper Ray",
                 "pt-br": "Hiper Raio",
-                "zh-tw": "超射線"
+                "zh-tw": "超射線",
+                ja: "ハイパービーム"
             },
             damage: 130,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -84,7 +91,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie da questo Pokémon.",
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的所有能量。"
+                "zh-tw": "丟棄該神奇寶貝的所有能量。",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/089",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/089",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/089"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/089"
     },
     name: {
         en: "Conkeldurr",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Utilizza con maestria mosse con cui fa roteare pilastri di cemento, sfruttando a dovere la forza centrifuga più che i propri muscoli.",
         de: "Anstatt sich auf seine Stärke zu verlassen, setzt es Attacken ein, bei denen es seine Betonpfeiler mithilfe der Zentrifugalkraft umherschwingt.",
         "pt-br": "Em vez de depender da força física, dominam movimentos que fazem bom uso da força centrífuga para girar concreto.",
-        "zh-tw": "能夠不憑蠻力，\n而是巧妙利用離心力\n來揮舞水泥柱使出招式。"
+        "zh-tw": "能夠不憑蠻力，\n而是巧妙利用離心力\n來揮舞水泥柱使出招式。",
+        ja: "力に 頼らず 遠心力を うまく 活かして コンクリートを 振り回す 技を 使いこなせる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Quebrador de Alicerce",
                 "zh-tw": "岩盤崩裂",
                 "it": "Infrangiroccia",
-                "de": "Felsgrundbrecher"
+                "de": "Felsgrundbrecher",
+                ja: "がんばんくずし"
             },
             effect: {
                 en: "Discard a Stadium in play.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Scarta uno Stadio in gioco.",
                 de: "Wirf ein im Spiel befindliches Stadion ab.",
                 "pt-br": "Descarte um Estádio em jogo.",
-                "zh-tw": "將場上的競技場卡丟棄。"
+                "zh-tw": "將場上的競技場卡丟棄。",
+                ja: "場に出ているスタジアムをトラッシュ。"
             },
             damage: 100
         }

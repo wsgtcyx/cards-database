@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/105",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/105",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/105"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/105"
     },
     name: {
         en: "Binacle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bithora",
         "pt-br": "Binacle",
         "zh-tw": "龜腳腳",
+        ja: "カメテテ",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Dopo che due Binacle trovano una roccia di dimensioni adeguate, loro\naderirvi e vivere insieme.\nCollaborano per raccogliere cibo durante l'alta marea.",
         "de": "Nachdem zwei Binacle einen Stein geeigneter Größe gefunden haben, gehen sie\nhalten sich daran und leben zusammen.\nSie arbeiten zusammen, um bei Flut Nahrung zu sammeln.",
         "pt-br": "Depois que dois Binacle encontram uma pedra de tamanho adequado, eles\naderem a ele e vivem juntos.\nEles cooperam para coletar alimentos durante a maré alta.",
-        "zh-tw": "兩隻 Binacle 找到一塊大小合適的岩石後，他們\n堅持下去並生活在一起。\n他們在漲潮時合作收集食物。"
+        "zh-tw": "兩隻 Binacle 找到一塊大小合適的岩石後，他們\n堅持下去並生活在一起。\n他們在漲潮時合作收集食物。",
+        ja: "２匹が 海辺の 手ごろな 岩に くっついて 暮らす。 満潮時 協力して エサを 集める。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Doppio taglio",
                 "de": "Dual Chop",
                 "pt-br": "Corte duplo",
-                "zh-tw": "雙斬"
+                "zh-tw": "雙斬",
+                ja: "ダブルチョップ"
             },
             damage: "30×",
             cost: ["Fighting", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 30 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 30 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。"
             }
         }],
     weaknesses: [{

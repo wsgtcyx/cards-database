@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/321",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/321",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/321",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/321"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/321",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/321"
     },
     name: {
         en: "Pikachu ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pikachu-ex",
         "pt-br": "Pikachu ex",
         "zh-tw": "皮卡丘ex",
+        ja: "ピカチュウex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Fulmine",
                 "de": "Blitz",
                 "pt-br": "Raio",
-                "zh-tw": "霹靂"
+                "zh-tw": "霹靂",
+                ja: "10まんボルト"
             },
             damage: 150,
             cost: ["Lightning", "Lightning", "Lightning"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Scarta tutte le Energie da questo Pokémon.",
                 "de": "Lege die gesamte Energie dieses Pokémon ab.",
                 "pt-br": "Descarte todas as Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的所有能量。"
+                "zh-tw": "丟棄該神奇寶貝的所有能量。",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。"
             }
         }],
     weaknesses: [{

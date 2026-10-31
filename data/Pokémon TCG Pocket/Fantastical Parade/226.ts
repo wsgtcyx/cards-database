@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/226",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/226"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/226",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/226"
     },
     name: {
         en: "Ho-Oh ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ho-Oh-ex",
         "de": "Ho-Oh-ex",
         "pt-br": "Ho-Oh ex",
-        "zh-tw": "鳳王ex"
+        "zh-tw": "鳳王ex",
+        ja: "ホウオウex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Fenice Turbo",
                 "de": "Phoenix Turbo",
                 "pt-br": "Fênix Turbo",
-                "zh-tw": "鳳凰渦輪"
+                "zh-tw": "鳳凰渦輪",
+                ja: "フェニックスターボ"
             },
             damage: 80,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {R}, {W} e {L} dalla tua Zona Energetica e assegnale ai tuoi Pokémon Base in panchina nel modo che preferisci.",
                 "de": "Nimm eine {R}-, {W}- und {L}-Energie aus deiner Energiezone und lege sie auf beliebige Weise an dein Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma energia {R}, {W} e {L} da sua zona de energia e ligue-as aos seus Pokémon Básicos no Banco da maneira que desejar.",
-                "zh-tw": "從你的能量區取出 {R}、{W} 和 {L} 能量，並以你喜歡的任何方式將它們附加到你的後備基礎神奇寶貝上。"
+                "zh-tw": "從你的能量區取出 {R}、{W} 和 {L} 能量，並以你喜歡的任何方式將它們附加到你的後備基礎神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{R}と{W}と{L}エネルギーを1個ずつ出し、ベンチのたねポケモンに好きなようにつける。"
             }
         }],
     weaknesses: [{

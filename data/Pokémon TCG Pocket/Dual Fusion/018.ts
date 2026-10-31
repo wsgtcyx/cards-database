@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/018",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/018"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/018"
     },
     name: {
         en: "Charizard",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
-        ja: "Charmeleon",
+        ja: "リザード",
         ko: "Charmeleon"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Feuerflügel",
                 "pt-br": "Asa de Fogo",
                 "zh-tw": "火焰之翼",
-                ja: "Fire Wing",
+                ja: "ほのおのつばさ",
                 ko: "Fire Wing"
             },
             cost: [
@@ -83,7 +84,7 @@ const card: Card = {
                 de: "Flammende Aura",
                 "pt-br": "Aura em Chamas",
                 "zh-tw": "火焰氣場",
-                ja: "Flame Aura",
+                ja: "フレイムオーラ",
                 ko: "Flame Aura"
             },
             effect: {
@@ -94,7 +95,7 @@ const card: Card = {
                 de: "Füge jedes Mal, wenn du 1 {R}-Energie aus dem Energiebereich an dieses Pokémon anlegst, dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Sempre que você ligar uma Energia {R} da sua Zona de Energia a este Pokémon, cause 30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "每次從自己的能量區將{R}能量附於這隻寶可夢身上時,對手的戰鬥寶可夢受到30點傷害。",
-                ja: "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon.",
+                ja: "自分のエネルギーゾーンからこのポケモンに{R}エネルギーをつけるたび、相手のバトルポケモンに30ダメージ。",
                 ko: "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
             },
             type: "Ability"
@@ -108,7 +109,7 @@ const card: Card = {
         de: "Wenn Glurak richtig wütend wird, flackert die Flamme an seiner Schwanzspitze in einem bläulichen Ton.",
         "pt-br": "Quando Charizard fica realmente furioso, a chama na ponta da sua cauda queima em um tom azul claro.",
         "zh-tw": "當噴火龍憤怒至極時，尾巴前端就會燃起藍白色的火焰。",
-        ja: "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+        ja: "本気で 怒った リザードンの 尻尾の 先の 炎は 青白く 燃え上がる。",
         ko: "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade."
     }
 };

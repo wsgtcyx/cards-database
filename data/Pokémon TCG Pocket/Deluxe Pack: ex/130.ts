@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/130",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/130"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/130"
     },
     name: {
         en: "Alolan Raichu ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Raichu-ex",
         "pt-br": "Raichu de Alola ex",
         "zh-tw": "阿羅拉雷丘ex",
+        ja: "アローラライチュウex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Psichico",
                 "de": "Hellseher",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神"
+                "zh-tw": "精神",
+                ja: "サイコキネシス"
             },
             damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。"
             }
         }],
     weaknesses: [{

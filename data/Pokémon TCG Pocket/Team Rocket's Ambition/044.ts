@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/044",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/044",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/044"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/044"
     },
     name: {
         en: "Team Rocket's Sneasel",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Sono Pokémon furbi e subdoli. A volte lavorano in squadra: mentre uno Sneasel attira i Pokémon lontano dal loro nido, l'altro ne ruba le Uova.",
         de: "Diese raffinierten Pokémon arbeiten-bisweilen zu zweit, um Nester auszurauben. Während eines die Eltern weglöckt, holt sich das andere die Eier.",
         "pt-br": "É um Pokémon inteligente e furtivo. Ao trabalharem em dupla para roubar ovos, um deles engana os pais para afastá-los do ninho.",
-        "zh-tw": "會透過團隊合作，一隻負責引開雙親的注意，一隻負責偷走蛋，非常地狡猾奸詐。"
+        "zh-tw": "會透過團隊合作，一隻負責引開雙親的注意，一隻負責偷走蛋，非常地狡猾奸詐。",
+        ja: "ずる賢く １匹が 親を 誘き寄せ もう１匹が タマゴを 取るという チームプレーも 見せる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Rissa",
                 de: "Gruppenprügler",
                 "pt-br": "Abater em Grupo",
-                "zh-tw": "圍剿"
+                "zh-tw": "圍剿",
+                ja: "みんなでしばく"
             },
             effect: {
                 en: "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Lancia una moneta per ogni Pokémon che hai in gioco. Questo attacco infligge 30 danni ogni volta che esce testa.",
                 de: "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 30 pontos de dano para cada cara.",
-                "zh-tw": "以自己的場上寶可夢的數量擲硬幣,造成正面出現的次數×30點傷害。"
+                "zh-tw": "以自己的場上寶可夢的數量擲硬幣,造成正面出現的次數×30點傷害。",
+                ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×30ダメージ。"
             },
             damage: "30x"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/069"
     },
     name: {
         en: "Ampharos",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ampharos",
         "pt-br": "Ampharos",
         "zh-tw": "電龍",
+        ja: "デンリュウ",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waaty",
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
+        ja: "モココ",
     },
     description: {
         en: "The bright light on its tail can be seen far\naway. It has been treasured since ancient\ntimes as a beacon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La luce brillante sulla sua coda può essere vista da lontano\nlontano. È stato apprezzato fin dall'antichità\nvolte come un faro.",
         "de": "Das helle Licht an seinem Schwanz ist weithin sichtbar\nweg. Es wird seit der Antike geschätzt\nMal als Leuchtturm.",
         "pt-br": "A luz brilhante em sua cauda pode ser vista de longe\nembora. É valorizado desde a antiguidade\nvezes como um farol.",
-        "zh-tw": "尾巴上的亮光遠遠就能看見\n離開。自古以來就被人們珍藏\n時代如燈塔。"
+        "zh-tw": "尾巴上的亮光遠遠就能看見\n離開。自古以來就被人們珍藏\n時代如燈塔。",
+        ja: "尻尾の 灯りは 遠くまで 届くので 昔より かがり火として 大事に されている。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pugno di tuono",
                 "de": "Donnerschlag",
                 "pt-br": "Soco Trovão",
-                "zh-tw": "雷霆拳"
+                "zh-tw": "雷霆拳",
+                ja: "かみなりパンチ"
             },
             damage: "80+",
             cost: ["Lightning", "Lightning"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte mehr zu. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 20 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 40 de dano a mais. Se sair coroa, este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。",
+                ja: "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

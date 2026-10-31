@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/009"
     },
     name: {
         en: "Rowlet",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rowlet",
         de: "Bauz",
         'pt-br': "Rowlet",
+        ja: "モクロー",
         ko: "나몰빼미",
         "zh-tw": "木木梟",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Attacca lanciando piume affilate come lame e può\nanche tirare poderosi calci con le zampe robuste.",
         de: "Es schleudert messerscharfe Federn auf seine Gegner.\nAber auch seine Tritte sind nicht zu unterschätzen,\ndenn es hat sehr kräftige Beine.",
         'pt-br': "Quando atacam, lançam suas penas, que são tão cortantes\nquanto lâminas. Suas pernas são robustas, por isso,\nseus chutes também são formidáveis.",
+        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。",
         ko: "칼같이 날카로운 날개를 날려\n공격한다. 발의 힘도 강해\n킥도 무시할 수 없다.",
         "zh-tw": "飛舞著鋒利如刀刃的羽毛進行攻擊。它的腿很強壯，所以它的踢腿也很強大。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fogliame",
                 de: "Blattwerk",
                 'pt-br': "Folhagem",
+                ja: "このは",
                 ko: "나뭇잎",
                 "zh-tw": "葉子"
             },

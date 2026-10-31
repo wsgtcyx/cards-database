@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/112",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/112",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/112"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/112"
     },
     name: {
         en: "Duraludon",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Il suo corpo metallico è robusto ma ha lo svantaggio di accumulare calore, che viene perciò rilasciato dalle fessure sulla coda.",
         de: "Sein metallener Körper ist robust, aber heizt sich schnell auf. Um einen Hitzestau zu verhindern, leitet es Wärme durch Schlitze im Schwanz ab.",
         "pt-br": "O seu corpo de metal é resistente, mas propenso a reter calor. Libera o calor pelas fendas de sua cauda.",
-        "zh-tw": "金屬構成的身體雖然堅固\n但無法散熱，因此牠會從\n尾巴上的縫隙排出熱氣。"
+        "zh-tw": "金屬構成的身體雖然堅固\n但無法散熱，因此牠會從\n尾巴上的縫隙排出熱氣。",
+        ja: "金属の ボディは 頑丈だが 熱が こもってしまうので 尻尾の スリットから 放熱している。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Ferrartigli",
                 de: "Metallklaue",
                 "pt-br": "Garra de Metal",
-                "zh-tw": "金屬爪"
+                "zh-tw": "金屬爪",
+                ja: "メタルクロー"
             },
             damage: 60
         }

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/064",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/064",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/064"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/064"
     },
     name: {
         en: "Clefairy",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Nelle notti di luna piena, i Clefairy si radunano\nper danzare. Intorno a loro si crea un misterioso\ncampo magnetico.",
         de: "Bei Vollmond versammeln sie sich und tanzen\ngemeinsam. Um sie herum entsteht dadurch\nein ungewöhnliches Magnetfeld.",
         "pt-br": "Em noites de lua cheia, eles se reúnem e dançam. A área ao redor fica envolvida por um campo magnético anormal.",
-        "zh-tw": "在月圓之夜聚集，和夥伴一起跳舞。\n周圍被異常的磁場包圍著。"
+        "zh-tw": "在月圓之夜聚集，和夥伴一起跳舞。\n周圍被異常的磁場包圍著。",
+        ja: "満月の 晩に 集まって 仲間と ダンス。 その周囲は 異常な 磁場に 包まれる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Mini-metrônomo",
                 "zh-tw": "小揮指",
                 "it": "Minimetronomo,",
-                "de": "Mini-Metronom"
+                "de": "Mini-Metronom",
+                ja: "ちいさくゆびをふる"
             },
             effect: {
                 en: "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, scegli 1 degli attacchi del Pokémon attivo del tuo avversario e usalo come questo attacco.",
                 de: "Wirf eine Münze. Bei „Kopf“ wähle 1 Angriff des Aktiven Pokémon deines Gegners und verwende ihn als diesen Angriff.",
                 "pt-br": "Jogue uma moeda. Se sair cara, escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
-                "zh-tw": "擲1次硬幣若為正面,則選擇對手的戰鬥寶可夢持有的1個招式,作為這個招式使用。"
+                "zh-tw": "擲1次硬幣若為正面,則選擇對手的戰鬥寶可夢持有的1個招式,作為這個招式使用。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
             }
         }
     ],

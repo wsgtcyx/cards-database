@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/306",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/306",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/306",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/306"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/306",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/306"
     },
     name: {
         en: "Hypno",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hypno",
         "pt-br": "Hypno",
         "zh-tw": "引夢貘人",
+        ja: "スリーパー",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Traumato",
         "pt-br": "Drowzee",
         "zh-tw": "催眠貘",
+        ja: "スリープ",
     },
     description: {
         en: "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando fissa gli occhi con un nemico, utilizzerà\nun mix di mosse psichiche, come Ipnosi e\nConfusione.",
         "de": "Wenn es einen Feind ansieht, wird es ihn benutzen\neine Mischung aus Psi-Bewegungen wie Hypnose und\nVerwirrung.",
         "pt-br": "Quando ele encarar um inimigo, ele usará\numa mistura de movimentos psi, como hipnose e\nConfusão.",
-        "zh-tw": "當它鎖定敵人時，它會使用\n混合了 psi 動作，例如催眠和\n混亂。"
+        "zh-tw": "當它鎖定敵人時，它會使用\n混合了 psi 動作，例如催眠和\n混亂。",
+        ja: "相手と 目が 合ったときに 催眠術など 数々の 超能力を 使うという。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Pendolo del sonno",
                 "de": "Schlafpendel",
                 "pt-br": "Pêndulo do Sono",
-                "zh-tw": "睡眠鐘擺"
+                "zh-tw": "睡眠鐘擺",
+                ja: "ねむりのふりこ"
             },
             effect: {
                 en: "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Einmal in deinem Zug darfst du eine Münze werfen. Bei „Kopf“ schläft das aktive Pokémon deines Gegners jetzt.",
                 "pt-br": "Uma vez durante o seu turno, você pode jogar uma moeda. Se der cara, o Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "在你的回合中，你可以拋一次硬幣。如果正面，則對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "在你的回合中，你可以拋一次硬幣。如果正面，則對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "自分の番に1回使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Psicopugno",
                 "de": "Psypunch",
                 "pt-br": "Psypunch",
-                "zh-tw": "靈拳"
+                "zh-tw": "靈拳",
+                ja: "サイコパンチ"
             },
             damage: 50,
             cost: ["Psychic", "Psychic", "Colorless"]

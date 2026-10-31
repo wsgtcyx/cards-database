@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/112",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/112",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/112"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/112"
     },
     name: {
         en: "Registeel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Registeel",
         de: "Registeel",
         'pt-br': "Registeel",
+        ja: "レジスチル",
         ko: "레지스틸",
         "zh-tw": "雷吉斯奇魯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È composto da un materiale misterioso più\nresistente di qualsiasi metallo, ma al contempo\nabbastanza morbido da essere elastico.",
         de: "Es besteht aus einer seltsamen Substanz,\ndie robuster als jedes Metall, jedoch zugleich\nauch weich und elastisch ist.",
         'pt-br': "O corpo de Registeel é composto de um material\nestranho que é flexível o bastante para esticar e encolher,\nmas mais resistente do que qualquer metal.",
+        ja: "伸び縮みする 柔らかさも あるが どんな 金属よりも 頑丈な 不思議な 物質で できている。",
         ko: "늘었다 줄었다 하는 유연함도 갖췄지만\n어떤 금속보다도 튼튼한\n신비한 물질로 이루어져 있다.",
         "zh-tw": "Registeel 的身體由一種奇怪的材料製成，這種材料具有足夠的柔韌性，可以拉伸和收縮，但也比任何金屬都更耐用。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ferrartigli",
                 de: "Metallklaue",
                 'pt-br': "Garra de Metal",
+                ja: "メタルクロー",
                 ko: "메탈클로",
                 "zh-tw": "金屬爪"
             },

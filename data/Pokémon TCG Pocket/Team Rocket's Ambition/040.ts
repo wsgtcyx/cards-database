@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/040",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/040",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/040"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/040"
     },
     name: {
         en: "Team Rocket's Grimer",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Quando due esemplan combinano i propri corpi, creano nuovi tipi di veleno.",
         de: "Wenn die Körper von zwei Sleima mitenander kombiniert werden, so entstehen vollig neue Arten von Gift.",
         "pt-br": "Quando dois corpos deste Pakémon se unem. novos vemenos são criados.",
-        "zh-tw": "當臭泥彼此黏在一起，身體就會互相融合，進而產生新種毒素。"
+        "zh-tw": "當臭泥彼此黏在一起，身體就會互相融合，進而產生新種毒素。",
+        ja: "ベトベター同士が くっつくと おたがいの 体が 混ざりあって 新しい 毒が 生みだされる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Fango",
                 de: "Schlammbad",
                 "pt-br": "Ataque de Lama",
-                "zh-tw": "污泥攻擊"
+                "zh-tw": "污泥攻擊",
+                ja: "ヘドロこうげき"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "將對手的戰鬥寶可夢中毒。"
+                "zh-tw": "將對手的戰鬥寶可夢中毒。",
+                ja: "相手のバトルポケモンをどくにする。"
             },
             damage: 20
         }

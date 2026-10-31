@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/059",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/059",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/059"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/059"
     },
     name: {
         en: "Azumarill",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Marill",
         "pt-br": "Marill",
         "zh-tw": "瑪力露",
-        ja: "Marill",
+        ja: "マリル",
         ko: "Marill"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Hasensprung",
                 "pt-br": "Salto do Coelho",
                 "zh-tw": "兔兒跳",
-                ja: "Rabbit Jumping",
+                ja: "ラビットジャンプ",
                 ko: "Rabbit Jumping"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。",
-                ja: "Flip 2 coins. This attack does 60 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×60ダメージ。",
                 ko: "Flip 2 coins. This attack does 60 damage for each heads."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Seine langen Ohren sind hervorragende Sensoren, mit denen es Geräusche unter Wasser unterscheiden und zuordnen kann.",
         "pt-br": "Suas orelhas longas são sensores soberbos. Ele é capaz de diferenciar os movimentos dos objetos nas águas e dizer o que eles são.",
         "zh-tw": "長長的耳朵是靈敏的感應器。能夠藉著辨識水中的聲音來分辨出是什麼在動。",
-        ja: "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+        ja: "長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。",
         ko: "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are."
     }
 };

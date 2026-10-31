@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/083",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/083",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/083"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/083"
     },
     name: {
         en: "Team Rocket's Weezing ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 it: "Smog Ustionante",
                 de: "Siedender Smog",
                 "pt-br": "Fumaça Escaldante",
-                "zh-tw": "蒸騰濁霧"
+                "zh-tw": "蒸騰濁霧",
+                ja: "ボイラースモッグ"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lasciare il Pokémon attivo del tuo avversario avvelenato e bruciato.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du entscheiden, ob das Aktive Pokémon deines Gegners nun vergiftet ist und verbrannt ist.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá deixar o Pokémon Ativo do seu oponente Envenenado e Queimado.",
-                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢中毒與灼傷。"
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢中毒與灼傷。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンをどくとやけどにする。"
             }
         }
     ],
@@ -73,7 +76,8 @@ const card: Card = {
                 it: "Gas Stordente",
                 de: "Verwirrgas",
                 "pt-br": "Gás de Confusão",
-                "zh-tw": "混亂瓦斯"
+                "zh-tw": "混亂瓦斯",
+                ja: "こんらんガス"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -82,7 +86,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "將對手的戰鬥寶可夢混亂。"
+                "zh-tw": "將對手的戰鬥寶可夢混亂。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 60
         }

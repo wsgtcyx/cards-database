@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/089",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/089",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/089"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/089"
     },
     name: {
         en: "Nickit",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Rückwärtskick",
                 "pt-br": "Chute Traseiro",
                 "zh-tw": "後踢",
-                ja: "Rear Kick",
+                ja: "うしろげり",
                 ko: "Rear Kick"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Es stiehlt Futter, das andere Pokémon gefunden haben. Dank der samtweichen Ballen an seinen Pfoten ist sein Gang lautlos.",
         "pt-br": "Com a ajuda das almofadas macias sob seus pés, saqueia sorrateiramente os estoques de comida de outros Pokémon. Sobrevive destes ganhos ilícitos.",
         "zh-tw": "靠搶奪其他寶可夢找到的食物為生。腳上長著軟乎乎的肉球，走路時不會發出絲毫聲響。",
-        ja: "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+        ja: "ほかの ポケモンが みつけた 餌を 掠めて 暮らしている。 ふかふかの 肉球は 足音を たてない。",
         ko: "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains."
     }
 };

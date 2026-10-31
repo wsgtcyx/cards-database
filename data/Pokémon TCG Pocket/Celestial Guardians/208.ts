@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/208",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/208",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/208",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/208"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/208",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/208"
     },
     name: {
         en: "Guzma",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Guzman",
         de: "Bromley",
         'pt-br': "Guzma",
+        ja: "グズマ",
         ko: "구즈마",
         "zh-tw": "古茲馬"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scarta tutte le carte Oggetto Pokémon assegnate ai Pokémon del tuo avversario.",
         de: "Lege alle an gegnerische Pokémon angelegte Pokémon-Ausrüstungen auf den Ablagestapel deines Gegners.",
         'pt-br': "Descarte todas as cartas de Ferramenta Pokémon ligadas a cada um dos Pokémon do seu oponente.",
+        ja: "相手のポケモン全員から「ポケモンのどうぐ」をすべてトラッシュ。",
         ko: "상대의 포켓몬 전원으로부터 「포켓몬의 도구」를 모두 트래쉬한다.",
         "zh-tw": "丟棄對手每隻神奇寶貝上附著的所有神奇寶貝工具卡。"
     },

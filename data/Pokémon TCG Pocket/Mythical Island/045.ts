@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/045"
     },
     name: {
         en: "Golem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golem",
         de: "Geowaz",
         'pt-br': "Golem",
+        ja: "ゴローニャ",
         ko: "딱구리",
         "zh-tw": "隆隆岩",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Georok",
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
+        ja: "ゴローン",
     },
     description: {
         en: "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Quando invecchia, non fa più la muta.\nIl guscio dei Golem molto anziani si\nricopre di muschio tingendosi di verde.",
         de: "Im Alter hört es auf, sich zu häuten.\nDer Panzer betagter Geowaz ist mit\ndichtem, grünem Moos bewachsen.",
         'pt-br': "Ao envelhecer, Golem param de mudar de\ncarapaça. Os que viveram muitos e muitos\nanos têm carapaças cobertas de musgo verde.",
+        ja: "年老いると 脱皮 しなくなる。 長く長く 生きた ゴローニャの カラは 苔むしていて 緑だ。",
         ko: "나이가 들면 탈피를 하지 않는다.\n긴 세월을 산 딱구리의 껍질은\n이끼가 끼어 초록색이다.",
         "zh-tw": "當魔像變老時，它們就會停止脫落外殼。那些活了很久很久的，貝殼上長滿了青苔。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Pressadifesa",
                 de: "Schutzdruck",
                 'pt-br': "Aperto Protetor",
+                ja: "ガードプレス",
                 ko: "가드프레스",
                 "zh-tw": "守衛壓力機"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −30 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -30한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。"
             }

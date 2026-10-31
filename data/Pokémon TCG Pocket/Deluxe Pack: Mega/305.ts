@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/305",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/305",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/305",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/305"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/305",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/305"
     },
     name: {
         en: "Kirlia",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
-        ja: "Ralts",
+        ja: "ラルトス",
         ko: "Ralts"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Die fröhliche Stimmung seines Trainers ist die Quelle seiner Psycho-Kräfte. Wenn es glücklich ist, tanzt und dreht es sich.",
         "pt-br": "O espírito animado de seu Treinador reforça o poder psicocinético deste Pokémon. Gira e dança quando está feliz.",
         "zh-tw": "訓練家開朗的情緒是牠的精神力量源泉。開心時會轉圈跳舞。",
-        ja: "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+        ja: "トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分になると クルクル 踊る。",
         ko: "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy."
     },
     attacks: [
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Doppeldreher",
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙重旋轉",
-                ja: "Double Spin",
+                ja: "ダブルスピン",
                 ko: "Double Spin"
             },
             effect: {
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。",
-                ja: "Flip 2 coins. This attack does 20 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。",
                 ko: "Flip 2 coins. This attack does 20 damage for each heads."
             },
             damage: "20x"

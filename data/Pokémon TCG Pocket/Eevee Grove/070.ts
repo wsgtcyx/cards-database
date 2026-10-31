@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/070"
     },
     name: {
         en: "Leafeon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Folipurba",
         "pt-br": "Leafeon",
         "zh-tw": "葉伊布",
+        ja: "リーフィア",
     },
     illustrator: "Ryota Murayama",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando vedi Leafeon addormentato in una zona di\nsole, saprai che sta usando la fotosintesi\nper produrre aria pulita.",
         "de": "Wenn Sie Leafeon in einem Stück schlafen sehen\nSonnenschein, Sie werden wissen, dass es Photosynthese nutzt\num saubere Luft zu erzeugen.",
         "pt-br": "Quando você vê Leafeon dormindo em um pedaço de\nluz do sol, você saberá que está usando a fotossíntese\npara produzir ar limpo.",
-        "zh-tw": "當你看到Leafeon在一片草地上睡著時\n陽光，你就會知道它正在利用光合作用\n產生潔淨的空氣。"
+        "zh-tw": "當你看到Leafeon在一片草地上睡著時\n陽光，你就會知道它正在利用光合作用\n產生潔淨的空氣。",
+        ja: "晴れた 日に 寝ている リーフィアは 光合成を して きれいな 空気を 作り出しているのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Esplosione di foglie",
                 "de": "Blattexplosion",
                 "pt-br": "Explosão de folhas",
-                "zh-tw": "葉瘟"
+                "zh-tw": "葉瘟",
+                ja: "リーフブラスト"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Energia {G} assegnata a questo Pokémon.",
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede {G}-Energie zu, die an dieses Pokémon angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {G} ligada a este Pokémon.",
-                "zh-tw": "該神奇寶貝每附加一個 {G} 能量，該攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該神奇寶貝每附加一個 {G} 能量，該攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンの{G}エネルギーの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

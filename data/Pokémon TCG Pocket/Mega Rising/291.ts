@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/291",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/291",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/291",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/291"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/291",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/291"
     },
     name: {
         en: "Dartrix",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
+        ja: "フクスロー",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bauz",
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
+        ja: "モクロー",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon narcisistico è un maniaco della pulizia. Se tu\nnon pulirlo diligentemente, potrebbe smettere di ascoltarti.",
         "de": "Dieses narzisstische Pokémon ist ein Sauberkeitsfreak. Wenn Sie\nPflegen Sie es nicht fleißig, es könnte sein, dass es Ihnen nicht mehr zuhört.",
         "pt-br": "Este Pokémon narcisista é uma aberração limpa. Se você\nnão o prepare diligentemente, ele pode parar de ouvi-lo.",
-        "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你\n不要勤奮地梳理它，它可能會不再聽你的。"
+        "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你\n不要勤奮地梳理它，它可能會不再聽你的。",
+        ja: "ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Immersione di abilità",
                 "de": "Geschicklichkeitstauchen",
                 "pt-br": "Mergulho de Habilidade",
-                "zh-tw": "技能潛水"
+                "zh-tw": "技能潛水",
+                ja: "ちょくげきひこう"
             },
             cost: ["Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "相手のポケモン1匹に20ダメージ。"
             }
         }],
     weaknesses: [{

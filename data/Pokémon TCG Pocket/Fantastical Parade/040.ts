@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/040"
     },
     name: {
         en: "Cryogonal",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cryogonal",
         "de": "Frigometri",
         "pt-br": "Cryogonal",
-        "zh-tw": "幾何雪花"
+        "zh-tw": "幾何雪花",
+        ja: "フリージオ"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Cryogonal usa le sue catene di ghiaccio per restringersi\navversari e poi li congela dove\nstanno.",
         "de": "Cryogonal nutzt seine Eisketten, um es zu verengen\nGegner und friert sie dann blitzschnell ein\nsie stehen.",
         "pt-br": "Cryogonal usa suas cadeias de gelo para contrair seu\noponentes e depois os congela onde\neles ficam.",
-        "zh-tw": "Cryogonal 使用其冰鏈來收縮其\n對手，然後將他們凍結在哪裡\n他們站著。"
+        "zh-tw": "Cryogonal 使用其冰鏈來收縮其\n對手，然後將他們凍結在哪裡\n他們站著。",
+        ja: "氷で できた 鎖を 使い 相手を 締め上げると そのまま 一気に 凍らせてしまうのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Blocco congelato",
                 "de": "Gefrorenes Schloss",
                 "pt-br": "Bloqueio Congelado",
-                "zh-tw": "冰凍鎖"
+                "zh-tw": "冰凍鎖",
+                ja: "カチカチロック"
             },
             damage: 20,
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questi non potrà giocare alcuna carta Oggetto dalla sua mano.",
                 "de": "Während des nächsten Zuges deines Gegners kann er keine Gegenstandskarten aus seiner Hand spielen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da sua mão.",
-                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。"
+                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。",
+                ja: "次の相手の番、相手は手札からグッズを出して使えない。"
             }
         }],
     weaknesses: [{

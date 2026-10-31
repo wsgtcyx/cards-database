@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/116",
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/116",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/116",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/116"
 	},
 	name: {
 		en: "Shaymin",
@@ -17,7 +18,8 @@ const card: Card = {
 		it: "Shaymin",
 		de: "Shaymin",
 		"pt-br": "Shaymin",
-		"zh-tw": "謝米"
+		"zh-tw": "謝米",
+		ja: "シェイミ"
 	},
 	illustrator: "Sekio",
 	rarity: "Three Diamond",
@@ -31,6 +33,7 @@ const card: Card = {
 		it: "Può dissolvere le tossine nell'aria per mutare\nall'istante una terra arida in un rigoglioso campo fiorito.",
 		de: "Es kann die Luft von Giften reinigen und Ödland\nin ein üppig blühendes Blumenfeld verwandeln.",
 		"pt-br": "Pode dissolver toxinas no ar para instantaneamente\ntransformar terras arruinadas em campos\nde flores deslumbrantes.",
+		ja: "大気の 毒素を 分解して 荒れた 大地を 一瞬のうちに 花畑にする 力を 持つ。",
 		ko: "대기의 독소를 분해해서\n거칠어진 대지를 일순간에\n꽃밭으로 만드는 힘을 가지고 있다.",
 		"zh-tw": "它可以溶解空氣中的毒素，讓荒蕪的土地瞬間變成茂盛的花田。"
 	},
@@ -45,6 +48,7 @@ const card: Card = {
 				it: "Giardino di Fiori Profumati",
 				de: "Duftender Blumengarten",
 				"pt-br": "Jardim de Flores Perfumadas",
+				ja: "かおるはなぞの",
 				ko: "향기로운 화원",
 				"zh-tw": "香花園"
 			},
@@ -55,6 +59,7 @@ const card: Card = {
 				it: "Una sola volta durante il tuo turno, puoi curare ciascuno dei tuoi Pokémon da 10 danni.",
 				de: "Einmal während deines Zuges kannst du 10 Schadenspunkte bei jedem deiner Pokémon heilen.",
 				"pt-br": "Uma vez durante o seu turno, você poderá curar 10 pontos de dano de cada um dos seus Pokémon.",
+				ja: "自分の番に1回使える。自分のポケモン全員のHPを10回復。",
 				ko: "자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 전원의 HP를 10회복.",
 				"zh-tw": "在你的回合中，你可以治療每隻神奇寶貝造成的 10 點傷害。"
 			}
@@ -69,6 +74,7 @@ const card: Card = {
 				it: "Tonfo",
 				de: "Plumps",
 				"pt-br": "Baque",
+				ja: "はねまわる",
 				ko: "돌아다니며 뛰기",
 				"zh-tw": "翻牌"
 			},

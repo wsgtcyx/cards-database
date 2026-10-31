@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/063"
     },
     name: {
         en: "Heliolisk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heliolisk",
         de: "Elezard",
         'pt-br': "Heliolisk",
+        ja: "エレザード",
         ko: "일레도리자드",
         "zh-tw": "光電傘蜥",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Eguana",
         "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
+        ja: "エリキテル",
     },
     description: {
         en: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "L'energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli.",
         de: "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
         'pt-br': "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
         ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다.",
         "zh-tw": "只要一隻日光蟲在陽光下伸展開來，就可以產生足夠的電力來為一座城市供電。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Retrocalcio",
                 de: "Rückwärtskick",
                 'pt-br': "Chute Traseiro",
+                ja: "うしろげり",
                 ko: "뒤로 차기",
                 "zh-tw": "後踢"
             },

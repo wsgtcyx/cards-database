@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/080"
     },
     name: {
         en: "Suicune ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Suicune-ex",
         "pt-br": "Suicune ex",
         "zh-tw": "水君ex",
+        ja: "スイクンex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Impulso leggendario",
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
-                "zh-tw": "傳奇脈搏"
+                "zh-tw": "傳奇脈搏",
+                ja: "でんせつのこどう"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Alla fine del tuo turno, se questo Pokémon è in posizione attiva, pesca una carta.",
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
-                "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。"
+                "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Valzer di cristallo",
                 "de": "Kristallwalzer",
                 "pt-br": "Valsa Cristal",
-                "zh-tw": "水晶華爾茲"
+                "zh-tw": "水晶華爾茲",
+                ja: "クリスタルワルツ"
             },
             damage: "20×",
             cost: ["Water", "Water"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni per ogni Pokémon in panchina (sia il tuo che quello del tuo avversario).",
                 "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 20 de dano para cada Pokémon no Banco (seu e do seu oponente).",
-                "zh-tw": "此攻擊對每個後備神奇寶貝（包括你的和你對手的）造成 20 點傷害。"
+                "zh-tw": "此攻擊對每個後備神奇寶貝（包括你的和你對手的）造成 20 點傷害。",
+                ja: "おたがいのベンチポケモンの数×20ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/134",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/134",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/134"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/134"
     },
     name: {
         en: "Deerling",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Plumps",
                 "pt-br": "Baque",
                 "zh-tw": "活蹦亂跳",
-                ja: "Flop",
+                ja: "はねまわる",
                 ko: "Flop"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
         de: "Da es nicht schüchtern ist, fühlt es sich auch in Gegenwart von Menschen wohl. Wenn man es füttert, freundet es sich sofort mit einem an.",
         "pt-br": "Estes Pokémon não são tímidos e agem como bem entenderem, mesmo na frente de pessoas. Se você alimentar um, ele logo gostará de você.",
         "zh-tw": "毫不怕生的性格使牠在人類面前也會做任何動作，只要給牠食物，就能立刻對牠拉近關係。",
-        ja: "These Pokémon are not shy—they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you.",
+        ja: "人見知りしない 性格なので 人間の 前でも マイペース。 エサを あげると すぐ 懐くよ。",
         ko: "These Pokémon are not shy—they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you."
     }
 };

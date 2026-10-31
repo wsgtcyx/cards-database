@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/342",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/342",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/342",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/342"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/342",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/342"
 	},
 	name: {
 		en: "Dawn",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Lucinda",
 		de: "Lucia",
 		"pt-br": "Dawn",
-		"zh-tw": "小光"
+		"zh-tw": "小光",
+		ja: "ヒカリ"
 	},
 	illustrator: "saino misaki",
 	rarity: "Two Diamond",
@@ -31,6 +33,7 @@ const card: Card = {
 		it: "Sposta un'Energia da uno dei tuoi Pokémon in panchina al tuo Pokémon attivo.",
 		de: "Verschiebe 1 Energie von 1 der Pokémon auf deiner Bank auf dein Aktives Pokémon.",
 		"pt-br": "Mova 1 Energia de 1 dos seus Pokémon no Banco para o seu Pokémon Ativo.",
+		ja: "自分のベンチポケモンからエネルギーを1個選び、バトルポケモンにつけ替える。",
 		ko: "자신의 벤치 포켓몬에서 에너지를 1개 선택해서 배틀 포켓몬에게 바꿔 붙인다.",
 		"zh-tw": "將能量從你的 1 個後備神奇寶貝轉移到你的活躍神奇寶貝上。"
 	},

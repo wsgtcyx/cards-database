@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/378",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/378",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/378",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/378"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/378",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/378"
     },
     name: {
         en: "Iris",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Wenn das Aktive Pokémon deines Gegners während dieses Zuges durch Schaden einer Attacke deines Maxax kampfunfähig wird, erhältst du 1 Punkt mehr.",
         "pt-br": "Durante este turno, se o Pokémon Ativo do seu oponente for Nocauteado pelo dano de um ataque usado pelos seus Haxorus, você receberá 1 ponto a mais.",
         "zh-tw": "在這個回合,若對手的戰鬥寶可夢因自己的「雙斧戰龍」使用的招式的傷害而昏厥了,則多獲得1分。",
-        ja: "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point.",
+        ja: "この番、自分の「オノノクス」が使うワザのダメージで、相手のバトルポケモンがきぜつしたなら、1ポイント多くとる。",
         ko: "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point."
     },
     trainerType: "Supporter"

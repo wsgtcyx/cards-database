@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/052"
     },
     name: {
         en: "Centiskorch",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Centiskorch",
         it: "Centiskorch",
         de: "Infernopod",
+        ja: "マルヤクデ",
         ko: "다태우지네",
         'pt-br': "Centiskorch",
         "zh-tw": "焚焰蚣",
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Sizzlipede",
         "de": "Thermopod",
         "pt-br": "Sizzlipede",
-        "zh-tw": "燒火蚣"
+        "zh-tw": "燒火蚣",
+        ja: "ヤクデ"
     },
     attacks: [{
             cost: ["Fire", "Colorless", "Colorless", "Colorless"],
@@ -43,6 +46,7 @@ const card: Card = {
                 es: "Llamarada",
                 it: "Fuocobomba",
                 de: "Feuersturm",
+                ja: "だいもんじ",
                 ko: "불대문자",
                 'pt-br': "Rajada de Fogo",
                 "zh-tw": "火爆"
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Descarta 1 Energía {R} de este Pokémon.",
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Quando genera calore, la temperatura del\nsuo corpo raggiunge gli 800 ºC. Si lancia\nall'attacco usando il corpo come una frusta.",
         de: "Wenn es Hitze erzeugt, beträgt seine Temperatur\netwa 800 °C. Es bewegt seinen Körper wie eine\nPeitsche, um dann den Gegner anzuspringen.",
         'pt-br': "Ao se aquecer, seu corpo atinge temperaturas de\ncerca de 800 ºC. Usa seu corpo como um chicote,\nlançando-se contra seus inimigos.",
+        ja: "発熱時の 体温は およそ ８００度。 体を 鞭のように しならせて 跳びかかってくるぞ。",
         ko: "발열 시의 체온은 약 800도.\n몸을 채찍처럼 휘면서\n덤벼든다.",
         "zh-tw": "當它升溫時，它的體溫達到約 1,500 華氏度。它像鞭子一樣抽打身體並向敵人發起攻擊。"
     },

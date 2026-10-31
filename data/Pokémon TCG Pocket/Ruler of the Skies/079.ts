@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/079",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/079",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/079"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/079"
     },
     name: {
         en: "Makuhita",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Sbattendo a ripetizione contro enormi alberi, si\ncostruisce un corpo e uno spirito indistruttibili.",
         de: "Indem es wieder und wieder Bäume rammt,\nerhält es einen zähen Körper und einen\nstahlharten Willen.",
         "pt-br": "Ele se torna cada vez mais duro ao bater sem parar em árvores grandes. Assim, ganha um corpo resistente e um espírito destemido.",
-        "zh-tw": "會不斷撞擊大樹\n來鍛鍊強韌的身體\n和不氣餒的心。"
+        "zh-tw": "會不斷撞擊大樹\n來鍛鍊強韌的身體\n和不氣餒的心。",
+        ja: "大木に 何度も 体当たりして 強靭な 体と くじけない 心を 鍛え上げるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugno Magnum",
                 de: "Magnum Punch",
                 "pt-br": "Soco Magnum",
-                "zh-tw": "增量拳"
+                "zh-tw": "增量拳",
+                ja: "マグナムパンチ"
             },
             damage: 30
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/171",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/171"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/171"
     },
     name: {
         en: "Doublade",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Duokles",
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
+        ja: "ニダンギル",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Gramokles",
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
+        ja: "ヒトツキ",
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le due spade utilizzano una strategia di rapidità\nalternando attacco e difesa\nabbattere la loro preda.",
         "de": "Die beiden Schwerter verfolgen eine schnelle Strategie\nWechsel zwischen Angriff und Verteidigung\nbringen ihre Beute zur Strecke.",
         "pt-br": "As duas espadas empregam uma estratégia de rapidamente\nalternando entre ataque e defesa para\nderrubar suas presas.",
-        "zh-tw": "兩把劍採用了快速的策略\n攻防交替\n打倒他們的獵物。"
+        "zh-tw": "兩把劍採用了快速的策略\n攻防交替\n打倒他們的獵物。",
+        ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 40,
             cost: ["Metal", "Colorless"]

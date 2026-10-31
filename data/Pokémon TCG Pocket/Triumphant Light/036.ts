@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/036"
     },
     name: {
         en: "Sudowoodo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sudowoodo",
         de: "Mogelbaum",
         'pt-br': "Sudowoodo",
+        ja: "ウソッキー",
         ko: "꼬지모",
         "zh-tw": "樹才怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sebbene finga di essere un albero, il suo corpo\nha una composizione più simile a quella di una\nroccia che a quella di un vegetale.",
         de: "Obwohl es vorgibt, ein Baum zu sein, kommt seine\nZusammensetzung einem Stein näher als einer Pflanze.",
         'pt-br': "Apesar de sempre fingir ser uma árvore, sua composição\ntem mais semelhanças com pedras do que com vegetação.",
+        ja: "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。",
         ko: "항상 나무인 척하고 있다.\n몸의 구조는 식물보다\n돌이나 바위에 가까운 듯하다.",
         "zh-tw": "雖然它總是假裝是一棵樹，但它的構成看起來更像岩石而不是植被。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bottintesta Combattente",
                 de: "Kämpferische Kopfnuss",
                 'pt-br': "Cabeçada de Luta",
+                ja: "とうしのずつき",
                 ko: "투지의박치기",
                 "zh-tw": "格鬥頭撞"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è un Pokémon-{ex}, questo attacco infligge 30 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 30 pontos de dano a mais.",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、30ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 30데미지를 추가한다.",
                 "zh-tw": "如果對手的活躍神奇寶貝是神奇寶貝 {ex}，則此攻擊造成的傷害增加 30 點。"
             }

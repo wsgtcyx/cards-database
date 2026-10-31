@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/280",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/280",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/280",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/280"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/280",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/280"
     },
     name: {
         en: "Mega Absol ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mega-Absol-ex",
         "pt-br": "Mega Absol ex",
         "zh-tw": "超級阿勃梭魯ex",
+        ja: "メガアブソルex",
     },
     illustrator: "kawayoo",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mentre l'energia della megaevoluzione lo riempie, la sua pelliccia\nsetole. Ciò che vedi sul dorso non è vero\nali e questo Pokémon non è in grado di volare.",
         "de": "Während die Energie von Mega Evolution es erfüllt, ist sein Fell\nBorsten. Was Sie auf der Rückseite sehen, ist nicht wahr\nFlügel, und dieses Pokémon kann nicht fliegen.",
         "pt-br": "À medida que a energia da Mega Evolução o preenche, seu pelo\ncerdas. O que você vê nas costas não é verdade\nasas, e este Pokémon não é capaz de voar.",
-        "zh-tw": "當超級進化的能量充滿它時，它的毛皮\n鬃毛。你在它背面看到的不是真的\n翅膀，但這只神奇寶貝不能飛。"
+        "zh-tw": "當超級進化的能量充滿它時，它的毛皮\n鬃毛。你在它背面看到的不是真的\n翅膀，但這只神奇寶貝不能飛。",
+        ja: "メガシンカの エネルギーが みなぎり 全身の 体毛が 逆立つ。 翼では ないので 飛べは しない。"
     },
     stage: "Basic",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Artiglio dell'Oscurità",
                 "de": "Dunkelheitsklaue",
                 "pt-br": "Garra da Escuridão",
-                "zh-tw": "黑暗之爪"
+                "zh-tw": "黑暗之爪",
+                ja: "ダークネスクロー"
             },
             damage: 80,
             cost: ["Darkness", "Darkness"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Il tuo avversario rivela la sua mano. Scegli una carta Aiuto che trovi lì e scartala.",
                 "de": "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und wirf sie ab.",
                 "pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e descarte-a.",
-                "zh-tw": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。"
+                "zh-tw": "你的對手亮出了他們的牌。選擇您在那裡找到的一張支持者卡並將其丟棄。",
+                ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、トラッシュ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/053",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/053",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/053"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/053"
     },
     name: {
         en: "Gabite",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
         de: "Es liebt funkelnde Dinge und sucht in Höhlen nach Schätzen, die es dann in seinem Nest hortet.",
         "pt-br": "Adora objetos cintilantes. Ele procura tesouros nas cavernas e armazena os saques em seu ninho.",
-        "zh-tw": "最喜歡閃閃發光的東西，所以會把在洞窟裡找到的寶物積存到自己的巢穴裡。"
+        "zh-tw": "最喜歡閃閃發光的東西，所以會把在洞窟裡找到的寶物積存到自己的巢穴裡。",
+        ja: "光り輝く ものが 大好きで 洞窟の 中で 見つけた 宝を 自分の巣に ためこむ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Attacco Lineare",
                 de: "Linearer Angriff",
                 "pt-br": "Ataque Linear",
-                "zh-tw": "直擊彈"
+                "zh-tw": "直擊彈",
+                ja: "ちょくげきだん"
             },
             effect: {
                 en: "This attack does 50 damage to 1 of your opponent's Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "對手的1隻寶可夢受到50點傷害。"
+                "zh-tw": "對手的1隻寶可夢受到50點傷害。",
+                ja: "相手のポケモン1匹に50ダメージ。"
             }
         }
     ],

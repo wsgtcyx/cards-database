@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/118",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/118"
     },
     name: {
         en: "Probopass",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Probopass",
         de: "Voluminas",
         'pt-br': "Probopass",
+        ja: "ダイノーズ",
         ko: "대코파스",
         "zh-tw": "大朝北鼻",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Nasgnet",
         "pt-br": "Nosepass",
         "zh-tw": "朝北鼻",
+        ja: "ノズパス",
     },
     description: {
         en: "Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Controlla delle unità dette Mininasi, ma pare che a\nvolte queste si smarriscano e non riescano più a tornare.",
         de: "Es steuert kleine Einheiten, die man Mininasen nennt.\nLeider verirren sie sich manchmal, und es heißt,\ndass einige von ihnen nie wiederkehren.",
         'pt-br': "Apesar de poder controlar suas unidades conhecidas\ncomo Mininarizes, elas às vezes se perdem\ne não retornam.",
+        ja: "チビノーズと 呼ばれる ユニットを 操るが たまに 迷子に なって 帰ってこないことも あるらしい。",
         ko: "꼬마코파스라고 불리는 유닛을\n조종하지만 가끔 미아가 되어\n돌아오지 않는 경우도 있는 듯하다.",
         "zh-tw": "雖然它可以控制被稱為迷你鼻子的單位，但它們有時會迷路並且不會回來。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Triplo Naso",
                 de: "Dreifachnase",
                 'pt-br': "Nariz Triplo",
+                ja: "トリプルノーズ",
                 ko: "트리플노즈",
                 "zh-tw": "三鼻"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Questo attacco infligge 50 danni in più ogni volta che esce testa.",
                 de: "Wirf 3 Münzen. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu.",
                 'pt-br': "Jogue 3 moedas. Este ataque causa 50 pontos de dano a mais para cada cara.",
+                ja: "コインを3回投げ、オモテの数×50ダメージ追加。",
                 ko: "동전을 3번 던져서 앞면이 나온 수 × 50데미지를 추가한다.",
                 "zh-tw": "翻轉 3 個硬幣。此攻擊對每個頭造成 50 點額外傷害。"
             }

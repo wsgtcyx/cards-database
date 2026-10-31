@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/210",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/210",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/210",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/210"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/210",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/210"
     },
     name: {
         en: "Aerodactyl",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Aerodactyl",
         de: "Aerodactyl",
         'pt-br': "Aerodactyl",
+        ja: "プテラ",
         ko: "프테라",
         "zh-tw": "化石翼龍",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ambra Antica",
         "de": "Altbernstein",
         "pt-br": "Âmbar Velho",
-        "zh-tw": "秘密琥珀"
+        "zh-tw": "秘密琥珀",
+        ja: "ひみつのコハク"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Folata Primordiale",
                 de: "Antikschwinge",
                 'pt-br': "Ataque de Asa Primitivo",
+                ja: "げんしのはばたき",
                 ko: "원시의날갯짓",
                 "zh-tw": "原始翼拍"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il tuo avversario rimischia il suo Pokémon attivo nel suo mazzo.",
                 de: "Wirf 1 Münze. Bei Kopf mischt dein Gegner sein Aktives Pokémon in sein Deck.",
                 'pt-br': "Jogue uma moeda. Se sair cara, seu oponente embaralhará o Pokémon Ativo dele no baralho dele.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンを山札にもどす。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 덱으로 되돌린다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，對手將其活躍神奇寶貝洗入牌組。"
             }
@@ -71,6 +76,7 @@ const card: Card = {
         it: "È un feroce Pokémon dell'antichità.\nPare che con la tecnologia odierna non\nsia possibile rigenerarlo perfettamente.",
         de: "Selbst mit moderner Technologie scheint es\nunmöglich, ein perfektes Exemplar von diesem\nwilden urzeitlichen Pokémon zu reproduzieren.",
         'pt-br': "Um Pokémon feroz de tempos antigos.\nPelo visto, nem a tecnologia moderna conseguiu\nproduzir um espécime restaurado com perfeição.",
+        ja: "古代の 獰猛な ポケモン。 完璧な 復元は いまの 科学でも 不可能らしい。",
         ko: "고대의 거칠고 사나운 포켓몬이다.\n완벽한 복원은 현대의\n과학으로도 불가능하다고 한다.",
         "zh-tw": "這是自古以來兇猛的寶可夢。顯然，即使是現代技術也無法生產出完美修復的標本。"
     },

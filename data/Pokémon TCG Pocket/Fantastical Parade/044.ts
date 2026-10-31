@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/044"
     },
     name: {
         en: "Drednaw",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Drednaw",
         "de": "Kamalm",
         "pt-br": "Drednaw",
-        "zh-tw": "暴噬龜"
+        "zh-tw": "暴噬龜",
+        ja: "カジリガメ"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Chewtle",
         "de": "Kamehaps",
         "pt-br": "Chewtle",
-        "zh-tw": "咬咬龜"
+        "zh-tw": "咬咬龜",
+        ja: "カムカメ"
     },
     description: {
         en: "Drednaw lurks along the shoreline. When prey\ncome to drink water, Drednaw stretches its neck\nout and chomps down on them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Drednaw si nasconde lungo la costa. Quando preda\nvenuto a bere acqua, Drednaw allunga il collo\nfuori e li mastica.",
         "de": "Drednaw lauert an der Küste. Wenn Beute\nDrednaw kommt, um Wasser zu trinken, und streckt seinen Hals\nraus und kaut auf ihnen herum.",
         "pt-br": "Drednaw espreita ao longo da costa. Quando presa\nvem beber água, Drednaw estica o pescoço\ne os mastiga.",
-        "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。"
+        "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。",
+        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Impatto pesante",
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
-                "zh-tw": "重擊"
+                "zh-tw": "重擊",
+                ja: "ヘビーインパクト"
             },
             damage: 120,
             cost: ["Water", "Water", "Water", "Colorless"]

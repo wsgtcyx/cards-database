@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/034"
     },
     name: {
         en: "Drifblim",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drifblim",
         de: "Drifzepeli",
         'pt-br': "Drifblim",
+        ja: "フワライド",
         ko: "둥실라이드",
         "zh-tw": "隨風球",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Drifloon",
         "de": "Driftlon",
         "pt-br": "Drifloon",
-        "zh-tw": "飄飄球"
+        "zh-tw": "飄飄球",
+        ja: "フワンテ"
     },
     description: {
         en: "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Può regolare l'altitudine di volo grazie\nalla capacità di produrre gas all'interno\ndel proprio corpo e di espellerli.",
         de: "Indem es Gas in seinem Körper erzeugt und\nwieder ausstößt, reguliert es seine Flughöhe.",
         'pt-br': "Ele pode gerar e soltar gases dentro do seu corpo.\nÉ assim que ele pode controlar a altitude da sua flutuação.",
+        ja: "体の 中で ガスを 作ったり 吐き出したり することで 空を 飛ぶ 高さを 調節する。",
         ko: "몸 안에서 가스를\n만들거나 토해 내며\n하늘을 나는 높이를 조절한다.",
         "zh-tw": "它可以在體內產生並釋放氣體。這就是它如何控制漂移高度的方法。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Raffica",
             de: "Windstoß",
             'pt-br': "Lufada de Vento",
+            ja: "かぜおこし",
             ko: "바람일으키기",
             "zh-tw": "陣風"
         },

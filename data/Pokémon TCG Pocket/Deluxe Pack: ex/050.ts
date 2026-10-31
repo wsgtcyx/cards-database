@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/050"
     },
     name: {
         en: "Sprigatito",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Felori",
         "pt-br": "Sprigatito",
         "zh-tw": "新葉喵",
+        ja: "ニャオハ",
     },
     illustrator: "mashu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua soffice pelliccia è simile nella composizione alle piante.\nQuesto Pokémon si lava spesso la faccia per mantenersi\ndall'essiccarsi.",
         "de": "Sein flauschiges Fell ähnelt in seiner Zusammensetzung Pflanzen.\nDieses Pokémon wäscht häufig sein Gesicht, um es zu behalten\nes vor dem Austrocknen.",
         "pt-br": "Seu pelo fofo tem composição semelhante à das plantas.\nEste Pokémon lava frequentemente o rosto para manter\nevitar que seque.",
-        "zh-tw": "它蓬鬆的皮毛與植物的成分相似。\n這只神奇寶貝經常洗臉以保持健康\n防止它變乾。"
+        "zh-tw": "它蓬鬆的皮毛與植物的成分相似。\n這只神奇寶貝經常洗臉以保持健康\n防止它變乾。",
+        ja: "フワフワの 体毛は 植物に 近い 成分。 こまめに 顔を 洗って 乾燥を 防ぐ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gridare aiuto",
                 "de": "Hilferuf",
                 "pt-br": "Clame por ajuda",
-                "zh-tw": "求救"
+                "zh-tw": "求救",
+                ja: "ともだちをよぶ"
             },
             cost: ["Grass"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti nella tua mano 1 Pokémon {G} casuale dal tuo mazzo.",
                 "de": "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
-                "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。"
+                "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。",
+                ja: "自分の山札から{G}ポケモンをランダムに1枚、手札に加える。"
             }
         }],
     weaknesses: [{

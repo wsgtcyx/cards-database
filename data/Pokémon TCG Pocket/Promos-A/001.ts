@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/001"
     },
     name: {
         en: "Potion",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pozione",
         de: "Trank",
         'pt-br': "Poção",
+        ja: "きずぐすり",
         ko: "상처약",
         "zh-tw": "傷藥"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Pokémon da 20 danni.",
         de: "Heile 20 Schadenspunkte bei 1 deiner Pokémon.",
         'pt-br': "Cure 20 pontos de dano de 1 dos seus Pokémon.",
+        ja: "自分のポケモン1匹のHPを20回復。",
         ko: "자신의 포켓몬 1마리의 HP를 20회복.",
         "zh-tw": "治療你的 1 只神奇寶貝造成的 20 點傷害。"
     },

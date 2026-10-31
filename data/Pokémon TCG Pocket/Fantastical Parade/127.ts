@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/127"
     },
     name: {
         en: "Mega Kangaskhan ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Kangaskhan-ex",
         "de": "Mega-Kangama-ex",
         "pt-br": "Mega Kangaskhan ex",
-        "zh-tw": "超級袋獸ex"
+        "zh-tw": "超級袋獸ex",
+        ja: "メガガルーラex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La forza di Mega Kangaskhan deriva da\nla felicità della madre per la crescita del figlio.\nVederlo crescere le tiene alto il morale.",
         "de": "Die Stärke von Mega Kangaskhan ergibt sich aus dem\ndie Freude der Mutter über das Wachstum ihres Kindes.\nZuzusehen, wie es heranwächst, hält ihre Stimmung hoch.",
         "pt-br": "A força de Mega Kangaskhan deriva do\nfelicidade da mãe com o crescimento do filho.\nVê-lo crescer mantém seu ânimo elevado.",
-        "zh-tw": "Mega Kangaskhan的力量源自\n母親為孩子的成長感到高興。\n看著它長大，她的精神振奮起來。"
+        "zh-tw": "Mega Kangaskhan的力量源自\n母親為孩子的成長感到高興。\n看著它長大，她的精神振奮起來。",
+        ja: "メガガルーラが 強い 理由は 子どもの 成長に 喜び 張り切っている ママの せい。"
     },
     stage: "Basic",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Famiglia del doppio pugno",
                 "de": "Doppelt schlagende Familie",
                 "pt-br": "Família de socos duplos",
-                "zh-tw": "雙拳家族"
+                "zh-tw": "雙拳家族",
+                ja: "ファミリーダブルパンチ"
             },
             damage: 80,
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Questo attacco viene utilizzato due volte di seguito. Il secondo attacco infligge 40 danni. (Se il primo attacco mette KO il Pokémon attivo del tuo avversario, il secondo attacco viene utilizzato dopo che il tuo avversario ha scelto un nuovo Pokémon attivo.)",
                 "de": "Dieser Angriff wird zweimal hintereinander ausgeführt. Der zweite Angriff verursacht 40 Schadenspunkte. (Wenn der erste Angriff das Aktive Pokémon deines Gegners kampfunfähig macht, wird der zweite Angriff ausgeführt, nachdem dein Gegner ein neues Aktives Pokémon ausgewählt hat.)",
                 "pt-br": "Este ataque é usado duas vezes seguidas. O segundo ataque causa 40 de dano. (Se o primeiro ataque Nocautear o Pokémon Ativo do seu oponente, o segundo ataque será usado depois que seu oponente escolher um novo Pokémon Ativo.)",
-                "zh-tw": "這種攻擊連續使用了兩次。第二次攻擊造成 40 點傷害。 （如果第一次攻擊擊倒對手的活躍神奇寶貝，則在對手選擇新的活躍神奇寶貝後使用第二次攻擊。）"
+                "zh-tw": "這種攻擊連續使用了兩次。第二次攻擊造成 40 點傷害。 （如果第一次攻擊擊倒對手的活躍神奇寶貝，則在對手選擇新的活躍神奇寶貝後使用第二次攻擊。）",
+                ja: "このワザは2回連続で使う。2回目は40ダメージ。 (1回目で相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目を使う。)"
             }
         }],
     weaknesses: [{

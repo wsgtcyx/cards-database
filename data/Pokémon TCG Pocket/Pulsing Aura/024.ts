@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/024",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/024",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/024"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/024"
     },
     name: {
         en: "Castform Sunny Form",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Castform Forma Ensolarada",
         "zh-tw": "飄浮泡泡太陽的樣子",
         ko: "캐스퐁 태양의 모습",
-        ja: "ポワルン たいようのすがた"
+        ja: "ポワルンたいようのすがた"
     },
     illustrator: "Lee HyunJung",
     rarity: "One Diamond",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Castform assume questa forma quando si crogiola alla luce del sole. Quando tocchi la sua pelle luminosa, sembra tutta secca!",
         de: "Formeo nimmt diese Form an, wenn es sich in hellem Sonnenlicht sonnt. Wenn man seine strahlende Haut berührt, fühlt es sich völlig ausgetrocknet an!",
         "pt-br": "Castform muda para esta forma quando se aquece sob a luz solar intensa. Quando você toca sua pele brilhante, ela fica toda seca!",
-        "zh-tw": "當飄浮泡泡沐浴在明亮的陽光下時，它會變成這種形式。當你觸摸它發光的皮膚時，感覺整個人都乾了！"
+        "zh-tw": "當飄浮泡泡沐浴在明亮的陽光下時，它會變成這種形式。當你觸摸它發光的皮膚時，感覺整個人都乾了！",
+        ja: "暑い 日差しを 浴びていると この姿に 変わる。 火照った 身体を 触ると パサパサするぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Sole Ustionante",
                 de: "Sonniges Versengen",
                 "pt-br": "Abrasamento Ensolarado",
-                "zh-tw": "太陽灼燒"
+                "zh-tw": "太陽灼燒",
+                ja: "やけつくたいよう"
             },
             effect: {
                 en: "If a Stadium is in play, your opponent's Active Pokémon is now Burned.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se è in gioco uno Stadio, il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Wenn ein Stadion im Spiel ist, ist das Aktive Pokémon deines Gegners jetzt verbrannt.",
                 "pt-br": "Se um Estádio estiver em jogo, o Pokémon Ativo do seu oponente estará Queimado.",
-                "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在會被燒毀。"
+                "zh-tw": "如果體育場正在進行中，對手的活躍寶可夢現在會被燒毀。",
+                ja: "場にスタジアムが出ているなら、相手のバトルポケモンをやけどにする。"
             },
             damage: 30
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/030",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/030",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/030"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/030"
     },
     name: {
         en: "Tornadus",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "L’energia sprigionata dalla coda di Tornadus provoca una\nviolenta tempesta in grado di spazzare via le case.",
         de: "Mit der Energie aus seiner Rute erzeugt es wilde Stürme,\ndie stark genug sind, um ganze Wohnhäuser davonzuwehen.",
         "pt-br": "Tornadus expele energia massiva de sua cauda, ​​causando fortes tempestades. Seu poder é grande o suficiente para explodir casas.",
-        "zh-tw": "龍捲雲從尾部排出大量能量，引發嚴重風暴。其威力之大足以炸毀房屋。"
+        "zh-tw": "龍捲雲從尾部排出大量能量，引發嚴重風暴。其威力之大足以炸毀房屋。",
+        ja: "トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colposecco",
                 de: "Durchdringender Strahl",
                 "pt-br": "Sopro Intenso",
-                "zh-tw": "穿堂風"
+                "zh-tw": "穿堂風",
+                ja: "ふきぬける"
             },
             effect: {
                 en: "If a Stadium is in play, this attack does 40 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se è in gioco uno Stadio, questo attacco infligge 40 danni in più.",
                 de: "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 40 de dano a mais.",
-                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。"
+                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 40 點以上的傷害。",
+                ja: "場にスタジアムが出ているなら、40ダメージ追加。"
             },
             damage: "40+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/036"
     },
     name: {
         en: "Palossand",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Colossand",
         "pt-br": "Palossand",
         "zh-tw": "噬沙堡爺",
+        ja: "シロデスナ",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
+        ja: "スナバァ",
     },
     description: {
         en: "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "The terrifying Palossand drags smaller Pokémon\nnel suo corpo sabbioso. Once its victims are trapped,\nli prosciuga della loro vitalità ogni volta che vuole.",
         "de": "Der furchteinflößende Palossand schleppt kleinere Pokémon mit sich\nin seinen sandigen Körper. Sobald seine Opfer gefangen sind,\nes entzieht ihnen ihre Vitalität, wann immer es ihnen gefällt.",
         "pt-br": "O aterrorizante Palossand arrasta Pokémon menores\nem seu corpo arenoso. Uma vez que suas vítimas estão presas,\nisso drena sua vitalidade sempre que lhe agrada.",
-        "zh-tw": "可怕的帕羅沙拖曳著較小的神奇寶貝\n進入它的沙質身體。一旦受害者被困，\n它隨時都會耗盡他們的活力。"
+        "zh-tw": "可怕的帕羅沙拖曳著較小的神奇寶貝\n進入它的沙質身體。一旦受害者被困，\n它隨時都會耗盡他們的活力。",
+        ja: "小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Tomba di sabbia",
                 "de": "Sandgrab",
                 "pt-br": "Tumba de Areia",
-                "zh-tw": "沙墓"
+                "zh-tw": "沙墓",
+                ja: "すなじごく"
             },
             damage: 90,
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

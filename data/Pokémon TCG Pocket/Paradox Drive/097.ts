@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/097",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/097",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/097"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/097"
     },
     name: {
         en: "Rabsca",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Un bambino dorme dentro la palla. Rabsca fa rotolare dolcemente la palla con le gambe per garantire che il bambino dorma comodamente.",
         de: "Ein Kleinkind schläft im Ball. Skarabaks rollt den Ball beruhigend mit seinen Beinen, um sicherzustellen, dass das Kind bequem schläft.",
         "pt-br": "Uma criança dorme dentro da bola. Rabsca rola a bola suavemente com as pernas para garantir que o bebê durma confortavelmente.",
-        "zh-tw": "嬰兒睡在球內。 蟲甲聖 用腿舒緩地滾動球，確保嬰兒舒適睡眠。"
+        "zh-tw": "嬰兒睡在球內。 蟲甲聖 用腿舒緩地滾動球，確保嬰兒舒適睡眠。",
+        ja: "玉の中に 赤ん坊が 眠る。 心地よく 眠れるように 脚で 玉を まわして あやしているのだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psicoraggio",
                 de: "Psystrahl",
                 "pt-br": "Feixe Psíquico",
-                "zh-tw": "幻象光線"
+                "zh-tw": "幻象光線",
+                ja: "サイケこうせん"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。"
             },
             damage: 80
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/012"
     },
     name: {
         en: "Talonflame",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fiaro",
         "pt-br": "Talonflame",
         "zh-tw": "烈箭鷹",
+        ja: "ファイアロー",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Dartignis",
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
+        ja: "ヒノヤコマ",
     },
     description: {
         en: "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ha capacità di volo di prim'ordine. Vola\nmuoversi facilmente, anche mentre trasporta la preda\nche pesa più di 220 libbre.",
         "de": "Es verfügt über erstklassige Flugfähigkeiten. Es fliegt\nleicht herumlaufen, selbst beim Tragen von Beute\ndas mehr als 220 Pfund wiegt.",
         "pt-br": "Possui capacidades de vôo de alto nível. Ele voa\nfacilmente, mesmo carregando uma presa\nque pesa mais de 220 libras.",
-        "zh-tw": "它具有一流的飛行能力。它飛\n即使攜帶獵物，也能輕鬆四處走動\n重量超過 220 磅。"
+        "zh-tw": "它具有一流的飛行能力。它飛\n即使攜帶獵物，也能輕鬆四處走動\n重量超過 220 磅。",
+        ja: "飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fiamma Ardente",
                 "de": "Sengende Flamme",
                 "pt-br": "Chama Abrasadora",
-                "zh-tw": "灼熱火焰"
+                "zh-tw": "灼熱火焰",
+                ja: "やきこがす"
             },
             damage: 50,
             cost: ["Fire"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"
+                "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。",
+                ja: "相手のバトルポケモンをやけどにする。"
             }
         }],
     weaknesses: [{

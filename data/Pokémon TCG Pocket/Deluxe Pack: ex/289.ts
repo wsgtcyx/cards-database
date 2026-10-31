@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/289",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/289",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/289",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/289"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/289",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/289"
 	},
 	name: {
         en: "Lugia ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lugia-ex",
         "pt-br": "Lugia ex",
         "zh-tw": "洛奇亞ex",
+        ja: "ルギアex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Esplosione Elementale",
                 "de": "Elementarexplosion",
                 "pt-br": "Explosão Elemental",
-                "zh-tw": "元素衝擊"
+                "zh-tw": "元素衝擊",
+                ja: "エレメンタルブラスト"
             },
             damage: 180,
             cost: ["Fire", "Water", "Lightning"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {R}, {W} e {L} da questo Pokémon.",
                 "de": "Lege eine {R}-, {W}- und {L}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma energia {R}, {W} e {L} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {R}、{W} 和 {L} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {R}、{W} 和 {L} 能量。",
+                ja: "このポケモンから{R}と{W}と{L}エネルギーを1個ずつトラッシュ。"
             }
         }],
     weaknesses: [{

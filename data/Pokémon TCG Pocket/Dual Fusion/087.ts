@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/087",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/087",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/087"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/087"
     },
     name: {
         en: "Zorua",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Kratzer",
                 "pt-br": "Arranhão",
                 "zh-tw": "抓",
-                ja: "Scratch",
+                ja: "ひっかく",
                 ko: "Scratch"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Es überrumpelt andere, indem es deren Gestalt annimmt. Angeblich tarnt es sich oft als wortkarges Kind.",
         "pt-br": "Ele muda para as formas de outros para surpreendê-los. Aparentemente, transforma-se com frequência em uma criança quieta.",
         "zh-tw": "會為了讓對手卸下戒心而變化成各種樣子。據說經常會變成沉默寡言的小孩。",
-        ja: "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+        ja: "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。",
         ko: "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child."
     }
 };

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/013",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/013",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/013"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/013"
     },
     name: {
         en: "Team Rocket's Lapras",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "La sua grande intelligenza gli permette di capire anche il linguaggio umano. Ama nuotare in mare trasportando persone.",
         de: "Dieses intelligente Pokémon versteht die Sprache der Menschen und liebt es, mit ihnen auf dem Rücken über das Meer zu schwimmen.",
         "pt-br": "Muito inteligente e capaz de entender a fala humana, adora nadar no mar com pessoas em suas costas.",
-        "zh-tw": "有著能夠理解人類語言的高度智慧，是喜歡在背上載著人類在大海游泳的寶可夢。"
+        "zh-tw": "有著能夠理解人類語言的高度智慧，是喜歡在背上載著人類在大海游泳的寶可夢。",
+        ja: "人の 言葉を 理解する 高い 知能を持ち 背中に 人を乗せて 海を泳ぐのが 好きな ポケモン。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Vortice Spietato",
                 de: "Grausamer Strudel",
                 "pt-br": "Redemoinho Cruel",
-                "zh-tw": "冷酷漩渦"
+                "zh-tw": "冷酷漩渦",
+                ja: "れいこくなうず"
             },
             effect: {
                 en: "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Se questo Pokémon ha più Energie assegnate del Pokémon attivo del tuo avversario, questo attacco infligge 40 danni in più.",
                 de: "Wenn an dieses Pokémon mehr Energien angelegt sind als an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver mais Energia ligada a ele do que o Pokémon Ativo do seu oponente, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "若這隻寶可夢身上的能量的數量,比對手的戰鬥寶可夢身上的能量的數量多,則增加40點傷害。"
+                "zh-tw": "若這隻寶可夢身上的能量的數量,比對手的戰鬥寶可夢身上的能量的數量多,則增加40點傷害。",
+                ja: "このポケモンのエネルギーの数が、相手のバトルポケモンのエネルギーの数より多いなら、40ダメージ追加。"
             },
             damage: "40+"
         }

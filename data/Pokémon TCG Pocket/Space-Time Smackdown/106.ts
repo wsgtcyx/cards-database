@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/106"
     },
     name: {
         en: "Drapion",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drapion",
         de: "Piondragi",
         'pt-br': "Drapion",
+        ja: "ドラピオン",
         ko: "드래피온",
         "zh-tw": "龍王蠍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Pionskora",
         "pt-br": "Skorupi",
         "zh-tw": "鉗尾蠍",
+        ja: "スコルピ",
     },
     description: {
         en: "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Le sue tossine sono letali ma se ne serve di rado.\nSemina distruzione con la sua forza prodigiosa\nche gli permette di sfasciare persino automobili.",
         de: "Sein Gift ist stark, aber es setzt es nur selten ein.\nIst es richtig wütend, schlägt es mit einer Wucht zu,\ndie selbst Autos zu Schrott verarbeitet.",
         'pt-br': "Seu veneno é poderoso, mas é raramente usado.\nEste Pokémon prefere usar sua força física, partindo\npara a briga com um vigor destrutivo.",
+        ja: "猛毒を もつが 使うことは まれ。 車も 叩きつぶす 怪力で 暴れまわる。",
         ko: "맹독을 지녔지만 사용하는 일은\n드물다. 자동차도 때려 부수는\n괴력으로 마구 날뛴다.",
         "zh-tw": "它的毒力很強，但很少有人使用。這種神奇寶貝更喜歡使用物理力量，利用其碾碎汽車的力量進行狂暴。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Velenocroce",
                 de: "Giftstreich",
                 'pt-br': "Corte-veneno",
+                ja: "クロスポイズン",
                 ko: "크로스포이즌",
                 "zh-tw": "交叉毒藥"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "Lanza 4 monedas. Este ataque hace 40 puntos de daño por cada cara. Si sale cara en por lo menos 2 de ellas, el Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Lancia una moneta 4 volte. Questo attacco infligge 40 danni ogni volta che esce testa. Se esce testa almeno 2 volte, il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Wirf 4 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu. Wenn mindestens 2 Münzen Kopf zeigen, ist das Aktive Pokémon deines Gegners jetzt vergiftet.",
+                ja: "コインを4回投げ、オモテの数×40ダメージ。オモテが2回以上なら、相手のバトルポケモンをどくにする。",
                 ko: "동전을 4번 던져서 앞면이 나온 수 × 40데미지를 준다. 앞면이 2번 이상 나오면 상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "Jogue 4 moedas. Este ataque causa 40 pontos de dano para cada cara. Se pelo menos 2 delas saírem cara, o Pokémon Ativo do seu oponente agora estará Envenenado.",
                 "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 40 點傷害。如果其中至少有 2 個為正面，則對手的活躍神奇寶貝現在中毒。"

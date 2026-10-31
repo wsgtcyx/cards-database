@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/022",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/022",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/022"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/022"
     },
     name: {
         en: "Camerupt",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "I vulcani sul suo dorso hanno una grande eruzione ogni 10 anni, o ogni volta che diventa davvero arrabbiato.",
         de: "Die Vulkane auf seinem Rücken ereignen sich alle 10 Jahre – oder immer dann, wenn es richtig heftig wird – zu einem großen Ausbruch.",
         "pt-br": "Os vulcões nas suas costas têm uma grande erupção a cada 10 anos – ou sempre que fica realmente furioso.",
-        "zh-tw": "它背上的火山每十年就會爆發一次大噴發——或者每當它變得非常憤怒時。"
+        "zh-tw": "它背上的火山每十年就會爆發一次大噴發——或者每當它變得非常憤怒時。",
+        ja: "背中の コブの 火山は １０年ごとに 大噴火 するが 激しく 怒っても 噴火する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Eruzione",
                 de: "Eruption",
                 "pt-br": "Erupção",
-                "zh-tw": "噴火"
+                "zh-tw": "噴火",
+                ja: "ふんか"
             },
             effect: {
                 en: "Flip 3 coins. For each heads, discard a {R} Energy from this Pokémon. This attack does 30 more damage for each {R} Energy you discarded in this way.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 3 monete. Per ogni testa, scarta un'Energia {R} da questo Pokémon. Questo attacco infligge 30 danni in più per ogni {R} Energia che hai scartato in questo modo.",
                 de: "Wirf 3 Münzen. Lege für jeden Kopf eine {R}-Energie von diesem Pokémon ab. Dieser Angriff verursacht 30 weitere Schadenspunkte für jede {R}-Energie, die du auf diese Weise abgeworfen hast.",
                 "pt-br": "Jogue 3 moedas. Para cada cara, descarte uma Energia {R} deste Pokémon. Este ataque causa 30 pontos de dano a mais para cada {R} Energia que você descartou dessa forma.",
-                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄該寶可夢的一個 {R} 能量。您以這種方式每丟棄一個 {R} 能量，此攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "翻轉 3 個硬幣。對於每個頭，丟棄該寶可夢的一個 {R} 能量。您以這種方式每丟棄一個 {R} 能量，此攻擊就會造成 30 點額外傷害。",
+                ja: "コインを3回投げ、オモテの数ぶん、このポケモンから{R}エネルギーをトラッシュし、トラッシュした{R}エネルギーの数×30ダメージ追加。"
             },
             damage: "60+"
         }

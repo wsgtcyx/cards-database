@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/094",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/094"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/094"
     },
     name: {
         en: "Coalossal",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Per intimidire i suoi avversari, Coalossal scuoterà vigorosamente il suo corpo, spargendo carbone dalla sua schiena fumante.",
         de: "Um seine Gegner einzuschüchtern, schüttelt Montecarbo kräftig seinen Körper und verstreut dabei Kohle von seinem glimmenden Rücken.",
         "pt-br": "Para intimidar seus oponentes, Coalossal sacudirá vigorosamente seu corpo, espalhando carvão de suas costas fumegantes.",
-        "zh-tw": "為了恐嚇對手，巨炭山會劇烈晃動身體，將悶燒的背部散落煤炭。"
+        "zh-tw": "為了恐嚇對手，巨炭山會劇烈晃動身體，將悶燒的背部散落煤炭。",
+        ja: "体を 大きく 振り動かし 燃え上がる 背中から 石炭を あたりに ばら撒いて 威嚇する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Sgretolamonti",
                 de: "Bergbruch",
                 "pt-br": "Pulverização Montanhosa",
-                "zh-tw": "山岳粉碎"
+                "zh-tw": "山岳粉碎",
+                ja: "マウンテンクラッシュ"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Per ogni testa, scarta la prima carta del mazzo del tuo avversario.",
                 de: "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jede „Kopf“-Karte die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個正面，丟棄對手牌組頂牌。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個正面，丟棄對手牌組頂牌。",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手の山札を上からトラッシュ。"
             },
             damage: 90
         }

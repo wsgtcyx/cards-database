@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/125",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/125",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/125"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/125"
     },
     name: {
         en: "Gholdengo",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Monetigo",
         'pt-br': "Gholdengo",
         "zh-tw": "賽富豪",
+        ja: "サーフゴー",
         ko: "타부자고"
     },
     illustrator: "kurumitsu",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Gierspenst",
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈",
+        ja: "コレクレー",
         pt: "Gimmighoul",
         'es-mx': "Gimmighoul"
     },
@@ -47,6 +50,7 @@ const card: Card = {
         de: "Sein Körper soll aus 1000 Münzen bestehen.\nEs ist sehr umgänglich und schließt mit jedem\nrasch Freundschaft.",
         'pt-br': "Seu corpo parece ser feito de 1.000 moedas.\nEste Pokémon se dá bem com os outros\ne faz amizades com qualquer um rapidamente.",
         "zh-tw": "它的身體似乎是由1000枚硬幣組成的。這隻寶可夢與其他人相處得很好，很快就能和任何人成為朋友。",
+        ja: "1000枚の コインで 体が できているらしい。 人懐こく だれとでも すぐに 仲良くなれる。",
         ko: "몸은 1000개의 코인으로\n이뤄져 있다고 한다. 붙임성이 좋아서\n누구와도 금방 친해진다."
     },
     attacks: [{
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Sensationelles Surfen",
                 'pt-br': "Surfe Extravagante",
                 "zh-tw": "閃爍的衝浪",
+                ja: "ゴージャスサーフ",
                 ko: "럭셔리서핑"
             },
             damage: "50x",
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Wirf 1 Münze für jede an dieses Pokémon angelegte {M}-Energie. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue uma moeda para cada Energia de {M} ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara.",
                 "zh-tw": "為該寶可夢附加的每 {M} 能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。",
+                ja: "このポケモンの{M}エネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
                 ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 {M}× 50[/Ctrl:NoBreak]데미지를 준다."
             }
         }],

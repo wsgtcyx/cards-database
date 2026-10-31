@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/118",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/118"
     },
     name: {
         en: "Honedge",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Honedge",
         "de": "Gramokles",
         "pt-br": "Honedge",
-        "zh-tw": "獨劍鞘"
+        "zh-tw": "獨劍鞘",
+        ja: "ヒトツキ"
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'occhio azzurro sul paramano della spada è il\nvero corpo di Honedge. Con la sua vecchia stoffa, esso\nprosciuga la vita delle persone.",
         "de": "Das blaue Auge am Handschutz des Schwertes ist das\nwahrer Körper von Honedge. Mit seinem alten Stoff, es\nraubt den Menschen das Leben.",
         "pt-br": "O olho azul no protetor de mão da espada é o\nverdadeiro corpo de Honedge. Com seu pano velho,\ndrena a vida das pessoas.",
-        "zh-tw": "劍護手上的藍色眼睛是\n洪內奇的真身。用它的舊佈，\n耗盡人們的生命。"
+        "zh-tw": "劍護手上的藍色眼睛是\n洪內奇的真身。用它的舊佈，\n耗盡人們的生命。",
+        ja: "剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Tagliare",
                 "de": "Zerschneiden",
                 "pt-br": "Cortar",
-                "zh-tw": "切碎"
+                "zh-tw": "切碎",
+                ja: "きる"
             },
             damage: 20,
             cost: ["Metal"]

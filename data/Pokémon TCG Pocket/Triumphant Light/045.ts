@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/045"
     },
     name: {
         en: "Gible",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gible",
         de: "Kaumalat",
         'pt-br': "Gible",
+        ja: "フカマル",
         ko: "딥상어동",
         "zh-tw": "圓陸鯊",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Aspetta nemici e prede in agguato nella sua\ntana. Quando gli arrivano a tiro, li addenta\ncon tale forza che a volte si spezza i denti.",
         de: "Es verbirgt sich in kleinen Höhlen, aus denen es\nherausspringt und vorbeilaufende Gegner oder\nBeute beißt. Manchmal bricht dabei ein Zahn ab.",
         'pt-br': "Esconde-se em cavernas e quando presas ou inimigos\npassam, sai e os devora. A força do seu ataque às vezes\nquebra seus dentes.",
+        ja: "穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。",
         ko: "구멍에 숨어서 먹이나 적이\n지나가면 뛰쳐나가 문다.\n기세가 대단해 이가 빠질 때도 있다.",
         "zh-tw": "它潛伏在洞穴裡，當獵物或敵人經過時，它會跳出來咬掉它們。它的攻擊力有時會碎掉牙齒。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },

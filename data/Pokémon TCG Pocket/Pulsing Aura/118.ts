@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/118",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/118",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/118"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/118"
     },
     name: {
         en: "Bronzong",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ha portato le piogge aprendo portali verso un altro mondo. Era venerato come portatore di raccolti abbondanti.",
         de: "Es brachte Regen, indem es Portale zu einer anderen Welt öffnete. Es wurde als Bringer reicher Ernten verehrt.",
         "pt-br": "Trouxe chuvas abrindo portais para outro mundo. Foi reverenciado como portador de colheitas abundantes.",
-        "zh-tw": "它透過打開通往另一個世界的門戶帶來了降雨。它被尊崇為五穀豐登的使者。"
+        "zh-tw": "它透過打開通往另一個世界的門戶帶來了降雨。它被尊崇為五穀豐登的使者。",
+        ja: "別世界への 穴を 開けて そこから 雨を 降らしていた。 そのため 豊作の神 とされる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Risonanza Psichica",
                 de: "Psycho-Resonanz",
                 "pt-br": "Ressonância Psíquica",
-                "zh-tw": "精神共鳴"
+                "zh-tw": "精神共鳴",
+                ja: "サイコレゾナンス"
             },
             effect: {
                 en: "If your opponent has any {P} Pokémon in play, this attack does 50 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se il tuo avversario ha dei Pokémon {P} in gioco, questo attacco infligge 50 danni in più.",
                 de: "Wenn dein Gegner ein {P}-Pokémon im Spiel hat, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se seu oponente tiver algum Pokémon {P} em jogo, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果對手場上有任何 {P} 寶可夢，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果對手場上有任何 {P} 寶可夢，則此攻擊造成的傷害增加 50 點。",
+                ja: "相手の場に{P}ポケモンがいるなら、50ダメージ追加。"
             },
             damage: "50+"
         }

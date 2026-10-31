@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/188",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/188",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/188",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/188"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/188",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/188"
     },
     name: {
         en: "Mega Rayquaza ex",
@@ -39,7 +40,8 @@ const card: Card = {
                 "pt-br": "Megaexplosão",
                 "zh-tw": "超級爆發",
                 "it": "Megascoppio",
-                "de": "Mega-Explosion"
+                "de": "Mega-Explosion",
+                ja: "メガバースト"
             },
             effect: {
                 en: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Rimuovi tutte le Energie {R} e {L} da questo Pokémon. Questo attacco infligge 50 danni per ogni Energia che hai rimosso in questo modo.",
                 de: "Lege alle {R}- und {L}-Energien von diesem Pokémon ab, und diese Attacke fügt für jede auf diese Weise abgelegte Energie 50 Schadenspunkte zu.",
                 "pt-br": "Descarte todas as Energias {R} e {L} deste Pokémon, e este ataque causa 50 pontos de dano para cada Energia descartada desta forma.",
-                "zh-tw": "將這隻寶可夢身上的{R}與{L}能量全部丟棄,造成丟棄的能量數量×50點傷害。"
+                "zh-tw": "將這隻寶可夢身上的{R}與{L}能量全部丟棄,造成丟棄的能量數量×50點傷害。",
+                ja: "このポケモンから{R}と{L}エネルギーをすべてトラッシュし、トラッシュしたエネルギーの数×50ダメージ。"
             },
             damage: "50x"
         }

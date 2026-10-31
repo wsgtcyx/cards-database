@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/102"
     },
     name: {
         en: "Hitmontop",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kapoera",
         "pt-br": "Hitmontop",
         "zh-tw": "戰舞郎",
+        ja: "カポエラー",
     },
     illustrator: "Hisao Nakamura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Lancia i calci mentre gira. Se gira in alto\nvelocità, potrebbe penetrare nel terreno.",
         "de": "Beim Drehen werden Tritte ausgelöst. Wenn es auf Hochtouren läuft\nGeschwindigkeit, kann es sich in den Boden bohren.",
         "pt-br": "Ele lança chutes enquanto gira. Se girar alto\nvelocidade, ele pode penetrar no solo.",
-        "zh-tw": "它在旋轉時發射踢腿。如果它高速旋轉\n速度，它可能會鑽入地下。"
+        "zh-tw": "它在旋轉時發射踢腿。如果它高速旋轉\n速度，它可能會鑽入地下。",
+        ja: "くるくる 回って キックをはなつ。 高速で 回っていると そのまま 地面に 潜っていく。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rotazione penetrante",
                 "de": "Durchdringender Spin",
                 "pt-br": "Giro Perfurante",
-                "zh-tw": "刺穿旋轉"
+                "zh-tw": "刺穿旋轉",
+                ja: "つきぬけスピン"
             },
             damage: 20,
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。"
             }
         }],
     weaknesses: [{

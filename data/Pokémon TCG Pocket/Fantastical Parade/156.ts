@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/156",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/156"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/156",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/156"
     },
     name: {
         en: "Cacnea",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cacnea",
         "de": "Tuska",
         "pt-br": "Cacnea",
-        "zh-tw": "刺球仙人掌"
+        "zh-tw": "刺球仙人掌",
+        ja: "サボネア"
     },
     illustrator: "Mina Nakai",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vive in luoghi aridi. I suoi fiori gialli sbocciano\nuna volta all'anno.",
         "de": "Es lebt an trockenen Standorten. Seine gelben Blüten blühen\neinmal im Jahr.",
         "pt-br": "Vive em locais áridos. Suas flores amarelas desabrocham\numa vez por ano.",
-        "zh-tw": "它生活在乾旱的地方。它的黃色花朵盛開\n每年一次。"
+        "zh-tw": "它生活在乾旱的地方。它的黃色花朵盛開\n每年一次。",
+        ja: "雨が 少ない 乾燥した 地域に 生息。 １年に １回 黄色の 花を 咲かせる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Punzone per cavatappi",
                 "de": "Korkenzieherstanze",
                 "pt-br": "Furador de saca-rolhas",
-                "zh-tw": "螺旋沖頭"
+                "zh-tw": "螺旋沖頭",
+                ja: "どつく"
             },
             damage: 30,
             cost: ["Grass", "Colorless"]

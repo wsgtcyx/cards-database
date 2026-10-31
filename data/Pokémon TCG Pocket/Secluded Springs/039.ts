@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/039"
     },
     name: {
         en: "Jellicent",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Apoquallyp",
         "pt-br": "Jellicent",
         "zh-tw": "胖嘟嘟",
+        ja: "ブルンゲル",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Quabbel",
         "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
+        ja: "プルリル",
     },
     description: {
         en: "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La maggior parte della composizione corporea di questo Pokémon lo è\nidentico all'acqua di mare. Produce navi affondate\nla sua tana.",
         "de": "Der größte Teil der Körperzusammensetzung dieses Pokémon ist\nidentisch mit Meerwasser. Es macht versunkene Schiffe\nsein Versteck.",
         "pt-br": "A maior parte da composição corporal deste Pokémon é\nidêntica à água do mar. Faz navios afundados\nseu covil.",
-        "zh-tw": "該神奇寶貝的大部分身體成分是\n與海水相同。它使沉船\n它的巢穴。"
+        "zh-tw": "該神奇寶貝的大部分身體成分是\n與海水相同。它使沉船\n它的巢穴。",
+        ja: "体の ほとんどが 海水と 同じ 成分で できている。 沈没船を 根城にする。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Divora l'anima",
                 "de": "Seele verschlingen",
                 "pt-br": "Devorar Alma",
-                "zh-tw": "吞噬靈魂"
+                "zh-tw": "吞噬靈魂",
+                ja: "ソウルイート"
             },
             damage: 80,
             cost: ["Psychic", "Psychic", "Colorless"]

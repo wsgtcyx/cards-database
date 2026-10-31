@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/132"
     },
     name: {
         en: "Gardevoir",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gardevoir",
         de: "Guardevoir",
         'pt-br': "Gardevoir",
+        ja: "サーナイト",
         ko: "가디안",
         "zh-tw": "沙奈朵",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "奇魯莉安"
+        "zh-tw": "奇魯莉安",
+        ja: "キルリア"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Psicombra",
                 de: "Psischatten",
                 'pt-br': "Sombra Psíquica",
+                ja: "トランスシェイド",
                 ko: "트랜스 셰이드",
                 "zh-tw": "心靈陰影"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi prendere un'Energia {P} dalla tua Zona Energia e assegnarla al Pokémon {P} in posizione attiva.",
                 de: "Einmal während deines Zuges kannst du 1 {P}-Energie aus deinem Energiebereich an dein Aktives {P}-Pokémon anlegen.",
                 'pt-br': "Uma vez durante o seu turno, você poderá pegar 1 Energia {P} da sua Zona de Energia e ligá-la ao Pokémon {P} no Campo Ativo.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{P}エネルギーを1個出し、バトル場の{P}ポケモンにつける。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {P}에너지를 1개 내보내 배틀필드의 {P}포켓몬에게 붙인다.",
                 "zh-tw": "在你的回合中，你可以從你的能量區取出 1 個 {P} 能量並將其附加到活動地點的 {P} 神奇寶貝上。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Psicosparo",
                 de: "Psychoschuss",
                 'pt-br': "Tiro Psíquico",
+                ja: "サイコショット",
                 ko: "사이코숏",
                 "zh-tw": "心理射擊"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Per proteggere l'Allenatrice o l'Allenatore\ndal pericolo, utilizza tutti i poteri psichici di\ncui dispone per creare un piccolo buco nero.",
         de: "Wenn es seinen Trainer schützen will, nimmt es all\nseine Psycho-Kräfte zusammen, um so ein kleines\nschwarzes Loch zu erzeugen.",
         'pt-br': "Para proteger seu Treinador, gasta todo seu poder\npsíquico para criar um pequeno buraco negro.",
+        ja: "トレーナーを 守るためなら サイコパワーを 使いきり 小さな ブラックホールを 作り出す。",
         ko: "트레이너를 지키기 위해서라면\n사이코 파워를 모두 써서\n작은 블랙홀을 만들어 낸다.",
         "zh-tw": "為了保護它的訓練家，它會消耗所有的精神力來創造一個小黑洞。"
     },

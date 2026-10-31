@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/218",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/218",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/218"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/218",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/218"
     },
     name: {
         en: "Galarian Meowth",
@@ -20,7 +21,7 @@ const card: Card = {
         "pt-br": "Meowth de Galar",
         "zh-tw": "伽勒爾喵喵",
         ko: "가라르 나옹",
-        ja: "ガラル ニャース"
+        ja: "ガラルニャース"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -35,7 +36,8 @@ const card: Card = {
         it: "Più è nera la moneta sulla sua fronte, più è rispettato dai suoi simili. È intrepido e non conosce la paura.",
         de: "Je dunkler die Münze an seiner Stirn, desto fester ist sie und desto mehr Respekt hat seine Gruppe vor ihm. Es ist tapfer und kennt keine Angst.",
         "pt-br": "Estes Pokémon ousados têm moedas nas testas. Moedas escuras são mais resistentes, e moedas resistentes são mais respeitadas entre os Meowth.",
-        "zh-tw": "額頭上的金幣越黑就越硬，\n也越能受到夥伴的尊敬。\n性情勇猛，什麼都不怕。"
+        "zh-tw": "額頭上的金幣越黑就越硬，\n也越能受到夥伴的尊敬。\n性情勇猛，什麼都不怕。",
+        ja: "額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。"
     },
     attacks: [
         {
@@ -47,7 +49,8 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 "pt-br": "Talho",
-                "zh-tw": "劈開"
+                "zh-tw": "劈開",
+                ja: "きりさく"
             },
             damage: 20
         }

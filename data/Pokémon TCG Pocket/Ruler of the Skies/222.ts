@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/222",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/222",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/222"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/222",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/222"
     },
     name: {
         en: "Smeargle",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Il colore del fluido misterioso che secerne dalla coda cambia da esemplare a esemplare.",
         "de": "Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.",
         "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle",
-        "zh-tw": "每隻圖圖犬從尾巴尖端\n分泌出的神秘液體，\n都有自己固定的顏色。"
+        "zh-tw": "每隻圖圖犬從尾巴尖端\n分泌出的神秘液體，\n都有自己固定的顏色。",
+        ja: "尻尾の 先から 分泌する 謎の 液体の 色は ドーブルごとに 決まっている。"
     },
     abilities: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Ritratto",
                 de: "Porträt",
                 "pt-br": "Retrato",
-                "zh-tw": "肖像畫"
+                "zh-tw": "肖像畫",
+                ja: "にがおえ"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may look at a random Supporter card from your opponent's hand. Use the effect of that card as the effect of this Ability.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi guardare una carta Aiuto casuale dalla mano del tuo avversario. Usa l'effetto di quella carta come effetto di questa abilità.",
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du dir eine zufällige Unterstützerkarte aus der Hand deines Gegners ansehen. Nutze den Effekt dieser Karte als Effekt dieser Fähigkeit.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá olhar uma carta de Apoiador aleatória da mão do seu oponente. Use o efeito daquela carta como o efeito desta Habilidade.",
-                "zh-tw": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從對手的手牌隨機查看1張支援者卡的正面後,將該支援者卡的效果,作為這個特性的效果使用。"
+                "zh-tw": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從對手的手牌隨機查看1張支援者卡的正面後,將該支援者卡的效果,作為這個特性的效果使用。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手の手札からサポートをランダムに1枚、オモテを見て、そのサポートの効果を、この特性の効果として使う。"
             }
         }
     ],
@@ -71,7 +75,8 @@ const card: Card = {
                 it: "Codabotta",
                 de: "Schweifvertrimmer",
                 "pt-br": "Surra de Cauda",
-                "zh-tw": "擺尾拍擊"
+                "zh-tw": "擺尾拍擊",
+                ja: "しっぽではたく"
             },
             damage: 30
         }

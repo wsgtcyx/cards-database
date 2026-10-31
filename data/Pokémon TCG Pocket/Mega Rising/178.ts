@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/178",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/178",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/178",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/178"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/178",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/178"
     },
     name: {
         en: "Sliggoo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Viscargot",
         "pt-br": "Sliggoo",
         "zh-tw": "黏美兒",
+        ja: "ヌメイル",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Viscora",
         "pt-br": "Goomy",
         "zh-tw": "黏黏寶",
+        ja: "ヌメラ",
     },
     description: {
         en: "When Sliggoo senses danger, the mucus coating\nits entire body becomes more concentrated—\nit'll dissolve anything.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando Sliggoo avverte il pericolo, si ricopre di muco\nil suo intero corpo diventa più concentrato—\ndissolverà qualsiasi cosa.",
         "de": "Wenn Sliggoo eine Gefahr spürt, bildet sich eine Schleimschicht\nsein ganzer Körper wird konzentrierter –\nes wird alles auflösen.",
         "pt-br": "Quando Sliggoo sente o perigo, a camada de muco\ntodo o seu corpo fica mais concentrado -\nisso dissolverá qualquer coisa.",
-        "zh-tw": "當 Sligoo 感覺到危險時，粘液塗層\n整個身體變得更加集中——\n它會溶解任何東西。"
+        "zh-tw": "當 Sligoo 感覺到危險時，粘液塗層\n整個身體變得更加集中——\n它會溶解任何東西。",
+        ja: "危険を 感じると 全身を 覆う 粘液の 濃度が 上がり なんでも 溶かすようになるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Schiaffo gentile",
                 "de": "Sanfter Schlag",
                 "pt-br": "Tapa suave",
-                "zh-tw": "輕輕一巴掌"
+                "zh-tw": "輕輕一巴掌",
+                ja: "ひっぱたく"
             },
             damage: 60,
             cost: ["Water", "Psychic"]

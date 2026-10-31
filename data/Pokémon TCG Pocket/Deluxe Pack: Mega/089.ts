@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/089",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/089",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/089"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/089"
     },
     name: {
         en: "Flaaffy",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
-        ja: "Mareep",
+        ja: "メリープ",
         ko: "Mareep"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Die gummiartige Haut von Waaty leitet keinen Strom, aber seine Wolle kann viel Elektrizität speichern.",
         "pt-br": "Consegue armazenar grandes quantidades de energia em seu pelo porque sua pele elástica é resistente à eletricidade.",
         "zh-tw": "如同橡膠般光滑的皮膚並不導電，但體毛卻很容易蓄電。",
-        ja: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur.",
+        ja: "電気を 通さない 地肌は ゴムのように つるつるだが 体毛は 電気を 溜めやすい。",
         ko: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur."
     },
     stage: "Stage1",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Elektroschlag",
                 "pt-br": "Murro Elétrico",
                 "zh-tw": "麻麻拳",
-                ja: "Electric Punch",
+                ja: "ビリリパンチ",
                 ko: "Electric Punch"
             },
             damage: 40,

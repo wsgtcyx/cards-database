@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/056"
     },
     name: {
         en: "Electabuzz",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electabuzz",
         de: "Elektek",
         'pt-br': "Electabuzz",
+        ja: "エレブー",
         ko: "에레브",
         "zh-tw": "電擊獸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Molte centrali elettriche utilizzano\nPokémon di tipo Terra per difendersi\ndagli Electabuzz a caccia di elettricità.",
         de: "In vielen Elektrizitätswerken werden Pokémon\nvom Typ Boden eingesetzt, um Elektek davon\nabzuhalten, den dortigen Strom anzuzapfen.",
         'pt-br': "Muitas usinas mantêm Pokémon de tipo Terrestre\npor perto. Fazem isso para protegê-las de Electabuzz\nque aparecem em busca de eletricidade.",
+        ja: "電気を 狙う エレブーの 対策に じめんポケモンを 置く 発電所は 多い。",
         ko: "전기를 노리는 에레브를\n퇴치하고자 땅포켓몬을 두는\n발전소도 많다.",
         "zh-tw": "許多發電廠都飼養著地面型神奇寶貝，以防御前來尋求電力的電擊獸。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Sottocarica",
                 de: "Ladevorgang",
                 'pt-br': "Carga",
+                ja: "じゅうでん",
                 ko: "충전",
                 "zh-tw": "收費"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 'pt-br': "Pegue 1 Energia {L} da sua Zona de Energia e ligue-a a este Pokémon.",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到該神奇寶貝上。"
             }

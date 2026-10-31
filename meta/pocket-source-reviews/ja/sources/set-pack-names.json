@@ -1,0 +1,689 @@
+{
+  "B4a": {
+    "name": "ロケット団の野望",
+    "sourceField": "Game.Master.Expansion.LONG_23",
+    "boosters": {
+      "team-rockets-ambition": {
+        "name": "ロケット団の野望",
+        "sourceField": "Game.Master.Pack.Name.B4a_1"
+      }
+    },
+    "packs": {
+      "B4a_1": {
+        "name": "ロケット団の野望",
+        "en": "Team Rocket's Ambition",
+        "sourceField": "Game.Master.Pack.Name.B4a_1"
+      }
+    }
+  },
+  "A2a": {
+    "name": "超克の光",
+    "sourceField": "Game.Master.Expansion.LONG_5",
+    "boosters": {},
+    "packs": {
+      "A2a_1": {
+        "name": "超克の光",
+        "en": "Triumphant Light",
+        "sourceField": "Game.Master.Pack.Name.A2a_1"
+      }
+    }
+  },
+  "B1": {
+    "name": "メガライジング",
+    "sourceField": "Game.Master.Expansion.LONG_13",
+    "boosters": {},
+    "packs": {
+      "B1_1": {
+        "name": "メガライジング メガバシャーモ",
+        "en": "Mega Rising: Mega Blaziken",
+        "sourceField": "Game.Master.Pack.Name.B1_1"
+      },
+      "B1_2": {
+        "name": "メガライジング メガギャラドス",
+        "en": "Mega Rising: Mega Gyarados",
+        "sourceField": "Game.Master.Pack.Name.B1_2"
+      },
+      "B1_3": {
+        "name": "メガライジング メガチルタリス",
+        "en": "Mega Rising: Mega Altaria",
+        "sourceField": "Game.Master.Pack.Name.B1_3"
+      }
+    }
+  },
+  "P-A": {
+    "name": "PROMO-A",
+    "sourceField": "Game.Master.Expansion.LONG_3",
+    "boosters": {
+      "vol1": {
+        "name": "プロモカードパック Aシリーズ 第1弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_1"
+      },
+      "vol2": {
+        "name": "プロモカードパック Aシリーズ 第2弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_2"
+      },
+      "vol3": {
+        "name": "プロモカードパック Aシリーズ 第3弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_3"
+      },
+      "vol4": {
+        "name": "プロモカードパック Aシリーズ 第4弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_4"
+      },
+      "vol5": {
+        "name": "プロモカードパック Aシリーズ 第5弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_5"
+      },
+      "vol6": {
+        "name": "プロモカードパック Aシリーズ 第6弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_6"
+      },
+      "vol7": {
+        "name": "プロモカードパック Aシリーズ 第7弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_7"
+      },
+      "vol8": {
+        "name": "プロモカードパック Aシリーズ 第8弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_8"
+      },
+      "vol9": {
+        "name": "プロモカードパック Aシリーズ 第9弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_9"
+      },
+      "vol10": {
+        "name": "プロモカードパック Aシリーズ 第10弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_10"
+      },
+      "vol11": {
+        "name": "プロモカードパック Aシリーズ 第11弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_11"
+      },
+      "vol12": {
+        "name": "プロモカードパック Aシリーズ 第12弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_12"
+      },
+      "vol13": {
+        "name": "プロモカードパック Aシリーズ 第13弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_13"
+      }
+    },
+    "packs": {
+      "PROMO_A_1": {
+        "name": "プロモカードパック Aシリーズ 第1弾",
+        "en": "Promo Pack A Series Vol. 1",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_1"
+      },
+      "PROMO_A_2": {
+        "name": "プロモカードパック Aシリーズ 第2弾",
+        "en": "Promo Pack A Series Vol. 2",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_2"
+      },
+      "PROMO_A_3": {
+        "name": "プロモカードパック Aシリーズ 第3弾",
+        "en": "Promo Pack A Series Vol. 3",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_3"
+      },
+      "PROMO_A_4": {
+        "name": "プロモカードパック Aシリーズ 第4弾",
+        "en": "Promo Pack A Series Vol. 4",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_4"
+      },
+      "PROMO_A_5": {
+        "name": "プロモカードパック Aシリーズ 第5弾",
+        "en": "Promo Pack A Series Vol. 5",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_5"
+      },
+      "PROMO_A_6": {
+        "name": "プロモカードパック Aシリーズ 第6弾",
+        "en": "Promo Pack A Series Vol. 6",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_6"
+      },
+      "PROMO_A_7": {
+        "name": "プロモカードパック Aシリーズ 第7弾",
+        "en": "Promo Pack A Series Vol. 7",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_7"
+      },
+      "PROMO_A_8": {
+        "name": "プロモカードパック Aシリーズ 第8弾",
+        "en": "Promo Pack A Series Vol. 8",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_8"
+      },
+      "PROMO_A_9": {
+        "name": "プロモカードパック Aシリーズ 第9弾",
+        "en": "Promo Pack A Series Vol. 9",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_9"
+      },
+      "PROMO_A_10": {
+        "name": "プロモカードパック Aシリーズ 第10弾",
+        "en": "Promo Pack A Series Vol. 10",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_10"
+      },
+      "PROMO_A_11": {
+        "name": "プロモカードパック Aシリーズ 第11弾",
+        "en": "Promo Pack A Series Vol. 11",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_11"
+      },
+      "PROMO_A_12": {
+        "name": "プロモカードパック Aシリーズ 第12弾",
+        "en": "Promo Pack A Series Vol. 12",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_12"
+      },
+      "PROMO_A_13": {
+        "name": "プロモカードパック Aシリーズ 第13弾",
+        "en": "Promo Pack A Series Vol. 13",
+        "sourceField": "Game.Master.Pack.Name.PROMO_A_13"
+      }
+    }
+  },
+  "B2": {
+    "name": "夢幻パレード",
+    "sourceField": "Game.Master.Expansion.LONG_16",
+    "boosters": {
+      "booster": {
+        "name": "夢幻パレード",
+        "sourceField": "Game.Master.Pack.Name.B2_1"
+      }
+    },
+    "packs": {
+      "B2_1": {
+        "name": "夢幻パレード",
+        "en": "Fantastical Parade",
+        "sourceField": "Game.Master.Pack.Name.B2_1"
+      }
+    }
+  },
+  "A4": {
+    "name": "空と海の導き",
+    "sourceField": "Game.Master.Expansion.LONG_10",
+    "boosters": {
+      "lugia": {
+        "name": "空と海の導き ルギア",
+        "sourceField": "Game.Master.Pack.Name.A4_2"
+      },
+      "ho-oh": {
+        "name": "空と海の導き ホウオウ",
+        "sourceField": "Game.Master.Pack.Name.A4_1"
+      }
+    },
+    "packs": {
+      "A4_1": {
+        "name": "空と海の導き ホウオウ",
+        "en": "Wisdom of Sea and Sky: Ho-Oh",
+        "sourceField": "Game.Master.Pack.Name.A4_1"
+      },
+      "A4_2": {
+        "name": "空と海の導き ルギア",
+        "en": "Wisdom of Sea and Sky: Lugia",
+        "sourceField": "Game.Master.Pack.Name.A4_2"
+      }
+    }
+  },
+  "B1a": {
+    "name": "紅蓮ブレイズ",
+    "sourceField": "Game.Master.Expansion.LONG_15",
+    "boosters": {},
+    "packs": {
+      "B1a_1": {
+        "name": "紅蓮ブレイズ",
+        "en": "Crimson Blaze",
+        "sourceField": "Game.Master.Pack.Name.B1a_1"
+      }
+    }
+  },
+  "A4b": {
+    "name": "ハイクラスパック ex",
+    "sourceField": "Game.Master.Expansion.LONG_12",
+    "boosters": {
+      "deluxe_pack_ex": {
+        "name": "ハイクラスパック ex",
+        "sourceField": "Game.Master.Pack.Name.A4b_1"
+      }
+    },
+    "packs": {
+      "A4b_1": {
+        "name": "ハイクラスパック ex",
+        "en": "Deluxe Pack: ex",
+        "sourceField": "Game.Master.Pack.Name.A4b_1"
+      }
+    }
+  },
+  "A1a": {
+    "name": "幻のいる島",
+    "sourceField": "Game.Master.Expansion.LONG_2",
+    "boosters": {},
+    "packs": {
+      "A1a_1": {
+        "name": "幻のいる島",
+        "en": "Mythical Island",
+        "sourceField": "Game.Master.Pack.Name.A1a_1"
+      }
+    }
+  },
+  "B3b": {
+    "name": "ミラクルデイズ",
+    "sourceField": "Game.Master.Expansion.LONG_21",
+    "boosters": {
+      "everyday-wonders": {
+        "name": "ミラクルデイズ",
+        "sourceField": "Game.Master.Pack.Name.B3b_1"
+      }
+    },
+    "packs": {
+      "B3b_1": {
+        "name": "ミラクルデイズ",
+        "en": "Everyday Wonders",
+        "sourceField": "Game.Master.Pack.Name.B3b_1"
+      }
+    }
+  },
+  "A3": {
+    "name": "双天の守護者",
+    "sourceField": "Game.Master.Expansion.LONG_7",
+    "boosters": {
+      "solgaleo": {
+        "name": "双天の守護者 ソルガレオ",
+        "sourceField": "Game.Master.Pack.Name.A3_1"
+      },
+      "lunala": {
+        "name": "双天の守護者 ルナアーラ",
+        "sourceField": "Game.Master.Pack.Name.A3_2"
+      }
+    },
+    "packs": {
+      "A3_1": {
+        "name": "双天の守護者 ソルガレオ",
+        "en": "Celestial Guardians: Solgaleo",
+        "sourceField": "Game.Master.Pack.Name.A3_1"
+      },
+      "A3_2": {
+        "name": "双天の守護者 ルナアーラ",
+        "en": "Celestial Guardians: Lunala",
+        "sourceField": "Game.Master.Pack.Name.A3_2"
+      }
+    }
+  },
+  "A4a": {
+    "name": "未知なる水域",
+    "sourceField": "Game.Master.Expansion.LONG_11",
+    "boosters": {
+      "suicune": {
+        "name": "未知なる水域",
+        "sourceField": "Game.Master.Pack.Name.A4a_1"
+      }
+    },
+    "packs": {
+      "A4a_1": {
+        "name": "未知なる水域",
+        "en": "Secluded Springs",
+        "sourceField": "Game.Master.Pack.Name.A4a_1"
+      }
+    }
+  },
+  "B4b": {
+    "name": "ハイクラスパック MEGA",
+    "sourceField": "Game.Master.Expansion.LONG_24",
+    "boosters": {
+      "deluxe-pack-mega": {
+        "name": "ハイクラスパック MEGA",
+        "sourceField": "Game.Master.Pack.Name.B4b_1"
+      }
+    },
+    "packs": {
+      "B4b_1": {
+        "name": "ハイクラスパック MEGA",
+        "en": "Deluxe Pack: Mega",
+        "sourceField": "Game.Master.Pack.Name.B4b_1"
+      }
+    }
+  },
+  "B3": {
+    "name": "波動ビート",
+    "sourceField": "Game.Master.Expansion.LONG_19",
+    "boosters": {
+      "pulsing-aura": {
+        "name": "波動ビート",
+        "sourceField": "Game.Master.Pack.Name.B3_1"
+      }
+    },
+    "packs": {
+      "B3_1": {
+        "name": "波動ビート",
+        "en": "Pulsing Aura",
+        "sourceField": "Game.Master.Pack.Name.B3_1"
+      }
+    }
+  },
+  "SP1": {
+    "name": "スペシャルパック はじまりのパートナー",
+    "sourceField": "Game.Master.Expansion.LONG_28",
+    "boosters": {
+      "first-partners": {
+        "name": "スペシャルパック はじまりのパートナー",
+        "sourceField": "Game.Master.Pack.Name.SP1_1"
+      }
+    },
+    "packs": {
+      "SP1_1": {
+        "name": "スペシャルパック はじまりのパートナー",
+        "en": "Special Pack: First Partners",
+        "sourceField": "Game.Master.Pack.Name.SP1_1"
+      }
+    }
+  },
+  "B4": {
+    "name": "天空の支配者",
+    "sourceField": "Game.Master.Expansion.LONG_22",
+    "boosters": {
+      "ruler-of-the-skies": {
+        "name": "天空の支配者",
+        "sourceField": "Game.Master.Pack.Name.B4_1"
+      }
+    },
+    "packs": {
+      "B4_1": {
+        "name": "天空の支配者",
+        "en": "Ruler of the Skies",
+        "sourceField": "Game.Master.Pack.Name.B4_1"
+      }
+    }
+  },
+  "A2b": {
+    "name": "シャイニングハイ",
+    "sourceField": "Game.Master.Expansion.LONG_6",
+    "boosters": {},
+    "packs": {
+      "A2b_1": {
+        "name": "シャイニングハイ",
+        "en": "Shining Revelry",
+        "sourceField": "Game.Master.Pack.Name.A2b_1"
+      }
+    }
+  },
+  "A1": {
+    "name": "最強の遺伝子",
+    "sourceField": "Game.Master.Expansion.LONG_1",
+    "boosters": {
+      "mewtwo": {
+        "name": "最強の遺伝子 ミュウツー",
+        "sourceField": "Game.Master.Pack.Name.A1_1"
+      },
+      "charizard": {
+        "name": "最強の遺伝子 リザードン",
+        "sourceField": "Game.Master.Pack.Name.A1_2"
+      },
+      "pikachu": {
+        "name": "最強の遺伝子 ピカチュウ",
+        "sourceField": "Game.Master.Pack.Name.A1_3"
+      }
+    },
+    "packs": {
+      "A1_1": {
+        "name": "最強の遺伝子 ミュウツー",
+        "en": "Genetic Apex: Mewtwo",
+        "sourceField": "Game.Master.Pack.Name.A1_1"
+      },
+      "A1_2": {
+        "name": "最強の遺伝子 リザードン",
+        "en": "Genetic Apex: Charizard",
+        "sourceField": "Game.Master.Pack.Name.A1_2"
+      },
+      "A1_3": {
+        "name": "最強の遺伝子 ピカチュウ",
+        "en": "Genetic Apex: Pikachu",
+        "sourceField": "Game.Master.Pack.Name.A1_3"
+      }
+    }
+  },
+  "P-B": {
+    "name": "PROMO-B",
+    "sourceField": "Game.Master.Expansion.LONG_14",
+    "boosters": {
+      "vol1": {
+        "name": "プロモカードパック Bシリーズ 第1弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_1"
+      },
+      "vol2": {
+        "name": "プロモカードパック Bシリーズ 第2弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_2"
+      },
+      "vol3": {
+        "name": "プロモカードパック Bシリーズ 第3弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_3"
+      },
+      "vol4": {
+        "name": "プロモカードパック Bシリーズ 第4弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_4"
+      },
+      "vol5": {
+        "name": "プロモカードパック Bシリーズ 第5弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_5"
+      },
+      "vol6": {
+        "name": "プロモカードパック Bシリーズ 第6弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_6"
+      },
+      "vol7": {
+        "name": "プロモカードパック Bシリーズ 第7弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_7"
+      },
+      "vol8": {
+        "name": "プロモカードパック Bシリーズ 第8弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_8"
+      },
+      "vol9": {
+        "name": "プロモカードパック Bシリーズ 第9弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_9"
+      },
+      "vol10": {
+        "name": "プロモカードパック Bシリーズ 第10弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_10"
+      },
+      "vol11": {
+        "name": "プロモカードパック Bシリーズ 第11弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_11"
+      },
+      "vol12": {
+        "name": "プロモカードパック Bシリーズ 第12弾",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_12"
+      },
+      "vol13": {
+        "name": "プロモカードパック [Mst:SeriesName v=\"SERIES_NAME_2\"]シリーズ [Mst:CommonPackLabel v=\"COMMON_PACK_LABEL_013\"]",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_13"
+      }
+    },
+    "packs": {
+      "PROMO_B_1": {
+        "name": "プロモカードパック Bシリーズ 第1弾",
+        "en": "Promo Pack B Series Vol. 1",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_1"
+      },
+      "PROMO_B_2": {
+        "name": "プロモカードパック Bシリーズ 第2弾",
+        "en": "Promo Pack B Series Vol. 2",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_2"
+      },
+      "PROMO_B_3": {
+        "name": "プロモカードパック Bシリーズ 第3弾",
+        "en": "Promo Pack B Series Vol. 3",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_3"
+      },
+      "PROMO_B_4": {
+        "name": "プロモカードパック Bシリーズ 第4弾",
+        "en": "Promo Pack B Series Vol. 4",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_4"
+      },
+      "PROMO_B_5": {
+        "name": "プロモカードパック Bシリーズ 第5弾",
+        "en": "Promo Pack B Series Vol. 5",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_5"
+      },
+      "PROMO_B_6": {
+        "name": "プロモカードパック Bシリーズ 第6弾",
+        "en": "Promo Pack B Series Vol. 6",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_6"
+      },
+      "PROMO_B_7": {
+        "name": "プロモカードパック Bシリーズ 第7弾",
+        "en": "Promo Pack B Series Vol. 7",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_7"
+      },
+      "PROMO_B_8": {
+        "name": "プロモカードパック Bシリーズ 第8弾",
+        "en": "Promo Pack B Series Vol. 8",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_8"
+      },
+      "PROMO_B_9": {
+        "name": "プロモカードパック Bシリーズ 第9弾",
+        "en": "Promo Pack B Series Vol. 9",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_9"
+      },
+      "PROMO_B_10": {
+        "name": "プロモカードパック Bシリーズ 第10弾",
+        "en": "Promo Pack B Series Vol. 10",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_10"
+      },
+      "PROMO_B_11": {
+        "name": "プロモカードパック Bシリーズ 第11弾",
+        "en": "Promo Pack B Series Vol. 11",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_11"
+      },
+      "PROMO_B_12": {
+        "name": "プロモカードパック Bシリーズ 第12弾",
+        "en": "Promo Pack B Series Vol. 12",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_12"
+      },
+      "PROMO_B_13": {
+        "name": "プロモカードパック [Mst:SeriesName v=\"SERIES_NAME_2\"]シリーズ [Mst:CommonPackLabel v=\"COMMON_PACK_LABEL_013\"]",
+        "en": "Promo Pack [Mst:SeriesName v=\"SERIES_NAME_2\" ] Series [Mst:CommonPackLabel v=\"COMMON_PACK_LABEL_013\" ]",
+        "sourceField": "Game.Master.Pack.Name.PROMO_B_13"
+      }
+    }
+  },
+  "A3b": {
+    "name": "イーブイガーデン",
+    "sourceField": "Game.Master.Expansion.LONG_9",
+    "boosters": {},
+    "packs": {
+      "A3b_1": {
+        "name": "イーブイガーデン",
+        "en": "Eevee Grove",
+        "sourceField": "Game.Master.Pack.Name.A3b_1"
+      }
+    }
+  },
+  "A2": {
+    "name": "時空の激闘",
+    "sourceField": "Game.Master.Expansion.LONG_4",
+    "boosters": {
+      "palkia": {
+        "name": "時空の激闘 パルキア",
+        "sourceField": "Game.Master.Pack.Name.A2_2"
+      },
+      "dialga": {
+        "name": "時空の激闘 ディアルガ",
+        "sourceField": "Game.Master.Pack.Name.A2_1"
+      }
+    },
+    "packs": {
+      "A2_1": {
+        "name": "時空の激闘 ディアルガ",
+        "en": "Space-Time Smackdown: Dialga",
+        "sourceField": "Game.Master.Pack.Name.A2_1"
+      },
+      "A2_2": {
+        "name": "時空の激闘 パルキア",
+        "en": "Space-Time Smackdown: Palkia",
+        "sourceField": "Game.Master.Pack.Name.A2_2"
+      }
+    }
+  },
+  "A3a": {
+    "name": "異次元クライシス",
+    "sourceField": "Game.Master.Expansion.LONG_8",
+    "boosters": {},
+    "packs": {
+      "A3a_1": {
+        "name": "異次元クライシス",
+        "en": "Extradimensional Crisis",
+        "sourceField": "Game.Master.Pack.Name.A3a_1"
+      }
+    }
+  },
+  "B2b": {
+    "name": "シャイニングメガ",
+    "sourceField": "Game.Master.Expansion.LONG_18",
+    "boosters": {
+      "mega-shine": {
+        "name": "シャイニングメガ",
+        "sourceField": "Game.Master.Pack.Name.B2b_1"
+      }
+    },
+    "packs": {
+      "B2b_1": {
+        "name": "シャイニングメガ",
+        "en": "Mega Shine",
+        "sourceField": "Game.Master.Pack.Name.B2b_1"
+      }
+    }
+  },
+  "B2a": {
+    "name": "パルデアワンダー",
+    "sourceField": "Game.Master.Expansion.LONG_17",
+    "boosters": {
+      "paldea": {
+        "name": "パルデアワンダー",
+        "sourceField": "Game.Master.Pack.Name.B2a_1"
+      }
+    },
+    "packs": {
+      "B2a_1": {
+        "name": "パルデアワンダー",
+        "en": "Paldean Wonders",
+        "sourceField": "Game.Master.Pack.Name.B2a_1"
+      }
+    }
+  },
+  "B3a": {
+    "name": "進撃パラドックス",
+    "sourceField": "Game.Master.Expansion.LONG_20",
+    "boosters": {
+      "paradox-drive": {
+        "name": "進撃パラドックス",
+        "sourceField": "Game.Master.Pack.Name.B3a_1"
+      }
+    },
+    "packs": {
+      "B3a_1": {
+        "name": "進撃パラドックス",
+        "en": "Paradox Drive",
+        "sourceField": "Game.Master.Pack.Name.B3a_1"
+      }
+    }
+  },
+  "C1": {
+    "name": "デュアルフュージョン",
+    "sourceField": "Game.Master.Expansion.LONG_25",
+    "boosters": {
+      "mega-mewtwo-x": {
+        "name": "デュアルフュージョン メガミュウツーX",
+        "sourceField": "Game.Master.Pack.Name.C1_1"
+      },
+      "pikachu": {
+        "name": "デュアルフュージョン ピカチュウ",
+        "sourceField": "Game.Master.Pack.Name.C1_2"
+      }
+    },
+    "packs": {
+      "C1_1": {
+        "name": "デュアルフュージョン メガミュウツーX",
+        "en": "Dual Fusion: Mega Mewtwo X",
+        "sourceField": "Game.Master.Pack.Name.C1_1"
+      },
+      "C1_2": {
+        "name": "デュアルフュージョン ピカチュウ",
+        "en": "Dual Fusion: Pikachu",
+        "sourceField": "Game.Master.Pack.Name.C1_2"
+      }
+    }
+  }
+}

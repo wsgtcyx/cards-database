@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/368",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/368",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/368",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/368"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/368",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/368"
 	},
 	name: {
         en: "Dialga ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dialga-ex",
         "pt-br": "Dialga ex",
         "zh-tw": "帝牙盧卡ex",
+        ja: "ディアルガex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Turbo metallizzato",
                 "de": "Metallischer Turbo",
                 "pt-br": "Turbo Metálico",
-                "zh-tw": "金屬渦輪"
+                "zh-tw": "金屬渦輪",
+                ja: "メタルターボ"
             },
             damage: 30,
             cost: ["Metal", "Metal"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Prendi 2 Energie {M} dalla tua Zona Energetica e assegnale a 1 dei tuoi Pokémon in panchina.",
                 "de": "Nimm 2 {M}-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.",
                 "pt-br": "Pegue 2 {M} Energias da sua Zona de Energia e ligue-as a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。"
+                "zh-tw": "從你的能量區獲取 2 {M} 能量並將其附加到你的 1 只後備神奇寶貝身上。",
+                ja: "自分のエネルギーゾーンから{M}エネルギーを2個出し、ベンチポケモン1匹につける。"
             }
         }, {
             name: {
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Impatto pesante",
                 "de": "Schwerer Aufprall",
                 "pt-br": "Impacto Pesado",
-                "zh-tw": "重擊"
+                "zh-tw": "重擊",
+                ja: "ヘビーインパクト"
             },
             damage: 100,
             cost: ["Metal", "Metal", "Colorless", "Colorless"]

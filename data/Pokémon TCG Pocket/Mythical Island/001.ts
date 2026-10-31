@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/001"
     },
     name: {
         en: "Exeggcute",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggcute",
         de: "Owei",
         'pt-br': "Exeggcute",
+        ja: "タマタマ",
         ko: "아라리",
         "zh-tw": "蛋蛋",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Somiglia a un mucchio di uova, ma è\nun Pokémon a tutti gli effetti. Pare che\ncomunichi con i suoi simili telepaticamente.",
         de: "Owei mag zwar Eiern ähneln, ist aber ein echtes\nPokémon, das aus sechs Individuen besteht, die\nwohl telepathisch miteinander kommunizieren.",
         'pt-br': "Apesar de parecer só um monte de ovos, é um Pokémon\nde verdade. Exeggcute se comunica com outros de sua\nespécie por meio de telepatia.",
+        ja: "タマゴのように 見えるが 立派な ポケモン。 テレパシーで 仲間と 交信している らしいぞ。",
         ko: "알처럼 보이지만 엄연한\n포켓몬이다. 텔레파시로\n동료와 교신하는 듯하다.",
         "zh-tw": "雖然它看起來只是一堆雞蛋，但它是一隻真正的神奇寶貝。顯然，Exeggcute 是通過心靈感應與其他同類進行交流的。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Crescita Inaspettata",
                 de: "Wachstumsschub",
                 'pt-br': "Estirão",
+                ja: "ちょっとせいちょう",
                 ko: "조금성장",
                 "zh-tw": "成長突飛猛進"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Prendi un'Energia {G} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {G}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 'pt-br': "Pegue 1 Energia {G} da sua Zona de Energia e ligue-a a este Pokémon.",
+                ja: "自分のエネルギーゾーンから{G}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {G}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出一個{G}能量並將其附加到這只神奇寶貝身上。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/324",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/324",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/324",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/324"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/324",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/324"
     },
     name: {
         en: "Passimian ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quartermak-ex",
         "pt-br": "Passimian ex",
         "zh-tw": "投擲猴ex",
+        ja: "ナゲツケサルex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Passaggio di scarico",
                 "de": "Offload-Pass",
                 "pt-br": "Passe de descarregamento",
-                "zh-tw": "卸載通行證"
+                "zh-tw": "卸載通行證",
+                ja: "オフロードパス"
             },
             effect: {
                 en: "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all {F} Energy from this Pokémon to 1 of your Benched Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni di un attacco dei Pokémon del tuo avversario, sposta tutte le Energie {F} da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, verschiebe alle {F}-Energien von diesem Pokémon auf 1 deiner Pokémon auf der Bank.",
                 "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, mova todas as Energias {F} deste Pokémon para 1 dos seus Pokémon no Banco.",
-                "zh-tw": "如果這只神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則將該神奇寶貝的所有 {F} 能量移至你後備的 1 只神奇寶貝。"
+                "zh-tw": "如果這只神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則將該神奇寶貝的所有 {F} 能量移至你後備的 1 只神奇寶貝。",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、このポケモンから{F}エネルギーをすべて、ベンチポケモン1匹につけ替える。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Scossa sismica",
                 "de": "Seismischer Wurf",
                 "pt-br": "Lançamento Sísmico",
-                "zh-tw": "地震拋擲"
+                "zh-tw": "地震拋擲",
+                ja: "ちきゅうなげ"
             },
             damage: 60,
             cost: ["Fighting", "Colorless"]

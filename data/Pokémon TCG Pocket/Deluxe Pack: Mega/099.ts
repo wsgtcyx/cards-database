@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/099",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/099"
     },
     name: {
         en: "Toxtricity ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Toxel",
         "pt-br": "Toxel",
         "zh-tw": "毒電嬰",
-        ja: "Toxel",
+        ja: "エレズン",
         ko: "Toxel"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Funkenschaden",
                 "pt-br": "Faísca Nociva",
                 "zh-tw": "傷害電光",
-                ja: "Damaging Spark",
+                ja: "ダメージスパーク",
                 ko: "Damaging Spark"
             },
             damage: 90,
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners, dem bereits Schaden zugefügt wurde, 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 pontos de dano a cada um dos Pokémon no Banco do seu oponente que estiver danificado.",
                 "zh-tw": "對手有受到傷害的所有備戰寶可夢也受到30點傷害。",
-                ja: "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it.",
+                ja: "ダメージを受けている相手のベンチポケモン全員にも30ダメージ。",
                 ko: "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
             }
         }

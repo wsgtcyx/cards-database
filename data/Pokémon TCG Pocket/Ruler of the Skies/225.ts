@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/225",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/225",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/225",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/225"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/225",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/225"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Ninetales de Alola ex",
         "zh-tw": "阿羅拉九尾ex",
         ko: "알로라 나인테일 ex",
-        ja: "アローラ キュウコンex"
+        ja: "アローラキュウコンex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -38,7 +39,7 @@ const card: Card = {
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉六尾",
         ko: "알로라 식스테일",
-        ja: "アローラ ロコン"
+        ja: "アローラロコン"
     },
     stage: "Stage1",
     attacks: [
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Legare la neve",
                 de: "Schnee binden",
                 "pt-br": "Detenção Nevada",
-                "zh-tw": "冰雪制約"
+                "zh-tw": "冰雪制約",
+                ja: "スノーバインド"
             },
             effect: {
                 en: "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Durante il suo prossimo turno, il tuo avversario non può prendere nessuna Energia dalla sua Zona Energia per assegnarla al suo Pokémon attivo.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
-                "zh-tw": "在下個對手的回合,對手無法從能量區抽出能量,附於戰鬥寶可夢身上。"
+                "zh-tw": "在下個對手的回合,對手無法從能量區抽出能量,附於戰鬥寶可夢身上。",
+                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。"
             },
             damage: 80
         }

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/015",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/015",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/015"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/015"
     },
     name: {
         en: "Wo-Chien",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Chongjian",
         "pt-br": "Wo-Chien",
         "zh-tw": "古簡蝸",
+        ja: "チオンジェン",
         pt: "Wo-Chien"
     },
     illustrator: "Kouki Saitou",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Prosciuga la forza vitale dalla vegetazione, facendo appassire istantaneamente le foreste vicine e rendendo sterili i campi.",
         "de": "Es entzieht der Vegetation die Lebenskraft, wodurch umliegende Wälder sofort verdorren und Felder unfruchtbar werden.",
         "pt-br": "Ele drena a força vital da vegetação, fazendo com que as florestas próximas murchem instantaneamente e os campos fiquem áridos.",
-        "zh-tw": "它會耗盡植被的生命力，導致附近的森林立即枯萎，田野變得貧瘠。"
+        "zh-tw": "它會耗盡植被的生命力，導致附近的森林立即枯萎，田野變得貧瘠。",
+        ja: "草木の エネルギーを 吸い上げる。 周囲の 森は たちどころに 枯れ果て 田畑は 不作となる。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Fesselnde Gier",
                 "pt-br": "Ganância Vinculante",
                 "zh-tw": "束縛貪婪",
+                ja: "どんよくバインド",
                 pt: "Gula Aprisionante"
             },
             damage: "90",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um {C}{C}.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão {C}{C} a mais.",
                 "zh-tw": "在對手的下一個回合中，防禦寶可夢使用的攻擊會花費更多 {C}{C} 的費用。",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー2個ぶん多くする。",
                 pt: "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão {C}{C} a mais."
             },
         },

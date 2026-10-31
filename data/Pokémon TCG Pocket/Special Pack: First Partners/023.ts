@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/023",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/023"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/023"
     },
     name: {
         en: "Scorbunny",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Doppelkick",
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢",
-                ja: "Double Kick",
+                ja: "にどげり",
                 ko: "Double Kick"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
                 "zh-tw": "擲2次硬幣,造成正面出現的次數×40點傷害。",
-                ja: "Flip 2 coins. This attack does 40 damage for each heads.",
+                ja: "コインを2回投げ、オモテの数×40ダメージ。",
                 ko: "Flip 2 coins. This attack does 40 damage for each heads."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Erhöht es durch Rennen seine Körpertemperatur, strömt Feuer-Energie durch seinen Körper. Dann kann es seine wahre Kraft entfesseln.",
         "pt-br": "Quando este Pokémon está em movimento, uma energia flamejante atravessa o seu corpo, preparando-o para batalhar a todo vapor.",
         "zh-tw": "不斷奔跑使體溫升高後，火之能量會在牠體內循環，促使牠發揮出真正的力量。",
-        ja: "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+        ja: "走りまわって 体温を 上げると 炎エネルギーが 体を 巡り 本来の 力を 発揮できる。",
         ko: "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power."
     }
 };

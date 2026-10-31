@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/055",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/055",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/055"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/055"
     },
     name: {
         en: "Altaria",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Altaria",
         "pt-br": "Altaria",
         "zh-tw": "七夕青鳥",
+        ja: "チルタリス",
     },
     illustrator: "miki kudo",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
+        ja: "チルット",
     },
     description: {
         en: "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Se si lega a una persona, la avvolgerà delicatamente\nl'amico con le sue morbide ali, poi canticchia.",
         "de": "Wenn es sich mit einem Menschen verbindet, wird es ihn sanft umhüllen\nder Freund mit seinen weichen Flügeln, dann summen.",
         "pt-br": "Se se relacionar com uma pessoa, envolverá suavemente\no amigo com suas asas macias, então cantarola.",
-        "zh-tw": "如果它與一個人結合，它會輕輕地包圍\n朋友帶著柔軟的翅膀，然後哼哼。"
+        "zh-tw": "如果它與一個人結合，它會輕輕地包圍\n朋友帶著柔軟的翅膀，然後哼哼。",
+        ja: "心が 通い合った 人がいると 柔らかく 美しい 羽で そっと 包み込み ハミングする。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Drago Arcano",
                 "de": "Drachen Arcana",
                 "pt-br": "Arcano do Dragão",
-                "zh-tw": "龍阿卡納"
+                "zh-tw": "龍阿卡納",
+                ja: "りゅうのおうぎ"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha 2 o più tipi diversi di Energie assegnate, questo attacco infligge 60 danni in più.",
                 "de": "Wenn an dieses Pokémon 2 oder mehr verschiedene Energietypen angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver 2 ou mais tipos diferentes de Energia anexados, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了 2 種或以上不同類型的能量，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果該神奇寶貝附加了 2 種或以上不同類型的能量，則此攻擊造成的傷害增加 60 點。",
+                ja: "このポケモンに2種類以上のタイプのエネルギーがついているなら、60ダメージ追加。"
             }
         }],
     retreat: 2

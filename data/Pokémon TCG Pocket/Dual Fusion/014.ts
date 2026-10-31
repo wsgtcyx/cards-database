@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/014",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/014"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/014"
     },
     name: {
         en: "Cutiefly",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Käferbiss",
                 "pt-br": "Picada",
                 "zh-tw": "蟲咬",
-                ja: "Bug Bite",
+                ja: "むしくい",
                 ko: "Bug Bite"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Nimmt es die fröhliche Aura von Menschen oder Pokémon wahr, nähert es sich ihnen und teilt mit seinem langen Rüssel schmerzhafte Stiche aus.",
         "pt-br": "Quando sente a aura das pessoas ou Pokémon que estão se divertindo, aproxima-se e dá uma ferroada dolorida neles com sua probóscide longa.",
         "zh-tw": "只要感覺到人類或寶可夢發出的快樂氣場，就會靠近並用長長的嘴器戳之。被戳者很痛。",
-        ja: "When it senses the auras of people or Pokémon who are having fun, it will draw close and give them a painful poke with its long proboscis.",
+        ja: "人や ポケモンの 楽しそうな オーラを 感じ取り 寄ってきては 長い 口で 突くので 痛い。",
         ko: "When it senses the auras of people or Pokémon who are having fun, it will draw close and give them a painful poke with its long proboscis."
     }
 };

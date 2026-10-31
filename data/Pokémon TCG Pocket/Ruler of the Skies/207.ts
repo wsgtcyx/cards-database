@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/207",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/207",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/207",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/207"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/207",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/207"
     },
     name: {
         en: "Swampert",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Ha braccia dure come roccia, capaci di abbattere l'avversario in un colpo. Nidifica su splendide spiagge.",
         de: "Seine Arme sind steinhart. Mit nur einem Schlag kann es Gegner zu Boden strecken. Es baut sein Nest an pittoresken Stränden.",
         "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas.",
-        "zh-tw": "雙臂堅硬如岩石，\n只要揮一下就能擊倒對手。\n會在美麗的沙灘築巢。"
+        "zh-tw": "雙臂堅硬如岩石，\n只要揮一下就能擊倒對手。\n會在美麗的沙灘築巢。",
+        ja: "両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Grande idromassaggio",
                 de: "Großer Whirlpool",
                 "pt-br": "Redemoinho Enorme",
-                "zh-tw": "大潮旋"
+                "zh-tw": "大潮旋",
+                ja: "おおうずしお"
             },
             effect: {
                 en: "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 de: "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄個能量。"
+                "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄個能量。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
             },
             damage: 100
         }

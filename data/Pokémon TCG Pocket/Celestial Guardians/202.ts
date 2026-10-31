@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/202",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/202",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/202"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/202",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/202"
     },
     name: {
         en: "Wishiwashi ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wishiwashi-ex",
         de: "Lusardin-ex",
         'pt-br': "Wishiwashi ex",
+        ja: "ヨワシex",
         ko: "약어리 ex",
         "zh-tw": "弱丁魚ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Banco Dirompente",
                 de: "Schwarmsturm",
                 'pt-br': "Cardume Tempestuoso",
+                ja: "ぎょぐんストーム",
                 ko: "어군스톰",
                 "zh-tw": "學校風暴"
             },
@@ -48,6 +51,7 @@ const card: Card = {
                 it: "Questo attacco infligge 40 danni in più per ogni Wishiwashi e Wishiwashi-ex nella tua panchina.",
                 de: "Diese Attacke fügt für jedes Lusardin und Lusardin-ex auf deiner Bank 40 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 40 pontos de dano a mais para cada um dos seus Wishiwashi e Wishiwashi ex no Banco.",
+                ja: "自分のベンチの「ヨワシ」と「ヨワシex」の数×40ダメージ追加。",
                 ko: "자신의 벤치의 「약어리」 「약어리 ex」의 수 × 40데미지를 추가한다.",
                 "zh-tw": "這次攻擊對你的後備願望和願望超級每人造成 40 點以上傷害。"
             }

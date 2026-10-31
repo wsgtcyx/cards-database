@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/037"
     },
     name: {
         en: "Turtonator",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Turtonator",
         it: "Turtonator",
         de: "Tortunator",
+        ja: "バクガメス",
         ko: "폭거북스",
         'pt-br': "Turtonator",
         "zh-tw": "爆焰龜獸",
@@ -32,6 +34,7 @@ const card: Card = {
         es: "Su caparazón está recubierto de un material explosivo.\nResponde con un gran estallido a todo aquel que lo ataque.",
         it: "Il carapace sulla schiena è rivestito di esplosivo.\nRespinge gli attacchi nemici con un potente scoppio.",
         de: "Sein Panzer ist mit einer explosiven Schicht überzogen.\nGegnerische Angriffe quittiert es mit gewaltigen Explosionen.",
+        ja: "爆薬で コーティングされた 甲羅を 背負う。 攻撃してきた 敵を 大爆発で 返り討ち。",
         ko: "폭약으로 코팅된 등껍질을\n짊어지고 있다. 공격하는\n상대에게 대폭발로 반격한다.",
         'pt-br': "Sua carapaça é coberta por substâncias explosivas.\nOs inimigos que ousarem atacar este Pokémon\nserão lançados longe por uma explosão imensa.",
         "zh-tw": "爆炸性物質覆蓋在其背部的外殼上。膽敢攻擊它的敵人會被巨大的爆炸炸飛。"
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Giro Fuego",
                 it: "Turbofuoco",
                 de: "Feuerwirbel",
+                ja: "ほのおのうず",
                 ko: "회오리불꽃",
                 'pt-br': "Chama Furacão",
                 "zh-tw": "火旋"
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Descarta 1 Energía {R} de este Pokémon.",
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"

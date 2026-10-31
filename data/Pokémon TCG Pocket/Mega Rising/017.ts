@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/017"
     },
     name: {
         en: "Petilil",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
+        ja: "チュリネ",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se le foglie sulla sua testa vengono potate con\nregolarità, è possibile far crescere questo Pokémon\nuna bella forma paffuta.",
         "de": "Wenn die Blätter auf seinem Kopf beschnitten werden\nRegelmäßigkeit, in die dieses Pokémon hineinwachsen kann\neine schöne, pralle Form.",
         "pt-br": "Se as folhas da sua cabeça forem podadas com\nregularidade, este Pokémon pode ser transformado em\numa forma rechonchuda e fina.",
-        "zh-tw": "如果它頭上的葉子被修剪掉\n規律性，這個神奇寶貝可以成長為\n精緻豐滿的形狀。"
+        "zh-tw": "如果它頭上的葉子被修剪掉\n規律性，這個神奇寶貝可以成長為\n精緻豐滿的形狀。",
+        ja: "たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 10,
             cost: ["Colorless"]

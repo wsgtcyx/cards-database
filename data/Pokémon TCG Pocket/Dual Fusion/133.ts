@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/133",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/133",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/133"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/133"
     },
     name: {
         en: "Exeggcute",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Nickerchen",
                 "pt-br": "Soneca",
                 "zh-tw": "小憩",
-                ja: "Nap",
+                ja: "ひとやすみ",
                 ko: "Nap"
             },
             cost: [
@@ -65,7 +66,7 @@ const card: Card = {
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 pontos de dano deste Pokémon.",
                 "zh-tw": "將這隻寶可夢恢復20HP。",
-                ja: "Heal 20 damage from this Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "Heal 20 damage from this Pokémon."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
         de: "Berührt man einen seiner Köpfe, weil man ihn für ein Ei hält, tun die übrigen sich rasch zusammen und gehen zum Angriff über.",
         "pt-br": "Se você tocar uma das cabeças de Exeggcute achando que é um ovo, as outras cabeças se juntarão rapidamente e atacarão como um enxame.",
         "zh-tw": "若以為是蛋而去觸摸，就會被不斷聚集而來的蛋蛋的夥伴襲擊。",
-        ja: "If you touch one of Exeggcute’s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.",
+        ja: "タマゴだと 思って 触ると 仲間が どんどん 集まってきて 集団攻撃に あう。",
         ko: "If you touch one of Exeggcute’s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm."
     }
 };

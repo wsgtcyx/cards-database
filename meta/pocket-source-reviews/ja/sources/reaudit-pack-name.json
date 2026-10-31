@@ -1,0 +1,10 @@
+{
+  "verifiedAt": "2026-10-31T06:32:40.595Z",
+  "url": "https://www.pokemontcgpocket.com/ja/news/86/",
+  "dictionaryFile": "meta/pocket-source-reviews/ja/sources/ja-messages.json",
+  "dictionarySha256": "87a5b14e4253999bac0301838a1ebe9b33ec647e1b8093df3a75259ada0860cf",
+  "path": "Game.Master.Pack.Description.PROMO_B_13",
+  "nativeDescription": "Bシリーズ 第13弾のプロモカードパック",
+  "resolvedName": "プロモカードパック Bシリーズ 第13弾",
+  "reason": "Native Japanese Pack.Description resolves the SeriesName/CommonPackLabel slots; official news86 confirms B-series volumes 1 through13."
+}

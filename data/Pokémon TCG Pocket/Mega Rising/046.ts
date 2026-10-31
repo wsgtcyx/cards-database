@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/046"
     },
     name: {
         en: "Pyroar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pyroleo",
         "pt-br": "Pyroar",
         "zh-tw": "火炎獅",
+        ja: "カエンジシ",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Leufeo",
         "pt-br": "Litleo",
         "zh-tw": "小獅獅",
+        ja: "シシコ",
     },
     description: {
         en: "The mane of a male Pyroar heats up to over\n3,600 degrees Fahrenheit during battle. Merely\napproaching it will cause severe burns.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La criniera di un Pyroar maschio si surriscalda\n3.600 gradi Fahrenheit durante la battaglia. Semplicemente\navvicinarsi causerà gravi ustioni.",
         "de": "Die Mähne eines männlichen Pyroars erhitzt sich auf über 100 °C\n3.600 Grad Fahrenheit während des Kampfes. Nur\nBei Annäherung kann es zu schweren Verbrennungen kommen.",
         "pt-br": "A juba de um Pyroar macho esquenta\n3.600 graus Fahrenheit durante a batalha. Apenas\naproximar-se dele causará queimaduras graves.",
-        "zh-tw": "雄性 Pyroar 的鬃毛溫度升高到超過\n戰鬥期間溫度為 3,600 華氏度。僅僅是\n接近它會導致嚴重燒傷。"
+        "zh-tw": "雄性 Pyroar 的鬃毛溫度升高到超過\n戰鬥期間溫度為 3,600 華氏度。僅僅是\n接近它會導致嚴重燒傷。",
+        ja: "オスの たてがみは 戦いになると 摂氏2000度の 高温になる。 近寄るだけで 大火傷だ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Esplosione di fuoco",
                 "de": "Feuerstoß",
                 "pt-br": "Explosão de Fogo",
-                "zh-tw": "火爆"
+                "zh-tw": "火爆",
+                ja: "だいもんじ"
             },
             damage: 130,
             cost: ["Fire", "Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta 2 Energie {R} da questo Pokémon.",
                 "de": "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {R} Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。"
             }
         }],
     weaknesses: [{

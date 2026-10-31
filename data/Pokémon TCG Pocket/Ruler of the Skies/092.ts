@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/092",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/092",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/092"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/092"
     },
     name: {
         en: "Muk",
@@ -38,7 +39,7 @@ const card: Card = {
         "pt-br": "Grimer",
         "zh-tw": "臭泥",
         ko: "알로라 질퍽이",
-        ja: "アローラ ベトベター"
+        ja: "ベトベター"
     },
     stage: "Stage1",
     description: {
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ha un odore estremamente sgradevole e il suo corpo è un concentrato di veleni. Non c'è pianta che rimanga in vita dopo il suo passaggio.",
         de: "Sein Gestank ist unerträglich. Das starke Gift, aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.",
         "pt-br": "É fedorento demais! O corpo de Muk contém elementos tóxicos. Qualquer planta murchará quando ele passar por perto.",
-        "zh-tw": "奇臭無比！\n身體帶有劇毒，牠所爬過\n之處，任何草木都會枯萎。"
+        "zh-tw": "奇臭無比！\n身體帶有劇毒，牠所爬過\n之處，任何草木都會枯萎。",
+        ja: "とっても くさい！ 体の 成分は 猛毒で ベトベトンが 通ると どんな 草木も 枯れる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Imboscata",
                 de: "Hinterhalt",
                 "pt-br": "Emboscada",
-                "zh-tw": "伏擊"
+                "zh-tw": "伏擊",
+                ja: "おそいかかる"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "30+"
         }

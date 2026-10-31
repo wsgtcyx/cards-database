@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/011",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/011"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/011"
     },
     name: {
         en: "Shroomish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Knilz",
         "pt-br": "Shroomish",
         "zh-tw": "蘑蘑菇",
+        ja: "キノココ",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se avverte il pericolo, sparge le spore dall'alto\ndella testa per proteggersi.",
         "de": "Wenn es Gefahr wittert, streut es Sporen von oben aus\nseines Kopfes, um sich zu schützen.",
         "pt-br": "Se sentir perigo, espalha esporos do topo\nde sua cabeça para se proteger.",
-        "zh-tw": "如果它感覺到危險，就會從頂部散佈孢子\n的頭來保護自己。"
+        "zh-tw": "如果它感覺到危險，就會從頂部散佈孢子\n的頭來保護自己。",
+        ja: "危険を 感じると 頭の てっぺんから 毒の 胞子を ばらまき 身を 守る ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Grass"]

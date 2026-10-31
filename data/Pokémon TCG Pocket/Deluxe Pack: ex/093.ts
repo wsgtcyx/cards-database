@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/093"
     },
     name: {
         en: "Staryu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sterndu",
         "pt-br": "Staryu",
         "zh-tw": "海星星",
+        ja: "ヒトデマン",
     },
     illustrator: "Hiroki Asanuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se visiti una spiaggia alla fine dell'estate, lo farai\npoter vedere gruppi di Staryu illuminarsi in a\nritmo costante.",
         "de": "Wenn Sie am Ende des Sommers einen Strand besuchen, werden Sie es tun\nin der Lage sein, Gruppen von Staryu aufleuchten zu sehen\ngleichmäßiger Rhythmus.",
         "pt-br": "Se você visitar uma praia no final do verão, você\npoder ver grupos de Staryu iluminando-se em um\nritmo constante.",
-        "zh-tw": "如果你在夏末去海灘，你會\n能夠看到成群的Staryu在一個\n穩定的節奏。"
+        "zh-tw": "如果你在夏末去海灘，你會\n能夠看到成群的Staryu在一個\n穩定的節奏。",
+        ja: "夏の終わりの 浜辺に 行くと 規則的な リズムで 光る ヒトデマンの 群れが 見られるよ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Schiaffo",
                 "de": "Klatschen",
                 "pt-br": "Bater",
-                "zh-tw": "斯馬克"
+                "zh-tw": "斯馬克",
+                ja: "ひらてうち"
             },
             damage: 20,
             cost: ["Water"]

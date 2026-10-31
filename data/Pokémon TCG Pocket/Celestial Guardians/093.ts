@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/093"
     },
     name: {
         en: "Drilbur",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drilbur",
         de: "Rotomurf",
         'pt-br': "Drilbur",
+        ja: "モグリュー",
         ko: "두더류",
         "zh-tw": "螺釘地鼠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Congiunge le unghie e si avvita su se stesso\na gran velocità per poi lanciarsi sulla preda.",
         de: "Es führt seine beiden Klauen zusammen, dreht sich rapide\num die eigene Achse und stürzt sich auf seine Beute.",
         'pt-br': "Junta suas garras e rodopia em alta velocidade\nantes de correr em direção à sua presa.",
+        ja: "両手の ツメを 重ね合わせ 体を 高速回転 させると 獲物 めがけて 突っ込むのだ。",
         ko: "양손의 손톱을 서로 겹치고\n몸을 고속으로 회전시킨 뒤\n먹이를 향해 돌진한다.",
         "zh-tw": "它會張開爪子，高速旋轉，然後沖向獵物。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

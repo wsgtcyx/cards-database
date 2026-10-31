@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/040"
     },
     name: {
         en: "Mienfoo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lin-Fu",
         "pt-br": "Mienfoo",
         "zh-tw": "功夫鼬",
+        ja: "コジョフー",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "In un minuto, un Mienfoo ben addestrato può tagliare\ncon le sue braccia più di 100 volte.",
         "de": "In einer Minute kann ein gut trainierter Mienfoo hacken\nmit seinen Armen mehr als 100 Mal.",
         "pt-br": "Em um minuto, um Mienfoo bem treinado pode cortar\ncom os braços mais de 100 vezes.",
-        "zh-tw": "一分鐘內，訓練有素的 Mienfoo 就可以砍\n手臂轉動超過100次。"
+        "zh-tw": "一分鐘內，訓練有素的 Mienfoo 就可以砍\n手臂轉動超過100次。",
+        ja: "よく鍛えられた コジョフーは １分で １００回を 超える チョップを 打つことが できる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di calcio",
                 "de": "Kick-Shot",
                 "pt-br": "Chute",
-                "zh-tw": "踢球"
+                "zh-tw": "踢球",
+                ja: "いっぱつげり"
             },
             damage: 40,
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

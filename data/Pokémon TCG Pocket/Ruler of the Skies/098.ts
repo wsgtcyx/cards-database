@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/098",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/098",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/098"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/098"
     },
     name: {
         en: "Gulpin",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha cuore e cervello mini: lo stomaco prende troppo\nspazio! Con i succhi gastrici scioglie qualunque cosa.",
         de: "Sein Körper besteht fast nur aus Magen. Herz und\nHirn sind winzig. Sein Magensaft verdaut alles.",
         "pt-br": "Seu coração e seu cérebro são muito pequenos. O estômago ocupa a maior parte do corpo e é cheio de enzimas capazes de dissolver qualquer coisa.",
-        "zh-tw": "心臟和大腦都很小，\n身體的大部分是胃，\n會分泌出什麼都能溶解的胃液。"
+        "zh-tw": "心臟和大腦都很小，\n身體的大部分是胃，\n會分泌出什麼都能溶解的胃液。",
+        ja: "心臓や 脳みそは 小さく 体の 大部分が 胃袋。 なんでも 溶かす 胃液を 出す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fangobomba",
                 de: "Matschbombe",
                 "pt-br": "Bomba de Lodo",
-                "zh-tw": "污泥炸彈"
+                "zh-tw": "污泥炸彈",
+                ja: "ヘドロばくだん"
             },
             damage: 20
         }

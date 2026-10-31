@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/039"
     },
     name: {
         en: "Machamp",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Machamp",
         de: "Machomei",
         'pt-br': "Machamp",
+        ja: "カイリキー",
         ko: "괴력몬",
         "zh-tw": "怪力"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Machoke",
         "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "豪力"
+        "zh-tw": "豪力",
+        ja: "ゴーリキー"
     },
     description: {
         en: "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
         de: "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
         'pt-br': "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+        ja: "４本の腕を すばやく 動かし あらゆる 角度から 休むことなく パンチや チョップを 叩きこむ。",
         ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
         "zh-tw": "它迅速揮動四隻手臂，從各個角度不斷地出拳和砍擊，震撼對手。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Vigorstretta",
             de: "Powerdruck",
             'pt-br': "Compressão Poderosa",
+            ja: "パワープレス",
             ko: "파워프레스",
             "zh-tw": "動力出版社"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
             de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
             'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
+            ja: "追加で{F}エネルギーが2個ついているなら、50ダメージ追加。",
             ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다.",
             "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/084",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/084",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/084",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/084"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/084",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/084"
     },
     name: {
         en: "Magnemite",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Die seitlichen Module halten es in der Luft, indem sie mit elektromagnetischen Wellen die Schwerkraft überlisten.",
         "pt-br": "As ondas eletromagnéticas emitidas pelas unidades nas laterais de sua cabeça geram antigravidade, o que faz com que ele possa flutuar.",
         "zh-tw": "從左右兩邊的組件發出的電磁波能阻隔重力，使牠浮在空中。",
-        ja: "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。",
         ko: "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Elektroball",
                 "pt-br": "Bola Elétrica",
                 "zh-tw": "電球",
-                ja: "Electro Ball",
+                ja: "エレキボール",
                 ko: "Electro Ball"
             },
             damage: 30,

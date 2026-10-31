@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/187",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/187",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/187",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/187"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/187",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/187"
     },
     name: {
         en: "Darkrai ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Darkrai-ex",
         de: "Darkrai-ex",
         'pt-br': "Darkrai ex",
+        ja: "ダークライex",
         ko: "다크라이 ex",
         "zh-tw": "達克萊伊ex",
     },
@@ -37,6 +39,7 @@ const card: Card = {
                 it: "Aura dell'Incubo",
                 de: "Alptraum-Aura",
                 'pt-br': "Aura de Pesadelo",
+                ja: "ナイトメアオーラ",
                 ko: "나이트메어 오라",
                 "zh-tw": "夢魘光環"
             },
@@ -47,6 +50,7 @@ const card: Card = {
                 it: "Ogni volta che assegni un'Energia {D} a questo Pokémon dalla tua Zona Energia, infliggi 20 danni al Pokémon attivo dell'avversario.",
                 de: "Füge jedes Mal, wenn du 1 {D}-Energie aus dem Energiebereich an dieses Pokémon anlegst, dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Sempre que você ligar uma Energia {D} da sua Zona de Energia a este Pokémon, cause 20 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "自分のエネルギーゾーンからこのポケモンに{D}エネルギーをつけるたび、相手のバトルポケモンに20ダメージ。",
                 ko: "자신의 에너지존에서 이 포켓몬에게 {D}에너지를 붙일 때마다 상대의 배틀 포켓몬에게 20데미지를 준다.",
                 "zh-tw": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。"
             }
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Prisma Oscuro",
                 de: "Dunkles Prisma",
                 'pt-br': "Prisma da Escuridão",
+                ja: "ダークプリズム",
                 ko: "다크프리즘",
                 "zh-tw": "黑暗棱鏡"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/074"
     },
     name: {
         en: "Drifblim",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drifblim",
         de: "Drifzepeli",
         'pt-br': "Drifblim",
+        ja: "フワライド",
         ko: "둥실라이드",
         "zh-tw": "隨風球",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Driftlon",
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
+        ja: "フワンテ",
     },
     description: {
         en: "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si dice che sia formato dall'aggregazione\ndi anime che hanno lasciato la vita con dei\nrimpianti. Fluttua silenzioso all'imbrunire.",
         de: "Man sagt, es bestehe aus den Seelen derer,\ndie voller Groll verstorben sind. Es treibt lautlos\nim Zwielicht dahin.",
         'pt-br': "Dizem que este Pokémon é um conjunto de almas cheias\nde arrependimentos, flutuando silenciosamente\nao anoitecer.",
+        ja: "無念の 死を とげた 魂が 集まった 姿とも いわれる。 宵闇を 音も なく 漂う。",
         ko: "억울하게 죽은 영혼이\n모인 모습으로도 일컬어진다.\n땅거미가 질 무렵 소리 없이 떠돈다.",
         "zh-tw": "有人說，這只神奇寶貝是一群帶著遺憾的靈魂的集合，在黃昏中默默地漂流。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Palloncolpo",
                 de: "Ballonhieb",
                 'pt-br': "Golpe Balão",
+                ja: "バルーンアタック",
                 ko: "벌룬어택",
                 "zh-tw": "氣球襲擊"
             },

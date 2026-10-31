@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/067",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/067",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/067"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/067"
     },
     name: {
         en: "Hypno",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Tenendo sempre in mano un pendolo che fa oscillare a ritmo costante, provoca sonnolenza in chiunque si trovi nelle vicinanze.",
         de: "Halten Sie immer ein Pendel in der Hand, damit es in einem gleichmäßigen Rhythmus schwingt, was bei jedem in der Nähe Schläfrigkeit hervorruft.",
         "pt-br": "Sempre segurando um pêndulo que balança em um ritmo constante, causa sonolência em quem estiver por perto.",
-        "zh-tw": "總是拿著一個以穩定節奏擺動的鐘擺，它會導致附近的任何人昏昏欲睡。"
+        "zh-tw": "總是拿著一個以穩定節奏擺動的鐘擺，它會導致附近的任何人昏昏欲睡。",
+        ja: "どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神強念"
+                "zh-tw": "精神強念",
+                ja: "サイコキネシス"
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。"
+                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
             },
             damage: "60+"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/029"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ninetales di Alola-ex",
         "de": "Alola-Vulnona-ex",
         "pt-br": "Ninetales de Alola ex",
-        "zh-tw": "阿羅拉九尾ex"
+        "zh-tw": "阿羅拉九尾ex",
+        ja: "アローラキュウコンex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vulpix di Alola",
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
-        "zh-tw": "阿羅拉六尾"
+        "zh-tw": "阿羅拉六尾",
+        ja: "アローラロコン"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Legare la neve",
                 "de": "Schnee binden",
                 "pt-br": "Neve Vinculante",
-                "zh-tw": "束縛雪"
+                "zh-tw": "束縛雪",
+                ja: "スノーバインド"
             },
             damage: 80,
             cost: ["Water", "Water"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Durante il suo prossimo turno, il tuo avversario non può prendere nessuna Energia dalla sua Zona Energia per assegnarla al suo Pokémon attivo.",
                 "de": "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
-                "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍神奇寶貝上。"
+                "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍神奇寶貝上。",
+                ja: "次の相手の番、相手はエネルギーゾーンからエネルギーを出して、バトルポケモンにつけられない。"
             }
         }],
     weaknesses: [{

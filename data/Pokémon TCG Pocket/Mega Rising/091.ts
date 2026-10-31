@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/091",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/091"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/091",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/091"
     },
     name: {
         en: "Zebstrika",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zebritz",
         "pt-br": "Zebstrika",
         "zh-tw": "雷電斑馬",
+        ja: "ゼブライカ",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Elezeba",
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
+        ja: "シママ",
     },
     description: {
         en: "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Hanno movimenti simili a fulmini.\nQuando Zebstrika corre a tutta velocità, il suono di\nrimbomba il tuono.",
         "de": "Sie haben blitzartige Bewegungen.\nWenn Zebstrika mit voller Geschwindigkeit läuft, ist das Geräusch zu hören\nDonner hallt wider.",
         "pt-br": "Eles têm movimentos semelhantes a raios.\nQuando Zebstrika corre a toda velocidade, o som de\no trovão reverbera.",
-        "zh-tw": "他們的動作如同閃電。\n當 Zebstrika 全速奔跑時，會發出\n雷聲迴響。"
+        "zh-tw": "他們的動作如同閃電。\n當 Zebstrika 全速奔跑時，會發出\n雷聲迴響。",
+        ja: "稲妻のような 瞬発力。 ゼブライカが 全速力で 走ると 雷鳴が 響きわたる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Palla elettrica",
                 "de": "Elektrischer Ball",
                 "pt-br": "Bola Elétrica",
-                "zh-tw": "電動球"
+                "zh-tw": "電動球",
+                ja: "ライトニングボール"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Lightning"]

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/007",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/007",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/007"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/007"
     },
     name: {
         en: "Smoliv",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Olini",
         "pt-br": "Smoliv",
         "zh-tw": "迷你芙",
+        ja: "ミニーブ",
         pt: "Smoliv"
     },
     illustrator: "yuu",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Si protegge dai nemici emettendo olio dal frutto sulla sua testa. Questo olio è abbastanza amaro e astringente da far sussultare qualcuno.",
         "de": "Es schützt sich vor Feinden, indem es Öl aus der Frucht auf seinem Kopf abgibt. Dieses Öl ist so bitter und adstringierend, dass es jemanden zusammenzucken lässt.",
         "pt-br": "Ele se protege dos inimigos emitindo óleo da fruta em sua cabeça. Este óleo é amargo e adstringente o suficiente para fazer alguém estremecer.",
-        "zh-tw": "它透過從頭上的果實中噴出油來保護自己免受敵人的侵害。這種油又苦又澀，足以讓人畏縮。"
+        "zh-tw": "它透過從頭上的果實中噴出油來保護自己免受敵人的侵害。這種油又苦又澀，足以讓人畏縮。",
+        ja: "頭の 実から オイルを 出して 敵から 身を 守る。 オイルは とびあがるほど 苦くて 渋い。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Absorber",
                 "pt-br": "Absorver",
                 "zh-tw": "吸收",
+                ja: "すいとる",
                 pt: "Absorção"
             },
             damage: "10",
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
                 "zh-tw": "治療該寶可夢造成的 10 點傷害。",
+                ja: "このポケモンのHPを10回復。",
                 pt: "Cure 10 pontos de dano deste Pokémon."
             },
         },

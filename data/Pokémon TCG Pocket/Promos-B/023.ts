@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/023",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/023",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/023"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/023"
     },
     name: {
         en: "Genesect",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Antico Pokémon Coleottero modificato dal Team Plasma,\nche ne ha notevolmente potenziato il cannone sulla schiena.",
         de: "Ein von Team Plasma modifiziertes Käfer-Pokémon aus dem\nAltertum. Die Kanone auf seinem Rücken ist nun noch stärker.",
         "pt-br": "Este antigo Pokémon bug foi alterado pela Equipe Plasma. Eles atualizaram o canhão nas costas.",
-        "zh-tw": "這種古老的昆蟲寶可夢被等離子隊改造了。他們升級了背上的大砲。"
+        "zh-tw": "這種古老的昆蟲寶可夢被等離子隊改造了。他們升級了背上的大砲。",
+        ja: "３億年前に いた ポケモン。 プラズマ団に 改造 され 背中に 砲台を つけられた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Metalbomba",
                 de: "Metallexplosion",
                 "pt-br": "Explosão de Metal",
-                "zh-tw": "金屬爆破"
+                "zh-tw": "金屬爆破",
+                ja: "メタルブラスト"
             },
             effect: {
                 en: "This attack does 20 more damage for each {M} Energy attached to this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia {M} assegnata a questo Pokémon.",
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {M}-Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
-                "zh-tw": "該寶可夢每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該寶可夢每附加 {M} 點能量，此攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンの{M}エネルギーの数×20ダメージ追加。"
             },
             damage: "10+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/382",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/382",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/382",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/382"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/382",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/382"
     },
     name: {
         en: "Puppy-Loving Girl",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Schau dir die obersten 4 Karten deines Decks an. Nimm alle Pokémon mit der Attacke Welpenhaufen, die du dort findest, auf deine Hand. Mische die anderen Karten zurück in dein Deck.",
         "pt-br": "Olhe as 4 cartas de cima do seu baralho. Coloque todos os Pokémon que você encontrar lá que tenham o ataque Pilha de Filhotes na sua mão. Embaralhe as outras cartas de volta no seu baralho.",
         "zh-tw": "查看自己的牌庫上方4張卡,從其中將持有「小狗滿地跑」招式的寶可夢全部加入手牌。將剩餘卡放回牌庫。",
-        ja: "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck.",
+        ja: "自分の山札を上から4枚見て、その中からワザ「こいぬまみれ」を持つポケモンをすべて手札に加える。残りのカードは山札にもどす。",
         ko: "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck."
     },
     trainerType: "Supporter"

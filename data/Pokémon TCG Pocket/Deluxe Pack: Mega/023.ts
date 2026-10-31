@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/023",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/023"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/023"
     },
     name: {
         en: "Meowscarada ex",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Feliospa",
         "pt-br": "Floragato",
         "zh-tw": "蒂蕾喵",
-        ja: "Floragato",
+        ja: "ニャローテ",
         ko: "Floragato"
     },
     stage: "Stage2",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Blumentrick",
                 "pt-br": "Truque Floral",
                 "zh-tw": "千變萬花",
-                ja: "Flower Trick",
+                ja: "トリックフラワー",
                 ko: "Flower Trick"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Füge dem Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners 70 Schadenspunkte zu.",
                 "pt-br": "Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 pontos de dano ao Pokémon no lugar que você escolheu.",
                 "zh-tw": "選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,位於所選位置的寶可夢受到70點傷害。",
-                ja: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
+                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。",
                 ko: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
             }
         },
@@ -85,7 +86,7 @@ const card: Card = {
                 "zh-tw": "日光束",
                 "es-mx": "Rayo Solar",
                 pt: "Raio Solar",
-                ja: "Solar Beam",
+                ja: "ソーラービーム",
                 ko: "Solar Beam"
             },
             damage: 80,

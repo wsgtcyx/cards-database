@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/103",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/103",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/103"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/103"
     },
     name: {
         en: "Taillow",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Non ama il freddo. In inverno emigra verso regioni calde, viaggiando a una velocità di 300 km al giorno.",
         de: "Es mag die kalte Jahreszeit nicht. Daher legt es auf der Suche nach wärmeren Gefilden mehr als 300 km am Tag zurück.",
         "pt-br": "Detesta estações frias. Eles migram para outras terras em busca de calor, voando mais de 280 km em um dia.",
-        "zh-tw": "不擅長應付寒冷的季節。為了尋找溫暖的地帶，會1天飛上300公里的距離。"
+        "zh-tw": "不擅長應付寒冷的季節。為了尋找溫暖的地帶，會1天飛上300公里的距離。",
+        ja: "寒い 季節は 苦手。暖かい 土地を 探し １日 ３００キロの 距離を 飛んで 移動する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 "pt-br": "Bicada",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20
         }

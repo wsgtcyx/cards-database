@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/069",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/069",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/069"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/069"
     },
     name: {
         en: "Feebas",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Das schäbigste Pokémon von allen. Es lebt in großen Gruppen auf dem Grund von Flüssen, wo viele Wasserpflanzen wachsen.",
         "pt-br": "É o Pokémon mais desgastado de todos. Forma cardumes e vive no leito de rios repletos de plantas.",
         "zh-tw": "最寒酸的寶可夢。在有許多水草的河底群聚而居。",
-        ja: "It is the shabbiest Pokémon of all. It forms schools and lives at the bottom of rivers that teem with plant life.",
+        ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。",
         ko: "It is the shabbiest Pokémon of all. It forms schools and lives at the bottom of rivers that teem with plant life."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Platscher",
                 "pt-br": "Borrifada",
                 "zh-tw": "躍起",
-                ja: "Splash",
+                ja: "はねる",
                 ko: "Splash"
             },
             damage: 10

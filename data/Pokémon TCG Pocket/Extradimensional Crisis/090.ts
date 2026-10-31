@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/090"
     },
     name: {
         en: "Arcanine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arkani",
         "pt-br": "Arcanine",
         "zh-tw": "風速狗",
+        ja: "ウインディ",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",
@@ -32,6 +34,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     description: {
         en: "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
@@ -40,7 +43,8 @@ const card: Card = {
         "it": "Un antico rotolo di immagini mostra quelle persone\nerano affascinati dal suo movimento mentre correva\nattraverso le praterie.",
         "de": "Eine alte Bildrolle zeigt diese Menschen\nwaren von der Bewegung beim Laufen fasziniert\ndurch Prärien.",
         "pt-br": "Um antigo pergaminho ilustrado mostra que as pessoas\nforam cativados por seu movimento enquanto corria\natravés das pradarias.",
-        "zh-tw": "一幅古老的畫卷表明，人們\n被它跑步時的動作迷住了\n穿過大草原。"
+        "zh-tw": "一幅古老的畫卷表明，人們\n被它跑步時的動作迷住了\n穿過大草原。",
+        ja: "草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。"
     },
     stage: "Stage1",
     attacks: [{
@@ -51,7 +55,8 @@ const card: Card = {
                 "it": "Affronto di calore",
                 "de": "Hitzegerät",
                 "pt-br": "Equipamento térmico",
-                "zh-tw": "熱力鏟球"
+                "zh-tw": "熱力鏟球",
+                ja: "ヒートタックル"
             },
             damage: 100,
             cost: ["Fire", "Fire", "Colorless"],
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

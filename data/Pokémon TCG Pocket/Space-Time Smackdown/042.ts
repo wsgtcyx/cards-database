@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/042"
     },
     name: {
         en: "Finneon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Finneon",
         de: "Finneon",
         'pt-br': "Finneon",
+        ja: "ケイコウオ",
         ko: "형광어",
         "zh-tw": "螢光魚",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La linea che contorna il suo corpo immagazzina la luce\nsolare. Di notte si illumina di una luce splendente.",
         de: "Die Linie an seiner Seite kann Sonnenlicht\nspeichern. Nachts leuchtet es sehr intensiv.",
         'pt-br': "A linha na lateral de seu corpo armazena luz solar\ne brilha intensamente à noite.",
+        ja: "体の 横側にある ラインは 太陽の光を ためておける。 夜になると 鮮やかに 輝く。",
         ko: "몸 옆쪽에 있는 줄에\n태양 빛을 모아 둘 수 있다.\n밤이 되면 아름답게 빛난다.",
         "zh-tw": "沿著其側面延伸的線可以儲存陽光。它在夜間閃閃發光。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Stilnuoto",
                 de: "Elegantes Schwimmen",
                 'pt-br': "Nado Elegante",
+                ja: "ゆうがにおよぐ",
                 ko: "우아하게 헤엄치기",
                 "zh-tw": "優雅游泳"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
             }

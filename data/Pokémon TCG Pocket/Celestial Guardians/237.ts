@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/237",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/237",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/237",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/237"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/237",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/237"
     },
     name: {
         en: "Wigglytuff ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wigglytuff-ex",
         de: "Knuddeluff-ex",
         'pt-br': "Wigglytuff ex",
+        ja: "プクリンex",
         ko: "푸크린 ex",
         "zh-tw": "胖可丁ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Pummeluff",
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
+        ja: "プリン",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cantilena",
                 de: "Schlummerlied",
                 'pt-br': "Canção Sonolenta",
+                ja: "スリーピーソング",
                 ko: "슬리피송",
                 "zh-tw": "昏昏欲睡的歌"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

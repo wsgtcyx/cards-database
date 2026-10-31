@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/114"
     },
     name: {
         en: "Clefable",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clefable",
         de: "Pixi",
         'pt-br': "Clefable",
+        ja: "ピクシー",
         ko: "픽시",
         "zh-tw": "皮可西",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Clefairy",
         "de": "Piepi",
         "pt-br": "Clefairy",
-        "zh-tw": "皮皮"
+        "zh-tw": "皮皮",
+        ja: "ピッピ"
     },
     attacks: [{
             cost: ["Psychic"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Magicolpo",
                 de: "Magischer Schuss",
                 'pt-br': "Tiro Mágico",
+                ja: "マジカルショット",
                 ko: "매지컬숏",
                 "zh-tw": "魔法射擊"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Timido Pokémon Fata, molto raro a\nvedersi. Scappa e si nasconde non\nappena avverte la presenza delle persone.",
         de: "Ein feenhaftes und scheues Pokémon,\ndas sofort die Flucht ergreift, wenn es\nMenschen wahrnimmt.",
         'pt-br': "Um tímido Pokémon fada raramente visto,\ncorre e esconde-se assim que percebe\na presença de pessoas.",
+        ja: "妖精の 仲間で めったに 人前に 出てこない。 気配を 感じて すぐに 逃げてしまうようだ。",
         ko: "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다.",
         "zh-tw": "罕見的膽怯的精靈寶可夢，一旦感覺到有人就會逃跑並躲起來。"
     },

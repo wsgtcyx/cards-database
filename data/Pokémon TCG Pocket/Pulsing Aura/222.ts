@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/222",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/222",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/222"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/222",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/222"
     },
     name: {
         en: "Porygon",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È il primo Pokémon della storia a essere\nstato creato tramite programmi, grazie\nall'impiego di tecnologie all'avanguardia.",
         de: "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde.",
         "pt-br": "Tecnologia de ponta foi usada na criação\nde Porygon. Foi o primeiro Pokémon artificial\ncriado por meio de um programa de computador.",
-        "zh-tw": "Porygon 的製造採用了最先進的技術。它是第一個通過計算機編程創建的人造寶可夢。"
+        "zh-tw": "Porygon 的製造採用了最先進的技術。它是第一個通過計算機編程創建的人造寶可夢。",
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Indurimento",
                 de: "Verhärten",
                 "pt-br": "Fortificar",
-                "zh-tw": "凝固"
+                "zh-tw": "凝固",
+                ja: "かたまる"
             },
             effect: {
                 en: "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá -20 pontos de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。"
+                "zh-tw": "在對手的下一個回合中，這只寶可夢受到的攻擊傷害為-20。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
             }
         }
     ],

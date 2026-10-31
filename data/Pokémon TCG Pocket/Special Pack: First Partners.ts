@@ -16,7 +16,8 @@ const set: Set = {
         ko: "스페셜 팩 첫 파트너"
     },
     logo: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo"
     },
     cardCount: {
         official: 27
@@ -42,7 +43,7 @@ const set: Set = {
                 de: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
                 "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
                 "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
-                ja: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
+                ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo.webp",
                 ko: "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp"
             },
             artwork_front: {

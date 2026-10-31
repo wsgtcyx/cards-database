@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/064",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/064",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/064"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/064"
     },
     name: {
         en: "Furfrou",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se non viene tagliato, il suo pelo continua a crescere a dismisura. Si lascia tosare solamente dalle persone di cui si fida.",
         de: "Trimmt man sein Fell nicht regelmäßig. wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.",
         "pt-br": "Se ninguém interferir, os seus pelos crescem cada vez mais longos. Apenas alguém em quem confia poderá apará-los.",
-        "zh-tw": "如果放著不管，體毛就會不斷變長，但牠只允許信賴的人幫自己修剪。"
+        "zh-tw": "如果放著不管，體毛就會不斷變長，但牠只允許信賴的人幫自己修剪。",
+        ja: "放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Foltopelo",
                 de: "Fellkleid",
                 "pt-br": "Camada de Pelos",
-                "zh-tw": "毛皮大衣"
+                "zh-tw": "毛皮大衣",
+                ja: "ファーコート"
             },
             effect: {
                 en: "This Pokémon takes -20 damage from attacks.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken - 20 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe -20 pontos de dano de ataques.",
-                "zh-tw": "這隻寶可夢受到招式的傷害-20點。"
+                "zh-tw": "這隻寶可夢受到招式的傷害-20點。",
+                ja: "このポケモンが受けるワザのダメージを-20する。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Passi Regolari",
                 de: "Dauerschritte",
                 "pt-br": "Passos Contínuos",
-                "zh-tw": "連續舞步"
+                "zh-tw": "連續舞步",
+                ja: "れんぞくステップ"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 30 damage for each heads.",
@@ -81,7 +86,8 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 30 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano para cada cara.",
-                "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×30點傷害。"
+                "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×30點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×30ダメージ。"
             },
             damage: "30×"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/140",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/140",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/140"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/140"
     },
     name: {
         en: "Ducklett",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Allena la muscolatura nuotando nelle profondità degli specchi d'acqua in cerca di muschi acquatici con cui nutrirsi.",
         de: "Auf der Suche nach Torfmoos, seiner Nahrung, schwimmt es tief unten in Teichen umher und stählt so seinen Körper.",
         "pt-br": "Fortalece o seu corpo ao mergulhar nas profundezas de lagoas, nadando enquanto procura musgo para comer.",
-        "zh-tw": "會在池塘水深的地方\n四處游動找水苔來吃，\n順便鍛鍊身體。"
+        "zh-tw": "會在池塘水深的地方\n四處游動找水苔來吃，\n順便鍛鍊身體。",
+        ja: "エサの 水苔を 探し 池の 深い場所を 泳ぎまわりながら 体を 鍛えているのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco d'ala",
                 de: "Flügelangriff",
                 "pt-br": "Ataque de Asa",
-                "zh-tw": "翅膀攻擊"
+                "zh-tw": "翅膀攻擊",
+                ja: "つばさでうつ"
             },
             damage: 30
         }

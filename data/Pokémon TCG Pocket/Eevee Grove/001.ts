@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/001"
     },
     name: {
         en: "Tropius",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tropius",
         "pt-br": "Tropius",
         "zh-tw": "熱帶龍",
+        ja: "トロピウス",
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vive nelle giungle tropicali. Il grappolo di frutta\nintorno al collo è delizioso. Il frutto cresce\ndue volte l'anno.",
         "de": "Es lebt in tropischen Dschungeln. Der Fruchthaufen\num den Hals ist köstlich. Die Frucht wächst\nzweimal im Jahr.",
         "pt-br": "Vive em selvas tropicais. O cacho de frutas\nem volta do pescoço é delicioso. A fruta cresce\nduas vezes por ano.",
-        "zh-tw": "它生活在熱帶叢林中。那串水果\n脖子上的東西很好吃。果實長大了\n每年兩次。"
+        "zh-tw": "它生活在熱帶叢林中。那串水果\n脖子上的東西很好吃。果實長大了\n每年兩次。",
+        ja: "熱帯の ジャングルに 生息。 首の フサは 甘くて 美味しい。 １年に ２回 実を つける。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Vento tagliente",
                 "de": "Schneidender Wind",
                 "pt-br": "Cortando o Vento",
-                "zh-tw": "斬風"
+                "zh-tw": "斬風",
+                ja: "カッターウインド"
             },
             damage: 60,
             cost: ["Colorless", "Colorless", "Colorless"]

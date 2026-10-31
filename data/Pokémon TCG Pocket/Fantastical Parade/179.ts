@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/179",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/179",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/179"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/179",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/179"
     },
     name: {
         en: "Slakoth",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Slakoth",
         "de": "Bummelz",
         "pt-br": "Slakoth",
-        "zh-tw": "懶人獺"
+        "zh-tw": "懶人獺",
+        ja: "ナマケロ"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il modo in cui Slakoth si rilassa rende chiunque\nguarda, sembra di fare lo stesso.",
         "de": "Die Art und Weise, wie Slakoth herumlümmelt, macht jeden zum Lachen\nbeobachtet, dass es sich anfühlt, als würde man das Gleiche tun.",
         "pt-br": "A maneira como Slakoth fica relaxado faz com que qualquer um que\nobserva que parece fazer o mesmo.",
-        "zh-tw": "Slakoth 懶洋洋地閒逛的樣子讓任何人\n看著感覺就像做同樣的事情。"
+        "zh-tw": "Slakoth 懶洋洋地閒逛的樣子讓任何人\n看著感覺就像做同樣的事情。",
+        ja: "ナマケロの 怠けた 様子は 見ている 人の 怠け心を 存分に 刺激するのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Sbadiglio",
                 "de": "Gähnen",
                 "pt-br": "Bocejar",
-                "zh-tw": "打哈欠"
+                "zh-tw": "打哈欠",
+                ja: "あくび"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

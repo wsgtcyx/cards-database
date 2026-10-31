@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/101",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/101",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/101"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/101"
     },
     name: {
         en: "Bellibolt ex",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Blipp",
         "pt-br": "Tadbulb",
         "zh-tw": "光蚪仔",
-        ja: "Tadbulb",
+        ja: "ズピカ",
         ko: "Tadbulb"
     },
     stage: "Stage1",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Starkstromkanone",
                 "pt-br": "Canhão de Alta Voltagem",
                 "zh-tw": "高壓電炮",
-                ja: "High-Voltage Cannon",
+                ja: "こうでんあつほう",
                 ko: "High-Voltage Cannon"
             },
             damage: "70+",
@@ -72,7 +73,7 @@ const card: Card = {
                 de: "Wenn du 4 oder mehr {L}-Energien im Spiel hast, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver 4 ou mais Energias {L} em jogo, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若自己的場上的{L}能量有4個以上,則增加70點傷害。",
-                ja: "If you have 4 or more {L} Energy in play, this attack does 70 more damage.",
+                ja: "自分の場に{L}エネルギーが4個以上あるなら、70ダメージ追加。",
                 ko: "If you have 4 or more {L} Energy in play, this attack does 70 more damage."
             }
         }

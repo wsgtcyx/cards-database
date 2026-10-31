@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/150",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/150",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/150",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/150"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/150",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/150"
     },
     name: {
         en: "Cabbie",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Metti nella tua mano una carta Stadio casuale dal tuo mazzo.",
         de: "Nimm eine zufällige Stadionkarte aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque uma carta de Estádio aleatória do seu baralho na sua mão.",
-        "zh-tw": "將你牌庫中的一張隨機球場卡放入你的手上。"
+        "zh-tw": "將你牌庫中的一張隨機球場卡放入你的手上。",
+        ja: "自分の山札から「スタジアム」をランダムに1枚、手札に加える。"
     },
     trainerType: "Supporter"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/178",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/178",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/178",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/178"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/178",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/178"
     },
     name: {
         en: "Salamence",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Salamence",
         "de": "Brutalanda",
         "pt-br": "Salamence",
-        "zh-tw": "暴飛龍"
+        "zh-tw": "暴飛龍",
+        ja: "ボーマンダ"
     },
     illustrator: "Shiburingaru",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Shelgon",
         "de": "Draschel",
         "pt-br": "Shelgon",
-        "zh-tw": "甲殼龍"
+        "zh-tw": "甲殼龍",
+        ja: "コモルー"
     },
     description: {
         en: "It becomes uncontrollable if it is enraged.\nIt destroys everything with shredding claws\nand fire.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Diventa incontrollabile se è infuriato.\nDistrugge tutto con artigli taglienti\ne fuoco.",
         "de": "Es wird unkontrollierbar, wenn es wütend ist.\nEs zerstört alles mit seinen Krallen\nund Feuer.",
         "pt-br": "Torna-se incontrolável se estiver enfurecido.\nEle destrói tudo com garras retalhadoras\ne fogo.",
-        "zh-tw": "一旦被激怒，就會無法控制。\n它用撕碎的爪子摧毀一切\n和火。"
+        "zh-tw": "一旦被激怒，就會無法控制。\n它用撕碎的爪子摧毀一切\n和火。",
+        ja: "怒らせると 手が つけられない。 すべての ものを ツメで 切り裂き 炎で 燃やして 破壊する。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Immersione del Drago",
                 "de": "Drachentauchen",
                 "pt-br": "Mergulho do Dragão",
-                "zh-tw": "龍潛"
+                "zh-tw": "龍潛",
+                ja: "ドラゴンフォール"
             },
             damage: 150,
             cost: ["Fire", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo Pokémon infligge anche 50 danni a se stesso.",
                 "de": "Wirf eine Münze. Bei „Zahl“ fügt sich dieses Pokémon außerdem selbst 50 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 50 de dano a si mesmo.",
-                "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 50 點傷害。"
+                "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 50 點傷害。",
+                ja: "コインを1回投げウラなら、このポケモンにも50ダメージ。"
             }
         }],
     retreat: 2

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/065"
     },
     name: {
         en: "Togekiss",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Togekiss",
         de: "Togekiss",
         'pt-br': "Togekiss",
+        ja: "トゲキッス",
         ko: "토게키스",
         "zh-tw": "波克基斯",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Togetic",
         "pt-br": "Togetic",
         "zh-tw": "波克基古",
+        ja: "トゲチック",
     },
     description: {
         en: "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Non appare dove è in corso un conflitto o\nun litigio. Di recente non si vede quasi mai.",
         de: "Es zeigt sich nie an Orten, wo Streit und\nZwietracht herrschen. In letzter Zeit wird es\nkaum noch gesehen.",
         'pt-br': "Estes Pokémon nunca são vistos perto de conflitos\nou confusão. Na verdade, têm sido vistos\nmuito raramente em tempos recentes.",
+        ja: "争い事や もめ事が 起こる 場所には 姿を 見せない。 近ごろは ほとんど 見かけない。",
         ko: "분쟁이나 다툼이 일어나는\n장소에는 모습을 드러내지 않는다.\n최근에는 거의 보이지 않는다.",
         "zh-tw": "這些神奇寶貝從未出現在衝突或動亂附近。最近一段時間，幾乎看不到他們的身影了。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Devastacolpo",
                 de: "Turbosmash",
                 'pt-br': "Golpe Exaustivo",
+                ja: "オーバースマッシュ",
                 ko: "오버스매시",
                 "zh-tw": "超速粉碎"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Devastacolpo di questo Pokémon infligge +60 danni.",
                 de: "Während deines nächsten Zuges fügt die Attacke Turbosmash von diesem Pokémon + 60 Schadenspunkte zu.",
                 'pt-br': "Durante o seu próximo turno, o ataque Golpe Exaustivo deste Pokémon causará + 60 pontos de dano.",
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+60する。",
                 ko: "자신의 다음 차례에 이 포켓몬의 「오버스매시」의 데미지를 +60한다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝的超速粉碎攻擊造成+60點傷害。"
             }

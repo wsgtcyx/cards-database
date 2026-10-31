@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/151",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/151",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/151",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/151"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/151",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/151"
     },
     name: {
         en: "Bombirdier",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es wickelt Futter in seine Brustschürze und trägt es so heim ins Nest. Liebend gern lässt es Dinge herabfallen, die beim Aufprall Lärm verursachen.",
         "pt-br": "Bombirdier usa o avental em seu peitoral para carregar alimento de volta ao seu ninho. Gosta de derrubar as coisas para fazer barulho.",
         "zh-tw": "會用胸口的袋子包住食物，再攜帶回巢穴。以弄掉會發出響亮聲音的東西為樂。",
-        ja: "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.",
+        ja: "胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。",
         ko: "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
     },
     abilities: [
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Boshafte Lieferung",
                 "pt-br": "Entrega Vilanesca",
                 "zh-tw": "壞蛋快遞",
-                ja: "Villainous Delivery",
+                ja: "わるものびん",
                 ko: "Villainous Delivery"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Solange sich dieses Pokémon auf deiner Bank befindet, verringern sich die Rückzugskosten deines Aktiven {D}-Pokémon um 1.",
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, o Custo de Recuo do seu Pokémon {D} Ativo será 1 a menos.",
                 "zh-tw": "只要這隻寶可夢在備戰區,自己的戰鬥場的{D}寶可夢撤退所需的能量減少1個。",
-                ja: "As long as this Pokémon is on your Bench, your Active {D} Pokémon's Retreat Cost is 1 less.",
+                ja: "このポケモンがベンチにいるかぎり、自分のバトル場の{D}ポケモンのにげるためのエネルギーを、1個少なくする。",
                 ko: "As long as this Pokémon is on your Bench, your Active {D} Pokémon's Retreat Cost is 1 less."
             }
         }
@@ -85,7 +86,7 @@ const card: Card = {
                 de: "Dunkler Zerschneider",
                 "pt-br": "Cortador de Escuridão",
                 "zh-tw": "暗黑利刃",
-                ja: "Dark Cutter",
+                ja: "ダークカッター",
                 ko: "Dark Cutter"
             },
             damage: 30

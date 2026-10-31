@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/011",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/011",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/011",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/011"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/011"
     },
     name: {
         en: "Chimchar",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Kratzfurie",
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "亂抓",
-                ja: "Fury Swipes",
+                ja: "みだれひっかき",
                 ko: "Fury Swipes"
             },
             cost: [
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Diese Attacke fügt 10 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 pontos de dano para cada cara.",
                 "zh-tw": "擲3次硬幣,造成正面出現的次數×10點傷害。",
-                ja: "Flip 3 coins. This attack does 10 damage for each heads.",
+                ja: "コインを3回投げ、オモテの数×10ダメージ。",
                 ko: "Flip 3 coins. This attack does 10 damage for each heads."
             }
         }
@@ -77,7 +78,7 @@ const card: Card = {
         de: "Es lebt auf zerklüfteten Bergen und klettert mit Leichtigkeit steile Felswände hinauf. Bevor es schläft, geht das Feuer an seinem Hintern aus.",
         "pt-br": "Vive no topo de morros e montanhas íngremes e os escala com muita agilidade. Sua chama se apaga quando dorme.",
         "zh-tw": "能夠靈活地爬上斷崖絕壁，並棲息在岩山上。睡覺前會熄滅尾巴的火焰。",
-        ja: "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+        ja: "断崖絶壁を 身軽に 登り 岩山の 上で 生活する。 炎を 消して 眠る。",
         ko: "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps."
     }
 };

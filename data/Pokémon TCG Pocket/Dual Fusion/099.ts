@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/099",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/099"
     },
     name: {
         en: "Dragonair",
@@ -44,7 +45,7 @@ const card: Card = {
         de: "Dratini",
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
-        ja: "Dratini",
+        ja: "ミニリュウ",
         ko: "Dratini"
     },
     attacks: [
@@ -57,7 +58,7 @@ const card: Card = {
                 de: "Strahl",
                 "pt-br": "Feixe",
                 "zh-tw": "光束",
-                ja: "Beam",
+                ja: "ビーム",
                 ko: "Beam"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
         de: "Man sagt, wenn sein ganzer Körper eine Aura ausstrahle, ändere sich augenblicklich das Wetter in seiner Umgebung.",
         "pt-br": "Dizem que, se o seu corpo inteiro emitir uma aura, o clima começará a mudar instantaneamente.",
         "zh-tw": "據說牠全身上下散發出氣場時，周圍的天氣就會在轉眼間為之一變。",
-        ja: "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。",
         ko: "They say that if it emits an aura from its whole body, the weather will begin to change instantly."
     }
 };

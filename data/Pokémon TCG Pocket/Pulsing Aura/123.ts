@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/123",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/123",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/123"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/123"
     },
     name: {
         en: "Melmetal",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sferra pugni con i suoi dadi metallici sfruttando la\nforza centrifuga. Si dice che nessun altro Pokémon\nsia capace di sferrarne di altrettanto potenti.",
         de: "Es holt mit Fliehkraft Schwung, um mit seinen\nschweren Muttern Hiebe auszuteilen, die stärker\nsein sollen als die aller anderen Pokémon.",
         "pt-br": "A força centrífuga está por trás dos golpes dos pesados ​​braços hexagonais do Melmetal. Diz-se que Melmetal desfere os socos mais fortes de todos os Pokémon.",
-        "zh-tw": "美錄梅塔利用離心力帶動\n沉重的螺帽揮出的拳擊\n被認為是寶可夢界之最。"
+        "zh-tw": "美錄梅塔利用離心力帶動\n沉重的螺帽揮出的拳擊\n被認為是寶可夢界之最。",
+        ja: "遠心力で 弾みを つけて 繰りだす 重い ナットの パンチは ポケモン 最強と いわれる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Devastacolpo",
                 de: "Turbosmash",
                 "pt-br": "Golpe Exaustivo",
-                "zh-tw": "超頻擊碎"
+                "zh-tw": "超頻擊碎",
+                ja: "オーバースマッシュ"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Devastacolpo di questo Pokémon infligge +60 danni.",
                 de: "Während deines nächsten Zuges fügt die Attacke Turbosmash von diesem Pokémon + 60 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Golpe Exaustivo deste Pokémon causará + 60 pontos de dano.",
-                "zh-tw": "在你的下一個回合中，這只寶可夢的超速粉碎攻擊造成+60點傷害。"
+                "zh-tw": "在你的下一個回合中，這只寶可夢的超速粉碎攻擊造成+60點傷害。",
+                ja: "次の自分の番、このポケモンの「オーバースマッシュ」のダメージを+60する。"
             },
             damage: 60
         }

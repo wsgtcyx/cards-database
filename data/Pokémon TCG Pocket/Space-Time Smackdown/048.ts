@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/048"
     },
     name: {
         en: "Frost Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom Gelo",
         de: "Frost-Rotom",
         'pt-br': "Rotom Congelante",
+        ja: "フロストロトム",
         ko: "프로스트로토무",
         "zh-tw": "結冰洛托姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha assunto questa forma entrando in un frigorifero. Congela ciò\nche ha intorno con aria ghiacciata per poi saltellare tutto contento.",
         de: "Dieses Rotom ist in einen Kühlschrank eingedrungen.\nMit eiskalter Luft friert es seine Umgebung ein und\nspringt dann fröhlich umher.",
         'pt-br': "Este Rotom entrou em uma geladeira. Salta alegremente\napós usar ar glacial para congelar a área ao redor.",
+        ja: "冷蔵庫に 入った 姿。 冷気で あたりを 凍てつかせ 愉快そうに 跳ねまわっている。",
         ko: "냉장고에 들어간 모습.\n냉기로 주위를 얼려 놓고는\n유쾌하다는 듯이 통통 튄다.",
         "zh-tw": "這個洛托姆已經進入了冰箱。當它使用冷空氣凍結周圍區域後，它會高興地跳來跳去。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bora",
                 de: "Blizzard",
                 'pt-br': "Nevasca",
+                ja: "ふぶき",
                 ko: "눈보라",
                 "zh-tw": "暴風雪"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン全員にも10ダメージ。",
                 ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
                 "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
             }

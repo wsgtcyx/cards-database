@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/034",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/034",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/034"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/034"
     },
     name: {
         en: "Gimmighoul",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive dentro un vecchio forziere. Non sembrando affatto un Pokémon, a volte finisce in un angolo nei negozi di strumenti.",
         de: "Es haust in einer alten Schatztruhe und landet manchmal bei Antiquitätenhändlern in der Ladenecke, da man es nicht als Pokémon erkennt.",
         "pt-br": "Vive dentro de um velho baú de tesouro. Ás vezes, fica esquecido nos cantos das lojas porque ninguém percebe que, na verdade, é um Pokémon.",
-        "zh-tw": "棲息在老舊的寶箱中。有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。"
+        "zh-tw": "棲息在老舊的寶箱中。有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。",
+        ja: "古びた 宝箱の中に 棲む。 ポケモンと 気づかれず 道具屋の 片隅に 置かれていることがある。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 20
         }

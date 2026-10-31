@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/163",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/163"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/163",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/163"
     },
     name: {
         en: "Grapploct",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grapploct",
         de: "Kaocto",
         'pt-br': "Grapploct",
+        ja: "オトスパス",
         ko: "케오퍼스",
         "zh-tw": "八爪武師",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Clobbopus",
         "de": "Klopptopus",
         "pt-br": "Clobbopus",
-        "zh-tw": "拳拳蛸"
+        "zh-tw": "拳拳蛸",
+        ja: "タタッコ"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Allontanato",
                 de: "Schlag versetzen",
                 'pt-br': "Jogar de Volta",
+                ja: "なぐりとばす",
                 ko: "힘껏후려치기",
                 "zh-tw": "擊退"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Sposta il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
                 de: "Wechsle das Aktive Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 'pt-br': "Mande o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
+                ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
                 ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
                 "zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Il suo corpo è un ammasso di muscoli.\nÈ in grado di stritolare con una potenza\nformidabile grazie ai suoi tentacoli.",
         de: "Sein Körper besteht gänzlich aus Muskeln.\nDie schiere Stärke seines Würgegriffs, bei dem\nes seine Tentakel einsetzt, ist sagenhaft.",
         'pt-br': "O corpo composto unicamente de músculos deste\nPokémon torna os seus movimentos de chave com\nos tentáculos incrivelmente poderosos.",
+        ja: "全身が 筋肉の 塊。 触手を 使って 繰りだす 絞め技の 威力は 凄まじい。",
         ko: "온몸이 근육덩어리다.\n촉수를 사용해서 펼치는\n조르기 기술의 위력은 무시무시하다.",
         "zh-tw": "僅由肌肉組成的身體使得這只神奇寶貝用觸手進行的格鬥動作非常強大。"
     },

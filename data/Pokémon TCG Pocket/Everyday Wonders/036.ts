@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/036",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/036",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/036"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/036"
     },
     name: {
         en: "Wooper",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Quando cammina sulla terraferma, ricopre il suo corpo con una pellicola viscida e velenosa.",
         de: "Wenn es an Land herumläuft, überzieht es seinen Körper mit einem schleimigen, giftigen Film.",
         "pt-br": "Quando anda em terra, cobre seu corpo com uma película viscosa e venenosa.",
-        "zh-tw": "當它在陸地上行走時，它的身體會覆蓋一層黏稠的有毒薄膜。"
+        "zh-tw": "當它在陸地上行走時，它的身體會覆蓋一層黏稠的有毒薄膜。",
+        ja: "地上を 歩きまわるときは ぬるぬるした 毒の 粘膜で 体の表面を 覆っている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colpodifango",
                 de: "Lehmschuss",
                 "pt-br": "Tiro de Lama",
-                "zh-tw": "泥巴射擊"
+                "zh-tw": "泥巴射擊",
+                ja: "マッドショット"
             },
             damage: 30
         }

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/029",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/029",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/029"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/029"
     },
     name: {
         en: "Cetoddle",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Flaniwal",
         "pt-br": "Cetoddle",
         "zh-tw": "走鯨",
+        ja: "アルクジラ",
         pt: "Cetoddle",
         'es-mx': "Cetoddle"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Vive nelle regioni gelide in branchi di circa cinque individui. Ama i minerali presenti nella neve e nel ghiaccio.",
         "de": "Es lebt in kalten Regionen in Gruppen von etwa fünf Individuen. Es liebt die Mineralien, die in Schnee und Eis vorkommen.",
         "pt-br": "Vive em regiões frias em grupos de cinco ou mais indivíduos. Adora os minerais encontrados na neve e no gelo.",
-        "zh-tw": "它生活在寒冷地區，每群大約有五隻。牠喜歡在雪和冰中發現的礦物質。"
+        "zh-tw": "它生活在寒冷地區，每群大約有五隻。牠喜歡在雪和冰中發現的礦物質。",
+        ja: "寒冷地で ５匹ほどの 群れを 作って 暮らす。 雪や 氷に 含まれる ミネラルが 大好き。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Eiszapfenrakete",
                 "pt-br": "Míssil de gelo",
                 "zh-tw": "冰柱飛彈",
+                ja: "つららミサイル",
                 pt: "Míssil Gélido"
             },
             damage: 60,

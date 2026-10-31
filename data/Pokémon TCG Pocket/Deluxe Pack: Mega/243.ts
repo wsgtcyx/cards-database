@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/243",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/243",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/243",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/243"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/243",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/243"
     },
     name: {
         en: "Celebi",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Dieses Pokémon kommt aus der Zukunft und ist durch die Zeit gereist. Es heilt Wunden und spendet Pflanzen Kraft.",
         "pt-br": "Este Pokémon viajou no tempo e veio do futuro. Ele revigora a grama e as árvores com sua própria força e pode curar feridas.",
         "zh-tw": "從未來穿越時光而來。能夠治癒傷痛，也會把自己的力量分給草木。",
-        ja: "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+        ja: "未来から 時を 渡って やって来た。 キズを 癒し 草木に 力を 分け与える。",
         ko: "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too."
     },
     abilities: [
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Zeitraffer",
                 "pt-br": "Retorno no Tempo",
                 "zh-tw": "時光回溯",
-                ja: "Time Recall",
+                ja: "タイムリコール",
                 ko: "Time Recall"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Jedes deiner entwickelten Pokémon kann die Attacken seiner vorangegangenen Entwicklungen einsetzen. (Du benötigst jedoch die jeweils für die Attacke notwendige Energie.)",
                 "pt-br": "Cada um dos seus Pokémon evoluídos pode usar qualquer ataque de suas Evoluções anteriores. (Você ainda precisa da Energia necessária para usar cada ataque.)",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有進化寶可夢,可使用進化前持有的所有招式。[[需要有足夠使用招式的能量。]]",
-                ja: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+                ja: "このポケモンがいるかぎり、自分の進化しているポケモン全員は、進化前に持っていたワザをすべて使える。[ワザを使うためのエネルギーは必要。]",
                 ko: "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
             }
         }
@@ -86,7 +87,7 @@ const card: Card = {
                 de: "Klatscher",
                 "pt-br": "Estalo",
                 "zh-tw": "掌擊",
-                ja: "Smack",
+                ja: "ひらてうち",
                 ko: "Smack"
             },
             damage: 30

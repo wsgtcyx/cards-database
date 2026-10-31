@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/083"
     },
     name: {
         en: "Mega Venusaur ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Venusaur-ex",
         "de": "Mega-Bisaflor-ex",
         "pt-br": "Mega Venusaur ex",
-        "zh-tw": "超級妙蛙花ex"
+        "zh-tw": "超級妙蛙花ex",
+        ja: "メガフシギバナex"
     },
     illustrator: "Mori Yuu",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
-        "zh-tw": "妙蛙草"
+        "zh-tw": "妙蛙草",
+        ja: "フシギソウ"
     },
     description: {
         en: "In order to support its flower, which has grown\nlarger due to Mega Evolution, its back and legs\nhave become stronger.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Per sostenere il suo fiore, che è cresciuto\npiù grande a causa della megaevoluzione, della schiena e delle gambe\nsono diventati più forti.",
         "de": "Um seine gewachsene Blüte zu unterstützen\ngrößer durch Mega Evolution, seinen Rücken und seine Beine\nsind stärker geworden.",
         "pt-br": "Para sustentar a sua flor, que cresceu\nmaior devido à Mega Evolução, suas costas e pernas\ntornaram-se mais fortes.",
-        "zh-tw": "為了支撐它已經長大的花\n由於超級進化，它的背部和腿部變得更大\n變得更強了。"
+        "zh-tw": "為了支撐它已經長大的花\n由於超級進化，它的背部和腿部變得更大\n變得更強了。",
+        ja: "メガシンカして さらに 大きく 成長した 花を 支えるため 足腰も たくましく なったのだ。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Fioritura critica",
                 "de": "Kritische Blüte",
                 "pt-br": "Floração Crítica",
-                "zh-tw": "致命綻放"
+                "zh-tw": "致命綻放",
+                ja: "クライシスブルーム"
             },
             damage: 120,
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato e addormentato.",
                 "de": "Das aktive Pokémon deines Gegners ist jetzt vergiftet und schläft.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在中毒並沉睡。"
+                "zh-tw": "你對手的活躍神奇寶貝現在中毒並沉睡。",
+                ja: "相手のバトルポケモンをどくとねむりにする。"
             }
         }],
     weaknesses: [{

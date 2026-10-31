@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/156",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/156",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/156",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/156"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/156",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/156"
     },
     name: {
         en: "Rhyhorn",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rhyhorn",
         de: "Rihorn",
         'pt-br': "Rhyhorn",
+        ja: "サイホーン",
         ko: "뿔카노",
         "zh-tw": "獨角犀牛",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "È molto forte, benché non particolarmente brillante.\nSe si scaglia contro un grattacielo può raderlo al suolo.",
         de: "Dieses Pokémon ist zwar nicht besonders klug,\naber dafür so stark, dass es durch Rammen sogar\nHochhäuser zum Einsturz bringen kann.",
         'pt-br': "Forte, mas não muito brilhante, este Pokémon\npode estilhaçar até mesmo um arranha-céu\ncom suas investidas poderosas.",
+        ja: "頭は 悪いが 力が 強く 高層ビルも 体当たりで コナゴナに 粉砕する。",
         ko: "머리는 나쁘지만 힘이 세서\n고층 빌딩도 몸통박치기로\n산산조각 낸다.",
         "zh-tw": "強大但不太聰明，這只神奇寶貝甚至可以用它的衝鋒鏟粉碎摩天大樓。"
     },

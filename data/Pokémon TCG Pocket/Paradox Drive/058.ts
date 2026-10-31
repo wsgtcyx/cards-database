@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/058",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/058"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/058"
     },
     name: {
         en: "Farigiraf",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La testa indurita della coda protegge la testa del corpo principale mentre Farigiraf gira il suo lungo collo per dare una testata ai nemici.",
         de: "Der gehärtete Kopf des Schwanzes schützt den Kopf des Hauptkörpers, während Farigiraf seinen langen Hals herumwirbelt, um Gegnern einen Kopfstoß zu verpassen.",
         "pt-br": "A cabeça endurecida da cauda protege a cabeça do corpo principal enquanto Farigiraf chicoteia seu longo pescoço para dar cabeçadas nos inimigos.",
-        "zh-tw": "當 奇麒麟 揮舞長脖子用頭撞擊敵人時，尾部的硬化頭部可以保護主體的頭部。"
+        "zh-tw": "當 奇麒麟 揮舞長脖子用頭撞擊敵人時，尾部的硬化頭部可以保護主體的頭部。",
+        ja: "硬い テールヘッドで 本体の 頭を 守りつつ 長い 首を 振りまわして 頭突きを 食らわせる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Doppiosmash",
                 de: "Doppelschlag",
                 "pt-br": "Golpe Duplo",
-                "zh-tw": "二連擊"
+                "zh-tw": "二連擊",
+                ja: "ダブルアタック"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 60 damage for each heads.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia 2 monete. Questo attacco infligge 60 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 60 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 60 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 60 點傷害。",
+                ja: "コインを2回投げ、オモテの数×60ダメージ。"
             },
             damage: "60x"
         }

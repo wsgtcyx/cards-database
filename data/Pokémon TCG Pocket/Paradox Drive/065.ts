@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/065",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/065"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/065"
     },
     name: {
         en: "Rookidee",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le femmine sono più esigenti dei maschi. Se un'altra creatura sporca le ali di una femmina Rookidee, beccherà incessantemente l'autore del reato con rabbia ardente.",
         de: "Die Weibchen sind wählerischer als die Männchen. Wenn eine andere Kreatur die Flügel eines weiblichen Meikro beschmutzt, wird sie den Täter in brennender Wut unerbittlich picken.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma fêmea Rookidee, ela bicará o agressor implacavelmente em uma fúria ardente.",
-        "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。"
+        "zh-tw": "雌性比雄性更挑剔。如果另一個生物弄髒了雌性 稚山雀 的翅膀，它會在憤怒中無情地啄擊罪犯。",
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Artiglio",
                 de: "Klaue",
                 "pt-br": "Garra",
-                "zh-tw": "鉤爪"
+                "zh-tw": "鉤爪",
+                ja: "かぎづめ"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 40
         }

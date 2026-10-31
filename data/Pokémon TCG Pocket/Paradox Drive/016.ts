@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/016",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/016",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/016"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/016"
     },
     name: {
         en: "Pawmot",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La soffice pelliccia di Pawmot funge da batteria. Può immagazzinare la stessa quantità di elettricità di un’auto elettrica.",
         de: "Das flauschige Fell von Pamomamo fungiert als Batterie. Es kann die gleiche Menge Strom speichern wie ein Elektroauto.",
         "pt-br": "O pelo fofo do Pawmot funciona como uma bateria. Ele pode armazenar a mesma quantidade de eletricidade que um carro elétrico.",
-        "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。"
+        "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。",
+        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Onda Volt",
                 de: "Voltwelle",
                 "pt-br": "Onda Voltífera",
-                "zh-tw": "衝擊波"
+                "zh-tw": "衝擊波",
+                ja: "ショックウェーブ"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 60
         }

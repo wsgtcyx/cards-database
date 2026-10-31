@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/021"
     },
     name: {
         en: "Lumineon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lumineon",
         de: "Lumineon",
         'pt-br': "Lumineon",
+        ja: "ネオラント",
         ko: "네오라이트",
         "zh-tw": "霓虹魚",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Finneon",
         "pt-br": "Finneon",
         "zh-tw": "螢光魚",
+        ja: "ケイコウオ",
     },
     description: {
         en: "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Con la sua luce attira le prede, ma anche i feroci\nPokémon acquatici che sono suoi predatori naturali.",
         de: "Mit seinem Licht lockt es Beute an. Leider\nwerden dadurch auch grausame Fisch-Pokémon\nangezogen – seine natürlichen Fressfeinde.",
         'pt-br': "Ao brilhar intensamente, atrai as presas para perto. Porém,\na luz também chega a atrair Pokémon peixe ferozes, seus\npredadores naturais.",
+        ja: "光で 獲物を おびき寄せるが 天敵である 獰猛な さかなポケモンまで 寄ってくるのだ。",
         ko: "빛으로 먹이를 유인하지만\n천적인 사나운 물고기포켓몬까지\n다가온다.",
         "zh-tw": "它用耀眼的光芒引誘獵物靠近。然而，光線也恰好吸引了兇猛的魚類神奇寶貝——它的天敵。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Fendiacque",
                 de: "Wasserrohr",
                 'pt-br': "Projétil d'Água",
+                ja: "アクアライナー",
                 ko: "아쿠아라이너",
                 "zh-tw": "水族內襯"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹に50ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게 50데미지를 준다.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 50 點傷害。"
             }

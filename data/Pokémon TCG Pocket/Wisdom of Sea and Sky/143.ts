@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/143",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/143"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/143"
     },
     name: {
         en: "Ambipom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ambidiffel",
         "pt-br": "Ambipom",
         "zh-tw": "雙尾怪手",
+        ja: "エテボース",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usa la coda per tutto. Se avvolge entrambi\ndelle sue code intorno a te e ti stringe,\nquesta è la prova che gli piaci davvero.",
         "de": "Es nutzt seinen Schwanz für alles. Wenn es beides umhüllt\nseiner Schwänze um dich herum und drückt dich,\nDas ist der Beweis, dass es dich wirklich mag.",
         "pt-br": "Ele usa a cauda para tudo. Se envolver ambos\nde suas caudas ao seu redor e lhe dá um aperto,\nisso é prova de que ele realmente gosta de você.",
-        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。"
+        "zh-tw": "它用尾巴做一切事情。如果它包住了兩個\n它的尾巴圍繞著你並擠壓你，\n這就是它真的喜歡你的證據。",
+        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo di coda",
                 "de": "Schwanzstoß",
                 "pt-br": "Golpe de cauda",
-                "zh-tw": "尾刺"
+                "zh-tw": "尾刺",
+                ja: "しっぽパンチ"
             },
             damage: 40,
             cost: ["Colorless"]

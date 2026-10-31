@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/223",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/223",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/223",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/223"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/223",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/223"
     },
     name: {
         en: "Nidoran♀",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",
+        ja: "ニドラン♀",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le femmine sono più sensibili agli odori rispetto ai maschi.\nMentre vanno in cerca di cibo, usano i baffi per controllare\ndirezione del vento e rimanere sottovento rispetto ai predatori.",
         "de": "Weibchen reagieren empfindlicher auf Gerüche als Männchen.\nBei der Nahrungssuche nutzen sie ihre Schnurrhaare zur Kontrolle\nAchten Sie auf die Windrichtung und bleiben Sie windabgewandt von Raubtieren.",
         "pt-br": "As mulheres são mais sensíveis aos cheiros do que os homens.\nEnquanto procuram alimentos, eles usam os bigodes para verificar\ndireção do vento e fique na direção do vento dos predadores.",
-        "zh-tw": "女性比男性對氣味更敏感。\n覓食時，它們會用鬍鬚檢查\n風向並保持捕食者的下風向。"
+        "zh-tw": "女性比男性對氣味更敏感。\n覓食時，它們會用鬍鬚檢查\n風向並保持捕食者的下風向。",
+        ja: "オスよりも 匂いに 敏感。 ヒゲで 風向きを 確認しながら 風下で エサを 探すのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Chiamata per la famiglia",
                 "de": "Aufruf zur Familie",
                 "pt-br": "Ligue para a família",
-                "zh-tw": "呼叫家人"
+                "zh-tw": "呼叫家人",
+                ja: "なかまをよぶ"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti 1 Nidoran♂ casuale dal tuo mazzo nella tua panchina.",
                 "de": "Lege 1 zufälligen Nidoran♂ aus deinem Deck auf deine Bank.",
                 "pt-br": "Coloque 1 Nidoran♂ aleatório do seu deck no seu Banco.",
-                "zh-tw": "從你的牌組中隨機將 1 張 Nidoran♂ 放到你的替補席上。"
+                "zh-tw": "從你的牌組中隨機將 1 張 Nidoran♂ 放到你的替補席上。",
+                ja: "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。"
             }
         }],
     weaknesses: [{

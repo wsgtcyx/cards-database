@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/034"
     },
     name: {
         en: "Passimian",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quartermak",
         "pt-br": "Passimian",
         "zh-tw": "投擲猴",
+        ja: "ナゲツケサル",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon combatte lanciando bacche dure.\nNon obbedirà ad un Allenatore che lancia Poké Ball\nsenza abilità.",
         "de": "Dieses Pokémon kämpft, indem es harte Beeren wirft.\nEs wird einem Trainer nicht gehorchen, der Pokébälle wirft\nohne Geschick.",
         "pt-br": "Este Pokémon luta jogando frutas duras.\nNão obedecerá a um treinador que joga Pokébolas\nsem habilidade.",
-        "zh-tw": "這只神奇寶貝通過投擲堅硬的漿果進行戰鬥。\n它不會服從扔精靈球的訓練家\n沒有技巧。"
+        "zh-tw": "這只神奇寶貝通過投擲堅硬的漿果進行戰鬥。\n它不會服從扔精靈球的訓練家\n沒有技巧。",
+        ja: "硬い 木の実を 投げて 戦う。 ボールを 投げるのが 下手くそな トレーナーの 言うことは 聞かない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lanciamo",
                 "de": "Lass uns werfen",
                 "pt-br": "Vamos jogar",
-                "zh-tw": "讓我們扔"
+                "zh-tw": "讓我們扔",
+                ja: "いっしょになげる"
             },
             damage: "40+",
             cost: ["Fighting", "Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se Passimian è nella tua panchina, questo attacco infligge 40 danni in più.",
                 "de": "Wenn Passimian auf deiner Bank sitzt, fügt dieser Angriff 40 Schadenspunkte mehr zu.",
                 "pt-br": "Se Passimian estiver no seu banco, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果帕西米安在你的替補席上，這次攻擊會造成 40 點額外傷害。"
+                "zh-tw": "如果帕西米安在你的替補席上，這次攻擊會造成 40 點額外傷害。",
+                ja: "自分のベンチに「ナゲツケサル」がいるなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

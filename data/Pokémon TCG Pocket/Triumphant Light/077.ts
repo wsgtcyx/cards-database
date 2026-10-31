@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/077"
     },
     name: {
         en: "Marill",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Marill",
         de: "Marill",
         'pt-br': "Marill",
+        ja: "マリル",
         ko: "마릴",
         "zh-tw": "瑪力露",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La pelliccia è idrorepellente. Così, rimane\nasciutto anche giocando nell'acqua.",
         de: "Sein Fell ist von Natur aus wasserabweisend.\nEs bleibt trocken, auch wenn es im Wasser spielt.",
         'pt-br': "A sua pelagem repele água naturalmente.\nPode brincar na água por horas sem se molhar.",
+        ja: "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。",
         ko: "전신의 털은\n물을 튕겨 내는 성질을 지녀\n물을 끼얹어도 말라 있다.",
         "zh-tw": "它身上的皮毛天然具有防水功能。即使在水中玩耍也能保持乾燥。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },

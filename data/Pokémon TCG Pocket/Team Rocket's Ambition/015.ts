@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/015",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/015"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/015"
     },
     name: {
         en: "Wingull",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vola scivolando sulla brezza marina come un aliante. D'inverno, nasconde il cibo attorno al nido.",
         de: "Es nutzt den Seewind, um wie ein Segelflugzeug durch die Lüfte zu gleiten. Im Winter versteckt es Nahrung bei seinem Nest.",
         "pt-br": "Pega carona com os ventos oceânicos como se fosse um planador. No inverno, esconde alimento ao redor do seu ninho.",
-        "zh-tw": "會迎著海風如滑翔機般滑翔。到了冬天就會將食物藏在巢的周圍。"
+        "zh-tw": "會迎著海風如滑翔機般滑翔。到了冬天就會將食物藏在巢的周圍。",
+        ja: "海風を 受けて グライダーのように 滑空する。 冬になると 巣の まわりに エサを 隠す。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 "pt-br": "Asa",
-                "zh-tw": "羽擊"
+                "zh-tw": "羽擊",
+                ja: "はばたく"
             },
             damage: 10
         }

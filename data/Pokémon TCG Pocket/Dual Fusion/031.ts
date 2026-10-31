@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/031",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/031",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/031"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/031"
     },
     name: {
         en: "Blastoise",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
-        ja: "Wartortle",
+        ja: "カメール",
         ko: "Wartortle"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Surfer",
                 "pt-br": "Surfar",
                 "zh-tw": "衝浪",
-                ja: "Surf",
+                ja: "なみのり",
                 ko: "Surf"
             },
             cost: [
@@ -83,7 +84,7 @@ const card: Card = {
                 de: "Aqualadung",
                 "pt-br": "Carga Aquática",
                 "zh-tw": "水流充能",
-                ja: "Aqua Charge",
+                ja: "アクアチャージ",
                 ko: "Aqua Charge"
             },
             effect: {
@@ -94,7 +95,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la a este Pokémon.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{W}能量,附於這隻寶可夢身上。",
-                ja: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、このポケモンにつける。",
                 ko: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
             },
             type: "Ability"
@@ -108,7 +109,7 @@ const card: Card = {
         de: "Es macht sich absichtlich schwer, um den Rückstoß seiner Wasserstrahlen abzufangen.",
         "pt-br": "Aumenta o seu próprio peso deliberadamente para aguentar o ricochete dos jatos de água que dispara.",
         "zh-tw": "為了讓自己能夠抵擋噴射水流的後座力，於是刻意增加體重。",
-        ja: "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.",
+        ja: "噴射した 水の 勢いに 負けないように わざと 体重を 重くしているのだ。",
         ko: "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires."
     }
 };

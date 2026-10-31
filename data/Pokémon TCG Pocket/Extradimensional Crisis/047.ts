@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/047"
     },
     name: {
         en: "Alolan Dugtrio ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Digdri-ex",
         "pt-br": "Dugtrio de Alola ex",
         "zh-tw": "阿羅拉三地鼠ex",
+        ja: "アローラダグトリオex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Alola-Digda",
         "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
+        ja: "アローラディグダ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Tripletta di testata",
                 "de": "Drillinge-Kopfstoß",
                 "pt-br": "Cabeçada tripla",
-                "zh-tw": "三連發頭撞"
+                "zh-tw": "三連發頭撞",
+                ja: "トリプレットヘッド"
             },
             damage: "60×",
             cost: ["Metal", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 60 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 60 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 60 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 60 點傷害。",
+                ja: "コインを3回投げ、オモテの数×60ダメージ。"
             }
         }],
     weaknesses: [{

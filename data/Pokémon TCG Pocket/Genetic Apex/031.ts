@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/031",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/031",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/031"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/031"
     },
     name: {
         en: "Skiddo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Skiddo",
         de: "Mähikel",
         'pt-br': "Skiddo",
+        ja: "メェークル",
         ko: "메이클",
         "zh-tw": "坐騎小羊",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Attacco a Sorpresa",
                 de: "Überraschungsangriff",
                 'pt-br': "Ataque Surpresa",
+                ja: "ふいをつく",
                 ko: "허찌르기",
                 "zh-tw": "偷襲"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Fino a poco tempo fa, la gente di montagna era solita\npercorrere i sentieri montani in groppa a degli Skiddo.",
         de: "Bis vor Kurzem ritten die in den Bergen lebenden\nMenschen auf dem Rücken dieses Pokémon, um\nsich auf den Bergpfaden fortzubewegen.",
         'pt-br': "Até pouco tempo, as pessoas vivendo em montanhas\nmontavam nas costas deste Pokémon para atravessá-las.",
+        ja: "最近まで 山岳で 暮らす 人たちは メェークルの 背中に 乗って 山道を 移動していた。",
         ko: "최근까지도 산악 지대에 사는 사람들은\n메이클의 등에 올라타서\n산길을 이동했다.",
         "zh-tw": "直到最近，生活在山里的人們都會騎在這些神奇寶貝的背上穿越山路。"
     },

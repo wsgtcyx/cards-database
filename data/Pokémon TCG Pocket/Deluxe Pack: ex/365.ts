@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/365",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/365",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/365",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/365"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/365",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/365"
 	},
 	name: {
         en: "Mewtwo ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mewtu-ex",
         "pt-br": "Mewtwo ex",
         "zh-tw": "超夢ex",
+        ja: "ミュウツーex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Sfera psichica",
                 "de": "Psychische Sphäre",
                 "pt-br": "Esfera Psíquica",
-                "zh-tw": "心靈領域"
+                "zh-tw": "心靈領域",
+                ja: "ねんどうだん"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Psydrive",
                 "de": "Psydrive",
                 "pt-br": "Psicodrive",
-                "zh-tw": "心靈驅動器"
+                "zh-tw": "心靈驅動器",
+                ja: "サイコドライブ"
             },
             damage: 150,
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Scarta 2 Energie {P} da questo Pokémon.",
                 "de": "Lege 2 {P}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 {P} Energias deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 2 個 {P} 能量。",
+                ja: "このポケモンから{P}エネルギーを2個トラッシュ。"
             }
         }],
     weaknesses: [{

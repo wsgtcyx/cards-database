@@ -8,7 +8,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/051",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/051",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/051",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/051"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/051"
     },
     name: {
         en: "Zygarde",
@@ -35,7 +36,8 @@ const card: Card = {
         it: "Nata quando circa il 10% delle cellule di Zygarde è stata raccolta da ogni parte, questa forma è abile nel combattimento a distanza ravvicinata.",
         de: "Diese Form wurde geboren, als etwa 10 % der Zellen von Zygarde von überall her gesammelt wurden, und ist im Nahkampf geübt.",
         "pt-br": "Nascida quando cerca de 10% das células de Zygarde foram coletadas de todos os lugares, esta forma é hábil em combate de curta distância.",
-        "zh-tw": "當基格爾德的細胞從各地收集到10%左右時誕生，這種形態擅長近距離戰鬥。"
+        "zh-tw": "當基格爾德的細胞從各地收集到10%左右時誕生，這種形態擅長近距離戰鬥。",
+        ja: "各地の ジガルデ・セルが 10% 集まったとき 生まれる。 接近戦が 得意だぞ。"
     },
     attacks: [
         {
@@ -47,7 +49,8 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 "pt-br": "Mordida",
-                "zh-tw": "咬住"
+                "zh-tw": "咬住",
+                ja: "かみつく"
             },
             damage: 30
         }

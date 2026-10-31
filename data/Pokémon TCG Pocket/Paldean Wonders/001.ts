@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/001",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/001",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/001"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/001"
     },
     name: {
         en: "Sprigatito",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Felori",
         'pt-br': "Sprigatito",
         "zh-tw": "新葉喵",
+        ja: "ニャオハ",
         ko: "나오하"
     },
     illustrator: "Saya Tsuruta",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Il dolce profumo che emana il suo corpo incanta chi lo circonda. Il profumo diventa più forte quando questo Pokémon è al sole.",
         "de": "Der süße Duft, den sein Körper verströmt, fasziniert die Menschen in seiner Umgebung. Der Duft wird stärker, wenn dieses Pokémon in der Sonne ist.",
         "pt-br": "O doce aroma que seu corpo exala hipnotiza aqueles que o rodeiam. O cheiro fica mais forte quando este Pokémon está ao sol.",
-        "zh-tw": "它的身體散發出的甜美氣味讓周圍的人著迷。當這隻寶可夢在陽光下時，氣味會變得更濃。"
+        "zh-tw": "它的身體散發出的甜美氣味讓周圍的人著迷。當這隻寶可夢在陽光下時，氣味會變得更濃。",
+        ja: "体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Blattwerk",
                 'pt-br': "Folhagem",
                 "zh-tw": "葉子",
+                ja: "このは",
                 ko: "나뭇잎"
             },
             damage: 20,

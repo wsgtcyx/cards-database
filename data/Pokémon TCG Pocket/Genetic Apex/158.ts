@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/158",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/158"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/158",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/158"
     },
     name: {
         en: "Kabuto",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kabuto",
         de: "Kabuto",
         'pt-br': "Kabuto",
+        ja: "カブト",
         ko: "투구",
         "zh-tw": "化石盔",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Domofossile",
         "de": "Domfossil",
         "pt-br": "Fóssil Cúpula",
-        "zh-tw": "甲殼化石"
+        "zh-tw": "甲殼化石",
+        ja: "こうらの化石"
     },
     attacks: [{
             cost: ["Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Gusciattacco",
                 de: "Muschelangriff",
                 'pt-br': "Ataque Carapaça",
+                ja: "こうらアタック",
                 ko: "등껍질 어택",
                 "zh-tw": "砲彈攻擊"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "È un Pokémon sull'orlo dell'estinzione. Fa la muta\nogni tre giorni indurendo gradualmente il carapace.",
         de: "Dieses Pokémon ist so gut wie ausgestorben.\nSein Panzer wird immer härter, indem es sich\nalle drei Tage häutet.",
         'pt-br': "Esta espécie está quase extinta. Kabuto\nmudam seus cascos a cada três dias,\ntornando-os cada vez mais rígidos.",
+        ja: "ほぼ 全滅した ポケモン。 ３日に 一度 脱皮して 殻を どんどん 硬くする。",
         ko: "거의 멸종된 포켓몬이다.\n3일에 1번 탈피하여\n껍질을 점점 단단하게 만든다.",
         "zh-tw": "這個物種幾乎完全滅絕了。 Kabuto 每三天蛻皮一次，使它們的外殼變得越來越硬。"
     },

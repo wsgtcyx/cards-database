@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/097",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/097"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/097"
     },
     name: {
         en: "Honchkrow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Honchkrow",
         de: "Kramshef",
         'pt-br': "Honchkrow",
+        ja: "ドンカラス",
         ko: "돈크로우",
         "zh-tw": "烏鴉頭頭",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
+        ja: "ヤミカラス",
     },
     description: {
         en: "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Ha un carattere spietato. Pare che non perdoni il\nminimo errore commesso dai Murkrow suoi seguaci.",
         de: "Kramshef kennt kein Erbarmen. Man sagt,\neinem untergebenen Kramurx verzeihe es\nniemals einen Fehler.",
         'pt-br': "Sua natureza é impiedosa. Diz-se que ele nunca perdoa\nos erros de seus seguidores Murkrow.",
+        ja: "情け容赦ない 性格。 子分の ヤミカラスの 失敗は 絶対に 許さないと 言われる。",
         ko: "인정사정 없는 성격.\n부하인 니로우의 실패는\n절대 용서하지 않는다고 전해진다.",
         "zh-tw": "它本質上是無情的。據說它永遠不會原諒暗鴉追隨者所犯的錯誤。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Agiltuffo",
                 de: "Geübter Sturzflug",
                 'pt-br': "Mergulho Habilidoso",
+                ja: "ちょくげきひこう",
                 ko: "직격비행",
                 "zh-tw": "技能潛水"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に50ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 50데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
             }

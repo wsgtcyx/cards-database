@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/035",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/035"
     },
     name: {
         en: "Cloyster",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Muschas",
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
-        ja: "Shellder",
+        ja: "シェルダー",
         ko: "Shellder"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Blizzard",
                 "pt-br": "Nevasca",
                 "zh-tw": "暴風雪",
-                ja: "Blizzard",
+                ja: "ふぶき",
                 ko: "Blizzard"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的所有備戰寶可夢也受到20點傷害。",
-                ja: "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン全員にも20ダメージ。",
                 ko: "This attack also does 20 damage to each of your opponent's Benched Pokémon."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Austos, die in Meeren mit starker Strömung leben, entwickeln große und scharfe Stacheln an ihrer Schale.",
         "pt-br": "Cloyster que vivem em mares com correntes intensas desenvolvem espinhos grandes e afiados em suas conchas.",
         "zh-tw": "刺甲貝棲息在潮流湍急的海域，殼上的刺又大又尖銳。",
-        ja: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。",
         ko: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells."
     }
 };

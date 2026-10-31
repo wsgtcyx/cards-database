@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/038"
     },
     name: {
         en: "Ninetales",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ninetales",
         de: "Vulnona",
         'pt-br': "Ninetales",
+        ja: "キュウコン",
         ko: "나인테일",
         "zh-tw": "九尾"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Vulpix",
         "de": "Vulpix",
         "pt-br": "Vulpix",
-        "zh-tw": "六尾"
+        "zh-tw": "六尾",
+        ja: "ロコン"
     },
     attacks: [{
             cost: ["Fire", "Fire"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Lanciafiamme",
                 de: "Flammenwurf",
                 'pt-br': "Lança-chamas",
+                ja: "かえんほうしゃ",
                 ko: "화염방사",
                 "zh-tw": "噴火器"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia {R} da questo Pokémon.",
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 'pt-br': "Descarte 1 Energia {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 1개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 1 個 {R} 能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Dicono che viva un millennio. Ognuna delle\nsue code è dotata di un potere magico.",
         de: "Man sagt, es lebe 1000 Jahre und jedem seiner\nSchweife wohnen übernatürliche Kräfte inne.",
         'pt-br': "Dizem que vive 1.000 anos e que cada uma das\nsuas caudas é cheia de poderes sobrenaturais.",
+        ja: "しっぽの １本 １本に 神通力が 込められている。 １０００年 生きると 言われる。",
         ko: "꼬리 하나하나에\n신통력이 담겨 있다.\n1000년을 산다고 한다.",
         "zh-tw": "據說它的壽命有1000歲，每條尾巴都充滿了超自然的力量。"
     },

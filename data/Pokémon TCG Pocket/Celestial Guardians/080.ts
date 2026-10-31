@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/080"
     },
     name: {
         en: "Comfey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Comfey",
         de: "Curelei",
         'pt-br': "Comfey",
+        ja: "キュワワー",
         ko: "큐아링",
         "zh-tw": "花療環環",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Coglie fiori con la sua liana e li usa per decorare il proprio corpo.\nNon si sa come mai, ma i fiori che ha addosso non appassiscono.",
         de: "Mit seiner Ranke pflückt es Blumen und schmückt\ndann seinen Körper mit ihnen. Aus irgendeinem\nGrund verwelken diese nie.",
         'pt-br': "Este Pokémon colhe flores com suas vinhas e se enfeita\ncom elas. Por alguma razão, as flores não murcham\ndepois de terem sido colocadas em Comfey.",
+        ja: "ツルを 使って 花を 摘み 自分を 飾る。 体に ついた 花は なぜか 枯れない。",
         ko: "덩굴을 사용해 꽃을 따서 자신을\n꾸민다. 몸에 붙은 꽃은 무슨\n이유에서인지 시들지 않는다.",
         "zh-tw": "康菲用藤蔓採摘花朵，並用它們裝飾自己。出於某種原因，花朵一旦附著在紫草上就不會枯萎。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Fiordifesa",
                 de: "Floraschutz",
                 'pt-br': "Escudo Florido",
+                ja: "フラワーガード",
                 ko: "플라워가드",
                 "zh-tw": "花盾"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Ciascuno dei tuoi Pokémon che ha delle Energie {P} assegnate guarisce da tutte le condizioni speciali e non può essere influenzato da condizioni speciali.",
                 de: "Jedes deiner Pokémon, an das mindestens 1 {P}-Energie angelegt ist, erholt sich von allen Speziellen Zuständen und kann von keinen Speziellen Zuständen betroffen werden.",
                 'pt-br': "Cada um dos seus Pokémon que tiver alguma Energia {P} ligada a ele se recupera de todas as Condições Especiais e não pode ser afetado por quaisquer Condições Especiais.",
+                ja: "このポケモンがいるかぎり、{P}エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復。",
                 ko: "이 포켓몬이 있는 한, {P}에너지가 붙어 있는 자신의 포켓몬 전원은 특수 상태가 되지 않으며 받고 있는 특수 상태는 모두 회복.",
                 "zh-tw": "你的每隻附有 {P} 能量的神奇寶貝都會從所有特殊狀況中恢復，並且不會受到任何特殊狀況的影響。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Attacco Rotante",
                 de: "Rundumangriff",
                 'pt-br': "Ataque Giratório",
+                ja: "かいてんアタック",
                 ko: "회전어택",
                 "zh-tw": "旋轉攻擊"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/066",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/066"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/066"
     },
     name: {
         en: "Ceruledge ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Taglio scintillante",
                 de: "Schimmernder Schlitz",
                 "pt-br": "Corte Cintilante",
-                "zh-tw": "陽炎斬"
+                "zh-tw": "陽炎斬",
+                ja: "かげろうぎり"
             },
             effect: {
                 en: "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 de: "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有寶可夢（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
+                "zh-tw": "從所有寶可夢（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
             },
             damage: 80
         }

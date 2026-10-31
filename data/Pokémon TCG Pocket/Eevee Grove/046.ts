@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/046"
     },
     name: {
         en: "Liepard",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kleoparda",
         "pt-br": "Liepard",
         "zh-tw": "酷豹",
+        ja: "レパルダス",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
+        ja: "チョロネコ",
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non lasciarti ingannare dalla sua pelliccia splendida ed elegante\nfigura. Questo è un Pokémon lunatico e feroce.",
         "de": "Lassen Sie sich nicht von seinem wunderschönen Fell und seiner Eleganz täuschen\nFigur. Dies ist ein launisches und bösartiges Pokémon.",
         "pt-br": "Não se deixe enganar pelo seu pelo lindo e elegante\nfigura. Este é um Pokémon temperamental e cruel.",
-        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。"
+        "zh-tw": "不要被它華麗的皮毛和優雅所迷惑\n圖。這是一隻喜怒無常且兇​​惡的神奇寶貝。",
+        ja: "美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Artiglio Tagliente",
                 "de": "Schlagklaue",
                 "pt-br": "Garra Cortante",
-                "zh-tw": "斬擊利爪"
+                "zh-tw": "斬擊利爪",
+                ja: "スラッシュクロー"
             },
             damage: 70,
             cost: ["Darkness", "Darkness"]

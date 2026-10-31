@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/062",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/062",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/062"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/062"
     },
     name: {
         en: "Wattrel",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nidifica sui dirupi a picco sul mare. Il suo nido è una prelibatezza molto amata per l'insolita consistenza scoppiettante.",
         de: "Es nistet an Steilküsten. Seine Nester sind als Delikatesse geschätzt, da ihre Textur ein seltsames Knistergefühl im Mund erzeugt.",
         "pt-br": "Estes Pokémon fazem seus ninhos em penhascos no litoral. Os ninhos têm uma textura estranha e crépida, e são uma iguaria muito popular.",
-        "zh-tw": "會在海岸的懸崖上築巢。\n吃起來劈哩啪啦跳的神奇口感，\n讓牠的巢成了受歡迎的珍奇美食。"
+        "zh-tw": "會在海岸的懸崖上築巢。\n吃起來劈哩啪啦跳的神奇口感，\n讓牠的巢成了受歡迎的珍奇美食。",
+        ja: "海岸の 崖に 巣を 作る。 巣は パチパチ 弾ける 不思議な 食感で 人気の 珍味。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 "pt-br": "Bicada",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 10
         }

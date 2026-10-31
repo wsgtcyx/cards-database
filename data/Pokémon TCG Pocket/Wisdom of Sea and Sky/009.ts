@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/009"
     },
     name: {
         en: "Bayleef",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bayleef",
         "de": "Lorblatt",
         "pt-br": "Bayleef",
-        "zh-tw": "月桂葉"
+        "zh-tw": "月桂葉",
+        ja: "ベイリーフ"
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Endivie",
         "pt-br": "Chikorita",
         "zh-tw": "菊草葉",
+        ja: "チコリータ",
     },
     description: {
         en: "A spicy aroma emanates from around its neck.\nThe aroma acts as a stimulant to restore health.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dal collo emana un profumo speziato.\nL'aroma agisce come uno stimolante per ripristinare la salute.",
         "de": "Um seinen Hals strömt ein würziger Duft.\nDas Aroma wirkt als Stimulans zur Wiederherstellung der Gesundheit.",
         "pt-br": "Um aroma picante emana de seu pescoço.\nO aroma atua como estimulante para restaurar a saúde.",
-        "zh-tw": "一股辛辣的香氣從它的脖頸處散發出來。\n香氣可以作為恢復健康的興奮劑。"
+        "zh-tw": "一股辛辣的香氣從它的脖頸處散發出來。\n香氣可以作為恢復健康的興奮劑。",
+        ja: "首の まわりから 発散する スパイスのような 香りには 元気を 出させる 効果がある。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Frusta di vite",
                 "de": "Weinpeitsche",
                 "pt-br": "Chicote de videira",
-                "zh-tw": "藤鞭"
+                "zh-tw": "藤鞭",
+                ja: "つるのムチ"
             },
             damage: 40,
             cost: ["Grass", "Colorless"]

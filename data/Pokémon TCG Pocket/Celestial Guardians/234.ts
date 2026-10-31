@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/234",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/234",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/234"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/234",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/234"
     },
     name: {
         en: "Gengar ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gengar-ex",
         de: "Gengar-ex",
         'pt-br': "Gengar ex",
+        ja: "ゲンガーex",
         ko: "팬텀 ex",
         "zh-tw": "耿鬼ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
+        ja: "ゴースト",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Maledizione Oscura",
                 de: "Schattenbann",
                 'pt-br': "Enfeitiçamento Sombrio",
+                ja: "かげのじゅばく",
                 ko: "그림자 속박",
                 "zh-tw": "陰暗咒語"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Fintanto che questo Pokémon è in posizione attiva, il tuo avversario non può giocare le carte Aiuto che ha in mano.",
                 de: "Solange dieses Pokémon in der Aktiven Position ist, kann dein Gegner keine Unterstützerkarten aus seiner Hand spielen.",
                 'pt-br': "Enquanto este Pokémon estiver no Campo Ativo, o seu oponente não poderá usar nenhuma carta de Apoiador da mão dele.",
+                ja: "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。",
                 ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 서포트를 꺼내서 사용할 수 없다.",
                 "zh-tw": "只要這只神奇寶貝在活動區域，對手就不能使用手牌中的任何支持者卡。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Colpomistero",
                 de: "Spukschuss",
                 'pt-br': "Tiro Assustador",
+                ja: "ホロウショット",
                 ko: "홀로숏",
                 "zh-tw": "幽靈射擊"
             },

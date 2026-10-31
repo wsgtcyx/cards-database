@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/029",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/029",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/029"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/029"
     },
     name: {
         en: "Squirtle",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Blubber",
                 "pt-br": "Bolha",
                 "zh-tw": "泡沫",
-                ja: "Bubble",
+                ja: "あわ",
                 ko: "Bubble"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
                 "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
-                ja: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Nach der Geburt schwillt sein Rücken an und verhärtet sich zu einem Panzer. Es versprüht starken Schaum aus seinem Maul.",
         "pt-br": "Depois que nasce, suas costas incham e endurecem até formar um casco. Este Pokémon lança um jato espumoso pela boca.",
         "zh-tw": "出生後背部會隆起成堅硬的甲殼。會從口中吐出強而有力的泡沫。",
-        ja: "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+        ja: "生まれたあと 背中が ふくらんで 硬い 甲羅が できる。 口から 強力な 泡を 出す。",
         ko: "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth."
     }
 };

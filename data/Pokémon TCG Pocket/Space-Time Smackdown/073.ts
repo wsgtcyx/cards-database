@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/073"
     },
     name: {
         en: "Drifloon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drifloon",
         de: "Driftlon",
         'pt-br': "Drifloon",
+        ja: "フワンテ",
         ko: "흔들풍손",
         "zh-tw": "飄飄球",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si dice che i bambini piccoli possano scomparire nel nulla\nse tengono un Drifloon scambiandolo per un palloncino.",
         de: "So manches kleine Kind soll schon verschwunden\nsein, weil es ein Driftlon festhielt, das es mit\neinem Ballon verwechselt hatte.",
         'pt-br': "Diz-se por aí que se uma criança confundir Drifloon\ncom um balão e o segurar, poderá acabar desaparecendo.",
+        ja: "風船と 間違えて フワンテを 持っていた 小さな 子どもが 消えてしまうことが あるという。",
         ko: "풍선으로 착각해 흔들풍손을\n가지고 있었던 어린아이가\n사라지는 경우가 있다고 한다.",
         "zh-tw": "有傳言說，任何將 Drifloon 誤認為氣球並抓住它的孩子都可能會失踪。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Espansione",
                 de: "Ausdehnen",
                 'pt-br': "Expandir",
+                ja: "ふくらむ",
                 ko: "부풀기",
                 "zh-tw": "擴張"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
             }

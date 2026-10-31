@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/175",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/175"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/175",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/175"
     },
     name: {
         en: "Yveltal",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Yveltal",
         "de": "Yveltal",
         "pt-br": "Yveltal",
-        "zh-tw": "伊裴爾塔爾"
+        "zh-tw": "伊裴爾塔爾",
+        ja: "イベルタル"
     },
     illustrator: "Nurikabe",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando la sua vita giunge al termine, assorbe\nl'energia vitale di ogni essere vivente\ne si trasforma nuovamente in un bozzolo.",
         "de": "Wenn sein Leben zu Ende geht, absorbiert es\ndie Lebensenergie jedes Lebewesens\nund verwandelt sich wieder in einen Kokon.",
         "pt-br": "Quando sua vida chega ao fim, ele absorve\na energia vital de todos os seres vivos\ne se transforma em casulo mais uma vez.",
-        "zh-tw": "當它的生命結束時，它會吸收\n一切生物的生命能量\n並再次變成繭。"
+        "zh-tw": "當它的生命結束時，它會吸收\n一切生物的生命能量\n並再次變成繭。",
+        ja: "寿命が つきるとき あらゆる 生き物の 命を 吸いつくし 繭の 姿に 戻るという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Malvagio schianto",
                 "de": "Böser Absturz",
                 "pt-br": "Acidente Maligno",
-                "zh-tw": "邪惡崩潰"
+                "zh-tw": "邪惡崩潰",
+                ja: "イビルクラッシュ"
             },
             damage: 90,
             cost: ["Darkness", "Darkness", "Darkness"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Rimuovi un'Energia a caso da entrambi i Pokémon attivi.",
                 "de": "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab.",
                 "pt-br": "Descarte 1 Energia aleatória de ambos os Pokémon Ativos.",
-                "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。"
+                "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。",
+                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。"
             }
         }],
     weaknesses: [{

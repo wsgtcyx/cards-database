@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/016"
     },
     name: {
         en: "Barboach",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Barboach",
         de: "Schmerbe",
         'pt-br': "Barboach",
+        ja: "ドジョッチ",
         ko: "미꾸리",
         "zh-tw": "泥泥鰍",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "I suoi baffi sono un radar sensibilissimo in grado di\nindividuare la preda persino nelle acque più torbide.",
         de: "Seine zwei Barteln dienen ihm als empfindliches\nRadarsystem. Selbst in schlammigem Wasser kann\nes so die Position seiner Beute ausmachen.",
         'pt-br': "Seus dois bigodes fornecem um radar sensível.\nPode localizar as suas presas até mesmo\nem águas lamacentas.",
+        ja: "２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。",
         ko: "2개의 수염은 민감한 레이더이다.\n진흙으로 탁해진 물속에서도\n먹이의 위치를 감지한다.",
         "zh-tw": "它的兩根鬍鬚提供了靈敏的雷達。即使在渾水中，它也能探測到獵物的位置。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 'pt-br': "Tapa de Lama",
+                ja: "どろかけ",
                 ko: "진흙뿌리기",
                 "zh-tw": "拍泥"
             },

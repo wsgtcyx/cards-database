@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/081",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/081"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/081"
     },
     name: {
         en: "Machamp",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Machamp",
         "de": "Machomei",
         "pt-br": "Machamp",
-        "zh-tw": "怪力"
+        "zh-tw": "怪力",
+        ja: "カイリキー"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Machoke",
         "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "豪力"
+        "zh-tw": "豪力",
+        ja: "ゴーリキー"
     },
     description: {
         en: "With four arms that react more quickly than it\ncan think, it can execute many punches at once.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Con quattro braccia che reagiscono più velocemente di lui\npuò pensare, può eseguire molti pugni contemporaneamente.",
         "de": "Mit vier Armen, die schneller reagieren als er\ndenken kann, kann es viele Schläge auf einmal ausführen.",
         "pt-br": "Com quatro braços que reagem mais rapidamente do que\npode pensar, pode executar muitos socos ao mesmo tempo.",
-        "zh-tw": "擁有比它反應更快的四隻手臂\n可以思考，它可以一次出很多拳。"
+        "zh-tw": "擁有比它反應更快的四隻手臂\n可以思考，它可以一次出很多拳。",
+        ja: "４本の 腕は 考えるより 早く 反射的に 動き 何発もの パンチを 繰りだせる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Martello da battere",
                 "de": "Klopfhammer",
                 "pt-br": "Martelo Batendo",
-                "zh-tw": "敲擊鎚"
+                "zh-tw": "敲擊鎚",
+                ja: "ノックハンマー"
             },
             damage: 80,
             cost: ["Fighting", "Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta la prima carta del mazzo del tuo avversario.",
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂牌。"
+                "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。"
             }
         }],
     weaknesses: [{

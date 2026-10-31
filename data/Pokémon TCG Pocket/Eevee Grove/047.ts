@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/047"
     },
     name: {
         en: "Mawile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flunkifer",
         "pt-br": "Mawile",
         "zh-tw": "大嘴娃",
+        ja: "クチート",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Usa il suo volto dall'aspetto docile per ingannare i nemici\ncompiacimento, poi morde con il suo enorme,\nmascelle implacabili.",
         "de": "Es nutzt sein fügsam aussehendes Gesicht, um Feinde einzulullen\nSelbstgefälligkeit, dann beißt er mit seinem riesigen,\nunerbittliche Kiefer.",
         "pt-br": "Ele usa seu rosto de aparência dócil para acalmar os inimigos.\ncomplacência, então morde com seu enorme,\nmandíbulas implacáveis.",
-        "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。"
+        "zh-tw": "它用它溫順的面孔來誘騙敵人\n自滿，然後用它的巨大咬住，\n無情的下巴。",
+        ja: "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morsa potente",
                 "de": "Leistungsstarker Schraubstock",
                 "pt-br": "Torno poderoso",
-                "zh-tw": "強力虎鉗"
+                "zh-tw": "強力虎鉗",
+                ja: "まんりきばさみ"
             },
             damage: 30,
             cost: ["Metal", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

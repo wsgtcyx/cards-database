@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/111",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/111"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/111"
     },
     name: {
         en: "Heliolisk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heliolisk",
         de: "Elezard",
         'pt-br': "Heliolisk",
+        ja: "エレザード",
         ko: "일레도리자드",
         "zh-tw": "光電傘蜥",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Helioptile",
         "de": "Eguana",
         "pt-br": "Helioptile",
-        "zh-tw": "傘電蜥"
+        "zh-tw": "傘電蜥",
+        ja: "エリキテル"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Attacco Rapido",
                 de: "Ruckzuckhieb",
                 'pt-br': "Ataque Rápido",
+                ja: "でんこうせっか",
                 ko: "전광석화",
                 "zh-tw": "快速攻擊"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、40ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 40데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 40 點額外傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "L'energia prodotta da un Heliolisk quando apre\nil suo collare in un luogo soleggiato è sufficiente\na soddisfare il fabbisogno di una metropoli.",
         de: "Stellt es seine kragenartigen Hautlappen auf und\nabsorbiert damit Sonnenlicht, kann ein Elezard\ngenug Strom für eine Großstadt produzieren.",
         'pt-br': "Um único Heliolisk tomando banho de sol com\nsuas cristas abertas consegue produzir energia\no suficiente para abastecer uma cidade inteira.",
+        ja: "襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。",
         ko: "깃을 펼쳐 태양광을 받으면\n대도시에서 사용할 수 있는\n전기를 혼자서 발전한다.",
         "zh-tw": "只要一隻日光蟲在陽光下伸展開來，就可以產生足夠的電力來為一座城市供電。"
     },

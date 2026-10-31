@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/038",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/038",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/038"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/038"
     },
     name: {
         en: "Sneasel",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo è un Pokémon intelligente e subdolo. Una coppia può lavorare insieme per rubare le uova facendo sì che una attiri via i genitori.",
         de: "Dies ist ein kluges und hinterhältiges Pokémon. Ein Paar kann zusammenarbeiten, um Eier zu stehlen, indem eines die Eltern weglockt.",
         "pt-br": "Este é um Pokémon inteligente e sorrateiro. Um par pode trabalhar junto para roubar ovos, fazendo com que um atraia os pais.",
-        "zh-tw": "這是一隻聰明又狡猾的寶可夢。一對可能會透過其中一個引誘父母來偷雞蛋。"
+        "zh-tw": "這是一隻聰明又狡猾的寶可夢。一對可能會透過其中一個引誘父母來偷雞蛋。",
+        ja: "ずる賢く １匹が 親を 誘き寄せ もう１匹が タマゴを 取るという チームプレーも 見せる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco Rapido",
                 de: "Ruckzuckhieb",
                 "pt-br": "Ataque Rápido",
-                "zh-tw": "電光一閃"
+                "zh-tw": "電光一閃",
+                ja: "でんこうせっか"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
+                ja: "コインを1回投げオモテなら、20ダメージ追加。"
             },
             damage: "10+"
         }

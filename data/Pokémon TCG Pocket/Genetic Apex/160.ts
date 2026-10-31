@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/160",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/160",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/160",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/160"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/160",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/160"
     },
     name: {
         en: "Mienfoo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mienfoo",
         de: "Lin-Fu",
         'pt-br': "Mienfoo",
+        ja: "コジョフー",
         ko: "비조푸",
         "zh-tw": "功夫鼬",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Botta",
                 de: "Klaps",
                 'pt-br': "Pancada",
+                ja: "はたく",
                 ko: "막치기",
                 "zh-tw": "磅"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "I Mienfoo più allenati sono in grado di sferrare\npiù di 100 colpi al minuto con il taglio della mano.",
         de: "Ein gut trainiertes Lin-Fu kann in einer Minute\nüber 100 Schläge ausführen.",
         'pt-br': "Um Mienfoo bem treinado é capaz de usar seus braços\npara dar mais de 100 golpes por minuto.",
+        ja: "よく鍛えられた コジョフーは １分で １００回を 超える チョップを 打つことが できる。",
         ko: "잘 단련된 비조푸는\n1분에 100회 이상\n촙 공격을 할 수 있다.",
         "zh-tw": "一分鐘內，訓練有素的Mienfoo可以用手臂砍100多次。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/130",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/130",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/130"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/130"
     },
     name: {
         en: "Baxcalibur",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Espinodon",
         "pt-br": "Baxcalibur",
         "zh-tw": "戟脊龍",
+        ja: "セグレイブ",
         pt: "Baxcalibur"
     },
     illustrator: "PLANETA Igarashi",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Cryospino",
         "pt-br": "Arctibax",
         "zh-tw": "凍脊龍",
+        ja: "セゴール",
         pt: "Arctibax"
     },
     stage: "Stage2",
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Si lancia in battaglia capovolgendosi e sputando aria gelida dalla bocca. Finisce gli avversari con la sua lama dorsale.",
         "de": "Es stürzt sich in die Schlacht, indem es sich auf den Kopf dreht und eiskalte Luft aus seinem Mund spuckt. Es erledigt Gegner mit seiner Rückenklinge.",
         "pt-br": "Ele se lança na batalha virando de cabeça para baixo e expelindo ar gelado pela boca. Ele acaba com os oponentes com sua lâmina dorsal.",
-        "zh-tw": "它透過翻轉並從嘴裡噴出寒冷的空氣來投入戰鬥。它用背刃消滅對手。"
+        "zh-tw": "它透過翻轉並從嘴裡噴出寒冷的空氣來投入戰鬥。它用背刃消滅對手。",
+        ja: "逆さまになり 口から 冷気を 吹きだす 力で 突進。 背びれの剣で 敵を 仕留める。"
     },
     abilities: [
         {
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Macchina per il ghiaccio",
                 "de": "Eismaschine",
                 "pt-br": "Máquina de fazer gelo",
-                "zh-tw": "製冰機"
+                "zh-tw": "製冰機",
+                ja: "アイスメーカー"
             },
             effect: {
                 en: "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot.",
@@ -66,7 +71,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi prendere un'Energia Water dalla tua Zona Energetica e assegnarla al Pokémon Water in posizione attiva.",
                 "de": "Einmal während deines Zuges kannst du eine Wasser-Energie aus deiner Energiezone nehmen und sie an das Wasser-Pokémon an der aktiven Stelle anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você pode pegar uma Energia Água da sua Zona de Energia e anexá-la ao Pokémon Água no Ponto Ativo.",
-                "zh-tw": "在你的回合中，你可以從你的能量區域取出一個水能量並將其附加到戰鬥場的水寶可夢上。"
+                "zh-tw": "在你的回合中，你可以從你的能量區域取出一個水能量並將其附加到戰鬥場的水寶可夢上。",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、バトル場の{W}ポケモンにつける。"
             },
         },
     ],
@@ -80,6 +86,7 @@ const card: Card = {
                 de: "Zertrümmernder Schweif",
                 "pt-br": "Cauda Buster",
                 "zh-tw": "巴斯特尾巴",
+                ja: "バスターテール",
                 pt: "Cauda Aniquiladora"
             },
             damage: "90",

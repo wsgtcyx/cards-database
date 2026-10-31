@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/133",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/133"
     },
     name: {
         en: "Magnemite",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
+        ja: "コイル",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le onde elettromagnetiche emesse dalle unità\nai lati della sua testa espellono l'antigravità, che\ngli permette di galleggiare.",
         "de": "Die von den Einheiten ausgesendeten elektromagnetischen Wellen\nan den Seiten seines Kopfes stoßen Antigravitation aus, die\nlässt es schweben.",
         "pt-br": "As ondas eletromagnéticas emitidas pelas unidades\nnas laterais de sua cabeça expelem antigravidade, que\npermite que ele flutue.",
-        "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。"
+        "zh-tw": "各裝置發射的電磁波\n在其頭部的兩側驅逐反重力，這\n讓它漂浮。",
+        ja: "左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Palla fulminea",
                 "de": "Blitzball",
                 "pt-br": "Bola Relâmpago",
-                "zh-tw": "閃電球"
+                "zh-tw": "閃電球",
+                ja: "ピッカリだま"
             },
             damage: 20,
             cost: ["Lightning"]

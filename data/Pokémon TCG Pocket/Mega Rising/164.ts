@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/164",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/164",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/164"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/164",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/164"
     },
     name: {
         en: "Morgrem",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pelzebub",
         "pt-br": "Morgrem",
         "zh-tw": "詐唬魔",
+        ja: "ギモー",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bähmon",
         "pt-br": "Impidimp",
         "zh-tw": "搗蛋小妖",
+        ja: "ベロバー",
     },
     description: {
         en: "This Pokémon absorbs negative emotions and\nturns them into energy. It's popular with people\nwho tend to think gloomy thoughts.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon assorbe le emozioni negative e\nli trasforma in energia. È popolare tra le persone\nche tendono ad avere pensieri cupi.",
         "de": "Dieses Pokémon absorbiert negative Emotionen und\nverwandelt sie in Energie. Es ist bei den Leuten beliebt\ndie dazu neigen, düstere Gedanken zu hegen.",
         "pt-br": "Este Pokémon absorve emoções negativas e\nos transforma em energia. É popular entre as pessoas\nque tendem a ter pensamentos sombrios.",
-        "zh-tw": "這個神奇寶貝吸收負面情緒並\n將它們轉化為能量。它很受人們歡迎\n他們往往會產生悲觀的想法。"
+        "zh-tw": "這個神奇寶貝吸收負面情緒並\n將它們轉化為能量。它很受人們歡迎\n他們往往會產生悲觀的想法。",
+        ja: "負の 感情を 吸い取って エネルギーにしている ポケモン。 マイナス思考の 人に 人気。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Falsa resa",
                 "de": "Falsche Kapitulation",
                 "pt-br": "Falsa Rendição",
-                "zh-tw": "假投降"
+                "zh-tw": "假投降",
+                ja: "どげざつき"
             },
             damage: 50,
             cost: ["Darkness", "Darkness"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Il danno di questo attacco non è influenzato da alcun effetto sul Pokémon attivo del tuo avversario.",
                 "de": "Der Schaden dieses Angriffs wird nicht durch Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
-                "zh-tw": "這次攻擊的傷害不受對手的活躍神奇寶貝的任何效果影響。"
+                "zh-tw": "這次攻擊的傷害不受對手的活躍神奇寶貝的任何效果影響。",
+                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
             }
         }],
     weaknesses: [{

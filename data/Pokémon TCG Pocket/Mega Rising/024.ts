@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/024"
     },
     name: {
         en: "Trevenant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Trombork",
         "pt-br": "Trevenant",
         "zh-tw": "朽木妖",
+        ja: "オーロット",
     },
     illustrator: "Hiroyuki Yamamoto",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Paragoni",
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
+        ja: "ボクレー",
     },
     description: {
         en: "Small roots that extend from the tips of this\nPokémon's feet can tie into the trees of the\nforest and give Trevenant control over them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Piccole radici che si estendono dalle punte di questo\nI piedi dei Pokémon possono legarsi agli alberi del\nforesta e dare a Trevenant il controllo su di loro.",
         "de": "Kleine Wurzeln, die von den Spitzen ausgehen\nDie Füße des Pokémon können an den Bäumen befestigt werden\nWald und geben Sie Trevenant die Kontrolle über sie.",
         "pt-br": "Pequenas raízes que se estendem das pontas deste\nOs pés dos Pokémon podem se amarrar nas árvores do\nfloresta e dê a Trevenant o controle sobre eles.",
-        "zh-tw": "從這個尖端伸出的小根\n神奇寶貝的腳可以綁在樹上\n森林並給予特雷文特對它們的控制權。"
+        "zh-tw": "從這個尖端伸出的小根\n神奇寶貝的腳可以綁在樹上\n森林並給予特雷文特對它們的控制權。",
+        ja: "足の 先から 細い 根っこを 伸ばして 森の 木々と 結びつき 自在に 操る 力を もつ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Sanguisuga di corno",
                 "de": "Hornblutegel",
                 "pt-br": "Sanguessuga de Chifre",
-                "zh-tw": "角水蛭"
+                "zh-tw": "角水蛭",
+                ja: "ウッドホーン"
             },
             damage: 60,
             cost: ["Grass", "Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 20 danni.",
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
+                ja: "このポケモンのHPを20回復。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/057"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/057"
     },
     name: {
         en: "Psyduck",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Psyduck",
         de: "Enton",
         'pt-br': "Psyduck",
+        ja: "コダック",
         ko: "고라파덕",
         "zh-tw": "可達鴨",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Emicrania",
                 de: "Kopfweh",
                 'pt-br': "Dor de Cabeça",
+                ja: "ずつう",
                 ko: "두통",
                 "zh-tw": "頭痛"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Il tuo avversario non può giocare le carte Aiuto che ha in mano durante il suo prossimo turno.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Unterstützerkarten aus seiner Hand spielen.",
                 'pt-br': "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele.",
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。",
                 ko: "상대의 다음 차례에 상대는 패에서 서포트를 꺼내서 사용할 수 없다.",
                 "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "È costantemente tormentato dal mal di testa.\nQuando il dolore si fa particolarmente\nintenso, inizia a usare strani poteri.",
         de: "Es wird permanent von Kopfschmerzen\ngeplagt. Wird der Schmerz stärker,\nsetzt es geheimnisvolle Kräfte ein.",
         'pt-br': "Sofre constantemente de dor de cabeça.\nQuando ela se intensifica, este Pokémon\ncomeça a usar poderes misteriosos.",
+        ja: "いつも 頭痛に 悩まされている。 この 頭痛が 激しくなると 不思議な 力を 使いはじめる。",
         ko: "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다.",
         "zh-tw": "它經常被頭痛所折磨。當頭痛變得劇烈時，它就會開始使用神秘的力量。"
     },

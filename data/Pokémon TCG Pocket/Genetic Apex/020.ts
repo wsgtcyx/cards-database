@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/020"
     },
     name: {
         en: "Victreebel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Victreebel",
         de: "Sarzenia",
         'pt-br': "Victreebel",
+        ja: "ウツボット",
         ko: "우츠보트",
         "zh-tw": "大食花",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Weepinbell",
         "de": "Ultrigaria",
         "pt-br": "Weepinbell",
-        "zh-tw": "口呆花"
+        "zh-tw": "口呆花",
+        ja: "ウツドン"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Trappola Aromatica",
                 de: "Aromafalle",
                 'pt-br': "Armadilha Cheirosa",
+                ja: "かおりのわな",
                 ko: "향기의 덫",
                 "zh-tw": "香味陷阱"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi scambiare uno dei Pokémon Base nella panchina del tuo avversario con il suo Pokémon in posizione attiva.",
                 de: "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du 1 Basis-Pokémon von der Bank deines Gegners in die Aktive Position einwechseln.",
                 'pt-br': "Se este Pokémon estiver no Campo Ativo, uma vez durante o seu turno, você poderá mandar 1 dos Pokémon Básicos no Banco do seu oponente para o Campo Ativo.",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。",
                 ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대 벤치의 기본 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
                 "zh-tw": "如果這只神奇寶貝位於活躍位置，則在你的回合中，你可以將對手的 1 只後備基本神奇寶貝切換到活躍位置。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Frustata",
                 de: "Rankenhieb",
                 'pt-br': "Chicote de Vinha",
+                ja: "つるのムチ",
                 ko: "덩굴채찍",
                 "zh-tw": "藤鞭"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Pare che viva in grandi colonie nel cuore della giungla,\nma nessuno è mai tornato da lì per raccontarlo.",
         de: "Dieses Pokémon soll in großen Kolonien\ntief im Dschungel leben, doch niemand\nkann dies bestätigen.",
         'pt-br': "Diz-se que vivem em enormes colônias nas\nprofundezas das florestas, embora ninguém\njamais tenha conseguido voltar de lá.",
+        ja: "ジャングルの 奥地に ウツボット ばかり いる 地帯が あって 行ったら ２度と 帰ってこれない。",
         ko: "정글의 안쪽에 우츠보트만\n있는 지대가 있어서\n한 번 가면 두 번 다시 돌아올 수 없다.",
         "zh-tw": "據說它們生活在叢林深處的巨大聚居地，儘管沒有人從那裡回來過。"
     },

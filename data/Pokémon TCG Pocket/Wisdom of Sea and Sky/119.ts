@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/119",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/119",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/119",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/119",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/119"
     },
     name: {
         en: "Tyranitar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Despotar",
         "pt-br": "Tyranitar",
         "zh-tw": "班基拉斯",
+        ja: "バンギラス",
     },
     illustrator: "Hasuno",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Pupitar",
         "pt-br": "Pupitar",
         "zh-tw": "沙基拉斯",
+        ja: "サナギラス",
     },
     description: {
         en: "Extremely strong, it can change the landscape.\nIt is so insolent that it doesn't care about others.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Estremamente forte, può cambiare il paesaggio.\nÈ così insolente che non si preoccupa degli altri.",
         "de": "Es ist extrem stark und kann die Landschaft verändern.\nEs ist so unverschämt, dass es sich nicht um andere kümmert.",
         "pt-br": "Extremamente forte, pode mudar a paisagem.\nÉ tão insolente que não se importa com os outros.",
-        "zh-tw": "極其強大，可以改變地貌。\n它太囂張了，根本不關心別人。"
+        "zh-tw": "極其強大，可以改變地貌。\n它太囂張了，根本不關心別人。",
+        ja: "あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Saccheggio energetico",
                 "de": "Energieplünderung",
                 "pt-br": "Pilhagem de energia",
-                "zh-tw": "能源掠奪"
+                "zh-tw": "能源掠奪",
+                ja: "ぶんどりエナジー"
             },
             effect: {
                 en: "Once during your turn, you may move all {D} Energy from each of your Pokémon to this Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi spostare tutte le {D} Energie da ciascuno dei tuoi Pokémon a questo Pokémon.",
                 "de": "Einmal während deines Zuges kannst du alle {D}-Energien von jedem deiner Pokémon auf dieses Pokémon übertragen.",
                 "pt-br": "Uma vez durante o seu turno, você pode mover todas as energias {D} de cada um dos seus Pokémon para este Pokémon.",
-                "zh-tw": "在你的回合中，你可以將每隻神奇寶貝的所有 {D} 能量移至該神奇寶貝。"
+                "zh-tw": "在你的回合中，你可以將每隻神奇寶貝的所有 {D} 能量移至該神奇寶貝。",
+                ja: "自分の番に1回使える。自分のポケモン全員から{D}エネルギーをすべて、このポケモンにつけ替える。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Buster Coda",
                 "de": "Buster Tail",
                 "pt-br": "Cauda Buster",
-                "zh-tw": "巴斯特尾巴"
+                "zh-tw": "巴斯特尾巴",
+                ja: "バスターテール"
             },
             damage: 130,
             cost: ["Darkness", "Darkness", "Darkness", "Colorless"]

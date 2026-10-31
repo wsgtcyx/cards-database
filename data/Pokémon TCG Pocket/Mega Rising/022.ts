@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/022"
     },
     name: {
         en: "Gogoat",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Chevrumm",
         "pt-br": "Gogoat",
         "zh-tw": "坐騎山羊",
+        ja: "ゴーゴート",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Mähikel",
         "pt-br": "Skiddo",
         "zh-tw": "坐騎小羊",
+        ja: "メェークル",
     },
     description: {
         en: "These Pokémon live in herds in mountainous\nplaces. The victor in their contests of clashing\nhorns will become the leader of the herd.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questi Pokémon vivono in branchi nelle zone montuose\nluoghi. Il vincitore nelle loro gare di scontro\nle corna diventeranno il capo del branco.",
         "de": "Diese Pokémon leben in Herden in den Bergen\nOrte. Der Sieger in ihren Auseinandersetzungen\nHörner werden zum Anführer der Herde.",
         "pt-br": "Esses Pokémon vivem em rebanhos em regiões montanhosas\nlugares. O vencedor em suas competições de confronto\nchifres se tornará o líder do rebanho.",
-        "zh-tw": "這些神奇寶貝成群生活在山區\n地方。他們衝突比賽中的勝利者\n角將成為牛群的領導者。"
+        "zh-tw": "這些神奇寶貝成群生活在山區\n地方。他們衝突比賽中的勝利者\n角將成為牛群的領導者。",
+        ja: "山岳地帯で 群れで 暮らす。 ツノを ぶつけあう 勝負に 勝った 個体が リーダーになる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Doppio bordo",
                 "de": "Doppelte Kante",
                 "pt-br": "Borda Dupla",
-                "zh-tw": "雙刃"
+                "zh-tw": "雙刃",
+                ja: "すてみタックル"
             },
             damage: 100,
             cost: ["Grass", "Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

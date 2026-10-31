@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/206",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/206",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/206",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/206"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/206",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/206"
     },
     name: {
         en: "Marshtomp",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Dà il meglio di sé nei terreni fangosi, dove approfitta della mobilità ridotta degli avversari per sopraffarli in un attimo.",
         de: "Auf instabilem, schlammigem Untergrund kann es sein wahres Potenzial entfalten. Feststeckende Gegner überwältigt es im Handumdrehen.",
         "pt-br": "Prefere terrenos lamacentos e escorregadios. Atordoa os oponentes presos na lama, incapazes de se mover.",
-        "zh-tw": "在泥濘的地上更能發揮\n真本事，會把無法動彈的\n對手一口氣逼入絕境。"
+        "zh-tw": "在泥濘的地上更能發揮\n真本事，會把無法動彈的\n對手一口氣逼入絕境。",
+        ja: "ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 40
         }

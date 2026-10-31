@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/003"
     },
     name: {
         en: "Wurmple",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Waumpel",
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
+        ja: "ケムッソ",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vive tra l'erba alta e nelle foreste. Respinge\nattacca sollevando gli spuntoni sul retro.",
         "de": "Er lebt im hohen Gras und in Wäldern. Es stößt ab\nEr greift an, indem er die Stacheln an seinem Rücken anhebt.",
         "pt-br": "Vive entre a grama alta e nas florestas. Isso repele\nataca levantando os espinhos em sua parte traseira.",
-        "zh-tw": "它生活在高高的草叢和森林中。它排斥\n通過抬起背部的尖刺進行攻擊。"
+        "zh-tw": "它生活在高高的草叢和森林中。它排斥\n通過抬起背部的尖刺進行攻擊。",
+        ja: "森や 草むらに 生息。 敵に 襲われた ときは お尻の 毒の トゲで 対抗する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 20,
             cost: ["Grass"]

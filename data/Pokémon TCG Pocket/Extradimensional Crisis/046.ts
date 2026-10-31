@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/046"
     },
     name: {
         en: "Alolan Diglett",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Digda",
         "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
+        ja: "アローラディグダ",
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La geologia ricca di metalli dell'habitat di questo Pokémon\ngli ha fatto sviluppare baffi d'acciaio sulla testa.",
         "de": "Die metallreiche Geologie des Lebensraums dieses Pokémon\nverursachte, dass es stählerne Barthaare auf seinem Kopf entwickelte.",
         "pt-br": "A geologia rica em metais do habitat deste Pokémon\nfez com que desenvolvesse bigodes de aço em sua cabeça.",
-        "zh-tw": "該神奇寶貝棲息地富含金屬的地質\n導致它的頭上長出了鋼須。"
+        "zh-tw": "該神奇寶貝棲息地富含金屬的地質\n導致它的頭上長出了鋼須。",
+        ja: "金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "È successo a Testata",
                 "de": "Ist beim Kopfstoß passiert",
                 "pt-br": "Aconteceu com cabeçada",
-                "zh-tw": "發生了頭撞事件"
+                "zh-tw": "發生了頭撞事件",
+                ja: "ひょっこりヘッド"
             },
             damage: 40,
             cost: ["Metal"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

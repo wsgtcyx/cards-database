@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/069"
     },
     name: {
         en: "Mr. Mime",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mr. Mime",
         de: "Pantimos",
         'pt-br': "Mr. Mime",
+        ja: "バリヤード",
         ko: "마임맨",
         "zh-tw": "魔牆人偶",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Molti studiosi ritengono che abbia sviluppato mani\ncosì grandi perché gli sono utili per la mimica.",
         de: "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann.",
         'pt-br': "Suas mãos talvez não sejam grandes\npor acaso: muitos cientistas acreditam que\nas palmas se alargaram para fazer mímica.",
+        ja: "大きな 手のひらは パントマイムを するために 発達 したと 考える 学者も 多い。",
         ko: "커다란 손바닥은 팬터마임을\n하기 위해 발달했다고\n생각하는 학자도 많다.",
         "zh-tw": "它的手如此寬大可能並非巧合——許多科學家認為它的手掌變大是為了表演啞劇。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Barriera Respingente",
                 de: "Barrierenschubser",
                 'pt-br': "Safanão de Barreira",
+                ja: "バリアプッシュ",
                 ko: "배리어푸시",
                 "zh-tw": "障礙推擠"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
             }

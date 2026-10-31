@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/103",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/103"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/103"
     },
     name: {
         en: "Mega Ampharos ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Lancia Folgorante",
                 de: "Blitzlanze",
                 "pt-br": "Lanceiro Relâmpago",
-                "zh-tw": "雷電槍矛"
+                "zh-tw": "雷電槍矛",
+                ja: "ライトニングランサー"
             },
             effect: {
                 en: "1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "1 dei Pokémon nella panchina del tuo avversario viene scelto casualmente 3 volte. Per ogni volta che viene scelto un Pokémon, infliggigli anche 20 danni.",
                 de: "1 Pokémon auf der Bank deines Gegners wird dreimal zufällig ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente 3 vezes. Para cada vez que um Pokémon for escolhido, cause também 20 de dano a ele.",
-                "zh-tw": "隨機選擇對手 1 只後備寶可夢 3 次。每次選擇一隻寶可夢，也會對其造成 20 點傷害。"
+                "zh-tw": "隨機選擇對手 1 只後備寶可夢 3 次。每次選擇一隻寶可夢，也會對其造成 20 點傷害。",
+                ja: "相手のベンチポケモンがランダムに3回選ばれ、選ばれたポケモン全員にも、選ばれた回数×20ダメージ。"
             },
             damage: 100
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/013",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/013"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/013"
     },
     name: {
         en: "Budew",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È sensibile agli sbalzi di temperatura.\nQuando le sue gemme si schiudono\nè segno che la primavera è vicina.",
         de: "Es hat ein feines Gespür für die kleinsten\nTemperaturveränderungen. Wenn sich seine\nKnospe öffnet, bricht bald der Frühling an.",
         "pt-br": "Este Pokémon é altamente sensível às mudanças de temperatura. Quando seu botão começa a se abrir, isso significa que a primavera está chegando.",
-        "zh-tw": "對氣溫的變化很敏感。\n當牠開始打開花苞，\n便是冬去春來之時。"
+        "zh-tw": "對氣溫的變化很敏感。\n當牠開始打開花苞，\n便是冬去春來之時。",
+        ja: "気温の 変化に 敏感。 つぼみが 開きはじめたら 春の 訪れは もうすぐだ。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Polvere Urticante",
                 de: "Stechender Puder",
                 "pt-br": "Pó Pinicante",
-                "zh-tw": "痛痛粉"
+                "zh-tw": "痛痛粉",
+                ja: "ひりひりパウダー"
             },
             effect: {
                 en: "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Il Pokémon difensore perde tutte le abilità. Questo effetto dura finché il Pokémon difensore non lascia il punto attivo.",
                 de: "Das verteidigende Pokémon verliert alle Fähigkeiten. Dieser Effekt hält an, bis das verteidigende Pokémon den aktiven Bereich verlässt.",
                 "pt-br": "O Pokémon Defensor perde todas as Habilidades. Este efeito dura até que o Pokémon Defensor deixe o Ponto Ativo.",
-                "zh-tw": "防守的寶可夢失去所有能力。此效果持續到防守寶可夢離開活動地點為止。"
+                "zh-tw": "防守的寶可夢失去所有能力。此效果持續到防守寶可夢離開活動地點為止。",
+                ja: "このワザを受けたポケモンの特性を、すべてなくす。この効果は、このワザを受けたポケモンがバトル場をはなれるまで続く。"
             },
             damage: 10
         }

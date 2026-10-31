@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/004"
     },
     name: {
         en: "Combee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Combee",
         de: "Wadribie",
         'pt-br': "Combee",
+        ja: "ミツハニー",
         ko: "세꿀버리",
         "zh-tw": "三蜜蜂",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Scesa la notte, formano dei grandi alveari di\ncirca 100 esemplari e dormono raggruppati.",
         de: "Des Nachts schmiegen sich bis zu 100 Wadribie\naneinander und formieren sich so zum Schlafen\nzu einem großen Gebilde.",
         'pt-br': "À noite, Combee dormem amontados\nem grupos de aproximadamente cem indivíduos.",
+        ja: "夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。",
         ko: "밤이 되면 100마리 정도의\n세꿀버리가 모여\n커다란 덩어리가 되어 잠잔다.",
         "zh-tw": "晚上，科比大約有一百隻，緊密地擠在一起睡覺。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Coleomorso",
                 de: "Käferbiss",
                 'pt-br': "Picada",
+                ja: "むしくい",
                 ko: "벌레먹기",
                 "zh-tw": "蟲咬"
             },

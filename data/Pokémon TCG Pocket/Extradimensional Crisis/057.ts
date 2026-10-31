@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/057",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/057"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/057"
     },
     name: {
         en: "Stufful",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Velursi",
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
+        ja: "ヌイコグマ",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua soffice pelliccia è un piacere da accarezzare, ma si allunga con noncuranza\ntoccare questo Pokémon potrebbe provocare dolorose ritorsioni.",
         "de": "Es ist eine Freude, sein flauschiges Fell zu streicheln, wenn man es jedoch achtlos ausstreckt\nDas Berühren dieses Pokémon könnte zu einer schmerzhaften Vergeltung führen.",
         "pt-br": "Seu pelo fofo é uma delícia para acariciar, mas estende a mão descuidadamente\ntocar neste Pokémon pode resultar em retaliação dolorosa.",
-        "zh-tw": "它蓬鬆的皮毛讓寵物很高興，但不小心伸出手\n觸摸這只神奇寶貝可能會導致痛苦的報復。"
+        "zh-tw": "它蓬鬆的皮毛讓寵物很高興，但不小心伸出手\n觸摸這只神奇寶貝可能會導致痛苦的報復。",
+        ja: "ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

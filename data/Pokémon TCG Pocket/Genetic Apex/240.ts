@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/240",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/240",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/240",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/240"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/240",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/240"
     },
     name: {
         en: "Nidoqueen",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidoqueen",
         de: "Nidoqueen",
         'pt-br': "Nidoqueen",
+        ja: "ニドクイン",
         ko: "니드퀸",
         "zh-tw": "尼多后",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Nidorina",
         "de": "Nidorina",
         "pt-br": "Nidorina",
-        "zh-tw": "尼多娜"
+        "zh-tw": "尼多娜",
+        ja: "ニドリーナ"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Colpo di Fulmine",
                 de: "Liebestaumel",
                 'pt-br': "Ataque de Amor",
+                ja: "ラブラブアタック",
                 ko: "러브러브어택",
                 "zh-tw": "愛情罷工"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni in più per ogni Nidoking nella tua panchina.",
                 de: "Diese Attacke fügt für jedes Nidoking auf deiner Bank 50 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a mais para cada um dos seus Nidoking no Banco.",
+                ja: "自分のベンチの「ニドキング」の数×50ダメージ追加。",
                 ko: "자신의 벤치의 「니드킹」의 수 × 50데미지를 추가한다.",
                 "zh-tw": "此攻擊對你的每個後備尼多王造成 50 點額外傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Più abile nella difesa che nell'attacco,\nprotegge i cuccioli da qualunque\nattacco grazie alla corazza di squame.",
         de: "Sie sind eher defensiv als offensiv veranlagt.\nMit ihren panzerartigen Schuppen schützen sie\nihre Jungen vor jeglichen Angriffen.",
         'pt-br': "Nidoqueen é melhor na defensiva. Com suas\nescamas parecidas com uma armadura,\nprotege seus filhotes de qualquer ataque.",
+        ja: "攻めるよりも 守るほうが 得意。 鎧のような ウロコで いかなる 攻撃からも 子どもを 守る。",
         ko: "공격보다는 방어가 특기다.\n갑옷 같은 비늘로 어떠한\n공격에도 새끼를 지킨다.",
         "zh-tw": "尼多女王更擅長防守而不是進攻。這款神奇寶貝擁有像盔甲一樣的鱗片，可以保護它的孩子免受任何類型的攻擊。"
     },

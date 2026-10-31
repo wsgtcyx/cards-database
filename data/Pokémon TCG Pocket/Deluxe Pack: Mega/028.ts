@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/028",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/028"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/028"
     },
     name: {
         en: "Teal Mask Ogerpon ex",
@@ -43,7 +44,7 @@ const card: Card = {
                 de: "Wohltuender Wind",
                 "pt-br": "Vento Acalentador",
                 "zh-tw": "平和之風",
-                ja: "Soothing Wind",
+                ja: "やすらぎのかぜ",
                 ko: "Soothing Wind"
             },
             effect: {
@@ -54,7 +55,7 @@ const card: Card = {
                 de: "Jedes deiner Pokémon, an das mindestens 1 Energie angelegt ist, erholt sich von allen Speziellen Zuständen und kann von keinen Speziellen Zuständen betroffen werden.",
                 "pt-br": "Cada um dos seus Pokémon que tiver alguma Energia ligada a ele se recupera de todas as Condições Especiais e não pode ser afetado por quaisquer Condições Especiais.",
                 "zh-tw": "只要這隻寶可夢在場上,自己的所有身上附有能量的寶可夢不會陷入特殊狀態,並將受到的特殊狀態全部恢復。",
-                ja: "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.",
+                ja: "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員は、特殊状態にならず、受けている特殊状態は、すべて回復。",
                 ko: "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
             }
         }
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Energiegeladene Blätter",
                 "pt-br": "Folhas Energizadas",
                 "zh-tw": "能量綠葉",
-                ja: "Energized Leaves",
+                ja: "エナジーリーフ",
                 ko: "Energized Leaves"
             },
             damage: "60+",
@@ -85,7 +86,7 @@ const card: Card = {
                 de: "Wenn die Anzahl der Energien, die an beide Aktiven Pokémon angelegt sind, 5 oder mehr ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se a quantidade de Energia ligada a ambos os Pokémon Ativos for 5 ou mais, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若雙方的戰鬥寶可夢身上的能量為5個以上,則增加60點傷害。",
-                ja: "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage.",
+                ja: "おたがいのバトルポケモンのエネルギーが5個以上なら、60ダメージ追加。",
                 ko: "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
             }
         }

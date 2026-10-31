@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/226",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/226",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/226"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/226",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/226"
     },
     name: {
         en: "Cubone",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cubone",
         de: "Tragosso",
         'pt-br': "Cubone",
+        ja: "カラカラ",
         ko: "탕구리",
         "zh-tw": "卡拉卡拉",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando piange pensando alla madre defunta,\ni suoi lamenti riecheggiano tristemente\nall'interno del teschio che ha in testa.",
         de: "Denkt Tragosso an seine verstorbene Mutter,\nso weint es. Sein Schluchzen hallt dabei in dem\nSchädel auf seinem Kopf klagend wider.",
         'pt-br': "Quando a memória de sua falecida mãe traz\nlágrimas aos seus olhos, seu choro ecoa com\ntristeza pelo crânio que usa em sua cabeça.",
+        ja: "死に別れた 母親を 思い出し 泣くと 頭に 被った 骨の 中で 物悲しく 響くのだ。",
         ko: "죽은 어머니를 떠올리며 울면\n머리에 쓴 뼈 안에서\n울음소리가 구슬프게 퍼진다.",
         "zh-tw": "當它想起死去的母親時，它會流下眼淚，它的哭聲會在頭戴的頭骨中悲傷地迴響。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ruggito",
                 de: "Heuler",
                 'pt-br': "Rosnadura",
+                ja: "なきごえ",
                 ko: "울음소리",
                 "zh-tw": "咆哮"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
                 de: "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon − 20 Schadenspunkte zu.",
                 'pt-br': "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，防御神奇寶貝使用的攻擊造成−20點傷害。"
             }

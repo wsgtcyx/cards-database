@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/214",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/214",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/214",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/214"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/214",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/214"
     },
     name: {
         en: "Plume Fossil",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Federfossil",
         "pt-br": "Fóssil Pluma",
         "zh-tw": "羽毛化石",
+        ja: "はねの化石",
     },
     illustrator: "Ryo Ueda",
     rarity: "One Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Gioca questa carta come se fosse un Pokémon Base {C} da 40 PS.\nIn qualsiasi momento durante il tuo turno, puoi scartare questa carta dal gioco.\nQuesta carta non può ritirarsi.",
         "de": "Spiele diese Karte, als wäre sie ein 40-HP-Basis-{C}-Pokémon.\nWährend deines Zuges kannst du diese Karte jederzeit aus dem Spiel abwerfen.\nDiese Karte kann nicht zurückgezogen werden.",
         "pt-br": "Jogue esta carta como se fosse um Pokémon Básico {C} de 40 HP.\nA qualquer momento durante o seu turno, você pode descartar esta carta do jogo.\nEsta carta não pode recuar.",
-        "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。"
+        "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。",
+        ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。"
     },
     trainerType: "Item"
 };

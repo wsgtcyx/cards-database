@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/331",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/331",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/331",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/331"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/331",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/331"
     },
     name: {
         en: "Zarude",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Reißen die an seinem Körper wachsenden Ranken ab, werden sie zu Nährstoffen für den Boden, was den Pflanzen im Wald zum Wachstum verhilft.",
         "pt-br": "Ao se soltarem do corpo de Zarude, seus cipós se tornam nutrientes para o solo, ajudando as plantas da floresta a crescer.",
         "zh-tw": "生長在身上的藤蔓斷落後會化為土壤的養分，孕育森林裡的各種植物。",
-        ja: "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
+        ja: "体に 生える ツルは ちぎれると 土の 栄養分となって 森の 植物たちを 育てるのだ。",
         ko: "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Finstere Vergeltung",
                 "pt-br": "Vingança Umbrosa",
                 "zh-tw": "暗黑報復",
-                ja: "Dark Vengeance",
+                ja: "ダークリベンジ",
                 ko: "Dark Vengeance"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Wenn mindestens 1 deiner {D}-Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se algum dos seus Pokémon {D} tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "在上個對手的回合,若自己的{D}寶可夢因招式的傷害而昏厥了,則增加80點傷害。",
-                ja: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage.",
+                ja: "前の相手の番、ワザのダメージで、自分の{D}ポケモンがきぜつしていたなら、80ダメージ追加。",
                 ko: "If any of your {D} Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage."
             },
             damage: "40+"

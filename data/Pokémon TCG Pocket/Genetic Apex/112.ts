@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/112",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/112",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/112",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/112"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/112",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/112"
     },
     name: {
         en: "Pincurchin",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pincurchin",
         de: "Britzigel",
         'pt-br': "Pincurchin",
+        ja: "バチンウニ",
         ko: "찌르성게",
         "zh-tw": "啪嚓海膽",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Tuonoshock",
                 de: "Donnerschock",
                 'pt-br': "Trovoada de Choques",
+                ja: "でんきショック",
                 ko: "전기쇼크",
                 "zh-tw": "雷霆震擊"
             },
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Mentre digerisce il cibo, genera elettricità.\nUsa i cinque durissimi denti per raschiare\nvia dalle cose le alghe di cui si nutre.",
         de: "Bei der Verdauung erzeugt es Elektrizität.\nMit seinen fünf harten Zähnen schabt es\nAlgen von Oberflächen ab und frisst sie.",
         'pt-br': "Este Pokémon gera eletricidade ao digerir comida.\nUsa seus cinco dentes rígidos para raspar alga\nmarinha de superfícies e se alimentar.",
+        ja: "エサを 消化するときに 電気を 生みだす。 ５本の 硬い 歯で 海藻を こそぎ落とし 食べる。",
         ko: "먹이를 소화시킬 때 전기를 만들어 낸다.\n5개의 단단한 이빨로\n해초를 갉아 먹는다.",
         "zh-tw": "該神奇寶貝在消化食物時會產生電力。它用五顆堅硬的牙齒刮掉表面的海藻並吃掉它。"
     },

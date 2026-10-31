@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/072"
     },
     name: {
         en: "Irida",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Perula",
         de: "Perla",
         'pt-br': "Irida",
+        ja: "カイ",
         ko: "주혜",
         "zh-tw": "珠貝",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura ciascuno dei tuoi Pokémon che abbia delle Energie {W} assegnate da 40 danni.",
         de: "Heile 40 Schadenspunkte bei jedem deiner Pokémon, an das mindestens 1 {W}-Energie angelegt ist.",
         'pt-br': "Cure 40 pontos de dano de cada um dos seus Pokémon que tiver alguma Energia {W} ligada.",
+        ja: "{W}エネルギーがついている自分のポケモン全員のHPを40回復。",
         ko: "{W}에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 40회복.",
         "zh-tw": "每隻帶有 {W} 能量的神奇寶貝可治療 40 點傷害。"
     },

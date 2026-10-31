@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/140",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/140",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/140"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/140",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/140"
     },
     name: {
         en: "Crabominable",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Krawell",
         "pt-br": "Crabominable",
         "zh-tw": "好勝毛蟹",
+        ja: "ケケンカニ",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Krabbox",
         "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
+        ja: "マケンカニ",
     },
     description: {
         en: "Though its punches are powerful, this Pokémon's\nmovements are sluggish. It blows icy bubbles\nfrom its mouth to immobilize its opponents.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Anche se i suoi pugni sono potenti, quelli di questo Pokémon\ni movimenti sono lenti. Soffia bolle ghiacciate\ndalla bocca per immobilizzare i suoi avversari.",
         "de": "Obwohl seine Schläge mächtig sind, sind die dieses Pokémon\nBewegungen sind träge. Es bläst eisige Blasen\naus seinem Mund, um seine Gegner bewegungsunfähig zu machen.",
         "pt-br": "Embora seus socos sejam poderosos, a habilidade deste Pokémon\nos movimentos são lentos. Sopra bolhas geladas\nde sua boca para imobilizar seus oponentes.",
-        "zh-tw": "雖然它的拳頭很強大，但這只神奇寶貝的\n動作遲緩。它吹出冰冷的泡泡\n從它的嘴裡發出來使對手動彈不得。"
+        "zh-tw": "雖然它的拳頭很強大，但這只神奇寶貝的\n動作遲緩。它吹出冰冷的泡泡\n從它的嘴裡發出來使對手動彈不得。",
+        ja: "パンチは 強力だが 動きが 遅い。 口から 氷の 泡を 吹いて 相手の 動きを 止める。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pugno dell'ultima possibilità",
                 "de": "Schlag der letzten Chance",
                 "pt-br": "Soco de última chance",
-                "zh-tw": "最後機會重拳"
+                "zh-tw": "最後機會重拳",
+                ja: "ギリギリパンチ"
             },
             damage: "30+",
             cost: ["Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se i PS rimanenti di questo Pokémon sono 30 o meno, questo attacco infligge 60 danni in più.",
                 "de": "Wenn die verbleibenden HP dieses Pokémon 30 oder weniger betragen, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se o HP restante deste Pokémon for 30 ou menos, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果這只寶可夢的剩餘生命值在 30 以下，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果這只寶可夢的剩餘生命值在 30 以下，則這次攻擊造成的傷害增加 60 點。",
+                ja: "このポケモンの残りHPが30以下なら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/233",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/233",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/233",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/233"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/233",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/233"
     },
     name: {
         en: "Leafeon ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Folipurba-ex",
         "pt-br": "Leafeon ex",
         "zh-tw": "葉伊布ex",
+        ja: "リーフィアex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Respiro della foresta",
                 "de": "Waldatem",
                 "pt-br": "Respiração da Floresta",
-                "zh-tw": "森林呼吸"
+                "zh-tw": "森林呼吸",
+                ja: "もりのいぶき"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi prendere un'Energia {G} dalla tua Zona Energetica e assegnarla a 1 dei tuoi Pokémon {G}.",
                 "de": "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du eine {G}-Energie aus deiner Energiezone nehmen und sie an 1 deiner {G}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá pegar uma Energia {G} da sua Zona de Energia e ligá-la a 1 dos seus {G} Pokémon.",
-                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活動位置，你可以從你的能量區取出一個 {G} 能量並將其附加到你的 1 只 {G} 神奇寶貝上。"
+                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活動位置，你可以從你的能量區取出一個 {G} 能量並將其附加到你的 1 只 {G} 神奇寶貝上。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のエネルギーゾーンから{G}エネルギーを1個出し、{G}ポケモンにつける。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Raggio solare",
                 "de": "Sonnenstrahl",
                 "pt-br": "Raio Solar",
-                "zh-tw": "太陽光束"
+                "zh-tw": "太陽光束",
+                ja: "ソーラービーム"
             },
             damage: 70,
             cost: ["Grass", "Colorless", "Colorless"]

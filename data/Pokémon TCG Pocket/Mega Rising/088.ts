@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/088"
     },
     name: {
         en: "Luxray",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Luxtra",
         "pt-br": "Luxray",
         "zh-tw": "倫琴貓",
+        ja: "レントラー",
     },
     illustrator: "Ryota Murayama",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Luxio",
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
+        ja: "ルクシオ",
     },
     description: {
         en: "Luxray's ability to see through objects comes in\nhandy when it's scouting for danger.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Entra in gioco la capacità di Luxray di vedere attraverso gli oggetti\nutile quando cerca il pericolo.",
         "de": "Luxrays Fähigkeit, durch Objekte zu sehen, kommt zum Tragen\npraktisch, wenn es darum geht, nach Gefahren Ausschau zu halten.",
         "pt-br": "A capacidade do Luxray de ver através dos objetos entra em ação\nútil quando está procurando perigo.",
-        "zh-tw": "Luxray 具有透視物體的能力\n當它偵察危險時很方便。"
+        "zh-tw": "Luxray 具有透視物體的能力\n當它偵察危險時很方便。",
+        ja: "レントラーの 透視能力は 危険な ものを 発見するとき とても 役に立つのだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Impatto flash",
                 "de": "Blitzeinschlag",
                 "pt-br": "Impacto Flash",
-                "zh-tw": "閃光衝擊"
+                "zh-tw": "閃光衝擊",
+                ja: "フラッシュインパクト"
             },
             damage: 110,
             cost: ["Lightning", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 20 danni a 1 dei tuoi Pokémon in panchina.",
                 "de": "Dieser Angriff fügt außerdem 1 deiner Bank-Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a 1 dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你後備的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊還會對你後備的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "自分のベンチポケモン1匹にも20ダメージ。"
             }
         }],
     weaknesses: [{

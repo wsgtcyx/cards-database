@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/044"
     },
     name: {
         en: "Magikarp",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un Pokémon sottodimensionato e patetico. Potrebbe\nsaltare in alto in rare occasioni ma mai di più\npiù di sette piedi.",
         "de": "Ein schwaches, erbärmliches Pokémon. Es kann sein\nSpringe in seltenen Fällen hoch, aber nie öfter\nals sieben Fuß.",
         "pt-br": "Um Pokémon patético e pouco poderoso. Pode\npular alto em raras ocasiões, mas nunca mais\ndo que sete pés.",
-        "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。"
+        "zh-tw": "力量不足、可憐的神奇寶貝。它可能\n偶爾會跳得很高，但絕不會更多\n超過七英尺。",
+        ja: "力のない 情けない ポケモン。 たまに 高く 飛び跳ねても 2メートルを 超すのが やっとだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Schivata schizzata",
                 "de": "Spritzender Dodge",
                 "pt-br": "Salpicos de esquiva",
-                "zh-tw": "潑水道奇"
+                "zh-tw": "潑水道奇",
+                ja: "はねてかわす"
             },
             damage: 10,
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     weaknesses: [{

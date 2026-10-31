@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/322",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/322",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/322",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/322"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/322",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/322"
 	},
 	name: {
         en: "Rocky Helmet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Beulenhelm",
         "pt-br": "Capacete de Pedra",
         "zh-tw": "凸凸頭盔",
+        ja: "ゴツゴツメット",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Se il Pokémon a cui è assegnata questa carta è in posizione attiva e viene danneggiato da un attacco dei Pokémon del tuo avversario, infliggi 20 danni al Pokémon attaccante.",
         "de": "Wenn sich das Pokémon, an das diese Karte angelegt ist, an der aktiven Stelle befindet und durch einen Angriff des Pokémon deines Gegners beschädigt wird, füge dem angreifenden Pokémon 20 Schadenspunkte zu.",
         "pt-br": "Se o Pokémon ao qual esta carta está ligada estiver no Ponto Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
-        "zh-tw": "這張卡所附著的寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害時，對攻擊的寶可夢造成 20 點傷害。"
+        "zh-tw": "這張卡所附著的寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害時，對攻擊的寶可夢造成 20 點傷害。",
+        ja: "このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。"
     },
     trainerType: "Tool"
 };

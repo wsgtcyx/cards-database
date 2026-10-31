@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/178",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/178",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/178",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/178"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/178",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/178"
     },
     name: {
         en: "Murkrow",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
+        ja: "ヤミカラス",
     },
     illustrator: "kamonabe",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si ritiene che sia temuto e odiato da molti\nportare sfortuna a tutti coloro che lo vedono di notte.",
         "de": "Es wird angenommen, dass es von vielen gefürchtet und verabscheut wird\nBring Unglück über alle, die es nachts sehen.",
         "pt-br": "Temido e odiado por muitos, acredita-se que\ntraga infortúnio a todos aqueles que o vêem à noite.",
-        "zh-tw": "人們相信它受到許多人的恐懼和厭惡\n給夜間看到它的人帶來不幸。"
+        "zh-tw": "人們相信它受到許多人的恐懼和厭惡\n給夜間看到它的人帶來不幸。",
+        ja: "夜 姿を 見かけると 不吉なことが 起きると 信じられ 忌み嫌われている ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Stupire",
                 "de": "Erstaunen",
                 "pt-br": "Surpreender",
-                "zh-tw": "震驚"
+                "zh-tw": "震驚",
+                ja: "おどろかす"
             },
             cost: ["Darkness"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il tuo avversario rivela una carta casuale dalla sua mano e la mescola nel suo mazzo.",
                 "de": "Wirf eine Münze. Bei „Kopf“ deckt dein Gegner eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck.",
                 "pt-br": "Jogue uma moeda. Se der cara, seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則對手從手中隨機展示一張牌並將其洗入牌庫。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則對手從手中隨機展示一張牌並將其洗入牌庫。",
+                ja: "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。"
             }
         }],
     weaknesses: [{

@@ -1,0 +1,1361 @@
+{
+  "schemaVersion": 1,
+  "operation": "apply-reviewed-pocket-localizations",
+  "mode": "dry-run",
+  "baseRef": "480ae98de02f64219e80b44bb0ede0ea1e04a128",
+  "decisionArtifactFile": "meta/pocket-source-reviews/ja/reaudit.decisions.json",
+  "decisionArtifactSha256": "389c26b0cefb721f03a24d2f0ad41f5244496512f32a237aa3e82f543b9ea396",
+  "predecessors": [],
+  "sources": [
+    {
+      "id": "pack-name",
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-pack-name.json",
+      "sha256": "5b91196eb01a2aab02ae0994ab78c7d3ce2bca262f94b071eb9f358a42e2a8bb"
+    },
+    {
+      "id": "reaudit-reviewed-rules",
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-reviewed-rules.json",
+      "sha256": "48f5543de5282eb1831ace6d832f0b761b5d518507b06496661d539f93c9d999"
+    },
+    {
+      "id": "reaudit-rules",
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-rules.json",
+      "sha256": "6d6df7bb80531abb19362bdb3406cc81499baf430d8b94a2bb2e1f53480ff456"
+    }
+  ],
+  "summary": {
+    "decisions": 147,
+    "files": 147,
+    "changedDecisions": 147,
+    "alreadyAppliedDecisions": 0,
+    "changedFiles": 147,
+    "fills": 0,
+    "corrections": 147,
+    "tokenExceptions": 0
+  },
+  "results": [
+    {
+      "entityKind": "card",
+      "entityId": "A3-034",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/034.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-100",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/100.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-107",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-121",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/121.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-145",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/145.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3-220",
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians/220.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1a-050",
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/050.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-010",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/010.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-022",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/022.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-098",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/098.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-257",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/257.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-258",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/258.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-285",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/285.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-286",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/286.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-316",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/316.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-317",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/317.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-336",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/336.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4b-337",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: ex/337.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-012",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-074",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/074.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-136",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/136.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-167",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/167.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-172",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/172.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-177",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/177.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-180",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/180.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-188",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/188.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-231",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/231.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-285",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/285.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-349",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/349.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-352",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/352.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-358",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/358.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-397",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/397.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-410",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/410.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4b-429",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/429.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-064",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/064.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-092",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/092.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-108",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "C1-149",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion/149.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-005",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-055",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-059",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3b-078",
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-054",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/054.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-058",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/058.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3b-105",
+      "file": "data/Pokémon TCG Pocket/Everyday Wonders/105.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-012",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-037",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A3a-073",
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-035",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/035.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-081",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/081.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-094",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/094.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-108",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/108.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-124",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-136",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/136.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-175",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/175.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2-204",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/204.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-078",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-178",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/178.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-192",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/192.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-196",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-197",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/197.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-209",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-233",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/233.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-246",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/246.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1-249",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex/249.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-010",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/010.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-051",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/051.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-201",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/201.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-312",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/312.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B1-313",
+      "file": "data/Pokémon TCG Pocket/Mega Rising/313.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2b-061",
+      "file": "data/Pokémon TCG Pocket/Mega Shine/061.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-018",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/018.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-023",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/023.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-033",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/033.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-064",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/064.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A1a-076",
+      "file": "data/Pokémon TCG Pocket/Mythical Island/076.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-065",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/065.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-093",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/093.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-126",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/126.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-127",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/127.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B2a-128",
+      "file": "data/Pokémon TCG Pocket/Paldean Wonders/128.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-002",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/002.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-036",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/036.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-084",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/084.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3a-092",
+      "file": "data/Pokémon TCG Pocket/Paradox Drive/092.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-012",
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-068",
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-093",
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-096",
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-A-110",
+      "file": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "set",
+      "entityId": "P-B",
+      "file": "data/Pokémon TCG Pocket/Promos-B.ts",
+      "path": "boosters[\"vol13\"].name",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-017",
+      "file": "data/Pokémon TCG Pocket/Promos-B/017.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-040",
+      "file": "data/Pokémon TCG Pocket/Promos-B/040.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-066",
+      "file": "data/Pokémon TCG Pocket/Promos-B/066.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-048",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/048.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-124",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-126",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/126.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-187",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/187.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-188",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/188.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-200",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/200.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-201",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/201.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B3-203",
+      "file": "data/Pokémon TCG Pocket/Pulsing Aura/203.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-028",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/028.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-118",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/118.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-124",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/124.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-207",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/207.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-007",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-010",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-020",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-025",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-079",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-080",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-081",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-087",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-088",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4a-090",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-003",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-079",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2b-107",
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/107.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-007",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/007.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-021",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/021.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-123",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/123.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-140",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/140.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-146",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/146.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-175",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/175.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-180",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/180.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2-196",
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown/196.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4a-033",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition/033.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-031",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/031.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-034",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-070",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/070.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A2a-078",
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/078.ts",
+      "path": "abilities[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-048",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/048.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-054",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/054.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-057",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/057.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-077",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/077.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-113",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/113.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-118",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/118.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-134",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/134.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-158",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/158.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-170",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/170.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-178",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/178.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-198",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/198.ts",
+      "path": "effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-231",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/231.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-232",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/232.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    },
+    {
+      "entityKind": "card",
+      "entityId": "A4-234",
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/234.ts",
+      "path": "attacks[0].effect",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    }
+  ]
+}

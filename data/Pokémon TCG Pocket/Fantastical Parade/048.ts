@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/048"
     },
     name: {
         en: "Wellspring Mask Ogerpon",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Maschera della Sorgente Ogerpon",
         "de": "Quellmaske Ogerpon",
         "pt-br": "Ogerpon Máscara Nascente",
-        "zh-tw": "厄鬼椪水井面具"
+        "zh-tw": "厄鬼椪水井面具",
+        ja: "オーガポンいどのめん"
     },
     illustrator: "Mina Nakai",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "In questa forma, attinge al potere dell'acqua.\nAttacca instancabilmente con calci e colpi di edera.",
         "de": "In dieser Form nutzt es die Kraft des Wassers.\nEs greift unerbittlich mit Tritten und Efeuschlägen an.",
         "pt-br": "Nesta forma, utiliza o poder da água.\nEle ataca implacavelmente com chutes e golpes de hera.",
-        "zh-tw": "在這種形式下，它利用了水的力量。\n它用腳踢和常春藤攻擊進行無情的攻擊。"
+        "zh-tw": "在這種形式下，它利用了水的力量。\n它用腳踢和常春藤攻擊進行無情的攻擊。",
+        ja: "水の力を 引き出す 姿。 蹴り技と ツタによる 打撃を 途切れなく 仕掛け続ける。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Danza della Sorgente",
                 "de": "Quelltanz",
                 "pt-br": "Dança da Fonte",
-                "zh-tw": "泉水舞"
+                "zh-tw": "泉水舞",
+                ja: "いどのまい"
             },
             damage: 40,
             cost: ["Water", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge anche 40 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff außerdem 1 Pokémon auf der Bank deines Gegners 40 Schadenspunkte zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque também causará 40 de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊也會對對手的 1 只後備神奇寶貝造成 40 點傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊也會對對手的 1 只後備神奇寶貝造成 40 點傷害。",
+                ja: "コインを1回投げオモテなら、相手のベンチポケモン1匹にも40ダメージ。"
             }
         }],
     weaknesses: [{

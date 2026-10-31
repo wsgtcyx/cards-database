@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/050"
     },
     name: {
         en: "Revavroom",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Revavroom minaccia ferocemente gli altri con il suono del suo scarico. Tira fuori la lingua dalla bocca cilindrica e spruzza fluidi tossici.",
         de: "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
-        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。"
+        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Trasporto di metalli",
                 de: "Metalltransport",
                 "pt-br": "Transporte Metálico",
-                "zh-tw": "金屬搬運"
+                "zh-tw": "金屬搬運",
+                ja: "メタルキャリー"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active {M} Pokémon with 1 of your Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi scambiare il tuo Pokémon attivo {M} con 1 dei tuoi Pokémon in panchina.",
                 de: "Einmal während deines Zuges kannst du dein aktives {M}-Pokémon gegen 1 deiner Bank-Pokémon austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar seu Pokémon Ativo {M} por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "在你的回合中，你可以將你的活躍 {M} 寶可夢與你的 1 個後備寶可夢交換。"
+                "zh-tw": "在你的回合中，你可以將你的活躍 {M} 寶可夢與你的 1 個後備寶可夢交換。",
+                ja: "自分の番に1回使える。自分のバトル場の{M}ポケモンを、ベンチポケモンと入れ替える。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Corsa Senza Freni",
                 de: "Furioses Flitzen",
                 "pt-br": "Investida Desgovernada",
-                "zh-tw": "暴躁衝刺"
+                "zh-tw": "暴躁衝刺",
+                ja: "あらくれダッシュ"
             },
             damage: 60
         }

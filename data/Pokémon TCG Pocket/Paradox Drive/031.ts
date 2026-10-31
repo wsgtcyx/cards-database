@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/031"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/031"
     },
     name: {
         en: "Nacli",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il terreno raschia il suo corpo mentre viaggia, facendogli lasciare dietro di sé sale. Il sale viene costantemente creato e reintegrato all'interno del corpo di Nacli.",
         de: "Der Boden schabt auf seiner Reise an seinem Körper, wodurch Salz zurückbleibt. Im Körper von Geosali wird ständig Salz erzeugt und erneuert.",
         "pt-br": "O chão raspa seu corpo enquanto ele viaja, deixando sal para trás. O sal é constantemente criado e reabastecido dentro do corpo de Nacli.",
-        "zh-tw": "當它行進時，地面會刮傷它的身體，導致它留下鹽分。鹽在鹽石寶的體內不斷產生和補充。"
+        "zh-tw": "當它行進時，地面會刮傷它的身體，導致它留下鹽分。鹽在鹽石寶的體內不斷產生和補充。",
+        ja: "歩くと 地面で 体が 削れ 塩を 残す。 体内で 塩が つねに 作られて 補充される。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭錘"
+                "zh-tw": "頭錘",
+                ja: "ずつき"
             },
             damage: 20
         }

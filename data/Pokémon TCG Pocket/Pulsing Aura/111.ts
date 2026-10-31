@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/111",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/111",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/111"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/111"
     },
     name: {
         en: "Inkay",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Stare sottosopra migliora il suo flusso sanguigno e schiarisce la sua mente, facendo aumentare notevolmente la potenza delle sue mosse psichiche.",
         de: "Auf dem Kopf zu stehen verbessert die Durchblutung und klärt den Geist, wodurch die Kraft seiner psychischen Bewegungen dramatisch zunimmt.",
         "pt-br": "Ficar de cabeça para baixo melhora o fluxo sanguíneo e limpa a mente, fazendo com que o poder de seus movimentos psíquicos aumente dramaticamente.",
-        "zh-tw": "倒立可以改善血液流動，頭腦清醒，神通威力大幅提升。"
+        "zh-tw": "倒立可以改善血液流動，頭腦清醒，神通威力大幅提升。",
+        ja: "逆立ちすると 血行が 良くなり 頭が 冴えるので エスパー技の 威力も 上がりまくるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco Rotante",
                 de: "Rundumangriff",
                 "pt-br": "Ataque Giratório",
-                "zh-tw": "迴轉攻擊"
+                "zh-tw": "迴轉攻擊",
+                ja: "かいてんアタック"
             },
             damage: 20
         }

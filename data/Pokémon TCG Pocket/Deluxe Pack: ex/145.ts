@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/145",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/145"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/145"
     },
     name: {
         en: "Pachirisu ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pachirisu-ex",
         "pt-br": "Pachirisu ex",
         "zh-tw": "帕奇利茲ex",
+        ja: "パチリスex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Gadget scintillante",
                 "de": "Funkendes Gerät",
                 "pt-br": "Gadget brilhante",
-                "zh-tw": "火花小工具"
+                "zh-tw": "火花小工具",
+                ja: "ガジェットスパーク"
             },
             damage: "40+",
             cost: ["Lightning", "Lightning"],
@@ -46,7 +49,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 40 danni in più.",
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 40 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

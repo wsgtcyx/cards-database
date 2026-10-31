@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/309",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/309",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/309",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/309"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/309",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/309"
     },
     name: {
         en: "Golem",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Geowaz",
         "pt-br": "Golem",
         "zh-tw": "隆隆岩",
+        ja: "ゴローニャ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Georok",
         "pt-br": "Graveler",
         "zh-tw": "隆隆石",
+        ja: "ゴローン",
     },
     description: {
         en: "When Golem grow old, they stop shedding their\nshells. Those that have lived a long, long time\nhave shells green with moss.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando i Golem invecchiano, smettono di perdere i loro\nconchiglie. Quelli che hanno vissuto molto, molto tempo\nhanno conchiglie verdi di muschio.",
         "de": "Wenn Golems älter werden, hören sie auf, ihre Haare zu verlieren\nMuscheln. Diejenigen, die schon sehr lange gelebt haben\nhaben Muscheln, die grün mit Moos sind.",
         "pt-br": "Quando o Golem envelhece, ele para de se livrar de seus\nconchas. Aqueles que viveram muito, muito tempo\ntêm conchas verdes com musgo.",
-        "zh-tw": "當傀儡變老時，他們會停止脫落\n貝殼。那些活了很久很久的人\n貝殼綠色，長滿青苔。"
+        "zh-tw": "當傀儡變老時，他們會停止脫落\n貝殼。那些活了很久很久的人\n貝殼綠色，長滿青苔。",
+        ja: "年老いると 脱皮 しなくなる。 長く長く 生きた ゴローニャの カラは 苔むしていて 緑だ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Stampa della Guardia",
                 "de": "Gardepresse",
                 "pt-br": "Imprensa da Guarda",
-                "zh-tw": "守衛壓力機"
+                "zh-tw": "守衛壓力機",
+                ja: "ガードプレス"
             },
             damage: 120,
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -30 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −30 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá -30 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-30。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-30する。"
             }
         }],
     weaknesses: [{

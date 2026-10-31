@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/271",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/271",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/271",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/271"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/271",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/271"
     },
     name: {
         en: "Brock",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Brock",
         de: "Rocko",
         'pt-br': "Brock",
+        ja: "タケシ",
         ko: "웅",
         "zh-tw": "小剛",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Prendi un'Energia {F} dalla tua Zona Energia e assegnala a Golem[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ] oppure a Onix.",
         de: "Lege 1 {F}-Energie aus deinem Energiebereich an [Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ]Geowaz oder Onix an.",
         'pt-br': "Pegue 1 Energia {F} da sua Zona de Energia e ligue-a a Golem[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ] ou Onix.",
+        ja: "自分のエネルギーゾーンから{F}エネルギーを1個出し、「ゴローニャ」または「イワーク」につける。",
         ko: "자신의 에너지존에서 {F}에너지를 1개 내보내 「[Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ][Text:Char v=\"FOUR-PER-EM-SPACE\" ]딱구리」 또는 「롱스톤」에게 붙인다.",
         "zh-tw": "從你的能量區獲取 1 個 {F} 能量並將其附加到你的魔像或 Onix 上。"
     },

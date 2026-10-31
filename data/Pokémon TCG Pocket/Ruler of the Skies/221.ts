@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/221",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/221",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/221"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/221",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/221"
     },
     name: {
         en: "Raticate",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Usa i baffi per mantenersi in equilibrio.\nSe qualcuno li sfiora, si arrabbia e morde anche\nquelli a cui è molto affezionato.",
         de: "Mit seinen Barthaaren hält es die Balance.\nBerührt man sie, wird es wütend und beißt zu,\negal, wie zutraulich es auch sein mag.",
         "zh-tw": "鬍鬚是用來保持平衡的重要器官。\n就算感情再好，如果摸了牠的鬍鬚，\n牠都會生氣地咬過來。",
-        "pt-br": "Seus bigodes são essenciais para manter o equilibrio. Não importa o quão amigável seja, se tocar os bigodes deste Pokémon, ele vai se irritar e morder você."
+        "pt-br": "Seus bigodes são essenciais para manter o equilibrio. Não importa o quão amigável seja, se tocar os bigodes deste Pokémon, ele vai se irritar e morder você.",
+        ja: "ヒゲは バランスを とる 大切な 器官。 どんなに 仲良くなっても 触られると 怒って 噛みつく。"
     },
     abilities: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Colecionar Tesouro",
                 "zh-tw": "集寶",
                 "it": "Raccolta Tesori",
-                "de": "Schatzsammler"
+                "de": "Schatzsammler",
+                ja: "おたからあつめ"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá olhar as 4 cartas de cima do seu baralho e colocar todas as cartas de Item que você encontrar lá na sua mão. Embaralhe as outras cartas de volta no seu baralho.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。查看自己的牌庫上方4張卡,從其中將物品卡全部加入手牌。將剩餘卡放回牌庫。",
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi guardare le prime 4 carte del tuo mazzo e aggiungere tutte le carte Strumento che trovi alle carte che hai in mano. Poi rimischia le altre carte nel tuo mazzo.",
-                "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dir die obersten 4 Karten deines Decks anschauen und alle Itemkarten, die du dort findest, auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck."
+                "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dir die obersten 4 Karten deines Decks anschauen und alle Itemkarten, die du dort findest, auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を上から4枚見て、その中からグッズをすべて手札に加える。残りのカードは山札にもどす。"
             }
         }
     ],
@@ -82,7 +86,8 @@ const card: Card = {
                 it: "Attacco Veloce",
                 de: "Tempoangriff",
                 "pt-br": "Ataque em Velocidade",
-                "zh-tw": "高速攻擊"
+                "zh-tw": "高速攻擊",
+                ja: "スピードアタック"
             },
             damage: 40
         }

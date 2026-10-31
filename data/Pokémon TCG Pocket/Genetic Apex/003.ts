@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/003"
     },
     name: {
         en: "Venusaur",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Venusaur",
         de: "Bisaflor",
         'pt-br': "Venusaur",
+        ja: "フシギバナ",
         ko: "이상해꽃",
         "zh-tw": "妙蛙花",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
-        "zh-tw": "妙蛙草"
+        "zh-tw": "妙蛙草",
+        ja: "フシギソウ"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Megassorbimento",
                 de: "Megasauger",
                 'pt-br': "Megadreno",
+                ja: "メガドレイン",
                 ko: "메가드레인",
                 "zh-tw": "巨型排水管"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 30 danni.",
                 de: "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 30 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを30回復。",
                 ko: "이 포켓몬의 HP를 30회복.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Il fiore sboccia assorbendo energia solare.\nSi muove continuamente in cerca di luce.",
         de: "Es nutzt Solarenergie als Nahrung und\nbringt so seine große Blume zum Blühen.\nEs geht dorthin, wo die Sonne scheint.",
         'pt-br': "Sua planta floresce ao absorver energia solar,\npor isso este Pokémon vive em busca da luz do sol.",
+        ja: "太陽エネルギーを 栄養にして 大きな花が 開く。 日なたに 引き寄せられるように 移動する。",
         ko: "태양에너지를 양분으로\n큰 꽃을 피운다. 양지를 향해\n이끌려가듯이 이동한다.",
         "zh-tw": "它的植物在吸收太陽能時就會開花。它不斷移動以尋找陽光。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/132"
     },
     name: {
         en: "Taillow",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Taillow",
         "de": "Schwalbini",
         "pt-br": "Taillow",
-        "zh-tw": "傲骨燕"
+        "zh-tw": "傲骨燕",
+        ja: "スバメ"
     },
     illustrator: "Ayaka Yoshida",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non ama le stagioni fredde. Migrano verso altri\natterra in cerca di calore, volando per oltre 180 miglia\nun giorno.",
         "de": "Es mag keine kalten Jahreszeiten. Sie wandern zu anderen\nlandet auf der Suche nach Wärme und fliegt über 180 Meilen\nein Tag.",
         "pt-br": "Não gosta de estações frias. Eles migram para outros\npousa em busca de calor, voando mais de 180 milhas\num dia.",
-        "zh-tw": "它不喜歡寒冷的季節。他們遷移到其他地方\n著陸尋找溫暖，飛行超過 180 英里\n一天。"
+        "zh-tw": "它不喜歡寒冷的季節。他們遷移到其他地方\n著陸尋找溫暖，飛行超過 180 英里\n一天。",
+        ja: "寒い 季節は 苦手。暖かい 土地を 探し １日 ３００キロの 距離を 飛んで 移動する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Colorless"]

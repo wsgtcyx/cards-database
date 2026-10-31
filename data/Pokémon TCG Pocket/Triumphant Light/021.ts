@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/021"
     },
     name: {
         en: "Abomasnow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Abomasnow",
         de: "Rexblisar",
         'pt-br': "Abomasnow",
+        ja: "ユキノオー",
         ko: "눈설왕",
         "zh-tw": "暴雪王",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Shnebedeck",
         "pt-br": "Snover",
         "zh-tw": "雪笠怪",
+        ja: "ユキカブリ",
     },
     description: {
         en: "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Vive nella pace delle cime montuose tra le nevi\nperenni. Si nasconde scatenando bufere di neve.",
         de: "Es führt ein ruhiges Leben im Gebirge, wo\newiger Schnee liegt, und löst Blizzards aus,\num sich zu verstecken.",
         'pt-br': "Leva uma vida tranquila em montanhas que estão\npermanentemente cobertas de neve. Ele se esconde\nprovocando nevascas.",
+        ja: "万年雪が 積もる 山脈で 静かに 暮らす。ブリザードを 発生させて 姿を 隠す。",
         ko: "만년설이 쌓인 산맥에서 조용히 지낸다.\n블리자드를 발생시켜 모습을 감춘다.",
         "zh-tw": "它在終年積雪的山上過著平靜的生活。它通過掀起暴風雪來隱藏自己。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Vigore Simbiotico",
                 de: "Vitalkopplung",
                 'pt-br': "Elo de Vigor",
+                ja: "ハッスルリンク",
                 ko: "허슬 링크",
                 "zh-tw": "活力鏈接"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, il costo degli attacchi usati da questo Pokémon è ridotto di un'Energia {C}.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, verringern sich die Kosten der von diesem Pokémon eingesetzten Attacken um 1 {C}-Energie.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon custarão 1 Energia {C} a menos.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンがワザを使うためのエネルギーを、{C}エネルギー1個ぶん少なくする。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 기술을 사용하기 위한 에너지를 {C}에너지 1개만큼 적게 만든다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，該神奇寶貝使用的攻擊會減少 1 點 {C} 能量。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 'pt-br': "Megassoco",
+                ja: "メガトンパンチ",
                 ko: "메가톤펀치",
                 "zh-tw": "超級沖床"
             },

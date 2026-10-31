@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/017"
     },
     name: {
         en: "Mankey",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mankey",
         de: "Menki",
         'pt-br': "Mankey",
+        ja: "マンキー",
         ko: "망키",
         "zh-tw": "猴怪"
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Carica Avventata",
                 de: "Waghalsiger Sturmangriff",
                 'pt-br': "Carga Indomável",
+                ja: "とつげき",
                 ko: "돌격",
                 "zh-tw": "魯莽衝鋒"
             },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+                ja: "このポケモンにも10ダメージ。",
                 ko: "이 포켓몬에게도 10데미지를 준다.",
                 "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
             }
@@ -58,6 +62,7 @@ const card: Card = {
         it: "Vivono in branchi in cima agli alberi. Se perdono\nil contatto con il gruppo s'infuriano per la solitudine.",
         de: "Es lebt mit Artgenossen in Baumkronen.\nVerliert es sie aus den Augen, wird es\nvor Einsamkeit sofort zornig.",
         'pt-br': "Vive em grupo no topo de árvores.\nSe perde seu grupo de vista, a solidão\ndeixa este Pokémon furioso.",
+        ja: "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
         ko: "나무 위에 무리 지어 산다.\n무리에서 떨어진 망키는\n외로운 나머지 금방 화를 낸다.",
         "zh-tw": "它成群生活在樹頂。如果它失去了視線\n它的群體，它因孤獨而變得憤怒。"
     },

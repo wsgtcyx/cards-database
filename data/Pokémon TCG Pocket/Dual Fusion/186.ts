@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/186",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/186",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/186",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/186"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/186",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/186"
     },
     name: {
         en: "Umbreon",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "Eevee",
+        ja: "イーブイ",
         ko: "Eevee"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Überfall im Mondschein",
                 "pt-br": "Incursão ao Luar",
                 "zh-tw": "月亮突襲",
-                ja: "Moonlit Raid",
+                ja: "ムーンレイド",
                 ko: "Moonlit Raid"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon Básicos, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為基礎寶可夢,則增加50點傷害。",
-                ja: "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage.",
+                ja: "相手のバトルポケモンがたねポケモンなら、50ダメージ追加。",
                 ko: "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Wird es der Aura des Mondes ausgesetzt, glühen die ringförmigen Muster auf seinem Körper leicht und es erhält eine mysteriöse Kraft.",
         "pt-br": "Quando exposto à aura da lua, os anéis em seu corpo brilham intensamente e ele recebe um misterioso poder.",
         "zh-tw": "當身體沐浴了月亮的光輝，圓環便會微微發光，使牠得到神秘力量。",
-        ja: "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+        ja: "月の 波動を 体に 浴びると 輪っか模様が ほのかに 輝き 不思議な 力に 目覚めるのだ。",
         ko: "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power."
     }
 };

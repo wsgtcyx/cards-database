@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/193",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/193",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/193"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/193",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/193"
     },
     name: {
         en: "Machamp ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Machomei-ex",
         "pt-br": "Machamp ex",
         "zh-tw": "怪力ex",
+        ja: "カイリキーex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
+        ja: "ゴーリキー",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Megapugno",
                 "de": "Mega-Schlag",
                 "pt-br": "Mega Soco",
-                "zh-tw": "超級沖床"
+                "zh-tw": "超級沖床",
+                ja: "メガトンパンチ"
             },
             damage: 120,
             cost: ["Fighting", "Fighting", "Fighting"]

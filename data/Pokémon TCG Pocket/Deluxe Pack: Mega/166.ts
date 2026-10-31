@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/166",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/166",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/166"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/166"
     },
     name: {
         en: "Melmetal ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
-        ja: "Meltan",
+        ja: "メルタン",
         ko: "Meltan"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "Headbutt",
+                ja: "ずつき",
                 ko: "Headbutt"
             },
             damage: 80,
@@ -72,7 +73,7 @@ const card: Card = {
                 de: "Metallarme",
                 "pt-br": "Braços Metálicos",
                 "zh-tw": "金屬武裝",
-                ja: "Metal Arms",
+                ja: "メタルアームズ",
                 ko: "Metal Arms"
             },
             damage: "100+",
@@ -90,7 +91,7 @@ const card: Card = {
                 de: "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加50點傷害。",
-                ja: "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。",
                 ko: "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
             }
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/109"
     },
     name: {
         en: "Alolan Persian",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Persian di Alola",
         de: "Alola-Snobilikat",
         'pt-br': "Persian de Alola",
+        ja: "アローラペルシアン",
         ko: "알로라페르시온",
         "zh-tw": "阿羅拉貓老大",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
         "zh-tw": "阿羅拉喵喵",
+        ja: "アローラニャース",
     },
     description: {
         en: "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Nella regione di Alola le facce tonde sono considerate un simbolo\ndi prosperità e per questo Persian è trattato con molto riguardo.",
         de: "Da runde Gesichter in der Alola-Region als Symbol\nfür Wohlstand gelten, zollt man diesem Pokémon\ndort großen Respekt.",
         'pt-br': "O rosto arrendondado de Persian de Alola é considerado\num símbolo de prosperidade na região de Alola,\nentão esses Pokémon são tratados muito bem.",
+        ja: "アローラ地方では まるい 顔は 富の 象徴と 考えて ペルシアンを 大切に あつかう。",
         ko: "알로라지방에서는 둥근 얼굴이\n부의 상징으로 여겨져\n페르시온을 소중하게 대한다.",
         "zh-tw": "阿羅拉波斯的圓臉被認為是阿羅拉地區繁榮的象徵，因此這些神奇寶貝受到了很好的照顧。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Foltopelo",
                 de: "Fellkleid",
                 'pt-br': "Camada de Pelos",
+                ja: "ファーコート",
                 ko: "퍼코트",
                 "zh-tw": "毛皮大衣"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −20 pontos de dano de ataques.",
+                ja: "このポケモンが受けるワザのダメージを-20する。",
                 ko: "이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "這只神奇寶貝受到的攻擊傷害為 -20。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Lacerartiglio",
                 de: "Klauenschlitzer",
                 'pt-br': "Golpe de Garra",
+                ja: "ツメできりさく",
                 ko: "발톱 베어가르기",
                 "zh-tw": "利爪斬"
             },

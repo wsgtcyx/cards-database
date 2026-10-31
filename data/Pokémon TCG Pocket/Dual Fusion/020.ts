@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/020",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/020",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/020"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/020"
     },
     name: {
         en: "Salandit",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Flackern",
                 "pt-br": "Chama",
                 "zh-tw": "火焰",
-                ja: "Flare",
+                ja: "ほのお",
                 ko: "Flare"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Es provoziert seine Beute und lockt sie in enge Felsspalten, wo es sie dann mit Giftgas ins Taumeln bringt und erlegt.",
         "pt-br": "Provoca suas presas e as atrai para áreas estreitas e rochosas. Em seguida, espirra sobre elas um gás tóxico para deixá-las atordoadas e dar o bote.",
         "zh-tw": "會將獵物誘引進狹窄的岩縫裡，然後噴出能讓獵物頭暈的毒瓦斯使其昏倒。",
-        ja: "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+        ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。",
         ko: "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down."
     }
 };

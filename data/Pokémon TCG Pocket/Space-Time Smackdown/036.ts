@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/036"
     },
     name: {
         en: "Prinplup",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Prinplup",
         de: "Pliprin",
         'pt-br': "Prinplup",
+        ja: "ポッタイシ",
         ko: "팽태자",
         "zh-tw": "波皇子",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Plinfa",
         "pt-br": "Piplup",
         "zh-tw": "波加曼",
+        ja: "ポッチャマ",
     },
     description: {
         en: "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Vive da solo lontano dagli altri. Apparentemente\nogni esemplare crede di essere il più importante.",
         de: "Es lebt allein, entfernt von anderen. Jedes von\nihnen denkt, es sei das Bedeutendste unter ihnen.",
         'pt-br': "Vivem sozinhos, longe de todos. Pelo que parece,\ntodos eles se acham a última bolacha do pacote.",
+        ja: "群れを 作らずに １匹で いる。 自分が 一番 偉いと どの ポッタイシも 考えているようだ。",
         ko: "무리를 만들지 않고 혼자 생활한다.\n어떤 팽태자라도 자신이 제일\n훌륭하다고 생각하는 듯하다.",
         "zh-tw": "它獨自生活，遠離他人。顯然，他們每個人都認為這是最重要的。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 'pt-br': "Surfar",
+                ja: "なみのり",
                 ko: "파도타기",
                 "zh-tw": "衝浪"
             },

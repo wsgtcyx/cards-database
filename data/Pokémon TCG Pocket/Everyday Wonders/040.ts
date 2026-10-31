@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/040",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/040",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/040"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/040"
     },
     name: {
         en: "Palossand",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Dalle cavità delle sue braccia spara le ossa delle sue vittime, che sono tutte disseccate dopo essere state prosciugate della loro vitalità.",
         de: "Aus den Vertiefungen seiner Arme feuert es die Knochen seiner Opfer ab, die alle ausgetrocknet sind, nachdem ihnen ihre Lebenskraft entzogen wurde.",
         "pt-br": "Das cavidades de seus braços, ele atira os ossos de suas vítimas, que ficam todos secos após serem drenados de sua vitalidade.",
-        "zh-tw": "它從手臂的空洞中發射受害者的骨頭，這些骨頭在被耗盡生命力後都枯竭了。"
+        "zh-tw": "它從手臂的空洞中發射受害者的骨頭，這些骨頭在被耗盡生命力後都枯竭了。",
+        ja: "生命エネルギーを 吸い取り 干からびた ものたちの 骨を 腕の へこみから 発射する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Imboscata",
                 de: "Hinterhalt",
                 "pt-br": "Emboscada",
-                "zh-tw": "伏擊"
+                "zh-tw": "伏擊",
+                ja: "おそいかかる"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "30+"
         }

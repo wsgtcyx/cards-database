@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/024"
     },
     name: {
         en: "Tangela",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tangela",
         de: "Tangela",
         'pt-br': "Tangela",
+        ja: "モンジャラ",
         ko: "덩쿠리",
         "zh-tw": "蔓藤怪",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Assorbimento",
                 de: "Absorber",
                 'pt-br': "Absorção",
+                ja: "すいとる",
                 ko: "흡수",
                 "zh-tw": "吸收"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 10 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall'infinito anche dopo essere state recise.",
         de: "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen.",
         'pt-br': "Esconde-se sob um emaranhado de trepadeiras que\ncrescem sem parar mesmo se forem arrancadas.\nA verdadeira aparência deste Pokémon permanece um mistério.",
+        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。",
         ko: "잘려도 잘려도 무한으로 늘어나는\n덩굴 속의 정체는\n아직 밝혀지지 않았다.",
         "zh-tw": "隱藏在纏結的藤蔓之下，即使藤蔓被扯斷，藤蔓也會不停地生長，這只神奇寶貝的真實面貌仍然是個謎。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/049"
     },
     name: {
         en: "Pikachu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pikachu",
         "de": "Pikachu",
         "pt-br": "Pikachu",
-        "zh-tw": "皮卡丘"
+        "zh-tw": "皮卡丘",
+        ja: "ピカチュウ"
     },
     illustrator: "chibi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando molti di questi Pokémon si riuniscono, il loro\nl'elettricità può accumularsi e causare temporali.",
         "de": "Wenn sich mehrere dieser Pokémon versammeln, werden ihre\nElektrizität kann sich aufbauen und Gewitter auslösen.",
         "pt-br": "Quando vários desses Pokémon se reúnem, seus\na eletricidade pode aumentar e causar tempestades com raios.",
-        "zh-tw": "當這些神奇寶貝聚集在一起時，他們的\n電力會積聚並引發雷暴。"
+        "zh-tw": "當這些神奇寶貝聚集在一起時，他們的\n電力會積聚並引發雷暴。",
+        ja: "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scossa di tuono",
                 "de": "Donnerstoß",
                 "pt-br": "Trovão",
-                "zh-tw": "雷霆震擊"
+                "zh-tw": "雷霆震擊",
+                ja: "でんげき"
             },
             damage: 30,
             cost: ["Lightning"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。",
+                ja: "このポケモンにも10ダメージ。"
             }
         }],
     weaknesses: [{

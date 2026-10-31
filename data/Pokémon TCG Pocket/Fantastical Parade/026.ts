@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/026"
     },
     name: {
         en: "Cinderace",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cinderace",
         "de": "Liberlo",
         "pt-br": "Cinderace",
-        "zh-tw": "閃焰王牌"
+        "zh-tw": "閃焰王牌",
+        ja: "エースバーン"
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Raboot",
         "de": "Kickerlo",
         "pt-br": "Raboot",
-        "zh-tw": "騰蹴小將"
+        "zh-tw": "騰蹴小將",
+        ja: "ラビフット"
     },
     description: {
         en: "Using a ball that it made out of flames,\nCinderace blinds its opponents and\nkeeps them at bay.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Usando una palla fatta di fiamme,\nCenerentola acceca i suoi avversari e\nli tiene a bada.",
         "de": "Mit einer Kugel, die es aus Flammen gemacht hat,\nCinderace blendet seine Gegner und\nhält sie in Schach.",
         "pt-br": "Usando uma bola feita de chamas,\nCinderace cega seus oponentes e\nos mantém afastados.",
-        "zh-tw": "使用由火焰製成的球，\n灰燼使對手失明並\n讓他們遠離。"
+        "zh-tw": "使用由火焰製成的球，\n灰燼使對手失明並\n讓他們遠離。",
+        ja: "炎で 作った ボールを 操って 相手を 牽制したり 目くらましに 使ったりする。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo di palla di fuoco",
                 "de": "Feuerballschuss",
                 "pt-br": "Tiro de bola de fogo",
-                "zh-tw": "火球射擊"
+                "zh-tw": "火球射擊",
+                ja: "ひのたまシュート"
             },
             damage: 120,
             cost: ["Fire", "Fire"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。",
+                ja: "次の自分の番、このポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

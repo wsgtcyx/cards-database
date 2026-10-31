@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/161",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/161",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/161",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/161"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/161",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/161"
     },
     name: {
         en: "Tepig",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon è un ghiottone famelico. Usa il suo eccellente senso dell'olfatto per trovare il cibo, quindi lo cuoce fino a renderlo croccante prima di mangiarlo.",
         de: "Dieses Pokémon ist ein gefräßiger Vielfraß. Es nutzt seinen hervorragenden Geruchssinn, um Nahrung zu finden und diese vor dem Verzehr knusprig zuzubereiten.",
         "pt-br": "Este Pokémon é um glutão voraz. Ele usa seu excelente olfato para encontrar comida e depois cozinha até ficar crocante antes de comer.",
-        "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。"
+        "zh-tw": "這隻寶可夢是貪食者。它利用其出色的嗅覺來尋找食物，然後將其煮至酥脆後再食用。",
+        ja: "食いしん坊の 大食漢。 よく利く 鼻で エサを 見つけだし こんがり 焼きあげてから いただく。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attizzatoio",
                 de: "Anheizen",
                 "pt-br": "Carregar",
-                "zh-tw": "燃起"
+                "zh-tw": "燃起",
+                ja: "もえあがる"
             },
             effect: {
                 en: "Flip a coin. If heads, take 2 {R} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, prendi 2 Energie {R} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 de: "Wirf eine Münze. Bei „Kopf“ nimm 2 {R}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Jogue uma moeda. Se der cara, pegue 2 {R} Energias da sua Zona de Energia e ligue-as a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果正面，則從自己的能量區取出 2 個 {R} 能量並將其附加到該寶可夢上。"
+                "zh-tw": "拋一枚硬幣。如果正面，則從自己的能量區取出 2 個 {R} 能量並將其附加到該寶可夢上。",
+                ja: "コインを1回投げオモテなら、自分のエネルギーゾーンから{R}エネルギーを2個出し、このポケモンにつける。"
             }
         }
     ],

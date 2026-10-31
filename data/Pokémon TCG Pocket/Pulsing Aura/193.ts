@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/193",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/193",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/193",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/193"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/193",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/193"
     },
     name: {
         en: "Parasol Lady",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Metti nella tua mano 1 dei tuoi Pokémon {W} in gioco, eccetto qualsiasi Pokémon ex.",
         de: "Nimm 1 deiner {W}-Pokémon im Spiel, mit Ausnahme aller Pokémon-Ex, auf deine Hand.",
         "pt-br": "Coloque 1 dos seus {W} Pokémon em jogo, exceto qualquer Pokémon ex, em sua mão.",
-        "zh-tw": "將你場上的 1 隻 {W} 寶可夢置入你的手牌，除了任何前寶可夢之外。"
+        "zh-tw": "將你場上的 1 隻 {W} 寶可夢置入你的手牌，除了任何前寶可夢之外。",
+        ja: "自分の場の{W}ポケモン(「ポケモンex」をのぞく)を1匹選び、手札にもどす。"
     },
     trainerType: "Supporter"
 };

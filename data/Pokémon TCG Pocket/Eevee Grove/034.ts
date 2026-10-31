@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/034"
     },
     name: {
         en: "Sylveon ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Feelinara-ex",
         "pt-br": "Sylveon ex",
         "zh-tw": "仙子伊布ex",
+        ja: "ニンフィアex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Nastro felice",
                 "de": "Glückliches Band",
                 "pt-br": "Fita Feliz",
-                "zh-tw": "快樂絲帶"
+                "zh-tw": "快樂絲帶",
+                ja: "ハッピーリボン"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi pescare 2 carte.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, darfst du 2 Karten ziehen.",
                 "pt-br": "Uma vez durante a sua vez de jogar, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá comprar 2 cartas.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以抽 2 張卡。"
+                "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以抽 2 張卡。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を2枚引く。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Vento fatato",
                 "de": "Feenwind",
                 "pt-br": "Vento Fada",
-                "zh-tw": "仙風"
+                "zh-tw": "仙風",
+                ja: "ようせいのかぜ"
             },
             damage: 70,
             cost: ["Psychic", "Colorless"]

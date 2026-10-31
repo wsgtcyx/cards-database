@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/043"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/043"
     },
     name: {
         en: "Cloyster",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cloyster",
         de: "Austos",
         'pt-br': "Cloyster",
+        ja: "パルシェン",
         ko: "파르셀",
         "zh-tw": "刺甲貝",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Muschas",
         "pt-br": "Shellder",
         "zh-tw": "大舌貝",
+        ja: "シェルダー",
     },
     description: {
         en: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Ai Cloyster che vivono in mari con forti correnti\ncrescono grandi aculei appuntiti sul guscio.",
         de: "Austos, die in Meeren mit starker\nStrömung leben, entwickeln große\nund scharfe Stacheln an ihrer Schale.",
         'pt-br': "Cloyster que vivem em mares com correntes\nintensas desenvolvem espinhos grandes\ne afiados em suas conchas.",
+        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。",
         ko: "조수의 흐름이 격한 바다에 서식하는\n파르셀의 껍데기에 붙은 가시는\n크고 날카롭다.",
         "zh-tw": "生活在潮汐洶湧的海洋中的蛤蚌，其貝殼上長有又大又尖的尖刺。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Pressadifesa",
                 de: "Schutzdruck",
                 'pt-br': "Aperto Protetor",
+                ja: "ガードプレス",
                 ko: "가드프레스",
                 "zh-tw": "守衛壓力機"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
                 'pt-br': "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
                 ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
                 "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/047"
     },
     name: {
         en: "Wash Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom Lavaggio",
         de: "Wasch-Rotom",
         'pt-br': "Rotom Lavagem",
+        ja: "ウォッシュロトム",
         ko: "워시로토무",
         "zh-tw": "清洗洛托姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha assunto questa forma entrando in una lavatrice.\nInonda i dintorni per poi annuire soddisfatto.",
         de: "Dieses Rotom ist in eine Waschmaschine\neingedrungen. Es setzt alles um sich herum\nunter Wasser und nickt dann selbstgefällig.",
         'pt-br': "Este Rotom entrou em uma máquina de lavar.\nAcena com a cabeça com satisfação após inundar\nos arredores.",
+        ja: "洗濯機に 入った 姿。 あたりを 水浸しにしては 満足そうに うなずいている。",
         ko: "세탁기에 들어간 모습.\n주변을 침수시키고는\n만족스러운 듯이 끄덕이고 있다.",
         "zh-tw": "這個洛托姆已經進入了洗衣機。當它淹沒了周圍區域後，它滿意地點點頭。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 'pt-br': "Onda Borrifante",
+                ja: "スプラッシュ",
                 ko: "스플래시",
                 "zh-tw": "波浪飛濺"
             },

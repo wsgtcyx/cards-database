@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/027",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/027",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/027"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/027"
     },
     name: {
         en: "Finizen",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Normifin",
         "pt-br": "Finizen",
         "zh-tw": "波普海豚",
+        ja: "ナミイルカ",
         pt: "Finizen"
     },
     illustrator: "kodama",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Il suo anello d'acqua è costituito da acqua di mare mescolata con un fluido appiccicoso che Finizen secerne dal suo sfiatatoio.",
         "de": "Sein Wasserring besteht aus Meerwasser, gemischt mit einer klebrigen Flüssigkeit, die Normifin aus seinem Blasloch absondert.",
         "pt-br": "Seu anel de água é feito de água do mar misturada com um fluido pegajoso que Finizen secreta de seu respiradouro.",
-        "zh-tw": "它的水環是由海水與波普海豚從其氣孔分泌的黏性液體混合而成。"
+        "zh-tw": "它的水環是由海水與波普海豚從其氣孔分泌的黏性液體混合而成。",
+        ja: "水のリングは 頭の 穴から 出る 粘着液と 海の水を 混ぜて 作り出したものなのだ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Rasierflosse",
                 'pt-br': "Barbatana Cortante",
                 "zh-tw": "刀鰭",
+                ja: "ひれカッター",
                 ko: "지느러미 커터"
             },
             damage: "20",

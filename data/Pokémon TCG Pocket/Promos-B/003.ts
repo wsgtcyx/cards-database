@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/003",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/003",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/003"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/003"
     },
     name: {
         en: "Froakie",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si protegge avvolgendo il corpo in una schiuma delicata.\nNonostante l’aria spensierata, scruta sempre l’ambiente\ncircostante con molta attenzione.",
         de: "Es schützt seine Haut mit feinen Blasen, die seinen\nKörper umhüllen. Es mag unbekümmert aussehen,\nbehält die Umgebung aber immer aufmerksam im Auge.",
         "pt-br": "Protege a pele cobrindo o corpo com delicadas bolhas. Sob seu ar despreocupado, ele mantém um olhar atento ao seu entorno.",
-        "zh-tw": "它透過用細膩的氣泡覆蓋身體來保護皮膚。在它無憂無慮的外表下，它時時刻刻警戒著周圍的環境。"
+        "zh-tw": "它透過用細膩的氣泡覆蓋身體來保護皮膚。在它無憂無慮的外表下，它時時刻刻警戒著周圍的環境。",
+        ja: "繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bolla",
                 de: "Blubber",
                 "pt-br": "Bolha",
-                "zh-tw": "泡沫"
+                "zh-tw": "泡沫",
+                ja: "あわ"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 20
         }

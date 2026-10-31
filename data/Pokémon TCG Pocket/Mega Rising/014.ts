@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/014"
     },
     name: {
         en: "Simisage",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Vegichita",
         "pt-br": "Simisage",
         "zh-tw": "花椰猿",
+        ja: "ヤナッキー",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Vegimak",
         "pt-br": "Pansage",
         "zh-tw": "花椰猴",
+        ja: "ヤナップ",
     },
     description: {
         en: "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Di cattivo umore, combatte agitando la coda uncinata\nin giro selvaggiamente. La foglia che cresce sulla sua testa lo è\nmolto amaro.",
         "de": "Es ist schlecht gelaunt und kämpft, indem es seinen stacheligen Schwanz schwingt\nwild umher. Das auf seinem Kopf wachsende Blatt ist\nsehr bitter.",
         "pt-br": "Mal humorado, ele luta balançando sua cauda farpada\nao redor descontroladamente. A folha que cresce em sua cabeça é\nmuito amargo.",
-        "zh-tw": "脾氣暴躁，會擺動帶刺的尾巴來戰鬥\n瘋狂地四處走動。它頭上長的葉子是\n很苦。"
+        "zh-tw": "脾氣暴躁，會擺動帶刺的尾巴來戰鬥\n瘋狂地四處走動。它頭上長的葉子是\n很苦。",
+        ja: "気性が 激しく トゲの ついた 尻尾を 振り回して 戦う。 頭の 葉っぱは とても 苦い。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpi di furia",
                 "de": "Wut-Swipes",
                 "pt-br": "Golpes de Fúria",
-                "zh-tw": "狂怒橫掃"
+                "zh-tw": "狂怒橫掃",
+                ja: "みだれひっかき"
             },
             damage: "40×",
             cost: ["Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 40 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 40 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 40 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 40 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 40 點傷害。",
+                ja: "コインを3回投げ、オモテの数×40ダメージ。"
             }
         }],
     weaknesses: [{

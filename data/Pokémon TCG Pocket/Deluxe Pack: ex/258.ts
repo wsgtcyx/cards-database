@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/258",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/258",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/258",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/258"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/258",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/258"
     },
     name: {
         en: "Klefki",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Clavion",
         "pt-br": "Klefki",
         "zh-tw": "鑰圈兒",
+        ja: "クレッフィ",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Una volta assorbiti gli ioni metallici di una chiave, li scarta\nchiave senza pensarci due volte. Tuttavia, lo farà\naggrapparsi alle chiavi che preferisce per decenni.",
         "de": "Sobald es die Metallionen eines Schlüssels absorbiert, verwirft es diese\nSchlüssel ohne einen zweiten Gedanken. Das wird jedoch der Fall sein\nBehalten Sie die Schlüssel, die es seit Jahrzehnten bevorzugt.",
         "pt-br": "Depois de absorver os íons metálicos de uma chave, ele descarta os\nchave sem pensar duas vezes. No entanto, será\nagarre-se às chaves que ele favorece por décadas.",
-        "zh-tw": "一旦它吸收了鑰匙的金屬離子，它就會丟棄\n不假思索地鑰匙。然而，它會\n幾十年來一直保留它所青睞的鑰匙。"
+        "zh-tw": "一旦它吸收了鑰匙的金屬離子，它就會丟棄\n不假思索地鑰匙。然而，它會\n幾十年來一直保留它所青睞的鑰匙。",
+        ja: "金属イオンを 吸い取った カギは あっさり 捨てるが お気に入りは 何十年も 持ち続けている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Sbloccare",
                 "de": "Entsperren",
                 "pt-br": "Desbloquear",
-                "zh-tw": "開鎖"
+                "zh-tw": "開鎖",
+                ja: "アンロック"
             },
             damage: 10,
             cost: ["Metal"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を1枚引く。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/026"
     },
     name: {
         en: "Arcanine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Arcanine",
         de: "Arkani",
         'pt-br': "Arcanine",
+        ja: "ウインディ",
         ko: "윈디",
         "zh-tw": "風速狗",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     description: {
         en: "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Dal disegno su un'antica pergamena si vede come\nle sue corse sui prati incantassero le persone.",
         de: "Eine alte Bildrolle zeigt, dass die Menschen\nvon dem Anblick über Wiesen rennender\nArkani verzaubert waren.",
         'pt-br': "Um antigo pergaminho mostra que pessoas eram\ncativadas por seu movimento enquanto este\nPokémon corria pelas pradarias.",
+        ja: "草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。",
         ko: "초원을 내달리는 모습은\n사람들의 마음을 사로잡았다고\n옛날 그림에 묘사되어 있다.",
         "zh-tw": "一幅古老的畫卷顯示，人們被它奔跑穿過草原的動作所吸引。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Criniera di Fuoco",
                 de: "Flammenmähne",
                 'pt-br': "Crina de Fogo",
+                ja: "ほのおのたてがみ",
                 ko: "불꽃의갈기",
                 "zh-tw": "火鬃毛"
             },

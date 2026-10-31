@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/138"
     },
     name: {
         en: "Stufful",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Stufful",
         de: "Velursi",
         'pt-br': "Stufful",
+        ja: "ヌイコグマ",
         ko: "포곰곰",
         "zh-tw": "童偶熊",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo soffice manto è molto piacevole da accarezzare, ma\nse lo si sfiora inavvertitamente si rischia di venire attaccati.",
         de: "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch,\ndiesen zu berühren, setzt es sich ohne Rücksicht auf\nVerluste zur Wehr.",
         'pt-br': "O seu pelo fofinho é uma delícia de acariciar,\nmas tocá-lo sem muito cuidado pode resultar\nem uma retaliação dolorosa.",
+        ja: "ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。",
         ko: "푹신푹신한 털은 감촉이\n뛰어나지만 섣불리 손을 댔다간\n호되게 반격을 당하고 만다.",
         "zh-tw": "它蓬鬆的皮毛很適合撫摸，但不小心伸手觸摸這只神奇寶貝可能會導致痛苦的報復。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Martello",
                 de: "Einhämmern",
                 'pt-br': "Martelada",
+                ja: "ぶちかます",
                 ko: "한방 먹이기",
                 "zh-tw": "錘入"
             },

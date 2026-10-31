@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/093",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/093",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/093"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/093"
     },
     name: {
         en: "Team Rocket's Raticate ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 it: "Incisivi Rubacchioni",
                 de: "Diebesnager",
                 "pt-br": "Incisivos Bandidos",
-                "zh-tw": "打劫門牙"
+                "zh-tw": "打劫門牙",
+                ja: "どろぼうまえば"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi spostare un'Energia a caso dal Pokémon attivo del tuo avversario a questo Pokémon.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 zufällige Energie vom Aktiven Pokémon deines Gegners auf dieses Pokémon verschieben.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá mover 1 Energia aleatória do Pokémon Ativo do seu oponente a este Pokémon.",
-                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢身上的隨機1個能量改附於這隻寶可夢身上。"
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢身上的隨機1個能量改附於這隻寶可夢身上。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンからエネルギーをランダムに1個、このポケモンにつけ替える。"
             }
         }
     ],
@@ -73,7 +76,8 @@ const card: Card = {
                 it: "Scatto Caricato",
                 de: "Boost-Sprint",
                 "pt-br": "Impulso de Corrida",
-                "zh-tw": "突進衝刺"
+                "zh-tw": "突進衝刺",
+                ja: "ブーストダッシュ"
             },
             damage: 70
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/220",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/220"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/220"
     },
     name: {
         en: "Kabuto",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Kabuto",
         "de": "Kabuto",
         "pt-br": "Kabuto",
-        "zh-tw": "化石盔"
+        "zh-tw": "化石盔",
+        ja: "カブト"
     },
     illustrator: "Krgc",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Domofossile",
         "de": "Domfossil",
         "pt-br": "Fóssil Cúpula",
-        "zh-tw": "甲殼化石"
+        "zh-tw": "甲殼化石",
+        ja: "こうらの化石"
     },
     description: {
         en: "This species is almost entirely extinct. Kabuto\nmolt every three days, making their shells harder\nand harder.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questa specie è quasi del tutto estinta. Kabuto\nmuta ogni tre giorni, rendendo i loro gusci più duri\ne più difficile.",
         "de": "Diese Art ist fast vollständig ausgestorben. Kabuto\nalle drei Tage häuten, wodurch ihre Schalen härter werden\nund härter.",
         "pt-br": "Esta espécie está quase totalmente extinta. Kabuto\nmudam a cada três dias, tornando suas conchas mais duras\ne mais difícil.",
-        "zh-tw": "這個物種幾乎完全滅絕了。兜\n每三天換一次皮，使外殼變硬\n而且更難。"
+        "zh-tw": "這個物種幾乎完全滅絕了。兜\n每三天換一次皮，使外殼變硬\n而且更難。",
+        ja: "ほぼ 全滅した ポケモン。 ３日に 一度 脱皮して 殻を どんどん 硬くする。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Attacco con proiettili",
                 "de": "Granatenangriff",
                 "pt-br": "Ataque de concha",
-                "zh-tw": "砲彈攻擊"
+                "zh-tw": "砲彈攻擊",
+                ja: "こうらアタック"
             },
             damage: 40,
             cost: ["Fighting"]

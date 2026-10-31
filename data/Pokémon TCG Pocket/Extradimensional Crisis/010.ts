@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/010",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/010"
     },
     name: {
         en: "Mantine",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mantax",
         "pt-br": "Mantine",
         "zh-tw": "巨翅飛魚",
+        ja: "マンタイン",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se accumula abbastanza velocità nel nuoto, lo fa\npuò saltare sopra le onde e planare\nper oltre 300 piedi.",
         "de": "Wenn es beim Schwimmen genügend Geschwindigkeit aufbaut, ist es\nkann über die Wellen springen und gleiten\nfür über 300 Fuß.",
         "pt-br": "Se acumular velocidade suficiente para nadar,\npode saltar acima das ondas e planar\npor mais de 300 pés.",
-        "zh-tw": "如果它積累了足夠的游泳速度\n可以跳出海浪並滑翔\n超過 300 英尺。"
+        "zh-tw": "如果它積累了足夠的游泳速度\n可以跳出海浪並滑翔\n超過 300 英尺。",
+        ja: "泳いで スピードが のってくると 波の上に 飛びだし そのまま １００メートルも 滑空 する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Navigare",
                 "de": "Surfen",
                 "pt-br": "Surfar",
-                "zh-tw": "衝浪"
+                "zh-tw": "衝浪",
+                ja: "なみのり"
             },
             damage: 50,
             cost: ["Water", "Colorless"]

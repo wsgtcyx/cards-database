@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/047"
     },
     name: {
         en: "Croconaw",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tyracroc",
         "pt-br": "Croconaw",
         "zh-tw": "藍鱷",
+        ja: "アリゲイツ",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Karnimani",
         "pt-br": "Totodile",
         "zh-tw": "小鋸鱷",
+        ja: "ワニノコ",
     },
     description: {
         en: "If it loses a fang, a new one grows back in its\nplace. There are always 48 fangs lining its mouth.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Se perde una zanna, ne ricresce una nuova\nposto. Ci sono sempre 48 zanne nella sua bocca.",
         "de": "Verliert es einen Fangzahn, wächst ein neuer nach\nOrt. In seinem Maul sind immer 48 Reißzähne zu sehen.",
         "pt-br": "Se perder uma presa, uma nova crescerá novamente em seu\nlugar. Sempre há 48 presas em sua boca.",
-        "zh-tw": "如果它失去了一顆獠牙，新的獠牙就會長出來\n地方。它的嘴裡總是有48顆尖牙。"
+        "zh-tw": "如果它失去了一顆獠牙，新的獠牙就會長出來\n地方。它的嘴裡總是有48顆尖牙。",
+        ja: "キバは 抜けても 次から 次に 生えてくる。 いつも 口の中には ４８本の キバが そろっている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

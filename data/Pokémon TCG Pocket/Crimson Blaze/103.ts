@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/103"
     },
     name: {
         en: "Quick-Grow Extract",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Fialetta di Fertilizzante",
         "de": "Wachstumsextrakt",
         "pt-br": "Extrato de Adubo",
-        "zh-tw": "早熟精華"
+        "zh-tw": "早熟精華",
+        ja: "そうじゅくエキス"
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Crown",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Scegli 1 dei tuoi Pokémon {G} in gioco. Metti un Pokémon {G} casuale dal tuo mazzo che si evolve da quel Pokémon a quel Pokémon per farlo evolvere. Non puoi usare questa carta durante il tuo primo turno o su un Pokémon che è stato messo in gioco in questo turno.",
         "de": "Wähle 1 deiner {G} Pokémon im Spiel. Lege ein zufälliges {G}-Pokémon aus deinem Deck, das sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es weiterzuentwickeln. Du kannst diese Karte nicht während deines ersten Zuges oder für ein Pokémon verwenden, das in diesem Zug ins Spiel gebracht wurde.",
         "pt-br": "Escolha 1 dos seus {G} Pokémon em jogo. Coloque um Pokémon {G} aleatório do seu deck que evolui daquele Pokémon naquele Pokémon para evoluí-lo. Você não pode usar esta carta durante seu primeiro turno ou em um Pokémon que foi colocado em jogo neste turno.",
-        "zh-tw": "選擇場上的 1 個 {G} 神奇寶貝。從你的牌組中隨機放置一隻從該神奇寶貝進化而來的 {G} 神奇寶貝到該神奇寶貝上以使其進化。你不能在你的第一回合或本回合中的神奇寶貝上使用這張卡。"
+        "zh-tw": "選擇場上的 1 個 {G} 神奇寶貝。從你的牌組中隨機放置一隻從該神奇寶貝進化而來的 {G} 神奇寶貝到該神奇寶貝上以使其進化。你不能在你的第一回合或本回合中的神奇寶貝上使用這張卡。",
+        ja: "自分の場の{G}ポケモンを1匹選び、そのポケモンから進化する{G}ポケモンを、自分の山札からランダムに1枚、そのポケモンにのせて進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)"
     },
     trainerType: "Item"
 };

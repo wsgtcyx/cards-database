@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/006",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/006",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/006"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/006"
     },
     name: {
         en: "Nymble",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Micrick",
         "pt-br": "Nymble",
         "zh-tw": "豆蟋蟀",
+        ja: "マメバッタ",
         pt: "Nymble",
         'es-mx': "Nymble"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "È molto abile in uno stile di combattimento in cui usa le sue capacità di salto per schivare gli attacchi in arrivo e allo stesso tempo infliggere danni agli avversari.",
         "de": "Es ist äußerst geschickt in einem Kampfstil, bei dem es seine Sprungfähigkeiten nutzt, um eingehenden Angriffen auszuweichen und gleichzeitig Gegnern Schaden zuzufügen.",
         "pt-br": "É altamente habilidoso em um estilo de luta no qual usa suas capacidades de salto para evitar ataques e, ao mesmo tempo, causar danos aos oponentes.",
-        "zh-tw": "它擅長利用跳躍能力來躲避攻擊，同時對對手造成傷害。"
+        "zh-tw": "它擅長利用跳躍能力來躲避攻擊，同時對對手造成傷害。",
+        ja: "ジャンプ力を 活かして 相手の 攻撃を かわしながら ダメージを 与える 戦い方が 得意。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Kehrtwende",
                 "pt-br": "Retorno",
                 "zh-tw": "調頭",
+                ja: "とんぼがえり",
                 pt: "Fazer Retorno",
                 'es-mx': "Ida y Vuelta"
             },
@@ -60,7 +64,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。"
+                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             },
         },
     ],

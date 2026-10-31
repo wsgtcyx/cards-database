@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/087",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/087",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/087"
     },
     name: {
         en: "Entei ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Entei-ex",
         "pt-br": "Entei ex",
         "zh-tw": "炎帝ex",
+        ja: "エンテイex",
     },
     illustrator: "Tsuyoshi Nagano",
     rarity: "Two Star",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Impulso leggendario",
                 "de": "Legendärer Puls",
                 "pt-br": "Pulso Lendário",
-                "zh-tw": "傳奇脈搏"
+                "zh-tw": "傳奇脈搏",
+                ja: "でんせつのこどう"
             },
             effect: {
                 en: "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Alla fine del tuo turno, se questo Pokémon è in posizione attiva, pesca una carta.",
                 "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
                 "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
-                "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。"
+                "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
+                ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Sconfitta fiammeggiante",
                 "de": "Flammender Beatdown",
                 "pt-br": "Beatdown ardente",
-                "zh-tw": "熾熱的擊敗"
+                "zh-tw": "熾熱的擊敗",
+                ja: "ブレイズビート"
             },
             damage: "60+",
             cost: ["Fire", "Fire"],
@@ -67,7 +72,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha almeno due Energie {R} extra assegnate, questo attacco infligge 60 danni in più.",
                 "de": "Wenn an dieses Pokémon mindestens 2 zusätzliche {R}-Energien angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 2 energias {R} extras anexadas, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。",
+                ja: "追加で{R}エネルギーが2個ついているなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

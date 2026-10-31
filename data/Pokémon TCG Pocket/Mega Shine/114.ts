@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/114",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/114",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/114"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/114"
     },
     name: {
         en: "Mega Gengar ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Labirinto delle Ombre",
                 de: "Labyrinth der Schatten",
                 "pt-br": "Labirinto das Sombras",
-                "zh-tw": "暗影迷宮"
+                "zh-tw": "暗影迷宮",
+                ja: "シャドーラビリンス"
             },
             effect: {
                 en: "During your opponent's next turn, they can't play any Trainer cards from their hand.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, lui non potrà giocare nessuna carta Allenatore dalla sua mano.",
                 de: "Während des nächsten Zuges deines Gegners kann er keine Trainerkarten aus seiner Hand spielen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Treinador da sua mão.",
-                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何訓練家卡。"
+                "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何訓練家卡。",
+                ja: "次の相手の番、相手は手札からトレーナーズを出して使えない。"
             },
             damage: 120
         }

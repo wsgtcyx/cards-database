@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/025"
     },
     name: {
         en: "Slugma",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Slugma",
         de: "Schneckmag",
         'pt-br': "Slugma",
+        ja: "マグマッグ",
         ko: "마그마그",
         "zh-tw": "熔岩蟲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Comune nelle aree vulcaniche, striscia in giro\nlentamente, sempre alla ricerca di luoghi caldi.",
         de: "Es hält sich ständig bei Vulkanen auf und ist\nstets kriechend auf der Suche nach warmen\nAufenthaltsorten.",
         'pt-br': "Visão comum em áreas vulcânicas, desliza lentamente\nem uma busca constante por locais quentes.",
+        ja: "火山地帯に 多く 発生。 暖かい ところを 探して のろのろ はいずり回っている。",
         ko: "화산 지대에 많이 나타난다.\n따뜻한 곳을 찾아서\n느릿느릿 기어 다니고 있다.",
         "zh-tw": "它在火山地區很常見，它緩慢地滑行，不斷尋找溫暖的地方。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fiammata",
                 de: "Flackern",
                 'pt-br': "Chama",
+                ja: "ほのお",
                 ko: "불꽃",
                 "zh-tw": "耀斑"
             },

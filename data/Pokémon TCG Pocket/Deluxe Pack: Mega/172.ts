@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/172",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/172",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/172",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/172"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/172",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/172"
     },
     name: {
         en: "Flygon ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Vibrava",
         "pt-br": "Vibrava",
         "zh-tw": "超音波幼蟲",
-        ja: "Vibrava",
+        ja: "ビブラーバ",
         ko: "Vibrava"
     },
     stage: "Stage2",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Sandwucht",
                 "pt-br": "Batedor de Areia",
                 "zh-tw": "沙牢",
-                ja: "Sand Slammer",
+                ja: "すなのかんごく",
                 ko: "Sand Slammer"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Wenn dieses Pokémon beim Pokémon-Check in der Aktiven Position ist, füge jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Durante o Checape Pokémon, se este Pokémon estiver no Campo Ativo, cause 10 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,每次寶可夢檢查時,對手的所有寶可夢受到10點傷害。",
-                ja: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to each of your opponent's Pokémon.",
+                ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のポケモン全員に10ダメージ。",
                 ko: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to each of your opponent's Pokémon."
             }
         }
@@ -87,7 +88,7 @@ const card: Card = {
                 de: "Drachenpuls",
                 "pt-br": "Pulso do Dragão",
                 "zh-tw": "龍之波動",
-                ja: "Dragon Pulse",
+                ja: "りゅうのはどう",
                 ko: "Dragon Pulse"
             },
             effect: {
@@ -98,7 +99,7 @@ const card: Card = {
                 de: "Lege die oberste Karte deines Decks ab.",
                 "pt-br": "Descarte a carta de cima do seu baralho.",
                 "zh-tw": "將自己的牌庫上方張卡丟棄。",
-                ja: "Discard the top card of your deck.",
+                ja: "自分の山札を上から1枚トラッシュ。",
                 ko: "Discard the top card of your deck."
             },
             damage: 140

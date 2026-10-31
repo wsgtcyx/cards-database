@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/028"
     },
     name: {
         en: "Quilava",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Igelavar",
         "pt-br": "Quilava",
         "zh-tw": "火岩鼠",
+        ja: "マグマラシ",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Feurigel",
         "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
+        ja: "ヒノアラシ",
     },
     description: {
         en: "Before battle, it turns its back on its opponent to\ndemonstrate how ferociously its fire blazes.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Prima della battaglia volta le spalle al suo avversario\ndimostrare quanto ferocemente divampa il suo fuoco.",
         "de": "Vor dem Kampf wendet es seinem Gegner den Rücken zu\ndemonstrieren, wie heftig sein Feuer lodert.",
         "pt-br": "Antes da batalha, ele vira as costas ao oponente para\ndemonstrar quão ferozmente seu fogo arde.",
-        "zh-tw": "戰鬥前，它會背對對手\n展示它的火焰有多麼猛烈。"
+        "zh-tw": "戰鬥前，它會背對對手\n展示它的火焰有多麼猛烈。",
+        ja: "戦いの前 背中を 向けて 自分の 炎が どれくらい すごいかを 相手に 見せつける。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Combustione",
                 "de": "Verbrennung",
                 "pt-br": "Combustão",
-                "zh-tw": "燃燒"
+                "zh-tw": "燃燒",
+                ja: "かえん"
             },
             damage: 30,
             cost: ["Fire"]

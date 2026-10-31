@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/039"
     },
     name: {
         en: "Sandile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ganovil",
         "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
+        ja: "メグロコ",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si immerge nella sabbia e si muove come se\nnuoto. Questo comportamento saggio mantiene i suoi nemici\ndal trovarlo e mantiene la sua temperatura.",
         "de": "Es versinkt im Sand und bewegt sich, als ob es sich bewegen würde\nSchwimmen. Dieses weise Verhalten hält seine Feinde fern\nverhindert, dass er es findet, und hält seine Temperatur aufrecht.",
         "pt-br": "Ele submerge na areia e se move como se\nnatação. Este comportamento sábio mantém seus inimigos\nde encontrá-lo e mantém sua temperatura.",
-        "zh-tw": "它把自己淹沒在沙子裡，移動得好像\n游泳。這種明智的行為留住了敵人\n找到它並保持其溫度。"
+        "zh-tw": "它把自己淹沒在沙子裡，移動得好像\n游泳。這種明智的行為留住了敵人\n找到它並保持其溫度。",
+        ja: "砂の中に 潜り 泳ぐように 移動。 敵に みつからないためと 体温を 下げない 知恵 なのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Darkness"]

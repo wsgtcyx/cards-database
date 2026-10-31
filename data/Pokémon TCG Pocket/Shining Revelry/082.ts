@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/082"
     },
     name: {
         en: "Pikachu ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pikachu-ex",
         de: "Pikachu-ex",
         'pt-br': "Pikachu ex",
+        ja: "ピカチュウex",
         ko: "피카츄 ex",
         "zh-tw": "皮卡丘ex"
     },
@@ -36,6 +38,7 @@ const card: Card = {
             it: "Fulmine",
             de: "Donnerblitz",
             'pt-br': "Relâmpago",
+            ja: "10まんボルト",
             ko: "10만볼트",
             "zh-tw": "霹靂"
         },
@@ -48,6 +51,7 @@ const card: Card = {
             it: "Rimuovi tutte le Energie assegnate a questo Pokémon.",
             de: "Lege alle Energien von diesem Pokémon ab.",
             'pt-br': "Descarte todas as Energias deste Pokémon.",
+            ja: "このポケモンからエネルギーをすべてトラッシュ。",
             ko: "이 포켓몬에서 에너지를 모두 트래쉬한다.",
             "zh-tw": "丟棄該神奇寶貝的所有能量。"
         }

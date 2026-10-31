@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/153",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/153",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/153"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/153",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/153"
     },
     name: {
         en: "Training Area",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Campo di Allenamento",
         "de": "Trainingsbereich",
         "pt-br": "Área de Treinamento",
-        "zh-tw": "訓練區"
+        "zh-tw": "訓練區",
+        ja: "トレーニングエリア"
     },
     illustrator: "MARINA Chikazawa",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Gli attacchi utilizzati dai Pokémon di Fase 1 in gioco (sia i tuoi che quelli del tuo avversario) infliggono +10 danni al Pokémon attivo dell'avversario.",
         "de": "Angriffe von Pokémon der Stufe 1 im Spiel (sowohl deine als auch die deines Gegners) fügen dem aktiven Pokémon des Gegners +10 Schaden zu.",
         "pt-br": "Os ataques usados ​​pelos Pokémon do Estágio 1 em jogo (seus e do seu oponente) causam +10 de dano ao Pokémon Ativo do oponente.",
-        "zh-tw": "場上的 1 階段神奇寶貝（無論是你的還是對手的）使用的攻擊都會對對手的活躍神奇寶貝造成 +10 傷害。"
+        "zh-tw": "場上的 1 階段神奇寶貝（無論是你的還是對手的）使用的攻擊都會對對手的活躍神奇寶貝造成 +10 傷害。",
+        ja: "おたがいの場の1進化ポケモンが使うワザの、相手のバトルポケモンへのダメージを+10する。"
     },
     trainerType: "Stadium"
 };

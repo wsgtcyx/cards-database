@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/110",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/110",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/110"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/110"
     },
     name: {
         en: "Mime Jr.",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es folgt dem talentierten Tänzer Pantifrost wie ein Schüler und imitiert seine Schritte.",
         "pt-br": "Procura por um Mr. Rime que dance bem e copia meticulosamente os passos desse Mr. Rime, como um aprendiz.",
         "zh-tw": "像徒弟一樣跟隨著擅長跳舞的踏冰人偶，拼命模仿牠的舞步。",
-        ja: "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+        ja: "ダンスの うまい バリコオルに 弟子の ように 付き従い ステップを 懸命に 真似する。",
         ko: "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice."
     },
     attacks: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "zh-tw": "擬擬重抽",
                 it: "Mimimischiata",
                 de: "Imitierendes Mischen",
-                ja: "Mime-y Shuffle",
+                ja: "まねまねシャッフル",
                 ko: "Mime-y Shuffle"
             },
             effect: {
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Mische deine Handkarten in dein Deck. Ziehe anschließend 1 Karte für jede Karte auf der Hand deines Gegners.",
                 "pt-br": "Embaralhe a sua mão no seu baralho. Compre uma carta para cada carta na mão do seu oponente.",
                 "zh-tw": "將自己的手牌全部放回牌庫。從自己的牌庫抽出與對手的手牌張數相同數量的卡。",
-                ja: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
+                ja: "自分の手札をすべて山札にもどす。相手の手札の枚数ぶん、自分の山札を引く。",
                 ko: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
             }
         }

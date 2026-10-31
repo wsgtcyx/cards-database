@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/092",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/092"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/092"
     },
     name: {
         en: "Snom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Snom",
         de: "Snomnom",
         'pt-br': "Snom",
+        ja: "ユキハミ",
         ko: "누니머기",
         "zh-tw": "雪吞蟲",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Si nutre della neve accumulata sul terreno.\nPredilige quella fresca e soffice, che mangia\nman mano che avanza verso la cima dei monti.",
         de: "Es ernährt sich von am Boden angesammeltem\nSchnee. Da es weichen Neuschnee bevorzugt,\nfrisst es sich bergauf bis zum Gipfel vor.",
         'pt-br': "Alimenta-se da neve acumulada no chão. Prefere\nneve fofa que acabou de cair, então comerá a\nneve no caminho até o topo da montanha.",
+        ja: "エサは 地面に 積もった 雪。 柔らかな 新雪を 好み 山頂 目指して 食べ進む。",
         ko: "땅에 쌓인 눈이 먹이다.\n새로 내린 부드러운 눈을 좋아해서\n산꼭대기를 향해 먹으며 움직인다.",
         "zh-tw": "牠吃地上積雪。牠喜歡柔軟的、剛落下的雪，所以它會吃著爬上山的路，瞄準山頂。"
     },

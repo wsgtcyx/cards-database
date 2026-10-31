@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/310",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/310",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/310",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/310"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/310",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/310"
     },
     name: {
         en: "Sylveon",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "Eevee",
+        ja: "イーブイ",
         ko: "Eevee"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es sieht zwar elegant aus, wenn es mit wehenden Fühlern leichtfüßig tänzelt, doch seine Attacken zielen gewieft auf Schwachpunkte ab.",
         "pt-br": "Sylveon dança elegantemente com suas antenas ao vento, mirando os pontos fracos dos seus oponentes com movimentos lancinantes.",
         "zh-tw": "搖曳著觸角跳著輕快舞蹈的樣子相當優雅，但招式卻會直搗對手要害。",
-        ja: "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots.",
+        ja: "触角を なびかせ 軽やかに 舞う 姿は 優雅だが 技は 鋭く 急所を 狙う。",
         ko: "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Besänftigende Bänder",
                 "pt-br": "Fita Tranquilizadora",
                 "zh-tw": "治癒緞帶",
-                ja: "Soothing Ribbon",
+                ja: "いやしのリボン",
                 ko: "Soothing Ribbon"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, kannst du 30 Schadenspunkte bei 1 deiner Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
                 "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」卡,則在自己的回合時可使用1次。將自己的1隻寶可夢恢復30HP。",
-                ja: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon.",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。",
                 ko: "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Magischer Schuss",
                 "pt-br": "Tiro Mágico",
                 "zh-tw": "魔法射擊",
-                ja: "Magical Shot",
+                ja: "マジカルショット",
                 ko: "Magical Shot"
             },
             damage: 60

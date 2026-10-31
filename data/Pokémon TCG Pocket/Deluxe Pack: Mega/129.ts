@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/129",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/129",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/129"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/129"
     },
     name: {
         en: "Roggenrola",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es bewegt sich stets auf Geräuschquellen zu. Dank seines Energiekerns fühlt es sich immer leicht warm an, wenn man es berührt.",
         "pt-br": "Ao detectar um ruído, começa a se mover. O núcleo de energia dentro deste Pokémon faz com que ele seja morno ao toque.",
         "zh-tw": "會對聲音產生反應而動起來。在能量核心的影響下，牠摸起來暖暖的。",
-        ja: "When it detects a noise, it starts to move.\nThe energy core inside it makes this Pokémon\nslightly warm to the touch.",
+        ja: "音に 反応し 動きだす。 エネルギーコアの 影響で 触ると すこし 温かい。",
         ko: "When it detects a noise, it starts to move.\nThe energy core inside it makes this Pokémon\nslightly warm to the touch."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
                 "zh-tw": "擲泥",
-                ja: "Mud-Slap",
+                ja: "どろかけ",
                 ko: "Mud-Slap"
             },
             damage: 30,

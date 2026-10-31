@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/066",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/066",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/066"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/066"
     },
     name: {
         en: "Corvisquire",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Questo Pokémon intelligente imparerà presto a usare qualsiasi strumento possa tenere nel becco o negli artigli.",
         de: "Dieses intelligente Pokémon lernt schnell, jedes Werkzeug zu benutzen, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como usar qualquer ferramenta que possa segurar no bico ou nas garras.",
-        "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。"
+        "zh-tw": "這種聰明的寶可夢很快就會學會如何使用它可以用喙或爪子握住的任何工具。",
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Alabattito",
                 de: "Flattern",
                 "pt-br": "Asa",
-                "zh-tw": "羽擊"
+                "zh-tw": "羽擊",
+                ja: "はばたく"
             },
             damage: 40
         }

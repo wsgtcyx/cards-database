@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/116",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/116"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/116",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/116"
     },
     name: {
         en: "Toxapex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Toxapex",
         de: "Aggrostella",
         'pt-br': "Toxapex",
+        ja: "ドヒドイデ",
         ko: "더시마사리",
         "zh-tw": "超壞星",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Garstella",
         "pt-br": "Mareanie",
         "zh-tw": "好壞星",
+        ja: "ヒドイデ",
     },
     description: {
         en: "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Vive in una cupola creata coi suoi stessi tentacoli. Usa gli artigli\nper scandagliare i dintorni e percepire i movimenti della marea.",
         de: "Seine Beine bilden eine Kuppel, in der es lebt.\nMit seinen Hörnern erkennt es den Strom der\nGezeiten und erkundet seine Umgebung.",
         'pt-br': "Este Pokémon vive em uma cúpula que forma\ncom suas pernas. Toxapex monitora os arredores\nao sentir o fluxo da maré por meio dos seus espinhos.",
+        ja: "自分の 脚で 作った ドームが 棲み処。 潮の 流れを ツノで 察知して 周囲を 探る。",
         ko: "자신의 다리로 만든 돔이 보금자리다.\n조류를 뿔로 감지해서 주위를 살핀다.",
         "zh-tw": "這只神奇寶貝生活在用自己的腿建造的圓頂內。 Toxapex 通過其尖刺感應潮汐的流動來監控周圍環境。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Sparalance",
                 de: "Dornkanone",
                 'pt-br': "Canhão de Espinhos",
+                ja: "とげキャノン",
                 ko: "가시대포",
                 "zh-tw": "尖刺炮"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia 4 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 4 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+                ja: "コインを4回投げ、オモテの数×20ダメージ。",
                 ko: "동전을 4번 던져서 앞면이 나온 수 × 20데미지를 준다.",
                 "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
             }

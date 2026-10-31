@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/071"
     },
     name: {
         en: "Dusclops",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dusclops",
         de: "Zwirrklop",
         'pt-br': "Dusclops",
+        ja: "サマヨール",
         ko: "미라몽",
         "zh-tw": "彷徨夜靈",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Zwirrlicht",
         "pt-br": "Duskull",
         "zh-tw": "夜巡靈",
+        ja: "ヨマワル",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Va in cerca di fuochi fatui e li risucchia nel suo\ncorpo vuoto. Cosa succeda all'interno è un mistero.",
         de: "Es sucht umherirrende Seelen und saugt sie in\nseinen leeren Körper. Was dann mit ihnen\npassiert, ist ein Rätsel.",
         'pt-br': "Ele procura fogos-fátuos e os suga para seu corpo vazio.\nO que acontece lá dentro é um mistério.",
+        ja: "さまよっている 人魂を 見つけ 空っぽの 体内に 吸いこむ。 吸いこまれて どうなるかは 謎。",
         ko: "떠도는 사람의 영혼을 찾아\n텅 빈 체내로 빨아들인다.\n그 후 영혼이 어떻게 되는지는 알 수 없다.",
         "zh-tw": "它尋找漂浮的鬼火，並將它們吸進它空蕩蕩的身體裡。裡面發生的事情是個謎。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Psicopugno",
                 de: "Psyhieb",
                 'pt-br': "Soco Psíquico",
+                ja: "サイコパンチ",
                 ko: "사이코펀치",
                 "zh-tw": "靈拳"
             },

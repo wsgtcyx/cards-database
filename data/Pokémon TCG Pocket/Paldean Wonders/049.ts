@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/049",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/049"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/049"
     },
     name: {
         en: "Rabsca",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Skarabaks",
         "pt-br": "Rabsca",
         "zh-tw": "蟲甲聖",
+        ja: "ベラカス",
         pt: "Rabsca"
     },
     illustrator: "Oswaldo KATO",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Relluk",
         "pt-br": "Rellor",
         "zh-tw": "蟲滾泥",
+        ja: "シガロコ",
         pt: "Rellor",
         'es-mx': "Rellor"
     },
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Un bambino dorme dentro la palla. Rabsca fa rotolare dolcemente la palla con le gambe per garantire che il bambino dorma comodamente.",
         "de": "Ein Kleinkind schläft im Ball. Skarabaks rollt den Ball beruhigend mit seinen Beinen, um sicherzustellen, dass das Kind bequem schläft.",
         "pt-br": "Uma criança dorme dentro da bola. Rabsca rola a bola suavemente com as pernas para garantir que o bebê durma confortavelmente.",
-        "zh-tw": "嬰兒睡在球內。 蟲甲聖 用腿舒緩地滾動球，確保嬰兒舒適睡眠。"
+        "zh-tw": "嬰兒睡在球內。 蟲甲聖 用腿舒緩地滾動球，確保嬰兒舒適睡眠。",
+        ja: "玉の中に 赤ん坊が 眠る。 心地よく 眠れるように 脚で 玉を まわして あやしているのだ。"
     },
     stage: "Stage1",
     attacks: [
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Psystrahl",
                 "pt-br": "Raio Psíquico",
                 "zh-tw": "心電束",
+                ja: "サイケこうせん",
                 pt: "Feixe Psíquico"
             },
             damage: "80",
@@ -70,6 +75,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 pt: "O Pokémon Ativo do seu oponente agora está Confuso."
             },
         },

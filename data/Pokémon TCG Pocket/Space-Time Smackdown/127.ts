@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/127"
     },
     name: {
         en: "Porygon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Porygon",
         de: "Porygon",
         'pt-br': "Porygon",
+        ja: "ポリゴン",
         ko: "폴리곤",
         "zh-tw": "多邊獸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È il primo Pokémon della storia a essere\nstato creato tramite programmi, grazie\nall'impiego di tecnologie all'avanguardia.",
         de: "Es ist weltweit das erste künstliche Pokémon,\ndas dank neuester Technologien mittels\nComputerprogrammen erschaffen wurde.",
         'pt-br': "Tecnologia de ponta foi usada na criação\nde Porygon. Foi o primeiro Pokémon artificial\ncriado por meio de um programa de computador.",
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。",
         ko: "최고의 과학 기술을 사용해\n세계에서 처음으로 프로그래밍되어\n만들어진 인공 포켓몬이다.",
         "zh-tw": "Porygon 的製造採用了最先進的技術。它是第一個通過計算機編程創建的人造神奇寶貝。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Raggio",
                 de: "Strahl",
                 'pt-br': "Feixe",
+                ja: "ビーム",
                 ko: "빔",
                 "zh-tw": "光束"
             },

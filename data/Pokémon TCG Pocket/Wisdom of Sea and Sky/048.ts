@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/048"
     },
     name: {
         en: "Feraligatr",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Impergator",
         "pt-br": "Feraligatr",
         "zh-tw": "大力鱷",
+        ja: "オーダイル",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Tyracroc",
         "pt-br": "Croconaw",
         "zh-tw": "藍鱷",
+        ja: "アリゲイツ",
     },
     description: {
         en: "It usually moves slowly, but it goes at blinding\nspeed when it attacks and bites prey.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Di solito si muove lentamente, ma arriva ad accecare\nvelocità quando attacca e morde la preda.",
         "de": "Normalerweise bewegt es sich langsam, aber es blendet\nGeschwindigkeit, wenn es Beute angreift und beißt.",
         "pt-br": "Geralmente se move lentamente, mas chega a cegar\nvelocidade quando ataca e morde a presa.",
-        "zh-tw": "它通常移動緩慢，但它會致盲\n攻擊和咬住獵物時的速度。"
+        "zh-tw": "它通常移動緩慢，但它會致盲\n攻擊和咬住獵物時的速度。",
+        ja: "普段は ゆっくりとした 動きだが 獲物に かみつくときは 目にも 止まらない スピードだ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Vortice distruttivo",
                 "de": "Zerstörerischer Whirlpool",
                 "pt-br": "Redemoinho Destrutivo",
-                "zh-tw": "破壞性漩渦"
+                "zh-tw": "破壞性漩渦",
+                ja: "はかいのうず"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

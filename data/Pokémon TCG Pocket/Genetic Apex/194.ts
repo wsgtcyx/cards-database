@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/194",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/194",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/194",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/194"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/194",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/194"
     },
     name: {
         en: "Wigglytuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wigglytuff",
         de: "Knuddeluff",
         'pt-br': "Wigglytuff",
+        ja: "プクリン",
         ko: "푸크린",
         "zh-tw": "胖可丁",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Jigglypuff",
         "de": "Pummeluff",
         "pt-br": "Jigglypuff",
-        "zh-tw": "胖丁"
+        "zh-tw": "胖丁",
+        ja: "プリン"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Granvoce",
                 de: "Schallwelle",
                 'pt-br': "Hipervoz",
+                ja: "ハイパーボイス",
                 ko: "하이퍼보이스",
                 "zh-tw": "超級語音"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Ha un pelo molto fino. Attenzione a non farlo adirare,\nperché può gonfiarsi e caricare con tutto il suo peso.",
         de: "Es hat sehr feines Fell. Doch Vorsicht: Verärgert\nman Knuddeluff, bläst es sich stark auf und stürzt\nsich mit seinem ganzen Körper auf einen.",
         'pt-br': "Ele tem a pele muito fina. Tome cuidado para\nnão zangá-lo ou ele pode inflar permanentemente\ne golpear com uma pancada de corpo.",
+        ja: "キメ細やかな 毛皮の 持ち主。 怒らせると どんどん ふくらみ のしかかってくるので 注意。",
         ko: "얇고 고운 털을 지니고 있다.\n화나게 하면 몸을 점점 부풀리며\n덮쳐 오기 때문에 주의가 필요하다.",
         "zh-tw": "它有非常細膩的皮毛。注意不要讓它生氣，否則它可能會不斷膨脹並用身體猛烈撞擊。"
     },

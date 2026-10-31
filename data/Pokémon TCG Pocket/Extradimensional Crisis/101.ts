@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/101",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/101",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/101"
     },
     name: {
         en: "Aerodactyl ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Aerodactyl-ex",
         "pt-br": "Aerodactyl ex",
         "zh-tw": "化石翼龍ex",
+        ja: "プテラex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",
@@ -32,6 +34,7 @@ const card: Card = {
         "de": "Altbernstein",
         "pt-br": "Âmbar Velho",
         "zh-tw": "秘密琥珀",
+        ja: "ひみつのコハク",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Legge primordiale",
                 "de": "Urgesetz",
                 "pt-br": "Lei Primordial",
-                "zh-tw": "原始法則"
+                "zh-tw": "原始法則",
+                ja: "げんしのさだめ"
             },
             effect: {
                 en: "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il tuo avversario non può giocare nessun Pokémon dalla sua mano per far evolvere il suo Pokémon attivo.",
                 "de": "Dein Gegner kann kein Pokémon aus seiner Hand spielen, um sein Aktives Pokémon weiterzuentwickeln.",
                 "pt-br": "Seu oponente não pode jogar nenhum Pokémon da mão dele para evoluir seu Pokémon Ativo.",
-                "zh-tw": "你的對手不能使用手中的任何神奇寶貝來進化他們的活躍神奇寶貝。"
+                "zh-tw": "你的對手不能使用手中的任何神奇寶貝來進化他們的活躍神奇寶貝。",
+                ja: "このポケモンがいるかぎり、相手は手札からポケモンを出して、バトルポケモンを進化させられない。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Schiacciamento della terra",
                 "de": "Land Crush",
                 "pt-br": "Esmagamento terrestre",
-                "zh-tw": "土地擠壓"
+                "zh-tw": "土地擠壓",
+                ja: "ランドクラッシュ"
             },
             damage: 80,
             cost: ["Fighting", "Colorless"]

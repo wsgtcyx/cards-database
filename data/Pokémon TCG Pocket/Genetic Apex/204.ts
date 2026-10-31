@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/204",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/204",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/204",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/204"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/204",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/204"
     },
     name: {
         en: "Tauros",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tauros",
         de: "Tauros",
         'pt-br': "Tauros",
+        ja: "ケンタロス",
         ko: "켄타로스",
         "zh-tw": "肯泰羅",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Incornata",
                 de: "Hornattacke",
                 'pt-br': "Ataque de Chifre",
+                ja: "つのでつく",
                 ko: "뿔찌르기",
                 "zh-tw": "號角攻擊"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Quando comincia a frustarsi con le sue stesse\ncode è pericoloso, in quanto è segno che sta\nper partire alla carica a tutta velocità.",
         de: "Peitscht es seinen Körper mit seinen Schweifen\naus, ist Vorsicht geboten, denn es steht kurz\ndavor, mit Karacho auf sein Ziel loszustürmen.",
         'pt-br': "Quando Tauros começa a chicotear a si mesmo\ncom suas caudas, é um aviso de que está prestes\na atacar com velocidade surpreendente.",
+        ja: "しっぽで 自分の 体を 叩きだしたら 危険だぞ。 猛スピードで 突っ込んでくる。",
         ko: "꼬리로 자신의 몸을\n때리기 시작하면 위험하다.\n맹렬한 스피드로 덤벼든다.",
         "zh-tw": "當金牛座開始用尾巴抽打自己時，這是一個警告，神奇寶貝即將以驚人的速度衝鋒。"
     },

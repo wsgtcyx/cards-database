@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/051",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/051",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/051"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/051"
     },
     name: {
         en: "Shinx",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Il movimento dei suoi muscoli produce elettricità. In caso di pericolo, la sua pelliccia si illumina tanto da diventare abbagliante.",
         de: "Es erzeugt Elektrizität, indem es seine Muskeln streckt und wieder zusammenzieht. Steckt es in der Klemme, leuchtet sein Fell gleißend hell.",
         "pt-br": "A expansão e contração de seus músculos gera eletricidade. Seu pelo brilha quando está em perigo.",
-        "zh-tw": "只要伸縮肌肉就能夠\n產生電流。身陷危機時\n體毛會發出刺眼的亮光。"
+        "zh-tw": "只要伸縮肌肉就能夠\n產生電流。身陷危機時\n體毛會發出刺眼的亮光。",
+        ja: "筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Shock Statico",
                 de: "Statischer Schock",
                 "pt-br": "Choque de Estática",
-                "zh-tw": "劈哩啪啦"
+                "zh-tw": "劈哩啪啦",
+                ja: "バチバチ"
             },
             damage: 30
         }

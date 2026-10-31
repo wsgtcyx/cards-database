@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/147",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/147",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/147",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/147"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/147",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/147"
     },
     name: {
         en: "Stantler",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Damhirplex",
         "pt-br": "Stantler",
         "zh-tw": "驚角鹿",
+        ja: "オドシシ",
     },
     illustrator: "sui",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sembra che questo Pokémon vivesse in molte zone\nambienti più difficili, come accadeva una volta\npoteri psichici più forti di quelli attuali.",
         "de": "Dieses Pokémon lebte offenbar früher in vielen Gegenden\nraueren Umgebungen, und so war es auch einmal\nstärkere psychische Kräfte als jetzt.",
         "pt-br": "Este Pokémon aparentemente vivia em muito\nambientes mais severos e, portanto, já teve\npoderes psíquicos mais fortes do que agora.",
-        "zh-tw": "這只神奇寶貝顯然曾經生活在很多地方\n環境更加惡劣，因此它曾經有過\n比現在更強的精神力量。"
+        "zh-tw": "這只神奇寶貝顯然曾經生活在很多地方\n環境更加惡劣，因此它曾經有過\n比現在更強的精神力量。",
+        ja: "昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Corni migliorati",
                 "de": "Verbesserte Hörner",
                 "pt-br": "Chifres aprimorados",
-                "zh-tw": "增強號角"
+                "zh-tw": "增強號角",
+                ja: "きょうかホーン"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 50 danni in più.",
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, fügt dieser Angriff 50 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。"
+                "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 50 點。",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/178",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/178",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/178",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/178"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/178",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/178"
 	},
 	name: {
 		en: "Oricorio",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Oricorio",
 		de: "Choreogel",
 		"pt-br": "Oricorio",
-		"zh-tw": "花舞鳥"
+		"zh-tw": "花舞鳥",
+		ja: "オドリドリ"
 	},
 	illustrator: "Jerky",
 	rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Forma di un Oricorio che si è nutrito di Nettare viola.\nChiama a sé le anime dei morti con eterei passi di danza.",
 		de: "Dieses Choreogel hat Purpurnen Nektar geschlürft.\nMit anmutigen Tanzschritten beschwört es die\nSeelen Verstorbener.",
 		"pt-br": "Esta forma de Oricorio bebericou néctar roxo.\nUsa passos de dança etéreos para invocar\nos espíritos dos mortos.",
+		ja: "むらさきのミツを 吸った 姿。 幻想的な ステップで 死者の 魂を 呼び出す。",
 		ko: "보라꿀을 빨아들인 모습.\n환상적인 스텝으로\n죽은 자의 영혼을 불러낸다.",
 		"zh-tw": "這種形態的奧里科里奧正在啜飲紫色花蜜。它用飄逸的舞步來召喚死者的靈魂。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Danza del Rancore",
 				de: "Tückischer Tanz",
 				"pt-br": "Dança Vingativa",
+				ja: "うらみのまい",
 				ko: "원한의춤",
 				"zh-tw": "惡意之舞"
 			},
@@ -58,6 +62,7 @@ const card: Card = {
 				it: "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni inflitti da un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 60 danni in più.",
 				de: "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
 				"pt-br": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 60 pontos de dano a mais.",
+				ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。",
 				ko: "상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 60데미지를 추가한다.",
 				"zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。"
 			}

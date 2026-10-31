@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/174",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/174",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/174",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/174"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/174",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/174"
     },
     name: {
         en: "Genesect",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha\nmodificato il corpo montandogli un cannone sul dorso.",
         de: "Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte\nes und pflanzte ihm am Rücken eine Kanone ein.",
         "pt-br": "Esse Pokémon existiu há 300 milhões de anos. A Equipe Plasma o alterou e acoplou um canhão em suas costas.",
-        "zh-tw": "存在於3億年前的寶可夢。\n被等離子隊改造，\n在背部裝了砲台。"
+        "zh-tw": "存在於3億年前的寶可夢。\n被等離子隊改造，\n在背部裝了砲台。",
+        ja: "３億年前に いた ポケモン。 プラズマ団に 改造 され 背中に 砲台を つけられた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tecnobotto",
                 de: "Techblaster",
                 "zh-tw": "高科技光炮",
-                "pt-br": "Rajada Tecnológica"
+                "pt-br": "Rajada Tecnológica",
+                ja: "テクノバスター"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。"
+                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。",
+                ja: "次の自分の番、このポケモンはワザが使えない。"
             },
             damage: 70
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/097",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/097",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/097",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/097"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/097"
     },
     name: {
         en: "Raichu",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Se le tasche elettriche sulle sue guance si caricano completamente, entrambe le orecchie rimarranno dritte.",
         de: "Wenn die elektrischen Beutel in seinen Wangen vollständig aufgeladen sind, stellen sich beide Ohren gerade auf.",
         "pt-br": "Se as bolsas elétricas em suas bochechas ficarem totalmente carregadas, ambas as orelhas ficarão retas.",
-        "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。"
+        "zh-tw": "如果臉頰上的電袋充滿電，兩隻耳朵就會直立起來。",
+        ja: "頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Tuono",
                 de: "Donner",
                 "pt-br": "Trovão",
-                "zh-tw": "打雷"
+                "zh-tw": "打雷",
+                ja: "かみなり"
             },
             effect: {
                 en: "This Pokémon also does 30 damage to itself.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 30 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 30 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 30 de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也會對自身造成 30 點傷害。"
+                "zh-tw": "這隻寶可夢也會對自身造成 30 點傷害。",
+                ja: "このポケモンにも30ダメージ。"
             },
             damage: 90
         }

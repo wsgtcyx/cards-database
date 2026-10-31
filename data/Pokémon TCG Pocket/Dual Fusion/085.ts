@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/085",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/085",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/085"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/085"
     },
     name: {
         en: "Mega Tyranitar ex",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Pupitar",
         "pt-br": "Pupitar",
         "zh-tw": "沙基拉斯",
-        ja: "Pupitar",
+        ja: "サナギラス",
         ko: "Pupitar"
     },
     suffix: "EX",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Schmetternde Randale",
                 "pt-br": "Fúria Esmagadora",
                 "zh-tw": "亂暴粉碎",
-                ja: "Crushing Rampage",
+                ja: "ランページクラッシュ",
                 ko: "Crushing Rampage"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
                 de: "Lege die obersten 2 Karten deines Decks ab.",
                 "pt-br": "Descarte as 2 cartas de cima do seu baralho.",
                 "zh-tw": "將自己的牌庫上方2張卡丟棄。",
-                ja: "Discard the top 2 cards of your deck.",
+                ja: "自分の山札を上から2枚トラッシュ。",
                 ko: "Discard the top 2 cards of your deck."
             }
         }

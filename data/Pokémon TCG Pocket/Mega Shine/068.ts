@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/068",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/068"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/068"
     },
     name: {
         en: "Calem",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Pesca una carta per ogni Pokémon Mega Evoluzione ex in gioco (sia tuo che del tuo avversario).",
         de: "Ziehe eine Karte für jedes Ex-Mega-Entwicklungs-Pokémon im Spiel (sowohl für deins als auch für das deines Gegners).",
         "pt-br": "Compre um card para cada Pokémon de Mega Evolução ex em jogo (seu e do seu oponente).",
-        "zh-tw": "為場上的每個超級進化寶可夢前抽一張卡（你的和你對手的）。"
+        "zh-tw": "為場上的每個超級進化寶可夢前抽一張卡（你的和你對手的）。",
+        ja: "おたがいの場の「メガシンカex」の数ぶん、自分の山札を引く。"
     },
     trainerType: "Supporter"
 };

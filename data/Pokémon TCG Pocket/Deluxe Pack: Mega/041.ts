@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/041",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/041"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/041"
     },
     name: {
         en: "Mega Blaziken ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Jungglut",
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
-        ja: "Combusken",
+        ja: "ワカシャモ",
         ko: "Combusken"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Mega-Brand",
                 "pt-br": "Megaqueimação",
                 "zh-tw": "超級燃燒",
-                ja: "Mega Burning",
+                ja: "メガバーニング",
                 ko: "Mega Burning"
             },
             damage: 120,
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon. O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。將對手的戰鬥寶可夢灼傷。",
-                ja: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
                 ko: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
             }
         }

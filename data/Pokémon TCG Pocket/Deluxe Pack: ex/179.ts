@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/179",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/179",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/179"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/179",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/179"
     },
     name: {
         en: "Oricorio",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Choreogel",
         "pt-br": "Oricorio",
         "zh-tw": "花舞鳥",
+        ja: "オドリドリ",
     },
     illustrator: "Jerky",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questa forma di Oricorio ha sorseggiato nettare viola. Utilizza\npassi di danza eterei per evocare gli spiriti dei morti.",
         "de": "Diese Form von Oricorio hat violetten Nektar getrunken. Es nutzt\nätherische Tanzschritte, um die Geister der Toten herbeizurufen.",
         "pt-br": "Esta forma de Oricorio bebeu néctar roxo. Ele usa\npassos de dança etéreos para invocar os espíritos dos mortos.",
-        "zh-tw": "這種形態的奧里科里奧正在啜飲紫色花蜜。它使用\n飄逸的舞步可以召喚死者的靈魂。"
+        "zh-tw": "這種形態的奧里科里奧正在啜飲紫色花蜜。它使用\n飄逸的舞步可以召喚死者的靈魂。",
+        ja: "むらさきのミツを 吸った 姿。 幻想的な ステップで 死者の 魂を 呼び出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Danza dispettosa",
                 "de": "Boshafter Tanz",
                 "pt-br": "Dança Malvada",
-                "zh-tw": "惡意之舞"
+                "zh-tw": "惡意之舞",
+                ja: "うらみのまい"
             },
             damage: "20+",
             cost: ["Psychic"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 60 danni in più.",
                 "de": "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 60 de dano a mais.",
-                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊而被擊倒，則這次攻擊造成的傷害增加 60 點。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

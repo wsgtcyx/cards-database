@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/067"
     },
     name: {
         en: "Cloyster",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cloyster",
         de: "Austos",
         'pt-br': "Cloyster",
+        ja: "パルシェン",
         ko: "파르셀",
         "zh-tw": "刺甲貝",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Shellder",
         "de": "Muschas",
         "pt-br": "Shellder",
-        "zh-tw": "大舌貝"
+        "zh-tw": "大舌貝",
+        ja: "シェルダー"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Guscioscudo",
                 de: "Panzerhaut",
                 'pt-br': "Armadura de Concha",
+                ja: "シェルアーマー",
                 ko: "조가비갑옷",
                 "zh-tw": "貝殼裝甲"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo Pokémon subisce -10 danni dagli attacchi.",
                 de: "Diesem Pokémon werden durch Attacken − 10 Schadenspunkte zugefügt.",
                 'pt-br': "Este Pokémon recebe −10 pontos de dano de ataques.",
+                ja: "このポケモンが受けるワザのダメージを-10する。",
                 ko: "이 포켓몬이 받는 기술의 데미지를 -10한다.",
                 "zh-tw": "該神奇寶貝受到的攻擊傷害為 -10。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 'pt-br': "Surfar",
+                ja: "なみのり",
                 ko: "파도타기",
                 "zh-tw": "衝浪"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Ai Cloyster che vivono in mari con forti correnti\ncrescono grandi aculei appuntiti sul guscio.",
         de: "Austos, die in Meeren mit starker\nStrömung leben, entwickeln große\nund scharfe Stacheln an ihrer Schale.",
         'pt-br': "Cloyster que vivem em mares com correntes\nintensas desenvolvem espinhos grandes\ne afiados em suas conchas.",
+        ja: "潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。",
         ko: "조수의 흐름이 격한 바다에 서식하는\n파르셀의 껍데기에 붙은 가시는\n크고 날카롭다.",
         "zh-tw": "生活在潮汐洶湧的海洋中的蛤蚌，其貝殼上長有又大又尖的尖刺。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/037"
     },
     name: {
         en: "Vulpix",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Vulpix",
         de: "Vulpix",
         'pt-br': "Vulpix",
+        ja: "ロコン",
         ko: "식스테일",
         "zh-tw": "六尾"
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Colpocoda",
                 de: "Rutenschlag",
                 'pt-br': "Cauda Chicote",
+                ja: "しっぽをふる",
                 ko: "꼬리흔들기",
                 "zh-tw": "尾鞭"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
                 de: "Wirf 1 Münze. Bei Kopf kann das Verteidigende Pokémon während des nächsten Zuges deines Gegners nicht angreifen.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Defensor não poderá atacar durante o próximo turno do seu oponente.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "拋一枚硬幣。如果正面朝上，則防守寶可夢在對手的下一個回合中不能攻擊。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Quando è giovane ha sei meravigliose code,\nche si moltiplicano durante la sua crescita.",
         de: "In seiner Jugend hat es sechs hinreißende\nSchweife. Während es wächst, kommen noch\nweitere neue Schweife hinzu.",
         'pt-br': "Quando é jovem, tem seis belas caudas.\nQuando cresce, várias novas caudas brotam.",
+        ja: "子どもだが ６本の しっぽが 美しい。 成長すると さらに しっぽが 増える。",
         ko: "어리지만 6개의 꼬리가\n아름답다. 성장하면\n한층 꼬리 수가 늘어난다.",
         "zh-tw": "年輕時，它有六條華麗的尾巴。當它長大時，會長出幾條新的尾巴。"
     },

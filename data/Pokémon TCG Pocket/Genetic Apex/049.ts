@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/049"
     },
     name: {
         en: "Salandit",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Salandit",
         de: "Molunk",
         'pt-br': "Salandit",
+        ja: "ヤトウモリ",
         ko: "야도뇽",
         "zh-tw": "夜盜火蜥",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Provoca le sue prede e le attira in stretti luoghi rocciosi,\nper poi stordirle con il suo gas velenoso e abbatterle.",
         de: "Es provoziert seine Beute und lockt sie\nin enge Felsspalten, wo es sie dann mit\nGiftgas ins Taumeln bringt und erlegt.",
         'pt-br': "Provoca suas presas e as atrai para áreas estreitas\ne rochosas. Em seguida, espirra sobre elas um gás\ntóxico para deixá-las atordoadas e dar o bote.",
+        ja: "獲物を 挑発して 狭い 岩場に 誘い込み フラフラになる 毒ガスを 吹きかけ 仕留めるのだ。",
         ko: "먹잇감을 도발해서\n좁은 암석 지대로 유인한 뒤\n어지러워지는 독가스를 뿜어서 마무리한다.",
         "zh-tw": "它會嘲弄獵物，將它們引誘到狹窄的岩石區域，然後向它們噴灑有毒氣體，使它們頭暈並把它們打倒。"
     },

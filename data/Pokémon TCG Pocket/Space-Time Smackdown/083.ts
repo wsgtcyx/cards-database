@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/083"
     },
     name: {
         en: "Gligar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gligar",
         de: "Skorgla",
         'pt-br': "Gligar",
+        ja: "グライガー",
         ko: "글라이거",
         "zh-tw": "天蠍",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Di solito sta attaccato agli scogli. Attacca\nla preda spalancando le ali e planando.",
         de: "Es hängt meist an Klippen. Erspäht es Beute,\nspreizt es seine Flügel und greift diese sofort an.",
         'pt-br': "Costuma agarrar-se a penhascos. Ao avistar sua presa,\nabre as asas e mergulha para o ataque.",
+        ja: "いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。",
         ko: "보통은 벼랑에 붙어 있다.\n먹이를 발견하면 날개를 펼쳐\n바람을 타고 날아 덮친다.",
         "zh-tw": "它通常緊貼懸崖。當它發現獵物時，它會展開翅膀並滑翔下來進行攻擊。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Perforare",
                 de: "Durchbohren",
                 'pt-br': "Perfurar",
+                ja: "つきさす",
                 ko: "궤찌르기",
                 "zh-tw": "刺穿"
             },

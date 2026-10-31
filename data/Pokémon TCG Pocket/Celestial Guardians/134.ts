@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/134",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/134"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/134"
     },
     name: {
         en: "Trumbeak",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Trumbeak",
         de: "Trompeck",
         'pt-br': "Trumbeak",
+        ja: "ケララッパ",
         ko: "크라파",
         "zh-tw": "喇叭啄鳥",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Peppeck",
         "pt-br": "Pikipek",
         "zh-tw": "小篤兒",
+        ja: "ツツケラ",
     },
     description: {
         en: "It can bend the tip of its beak to produce over a hundred different cries at will.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Mutando l'estremità del becco è in grado\ndi emettere più di 100 cinguettii differenti.",
         de: "Indem es seine Schnabelspitze verformt, kann es\nmehr als 100 verschiedene Rufe ausstoßen.",
         'pt-br': "Pode entortar a ponta de seu bico para emitir\nmais de cem sons diferentes.",
+        ja: "クチバシの 先端を 反り返らせ １００ 以上の 鳴き声を 自由に 鳴きわけることが できる。",
         ko: "부리의 끝을 뒤로 젖혀\n100가지 이상의 울음소리를\n자유롭게 낼 수 있다.",
         "zh-tw": "它可以彎曲喙尖，隨意發出一百多種不同的叫聲。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Aliante",
                 de: "Gleiten",
                 'pt-br': "Planeio",
+                ja: "かっくう",
                 ko: "활공",
                 "zh-tw": "滑行"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/205",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/205",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/205",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/205"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/205",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/205"
     },
     name: {
         en: "Tangela",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tangela",
         "de": "Tangela",
         "pt-br": "Tangela",
-        "zh-tw": "蔓藤怪"
+        "zh-tw": "蔓藤怪",
+        ja: "モンジャラ"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Nascosto sotto un groviglio di viti che cresce\nsenza sosta anche se le viti vengono strappate, questo\nIl vero aspetto dei Pokémon rimane un mistero.",
         "de": "Versteckt unter einem Gewirr von Weinreben, das wächst\nununterbrochen, auch wenn die Reben abgerissen werden\nDas wahre Aussehen des Pokémon bleibt ein Rätsel.",
         "pt-br": "Escondido sob um emaranhado de vinhas que cresce\nsem parar, mesmo que as vinhas sejam arrancadas, isso\nA verdadeira aparência do Pokémon permanece um mistério.",
-        "zh-tw": "隱藏在生長的藤蔓下面\n即使藤蔓被扯斷也不停歇，這\n神奇寶貝的真實面貌仍然是個謎。"
+        "zh-tw": "隱藏在生長的藤蔓下面\n即使藤蔓被扯斷也不停歇，這\n神奇寶貝的真實面貌仍然是個謎。",
+        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Polvere per dormire",
                 "de": "Schlafpulver",
                 "pt-br": "Pó para dormir",
-                "zh-tw": "睡眠粉"
+                "zh-tw": "睡眠粉",
+                ja: "ねむりごな"
             },
             damage: 20,
             cost: ["Grass", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

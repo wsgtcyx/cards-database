@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/019"
     },
     name: {
         en: "Jumpluff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Papungha",
         "pt-br": "Jumpluff",
         "zh-tw": "毽子棉",
+        ja: "ワタッコ",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Hubelupf",
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
+        ja: "ポポッコ",
     },
     description: {
         en: "Jumpluff travels on seasonal winds. Once its\ncotton spores run out, its journey ends, as does\nits life.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Jumpluff viaggia grazie ai venti stagionali. Una volta che è\nse le spore del cotone si esauriscono, il suo viaggio termina, così come\nla sua vita.",
         "de": "Jumpluff reist mit saisonalen Winden. Sobald es\nWenn die Sporen der Baumwolle erschöpft sind, endet auch ihre Reise\nsein Leben.",
         "pt-br": "Jumpluff viaja com ventos sazonais. Uma vez que é\nos esporos do algodão acabam, sua jornada termina, assim como\nsua vida.",
-        "zh-tw": "Jumpluff 依靠季風行駛。一旦它\n棉花孢子用完，它的旅程也結束了\n它的生命。"
+        "zh-tw": "Jumpluff 依靠季風行駛。一旦它\n棉花孢子用完，它的旅程也結束了\n它的生命。",
+        ja: "季節風に 乗り 旅をする。 綿胞子が 尽きるとき 旅と ワタッコの 一生は 終わる。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Volo soffice",
                 "de": "Flauschiger Flug",
                 "pt-br": "Voo fofo",
-                "zh-tw": "蓬鬆的飛行"
+                "zh-tw": "蓬鬆的飛行",
+                ja: "コットンフライト"
             },
             effect: {
                 en: "Your Active Pokémon has no Retreat Cost.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Il tuo Pokémon attivo non ha alcun costo di ritirata.",
                 "de": "Dein aktives Pokémon hat keine Rückzugskosten.",
                 "pt-br": "Seu Pokémon Ativo não tem Custo de Recuo.",
-                "zh-tw": "你的活躍神奇寶貝沒有撤退成本。"
+                "zh-tw": "你的活躍神奇寶貝沒有撤退成本。",
+                ja: "このポケモンがいるかぎり、自分のバトルポケモンのにげるためのエネルギーを、すべてなくす。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Attacco rotante",
                 "de": "Spinnangriff",
                 "pt-br": "Ataque giratório",
-                "zh-tw": "旋轉攻擊"
+                "zh-tw": "旋轉攻擊",
+                ja: "かいてんアタック"
             },
             damage: 60,
             cost: ["Grass"]

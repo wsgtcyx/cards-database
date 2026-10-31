@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/103"
     },
     name: {
         en: "Mudsdale",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mudsdale",
         de: "Pampross",
         'pt-br': "Mudsdale",
+        ja: "バンバドロ",
         ko: "만마드",
         "zh-tw": "重泥挽馬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Pampuli",
         "pt-br": "Mudbray",
         "zh-tw": "泥驢仔",
+        ja: "ドロバンコ",
     },
     description: {
         en: "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È molto apprezzato sia per i lavori di fatica,\nsia per il fango che produce, così sopraffino\nda essere impiegato per realizzare vasellame.",
         de: "Es wird sehr für seine Schwerstarbeit und für das\nHerstellen von hochwertigem Schlamm geschätzt,\nder ein ideales Material für die Keramik darstellt.",
         'pt-br': "Este Pokémon não é apenas apreciado pelo seu esforço\nfísico, mas também por produzir lama de alta qualidade\nusada em cerâmicas.",
+        ja: "力仕事 だけでなく 陶器の 材料の 上質な 泥を 作り出すため 大事にされてきた。",
         ko: "힘쓰는 일뿐만 아니라\n도자기의 재료가 되는 질 좋은 진흙을\n만들기 때문에 소중히 여겨져 왔다.",
         "zh-tw": "這種神奇寶貝不僅因其體力勞動而受到珍視，還因為它能產出用於製作陶器的優質泥漿。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Forza Equina",
                 de: "Pferdestärke",
                 'pt-br': "Potência Equina",
+                ja: "10まんばりき",
                 ko: "10만마력",
                 "zh-tw": "高馬力"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 40 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 40 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 40 pontos de dano a si mesmo.",
+                ja: "このポケモンにも40ダメージ。",
                 ko: "이 포켓몬에게도 40데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 40 點傷害。"
             }

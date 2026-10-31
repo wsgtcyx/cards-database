@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/117",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/117"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/117"
     },
     name: {
         en: "Alolan Diglett",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Diglett di Alola",
         de: "Alola-Digda",
         'pt-br': "Diglett de Alola",
+        ja: "アローラディグダ",
         ko: "알로라디그다",
         "zh-tw": "阿羅拉地鼠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il terreno ricco di metalli gli ha fatto\nspuntare dei peli d'acciaio sulla testa.",
         de: "Seine stählernen Haare auf dem Kopf sind ihm\ngewachsen, weil es sich in einem Boden mit\nhohem metallischen Anteil aufhielt.",
         'pt-br': "O habitat rico em metal deste Pokémon\nfez com que bigodes de aço se formassem em sua cabeça.",
+        ja: "金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。",
         ko: "금속 성분이 많이 포함된\n지질의 영향으로 강철\n수염이 머리에 났다.",
         "zh-tw": "這種神奇寶貝棲息地富含金屬的地質導致它的頭上長出了鋼須。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

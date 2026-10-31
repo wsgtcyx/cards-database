@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/191",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/191",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/191",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/191"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/191",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/191"
     },
     name: {
         en: "Ilima",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Liam",
         de: "Elima",
         'pt-br': "Luan",
+        ja: "イリマ",
         ko: "일리마",
         "zh-tw": "伊利馬"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Riprendi in mano uno dei tuoi Pokémon {C} danneggiati.",
         de: "Nimm 1 deiner {C}-Pokémon, dem bereits Schaden zugefügt wurde, auf deine Hand.",
         'pt-br': "Coloque 1 dos seus Pokémon {C} que estiver danificado na sua mão.",
+        ja: "ダメージを受けている自分の{C}ポケモンを1匹選び、手札にもどす。",
         ko: "데미지를 받고 있는 자신의 {C}포켓몬을 1마리 선택해서 패로 되돌린다.",
         "zh-tw": "將自己1只受到傷害的{C}寶可夢加入手牌。"
     },

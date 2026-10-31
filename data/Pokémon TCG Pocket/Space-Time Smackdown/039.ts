@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/039"
     },
     name: {
         en: "Floatzel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Floatzel",
         de: "Bojelin",
         'pt-br': "Floatzel",
+        ja: "フローゼル",
         ko: "플로젤",
         "zh-tw": "浮潛鼬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bamelin",
         "pt-br": "Buizel",
         "zh-tw": "泳圈鼬",
+        ja: "ブイゼル",
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Col galleggiante gonfio, può trasportare delle\npersone sul dorso. Per immergersi lo sgonfia.",
         de: "Mit gefüllter Schwimmblase kann es Menschen\nauf seinem Rücken tragen. Lässt es Luft aus ihr\nheraus, taucht es unter.",
         'pt-br': "Com sua bolsa de flutuação inflada, pode transportar\npessoas nas costas. Esvazia a bolsa antes de mergulhar.",
+        ja: "浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。",
         ko: "부낭을 부풀리면 사람을\n등에 태울 수 있다.\n부낭을 오그라들게 하여 잠수한다.",
         "zh-tw": "當浮囊膨脹時，它可以背著人。它在潛水前將囊放氣。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Vite Jet",
                 de: "Düsenschraube",
                 'pt-br': "Jato Parafuso",
+                ja: "ジェットスクリュー",
                 ko: "제트 스크루",
                 "zh-tw": "噴射螺桿"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
             }

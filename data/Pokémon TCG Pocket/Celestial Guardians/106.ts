@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/106",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/106",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/106"
     },
     name: {
         en: "Alolan Rattata",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rattata di Alola",
         de: "Alola-Rattfratz",
         'pt-br': "Rattata de Alola",
+        ja: "アローラコラッタ",
         ko: "알로라꼬렛",
         "zh-tw": "阿羅拉小拉達",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È interessato solo al cibo fresco e questo lo\nrende un aiutante prezioso nella scelta degli\ningredienti migliori quando si va a fare spesa.",
         de: "Es zeigt nur an frischen Dingen Interesse.\nNimmt man es mit zum Einkaufen, hilft es\neinem bei der Auswahl von Zutaten.",
         'pt-br': "Não demonstra interesse em algo que não seja fresco.\nSe você levar este Pokémon às compras, ele ajudará\na escolher os ingredientes.",
+        ja: "新鮮な ものにしか 興味を 示さない。 買い物に 連れていくと 食材選びの とき 助かる。",
         ko: "신선한 것에만 흥미를 보인다.\n장을 볼 때 데려가면\n식재료 고를 때 도움이 된다.",
         "zh-tw": "它對任何不新鮮的東西都不感興趣。如果你帶著它去購物，它會幫助你挑選食材。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },

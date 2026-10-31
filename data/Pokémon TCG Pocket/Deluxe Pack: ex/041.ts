@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/041"
     },
     name: {
         en: "Dartrix",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
+        ja: "フクスロー",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Bauz",
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
+        ja: "モクロー",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon narcisistico è un maniaco della pulizia. Se tu\nnon pulirlo diligentemente, potrebbe smettere di ascoltarti.",
         "de": "Dieses narzisstische Pokémon ist ein Sauberkeitsfreak. Wenn Sie\nPflegen Sie es nicht fleißig, es könnte sein, dass es Ihnen nicht mehr zuhört.",
         "pt-br": "Este Pokémon narcisista é uma aberração limpa. Se você\nnão o prepare diligentemente, ele pode parar de ouvi-lo.",
-        "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你\n不要勤奮地梳理它，它可能會不再聽你的。"
+        "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你\n不要勤奮地梳理它，它可能會不再聽你的。",
+        ja: "ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Ala rasoio",
                 "de": "Rasierflügel",
                 "pt-br": "Asa de Navalha",
-                "zh-tw": "剃刀之翼"
+                "zh-tw": "剃刀之翼",
+                ja: "するどいはね"
             },
             damage: 30,
             cost: ["Grass"]

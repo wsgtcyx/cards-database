@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/068",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/068",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/068"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/068"
     },
     name: {
         en: "Dugtrio",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Digda",
         "pt-br": "Diglett",
         "zh-tw": "地鼠",
-        ja: "Diglett",
+        ja: "ディグダ",
         ko: "Diglett"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Dreifachschmetterer",
                 "pt-br": "Pancada Tripla",
                 "zh-tw": "三重粉碎",
-                ja: "Triple Smash",
+                ja: "トリプルスマッシュ",
                 ko: "Triple Smash"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wirf 3 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 30 pontos de dano para cada cara.",
                 "zh-tw": "擲3次硬幣,造成正面出現的次數×30點傷害。",
-                ja: "Flip 3 coins. This attack does 30 damage for each heads.",
+                ja: "コインを3回投げ、オモテの数×30ダメージ。",
                 ko: "Flip 3 coins. This attack does 30 damage for each heads."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Seine drei Köpfe bewegen sich abwechselnd hinauf und hinunter, um das Erdreich um sich herum zu lockern und leichter graben zu können.",
         "pt-br": "Suas três cabeças movem-se separadamente pra cima e pra baixo para amaciarem o solo ao redor, facilitando a escavação.",
         "zh-tw": "三顆頭會輪流活動，是為了讓周圍的土壤變得更鬆更好挖。",
-        ja: "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+        ja: "３つの 頭が 互い違いに 動くのは まわりの 土を 柔らかくして 掘りやすくするため。",
         ko: "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow."
     }
 };

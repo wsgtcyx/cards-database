@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/070"
     },
     name: {
         en: "Rowlet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bauz",
         "pt-br": "Rowlet",
         "zh-tw": "木木梟",
+        ja: "モクロー",
     },
     illustrator: "OKACHEKE",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Manda le sue piume, che sono altrettanto affilate\ncome lame, volando in attacco. Le sue gambe sono forti,\nquindi anche i suoi calci sono formidabili.",
         "de": "Es schickt seine Federn, die ebenso scharf sind\nals Klingen, die im Angriff fliegen. Seine Beine sind stark,\nDaher sind auch seine Tritte beeindruckend.",
         "pt-br": "Ele envia suas penas, que são tão afiadas\ncomo lâminas, voando em ataque. Suas pernas são fortes,\nentão seus chutes também são formidáveis.",
-        "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。"
+        "zh-tw": "它發出它的羽毛，這些羽毛同樣鋒利\n如同刀鋒，飛行攻擊。它的腿很強壯，\n所以它的踢力也很強大。",
+        ja: "刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attacco di furia",
                 "de": "Wutangriff",
                 "pt-br": "Ataque de Fúria",
-                "zh-tw": "狂怒攻擊"
+                "zh-tw": "狂怒攻擊",
+                ja: "みだれづき"
             },
             damage: "10×",
             cost: ["Grass"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Questo attacco infligge 10 danni per ogni testa.",
                 "de": "Wirf 3 Münzen. Dieser Angriff verursacht 10 Schaden pro Kopf.",
                 "pt-br": "Jogue 3 moedas. Este ataque causa 10 de dano para cada cabeça.",
-                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。"
+                "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 10 點傷害。",
+                ja: "コインを3回投げ、オモテの数×10ダメージ。"
             }
         }],
     weaknesses: [{

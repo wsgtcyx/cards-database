@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/239",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/239",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/239",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/239"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/239",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/239"
     },
     name: {
         en: "Lickilicky ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schlurplek-ex",
         "pt-br": "Lickilicky ex",
         "zh-tw": "大舌舔ex",
+        ja: "ベロベルトex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Schlurp",
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
+        ja: "ベロリンガ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Furia leccata",
                 "de": "Wut lecken",
                 "pt-br": "Lambendo Fúria",
-                "zh-tw": "舔怒"
+                "zh-tw": "舔怒",
+                ja: "ベロベロラッシュ"
             },
             damage: "100+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 40 danni in più per ogni testa.",
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 40 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa mais 40 danos para cada cabeça.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 40 點額外傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/049",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/049",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/049"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/049"
     },
     name: {
         en: "Pikachu",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Quando vari Pokémon di questa specie si radunano, la loro energia si accumula e genera fulmini.",
         de: "Wenn sich mehrere dieser Pokémon versammeln, kann ihre geballte Energie Blitzgewitter erzeugen.",
         "pt-br": "Quando vários destes Pokémon se juntam, a eletricidade deles pode se acumular e causar tempestades de raios.",
-        "zh-tw": "據說同一處有好幾隻的時候，\n那裡就會凝集起強烈的電力，\n還可能造成閃電落於該處。"
+        "zh-tw": "據說同一處有好幾隻的時候，\n那裡就會凝集起強烈的電力，\n還可能造成閃電落於該處。",
+        ja: "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Ruggito",
                 de: "Heuler",
                 "pt-br": "Rosnadura",
-                "zh-tw": "叫聲"
+                "zh-tw": "叫聲",
+                ja: "なきごえ"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
                 "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
-                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu."
+                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu.",
+                ja: "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。"
             }
         }
     ],

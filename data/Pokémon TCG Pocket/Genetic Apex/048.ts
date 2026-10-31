@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/048"
     },
     name: {
         en: "Heatmor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Heatmor",
         de: "Furnifraß",
         'pt-br': "Heatmor",
+        ja: "クイタラン",
         ko: "앤티골",
         "zh-tw": "熔蟻獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Fuoco Continuo",
                 de: "Glühen",
                 'pt-br': "Combustão",
+                ja: "かえん",
                 ko: "화염",
                 "zh-tw": "燃燒"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Aspira aria dal foro nella coda per produrre delle\nfiamme. Se il foro viene tappato, inizia a sentirsi male.",
         de: "Es saugt über das Loch in seinem Schweif Luft für\nseine Flammen ein. Eine Verstopfung des Lochs\nschlägt Furnifraß sofort auf die Gesundheit.",
         'pt-br': "O buraco em sua cauda permite que absorva\no ar necessário para manter seu fogo aceso.\nSe o buraco for tampado, este Pokémon ficará doente.",
+        ja: "しっぽの 穴から 空気を 取りこみ 炎を 燃やす。 穴を 塞がれると 具合が 悪くなる。",
         ko: "꼬리의 구멍을 통해 공기를\n빨아들여 불꽃을 태운다.\n구멍이 막히면 상태가 나빠진다.",
         "zh-tw": "它的尾巴上有一個洞，可以讓它吸入保持火焰燃燒所需的空氣。如果洞被堵住，這只神奇寶貝就會生病。"
     },

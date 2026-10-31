@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/074"
     },
     name: {
         en: "Yamper",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voldi",
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
+        ja: "ワンパチ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon goloso aiuta solo le persone con\nil loro lavoro perché vuole dei dolcetti. Mentre corre,\ncrepita di elettricità.",
         "de": "Dieses gefräßige Pokémon hilft Menschen nur bei\nihre Arbeit, weil sie Leckereien will. Während es läuft,\nes knistert vor Elektrizität.",
         "pt-br": "Este Pokémon guloso só ajuda pessoas com\nseu trabalho porque quer guloseimas. À medida que corre,\nele estala com eletricidade.",
-        "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。"
+        "zh-tw": "這只貪吃的神奇寶貝只幫助有能力的人\n他們的工作是因為它需要款待。當它運行時，\n它通電時發出劈啪聲。",
+        ja: "おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。 パチパチと 電気を まとって ひた走る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Calcio di zap",
                 "de": "Zap-Kick",
                 "pt-br": "Chute Zap",
-                "zh-tw": "電擊踢"
+                "zh-tw": "電擊踢",
+                ja: "エレキック"
             },
             damage: 20,
             cost: ["Lightning"]

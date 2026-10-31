@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/182",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/182"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/182",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/182"
     },
     name: {
         en: "Hoothoot",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hoothoot",
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
+        ja: "ホーホー",
     },
     illustrator: "Uninori",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Sta sempre su un piede. Cambia piede così\nveloce, il movimento raramente può essere visto.",
         "de": "Es steht immer auf einem Bein. Es verändert die Füße so\nschnell, die Bewegung ist selten zu sehen.",
         "pt-br": "Ele sempre fica em um pé só. Ele muda os pés então\nrápido, o movimento raramente pode ser visto.",
-        "zh-tw": "它總是用一隻腳站立。它改變腳所以\n速度很快，很難看到動靜。"
+        "zh-tw": "它總是用一隻腳站立。它改變腳所以\n速度很快，很難看到動靜。",
+        ja: "いつも 一本足で 立っている。 脚を 入れ替える 瞬間は 素早くて なかなか 見られない。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Insonnia",
                 "de": "Schlaflosigkeit",
                 "pt-br": "Insônia",
-                "zh-tw": "失眠"
+                "zh-tw": "失眠",
+                ja: "ふみん"
             },
             effect: {
                 en: "This Pokémon can't be Asleep.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo Pokémon non può essere addormentato.",
                 "de": "Dieses Pokémon kann nicht schlafen.",
                 "pt-br": "Este Pokémon não pode estar dormindo.",
-                "zh-tw": "該寶可夢無法休眠。"
+                "zh-tw": "該寶可夢無法休眠。",
+                ja: "このポケモンはねむりにならない。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Attacco d'ala",
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
-                "zh-tw": "翼攻擊"
+                "zh-tw": "翼攻擊",
+                ja: "つばさでうつ"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

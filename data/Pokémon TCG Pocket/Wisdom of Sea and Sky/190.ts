@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/190",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/190"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/190",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/190"
     },
     name: {
         en: "Espeon ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Psiana-ex",
         "pt-br": "Espeon ex",
         "zh-tw": "太陽伊布ex",
+        ja: "エーフィex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Guarigione psichica",
                 "de": "Psychische Heilung",
                 "pt-br": "Cura Psíquica",
-                "zh-tw": "心靈治療"
+                "zh-tw": "心靈治療",
+                ja: "サイコヒール"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi curare 1 dei tuoi Pokémon da 30 danni.",
                 "de": "Einmal während deines Zuges kannst du, wenn sich dieses Pokémon an der aktiven Stelle befindet, 30 Schadenspunkte bei einem deiner Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá curar 30 pontos de dano de 1 dos seus Pokémon.",
-                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以治療你的 1 只神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以治療你的 1 只神奇寶貝造成的 30 點傷害。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のポケモン1匹のHPを30回復。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Super Dardo Psico",
                 "de": "Super Psy Bolt",
                 "pt-br": "Raio Super Psíquico",
-                "zh-tw": "超級心靈螺栓"
+                "zh-tw": "超級心靈螺栓",
+                ja: "ちょうねんりき"
             },
             damage: 80,
             cost: ["Psychic", "Psychic"]

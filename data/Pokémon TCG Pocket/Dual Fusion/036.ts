@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/036",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/036",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/036"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/036"
     },
     name: {
         en: "Jynx",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Hieb",
                 "pt-br": "Tapa",
                 "zh-tw": "巴掌",
-                ja: "Slap",
+                ja: "ビンタ",
                 ko: "Slap"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "In einer bestimmten Gegend von Galar wurde Rossana einst als „Königin des Eises“ gleichermaßen gefürchtet wie verehrt.",
         "pt-br": "Em algumas partes de Galar, Jynx já foi temida e idolatrada como a “Rainha do Gelo”.",
         "zh-tw": "在伽勒爾的某個地區，人們既害怕她又崇拜她，並且敬稱其為「冰之女王」。",
-        ja: "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+        ja: "ガラルの とある 地域では 氷の 女王と 呼んで ルージュラを 恐れ崇めていた。",
         ko: "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice."
     }
 };

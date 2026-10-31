@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/018"
     },
     name: {
         en: "Lilligant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dressella",
         "pt-br": "Lilligant",
         "zh-tw": "裙兒小姐",
+        ja: "ドレディア",
     },
     illustrator: "Kanako Eo",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
+        ja: "チュリネ",
     },
     description: {
         en: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non importa quanto tempo e denaro vengono spesi\nallevandolo, i suoi fiori sono i più belli quando\nfioriscono allo stato selvatico.",
         "de": "Egal wie viel Zeit und Geld investiert wird\nWenn man ihn hochzieht, sind seine Blüten am schönsten, wenn\nsie blühen in freier Wildbahn.",
         "pt-br": "Não importa quanto tempo e dinheiro sejam gastos\nao criá-la, suas flores são as mais lindas quando\neles florescem na natureza.",
-        "zh-tw": "無論花費多少時間和金錢\n養牠，它的花最美的時候\n它們在野外綻放。"
+        "zh-tw": "無論花費多少時間和金錢\n養牠，它的花最美的時候\n它們在野外綻放。",
+        ja: "どんなに 手間と お金を かけても 人の手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Aroma di tenacia",
                 "de": "Härtearoma",
                 "pt-br": "Aroma de Resistência",
-                "zh-tw": "韌性香氣"
+                "zh-tw": "韌性香氣",
+                ja: "タフネスアロマ"
             },
             effect: {
                 en: "Each of your {G} Pokémon gets +20 HP.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Ciascuno dei tuoi Pokémon {G} ottiene +20 HP.",
                 "de": "Jedes deiner {G} Pokémon erhält +20 HP.",
                 "pt-br": "Cada um dos seus Pokémon {G} recebe +20 HP.",
-                "zh-tw": "你的每隻 {G} 神奇寶貝都會獲得 +20 HP。"
+                "zh-tw": "你的每隻 {G} 神奇寶貝都會獲得 +20 HP。",
+                ja: "このポケモンがいるかぎり、自分の{G}ポケモン全員の最大HPを+20する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Schiaffo",
                 "de": "Klatschen",
                 "pt-br": "Bater",
-                "zh-tw": "斯馬克"
+                "zh-tw": "斯馬克",
+                ja: "ひらてうち"
             },
             damage: 50,
             cost: ["Grass", "Colorless"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/065",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/065"
     },
     name: {
         en: "Noctowl",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Noctowl",
         de: "Noctuh",
         'pt-br': "Noctowl",
+        ja: "ヨルノズク",
         ko: "야부엉",
         "zh-tw": "貓頭夜鷹",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Hoothoot",
         "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
+        ja: "ホーホー",
     },
     description: {
         en: "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Grazie alla speciale struttura dei suoi occhi,\ngli basta la luce più fioca per vedere anche\nnell'oscurità come fosse pieno giorno.",
         de: "Seine Augen sind so gut entwickelt, dass es selbst in fast\nkompletter Dunkelheit so klar sehen kann, als wäre es Tag.",
         'pt-br': "Seus olhos são especialmente desenvolvidos\npara permitir que ele enxergue na mais sombria\nescuridão e com o mínimo de luz.",
+        ja: "特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。",
         ko: "특수한 구조의 두 눈은\n약간의 빛만 있으면\n어둠 속에서도 낮처럼 볼 수 있다.",
         "zh-tw": "它的眼睛經過特殊發育，即使在昏暗的黑暗和微弱的光線下也能看得清楚。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ala Silenziosa",
                 de: "Lautlose Flügel",
                 'pt-br': "Asa Silenciosa",
+                ja: "サイレントウイング",
                 ko: "사일런트윙",
                 "zh-tw": "沉默之翼"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Il tuo avversario mostra le carte che ha in mano.",
                 de: "Dein Gegner zeigt dir seine Handkarten.",
                 'pt-br': "Seu oponente revela a mão dele.",
+                ja: "相手の手札のオモテをすべて見る。",
                 ko: "상대의 패의 앞면을 모두 본다.",
                 "zh-tw": "你的對手亮出了他們的牌。"
             }

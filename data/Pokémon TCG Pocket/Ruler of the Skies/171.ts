@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/171",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/171",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/171"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/171"
     },
     name: {
         en: "Poochyena",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Inseguono la preda in branco e la finiscono quando è esausta, ma se capita che questa contrattacchi scappano.",
         de: "Es jagt Beute im Rudel nach. Ist diese erschöpft, bringt es sie zur Strecke. Stößt Fiffyen jedoch auf Widerstand, ergreift es auch mal die Flucht.",
         "pt-br": "Poochyena perseguem suas presas em bandos. Quando a presa sucumbe ao cansaço, o bando acaba com ela. Mas às vezes o inimigo revida e a alcateia foge.",
-        "zh-tw": "會成群追擊獵物，並在其\n筋疲力盡時給予致命一擊，\n但有時會因遭到反擊而逃走。"
+        "zh-tw": "會成群追擊獵物，並在其\n筋疲力盡時給予致命一擊，\n但有時會因遭到反擊而逃走。",
+        ja: "群れで 獲物を 追いかけまわす。 疲れきったところを 仕留めるが たまに 反撃されて 逃げだす。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Caçada em Equipe",
                 "zh-tw": "成群狩獵",
                 "it": "Caccia in Branco",
-                "de": "Teamjagd"
+                "de": "Teamjagd",
+                ja: "チームハント"
             },
             effect: {
                 en: "Draw a card for each Poochyena you have in play.",
@@ -57,7 +60,8 @@ const card: Card = {
                 "pt-br": "Compre uma carta para cada Poochyena que você tem em jogo.",
                 "zh-tw": "從牌庫抽出與自己的場上的「土狼犬」相同數量的卡。",
                 "it": "Pesca una carta per ogni Poochyena che hai in gioco.",
-                "de": "Ziehe 1 Karte für jedes fiffyen, das du im Spiel hast."
+                "de": "Ziehe 1 Karte für jedes fiffyen, das du im Spiel hast.",
+                ja: "自分の場の「ポチエナ」の数ぶん、山札を引く。"
             }
         }
     ],

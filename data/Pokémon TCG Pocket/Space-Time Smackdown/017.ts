@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/017"
     },
     name: {
         en: "Combee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Combee",
         de: "Wadribie",
         'pt-br': "Combee",
+        ja: "ミツハニー",
         ko: "세꿀버리",
         "zh-tw": "三蜜蜂",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Scesa la notte, formano dei grandi alveari di\ncirca 100 esemplari e dormono raggruppati.",
         de: "Des Nachts schmiegen sich bis zu 100 Wadribie\naneinander und formieren sich so zum Schlafen\nzu einem großen Gebilde.",
         'pt-br': "À noite, Combee dormem amontados\nem grupos de aproximadamente cem indivíduos.",
+        ja: "夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。",
         ko: "밤이 되면 100마리 정도의\n세꿀버리가 모여\n커다란 덩어리가 되어 잠잔다.",
         "zh-tw": "晚上，科比大約有一百隻，緊密地擠在一起睡覺。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Cerca Famiglia",
                 de: "Familienruf",
                 'pt-br': "Chamar a Família",
+                ja: "なかまをよぶ",
                 ko: "동료부르기",
                 "zh-tw": "呼叫家人"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Prendi un Pokémon Base a caso dal tuo mazzo e mettilo nella tua panchina.",
                 de: "Lege 1 zufälliges Basis-Pokémon aus deinem Deck auf deine Bank.",
                 'pt-br': "Coloque 1 Pokémon Básico aleatório do seu baralho no seu Banco.",
+                ja: "自分の山札からたねポケモンをランダムに1枚、ベンチに出す。",
                 ko: "자신의 덱에서 기본 포켓몬eul_reul 랜덤으로 1장 벤치로 내보낸다.",
                 "zh-tw": "從你的牌組中隨機將 1 只基礎寶可夢放到你的替補席上。"
             }

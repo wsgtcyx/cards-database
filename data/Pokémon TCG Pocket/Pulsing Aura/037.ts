@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/037",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/037",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/037"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/037"
     },
     name: {
         en: "Vaporeon ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Flusso congelato",
                 de: "Gefrorener Fluss",
                 "pt-br": "Fluxo Congelado",
-                "zh-tw": "嚴寒水流"
+                "zh-tw": "嚴寒水流",
+                ja: "いてつくすいりゅう"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi mettere in panchina il Pokémon attivo del tuo avversario. (Il tuo avversario sceglie il nuovo Pokémon attivo.)",
                 de: "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du das aktive Pokémon deines Gegners auf die Bank tauschen. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Ponto Ativo, você poderá trocar o Pokémon Ativo do seu oponente para o Banco. (Seu oponente escolhe o novo Pokémon Ativo.)",
-                "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以將對手的活躍寶可夢切換到替補席。 （你的對手選擇新的活躍寶可夢。）"
+                "zh-tw": "在你的回合中，如果這隻寶可夢位於活躍位置，你可以將對手的活躍寶可夢切換到替補席。 （你的對手選擇新的活躍寶可夢。）",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]"
             }
         }
     ],
@@ -74,7 +77,8 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
-                "zh-tw": "飛濺"
+                "zh-tw": "飛濺",
+                ja: "スプラッシュ"
             },
             damage: 80
         }

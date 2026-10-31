@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/144",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/144"
     },
     name: {
         en: "Rare Candy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Caramella Rara",
         de: "Sonderbonbon",
         'pt-br': "Doce Raro",
+        ja: "ふしぎなアメ",
         ko: "이상한사탕",
         "zh-tw": "神奇糖果",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scegli uno dei tuoi Pokémon Base in gioco. Se hai in mano una carta di Fase 2 che si evolve da quel Pokémon, metticela sopra per farlo evolvere, saltando la Fase 1. Non puoi usare questa carta durante il tuo primo turno o su un Pokémon Base che hai messo in gioco nel turno in corso.",
         de: "Wähle 1 deiner Basis-Pokémon im Spiel. Wenn du eine Phase-2-Karte auf deiner Hand hast, die sich aus jenem Pokémon entwickelt, lege jene Karte auf das Basis-Pokémon, um es zu entwickeln und Phase 1 zu überspringen. Du kannst diese Karte nicht während deines ersten Zuges oder für ein Basis-Pokémon, das während dieses Zuges ins Spiel gebracht wurde, einsetzen.",
         'pt-br': "Escolha 1 dos seus Pokémon Básicos em jogo. Se você tiver uma carta de Estágio 2 na sua mão que evolua daquele Pokémon, coloque-a sobre o Pokémon Básico para , pulando o Estágio 1. Você não pode usar esta carta durante o seu primeiro turno ou em um Pokémon Básico que foi colocado em jogo neste turno.",
+        ja: "自分の手札から2進化ポケモンを1枚選び、そのポケモンへと進化する自分の場のたねポケモンにのせ、1進化をとばして進化させる。(最初の自分の番や、出したばかりのポケモンには使えない。)",
         ko: "자신의 패에서 2진화 포켓몬을 1장 선택해서 그 포켓몬으로 진화하는 자신의 필드의 기본 포켓몬 위에 올려 1진화를 건너뛰어 진화시킨다. (자신의 첫 번째 차례와 이번 차례에 내보낸 포켓몬에게는 사용할 수 없다.)",
         "zh-tw": "選擇場上的 1 個基礎神奇寶貝。如果你手上有一張從該神奇寶貝進化而來的第二階段卡，則將該卡放在基本神奇寶貝上使其進化，跳過第一階段。你不能在你的第一回合或本回合進場的基本神奇寶貝上使用這張卡。"
     },

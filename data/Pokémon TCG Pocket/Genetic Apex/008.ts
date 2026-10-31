@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/008"
     },
     name: {
         en: "Weedle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Weedle",
         de: "Hornliu",
         'pt-br': "Weedle",
+        ja: "ビードル",
         ko: "뿔충이",
         "zh-tw": "獨角蟲",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Puntura",
                 de: "Einstich",
                 'pt-br': "Ferroada",
+                ja: "チクチクさす",
                 ko: "따끔따끔찌르기",
                 "zh-tw": "蜇"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Vive soprattutto nei boschi e nei prati. Sul capo\nha un affilato e velenoso pungiglione lungo 5 cm.",
         de: "Es lebt bevorzugt in Wäldern und in hohem Gras.\nAuf dem Kopf trägt es einen circa 5 cm langen,\nspitzen, giftigen Stachel.",
         'pt-br': "Encontrado frequentemente em florestas e\npradarias. Possui uma farpa afiada e tóxica\nde cerca de 5 cm em cima da cabeça.",
+        ja: "森や 草地に 多く 生息。 頭の 先に ５センチぐらいの 小さく 鋭い 毒針を持つ。",
         ko: "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다.",
         "zh-tw": "常見於森林和草原。它的頭頂上有一個約兩英寸長的鋒利有毒倒刺。"
     },

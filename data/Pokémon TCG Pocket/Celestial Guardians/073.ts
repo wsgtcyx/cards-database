@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/073"
     },
     name: {
         en: "Lunatone",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lunatone",
         de: "Lunastein",
         'pt-br': "Lunatone",
+        ja: "ルナトーン",
         ko: "루나톤",
         "zh-tw": "月石",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "La sua forza sembra aumentare o diminuire a seconda\ndelle fasi lunari. È più attivo nelle notti di luna piena.",
         de: "Anscheinend steht die Zunahme seiner Kraft mit den\nMondphasen in Verbindung, da es bei Vollmond aktiv wird.",
         'pt-br': "A fase lunar aparentemente tem algum efeito\nsobre seu poder. Ele é ativo na noite de lua cheia.",
+        ja: "月の 満ち欠けと パワーの 増減が 関係 しているらしく 満月の 夜 活発になる。",
         ko: "달의 차고 기욺과 힘의\n증감이 관계하고 있는 듯\n보름달 밤에 활발해진다.",
         "zh-tw": "月相顯然對其功率有一定影響。它在滿月之夜活躍。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pressa Lunare",
                 de: "Mondkraft",
                 'pt-br': "Pressão Lunar",
+                ja: "ムーンプレス",
                 ko: "문프레스",
                 "zh-tw": "月亮出版社"
             },

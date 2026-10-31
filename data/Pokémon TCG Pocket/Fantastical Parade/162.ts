@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/162",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/162",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/162",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/162"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/162",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/162"
     },
     name: {
         en: "Scorbunny",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Scorbunny",
         "de": "Hopplo",
         "pt-br": "Scorbunny",
-        "zh-tw": "炎兔兒"
+        "zh-tw": "炎兔兒",
+        ja: "ヒバニー"
     },
     illustrator: "You Iribi",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'energia del fuoco si raccoglie nelle zampe dei suoi piedi,\nalzando la loro temperatura. Una volta caldo, quello di Scorbunny\ni footpad possono infliggere gravi danni agli avversari.",
         "de": "Feuerenergie sammelt sich in den Fußballen seiner Füße,\nihre Temperatur erhöhen. Sobald es heiß ist, Scorbunny's\nFußpolster können Gegnern schweren Schaden zufügen.",
         "pt-br": "A energia do fogo se acumula nas almofadas dos pés,\naumentando sua temperatura. Uma vez quente, Scorbunny's\nfootpads podem causar grandes danos aos oponentes.",
-        "zh-tw": "火氣聚集於腳掌，\n提高他們的體溫。一旦熱了，Scorbunny's\n腳墊可以對對手造成嚴重傷害。"
+        "zh-tw": "火氣聚集於腳掌，\n提高他們的體溫。一旦熱了，Scorbunny's\n腳墊可以對對手造成嚴重傷害。",
+        ja: "炎エネルギーが 集まる 足の 肉球は 高温になり 相手に 大ダメージを 与える。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 20,
             cost: ["Fire"]

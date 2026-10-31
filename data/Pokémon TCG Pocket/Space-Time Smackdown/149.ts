@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/149",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/149",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/149",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/149"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/149",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/149"
     },
     name: {
         en: "Lum Berry",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Baccaprugna",
         de: "Prunusbeere",
         'pt-br': "Fruta Lum",
+        ja: "ラムのみ",
         ko: "리샘열매",
         "zh-tw": "木子果",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Alla fine di ogni turno, se il Pokémon a cui è assegnata questa carta è influenzato da condizioni speciali, ne guarisce. Poi scarta questa carta.",
         de: "Am Ende jedes Zuges, wenn das Pokémon, an das diese Karte angelegt ist, von Speziellen Zuständen betroffen ist, erholt es sich von allen und du legst diese Karte auf deinen Ablagestapel.",
         'pt-br': "No final de cada turno, se o Pokémon ao qual esta carta está ligada estiver afetado por quaisquer Condições Especiais, ele se recuperará de todas delas, e descarte esta carta.",
+        ja: "おたがいの番の終わりに、このカードをつけているポケモンが特殊状態なら、そのポケモンの特殊状態をすべて回復。その後、このカードをトラッシュ。",
         ko: "서로의 차례의 마지막에 이 카드를 붙이고 있는 포켓몬이 특수 상태라면 그 포켓몬의 특수 상태를 모두 회복. 그 뒤, 이 카드를 트래쉬한다.",
         "zh-tw": "每回合結束時，如果這張卡所附著的神奇寶貝受到任何特殊狀態的影響，它就會從所有特殊狀態中恢復，並捨棄這張卡。"
     },

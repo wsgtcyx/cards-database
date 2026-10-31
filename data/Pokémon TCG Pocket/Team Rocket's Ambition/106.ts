@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/106",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/106",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/106"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/106"
     },
     name: {
         en: "Toxtricity ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Scintilla Dannosa",
                 de: "Funkenschaden",
                 "pt-br": "Faísca Nociva",
-                "zh-tw": "傷害電光"
+                "zh-tw": "傷害電光",
+                ja: "ダメージスパーク"
             },
             effect: {
                 en: "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 30 danni a ciascuno dei Pokémon danneggiati nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners, dem bereits Schaden zugefügt wurde, 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 30 pontos de dano a cada um dos Pokémon no Banco do seu oponente que estiver danificado.",
-                "zh-tw": "對手有受到傷害的所有備戰寶可夢也受到30點傷害。"
+                "zh-tw": "對手有受到傷害的所有備戰寶可夢也受到30點傷害。",
+                ja: "ダメージを受けている相手のベンチポケモン全員にも30ダメージ。"
             },
             damage: 90
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/227",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/227",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/227"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/227",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/227"
     },
     name: {
         en: "Marowak",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Marowak",
         de: "Knogga",
         'pt-br': "Marowak",
+        ja: "ガラガラ",
         ko: "텅구리",
         "zh-tw": "嘎啦嘎啦",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Tragosso",
         "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
+        ja: "カラカラ",
     },
     description: {
         en: "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Si è evoluto dopo essersi temprato e aver\nsuperato il lutto. Usa l'osso come un'arma\ne lotta valorosamente contro i nemici.",
         de: "Als es seine Trauer überwand, entwickelte es sich\nund wurde stärker. Mit seinem Knochen als Waffe\nstellt sich Knogga mutig seinen Feinden.",
         'pt-br': "Lidou com sua tristeza para evoluir um\ncorpo novo e forte. Enfrenta seus oponentes\ncom bravura, empunhando um osso como arma.",
+        ja: "悲しみを 乗りこえて たくましく 進化した。 骨を 武器にして 勇敢に 敵と 渡り合う。",
         ko: "슬픔을 극복하고 늠름하게\n진화했다. 뼈를 무기 삼아\n용감하게 적과 맞서 싸운다.",
         "zh-tw": "這只神奇寶貝克服了悲傷，進化出堅固的新身體。馬羅瓦克以骨頭為武器，勇敢地面對對手。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Colpo d'Osso",
                 de: "Knochenprügel",
                 'pt-br': "Surra de Osso",
+                ja: "ホネなぐり",
                 ko: "뼈때리기",
                 "zh-tw": "骨頭擊敗"
             },

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/012",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/012",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/012"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/012"
     },
     name: {
         en: "Frosmoth",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Provoca bufere di neve mentre vola in giro con le sue enormi ali che emanano gelo. L'acqua di disgelo pulita è la sua cosa preferita da bere.",
         de: "Es verursacht Schneestürme, wenn es mit seinen riesigen, Kälte ausstrahlenden Flügeln umherfliegt. Sauberes Schmelzwasser ist sein Lieblingsgetränk.",
         "pt-br": "Ele causa nevascas enquanto voa com suas enormes asas que emanam frio. Água derretida limpa é sua coisa favorita para beber.",
-        "zh-tw": "當它用巨大的、散發著寒冷的翅膀飛來飛去時，會引起暴風雪。乾淨的融水是它最喜歡喝的東西。"
+        "zh-tw": "當它用巨大的、散發著寒冷的翅膀飛來飛去時，會引起暴風雪。乾淨的融水是它最喜歡喝的東西。",
+        ja: "冷気を 発する 大きな 翅で 飛びまわり 猛吹雪を 起こす。 綺麗な 雪解け水が 好物。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Raggiaurora",
                 de: "Aurorastrahl",
                 "pt-br": "Raio Aurora",
-                "zh-tw": "極光束"
+                "zh-tw": "極光束",
+                ja: "オーロラビーム"
             },
             damage: 60
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/072"
     },
     name: {
         en: "Vaporeon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Aquana",
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
+        ja: "シャワーズ",
     },
     illustrator: "chibi",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Vive vicino all'acqua. La sua lunga coda è increspata\nuna pinna, che spesso viene scambiata per quella di una sirena.",
         "de": "Es lebt in der Nähe von Wasser. Sein langer Schwanz ist gerippt\neine Flosse, die oft mit der einer Meerjungfrau verwechselt wird.",
         "pt-br": "Vive perto da água. Sua longa cauda é estriada\numa barbatana, que muitas vezes é confundida com a de uma sereia.",
-        "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。"
+        "zh-tw": "它生活在靠近水的地方。它的長尾巴上佈滿了脊狀的\n鰭，經常被誤認為是美人魚的鰭。",
+        ja: "水辺に 棲むが 尻尾には 魚のような ひれが 残っていて 人魚と 間違う 人もいる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Iperidromassaggio",
                 "de": "Hyper-Whirlpool",
                 "pt-br": "Hiper Hidromassagem",
-                "zh-tw": "超級漩渦"
+                "zh-tw": "超級漩渦",
+                ja: "はかいのうずしお"
             },
             damage: 70,
             cost: ["Water", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta finché non esce croce. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
             }
         }],
     weaknesses: [{

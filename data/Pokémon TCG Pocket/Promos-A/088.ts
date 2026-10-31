@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/088",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/088",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/088"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/088"
     },
     name: {
         en: "Dragonair",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dragonir",
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
+        ja: "ハクリュー",
     },
     illustrator: "Shinya Komatsu",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Dratini",
         "de": "Dratini",
         "pt-br": "Dratini",
-        "zh-tw": "迷你龍"
+        "zh-tw": "迷你龍",
+        ja: "ミニリュウ"
     },
     description: {
         en: "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dicono che se emette un'aura dal suo insieme\ncorpo, il tempo inizierà a cambiare immediatamente.",
         "de": "Man sagt, wenn es als Ganzes eine Aura ausstrahlt\nKörper, das Wetter wird sich sofort ändern.",
         "pt-br": "Dizem que se emitir uma aura de todo o seu corpo\ncorpo, o tempo começará a mudar instantaneamente.",
-        "zh-tw": "他們說，如果它全身散發出一種光環\n身體，天氣就會瞬間開始變化。"
+        "zh-tw": "他們說，如果它全身散發出一種光環\n身體，天氣就會瞬間開始變化。",
+        ja: "全身から オーラが 出されると あたりの 天候が みるみるうちに 変わっていく という。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Cambiare pelle",
                 "de": "Haut abwerfen",
                 "pt-br": "Pele derramada",
-                "zh-tw": "脫皮"
+                "zh-tw": "脫皮",
+                ja: "だっぴ"
             },
             cost: ["Colorless"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 30 danni.",
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
+                ja: "このポケモンのHPを30回復。"
             }
         }],
     retreat: 2,

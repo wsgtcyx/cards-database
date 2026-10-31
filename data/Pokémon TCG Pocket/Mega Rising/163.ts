@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/163",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/163",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/163"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/163",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/163"
     },
     name: {
         en: "Impidimp",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bähmon",
         "pt-br": "Impidimp",
         "zh-tw": "搗蛋小妖",
+        ja: "ベロバー",
     },
     illustrator: "Rianti Hidayat",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vivono in gruppi, importunando e facendo scherzi\nl'uno sull'altro per affinare le proprie capacità di creare problemi.",
         "de": "Sie leben in Gruppen, belästigen und spielen Streiche\naufeinander, um ihre Unruhestifterfähigkeiten zu verbessern.",
         "pt-br": "Eles vivem em grupos, importunando e pregando peças\nuns com os outros para aprimorar suas habilidades de criar problemas.",
-        "zh-tw": "他們成群結隊地生活，糾纏著、惡作劇\n互相磨練他們製造麻煩的技巧。"
+        "zh-tw": "他們成群結隊地生活，糾纏著、惡作劇\n互相磨練他們製造麻煩的技巧。",
+        ja: "群れを 作って 暮らし おたがいに 悪戯や 嫌がらせを 仕掛けて その腕を 磨いているぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Darkness"]

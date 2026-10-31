@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/149",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/149",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/149",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/149"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/149",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/149"
     },
     name: {
         en: "Golem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golem",
         de: "Geowaz",
         'pt-br': "Golem",
+        ja: "ゴローニャ",
         ko: "딱구리",
         "zh-tw": "隆隆岩",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Graveler",
         "de": "Georok",
         "pt-br": "Graveler",
-        "zh-tw": "隆隆石"
+        "zh-tw": "隆隆石",
+        ja: "ゴローン"
     },
     attacks: [{
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Sdoppiatore",
                 de: "Risikotackle",
                 'pt-br': "Faca de Dois Gumes",
+                ja: "すてみタックル",
                 ko: "이판사판태클",
                 "zh-tw": "雙刃"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 50 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 50 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 50 pontos de dano a si mesmo.",
+                ja: "このポケモンにも50ダメージ。",
                 ko: "이 포켓몬에게도 50데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 50 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Quando invecchia, non fa più la muta.\nIl guscio dei Golem molto anziani si\nricopre di muschio tingendosi di verde.",
         de: "Im Alter hört es auf, sich zu häuten.\nDer Panzer betagter Geowaz ist mit\ndichtem, grünem Moos bewachsen.",
         'pt-br': "Ao envelhecer, Golem param de mudar de\ncarapaça. Os que viveram muitos e muitos\nanos têm carapaças cobertas de musgo verde.",
+        ja: "年老いると 脱皮 しなくなる。 長く長く 生きた ゴローニャの カラは 苔むしていて 緑だ。",
         ko: "나이가 들면 탈피를 하지 않는다.\n긴 세월을 산 딱구리의 껍질은\n이끼가 끼어 초록색이다.",
         "zh-tw": "當魔像變老時，它們就會停止脫落外殼。那些活了很久很久的，貝殼上長滿了青苔。"
     },

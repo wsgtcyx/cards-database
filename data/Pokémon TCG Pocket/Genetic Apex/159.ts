@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/159",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/159",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/159",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/159"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/159",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/159"
     },
     name: {
         en: "Kabutops",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kabutops",
         de: "Kabutops",
         'pt-br': "Kabutops",
+        ja: "カブトプス",
         ko: "투구푸스",
         "zh-tw": "鐮刀盔",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Kabuto",
         "de": "Kabuto",
         "pt-br": "Kabuto",
-        "zh-tw": "化石盔"
+        "zh-tw": "化石盔",
+        ja: "カブト"
     },
     attacks: [{
             cost: ["Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Sanguisuga",
                 de: "Blutsauger",
                 'pt-br': "Suga-vidas",
+                ja: "きゅうけつ",
                 ko: "흡혈",
                 "zh-tw": "水蛭生命"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da una quantità di danni pari a quelli inflitti al Pokémon attivo del tuo avversario.",
                 de: "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast.",
                 'pt-br': "Cure deste Pokémon a mesma quantidade de dano que você causou ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復。",
                 ko: "상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 HP를 회복.",
                 "zh-tw": "該神奇寶貝所造成的傷害與你對對手的活躍神奇寶貝造成的傷害相同。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Lacera le prede e ne succhia i fluidi corporei.\nI resti diventano poi cibo per altri Pokémon.",
         de: "Kabutops schlitzt seine Beute auf und saugt ihre\nKörpersäfte aus. Die Überreste dienen als\nNahrung für andere Pokémon.",
         'pt-br': "Kabutops despedaça sua presa e drena seus\nfluidos. As partes do corpo descartadas se\ntornam comida para outros Pokémon.",
+        ja: "獲物を 切り裂き 体液を すする。 残った 体は ほかのポケモンの エサになる。",
         ko: "먹이를 베어 갈라 체액을\n빨아먹는다. 남은 몸은\n다른 포켓몬의 먹이가 된다.",
         "zh-tw": "Kabutops 將獵物切成薄片並吸出液體。丟棄的身體部位成為其他神奇寶貝的食物。"
     },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/059"
     },
     name: {
         en: "Igglybuff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fluffeluff",
         "pt-br": "Igglybuff",
         "zh-tw": "寶寶丁",
+        ja: "ププリン",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il suo corpo ha un profumo leggermente dolce ed è rimbalzante\ne morbido. Se rimbalza anche una volta, non può fermarsi.",
         "de": "Sein Körper hat einen leicht süßlichen Duft und ist federnd\nund weich. Wenn es auch nur einmal abprallt, kann es nicht aufhören.",
         "pt-br": "Seu corpo tem um aroma levemente adocicado e é saltitante\ne macio. Se saltar pelo menos uma vez, não poderá parar.",
-        "zh-tw": "它的身體有淡淡的甜味，而且有彈性\n和柔軟的。即使彈起一次，也無法停止。"
+        "zh-tw": "它的身體有淡淡的甜味，而且有彈性\n和柔軟的。即使彈起一次，也無法停止。",
+        ja: "ほんのり 甘い 香りが して よく 弾む 柔らかい 体は 一度 弾みだすと 止まらない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ninna nanna assonnata",
                 "de": "Verschlafenes Schlaflied",
                 "pt-br": "Canção de ninar sonolenta",
-                "zh-tw": "昏昏欲睡的搖籃曲"
+                "zh-tw": "昏昏欲睡的搖籃曲",
+                ja: "すやすやソング"
             },
             damage: 10,
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     retreat: 0

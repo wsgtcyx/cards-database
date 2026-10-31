@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/179",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/179",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/179"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/179",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/179"
     },
     name: {
         en: "Pawniard",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pawniard",
         de: "Gladiantri",
         'pt-br': "Pawniard",
+        ja: "コマタナ",
         ko: "자망칼",
         "zh-tw": "駒刀小兵",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Perforare",
                 de: "Durchbohren",
                 'pt-br': "Perfurar",
+                ja: "つきさす",
                 ko: "궤찌르기",
                 "zh-tw": "刺穿"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Sfida anche i nemici più potenti senza timore.\nSe necessario, si aggrappa all'avversario e lo\ntrafigge con le lame che ha sul corpo.",
         de: "Furchtlos stellt es sich selbst starken Gegnern.\nIm Ernstfall hält es sich an ihnen fest und sticht\nmit den vielen Klingen an seinem Körper zu.",
         'pt-br': "Pawniard desafiará bravamente até oponentes mais\npoderosos. Num piscar de olhos, aproxima-se de sua\nvítima e a perfura com as lâminas que cobrem o seu corpo.",
+        ja: "強敵にも 恐れず 挑む。 いざとなると 相手に しがみつき 体中の 刃で 貫く。",
         ko: "강한 상대에게도 겁먹지 않고 덤빈다.\n여차하면 상대에게 달라붙어서\n몸에 달린 칼날로 찌른다.",
         "zh-tw": "即使是強大的敵人，Pawniard 也會無所畏懼地挑戰。緊要關頭，它會緊貼對手，用全身的刀刃刺穿他們。"
     },

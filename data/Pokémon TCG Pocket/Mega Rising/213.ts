@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/213",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/213",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/213",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/213"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/213",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/213"
     },
     name: {
         en: "Prank Spinner",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rad des Zufalls",
         "pt-br": "Roleta Travessa",
         "zh-tw": "惡作劇輪盤",
+        ja: "いたずらルーレット",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Una carta dalle mani di entrambi i giocatori viene scelta a caso, rivelata all'altro giocatore e mescolata nel mazzo del suo proprietario.",
         "de": "Aus den Händen beider Spieler wird zufällig eine Karte ausgewählt, dem anderen Spieler aufgedeckt und in den Stapel ihres Besitzers gemischt.",
         "pt-br": "Uma carta dentre as mãos de ambos os jogadores é escolhida aleatoriamente, revelada ao outro jogador e embaralhada no baralho de seu dono.",
-        "zh-tw": "隨機選擇兩名玩家手中的一張牌，向另一名玩家展示，並洗入其所有者的牌庫中。"
+        "zh-tw": "隨機選擇兩名玩家手中的一張牌，向另一名玩家展示，並洗入其所有者的牌庫中。",
+        ja: "おたがいの手札の中からランダムに1枚選ばれ、選ばれたカードのオモテをおたがいに見て、持ち主の山札にもどす。"
     },
     trainerType: "Item"
 };

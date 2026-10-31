@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/001"
     },
     name: {
         en: "Pinsir",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pinsir",
         "pt-br": "Pinsir",
         "zh-tw": "凱羅斯",
+        ja: "カイロス",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon afferra la preda con le sue chele\ne poi o spacca la preda a metà o la lancia\nvia.",
         "de": "Dieses Pokémon greift seine Beute mit seiner Zange an\nund spaltet dann entweder die Beute in zwei Hälften oder schleudert sie\nes weg.",
         "pt-br": "Este Pokémon aperta suas pinças sobre sua presa\ne então divide a presa ao meio ou a arremessa\nisso embora.",
-        "zh-tw": "這只神奇寶貝用鉗子夾住獵物\n然後要么把獵物劈成兩半，要么把獵物扔出去\n把它帶走。"
+        "zh-tw": "這只神奇寶貝用鉗子夾住獵物\n然後要么把獵物劈成兩半，要么把獵物扔出去\n把它帶走。",
+        ja: "ツノで 獲物を 挟みこみ そのまま まっぷたつに するか 強引に 投げ飛ばしてしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Forbice X",
                 "de": "X-Schere",
                 "pt-br": "Tesoura X",
-                "zh-tw": "X型剪刀"
+                "zh-tw": "X型剪刀",
+                ja: "シザークロス"
             },
             damage: "50+",
             cost: ["Grass", "Grass", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 50 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 50 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。",
+                ja: "コインを1回投げオモテなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

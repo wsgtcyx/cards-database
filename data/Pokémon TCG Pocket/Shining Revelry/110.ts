@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/110",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/110",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/110"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/110"
     },
     name: {
         en: "Lucario ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lucario-ex",
         de: "Lucario-ex",
         'pt-br': "Lucario ex",
+        ja: "ルカリオex",
         ko: "루카리오 ex",
         "zh-tw": "路卡利歐ex"
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Riolu",
         "de": "Riolu",
         "pt-br": "Riolu",
-        "zh-tw": "利歐路"
+        "zh-tw": "利歐路",
+        ja: "リオル"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
             it: "Sferapulsar",
             de: "Aurasphäre",
             'pt-br': "Aura Esférica",
+            ja: "はどうだん",
             ko: "파동탄",
             "zh-tw": "光環球體"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Questo attacco infligge anche 30 danni a uno dei Pokémon nella panchina del tuo avversario.",
             de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
             'pt-br': "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+            ja: "相手のベンチポケモン1匹にも30ダメージ。",
             ko: "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다.",
             "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 30 點傷害。"
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/068"
     },
     name: {
         en: "Frillish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quabbel",
         "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
+        ja: "プルリル",
     },
     illustrator: "Apios",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La leggenda narra che gli abitanti di un affondato\nl'antica città si è trasformata in questi Pokémon.",
         "de": "Der Legende nach sollen die Bewohner eines versunkenen\nDie antike Stadt hat sich in diese Pokémon verwandelt.",
         "pt-br": "Diz a lenda que os moradores de um local submerso\ncidade antiga se transformou nesses Pokémon.",
-        "zh-tw": "傳說，沉沒的居民\n古城變成了這些神奇寶貝。"
+        "zh-tw": "傳說，沉沒的居民\n古城變成了這些神奇寶貝。",
+        ja: "海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/045"
     },
     name: {
         en: "Cramorant",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cramorant",
         "de": "Urgl",
         "pt-br": "Cramorant",
-        "zh-tw": "古月鳥"
+        "zh-tw": "古月鳥",
+        ja: "ウッウ"
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Cramorant approfitta della frenetica di Arrokuda\ndimenandosi per aiutare a sputare Arrokuda ad alta velocità.",
         "de": "Cramorant nutzt Arrokudas Hektik aus\num sich zu schlagen, um Arrokuda mit hoher Geschwindigkeit auszuspucken.",
         "pt-br": "Cramorant aproveita o frenético de Arrokuda\nse debatendo para ajudar a cuspir Arrokuda em alta velocidade.",
-        "zh-tw": "克拉莫蘭特利用阿羅庫達的瘋狂\n猛擊以幫助Arrokuda高速吐出。"
+        "zh-tw": "克拉莫蘭特利用阿羅庫達的瘋狂\n猛擊以幫助Arrokuda高速吐出。",
+        ja: "喉に 詰まらせた サシカマスの ビチビチと 跳ねまわる 力を 利用して 高速で 吐き出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Tiro sputato",
                 "de": "Ausgespuckter Schuss",
                 "pt-br": "Tiro cuspido",
-                "zh-tw": "吐出射擊"
+                "zh-tw": "吐出射擊",
+                ja: "はきだしショット"
             },
             cost: ["Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
+                ja: "相手のベンチポケモン1匹に30ダメージ。"
             }
         }],
     weaknesses: [{

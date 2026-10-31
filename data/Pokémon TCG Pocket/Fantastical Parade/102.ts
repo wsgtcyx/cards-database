@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/102",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/102",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/102"
     },
     name: {
         en: "Skuntank",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Skuntank",
         "de": "Skuntank",
         "pt-br": "Skuntank",
-        "zh-tw": "坦克臭鼬"
+        "zh-tw": "坦克臭鼬",
+        ja: "スカタンク"
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Stunky",
         "de": "Skunkapuh",
         "pt-br": "Stunky",
-        "zh-tw": "臭鼬噗"
+        "zh-tw": "臭鼬噗",
+        ja: "スカンプー"
     },
     description: {
         en: "It attacks by spraying a repugnant fluid from its\ntail, but the stench dulls after a few squirts.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Attacca spruzzando un fluido ripugnante dai suoi\ncoda, ma la puzza si attenua dopo pochi schizzi.",
         "de": "Es greift an, indem es eine abstoßende Flüssigkeit aus seinem Körper versprüht\nSchwanz, aber der Gestank lässt nach ein paar Spritzern nach.",
         "pt-br": "Ele ataca pulverizando um fluido repugnante de seu\ncauda, mas o fedor diminui depois de algumas esguichos.",
-        "zh-tw": "它通過從其身體噴出令人厭惡的液體來進行攻擊\n尾巴，但噴幾下後臭味就減弱了。"
+        "zh-tw": "它通過從其身體噴出令人厭惡的液體來進行攻擊\n尾巴，但噴幾下後臭味就減弱了。",
+        ja: "尻尾の 先から くさい 臭いの 液体を 飛ばして 攻撃。 連射すると 臭いは 弱まる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo di cortina di fumo",
                 "de": "Nebelschuss",
                 "pt-br": "Tiro de cortina de fumaça",
-                "zh-tw": "煙幕彈"
+                "zh-tw": "煙幕彈",
+                ja: "えんまくだん"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se il Pokémon difensore tenta di usare un attacco, il tuo avversario lancia una moneta. Se esce croce, l'attacco non avviene.",
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
-                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
+                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
             }
         }],
     weaknesses: [{

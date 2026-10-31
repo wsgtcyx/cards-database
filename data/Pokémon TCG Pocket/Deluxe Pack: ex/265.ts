@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/265",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/265",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/265",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/265"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/265",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/265"
     },
     name: {
         en: "Tinkatuff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tafforgita",
         "pt-br": "Tinkatuff",
         "zh-tw": "巧鍛匠",
+        ja: "ナカヌチャン",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Forgita",
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
+        ja: "カヌチャン",
     },
     description: {
         en: "This Pokémon will attack groups of Pawniard and\nBisharp, gathering metal from them in order to\ncreate a large and sturdy hammer.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon attaccherà gruppi di Pawniard e\nBisharp, raccogliendo metallo da loro per farlo\ncreare un martello grande e robusto.",
         "de": "Dieses Pokémon greift Gruppen von Pawniard und an\nBisharp sammelt Metall von ihnen, um es zu tun\nErstellen Sie einen großen und robusten Hammer.",
         "pt-br": "Este Pokémon atacará grupos de Pawniard e\nBisharp, reunindo metal deles para\ncrie um martelo grande e resistente.",
-        "zh-tw": "這只神奇寶貝會攻擊一群Pawniard和\nBisharp，從他們身上收集金屬，以便\n製作一把大而堅固的錘子。"
+        "zh-tw": "這只神奇寶貝會攻擊一群Pawniard和\nBisharp，從他們身上收集金屬，以便\n製作一把大而堅固的錘子。",
+        ja: "大きくて 頑丈な ハンマーを 作るために キリキザンの 群れを 襲って 金属を 集める。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Martello tenace",
                 "de": "Hartnäckiger Hammer",
                 "pt-br": "Martelo Tenaz",
-                "zh-tw": "頑強之鎚"
+                "zh-tw": "頑強之鎚",
+                ja: "がんばりハンマー"
             },
             damage: "30+",
             cost: ["Metal", "Metal"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

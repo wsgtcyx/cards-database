@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/020"
     },
     name: {
         en: "Haunter",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Haunter",
         de: "Alpollo",
         'pt-br': "Haunter",
+        ja: "ゴースト",
         ko: "고우스트",
         "zh-tw": "鬼斯通",
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Attacco a Sorpresa",
                 de: "Überraschungsangriff",
                 'pt-br': "Ataque Surpresa",
+                ja: "ふいをつく",
                 ko: "허찌르기",
                 "zh-tw": "偷襲"
             },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             }
@@ -58,7 +62,8 @@ const card: Card = {
         "it": "Gastly",
         "de": "Nebulak",
         "pt-br": "Gastly",
-        "zh-tw": "鬼斯"
+        "zh-tw": "鬼斯",
+        ja: "ゴース"
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
@@ -67,6 +72,7 @@ const card: Card = {
         it: "Adora stare in agguato nei luoghi bui e toccare\nle spalle delle vittime con le sue mani gassose.\nIl suo tocco causa brividi incontenibili.",
         de: "Es lauert gern im Dunkeln und tippt Leuten mit\nseiner gasförmigen Hand auf die Schulter.\nSeine Berührung erzeugt endloses Schaudern.",
         'pt-br': "Gosta de se esconder no escuro e bater nos\nombros dos outros com sua mão gasosa.\nSeu toque causa arrepios que não acabam mais.",
+        ja: "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
         ko: "어둠을 틈타 가스로 된 손을 뻗쳐\n사람의 어깨를 두드리기 좋아한다.\n그 손에 닿으면 떨림이 멈추지 않는다.",
         "zh-tw": "牠喜歡潛伏在黑暗中拍拍肩膀\n用氣手。它的觸動引發無盡的\n顫抖。"
     },

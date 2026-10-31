@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/024"
     },
     name: {
         en: "Cryogonal",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Frigometri",
         "pt-br": "Cryogonal",
         "zh-tw": "幾何雪花",
+        ja: "フリージオ",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I criogonali compaiono durante le stagioni fredde. Si dice\nquelle persone e Pokémon che muoiono nella neve\nle montagne rinascono in questi Pokémon.",
         "de": "Kryogonale treten in der kalten Jahreszeit auf. Es heißt\ndass Menschen und Pokémon, die im Schnee sterben\nBerge werden in diesen Pokémon wiedergeboren.",
         "pt-br": "Criogonais aparecem durante as estações frias. É dito\nque pessoas e Pokémon que morrem na neve\nmontanhas renascem nesses Pokémon.",
-        "zh-tw": "冷凍出現在寒冷季節。據說\n那些死在雪地裡的人和神奇寶貝\n山脈在這些神奇寶貝中重生。"
+        "zh-tw": "冷凍出現在寒冷季節。據說\n那些死在雪地裡的人和神奇寶貝\n山脈在這些神奇寶貝中重生。",
+        ja: "寒い 季節に 現れる。 雪山で 亡くなった ポケモンや 人の 生まれ変わりと 言われる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lama di ghiaccio",
                 "de": "Eisklinge",
                 "pt-br": "Lâmina de Gelo",
-                "zh-tw": "冰刃"
+                "zh-tw": "冰刃",
+                ja: "こおりのやいば"
             },
             cost: ["Water", "Water"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 40 danni a 1 dei Pokémon del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。"
+                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。",
+                ja: "相手のポケモン1匹に40ダメージ。"
             }
         }],
     weaknesses: [{

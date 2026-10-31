@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/074"
     },
     name: {
         en: "Shuppet",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shuppet",
         de: "Shuppet",
         'pt-br': "Shuppet",
+        ja: "カゲボウズ",
         ko: "어둠대신",
         "zh-tw": "怨影娃娃",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ama cibarsi di invidia e odio. Il corno ritto sul capo\ngli permette di percepire le emozioni della gente.",
         de: "Es verspeist am liebsten Gefühle wie Neid und Bosheit.\nSein aufrechtes Horn fängt die Emotionen der Menschen ein.",
         'pt-br': "Adora se alimentar de sentimentos como inveja e malícia.\nSeu chifre vertical capta as emoções das pessoas.",
+        ja: "恨みや 妬みの 感情が 大好物。 ピンと立った ツノが 人間の 気持ちを キャッチする。",
         ko: "원한이나 질투 같은 감정이\n좋아하는 먹이다. 뾰족하게 솟은 뿔이\n인간의 기분을 감지해 낸다.",
         "zh-tw": "牠喜歡以嫉妒和惡意等感情為食。它直立的角抓住了人們的情緒。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuocofatuo",
                 de: "Irrlicht",
                 'pt-br': "Fogo Fátuo",
+                ja: "おにび",
                 ko: "도깨비불",
                 "zh-tw": "鬼火"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/080"
     },
     name: {
         en: "Machoke",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Machoke",
         "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "豪力"
+        "zh-tw": "豪力",
+        ja: "ゴーリキー"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Machop",
         "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "腕力"
+        "zh-tw": "腕力",
+        ja: "ワンリキー"
     },
     description: {
         en: "Its formidable body never gets tired. It helps\npeople by doing work such as the moving of\nheavy goods.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo corpo formidabile non si stanca mai. Aiuta\npersone svolgendo lavori come il trasloco\nmerci pesanti.",
         "de": "Sein beeindruckender Körper wird nie müde. Es hilft\nMenschen durch Arbeiten wie den Umzug\nschwere Güter.",
         "pt-br": "Seu corpo formidável nunca se cansa. Isso ajuda\npessoas realizando trabalhos como a mudança de\nmercadorias pesadas.",
-        "zh-tw": "它強大的身體永遠不會疲倦。它有幫助\n人們通過做諸如搬家之類的工作\n重貨。"
+        "zh-tw": "它強大的身體永遠不會疲倦。它有幫助\n人們通過做諸如搬家之類的工作\n重貨。",
+        ja: "疲れることのない 強靭な 肉体を もつ。 重い 荷物の 運搬などの 仕事を 手伝う。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Taglio",
                 "de": "Hacken",
                 "pt-br": "Cortar",
-                "zh-tw": "劈"
+                "zh-tw": "劈",
+                ja: "チョップ"
             },
             damage: 40,
             cost: ["Fighting"]

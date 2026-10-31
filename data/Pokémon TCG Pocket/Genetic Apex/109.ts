@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/109",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/109",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/109",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/109"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/109",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/109"
     },
     name: {
         en: "Eelektross",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Eelektross",
         de: "Zapplarang",
         'pt-br': "Eelektross",
+        ja: "シビルドン",
         ko: "저리더프",
         "zh-tw": "麻麻鰻魚王",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Eelektrik",
         "de": "Zapplalek",
         "pt-br": "Eelektrik",
-        "zh-tw": "麻麻鰻"
+        "zh-tw": "麻麻鰻",
+        ja: "シビビール"
     },
     attacks: [{
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fulmindenti",
                 de: "Donnerzahn",
                 'pt-br': "Presa Trovejante",
+                ja: "かみなりのキバ",
                 ko: "번개엄니",
                 "zh-tw": "雷牙"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Striscia fuori dal mare con la sola forza\ndei propri arti. Poi attacca la preda a riva\ne con un guizzo la trascina con sé in acqua.",
         de: "Es kriecht mithilfe seiner Arme an Land,\nstürzt sich auf seine Beute und zerrt sie\naugenblicklich ins Meer.",
         'pt-br': "Rastejam para fora do oceano usando seus braços.\nEles atacam as presas na costa e as arrastam\nimediatamente para a água.",
+        ja: "腕の 力で 海から はい出し 水辺の 獲物に 襲いかかる。 一瞬で 海へ 引きずりこむ。",
         ko: "팔 힘으로 바다에서 기어 나와\n물가에 있는 먹이를 덮친다.\n한순간에 바다로 끌고 들어간다.",
         "zh-tw": "他們用手臂從海裡爬出來。它們會攻擊岸上的獵物，然後立即將其拖入大海。"
     },

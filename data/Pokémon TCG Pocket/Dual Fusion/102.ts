@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/102",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/102",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/102",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/102"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/102",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/102"
     },
     name: {
         en: "Pidgey",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Freunde finden",
                 "pt-br": "Encontre um Amigo",
                 "zh-tw": "尋找朋友",
-                ja: "Find a Friend",
+                ja: "ともだちをさがす",
                 ko: "Find a Friend"
             },
             cost: [
@@ -65,7 +66,7 @@ const card: Card = {
                 de: "Nimm 1 zufälliges {C}-Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque 1 Pokémon {C} aleatório do seu baralho na sua mão.",
                 "zh-tw": "從自己的牌庫隨機將1張{C}寶可夢卡加入手牌。",
-                ja: "Put 1 random {C} Pokémon from your deck into your hand.",
+                ja: "自分の山札から{C}ポケモンをランダムに1枚、手札に加える。",
                 ko: "Put 1 random {C} Pokémon from your deck into your hand."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
         de: "Ein vorwiegend in Wäldern lebendes Pokémon, das zur Verteidigung mit den Flügeln Sand aufwirbelt.",
         "pt-br": "Uma visão comum nas florestas. Ele agita suas asas no chão para levantar uma areia cegante.",
         "zh-tw": "大量分布在森林或樹叢中。即使停在地上，有時也會用力拍打翅膀激起沙子。",
-        ja: "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+        ja: "森や 林に 多く 分布。 地上でも 激しく はばたいて 砂を かけたりする。",
         ko: "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
     }
 };

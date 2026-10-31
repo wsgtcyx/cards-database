@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/123",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/123",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/123"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/123"
     },
     name: {
         en: "Turtonator",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive nei vulcani. Lo zolfo di cui si nutre rende\nesplosivo il suo carapace e i suoi escrementi.\nQuesti ultimi sono molto pericolosi.",
         de: "Da es in Vulkanen lebt, nimmt es mit der Nahrung\nviel Schwefel auf, was seinen Panzer und seinen\nKot explosiv macht. Letzterer ist ein Gefahrengut.",
         "pt-br": "Os compostos explosivos no seu casco são resultado da sua dieta de enxofre do seu habitat vulcânico. Suas fezes também são perigosamente explosivas.",
-        "zh-tw": "在火山上生活，吃下的硫磺\n就是甲殼上炸藥的原料。\n連糞便也會爆炸，十分危險。"
+        "zh-tw": "在火山上生活，吃下的硫磺\n就是甲殼上炸藥的原料。\n連糞便也會爆炸，十分危險。",
+        ja: "火山で 暮らし 食べた 硫黄が 甲羅の 爆薬の もとになる。 フンも 爆発する 危険物。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fiamma Ardente",
                 de: "Sengende Flamme",
                 "pt-br": "Chama Cauterizante",
-                "zh-tw": "灼燒"
+                "zh-tw": "灼燒",
+                ja: "やきこがす"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "將對手的戰鬥寶可夢灼傷。"
+                "zh-tw": "將對手的戰鬥寶可夢灼傷。",
+                ja: "相手のバトルポケモンをやけどにする。"
             },
             damage: 70
         }

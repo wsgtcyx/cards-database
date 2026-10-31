@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/130",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/130",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/130"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/130"
     },
     name: {
         en: "Rising Star",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "這張卡只有在自己的場上寶可夢的屬性有3種以上時才可使用。 將自己的戰鬥寶可夢與備戰寶可夢互換。",
         it: "Puoi usare questa carta solo se hai almeno 3 Pokémon di tipo diverso in gioco.\n\nScambia il tuo Pokémon attivo con uno della tua panchina.",
         de: "Du kannst diese Karte nur einsetzen, wenn du 3 oder mehr Pokémon verschiedenen Typs im Spiel hast.\n\nTausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus.",
-        ja: "You can use this card only if you have 3 or more different Pokémon types in play. Switch your Active Pokémon with 1 of your Benched Pokémon.",
+        ja: "このカードは、自分の場のポケモンのタイプが3種類以上のときにしか使えない。 自分のバトルポケモンを、ベンチポケモンと入れ替える。",
         ko: "You can use this card only if you have 3 or more different Pokémon types in play. Switch your Active Pokémon with 1 of your Benched Pokémon."
     }
 };

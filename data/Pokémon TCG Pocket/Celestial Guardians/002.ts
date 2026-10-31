@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/002"
     },
     name: {
         en: "Alolan Exeggutor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Exeggutor di Alola",
         de: "Alola-Kokowei",
         'pt-br': "Exeggutor de Alola",
+        ja: "アローラナッシー",
         ko: "알로라나시",
         "zh-tw": "阿羅拉椰蛋樹",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Owei",
         "pt-br": "Exeggcute",
         "zh-tw": "蛋蛋",
+        ja: "タマタマ",
     },
     description: {
         en: "Blazing sunlight has brought out the true form and powers of this Pokémon.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "L'esposizione a intensi raggi solari ha risvegliato\nl'aspetto e il potere originari di questo Pokémon.",
         de: "Durch starke Sonneneinstrahlung wurden seine\neigentlichen Kräfte und seine wahre Gestalt freigesetzt.",
         'pt-br': "A luz solar escaldante revelou a verdadeira forma\ne os poderes deste Pokémon.",
+        ja: "ギラギラと 照りつける 太陽の 光を 浴びた 結果 本来の 姿と 能力が 目覚めた。",
         ko: "쨍쨍 내리쬐는 태양 빛을\n받은 결과 본래의\n모습과 능력이 각성되었다.",
         "zh-tw": "熾熱的陽光展現了這只神奇寶貝的真實形態和力量。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Martellata Tropicale",
                 de: "Tropischer Hammer",
                 'pt-br': "Martelo Tropical",
+                ja: "トロピカルハンマー",
                 ko: "트로피컬해머",
                 "zh-tw": "熱帶錘"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             }

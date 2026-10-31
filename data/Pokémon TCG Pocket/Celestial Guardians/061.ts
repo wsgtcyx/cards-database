@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/061"
     },
     name: {
         en: "Alolan Golem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Golem di Alola",
         de: "Alola-Geowaz",
         'pt-br': "Golem de Alola",
+        ja: "アローラゴローニャ",
         ko: "알로라딱구리",
         "zh-tw": "阿羅拉隆隆岩",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Georok",
         "pt-br": "Graveler de Alola",
         "zh-tw": "阿羅拉隆隆石",
+        ja: "アローラゴローン",
     },
     description: {
         en: "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Ha un carattere scontroso e testardo. Se viene\ncontrariato lancia scariche elettriche da tutto\nil corpo ed emette un verso simile a un tuono.",
         de: "Wenn man dieses dickköpfige und mürrische Pokémon\nverärgert, stößt es aus seinem Körper Strom aus und\nheult mit donnernder Stimme auf.",
         'pt-br': "É carrancudo e teimoso. Quando este Pokémon é\nincomodado, descarrega eletricidade por todo seu corpo\ne ruge como um trovão.",
+        ja: "気難しくて 頑固。 機嫌を 損ねると 全身から 放電し 雷鳴の ような 声で ほえる。",
         ko: "신경질적이며 완고하다. 기분이\n상하면 전신에서 전기를 방출하여\n우렛소리같이 큰 소리로 운다.",
         "zh-tw": "它脾氣暴躁又固執。如果你打擾它，它就會從身體表面釋放電流，並發出雷鳴般的咆哮聲。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Falcecannone Super",
                 de: "Super-Blitzkanone",
                 'pt-br': "Supercanhão Zap",
+                ja: "ちょうでんじほう",
                 ko: "초전자포",
                 "zh-tw": "超級電擊砲"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {L} da questo Pokémon.",
                 de: "Lege 2 {L}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {L} deste Pokémon.",
+                ja: "このポケモンから{L}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {L}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 {L} 點能量。"
             }

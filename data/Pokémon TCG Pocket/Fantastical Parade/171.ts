@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/171",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/171",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/171"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/171",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/171"
     },
     name: {
         en: "Tyrantrum",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tyrantrum",
         "de": "Monargoras",
         "pt-br": "Tyrantrum",
-        "zh-tw": "怪顎龍"
+        "zh-tw": "怪顎龍",
+        ja: "ガチゴラス"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Tyrunt",
         "de": "Balgoras",
         "pt-br": "Tyrunt",
-        "zh-tw": "寶寶暴龍"
+        "zh-tw": "寶寶暴龍",
+        ja: "チゴラス"
     },
     description: {
         en: "A single bite of Tyrantrum's massive jaws will\ndemolish a car. This Pokémon was the king of the\nancient world.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un singolo morso delle enormi mascelle di Tyrantrum lo farà\ndemolire un'auto. Questo Pokémon era il re dei\nmondo antico.",
         "de": "Ein einziger Biss in Tyrantrums gewaltige Kiefer reicht aus\nein Auto demolieren. Dieses Pokémon war der König der\nAntike Welt.",
         "pt-br": "Uma única mordida nas enormes mandíbulas de Tyrantrum irá\ndemolir um carro. Este Pokémon era o rei do\nmundo antigo.",
-        "zh-tw": "暴君巨大的下巴只要咬一口就會\n拆毀一輛車。這只神奇寶貝是世界之王\n古代世界。"
+        "zh-tw": "暴君巨大的下巴只要咬一口就會\n拆毀一輛車。這只神奇寶貝是世界之王\n古代世界。",
+        ja: "大顎は ひと噛みするだけで 自動車も 粉々に する。 古代の 世界の 王者。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna tirannica",
                 "de": "Tyrannischer Reißzahn",
                 "pt-br": "Presa Tirânica",
-                "zh-tw": "暴虐之牙"
+                "zh-tw": "暴虐之牙",
+                ja: "ティラノファング"
             },
             damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se hai meno Pokémon in gioco del tuo avversario, questo attacco infligge 80 danni in più.",
                 "de": "Wenn du weniger Pokémon im Spiel hast als dein Gegner, fügt dieser Angriff 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver menos Pokémon em jogo que seu oponente, este ataque causará 80 de dano a mais.",
-                "zh-tw": "如果你場上的神奇寶貝數量少於對手，則此攻擊造成的傷害增加 80 點。"
+                "zh-tw": "如果你場上的神奇寶貝數量少於對手，則此攻擊造成的傷害增加 80 點。",
+                ja: "自分の場のポケモンの数が、相手の場のポケモンの数より少ないなら、80ダメージ追加。"
             }
         }],
     weaknesses: [{

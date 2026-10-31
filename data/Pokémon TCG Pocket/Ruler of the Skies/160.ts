@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/160",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/160",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/160",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/160"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/160",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/160"
     },
     name: {
         en: "Ponyta",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Una volta conquistata la fiducia di Ponyta,\nè possibile toccare la sua criniera infuocata\nsenza scottarsi.",
         de: "Hat man erst einmal das Vertrauen eines Ponitas\ngewonnen, kann man seltsamerweise sogar seine\nfeurige Mähne anfassen, ohne sich zu verbrennen.",
         "pt-br": "Se você foi aceito por Ponyta, sua juba ardente misteriosamente não está mais quente ao toque.",
-        "zh-tw": "得到了小火馬認可的人，\n在觸摸牠燃燒著的鬃毛時\n不會覺得燙手，真是不可思議。"
+        "zh-tw": "得到了小火馬認可的人，\n在觸摸牠燃燒著的鬃毛時\n不會覺得燙手，真是不可思議。",
+        ja: "ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attizzatoio",
                 de: "Anheizen",
                 "pt-br": "Carregar",
-                "zh-tw": "燃起"
+                "zh-tw": "燃起",
+                ja: "もえあがる"
             },
             effect: {
                 en: "Take a {R} Energy from your Energy Zone and attach it to this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un'Energia {R} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {R}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 1 Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從自己的能量區抽出1個{R}能量,附於這隻寶可夢身上。"
+                "zh-tw": "從自己的能量區抽出1個{R}能量,附於這隻寶可夢身上。",
+                ja: "自分のエネルギーゾーンから{R}エネルギーを1個出し、このポケモンにつける。"
             }
         }
     ],

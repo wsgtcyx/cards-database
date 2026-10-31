@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/038"
     },
     name: {
         en: "Vanillish",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vanillish",
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
-        "zh-tw": "多多冰"
+        "zh-tw": "多多冰",
+        ja: "バニリッチ"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vanillite",
         "de": "Gelatini",
         "pt-br": "Vanillite",
-        "zh-tw": "迷你冰"
+        "zh-tw": "迷你冰",
+        ja: "バニプッチ"
     },
     description: {
         en: "It blasts enemies with cold air reaching −148\ndegrees Fahrenheit, freezing them solid. But it\nspares their lives afterward—it's a kind Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Colpisce i nemici con aria fredda che raggiunge -148\ngradi Fahrenheit, congelandoli allo stato solido. Ma quello\nrisparmia loro la vita: è un Pokémon gentile.",
         "de": "Es beschießt Feinde mit kalter Luft und erreicht einen Wert von −148\nGrad Fahrenheit und gefriert sie fest. Aber es\nverschont ihnen danach das Leben – es ist ein freundliches Pokémon.",
         "pt-br": "Ele atinge os inimigos com ar frio atingindo -148\ngraus Fahrenheit, congelando-os. Mas isso\npoupa suas vidas depois - é um Pokémon gentil.",
-        "zh-tw": "它用達到-148的冷空氣轟炸敵人\n華氏度，將它們凍結成固體。但它\n之後饒了他們一命——這是一隻善良的神奇寶貝。"
+        "zh-tw": "它用達到-148的冷空氣轟炸敵人\n華氏度，將它們凍結成固體。但它\n之後饒了他們一命——這是一隻善良的神奇寶貝。",
+        ja: "マイナス１００度の 冷気で 敵を 凍らせるが 命までは 奪わない 優しい 気質。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Alitogelido",
                 "de": "Eisesodem",
                 "pt-br": "Respiração de Gelo",
-                "zh-tw": "冰霜呼吸"
+                "zh-tw": "冰霜呼吸",
+                ja: "こおりのいぶき"
             },
             damage: 40,
             cost: ["Water"]

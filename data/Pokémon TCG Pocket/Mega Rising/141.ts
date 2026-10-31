@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/141"
     },
     name: {
         en: "Stufful",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Velursi",
         "pt-br": "Stufful",
         "zh-tw": "童偶熊",
+        ja: "ヌイコグマ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il modo in cui si protegge agitando le braccia può farlo\nsarà uno spettacolo adorabile, ma stai alla larga. Questo è\nagitazione che può spezzare spessi tronchi d'albero.",
         "de": "Die Art und Weise, wie es sich selbst schützt, indem es mit den Armen um sich schlägt, mag sein\nSeien Sie ein entzückender Anblick, aber bleiben Sie fern. Das ist\nDreschen, die dicke Baumstämme zerbrechen können.",
         "pt-br": "A maneira como ele se protege agitando os braços pode\nseja uma visão adorável, mas fique bem longe. Isto é\nagitando-se que pode quebrar troncos grossos de árvores.",
-        "zh-tw": "它通過揮動手臂來保護自己的方式可能會\n這是一個可愛的景象，但要遠離。這是\n揮舞可以折斷粗大的樹幹。"
+        "zh-tw": "它通過揮動手臂來保護自己的方式可能會\n這是一個可愛的景象，但要遠離。這是\n揮舞可以折斷粗大的樹幹。",
+        ja: "前脚を じたばた 振って 身を 守る 様子が 可愛らしいが 大木を へし折る 威力だ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pugno Magnum",
                 "de": "Magnum Punch",
                 "pt-br": "Soco Magnum",
-                "zh-tw": "萬能沖床"
+                "zh-tw": "萬能沖床",
+                ja: "マグナムパンチ"
             },
             damage: 40,
             cost: ["Fighting", "Fighting"]

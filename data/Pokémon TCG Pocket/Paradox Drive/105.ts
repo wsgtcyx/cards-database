@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/105",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/105",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/105"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/105"
     },
     name: {
         en: "Armarouge ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Armatura",
                 de: "Rüstung",
                 "pt-br": "Armadura",
-                "zh-tw": "裝甲"
+                "zh-tw": "裝甲",
+                ja: "そうこう"
             },
             effect: {
                 en: "This Pokémon takes -30 damage from attacks.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Questo Pokémon subisce -30 danni dagli attacchi.",
                 de: "Dieses Pokémon erleidet -30 Schaden durch Angriffe.",
                 "pt-br": "Este Pokémon sofre -30 de dano de ataques.",
-                "zh-tw": "這隻寶可夢受到的攻擊傷害為-30。"
+                "zh-tw": "這隻寶可夢受到的攻擊傷害為-30。",
+                ja: "このポケモンが受けるワザのダメージを-30する。"
             }
         }
     ],
@@ -74,7 +77,8 @@ const card: Card = {
                 it: "Corazza Cannone",
                 de: "Rüstungskanone",
                 "pt-br": "Canhão de Armadura",
-                "zh-tw": "鎧農炮"
+                "zh-tw": "鎧農炮",
+                ja: "アーマーキャノン"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon.",
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Scarta un'Energia {R} da questo Pokémon.",
                 de: "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的 {R} 能量。"
+                "zh-tw": "丟棄該寶可夢的 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
             },
             damage: 120
         }

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/041",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/041",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/041"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/041"
     },
     name: {
         en: "Kyogre",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Si dice che abbia ampliato i mari provocando piogge\ntorrenziali. Si è assopito in una fossa marina.",
         de: "Man sagt, es habe die Meere vergrößert, indem es\nes regnen ließ. Es schlief in einem Meeresgraben.",
         "pt-br": "Diz-se que expandiu os mares causando inúmeras torrentes. Estava adormecido em uma fossa marinha.",
-        "zh-tw": "據說會用降下\n大雨的能力擴張海洋。\n一直沉睡在海溝的底部。"
+        "zh-tw": "據說會用降下\n大雨的能力擴張海洋。\n一直沉睡在海溝的底部。",
+        ja: "大雨を 降らせる 能力で 海を 広げたと 言われている。 海溝の 底で 眠っていた。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Maré Explosiva",
                 "zh-tw": "潮汐爆破",
                 "it": "Mareggiata Rovinosa",
-                "de": "Gezeitenstoß"
+                "de": "Gezeitenstoß",
+                ja: "タイダルブラスト"
             },
             effect: {
                 en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Rimuovi 3 Energie {W} da questo Pokémon. Questo attacco infligge 50 danni a ciascuno dei Pokémon del tuo avversario.",
                 "pt-br": "Descarte 3 Energias {W} deste Pokémon, e este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。",
-                "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu."
+                "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu.",
+                ja: "このポケモンから{W}エネルギーを3個トラッシュし、相手のポケモン全員に50ダメージ。"
             }
         }
     ],

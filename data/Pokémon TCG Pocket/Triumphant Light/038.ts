@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/038"
     },
     name: {
         en: "Donphan",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Donphan",
         de: "Donphan",
         'pt-br': "Donphan",
+        ja: "ドンファン",
         ko: "코리갑",
         "zh-tw": "頓甲",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Phanpy",
         "pt-br": "Phanpy",
         "zh-tw": "小小象",
+        ja: "ゴマゾウ",
     },
     description: {
         en: "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La sua pelle è così dura che anche se sbatte\ncontro una macchina non si fa un graffio.\nLa pioggia è il suo punto debole.",
         de: "Seine Haut ist so hart, dass ihm nicht einmal der\nZusammenprall mit einem Auto etwas anhaben kann.\nRegen setzt ihm jedoch stark zu.",
         'pt-br': "Donphan é recoberto por uma couraça resistente\ne não se abala nem quando é atingido por um carro.\nNo entanto, é extremamente vulnerável a chuva.",
+        ja: "硬い 皮膚に 覆われているので 車と ぶつかっても へっちゃら。 ただし 雨には めっぽう 弱い。",
         ko: "튼튼한 피부로 둘러싸여 있기 때문에\n차에 부딪혀도 끄떡없다.\n그러나 비에는 매우 약하다.",
         "zh-tw": "唐凡全身覆蓋著堅韌的皮革，因此即使被車撞也不會困擾這只神奇寶貝。然而，它極易受雨影響。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ruzzolata",
                 de: "Drehwalze",
                 'pt-br': "Giro Rolante",
+                ja: "ローリングスピン",
                 ko: "롤링스핀",
                 "zh-tw": "滾動旋轉"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Ruzzolata di questo Pokémon infligge +60 danni.",
                 de: "Während deines nächsten Zuges fügt die Attacke Drehwalze von diesem Pokémon + 60 Schadenspunkte zu.",
                 'pt-br': "Durante o seu próximo turno, o ataque Giro Rolante deste Pokémon causará + 60 pontos de dano.",
+                ja: "次の自分の番、このポケモンの「ローリングスピン」のダメージを+60する。",
                 ko: "자신의 다음 차례에 이 포켓몬의 「롤링스핀」의 데미지를 +60한다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝的滾動旋轉攻擊造成 +60 點傷害。"
             }

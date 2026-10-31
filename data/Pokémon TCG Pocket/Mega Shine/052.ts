@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/052",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/052",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/052"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/052"
     },
     name: {
         en: "Dragonair",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Si chiama il Pokémon divino. Quando tutto il suo corpo si illumina leggermente, il tempo cambia.",
         de: "Es wird das göttliche Pokémon genannt. Wenn sich sein ganzer Körper leicht aufhellt, ändert sich das Wetter.",
         "pt-br": "É chamado de Pokémon divino. Quando todo o seu corpo ilumina ligeiramente, o clima muda.",
-        "zh-tw": "被稱為神寶可夢。當它的整個身體稍微變亮時，天氣就會改變。"
+        "zh-tw": "被稱為神寶可夢。當它的整個身體稍微變亮時，天氣就會改變。",
+        ja: "神聖な ポケモンと 言われる。 全身が ほのかに 光ると あたりの 天気が 様変わりする。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Dono del Cielo",
                 de: "Himmelssegen",
                 "pt-br": "Bênção dos Céus",
-                "zh-tw": "天空祈願"
+                "zh-tw": "天空祈願",
+                ja: "てんくうのいのり"
             },
             effect: {
                 en: "Take a {W} and a {L} Energy from your Energy Zone and attach them to this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Prendi un'Energia {W} e un'Energia {L} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 de: "Nimm eine {W}- und eine {L}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue uma energia {W} e uma {L} da sua zona de energia e ligue-as a este Pokémon.",
-                "zh-tw": "從你的能量區域取出一個{W}和一個{L}能量並將它們附加到那個寶可夢上。"
+                "zh-tw": "從你的能量區域取出一個{W}和一個{L}能量並將它們附加到那個寶可夢上。",
+                ja: "自分のエネルギーゾーンから{W}と{L}エネルギーを1個ずつ出し、このポケモンにつける。"
             }
         }
     ],

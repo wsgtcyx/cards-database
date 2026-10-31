@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/026",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/026",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/026"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/026"
     },
     name: {
         en: "Charcadet",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Irrlicht",
                 "pt-br": "Fogo Fátuo",
                 "zh-tw": "鬼火",
-                ja: "Will-O-Wisp",
+                ja: "おにび",
                 ko: "Will-O-Wisp"
             },
             cost: [
@@ -71,7 +72,7 @@ const card: Card = {
         de: "Ein verbranntes Stück Holzkohle ist als Pokémon zum Leben erwacht. Es fordert selbst starke Gegner heraus und hat einen feurigen Kampfgeist.",
         "pt-br": "Um carvão queimado ganhou vida e tornou-se um Pokémon. Com um espírito de luta flamejante, Charcadet batalhará até mesmo contra oponentes mais fortes.",
         "zh-tw": "生命寄宿在燃燒的木炭上，變成了寶可夢。即使敵人再強，也會以燃燒的鬥志迎面而戰。",
-        ja: "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+        ja: "焼けた 木炭に 命が 宿り ポケモンになった。 燃える 闘志で 強敵にも 戦いを 挑む。",
         ko: "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/012"
     },
     name: {
         en: "Spewpa",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Spewpa",
         "de": "Puponcho",
         "pt-br": "Spewpa",
-        "zh-tw": "粉蝶蛹"
+        "zh-tw": "粉蝶蛹",
+        ja: "コフーライ"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scatterbug",
         "de": "Purmel",
         "pt-br": "Scatterbug",
-        "zh-tw": "粉蝶蟲"
+        "zh-tw": "粉蝶蟲",
+        ja: "コフキムシ"
     },
     description: {
         en: "Spewpa doesn't live in a fixed location. It roams\nwhere it pleases across the fields and mountains,\nbuilding up the energy it needs to evolve.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Spewpa non vive in un luogo fisso. Vaga\ndove vuole, per campi e monti,\naccumulare l’energia di cui ha bisogno per evolversi.",
         "de": "Spewpa lebt nicht an einem festen Ort. Es wandert\nwo es gefällt über Felder und Berge,\nEs baut die Energie auf, die es braucht, um sich weiterzuentwickeln.",
         "pt-br": "Spewpa não mora em um local fixo. Ele vagueia\nonde quiser através dos campos e montanhas,\nacumulando a energia necessária para evoluir.",
-        "zh-tw": "Spewpa 並不居住在固定的地點。它漫遊\n越過田野和山脈，\n積累發展所需的能量。"
+        "zh-tw": "Spewpa 並不居住在固定的地點。它漫遊\n越過田野和山脈，\n積累發展所需的能量。",
+        ja: "決まった 棲み処を 持たない。 気の向くまま 野山を 歩きまわり 進化の エネルギーを 蓄える。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Segni di evoluzione",
                 "de": "Zeichen der Evolution",
                 "pt-br": "Sinais de Evolução",
-                "zh-tw": "進化的跡象"
+                "zh-tw": "進化的跡象",
+                ja: "しんかのきざし"
             },
             cost: ["Colorless"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Metti nella tua mano una carta casuale che si evolve da Spewpa dal tuo mazzo.",
                 "de": "Nimm eine zufällige Karte, die sich aus Spewpa entwickelt, aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque em sua mão uma carta aleatória que evolui de Spewpa do seu deck.",
-                "zh-tw": "將一張由斯普帕進化而來的隨機卡從你的牌組放入你的手牌。"
+                "zh-tw": "將一張由斯普帕進化而來的隨機卡從你的牌組放入你的手牌。",
+                ja: "「コフーライ」から進化するカードを、自分の山札からランダムに1枚、手札に加える。"
             }
         }],
     weaknesses: [{

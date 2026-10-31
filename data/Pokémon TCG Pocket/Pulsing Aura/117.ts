@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/117",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/117",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/117"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/117"
     },
     name: {
         en: "Bronzor",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si trovano in tombe antiche. Si dice che i motivi sulla loro schiena siano intrisi di un potere misterioso.",
         de: "Sie werden in alten Gräbern gefunden. Die Muster auf ihrem Rücken sollen von geheimnisvoller Kraft durchdrungen sein.",
         "pt-br": "Eles são encontrados em tumbas antigas. Diz-se que os padrões em suas costas estão imbuídos de um poder misterioso.",
-        "zh-tw": "它們是在古墓中發現的。據說它們背上的圖案充滿了神秘的力量。"
+        "zh-tw": "它們是在古墓中發現的。據說它們背上的圖案充滿了神秘的力量。",
+        ja: "古い お墓から みつかる。 背中の 模様には 神秘的な 力が 宿っていると いわれる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Immersione Rapida",
                 de: "Tempohechtsprung",
                 "pt-br": "Mergulho Veloz",
-                "zh-tw": "高速飛行"
+                "zh-tw": "高速飛行",
+                ja: "スピードひこう"
             },
             damage: 20
         }

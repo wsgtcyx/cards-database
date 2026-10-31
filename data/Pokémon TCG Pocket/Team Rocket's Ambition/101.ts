@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/101",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/101",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/101",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/101"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/101",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/101"
     },
     name: {
         en: "Polteageist",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Si introduce furtivamente nelle teiere e versa parte del suo corpo nel tè avanzato, creando cosi nuovi Sinistea.",
         de: "Es kriecht in Teekannen und ergießt sich über nicht ausgetrunkenen Schwarztee, um sich zu vermehren.",
         "pt-br": "Para se multiplicar, estes Pokémon se infiltram em bules, depois derramam a si mesmos em restos de chá.",
-        "zh-tw": "會潛入茶壺裡，然後把自己倒進喝到一半的紅茶裡來使茶量變多。"
+        "zh-tw": "會潛入茶壺裡，然後把自己倒進喝到一半的紅茶裡來使茶量變多。",
+        ja: "ティーポットに 忍びこんで 飲みかけの 紅茶の 中に 自分を 注いで 増えていく。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Tè Rinfrescante",
                 de: "Erfrischender Tee",
                 "pt-br": "Chá Refrescante",
-                "zh-tw": "煥活茶"
+                "zh-tw": "煥活茶",
+                ja: "リフレッシュティー"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi costringere il tuo avversario a rimischiare le carte che ha in mano nel proprio mazzo. L'avversario pesca quindi una carta per ogni punto che deve ancora ottenere per vincere.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du deinen Gegner dazu veranlassen, seine Handkarten in sein Deck zu mischen. Für jeden verbleibenden Punkt, den dein Gegner benötigt, um zu gewinnen, zieht er eine Karte.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá fazer com que o seu oponente embaralhe a mão dele no baralho dele. Para cada ponto restante que seu oponente precisa para vencer, ele comprará uma carta.",
-                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的手牌全部放回牌庫。對手從牌庫抽出與對手自己獲勝所需的剩餘分數相同數量的卡。"
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的手牌全部放回牌庫。對手從牌庫抽出與對手自己獲勝所需的剩餘分數相同數量的卡。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手の手札をすべて山札にもどす。相手は相手自身の勝つために必要な残りポイントの数ぶん、山札を引く。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Colpomistero",
                 de: "Spukschuss",
                 "pt-br": "Tiro Assustador",
-                "zh-tw": "陰森射擊"
+                "zh-tw": "陰森射擊",
+                ja: "ホロウショット"
             },
             damage: 40
         }

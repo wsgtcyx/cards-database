@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/192",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/192",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/192"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/192",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/192"
     },
     name: {
         en: "Machoke",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
+        ja: "ゴーリキー",
     },
     illustrator: "match",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Machollo",
         "pt-br": "Machop",
         "zh-tw": "腕力",
+        ja: "ワンリキー",
     },
     description: {
         en: "Its muscular body is so powerful, it must wear a\npower-save belt to be able to regulate\nits motions.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo corpo muscoloso è così potente che deve indossare un\ncintura di risparmio energetico per poterla regolare\ni suoi movimenti.",
         "de": "Sein muskulöser Körper ist so kraftvoll, dass er einen tragen muss\nEnergiespargürtel regulieren zu können\nseine Bewegungen.",
         "pt-br": "Seu corpo musculoso é tão poderoso que ele deve usar um\ncinto de economia de energia para poder regular\nseus movimentos.",
-        "zh-tw": "它肌肉發達的身體如此強大，它必須穿著\n能夠調節的節能帶\n它的動議。"
+        "zh-tw": "它肌肉發達的身體如此強大，它必須穿著\n能夠調節的節能帶\n它的動議。",
+        ja: "すごく 強靭な 肉体なので パワーセーブ ベルトを つけて 強さを 制御している。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Forza",
                 "de": "Stärke",
                 "pt-br": "Força",
-                "zh-tw": "力量"
+                "zh-tw": "力量",
+                ja: "かいりき"
             },
             damage: 50,
             cost: ["Fighting", "Fighting"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/146",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/146"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/146"
     },
     name: {
         en: "Poison Barb",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Velenaculeo",
         de: "Giftstich",
         'pt-br': "Farpa Venenosa",
+        ja: "どくバリ",
         ko: "독바늘",
         "zh-tw": "毒針",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         es: "Si el Pokémon al que está unida esta carta es tu Pokémon Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante pasa a estar Envenenado.",
         it: "Se il Pokémon a cui è assegnata questa carta è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante viene avvelenato.",
         de: "Wenn das Pokémon, an das diese Karte angelegt ist, dein Aktives Pokémon ist und durch eine Attacke deines Gegners Schaden erhält, ist das Angreifende Pokémon jetzt vergiftet.",
+        ja: "このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。",
         ko: "이 카드를 붙이고 있는 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬을 독으로 만든다.",
         'pt-br': "Se o Pokémon ao qual esta carta está ligada for o seu Pokémon Ativo e for danificado por um ataque dos Pokémon do seu oponente, o Pokémon Atacante agora estará Envenenado.",
         "zh-tw": "如果這張卡所附著的神奇寶貝是你的主動神奇寶貝並且被對手神奇寶貝的攻擊傷害，那麼攻擊的神奇寶貝現在會中毒。"

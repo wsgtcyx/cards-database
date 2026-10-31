@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/091",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/091"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/091",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/091"
     },
     name: {
         en: "Team Rocket Grunt",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Recluta del Team Rocket",
         de: "Rüpel von Team Rocket",
         'pt-br': "Recruta da Equipe Rocket",
+        ja: "ロケット団のしたっぱ",
         ko: "로켓단의 조무래기",
         "zh-tw": "火箭隊手下"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta un'Energia a caso dal Pokémon attivo del tuo avversario.",
         de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Lege pro Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
         'pt-br': "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
+        ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。",
         ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수만큼 상대의 배틀 포켓몬에서 에너지를 랜덤으로 트래쉬한다.",
         "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。"
     },

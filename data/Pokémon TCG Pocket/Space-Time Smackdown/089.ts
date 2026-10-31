@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/089",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/089"
     },
     name: {
         en: "Rampardos",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rampardos",
         de: "Rameidon",
         'pt-br': "Rampardos",
+        ja: "ラムパルド",
         ko: "램펄드",
         "zh-tw": "戰槌龍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Koknodon",
         "pt-br": "Cranidos",
         "zh-tw": "頭蓋龍",
+        ja: "ズガイドス",
     },
     description: {
         en: "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "In tempi antichi gli uomini si servivano dei fossili del cranio\ndi questi Pokémon, più duro dell'acciaio, per fabbricare elmi.",
         de: "Vor langer Zeit wurden die Fossilien dieses\nPokémon ausgegraben und aus den stahlharten\nSchädeln Helme hergestellt.",
         'pt-br': "Antigamente, as pessoas escavavam os fósseis\ndeste Pokémon e usavam seu crânio, que é mais duro\ndo que aço, para criar capacetes.",
+        ja: "大昔の 人は 化石を 掘り出し 鋼鉄 よりも 硬い 頭蓋骨で 兜を 作っていた。",
         ko: "먼 옛날 사람은 화석을 발굴하여\n강철보다 딱딱한 두개골로\n투구를 만들었다.",
         "zh-tw": "在古代，人們會挖掘這種神奇寶貝的化石，並用它比鋼鐵還硬的頭骨來製作頭盔。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Zuccata",
                 de: "Kopfstoß",
                 'pt-br': "Bate Cabeça",
+                ja: "もろはのずつき",
                 ko: "양날박치기",
                 "zh-tw": "頭部粉碎"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Se un Pokémon del tuo avversario viene messo KO dai danni di questo attacco, questo Pokémon infligge anche 50 danni a se stesso.",
                 de: "Wenn das Pokémon deines Gegners durch Schaden dieser Attacke kampfunfähig wird, fügt dieses Pokémon auch sich selbst 50 Schadenspunkte zu.",
                 'pt-br': "Se o Pokémon do seu oponente for Nocauteado pelo dano deste ataque, este Pokémon também causará 50 pontos de dano a si mesmo.",
+                ja: "このワザのダメージで、相手のポケモンがきぜつしたなら、このポケモンにも50ダメージ。",
                 ko: "이 기술의 데미지로 상대의 포켓몬이 기절했다면 이 포켓몬에게도 50데미지를 준다.",
                 "zh-tw": "如果對手的寶可夢因這次攻擊而被擊倒，則該寶可夢也會對其自身造成 50 點傷害。"
             }

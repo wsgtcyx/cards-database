@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/136",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/136",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/136"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/136",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/136"
     },
     name: {
         en: "Watchog",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Attacca sparando i semi delle bacche che ha accumulato nelle\nguance. Se avvista il nemico, drizza la coda.",
         de: "Bespuckt Gegner mit Kernen von Beeren aus seinen\nBackentaschen. Erspäht es einen Feind, richtet es\nden Schweif auf.",
         "pt-br": "Quando vêem um inimigo, suas caudas ficam erguidas e eles cospem as sementes das frutas armazenadas nas bolsas das bochechas.",
-        "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，並吐出頰囊中儲存的漿果種子。"
+        "zh-tw": "當它們看到敵人時，它們的尾巴會高高豎起，並吐出頰囊中儲存的漿果種子。",
+        ja: "ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Psicamisù",
                 de: "Psycho-Plus",
                 "pt-br": "Carga Psíquica",
-                "zh-tw": "自我暗示"
+                "zh-tw": "自我暗示",
+                ja: "じこあんじ"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Psych Up attack does +30 damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Psicoaumento di questo Pokémon infligge +30 danni.",
                 de: "Während deines nächsten Zuges verursacht der Psych Up-Angriff dieses Pokémon +30 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque Psych Up deste Pokémon causa +30 de dano.",
-                "zh-tw": "在你的下一個回合中，這隻寶可夢的心靈提升攻擊造成+30點傷害。"
+                "zh-tw": "在你的下一個回合中，這隻寶可夢的心靈提升攻擊造成+30點傷害。",
+                ja: "次の自分の番、このポケモンの「じこあんじ」のダメージを+30する。"
             },
             damage: 30
         }

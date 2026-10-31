@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "6ac7d56b41de6c67ca4b36582bdfb1fa8682ba63",
+  "sources": {
+    "set-logos-assets-manifest-json": {
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos-assets-manifest.json",
+      "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4b_ja_JP.png",
+      "role": "Four native Japanese expansion logos prepared locally with original and WebP hashes; originals visually reviewed",
+      "version": "2026-10-31",
+      "license": "Pokemon artwork remains copyright its respective owners; source attribution is not a license grant."
+    },
+    "booster-evidence-json": {
+      "file": "meta/pocket-source-reviews/ja/sources/booster-evidence.json",
+      "sha256": "aa1f61bf2f9353cd66f91a193dcd8baf3b96bbd1a0f36d2154c973893e60dc55",
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4a_ja_JP.png",
+      "role": "Previously reviewed B4a Japanese expansion logo reused for Set.logo image base",
+      "version": "2026-10-31",
+      "license": "Pokemon artwork remains copyright its respective owners; source attribution is not a license grant."
+    },
+    "original-B4b": {
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/B4b.png",
+      "sha256": "0f4b1aefcdc966a2657c18077fae7adfad5218534f76f2d4cf3996f049654a5b",
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4b_ja_JP.png",
+      "role": "Original native Japanese expansion logo PNG; visual text and SHA-256 verified",
+      "version": "2026-10-31",
+      "license": "Pokemon artwork remains copyright its respective owners; source attribution is not a license grant."
+    },
+    "original-C1": {
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/C1.png",
+      "sha256": "a8ce0c70f69c7becee44a556f524e56bfc93e367322731a09c5cf92fd8ff1c55",
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_C1_ja_JP.png",
+      "role": "Original native Japanese expansion logo PNG; visual text and SHA-256 verified",
+      "version": "2026-10-31",
+      "license": "Pokemon artwork remains copyright its respective owners; source attribution is not a license grant."
+    },
+    "original-SP1": {
+      "file": "meta/pocket-source-reviews/ja/sources/set-logos/SP1.png",
+      "sha256": "5a6729f4e5b1b753632f3cdc29f36c76466a9e2467a8a9f8d08ab1526ee373f6",
+      "url": "https://img.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_SP1_ja_JP.png",
+      "role": "Original native Japanese expansion logo PNG; visual text and SHA-256 verified",
+      "version": "2026-10-31",
+      "license": "Pokemon artwork remains copyright its respective owners; source attribution is not a license grant."
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "set",
+      "entityId": "B4b",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/B4b/boosters/deluxe-pack-mega/logo",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=B4b;boosterId=deluxe-pack-mega;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "B4b",
+      "file": "data/Pokémon TCG Pocket/Deluxe Pack: Mega.ts",
+      "path": "boosters[\"deluxe-pack-mega\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/B4b/boosters/deluxe-pack-mega/logo.webp",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=B4b;boosterId=deluxe-pack-mega;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=C1;boosterId=mega-mewtwo-x;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "boosters[\"mega-mewtwo-x\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/mega-mewtwo-x/logo.webp",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=C1;boosterId=mega-mewtwo-x;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "C1",
+      "file": "data/Pokémon TCG Pocket/Dual Fusion.ts",
+      "path": "boosters[\"pikachu\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/C1/boosters/pikachu/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/C1/boosters/pikachu/logo.webp",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=C1;boosterId=mega-mewtwo-x;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "SP1",
+      "file": "data/Pokémon TCG Pocket/Special Pack: First Partners.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=SP1;boosterId=first-partners;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "SP1",
+      "file": "data/Pokémon TCG Pocket/Special Pack: First Partners.ts",
+      "path": "boosters[\"first-partners\"].logo",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/SP1/boosters/first-partners/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/SP1/boosters/first-partners/logo.webp",
+      "evidence": [
+        {
+          "sourceId": "set-logos-assets-manifest-json",
+          "sha256": "d2f1dd670b9a7566c43e25a5187942bc1eda1a0f8a22063b4077657daff266ec",
+          "locator": "setId=SP1;boosterId=first-partners;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "B4a",
+      "file": "data/Pokémon TCG Pocket/Team Rocket's Ambition.ts",
+      "path": "logo",
+      "locale": "ja",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4a/boosters/team-rockets-ambition/logo",
+      "value": "https://game.pokemontcgpocket.app/ja/tcgp/B4a/boosters/team-rockets-ambition/logo",
+      "evidence": [
+        {
+          "sourceId": "booster-evidence-json",
+          "sha256": "aa1f61bf2f9353cd66f91a193dcd8baf3b96bbd1a0f36d2154c973893e60dc55",
+          "locator": "setId=B4a;boosterId=team-rockets-ambition;field=logo;Set.logo uses the same image URL without .webp for SDK compatibility"
+        }
+      ]
+    }
+  ]
+}

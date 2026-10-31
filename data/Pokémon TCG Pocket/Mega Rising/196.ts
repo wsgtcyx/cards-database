@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/196",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/196",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/196",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/196"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/196",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/196"
     },
     name: {
         en: "Swablu",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
+        ja: "チルット",
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non può rilassarsi se lui o i suoi dintorni non sono puliti.\nElimina lo sporco con le ali.",
         "de": "Es kann sich nicht entspannen, wenn es oder seine Umgebung nicht sauber sind.\nMit seinen Flügeln wischt es Schmutz weg.",
         "pt-br": "Ele não pode relaxar se ele ou seus arredores não estiverem limpos.\nEle limpa a sujeira com suas asas.",
-        "zh-tw": "如果它或它的周圍環境不干淨，它就不能放鬆。\n它用翅膀擦去污垢。"
+        "zh-tw": "如果它或它的周圍環境不干淨，它就不能放鬆。\n它用翅膀擦去污垢。",
+        ja: "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Cantare",
                 "de": "Singen",
                 "pt-br": "Cantar",
-                "zh-tw": "唱歌"
+                "zh-tw": "唱歌",
+                ja: "うたう"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/075",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/075",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/075",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/075"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/075",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/075"
     },
     name: {
         en: "Gliscor",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Sta appeso ai rami con la testa in giù. Alla prima\noccasione, si butta a capofitto sulla preda.",
         de: "Es hängt kopfüber von einem Ast und beobachtet\nseine Beute. Bei Gelegenheit stürzt es sich auf sie.",
         "pt-br": "Observa as presas enquanto se pendura de cabeça\npara baixo nos galhos. Quando a chance surge, ele ataca!",
-        "zh-tw": "它倒掛在樹枝上觀察獵物。當機會出現時，它就會猛撲過去！"
+        "zh-tw": "它倒掛在樹枝上觀察獵物。當機會出現時，它就會猛撲過去！",
+        ja: "尻尾で 木の枝に ぶら下がり 獲物を 観察する。すきを 見て 上空から 襲いかかる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Perforare",
                 de: "Durchbohren",
                 "pt-br": "Perfurar",
-                "zh-tw": "突刺"
+                "zh-tw": "突刺",
+                ja: "つきさす"
             },
             damage: 40
         }

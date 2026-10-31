@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/131",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/131",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/131"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/131"
     },
     name: {
         en: "Teddiursa",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le sue zampe sono inzuppate in una gran quantità di miele. Quando è nervoso, Teddiursa si lecca le zampe e presto torna a sorridere.",
         de: "Seine Pfoten sind in Unmengen Honig getränkt. Wenn er nervös ist, leckt sich Teddiursa die Pfoten und hat bald wieder ein Lächeln im Gesicht.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando nervoso, Teddiursa lamberá as patas e logo terá um sorriso no rosto.",
-        "zh-tw": "它的爪子浸滿了蜂蜜。緊張時，熊寶寶 會舔爪子，很快臉上就會露出笑容。"
+        "zh-tw": "它的爪子浸滿了蜂蜜。緊張時，熊寶寶 會舔爪子，很快臉上就會露出笑容。",
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Scavazanne",
                 de: "Schaufelkrallen",
                 "pt-br": "Fincar Garras",
-                "zh-tw": "豎爪"
+                "zh-tw": "豎爪",
+                ja: "ツメをたてる"
             },
             damage: 20
         }

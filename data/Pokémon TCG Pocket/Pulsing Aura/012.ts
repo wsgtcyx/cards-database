@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/012",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/012",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/012"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/012"
     },
     name: {
         en: "Breloom",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "I semi sulla sua coda sono fatti di spore tossiche. Mette fuori combattimento i nemici con pugni rapidi e praticamente invisibili.",
         de: "Die Samen an seinem Schwanz bestehen aus giftigen Sporen. Es schlägt Feinde mit schnellen, praktisch unsichtbaren Schlägen nieder.",
         "pt-br": "As sementes em sua cauda são feitas de esporos tóxicos. Ele nocauteia os inimigos com socos rápidos e praticamente invisíveis.",
-        "zh-tw": "它尾巴上的種子是由有毒孢子製成的。它能用快速、幾乎看不見的拳頭擊倒敵人。"
+        "zh-tw": "它尾巴上的種子是由有毒孢子製成的。它能用快速、幾乎看不見的拳頭擊倒敵人。",
+        ja: "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpo Mattiniero",
                 de: "Angriff im Morgengrauen",
                 "pt-br": "Golpe de Ninar",
-                "zh-tw": "破曉之擊"
+                "zh-tw": "破曉之擊",
+                ja: "ねこみをおそう"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is Asleep, this attack does 60 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se il Pokémon attivo del tuo avversario è addormentato, questo attacco infligge 60 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners schläft, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente estiver Adormecido, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢處於睡眠狀態，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果對手的活躍寶可夢處於睡眠狀態，則此攻擊造成的傷害增加 60 點。",
+                ja: "相手のバトルポケモンがねむりなら、60ダメージ追加。"
             },
             damage: "30+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/104",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/104",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/104"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/104"
     },
     name: {
         en: "Pidgeot",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Tauboga",
         "pt-br": "Pidgeotto",
         "zh-tw": "比比鳥",
-        ja: "Pidgeotto",
+        ja: "ピジョン",
         ko: "Pidgeotto"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Sauberer Treffer",
                 "pt-br": "Golpe Certeiro",
                 "zh-tw": "俐落一擊",
-                ja: "Clean Hit",
+                ja: "クリーンヒット",
                 ko: "Clean Hit"
             },
             cost: [
@@ -77,7 +78,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Entwicklungs-Pokémon ist, fügt diese Attacke 80 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 80 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為進化寶可夢,則增加80點傷害。",
-                ja: "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 80 more damage.",
+                ja: "相手のバトルポケモンが進化ポケモンなら、80ダメージ追加。",
                 ko: "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 80 more damage."
             }
         }
@@ -91,7 +92,7 @@ const card: Card = {
         de: "Dieses Pokémon schnellt bei der Jagd blitzschnell unter Wasser, um seine ahnungslose Beute zu fangen.",
         "pt-br": "Quando caça, bate na superfície da água em alta velocidade para capturar presas desavisadas, como Magikarp.",
         "zh-tw": "覓食的時候，會貼著水面飛行而過，抓起鯉魚王等獵物。",
-        ja: "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+        ja: "エサを 探すとき 水面 すれすれを 滑るように 飛んで コイキングなどを わしづかみにする。",
         ko: "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp."
     }
 };

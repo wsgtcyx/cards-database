@@ -11,7 +11,8 @@ const set: Set = {
 		fr: "Sagesse de la Mer et du Ciel",
 		it: "Saggezza del Mare e del Cielo",
 		'pt-br': "Sabedoria do Mar e do Céu",
-		'zh-tw': "海與天空的智慧"
+		'zh-tw': "海與天空的智慧",
+		ja: "空と海の導き"
 	},
 
 	serie: serie,
@@ -31,7 +32,8 @@ const set: Set = {
 				fr: 'Lugia',
 				it: 'Lugia',
 				'pt-br': 'Lugia',
-				'zh-tw': '盧基亞'
+				'zh-tw': '盧基亞',
+				ja: "空と海の導き ルギア"
 			}
 		},
 		'ho-oh': {
@@ -42,7 +44,8 @@ const set: Set = {
 				fr: 'Ho-Oh',
 				it: 'Ho-Oh',
 				'pt-br': 'Ho-Oh',
-				'zh-tw': '鳳王'
+				'zh-tw': '鳳王',
+				ja: "空と海の導き ホウオウ"
 			}
 		}
 	}

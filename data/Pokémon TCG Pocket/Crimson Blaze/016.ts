@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/016"
     },
     name: {
         en: "Houndoom",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Houndoom",
         "de": "Hundemon",
         "pt-br": "Houndoom",
-        "zh-tw": "黑魯加"
+        "zh-tw": "黑魯加",
+        ja: "ヘルガー"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Houndour",
         "de": "Hunduster",
         "pt-br": "Houndour",
-        "zh-tw": "戴魯比"
+        "zh-tw": "戴魯比",
+        ja: "デルビル"
     },
     description: {
         en: "Upon hearing its eerie howls, other Pokémon get\nthe shivers and head straight back to their nests.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dopo aver sentito i suoi ululati inquietanti, altri Pokémon ottengono\ni brividi e tornano dritti ai loro nidi.",
         "de": "Als sie sein unheimliches Heulen hören, werden andere Pokémon erschrocken\ndie Schauer und kehren direkt zu ihren Nestern zurück.",
         "pt-br": "Ao ouvir seus uivos misteriosos, outros Pokémon ficam\nos arrepios e voltam direto para seus ninhos.",
-        "zh-tw": "當其他神奇寶貝聽到它怪異的嚎叫聲時\n瑟瑟發抖，徑直返回自己的巢穴。"
+        "zh-tw": "當其他神奇寶貝聽到它怪異的嚎叫聲時\n瑟瑟發抖，徑直返回自己的巢穴。",
+        ja: "不気味な 遠吠えを 聞いた ポケモンは 震え 一目散に 自分の 巣に 戻る。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Zanna affilata",
                 "de": "Scharfer Fangzahn",
                 "pt-br": "Presa Afiada",
-                "zh-tw": "尖牙"
+                "zh-tw": "尖牙",
+                ja: "するどいキバ"
             },
             damage: 50,
             cost: ["Fire"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/053"
     },
     name: {
         en: "Lotad",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Loturzel",
         "pt-br": "Lotad",
         "zh-tw": "蓮葉童子",
+        ja: "ハスボー",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue foglie divennero troppo grandi perché potesse vivere sulla terra.\nFu così che cominciò a vivere galleggiando nell'acqua.",
         "de": "Sein Blatt wurde zu groß, um an Land zu leben.\nSo begann es im Wasser schwimmend zu leben.",
         "pt-br": "Sua folha cresceu demais para que pudesse viver na terra.\nFoi assim que começou a viver flutuando na água.",
-        "zh-tw": "它的葉子太大了，無法在陸地上生活。\n就這樣它開始了漂浮在水中的生活。"
+        "zh-tw": "它的葉子太大了，無法在陸地上生活。\n就這樣它開始了漂浮在水中的生活。",
+        ja: "葉っぱが 大きく なりすぎて 重くなって しまったため 水に 浮かんで 暮らすように なった。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

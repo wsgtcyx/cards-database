@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/051"
     },
     name: {
         en: "Wooper",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Felino",
         "pt-br": "Wooper",
         "zh-tw": "烏波",
+        ja: "ウパー",
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon vive nell'acqua fredda. Lascerà il\nacqua per cercare il cibo quando fuori fa freddo.",
         "de": "Dieses Pokémon lebt in kaltem Wasser. Es wird das verlassen\nWasser zur Nahrungssuche, wenn es draußen kalt wird.",
         "pt-br": "Este Pokémon vive em água fria. Vai deixar o\nágua para procurar comida quando fica frio lá fora.",
-        "zh-tw": "這只神奇寶貝生活在冷水中。它將留下\n當外面變冷時，可以用水來尋找食物。"
+        "zh-tw": "這只神奇寶貝生活在冷水中。它將留下\n當外面變冷時，可以用水來尋找食物。",
+        ja: "冷たい 水の中で 生活。 あたりが 涼しくなると エサを 探しに 地上にも 現れる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spruzzi di pioggia",
                 "de": "Regenspritzer",
                 "pt-br": "Respingo de chuva",
-                "zh-tw": "雨濺"
+                "zh-tw": "雨濺",
+                ja: "みずかけ"
             },
             damage: 30,
             cost: ["Water", "Colorless"]

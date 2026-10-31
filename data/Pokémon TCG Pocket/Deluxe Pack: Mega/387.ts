@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/387",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/387",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/387",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/387"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/387",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/387"
     },
     name: {
         en: "Skyla",
@@ -34,7 +35,7 @@ const card: Card = {
         "zh-tw": "將自己的戰鬥場的1階進化寶可夢與備戰寶可夢互換。",
         it: "Scambia il tuo Pokémon attivo di Fase 1 con uno della tua panchina.",
         de: "Tausche dein Aktives Phase-1-Pokémon gegen 1 Pokémon auf deiner Bank aus.",
-        ja: "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.",
+        ja: "自分のバトル場の1進化ポケモンを、ベンチポケモンと入れ替える。",
         ko: "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon."
     },
     trainerType: "Supporter"

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/129",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/129",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/129"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/129"
     },
     name: {
         en: "Rattata",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È un Pokémon molto comune con il quale è\nmeglio fare attenzione: con i suoi incisivi affilati\npuò tranciare anche un’asse di legno durissimo.",
         de: "Ein weitverbreitetes Pokémon, das nicht ganz\nungefährlich ist. Selbst hartes Holz zerkleinert\nes mit seinen scharfen Nagezähnen mühelos.",
         "zh-tw": "雖然是常見的寶可夢，但還是要小心。\n銳利的門牙十分堅硬，\n就連木材也能輕易咬斷。",
-        "pt-br": "Este Pokémon é comum, mas perigoso. Seus incisivos afiados podem cortar madeiras resistentes com facilidade."
+        "pt-br": "Este Pokémon é comum, mas perigoso. Seus incisivos afiados podem cortar madeiras resistentes com facilidade.",
+        ja: "ありふれた ポケモンだが 注意。 鋭い 前歯は 堅い 材木さえ 簡単に へしおる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Attacco a Sorpresa",
                 de: "Überraschungsangriff",
                 "pt-br": "Ataque Surpresa",
-                "zh-tw": "偷襲"
+                "zh-tw": "偷襲",
+                ja: "ふいをつく"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
-                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。"
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 40
         }

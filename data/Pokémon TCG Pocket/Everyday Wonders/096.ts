@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/096",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/096",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/096"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/096"
     },
     name: {
         en: "Ampharos",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando fa buio, la luce della sua coda brillante e brillante può essere vista da molto lontano sulla superficie dell’oceano.",
         de: "Wenn es dunkel wird, ist das Licht seines hellen, glänzenden Schwanzes schon von weitem auf der Meeresoberfläche zu sehen.",
         "pt-br": "Quando escurece, a luz de sua cauda brilhante e brilhante pode ser vista de longe na superfície do oceano.",
-        "zh-tw": "當天黑時，從遠處的海面上就能看到它明亮、閃亮的尾巴發出的光。"
+        "zh-tw": "當天黑時，從遠處的海面上就能看到它明亮、閃亮的尾巴發出的光。",
+        ja: "暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fulmidardo",
                 de: "Stromgeschoss",
                 "pt-br": "Projétil Eletrizante",
-                "zh-tw": "麻麻子彈"
+                "zh-tw": "麻麻子彈",
+                ja: "ビリリバレット"
             },
             effect: {
                 en: "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "1 dei Pokémon nella panchina del tuo avversario viene scelto a caso. Questo attacco gli infligge anche 20 danni.",
                 de: "1 Pokémon auf der Bank deines Gegners wird zufällig ausgewählt. Dieser Angriff fügt ihm außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 20 de dano.",
-                "zh-tw": "隨機選擇 1 只對手後備寶可夢。這次攻擊也會對其造成 20 點傷害。"
+                "zh-tw": "隨機選擇 1 只對手後備寶可夢。這次攻擊也會對其造成 20 點傷害。",
+                ja: "相手のベンチポケモンがランダムに1回選ばれ、選ばれたポケモンにも、20ダメージ。"
             },
             damage: 90
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/138"
     },
     name: {
         en: "Sandslash",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Sandslash",
         de: "Sandamer",
         'pt-br': "Sandslash",
+        ja: "サンドパン",
         ko: "고지",
         "zh-tw": "穿山王",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "穿山鼠"
+        "zh-tw": "穿山鼠",
+        ja: "サンド"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 'pt-br': "Talho",
+                ja: "きりさく",
                 ko: "베어가르기",
                 "zh-tw": "削減"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Più secco è il territorio dove Sandslash vive,\npiù i suoi aculei dorsali diventano lisci e duri.",
         de: "Je trockener das Gebiet ist, in dem Sandamer\nlebt, desto härter und glatter fühlen sich die\nStacheln an seinem Rücken an.",
         'pt-br': "Quanto mais seca for a área onde Sandslash vive,\nmais duros e lisos serão os espinhos deste Pokémon.",
+        ja: "湿度が 低い 土地で 暮らす サンドパンほど 背中の 棘の 手触りは 硬く 滑らかになる。",
         ko: "습도가 낮은 땅에서 사는\n고지일수록 등에 난 가시의\n감촉은 단단하고 매끄럽다.",
         "zh-tw": "沙斬生活的地區越乾燥，觸摸時神奇寶貝的尖刺就越堅硬、越光滑。"
     },

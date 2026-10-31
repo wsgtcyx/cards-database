@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/131",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/131",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/131"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/131"
     },
     name: {
         en: "Abandoned Station",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "雙方玩家在自己的回合時,可使用1次。擲1次硬幣若為正面,則從自己的牌庫抽出1張卡。",
         it: "Una sola volta durante il turno di ciascun giocatore, quel giocatore può usare questo effetto. Lancia una moneta. Se esce testa, quel giocatore pesca una carta.",
         de: "Einmal während des Zuges jedes Spielers kann jener Spieler diesen Effekt nutzen. Wirf 1 Münze. Ziehe bei Kopf 1 Karte.",
-        ja: "Once during each player's turn, that player may use this effect. Flip a coin. If heads, draw a card.",
+        ja: "おたがいのプレイヤーは、自分の番に1回使える。コインを1回投げオモテなら、自分の山札を1枚引く。",
         ko: "Once during each player's turn, that player may use this effect. Flip a coin. If heads, draw a card."
     }
 };

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/338",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/338",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/338",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/338"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/338",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/338"
 	},
 	name: {
 		en: "Sabrina",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Sabrina",
 		de: "Sabrina",
 		"pt-br": "Sabrina",
-		"zh-tw": "娜姿"
+		"zh-tw": "娜姿",
+		ja: "ナツメ"
 	},
 	illustrator: "Yuu Nishida",
 	category: "Trainer",
@@ -30,6 +32,7 @@ const card: Card = {
 		it: "Sposta il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
 		de: "Wechsle das Aktive Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)",
 		"pt-br": "Mande o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
+		ja: "相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
 		ko: "상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
 		"zh-tw": "將對手的活躍神奇寶貝移至替補席。 （你的對手選擇新的活躍神奇寶貝。）"
 	},

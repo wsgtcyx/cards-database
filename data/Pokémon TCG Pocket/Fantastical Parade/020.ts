@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/020"
     },
     name: {
         en: "Litleo",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Litleo",
         "de": "Leufeo",
         "pt-br": "Litleo",
-        "zh-tw": "小獅獅"
+        "zh-tw": "小獅獅",
+        ja: "シシコ"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Più un Litleo allena il suo corpo e il suo spirito\ncombattendo potenti nemici, più calda è la sua criniera\ncrescerà.",
         "de": "Je mehr ein Litleo seinen Körper und Geist trainiert\nJe mehr er gegen mächtige Feinde kämpft, desto heißer ist seine Mähne\nwird wachsen.",
         "pt-br": "Quanto mais um Litleo treina seu corpo e espírito\nlutando contra inimigos poderosos, mais quente será sua juba\ncrescerá.",
-        "zh-tw": "Litleo 對其身體和精神的訓練越多\n與強大的敵人作戰，它的鬃毛越熱\n會成長。"
+        "zh-tw": "Litleo 對其身體和精神的訓練越多\n與強大的敵人作戰，它的鬃毛越熱\n會成長。",
+        ja: "強敵と 戦い 体と 心が 鍛えられた シシコほど たてがみの 温度は 高くなる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Fuga precipitosa",
                 "de": "Ansturm",
                 "pt-br": "Debandada",
-                "zh-tw": "踩踏"
+                "zh-tw": "踩踏",
+                ja: "ふむ"
             },
             damage: 10,
             cost: ["Colorless"]

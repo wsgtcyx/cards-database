@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/071"
     },
     name: {
         en: "Chimchar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Panflam",
         "pt-br": "Chimchar",
         "zh-tw": "小火焰猴",
+        ja: "ヒコザル",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua focosa parte posteriore è alimentata dal gas prodotto nel suo ventre.\nNeppure la pioggia riesce a spegnere l'incendio.",
         "de": "Sein feuriges Hinterteil wird durch das in seinem Bauch erzeugte Gas angetrieben.\nSelbst Regen kann das Feuer nicht löschen.",
         "pt-br": "Sua traseira ardente é alimentada pelo gás produzido em sua barriga.\nNem a chuva consegue apagar o fogo.",
-        "zh-tw": "它燃燒的後端由腹部產生的氣體提供燃料。\n即使下雨也無法撲滅大火。"
+        "zh-tw": "它燃燒的後端由腹部產生的氣體提供燃料。\n即使下雨也無法撲滅大火。",
+        ja: "お尻の 炎は お腹で 作られた ガスが 燃料。 雨に ぬれても 消えない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Graffio",
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
-                "zh-tw": "划痕"
+                "zh-tw": "划痕",
+                ja: "ひっかく"
             },
             damage: 20,
             cost: ["Fire"]

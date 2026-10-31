@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/017"
     },
     name: {
         en: "Skiploom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Hubelupf",
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
+        ja: "ポポッコ",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Hoppspross",
         "pt-br": "Hoppip",
         "zh-tw": "毽子草",
+        ja: "ハネッコ",
     },
     description: {
         en: "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Gli appassionati di Skiploom possono apparentemente dire dove a\nSkiploom è nato dal profumo che deriva dal\nfiore sulla testa del Pokémon.",
         "de": "Skiploom-Enthusiasten können offenbar erkennen, wo a\nSkiploom wurde durch den Duft geboren, der von dort wehte\nBlume auf dem Kopf des Pokémon.",
         "pt-br": "Os entusiastas do Skiploom aparentemente podem dizer onde um\nSkiploom nasceu do perfume que vem do\nflor na cabeça do Pokémon.",
-        "zh-tw": "Skiploom 愛好者顯然可以分辨出\nSkiploom 的誕生是由飄來的香味所決定的。\n神奇寶貝頭上的花。"
+        "zh-tw": "Skiploom 愛好者顯然可以分辨出\nSkiploom 的誕生是由飄來的香味所決定的。\n神奇寶貝頭上的花。",
+        ja: "ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bomba di semi",
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
-                "zh-tw": "種子炸彈"
+                "zh-tw": "種子炸彈",
+                ja: "タネばくだん"
             },
             damage: 40,
             cost: ["Grass"]

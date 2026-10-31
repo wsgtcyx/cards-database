@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/200",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/200",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/200"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/200",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/200"
     },
     name: {
         en: "Corviknight ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Schianto Aereo",
                 de: "Absturz",
                 "pt-br": "Choque Aéreo",
-                "zh-tw": "空氣粉碎"
+                "zh-tw": "空氣粉碎",
+                ja: "エアクラッシュ"
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍寶可夢中的隨機能量。"
+                "zh-tw": "丟棄對手的活躍寶可夢中的隨機能量。",
+                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             },
             damage: 110
         }

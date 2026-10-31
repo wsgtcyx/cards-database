@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/155",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/155",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/155"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/155",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/155"
     },
     name: {
         en: "Mega Greninja ex",
@@ -50,7 +51,7 @@ const card: Card = {
         de: "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
-        ja: "Frogadier",
+        ja: "ゲコガシラ",
         ko: "Frogadier"
     },
     suffix: "EX",
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Spritzer der Finsternis",
                 "pt-br": "Jato Sombrio",
                 "zh-tw": "暗黑水飛濺",
-                ja: "Splash of Darkness",
+                ja: "スプラッシュダーク",
                 ko: "Splash of Darkness"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。",
-                ja: "During your opponent's next turn, the Defending Pokémon can't retreat.",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 ko: "During your opponent's next turn, the Defending Pokémon can't retreat."
             }
         }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/088",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/088",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/088"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/088"
     },
     name: { en: "Team Rocket's Scyther", fr: "Insécateur de la Team Rocket", es: "Scyther del Team Rocket", it: "Scyther del Team Rocket", de: "Team Rockets Sichlor", "pt-br": "Scyther da Equipe Rocket", "zh-tw": "火箭隊的飛天螳螂", ko: "로켓단의 스라크", ja: "ロケット団のストライク" },
     illustrator: "Anesaki Dynamic",
@@ -27,11 +28,12 @@ const card: Card = {
         it: "Le falci sulle sue zampe anteriori diventano sempre più affilate man mano che tranciano oggetti duri.",
         de: "Die scharfen Sicheln an den Unterarmen werden durch das Schneiden harter Objekte noch schärfer.",
         "pt-br": "As foices afiadas em seus antebraços tornam-se cada vez mais afiadas ao cortar objetos duros.",
-        "zh-tw": "前臂上的鋒利鐮刀在切割堅硬的物體時變得越來越鋒利。"
+        "zh-tw": "前臂上的鋒利鐮刀在切割堅硬的物體時變得越來越鋒利。",
+        ja: "両手の 鋭い カマは 硬いものを 切れば切るほど さらに 切れ味を 増していく。"
     },
     attacks: [{
         cost: ["Grass", "Colorless"],
-        name: { en: "Second Strike", fr: "Deuxième Coup", es: "Segundo Golpe", it: "Secondocolpo", de: "Sekundärschlag", "pt-br": "Segundo Golpe", "zh-tw": "攻擊傷口" },
+        name: { en: "Second Strike", fr: "Deuxième Coup", es: "Segundo Golpe", it: "Secondocolpo", de: "Sekundärschlag", "pt-br": "Segundo Golpe", "zh-tw": "攻擊傷口", ja: "きずをえぐる" },
         effect: {
             en: "If your opponent's Active Pokémon has damage on it, this attack does 70 more damage.",
             fr: "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 70 dégâts de plus.",
@@ -39,7 +41,8 @@ const card: Card = {
             it: "Se il Pokémon attivo del tuo avversario è danneggiato, questo attacco infligge 70 danni in più.",
             de: "Wenn dem Aktiven Pokémon deines Gegners bereits Schaden zugefügt wurde, fügt diese Attacke 70 Schadenspunkte mehr zu.",
             "pt-br": "Se o Pokémon Ativo do seu oponente estiver danificado, este ataque causará 70 pontos de dano a mais.",
-            "zh-tw": "若對手的戰鬥寶可夢有受到傷害，則增加70點傷害。"
+            "zh-tw": "若對手的戰鬥寶可夢有受到傷害，則增加70點傷害。",
+            ja: "相手のバトルポケモンがダメージを受けているなら、70ダメージ追加。"
         },
         damage: "20+"
     }],

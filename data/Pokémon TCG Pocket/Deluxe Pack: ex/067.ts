@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/067"
     },
     name: {
         en: "Moltres ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lavados-ex",
         "pt-br": "Moltres ex",
         "zh-tw": "火焰鳥ex",
+        ja: "ファイヤーex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Danza Infernale",
                 "de": "Inferno-Tanz",
                 "pt-br": "Dança Infernal",
-                "zh-tw": "地獄之舞"
+                "zh-tw": "地獄之舞",
+                ja: "れっかのまい"
             },
             cost: ["Fire"],
             effect: {
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Lancia 3 monete. Prendi una quantità di Energia {R} dalla tua Zona Energetica pari al numero di teste e assegnala ai tuoi Pokémon {R} in panchina nel modo che preferisci.",
                 "de": "Wirf 3 Münzen. Nimm eine Menge {R}-Energie aus deiner Energiezone, die der Anzahl der Köpfe entspricht, und lege sie auf beliebige Weise an dein Bank-{R}-Pokémon an.",
                 "pt-br": "Jogue 3 moedas. Pegue uma quantidade de Energia {R} da sua Zona de Energia igual ao número de cabeças e ligue-a aos seus Pokémon {R} no Banco da maneira que desejar.",
-                "zh-tw": "翻轉 3 個硬幣。從你的能量區取出相當於頭部數量的 {R} 能量，並以你喜歡的任何方式將其附加到你的後備 {R} 神奇寶貝上。"
+                "zh-tw": "翻轉 3 個硬幣。從你的能量區取出相當於頭部數量的 {R} 能量，並以你喜歡的任何方式將其附加到你的後備 {R} 神奇寶貝上。",
+                ja: "コインを3回投げ、オモテの数ぶんの{R}エネルギーを自分のエネルギーゾーンから出し、ベンチの{R}ポケモンに好きなようにつける。"
             }
         }, {
             name: {
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Colpo di calore",
                 "de": "Hitzestoß",
                 "pt-br": "Explosão de calor",
-                "zh-tw": "熱風"
+                "zh-tw": "熱風",
+                ja: "ヒートブラスト"
             },
             damage: 70,
             cost: ["Fire", "Colorless", "Colorless"]

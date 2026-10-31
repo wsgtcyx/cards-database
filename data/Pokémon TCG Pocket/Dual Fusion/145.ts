@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/145",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/145",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/145"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/145"
     },
     name: {
         en: "Larvitar",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Biss",
                 "pt-br": "Mordida",
                 "zh-tw": "咬住",
-                ja: "Bite",
+                ja: "かみつく",
                 ko: "Bite"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Es wird tief im Erdreich geboren. Hat es einen Berg Erde gefressen, verpuppt sich dieses Pokémon.",
         "pt-br": "Este Pokémon nasce no subsolo e se torna uma pupa após comer terra o suficiente para fazer uma montanha.",
         "zh-tw": "誕生在地底深處。當牠吃完滿山的土壤後，就會為了成長而變成蛹。",
-        ja: "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
+        ja: "地面 深くで 生まれ 山ほどの 土を 食べ終わると 体を つくるため サナギになる。",
         ko: "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain."
     }
 };

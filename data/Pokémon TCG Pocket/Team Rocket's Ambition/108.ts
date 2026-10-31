@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/108",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/108",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/108"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/108"
     },
     name: {
         en: "Mega Mawile ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Sgranocchio Sfrenato",
                 de: "Aufheizknirscher",
                 "pt-br": "Mastigada Quente",
-                "zh-tw": "越咬越烈"
+                "zh-tw": "越咬越烈",
+                ja: "ヒートアップクランチ"
             },
             effect: {
                 en: "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Finché questo Pokémon è in posizione attiva, il suo attacco Sgranocchio Sfrenato infligge +30 danni. Questo effetto è cumulabile.",
                 de: "Bis dieses Pokémon die Aktive Position verlässt, fügt seine Attacke Aufheizknirscher +30 Schadenspunkte zu. Dieser Effekt stapelt sich.",
                 "pt-br": "Até este Pokémon sair do Campo Ativo, o ataque Mastigada Quente deste Pokémon causará +30 pontos de dano. Este efeito acumula.",
-                "zh-tw": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越咬越烈」的傷害+30點。這個效果會重複。"
+                "zh-tw": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越咬越烈」的傷害+30點。這個效果會重複。",
+                ja: "このポケモンがバトル場をはなれるまで、このポケモンの「ヒートアップクランチ」のダメージを+30する。この効果は重なる。"
             },
             damage: 60
         }

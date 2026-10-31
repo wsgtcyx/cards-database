@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/283",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/283",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/283",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/283"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/283",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/283"
     },
     name: {
         en: "Froakie",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es schützt seine Haut mit feinen Blasen, die seinen Körper umhüllen. Es mag unbekümmert aussehen, behält die Umgebung aber immer aufmerksam im Auge.",
         "pt-br": "Protege sua pele cobrindo seu corpo com bolhas delicadas. Por trás do seu ar alegre e despreocupado, mantém um olhar atento sobre os arredores.",
         "zh-tw": "以細膩的泡沫包住身體，保護皮膚。裝出一副悠閒的樣子，但其實精明地打量著四周。",
-        ja: "It protects its skin by covering its body in\ndelicate bubbles. Beneath its happy-go-lucky air,\nit keeps a watchful eye on its surroundings.",
+        ja: "繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。",
         ko: "It protects its skin by covering its body in\ndelicate bubbles. Beneath its happy-go-lucky air,\nit keeps a watchful eye on its surroundings."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Spritzwasser",
                 "pt-br": "Gotejo",
                 "zh-tw": "水漂",
-                ja: "Water Drip",
+                ja: "みずきり",
                 ko: "Water Drip"
             },
             damage: 20,

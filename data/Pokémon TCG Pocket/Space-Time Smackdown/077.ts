@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/077"
     },
     name: {
         en: "Azelf",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Azelf",
         de: "Tobutz",
         'pt-br': "Azelf",
+        ja: "アグノム",
         ko: "아그놈",
         "zh-tw": "亞克諾姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Detto \"Essere della volontà\". Dorme sul fondo di\nun lago per mantenere il mondo in equilibrio.",
         de: "\"Das starke Wesen\". Es schläft auf dem Grund\neines Sees und hält so die Welt in Balance.",
         'pt-br': "Este Pokémon é conhecido como o ser de força\nde vontade e dorme no leito de um lago para garantir\no equilíbrio do mundo.",
+        ja: "意思の神と 呼ばれている。 湖の 底で 眠り続け 世界の バランスを とっている。",
         ko: "의지의 신이라 불리고 있다.\n호수의 밑바닥에서 계속 잠을 자며\n세계의 균형을 지키고 있다.",
         "zh-tw": "被稱為“意志力的存在”。它睡在\n湖底維持世界平衡。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Psicofreccia",
                 de: "Psychopfeil",
                 'pt-br': "Flecha Psíquica",
+                ja: "サイコアロー",
                 ko: "사이코애로",
                 "zh-tw": "心靈箭"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に20ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 20데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 20 點傷害。"
             }

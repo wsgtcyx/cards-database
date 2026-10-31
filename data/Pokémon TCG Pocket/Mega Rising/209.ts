@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/209",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/209"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/209",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/209"
     },
     name: {
         en: "Rookidee",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Meikro",
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
+        ja: "ココガラ",
     },
     illustrator: "OKACHEKE",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le femmine sono più esigenti dei maschi. Se un altro\ncreatura sporca le ali di una femmina Rookidee, lo farà\nbeccare incessantemente l'autore del reato con rabbia ardente.",
         "de": "Die Weibchen sind wählerischer als die Männchen. Wenn ein anderer\nWenn eine Kreatur die Flügel eines Rookidee-Weibchens beschmutzt, dann wird es das tun\npicke den Täter unerbittlich in brennender Wut.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outro\ncriatura sujar as asas de uma fêmea de Rookidee, ela\nbicar o agressor implacavelmente com uma raiva ardente.",
-        "zh-tw": "雌性比雄性更挑剔。如果另一個\n生物弄髒了雌性菜鳥的翅膀，它會\n憤怒中無情地啄擊罪犯。"
+        "zh-tw": "雌性比雄性更挑剔。如果另一個\n生物弄髒了雌性菜鳥的翅膀，它會\n憤怒中無情地啄擊罪犯。",
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Patta",
                 "de": "Klappe",
                 "pt-br": "Aba",
-                "zh-tw": "皮瓣"
+                "zh-tw": "皮瓣",
+                ja: "はばたく"
             },
             damage: 20,
             cost: ["Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/088",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/088",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/088"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/088"
     },
     name: {
         en: "Gurdurr",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo corpo muscolosissimo resisterebbe senza battere\nciglio all’assalto di un lottatore di wrestling.",
         de: "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt.",
         "pt-br": "Este Pokémon é tão musculoso e robusto que mesmo um grupo de lutadores não o faria se mexer um centímetro.",
-        "zh-tw": "身體的肌肉經過完美鍛鍊，\n即使好幾個摔角手一擁而上\n進行攻擊，也能毫髮無傷。"
+        "zh-tw": "身體的肌肉經過完美鍛鍊，\n即使好幾個摔角手一擁而上\n進行攻擊，也能毫髮無傷。",
+        ja: "鍛え上げられた 筋肉の 体は プロレスラーが 束になって 攻撃しても びくともしない。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Legnata",
                 de: "Trommler",
                 "pt-br": "Esmurrar",
-                "zh-tw": "狂毆"
+                "zh-tw": "狂毆",
+                ja: "ぶんなぐる"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "30+"
         }

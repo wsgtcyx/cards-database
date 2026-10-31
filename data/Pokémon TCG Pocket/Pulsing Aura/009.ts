@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/009",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/009",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/009"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/009"
     },
     name: {
         en: "Surskit",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Secerne uno sciroppo denso e profumato dalla punta della testa. Vive in stagni invasi dalle erbacce.",
         de: "Aus der Spitze seines Kopfes sondert es einen dicken, süß duftenden Sirup ab. Es lebt in Teichen, die von Unkraut überwuchert sind.",
         "pt-br": "Ele secreta um xarope espesso e de aroma adocicado na ponta da cabeça. Vive em lagos cheios de ervas daninhas.",
-        "zh-tw": "它的頭尖會分泌出濃稠的、帶有甜味的糖漿。它生活在雜草叢生的池塘裡。"
+        "zh-tw": "它的頭尖會分泌出濃稠的、帶有甜味的糖漿。它生活在雜草叢生的池塘裡。",
+        ja: "頭の 先から 水飴に 似た 甘い 匂いの 液体を 出す。 水草の 多い 池に 棲む。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Estinzione",
                 de: "Feuerwehr",
                 "pt-br": "Apagar Incêndios",
-                "zh-tw": "消火"
+                "zh-tw": "消火",
+                ja: "しょうか"
             },
             effect: {
                 en: "Discard a {R} Energy from your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scarta un'Energia {R} dal Pokémon attivo del tuo avversario.",
                 de: "Wirf eine {R}-Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia {R} do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍寶可夢的 {R} 能量。"
+                "zh-tw": "丟棄對手的活躍寶可夢的 {R} 能量。",
+                ja: "相手のバトルポケモンから{R}エネルギーを1個トラッシュ。"
             },
             damage: 10
         }

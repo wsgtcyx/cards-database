@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/117",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/117"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/117"
     },
     name: {
         en: "Galarian Stunfisk",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Stunfisk di Galar",
         "de": "Galar-Flunschlik",
         "pt-br": "Stunfisk de Galar",
-        "zh-tw": "伽勒爾泥巴魚"
+        "zh-tw": "伽勒爾泥巴魚",
+        ja: "ガラルマッギョ"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue labbra vistose attirano la preda mentre è in agguato\nil fango. Quando la preda si avvicina, Stunfisk si aggancia\nle sue pinne d'acciaio frastagliate si abbassarono su di loro.",
         "de": "Seine auffälligen Lippen locken Beute an, während er auf der Lauer liegt\nder Schlamm. Wenn sich die Beute nähert, greift Stunfisk zu\nseine gezackten Stahlflossen fielen auf sie herab.",
         "pt-br": "Seus lábios conspícuos atraem a presa enquanto ele fica à espreita\na lama. Quando a presa se aproxima, Stunfisk aperta\nsuas barbatanas de aço irregulares caíram sobre eles.",
-        "zh-tw": "它引人注目的嘴唇在等待時引誘獵物\n泥巴。當獵物靠近時，Stunfisk會夾緊\n鋸齒狀的鋼鰭落在它們身上。"
+        "zh-tw": "它引人注目的嘴唇在等待時引誘獵物\n泥巴。當獵物靠近時，Stunfisk會夾緊\n鋸齒狀的鋼鰭落在它們身上。",
+        ja: "泥に 隠れて 目立つ 唇で 獲物を おびき寄せる。 ギザギザの 鋼の ヒレで がっちり 挟む。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Trappola a scatto",
                 "de": "Schnappfalle",
                 "pt-br": "Armadilha de Snap",
-                "zh-tw": "捕捉陷阱"
+                "zh-tw": "捕捉陷阱",
+                ja: "トラップバサミ"
             },
             damage: 40,
             cost: ["Metal", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se questo Pokémon è in posizione attiva quando il Pokémon attivo del tuo avversario si ritira, questo attacco infligge 40 danni al nuovo Pokémon attivo.",
                 "de": "Wenn sich dieses Pokémon im nächsten Zug deines Gegners an der aktiven Stelle befindet, während sich das aktive Pokémon deines Gegners zurückzieht, fügt dieser Angriff dem neuen aktiven Pokémon 40 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon estiver no Ponto Ativo quando o Pokémon Ativo do seu oponente recuar, este ataque causará 40 de dano ao novo Pokémon Ativo.",
-                "zh-tw": "在對手的下一個回合中，如果當對手的活躍神奇寶貝撤退時，該神奇寶貝位於活躍位置，則此攻擊對新的活躍神奇寶貝造成 40 點傷害。"
+                "zh-tw": "在對手的下一個回合中，如果當對手的活躍神奇寶貝撤退時，該神奇寶貝位於活躍位置，則此攻擊對新的活躍神奇寶貝造成 40 點傷害。",
+                ja: "次の相手の番、このポケモンがバトル場にいるかぎり、相手のバトルポケモンがにげるとき、新しく出てきたポケモンに40ダメージ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/094"
     },
     name: {
         en: "Jynx",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rossana",
         "pt-br": "Jynx",
         "zh-tw": "迷唇姐",
+        ja: "ルージュラ",
     },
     illustrator: "MAHOU",
     category: "Pokemon",
@@ -31,7 +33,8 @@ const card: Card = {
         "it": "Le sue strane grida sembrano il linguaggio umano.\nCi sono alcuni musicisti che compongono canzoni\nper far cantare Jynx.",
         "de": "Seine seltsamen Schreie klingen wie menschliche Sprache.\nEs gibt einige Musiker, die Lieder komponieren\ndamit Jynx singen kann.",
         "pt-br": "Seus gritos estranhos soam como linguagem humana.\nExistem alguns músicos que compõem músicas\npara Jynx cantar.",
-        "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。"
+        "zh-tw": "它奇怪的叫聲聽起來像人類的語言。\n有一些音樂家創作歌曲\n讓 Jynx 唱歌。",
+        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。"
     },
     stage: "Basic",
     attacks: [{
@@ -42,7 +45,8 @@ const card: Card = {
                 "it": "Psichico",
                 "de": "Hellseher",
                 "pt-br": "Psíquico",
-                "zh-tw": "精神"
+                "zh-tw": "精神",
+                ja: "サイコキネシス"
             },
             damage: "30+",
             cost: ["Psychic", "Colorless"],
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

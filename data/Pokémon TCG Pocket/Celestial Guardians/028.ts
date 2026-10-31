@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/028"
     },
     name: {
         en: "Fletchinder",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Fletchinder",
         de: "Dartignis",
         'pt-br': "Fletchinder",
+        ja: "ヒノヤコマ",
         ko: "불화살빈",
         "zh-tw": "火箭雀",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Dartiri",
         "pt-br": "Fletchling",
         "zh-tw": "小箭雀",
+        ja: "ヤヤコマ",
     },
     description: {
         en: "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Sparge scintille nell'erba alta tra cui pensa\nsiano nascosti dei Pokémon Coleottero e,\nnon appena saltano fuori, li acchiappa.",
         de: "Es versprüht Funken in hohem Gras, in dem es\nKäfer-Pokémon vermutet, und schnappt sich diese,\nsobald sie daraus hervorhuschen.",
         'pt-br': "Fletchinder espalha brasas em gramas altas onde\nPokémon inseto podem estar se escondendo\npara os apanhar assim que saírem pulando.",
+        ja: "虫ポケモンが 潜んでいそうな 草むらに 火の粉を まき散らして 飛び出してきたところを 捕まえる。",
         ko: "벌레포켓몬이 숨어 있을 것 같은\n풀숲에 불똥을 흩뿌려서\n튀어나오는 순간 잡아챈다.",
         "zh-tw": "弗萊欽德將餘燼撒在蟲子神奇寶貝可能藏身的高草叢中，然後在它們跳出來時抓住它們。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Soffiofuoco Mirato",
                 de: "Stetiger Feuerhauch",
                 'pt-br': "Hálito de Fogo Constante",
+                ja: "ひをはく",
                 ko: "불토하기",
                 "zh-tw": "穩定噴火"
             },

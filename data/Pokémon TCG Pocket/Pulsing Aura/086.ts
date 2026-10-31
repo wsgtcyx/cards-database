@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/086",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/086",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/086"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/086"
     },
     name: {
         en: "Sawk",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Grazie al suo intenso allenamento, può infliggere\nmicidiali colpi di karate capaci di dividere in due\nle acque dell’oceano.",
         de: "Der Karateschlag eines perfekt durchtrainierten\nKaradonis’ hat genug Wucht, um selbst das Meer\nzu spalten.",
         "pt-br": "Os golpes de caratê de um Sawk que treinou até o limite podem dividir o próprio oceano.",
-        "zh-tw": "不斷重複練習的打擊鬼\n所使出的空手劈擁有\n足以劈開大海的破壞力。"
+        "zh-tw": "不斷重複練習的打擊鬼\n所使出的空手劈擁有\n足以劈開大海的破壞力。",
+        ja: "鍛えに 鍛えた ダゲキが 繰りだす 必殺 空手チョップは 海も 割るほどの 破壊力。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Breccia",
                 de: "Durchbruch",
                 "pt-br": "Quebra-telha",
-                "zh-tw": "劈瓦"
+                "zh-tw": "劈瓦",
+                ja: "かわらわり"
             },
             effect: {
                 en: "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il danno di questo attacco non è influenzato da alcun effetto sul Pokémon attivo del tuo avversario.",
                 de: "Der Schaden dieses Angriffs wird nicht durch Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por nenhum efeito no Pokémon Ativo do seu oponente.",
-                "zh-tw": "這次攻擊的傷害不受對手的活躍寶可夢的任何效果影響。"
+                "zh-tw": "這次攻擊的傷害不受對手的活躍寶可夢的任何效果影響。",
+                ja: "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
             },
             damage: 30
         }

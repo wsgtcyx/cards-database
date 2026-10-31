@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/222",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/222",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/222"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/222",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/222"
     },
     name: {
         en: "Koga",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Koga",
         de: "Koga",
         'pt-br': "Koga",
+        ja: "キョウ",
         ko: "독수",
         "zh-tw": "阿桔",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Riprendi in mano il tuo Muk o Weezing in posizione attiva.",
         de: "Nimm dein Sleimok oder Smogmog in der Aktiven Position auf deine Hand.",
         'pt-br': "Coloque seu Muk ou Weezing do Campo Ativo na sua mão.",
+        ja: "自分のバトル場の「ベトベトン」「マタドガス」を手札にもどす。",
         ko: "자신의 배틀필드의 「질뻐기」「또도가스」를 패로 되돌린다.",
         "zh-tw": "將活躍點中的 Muk 或 Weez 放入手上。"
     },

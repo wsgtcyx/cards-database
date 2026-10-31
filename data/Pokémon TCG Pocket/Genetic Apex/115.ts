@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/115",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/115"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/115"
     },
     name: {
         en: "Abra",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Abra",
         de: "Abra",
         'pt-br': "Abra",
+        ja: "ケーシィ",
         ko: "캐이시",
         "zh-tw": "凱西",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Teletrasporto",
                 de: "Teleport",
                 'pt-br': "Teleporte",
+                ja: "テレポート",
                 ko: "순간이동",
                 "zh-tw": "傳送"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Scambia questo Pokémon con uno della tua panchina.",
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 'pt-br': "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치 포켓몬과 교체한다.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Il contenuto dei suoi sogni influisce sui suoi poteri\npsichici, che può utilizzare anche mentre dorme.",
         de: "Es setzt seine Psycho-Kräfte selbst im\nSchlaf ein. Der Inhalt seiner Träume hat\nEinfluss auf die Kräfte, die es verwendet.",
         'pt-br': "Usa seus poderes psíquicos enquanto dorme.\nO conteúdo dos sonhos de Abra afeta os\npoderes que este Pokémon possui.",
+        ja: "寝ながら 超能力を 操る。 夢の 内容が 使う 力に 影響する。",
         ko: "자면서 초능력을 구사한다.\n꿈의 내용이\n사용하는 힘에 영향을 준다.",
         "zh-tw": "這只神奇寶貝在睡覺時會使用其心靈力量。阿布拉的夢的內容會影響神奇寶貝所使用的力量。"
     },

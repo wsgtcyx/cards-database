@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/238",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/238",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/238",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/238"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/238",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/238"
     },
     name: {
         en: "Diglett",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Diglett",
         de: "Digda",
         'pt-br': "Diglett",
+        ja: "ディグダ",
         ko: "디그다",
         "zh-tw": "地鼠",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 'pt-br': "Tapa de Lama",
+                ja: "どろかけ",
                 ko: "진흙뿌리기",
                 "zh-tw": "拍泥"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Vive un metro sottoterra, dove si nutre\ndi radici. Talvolta compare in superficie.",
         de: "Dieses Pokémon lebt 1 m unter der\nErde. Es frisst Wurzeln und kommt\nhin und wieder an die Oberfläche.",
         'pt-br': "Vive cerca de 1 metro embaixo da terra,\nonde se alimenta de raízes de plantas.\nAlgumas vezes, são vistos acima da terra.",
+        ja: "地下１メートルくらいを 掘りすすみ 木の根っこなどを かじって 生きる。 たまに 地上に 顔を出す。",
         ko: "지하 1m 정도를 파고들어 가서\n나무뿌리 등을 씹어 먹고 산다.\n가끔 지상으로 얼굴을 내민다.",
         "zh-tw": "它生活在地下約一碼處，以植物根部為食。它有時出現在地面上。"
     },

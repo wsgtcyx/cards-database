@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/138"
     },
     name: {
         en: "Sentret",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wiesor",
         "pt-br": "Sentret",
         "zh-tw": "尾立",
+        ja: "オタチ",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando funge da vedetta, avverte gli altri del pericolo\nstrillando e colpendo il suolo con la coda.",
         "de": "Als Wachmann warnt er andere vor Gefahren\nindem er kreischte und mit dem Schwanz auf den Boden schlug.",
         "pt-br": "Ao agir como vigia, avisa os outros sobre o perigo\ngritando e batendo no chão com a cauda.",
-        "zh-tw": "當充當瞭望員時，它會警告其他人有危險\n通過尖叫並用尾巴撞擊地面。"
+        "zh-tw": "當充當瞭望員時，它會警告其他人有危險\n通過尖叫並用尾巴撞擊地面。",
+        ja: "見張り役は 鋭く 鳴いたり 尻尾で 地面を たたいたりして 仲間に 危険を 知らせる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Graffio",
                 "de": "Kratzen",
                 "pt-br": "Arranhar",
-                "zh-tw": "划痕"
+                "zh-tw": "划痕",
+                ja: "ひっかく"
             },
             damage: 20,
             cost: ["Colorless"]

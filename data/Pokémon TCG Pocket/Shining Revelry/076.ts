@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/076"
     },
     name: {
         en: "Grafaiai",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grafaiai",
         de: "Affiti",
         'pt-br': "Grafaiai",
+        ja: "タギングル",
         ko: "태깅구르",
         "zh-tw": "塗標客"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Shroodle",
         "de": "Sproxi",
         "pt-br": "Shroodle",
-        "zh-tw": "滋汁鼴"
+        "zh-tw": "滋汁鼴",
+        ja: "シルシュルー"
     },
     description: {
         en: "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Traccia dei motivi sugli alberi della foresta\ncon le dita imbrattate di saliva velenosa, il\ncui colore cambia in base all'alimentazione.",
         de: "Es beschmiert seine Finger mit giftigem Speichel,\nder je nach Futter anders gefärbt ist, und malt\ndamit Muster auf die Bäume im Wald.",
         'pt-br': "A cor da saliva venenosa deste Pokémon depende\nda sua dieta. Grafaiai cobre seus dedos com saliva\ne desenha em árvores da floresta.",
+        ja: "エサによって 色が 変化する 毒の 唾液を 指に 塗して 森の 木々に 模様を 描く。",
         ko: "먹이에 따라 색이 변하는\n독성의 침을 손가락에 묻혀서\n숲의 나무들에 무늬를 그린다.",
         "zh-tw": "有毒唾液的顏色取決於神奇寶貝吃的東西。 Grafaiai 用唾液覆蓋手指，在森林裡的樹木上畫出圖案。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
             it: "Patina Velenosa",
             de: "Giftbeschichtung",
             'pt-br': "Pintura de Veneno",
+            ja: "どくぬり",
             ko: "독칠",
             "zh-tw": "毒塗層"
         },
@@ -64,6 +69,7 @@ const card: Card = {
             es: "Una vez durante tu turno, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Envenenado.",
             it: "Una sola volta durante il tuo turno, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene avvelenato.",
             de: "Einmal während deines Zuges kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon jetzt vergiftet.",
+            ja: "自分の番に1回使える。コインを1回投げオモテなら、相手のバトルポケモンをどくにする。",
             ko: "자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다.",
             'pt-br': "Uma vez durante o seu turno, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Envenenado.",
             "zh-tw": "在你的回合中，你可以拋一次硬幣。如果正面，則對手的活躍神奇寶貝現在中毒。"
@@ -77,6 +83,7 @@ const card: Card = {
             it: "Morso",
             de: "Biss",
             'pt-br': "Mordida",
+            ja: "かみつく",
             ko: "물기",
             "zh-tw": "咬"
         },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/092",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/092"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/092"
     },
     name: {
         en: "Monferno",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Panpyro",
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
+        ja: "モウカザル",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Panflam",
         "pt-br": "Chimchar",
         "zh-tw": "小火焰猴",
+        ja: "ヒコザル",
     },
     description: {
         en: "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Controlla abilmente l'intensità del fuoco sul suo\ncoda per mantenere i suoi nemici a una distanza ideale.",
         "de": "Es steuert gekonnt die Intensität des Feuers auf seinem Gerät\nSchwanz, um seine Feinde auf ideale Distanz zu halten.",
         "pt-br": "Ele controla habilmente a intensidade do fogo em seu\ncauda para manter seus inimigos a uma distância ideal.",
-        "zh-tw": "它巧妙地控制著火勢的強度\n尾巴使敵人保持理想的距離。"
+        "zh-tw": "它巧妙地控制著火勢的強度\n尾巴使敵人保持理想的距離。",
+        ja: "尻尾の 炎の 勢いを うまく コントロールして 自分の 得意な 間合いで 戦うのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pugno ardente",
                 "de": "Feuriger Schlag",
                 "pt-br": "Soco de Fogo",
-                "zh-tw": "烈火拳"
+                "zh-tw": "烈火拳",
+                ja: "ほのおパンチ"
             },
             damage: 30,
             cost: ["Fire"]

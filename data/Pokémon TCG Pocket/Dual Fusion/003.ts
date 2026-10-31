@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/003",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/003",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/003"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/003"
     },
     name: {
         en: "Venusaur",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
-        ja: "Ivysaur",
+        ja: "フシギソウ",
         ko: "Ivysaur"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Solarstrahl",
                 "pt-br": "Raio Solar",
                 "zh-tw": "日光束",
-                ja: "Solar Beam",
+                ja: "ソーラービーム",
                 ko: "Solar Beam"
             },
             cost: [
@@ -84,7 +85,7 @@ const card: Card = {
                 de: "Sonnenheilung",
                 "pt-br": "Cura Ensolarada",
                 "zh-tw": "陽光治癒",
-                ja: "Sunny Heal",
+                ja: "サニーヒール",
                 ko: "Sunny Heal"
             },
             effect: {
@@ -95,7 +96,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 30 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá curar 30 pontos de dano do seu Pokémon Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。將自己的戰鬥寶可夢恢復30HP。",
-                ja: "Once during your turn, you may heal 30 damage from your Active Pokémon.",
+                ja: "自分の番に1回使える。自分のバトルポケモンのHPを30回復。",
                 ko: "Once during your turn, you may heal 30 damage from your Active Pokémon."
             },
             type: "Ability"
@@ -109,7 +110,7 @@ const card: Card = {
         de: "Da es Sonnenlicht in Energie umwandelt, ist es im Sommer stärker.",
         "pt-br": "Enquanto toma um solzinho, consegue converter a luz em energia. Por isso, é mais poderoso durante o verão.",
         "zh-tw": "由於能將沐浴的陽光轉換成能量，夏天會變得更強。",
-        ja: "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.",
+        ja: "浴びた 太陽の 光を エネルギーに 変換できるので 夏の ほうが 強くなる。",
         ko: "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime."
     }
 };

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/106",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/106",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/106",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/106"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/106",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/106"
     },
     name: {
         en: "Fearow",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Habitak",
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
-        ja: "Spearow",
+        ja: "オニスズメ",
         ko: "Spearow"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Bohrschnabel",
                 "pt-br": "Bico Broca",
                 "zh-tw": "啄鑽",
-                ja: "Drill Peck",
+                ja: "ドリルくちばし",
                 ko: "Drill Peck"
             },
             cost: [
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Wer Essbares dabeihat, sollte sich nicht in Ibitaks Revier begeben, da sonst ein Überfall aus heiterem Himmel droht.",
         "pt-br": "Transportar alimento através do território de Fearow é perigoso, porque este Pokémon roubará a comida em um instante!",
         "zh-tw": "在大嘴雀的地盤上帶著食物走動是件危險的事，食物轉眼間就會被奪走。",
-        ja: "Carrying food through Fearow’s territory is dangerous. It will snatch the food away from you in a flash!",
+        ja: "オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。",
         ko: "Carrying food through Fearow’s territory is dangerous. It will snatch the food away from you in a flash!"
     }
 };

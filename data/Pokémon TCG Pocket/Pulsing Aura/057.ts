@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/057"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/057"
     },
     name: {
         en: "Chinchou",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Spara elettricità con carica positiva e negativa dalle punte delle sue due antenne e stordisce i suoi avversari.",
         de: "Es schießt positiv und negativ geladene Elektrizität aus den Spitzen seiner beiden Antennen und betäubt seine Gegner.",
         "pt-br": "Ele dispara eletricidade com carga positiva e negativa das pontas de suas duas antenas e atordoa seus oponentes.",
-        "zh-tw": "它從兩根觸角的尖端發射正電和負電，擊暈對手。"
+        "zh-tw": "它從兩根觸角的尖端發射正電和負電，擊暈對手。",
+        ja: "２つの 触手の 先から プラスと マイナスの 電気を 流して 相手を しびれさせる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pinnalama",
                 de: "Rasierflosse",
                 "pt-br": "Barbatana Cortante",
-                "zh-tw": "鰭快刀"
+                "zh-tw": "鰭快刀",
+                ja: "ひれカッター"
             },
             damage: 20
         }

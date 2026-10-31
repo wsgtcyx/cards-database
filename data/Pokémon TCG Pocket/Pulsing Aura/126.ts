@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/126",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/126",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/126",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/126"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/126",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/126"
     },
     name: {
         en: "Flygon ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Sbattitore di sabbia",
                 de: "Sand-Slammer",
                 "pt-br": "Batedor de Areia",
-                "zh-tw": "沙宰"
+                "zh-tw": "沙宰",
+                ja: "すなのかんごく"
             },
             effect: {
                 en: "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to each of your opponent's Pokémon.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Durante il Controllo Pokémon, se questo Pokémon è in posizione attiva, infliggi 10 danni a ciascuno dei Pokémon del tuo avversario.",
                 de: "Wenn sich dieses Pokémon während des Pokémon-Checkups an der aktiven Stelle befindet, füge jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Durante o Pokémon Checkup, se este Pokémon estiver no Active Spot, cause 10 pontos de dano a cada um dos Pokémon do seu oponente.",
-                "zh-tw": "寶可夢檢查時，如果該寶可夢在活動位置，則對對手的每隻寶可夢造成 10 點傷害。"
+                "zh-tw": "寶可夢檢查時，如果該寶可夢在活動位置，則對對手的每隻寶可夢造成 10 點傷害。",
+                ja: "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のポケモン全員に10ダメージ。"
             }
         }
     ],
@@ -74,7 +77,8 @@ const card: Card = {
                 it: "Dragopulsar",
                 de: "Drachenpuls",
                 "pt-br": "Pulso do Dragão",
-                "zh-tw": "龍之波動"
+                "zh-tw": "龍之波動",
+                ja: "りゅうのはどう"
             },
             effect: {
                 en: "Discard the top card of your deck.",
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Scarta la prima carta del tuo mazzo.",
                 de: "Lege die oberste Karte deines Decks ab.",
                 "pt-br": "Descarte a carta do topo do seu baralho.",
-                "zh-tw": "棄掉你牌組最上面的牌。"
+                "zh-tw": "棄掉你牌組最上面的牌。",
+                ja: "自分の山札を上から1枚トラッシュ。"
             },
             damage: 140
         }

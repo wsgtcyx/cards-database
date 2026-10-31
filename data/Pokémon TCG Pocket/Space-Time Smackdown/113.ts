@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/113",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/113"
     },
     name: {
         en: "Shieldon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shieldon",
         de: "Schilterus",
         'pt-br': "Shieldon",
+        ja: "タテトプス",
         ko: "방패톱스",
         "zh-tw": "盾甲龍",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Panzerfossil",
         "pt-br": "Fóssil Armadura",
         "zh-tw": "盾甲化石",
+        ja: "たての化石",
     },
     description: {
         en: "A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Era un docile Pokémon erbivoro. Si serviva del\nmuso protetto dalla pelle coriacea per scavare\nnel terreno e mangiare le radici degli alberi.",
         de: "Ein friedliches, pflanzenfressendes Pokémon.\nMit seiner harten Gesichtshaut wühlte es im\nBoden und fraß Baumwurzeln.",
         'pt-br': "Um Pokémon manso e herbívoro, que desenterrava\nraízes de árvores com o rosto para comer. A pele\nde seu rosto era bastante áspera.",
+        ja: "草食の おとなしい ポケモン。 丈夫な 顔の 皮膚で 地面を 掘り 木の根っこなども 食っていた。",
         ko: "온순한 초식 포켓몬.\n튼튼한 얼굴 피부로 지면을\n파고들어 나무 뿌리도 먹었다.",
         "zh-tw": "性情溫和的草食性神奇寶貝，它用臉挖樹根來吃。臉上的皮膚非常堅韌。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

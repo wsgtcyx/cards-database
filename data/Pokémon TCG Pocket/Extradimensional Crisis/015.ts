@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/015"
     },
     name: {
         en: "Luxray",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Luxtra",
         "pt-br": "Luxray",
         "zh-tw": "倫琴貓",
+        ja: "レントラー",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Luxio",
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
+        ja: "ルクシオ",
     },
     description: {
         en: "It can see clearly through walls to track down its\nprey and seek its lost young.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Può vedere chiaramente attraverso i muri per rintracciarlo\npreda e cerca i suoi piccoli perduti.",
         "de": "Es kann deutlich durch Wände sehen, um es aufzuspüren\nBeute machen und seine verlorenen Jungen suchen.",
         "pt-br": "Ele pode ver claramente através das paredes para rastrear seu\ncaçar e procurar seus filhotes perdidos.",
-        "zh-tw": "它可以透過牆壁清晰地看到它的踪跡\n捕食並尋找它失去的幼崽。"
+        "zh-tw": "它可以透過牆壁清晰地看到它的踪跡\n捕食並尋找它失去的幼崽。",
+        ja: "壁の向こうも 見える 力で 逃げた 獲物を 追いつめるほかにも 迷子の 子どもを 捜したりする。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Zanna intimidatoria",
                 "de": "Einschüchternder Fang",
                 "pt-br": "Presa Intimidadora",
-                "zh-tw": "恐嚇方"
+                "zh-tw": "恐嚇方",
+                ja: "いかくのキバ"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Fintanto che questo Pokémon è in posizione attiva, gli attacchi usati dal Pokémon attivo del tuo avversario infliggono -20 danni.",
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, verursachen Angriffe des aktiven Pokémon deines Gegners −20 Schadenspunkte.",
                 "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, os ataques usados pelo Pokémon Ativo do seu oponente causarão -20 de dano.",
-                "zh-tw": "只要這只神奇寶貝在活躍點，對手的活躍神奇寶貝使用的攻擊就會造成−20點傷害。"
+                "zh-tw": "只要這只神奇寶貝在活躍點，對手的活躍神奇寶貝使用的攻擊就會造成−20點傷害。",
+                ja: "このポケモンがバトル場にいるかぎり、相手のバトルポケモンが使うワザのダメージを-20する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Palla elettrica",
                 "de": "Elektrischer Ball",
                 "pt-br": "Bola Elétrica",
-                "zh-tw": "電動球"
+                "zh-tw": "電動球",
+                ja: "ライトニングボール"
             },
             damage: 90,
             cost: ["Lightning", "Lightning", "Colorless"]

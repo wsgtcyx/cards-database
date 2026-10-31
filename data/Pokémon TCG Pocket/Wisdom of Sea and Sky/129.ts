@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/129",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/129",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/129"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/129",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/129"
     },
     name: {
         en: "Spearow",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Habitak",
         "pt-br": "Spearow",
         "zh-tw": "烈雀",
+        ja: "オニスズメ",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua natura spericolata lo porta a resistere\naltri, anche Pokémon di grandi dimensioni, se deve proteggere\nil suo territorio.",
         "de": "Seine rücksichtslose Natur führt dazu, dass es sich widersetzt\nandere – sogar große Pokémon – wenn es schützen muss\nsein Territorium.",
         "pt-br": "A sua natureza imprudente leva-o a enfrentar\noutros – até mesmo Pokémon grandes – se for necessário proteger\nseu território.",
-        "zh-tw": "它魯莽的本性使它能夠挺身而出\n其他——甚至是大型神奇寶貝——如果它必須保護的話\n它的領土。"
+        "zh-tw": "它魯莽的本性使它能夠挺身而出\n其他——甚至是大型神奇寶貝——如果它必須保護的話\n它的領土。",
+        ja: "自分のテリトリーを 守るためなら 大きな ポケモンが 相手でも 向かっていく 向こう見ずな 性質。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scivolare",
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
-                "zh-tw": "滑行"
+                "zh-tw": "滑行",
+                ja: "かっくう"
             },
             damage: 10,
             cost: ["Colorless"]

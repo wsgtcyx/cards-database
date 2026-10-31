@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/077"
     },
     name: {
         en: "Mega Charizard Y ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Charizard Y-ex",
         "de": "Mega-Glurak Y-ex",
         "pt-br": "Mega Charizard Y ex",
-        "zh-tw": "超級噴火龍Yex"
+        "zh-tw": "超級噴火龍Yex",
+        ja: "メガリザードンYex"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "火恐龍"
+        "zh-tw": "火恐龍",
+        ja: "リザード"
     },
     description: {
         en: "Its bond with its Trainer is the source of\nits power. It boasts speed and maneuverability\ngreater than that of a jet.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo legame con il suo Allenatore è all'origine di\nil suo potere. Vanta velocità e manovrabilità\nmaggiore di quello di un jet.",
         "de": "Seine Bindung zu seinem Trainer ist die Quelle von\nseine Macht. Es zeichnet sich durch Geschwindigkeit und Manövrierfähigkeit aus\ngrößer als die eines Jets.",
         "pt-br": "Seu vínculo com seu Treinador é a fonte de\nseu poder. Possui velocidade e manobrabilidade\nmaior que a de um jato.",
-        "zh-tw": "它與訓練師的羈絆是它的源泉\n它的力量。它擁有速度和機動性\n比噴氣式飛機更大。"
+        "zh-tw": "它與訓練師的羈絆是它的源泉\n它的力量。它擁有速度和機動性\n比噴氣式飛機更大。",
+        ja: "トレーナーとの 絆が パワーの 源。 ジェット機を しのぐ 飛行能力を 誇る。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Immersione cremisi",
                 "de": "Crimson Dive",
                 "pt-br": "Mergulho Carmesim",
-                "zh-tw": "紅蓮俯衝"
+                "zh-tw": "紅蓮俯衝",
+                ja: "グレンダイブ"
             },
             damage: 250,
             cost: ["Fire", "Fire", "Fire", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 50 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 50 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 50 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 50 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 50 點傷害。",
+                ja: "このポケモンにも50ダメージ。"
             }
         }],
     weaknesses: [{

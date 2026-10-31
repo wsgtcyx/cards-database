@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/071"
     },
     name: {
         en: "Froakie",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
+        ja: "ケロマツ",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Protegge la sua pelle ricoprendone il corpo\nbollicine delicate. Sotto la sua aria spensierata,\nmantiene un occhio vigile su ciò che lo circonda.",
         "de": "Es schützt seine Haut, indem es seinen Körper damit bedeckt\nzarte Blasen. Unter seiner fröhlichen Atmosphäre,\nEs behält seine Umgebung im Auge.",
         "pt-br": "Ele protege sua pele cobrindo seu corpo com\nbolhas delicadas. Sob seu ar despreocupado,\nele mantém um olhar atento ao seu entorno.",
-        "zh-tw": "它通過覆蓋身體來保護皮膚\n細膩的氣泡。在其無憂無慮的氣氛之下，\n它密切關注周圍環境。"
+        "zh-tw": "它通過覆蓋身體來保護皮膚\n細膩的氣泡。在其無憂無慮的氣氛之下，\n它密切關注周圍環境。",
+        ja: "繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gocciolamento dell'acqua",
                 "de": "Wassertropfen",
                 "pt-br": "Gotejamento de água",
-                "zh-tw": "水滴"
+                "zh-tw": "水滴",
+                ja: "みずきり"
             },
             damage: 20,
             cost: ["Water"]

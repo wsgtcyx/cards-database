@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/150",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/150",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/150",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/150"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/150",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/150"
     },
     name: {
         en: "Kiawe",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kawe",
         de: "Kiawe",
         'pt-br': "Kiawe",
+        ja: "カキ",
         ko: "키아웨",
         "zh-tw": "卡奇",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scegli uno dei tuoi Marowak[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ] o Turtonator. Prendi 2 Energie {R} dalla tua Zona Energia e assegnale a quel Pokémon. Il tuo turno finisce.",
         de: "Wähle 1 deiner [Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ]Knogga oder Tortunator. Lege 2 {R}-Energien aus deinem Energiebereich an dieses Pokémon an. Dein Zug endet.",
         'pt-br': "Escolha 1 dos seus Marowak[Text:Char v=\"FOUR-PER-EM-SPACE\" ][Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ] ou Turtonator. Pegue 2 Energias {R} da sua Zona de Energia e ligue-as àquele Pokémon. O seu turno acaba.",
+        ja: "このカードを使ったら、自分の番は終わる。 自分の「アローラガラガラ」または「バクガメス」を1匹選ぶ。自分のエネルギーゾーンから{R}エネルギーを2個出し、そのポケモンにつける。",
         ko: "이 카드를 사용하면 자신의 차례는 끝난다.\n자신의 「[Text:AdditionalName v=\"ADDITIONAL_NAME_Alora\" type=\"region\" ][Text:Char v=\"FOUR-PER-EM-SPACE\" ]텅구리」 또는 「폭거북스」 1마리 선택한다. 자신의 에너지존에서 {R}에너지를 2개 내보내 그 포켓몬에게 붙인다.",
         "zh-tw": "選擇 1 個 Alolan Marowak 或 Turtonator。從你的能量區取出 2 個 {R} 能量並將其附加到該神奇寶貝身上。你的回合結束。"
     },

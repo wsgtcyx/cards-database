@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/080",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/080",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/080",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/080",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/080"
     },
     name: {
         en: "Budding Expeditioner",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Esploratore in Erba",
         de: "Abenteurer-Neuling",
         'pt-br': "Expedicionário Principiante",
+        ja: "かけだし調査員",
         ko: "신출내기 조사원",
         "zh-tw": "新手調查員",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         it: "Riprendi in mano il tuo Mew-ex in posizione attiva.",
         de: "Nimm dein Mew-ex in der Aktiven Position auf deine Hand.",
         'pt-br': "Coloque seu Mew ex do Campo Ativo na sua mão.",
+        ja: "自分のバトル場の「ミュウex」を手札にもどす。",
         ko: "자신의 배틀필드의 「뮤 ex」 패로 되돌린다.",
         "zh-tw": "將活躍點中的 Mew ex 放入你的手牌中。"
     },

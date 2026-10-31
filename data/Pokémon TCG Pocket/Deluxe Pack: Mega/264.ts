@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/264",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/264",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/264",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/264"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/264",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/264"
     },
     name: {
         en: "Torchic",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "In seinem Inneren lodert ein Feuer. Es schleudert 1000 °C heiße Feuerbälle.",
         "pt-br": "Um fogo queima em seu interior. Por isso, abraçá-lo é tão quente. Lança bolas de fogo de mais de 900 °C.",
         "zh-tw": "因為體內燃燒著火焰，所以抱在懷裡非常溫暖。能噴出1000度的火球。",
-        ja: "A fire burns inside, so it feels very warm to hug.\nIt launches fireballs of 1,800 degrees Fahrenheit.",
+        ja: "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。",
         ko: "A fire burns inside, so it feels very warm to hug.\nIt launches fireballs of 1,800 degrees Fahrenheit."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "Peck",
+                ja: "つつく",
                 ko: "Peck"
             },
             damage: 20,

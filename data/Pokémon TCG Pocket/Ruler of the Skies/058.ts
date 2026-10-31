@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/058",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/058",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/058"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/058"
     },
     name: {
         en: "Eelektross",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica.",
         "de": "Es hakt sich mit seinem Maul, das als Saugnapf fungiert, an seiner Beute fest und verpasst ihr mit seinen Fangzähnen starke Stromschläge.",
         "pt-br": "Agarra a presa com sua boca sugadora, fincando seus dentes e eletrocutando-a intensamente",
-        "zh-tw": "會用吸盤的嘴吸附在\n對手身上，然後刺進\n牙齒放出強大的電流。"
+        "zh-tw": "會用吸盤的嘴吸附在\n對手身上，然後刺進\n牙齒放出強大的電流。",
+        ja: "吸盤に なっている 口で はりついて キバを 刺しこみ 強力な 電気を 流す。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Sgretolenergia",
                 de: "Zermalmende Energie",
                 "pt-br": "Esmagamento de Energia",
-                "zh-tw": "能量粉碎"
+                "zh-tw": "能量粉碎",
+                ja: "エナジークラッシュ"
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon.",
@@ -68,7 +71,8 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an alle Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a todos os Pokémon do seu oponente.",
                 "zh-tw": "增加對手的所有寶可夢身上的能量的數量×20點傷害。",
-                "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata ai Pokémon del tuo avversario."
+                "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata ai Pokémon del tuo avversario.",
+                ja: "相手のポケモン全員のエネルギーの数×20ダメージ追加。"
             },
             damage: "50+"
         }

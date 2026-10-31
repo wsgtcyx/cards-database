@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/253",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/253",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/253",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/253"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/253",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/253"
 	},
 	name: {
 		en: "Probopass ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Probopass-ex",
 		de: "Voluminas-ex",
 		"pt-br": "Probopass ex",
-		"zh-tw": "大朝北鼻ex"
+		"zh-tw": "大朝北鼻ex",
+		ja: "ダイノーズex"
 	},
 	illustrator: "PLANETA Tsuji",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Nosepass",
 		de: "Nasgnet",
 		"pt-br": "Nosepass",
-		"zh-tw": "朝北鼻"
+		"zh-tw": "朝北鼻",
+		ja: "ノズパス"
 	},
 	stage: "Stage1",
 	suffix: "EX",
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Unità Protettiva",
 				de: "Schutzeinheit",
 				"pt-br": "Unidade Defensiva",
+				ja: "プロテクトユニット",
 				ko: "프로텍트유닛",
 				"zh-tw": "防禦單位"
 			},
@@ -58,6 +62,7 @@ const card: Card = {
 				it: "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -20 danni dagli attacchi.",
 				de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 20 Schadenspunkte zugefügt.",
 				"pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá −20 pontos de dano de ataques.",
+				ja: "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
 				ko: "상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지를 -20한다.",
 				"zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-20。"
 			}

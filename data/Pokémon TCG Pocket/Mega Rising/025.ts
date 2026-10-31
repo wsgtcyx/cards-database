@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/025"
     },
     name: {
         en: "Grookey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Chimpep",
         "pt-br": "Grookey",
         "zh-tw": "敲音猴",
+        ja: "サルノリ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Attacca con rapidi colpi del bastone.\nMentre colpisce con una velocità sorprendente, ottiene\nsempre più pompato.",
         "de": "Es greift mit schnellen Schlägen seines Stockes an.\nDa es mit erstaunlicher Geschwindigkeit zuschlägt, wird es\nimmer mehr aufgepumpt.",
         "pt-br": "Ele ataca com batidas rápidas de seu bastão.\nÀ medida que ataca com uma velocidade incrível, fica\ncada vez mais bombeado.",
-        "zh-tw": "它用棍子快速擊打進行攻擊。\n當它以驚人的速度撞擊時，它得到了\n越來越抽。"
+        "zh-tw": "它用棍子快速擊打進行攻擊。\n當它以驚人的速度撞擊時，它得到了\n越來越抽。",
+        ja: "スティックの 連打で 攻撃。 すごい スピードで 叩くうちに どんどん テンションが 上がるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo",
                 "de": "Schlagen",
                 "pt-br": "Bater",
-                "zh-tw": "打"
+                "zh-tw": "打",
+                ja: "たたく"
             },
             damage: 20,
             cost: ["Grass"]

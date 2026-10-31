@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/118",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/118",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/118",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/118"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/118",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/118"
 	},
 	name: {
 		en: "Brionne",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Brionne",
 		de: "Marikeck",
 		"pt-br": "Brionne",
-		"zh-tw": "花漾海獅"
+		"zh-tw": "花漾海獅",
+		ja: "オシャマリ"
 	},
 	illustrator: "Atsuko Nishida",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Popplio",
 		de: "Robball",
 		"pt-br": "Popplio",
-		"zh-tw": "球球海獅"
+		"zh-tw": "球球海獅",
+		ja: "アシマリ"
 	},
 	description: {
 		en: "It gets excited when it sees a dance it\ndoesn't know. This hard worker practices\ndiligently until it can learn that dance.",
@@ -42,7 +45,8 @@ const card: Card = {
 		it: "Si emoziona quando vede qualcuno ballarlo\nnon lo sa. Questa pratica del gran lavoratore\ndiligentemente finché non possa imparare quella danza.",
 		de: "Es wird aufgeregt, wenn es jemanden tanzen sieht\nweiß es nicht. Dieser harte Arbeiter übt\nfleißig, bis es diesen Tanz lernen kann.",
 		"pt-br": "Fica animado quando vê uma dança\nnão sabe. Este trabalhador pratica\ndiligentemente até que possa aprender essa dança.",
-		"zh-tw": "當它看到舞蹈時它會興奮\n不知道。這個勤奮的人練習\n勤奮地練習，直到它能學會那種舞蹈。"
+		"zh-tw": "當它看到舞蹈時它會興奮\n不知道。這個勤奮的人練習\n勤奮地練習，直到它能學會那種舞蹈。",
+		ja: "知らないダンスを 見ると 興奮。 踊れるように なるまで 懸命に 練習する 努力家 だよ。"
 	},
 	stage: "Stage1",
 	attacks: [
@@ -54,7 +58,8 @@ const card: Card = {
 				it: "Pistola ad acqua",
 				de: "Wasserpistole",
 				"pt-br": "Pistola de água",
-				"zh-tw": "水槍"
+				"zh-tw": "水槍",
+				ja: "みずでっぽう"
 			},
 			damage: 40,
 			cost: ["Water", "Colorless"]

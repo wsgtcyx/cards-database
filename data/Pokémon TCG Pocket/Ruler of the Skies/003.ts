@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/003",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/003",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/003"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/003"
     },
     name: {
         en: "Beautifly",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Ha un’indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
         de: "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus.",
         "pt-br": "Sua natureza é agressiva. Ele ataca suas presas com sua boca comprida e estreita para drenar os fluidos do inimigo",
-        "zh-tw": "會用細長的嘴刺向對手，\n吸取對手的體液。\n具有很強的攻擊性。"
+        "zh-tw": "會用細長的嘴刺向對手，\n吸取對手的體液。\n具有很強的攻擊性。",
+        ja: "長細い 口を 突き刺して 相手の 体液を 吸い取る。 攻撃的な 性格。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Evolvolo",
                 "pt-br": "Evoluvoo",
                 "zh-tw": "進化飛行",
-                "de": "Entwicklungsflug"
+                "de": "Entwicklungsflug",
+                ja: "エボルフライト"
             },
             effect: {
                 en: "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Pokémon Evoluzione nella tua panchina.",
                 de: "Dieser Angriff fügt jedem Evolutions-Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Pokémon de Evolução no seu Banco.",
-                "zh-tw": "增加自己的備戰區的進化寶可夢的數量×30點傷害。"
+                "zh-tw": "增加自己的備戰區的進化寶可夢的數量×30點傷害。",
+                ja: "自分のベンチの進化ポケモンの数×30ダメージ追加。"
             },
             damage: "30+"
         }

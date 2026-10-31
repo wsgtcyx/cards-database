@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/114",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/114",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/114"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/114"
     },
     name: {
         en: "Bibarel",
@@ -50,7 +51,7 @@ const card: Card = {
         de: "Bidiza",
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸",
-        ja: "Bidoof",
+        ja: "ビッパ",
         ko: "Bidoof"
     },
     attacks: [
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Stärke",
                 "pt-br": "Força",
                 "zh-tw": "怪力",
-                ja: "Strength",
+                ja: "かいりき",
                 ko: "Strength"
             },
             cost: [
@@ -83,7 +84,7 @@ const card: Card = {
         de: "Emsig durchbeißt es mit seinen scharfen Vorderzähnen Wurzeln und Äste und baut daraus sein Nest.",
         "pt-br": "Ele monta seu ninho com pilhas de galhos e raízes de árvores que cortou com seus incisivos.",
         "zh-tw": "會勤勞地把用銳利的門牙啃斷的樹枝和樹根堆積起來，在水邊築巢穴。",
-        ja: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+        ja: "鋭い 前歯で 削り取った 木の枝や 根っこを 積み上げて 水辺に せっせと 巣を 作る。",
         ko: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
     }
 };

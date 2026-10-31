@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/064",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/064",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/064"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/064"
     },
     name: {
         en: "Mega Swampert ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Moorabbel",
         "pt-br": "Marshtomp",
         "zh-tw": "沼躍魚",
-        ja: "Marshtomp",
+        ja: "ヌマクロー",
         ko: "Marshtomp"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Erbarmungsloser Zerstörer",
                 "pt-br": "Destruidor Braço-forte",
                 "zh-tw": "壯臂破壞",
-                ja: "Strong-Armed Destroyer",
+                ja: "ゴウワンバスター",
                 ko: "Strong-Armed Destroyer"
             },
             damage: 150,
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Lege 2 zufällige Energien von allen Energien, die an alle Pokémon (deine und die deines Gegners) angelegt sind, ab.",
                 "pt-br": "Descarte 2 Energias aleatórias dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
                 "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄2個能量。",
-                ja: "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに2個トラッシュ。",
                 ko: "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
             }
         }

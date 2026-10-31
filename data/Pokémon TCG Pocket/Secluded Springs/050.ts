@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/050"
     },
     name: {
         en: "Zoroark",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Zoroark",
         "de": "Zoroark",
         "pt-br": "Zoroark",
-        "zh-tw": "索羅亞克"
+        "zh-tw": "索羅亞克",
+        ja: "ゾロアーク"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Zorua",
         "pt-br": "Zorua",
         "zh-tw": "索羅亞",
+        ja: "ゾロア",
     },
     description: {
         en: "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le storie dicono che coloro che hanno cercato di catturare Zoroark lo sono stati\nintrappolato in un'illusione e punito.",
         "de": "Geschichten sagen, dass diejenigen, die versuchten, Zoroark zu fangen, es waren\nin einer Illusion gefangen und bestraft.",
         "pt-br": "As histórias dizem que aqueles que tentaram capturar Zoroark foram\npreso em uma ilusão e punido.",
-        "zh-tw": "故事稱那些試圖抓住索羅亞克的人是\n陷入幻覺並受到懲罰。"
+        "zh-tw": "故事稱那些試圖抓住索羅亞克的人是\n陷入幻覺並受到懲罰。",
+        ja: "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。"
     },
     stage: "Stage1",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Inganno illusorio",
                 "de": "Illusiver Trick",
                 "pt-br": "Truque Ilusivo",
-                "zh-tw": "虛幻的詭計"
+                "zh-tw": "虛幻的詭計",
+                ja: "げんえいトリック"
             },
             effect: {
                 en: "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Se il Pokémon del tuo avversario viene messo KO dai danni inflitti dagli attacchi di questo Pokémon, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wenn das Pokémon deines Gegners durch Schaden durch die Angriffe dieses Pokémon kampfunfähig wird, verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados a este Pokémon.",
-                "zh-tw": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+                "zh-tw": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+                ja: "このポケモンのワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Stordimento notturno",
                 "de": "Nachtbenommenheit",
                 "pt-br": "Noite atordoada",
-                "zh-tw": "夜發呆"
+                "zh-tw": "夜發呆",
+                ja: "ナイトバースト"
             },
             damage: 70,
             cost: ["Darkness", "Darkness"]

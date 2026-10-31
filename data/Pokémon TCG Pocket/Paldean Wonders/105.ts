@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/105",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/105",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/105",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/105"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/105",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/105"
     },
     name: {
         en: "Team Star Grunt",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Rüpel von Team Star",
         "pt-br": "Recruta da Equipe Star",
         "zh-tw": "天星隊手下",
+        ja: "スター団のしたっぱ",
         pt: "Recruta da Equipe Star"
     },
     illustrator: "nagimiso",
@@ -31,7 +33,8 @@ const card: Card = {
         "it": "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon del tuo avversario che hanno un'abilità.",
         "de": "Wirf eine zufällige Energie aus der Energie ab, die an alle Pokémon deines Gegners angelegt ist, die über eine Fähigkeit verfügen.",
         "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon do seu oponente que tenham uma Habilidade.",
-        "zh-tw": "從對手所有具有能力的寶可夢所附加的能量中隨機丟棄一個能量。"
+        "zh-tw": "從對手所有具有能力的寶可夢所附加的能量中隨機丟棄一個能量。",
+        ja: "相手の特性を持つポケモン全員についているエネルギーからランダムに1個トラッシュ。"
     },
     trainerType: "Supporter",
 };

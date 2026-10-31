@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/089",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/089",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/089",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/089",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/089"
     },
     name: {
         en: "Pachirisu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pachirisu",
         "de": "Pachirisu",
         "pt-br": "Pachirisu",
-        "zh-tw": "帕奇利茲"
+        "zh-tw": "帕奇利茲",
+        ja: "パチリス"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si può vedere una coppia che si strofina le guance\ninsieme nel tentativo di condividere l’elettricità immagazzinata.",
         "de": "Man sieht ein Paar, das sich die Backentaschen reibt\nzusammen, um den gespeicherten Strom zu teilen.",
         "pt-br": "Um par pode ser visto esfregando as bolsas nas bochechas\njuntos em um esforço para compartilhar a eletricidade armazenada.",
-        "zh-tw": "可以看到一對夫婦在摩擦頰囊\n共同努力共享儲存的電力。"
+        "zh-tw": "可以看到一對夫婦在摩擦頰囊\n共同努力共享儲存的電力。",
+        ja: "たまった 電気を 分け与えようと ほほ袋を こすり合わせる パチリスを 見かけることも ある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attacca la ferita",
                 "de": "Greife die Wunde an",
                 "pt-br": "Ataque a ferida",
-                "zh-tw": "攻擊傷口"
+                "zh-tw": "攻擊傷口",
+                ja: "きずにうちこむ"
             },
             damage: "30+",
             cost: ["Lightning", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario ha dei danni su di sé, questo attacco infligge 30 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners Schaden hat, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente sofrer dano, este ataque causará 30 de dano a mais.",
-                "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 30 點。"
+                "zh-tw": "如果對手的活躍寶可夢受到傷害，則這次攻擊造成的傷害增加 30 點。",
+                ja: "相手のバトルポケモンがダメージを受けているなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/046"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/046"
     },
     name: {
         en: "Fidough",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Hefel",
         "pt-br": "Fidough",
         "zh-tw": "狗仔包",
+        ja: "パピモッチ",
         pt: "Fidough"
     },
     illustrator: "Mizue",
@@ -34,7 +36,8 @@ const card: Card = {
         "it": "Il lievito nell'alito di Fidough è utile per cucinare, quindi questo Pokémon è stato protetto dagli esseri umani già da molto tempo.",
         "de": "Die Hefe im Atem von Hefel eignet sich zum Kochen, daher wurde dieses Pokémon schon vor langer Zeit von Menschen geschützt.",
         "pt-br": "O fermento no hálito de Fidough é útil para cozinhar, então este Pokémon é protegido pelas pessoas há muito tempo.",
-        "zh-tw": "狗仔包呼吸中的酵母對於烹飪很有用，所以這隻寶可夢很早以前就受到了人們的保護。"
+        "zh-tw": "狗仔包呼吸中的酵母對於烹飪很有用，所以這隻寶可夢很早以前就受到了人們的保護。",
+        ja: "吐息に 含まれている 酵母が 料理を 作るのに 役立つため 古くから 人に 保護されてきた。"
     },
     stage: "Basic",
     attacks: [
@@ -47,6 +50,7 @@ const card: Card = {
                 de: "Rückwärtskick",
                 "pt-br": "Chute traseiro",
                 "zh-tw": "後踢",
+                ja: "うしろげり",
                 pt: "Chute Traseiro",
                 'es-mx': "Patada Trasera"
             },

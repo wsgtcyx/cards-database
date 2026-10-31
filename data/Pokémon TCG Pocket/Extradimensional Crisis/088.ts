@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/088"
     },
     name: {
         en: "Buzzwole ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Masskito-ex",
         "pt-br": "Buzzwole ex",
         "zh-tw": "爆肌蚊ex",
+        ja: "マッシブーンex",
     },
     illustrator: "akagi",
     rarity: "Three Star",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Punch",
                 "de": "Stempel",
                 "pt-br": "Soco",
-                "zh-tw": "沖床"
+                "zh-tw": "沖床",
+                ja: "パンチ"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Grande colpo",
                 "de": "Großer Schlag",
                 "pt-br": "Grande batida",
-                "zh-tw": "大節奏"
+                "zh-tw": "大節奏",
+                ja: "ビッグビート"
             },
             damage: 120,
             cost: ["Grass", "Grass", "Colorless"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può usare Big Beat.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Big Beat nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Big Beat.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用Big Beat。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用Big Beat。",
+                ja: "次の自分の番、このポケモンは「ビッグビート」が使えない。"
             }
         }],
     weaknesses: [{

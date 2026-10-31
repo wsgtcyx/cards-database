@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/199"
     },
     name: {
         en: "Mimikyu ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mimikyu-ex",
         "de": "Mimigma-ex",
         "pt-br": "Mimikyu ex",
-        "zh-tw": "謎擬Ｑex"
+        "zh-tw": "謎擬Ｑex",
+        ja: "ミミッキュex"
     },
     illustrator: "Mori Yuu",
     rarity: "Two Star",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Travestimento",
                 "de": "Verkleidung",
                 "pt-br": "Disfarce",
-                "zh-tw": "偽裝"
+                "zh-tw": "偽裝",
+                ja: "ばけのかわ"
             },
             effect: {
                 en: "When this Pokémon is first damaged by an attack after coming into play, prevent that damage.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Quando questo Pokémon viene danneggiato per la prima volta da un attacco dopo essere entrato in gioco, previeni quel danno.",
                 "de": "Wenn dieses Pokémon zum ersten Mal durch einen Angriff Schaden erleidet, nachdem es ins Spiel gekommen ist, verhindere diesen Schaden.",
                 "pt-br": "Quando este Pokémon for danificado pela primeira vez por um ataque após entrar em jogo, evite esse dano.",
-                "zh-tw": "當這只神奇寶貝進場後首次受到攻擊傷害時，防止該傷害。"
+                "zh-tw": "當這只神奇寶貝進場後首次受到攻擊傷害時，防止該傷害。",
+                ja: "このポケモンが場に出てから、はじめてワザのダメージを受けるとき、そのダメージを受けない。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Colpo d'artiglio",
                 "de": "Klauenhieb",
                 "pt-br": "Corte de Garra",
-                "zh-tw": "利爪斬"
+                "zh-tw": "利爪斬",
+                ja: "ツメできりさく"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"]

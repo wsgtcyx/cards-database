@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/015"
     },
     name: {
         en: "Parasect",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Parasect",
         de: "Parasek",
         'pt-br': "Parasect",
+        ja: "パラセクト",
         ko: "파라섹트",
         "zh-tw": "派拉斯特",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Paras",
         "de": "Paras",
         "pt-br": "Paras",
-        "zh-tw": "派拉斯"
+        "zh-tw": "派拉斯",
+        ja: "パラス"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Lacerazione",
                 de: "Schlitzer",
                 'pt-br': "Talho",
+                ja: "きりさく",
                 ko: "베어가르기",
                 "zh-tw": "削減"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "La parte essenziale di questo Pokémon,\npraticamente morto, è costituita dal fungo sulla\nsua schiena. Se si stacca, non può più muoversi.",
         de: "Der Pilz auf seinem Rücken ist sein wichtigstes\nKörperteil. Der Rest ist quasi leblos und kann\nsich ohne den Pilz nicht bewegen.",
         'pt-br': "A maior parte do seu corpo está morta, exceto pelo cogumelo\nque está nas suas costas e que controla o resto. Se o cogumelo\nse desprender do corpo, este Pokémon não conseguirá se mover.",
+        ja: "ムシの 方は ほぼ 死んでいて 本体は 背中の キノコだ。 もげると もう 動かなくなる。",
         ko: "벌레는 거의 죽은 상태이고\n본체는 등의 버섯이다.\n떨어지면 더는 움직일 수 없다.",
         "zh-tw": "蟲子已經死得差不多了，背上的蘑菇成了主體。如果蘑菇脫落，蟲子就會停止移動。"
     },

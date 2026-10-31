@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/200",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/200",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/200"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/200",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/200"
     },
     name: {
         en: "Incineroar ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Incineroar-ex",
         de: "Fuegro-ex",
         'pt-br': "Incineroar ex",
+        ja: "ガオガエンex",
         ko: "어흥염 ex",
         "zh-tw": "熾焰咆哮虎ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Miezunder",
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
+        ja: "ニャヒート",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rogodenti",
                 de: "Feuerzahn",
                 'pt-br': "Presas de Fogo",
+                ja: "ほのおのキバ",
                 ko: "불꽃엄니",
                 "zh-tw": "火牙"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Colpo Rabbioso",
                 de: "Narbenhieb",
                 'pt-br': "Destruir a Cicatriz",
+                ja: "スカースマッシュ",
                 ko: "스카스매시",
                 "zh-tw": "傷痕重擊"
             },
@@ -80,6 +86,7 @@ const card: Card = {
                 it: "Se questo Pokémon è danneggiato, questo attacco infligge 60 danni in più.",
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon estiver danificado, este ataque causará 60 pontos de dano a mais.",
+                ja: "このポケモンがダメージを受けているなら、60ダメージ追加。",
                 ko: "이 포켓몬이 데미지를 받고 있다면 60데미지를 추가한다.",
                 "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 60 點傷害。"
             }

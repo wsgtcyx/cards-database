@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/130",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/130",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/130"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/130",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/130"
     },
     name: {
         en: "Smeargle",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Smeargle",
         "de": "Farbeagle",
         "pt-br": "Smeargle",
-        "zh-tw": "圖圖犬"
+        "zh-tw": "圖圖犬",
+        ja: "ドーブル"
     },
     illustrator: "Sekio",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il colore del misterioso fluido secreto da\nla punta della coda è predeterminata per ciascuno\nSmeargle.",
         "de": "Die Farbe der geheimnisvollen Flüssigkeit, aus der abgesondert wird\ndie Schwanzspitze ist jeweils vorbestimmt\nSchmiere.",
         "pt-br": "A cor do misterioso fluido secretado\na ponta da cauda é predeterminada para cada\nEspalhar.",
-        "zh-tw": "分泌出的神秘液體的顏色\n每個尾部的尖端都是預先確定的\n塗抹。"
+        "zh-tw": "分泌出的神秘液體的顏色\n每個尾部的尖端都是預先確定的\n塗抹。",
+        ja: "尻尾の 先から 分泌する 謎の 液体の 色は ドーブルごとに 決まっている。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Ritratto",
                 "de": "Porträt",
                 "pt-br": "Retrato",
-                "zh-tw": "肖像"
+                "zh-tw": "肖像",
+                ja: "にがおえ"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is in the Active Spot, you may look at a random Supporter card from your opponent's hand. Use the effect of that card as the effect of this Ability.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi guardare una carta Aiuto casuale dalla mano del tuo avversario. Usa l'effetto di quella carta come effetto di questa abilità.",
                 "de": "Wenn sich dieses Pokémon einmal während deines Zuges an der aktiven Stelle befindet, kannst du dir eine zufällige Unterstützerkarte aus der Hand deines Gegners ansehen. Nutze den Effekt dieser Karte als Effekt dieser Fähigkeit.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no Local Ativo, você poderá ver uma carta de Apoiador aleatória da mão do seu oponente. Use o efeito daquela carta como o efeito desta Habilidade.",
-                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以隨機查看對手手牌中的一張支持者卡。將那張卡的效果作為該能力的效果。"
+                "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以隨機查看對手手牌中的一張支持者卡。將那張卡的效果作為該能力的效果。",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手の手札からサポートをランダムに1枚、オモテを見て、そのサポートの効果を、この特性の効果として使う。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Colpo di coda",
                 "de": "Tail Whap",
                 "pt-br": "Golpe de cauda",
-                "zh-tw": "尾擊"
+                "zh-tw": "尾擊",
+                ja: "しっぽではたく"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

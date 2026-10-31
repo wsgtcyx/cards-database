@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/051",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/051",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/051"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/051"
     },
     name: {
         en: "Espathra",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Psiopatra",
         "pt-br": "Espathra",
         "zh-tw": "超能豔鴕",
+        ja: "クエスパトラ",
         pt: "Espathra"
     },
     illustrator: "Sanosuke Sakuma",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Flattutu",
         "pt-br": "Flittle",
         "zh-tw": "飄飄雛",
+        ja: "ヒラヒナ",
         pt: "Flittle"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Emette potere psichico dagli spazi tra i suoi fronzoli multicolori e scatta a velocità superiori a 120 mph.",
         "de": "Es strahlt psychische Kraft aus den Lücken zwischen seinen bunten Rüschen aus und sprintet mit Geschwindigkeiten von mehr als 120 Meilen pro Stunde.",
         "pt-br": "Ele emite poder psíquico pelas lacunas entre seus babados multicoloridos e corre a velocidades superiores a 190 km/h.",
-        "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。"
+        "zh-tw": "它從五彩褶邊之間的縫隙中散發出精神力量，並以超過 120 英里/小時的速度衝刺。",
+        ja: "色とりどりの フリルの 隙間から サイコパワーを 放出して 時速２００キロで 疾走する。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
                 "zh-tw": "精神",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스"
             },
             damage: "30+",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的戰鬥寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다."
             },
         },

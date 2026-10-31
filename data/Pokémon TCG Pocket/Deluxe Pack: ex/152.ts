@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/152",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/152",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/152",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/152"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/152",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/152"
     },
     name: {
         en: "Gastly",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nebulak",
         "pt-br": "Gastly",
         "zh-tw": "鬼斯",
+        ja: "ゴース",
     },
     illustrator: "Masako Yamashita",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Avvolge l'avversario nel suo corpo gassoso,\nindebolendo lentamente la sua preda avvelenandola\nattraverso la pelle.",
         "de": "Es hüllt seinen Gegner in seinen gasähnlichen Körper,\nschwächt seine Beute langsam, indem er sie vergiftet\ndurch die Haut.",
         "pt-br": "Ele envolve seu oponente em seu corpo gasoso,\nenfraquecendo lentamente sua presa, envenenando-a\natravés da pele.",
-        "zh-tw": "用氣體般的身體包裹對手，\n通過毒害獵物慢慢削弱它的力量\n通過皮膚。"
+        "zh-tw": "用氣體般的身體包裹對手，\n通過毒害獵物慢慢削弱它的力量\n通過皮膚。",
+        ja: "ガス状の 体で まとわりつき 獲物の 皮膚から 少しずつ 毒を 送り込んで 弱らせる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gas soffocante",
                 "de": "Erstickendes Gas",
                 "pt-br": "Gás sufocante",
-                "zh-tw": "窒息性氣體"
+                "zh-tw": "窒息性氣體",
+                ja: "ガスでつつむ"
             },
             damage: 20,
             cost: ["Psychic"]

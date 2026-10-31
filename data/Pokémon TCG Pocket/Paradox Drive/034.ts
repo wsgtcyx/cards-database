@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/034",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/034"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/034"
     },
     name: {
         en: "Great Tusk",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questa creatura assomiglia ad un Pokémon misterioso che, secondo una rivista paranormale, vive fin dall'antichità.",
         de: "Diese Kreatur ähnelt einem mysteriösen Pokémon, das laut einer paranormalen Zeitschrift seit der Antike lebt.",
         "pt-br": "Esta criatura lembra um misterioso Pokémon que, segundo uma revista paranormal, vive desde os tempos antigos.",
-        "zh-tw": "根據超自然雜誌的說法，這種生物類似於一種神秘的寶可夢，它自古以來就存在。"
+        "zh-tw": "根據超自然雜誌的說法，這種生物類似於一種神秘的寶可夢，它自古以來就存在。",
+        ja: "太古から 生き続けていると オカルト雑誌が 紹介した 謎の ポケモンに 似ている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Stomp tremante",
                 de: "Schüttelndes Stampfen",
                 "pt-br": "Agitação",
-                "zh-tw": "跺地撼盪"
+                "zh-tw": "跺地撼盪",
+                ja: "ふみこみゆさぶる"
             },
             effect: {
                 en: "This attack also does 20 damage to each of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a ciascuno dei tuoi Pokémon in panchina.",
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你的每隻後備寶可夢造成 20 點傷害。"
+                "zh-tw": "這次攻擊還會對你的每隻後備寶可夢造成 20 點傷害。",
+                ja: "自分のベンチポケモン全員にも20ダメージ。"
             },
             damage: 80
         }

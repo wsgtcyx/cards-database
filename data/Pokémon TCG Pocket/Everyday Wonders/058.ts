@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/058",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/058",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/058"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/058"
     },
     name: {
         en: "Ursaluna",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Credo che sia stato il terreno paludoso di Hisui a conferire a Ursaluna il suo fisico corpulento e la ritrovata capacità di manipolare la torba a piacimento.",
         de: "Ich glaube, es war Hisuis sumpfiges Gelände, das Ursaluna seinen kräftigen Körperbau und die neu entdeckte Fähigkeit verlieh, Torf nach Belieben zu manipulieren.",
         "pt-br": "Acredito que foi o terreno pantanoso de Hisui que deu ao Ursaluna seu físico corpulento e sua nova capacidade de manipular turfa à vontade.",
-        "zh-tw": "我相信翡翠的沼澤地形賦予了 月月熊 魁梧的體格和隨意操縱泥炭的新能力。"
+        "zh-tw": "我相信翡翠的沼澤地形賦予了 月月熊 魁梧的體格和隨意操縱泥炭的新能力。",
+        ja: "ヒスイの地に 敷かれし 湿地の土こそ 頑丈なる体躯と 泥炭を 自在に 扱う 新たな 器量 もたらしたと 考察す。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Dentistretti",
                 de: "Adrenalin",
                 "pt-br": "Tenacidade",
-                "zh-tw": "毅力"
+                "zh-tw": "毅力",
+                ja: "こんじょう"
             },
             effect: {
                 en: "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se questo Pokémon sta per essere messo KO dai danni di un attacco, lancia una moneta. Se esce testa, il Pokémon non viene messo KO e i suoi PS rimanenti diventano 10.",
                 de: "Wenn dieses Pokémon durch Schaden einer Attacke kampfunfähig würde, wirf 1 Münze. Bei Kopf wird dieses Pokémon nicht kampfunfähig und seine verbleibenden KP sind gleich 10.",
                 "pt-br": "Se este Pokémon estiver prestes a ser Nocauteado pelo dano de um ataque, jogue uma moeda. Se sair cara, este Pokémon não será Nocauteado e o PS restante dele será 10.",
-                "zh-tw": "如果這只寶可夢因攻擊造成的傷害而被擊倒，則擲硬幣。如果正面，則該寶可夢不會被擊倒，其剩餘 HP 變為 10。"
+                "zh-tw": "如果這只寶可夢因攻擊造成的傷害而被擊倒，則擲硬幣。如果正面，則該寶可夢不會被擊倒，其剩餘 HP 變為 10。",
+                ja: "このポケモンが、ワザのダメージを受けてきぜつするとき、自分はコインを1回投げる。オモテなら、このポケモンはきぜつせず、残りHPが10の状態で場に残る。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Martelpugno",
                 de: "Hammerarm",
                 "pt-br": "Braço de Martelo",
-                "zh-tw": "臂錘"
+                "zh-tw": "臂錘",
+                ja: "アームハンマー"
             },
             effect: {
                 en: "Discard the top card of your opponent's deck.",
@@ -92,7 +97,8 @@ const card: Card = {
                 it: "Scarta la prima carta del mazzo del tuo avversario.",
                 de: "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂牌。"
+                "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。"
             },
             damage: 110
         }

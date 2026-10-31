@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/094"
     },
     name: {
         en: "Dedenne",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dedenne",
         "pt-br": "Dedenne",
         "zh-tw": "咚咚鼠",
+        ja: "デデンネ",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I Dedenne emettono onde elettriche dai baffi\nsulle guance per comunicare tra loro.\nQuando sono a corto di elettricità, si rannicchiano e dormono.",
         "de": "Dedenne senden elektrische Wellen aus den Schnurrhaaren aus\nauf ihren Wangen, um miteinander zu kommunizieren.\nWenn der Strom knapp wird, rollen sie sich zusammen und schlafen.",
         "pt-br": "Dedenne emite ondas elétricas dos bigodes\nem suas bochechas para se comunicarem entre si.\nQuando estão com pouca eletricidade, eles se enrolam e dormem.",
-        "zh-tw": "德登納的鬍鬚發射電波\n在他們的臉頰上互相交流。\n當電力不足時，它們會蜷縮起來睡覺。"
+        "zh-tw": "德登納的鬍鬚發射電波\n在他們的臉頰上互相交流。\n當電力不足時，它們會蜷縮起來睡覺。",
+        ja: "ほっぺの ヒゲから 電波を 飛ばし 仲間と 連絡を とりあう。 電気が 減ると 丸まり 眠る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Roditura elettrica",
                 "de": "Elektrisches Knabbern",
                 "pt-br": "Mordiscar Elétrica",
-                "zh-tw": "電動蠶食"
+                "zh-tw": "電動蠶食",
+                ja: "でんきをかじる"
             },
             damage: 20,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {L} dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine {L}-Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte uma Energia {L} do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍神奇寶貝的 {L} 能量。"
+                "zh-tw": "丟棄對手的活躍神奇寶貝的 {L} 能量。",
+                ja: "相手のバトルポケモンから{L}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

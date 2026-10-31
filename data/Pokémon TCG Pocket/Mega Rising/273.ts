@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/273",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/273",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/273",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/273"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/273",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/273"
     },
     name: {
         en: "Whimsicott ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Elfun-ex",
         "pt-br": "Whimsicott ex",
         "zh-tw": "風妖精ex",
+        ja: "エルフーンex",
     },
     illustrator: "Kanami Ogata",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waumboll",
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
+        ja: "モンメン",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Nodo d'erba",
                 "de": "Grasknoten",
                 "pt-br": "Nó de grama",
-                "zh-tw": "草結"
+                "zh-tw": "草結",
+                ja: "くさむすび"
             },
             damage: "40+",
             cost: ["Grass", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni in più per ogni Energia nel costo di ritirata del Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 30 點額外傷害。"
+                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 30 點額外傷害。",
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/076",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/076",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/076"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/076"
     },
     name: {
         en: "Trapinch",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Scava una tana a forma di imbuto nella sabbia\nfrantumando le rocce che lo ostacolano\ncon le sue possenti mascelle.",
         de: "Es gräbt im Sand und zerquetscht dabei mit\nseinem gigantischen Kiefer störende Felsen.\nSein Bau hat die Form eines Trichters.",
         "pt-br": "À medida que escava na areia, suas mandíbulas gigantes esmagam todas as pedras que obstruem seu caminho. Constrói um ninho em forma de funil.",
-        "zh-tw": "一邊用大大的顎把礙事的\n岩石咬碎，一邊挖沙子。\n巢穴的形狀就像研磨缽一樣。"
+        "zh-tw": "一邊用大大的顎把礙事的\n岩石咬碎，一邊挖沙子。\n巢穴的形狀就像研磨缽一樣。",
+        ja: "大きな 顎で 邪魔な 岩を 砕きながら 砂を 掘る。 巣穴の 形は スリ鉢状。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fangosberla",
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
-                "zh-tw": "擲泥"
+                "zh-tw": "擲泥",
+                ja: "どろかけ"
             },
             damage: 10
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/307",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/307",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/307",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/307"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/307",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/307"
     },
     name: {
         en: "Geodude",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kleinstein",
         "pt-br": "Geodude",
         "zh-tw": "小拳石",
+        ja: "イシツブテ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "I Geodude che hanno vissuto una lunga vita hanno avuto tutto\ni loro bordi sono levigati fino a quando non sono completamente\nrotondo. Hanno anche un carattere calmo e tranquillo.",
         "de": "Geodude, die ein langes Leben gelebt haben, haben alle gehabt\nIhre Ränder werden geglättet, bis sie völlig glatt sind\nrund. Sie haben auch ein ruhiges, ruhiges Gemüt.",
         "pt-br": "Geodude que viveu uma vida longa teve tudo\nsuas bordas suavizadas até ficarem totalmente\nredondo. Eles também têm uma disposição calma e tranquila.",
-        "zh-tw": "長壽的晶石已經擁有了一切\n他們的邊緣被平滑，直到他們完全\n圓形。他們的性格也很沉穩、安靜。"
+        "zh-tw": "長壽的晶石已經擁有了一切\n他們的邊緣被平滑，直到他們完全\n圓形。他們的性格也很沉穩、安靜。",
+        ja: "長く 生きた イシツブテは 角が とれて まんまる。 性格も とても 落ち着いていて 穏やか なのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attrezzatura",
                 "de": "Tackle",
                 "pt-br": "Enfrentar",
-                "zh-tw": "處理"
+                "zh-tw": "處理",
+                ja: "たいあたり"
             },
             damage: 20,
             cost: ["Fighting"]

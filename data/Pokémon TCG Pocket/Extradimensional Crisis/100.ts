@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/100"
     },
     name: {
         en: "Arcanine ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Arkani-ex",
         "pt-br": "Arcanine ex",
         "zh-tw": "風速狗ex",
+        ja: "ウインディex",
     },
     illustrator: "PLANETA Saito",
     category: "Pokemon",
@@ -32,6 +34,7 @@ const card: Card = {
         "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
+        ja: "ガーディ",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "L'Inferno Onrush",
                 "de": "Inferno-Ansturm",
                 "pt-br": "Investida Infernal",
-                "zh-tw": "地獄突襲"
+                "zh-tw": "地獄突襲",
+                ja: "もうかのとっしん"
             },
             damage: 120,
             cost: ["Fire", "Fire", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 20 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。",
+                ja: "このポケモンにも20ダメージ。"
             }
         }],
     weaknesses: [{

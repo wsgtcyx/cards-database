@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/060"
     },
     name: {
         en: "Poliwhirl",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Poliwhirl",
         de: "Quaputzi",
         'pt-br': "Poliwhirl",
+        ja: "ニョロゾ",
         ko: "슈륙챙이",
         "zh-tw": "蚊香君",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Poliwag",
         "de": "Quapsel",
         "pt-br": "Poliwag",
-        "zh-tw": "蚊香蝌蚪"
+        "zh-tw": "蚊香蝌蚪",
+        ja: "ニョロモ"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Noccapugno",
                 de: "Knöchelhieb",
                 'pt-br': "Soco com Punho",
+                ja: "げんこつ",
                 ko: "꿀밤",
                 "zh-tw": "指節拳"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Chi fissa a lungo il disegno spiraliforme sul ventre\nsi assopisce, tant'è che Poliwhirl lo utilizza al\nposto della ninnananna per far dormire i piccoli.",
         de: "Wer länger auf seine Bauchspirale blickt, wird\nschläfrig. Manche Leute nutzen dies anstelle\neines Schlaflieds, damit ihre Kinder einschlafen.",
         'pt-br': "Olhar para a espiral em sua barriga causa sonolência.\nEsta característica de Poliwhirl tem sido usada no lugar\nde canções de ninar para ajudar crianças a dormir.",
+        ja: "お腹の 渦は ずっと 見ていると 眠くなる。 子守唄がわりに 子どもを 寝つかせるのにも 使う。",
         ko: "배의 소용돌이를 계속 보다 보면\n잠이 온다. 자장가 대용으로\n아이를 재울 때도 사용한다.",
         "zh-tw": "盯著腹部的漩渦會讓人昏昏欲睡。波利維爾的這一特徵已被用來代替搖籃曲來讓孩子們入睡。"
     },

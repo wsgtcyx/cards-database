@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/170",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/170"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/170"
     },
     name: {
         en: "Tapu Lele",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tapu Lele",
         de: "Kapu-Fala",
         'pt-br': "Tapu Lele",
+        ja: "カプ・テテフ",
         ko: "카푸나비나",
         "zh-tw": "卡璞・蝶蝶",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È il Pokémon protettore di Akala. Sparge luccicanti nuvole\ndi scaglie che curano le ferite di esseri umani e Pokémon.",
         de: "Es verteilt leuchtenden Flügelstaub, der die\nWunden von Menschen und Pokémon heilt.\nAuf Akala wird es als Schutzpatron verehrt.",
         'pt-br': "Cura as feridas de pessoas e Pokémon ao salpicar\nsuas escamas brilhantes sobre eles. Este espírito guardião\né venerado em Akala.",
+        ja: "輝く りん粉を 振りまいて 人や ポケモンの 傷を 癒す。 アーカラで 祀られる 守り神だ。",
         ko: "빛나는 인분을 흩뿌려\n사람이나 포켓몬의 상처를 치료한다.\n아칼라에서 모시는 수호신이다.",
         "zh-tw": "用閃閃發光的鱗片灑在人和寶可夢身上，治愈他們的傷口。阿卡拉崇拜這位守護神。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Freccia Energetica",
                 de: "Energiepfeil",
                 'pt-br': "Flecha de Energia",
+                ja: "エナジーアロー",
                 ko: "에너지애로",
                 "zh-tw": "能量箭"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario per ogni Energia assegnata a quel Pokémon.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners für jede an jenes Pokémon angelegte Energie 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente para cada Energia ligada àquele Pokémon.",
+                ja: "相手のポケモン1匹に、そのポケモンのエネルギーの数×20ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 그 포켓몬의 에너지의 개수 × 20데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 20 點傷害，傷害值與該寶可夢身上所附加的能量每有 1 點。"
             }

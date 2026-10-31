@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/197",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/197",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/197",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/197"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/197",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/197"
     },
     name: {
         en: "Persian",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Persian",
         de: "Snobilikat",
         'pt-br': "Persian",
+        ja: "ペルシアン",
         ko: "페르시온",
         "zh-tw": "貓老大",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Meowth",
         "de": "Mauzi",
         "pt-br": "Meowth",
-        "zh-tw": "喵喵"
+        "zh-tw": "喵喵",
+        ja: "ニャース"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Ombrartigli",
                 de: "Dunkelklaue",
                 'pt-br': "Garra Sombria",
+                ja: "シャドークロー",
                 ko: "섀도클로",
                 "zh-tw": "暗影爪"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, scarta una carta a caso dalla mano del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 carta aleatória da mão do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 패에서 랜덤으로 1장 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Molti lo vogliono come Pokémon da compagnia\nper via dello splendido pelo, ma non va preso\nsotto gamba perché graffia facilmente.",
         de: "Aufgrund seines schönen Fells wollen viele ein\nSnobilikat im Haus haben. Es ist jedoch schwer\nerziehbar, da es sehr schnell kratzt.",
         'pt-br': "Apesar de sua pelugem ser admirada por muitos,\né difícil criá-lo como um Pokémon de estimação\npor causa de sua maldade inconstante.",
+        ja: "毛並みが 美しく ペットにしたがる 人も 多いが すぐ ひっかいたり するので 手強いぞ。",
         ko: "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만,\n곧잘 할퀴려 들기 때문에 쉽지 않다.",
         "zh-tw": "雖然它的皮毛有很多崇拜者，但由於它反复無常的卑鄙行為，很難作為寵物飼養。"
     },

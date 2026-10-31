@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/025"
     },
     name: {
         en: "Magneton",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Magneton",
         "de": "Magneton",
         "pt-br": "Magneton",
-        "zh-tw": "三合一磁怪"
+        "zh-tw": "三合一磁怪",
+        ja: "レアコイル"
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magnemite",
         "de": "Magnetilo",
         "pt-br": "Magnemite",
-        "zh-tw": "小磁怪"
+        "zh-tw": "小磁怪",
+        ja: "コイル"
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Tre Magnemite sono legati da un forte magnetismo\nforza. Se ti avvicini troppo ti verranno mal d'orecchi.",
         "de": "Drei Magnemite sind durch einen starken Magneten verbunden\nKraft. Wenn Sie zu nahe kommen, treten Ohrenschmerzen auf.",
         "pt-br": "Três Magnemite estão ligadas por um forte campo magnético\nforça. Dores de ouvido ocorrerão se você chegar muito perto.",
-        "zh-tw": "三個磁鐵礦通過強磁性連接在一起\n力。如果距離太近，就會出現耳痛。"
+        "zh-tw": "三個磁鐵礦通過強磁性連接在一起\n力。如果距離太近，就會出現耳痛。",
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Scintilla",
                 "de": "Funke",
                 "pt-br": "Fagulha",
-                "zh-tw": "電光"
+                "zh-tw": "電光",
+                ja: "スパーク"
             },
             damage: 20,
             cost: ["Lightning"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
+                "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。"
             }
         }],
     weaknesses: [{

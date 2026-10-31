@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/077"
     },
     name: {
         en: "Gholdengo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gholdengo",
         de: "Monetigo",
         'pt-br': "Gholdengo",
+        ja: "サーフゴー",
         ko: "타부자고",
         "zh-tw": "賽富豪"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Gimmighoul",
         "de": "Gierspenst",
         "pt-br": "Gimmighoul",
-        "zh-tw": "索財靈"
+        "zh-tw": "索財靈",
+        ja: "コレクレー"
     },
     description: {
         en: "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Pare che il suo corpo sia formato da\n1.000 monete. È molto socievole e\nfa subito amicizia con chiunque.",
         de: "Sein Körper soll aus 1000 Münzen bestehen.\nEs ist sehr umgänglich und schließt mit jedem\nrasch Freundschaft.",
         'pt-br': "Seu corpo parece ser feito de 1.000 moedas.\nEste Pokémon se dá bem com os outros\ne faz amizades com qualquer um rapidamente.",
+        ja: "1000枚の コインで 体が できているらしい。 人懐こく だれとでも すぐに 仲良くなれる。",
         ko: "몸은 1000개의 코인으로\n이뤄져 있다고 한다. 붙임성이 좋아서\n누구와도 금방 친해진다.",
         "zh-tw": "它的身體似乎是由1000枚硬幣組成的。這只神奇寶貝與其他人相處得很好，很快就能和任何人成為朋友。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Surf Scintillante",
             de: "Sensationelles Surfen",
             'pt-br': "Surfe Extravagante",
+            ja: "ゴージャスサーフ",
             ko: "럭셔리서핑",
             "zh-tw": "閃爍的衝浪"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Lancia una moneta per ogni Energia {M} assegnata a questo Pokémon. Questo attacco infligge 50 danni ogni volta che esce testa.",
             de: "Wirf 1 Münze für jede an dieses Pokémon angelegte {M}-Energie. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
             'pt-br': "Jogue uma moeda para cada Energia de {M} ligada a este Pokémon. Este ataque causa 50 pontos de dano para cada cara.",
+            ja: "このポケモンの{M}エネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
             ko: "이 포켓몬의 {M}에너지의 개수만큼 동전을 던져서 앞면이 나온 수 {M}× 50[/Ctrl:NoBreak]데미지를 준다.",
             "zh-tw": "為該神奇寶貝附加的每 {M} 能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。"
         }

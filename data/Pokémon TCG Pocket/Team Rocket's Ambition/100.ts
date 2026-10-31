@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/100",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/100",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/100"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/100"
     },
     name: {
         en: "Sinistea",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si infiltra nel corpo di chi lo beve, rubando le sue energie vitali dall'interno. Ha un sapore davvero pessimo.",
         de: "Dieses Pokémon dringt in den Körper derjenigen ein, die von ihm trinken, und raubt ihnen von innen Lebensenergie. Es schmeckt scheußlich.",
         "pt-br": "Sinistea entrará em seu corpo ao ser ingerido e depois roubará a sua vitalidade lá de dentro. Seu gosto também è horrivel.",
-        "zh-tw": "會趁著自己被喝掉時進到對方身體裡，從內部奪走其生物能量。喝起來很難喝。"
+        "zh-tw": "會趁著自己被喝掉時進到對方身體裡，從內部奪走其生物能量。喝起來很難喝。",
+        ja: "飲まれることで 体に 入り込み 内側から 生体エネルギーを 奪うのだ。 その味は 不味い。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Nascondino",
                 de: "Verstecken",
                 "pt-br": "Esconder",
-                "zh-tw": "躲藏"
+                "zh-tw": "躲藏",
+                ja: "かくれる"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
                 "pt-br": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
-                "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+                "zh-tw": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
             }
         }
     ],

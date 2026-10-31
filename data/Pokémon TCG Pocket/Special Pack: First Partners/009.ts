@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/009",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/009",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/009"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/009"
     },
     name: {
         en: "Mudkip",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Lehmschelle",
                 "pt-br": "Tapa de Lama",
                 "zh-tw": "擲泥",
-                ja: "Mud-Slap",
+                ja: "どろかけ",
                 ko: "Mud-Slap"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
         de: "Die Flosse an Hydropis’ Kopf dient als hochempfindlicher Radar. Damit kann es Bewegungen im Wasser und in der Luft wahrnehmen. So weiß es jederzeit, was in seiner Umgebung passiert, ohne dabei seine Augen zu benutzen.",
         "pt-br": "A barbatana na cabeça do Mudkip funciona como um radar muito sensível. Usando-a para sentir a água e o ar, consegue determinar o que está acontecendo ao seu redor sem usar a visão.",
         "zh-tw": "牠頭上的鰭是非常靈敏的雷達，能從水或空氣的流動中感知周遭的狀況，就算不使用眼睛也能行動。",
-        ja: "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+        ja: "頭の ひれは とても 敏感な レーダー。 水や 空気の 動きから 目を 使わずに 周りの 様子を キャッチすることが できる。",
         ko: "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes."
     }
 };

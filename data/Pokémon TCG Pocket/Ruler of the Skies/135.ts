@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/135",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/135",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/135",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/135"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/135"
     },
     name: {
         en: "Delcatty",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Ha successo fra gli Allenatori di sesso femminile per\nla sua bellissima pelliccia. Non ha una tana fissa.",
         de: "Dieses Pokémon ist bei weiblichen Trainern\naufgrund seines Fells beliebt.",
         "pt-br": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
-        "zh-tw": "有著美麗的毛髮，\n非常受女性訓練家的歡迎。\n沒有固定的住所。"
+        "zh-tw": "有著美麗的毛髮，\n非常受女性訓練家的歡迎。\n沒有固定的住所。",
+        ja: "美しい 毛並みを 持ち 女性トレーナーに 大人気。 決まった 住処を 持たない。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Mistureba de Energia",
                 "zh-tw": "能量攪拌",
                 "it": "Miscelenergia",
-                "de": "Energiemix"
+                "de": "Energiemix",
+                ja: "エナジーミキサー"
             },
             effect: {
                 en: "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
@@ -68,7 +71,8 @@ const card: Card = {
                 de: "Du kannst beliebig viele Energien von deinen Pokémon im Spiel beliebig auf deine anderen Pokémon verschieben.",
                 "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
                 "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
-                "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."
+                "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon.",
+                ja: "自分の場のポケモンからエネルギーを好きなだけ選び、自分のポケモンに好きなようにつけ替える。"
             },
             damage: 50
         }

@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/046",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/046",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/046"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/046"
     },
     name: {
         en: "Chatot",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Può imparare il linguaggio umano. Se un gruppo si raduna,\ntutti imparano le stesse parole.",
         de: "Es kann die menschliche Sprache nachahmen.\nVersammeln sie sich, bringen sich alle dasselbe bei.",
         "pt-br": "Ele pode aprender e falar palavras humanas. Se eles se reunirem, todos aprenderão o mesmo ditado.",
-        "zh-tw": "它可以學習並說出人類語言。如果他們聚集在一起，他們都會學到同樣的說法。"
+        "zh-tw": "它可以學習並說出人類語言。如果他們聚集在一起，他們都會學到同樣的說法。",
+        ja: "人の 言葉を 覚えて 鳴く。 仲間が 一か所に 集まると みんな 同じ 言葉を 覚える。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pesca Rotante",
                 de: "Drehender Zug",
                 "pt-br": "Compra Giratória",
-                "zh-tw": "迴轉抽出"
+                "zh-tw": "迴轉抽出",
+                ja: "かいてんドロー"
             },
             effect: {
                 en: "Draw a card.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を1枚引く。"
             },
             damage: 10
         }

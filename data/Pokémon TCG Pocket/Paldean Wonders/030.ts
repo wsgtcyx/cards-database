@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/030",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/030",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/030"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/030"
     },
     name: {
         en: "Cetitan",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Kolowal",
         "pt-br": "Cetitan",
         "zh-tw": "浩大鯨",
+        ja: "ハルクジラ",
         pt: "Cetitan"
     },
     illustrator: "Anesaki Dynamic",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Flaniwal",
         "pt-br": "Cetoddle",
         "zh-tw": "走鯨",
+        ja: "アルクジラ",
         pt: "Cetoddle",
         'es-mx': "Cetoddle"
     },
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "L'energia del ghiaccio si accumula nel corno sulla mascella superiore, facendo sì che il corno raggiunga temperature criogeniche che congelano l'ambiente circostante.",
         "de": "Im Horn an seinem Oberkiefer baut sich Eisenergie auf, die dazu führt, dass das Horn kryogene Temperaturen erreicht, die seine Umgebung gefrieren lassen.",
         "pt-br": "A energia do gelo se acumula no chifre da mandíbula superior, fazendo com que o chifre atinja temperaturas criogênicas que congelam o ambiente.",
-        "zh-tw": "冰能量在其上顎的角中積聚，導致角達到低溫，凍結周圍環境。"
+        "zh-tw": "冰能量在其上顎的角中積聚，導致角達到低溫，凍結周圍環境。",
+        ja: "氷エネルギーの 集中する 上あごの ツノが 超低温になって 周囲を 凍らせる。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Pugno di ghiaccio",
                 de: "Ice Punch",
                 "pt-br": "Ponche de Gelo",
-                "zh-tw": "冰拳"
+                "zh-tw": "冰拳",
+                ja: "れいとうパンチ"
             },
             damage: "80",
             cost: ["Water", "Water", "Colorless", "Colorless"],
@@ -68,7 +73,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon difensore è paralizzato.",
                 de: "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Defensor agora está Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則防禦寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則防禦寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
         },
     ],

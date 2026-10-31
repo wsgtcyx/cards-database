@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/170",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/170",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/170"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/170"
     },
     name: {
         en: "Dragonair",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Dratini",
         "pt-br": "Dratini",
         "zh-tw": "迷你龍",
-        ja: "Dratini",
+        ja: "ミニリュウ",
         ko: "Dratini"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es wird als heiliges Pokémon bezeichnet. Wenn sein gesamter Körper ein wenig leuchtet, ändert sich das Wetter.",
         "pt-br": "É conhecido como o Pokémon divino. Quando seu corpo brilha suavemente, o clima muda.",
         "zh-tw": "被稱作是神聖的寶可夢。當全身開始微微發光，周圍天氣也會為之一變。",
-        ja: "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+        ja: "神聖な ポケモンと 言われる。 全身が ほのかに 光ると あたりの 天気が 様変わりする。",
         ko: "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 "zh-tw": "龍恩",
                 it: "Preghiera del Drago",
                 de: "Drachensegen",
-                ja: "Dragon's Blessing",
+                ja: "りゅうのめぐみ",
                 ko: "Dragon's Blessing"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn sich dieses Pokémon auf deiner Bank befindet, kannst du 1 Energie aus deinem Ablagestapel an dein Aktives Drachen-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá ligar 1 Energia da sua pilha de descarte ao seu Pokémon Dragão Ativo.",
                 "zh-tw": "若這隻寶可夢在備戰區,則在自己的回合時可使用1次。從自己的棄牌區選擇1個能量,附於戰鬥場的龍寶可夢身上。",
-                ja: "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon.",
+                ja: "このポケモンがベンチにいるなら、自分の番に1回使える。自分のトラッシュからエネルギーを1個選び、バトル場のドラゴンポケモンにつける。",
                 ko: "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Drachenpeitsche",
                 "pt-br": "Chicote Dracônico",
                 "zh-tw": "龍之鞭打",
-                ja: "Draconic Whip",
+                ja: "ドラゴンウィップ",
                 ko: "Draconic Whip"
             },
             damage: 40

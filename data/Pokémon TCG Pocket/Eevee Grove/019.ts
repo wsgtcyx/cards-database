@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/019"
     },
     name: {
         en: "Vanillish",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
         "zh-tw": "多多冰",
+        ja: "バニリッチ",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Gelatini",
         "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
+        ja: "バニプッチ",
     },
     description: {
         en: "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Bevendo acqua pura, fa crescere il suo corpo ghiacciato.\nQuesto Pokémon può essere difficile da trovare nei giorni in cui è presente\nclima caldo e soleggiato.",
         "de": "Durch das Trinken von reinem Wasser wächst sein eisiger Körper.\nAn manchen Tagen kann es schwierig sein, dieses Pokémon zu finden\nwarmes, sonniges Wetter.",
         "pt-br": "Ao beber água pura, seu corpo gelado cresce.\nEste Pokémon pode ser difícil de encontrar em dias com\nclima quente e ensolarado.",
-        "zh-tw": "通過飲用純淨水，它會長出冰冷的身體。\n在有的日子裡很難找到這個神奇寶貝\n天氣溫暖、陽光明媚。"
+        "zh-tw": "通過飲用純淨水，它會長出冰冷的身體。\n在有的日子裡很難找到這個神奇寶貝\n天氣溫暖、陽光明媚。",
+        ja: "きれいな 水を 飲んで 氷の 体を 大きくする。 天気の 良い 日は あまり 見かけない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "30+",
             cost: ["Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

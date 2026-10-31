@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/064"
     },
     name: {
         en: "Skwovet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Raffel",
         "pt-br": "Skwovet",
         "zh-tw": "貪心栗鼠",
+        ja: "ホシガリス",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Conserva le bacche nelle guance. Quando non ci sono\nbacche da trovare, Skwovet riempirà i ciottoli\nnelle sue guance per allontanare le sue voglie.",
         "de": "Es speichert Beeren in seinen Wangen. Wenn es keine gibt\nBeeren zu finden sind, wird Skwovet Kieselsteine stopfen\nin seine Wangen, um sein Verlangen zu stillen.",
         "pt-br": "Ele armazena frutas nas bochechas. Quando não há\nbagas a serem encontradas, Skwovet vai encher seixos\nem suas bochechas para afastar seus desejos.",
-        "zh-tw": "它的臉頰裡儲存著漿果。當沒有\n尋找漿果，Skwovet 會填滿鵝卵石\n進入它的臉頰以避免它的渴望。"
+        "zh-tw": "它的臉頰裡儲存著漿果。當沒有\n尋找漿果，Skwovet 會填滿鵝卵石\n進入它的臉頰以避免它的渴望。",
+        ja: "ほっぺに 木の実を 蓄える。 木の実が なく 口寂しいときは 小石を ふくんで 耐えしのぐ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"]

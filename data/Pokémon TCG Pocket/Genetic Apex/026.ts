@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/026"
     },
     name: {
         en: "Pinsir",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pinsir",
         de: "Pinsir",
         'pt-br': "Pinsir",
+        ja: "カイロス",
         ko: "쁘사이저",
         "zh-tw": "凱羅斯",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Doppia Cornata",
                 de: "Doppelhorn",
                 'pt-br': "Chifre Duplo",
+                ja: "ダブルホーン",
                 ko: "더블혼",
                 "zh-tw": "雙喇叭"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×50ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "I Pinsir si giudicano a vicenda in base alle corna.\nQuelli con corna grosse e imponenti hanno\npiù successo con gli esemplari dell'altro sesso.",
         de: "Der Status eines Pinsirs hängt von seinen Hörnern\nab. Je dicker und stattlicher diese sind, desto\nbeliebter ist es beim anderen Geschlecht.",
         'pt-br': "Estes Pokémon se julgam de acordo com\nsuas pinças. As pinças mais grossas e notáveis\nsão mais populares com o gênero oposto.",
+        ja: "ツノで 互いを 格付けする。 太く 立派な ツノを 持つ カイロスほど 異性に 人気。",
         ko: "뿔로 서로의 등급을 매긴다.\n굵고 훌륭한 뿔을 가진\n쁘사이저일수록 이성에게 인기다.",
         "zh-tw": "這些神奇寶貝通過鉗子來判斷彼此。更厚、更令人印象深刻的鉗子更受異性歡迎。"
     },

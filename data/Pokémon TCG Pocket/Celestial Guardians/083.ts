@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/083",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/083",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/083"
     },
     name: {
         en: "Mimikyu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mimikyu",
         de: "Mimigma",
         'pt-br': "Mimikyu",
+        ja: "ミミッキュ",
         ko: "따라큐",
         "zh-tw": "謎擬Ｑ",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Uno scienziato che studiava questo Pokémon morì di una\nmisteriosa malattia dopo aver guardato sotto il suo panno.",
         de: "Alle Wissenschaftler, die zu Forschungszwecken\neinen Blick unter seinen Lumpen gewagt haben,\nsind an einer rätselhaften Krankheit gestorben.",
         'pt-br': "Um cientista olhou por debaixo do pano velho\nde Mimikyu em nome da ciência. O cientista morreu\nde uma doença misteriosa.",
+        ja: "研究のため ボロ布の 中を 見てしまった 学者が 謎の 病気で 命を 落とした。",
         ko: "연구를 위해 누더기 속을\n들여다본 학자가 알 수 없는\n병으로 목숨을 잃었다.",
         "zh-tw": "有一位科學家以研究的名義，在密擬丘的舊破布下偷看。這位科學家死於一種神秘的疾病。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Botta Spettrale",
                 de: "Schattenschlag",
                 'pt-br': "Batida Sombria",
+                ja: "シャドーヒット",
                 ko: "섀도히트",
                 "zh-tw": "暗影打擊"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei tuoi Pokémon.",
                 de: "Diese Attacke fügt auch 1 deiner Pokémon 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos seus Pokémon.",
+                ja: "自分のポケモン1匹にも20ダメージ。",
                 ko: "자신의 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊還會對你的 1 只神奇寶貝造成 20 點傷害。"
             }

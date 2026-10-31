@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/076",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/076",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/076"
     },
     name: {
         en: "Chewtle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kamehaps",
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
+        ja: "カムカメ",
     },
     illustrator: "Nurikabe",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un gioco popolare tra i bambini è sollevare dei bastoncini\na cui Chewtle ha addentato per vedere di chi\nChewtle può resistere più a lungo.",
         "de": "Ein beliebtes Spiel bei Kindern ist das Hochheben von Stöcken\ndass Chewtle gebissen hat, um zu sehen, wessen\nChewtle kann am längsten durchhalten.",
         "pt-br": "Uma brincadeira popular entre as crianças é levantar gravetos\nque Chewtle mordeu para ver de quem\nChewtle pode aguentar por mais tempo.",
-        "zh-tw": "孩子們流行的遊戲是舉起棍子\nChewtle已經咬住了，看看是誰的\nChewtle 可以堅持最長的時間。"
+        "zh-tw": "孩子們流行的遊戲是舉起棍子\nChewtle已經咬住了，看看是誰的\nChewtle 可以堅持最長的時間。",
+        ja: "カムカメが 噛みついた 枝を 持ち上げ 食いついている 時間を 競う 遊びが 子どもに 人気。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spruzzo dell'onda",
                 "de": "Wellenspritzer",
                 "pt-br": "Respingo de onda",
-                "zh-tw": "波浪飛濺"
+                "zh-tw": "波浪飛濺",
+                ja: "スプラッシュ"
             },
             damage: 40,
             cost: ["Water", "Water"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/183",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/183",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/183",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/183"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/183",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/183"
     },
     name: {
         en: "Cosmoem",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cosmoem",
         "de": "Cosmovum",
         "pt-br": "Cosmoem",
-        "zh-tw": "科斯莫姆"
+        "zh-tw": "科斯莫姆",
+        ja: "コスモウム"
     },
     illustrator: "Aya Kusube",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Cosmog",
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
+        ja: "コスモッグ",
     },
     description: {
         en: "The king who ruled Alola in times of antiquity called it\nthe \"cocoon of the stars\" and built an altar to worship it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Lo chiamò il re che governava Alola nell'antichità\nil \"bozzolo delle stelle\" e costruì un altare per venerarlo.",
         "de": "Der König, der in der Antike über Alola herrschte, nannte es\nden „Kokon der Sterne“ und baute einen Altar, um ihn anzubeten.",
         "pt-br": "O rei que governou Alola nos tempos da antiguidade chamou-lhe\no \"casulo das estrelas\" e construiu um altar para adorá-lo.",
-        "zh-tw": "古代統治阿羅拉的國王稱其為\n並築壇祭祀“星之繭”。"
+        "zh-tw": "古代統治阿羅拉的國王稱其為\n並築壇祭祀“星之繭”。",
+        ja: "太古 アローラを 支配 していた 王様は 星の繭と 呼んで 崇めるための 祭壇を 作った。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Irrigidirsi",
                 "de": "Versteifen",
                 "pt-br": "Endurecer",
-                "zh-tw": "變硬"
+                "zh-tw": "變硬",
+                ja: "かたまる"
             },
             cost: ["Colorless", "Colorless"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce -50 danni dagli attacchi.",
                 "de": "Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −50 Schadenspunkte durch Angriffe.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon sofrerá −50 de dano de ataques.",
-                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。"
+                "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害為-50。",
+                ja: "次の相手の番、このポケモンが受けるワザのダメージを-50する。"
             }
         }],
     weaknesses: [{

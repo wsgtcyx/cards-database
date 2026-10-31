@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/088"
     },
     name: {
         en: "Primarina ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Primarene-ex",
         "pt-br": "Primarina ex",
         "zh-tw": "西獅海壬ex",
+        ja: "アシレーヌex",
     },
     illustrator: "DOM",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Marikeck",
         "pt-br": "Brionne",
         "zh-tw": "花漾海獅",
+        ja: "オシャマリ",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Pompa idroelettrica",
                 "de": "Hydropumpe",
                 "pt-br": "Bomba Hidro",
-                "zh-tw": "液壓泵"
+                "zh-tw": "液壓泵",
+                ja: "ハイドロポンプ"
             },
             damage: "40+",
             cost: ["Water"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha almeno 1 Energia {W} extra assegnata, questo attacco infligge 40 danni in più.",
                 "de": "Wenn an dieses Pokémon mindestens 1 zusätzliche {W}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 1 energia {W} extra anexada, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 1 個額外的 {W} 能量，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果這只神奇寶貝附加了至少 1 個額外的 {W} 能量，則此攻擊造成的傷害增加 40 點。",
+                ja: "追加で{W}エネルギーが1個ついているなら、40ダメージ追加。"
             }
         }, {
             name: {
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Aria frizzante",
                 "de": "Funkelnde Arie",
                 "pt-br": "Ária Espumante",
-                "zh-tw": "閃閃發光的詠嘆調"
+                "zh-tw": "閃閃發光的詠嘆調",
+                ja: "うたかたのアリア"
             },
             damage: 100,
             cost: ["Water", "Water", "Water"],
@@ -76,7 +82,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 20 danni.",
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
+                ja: "このポケモンのHPを20回復。"
             }
         }],
     weaknesses: [{

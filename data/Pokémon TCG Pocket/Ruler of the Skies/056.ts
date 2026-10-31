@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/056",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/056",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/056"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/056"
     },
     name: {
         en: "Tynamo",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Pokémon che agisce in gruppo. Dotato di un apparato che genera elettricità, nei momenti critici emette scariche elettriche.",
         "de": "Es besitzt ein Organ, mit dem es im Notfall Elektrizität erzeugen kann. Es tritt stets in Schwärmen auf.",
         "pt-br": "Estes Pokémon movem-se em cardumes. Possuem um órgão gerador de eletricidade, que é descarregada em caso de perigo.",
-        "zh-tw": "集體行動的寶可夢。\n擁有製造電力的器官，\n遇到危機時就會發電。"
+        "zh-tw": "集體行動的寶可夢。\n擁有製造電力的器官，\n遇到危機時就會發電。",
+        ja: "群れで 行動する ポケモン。電気を 作る 器官を 持ち ピンチになると 発電する。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 20
         }

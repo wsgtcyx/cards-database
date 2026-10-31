@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/012",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/012",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/012"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/012"
     },
     name: {
         en: "Piplup",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "Peck",
+                ja: "つつく",
                 ko: "Peck"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
         de: "Sein stark ausgeprägter Stolz hält es davon ab, von Menschen Futter anzunehmen. Die dicke Daunenschicht schützt es vor Kälte.",
         "pt-br": "Por ser muito orgulhoso, detesta aceitar comida das pessoas. A sua penugem espessa o protege do frio.",
         "zh-tw": "自尊心很強，討厭從人類手中接受食物。厚厚的絨毛能抵禦寒冷。",
-        ja: "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        ja: "プライドが 高く 人から 食べ物を もらう ことを 嫌う。 長い 産毛が 寒さを 防ぐ。",
         ko: "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
     }
 };

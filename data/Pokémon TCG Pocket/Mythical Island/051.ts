@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/051"
     },
     name: {
         en: "Purrloin",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Purrloin",
         de: "Felilou",
         'pt-br': "Purrloin",
+        ja: "チョロネコ",
         ko: "쌔비냥",
         "zh-tw": "扒手貓",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Ruba le cose alle persone per vederle\nin difficoltà. Nickit è il suo rivale.",
         de: "Es bestiehlt liebend gerne Leute, um sich an ihrer\nFrustration zu erfreuen. Mit Kleptifux verbindet\nes eine tiefe Rivalität.",
         'pt-br': "Furta as pessoas só para se divertir com a frustração delas.\nExiste uma rivalidade entre este Pokémon e Nickit.",
+        ja: "困った 姿を 見るために ひとの ものを 盗みだす。 クスネとは ライバルなのだ。",
         ko: "곤란해하는 모습을 보기 위해\n사람의 물건을 훔친다.\n훔처우와는 라이벌 관계다.",
         "zh-tw": "它從人們那裡偷東西只是為了取樂他們的挫敗感。該神奇寶貝和尼基特之間存在競爭。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

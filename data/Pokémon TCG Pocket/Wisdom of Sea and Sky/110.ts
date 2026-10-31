@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/110",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/110",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/110"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/110",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/110"
     },
     name: {
         en: "Spinarak",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Webarak",
         "pt-br": "Spinarak",
         "zh-tw": "圓絲蛛",
+        ja: "イトマル",
     },
     illustrator: "Sachiko Adachi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Giace ancora per giorni nella stessa posa nella sua rete,\naspettando che la sua ignara preda si avvicini.",
         "de": "Es liegt tagelang still in der gleichen Pose in seinem Netz,\nEr wartet darauf, dass seine ahnungslose Beute näherkommt.",
         "pt-br": "Ele permanece na mesma posição por dias em sua teia,\nesperando que sua presa desavisada se aproxime.",
-        "zh-tw": "它在網上好幾天都保持同樣的姿勢，\n等待毫無戒心的獵物靠近。"
+        "zh-tw": "它在網上好幾天都保持同樣的姿勢，\n等待毫無戒心的獵物靠近。",
+        ja: "獲物が 近くを 通りかかるまで 自分の 巣で 何日も 同じ 格好で じっと 待ち続ける。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Forare",
                 "de": "Pierce",
                 "pt-br": "Perfurar",
-                "zh-tw": "刺穿"
+                "zh-tw": "刺穿",
+                ja: "つきさす"
             },
             damage: 20,
             cost: ["Darkness"]

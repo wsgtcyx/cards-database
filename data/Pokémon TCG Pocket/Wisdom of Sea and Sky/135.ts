@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/135",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/135",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/135"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/135"
     },
     name: {
         en: "Porygon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Porygon",
         "pt-br": "Porygon",
         "zh-tw": "多邊獸",
+        ja: "ポリゴン",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Per creare è stata utilizzata la tecnologia più avanzata\nPorygon. È stato il primo Pokémon artificiale ad esserlo\ncreato tramite la programmazione del computer.",
         "de": "Bei der Erstellung kam modernste Technik zum Einsatz\nPorygon. Es war das erste künstliche Pokémon überhaupt\ndurch Computerprogrammierung erstellt.",
         "pt-br": "Tecnologia de ponta foi usada para criar\nPorígon. Foi o primeiro Pokémon artificial a ser\ncriado através de programação de computador.",
-        "zh-tw": "採用最先進的技術來創造\n多邊形。這是第一個人造神奇寶貝\n通過計算機編程創建。"
+        "zh-tw": "採用最先進的技術來創造\n多邊形。這是第一個人造神奇寶貝\n通過計算機編程創建。",
+        ja: "最高の 科学力を 使い 世界で はじめて プログラムにより 作られた 人工の ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Ram",
                 "de": "RAM",
                 "pt-br": "Bater",
-                "zh-tw": "內存"
+                "zh-tw": "內存",
+                ja: "ぶつかる"
             },
             damage: 20,
             cost: ["Colorless"]

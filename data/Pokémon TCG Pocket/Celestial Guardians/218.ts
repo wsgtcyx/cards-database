@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/218",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/218"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/218",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/218"
     },
     name: {
         en: "Staryu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Staryu",
         de: "Sterndu",
         'pt-br': "Staryu",
+        ja: "ヒトデマン",
         ko: "별가사리",
         "zh-tw": "海星星",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Alla fine dell'estate, sui litorali è\npossibile osservare gruppi di Staryu\nche emettono luce a un ritmo regolare.",
         de: "Bei spätsommerlichen Strandbesuchen kann man\nGruppen von Sterndu begegnen, deren Kerne in\ngleichmäßigem Rhythmus aufblinken.",
         'pt-br': "Se for à praia perto do fim do verão, você\nverá grupos de Staryu iluminados em um\nritmo contínuo.",
+        ja: "夏の終わりの 浜辺に 行くと 規則的な リズムで 光る ヒトデマンの 群れが 見られるよ。",
         ko: "늦여름 해변에 가면\n규칙적인 리듬으로 빛나는\n별가사리의 무리를 볼 수 있다.",
         "zh-tw": "如果您在夏末訪問海灘，您將能夠看到成群的 Staryu 以穩定的節奏發光。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Schiaffo",
                 de: "Klatscher",
                 'pt-br': "Estalo",
+                ja: "ひらてうち",
                 ko: "수벽치기",
                 "zh-tw": "斯馬克"
             },

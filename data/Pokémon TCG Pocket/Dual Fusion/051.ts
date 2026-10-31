@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/051",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/051",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/051"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/051"
     },
     name: {
         en: "Jigglypuff",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Beruhigendes Wiegenlied",
                 "pt-br": "Canção de Ninar Calmante",
                 "zh-tw": "熟睡歌曲",
-                ja: "Soothing Lullaby",
+                ja: "じゅくすいソング",
                 ko: "Soothing Lullaby"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners schläft jetzt. Dein Gegner wirft 2 Münzen für diesen Speziellen Zustand. Zeigt mindestens 1 Zahl, schläft jenes Pokémon weiter.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido. Seu oponente joga 2 moedas para esta Condição Especial e, se qualquer uma delas sair coroa, aquele Pokémon permanecerá Adormecido.",
                 "zh-tw": "將對手的戰鬥寶可夢睡眠。因這個睡眠的擲硬幣次數改為2次,若沒有全部為正面則無法恢復。",
-                ja: "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep.",
+                ja: "相手のバトルポケモンをねむりにする。このねむりで投げるコインは2回になり、すべてオモテが出ないと回復しない。",
                 ko: "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
             }
         }
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Wenn seine Kulleraugen zu flackern beginnen, singt es ein mysteriöses, wohlklingendes Lied, das Zuhörer in Schlaf versetzt.",
         "pt-br": "Quando seus enormes olhos ficam pesados, canta uma melodia misteriosa e relaxante, fazendo com que os inimigos adormeçam.",
         "zh-tw": "當牠圓圓的大眼睛轉動時，就會唱搖籃曲般的歌曲，讓人舒服地昏昏欲睡。",
-        ja: "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+        ja: "つぶらな 瞳が 揺れるとき 眠たくなるような 不思議で 気持ちのいい 歌を 歌う。",
         ko: "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
     }
 };

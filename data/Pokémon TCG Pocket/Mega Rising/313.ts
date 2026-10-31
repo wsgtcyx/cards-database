@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/313",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/313",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/313",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/313"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/313",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/313"
     },
     name: {
         en: "Persian",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Snobilikat",
         "pt-br": "Persian",
         "zh-tw": "貓老大",
+        ja: "ペルシアン",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Meowth",
         "de": "Mauzi",
         "pt-br": "Meowth",
-        "zh-tw": "喵喵"
+        "zh-tw": "喵喵",
+        ja: "ニャース"
     },
     description: {
         en: "Although its fur has many admirers, it is tough to\nraise as a pet because of its fickle meanness.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Anche se la sua pelliccia ha molti ammiratori, è difficile farlo\nallevato come animale domestico a causa della sua volubile meschinità.",
         "de": "Obwohl sein Fell viele Bewunderer hat, ist es schwierig\nwegen seiner launischen Gemeinheit als Haustier aufziehen.",
         "pt-br": "Embora sua pelagem tenha muitos admiradores, é difícil\ncrie como animal de estimação por causa de sua maldade inconstante.",
-        "zh-tw": "雖然它的皮毛有很多崇拜者，但很難\n由於其反复無常的卑鄙行為而被當作寵物飼養。"
+        "zh-tw": "雖然它的皮毛有很多崇拜者，但很難\n由於其反复無常的卑鄙行為而被當作寵物飼養。",
+        ja: "毛並みが 美しく ペットにしたがる 人も 多いが すぐ ひっかいたり するので 手強いぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Artiglio dell'Ombra",
                 "de": "Schattenklaue",
                 "pt-br": "Garra Sombria",
-                "zh-tw": "暗影爪"
+                "zh-tw": "暗影爪",
+                ja: "シャドークロー"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, scarta una carta a caso dalla mano del tuo avversario.",
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma carta aleatória da mão do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。"
+                "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。",
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/337",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/337",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/337",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/337"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/337",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/337"
 	},
 	name: {
         en: "Silver",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Silber",
         "pt-br": "Silver",
         "zh-tw": "小銀",
+        ja: "シルバー",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Il tuo avversario rivela la sua mano. Scegli una carta Aiuto che trovi lì e mischiala nel mazzo del tuo avversario.",
         "de": "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und mische sie in das Deck deines Gegners.",
         "pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e embaralhe-a no baralho do seu oponente.",
-        "zh-tw": "你的對手亮出了他們的牌。選擇在那裡找到的一張支持者卡並將其洗入對手的牌庫中。"
+        "zh-tw": "你的對手亮出了他們的牌。選擇在那裡找到的一張支持者卡並將其洗入對手的牌庫中。",
+        ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。"
     },
     trainerType: "Supporter"
 };

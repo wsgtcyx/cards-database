@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/092",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/092",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/092"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/092"
     },
     name: {
         en: "Rolycoly",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I pezzi della superficie del corpo di questo Pokémon invecchiati e sfaldati sono stati a lungo utilizzati come combustibile in alternativa al carbone.",
         de: "Alt gewordene und abgeblätterte Teile der Körperoberfläche dieses Pokémon werden seit langem als Brennstoff als Alternative zu Kohle verwendet.",
         "pt-br": "Pedaços da superfície do corpo deste Pokémon que envelheceram e descamaram são usados ​​há muito tempo como combustível como alternativa ao carvão.",
-        "zh-tw": "這種寶可夢身體表面老化和剝落的大塊長期以來一直被用作燃料，作為煤炭的替代品。"
+        "zh-tw": "這種寶可夢身體表面老化和剝落的大塊長期以來一直被用作燃料，作為煤炭的替代品。",
+        ja: "古くなり 剥がれ落ちた 体の 表面は 石炭の 代わりに 燃料として 使われてきた。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 "pt-br": "Golpe de Colisão Rolante",
-                "zh-tw": "滾動衝撞"
+                "zh-tw": "滾動衝撞",
+                ja: "ころがりタックル"
             },
             damage: 20
         }

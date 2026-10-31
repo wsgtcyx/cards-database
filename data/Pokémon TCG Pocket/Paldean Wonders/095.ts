@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/095",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/095",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/095",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/095"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/095",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/095"
     },
     name: {
         en: "Greavard",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Gruff",
         "pt-br": "Greavard",
         "zh-tw": "墓仔狗",
+        ja: "ボチ",
         pt: "Greavard",
         'es-mx': "Greavard"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "A questo amichevole Pokémon non piace stare da solo. Prestagli anche la minima attenzione e ti seguirà per sempre.",
         "de": "Dieses freundliche Pokémon mag es nicht, allein zu sein. Schenken Sie ihm auch nur die geringste Aufmerksamkeit, und er wird Ihnen für immer folgen.",
         "pt-br": "Este Pokémon amigável não gosta de ficar sozinho. Preste a mínima atenção e ele o seguirá para sempre.",
-        "zh-tw": "這種友善的寶可夢不喜歡獨處。即使是最輕微的關注，它也會永遠跟隨你。"
+        "zh-tw": "這種友善的寶可夢不喜歡獨處。即使是最輕微的關注，它也會永遠跟隨你。",
+        ja: "人懐っこくて 寂しがり。 ちょっと かまっただけでも いつまでも 後を ついてくるぞ。"
     },
     stage: "Basic",
     attacks: [
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Colpo dell'anima",
                 "de": "Seelenschuss",
                 "pt-br": "Tiro de alma",
-                "zh-tw": "靈魂射擊"
+                "zh-tw": "靈魂射擊",
+                ja: "ソウルシュート"
             },
             damage: 30,
             cost: ["Psychic"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Scarta una carta dalla tua mano. Se non puoi, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
-                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。"
+                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
             },
         },
     ],

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/060",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/060",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/060"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/060"
     },
     name: {
         en: "Toxel",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon egoista e in cerca di attenzioni immagazzina veleno ed elettricità in due diverse sacche all'interno del suo corpo.",
         de: "Dieses selbstsüchtige, aufmerksamkeitsstarke Pokémon speichert Gift und Elektrizität in zwei verschiedenen Säcken in seinem Körper.",
         "pt-br": "Este Pokémon egoísta e em busca de atenção armazena veneno e eletricidade em dois sacos diferentes dentro de seu corpo.",
-        "zh-tw": "這種自私、尋求關注的寶可夢將毒液和電力儲存在體內兩個不同的囊中。"
+        "zh-tw": "這種自私、尋求關注的寶可夢將毒液和電力儲存在體內兩個不同的囊中。",
+        ja: "わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Sberla",
                 de: "Hieb",
                 "pt-br": "Tapa",
-                "zh-tw": "巴掌"
+                "zh-tw": "巴掌",
+                ja: "ビンタ"
             },
             damage: 20
         }

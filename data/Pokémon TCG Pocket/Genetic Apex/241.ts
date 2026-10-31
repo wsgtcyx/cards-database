@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/241",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/241",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/241",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/241"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/241",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/241"
     },
     name: {
         en: "Nidoking",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nidoking",
         de: "Nidoking",
         'pt-br': "Nidoking",
+        ja: "ニドキング",
         ko: "니드킹",
         "zh-tw": "尼多王",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Nidorino",
         "de": "Nidorino",
         "pt-br": "Nidorino",
-        "zh-tw": "尼多力諾"
+        "zh-tw": "尼多力諾",
+        ja: "ニドリーノ"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Velencorno",
                 de: "Gifthorn",
                 'pt-br': "Chifre Venenoso",
+                ja: "どくのつの",
                 ko: "독뿔",
                 "zh-tw": "毒角"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Quando si scatena non c'è modo di\nfermarlo, ma davanti a Nidoqueen, la sua\ncompagna di lunga data, ritrova la calma.",
         de: "Gerät es in Rage, ist es nur schwer aufzuhalten.\nDoch vor einem Nidoqueen, mit dem es schon\nviele Jahre verbracht hat, zeigt es sich friedlich.",
         'pt-br': "É impossível controlar Nidoking quando fica\nenfurecido. Porém, a presença de uma Nidoqueen\ncom quem viveu por muito tempo o acalmará.",
+        ja: "暴れると 手が つけられなくなるが 長年 連れ添った ニドクインの 前では 穏やかな 顔に なる。",
         ko: "날뛰기 시작하면 손쓸 수 없게 되지만\n긴 세월 함께 지낸 니드퀸\n앞에서는 온순해진다.",
         "zh-tw": "一旦爆發，就無法控制。但在與它生活了很長時間的尼多女王面前，尼多金平靜了下來。"
     },

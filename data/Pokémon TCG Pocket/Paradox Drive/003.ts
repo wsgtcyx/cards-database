@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/003",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/003",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/003"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/003"
     },
     name: {
         en: "Brute Bonnet",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha una leggera somiglianza con un Pokémon descritto in una rivista dubbia come un incrocio tra un dinosauro e un fungo.",
         de: "Es hat eine leichte Ähnlichkeit mit einem Pokémon, das in einer dubiosen Zeitschrift als Kreuzung zwischen einem Dinosaurier und einem Pilz beschrieben wird.",
         "pt-br": "Tem uma ligeira semelhança com um Pokémon descrito em uma revista duvidosa como um cruzamento entre um dinossauro e um cogumelo.",
-        "zh-tw": "它與一本可疑雜誌中描述的恐龍和蘑菇雜交的寶可夢略有相似。"
+        "zh-tw": "它與一本可疑雜誌中描述的恐龍和蘑菇雜交的寶可夢略有相似。",
+        ja: "怪しい 雑誌が 恐竜と キノコの 合成と 紹介した ポケモンに 少し 似ているのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Schiaffo vivace",
                 de: "Temperamentvoller Schlag",
                 "pt-br": "Golpe Espirituoso",
-                "zh-tw": "威猛強打"
+                "zh-tw": "威猛強打",
+                ja: "いさみたたく"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+                ja: "コインを1回投げウラなら、このワザは失敗。"
             },
             damage: 90
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/060",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/060",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/060"
     },
     name: {
         en: "Luvdisc",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Liebiskus",
         "pt-br": "Luvdisc",
         "zh-tw": "愛心魚",
+        ja: "ラブカス",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Durante la stagione riproduttiva, innumerevoli Luvdisc\nsi riuniscono presso le barriere coralline, trasformando le acque in rosa.",
         "de": "Während der Laichzeit entstehen unzählige Luvdisc\nversammeln sich an Korallenriffen und färben das Wasser rosa.",
         "pt-br": "Durante a época de desova, inúmeros Luvdisc\nse reúnem em recifes de corais, tornando as águas rosadas.",
-        "zh-tw": "在產卵季節，無數的 Luvdisc\n聚集在珊瑚礁上，使海水變成粉紅色。"
+        "zh-tw": "在產卵季節，無數的 Luvdisc\n聚集在珊瑚礁上，使海水變成粉紅色。",
+        ja: "繁殖シーズンには たくさんの ラブカスが サンゴ礁に 集まり 海面が ピンク色に 染まる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Contrasto in coppia",
                 "de": "Gepaartes Tackle",
                 "pt-br": "Equipamento emparelhado",
-                "zh-tw": "配對鏟球"
+                "zh-tw": "配對鏟球",
+                ja: "カップルタックル"
             },
             damage: "30+",
             cost: ["Water", "Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se hai esattamente 2, 4 o 6 carte in mano, questo attacco infligge 30 danni in più.",
                 "de": "Wenn du genau 2, 4 oder 6 Karten auf der Hand hast, fügt dieser Angriff 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se você tiver exatamente 2, 4 ou 6 cartas em sua mão, este ataque causa 30 de dano a mais.",
-                "zh-tw": "如果你的手牌恰好有 2、4 或 6 張，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "如果你的手牌恰好有 2、4 或 6 張，則此攻擊造成的傷害增加 30 點。",
+                ja: "自分の手札が2枚・4枚・6枚なら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

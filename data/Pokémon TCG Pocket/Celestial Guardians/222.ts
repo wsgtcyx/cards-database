@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/222",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/222",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/222",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/222"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/222",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/222"
     },
     name: {
         en: "Gengar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gengar",
         de: "Gengar",
         'pt-br': "Gengar",
+        ja: "ゲンガー",
         ko: "팬텀",
         "zh-tw": "耿鬼"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
+        ja: "ゴースト",
     },
     description: {
         en: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Per sottrarre energia alla vittima si\nnasconde nella sua ombra e attende\nin silenzio il momento opportuno.",
         de: "Um Beute zu erlegen, versteckt es sich\nin deren Schatten und wartet still auf\neine günstige Gelegenheit.",
         'pt-br': "Este Pokémon aguarda pela oportunidade\nperfeita para se esconder na sombra de sua\npresa e roubar a vida dela.",
+        ja: "命を 奪おうと 決めた 獲物の 影に 潜り込み じっと チャンスを 狙ってる。",
         ko: "생명을 빼앗기로 정한 먹잇감의\n그림자에 숨어들어\n꼼짝하지 않고 기회를 노린다.",
         "zh-tw": "為了竊取目標的生命，它會潛入獵物的陰影中，靜靜地等待機會。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Tormento",
                 de: "Tortur",
                 'pt-br': "Azucrinar",
+                ja: "いやがらせ",
                 ko: "괴롭히기",
                 "zh-tw": "打擾"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Il tuo avversario non può giocare le carte Aiuto che ha in mano durante il suo prossimo turno.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Unterstützerkarten aus seiner Hand spielen.",
                 'pt-br': "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele.",
+                ja: "次の相手の番、相手は手札からサポートを出して使えない。",
                 ko: "상대의 다음 차례에 상대는 패에서 서포트를 꺼내서 사용할 수 없다.",
                 "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。"
             }

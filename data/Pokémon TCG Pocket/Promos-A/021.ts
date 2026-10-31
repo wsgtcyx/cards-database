@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/021",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/021",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/021"
     },
     name: {
         en: "Onix",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Onix",
         de: "Onix",
         'pt-br': "Onix",
+        ja: "イワーク",
         ko: "롱스톤",
         "zh-tw": "大岩蛇",
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Schiacciaterra",
                 de: "Schollenbrecher",
                 'pt-br': "Aperto de Terra",
+                ja: "ランドクラッシュ",
                 ko: "랜드크래시",
                 "zh-tw": "土地擠壓"
             },
@@ -48,6 +51,7 @@ const card: Card = {
         it: "Scava nel terreno assorbendo gli oggetti\npiù duri per irrobustire il suo corpo.",
         de: "Wenn es sich durch die Erde gräbt,\nnimmt es viele harte Gegenstände auf,\ndie seinen Körper erhärten.",
         'pt-br': "Ao cavar o chão, absorve vários objetos rígidos,\ntornando o seu corpo extremamente sólido.",
+        ja: "地中を 掘り進みながら いろんな 硬いものを 取り込み 頑丈な 体をつくる。",
         ko: "땅속을 파고들면서 여러 가지\n단단한 것들을 집어삼켜서\n튼튼한 몸을 만든다.",
         "zh-tw": "當它挖掘地面時，它吸收了許多\n堅硬的物體。這就是它的身體如此堅固的原因。"
     },

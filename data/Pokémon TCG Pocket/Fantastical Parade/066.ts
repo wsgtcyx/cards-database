@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/066"
     },
     name: {
         en: "Mega Gardevoir ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Gardevoir-ex",
         "de": "Mega-Guardevoir-ex",
         "pt-br": "Mega Gardevoir ex",
-        "zh-tw": "超級沙奈朵ex"
+        "zh-tw": "超級沙奈朵ex",
+        ja: "メガサーナイトex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "奇魯莉安"
+        "zh-tw": "奇魯莉安",
+        ja: "キルリア"
     },
     description: {
         en: "When it opens the red plate on its chest and\nunleashes its heart, its strongest psychic power\nis released.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando apre la placca rossa sul petto e\nscatena il suo cuore, il suo potere psichico più forte\nviene rilasciato.",
         "de": "Wenn es die rote Platte auf seiner Brust öffnet und\nentfesselt sein Herz, seine stärkste psychische Kraft\nwird freigegeben.",
         "pt-br": "Quando abre a placa vermelha em seu peito e\nlibera seu coração, seu poder psíquico mais forte\né liberado.",
-        "zh-tw": "當它打開胸前的紅色盤子並\n釋放它的心臟，它最強大的精神力量\n被釋放。"
+        "zh-tw": "當它打開胸前的紅色盤子並\n釋放它的心臟，它最強大的精神力量\n被釋放。",
+        ja: "胸の 赤い プレートを 開いて 心を 解放すると 最大の サイコパワーが 放出される。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Forza Fantasia",
                 "de": "Fantasia Force",
                 "pt-br": "Força Fantasia",
-                "zh-tw": "幻想曲力量"
+                "zh-tw": "幻想曲力量",
+                ja: "ファンタジアフォース"
             },
             damage: 110,
             cost: ["Psychic", "Psychic"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Prendi 3 Energie {P} dalla tua Zona Energetica e assegnale ai tuoi Pokémon {P} nel modo che preferisci.",
                 "de": "Nimm 3 {P}-Energie aus deiner Energiezone und lege sie auf beliebige Weise an dein {P}-Pokémon an.",
                 "pt-br": "Pegue 3 {P} Energias da sua Zona de Energia e ligue-as aos seus {P} Pokémon da maneira que desejar.",
-                "zh-tw": "從你的能量區取出 3 個 {P} 能量，並以你喜歡的任何方式將其附加到你的 {P} 神奇寶貝上。"
+                "zh-tw": "從你的能量區取出 3 個 {P} 能量，並以你喜歡的任何方式將其附加到你的 {P} 神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{P}エネルギーを3個出し、{P}ポケモンに好きなようにつける。"
             }
         }],
     weaknesses: [{

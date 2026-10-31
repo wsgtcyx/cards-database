@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/032",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/032",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/032"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/032"
     },
     name: {
         en: "Staryu",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Viene mangiucchiato dai Pokémon acquatici,\nma non ci dà peso, perché le parti danneggiate\ndel suo corpo si rigenerano subito.",
         de: "Ihm macht es nichts aus, von Fisch-Pokémon\nangeknabbert zu werden, da sich sein Körper\nbei Verletzungen im Nu regeneriert.",
         "pt-br": "Staryu não se incomoda com as mordiscadas que recebe de Pokémon peixe. Seu corpo se regenera rapidamente, mesmo que parte dele seja arrancada.",
-        "zh-tw": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。"
+        "zh-tw": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。",
+        ja: "魚ポケモンに ついばまれるが 体が ちぎれても すぐに 再生するので 気にしない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Veloce",
                 de: "Schnell",
                 "pt-br": "Ataque Veloz",
-                "zh-tw": "高速星星"
+                "zh-tw": "高速星星",
+                ja: "スピードスター"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il danno di questo attacco non è influenzato dalla debolezza o da eventuali effetti sul Pokémon attivo del tuo avversario.",
                 de: "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
                 "pt-br": "O dano deste ataque não é afetado por Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
-                "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。"
+                "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。",
+                ja: "このワザのダメージは、弱点と、相手のバトルポケモンにかかっている効果を計算しない。"
             },
             damage: 20
         }

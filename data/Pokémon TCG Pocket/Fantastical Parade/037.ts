@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/037"
     },
     name: {
         en: "Vanillite",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vanillite",
         "de": "Gelatini",
         "pt-br": "Vanillite",
-        "zh-tw": "迷你冰"
+        "zh-tw": "迷你冰",
+        ja: "バニプッチ"
     },
     illustrator: "Orca",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Presumibilmente, questo Pokémon è nato da un\nghiacciolo. Emette aria gelida a -58 gradi\nFahrenheit per sentirsi più a proprio agio.",
         "de": "Angeblich wurde dieses Pokémon aus einem geboren\nEiszapfen. Es stößt eiskalte Luft mit einer Temperatur von −58 Grad aus\nFahrenheit, um es sich bequemer zu machen.",
         "pt-br": "Supostamente, este Pokémon nasceu de um\npingente de gelo. Ele expele ar gelado a -58 graus\nFahrenheit para ficar mais confortável.",
-        "zh-tw": "據推測，這只神奇寶貝是從\n冰柱。它噴出-58度的冰冷空氣\n華氏度讓自己更舒服。"
+        "zh-tw": "據推測，這只神奇寶貝是從\n冰柱。它噴出-58度的冰冷空氣\n華氏度讓自己更舒服。",
+        ja: "氷柱から 生まれたと いわれる。 マイナス５０度の 冷気を 吐いて あたりを 凍らせ 棲みやすくする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Freddo",
                 "de": "Kühl",
                 "pt-br": "Frio",
-                "zh-tw": "寒冷"
+                "zh-tw": "寒冷",
+                ja: "ひんやり"
             },
             damage: 20,
             cost: ["Water"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/041"
     },
     name: {
         en: "Litwick",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lichtel",
         "pt-br": "Litwick",
         "zh-tw": "燭光靈",
+        ja: "ヒトモシ",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Più giovane è la vita che questo Pokémon assorbe,\npiù luminosa e inquietante è la fiamma su di esso\nustioni alla testa.",
         "de": "Je jünger das Leben ist, das dieses Pokémon aufnimmt,\ndesto heller und unheimlicher ist die Flamme darauf\nKopf brennt.",
         "pt-br": "Quanto mais jovem for a vida que este Pokémon absorve,\nmais brilhante e misteriosa a chama em seu\nqueimaduras na cabeça.",
-        "zh-tw": "該寶可夢吸收的生命越年輕，\n其上的火焰越亮越詭異\n頭燒傷。"
+        "zh-tw": "該寶可夢吸收的生命越年輕，\n其上的火焰越亮越詭異\n頭燒傷。",
+        ja: "吸い取る 命が 若ければ 若いほど 頭の 炎は 大きく 妖しく 燃え上がる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Bagliore",
                 "de": "Fackel",
                 "pt-br": "Sinalizador",
-                "zh-tw": "耀斑"
+                "zh-tw": "耀斑",
+                ja: "ほのお"
             },
             damage: 20,
             cost: ["Fire"]

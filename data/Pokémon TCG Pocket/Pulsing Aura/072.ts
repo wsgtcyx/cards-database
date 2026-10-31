@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/072",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/072",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/072"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/072"
     },
     name: {
         en: "Bramblin",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Nemmeno Bramblin sa dove è diretto mentre precipita attraverso la natura selvaggia, sospinto dal vento. Detesta bagnarsi.",
         de: "Nicht einmal Weherba weiß, wohin es geht, während es vom Wind verweht durch die Wildnis taumelt. Es hasst es, nass zu werden.",
         "pt-br": "Nem mesmo Bramblin sabe para onde está indo enquanto cai pela selva, levado pelo vento. Ele detesta se molhar.",
-        "zh-tw": "當它被風吹過時，連 納噬草 也不知道它要去哪裡。它討厭被淋濕。"
+        "zh-tw": "當它被風吹過時，連 納噬草 也不知道它要去哪裡。它討厭被淋濕。",
+        ja: "風に吹かれて 荒野を 転がり 行き先は 自分でも わからない。 体が 濡れるのが 大嫌い。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rancormeschino",
                 de: "Mini-Groll",
                 "pt-br": "Rancinho",
-                "zh-tw": "咒怨一下"
+                "zh-tw": "咒怨一下",
+                ja: "ちょっとうらむ"
             },
             damage: 20
         }

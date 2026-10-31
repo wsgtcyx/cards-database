@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/036"
     },
     name: {
         en: "Serperior",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Serpiroyal",
         "pt-br": "Serperior",
         "zh-tw": "君主蛇",
+        ja: "ジャローダ",
     },
     illustrator: "Yoshioka",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Efoserp",
         "pt-br": "Servine",
         "zh-tw": "青藤蛇",
+        ja: "ジャノビー",
     },
     description: {
         en: "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior's\nnoble eyes.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dà il massimo solo contro avversari forti che\nnon sono spaventati dal bagliore di Serperior\nocchi nobili.",
         "de": "Es gibt nur gegen starke Gegner sein Bestes\nlassen sich vom grellen Licht von Serperior nicht beeindrucken\nedle Augen.",
         "pt-br": "Só dá tudo de si contra adversários fortes que\nnão se intimidam com o olhar de Serperior\nolhos nobres.",
-        "zh-tw": "它只會全力以赴對抗強大的對手\n不會被 Serperior 的眩光所困擾\n高貴的眼睛。"
+        "zh-tw": "它只會全力以赴對抗強大的對手\n不會被 Serperior 的眩光所困擾\n高貴的眼睛。",
+        ja: "ジャローダの 気高い 瞳で 射すくめられても 平気な 強い 相手にだけ 本気を 出す。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Totem della giungla",
                 "de": "Dschungeltotem",
                 "pt-br": "Totem da Selva",
-                "zh-tw": "叢林圖騰"
+                "zh-tw": "叢林圖騰",
+                ja: "みつりんのぬし"
             },
             effect: {
                 en: "Each {G} Energy attached to your {G} Pokémon provides 2 {G} Energy. This effect doesn't stack.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Ogni Energia {G} assegnata ai tuoi Pokémon {G} fornisce 2 Energia {G}. Questo effetto non è cumulabile.",
                 "de": "Jede {G}-Energie, die an dein {G}-Pokémon angelegt ist, liefert 2 {G}-Energie. Dieser Effekt ist nicht stapelbar.",
                 "pt-br": "Cada {G} Energia ligada ao seu Pokémon {G} fornece 2 {G} Energia. Este efeito não acumula.",
-                "zh-tw": "您的 {G} 神奇寶貝身上附加的每個 {G} 能量可提供 2 個 {G} 能量。該效果不疊加。"
+                "zh-tw": "您的 {G} 神奇寶貝身上附加的每個 {G} 能量可提供 2 個 {G} 能量。該效果不疊加。",
+                ja: "このポケモンがいるかぎり、自分の場の{G}ポケモンについているすべての{G}エネルギーは、それぞれ{G}エネルギー2個ぶんとしてはたらく。この特性は重ならない。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Raggio solare",
                 "de": "Sonnenstrahl",
                 "pt-br": "Raio Solar",
-                "zh-tw": "太陽光束"
+                "zh-tw": "太陽光束",
+                ja: "ソーラービーム"
             },
             damage: 70,
             cost: ["Grass", "Colorless", "Colorless", "Colorless"]

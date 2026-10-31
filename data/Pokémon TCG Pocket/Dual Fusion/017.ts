@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/017",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/017",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/017"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/017"
     },
     name: {
         en: "Charmeleon",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Glumanda",
         "pt-br": "Charmander",
         "zh-tw": "小火龍",
-        ja: "Charmander",
+        ja: "ヒトカゲ",
         ko: "Charmander"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Flammenschweif",
                 "pt-br": "Cauda de Chamas",
                 "zh-tw": "火之尾",
-                ja: "Flame Tail",
+                ja: "ほのおのしっぽ",
                 ko: "Flame Tail"
             },
             cost: [
@@ -81,7 +82,7 @@ const card: Card = {
         de: "Wenn Glutexo seinen brennenden Schwanz schwingt, steigt die Temperatur um es herum immer weiter an und setzt seinen Gegnern zu.",
         "pt-br": "Quando balança sua cauda em chamas, a temperatura ao redor sobe sem parar, atormentando seus oponentes.",
         "zh-tw": "當牠激烈擺動尾巴時，周圍的溫度會不斷上升，讓對手陷入痛苦。",
-        ja: "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
+        ja: "燃える 尻尾を 振りまわすと まわりの 温度が どんどん 上がって 相手を 苦しめる。",
         ko: "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents."
     }
 };

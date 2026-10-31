@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/055",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/055",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/055",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/055"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/055",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/055"
     },
     name: {
         en: "Rotom ex",
@@ -39,7 +40,8 @@ const card: Card = {
                 "pt-br": "Fagulha de Tralha",
                 "zh-tw": "廢品電光",
                 "it": "Rottami Scintillanti",
-                "de": "Schrottfunken"
+                "de": "Schrottfunken",
+                ja: "ジャンクスパーク"
             },
             effect: {
                 en: "This attack does 10 more damage for each Item card in your discard pile.",
@@ -48,7 +50,8 @@ const card: Card = {
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada carta de Item na sua pilha de descarte.",
                 "zh-tw": "增加自己的棄牌區的物品卡張數×10點傷害。",
                 "it": "Questo attacco infligge 10 danni in più per ogni carta Strumento nella tua pila degli scarti.",
-                "de": "Diese Attacke fügt für jede Itemkarte in deinem Ablagestapel 10 Schadenspunkte mehr zu."
+                "de": "Diese Attacke fügt für jede Itemkarte in deinem Ablagestapel 10 Schadenspunkte mehr zu.",
+                ja: "自分のトラッシュにあるグッズの枚数×10ダメージ追加。"
             },
             damage: "30+"
         }

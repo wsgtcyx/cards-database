@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/092",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/092",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/092"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/092",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/092"
     },
     name: {
         en: "Joltik",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wattzapf",
         "pt-br": "Joltik",
         "zh-tw": "電電蟲",
+        ja: "バチュル",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Puoi trovare Joltik aggrappato ad altri Pokémon.\nAssorbe l'elettricità statica perché non può\nprodurre una carica da solo.",
         "de": "Joltik klammert sich an andere Pokémon.\nEs absorbiert statische Elektrizität, weil es das nicht kann\nselbst eine Ladung erzeugen.",
         "pt-br": "Joltik pode ser encontrado agarrado a outros Pokémon.\nEstá absorvendo eletricidade estática porque não consegue\nproduzir uma carga por conta própria.",
-        "zh-tw": "喬提克被發現粘在其他神奇寶貝身上。\n它吸收靜電，因為它不能\n自身產生電荷。"
+        "zh-tw": "喬提克被發現粘在其他神奇寶貝身上。\n它吸收靜電，因為它不能\n自身產生電荷。",
+        ja: "ポケモンの 体に くっついて 静電気を 吸い取る。 自分では 電気を つくることが できない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Allegare",
                 "de": "Befestigen",
                 "pt-br": "Anexar",
-                "zh-tw": "附"
+                "zh-tw": "附",
+                ja: "くっつく"
             },
             damage: 20,
             cost: ["Lightning"]

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/282",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/282",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/282",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/282"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/282",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/282"
 	},
 	name: {
 		en: "Lickitung",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Lickitung",
 		de: "Schlurp",
 		"pt-br": "Lickitung",
-		"zh-tw": "大舌頭"
+		"zh-tw": "大舌頭",
+		ja: "ベロリンガ"
 	},
 	illustrator: "Yukiko Baba",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "La sua saliva appiccicosa provoca\nun prurito terribile che non dà tregua\nse le parti leccate non vengono ripulite.",
 		de: "Wäscht man sich nach der Berührung mit seinem\nklebrigen Speichel nicht, setzt bald ein starker\nJuckreiz ein, der nicht mehr zu stoppen ist.",
 		"pt-br": "Se você entrar em contato com a saliva grudenta\ndeste Pokémon e não se limpar, sentirá uma\ncoceira intensa. E a coceira não parará.",
+		ja: "ネバネバした 唾液に 触れたまま 放っておくと ものすごい 痒みが はじまり とまらなくなるぞ。",
 		ko: "끈적끈적한 타액에 접촉한 후\n그대로 방치하면 굉장히 가렵고\n급기야 멈출 수 없게 된다.",
 		"zh-tw": "如果這只神奇寶貝粘稠的唾液沾到你身上而你又不把它清理掉，就會出現強烈的瘙癢感。而且瘙癢感也不會消失。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Linguasberla",
 				de: "Zungenschelle",
 				"pt-br": "Tapa de Língua",
+				ja: "ベロではたく",
 				ko: "혀로 막치기",
 				"zh-tw": "舌擊"
 			},

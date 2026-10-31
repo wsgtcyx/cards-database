@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/115",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/115",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/115"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/115"
     },
     name: {
         en: "Mareanie",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mareanie",
         de: "Garstella",
         'pt-br': "Mareanie",
+        ja: "ヒドイデ",
         ko: "시마사리",
         "zh-tw": "好壞星",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vaga qua e là per le spiagge in cerca di prede.\nDi tanto in tanto cerca di mangiarsi un aculeo\ncaduto da un Pincurchin e prende la scossa.",
         de: "Auf Futtersuche wandert es an Küsten entlang.\nVersucht es, abgebrochene Britzigel-Stacheln zu\nessen, bekommt es oft einen elektrischen Schlag.",
         'pt-br': "Este Pokémon vaga pelo litoral em busca de comida.\nSempre leva choques elétricos dos espinhos quebrados\nde Pincurchin que tenta comer.",
+        ja: "エサを 探し 海辺を うろつく。 折れた バチンウニの トゲを 食べようとして よく 痺れている。",
         ko: "먹이를 찾아 해변을 배회한다.\n부러진 찌르성게의 가시를 먹으려다\n마비되어 있는 경우가 많다.",
         "zh-tw": "這只神奇寶貝在海邊徘徊尋找食物。當它試圖吃掉破碎的平柯欽刺時，它經常會受到電擊。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Perforare",
                 de: "Durchbohren",
                 'pt-br': "Perfurar",
+                ja: "つきさす",
                 ko: "궤찌르기",
                 "zh-tw": "刺穿"
             },

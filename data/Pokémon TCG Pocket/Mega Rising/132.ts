@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/132"
     },
     name: {
         en: "Krookodile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rabigator",
         "pt-br": "Krookodile",
         "zh-tw": "流氓鱷",
+        ja: "ワルビアル",
     },
     illustrator: "Shiburingaru",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Rokkaiman",
         "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
+        ja: "ワルビル",
     },
     description: {
         en: "Its unique faculty of sight can detect small prey\nmore than 30 miles away, even in the midst of\na sandstorm.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La sua capacità di vista unica può individuare piccole prede\npiù di 30 miglia di distanza, anche nel mezzo di\nuna tempesta di sabbia.",
         "de": "Sein einzigartiges Sehvermögen kann kleine Beutetiere erkennen\nmehr als 30 Meilen entfernt, selbst mittendrin\nein Sandsturm.",
         "pt-br": "Sua faculdade única de visão pode detectar pequenas presas\na mais de 30 milhas de distância, mesmo no meio de\numa tempestade de areia.",
-        "zh-tw": "它獨特的視覺能力可以發現小型獵物\n即使在 30 多英里之外，\n沙塵暴。"
+        "zh-tw": "它獨特的視覺能力可以發現小型獵物\n即使在 30 多英里之外，\n沙塵暴。",
+        ja: "砂嵐でも ５０キロ先に いる 小さな 獲物も 発見する 特殊な 両目を 持つ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Morso Masticato",
                 "de": "Chomp Chomp Biss",
                 "pt-br": "Mordida de mordida",
-                "zh-tw": "嚼嚼咬"
+                "zh-tw": "嚼嚼咬",
+                ja: "ガブガブバイト"
             },
             damage: 90,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia una moneta finché non esce croce. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda até obter coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。",
+                ja: "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
             }
         }],
     weaknesses: [{

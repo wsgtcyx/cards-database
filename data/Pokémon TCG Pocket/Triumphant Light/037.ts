@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/037"
     },
     name: {
         en: "Phanpy",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Phanpy",
         de: "Phanpy",
         'pt-br': "Phanpy",
+        ja: "ゴマゾウ",
         ko: "코코리",
         "zh-tw": "小小象",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive in tane che costruisce in riva ai fiumi.\nDopo aver giocato nel fango, non riesce\na star tranquillo finché non si è lavato.",
         de: "Es lebt in Nestern, die es an Flussufern baut.\nNach dem Spielen im Schlamm muss es sich\nerst waschen, um sich wohlzufühlen.",
         'pt-br': "Este Pokémon vive e constrói seu ninho nas margens\ndos rios. Depois de brincar na lama, não sossega\naté se lavar direito.",
+        ja: "川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。",
         ko: "냇가에 굴을 파고 산다.\n흙장난을 한 뒤에 몸을 씻지 못하면\n안절부절못하기 때문이다.",
         "zh-tw": "這只神奇寶貝在河岸上生活和築巢。玩完泥巴之後，不洗身就無法安定下來。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rotolamento",
                 de: "Walzer",
                 'pt-br': "Rolagem",
+                ja: "ころがる",
                 ko: "구르기",
                 "zh-tw": "推出"
             },

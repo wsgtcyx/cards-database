@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/051"
     },
     name: {
         en: "Gyarados",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Gyarados",
         "de": "Garados",
         "pt-br": "Gyarados",
-        "zh-tw": "暴鯉龍"
+        "zh-tw": "暴鯉龍",
+        ja: "ギャラドス"
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     description: {
         en: "It appears whenever there is world conflict,\nburning down any place it travels through.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Appare ogni volta che c'è un conflitto mondiale,\nbruciando qualsiasi luogo attraversi.",
         "de": "Es erscheint immer dann, wenn es einen Weltkonflikt gibt,\nEs brennt jeden Ort nieder, durch den es reist.",
         "pt-br": "Aparece sempre que há conflito mundial,\nqueimando qualquer lugar por onde passa.",
-        "zh-tw": "每當世界發生衝突時它就會出現，\n燒毀它所經過的任何地方。"
+        "zh-tw": "每當世界發生衝突時它就會出現，\n燒毀它所經過的任何地方。",
+        ja: "世の中で 争いが 多くなると どこからともなく 現れて あたりを 焼野原に していく。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Coda Martellante",
                 "de": "Hämmernder Schwanz",
                 "pt-br": "Cauda Martelando",
-                "zh-tw": "錘擊尾巴"
+                "zh-tw": "錘擊尾巴",
+                ja: "テールハンマー"
             },
             damage: 100,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta la prima carta del mazzo del tuo avversario.",
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂牌。"
+                "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/019"
     },
     name: {
         en: "Weepinbell",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Weepinbell",
         de: "Ultrigaria",
         'pt-br': "Weepinbell",
+        ja: "ウツドン",
         ko: "우츠동",
         "zh-tw": "口呆花",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Bellsprout",
         "de": "Knofensa",
         "pt-br": "Bellsprout",
-        "zh-tw": "喇叭芽"
+        "zh-tw": "喇叭芽",
+        ja: "マダツボミ"
     },
     attacks: [{
             cost: ["Grass", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 'pt-br': "Folha Navalha",
+                ja: "はっぱカッター",
                 ko: "잎날가르기",
                 "zh-tw": "剃刀葉"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Si serve delle foglie laterali come lame contro i nemici.\nIl fluido che secerne dalla bocca scioglie qualsiasi cosa.",
         de: "Die Blätter werden eingesetzt, um Gegner\naufzuschlitzen. Dieses Pokémon spuckt eine\nFlüssigkeit, die alles auflöst.",
         'pt-br': "As partes folhosas funcionam como cortadores\npara dilacerar inimigos. Ele cospe um fluido\ncapaz de dissolver qualquer coisa.",
+        ja: "葉っぱの 部分は カッターになって 相手を 切り裂く。口からは なんでも 溶かす 液体を 吐く。",
         ko: "잎사귀 부분은 칼날이 되어\n상대를 베어버린다. 입에서는\n무엇이든 녹이는 액체를 뿜어낸다.",
         "zh-tw": "葉狀部分充當切割敵人的刀具。它噴出一種可以溶解一切的液體。"
     },

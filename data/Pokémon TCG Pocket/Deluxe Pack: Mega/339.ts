@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/339",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/339",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/339",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/339"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/339",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/339"
     },
     name: {
         en: "Doublade",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Gramokles",
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
-        ja: "Honedge",
+        ja: "ヒトツキ",
         ko: "Honedge"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Seine zwei Schwerter wechseln sich in einer hektischen Aufeinanderfolge von Angriff und Verteidigung ab, um seine Beute zu erlegen.",
         "pt-br": "As duas espadas adotam a estratégia de alternar rapidamente entre ataque e defesa para derrubar suas presas.",
         "zh-tw": "２把劍會用令人眼花撩亂的速度不斷交替攻擊和防禦，藉以制服獵物。",
-        ja: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",
+        ja: "２本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。",
         ko: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey."
     },
     stage: "Stage1",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Schlitzer",
                 "pt-br": "Talho",
                 "zh-tw": "劈開",
-                ja: "Slash",
+                ja: "きりさく",
                 ko: "Slash"
             },
             damage: 40,

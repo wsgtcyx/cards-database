@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/010",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/010",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/010"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/010"
     },
     name: {
         en: "Floatzel",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "È uno spettacolo comune nei porti di pesca. È noto per salvare le persone e aiutare i pescatori a trasportare ciò che hanno catturato.",
         de: "Es ist ein häufiger Anblick rund um Fischereihäfen. Es ist bekannt, dass es Menschen rettet und Fischern hilft, ihren Fang zu transportieren.",
         "pt-br": "É uma visão comum nos portos de pesca. É conhecido por resgatar pessoas e ajudar os pescadores a carregar o que pescaram.",
-        "zh-tw": "這是漁港周圍常見的景象。眾所周知，它可以拯救人們並幫助漁民攜帶他們捕獲的東西。"
+        "zh-tw": "這是漁港周圍常見的景象。眾所周知，它可以拯救人們並幫助漁民攜帶他們捕獲的東西。",
+        ja: "漁師町に 多く 暮らし おぼれた 人を 助けたり 捕った 獲物を 運んでいる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Cascata",
                 de: "Kaskade",
                 "pt-br": "Cachoeira",
-                "zh-tw": "攀瀑"
+                "zh-tw": "攀瀑",
+                ja: "たきのぼり"
             },
             damage: 90
         }

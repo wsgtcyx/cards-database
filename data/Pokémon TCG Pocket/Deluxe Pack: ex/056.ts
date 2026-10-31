@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/056"
     },
     name: {
         en: "Charmander",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Charmander",
         "de": "Glumanda",
         "pt-br": "Charmander",
-        "zh-tw": "小火龍"
+        "zh-tw": "小火龍",
+        ja: "ヒトカゲ"
     },
     illustrator: "Teeziro",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ha una preferenza per le cose calde. Quando piove,\nsi dice che il vapore esca dalla punta della coda.",
         "de": "Es hat eine Vorliebe für heiße Dinge. Wenn es regnet,\nAus der Spitze seines Schwanzes soll Dampf austreten.",
         "pt-br": "Tem preferência por coisas quentes. Quando chove,\ndiz-se que o vapor jorra da ponta de sua cauda.",
-        "zh-tw": "它對熱的東西有偏愛。下雨的時候，\n據說蒸汽從它的尾尖噴出。"
+        "zh-tw": "它對熱的東西有偏愛。下雨的時候，\n據說蒸汽從它的尾尖噴出。",
+        ja: "熱いものを 好む 性格。 雨に濡れると しっぽの 先から 煙が 出るという。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Brace",
                 "de": "Glut",
                 "pt-br": "Brasa",
-                "zh-tw": "餘燼"
+                "zh-tw": "餘燼",
+                ja: "ひのこ"
             },
             damage: 30,
             cost: ["Fire"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Scarta un'Energia {R} da questo Pokémon.",
                 "de": "Wirf eine {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon.",
-                "zh-tw": "丟棄該神奇寶貝的 {R} 能量。"
+                "zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
             }
         }],
     weaknesses: [{

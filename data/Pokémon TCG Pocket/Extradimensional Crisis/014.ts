@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/014"
     },
     name: {
         en: "Luxio",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Luxio",
         "pt-br": "Luxio",
         "zh-tw": "勒克貓",
+        ja: "ルクシオ",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
+        ja: "コリンク",
     },
     description: {
         en: "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Forti corsi di elettricità attraverso le punte di\ni suoi artigli affilati. Un leggero graffio provoca svenimento\nnei nemici.",
         "de": "Starke Stromverläufe durch die Spitzen von\nseine scharfen Krallen. Ein leichter Kratzer verursacht Ohnmacht\nbei Feinden.",
         "pt-br": "Fortes cursos de eletricidade através das dicas de\nsuas garras afiadas. Um leve arranhão causa desmaio\nem inimigos.",
-        "zh-tw": "強電課程通過技巧\n它鋒利的爪子。輕微的抓傷會導致昏厥\n在敵人中。"
+        "zh-tw": "強電課程通過技巧\n它鋒利的爪子。輕微的抓傷會導致昏厥\n在敵人中。",
+        ja: "鋭い ツメの 先には 強い 電気が 流れており ほんの少し かするだけで 相手を気絶させる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bullone di testa",
                 "de": "Kopfschraube",
                 "pt-br": "Parafuso de cabeça",
-                "zh-tw": "頭部螺栓"
+                "zh-tw": "頭部螺栓",
+                ja: "ヘッドボルト"
             },
             damage: 50,
             cost: ["Lightning", "Lightning"]

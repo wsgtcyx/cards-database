@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/224",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/224",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/224"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/224",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/224"
     },
     name: {
         en: "Blacephalon ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Scottata",
                 de: "Versengung",
                 "pt-br": "Chamuscada",
-                "zh-tw": "灼熱"
+                "zh-tw": "灼熱",
+                ja: "こがす"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "將對手的戰鬥寶可夢灼傷。"
+                "zh-tw": "將對手的戰鬥寶可夢灼傷。",
+                ja: "相手のバトルポケモンをやけどにする。"
             }
         },
         {
@@ -61,7 +64,8 @@ const card: Card = {
                 it: "Pop-punk",
                 de: "Pop-Punk",
                 "pt-br": "Pop-Punk",
-                "zh-tw": "砰破龐克"
+                "zh-tw": "砰破龐克",
+                ja: "ポップパンク"
             },
             effect: {
                 en: "Discard 3 {R} Energy from this Pokémon.",
@@ -70,7 +74,8 @@ const card: Card = {
                 it: "Scarta 3 Energie {R} da questo Pokémon.",
                 de: "Lege 3 {R}-Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 3 Energias {R} deste Pokémon.",
-                "zh-tw": "將這隻寶可夢身上的3個{R}能量丟棄。"
+                "zh-tw": "將這隻寶可夢身上的3個{R}能量丟棄。",
+                ja: "このポケモンから{R}エネルギーを3個トラッシュ。"
             },
             damage: 140
         }

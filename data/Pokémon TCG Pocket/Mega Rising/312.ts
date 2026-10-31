@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/312",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/312",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/312",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/312"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/312",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/312"
     },
     name: {
         en: "Meowth",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Meowth",
         "de": "Mauzi",
         "pt-br": "Meowth",
-        "zh-tw": "喵喵"
+        "zh-tw": "喵喵",
+        ja: "ニャース"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non fa altro che dormire durante il giorno. Di notte,\npattuglia il suo territorio con gli occhi accesi.",
         "de": "Tagsüber schläft es nur. Nachts,\nMit leuchtenden Augen patrouilliert es durch sein Revier.",
         "pt-br": "Tudo o que faz é dormir durante o dia. À noite,\npatrulha seu território com os olhos brilhantes.",
-        "zh-tw": "它所做的就是在白天睡覺。晚上，\n它眼睛發光，在自己的領地巡邏。"
+        "zh-tw": "它所做的就是在白天睡覺。晚上，\n它眼睛發光，在自己的領地巡邏。",
+        ja: "昼間は 寝てばかりいる。 夜になると 目が 輝き 縄張りを 歩きまわる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Giorno di paga",
                 "de": "Zahltag",
                 "pt-br": "Dia de pagamento",
-                "zh-tw": "發薪日"
+                "zh-tw": "發薪日",
+                ja: "ネコにこばん"
             },
             damage: 10,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を1枚引く。"
             }
         }],
     weaknesses: [{

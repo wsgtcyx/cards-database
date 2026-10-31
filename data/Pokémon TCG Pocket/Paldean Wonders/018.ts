@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/018",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/018",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/018"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/018"
     },
     name: {
         en: "Skeledirge",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Skelokrok",
         "pt-br": "Skeledirge",
         "zh-tw": "骨紋巨聲鱷",
+        ja: "ラウドボーン",
         pt: "Skeledirge"
     },
     illustrator: "nagimiso",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Lokroko",
         "pt-br": "Crocalor",
         "zh-tw": "炙燙鱷",
+        ja: "アチゲータ",
         pt: "Crocalor"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Il canto gentile di Skeledirge calma le anime di tutti coloro che lo ascoltano. Brucia i suoi nemici fino a farli diventare croccanti con fiamme di oltre 5.400 gradi Fahrenheit.",
         "de": "Der sanfte Gesang von Skelokrok beruhigt die Seelen aller, die ihn hören. Es verbrennt seine Feinde mit Flammen von über 5.400 Grad Fahrenheit.",
         "pt-br": "O canto suave de Skeledirge acalma as almas de todos que o ouvem. Ele queima seus inimigos com chamas de mais de 5.400 graus Fahrenheit.",
-        "zh-tw": "骨紋巨聲鱷溫柔的歌聲撫慰著所有聽到它的人的靈魂。它會用超過 5,400 華氏度的火焰將敵人燒成碎片。"
+        "zh-tw": "骨紋巨聲鱷溫柔的歌聲撫慰著所有聽到它的人的靈魂。它會用超過 5,400 華氏度的火焰將敵人燒成碎片。",
+        ja: "優しい 歌声は 聴いた者の 魂を 癒す。 ３０００度の 炎で 敵を 焼き尽くす。"
     },
     stage: "Stage2",
     abilities: [
@@ -57,7 +61,8 @@ const card: Card = {
                 "it": "Voce Appassionata",
                 "de": "Leidenschaftliche Stimme",
                 "pt-br": "Voz Apaixonada",
-                "zh-tw": "熱情的聲音"
+                "zh-tw": "熱情的聲音",
+                ja: "パッションボイス"
             },
             effect: {
                 en: "Once during your turn, you may discard 1 Fire Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your Fire Pokémon do +50 damage to your opponent's Active Pokémon.",
@@ -66,7 +71,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi scartare 1 Energia Fire da questo Pokémon per usare questa abilità. Durante questo turno, gli attacchi usati dai tuoi Pokémon Fire infliggono +50 danni al Pokémon attivo del tuo avversario.",
                 "de": "Einmal während deines Zuges kannst du 1 Feuer-Energie von diesem Pokémon abwerfen, um diese Fähigkeit zu nutzen. Während dieser Runde fügen Angriffe deines Feuer-Pokémon dem Aktiven Pokémon deines Gegners +50 Schadenspunkte zu.",
                 "pt-br": "Uma vez durante o seu turno, você pode descartar 1 Energia Fire deste Pokémon para usar esta Habilidade. Durante este turno, os ataques usados pelos seus Pokémon de Fogo causam +50 de dano aos Pokémon Ativos do seu oponente.",
-                "zh-tw": "在你的回合中，你可以丟棄該寶可夢的 1 個火焰能量來使用此能力。這個回合中，自己的火屬性寶可夢的攻擊對對手的戰鬥寶可夢造成+50點傷害。"
+                "zh-tw": "在你的回合中，你可以丟棄該寶可夢的 1 個火焰能量來使用此能力。這個回合中，自己的火屬性寶可夢的攻擊對對手的戰鬥寶可夢造成+50點傷害。",
+                ja: "自分の番に、このポケモンから{R}エネルギーを1個トラッシュするなら、1回使える。この番、自分の{R}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+50する。"
             },
         },
     ],
@@ -80,6 +86,7 @@ const card: Card = {
                 de: "Brandstempel",
                 "pt-br": "Queda de calor",
                 "zh-tw": "熱崩潰",
+                ja: "ヒートスタンプ",
                 pt: "Choque de Calor",
                 'es-mx': "Golpe de Calor"
             },

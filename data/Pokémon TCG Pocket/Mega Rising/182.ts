@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/182",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/182",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/182"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/182",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/182"
     },
     name: {
         en: "Pidgeot",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tauboss",
         "pt-br": "Pidgeot",
         "zh-tw": "大比鳥",
+        ja: "ピジョット",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     description: {
         en: "It spreads its gorgeous wings widely to intimidate\nenemies. It races through the skies at\nMach-2 speed.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Allarga ampiamente le sue splendide ali per intimidire\nnemici. Corre attraverso i cieli a\nVelocità Mach-2.",
         "de": "Es breitet seine prächtigen Flügel weit aus, um einzuschüchtern\nFeinde. Es rast durch die Lüfte\nMach-2-Geschwindigkeit.",
         "pt-br": "Ele abre amplamente suas lindas asas para intimidar\ninimigos. Ele corre pelos céus em\nVelocidade Mach-2.",
-        "zh-tw": "它張開華麗的翅膀來恐嚇\n敵人。它在天空中奔跑\n2 馬赫速度。"
+        "zh-tw": "它張開華麗的翅膀來恐嚇\n敵人。它在天空中奔跑\n2 馬赫速度。",
+        ja: "美しい 羽を 広げて 相手を 威嚇する。 マッハ２で 空を 飛び回る。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Torsione",
                 "de": "Twister",
                 "pt-br": "Torcido",
-                "zh-tw": "龍捲風"
+                "zh-tw": "龍捲風",
+                ja: "たつまき"
             },
             damage: 80,
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Per ogni testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario. Se entrambi escono croce, questo attacco non ha alcun effetto.",
                 "de": "Wirf 2 Münzen. Lege für jeden Kopf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab. Wenn beide Schwänze sind, hat dieser Angriff keine Wirkung.",
                 "pt-br": "Jogue 2 moedas. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente. Se ambos derem coroa, este ataque não fará nada.",
-                "zh-tw": "翻轉 2 個硬幣。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。如果兩者都是反面，則此攻擊不起作用。"
+                "zh-tw": "翻轉 2 個硬幣。對於每個頭，丟棄對手的活躍神奇寶貝中的隨機能量。如果兩者都是反面，則此攻擊不起作用。",
+                ja: "コインを2回投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。すべてウラなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

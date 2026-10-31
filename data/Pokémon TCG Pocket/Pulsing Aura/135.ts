@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/135",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/135",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/135",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/135"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/135",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/135"
     },
     name: {
         en: "Patrat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Sono molto guardinghi e almeno uno del branco è sempre\ndi guardia. Non vedono però il nemico se li attacca da dietro.",
         de: "Eines dieser vorsichtigen Pokémon steht immer vor ihrem Bau\nWache. Nähert sich jedoch ein Feind von hinten, ist es aus.",
         "pt-br": "Extremamente cauteloso, um deles estará sempre atento, mas não notará nenhum inimigo vindo por trás.",
-        "zh-tw": "它們極其謹慎，其中一隻總是在警惕，但不會注意到背後有敵人。"
+        "zh-tw": "它們極其謹慎，其中一隻總是在警惕，但不會注意到背後有敵人。",
+        ja: "警戒心が 強く かならず １匹は 見張りを しているのだが 後ろからの 敵には 気づかない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 "pt-br": "Investida",
-                "zh-tw": "撞擊"
+                "zh-tw": "撞擊",
+                ja: "たいあたり"
             },
             damage: 20
         }

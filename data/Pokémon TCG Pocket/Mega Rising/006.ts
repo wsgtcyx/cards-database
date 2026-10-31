@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/006"
     },
     name: {
         en: "Cascoon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Panekon",
         "pt-br": "Cascoon",
         "zh-tw": "盾甲繭",
+        ja: "マユルド",
     },
     illustrator: "GOSSAN",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waumpel",
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
+        ja: "ケムッソ",
     },
     description: {
         en: "It never forgets any attack it endured while in the\ncocoon. After evolution, it seeks payback.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Non dimentica mai nessun attacco subito mentre si trovava nel\nbozzolo. Dopo l'evoluzione, cerca la vendetta.",
         "de": "Es vergisst nie einen Angriff, den es während seiner Zeit erlitten hat\nKokon. Nach der Evolution strebt es nach Rache.",
         "pt-br": "Ele nunca esquece nenhum ataque que sofreu enquanto estava no\ncasulo. Após a evolução, busca vingança.",
-        "zh-tw": "它永遠不會忘記在戰場上所遭受的任何攻擊\n繭。進化後，它尋求回報。"
+        "zh-tw": "它永遠不會忘記在戰場上所遭受的任何攻擊\n繭。進化後，它尋求回報。",
+        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Indurire",
                 "de": "Härten",
                 "pt-br": "Endurecer",
-                "zh-tw": "硬化"
+                "zh-tw": "硬化",
+                ja: "かたくなる"
             },
             cost: ["Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi se quel danno è pari o inferiore a 40.",
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wenn dieser Schaden 40 oder weniger beträgt.",
                 "pt-br": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques se o dano for igual ou inferior a 40.",
-                "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。"
+                "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。",
+                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。"
             }
         }],
     weaknesses: [{

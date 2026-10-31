@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/170",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/170"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/170"
     },
     name: {
         en: "Sandshrew",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "穿山鼠"
+        "zh-tw": "穿山鼠",
+        ja: "サンド"
     },
     illustrator: "Uninori",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non importa da quanto in alto cada, questo\nI Pokémon possono salvarsi rotolando in una palla\ne rimbalzare.",
         "de": "Egal wie hoch es fällt, das hier\nPokémon können sich retten, indem sie sich zu einer Kugel zusammenrollen\nund hüpfen.",
         "pt-br": "Não importa quão alto seja o lugar de onde caia, este\nPokémon pode se salvar rolando em uma bola\ne saltando.",
-        "zh-tw": "不管從多高的地方掉下來\n神奇寶貝可以通過滾成球來拯救自己\n和彈跳。"
+        "zh-tw": "不管從多高的地方掉下來\n神奇寶貝可以通過滾成球來拯救自己\n和彈跳。",
+        ja: "どんなに 高い ところから 落ちても 体を 丸めれば バウンドできて 助かるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Doppio graffio",
                 "de": "Doppelter Kratzer",
                 "pt-br": "Raspadinha Dupla",
-                "zh-tw": "雙划痕"
+                "zh-tw": "雙划痕",
+                ja: "ダブルひっかき"
             },
             damage: "20×",
             cost: ["Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "コインを2回投げ、オモテの数×20ダメージ。"
             }
         }],
     weaknesses: [{

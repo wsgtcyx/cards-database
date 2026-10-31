@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Parade Onirique",
 		it: "Parata Fantasmagorica",
 		'pt-br': "Desfile Onírico",
+		ja: "夢幻パレード",
 		ko: '몽환 퍼레이드',
 		'zh-tw': '奇幻遊行'
 	},
@@ -30,6 +31,7 @@ const set: Set = {
 				es: 'Booster',
 				it: 'Booster',
 				'pt-br': 'Booster',
+				ja: "夢幻パレード",
 				ko: 'Booster',
 				'zh-tw': 'Booster'
 			}

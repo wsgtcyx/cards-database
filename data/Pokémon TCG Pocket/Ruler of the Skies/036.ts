@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/036",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/036",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/036"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/036"
     },
     name: {
         en: "Wailmer",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "Se inghiotte molta acqua diventa una specie\ndi palla rimbalzante. Ha bisogno di una\ntonnellata di cibo al giorno.",
         de: "Verschluckt es eine große Menge Meerwasser,\nwird sein Körper elastisch wie ein Ball. Es frisst\ntäglich eine Tonne Nahrung.",
         "zh-tw": "喝入大量的海水之後，\n身體會鼓成像球一樣。\n每天要吃掉１噸的食物。",
-        "pt-br": "Quando suga um grande volume de água do mar, transforma-se em uma bola grande e saltitance. Come uma tonelada de comida diariamente."
+        "pt-br": "Quando suga um grande volume de água do mar, transforma-se em uma bola grande e saltitance. Come uma tonelada de comida diariamente.",
+        ja: "海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 １トンの エサを 食べる。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Schizzi d'Onda",
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
-                "zh-tw": "飛濺"
+                "zh-tw": "飛濺",
+                ja: "スプラッシュ"
             },
             damage: 60
         }

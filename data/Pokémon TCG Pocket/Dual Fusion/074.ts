@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/074",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/074",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/074"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/074"
     },
     name: {
         en: "Paldean Clodsire",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Paldea-Felino",
         "pt-br": "Wooper de Paldea",
         "zh-tw": "帕底亞烏波",
-        ja: "Paldean Wooper",
+        ja: "パルデアウパー",
         ko: "Paldean Wooper"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Erdbeben",
                 "pt-br": "Terremoto",
                 "zh-tw": "地震",
-                ja: "Earthquake",
+                ja: "じしん",
                 ko: "Earthquake"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco.",
                 "zh-tw": "自己的所有備戰寶可夢也受到20點傷害。",
-                ja: "This attack also does 20 damage to each of your Benched Pokémon.",
+                ja: "自分のベンチポケモン全員にも20ダメージ。",
                 ko: "This attack also does 20 damage to each of your Benched Pokémon."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Wird Suelord angegriffen, wehrt es sich, indem es dicke Stacheln ausfährt. Setzt es diese riskante Attacke ein, ist es bereit, aufs Ganze zu gehen.",
         "pt-br": "Quando atacado, este Pokémon revidará esticando espinhos grossos para fora de seu corpo. É um movimento audacioso que coloca tudo em risco.",
         "zh-tw": "一旦遭到敵人襲擊，就會從肋鰭伸出粗壯的刺來反擊。是帶有雙面刃風險的危險招式。",
-        ja: "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+        ja: "敵に 襲われると 太い 棘を 胴体から 突き出して 反撃。 身を切る 覚悟の 危険な 技。",
         ko: "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line."
     }
 };

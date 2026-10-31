@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/097",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/097",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/097",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/097"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/097",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/097"
     },
     name: {
         en: "Goldeen",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le pinne dorsali e pettorali sono sviluppate come potenti muscoli. Può raggiungere la velocità di 5 nodi.",
         de: "Seine Rücken- und Brustflossen sind muskelähnlich entwickelt. Es erreicht beim Schwimmen eine Geschwindigkeit von bis zu fünf Knoten.",
         "pt-br": "Suas barbatanas dorsais e peitorais são tão desenvolvidas quanto músculos e Goldeen consegue nadar a velocidades de cinco nós.",
-        "zh-tw": "背鰭和尾鰭像肌肉那樣發達。能夠以５節的速度在水中游泳。"
+        "zh-tw": "背鰭和尾鰭像肌肉那樣發達。能夠以５節的速度在水中游泳。",
+        ja: "背びれ 胸びれが 筋肉のように 発達しており 水中を ５ノットの 速さで 泳ぐ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Incornata",
                 de: "Hornattacke",
                 "pt-br": "Ataque de Chifre",
-                "zh-tw": "角撞"
+                "zh-tw": "角撞",
+                ja: "つのでつく"
             },
             damage: 30
         }

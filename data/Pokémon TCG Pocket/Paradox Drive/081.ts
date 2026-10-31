@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/081",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/081",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/081"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/081"
     },
     name: {
         en: "Iron Bundle ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Inizio a freddo",
                 de: "Kaltstart",
                 "pt-br": "Partida a frio",
-                "zh-tw": "冷啟動"
+                "zh-tw": "冷啟動",
+                ja: "コールドスタート"
             },
             effect: {
                 en: "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Se è la prima volta che questo Pokémon usa un attacco dopo essere entrato in gioco, questo attacco infligge 20 danni in più e il Pokémon attivo del tuo avversario viene paralizzato.",
                 de: "Wenn dies das erste Mal ist, dass dieses Pokémon einen Angriff ausführt, nachdem es ins Spiel gekommen ist, fügt dieser Angriff 20 weitere Schadenspunkte zu und das Aktive Pokémon deines Gegners ist jetzt gelähmt.",
                 "pt-br": "Se esta for a primeira vez que este Pokémon usa um ataque depois de entrar em jogo, este ataque causará mais 20 danos e o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "如果這是該寶可夢在進場後第一次使用攻擊，則該攻擊造成的傷害增加 20 點，並且對手的活躍寶可夢現在陷入麻痺狀態。"
+                "zh-tw": "如果這是該寶可夢在進場後第一次使用攻擊，則該攻擊造成的傷害增加 20 點，並且對手的活躍寶可夢現在陷入麻痺狀態。",
+                ja: "このポケモンが場に出てから、はじめてワザを使ったなら、20ダメージ追加し、相手のバトルポケモンをマヒにする。"
             },
             damage: "60+"
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/100",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/100",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/100"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/100"
     },
     name: {
         en: "Snorlax",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I succhi digestivi del suo stomaco possono dissolvere qualsiasi tipo di veleno. Mangiare cose da terra non dà alcun fastidio.",
         de: "Die Verdauungssäfte seines Magens können jede Art von Gift auflösen. Es stört ihn überhaupt nicht, Dinge vom Boden zu fressen.",
         "pt-br": "Os sucos digestivos do estômago podem dissolver qualquer tipo de veneno. Comer coisas do chão não incomoda em nada.",
-        "zh-tw": "它胃裡的消化液可以溶解任何毒物。吃地上的東西根本不會打擾它。"
+        "zh-tw": "它胃裡的消化液可以溶解任何毒物。吃地上的東西根本不會打擾它。",
+        ja: "胃袋の 消化液は どんな 毒も 消化できる。 落ちているものを 食べても 平気。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Corpo massiccio",
                 de: "Massiver Körper",
                 "pt-br": "Corpo Enorme",
-                "zh-tw": "爆大身軀"
+                "zh-tw": "爆大身軀",
+                ja: "どでかいからだ"
             },
             effect: {
                 en: "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Fintanto che questo Pokémon è in posizione attiva, il tuo avversario non può giocare nessuna carta Stadio dalla sua mano.",
                 de: "Solange sich dieses Pokémon an der aktiven Stelle befindet, kann dein Gegner keine Stadionkarten aus seiner Hand spielen.",
                 "pt-br": "Enquanto este Pokémon estiver no Active Spot, seu oponente não poderá jogar nenhuma carta de Estádio da mão dele.",
-                "zh-tw": "只要這隻寶可夢在活動位置，對手就不能從手牌中打出任何體育場卡。"
+                "zh-tw": "只要這隻寶可夢在活動位置，對手就不能從手牌中打出任何體育場卡。",
+                ja: "このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 "pt-br": "Megassoco",
-                "zh-tw": "百萬噸重拳"
+                "zh-tw": "百萬噸重拳",
+                ja: "メガトンパンチ"
             },
             damage: 70
         }

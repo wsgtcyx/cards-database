@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/310",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/310",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/310",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/310"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/310",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/310"
     },
     name: {
         en: "Rockruff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
+        ja: "イワンコ",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è molto amichevole quando è giovane.\nLa sua indole diventa viziosa una volta maturata,\nma non dimentica mai la gentilezza del suo padrone.",
         "de": "Dieses Pokémon ist sehr freundlich, wenn es jung ist.\nSeine Veranlagung wird bösartig, sobald es erwachsen wird,\naber es vergisst nie die Freundlichkeit seines Meisters.",
         "pt-br": "Este Pokémon é muito amigável quando jovem.\nSua disposição se torna viciosa quando amadurece,\nmas nunca esquece a bondade do seu mestre.",
-        "zh-tw": "這只神奇寶貝年輕時非常友好。\n成熟後性情就變得惡毒，\n但它永遠不會忘記主人的恩德。"
+        "zh-tw": "這只神奇寶貝年輕時非常友好。\n成熟後性情就變得惡毒，\n但它永遠不會忘記主人的恩德。",
+        ja: "小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Segni di evoluzione",
                 "de": "Zeichen der Evolution",
                 "pt-br": "Sinais de Evolução",
-                "zh-tw": "進化的跡象"
+                "zh-tw": "進化的跡象",
+                ja: "しんかのきざし"
             },
             cost: ["Fighting"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti nella tua mano una carta casuale che si evolve da Rockruff dal tuo mazzo.",
                 "de": "Nimm eine zufällige Karte, die sich aus Rockruff entwickelt, aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque em sua mão uma carta aleatória que evolui de Rockruff do seu deck.",
-                "zh-tw": "從你的牌組中隨機放置一張由洛克拉夫進化而來的卡牌置入你的手牌。"
+                "zh-tw": "從你的牌組中隨機放置一張由洛克拉夫進化而來的卡牌置入你的手牌。",
+                ja: "「イワンコ」から進化するカードを、自分の山札からランダムに1枚、手札に加える。"
             }
         }],
     weaknesses: [{

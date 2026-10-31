@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/157",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/157",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/157"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/157",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/157"
     },
     name: {
         en: "Grovyle",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Grovyle salta di ramo in ramo sui grandi alberi, muovendosi con facilità. Si spinge con una velocità e una forza sorprendenti.",
         de: "Reptain springt in großen Bäumen von Ast zu Ast und bewegt sich dabei mühelos. Es treibt sich mit erstaunlicher Geschwindigkeit und Kraft voran.",
         "pt-br": "Grovyle salta de galho em galho em árvores grandes, movendo-se com facilidade. Ele se impulsiona com velocidade e força surpreendentes.",
-        "zh-tw": "森林蜥蜴 在大樹中從一個樹枝跳躍到另一個樹枝，移動自如。它以驚人的速度和力量推動自己。"
+        "zh-tw": "森林蜥蜴 在大樹中從一個樹枝跳躍到另一個樹枝，移動自如。它以驚人的速度和力量推動自己。",
+        ja: "大木の 枝から枝へ 身軽に 飛び移り 移動する。 驚異的な 瞬発力。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fendente Mirato",
                 de: "Hinterhältige Klinge",
                 "pt-br": "Disparo Afiado",
-                "zh-tw": "狙擊刀鋒"
+                "zh-tw": "狙擊刀鋒",
+                ja: "スナイプエッジ"
             },
             effect: {
                 en: "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 50 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 50 點傷害。",
+                ja: "相手のベンチポケモン1匹に50ダメージ。"
             }
         }
     ],

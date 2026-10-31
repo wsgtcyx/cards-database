@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/017"
     },
     name: {
         en: "Whiscash",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Whiscash",
         de: "Welsar",
         'pt-br': "Whiscash",
+        ja: "ナマズン",
         ko: "메깅",
         "zh-tw": "鯰魚王",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Schmerbe",
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
+        ja: "ドジョッチ",
     },
     description: {
         en: "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È molto protettivo del suo territorio e, se\nun nemico si avvicina, reagisce facendo\ntremare violentemente la terra.",
         de: "Es hat ein ausgeprägtes Revierverhalten.\nNähert sich ein Feind, greift es diesen an,\nindem es die Erde heftig beben lässt.",
         'pt-br': "Protege seu território com muito afinco. Se algum\ninimigo se aproxima, ataca-o usando tremores perversos.",
+        ja: "縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。",
         ko: "영역 의식이 매우 강하여\n외부의 적이 다가오면 격렬하게\n지면을 울리며 덤벼든다.",
         "zh-tw": "它非常保護自己的領土。如果有任何敵人接近，它會使用惡毒的震動進行攻擊。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Colpo",
                 de: "Fuchtler",
                 'pt-br': "Castigar",
+                ja: "あばれる",
                 ko: "난동부리기",
                 "zh-tw": "鞭打"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più. Se esce croce, questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu. Bei Zahl fügt dieses Pokémon auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais. Se sair coroa, este Pokémon também causará 20 pontos de dano a si mesmo.",
+                ja: "コインを1回投げオモテなら、60ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다. 뒷면이 나오면 이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 60 點額外傷害。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。"
             }

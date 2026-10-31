@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/314",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/314",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/314",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/314"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/314",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/314"
     },
     name: {
         en: "Doduo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Dodu",
         "pt-br": "Doduo",
         "zh-tw": "嘟嘟",
+        ja: "ドードー",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un Pokémon a due teste scoperto come a\nmutazione improvvisa. Funziona ad un ritmo di oltre 60 miglia\nall'ora.",
         "de": "Ein zweiköpfiges Pokémon, das als entdeckt wurde\nplötzliche Mutation. Es läuft mit einer Geschwindigkeit von über 60 Meilen\npro Stunde.",
         "pt-br": "Um Pokémon de duas cabeças que foi descoberto como um\nmutação repentina. Ele corre a um ritmo de mais de 60 milhas\npor hora.",
-        "zh-tw": "被發現為雙頭的神奇寶貝\n突然突變。它的運行速度超過 60 英里\n每小時。"
+        "zh-tw": "被發現為雙頭的神奇寶貝\n突然突變。它的運行速度超過 60 英里\n每小時。",
+        ja: "突然変異で 見つかった ２つの 頭を 持つ ポケモン。 時速１００キロで 走る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Colorless"]

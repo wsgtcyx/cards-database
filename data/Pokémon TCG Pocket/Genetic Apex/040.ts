@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/040"
     },
     name: {
         en: "Arcanine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Arcanine",
         de: "Arkani",
         'pt-br': "Arcanine",
+        ja: "ウインディ",
         ko: "윈디",
         "zh-tw": "風速狗",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Growlithe",
         "de": "Fukano",
         "pt-br": "Growlithe",
-        "zh-tw": "卡蒂狗"
+        "zh-tw": "卡蒂狗",
+        ja: "ガーディ"
     },
     attacks: [{
             cost: ["Fire", "Fire", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Calorazione",
                 de: "Hitze-Tackle",
                 'pt-br': "Golpe de Colisão Aquecido",
+                ja: "ヒートタックル",
                 ko: "히트태클",
                 "zh-tw": "熱力鏟球"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
                 'pt-br': "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+                ja: "このポケモンにも20ダメージ。",
                 ko: "이 포켓몬에게도 20데미지를 준다.",
                 "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Dal disegno su un'antica pergamena si vede come\nle sue corse sui prati incantassero le persone.",
         de: "Eine alte Bildrolle zeigt, dass die Menschen\nvon dem Anblick über Wiesen rennender\nArkani verzaubert waren.",
         'pt-br': "Um antigo pergaminho mostra que pessoas eram\ncativadas por seu movimento enquanto este\nPokémon corria pelas pradarias.",
+        ja: "草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。",
         ko: "초원을 내달리는 모습은\n사람들의 마음을 사로잡았다고\n옛날 그림에 묘사되어 있다.",
         "zh-tw": "一幅古老的畫卷顯示，人們被它奔跑穿過草原的動作所吸引。"
     },

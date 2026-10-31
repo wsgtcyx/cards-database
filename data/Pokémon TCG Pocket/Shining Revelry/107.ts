@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/107",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/107"
     },
     name: {
         en: "Beedrill ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Beedrill-ex",
         de: "Bibor-ex",
         'pt-br': "Beedrill ex",
+        ja: "スピアーex",
         ko: "독침붕 ex",
         "zh-tw": "大針蜂ex"
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Kakuna",
         "de": "Kokuna",
         "pt-br": "Kakuna",
-        "zh-tw": "鐵殼蛹"
+        "zh-tw": "鐵殼蛹",
+        ja: "コクーン"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
             it: "Lancia Devastante",
             de: "Vernichtender Speer",
             'pt-br': "Lança Aniquiladora",
+            ja: "クラッシュスピア",
             ko: "크래시스피어",
             "zh-tw": "粉碎矛"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
             de: "Lege 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
             'pt-br': "Descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+            ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
             ko: "상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
             "zh-tw": "丟棄對手的活躍神奇寶貝中的隨機能量。"
         }

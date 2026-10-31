@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/009",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/009",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/009",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/009"
     },
     name: {
         en: "Quilladin",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Quilladin",
         "de": "Igastarnish",
         "pt-br": "Quilladin",
-        "zh-tw": "胖胖哈力"
+        "zh-tw": "胖胖哈力",
+        ja: "ハリボーグ"
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Chespin",
         "de": "Igamaro",
         "pt-br": "Chespin",
-        "zh-tw": "哈力栗"
+        "zh-tw": "哈力栗",
+        ja: "ハリマロン"
     },
     description: {
         en: "It can send a trailer flying with a tackle. It's numb\nto pain, so even violent collisions don't faze it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Può far volare un rimorchio con un paranco. È insensibile\nal dolore, quindi anche le collisioni violente non lo disturbano.",
         "de": "Es kann einen Anhänger mit einem Tackle in die Luft fliegen lassen. Es ist taub\nzu Schmerzen, so dass ihm selbst heftige Kollisionen nichts ausmachen.",
         "pt-br": "Ele pode fazer um trailer voar com um equipamento. Está entorpecido\nà dor, então mesmo colisões violentas não o perturbam.",
-        "zh-tw": "它可以用滑車讓拖車飛起來。已經麻木了\n疼痛，所以即使劇烈的碰撞也不會驚擾它。"
+        "zh-tw": "它可以用滑車讓拖車飛起來。已經麻木了\n疼痛，所以即使劇烈的碰撞也不會驚擾它。",
+        ja: "体当たり いっぱつで トレーラーを ふっとばす。 激しく ぶつかっても 痛みに 鈍感なので 平気。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Braccio dell'ago",
                 "de": "Nadelarm",
                 "pt-br": "Braço de agulha",
-                "zh-tw": "針臂"
+                "zh-tw": "針臂",
+                ja: "ニードルアーム"
             },
             damage: 60,
             cost: ["Grass", "Grass", "Colorless"]

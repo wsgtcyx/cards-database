@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/024"
     },
     name: {
         en: "Magmortar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magmortar",
         de: "Magbrant",
         'pt-br': "Magmortar",
+        ja: "ブーバーン",
         ko: "마그마번",
         "zh-tw": "鴨嘴炎獸",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Magmar",
         "pt-br": "Magmar",
         "zh-tw": "鴨嘴火獸",
+        ja: "ブーバー",
     },
     description: {
         en: "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando respira profondamente, le fiamme all'interno del\nsuo ventre aumentano d'intensità, raggiungendo i 2.000 ºC.",
         de: "Holt es tief Luft, werden die Flammen in seinem Bauch\nstärker und erreichen eine Temperatur von 2000 ºC.",
         'pt-br': "Quando Magmortar respira fundo, o fogo na sua barriga\nse intensifica, chegando a atingir temperaturas superiores\na 2.000 ºC.",
+        ja: "大きく 息を 吸いこむと 腹の 中の 炎が 勢いを 増して 摂氏２０００度に 達する。",
         ko: "크게 숨을 들이쉬면 배 안의\n불꽃이 더욱 거세어져서\n섭씨 2000도에 달하게 된다.",
         "zh-tw": "當瑪格莫塔深吸一口氣時，其腹部燃燒的火焰會加劇，溫度升至 3,600 華氏度以上。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Inferno in Fiamme",
                 de: "Flammendes Inferno",
                 'pt-br': "Inferno em Chamas",
+                ja: "バーストインフェルノ",
                 ko: "버스트 인페르노",
                 "zh-tw": "爆裂地獄"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Il Pokémon attivo del tuo avversario viene bruciato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "상대의 배틀 포켓몬을 화상으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "你對手的活躍神奇寶貝現在被燒毀了。"

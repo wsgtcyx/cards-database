@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/236",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/236",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/236",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/236"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/236",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/236"
     },
     name: {
         en: "Alakazam",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Alakazam",
         de: "Simsala",
         'pt-br': "Alakazam",
+        ja: "フーディン",
         ko: "후딘",
         "zh-tw": "胡地",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Kadabra",
         "de": "Kadabra",
         "pt-br": "Kadabra",
-        "zh-tw": "勇基拉"
+        "zh-tw": "勇基拉",
+        ja: "ユンゲラー"
     },
     attacks: [{
             cost: ["Psychic", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스",
                 "zh-tw": "精神"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 30데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 30 點額外傷害。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Possiede un intelletto estremamente elevato\ne si dice sia in grado di ricordare ogni evento\ndella sua vita, dalla nascita alla morte.",
         de: "Es verfügt über extrem hohe Intelligenz und soll\nsich an alles erinnern können, was zwischen seiner\nGeburt und seinem Tod passiert.",
         'pt-br': "Tem um nível de inteligência incrivelmente alto.\nAlguns dizem que Alakazam se lembra de tudo\nque acontece na sua vida, do nascimento até a morte.",
+        ja: "非常に 高い 知能を 持つ。 生まれてから 死ぬまでの できごとを すべて 覚えている という。",
         ko: "매우 높은 지능을 지녔다.\n태어나서 죽을 때까지 일어나는 일을\n모두 기억한다고 한다.",
         "zh-tw": "它具有令人難以置信的高水平智力。有人說阿拉卡扎姆記得發生在它身上的一切，從出生到死亡。"
     },

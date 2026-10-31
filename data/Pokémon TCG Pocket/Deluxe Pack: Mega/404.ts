@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/404",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/404",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/404",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/404"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/404",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/404"
     },
     name: {
         en: "Baxcalibur",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Cryospino",
         "pt-br": "Arctibax",
         "zh-tw": "凍脊龍",
-        ja: "Arctibax",
+        ja: "セゴール",
         ko: "Arctibax"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Es stürzt sich kopfüber in den Kampf, indem es eisigen Atem aus dem Maul stößt. Mit seiner Rückenflossenklinge erledigt es Feinde.",
         "pt-br": "Parte para a batalha saltando de cabeça para baixo e exalando ar frio pela boca. Acaba com seus oponentes com sua lâmina dorsal.",
         "zh-tw": "會倒轉身體並從口中吐出冷氣，然後利用其推力朝敵人猛衝，以背鰭的劍給予致命一擊。",
-        ja: "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.",
+        ja: "逆さまになり 口から 冷気を 吹きだす 力で 突進。 背びれの剣で 敵を 仕留める。",
         ko: "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
     },
     stage: "Stage2",
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Eismacher",
                 "pt-br": "Criador Criogênico",
                 "zh-tw": "製冰者",
-                ja: "Ice Maker",
+                ja: "アイスメーカー",
                 ko: "Ice Maker"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 1 {W}-Energie aus deinem Energiebereich an dein Aktives {W}-Pokémon anlegen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la ao Pokémon {W} no Campo Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。從自己的能量區抽出1個{W}能量,附於戰鬥場的{W}寶可夢身上。",
-                ja: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to the {W} Pokémon in the Active Spot.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{W}エネルギーを1個出し、バトル場の{W}ポケモンにつける。",
                 ko: "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to the {W} Pokémon in the Active Spot."
             }
         }
@@ -94,7 +95,7 @@ const card: Card = {
                 "pt-br": "Cauda Aniquiladora",
                 "zh-tw": "光炮尾",
                 pt: "Cauda Aniquiladora",
-                ja: "Buster Tail",
+                ja: "バスターテール",
                 ko: "Buster Tail"
             },
             damage: 90,

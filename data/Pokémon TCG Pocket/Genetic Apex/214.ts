@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/214",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/214",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/214",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/214"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/214",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/214"
     },
     name: {
         en: "Wooloo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Wooloo",
         de: "Wolly",
         'pt-br': "Wooloo",
+        ja: "ウールー",
         ko: "우르",
         "zh-tw": "毛辮羊",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Il suo vello riccioluto gli fornisce una\nperfetta imbottitura. Non si farebbe nulla\nnemmeno cadendo da un precipizio.",
         de: "Sein stark gelocktes Fell hat eine sehr polsternde\nWirkung. Selbst eine Klippe hinunterzufallen\nmacht ihm nichts aus.",
         'pt-br': "Sua lã cacheada é um amortecedor tão eficaz\nque este Pokémon pode desabar de um precipício\ne se levantar em seguida, completamente ileso.",
+        ja: "パーマの かかった 体毛は 高い クッション性が ある。 崖から 落ちても へっちゃら。",
         ko: "곱슬곱슬한 털은\n훌륭한 쿠션 역할을 한다.\n절벽에서 떨어져도 아무렇지도 않다.",
         "zh-tw": "它的捲曲羊毛是一種非常有效的緩衝墊，即使這只神奇寶貝從懸崖上掉下來，也能毫髮無傷地重新站到底部。"
     },

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "operation": "apply-reviewed-pocket-localizations",
+  "mode": "write",
+  "baseRef": "480ae98de02f64219e80b44bb0ede0ea1e04a128",
+  "decisionArtifactFile": "meta/pocket-source-reviews/ja/series-name.decisions.json",
+  "decisionArtifactSha256": "8c43212a369dee0ff7527e042e3db3c9f187eaddb0ff7436b6425f10a0a28abc",
+  "predecessors": [],
+  "sources": [
+    {
+      "id": "official",
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-series-name.json",
+      "sha256": "d1e6785e05593da1ace1a592d53ac9b389ea2a9934c72d18c0c2eca2c0b596c5"
+    }
+  ],
+  "summary": {
+    "decisions": 1,
+    "files": 1,
+    "changedDecisions": 1,
+    "alreadyAppliedDecisions": 0,
+    "changedFiles": 1,
+    "fills": 0,
+    "corrections": 1,
+    "tokenExceptions": 0
+  },
+  "results": [
+    {
+      "entityKind": "series",
+      "entityId": "tcgp",
+      "file": "data/Pokémon TCG Pocket.ts",
+      "path": "name",
+      "locale": "ja",
+      "mode": "correction",
+      "status": "changed"
+    }
+  ]
+}

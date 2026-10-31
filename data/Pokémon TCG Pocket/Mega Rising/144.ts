@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/144",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/144",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/144",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/144",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/144"
     },
     name: {
         en: "Palossand",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Colossand",
         "pt-br": "Palossand",
         "zh-tw": "噬沙堡爺",
+        ja: "シロデスナ",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
+        ja: "スナバァ",
     },
     description: {
         en: "From the hollows in its arms, it fires the bones\nof its victims, which are all dried up after being\ndrained of their vitality.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Dalle cavità delle sue braccia, incendia le ossa\ndelle sue vittime, che dopo essere state tutte seccate\nprosciugati della loro vitalità.",
         "de": "Aus den Hohlräumen seiner Arme feuert es die Knochen ab\nseiner Opfer, die nach dem Sein alle ausgetrocknet sind\nihrer Lebenskraft beraubt.",
         "pt-br": "Das cavidades em seus braços, ele dispara os ossos\nde suas vítimas, que ficam todas secas depois de serem\ndrenados de sua vitalidade.",
-        "zh-tw": "從手臂的空洞中，它發射骨頭\n它的受害者，在被吹乾後都乾了\n耗盡了他們的活力。"
+        "zh-tw": "從手臂的空洞中，它發射骨頭\n它的受害者，在被吹乾後都乾了\n耗盡了他們的活力。",
+        ja: "生命エネルギーを 吸い取り 干からびた ものたちの 骨を 腕の へこみから 発射する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Succhiatore di vita",
                 "de": "Lebenssauger",
                 "pt-br": "Sugador de vida",
-                "zh-tw": "生命吸盤"
+                "zh-tw": "生命吸盤",
+                ja: "ライフサッカー"
             },
             damage: 70,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 20 danni.",
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
+                ja: "このポケモンのHPを20回復。"
             }
         }],
     weaknesses: [{

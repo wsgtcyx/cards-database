@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/037"
     },
     name: {
         en: "Floette",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Floette",
         de: "Floette",
         'pt-br': "Floette",
+        ja: "フラエッテ",
         ko: "플라엣테",
         "zh-tw": "花葉蒂",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flabébé",
         "pt-br": "Flabébé",
         "zh-tw": "花蓓蓓",
+        ja: "フラベベ",
     },
     description: {
         en: "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Riesce a tirare fuori l'energia rimasta\nnei fiori ormai secchi, rivitalizzandoli.\nQuesto Floette stringe un fiore rosso.",
         de: "Es entlockt verwelkten Blumen ihre letzte Kraft\nund nutzt diese, um sie wieder aufzupäppeln.\nDieses Exemplar trägt eine rote Blume.",
         'pt-br': "Este Pokémon revitaliza o resquício de força\nem flores murchas para torná-las saudáveis de novo.\nEle segura uma flor vermelha.",
+        ja: "枯れた 花に 残った 力を 引き出して 元気にしてあげる。 赤い花を 抱えた フラエッテ。",
         ko: "시든 꽃의 남은 힘을\n끌어내어 건강해지게 한다.\n빨간 꽃을 들고 있는 플라엣테.",
         "zh-tw": "這只神奇寶貝會汲取枯萎花朵中剩餘的力量，使它們恢復健康。它拿著一朵紅色的花。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Assorbifoglia",
                 de: "Blattsauger",
                 'pt-br': "Dreno Folha",
+                ja: "リーフドレイン",
                 ko: "리프드레인",
                 "zh-tw": "葉漏"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 10 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを10回復。",
                 ko: "이 포켓몬의 HP를 10회복.",
                 "zh-tw": "治療該神奇寶貝造成的 10 點傷害。"
             }

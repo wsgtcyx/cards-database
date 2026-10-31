@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/077"
     },
     name: {
         en: "Azurill",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Azurill",
         "pt-br": "Azurill",
         "zh-tw": "露力麗",
+        ja: "ルリリ",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua coda rimbalza come una palla di gomma. Lancia quella coda\nin giro per combattere avversari più grandi di lui.",
         "de": "Sein Schwanz hüpft wie ein Gummiball. Es wirft diesen Schwanz\nherum, um gegen Gegner zu kämpfen, die größer sind als er selbst.",
         "pt-br": "Sua cauda salta como uma bola de borracha. Ele arremessa aquela cauda\nao redor para lutar contra adversários maiores que ele.",
-        "zh-tw": "它的尾巴像橡皮球一樣彈跳。它甩動那條尾巴\n四處對抗比自己強大的對手。"
+        "zh-tw": "它的尾巴像橡皮球一樣彈跳。它甩動那條尾巴\n四處對抗比自己強大的對手。",
+        ja: "ゴムボールのように よく 弾む。 尻尾を 振りまわし 自分よりも 大きな 相手に 立ち向かう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Guarigione molle",
                 "de": "Squishy-Heilung",
                 "pt-br": "Cura Mole",
-                "zh-tw": "軟軟的治療"
+                "zh-tw": "軟軟的治療",
+                ja: "ぷにぷにヒール"
             },
             effect: {
                 en: "Heal 50 damage from 1 of your Benched Pokémon.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Cura 50 danni da 1 dei tuoi Pokémon in panchina.",
                 "de": "Heile 50 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
                 "pt-br": "Cure 50 de dano de 1 dos seus Pokémon no Banco.",
-                "zh-tw": "治療你 1 只後備神奇寶貝造成的 50 點傷害。"
+                "zh-tw": "治療你 1 只後備神奇寶貝造成的 50 點傷害。",
+                ja: "自分のベンチポケモン1匹のHPを50回復。"
             }
         }],
     retreat: 0

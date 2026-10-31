@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/036"
     },
     name: {
         en: "Gimmighoul",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gimmighoul",
         de: "Gierspenst",
         'pt-br': "Gimmighoul",
+        ja: "コレクレー",
         ko: "모으령",
         "zh-tw": "索財靈"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Nacque all'interno di un forziere circa 1.500\nanni fa. Assorbe l'energia vitale dei furfanti\nche provano a rubare il suo tesoro.",
         de: "Es entstand vor etwa 1500 Jahren in einer Schatztruhe.\nWenn Diebe versuchen, den Schatz zu stehlen, saugt es\nihnen die Lebensenergie aus.",
         'pt-br': "Este Pokémon nasceu em um baú do tesouro cerca\nde 1.500 anos atrás. Suga a força vital de\nfanfarrões que tentam roubar o tesouro.",
+        ja: "およそ1500年前 宝箱の中で 生まれた。 宝を 盗む 不埒者の 生気を 吸い取る。",
         ko: "약 1500년 전의 보물 상자 안에서 태어났다.\n보물을 훔치려 드는\n괘씸한 자의 생기를 흡수한다.",
         "zh-tw": "這只神奇寶貝誕生於大約 1500 年前的寶箱內。它會吸走試圖偷竊寶藏的惡棍的生命力。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Camufforziere",
             de: "Truhentarnung",
             'pt-br': "Baú-muflagem",
+            ja: "はこにかくれる",
             ko: "상자에숨기",
             "zh-tw": "胸圍"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
             de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
             'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+            ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
             ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
             "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
         }

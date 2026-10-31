@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/015",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/015",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/015"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/015"
     },
     name: {
         en: "Sewaddle",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I dossi sulla testa sono organi di senso. Quando gli Sewaddle si incontrano, si salutano strofinando insieme queste protuberanze.",
         de: "Die Beulen auf ihrem Kopf sind Sinnesorgane. Wenn Strawickl sich treffen, begrüßen sie sich, indem sie diese Beulen aneinander reiben.",
         "pt-br": "As protuberâncias em suas cabeças são órgãos sensoriais. Quando Sewaddle se encontram, eles se cumprimentam esfregando essas saliências.",
-        "zh-tw": "他們頭上的凸起是感覺器官。當蟲寶包見面時，他們透過摩擦這些凸起來互相打招呼。"
+        "zh-tw": "他們頭上的凸起是感覺器官。當蟲寶包見面時，他們透過摩擦這些凸起來互相打招呼。",
+        ja: "頭の こぶは 感覚器官。 クルミル同士が 出会うと こぶを すり合わせて 挨拶するぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 "pt-br": "Roída",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かじる"
             },
             damage: 20
         }

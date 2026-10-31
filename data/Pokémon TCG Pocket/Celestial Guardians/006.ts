@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/006"
     },
     name: {
         en: "Karrablast",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Karrablast",
         de: "Laukaps",
         'pt-br': "Karrablast",
+        ja: "カブルモ",
         ko: "딱정곤",
         "zh-tw": "蓋蓋蟲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il suo corpo reagisce misteriosamente all'energia\nelettrica. Si evolve se si trova in presenza di Shelmet.",
         de: "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Die Anwesenheit von Schnuthelm\nlöst bei ihm die Entwicklung aus.",
         'pt-br': "A sua fisiologia estranha reage à energia elétrica\nde maneiras interessantíssimas. A presença de Shelmet\nfaz com que este Pokémon evolua.",
+        ja: "電気エネルギーに 反応する 不思議な 体質。 チョボマキと ともに いると 進化する。",
         ko: "전기 에너지에 반응하는\n이상한 체질을 지녔다.\n쪼마리와 함께 있으면 진화한다.",
         "zh-tw": "它奇怪的生理機能以有趣的方式對電能做出反應。頭盔的存在會導致該神奇寶貝進化。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

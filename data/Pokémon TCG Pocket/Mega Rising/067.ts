@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/067"
     },
     name: {
         en: "Carracosta",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Karippas",
         "pt-br": "Carracosta",
         "zh-tw": "肋骨海龜",
+        ja: "アバゴーラ",
     },
     illustrator: "match",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Galapaflos",
         "pt-br": "Tirtouga",
         "zh-tw": "原蓋海龜",
+        ja: "プロトーガ",
     },
     description: {
         en: "This Pokémon emerges from the water in search\nof prey despite the fact that it moves more\nslowly on land.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon emerge dall'acqua in cerca\ndi preda nonostante si muova di più\nlentamente a terra.",
         "de": "Dieses Pokémon taucht auf der Suche aus dem Wasser auf\nder Beute trotz der Tatsache, dass es sich mehr bewegt\nlangsam an Land.",
         "pt-br": "Este Pokémon emerge da água em busca\nde presa, apesar de se mover mais\nlentamente em terra.",
-        "zh-tw": "這只神奇寶貝從水中浮出來尋找\n儘管事實上它移動得更多\n慢慢地在陸地上。"
+        "zh-tw": "這只神奇寶貝從水中浮出來尋找\n儘管事實上它移動得更多\n慢慢地在陸地上。",
+        ja: "水の中と くらべて 動きは 鈍いが 獲物を 探し求め 陸上でも 活動するぞ。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Blocco della Shell",
                 "de": "Blockierende Shell",
                 "pt-br": "Bloqueio de shell",
-                "zh-tw": "阻塞外殼"
+                "zh-tw": "阻塞外殼",
+                ja: "ブロックシェル"
             },
             damage: 100,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon Base durante il prossimo turno del tuo avversario.",
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe von Basis-Pokémon zugefügt wird.",
                 "pt-br": "Previna todo o dano causado a este Pokémon por ataques de Pokémon Básicos durante o próximo turno do seu oponente.",
-                "zh-tw": "防止對手下回合中基礎寶可夢的攻擊對該寶可夢造成的所有傷害。"
+                "zh-tw": "防止對手下回合中基礎寶可夢的攻擊對該寶可夢造成的所有傷害。",
+                ja: "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。"
             }
         }],
     weaknesses: [{

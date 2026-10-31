@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/078",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/078",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/078"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/078"
     },
     name: {
         en: "Glimmora",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "I petali di Glimmora sono fatti di energia velenosa cristallizzata. Recentemente è diventato evidente che questi petali assomigliano a Tera Jewels.",
         de: "Die Blütenblätter von Lumiflora bestehen aus kristallisierter Giftenergie. Es hat sich kürzlich herausgestellt, dass diese Blütenblätter Tera Jewels ähneln.",
         "pt-br": "As pétalas de Glimmora são feitas de energia venenosa cristalizada. Recentemente tornou-se evidente que estas pétalas se assemelham às Joias Tera.",
-        "zh-tw": "晶光花的花瓣是由毒能結晶而成。最近發現這些花瓣很像泰拉珠寶。"
+        "zh-tw": "晶光花的花瓣是由毒能結晶而成。最近發現這些花瓣很像泰拉珠寶。",
+        ja: "毒エネルギーが 結晶化した 花びらは テラスタルの 宝石に 似ていると 最近 判明した。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Cristallo Frantumante",
                 de: "Zerbrechender Kristall",
                 "pt-br": "Cristal Quebrando",
-                "zh-tw": "碎裂結晶"
+                "zh-tw": "碎裂結晶",
+                ja: "くだけるけっしょう"
             },
             effect: {
                 en: "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Quando questo Pokémon viene messo KO, lancia una moneta. Se esce testa, il tuo avversario non potrà ottenere alcun punto.",
                 de: "Wenn dieses Pokémon kampfunfähig ist, wirf eine Münze. Bei „Kopf“ kann Ihr Gegner dafür keine Punkte bekommen.",
                 "pt-br": "Quando este Pokémon for nocauteado, jogue uma moeda. Se der cara, seu oponente não poderá ganhar nenhum ponto por isso.",
-                "zh-tw": "當這只寶可夢被擊倒時，擲硬幣。如果出現正面，您的對手將無法獲得任何分數。"
+                "zh-tw": "當這只寶可夢被擊倒時，擲硬幣。如果出現正面，您的對手將無法獲得任何分數。",
+                ja: "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はポイントをとれない。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Colpo velenoso",
                 de: "Giftiger Treffer",
                 "pt-br": "Golpe Venenoso",
-                "zh-tw": "毒液一擊"
+                "zh-tw": "毒液一擊",
+                ja: "ベノムヒット"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned.",
@@ -92,7 +97,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的戰鬥寶可夢現在中毒了。"
+                "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             },
             damage: 30
         }

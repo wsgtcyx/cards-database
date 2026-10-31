@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/053",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/053",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/053"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/053"
     },
     name: {
         en: "Houndstone",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Friedwuff",
         "pt-br": "Houndstone",
         "zh-tw": "墓揚犬",
+        ja: "ハカドッグ",
         pt: "Houndstone",
         'es-mx': "Houndstone"
     },
@@ -36,6 +38,7 @@ const card: Card = {
         de: "Gruff",
         "pt-br": "Greavard",
         "zh-tw": "墓仔狗",
+        ja: "ボチ",
         pt: "Greavard",
         'es-mx': "Greavard"
     },
@@ -46,7 +49,8 @@ const card: Card = {
         "it": "Un Pokémon amorevolmente compianto è rinato come Houndstone. Non gli piace che qualcuno tocchi la protuberanza sulla sua testa.",
         "de": "Ein liebevoll betrauertes Pokémon wurde als Friedwuff wiedergeboren. Es mag es nicht, wenn jemand die Ausstülpung auf seinem Kopf berührt.",
         "pt-br": "Um Pokémon carinhosamente lamentado renasceu como Houndstone. Ele não gosta que ninguém toque na protuberância no topo de sua cabeça.",
-        "zh-tw": "一隻備受哀悼的寶可夢重生為墓揚犬。它不喜歡任何人觸摸它頭頂的突起。"
+        "zh-tw": "一隻備受哀悼的寶可夢重生為墓揚犬。它不喜歡任何人觸摸它頭頂的突起。",
+        ja: "大切に 弔われた ポケモンが 生まれ変わった 姿。 頭の 突起を 触られるのは 嫌い。"
     },
     stage: "Stage1",
     attacks: [
@@ -59,6 +63,7 @@ const card: Card = {
                 de: "Letzte Ehre",
                 "pt-br": "Últimos respeitos",
                 "zh-tw": "最後的敬意",
+                ja: "おはかまいり",
                 pt: "Último Adeus"
             },
             damage: "50+",
@@ -70,7 +75,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Pokémon Psico nella tua pila degli scarti.",
                 "de": "Dieser Angriff verursacht 20 weitere Schadenspunkte für jedes Psycho-Pokémon in deinem Ablagestapel.",
                 "pt-br": "Este ataque causa 20 danos a mais para cada Pokémon Psíquico em sua pilha de descarte.",
-                "zh-tw": "此攻擊對你棄牌堆中的每隻心靈寶可夢造成額外 20 點傷害。"
+                "zh-tw": "此攻擊對你棄牌堆中的每隻心靈寶可夢造成額外 20 點傷害。",
+                ja: "自分のトラッシュにある{P}ポケモンの枚数×20ダメージ追加。"
             },
         },
     ],

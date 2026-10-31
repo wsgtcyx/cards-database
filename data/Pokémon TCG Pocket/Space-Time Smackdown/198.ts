@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/198",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/198",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/198"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/198",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/198"
     },
     name: {
         en: "Pachirisu ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pachirisu-ex",
         de: "Pachirisu-ex",
         'pt-br': "Pachirisu ex",
+        ja: "パチリスex",
         ko: "파치리스 ex",
         "zh-tw": "帕奇利茲ex",
     },
@@ -36,6 +38,7 @@ const card: Card = {
                 it: "Congegno Sfavillante",
                 de: "Gerätefunken",
                 'pt-br': "Engenhoca Cintilante",
+                ja: "ガジェットスパーク",
                 ko: "가젯스파크",
                 "zh-tw": "火花小工具"
             },
@@ -48,6 +51,7 @@ const card: Card = {
                 it: "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 40 danni in più.",
                 de: "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 40 Schadenspunkte mehr zu.",
                 'pt-br': "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 40 pontos de dano a mais.",
+                ja: "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。",
                 ko: "이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 40데미지를 추가한다.",
                 "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則此攻擊造成的傷害增加 40 點。"
             }

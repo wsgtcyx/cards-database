@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/084",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/084",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/084"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/084",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/084"
     },
     name: {
         en: "Puppy-Loving Girl",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Guarda le prime 4 carte del tuo mazzo. Metti nella tua mano tutti i Pokémon che trovi lì e che hanno l'attacco Cucciolo. Rimescola le altre carte nel tuo mazzo.",
         de: "Schauen Sie sich die obersten 4 Karten Ihres Decks an. Nimm alle Pokémon, die du dort findest und die über die Attacke „Welpenhaufen“ verfügen, auf deine Hand. Mische die anderen Karten zurück in deinen Stapel.",
         "pt-br": "Veja as 4 primeiras cartas do seu baralho. Coloque em sua mão todos os Pokémon que você encontrar com o ataque Puppy Pile. Embaralhe as outras cartas de volta no seu baralho.",
-        "zh-tw": "看看你牌組頂的 4 張牌。將你在那裡找到的所有具有小狗堆攻擊的寶可夢放入你的手牌。將其他牌洗回你的牌庫中。"
+        "zh-tw": "看看你牌組頂的 4 張牌。將你在那裡找到的所有具有小狗堆攻擊的寶可夢放入你的手牌。將其他牌洗回你的牌庫中。",
+        ja: "自分の山札を上から4枚見て、その中からワザ「こいぬまみれ」を持つポケモンをすべて手札に加える。残りのカードは山札にもどす。"
     },
     trainerType: "Supporter"
 };

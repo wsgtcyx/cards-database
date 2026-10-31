@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/033",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/033",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/033"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/033"
     },
     name: {
         en: "Oranguru",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Vive tranquillo nel profondo della foresta. I peli viola che lo ricoprono a mo' di mantello si allungano con il passare degli anni.",
         de: "Es lebt friedlich in den Tiefen des Waldes. Sein lilafarbenes, umhangähnliches Fell wird immer länger, je älter das Pokémon wird.",
         "pt-br": "Este Pokémon vive discretamente nas profundezas da floresta. Seu pelo roxo semelhante a uma capa fica cada vez mais longo conforme Oranguru envelhece.",
-        "zh-tw": "在森林深處過著安靜的生活。如同斗蓬般的紫色體毛會隨著年齡而越變越長。"
+        "zh-tw": "在森林深處過著安靜的生活。如同斗蓬般的紫色體毛會隨著年齡而越變越長。",
+        ja: "森の奥で 静かに 暮らす。 マントのような 紫の 毛は 歳を 重ねるほどに 長くなる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pugnopesca",
                 de: "Schlagen und ziehen",
                 "pt-br": "Socar e Comprar",
-                "zh-tw": "出拳&抽出"
+                "zh-tw": "出拳&抽出",
+                ja: "パンチ&ドロー"
             },
             effect: {
                 en: "Draw a card.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe 1 Karte.",
                 "pt-br": "Compre carta.",
-                "zh-tw": "從自己的牌庫抽出張卡。"
+                "zh-tw": "從自己的牌庫抽出張卡。",
+                ja: "自分の山札を1枚引く。"
             },
             damage: 40
         }

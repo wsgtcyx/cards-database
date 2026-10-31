@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/051",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/051",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/051",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/051"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/051",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/051"
     },
     name: {
         en: "Croagunk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Croagunk",
         de: "Glibunkel",
         'pt-br': "Croagunk",
+        ja: "グレッグル",
         ko: "삐딱구리",
         "zh-tw": "不良蛙",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gonfia le sue sacche di veleno emettendo un verso\nsinistro che fa impietrire l'avversario, poi lo avvelena.",
         de: "Bläst es seine Giftbeutel auf, ertönt ein\nunheimliches Geräusch. Wenn Gegner\ndadurch zurückschrecken, vergiftet es sie.",
         'pt-br': "Ao inflar suas bolsas de veneno, preenche a área\ncom um som peculiar e acerta os oponentes assustados\ncom um soco venenoso.",
+        ja: "毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。",
         ko: "독주머니를 부풀리며 울어서\n주변에 으스스한 소리를 퍼트린 후\n상대가 풀죽으면 독찌르기를 한다.",
         "zh-tw": "它會膨脹毒囊，使整個區域充滿奇怪的聲音，並用毒刺攻擊畏縮的對手。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Battuta",
                 de: "Verprügler",
                 'pt-br': "Pulso",
+                ja: "たたく",
                 ko: "때리기",
                 "zh-tw": "打"
             },

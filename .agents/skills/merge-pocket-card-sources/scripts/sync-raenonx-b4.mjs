@@ -333,6 +333,16 @@ function matchDynamicGroup(nodes, span, context, maps) {
 	}
 	const result = visit(0, 0, [])
 	if (!result) throw new Error(`Cannot bind dynamic tokens for ${context}: span=${JSON.stringify(span)} tokens=${JSON.stringify(nodes)}`)
+	for (const [index, node] of nodes.entries()) {
+		if (node.name !== 'Num:Int' || result[index] !== '' || attrValue(node, 'plural_only') === undefined) continue
+		// English articles hide the count; languages such as Japanese still print 1.
+		const singular = [index - 1, index + 1].some(neighbor => nodes[neighbor]?.name === 'Gr:Count'
+			&& (attrValue(nodes[neighbor], 'ref') === undefined || attrValue(node, 'id') === undefined
+				|| attrValue(nodes[neighbor], 'ref') === attrValue(node, 'id'))
+			&& result[neighbor] !== '' && ['s', 'one'].some(branch => nodes[neighbor].attrs?.[branch] !== undefined
+				&& candidateText(nodes[neighbor].attrs[branch]) === candidateText(result[neighbor])))
+		if (singular) result[index] = '1'
+	}
 	return result
 }
 
@@ -569,9 +579,10 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 			if (!sourceNode) throw new Error(`RaenonX ${locale} template introduced an unbindable Num:Int token for ${context}`)
 			const sourceId = attrValue(sourceNode, 'id')
 			const number = parseNumber(captured) ?? (sourceId === undefined ? undefined : bindings.numericById.get(sourceId))
+			if (locale === 'ja' && number !== undefined) return String(number)
 			if (number === 1 && attrValue(node, 'plural_only') !== undefined) return ''
 			if (number !== undefined) return `${number}${attrValue(node, 'plural_only') ?? ''}`
-			return ''
+			throw new Error(`Cannot bind ${locale} Num:Int count for ${context}`)
 		}
 		case 'Img:Element':
 			return localizedElementName(captured, node, maps.messages, context)
@@ -602,18 +613,23 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 		case 'Text:CardNameByCardID':
 		case 'Text:CardName': {
 			const entry = findNameIdByEnglish(captured, maps.cardEnglishNames, `${context} card name`)
-			return lookup(maps.targetMaster.Card.Name, [], entry.id) ?? entry.value
+			const localized = lookup(maps.targetMaster.Card.Name, [], entry.id)
+			if (locale === 'ja' && !localized) throw new Error(`Missing ja card name ${entry.id} for ${context}`)
+			return localized ?? entry.value
 		}
 		case 'Text:AttackName': {
 			const entry = findNameIdByEnglish(captured, maps.attackEnglishNames, `${context} attack name`)
-			return lookup(maps.targetMaster.Attack.Name, [], entry.id) ?? entry.value
+			const localized = lookup(maps.targetMaster.Attack.Name, [], entry.id)
+			if (locale === 'ja' && !localized) throw new Error(`Missing ja attack name ${entry.id} for ${context}`)
+			return localized ?? entry.value
 		}
 		case 'Text:AbilityName': {
 			const entry = findNameIdByEnglish(captured, maps.abilityEnglishNames, `${context} ability name`)
 			const suffix = attrValue(node, 'suffix')
-			return lookup(maps.targetMaster.Ability.Name, [], suffix ? `${entry.id}_${suffix}` : entry.id)
+			const localized = lookup(maps.targetMaster.Ability.Name, [], suffix ? `${entry.id}_${suffix}` : entry.id)
 				?? lookup(maps.targetMaster.Ability.Name, [], entry.id)
-				?? entry.value
+			if (locale === 'ja' && !localized) throw new Error(`Missing ja ability name ${entry.id} for ${context}`)
+			return localized ?? entry.value
 		}
 		case 'Text:SpecialCondition':
 			return chooseTranslatedString(captured, maps.translatedValues, locale, `${context} special condition`)

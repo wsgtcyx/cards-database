@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/148",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/148",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/148"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/148",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/148"
     },
     name: {
         en: "Lucky Egg",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Se il Pokémon a cui è assegnata questa carta viene messo KO dai danni di un attacco dei Pokémon del tuo avversario, pesca carte fino ad avere 5 carte in mano.",
         de: "Wenn das Pokémon, an das diese Karte angelegt ist, durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig wird, ziehe Karten, bis du 5 Karten auf deiner Hand hast.",
         "pt-br": "Se o Pokémon ao qual esta carta está ligada for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, compre cartas até ter 5 cartas na sua mão.",
-        "zh-tw": "這張卡所附著的寶可夢因對手寶可夢的攻擊而被擊倒的場合，抽卡直到手牌變成5張為止。"
+        "zh-tw": "這張卡所附著的寶可夢因對手寶可夢的攻擊而被擊倒的場合，抽卡直到手牌變成5張為止。",
+        ja: "このカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、自分の手札が5枚になるように、山札を引く。"
     },
     trainerType: "Tool"
 };

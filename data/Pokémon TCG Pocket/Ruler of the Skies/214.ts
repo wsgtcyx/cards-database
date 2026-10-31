@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/214",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/214",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/214",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/214"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/214",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/214"
     },
     name: {
         en: "Boldore",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Perlustra la zona intorno a sé servendosi dei\nrumori. Se irritato, insegue chi lo ha importunato\nsenza cambiare orientamento del corpo.",
         de: "Es nimmt die Umgebung über akustische Reize\nwahr. Ärgerliche Störenfriede kann es verfolgen,\nohne sich ihnen zuwenden zu müssen.",
         "pt-br": "Depende de sons para monitorar as proximidades. Quando enraivecido, ataca sem sequer mudar de direção.",
-        "zh-tw": "透過聲音來探測四周。\n要是惹牠生氣了，牠會連\n身體方向也不轉就朝你追來。"
+        "zh-tw": "透過聲音來探測四周。\n要是惹牠生氣了，牠會連\n身體方向也不轉就朝你追來。",
+        ja: "音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Gemma del potere",
                 de: "Kraftjuwel",
                 "pt-br": "Gema Poderosa",
-                "zh-tw": "力量寶石"
+                "zh-tw": "力量寶石",
+                ja: "パワージェム"
             },
             damage: 70
         }

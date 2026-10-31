@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/139",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/139"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/139"
     },
     name: {
         en: "Glameow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Glameow",
         de: "Charmian",
         'pt-br': "Glameow",
+        ja: "ニャルマー",
         ko: "나옹마",
         "zh-tw": "魅力喵",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Se disturbato, tira fuori gli artigli; se soddisfatto,\nfa le fusa. La sua incostanza piace a molti.",
         de: "Es schlägt mit Krallen zu oder schnurrt, je nachdem,\nob es gerade wütend oder zutraulich ist.",
         'pt-br': "Arranha quando está descontente e ronrona\nquando está carinhoso. Há quem goste muito\nda sua natureza inconstante.",
+        ja: "気に入らないと ツメを 立てるが たまに のどを 鳴らして 甘える 性格が 一部に 大人気だ。",
         ko: "마음에 안 들면 발톱을 세우지만\n가끔 울음소리로 응석을 부리는\n성격이 일부에게 매우 인기가 있다.",
         "zh-tw": "當它不高興時，它會用爪子抓；當它充滿感情時，它會發出咕嚕聲。它的善變在一些人中很受歡迎。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Posa",
                 de: "Posieren",
                 'pt-br': "Posar",
+                ja: "きどる",
                 ko: "폼잡기",
                 "zh-tw": "姿勢"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             }

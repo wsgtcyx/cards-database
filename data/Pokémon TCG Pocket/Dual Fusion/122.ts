@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/122",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/122",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/122"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/122"
     },
     name: {
         en: "Full Heal",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "將自己的戰鬥寶可夢的特殊狀態全部恢復。",
         it: "Il tuo Pokémon attivo guarisce da tutte le condizioni speciali.",
         de: "Dein Aktives Pokémon erholt sich von allen Speziellen Zuständen.",
-        ja: "Your Active Pokémon recovers from all Special Conditions.",
+        ja: "自分のバトルポケモンの特殊状態を、すべて回復。",
         ko: "Your Active Pokémon recovers from all Special Conditions."
     }
 };

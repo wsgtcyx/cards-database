@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/005",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/005",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/005"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/005"
     },
     name: {
         en: "Serperior",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo sguardo che immobilizza gli avversari e il suo aspetto solenne gli sono valsi l'appellativo di \"signore della foresta\".",
         de: "Dank seines würdevollen Aussehens und seines stechenden Blicks, der andere erstarren lässt, nennt man es auch den „Herrscher des Waldes“.",
         "pt-br": "Seu olhar intimidador e sua aparência majestosa fizeram com que este Pokémon ficasse conhecido como o Lorde da Floresta.",
-        "zh-tw": "擁有能讓對手畏怯的眼神以及威風凜凜的身姿，因此被稱為森林的君主。"
+        "zh-tw": "擁有能讓對手畏怯的眼神以及威風凜凜的身姿，因此被稱為森林的君主。",
+        ja: "相手を すくませる 眼光と 威風堂々たる その 姿から 森の君主 と 呼ばれている。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fioritura Regale",
                 de: "Hoheitliches Blühen",
                 "pt-br": "Florada Real",
-                "zh-tw": "皇家綻放"
+                "zh-tw": "皇家綻放",
+                ja: "ロイヤルブルーム"
             },
             effect: {
                 en: "This Pokémon gets +30 HP for each {G} Energy attached to it.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo Pokémon ha +30 PS per ogni Energia {G} a esso assegnata.",
                 de: "Dieses Pokémon erhält + 30 KP für jede an es angelegte {G}-Energie.",
                 "pt-br": "Este Pokémon recebe +30 PS para cada Energia {G} ligada a ele.",
-                "zh-tw": "這隻寶可夢的最大HP,依這隻寶可夢身上附加的{G}能量每1個+30。"
+                "zh-tw": "這隻寶可夢的最大HP,依這隻寶可夢身上附加的{G}能量每1個+30。",
+                ja: "このポケモンについている{G}エネルギー1個につき、このポケモンの最大HPを+30する。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Scudiscio",
                 de: "Auspeitscher",
                 "pt-br": "Fustigar",
-                "zh-tw": "鞭倒在地"
+                "zh-tw": "鞭倒在地",
+                ja: "ウィップダウン"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 60 more damage.",
@@ -92,7 +97,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais.",
-                "zh-tw": "擲1次硬幣若為正面,則增加60點傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則增加60點傷害。",
+                ja: "コインを1回投げオモテなら、60ダメージ追加。"
             },
             damage: "60+"
         }

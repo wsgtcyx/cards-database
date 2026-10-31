@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/113",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/113",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/113"
     },
     name: {
         en: "Frogadier",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
+        ja: "ゲコガシラ",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
+        ja: "ケロマツ",
     },
     description: {
         en: "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Può lanciare con precisione ciottoli ricoperti di bolle\ncontrollo, colpendo lattine vuote fino a trenta metri di distanza.",
         "de": "Es kann mit Blasen bedeckte Kieselsteine präzise werfen\nKontrolle und trifft leere Dosen aus einer Entfernung von bis zu dreißig Metern.",
         "pt-br": "Ele pode lançar pedras cobertas de bolhas com precisão\ncontrole, atingindo latas vazias a até trinta metros de distância.",
-        "zh-tw": "它可以精確地投擲覆蓋著氣泡的鵝卵石\n控制，擊中一百英尺外的空罐。"
+        "zh-tw": "它可以精確地投擲覆蓋著氣泡的鵝卵石\n控制，擊中一百英尺外的空罐。",
+        ja: "泡で 包んだ 小石を 投げる 技を 使う。３０メートル 先の 空き缶に 当てる コントロール。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Gocciolamento dell'acqua",
                 "de": "Wassertropfen",
                 "pt-br": "Gotejamento de água",
-                "zh-tw": "水滴"
+                "zh-tw": "水滴",
+                ja: "みずきり"
             },
             damage: 30,
             cost: ["Colorless"]

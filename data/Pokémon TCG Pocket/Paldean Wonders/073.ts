@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/073",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/073",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/073"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/073"
     },
     name: {
         en: "Tinkatuff",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Tafforgita",
         'pt-br': "Tinkatuff",
         "zh-tw": "巧鍛匠",
+        ja: "ナカヌチャン",
         ko: "벼리짱"
     },
     illustrator: "Akira Komayama",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Forgita",
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
+        ja: "カヌチャン",
         pt: "Tinkatink",
         'es-mx': "Tinkatink"
     },
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "Questi Pokémon costruiscono le loro case tra cumuli di rottami metallici. Mettono alla prova la forza dei martelli l'uno dell'altro facendoli a pezzi.",
         "de": "Diese Pokémon bauen ihr Zuhause in Schrotthaufen. Sie testen die Stärke der Hämmer des anderen, indem sie sie zusammenschlagen.",
         "pt-br": "Esses Pokémon constroem suas casas em pilhas de sucata. Eles testam a força dos martelos um do outro, esmagando-os.",
-        "zh-tw": "這些寶可夢在廢金屬堆裡安家。他們透過將彼此的錘子砸在一起來測試彼此的錘子的強度。"
+        "zh-tw": "這些寶可夢在廢金屬堆裡安家。他們透過將彼此的錘子砸在一起來測試彼此的錘子的強度。",
+        ja: "金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。"
     },
     stage: "Stage1",
     attacks: [
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Leichter Hieb",
                 'pt-br': "Soco de Luz",
                 "zh-tw": "輕拳",
+                ja: "なぐる",
                 ko: "치기"
             },
             damage: "50",

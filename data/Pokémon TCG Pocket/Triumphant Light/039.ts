@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/039"
     },
     name: {
         en: "Larvitar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Larvitar",
         de: "Larvitar",
         'pt-br': "Larvitar",
+        ja: "ヨーギラス",
         ko: "애버라스",
         "zh-tw": "幼基拉斯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Nasce nel profondo sottosuolo e dopo\naver mangiato una montagna di terra\nsi trasforma in una crisalide.",
         de: "Es wird tief im Erdreich geboren. Hat es einen Berg\nErde gefressen, verpuppt sich dieses Pokémon.",
         'pt-br': "Este Pokémon nasce no subsolo e se torna uma pupa\napós comer terra o suficiente para fazer uma montanha.",
+        ja: "地面 深くで 生まれ 山ほどの 土を 食べ終わると 体を つくるため サナギになる。",
         ko: "땅속 깊은 곳에서 태어나\n산을 이룰 정도의 흙을 먹고 나면\n몸을 만들기 위해 번데기가 된다.",
         "zh-tw": "這只神奇寶貝出生在地下深處，在吃掉足夠建造一座山的泥土後變成了蛹。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pugno Rotante",
                 de: "Korkenzieherhieb",
                 'pt-br': "Soco Saca-rolha",
+                ja: "どつく",
                 ko: "쥐어박기",
                 "zh-tw": "螺旋沖頭"
             },

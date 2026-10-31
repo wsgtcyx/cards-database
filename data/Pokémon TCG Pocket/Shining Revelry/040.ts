@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/040"
     },
     name: {
         en: "Hitmonlee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hitmonlee",
         de: "Kicklee",
         'pt-br': "Hitmonlee",
+        ja: "サワムラー",
         ko: "시라소몬",
         "zh-tw": "飛腿郎"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Questo straordinario Pokémon ha\nun grande equilibrio. Può tirare\nraffiche di calci da qualsiasi posizione.",
         de: "Dieses Pokémon besitzt einen formidablen\nGleichgewichtssinn. Es kann in jeder Position\npausenlos zutreten.",
         'pt-br': "Este incrível Pokémon possui um ótimo equilíbrio.\nConsegue chutar repetidamente de qualquer posição.",
+        ja: "見事な バランス感覚。 どんな 姿勢でも 連続で キックを 放てる すごい やつ。",
         ko: "훌륭한 밸런스 감각으로\n어떤 자세라도 연속\n킥을 날리는 대단한 녀석이다.",
         "zh-tw": "這個神奇的神奇寶貝具有令人敬畏的平衡感。它可以從任何位置連續踢球。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Calcio",
             de: "Tritt",
             'pt-br': "Chute",
+            ja: "キック",
             ko: "킥",
             "zh-tw": "踢"
         },

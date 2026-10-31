@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/005"
     },
     name: {
         en: "Tangrowth",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Tangoloss",
         "pt-br": "Tangrowth",
         "zh-tw": "巨蔓藤",
+        ja: "モジャンボ",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Tangela",
         "pt-br": "Tangela",
         "zh-tw": "蔓藤怪",
+        ja: "モンジャラ",
     },
     description: {
         en: "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Tangrowth ha due braccia che può estendere man mano\npiace. Recenti ricerche hanno dimostrato che questi\nle braccia sono, infatti, fasci di viti.",
         "de": "Tangrowth hat zwei Arme, die es ausstrecken kann\ngefällt. Neuere Untersuchungen haben gezeigt, dass diese\nArme sind in Wirklichkeit Weinrebenbündel.",
         "pt-br": "Tangrowth tem dois braços que pode estender conforme\nagrada. Pesquisas recentes mostraram que estes\nos braços são, na verdade, feixes de videiras.",
-        "zh-tw": "Tangrowth 有兩條手臂，可以隨心所欲地伸展\n請。最近的研究表明，這些\n事實上，手臂是一捆捆的藤蔓。"
+        "zh-tw": "Tangrowth 有兩條手臂，可以隨心所欲地伸展\n請。最近的研究表明，這些\n事實上，手臂是一捆捆的藤蔓。",
+        ja: "自在に 伸びる ２本の 腕は じつは ツルが 束になったものと 最近の 研究で わかった。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Nodo d'erba",
                 "de": "Grasknoten",
                 "pt-br": "Nó de grama",
-                "zh-tw": "草結"
+                "zh-tw": "草結",
+                ja: "くさむすび"
             },
             damage: "10+",
             cost: ["Grass", "Grass", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 40 danni in più per ogni Energia nel costo di ritirata del Pokémon attivo del tuo avversario.",
                 "de": "Dieser Angriff verursacht 40 weitere Schadenspunkte für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 40 點額外傷害。"
+                "zh-tw": "對手的現役寶可夢的撤退費用中每有一個能量，該攻擊就會造成 40 點額外傷害。",
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×40ダメージ追加。"
             }
         }],
     weaknesses: [{

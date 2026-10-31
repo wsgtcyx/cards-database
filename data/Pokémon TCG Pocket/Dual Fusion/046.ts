@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/046",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/046",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/046"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/046"
     },
     name: {
         en: "Stunfisk",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Stromball",
                 "pt-br": "Bola de Eletricidade",
                 "zh-tw": "雷電球",
-                ja: "Electric Ball",
+                ja: "ライトニングボール",
                 ko: "Electric Ball"
             },
             cost: [
@@ -71,7 +72,7 @@ const card: Card = {
         de: "Dieses Pokémon lebt im Morast. Dank der dortigen Bakterien hat es ein Organ entwickelt, mit dem es Strom erzeugen kann.",
         "pt-br": "Graças às bactérias que viviam no lamaçal com ele, este Pokémon desenvolveu os órgãos que usa para gerar eletricidade.",
         "zh-tw": "潮間帶是牠的巢穴。製造電的器官由於泥裡的細菌而發達起來。",
-        ja: "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
+        ja: "干潟が すみか。 泥に 棲む 細菌に よって 電気を つくる 器官が 発達した。",
         ko: "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity."
     }
 };

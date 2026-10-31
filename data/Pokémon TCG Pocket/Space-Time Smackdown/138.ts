@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/138",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/138"
     },
     name: {
         en: "Lopunny",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lopunny",
         de: "Schlapor",
         'pt-br': "Lopunny",
+        ja: "ミミロップ",
         ko: "이어롭",
         "zh-tw": "長耳兔",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Haspiror",
         "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
+        ja: "ミミロル",
     },
     description: {
         en: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Presta sempre attenzione all'ambiente\ncircostante e in caso di pericolo sfodera\ncalci di straordinaria potenza distruttiva.",
         de: "Schlapor behält seine Umgebung stets im Auge.\nWenn Gefahr im Verzug ist, setzt es sich mit\nvernichtenden Tritten zur Wehr.",
         'pt-br': "Lopunny está constantemente monitorando seus\narredores. Se o perigo se aproxima, este Pokémon\nresponde com chutes superdestrutivos.",
+        ja: "まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。",
         ko: "주위 상황을 항상 신경 쓰고 있으며\n위험이 닥치면 무시무시한 파괴력을\n가진 킥을 날린다.",
         "zh-tw": "Lopunny 不斷監視著周圍的環境。如果危險臨近，這只神奇寶貝會用超破壞性的踢來回應。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Calciosalto",
                 de: "Sprungkick",
                 'pt-br': "Chute Pulo",
+                ja: "とびげり",
                 ko: "점프킥",
                 "zh-tw": "跳踢"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 20 點傷害。"
             }

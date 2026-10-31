@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/284",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/284",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/284",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/284"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/284",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/284"
     },
     name: {
         en: "Mega Blaziken ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mega-Lohgock-ex",
         "pt-br": "Mega Blaziken ex",
         "zh-tw": "超級火焰雞ex",
+        ja: "メガバシャーモex",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Jungglut",
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
+        ja: "ワカシャモ",
     },
     description: {
         en: "When facing a tough foe, it looses flames from\nits wrists. Its powerful legs let it jump clear over\nbuildings.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando affronta un nemico duro, sprigiona fiamme\ni suoi polsi. Le sue zampe potenti gli permettono di saltare oltre\nedifici.",
         "de": "Wenn es einem harten Gegner gegenübersteht, löst es Flammen aus\nseine Handgelenke. Mit seinen kräftigen Beinen kann er problemlos hinüberspringen\nGebäude.",
         "pt-br": "Ao enfrentar um inimigo difícil, ele solta chamas\nseus pulsos. Suas pernas poderosas permitem que ele salte\nedifícios.",
-        "zh-tw": "當面對強敵時，它會釋放火焰\n它的手腕。它有力的腿使它能夠跳過\n建築物。"
+        "zh-tw": "當面對強敵時，它會釋放火焰\n它的手腕。它有力的腿使它能夠跳過\n建築物。",
+        ja: "強敵に 出会うと 手首から 炎を 噴き出す。ジャンプで ビルで 跳び越す 脚力。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Mega incendio",
                 "de": "Mega-Brennen",
                 "pt-br": "Mega Queima",
-                "zh-tw": "超級燃燒"
+                "zh-tw": "超級燃燒",
+                ja: "メガバーニング"
             },
             damage: 120,
             cost: ["Fire", "Fire"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Scarta Energia Fire{R} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora bruciato.",
                 "de": "Lege Feuer{R}-Energie von diesem Pokémon ab. Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "Descarte a Energia Fire{R} deste Pokémon. O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "丟棄該神奇寶貝的火{R}能量。你對手的活躍神奇寶貝現在被燒毀了。"
+                "zh-tw": "丟棄該神奇寶貝的火{R}能量。你對手的活躍神奇寶貝現在被燒毀了。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。"
             }
         }],
     weaknesses: [{

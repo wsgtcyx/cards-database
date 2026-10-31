@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/294",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/294",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/294",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/294"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/294",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/294"
     },
     name: {
         en: "Magneton",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
-        ja: "Magnemite",
+        ja: "コイル",
         ko: "Magnemite"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Drei Magnetilo sind durch ein starkes Magnetfeld verbunden. In seiner Nähe bekommt man Ohrensausen.",
         "pt-br": "Três Magnemite estão vinculados por uma força magnética muito poderosa. Se você chegar muito perto, ficará com dor de ouvido.",
         "zh-tw": "3隻小磁怪因著強烈的磁力而結合。只要靠近牠就會發生強烈的耳鳴。",
-        ja: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close.",
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。",
         ko: "Three Magnemite are linked by a strong magnetic\nforce. Earaches will occur if you get too close."
     },
     stage: "Stage1",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Funkensprung",
                 "pt-br": "Faísca",
                 "zh-tw": "電光",
-                ja: "Spark",
+                ja: "スパーク",
                 ko: "Spark"
             },
             damage: 20,
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
-                ja: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。",
                 ko: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
             }
         }

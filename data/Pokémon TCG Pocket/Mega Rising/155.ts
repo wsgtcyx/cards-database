@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/155",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/155",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/155"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/155",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/155"
     },
     name: {
         en: "Deino",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kapuno",
         "pt-br": "Deino",
         "zh-tw": "單首龍",
+        ja: "モノズ",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Nidifica nel profondo di una grotta. Il cibo lì è scarso,\nquindi Deino affonderà i denti in qualsiasi cosa\nsi muove e tenta di mangiarlo.",
         "de": "Es nistet tief in einer Höhle. Das Essen dort ist knapp,\nalso wird sich Deino in alles hineinbeißen\nbewegt sich und versucht es zu essen.",
         "pt-br": "Nidifica nas profundezas de uma caverna. A comida lá é escassa,\nentão Deino vai cravar os dentes em qualquer coisa que\nse move e tenta comê-lo.",
-        "zh-tw": "它在洞穴深處築巢。那裡食物匱乏，\n所以 Deino 會全力以赴做任何事\n移動並嘗試吃掉它。"
+        "zh-tw": "它在洞穴深處築巢。那裡食物匱乏，\n所以 Deino 會全力以赴做任何事\n移動並嘗試吃掉它。",
+        ja: "棲み処は 洞窟の 奥深く。 エサも 少ないので 動くものは なんでも 食いつき 食べようとする。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 20,
             cost: ["Darkness"]

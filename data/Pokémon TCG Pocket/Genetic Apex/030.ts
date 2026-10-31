@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/030",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/030",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/030"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/030"
     },
     name: {
         en: "Lilligant",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Lilligant",
         it: "Lilligant",
         de: "Dressella",
+        ja: "ドレディア",
         ko: "드레디어",
         'pt-br': "Lilligant",
         "zh-tw": "裙兒小姐",
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Petilil",
         "de": "Lilminip",
         "pt-br": "Petilil",
-        "zh-tw": "百合根娃娃"
+        "zh-tw": "百合根娃娃",
+        ja: "チュリネ"
     },
     attacks: [{
             cost: ["Grass", "Grass"],
@@ -43,6 +46,7 @@ const card: Card = {
                 es: "Aprovisionamiento Hoja",
                 it: "Fogliascorta",
                 de: "Blättervorrat",
+                ja: "リーフサプライ",
                 ko: "리프서플라이",
                 'pt-br': "Estoque de Folha",
                 "zh-tw": "葉子供應"
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Une 1 Energía {G} de tu área de Energía a 1 de tus Pokémon {G} en Banca.",
                 it: "Prendi un'Energia {G} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon {G} in panchina.",
                 de: "Lege 1 {G}-Energie aus deinem Energiebereich an 1 {G}-Pokémon auf deiner Bank an.",
+                ja: "自分のエネルギーゾーンから{G}エネルギーを1個出し、ベンチの{G}ポケモンにつける。",
                 ko: "자신의 에너지존에서 {G}에너지를 1개 내보내 벤치의 {G} 포켓몬에게 붙인다.",
                 'pt-br': "Pegue 1 Energia {G} da sua Zona de Energia e a 1 dos seus Pokémon {G} no Banco.",
                 "zh-tw": "從你的能量區取出一個 {G} 能量並將其附加到你後備的 1 只 {G} 神奇寶貝上。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Il fiore che ha sulla testa emette un profumo davvero\nrilassante, ma è molto difficile prendersene cura.",
         de: "Der Blumenschmuck auf seinem Kopf\nsondert einen beruhigenden Duft ab,\nist jedoch nicht gerade pflegeleicht.",
         'pt-br': "A fragrância da guirlanda em sua cabeça possui um\nefeito relaxante. Ela murcha quando não é bem\ncuidada por um Treinador.",
+        ja: "頭の 花飾りから 発する 香りを かぐと リラックスできるが 手入れが とても 難しい。",
         ko: "머리의 꽃 장식에서 나는\n향기를 맡으면 편안해지나\n손질이 아주 까다롭다.",
         "zh-tw": "它頭上的花環散發出的香味有放鬆的作用，但照顧它卻很困難。"
     },

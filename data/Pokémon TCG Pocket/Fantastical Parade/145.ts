@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/145",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/145"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/145"
     },
     name: {
         en: "Lucky Ice Pop",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ghiacciolo della Fortuna",
         "de": "Glücks-Eis",
         "pt-br": "Picolé da Sorte",
-        "zh-tw": "可抽獎的冰棒"
+        "zh-tw": "可抽獎的冰棒",
+        ja: "当たりつきアイス"
     },
     illustrator: "inose yukie",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 20 danni dal tuo Pokémon attivo. Se hai curato qualsiasi danno in questo modo, lancia una moneta. Se esce testa, metti questo Lucky Ice Pop nella tua mano invece che nella pila degli scarti.",
         "de": "Heile 20 Schadenspunkte bei deinem Aktiven Pokémon. Wenn Sie auf diese Weise Schaden geheilt haben, werfen Sie eine Münze. Bei „Kopf“ nimmst du dieses Lucky Ice Pop auf deine Hand statt auf den Ablagestapel.",
         "pt-br": "Cure 20 pontos de dano do seu Pokémon Ativo. Se você curou algum dano dessa forma, jogue uma moeda. Se der cara, coloque este Lucky Ice Pop em sua mão em vez de colocá-lo na pilha de descarte.",
-        "zh-tw": "治療你的活躍神奇寶貝造成的 20 點傷害。如果您以這種方式治癒了任何傷害，請擲硬幣。如果出現正面，則將此幸運冰棒放入你的手牌而不是棄牌堆。"
+        "zh-tw": "治療你的活躍神奇寶貝造成的 20 點傷害。如果您以這種方式治癒了任何傷害，請擲硬幣。如果出現正面，則將此幸運冰棒放入你的手牌而不是棄牌堆。",
+        ja: "自分のバトルポケモンのHPを20回復。その後、コインを1回投げオモテなら、この「当たりつきアイス」はトラッシュせず、手札にもどす。"
     },
     trainerType: "Item"
 };

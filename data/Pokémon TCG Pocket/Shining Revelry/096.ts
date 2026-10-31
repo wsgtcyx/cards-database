@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/096"
     },
     name: {
         en: "Giratina ex",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Giratina ex",
         it: "Giratina-ex",
         de: "Giratina-ex",
+        ja: "ギラティナex",
         ko: "기라티나 ex",
         'pt-br': "Giratina ex",
         "zh-tw": "騎拉帝納ex"
@@ -36,6 +38,7 @@ const card: Card = {
             es: "Bramido de Espacio Fracturado",
             it: "Ruggito Altera-spazio",
             de: "Raumzerfetzender Schrei",
+            ja: "はくうのさけび",
             ko: "파공의 외침",
             'pt-br': "Grito do Espaço Rompido",
             "zh-tw": "破碎空間波紋管"
@@ -46,6 +49,7 @@ const card: Card = {
             es: "Una vez durante tu turno, puedes unir 1 Energía {P} de tu área de Energía a este Pokémon. Si usas esta habilidad, tu turno termina.",
             it: "Una sola volta durante il tuo turno, puoi prendere un'Energia {P} dalla tua Zona Energia e assegnarla a questo Pokémon. Se usi questa abilità, il tuo turno finisce.",
             de: "Einmal während deines Zuges kannst du 1 {P}-Energie aus deinem Energiebereich an dieses Pokémon anlegen. Wenn du diese Fähigkeit einsetzt, endet dein Zug.",
+            ja: "自分の番に1回使えて、使ったなら、番は終わる。自分のエネルギーゾーンから{P}エネルギーを1個出し、このポケモンにつける。",
             ko: "자신의 차례에 1번 사용할 수 있으며, 사용하면 차례는 끝난다. 자신의 에너지존에서 {P}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
             'pt-br': "Uma vez durante o seu turno, você poderá pegar 1 Energia {P} da sua Zona de Energia e a este Pokémon. Se você usar esta Habilidade, o seu turno acabará.",
             "zh-tw": "在你的回合中，你可以從你的能量區取出一個{P}能量並將其附加到這只神奇寶貝身上。如果你使用了這個能力，你的回合就結束了。"
@@ -58,6 +62,7 @@ const card: Card = {
             es: "Impacto Caótico",
             it: "Impatto Caotico",
             de: "Chaoseinschlag",
+            ja: "カオスインパクト",
             ko: "카오스임팩트",
             'pt-br': "Impacto Caótico",
             "zh-tw": "混沌衝擊"
@@ -71,6 +76,7 @@ const card: Card = {
             it: "Questo Pokémon infligge anche 20 danni a se stesso.",
             de: "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu.",
             'pt-br': "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+            ja: "このポケモンにも20ダメージ。",
             ko: "이 포켓몬에게도 20데미지를 준다.",
             "zh-tw": "這只神奇寶貝也會對自身造成 20 點傷害。"
         }

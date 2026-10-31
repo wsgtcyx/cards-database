@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/064",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/064",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/064"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/064"
     },
     name: {
         en: "Cosmog",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Staubfänger",
                 "pt-br": "Coleta de Poeira",
                 "zh-tw": "集塵",
-                ja: "Dust Gathering",
+                ja: "ちりあつめ",
                 ko: "Dust Gathering"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Ziehe 1 Karte.",
                 "pt-br": "Compre carta.",
                 "zh-tw": "從自己的牌庫抽出張卡。",
-                ja: "Draw a card.",
+                ja: "自分の山札を1枚引く。",
                 ko: "Draw a card."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
         de: "Es stammt aus einem anderen Universum. Sein Körper aus Gas ist so leicht, dass es sogar von einer sanften Brise weggeweht wird.",
         "pt-br": "Este Pokémon veio de outro universo. Seu corpo gasoso é tão leve que uma brisa suave pode levá-lo embora.",
         "zh-tw": "來自其他的宇宙。氣體構成的身體十分輕盈，連微風都能把牠吹走。",
-        ja: "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+        ja: "別の 宇宙から やって来た。 ガスの 体は とても 軽く そよ風にも 流れてしまうほどだ。",
         ko: "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away."
     }
 };

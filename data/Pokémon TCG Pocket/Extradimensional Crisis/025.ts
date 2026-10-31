@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/025"
     },
     name: {
         en: "Trevenant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Trombork",
         "pt-br": "Trevenant",
         "zh-tw": "朽木妖",
+        ja: "オーロット",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Paragoni",
         "pt-br": "Phantump",
         "zh-tw": "小木靈",
+        ja: "ボクレー",
     },
     description: {
         en: "People fear it due to a belief that it devours any\nwho try to cut down trees in its forest, but to the\nPokémon it shares its woods with, it's kind.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le persone lo temono perché credono che divori qualsiasi cosa\nche cercano di abbattere gli alberi nella sua foresta, ma al\nPokémon con cui condivide i boschi, è gentile.",
         "de": "Die Menschen haben Angst davor, weil sie glauben, dass es jeden verschlingt\ndie versuchen, Bäume in ihrem Wald zu fällen, aber zum\nDas Pokémon, mit dem es seinen Wald teilt, ist nett.",
         "pt-br": "As pessoas o temem devido à crença de que devora qualquer\nque tentam derrubar árvores em sua floresta, mas para o\nPokémon com quem ele compartilha sua floresta é gentil.",
-        "zh-tw": "人們害怕它，因為相信它會吞噬任何東西\n他們試圖砍伐森林中的樹木，但\n與它共享森林的神奇寶貝很友善。"
+        "zh-tw": "人們害怕它，因為相信它會吞噬任何東西\n他們試圖砍伐森林中的樹木，但\n與它共享森林的神奇寶貝很友善。",
+        ja: "森の 木を 伐り倒す 人間を 食べると 恐れられているが 森で 暮らす ポケモンたちには 優しい。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Distruggilo",
                 "de": "Machen Sie Schluss",
                 "pt-br": "Destruir",
-                "zh-tw": "鎮壓"
+                "zh-tw": "鎮壓",
+                ja: "たたきつぶす"
             },
             damage: 70,
             cost: ["Psychic", "Colorless", "Colorless"]

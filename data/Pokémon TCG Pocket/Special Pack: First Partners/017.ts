@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/017",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/017",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/017"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/017"
     },
     name: {
         en: "Fennekin",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Kratzer",
                 "pt-br": "Arranhão",
                 "zh-tw": "抓",
-                ja: "Scratch",
+                ja: "ひっかく",
                 ko: "Scratch"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
         de: "Wenn es Zweige frisst, fasst es neue Kraft und stößt über seine Ohren über 200 °C heiße Luft aus.",
         "pt-br": "Comer um galho o enche de energia, suas orelhas espaçosas expelem ar mais quente que 200 °C.",
         "zh-tw": "吃了小樹枝就會精神百倍，並從大大的耳朵中呼出超過攝氏２００度的熱氣。",
-        ja: "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+        ja: "小枝を 食べると 元気になって 摂氏２００度を 超える 熱気を 大きな 耳から 噴き出す。",
         ko: "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit."
     }
 };

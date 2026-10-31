@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/007"
     },
     name: {
         en: "Cherrim",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cherrim",
         de: "Kinoso",
         'pt-br': "Cherrim",
+        ja: "チェリム",
         ko: "체리꼬",
         "zh-tw": "櫻花兒",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Kikugi",
         "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
+        ja: "チェリンボ",
     },
     description: {
         en: "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Quando è un bocciolo rimane pressoché\nimmobile in attesa che spunti il sole.",
         de: "Als Knospe verhält es sich ruhig und bewegt sich kaum,\nwährend es geduldig auf Sonnenschein wartet.",
         'pt-br': "Como um botão, quase não se move. Fica parado,\nesperando tranquilamente a luz do sol aparecer.",
+        ja: "つぼみの あいだは おとなしく ほぼ 動かない。 日の光が 出るのを じっと 待っている。",
         ko: "봉오리일 때는 얌전하고\n거의 움직이지 않는다. 햇빛이\n들기를 가만히 기다리고 있다.",
         "zh-tw": "作為一個花蕾，它幾乎不動。它靜靜地坐著，平靜地等待陽光的出現。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Affannoseme",
                 de: "Sorgensamen",
                 'pt-br': "Semente de Preocupação",
+                ja: "なやみのタネ",
                 ko: "고민씨",
                 "zh-tw": "憂心種子"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario viene confuso.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
+                ja: "相手のバトルポケモンをこんらんにする。",
                 ko: "상대의 배틀 포켓몬을 혼란으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Confuso.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於混亂狀態。"

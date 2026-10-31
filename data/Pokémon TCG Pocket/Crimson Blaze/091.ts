@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/091",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/091",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/091"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/091",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/091"
     },
     name: {
         en: "Charizard",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Charizard",
         "de": "Glurak",
         "pt-br": "Charizard",
-        "zh-tw": "噴火龍"
+        "zh-tw": "噴火龍",
+        ja: "リザードン"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "火恐龍"
+        "zh-tw": "火恐龍",
+        ja: "リザード"
     },
     description: {
         en: "Its wings can carry this Pokémon close to an\naltitude of 4,600 feet. It blows out fire at very\nhigh temperatures.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue ali possono portare questo Pokémon vicino ad un\naltitudine di 4.600 piedi. Spegne il fuoco molto\nalte temperature.",
         "de": "Seine Flügel können dieses Pokémon in die Nähe tragen\nHöhe von 4.600 Fuß. Es bläst das Feuer sehr schnell aus\nhohe Temperaturen.",
         "pt-br": "Suas asas podem levar este Pokémon para perto de um\naltitude de 4.600 pés. Ele apaga fogo muito\naltas temperaturas.",
-        "zh-tw": "它的翅膀可以攜帶該神奇寶貝靠近\n海拔 4,600 英尺。它在非常\n高溫。"
+        "zh-tw": "它的翅膀可以攜帶該神奇寶貝靠近\n海拔 4,600 英尺。它在非常\n高溫。",
+        ja: "地上 １４００メートルまで 羽を 使って 飛ぶことができる。 高熱の 炎を 吐く。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "L'Inferno Onrush",
                 "de": "Inferno-Ansturm",
                 "pt-br": "Investida Infernal",
-                "zh-tw": "地獄突襲"
+                "zh-tw": "地獄突襲",
+                ja: "もうかのとっしん"
             },
             damage: 150,
             cost: ["Fire", "Fire", "Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo Pokémon infligge anche 30 danni a se stesso.",
                 "de": "Dieses Pokémon fügt sich selbst außerdem 30 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 30 de dano a si mesmo.",
-                "zh-tw": "這只神奇寶貝也會對自身造成 30 點傷害。"
+                "zh-tw": "這只神奇寶貝也會對自身造成 30 點傷害。",
+                ja: "このポケモンにも30ダメージ。"
             }
         }],
     weaknesses: [{

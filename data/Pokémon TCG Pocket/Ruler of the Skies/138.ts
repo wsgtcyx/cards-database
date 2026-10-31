@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/138",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/138",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/138",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/138"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/138"
     },
     name: {
         en: "Tranquill",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Pokémon intelligente, dotato di una memoria\ndi ferro. Sembra che molti fattorini lo scelgano\ncome compagno.",
         de: "Es ist clever und hat ein gutes Gedächtnis.\nAnscheinend wird es von vielen Lieferanten als\nPartner ausgewählt.",
         "pt-br": "Estes Pokémon geniais têm uma ótima memória. Aparentemente, muitos entregadores os escolhem como parceiros Pokémon.",
-        "zh-tw": "頭腦聰明且記性很好。\n似乎有許多快遞員\n將牠選為自己的搭檔。"
+        "zh-tw": "頭腦聰明且記性很好。\n似乎有許多快遞員\n將牠選為自己的搭檔。",
+        ja: "賢く 物覚えが いい。 配達員が パートナーに 選ぶことが 多いらしい。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Immersione Rapida",
                 de: "Tempohechtsprung",
                 "pt-br": "Mergulho Veloz",
-                "zh-tw": "高速飛行"
+                "zh-tw": "高速飛行",
+                ja: "スピードひこう"
             },
             damage: 40
         }

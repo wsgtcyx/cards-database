@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/078",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/078",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/078"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/078"
     },
     name: {
         en: "Mega Blastoise ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Mega Blastoise-ex",
         "de": "Mega-Turtok-ex",
         "pt-br": "Mega Blastoise ex",
-        "zh-tw": "超級水箭龜ex"
+        "zh-tw": "超級水箭龜ex",
+        ja: "メガカメックスex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Wartortle",
         "de": "Schillok",
         "pt-br": "Wartortle",
-        "zh-tw": "卡咪龜"
+        "zh-tw": "卡咪龜",
+        ja: "カメール"
     },
     description: {
         en: "The cannon on its back is as powerful as a\ntank gun. Its tough legs and back enable it to\nwithstand the recoil from firing the cannon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il cannone sul dorso è potente quanto un\npistola da carro armato. Le sue gambe robuste e la schiena glielo consentono\nresistere al rinculo dello sparo del cannone.",
         "de": "Die Kanone auf seinem Rücken ist so stark wie ein\nPanzerpistole. Seine robusten Beine und sein robuster Rücken machen es ihm möglich\ndem Rückstoß durch das Abfeuern der Kanone standhalten.",
         "pt-br": "O canhão em suas costas é tão poderoso quanto um\narma de tanque. Suas pernas e costas resistentes permitem-lhe\nresistir ao recuo do disparo do canhão.",
-        "zh-tw": "它背上的大砲威力堪比\n坦克炮。它堅韌的腿和背部使它能夠\n承受大砲發射時的後坐力。"
+        "zh-tw": "它背上的大砲威力堪比\n坦克炮。它堅韌的腿和背部使它能夠\n承受大砲發射時的後坐力。",
+        ja: "甲羅の 大砲は 戦車並みの 威力。 発射の 衝撃を 強靭な 足腰で 踏ん張る。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Triplo bombardamento",
                 "de": "Dreifaches Bombardement",
                 "pt-br": "Bombardeio Triplo",
-                "zh-tw": "三重轟炸"
+                "zh-tw": "三重轟炸",
+                ja: "トリプルボンバード"
             },
             damage: 130,
             cost: ["Water", "Water", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha almeno tre Energie {W} extra assegnate, questo attacco infligge anche 50 danni a 2 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Wenn an dieses Pokémon mindestens 3 zusätzliche {W}-Energien angelegt sind, fügt dieser Angriff außerdem 2 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 3 {W} Energias extras ligadas, este ataque também causará 50 de dano a 2 Pokémon no Banco do seu oponente.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊也會對對手後備的 2 只神奇寶貝造成 50 點傷害。"
+                "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊也會對對手後備的 2 只神奇寶貝造成 50 點傷害。",
+                ja: "追加で{W}エネルギーが3個ついているなら、相手のベンチポケモン2匹にも、それぞれ50ダメージ。"
             }
         }],
     weaknesses: [{

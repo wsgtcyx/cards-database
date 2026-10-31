@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/108",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/108"
     },
     name: {
         en: "Eelektrik",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Eelektrik",
         de: "Zapplalek",
         'pt-br': "Eelektrik",
+        ja: "シビビール",
         ko: "저리릴",
         "zh-tw": "麻麻鰻",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Tynamo",
         "de": "Zapplardin",
         "pt-br": "Tynamo",
-        "zh-tw": "麻麻小魚"
+        "zh-tw": "麻麻小魚",
+        ja: "シビシラス"
     },
     attacks: [{
             cost: ["Lightning"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Zuccalampo",
                 de: "Kopf-Blitz",
                 'pt-br': "Raio de Cabeça",
+                ja: "ヘッドボルト",
                 ko: "헤드볼트",
                 "zh-tw": "頭部螺栓"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "I motivi circolari sono organi generatori di\ncorrente. Si avvolge al nemico premendoglieli\naddosso per poi rilasciare una scarica elettrica.",
         de: "Die runden Flecken sind Organe, die Strom\nerzeugen. Es schlingt sich um seinen Gegner,\npresst sie gegen ihn und aktiviert sie.",
         'pt-br': "Eles se enrolam nos adversários e disparam choques\ncom órgãos geradores de eletricidade que parecem\nsimplesmente ser padrões circulares.",
+        ja: "丸い 模様が 発電 器官。相手に 巻きついてから 模様を 押しつけて 電気を 流すのだ。",
         ko: "둥근 무늬가 발전 기관이다.\n상대를 휘감은 후 무늬를\n딱 붙여서 전기를 흘려보낸다.",
         "zh-tw": "它們盤旋在敵人周圍，用看似簡單的圓形圖案的發電器官對他們進行電擊。"
     },

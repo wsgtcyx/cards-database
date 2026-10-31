@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/148",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/148",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/148"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/148",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/148"
     },
     name: {
         en: "Rocky Helmet",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bitorzolelmo",
         de: "Beulenhelm",
         'pt-br': "Capacete de Pedra",
+        ja: "ゴツゴツメット",
         ko: "울퉁불퉁멧",
         "zh-tw": "凸凸頭盔",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Se il Pokémon a cui è assegnata questa carta è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
         de: "Wenn das Pokémon, an das diese Karte angelegt ist, in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
         'pt-br': "Se o Pokémon ao qual esta carta está ligada estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
+        ja: "このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
         ko: "이 카드를 붙이고 있는 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
         "zh-tw": "這張卡所附著的寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害時，對攻擊的寶可夢造成 20 點傷害。"
     },

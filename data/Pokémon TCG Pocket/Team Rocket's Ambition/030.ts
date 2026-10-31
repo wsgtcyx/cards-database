@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/030",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/030",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/030",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/030"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/030",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/030"
     },
     name: {
         en: "Team Rocket's Mewtwo",
@@ -36,7 +37,8 @@ const card: Card = {
         it: "È stato creato da uno scienziato dopo lunghe ricerche. La sua potenza emerge specialmente nella lotta.",
         de: "Dieses Pokémon ist das Resultat der Experimente eines gewissen Forschers. Es setzt all seine Kraft fürs Kämpfen ein.",
         "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha.",
-        "zh-tw": "某位科學家的研究造就了夢夢的誕生，牠的力量專為戰鬥而存在。"
+        "zh-tw": "某位科學家的研究造就了夢夢的誕生，牠的力量專為戰鬥而存在。",
+        ja: "ある 科学者が 研究の 末に 生み出した。 その力は 戦うことに 特化 している。"
     },
     attacks: [
         {
@@ -48,7 +50,8 @@ const card: Card = {
                 it: "Deflagrazione Psichica",
                 de: "Psycho-Explosion",
                 "pt-br": "Detonação Psíquica",
-                "zh-tw": "精神炸彈"
+                "zh-tw": "精神炸彈",
+                ja: "サイキックボム"
             },
             effect: {
                 en: "This Pokémon also does 70 damage to itself.",
@@ -57,7 +60,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 70 danni a se stesso.",
                 de: "Dieses Pokémon fügt auch selbst sich 70 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 70 pontos de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也受到70點傷害。"
+                "zh-tw": "這隻寶可夢也受到70點傷害。",
+                ja: "このポケモンにも70ダメージ。"
             },
             damage: 130
         }

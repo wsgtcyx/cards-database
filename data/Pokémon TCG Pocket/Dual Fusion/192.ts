@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/192",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/192",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/192",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/192"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/192",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/192"
     },
     name: {
         en: "Seel",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Kaskade",
                 "pt-br": "Cachoeira",
                 "zh-tw": "攀瀑",
-                ja: "Waterfall",
+                ja: "たきのぼり",
                 ko: "Waterfall"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
         de: "Dieses Pokémon verfügt über ein sehr hartes Horn. Mit Kopfstößen durchbricht es Eismassen in seinem Weg.",
         "pt-br": "A protuberância extremamente resistente em sua cabeça é usada para arrebentar camadas espessas de gelo.",
         "zh-tw": "頭上有著非常堅硬的突起部分，能夠用頭槌撞破冰山來開拓前進。",
-        ja: "The protrusion on its head is very hard. It is used for bashing through thick ice.",
+        ja: "頭に でっぱりが あって 非常に 硬い。 頭突きで 氷山を 割って 進む。",
         ko: "The protrusion on its head is very hard. It is used for bashing through thick ice."
     }
 };

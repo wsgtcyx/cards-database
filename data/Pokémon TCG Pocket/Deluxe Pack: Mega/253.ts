@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/253",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/253",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/253",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/253"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/253",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/253"
     },
     name: {
         en: "Floragato",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Felori",
         "pt-br": "Sprigatito",
         "zh-tw": "新葉喵",
-        ja: "Sprigatito",
+        ja: "ニャオハ",
         ko: "Sprigatito"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Die Geschmeidigkeit seines Fells ändert sich je nach Laune des Pokémon. Macht es sich für den Kampf bereit, wird das Fell so spitz wie Nadeln.",
         "pt-br": "A rigidez do pelo de Floragato depende do humor do Pokémon. Quando Floragato está pronto para a batalha, seu pelo fica arrepiado e pontiagudo.",
         "zh-tw": "體毛的硬度會隨心情而變。進入迎戰狀態時，體毛會變得如針般尖銳。",
-        ja: "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.",
+        ja: "体毛の 硬さは 気分で 変わる。 臨戦態勢になると 針のように 鋭利に 尖るぞ。",
         ko: "The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
     },
     stage: "Stage1",
@@ -68,7 +69,7 @@ const card: Card = {
                 "zh-tw": "綠葉舞步",
                 "es-mx": "Paso de Hoja",
                 pt: "Passo de Folha",
-                ja: "Leaf Step",
+                ja: "リーフステップ",
                 ko: "Leaf Step"
             },
             damage: 30,

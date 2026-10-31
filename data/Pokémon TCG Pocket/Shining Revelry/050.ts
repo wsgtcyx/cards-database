@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/050",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/050"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/050"
     },
     name: {
         en: "Shroodle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Shroodle",
         de: "Sproxi",
         'pt-br': "Shroodle",
+        ja: "シルシュルー",
         ko: "땃쭈르",
         "zh-tw": "滋汁鼴"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È di natura mite, ma se qualcuno lo\nfa arrabbiare lo morde con gli incisivi\nimpregnati di un veleno paralizzante.",
         de: "Wer dieses friedfertige Pokémon verärgert,\nwird durch einen Biss mit seinen scharfen,\ngiftgetränkten Schneidezähnen gelähmt.",
         'pt-br': "Apesar de normalmente ser manso, este Pokémon finca\nseus dentes frontais afiados e venenosos em\nqualquer um que o irritar, causando paralisia.",
+        ja: "温厚だが 怒らせると 毒が 染みこんだ 鋭い 前歯で 咬みつき 痺れさせてくるぞ。",
         ko: "온화하지만 화가 나게 하면\n독이 밴 날카로운 앞니로 물어서\n상대를 마비시킨다.",
         "zh-tw": "雖然它通常是性情溫和的神奇寶貝，但它會用鋒利的、浸有毒液的門牙咬住任何激怒它的東西，導致它憤怒的對象癱瘓。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Rosicchiamento",
             de: "Nagen",
             'pt-br': "Roída",
+            ja: "かじる",
             ko: "갉기",
             "zh-tw": "啃"
         },

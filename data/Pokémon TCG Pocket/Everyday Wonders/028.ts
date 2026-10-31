@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/028",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/028",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/028"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/028"
     },
     name: {
         en: "Munna",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si nutre di sogni. Esala un fumo rosa se sono\nsogni piacevoli e nero se sono incubi.",
         de: "Während es Träume frisst, stößt es Dunst aus.\nBei fröhlichen Träumen ist dieser rosafarben,\nbei Alpträumen schwärzlich.",
         "pt-br": "Come sonhos e libera névoa. A névoa é rosa quando está comendo um sonho bom e preta quando está comendo um pesadelo.",
-        "zh-tw": "在吃掉夢之後會吐出煙霧。\n吃了快樂的夢時，煙霧是粉紅色的；\n如果是惡夢，煙霧則是黑灰色的。"
+        "zh-tw": "在吃掉夢之後會吐出煙霧。\n吃了快樂的夢時，煙霧是粉紅色的；\n如果是惡夢，煙霧則是黑灰色的。",
+        ja: "夢を 食べて 煙を 吐く。 楽しい 夢なら ピンク色で 悪夢の ときは 黒っぽいぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 20
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/152",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/152",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/152",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/152"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/152",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/152"
     },
     name: {
         en: "Piers",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ginepro",
         "de": "Nezz",
         "pt-br": "Pietro",
-        "zh-tw": "聶梓"
+        "zh-tw": "聶梓",
+        ja: "ネズ"
     },
     illustrator: "hncl",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Puoi utilizzare questa carta solo se hai Galarian Obstagoon in gioco.\n\nScarta due Energie casuali dal Pokémon attivo del tuo avversario.",
         "de": "Du kannst diese Karte nur verwenden, wenn du Galarian Obstagoon im Spiel hast.\n\nLege 2 zufällige Energien vom Aktiven Pokémon deines Gegners ab.",
         "pt-br": "Você só pode usar esta carta se tiver Galarian Obstagoon em jogo.\n\nDescarte 2 Energias aleatórias do Pokémon Ativo do seu oponente.",
-        "zh-tw": "僅當你場上有加拉利安阻擊者時才可以使用這張卡。\n\n丟棄對手的活躍神奇寶貝中的 2 個隨機能量。"
+        "zh-tw": "僅當你場上有加拉利安阻擊者時才可以使用這張卡。\n\n丟棄對手的活躍神奇寶貝中的 2 個隨機能量。",
+        ja: "このカードは、自分の場に「ガラルタチフサグマ」がいるときにしか使えない。 相手のバトルポケモンからエネルギーをランダムに2個トラッシュ。"
     },
     trainerType: "Supporter"
 };

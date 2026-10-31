@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/087",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/087",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/087",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/087"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/087",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/087"
     },
     name: {
         en: "Jolteon ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Evoli",
         "pt-br": "Eevee",
         "zh-tw": "伊布",
-        ja: "Eevee",
+        ja: "イーブイ",
         ko: "Eevee"
     },
     stage: "Stage1",
@@ -54,7 +55,7 @@ const card: Card = {
                 de: "Elektromagnetischer Wall",
                 "pt-br": "Parede Eletromagnética",
                 "zh-tw": "電磁牆",
-                ja: "Electromagnetic Wall",
+                ja: "でんじウォール",
                 ko: "Electromagnetic Wall"
             },
             effect: {
@@ -65,7 +66,7 @@ const card: Card = {
                 de: "Solange dieses Pokémon in der Aktiven Position ist, füge jedes Mal, wenn dein Gegner Energie aus seinem Energiebereich an 1 seiner Pokémon anlegt, jenem Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "Enquanto este Pokémon estiver no Campo Ativo, sempre que seu oponente ligar uma Energia da Zona de Energia dele a 1 dos Pokémon dele, cause 20 pontos de dano àquele Pokémon.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,對手每次從能量區將能量附於寶可夢身上時,該寶可夢受到20點傷害。",
-                ja: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon.",
+                ja: "このポケモンがバトル場にいるかぎり、相手はエネルギーゾーンからポケモンにエネルギーをつけるたび、そのポケモンに20ダメージ。",
                 ko: "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon."
             }
         }
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Flotter Sprung",
                 "pt-br": "Raio Supersônico",
                 "zh-tw": "音速伏特",
-                ja: "Mach Bolt",
+                ja: "マッハボルト",
                 ko: "Mach Bolt"
             },
             damage: 80,

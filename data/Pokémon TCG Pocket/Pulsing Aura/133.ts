@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/133",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/133",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/133"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/133"
     },
     name: {
         en: "Castform",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo aspetto cambia con le condizioni\natmosferiche. Più il tempo è brutto, più\ndiventa aggressivo.",
         de: "Seine Gestalt ändert sich abhängig vom Wetter.\nJe ungestümer dieses ist, desto gröber wird\nauch sein Charakter.",
         "pt-br": "Sua forma muda dependendo do clima. Quanto mais difíceis ficam as condições, mais difícil é a disposição do Castform!",
-        "zh-tw": "樣子會隨著天氣而變化。\n天氣越是惡劣，\n性情就會變得越粗暴。"
+        "zh-tw": "樣子會隨著天氣而變化。\n天氣越是惡劣，\n性情就會變得越粗暴。",
+        ja: "天気に よって 姿が 変わる。 気象が 荒くなるほど 気性も 荒っぽく なってくる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Colposecco",
                 de: "Durchdringender Strahl",
                 "pt-br": "Sopro Intenso",
-                "zh-tw": "穿堂風"
+                "zh-tw": "穿堂風",
+                ja: "ふきぬける"
             },
             effect: {
                 en: "If a Stadium is in play, this attack does 20 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se è in gioco uno Stadio, questo attacco infligge 20 danni in più.",
                 de: "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 20 pontos de dano a mais.",
-                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 20 點額外傷害。"
+                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 20 點額外傷害。",
+                ja: "場にスタジアムが出ているなら、20ダメージ追加。"
             },
             damage: "20+"
         }

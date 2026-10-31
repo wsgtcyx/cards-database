@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/037"
     },
     name: {
         en: "Empoleon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Empoleon",
         de: "Impoleon",
         'pt-br': "Empoleon",
+        ja: "エンペルト",
         ko: "엠페르트",
         "zh-tw": "帝王拿波",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Pliprin",
         "pt-br": "Prinplup",
         "zh-tw": "波皇子",
+        ja: "ポッタイシ",
     },
     description: {
         en: "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Nuota veloce come una moto d'acqua. Le estremità\ndelle ali sono aguzze e spaccano anche il ghiaccio.",
         de: "Es schwimmt so schnell wie ein Rennboot. Seine Flügel\nhaben scharfe Seiten und können Packeis schneiden.",
         'pt-br': "Movimenta-se tão rápido quanto uma lancha.\nAs suas asas afiadas são capazes de fatiar icebergs.",
+        ja: "ジェットスキーに 負けない 速度で 泳ぐ。翼の 縁は 鋭く 流氷を 切断する。",
         ko: "제트스키와 맞먹는 속도로\n헤엄친다. 날개 가장자리는\n날카롭게 유빙을 절단한다.",
         "zh-tw": "它游得像噴射艇一樣快。它的翅膀邊緣很鋒利，可以切開流冰。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Acquagetto",
                 de: "Wasserdüse",
                 'pt-br': "Aqua Jato",
+                ja: "アクアジェット",
                 ko: "아쿠아제트",
                 "zh-tw": "水流噴射"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Questo attacco infligge anche 30 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque também causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモン1匹にも30ダメージ。",
                 ko: "상대의 벤치 포켓몬 1마리에게도 30데미지를 준다.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 30 點傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/010",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/010",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/010",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/010"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/010"
     },
     name: {
         en: "Fennekin",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "I ramoscelli sono il suo spuntino preferito. Sgranocchiarli gli infonde il coraggio di affrontare i nemici più forti.",
         de: "Zweige sind ein Snack für Fynx. Wenn es auf ihnen herumkaut, fasst es den Mut, sich starken Gegnern entgegenzustellen.",
         "pt-br": "Galhos servem de lanche para Fennekin. Quando mastiga esses galhos, toma coragem para enfrentar inimigos fortes.",
-        "zh-tw": "小樹枝是火狐狸的零食。卡滋卡滋地啃著啃著就會湧出對抗強敵的勇氣。"
+        "zh-tw": "小樹枝是火狐狸的零食。卡滋卡滋地啃著啃著就會湧出對抗強敵的勇氣。",
+        ja: "小枝は フォッコの おやつ。 ポリポリ かじると 強敵に 立ち向かう 勇気が 湧いてくる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 "pt-br": "Arranhão",
-                "zh-tw": "抓"
+                "zh-tw": "抓",
+                ja: "ひっかく"
             },
             damage: 10
         }

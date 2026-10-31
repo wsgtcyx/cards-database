@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/069",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/069",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/069"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/069"
     },
     name: {
         en: "Shroodle",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Sproxi",
         "pt-br": "Shroodle",
         "zh-tw": "滋汁鼴",
+        ja: "シルシュルー",
         pt: "Shroodle",
         'es-mx': "Shroodle"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Per tenere i nemici lontani dal suo territorio, dipinge dei segni attorno al suo nido utilizzando un liquido velenoso dall'odore acre.",
         "de": "Um Feinde von seinem Revier fernzuhalten, malt er mit einer giftigen Flüssigkeit, die einen beißenden Geruch hat, Markierungen rund um sein Nest.",
         "pt-br": "Para manter os inimigos longe de seu território, ele pinta marcas ao redor de seu ninho usando um líquido venenoso de odor acre.",
-        "zh-tw": "為了讓敵人遠離它的領地，它會使用具有辛辣氣味的有毒液體在巢周圍繪製標記。"
+        "zh-tw": "為了讓敵人遠離它的領地，它會使用具有辛辣氣味的有毒液體在巢周圍繪製標記。",
+        ja: "縄張りに 敵が 近づかないよう 刺激臭がする 毒液で 巣の まわりに 図形を 描く。"
     },
     stage: "Basic",
     attacks: [
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Graffio",
                 de: "Scratch",
                 "pt-br": "Arranhar",
-                "zh-tw": "划痕"
+                "zh-tw": "划痕",
+                ja: "ひっかく"
             },
             damage: 20,
             cost: ["Colorless"],

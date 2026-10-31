@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/045",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/045",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/045",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/045",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/045"
     },
     name: {
         en: "Nosepass",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Nosepass",
         de: "Nasgnet",
         'pt-br': "Nosepass",
+        ja: "ノズパス",
         ko: "코코파스",
         "zh-tw": "朝北鼻",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si sposta di 1 cm all'anno, ma quando si trova in difficoltà\nruota su se stesso e in un attimo si nasconde sottoterra.",
         de: "Es bewegt sich nur 1 cm pro Jahr, aber in\nNotlagen bohrt es sich mit seinem Körper\nblitzschnell in den Boden.",
         'pt-br': "Este Pokémon move-se 3 centímetros por ano,\nmas quando está em uma enrascada, gira e perfura o solo\nem questão de segundos.",
+        ja: "１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。",
         ko: "1년에 1cm밖에 움직이지 않지만\n위기에 처하면 회전하여\n순식간에 땅속으로 파고든다.",
         "zh-tw": "它每年移動不到一英寸，但是當\n它陷入困境，它會旋轉並鑽入\n瞬間落地。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Ferroscudo",
                 de: "Eisenabwehr",
                 'pt-br': "Defesa de Ferro",
+                ja: "てっぺき",
                 ko: "철벽",
                 "zh-tw": "鋼鐵防禦"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon da qualsiasi attacco.",
                 de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden, der diesem Pokémon durch Attacken zugefügt wird.",
                 'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques.",
+                ja: "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.",
                 "zh-tw": "拋一枚硬幣。如果正面，則在對手的下一個回合中，阻止攻擊對該神奇寶貝造成的所有傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/245",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/245",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/245",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/245"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/245",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/245"
     },
     name: {
         en: "Pidgeot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pidgeot",
         de: "Tauboss",
         'pt-br': "Pidgeot",
+        ja: "ピジョット",
         ko: "피죤투",
         "zh-tw": "大比鳥",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Filar Via",
                 de: "Wegtreiben",
                 'pt-br': "Rechaçar",
+                ja: "おいはらう",
                 ko: "쫓아내기",
                 "zh-tw": "開車離開"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi spostare il Pokémon attivo del tuo avversario nella sua panchina. Il tuo avversario sceglie il nuovo Pokémon attivo.",
                 de: "Einmal während deines Zuges kannst du das Aktive Pokémon deines Gegners auf seine Bank auswechseln. (Dein Gegner wählt das neue Aktive Pokémon.)",
                 'pt-br': "Uma vez durante o seu turno, você poderá mandar o Pokémon Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)",
+                ja: "自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。[バトル場に出すポケモンは相手が選ぶ。]",
                 ko: "자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)",
                 "zh-tw": "在你的回合中，你可以將對手的活躍神奇寶貝切換到替補席上。 （你的對手選擇新的活躍神奇寶貝。）"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Attacco d'Ala",
                 de: "Flügelschlag",
                 'pt-br': "Ataque de Asa",
+                ja: "つばさでうつ",
                 ko: "날개치기",
                 "zh-tw": "翼攻擊"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Quando caccia, vola velocissimo sul pelo dell'acqua\ne cattura ignare prede come Magikarp.",
         de: "Dieses Pokémon schnellt bei der Jagd blitzschnell\nunter Wasser, um seine ahnungslose Beute zu fangen.",
         'pt-br': "Quando caça, bate na superfície da água em\nalta velocidade para capturar presas desavisadas,\ncomo Magikarp.",
+        ja: "エサを 探すとき 水面 すれすれを 滑るように 飛んで コイキングなどを わしづかみにする。",
         ko: "먹이를 찾을 때 수면을\n아슬아슬하게 미끄러지듯 날아\n잉어킹 등을 움켜잡는다.",
         "zh-tw": "捕獵時，它會高速掠過水面，捕捉鯉魚等粗心的獵物。"
     },

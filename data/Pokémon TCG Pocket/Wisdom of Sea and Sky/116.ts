@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/116",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/116",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/116"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/116",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/116"
     },
     name: {
         en: "Weavile",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Snibunna",
         "pt-br": "Weavile",
         "zh-tw": "瑪狃拉",
+        ja: "マニューラ",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Sniebel",
         "pt-br": "Sneasel",
         "zh-tw": "狃拉",
+        ja: "ニューラ",
     },
     description: {
         en: "Evolution made it even more devious.\nIt communicates by clawing signs in boulders.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "L'evoluzione lo ha reso ancora più subdolo.\nComunica artigliando segni nei massi.",
         "de": "Die Evolution hat es noch verschlagener gemacht.\nEs kommuniziert, indem es Zeichen in Felsbrocken kratzt.",
         "pt-br": "A evolução tornou tudo ainda mais tortuoso.\nEle se comunica arranhando sinais em pedras.",
-        "zh-tw": "進化使它變得更加狡猾。\n它通過抓撓巨石上的標誌進行交流。"
+        "zh-tw": "進化使它變得更加狡猾。\n它通過抓撓巨石上的標誌進行交流。",
+        ja: "進化して さらに ずる賢くなり ツメで 石に サインをつけて コミュニケーションを はかっている。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 50,
             cost: ["Darkness"]

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/035",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/035",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/035"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/035",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/035"
     },
     name: {
         en: "Charizard",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Charizard",
         de: "Glurak",
         'pt-br': "Charizard",
+        ja: "リザードン",
         ko: "리자몽",
         "zh-tw": "噴火龍"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "火恐龍"
+        "zh-tw": "火恐龍",
+        ja: "リザード"
     },
     attacks: [{
             cost: ["Fire", "Fire", "Colorless", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Turbofuoco",
                 de: "Feuerwirbel",
                 'pt-br': "Chama Furacão",
+                ja: "ほのおのうず",
                 ko: "회오리불꽃",
                 "zh-tw": "火旋"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {R} da questo Pokémon.",
                 de: "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Sputa fiamme incandescenti in grado di fondere\nle rocce. A volte causa incendi boschivi.",
         de: "Dieses Pokémon kann mit seinem\nFeueratem Felsen schmelzen.\nEs verursacht ab und zu Waldbrände.",
         'pt-br': "Cospe chamas quentes o bastante para\nderreter rochedos. Estas chamas podem\ncausar incêndios florestais.",
+        ja: "岩石も 焼けるような 灼熱の 炎を 吐いて 山火事を 起こすことが ある。",
         ko: "암석도 태워버릴 정도로\n작열하는 화염을 뿜어\n산불을 일으킬 때가 있다.",
         "zh-tw": "它噴出的火熱得足以融化巨石。它可能會因噴出火焰而引起森林火災。"
     },

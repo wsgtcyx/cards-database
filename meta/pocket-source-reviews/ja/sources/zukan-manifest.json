@@ -1,0 +1,5918 @@
+[
+  {
+    "species": 1,
+    "url": "https://zukan.pokemon.co.jp/detail/0001",
+    "sha256": "1dfa87a326a4289a336a17974b20b8a8fed4f34632c2149aa1c4ba5b32a0b70c",
+    "bytes": 37943
+  },
+  {
+    "species": 2,
+    "url": "https://zukan.pokemon.co.jp/detail/0002",
+    "sha256": "32066ff7bf36a50cbfe014132f201e707e5023efc32501398904975cb26f1188",
+    "bytes": 38064
+  },
+  {
+    "species": 3,
+    "url": "https://zukan.pokemon.co.jp/detail/0003",
+    "sha256": "f2e967a7de95850f0cf0f954e5ff9565257de7e447a18206641db82100367d66",
+    "bytes": 40591
+  },
+  {
+    "species": 4,
+    "url": "https://zukan.pokemon.co.jp/detail/0004",
+    "sha256": "d48d9076ba6db418cd55a8c61fef6350d27dba56e162bacfb3231c64e5db9c31",
+    "bytes": 37582
+  },
+  {
+    "species": 5,
+    "url": "https://zukan.pokemon.co.jp/detail/0005",
+    "sha256": "eff7618209b2fffa925c28b9e5c1cbbbb0b954271e5455d7941e7eef22ec7007",
+    "bytes": 37596
+  },
+  {
+    "species": 6,
+    "url": "https://zukan.pokemon.co.jp/detail/0006",
+    "sha256": "cb6ee85423a1ff8a743400831d06a83f1985fcb3789fc320338eae846d35f6fd",
+    "bytes": 41203
+  },
+  {
+    "species": 7,
+    "url": "https://zukan.pokemon.co.jp/detail/0007",
+    "sha256": "d365b76f55c71c09cb0d793689b2fa6271ccdcb35c366fbc8a88f7e4657d3e2e",
+    "bytes": 37427
+  },
+  {
+    "species": 8,
+    "url": "https://zukan.pokemon.co.jp/detail/0008",
+    "sha256": "c9b3b9bdd049166ef61e6ce47e070a35eb0b363f2a2d589fd20948ca3c327fae",
+    "bytes": 37441
+  },
+  {
+    "species": 9,
+    "url": "https://zukan.pokemon.co.jp/detail/0009",
+    "sha256": "9025f4f9cd8ac21343c2ad6f58c11b69f19a1a33368f51a0ccace2855cb4b43f",
+    "bytes": 39487
+  },
+  {
+    "species": 10,
+    "url": "https://zukan.pokemon.co.jp/detail/0010",
+    "sha256": "5da48326b8fc6d2f22111ef9fcf90cd25370048d2413cf1e2748a474ea1f96b2",
+    "bytes": 36545
+  },
+  {
+    "species": 11,
+    "url": "https://zukan.pokemon.co.jp/detail/0011",
+    "sha256": "c82337c4432dcb00dc96ab8e1016095487ad3eb85c2f273ee09ab747f9698497",
+    "bytes": 36555
+  },
+  {
+    "species": 12,
+    "url": "https://zukan.pokemon.co.jp/detail/0012",
+    "sha256": "7de1ec571189a116c680b2b9df82b847f7c66ae3e9a9d82ba0b5b56877dd1e28",
+    "bytes": 38428
+  },
+  {
+    "species": 13,
+    "url": "https://zukan.pokemon.co.jp/detail/0013",
+    "sha256": "61f5d326d4c008884a18cdedd6ea2dec7c29ac2b738ff13748b6d6fa3244c56f",
+    "bytes": 36849
+  },
+  {
+    "species": 14,
+    "url": "https://zukan.pokemon.co.jp/detail/0014",
+    "sha256": "16b6dcc5719cfa73eb9b814594112ef84ab9ce147c392d8413792a9a4b90d79b",
+    "bytes": 36845
+  },
+  {
+    "species": 15,
+    "url": "https://zukan.pokemon.co.jp/detail/0015",
+    "sha256": "2792fa706dff2a2e8d33fc1edc949db4accdec76c7f5ef744107b6e035a1fec6",
+    "bytes": 38520
+  },
+  {
+    "species": 16,
+    "url": "https://zukan.pokemon.co.jp/detail/0016",
+    "sha256": "57daf529435b6760b81621783a18c6e167e843bc4e4198e79d0b2a6d1abeaf0e",
+    "bytes": 37736
+  },
+  {
+    "species": 17,
+    "url": "https://zukan.pokemon.co.jp/detail/0017",
+    "sha256": "9a4d37f59fd90362087522678ad20a012538b11131242f10f43e8d3ab48c921e",
+    "bytes": 37735
+  },
+  {
+    "species": 18,
+    "url": "https://zukan.pokemon.co.jp/detail/0018",
+    "sha256": "6a91b717b497e9f01004ab04d8353852585086531322964d0e467c30931874ab",
+    "bytes": 39467
+  },
+  {
+    "species": 19,
+    "url": "https://zukan.pokemon.co.jp/detail/0019",
+    "sha256": "7d8d8a167abb4e500949ac8671653a0f2f40ed9f3acf8b32a0c06b85d97793c8",
+    "bytes": 37345
+  },
+  {
+    "species": 20,
+    "url": "https://zukan.pokemon.co.jp/detail/0020",
+    "sha256": "a6c382aba441b89cc0491750f371f0671c0b1da38902ba922f30b4f52387df6b",
+    "bytes": 37337
+  },
+  {
+    "species": 21,
+    "url": "https://zukan.pokemon.co.jp/detail/0021",
+    "sha256": "f1cb826aec9155aa536961f0ff669ea35160c1fea3bb76f21f1da076602ac721",
+    "bytes": 35505
+  },
+  {
+    "species": 22,
+    "url": "https://zukan.pokemon.co.jp/detail/0022",
+    "sha256": "a018a49f5f64a6a483f1f6cea909718c626bec7cd75830cbe3408101aa7a7956",
+    "bytes": 35507
+  },
+  {
+    "species": 23,
+    "url": "https://zukan.pokemon.co.jp/detail/0023",
+    "sha256": "eea2c387f8c2cf22f5641466e20921b54f3e2ae55a93a53ca00a47c2d29b3e1d",
+    "bytes": 36902
+  },
+  {
+    "species": 24,
+    "url": "https://zukan.pokemon.co.jp/detail/0024",
+    "sha256": "cd81a9781e6e811c9d89538752303c2bff2a57c82ffc4b40cda15a20efe40fbd",
+    "bytes": 36936
+  },
+  {
+    "species": 25,
+    "url": "https://zukan.pokemon.co.jp/detail/0025",
+    "sha256": "b7aa78455ccd50149e00f500319dd4750e202de5601252052e5970b009bbdf3a",
+    "bytes": 40530
+  },
+  {
+    "species": 26,
+    "url": "https://zukan.pokemon.co.jp/detail/0026",
+    "sha256": "d07ebd9e4129d40383810079640c0da5fd7aa425b99289fe27355c09d115697b",
+    "bytes": 42054
+  },
+  {
+    "species": 27,
+    "url": "https://zukan.pokemon.co.jp/detail/0027",
+    "sha256": "d48c87a02f92ae57cd7a4e8c58e407e8ec0e205b93cf3cd8ea1ebcfeb173a883",
+    "bytes": 37788
+  },
+  {
+    "species": 28,
+    "url": "https://zukan.pokemon.co.jp/detail/0028",
+    "sha256": "1876f47dbfbcb96a2e83733e7afa4b458eb49681ad5b20c2a8df0c7e03b79430",
+    "bytes": 37827
+  },
+  {
+    "species": 30,
+    "url": "https://zukan.pokemon.co.jp/detail/0030",
+    "sha256": "29bc062fd5b75f78d17e0f67823bfa02676e02f0d0dfc06f1cb63052817442cd",
+    "bytes": 37393
+  },
+  {
+    "species": 31,
+    "url": "https://zukan.pokemon.co.jp/detail/0031",
+    "sha256": "6aa7ce3025b0a08296f0612c79086dd7654b07728917c4f79f8abbcf299bb723",
+    "bytes": 37554
+  },
+  {
+    "species": 32,
+    "url": "https://zukan.pokemon.co.jp/detail/0032",
+    "sha256": "4768c947041e57172512dc74171386f6a6d6934e4c99dd966a8f90cd37cfd034",
+    "bytes": 37382
+  },
+  {
+    "species": 33,
+    "url": "https://zukan.pokemon.co.jp/detail/0033",
+    "sha256": "ace3948b8367a5c4d5f4f4055d3274b77fe78d02b4694eb994ab668776556fc9",
+    "bytes": 37383
+  },
+  {
+    "species": 34,
+    "url": "https://zukan.pokemon.co.jp/detail/0034",
+    "sha256": "c8c4410e36195b360fdf955c13f43ee2798946742a9a87dfae532ede3c6c28b0",
+    "bytes": 37547
+  },
+  {
+    "species": 35,
+    "url": "https://zukan.pokemon.co.jp/detail/0035",
+    "sha256": "abcb2ed9ceedc8db1e18a75712cb16e42ce3e776132184aef57dbee7fc4fb384",
+    "bytes": 39120
+  },
+  {
+    "species": 36,
+    "url": "https://zukan.pokemon.co.jp/detail/0036",
+    "sha256": "3978a81837a09d592827d4e42c57e514772d9d376f53b76807407dd8a8f17291",
+    "bytes": 40697
+  },
+  {
+    "species": 37,
+    "url": "https://zukan.pokemon.co.jp/detail/0037",
+    "sha256": "63b9aa07a773562583be54f0e88dae4e53fb8159128712eedc350b454db3b584",
+    "bytes": 38303
+  },
+  {
+    "species": 38,
+    "url": "https://zukan.pokemon.co.jp/detail/0038",
+    "sha256": "cc3f8eee7116208b75138a0862f3b4e6080458d9afbb0d4ac4c3300ceea82eb3",
+    "bytes": 38518
+  },
+  {
+    "species": 39,
+    "url": "https://zukan.pokemon.co.jp/detail/0039",
+    "sha256": "ffd439416d2508d7fc8535273d9c71685d24be7cee06e4c57f83db7e2e5492ca",
+    "bytes": 39019
+  },
+  {
+    "species": 40,
+    "url": "https://zukan.pokemon.co.jp/detail/0040",
+    "sha256": "d6a73061f4430ad01e44308a0b7ce4cd35d81db3562ba6f546badf95bf3374cb",
+    "bytes": 39015
+  },
+  {
+    "species": 41,
+    "url": "https://zukan.pokemon.co.jp/detail/0041",
+    "sha256": "a5739cff493fedd044b5c691b28b6d3cbafd38261d655e7ad2bd35b5f570b938",
+    "bytes": 38362
+  },
+  {
+    "species": 42,
+    "url": "https://zukan.pokemon.co.jp/detail/0042",
+    "sha256": "b81d2d72a4c5d0823274dc9558d864e4bd74ffe4e349119d5d76af4cb7093cd5",
+    "bytes": 38369
+  },
+  {
+    "species": 43,
+    "url": "https://zukan.pokemon.co.jp/detail/0043",
+    "sha256": "90d36388c28b007604fc982a938140809b2e97a35d3d24d8a1403b97613d91ae",
+    "bytes": 38409
+  },
+  {
+    "species": 44,
+    "url": "https://zukan.pokemon.co.jp/detail/0044",
+    "sha256": "5bf77bbc73b1d1abbae156ad06d57d5a7d03a35a1fabab84f326bf7f7dc4961a",
+    "bytes": 38430
+  },
+  {
+    "species": 45,
+    "url": "https://zukan.pokemon.co.jp/detail/0045",
+    "sha256": "cca348cf8743c61f8a2aac4d4b4e0c02d86a36da1ba4bfdabc10f4918ea3053a",
+    "bytes": 38407
+  },
+  {
+    "species": 46,
+    "url": "https://zukan.pokemon.co.jp/detail/0046",
+    "sha256": "15956005eb97b1e55abc0feaab50635e1ffd69c4f9b30e657fbf71b9624d0d11",
+    "bytes": 37232
+  },
+  {
+    "species": 47,
+    "url": "https://zukan.pokemon.co.jp/detail/0047",
+    "sha256": "1c768f1aa41c6686ead2b9559ecd54c4aa4d1af6c9c5b8fbf91ba89f64b22b84",
+    "bytes": 37466
+  },
+  {
+    "species": 48,
+    "url": "https://zukan.pokemon.co.jp/detail/0048",
+    "sha256": "b7af4a55d44c6bff06b6c0e13a80c0198db55ebcaf2b693cd013ac79ba22c56f",
+    "bytes": 37075
+  },
+  {
+    "species": 49,
+    "url": "https://zukan.pokemon.co.jp/detail/0049",
+    "sha256": "e0337baed014af1913d843c3de7fda0a5f6534d4bb54d0f342b89dca0a91e43e",
+    "bytes": 37057
+  },
+  {
+    "species": 50,
+    "url": "https://zukan.pokemon.co.jp/detail/0050",
+    "sha256": "33f3ebf405a94a2b57dbf6944b19a6b0a7539e8e1472d1823dd75ae23b930fda",
+    "bytes": 38675
+  },
+  {
+    "species": 51,
+    "url": "https://zukan.pokemon.co.jp/detail/0051",
+    "sha256": "89cf65cdb41fbf9dbbf4b38456252fead09eef52782cc9136a6f1b66b018ed1f",
+    "bytes": 38681
+  },
+  {
+    "species": 52,
+    "url": "https://zukan.pokemon.co.jp/detail/0052",
+    "sha256": "ae525a4be8ffd94981706e0cfac72c4a98dff661507ccc0ece0e7e85c88b1282",
+    "bytes": 40319
+  },
+  {
+    "species": 53,
+    "url": "https://zukan.pokemon.co.jp/detail/0053",
+    "sha256": "ae55b963d955c477c17775fafdeae93cead84b1964eeb9a633c1dfbe134084a7",
+    "bytes": 38910
+  },
+  {
+    "species": 54,
+    "url": "https://zukan.pokemon.co.jp/detail/0054",
+    "sha256": "1923a97c58e2e2739c2684beadca86b813e7f49db9ca79b2efe95baffadfac44",
+    "bytes": 38061
+  },
+  {
+    "species": 55,
+    "url": "https://zukan.pokemon.co.jp/detail/0055",
+    "sha256": "7a87ce9886a3ce574caecc42a4f4883365655bcc271cfbf8bc96b306e5731b13",
+    "bytes": 38023
+  },
+  {
+    "species": 56,
+    "url": "https://zukan.pokemon.co.jp/detail/0056",
+    "sha256": "58359841a4812f395c6f2ec30acfda811040d5cdd0e53122557e2711467c1219",
+    "bytes": 37899
+  },
+  {
+    "species": 57,
+    "url": "https://zukan.pokemon.co.jp/detail/0057",
+    "sha256": "e2570c62fdc93dbe557ce274e540286a0df83a9c309b22e272d66c67c5fccd35",
+    "bytes": 37920
+  },
+  {
+    "species": 58,
+    "url": "https://zukan.pokemon.co.jp/detail/0058",
+    "sha256": "9843d82e0748f5f2e0d6d0ac0e9b19527cde4c8d0b14732f7af8fa7e7159f976",
+    "bytes": 38756
+  },
+  {
+    "species": 59,
+    "url": "https://zukan.pokemon.co.jp/detail/0059",
+    "sha256": "4649dfade31fd4a130916ab89666b00f66c3ef4101e380891ff4f3b44847a401",
+    "bytes": 38801
+  },
+  {
+    "species": 60,
+    "url": "https://zukan.pokemon.co.jp/detail/0060",
+    "sha256": "7bc7262f68a2578c6474a0f0d606257d8e1100a08b1b6b0cc1a8868e8485959e",
+    "bytes": 38873
+  },
+  {
+    "species": 61,
+    "url": "https://zukan.pokemon.co.jp/detail/0061",
+    "sha256": "bc5eff5ed5d4f1f8a90ca7d709c76274d8434ea887c9b2906141e4a74a126bfd",
+    "bytes": 38832
+  },
+  {
+    "species": 62,
+    "url": "https://zukan.pokemon.co.jp/detail/0062",
+    "sha256": "0a1e4cbc46432827efe803eac0a3323fd6c5849ea504618b9eda7a3891a9c5e9",
+    "bytes": 39029
+  },
+  {
+    "species": 63,
+    "url": "https://zukan.pokemon.co.jp/detail/0063",
+    "sha256": "fceb66481be9e43768150d6f4d15973886cfcc8b7d43c59a6b58d56b01107cae",
+    "bytes": 38615
+  },
+  {
+    "species": 64,
+    "url": "https://zukan.pokemon.co.jp/detail/0064",
+    "sha256": "3991570921235dab2847afe9cbeca4abda49c00d9396b8de287e0a96c62e61b0",
+    "bytes": 38627
+  },
+  {
+    "species": 65,
+    "url": "https://zukan.pokemon.co.jp/detail/0065",
+    "sha256": "74a2a526167bd491a871ac9e20a6b4fe7ece929213f757cf046fe09bf367c1d4",
+    "bytes": 40016
+  },
+  {
+    "species": 66,
+    "url": "https://zukan.pokemon.co.jp/detail/0066",
+    "sha256": "6d87789f08ae2c14b016e67f4dcd5dffd0f85cb1d04e947eacce716a5745dc45",
+    "bytes": 38627
+  },
+  {
+    "species": 67,
+    "url": "https://zukan.pokemon.co.jp/detail/0067",
+    "sha256": "4b561276be41d3bb26378db9ffccec118cab7c54fe38ac58d22b5c22fed1674a",
+    "bytes": 38619
+  },
+  {
+    "species": 68,
+    "url": "https://zukan.pokemon.co.jp/detail/0068",
+    "sha256": "3a6f6384c6e2b8ee1034ae006fce82c0fe3038cfc0be99c14514fa5a0fb87108",
+    "bytes": 40020
+  },
+  {
+    "species": 69,
+    "url": "https://zukan.pokemon.co.jp/detail/0069",
+    "sha256": "8c98b901ca054c3db91b9a698d76e2df92e08382781bd294faf5aa5b3f019c72",
+    "bytes": 37470
+  },
+  {
+    "species": 70,
+    "url": "https://zukan.pokemon.co.jp/detail/0070",
+    "sha256": "9a82de3b6a8b5e863c0cfe9dfcde3e5a87c62e500ce7957d1bddfb2eb0987a17",
+    "bytes": 37441
+  },
+  {
+    "species": 71,
+    "url": "https://zukan.pokemon.co.jp/detail/0071",
+    "sha256": "e198eb40e92c0e36d598244fbb9b6281b1fd8c39e6f37c6f7205237b0af1ba39",
+    "bytes": 39128
+  },
+  {
+    "species": 72,
+    "url": "https://zukan.pokemon.co.jp/detail/0072",
+    "sha256": "6a4d795600c1f93137640d1cce7417174863f71c4ceaa07db4d40d73ee141993",
+    "bytes": 38508
+  },
+  {
+    "species": 73,
+    "url": "https://zukan.pokemon.co.jp/detail/0073",
+    "sha256": "7ae804f35ece20731cc0e91227fa4388193e57a8f533220ce54d45691ea76e18",
+    "bytes": 38512
+  },
+  {
+    "species": 74,
+    "url": "https://zukan.pokemon.co.jp/detail/0074",
+    "sha256": "41e3107c6ac423460db09b3877a72b5100a349f88f00ccbacb5d110c4c44e459",
+    "bytes": 40656
+  },
+  {
+    "species": 75,
+    "url": "https://zukan.pokemon.co.jp/detail/0075",
+    "sha256": "64167797673eed4303c41546f6680c6d108ce3a7a8c4ea3cd9b480b4f32f8a08",
+    "bytes": 40587
+  },
+  {
+    "species": 76,
+    "url": "https://zukan.pokemon.co.jp/detail/0076",
+    "sha256": "deb13eea1c85c526f9a6ad50937ad929e188b055ff2de22dc6e6132fe67061bb",
+    "bytes": 40605
+  },
+  {
+    "species": 77,
+    "url": "https://zukan.pokemon.co.jp/detail/0077",
+    "sha256": "bdbf5830c0639d0f09260d69c00f4a3a45e365e60974c78c34e8baefc8eeec6b",
+    "bytes": 38899
+  },
+  {
+    "species": 78,
+    "url": "https://zukan.pokemon.co.jp/detail/0078",
+    "sha256": "1e96233231c4b51faf5557b4bb7add668751144de69d32e7c08a77dcf9c8d925",
+    "bytes": 39108
+  },
+  {
+    "species": 79,
+    "url": "https://zukan.pokemon.co.jp/detail/0079",
+    "sha256": "b1629957713eca9e10caf5bd23a3ff41ca731cf6ef1e068ea247e458b4d134ca",
+    "bytes": 40384
+  },
+  {
+    "species": 80,
+    "url": "https://zukan.pokemon.co.jp/detail/0080",
+    "sha256": "b48675bd15b0e4dfd194375ae90900d29f891cb2bff9e3d9619006760e6a373e",
+    "bytes": 41417
+  },
+  {
+    "species": 81,
+    "url": "https://zukan.pokemon.co.jp/detail/0081",
+    "sha256": "b41797fd1dc9b93f72f8c648a4f0456173fcb81b3cfe9998ccb32ad5640c71ce",
+    "bytes": 39386
+  },
+  {
+    "species": 82,
+    "url": "https://zukan.pokemon.co.jp/detail/0082",
+    "sha256": "5c5b54deb44f5e0d690ffb3c40840f604cc3adc1521cffd0b9766968b29780b3",
+    "bytes": 39433
+  },
+  {
+    "species": 83,
+    "url": "https://zukan.pokemon.co.jp/detail/0083",
+    "sha256": "3c5368b7dcfcc71f823f9b6b48ca55ec1e64549dfd639048fd54dfa064706828",
+    "bytes": 37045
+  },
+  {
+    "species": 84,
+    "url": "https://zukan.pokemon.co.jp/detail/0084",
+    "sha256": "01688ff72553a6bca32a38bcf74ad6d13f56a0d6b3791496cbb05ac6fa8a2250",
+    "bytes": 37106
+  },
+  {
+    "species": 85,
+    "url": "https://zukan.pokemon.co.jp/detail/0085",
+    "sha256": "6871a78f4a5a74c3373e63df1c925bb538019cd7a24688763baf9f78247664af",
+    "bytes": 37107
+  },
+  {
+    "species": 86,
+    "url": "https://zukan.pokemon.co.jp/detail/0086",
+    "sha256": "22b9c726fb140607518d8ff18ddd396230a8e44b03999fdaf1218f7c5d06a0a7",
+    "bytes": 36761
+  },
+  {
+    "species": 87,
+    "url": "https://zukan.pokemon.co.jp/detail/0087",
+    "sha256": "52f9a44a09e8e6a1b9d3d0fb2f0c15ecfa573bf44371a36ea4cee7f545cbcaff",
+    "bytes": 36959
+  },
+  {
+    "species": 88,
+    "url": "https://zukan.pokemon.co.jp/detail/0088",
+    "sha256": "6b52b0c72d0d1beeda6f38e58f8a1538cbbc886da47a36a28fccada99e213fd1",
+    "bytes": 38207
+  },
+  {
+    "species": 89,
+    "url": "https://zukan.pokemon.co.jp/detail/0089",
+    "sha256": "e6dceb61e7e240d4fa1b881d543762de3a68ae171c30f0a38ba44a47ed80093a",
+    "bytes": 38197
+  },
+  {
+    "species": 90,
+    "url": "https://zukan.pokemon.co.jp/detail/0090",
+    "sha256": "529cee22e3ff88b905da2a052cce55223e24e2a0705521e2f15225a73c081702",
+    "bytes": 37371
+  },
+  {
+    "species": 91,
+    "url": "https://zukan.pokemon.co.jp/detail/0091",
+    "sha256": "a7b36e9a17890b45113026fe639f29dfd97d9824ab404feb259ace22efe882e3",
+    "bytes": 37560
+  },
+  {
+    "species": 92,
+    "url": "https://zukan.pokemon.co.jp/detail/0092",
+    "sha256": "318817fe3cff273cc151d7e0647551cb07fa39e7d8f5d9241dae1dcaa6dafb0a",
+    "bytes": 38890
+  },
+  {
+    "species": 93,
+    "url": "https://zukan.pokemon.co.jp/detail/0093",
+    "sha256": "115395db1743250dc1ad408acc58d7b42fe430fdf27337d96082f38923e78dea",
+    "bytes": 38899
+  },
+  {
+    "species": 94,
+    "url": "https://zukan.pokemon.co.jp/detail/0094",
+    "sha256": "89b059b07b02df93765cae11535165b7302a83b3b13aa38df348b13a176b102e",
+    "bytes": 41456
+  },
+  {
+    "species": 95,
+    "url": "https://zukan.pokemon.co.jp/detail/0095",
+    "sha256": "10a459ef11803dda023b266f2cf67ff2e0206ac7c6111176e96fc1619a94d0ce",
+    "bytes": 38277
+  },
+  {
+    "species": 96,
+    "url": "https://zukan.pokemon.co.jp/detail/0096",
+    "sha256": "f07c84f336f209489865fa3f182ed36bb7dc56dc6dc1ca95f8dfef13a36e2040",
+    "bytes": 36633
+  },
+  {
+    "species": 97,
+    "url": "https://zukan.pokemon.co.jp/detail/0097",
+    "sha256": "9b42ee75c6a92b56c780b232400046951b86dd001cb248ac0193b3a27d329d2a",
+    "bytes": 36606
+  },
+  {
+    "species": 98,
+    "url": "https://zukan.pokemon.co.jp/detail/0098",
+    "sha256": "1d262df2faacf644022f22f84e4ef1c21a01cdb7160f6cd75e93d41aa9cf20b2",
+    "bytes": 36454
+  },
+  {
+    "species": 99,
+    "url": "https://zukan.pokemon.co.jp/detail/0099",
+    "sha256": "5d995da09537a81cd91d3a5c983d5af6c02bdd2d678261b9920810fdf4359884",
+    "bytes": 37882
+  },
+  {
+    "species": 100,
+    "url": "https://zukan.pokemon.co.jp/detail/0100",
+    "sha256": "155ff93fdaa38ef783772c20bfb86a5ed2b368c2e6e18595d8bb4f77c021ead3",
+    "bytes": 38015
+  },
+  {
+    "species": 101,
+    "url": "https://zukan.pokemon.co.jp/detail/0101",
+    "sha256": "48be9ecb81233ff0ccdbe0babe7b544faf043e07f9cf239856ed34b0d48ef457",
+    "bytes": 38036
+  },
+  {
+    "species": 102,
+    "url": "https://zukan.pokemon.co.jp/detail/0102",
+    "sha256": "938ee93cb6e8e22e86e3a9c5fa96c1bbed5bb8f32330bbfef267c0cb1687731e",
+    "bytes": 37658
+  },
+  {
+    "species": 103,
+    "url": "https://zukan.pokemon.co.jp/detail/0103",
+    "sha256": "2136ea0449c6452ac96cce902b145e46657d883262854c521c99101e6e9cb51d",
+    "bytes": 39375
+  },
+  {
+    "species": 104,
+    "url": "https://zukan.pokemon.co.jp/detail/0104",
+    "sha256": "e321f42c28c8da592710cbf7fae1fb01938a55d8cf58191239b3b1204cc6035c",
+    "bytes": 37795
+  },
+  {
+    "species": 105,
+    "url": "https://zukan.pokemon.co.jp/detail/0105",
+    "sha256": "a38efd052e45a721fc2a6a9766b669ed0bbe6a126a019f11da90874f3352f0f7",
+    "bytes": 39351
+  },
+  {
+    "species": 106,
+    "url": "https://zukan.pokemon.co.jp/detail/0106",
+    "sha256": "81a245656c8b5c4c31c6f6806b2031db79906aa6d43a8e1aef7be374cac00802",
+    "bytes": 38464
+  },
+  {
+    "species": 107,
+    "url": "https://zukan.pokemon.co.jp/detail/0107",
+    "sha256": "e7175a25ecd97442d5097271c40a619c182a4b53cb9ebe1ce82b2a49203285f5",
+    "bytes": 38479
+  },
+  {
+    "species": 108,
+    "url": "https://zukan.pokemon.co.jp/detail/0108",
+    "sha256": "5c43b4c5a51d798fccc3cfb0ab3b72da2d14b755fe16f35855fa0e0b47474511",
+    "bytes": 37371
+  },
+  {
+    "species": 109,
+    "url": "https://zukan.pokemon.co.jp/detail/0109",
+    "sha256": "1ed30c6e98fad8fae1afe2afc9ae834885431904849bc5cefc190c82f51e2ca5",
+    "bytes": 38153
+  },
+  {
+    "species": 110,
+    "url": "https://zukan.pokemon.co.jp/detail/0110",
+    "sha256": "78404593e4b2083aab67e8ae552b46ffaf1e7293c192b6bb7794c6bdd4fd3719",
+    "bytes": 39686
+  },
+  {
+    "species": 111,
+    "url": "https://zukan.pokemon.co.jp/detail/0111",
+    "sha256": "1ec77bcb88928eb958a690818a68ed1ac707820d51ecd10c8fb2ff033c3652a2",
+    "bytes": 39277
+  },
+  {
+    "species": 112,
+    "url": "https://zukan.pokemon.co.jp/detail/0112",
+    "sha256": "53ed83b81d9908760057dcc7e26b79ab2d23c0c251523e402589151949df5752",
+    "bytes": 39242
+  },
+  {
+    "species": 113,
+    "url": "https://zukan.pokemon.co.jp/detail/0113",
+    "sha256": "65124395d9c0ba643ec603b7d5c83d27864aec24e21475affbe5d11684980ff9",
+    "bytes": 38761
+  },
+  {
+    "species": 114,
+    "url": "https://zukan.pokemon.co.jp/detail/0114",
+    "sha256": "e58ed48292741c702592b562c3ab80b3ffcf8d00d00a009f99450b97c0010def",
+    "bytes": 37242
+  },
+  {
+    "species": 115,
+    "url": "https://zukan.pokemon.co.jp/detail/0115",
+    "sha256": "94cda9c09fa44c6021e1eda4ac0bc8814ee119a31aae92e60f7f428e2ec62661",
+    "bytes": 36662
+  },
+  {
+    "species": 116,
+    "url": "https://zukan.pokemon.co.jp/detail/0116",
+    "sha256": "4255a7256d4d74d200c4af65b90f59f897ad5e93f94bb3cf52f2531427cce118",
+    "bytes": 38113
+  },
+  {
+    "species": 117,
+    "url": "https://zukan.pokemon.co.jp/detail/0117",
+    "sha256": "e3ed1ead69d4dad8190f240d3680dc35958b4de73b89a024845cc59259e300f0",
+    "bytes": 38117
+  },
+  {
+    "species": 118,
+    "url": "https://zukan.pokemon.co.jp/detail/0118",
+    "sha256": "3756563376142c8d11c73d14a27ab840d6a155597d735a798ab66455df4647b4",
+    "bytes": 36630
+  },
+  {
+    "species": 119,
+    "url": "https://zukan.pokemon.co.jp/detail/0119",
+    "sha256": "8515c33c6f3398ca8a61e321eae6d448365895e701d39b4dfcdf1acc1d151f1c",
+    "bytes": 36654
+  },
+  {
+    "species": 120,
+    "url": "https://zukan.pokemon.co.jp/detail/0120",
+    "sha256": "eee886e3f975c0a11a122bb6dea61563d22cb27e7fddc5c5cd9ed46a1a0fc070",
+    "bytes": 36932
+  },
+  {
+    "species": 121,
+    "url": "https://zukan.pokemon.co.jp/detail/0121",
+    "sha256": "63675f3aa303940089ba639ac053a26463a0fbb05d4bffa98b0a6dbae60b68e0",
+    "bytes": 38821
+  },
+  {
+    "species": 122,
+    "url": "https://zukan.pokemon.co.jp/detail/0122",
+    "sha256": "55746935ef9769be59939cee81e596adac7763283dfed4990cba75afbdfcb8e5",
+    "bytes": 41876
+  },
+  {
+    "species": 123,
+    "url": "https://zukan.pokemon.co.jp/detail/0123",
+    "sha256": "31f421c25746e3b186b4a53e6d3b39601aa8a5137033c703e19641c2d903b624",
+    "bytes": 39668
+  },
+  {
+    "species": 124,
+    "url": "https://zukan.pokemon.co.jp/detail/0124",
+    "sha256": "1554ae8f43ef8499bebca48bc3ee052ec0ccf825985589e30c9fa4bd32da9089",
+    "bytes": 36936
+  },
+  {
+    "species": 125,
+    "url": "https://zukan.pokemon.co.jp/detail/0125",
+    "sha256": "bb39cb5c02d7733abde7a7cb9c77f9b2afc924fa5096266f6c9c25d69ea6edb0",
+    "bytes": 37714
+  },
+  {
+    "species": 126,
+    "url": "https://zukan.pokemon.co.jp/detail/0126",
+    "sha256": "b251ed813af1ef5d3b4d0d805fa367baa8be7388dc5c9d972601a46b820b1671",
+    "bytes": 37681
+  },
+  {
+    "species": 127,
+    "url": "https://zukan.pokemon.co.jp/detail/0127",
+    "sha256": "bdf85ac08d368681e681666be60b858606639354c17542ec3914f0643bbb8b4f",
+    "bytes": 36838
+  },
+  {
+    "species": 128,
+    "url": "https://zukan.pokemon.co.jp/detail/0128",
+    "sha256": "6aab28fa3ee0743326b4c993993ed56316e534f93406fe07ad6a04f423c5de54",
+    "bytes": 38707
+  },
+  {
+    "species": 129,
+    "url": "https://zukan.pokemon.co.jp/detail/0129",
+    "sha256": "176fa26d3e60dbf16436c9c420e5f3dee8b2f7108773dfbc9d4e3dbbd79df1fa",
+    "bytes": 37602
+  },
+  {
+    "species": 130,
+    "url": "https://zukan.pokemon.co.jp/detail/0130",
+    "sha256": "b34e79a5b64108741645243a6bd5e36eb058d058abefd2fc6ba6c1f5731bbf40",
+    "bytes": 39511
+  },
+  {
+    "species": 131,
+    "url": "https://zukan.pokemon.co.jp/detail/0131",
+    "sha256": "751d288989df94eddcd64dc2e9714ad984547c2c029a44396cb75b7b983fc535",
+    "bytes": 37460
+  },
+  {
+    "species": 132,
+    "url": "https://zukan.pokemon.co.jp/detail/0132",
+    "sha256": "44bcdad9e463979e03f19ce9208256af1dccaac57b4229011547963222beb8be",
+    "bytes": 34517
+  },
+  {
+    "species": 133,
+    "url": "https://zukan.pokemon.co.jp/detail/0133",
+    "sha256": "bb463a69d96232e851b8f8744d70458bb20de0bd4c6b2768ec20cc3263e68a5b",
+    "bytes": 44334
+  },
+  {
+    "species": 134,
+    "url": "https://zukan.pokemon.co.jp/detail/0134",
+    "sha256": "a982999216113adba7084d46276c159f7757b6d12ec2084b6a79716855b78a08",
+    "bytes": 42099
+  },
+  {
+    "species": 135,
+    "url": "https://zukan.pokemon.co.jp/detail/0135",
+    "sha256": "8bd271db80597c07f6c407b998e0a88a0dfbc559d88a7f384f741692255fe501",
+    "bytes": 42130
+  },
+  {
+    "species": 136,
+    "url": "https://zukan.pokemon.co.jp/detail/0136",
+    "sha256": "c49682aa19fe14b75737fc68973824842d1e83278403e81e7130eeba218fd2dc",
+    "bytes": 42142
+  },
+  {
+    "species": 137,
+    "url": "https://zukan.pokemon.co.jp/detail/0137",
+    "sha256": "c1a95e24ffe5cdd3fd462e9481a0efeb90706fceb8ac6a342f4558463fdca531",
+    "bytes": 38893
+  },
+  {
+    "species": 138,
+    "url": "https://zukan.pokemon.co.jp/detail/0138",
+    "sha256": "6112089064da566178e67ba08ee4082ab7a076856d90d7ccbde58968ca606d9e",
+    "bytes": 36925
+  },
+  {
+    "species": 139,
+    "url": "https://zukan.pokemon.co.jp/detail/0139",
+    "sha256": "8aa84c7cce934a634a12d1b93ebd319d5fe180de8bfc67478222db92b6c63408",
+    "bytes": 36914
+  },
+  {
+    "species": 140,
+    "url": "https://zukan.pokemon.co.jp/detail/0140",
+    "sha256": "f9750bc2f75114e6dd1f14b552f373b684c52dba9d596b16cf4db05ca631593c",
+    "bytes": 36872
+  },
+  {
+    "species": 141,
+    "url": "https://zukan.pokemon.co.jp/detail/0141",
+    "sha256": "d5d482ce79783c0451fc30d3d5c4bed5da890e09635e22917359bfac543187c9",
+    "bytes": 36905
+  },
+  {
+    "species": 142,
+    "url": "https://zukan.pokemon.co.jp/detail/0142",
+    "sha256": "150c2f00968523995546632832c0515ad95bd139cbafcb94db5e6632da647a25",
+    "bytes": 37112
+  },
+  {
+    "species": 143,
+    "url": "https://zukan.pokemon.co.jp/detail/0143",
+    "sha256": "61c6699783d8ff535375228e3ce009429c4b091f192cd8dda1c2a4f464b41076",
+    "bytes": 39473
+  },
+  {
+    "species": 144,
+    "url": "https://zukan.pokemon.co.jp/detail/0144",
+    "sha256": "a65ca69ef9ec484ee60d36551c0718b4b13f9be7fca749cb67d88d006cc18715",
+    "bytes": 35747
+  },
+  {
+    "species": 145,
+    "url": "https://zukan.pokemon.co.jp/detail/0145",
+    "sha256": "6c94b2c3a4b4ec729714c778c47e78909587755002b5cba7429e94d157ecc845",
+    "bytes": 35712
+  },
+  {
+    "species": 146,
+    "url": "https://zukan.pokemon.co.jp/detail/0146",
+    "sha256": "ddc9a1b61832c352f7f68cf84ecff8065db81fc097e4f8374f47adf11629bea5",
+    "bytes": 35747
+  },
+  {
+    "species": 147,
+    "url": "https://zukan.pokemon.co.jp/detail/0147",
+    "sha256": "9e09e78ed0e1c8e5ba153ac76f561a1e328917b65f9cd34c91ac50c8f18e5dd5",
+    "bytes": 37627
+  },
+  {
+    "species": 148,
+    "url": "https://zukan.pokemon.co.jp/detail/0148",
+    "sha256": "ccda8687f66a30ef0978b409a4a85e93f322b9f89fd8b7114d4973763382b471",
+    "bytes": 37629
+  },
+  {
+    "species": 149,
+    "url": "https://zukan.pokemon.co.jp/detail/0149",
+    "sha256": "bc486bf6b30d03b4ecd894300f9af396e922e2448738a586130aab368ee24128",
+    "bytes": 39589
+  },
+  {
+    "species": 150,
+    "url": "https://zukan.pokemon.co.jp/detail/0150",
+    "sha256": "b2b0efe26246fb5f1174cc7983fa615149b831379a77cc153e9928a3deb06f77",
+    "bytes": 35974
+  },
+  {
+    "species": 151,
+    "url": "https://zukan.pokemon.co.jp/detail/0151",
+    "sha256": "8b7bac61a3dca590b98a1f81112b8f036c4b69a5d414b31910b7f6f05a8e1f6e",
+    "bytes": 33218
+  },
+  {
+    "species": 152,
+    "url": "https://zukan.pokemon.co.jp/detail/0152",
+    "sha256": "b63af10608d74529fc9b91cf5672d146d7ddc40d0964af344f6e1b9a4cc8b600",
+    "bytes": 36244
+  },
+  {
+    "species": 153,
+    "url": "https://zukan.pokemon.co.jp/detail/0153",
+    "sha256": "7088a538308b5bceaf9fe51b349559cc603ede8e90cba9f14c7bab5ce7b1d7ee",
+    "bytes": 36236
+  },
+  {
+    "species": 154,
+    "url": "https://zukan.pokemon.co.jp/detail/0154",
+    "sha256": "f8ce7bb130c5472b3c0ea3a93e38dfca5b8050378c87d71b13df3f23cde8aa83",
+    "bytes": 37758
+  },
+  {
+    "species": 155,
+    "url": "https://zukan.pokemon.co.jp/detail/0155",
+    "sha256": "321cbe9ddea9da625a01c9cb50dfde6a8b0f0b606e0a23a9647cd78e19fa22db",
+    "bytes": 37377
+  },
+  {
+    "species": 156,
+    "url": "https://zukan.pokemon.co.jp/detail/0156",
+    "sha256": "6bcc9a1b0ef653e8c72756671efdcdb8d7dec5329e077781c5598d5b7112dd23",
+    "bytes": 37361
+  },
+  {
+    "species": 157,
+    "url": "https://zukan.pokemon.co.jp/detail/0157",
+    "sha256": "69ee99b412b01a7559276934f15aa48e9797bafee8fb546223992241a54943b0",
+    "bytes": 38332
+  },
+  {
+    "species": 158,
+    "url": "https://zukan.pokemon.co.jp/detail/0158",
+    "sha256": "5b09b6fefa3f3eb6201d7a9374293e5a64e2406c7027f57b222e17ab35564a24",
+    "bytes": 36216
+  },
+  {
+    "species": 159,
+    "url": "https://zukan.pokemon.co.jp/detail/0159",
+    "sha256": "32286552ada9e5e38587c25a74f60ecba7cbce6e09554e3bf264054661bb8441",
+    "bytes": 36251
+  },
+  {
+    "species": 160,
+    "url": "https://zukan.pokemon.co.jp/detail/0160",
+    "sha256": "658a229fa8892494d232470a3d919114bdbe425fcf665e24334abf5aa865e4f9",
+    "bytes": 37766
+  },
+  {
+    "species": 161,
+    "url": "https://zukan.pokemon.co.jp/detail/0161",
+    "sha256": "39ce1fb588ef0b8e128248c991621d3e65db3141a3cebea32a4223e5d5603ac9",
+    "bytes": 35910
+  },
+  {
+    "species": 162,
+    "url": "https://zukan.pokemon.co.jp/detail/0162",
+    "sha256": "c4121d0874c09a9831de8c8339e649a1981aa4a6c7cab6a9b62027c09648a722",
+    "bytes": 35939
+  },
+  {
+    "species": 163,
+    "url": "https://zukan.pokemon.co.jp/detail/0163",
+    "sha256": "2a50c76047025f17c62734bb00b987de22e87b4532c43f86c4195ba9dbbbbfed",
+    "bytes": 37059
+  },
+  {
+    "species": 164,
+    "url": "https://zukan.pokemon.co.jp/detail/0164",
+    "sha256": "21443bf38b072333868eb5d7da30b392e51ec633f3faa5758575db92a5994051",
+    "bytes": 37059
+  },
+  {
+    "species": 165,
+    "url": "https://zukan.pokemon.co.jp/detail/0165",
+    "sha256": "7102c517d35371af193b9228b00eb6708fdff579eb9ac016380a3ae5e6bf3a44",
+    "bytes": 35420
+  },
+  {
+    "species": 166,
+    "url": "https://zukan.pokemon.co.jp/detail/0166",
+    "sha256": "6d1580bd6b42752796f852911a2ea727ec3b90620934d83120285072bad45b9a",
+    "bytes": 35444
+  },
+  {
+    "species": 167,
+    "url": "https://zukan.pokemon.co.jp/detail/0167",
+    "sha256": "7e2bb111c6aa98b74975f16db59987a61e0294840baf7bb0faf6d30bc60879e8",
+    "bytes": 36761
+  },
+  {
+    "species": 168,
+    "url": "https://zukan.pokemon.co.jp/detail/0168",
+    "sha256": "cbb7e80122f9e180c418e39e7a714062ed122fc194cc275b7b5a601b57c22d76",
+    "bytes": 36777
+  },
+  {
+    "species": 169,
+    "url": "https://zukan.pokemon.co.jp/detail/0169",
+    "sha256": "2a5df63d2955f0fb144214bbcff72954d2512e3379695fa521a342239bedd9df",
+    "bytes": 37764
+  },
+  {
+    "species": 170,
+    "url": "https://zukan.pokemon.co.jp/detail/0170",
+    "sha256": "923827c394f77fc8fac94bc1e2160f50a021511ba985a58e2f767381d3f16102",
+    "bytes": 37067
+  },
+  {
+    "species": 171,
+    "url": "https://zukan.pokemon.co.jp/detail/0171",
+    "sha256": "82e5218bdf401f4019e764ea3a8a8c523eaafb99f895f4a15df7b3656a8c2f4f",
+    "bytes": 37073
+  },
+  {
+    "species": 172,
+    "url": "https://zukan.pokemon.co.jp/detail/0172",
+    "sha256": "8b9097e22f64f8376770cb84e4ed8f99ded86e77f832ba986f064518493d6c02",
+    "bytes": 38522
+  },
+  {
+    "species": 173,
+    "url": "https://zukan.pokemon.co.jp/detail/0173",
+    "sha256": "0d453027c4a183a81b1dd7f104a69411ca59494581213c33c9bbd45347aba750",
+    "bytes": 38491
+  },
+  {
+    "species": 174,
+    "url": "https://zukan.pokemon.co.jp/detail/0174",
+    "sha256": "0033aaa7cc21c9b6ccf7b855d7d76fed3b0ef9767fa659a146809a35d4587267",
+    "bytes": 38403
+  },
+  {
+    "species": 175,
+    "url": "https://zukan.pokemon.co.jp/detail/0175",
+    "sha256": "1de47ae5f99513636b4a253e7ff5c06d1719903a62d1c77fcf9e379b8eb2381b",
+    "bytes": 37797
+  },
+  {
+    "species": 176,
+    "url": "https://zukan.pokemon.co.jp/detail/0176",
+    "sha256": "3209fe4f1803fcb8e912a64c19295173a6228951340252d30c3847509e09c571",
+    "bytes": 37990
+  },
+  {
+    "species": 177,
+    "url": "https://zukan.pokemon.co.jp/detail/0177",
+    "sha256": "77b4a6ab793f16c071b218ff677fca5b3e921517b5c7e814058256aaa27f4c05",
+    "bytes": 36361
+  },
+  {
+    "species": 178,
+    "url": "https://zukan.pokemon.co.jp/detail/0178",
+    "sha256": "fb262507aafb445e50eb613176d6d911aa3c9fc52ddffca364e18bfd59b57995",
+    "bytes": 36383
+  },
+  {
+    "species": 179,
+    "url": "https://zukan.pokemon.co.jp/detail/0179",
+    "sha256": "8d38c88cf070b3377eeabc331a3d9526ed08052fdf6504917b14eb7a15990582",
+    "bytes": 36228
+  },
+  {
+    "species": 180,
+    "url": "https://zukan.pokemon.co.jp/detail/0180",
+    "sha256": "a5deb04c82b3df0af182f07facbe5974aa6c22c3c65663b4357ffab4cc8bf89c",
+    "bytes": 36223
+  },
+  {
+    "species": 181,
+    "url": "https://zukan.pokemon.co.jp/detail/0181",
+    "sha256": "4b2bef2936f7318bdbf232c1e884f902d6b42b89708d1fd9ff3ec13b6f004cb1",
+    "bytes": 37771
+  },
+  {
+    "species": 182,
+    "url": "https://zukan.pokemon.co.jp/detail/0182",
+    "sha256": "c67f16971709ec2e18df70ff0506ea96abefd5389e7a8aab6288c27623c0aa0a",
+    "bytes": 37630
+  },
+  {
+    "species": 183,
+    "url": "https://zukan.pokemon.co.jp/detail/0183",
+    "sha256": "f9a6c5e4284385ed36bffda234f88f98c82c1dae437612441c15518245eec5e0",
+    "bytes": 38040
+  },
+  {
+    "species": 184,
+    "url": "https://zukan.pokemon.co.jp/detail/0184",
+    "sha256": "2e3e2bc2c966dbead7d2c1eb20b6ae46e798edea78442a380f0d5f1bab7be87f",
+    "bytes": 38092
+  },
+  {
+    "species": 185,
+    "url": "https://zukan.pokemon.co.jp/detail/0185",
+    "sha256": "a7c0e632c6072c05a48ef46bf0d007e157a5364554ebb4c7e0e2265f6c5e0afd",
+    "bytes": 37479
+  },
+  {
+    "species": 186,
+    "url": "https://zukan.pokemon.co.jp/detail/0186",
+    "sha256": "a0f06bb0cd25eb0ac4281c9a17d3f121c40987e31eb737755db61ad286a13e2f",
+    "bytes": 38248
+  },
+  {
+    "species": 187,
+    "url": "https://zukan.pokemon.co.jp/detail/0187",
+    "sha256": "8506f6b2165d50ad0d5c39f2a5c878a3a27a94d1d295dc33bf6f6fe9a77d50af",
+    "bytes": 37425
+  },
+  {
+    "species": 188,
+    "url": "https://zukan.pokemon.co.jp/detail/0188",
+    "sha256": "0a45ab50f85f226c3ce558147183a332f74b253e46294b02a6d460585b4dbbbd",
+    "bytes": 37389
+  },
+  {
+    "species": 189,
+    "url": "https://zukan.pokemon.co.jp/detail/0189",
+    "sha256": "78fa1ab87140829d77d45ae7d67170fe6e4f462707de4cbdae3583ea1f39147a",
+    "bytes": 37383
+  },
+  {
+    "species": 190,
+    "url": "https://zukan.pokemon.co.jp/detail/0190",
+    "sha256": "a5acc10328f2f4cffe92278420be05b64272b246ce7c1481d52e8e5600289a1a",
+    "bytes": 36829
+  },
+  {
+    "species": 191,
+    "url": "https://zukan.pokemon.co.jp/detail/0191",
+    "sha256": "7889d1b1816478cd931c7586a665aad23587defa79f7ed25da41049c74f0d0b5",
+    "bytes": 35971
+  },
+  {
+    "species": 192,
+    "url": "https://zukan.pokemon.co.jp/detail/0192",
+    "sha256": "10044c676f248c2ee4b6792584d0796d00915966cb08fc9d80771d855008c478",
+    "bytes": 35959
+  },
+  {
+    "species": 193,
+    "url": "https://zukan.pokemon.co.jp/detail/0193",
+    "sha256": "5a2a2e1e25e06c8ddde412f5da44410ab987ab225c96a59867268c993bdf4edd",
+    "bytes": 37031
+  },
+  {
+    "species": 194,
+    "url": "https://zukan.pokemon.co.jp/detail/0194",
+    "sha256": "851ce9b99d6251dacfe5635c25bc9717cf9261f450ef5325f9d4eda4f3b73391",
+    "bytes": 38714
+  },
+  {
+    "species": 195,
+    "url": "https://zukan.pokemon.co.jp/detail/0195",
+    "sha256": "ac80938f2639b90fc06532bbf494873f7c216b21a6bb560cd5d283e5ac93a14f",
+    "bytes": 37061
+  },
+  {
+    "species": 196,
+    "url": "https://zukan.pokemon.co.jp/detail/0196",
+    "sha256": "1908bc03c9fef985359f4dde8d3061a8fbc54e23b201f7d91163edcc8d337db0",
+    "bytes": 41495
+  },
+  {
+    "species": 197,
+    "url": "https://zukan.pokemon.co.jp/detail/0197",
+    "sha256": "d4f7873031da64c5a69f24db68c145ca94b7453f924da28fd02290e658a9a5b1",
+    "bytes": 41480
+  },
+  {
+    "species": 198,
+    "url": "https://zukan.pokemon.co.jp/detail/0198",
+    "sha256": "5540dc083240e779e8e8fb05f58cce308887fcbeb789d5c07e4b4a20421781ce",
+    "bytes": 37327
+  },
+  {
+    "species": 199,
+    "url": "https://zukan.pokemon.co.jp/detail/0199",
+    "sha256": "d3d9847dcf0a48c9cbebbe8d86c80fa4134ab933959d1173d61c14cecf750e62",
+    "bytes": 39995
+  },
+  {
+    "species": 200,
+    "url": "https://zukan.pokemon.co.jp/detail/0200",
+    "sha256": "bf82e4bfe52938ee7607bb7b3643dccddce4df38df4a37e5ae25f8f9444044c3",
+    "bytes": 35935
+  },
+  {
+    "species": 201,
+    "url": "https://zukan.pokemon.co.jp/detail/0201",
+    "sha256": "cb5b67c239e19faeb2e2a0456668a79bdc1bb97d9dec5abac6f8d7490d15fcdc",
+    "bytes": 33725
+  },
+  {
+    "species": 202,
+    "url": "https://zukan.pokemon.co.jp/detail/0202",
+    "sha256": "8a0cf9e5d3ba3f4f1ae67d0965f28ddc3a21a05f1bad6d6ca0f332e6ae2a623f",
+    "bytes": 34982
+  },
+  {
+    "species": 203,
+    "url": "https://zukan.pokemon.co.jp/detail/0203",
+    "sha256": "56159fac665d5c3879f969aff8a38cef8c10a99e65e449fac02b6d403e09656f",
+    "bytes": 36601
+  },
+  {
+    "species": 204,
+    "url": "https://zukan.pokemon.co.jp/detail/0204",
+    "sha256": "e28abf1cc8f72627784fceed56ba59a346c239d4eb765d344b5e359a38fff8bc",
+    "bytes": 35344
+  },
+  {
+    "species": 205,
+    "url": "https://zukan.pokemon.co.jp/detail/0205",
+    "sha256": "a60a49b993e3e0d58f0f97f1b668de4c1c7c7b54e3b9ac15715b355cbe4deb6f",
+    "bytes": 35512
+  },
+  {
+    "species": 206,
+    "url": "https://zukan.pokemon.co.jp/detail/0206",
+    "sha256": "3af4dec756bd207f11beae9d668c86a2626d4e0ff4255c2f584d77817fe532be",
+    "bytes": 37303
+  },
+  {
+    "species": 207,
+    "url": "https://zukan.pokemon.co.jp/detail/0207",
+    "sha256": "7c48cffbc9dce86f75ff6ecfb1711ca56f57cae4f9a0c52843fc2b0f5c854fd1",
+    "bytes": 37077
+  },
+  {
+    "species": 208,
+    "url": "https://zukan.pokemon.co.jp/detail/0208",
+    "sha256": "5ffc66574c58f357d6766fdf9194af44e779b92409c3bdfac89dde04b291997e",
+    "bytes": 39369
+  },
+  {
+    "species": 209,
+    "url": "https://zukan.pokemon.co.jp/detail/0209",
+    "sha256": "f5a17141f23535f9dd96b0956e5a18d6a421a715942a4df4ca5847a10c66343e",
+    "bytes": 35982
+  },
+  {
+    "species": 210,
+    "url": "https://zukan.pokemon.co.jp/detail/0210",
+    "sha256": "f0092f1d50efe0a8b1960279b56d59038a61704e2fe29091f4a3208e763453b3",
+    "bytes": 36011
+  },
+  {
+    "species": 211,
+    "url": "https://zukan.pokemon.co.jp/detail/0211",
+    "sha256": "e1970f647c4cffbb72fee30a248457d31625baf8b292ddf48cd85aeed4cc4344",
+    "bytes": 37076
+  },
+  {
+    "species": 212,
+    "url": "https://zukan.pokemon.co.jp/detail/0212",
+    "sha256": "4165b172ad33ccc830429d33338018856460e2109dc09d09ee36cf6d3e9c9f9d",
+    "bytes": 40707
+  },
+  {
+    "species": 213,
+    "url": "https://zukan.pokemon.co.jp/detail/0213",
+    "sha256": "c6ce548ee923d1f926e93e2b6e0a3255f0f7d233e31009fc012d65a91e18f9ef",
+    "bytes": 34469
+  },
+  {
+    "species": 214,
+    "url": "https://zukan.pokemon.co.jp/detail/0214",
+    "sha256": "0b65c37148ba469062c3bea229f050ef1337832d8795ce60d6914d03074b1790",
+    "bytes": 37985
+  },
+  {
+    "species": 215,
+    "url": "https://zukan.pokemon.co.jp/detail/0215",
+    "sha256": "2f4bad9e16070e7611fddbf7171fa07e3e113f2f4df4c1ca9f11bdc7535c3c4b",
+    "bytes": 39627
+  },
+  {
+    "species": 216,
+    "url": "https://zukan.pokemon.co.jp/detail/0216",
+    "sha256": "fee29f5b1068ffe9e52a1c6d09ff38002b6eadfe54b9997a54bc608fa7374cac",
+    "bytes": 37824
+  },
+  {
+    "species": 217,
+    "url": "https://zukan.pokemon.co.jp/detail/0217",
+    "sha256": "bd368761088933f92f610cfa914efdfd81a8a4e550e5e5683cb72a512b40a18c",
+    "bytes": 37741
+  },
+  {
+    "species": 218,
+    "url": "https://zukan.pokemon.co.jp/detail/0218",
+    "sha256": "5d76a7949f9807df341fe97bde99d5533c5e872c9e0d1a2b990fd345dd374b54",
+    "bytes": 36197
+  },
+  {
+    "species": 219,
+    "url": "https://zukan.pokemon.co.jp/detail/0219",
+    "sha256": "1ccaeb464afebfeb830a162f5a4f8bab13c312e7cd02b308f95e0847a2888405",
+    "bytes": 36366
+  },
+  {
+    "species": 220,
+    "url": "https://zukan.pokemon.co.jp/detail/0220",
+    "sha256": "cff8b8233394281e043733bdb81e3af563f1b71deed7bae7ed5915bd9a14e23d",
+    "bytes": 38602
+  },
+  {
+    "species": 221,
+    "url": "https://zukan.pokemon.co.jp/detail/0221",
+    "sha256": "d09c1cc36f04624355912206cd65ab57846b80f2d80677e8c64ead75e8216dc8",
+    "bytes": 38597
+  },
+  {
+    "species": 222,
+    "url": "https://zukan.pokemon.co.jp/detail/0222",
+    "sha256": "ca0abba5bda9c1fa65971471ef1812efac6fd31f767e2098d2e07226622fccfb",
+    "bytes": 35837
+  },
+  {
+    "species": 223,
+    "url": "https://zukan.pokemon.co.jp/detail/0223",
+    "sha256": "2aa75ece51b086bc2faced021440e06d78087d525e04c4df7888e2946d9454c3",
+    "bytes": 36861
+  },
+  {
+    "species": 224,
+    "url": "https://zukan.pokemon.co.jp/detail/0224",
+    "sha256": "fab39709601ecceb54062d497e6834e990281433fdff222b3b9c05438f84a096",
+    "bytes": 36899
+  },
+  {
+    "species": 225,
+    "url": "https://zukan.pokemon.co.jp/detail/0225",
+    "sha256": "7c28c887c6c3cac8517fd81be4b1486c44cf1d3e06291ec7b6c5a9a8d1bc6bf6",
+    "bytes": 35411
+  },
+  {
+    "species": 226,
+    "url": "https://zukan.pokemon.co.jp/detail/0226",
+    "sha256": "de29b68a22833ec8b184f543529ac7345736a460809f15715010132cfc19521a",
+    "bytes": 37355
+  },
+  {
+    "species": 227,
+    "url": "https://zukan.pokemon.co.jp/detail/0227",
+    "sha256": "0efddb7f0dc7fe86f541d45add50a5f83bb660dd06193edee40409fef9fee72e",
+    "bytes": 37198
+  },
+  {
+    "species": 228,
+    "url": "https://zukan.pokemon.co.jp/detail/0228",
+    "sha256": "ffc40f1a4fd77b7d4720b4af58dc43c9db13fa45385bb992f6b879a2def4d5c9",
+    "bytes": 36851
+  },
+  {
+    "species": 229,
+    "url": "https://zukan.pokemon.co.jp/detail/0229",
+    "sha256": "6ed1cc8a05206993676ca6782c410635c70889cbbfbd905c0786e380bef9b320",
+    "bytes": 38530
+  },
+  {
+    "species": 231,
+    "url": "https://zukan.pokemon.co.jp/detail/0231",
+    "sha256": "1f4d9361d1641950b26257f9f0b7f61762cf6766b5a4103fc0340c59faff3494",
+    "bytes": 35151
+  },
+  {
+    "species": 232,
+    "url": "https://zukan.pokemon.co.jp/detail/0232",
+    "sha256": "173babd54c586293483110ea55b91349204a1e8e005ab5c5bb7b364d52cde127",
+    "bytes": 35210
+  },
+  {
+    "species": 233,
+    "url": "https://zukan.pokemon.co.jp/detail/0233",
+    "sha256": "13f94e10108f4253f5d35f96ce7b0f02e729468b99d3b001c3bca5cdc9fe5aaf",
+    "bytes": 38279
+  },
+  {
+    "species": 234,
+    "url": "https://zukan.pokemon.co.jp/detail/0234",
+    "sha256": "4616d288a76cacb85c8213b4df02a53a15ea165ae645b0b5580a0274fa018b06",
+    "bytes": 36997
+  },
+  {
+    "species": 235,
+    "url": "https://zukan.pokemon.co.jp/detail/0235",
+    "sha256": "0f0a1ae824b331a565aded9e90839cd463859a2ab8fff8033d3c3a81910f1880",
+    "bytes": 34340
+  },
+  {
+    "species": 236,
+    "url": "https://zukan.pokemon.co.jp/detail/0236",
+    "sha256": "3ee996ca347ba6d24f1863277c3674f9e074cd9d260b7225e5f7691d9f26554b",
+    "bytes": 37898
+  },
+  {
+    "species": 237,
+    "url": "https://zukan.pokemon.co.jp/detail/0237",
+    "sha256": "eb1b6e88a13dfb34b4f4e612165a99713b1a0c1be7ff9d01d23d40d3b7bba8b3",
+    "bytes": 37913
+  },
+  {
+    "species": 238,
+    "url": "https://zukan.pokemon.co.jp/detail/0238",
+    "sha256": "74208b3ef0fb3892d011d442dad7bdd2cbc257e4e9f061c32c98da79da1990eb",
+    "bytes": 36339
+  },
+  {
+    "species": 239,
+    "url": "https://zukan.pokemon.co.jp/detail/0239",
+    "sha256": "c154e41523bf9274f35af3dbb3f2c01b9998794f7372e6b33c8088d2a35c4cb4",
+    "bytes": 37124
+  },
+  {
+    "species": 240,
+    "url": "https://zukan.pokemon.co.jp/detail/0240",
+    "sha256": "88d8714ebc4fac8b39dfb873b2de9a4966fa9a8c9302d1f499cb764bfbf9fcf6",
+    "bytes": 37049
+  },
+  {
+    "species": 241,
+    "url": "https://zukan.pokemon.co.jp/detail/0241",
+    "sha256": "9661bdc1e447e476a715f606a1be077fb04917c152b2de9f8bf1d2dc68bc28a0",
+    "bytes": 34283
+  },
+  {
+    "species": 242,
+    "url": "https://zukan.pokemon.co.jp/detail/0242",
+    "sha256": "f8ddee98457f63ab801d16999573f6d80ead4f9e3ecbceee81844ee412783d6a",
+    "bytes": 38159
+  },
+  {
+    "species": 243,
+    "url": "https://zukan.pokemon.co.jp/detail/0243",
+    "sha256": "5659d4fb0b776f7c0fc3a2dd9476ca7fb53265dcf190093fa1ee6a927e78452f",
+    "bytes": 32324
+  },
+  {
+    "species": 244,
+    "url": "https://zukan.pokemon.co.jp/detail/0244",
+    "sha256": "7f78da758e9c263251f34c09d4f4817cab8c708bdf764b6459513cb750132984",
+    "bytes": 32276
+  },
+  {
+    "species": 245,
+    "url": "https://zukan.pokemon.co.jp/detail/0245",
+    "sha256": "d985b5e68ba9d8e812676ad1b82ca30a7a9b1d55e180578cf6a0bd4099eed331",
+    "bytes": 32294
+  },
+  {
+    "species": 246,
+    "url": "https://zukan.pokemon.co.jp/detail/0246",
+    "sha256": "f635e20d50a699d9638f1824c87c207c87f035448838e4d956dea5e7b56b3c96",
+    "bytes": 37481
+  },
+  {
+    "species": 247,
+    "url": "https://zukan.pokemon.co.jp/detail/0247",
+    "sha256": "1dad21fab0cc79f5e9dd95c50acfa701c4a2bc58c9d80bf1106f59862a45a3e6",
+    "bytes": 37490
+  },
+  {
+    "species": 248,
+    "url": "https://zukan.pokemon.co.jp/detail/0248",
+    "sha256": "2fbcaa8bef29a4496cd67d2326d79835d433824f75d12abbf9590c61a125ad39",
+    "bytes": 39127
+  },
+  {
+    "species": 249,
+    "url": "https://zukan.pokemon.co.jp/detail/0249",
+    "sha256": "217872445909835100fdea6fad8e3a2c1d46e441e5fdc00a179b2ff64ef36ac3",
+    "bytes": 32489
+  },
+  {
+    "species": 250,
+    "url": "https://zukan.pokemon.co.jp/detail/0250",
+    "sha256": "6db7511c609ab3870e296d685b5803032fe0adee182874ff1a9516bb5c273c79",
+    "bytes": 32491
+  },
+  {
+    "species": 251,
+    "url": "https://zukan.pokemon.co.jp/detail/0251",
+    "sha256": "647f41bf6a67592bd9de96117f91a5059fac4f26481c337eef8b051d1d76d895",
+    "bytes": 32623
+  },
+  {
+    "species": 252,
+    "url": "https://zukan.pokemon.co.jp/detail/0252",
+    "sha256": "d61080fd0a91d88842da1d7c222fe80aaa7f91f3e656bc234d4ee9e8f1884829",
+    "bytes": 36187
+  },
+  {
+    "species": 253,
+    "url": "https://zukan.pokemon.co.jp/detail/0253",
+    "sha256": "444d0550344151ef1ddca18b77dcfe470fffaa1ea3b5daca56d04cce3afebae9",
+    "bytes": 36206
+  },
+  {
+    "species": 254,
+    "url": "https://zukan.pokemon.co.jp/detail/0254",
+    "sha256": "cdd77beca584dd771448e307466e654e4e16495eab7626253608fb78c51dbb6e",
+    "bytes": 37754
+  },
+  {
+    "species": 255,
+    "url": "https://zukan.pokemon.co.jp/detail/0255",
+    "sha256": "dbe049ffc86f69db82eb8f13b33fc1865ece472fe916c71420e148604700482a",
+    "bytes": 36564
+  },
+  {
+    "species": 256,
+    "url": "https://zukan.pokemon.co.jp/detail/0256",
+    "sha256": "c7c331aa4b387ba8751089c082aa5f5bd7a88f6b9a738926ff5cc04d8fce9f13",
+    "bytes": 36745
+  },
+  {
+    "species": 257,
+    "url": "https://zukan.pokemon.co.jp/detail/0257",
+    "sha256": "0c26181c93de0264a56fa1a9662128ce44b9ef926b7c3bf7d52f32cfd204ae55",
+    "bytes": 38443
+  },
+  {
+    "species": 258,
+    "url": "https://zukan.pokemon.co.jp/detail/0258",
+    "sha256": "82a77ba122b55eda4802d386e0905d44b4e3b417c8f0cc97a16c8ca5f31cf7c8",
+    "bytes": 36559
+  },
+  {
+    "species": 259,
+    "url": "https://zukan.pokemon.co.jp/detail/0259",
+    "sha256": "555beb5dbff25b7673d27ad02a6ee27c8aecf62db4d8e511de2e35bf3a467975",
+    "bytes": 36725
+  },
+  {
+    "species": 260,
+    "url": "https://zukan.pokemon.co.jp/detail/0260",
+    "sha256": "da48ece1af8a380b6fb66c6468bc44af457f2d654dbd53de06771110f05fb0a8",
+    "bytes": 38417
+  },
+  {
+    "species": 261,
+    "url": "https://zukan.pokemon.co.jp/detail/0261",
+    "sha256": "a82c84d7c240975d79246d80fb0fc16e01023e2da35e5ddb9e74c8e39094d5fc",
+    "bytes": 35940
+  },
+  {
+    "species": 262,
+    "url": "https://zukan.pokemon.co.jp/detail/0262",
+    "sha256": "91bcb5bcc85235418238971e5bb5b32cf4586971c38bde160c8df4899729492d",
+    "bytes": 35984
+  },
+  {
+    "species": 263,
+    "url": "https://zukan.pokemon.co.jp/detail/0263",
+    "sha256": "57b4b6316e64b154c9491d126a19c1901e4dace5d1ed9a41c1a802fbb9f1ddc2",
+    "bytes": 37481
+  },
+  {
+    "species": 264,
+    "url": "https://zukan.pokemon.co.jp/detail/0264",
+    "sha256": "2f37e557b39422a9f6010f385a96c09ee404c0277ebc68823de9fd9181eff3ce",
+    "bytes": 37468
+  },
+  {
+    "species": 265,
+    "url": "https://zukan.pokemon.co.jp/detail/0265",
+    "sha256": "2b23e0c562689c2642e14caf625c070a5beae6831dd960f4023109c201bab43f",
+    "bytes": 37816
+  },
+  {
+    "species": 266,
+    "url": "https://zukan.pokemon.co.jp/detail/0266",
+    "sha256": "166c2788d0ff26cbc53ef8555f0d0da3f57a724255ca1053e3744003f95eee17",
+    "bytes": 37878
+  },
+  {
+    "species": 267,
+    "url": "https://zukan.pokemon.co.jp/detail/0267",
+    "sha256": "85f635b4ee1c1975841bcfe122675131dcca6bc7479b3c14a0c3ce9ee4d6c740",
+    "bytes": 38038
+  },
+  {
+    "species": 268,
+    "url": "https://zukan.pokemon.co.jp/detail/0268",
+    "sha256": "b659c5d22b934b17b0f1a0539ec39bac12b44483539d01efd54199257410432f",
+    "bytes": 37860
+  },
+  {
+    "species": 269,
+    "url": "https://zukan.pokemon.co.jp/detail/0269",
+    "sha256": "64f0012f6e11f1fede532414176197c32830e31b79c3171355de3ba4a3368cbb",
+    "bytes": 38015
+  },
+  {
+    "species": 270,
+    "url": "https://zukan.pokemon.co.jp/detail/0270",
+    "sha256": "2cbf2860aa22861f47f3a00a3a36bf640312f4305795340e80368815d123a53e",
+    "bytes": 37970
+  },
+  {
+    "species": 271,
+    "url": "https://zukan.pokemon.co.jp/detail/0271",
+    "sha256": "343efd32c40793d9ab587dce918ea76fdf1e90a2655d3efacbe220bb7eba51dd",
+    "bytes": 37986
+  },
+  {
+    "species": 272,
+    "url": "https://zukan.pokemon.co.jp/detail/0272",
+    "sha256": "3c77b24b9647dd857168f283aae7b3434b51c400c7909cf2e89f04966b97c79f",
+    "bytes": 37971
+  },
+  {
+    "species": 273,
+    "url": "https://zukan.pokemon.co.jp/detail/0273",
+    "sha256": "4b6fdc372700aa1a4a8de862b370a9cdfb9b00755e369b1873d06df950a42175",
+    "bytes": 37685
+  },
+  {
+    "species": 274,
+    "url": "https://zukan.pokemon.co.jp/detail/0274",
+    "sha256": "ca3ba4755e26f95c14210692ddf6fb79a1910691ef44481fdf1bad883b2ef370",
+    "bytes": 37831
+  },
+  {
+    "species": 275,
+    "url": "https://zukan.pokemon.co.jp/detail/0275",
+    "sha256": "35772174d953f6c61e16314f0a4bfa186763a7265b2364273cb0ce6499761c67",
+    "bytes": 37891
+  },
+  {
+    "species": 276,
+    "url": "https://zukan.pokemon.co.jp/detail/0276",
+    "sha256": "8c69eeb87fb45135a6b96835bf1f689d562dfd9f778611336ec02cef51ef80e8",
+    "bytes": 34531
+  },
+  {
+    "species": 277,
+    "url": "https://zukan.pokemon.co.jp/detail/0277",
+    "sha256": "e37479221e87f98cccbbf2aa4c5793e098cd224f3b77332ae98383b328a52481",
+    "bytes": 34544
+  },
+  {
+    "species": 278,
+    "url": "https://zukan.pokemon.co.jp/detail/0278",
+    "sha256": "3bbbfcd8247ae8d51f7bfe68e3fb487947b56afd5c61fc5633b1b6e1f950639f",
+    "bytes": 37044
+  },
+  {
+    "species": 279,
+    "url": "https://zukan.pokemon.co.jp/detail/0279",
+    "sha256": "9a11dffbac9efffac2259c434d5f6fe56dd49e4836485b03c0ffe50f66d695b4",
+    "bytes": 37069
+  },
+  {
+    "species": 280,
+    "url": "https://zukan.pokemon.co.jp/detail/0280",
+    "sha256": "9d737f8cb6759017715ab55d5298021616ca65a971f0810cc53d94147ae9000f",
+    "bytes": 40114
+  },
+  {
+    "species": 281,
+    "url": "https://zukan.pokemon.co.jp/detail/0281",
+    "sha256": "8012214749e49abe853d559703dd66fb37f6f128dff20dc73435807c89f6a335",
+    "bytes": 40121
+  },
+  {
+    "species": 282,
+    "url": "https://zukan.pokemon.co.jp/detail/0282",
+    "sha256": "0e36f13bc5bb489477a61513e2e135f7175681818fb0b25c27e5561c2c21711a",
+    "bytes": 41836
+  },
+  {
+    "species": 283,
+    "url": "https://zukan.pokemon.co.jp/detail/0283",
+    "sha256": "693f8d9f80800caeee89613dbf0847dbcb766a216e45181f419771bcfe21a283",
+    "bytes": 35542
+  },
+  {
+    "species": 284,
+    "url": "https://zukan.pokemon.co.jp/detail/0284",
+    "sha256": "3623f51d4ab8a0cded6dfc5755d767533573b241c6208db3c8626e323df27642",
+    "bytes": 35611
+  },
+  {
+    "species": 285,
+    "url": "https://zukan.pokemon.co.jp/detail/0285",
+    "sha256": "33c8f40054257cf96f0ccf3c66bf3249fb6e54e3a3df0f38a6c49cd295ac40d9",
+    "bytes": 36170
+  },
+  {
+    "species": 286,
+    "url": "https://zukan.pokemon.co.jp/detail/0286",
+    "sha256": "75aacb69c56f32741b52417dbf6407211f5995fb832360d903b39b8e9e5d932d",
+    "bytes": 36374
+  },
+  {
+    "species": 287,
+    "url": "https://zukan.pokemon.co.jp/detail/0287",
+    "sha256": "fb727c32cbfb0f6504c0e794989d010a4a20125415346d599e02998f93f949ce",
+    "bytes": 35885
+  },
+  {
+    "species": 288,
+    "url": "https://zukan.pokemon.co.jp/detail/0288",
+    "sha256": "6b689ec96743c089e57a1cd83d202fe156ca24b3c3e5d64d12abd4ebdaf8e23d",
+    "bytes": 35942
+  },
+  {
+    "species": 289,
+    "url": "https://zukan.pokemon.co.jp/detail/0289",
+    "sha256": "87c43cc0c7c5ed2bf06f28810dc84f5f32974b2633040f36e8b9ca5fc078b566",
+    "bytes": 35953
+  },
+  {
+    "species": 293,
+    "url": "https://zukan.pokemon.co.jp/detail/0293",
+    "sha256": "80453521963890979f720e9960b8e71aa2c28bb48fc878f037a5d6a388dfe19e",
+    "bytes": 35783
+  },
+  {
+    "species": 294,
+    "url": "https://zukan.pokemon.co.jp/detail/0294",
+    "sha256": "f3455465d395644dbab3d0a0b7a847059cfff1ad10c3df7defeeb9cff390301f",
+    "bytes": 35765
+  },
+  {
+    "species": 295,
+    "url": "https://zukan.pokemon.co.jp/detail/0295",
+    "sha256": "8ed1ec869d40fb589c84f990157d9201b5455386e4fc82910970418cfe4f19af",
+    "bytes": 35789
+  },
+  {
+    "species": 296,
+    "url": "https://zukan.pokemon.co.jp/detail/0296",
+    "sha256": "81b3c59f53c53d42eaef1d8efc8523e161063362a22c31d94ae965002105e6fa",
+    "bytes": 36064
+  },
+  {
+    "species": 297,
+    "url": "https://zukan.pokemon.co.jp/detail/0297",
+    "sha256": "b3a12e4456475e029001f71c537428c4f56ac838313a4917b42483d2d62d73f6",
+    "bytes": 36095
+  },
+  {
+    "species": 298,
+    "url": "https://zukan.pokemon.co.jp/detail/0298",
+    "sha256": "9785a7e945877d4faa6e92c043d29b028c7d13c227179b9d9dd6303a4ae82181",
+    "bytes": 38082
+  },
+  {
+    "species": 299,
+    "url": "https://zukan.pokemon.co.jp/detail/0299",
+    "sha256": "f2f34403dba420201e08c97b6315363ba8e76bf577b3dd8bb60c24ac715a8703",
+    "bytes": 36805
+  },
+  {
+    "species": 300,
+    "url": "https://zukan.pokemon.co.jp/detail/0300",
+    "sha256": "a9cd2e579b03f5eb972a0f5a93abb6c71aa20492cdf8a6f972f7b1edab4fda73",
+    "bytes": 34967
+  },
+  {
+    "species": 301,
+    "url": "https://zukan.pokemon.co.jp/detail/0301",
+    "sha256": "6b0ea15083501947a4a807f3ce3468b49864cec67a0b454f38e3f5f5477842df",
+    "bytes": 34985
+  },
+  {
+    "species": 302,
+    "url": "https://zukan.pokemon.co.jp/detail/0302",
+    "sha256": "b445f140bee85ab08b0c15b14b56bfef00523867950c057b55471e53c9765c55",
+    "bytes": 37074
+  },
+  {
+    "species": 303,
+    "url": "https://zukan.pokemon.co.jp/detail/0303",
+    "sha256": "4641743be88801fca7a1a6415bd116142d05983faa6c0ccff0b3e19bf935c2ae",
+    "bytes": 36600
+  },
+  {
+    "species": 304,
+    "url": "https://zukan.pokemon.co.jp/detail/0304",
+    "sha256": "fd5f099e8d1e37d0195a4bd2d6d8b9538e783f80370c0e2f2f6aeea65a857a3c",
+    "bytes": 37781
+  },
+  {
+    "species": 305,
+    "url": "https://zukan.pokemon.co.jp/detail/0305",
+    "sha256": "1aa3c1bc5aede13974d93020057969003402b19a22fdc1ecbd5658a50a304d41",
+    "bytes": 37741
+  },
+  {
+    "species": 306,
+    "url": "https://zukan.pokemon.co.jp/detail/0306",
+    "sha256": "2b4d6782d6a0f1b94ab4ef285f5ee18a63d58f655dd5295d983e00d30e114b14",
+    "bytes": 39327
+  },
+  {
+    "species": 307,
+    "url": "https://zukan.pokemon.co.jp/detail/0307",
+    "sha256": "5bf1da3bc69c04bf061f7b9cfe51ebc4f657c9e3a795c50ad2e32e97016f6360",
+    "bytes": 35953
+  },
+  {
+    "species": 308,
+    "url": "https://zukan.pokemon.co.jp/detail/0308",
+    "sha256": "9566215e41f77e7ff395f473564b3c9a79d8554e0114fcca96150fcc89f41908",
+    "bytes": 37677
+  },
+  {
+    "species": 309,
+    "url": "https://zukan.pokemon.co.jp/detail/0309",
+    "sha256": "8ede9ef66649c98c15b75668a9eadcd40737d36160f2c6a8f3922561e0051289",
+    "bytes": 36346
+  },
+  {
+    "species": 310,
+    "url": "https://zukan.pokemon.co.jp/detail/0310",
+    "sha256": "fb0d076bb29455e965fc3c94669035dbbe4eabe46bb9c8d87f874adb4474cbe8",
+    "bytes": 37726
+  },
+  {
+    "species": 311,
+    "url": "https://zukan.pokemon.co.jp/detail/0311",
+    "sha256": "49303ae168f68dee0e82dd67ff6e087411eb1bb897da7df456d6cdf22748aecb",
+    "bytes": 33491
+  },
+  {
+    "species": 312,
+    "url": "https://zukan.pokemon.co.jp/detail/0312",
+    "sha256": "cabf323417222b73404738d302f87717923c8f798646590e655aa8c1348443e6",
+    "bytes": 33525
+  },
+  {
+    "species": 313,
+    "url": "https://zukan.pokemon.co.jp/detail/0313",
+    "sha256": "0d145128c3b97bc5d4967a2054165d477b3dc5da3da181aa44becc2ba1c8c6d1",
+    "bytes": 34290
+  },
+  {
+    "species": 314,
+    "url": "https://zukan.pokemon.co.jp/detail/0314",
+    "sha256": "729db48604780a39f588a5d840132f94b2fd2cef5625e30628e1153b908e00f6",
+    "bytes": 34328
+  },
+  {
+    "species": 315,
+    "url": "https://zukan.pokemon.co.jp/detail/0315",
+    "sha256": "c11592f6d461ee52688d029e8dc9c50ab688318762bd9242e0ac35e8b3d089ce",
+    "bytes": 38507
+  },
+  {
+    "species": 316,
+    "url": "https://zukan.pokemon.co.jp/detail/0316",
+    "sha256": "19189aec0cfe6962bcb4badf05877077d9c01f78f7fe3bc633bbee2b0c6ea372",
+    "bytes": 36357
+  },
+  {
+    "species": 317,
+    "url": "https://zukan.pokemon.co.jp/detail/0317",
+    "sha256": "18fce204295c6b916c7df7b05345a9f4cde2db5f0163c8c6d316a1d220605cf0",
+    "bytes": 36384
+  },
+  {
+    "species": 318,
+    "url": "https://zukan.pokemon.co.jp/detail/0318",
+    "sha256": "30e16627ed6255402186c9fd773041c9c1aef193c0cc299adfe841e376b26f7c",
+    "bytes": 35918
+  },
+  {
+    "species": 319,
+    "url": "https://zukan.pokemon.co.jp/detail/0319",
+    "sha256": "fc06d2208b2622a1b5ccf735cf2be8ce352a17ecf74bf969a4af1fc04ddd8508",
+    "bytes": 37611
+  },
+  {
+    "species": 320,
+    "url": "https://zukan.pokemon.co.jp/detail/0320",
+    "sha256": "bca8a575ee005d27d8e605b3433cf0df5330fb15d1a55e009a80117421bf0eff",
+    "bytes": 35851
+  },
+  {
+    "species": 321,
+    "url": "https://zukan.pokemon.co.jp/detail/0321",
+    "sha256": "31ec87efd0cc4aba72fc12524fd65916c29bcced492ed1f32b6b51aa714099ab",
+    "bytes": 35869
+  },
+  {
+    "species": 322,
+    "url": "https://zukan.pokemon.co.jp/detail/0322",
+    "sha256": "d9a4ceb7317e742633501d53777982a13e12b2bbbb964e2176504e49f6fd0ff3",
+    "bytes": 36804
+  },
+  {
+    "species": 323,
+    "url": "https://zukan.pokemon.co.jp/detail/0323",
+    "sha256": "73db17628970c05666c60fc1d3df91b642725bec308f202a277f30566151341f",
+    "bytes": 38491
+  },
+  {
+    "species": 324,
+    "url": "https://zukan.pokemon.co.jp/detail/0324",
+    "sha256": "ef4642aa6d2425bea2eaa760ed78976bdb6b8a3c7241da5056cccba6cc8ae689",
+    "bytes": 34905
+  },
+  {
+    "species": 325,
+    "url": "https://zukan.pokemon.co.jp/detail/0325",
+    "sha256": "792c512e3490a875c2ee3e229ef51c914ab67dfa8c80740cca16ca8e4c75a495",
+    "bytes": 36419
+  },
+  {
+    "species": 326,
+    "url": "https://zukan.pokemon.co.jp/detail/0326",
+    "sha256": "cc4f89d74e4b9ad29e2c8868fd8d170376780c08446bcad5c83fca810ee55d9b",
+    "bytes": 36404
+  },
+  {
+    "species": 327,
+    "url": "https://zukan.pokemon.co.jp/detail/0327",
+    "sha256": "9bb24221875283d36ced1a09baf0476f0fb3a0cd92c3df8d9486e0f26568d6ef",
+    "bytes": 33299
+  },
+  {
+    "species": 328,
+    "url": "https://zukan.pokemon.co.jp/detail/0328",
+    "sha256": "bb6110d86a75422a63629c2fa1ab50a841c65f704ea8cd91dc9be35edb90c944",
+    "bytes": 37709
+  },
+  {
+    "species": 329,
+    "url": "https://zukan.pokemon.co.jp/detail/0329",
+    "sha256": "d6b7d5ee813016d809dccaa22b19104fdac77a7e84da0ec4ab22fb8772753894",
+    "bytes": 37029
+  },
+  {
+    "species": 331,
+    "url": "https://zukan.pokemon.co.jp/detail/0331",
+    "sha256": "b38f80a3194d4950b91aa57e5f77093c1cfb9022d9dd335b631b29bfabdd7542",
+    "bytes": 35204
+  },
+  {
+    "species": 332,
+    "url": "https://zukan.pokemon.co.jp/detail/0332",
+    "sha256": "6343dfe4f97289fed9f727238c3ecacb0a57ea2e3a72e8feabca73c5ad41193a",
+    "bytes": 35388
+  },
+  {
+    "species": 333,
+    "url": "https://zukan.pokemon.co.jp/detail/0333",
+    "sha256": "a3f56c3b5ac02be98d648cc0b9e83bbca5a443589e447ecf67fcce4aa1d6972e",
+    "bytes": 36523
+  },
+  {
+    "species": 334,
+    "url": "https://zukan.pokemon.co.jp/detail/0334",
+    "sha256": "ad933150b2f7241650b3527f38079c57aecadcd278c760760c5a3e9fe8a5ed9f",
+    "bytes": 38262
+  },
+  {
+    "species": 335,
+    "url": "https://zukan.pokemon.co.jp/detail/0335",
+    "sha256": "4169c9654820e8b2e039aef0ef782a9b04d68d9dacbea0134c2043fa68b3088e",
+    "bytes": 33827
+  },
+  {
+    "species": 336,
+    "url": "https://zukan.pokemon.co.jp/detail/0336",
+    "sha256": "e167019d227f2f5f78e94c42d00dd5e52aea147ff35b91de71d0d9921617e4b8",
+    "bytes": 33795
+  },
+  {
+    "species": 337,
+    "url": "https://zukan.pokemon.co.jp/detail/0337",
+    "sha256": "19b3c2ba794dd020ad64a1996e1e525b2a6169c406736d5455fab11f8ede6ca4",
+    "bytes": 33412
+  },
+  {
+    "species": 338,
+    "url": "https://zukan.pokemon.co.jp/detail/0338",
+    "sha256": "9f43a2fc11b8b3eda5b57eec816b7b2a3b79e912f9cf0c411f58d42110984f2b",
+    "bytes": 33406
+  },
+  {
+    "species": 339,
+    "url": "https://zukan.pokemon.co.jp/detail/0339",
+    "sha256": "bb34fb76733fb636c2420cf796f05ac71d53012b2992b7bbf8cde0ab65fd2a3f",
+    "bytes": 37921
+  },
+  {
+    "species": 340,
+    "url": "https://zukan.pokemon.co.jp/detail/0340",
+    "sha256": "1ce0a93001886f1e6c30ba7fa4255be250af71b622c413aad8c26195c0e9e882",
+    "bytes": 37892
+  },
+  {
+    "species": 341,
+    "url": "https://zukan.pokemon.co.jp/detail/0341",
+    "sha256": "fb0d81910cf1b730c84b719670ee47c06aac41326989ab45804de354d35e1ee7",
+    "bytes": 36776
+  },
+  {
+    "species": 342,
+    "url": "https://zukan.pokemon.co.jp/detail/0342",
+    "sha256": "05c97c5d8040f583fabf298b68a68f7a3c6084a4ed666da79e111eadeafe6c1c",
+    "bytes": 36978
+  },
+  {
+    "species": 343,
+    "url": "https://zukan.pokemon.co.jp/detail/0343",
+    "sha256": "172504570db276dda92bfed9fd4d419ff1180de30ee3fc7f53c707a988a029ab",
+    "bytes": 35360
+  },
+  {
+    "species": 344,
+    "url": "https://zukan.pokemon.co.jp/detail/0344",
+    "sha256": "6ccbf1543c1e1e348a23b47745b7a2547a0b1c7415b82c0ea089219fcc4a1c39",
+    "bytes": 35361
+  },
+  {
+    "species": 345,
+    "url": "https://zukan.pokemon.co.jp/detail/0345",
+    "sha256": "76c637e10f1bf46e2aac0ecce031d6a045531ce6596bf7e1da4b842c0aa275c0",
+    "bytes": 35482
+  },
+  {
+    "species": 346,
+    "url": "https://zukan.pokemon.co.jp/detail/0346",
+    "sha256": "a785002c7c10a4f3f32f63f8cae909246fd1d43524d8893270b3b42ee23fbb66",
+    "bytes": 35494
+  },
+  {
+    "species": 347,
+    "url": "https://zukan.pokemon.co.jp/detail/0347",
+    "sha256": "e1aa1b3913692a868f5304bdc6dbd0f43b6e87472d020b529b0d30a1ebbad3ee",
+    "bytes": 35467
+  },
+  {
+    "species": 348,
+    "url": "https://zukan.pokemon.co.jp/detail/0348",
+    "sha256": "249e6202535ef8eb2ebe73515cd873f1837c9acc6977c48c088df2af51e2dd0e",
+    "bytes": 35473
+  },
+  {
+    "species": 349,
+    "url": "https://zukan.pokemon.co.jp/detail/0349",
+    "sha256": "40d098587cb8b5757340af60212dc0a044a2cdf9e3f84782f94bc297d05a24b3",
+    "bytes": 36849
+  },
+  {
+    "species": 350,
+    "url": "https://zukan.pokemon.co.jp/detail/0350",
+    "sha256": "2e436703435b3dc91545c42a60466f3cdd46c91083dbaf01440eafea71671086",
+    "bytes": 36923
+  },
+  {
+    "species": 351,
+    "url": "https://zukan.pokemon.co.jp/detail/0351",
+    "sha256": "b40717b697058fbb0b3c4c9aec4ab391ababbbbc95a2cc27b4d4914391cf6eb7",
+    "bytes": 32646
+  },
+  {
+    "species": 352,
+    "url": "https://zukan.pokemon.co.jp/detail/0352",
+    "sha256": "871b49c57347661015799d1a608937ca4caa8a38b995ab5ab9fa512f3068ab73",
+    "bytes": 33241
+  },
+  {
+    "species": 353,
+    "url": "https://zukan.pokemon.co.jp/detail/0353",
+    "sha256": "95d88862e25f94fbee1d44623a7eebf6ba18a645897b760b2bdffec8601e5980",
+    "bytes": 36327
+  },
+  {
+    "species": 354,
+    "url": "https://zukan.pokemon.co.jp/detail/0354",
+    "sha256": "96c272e346bb9ee60a16e4c153a62f96b3a9e4a34e81b146273426d04e2d2e5f",
+    "bytes": 37723
+  },
+  {
+    "species": 355,
+    "url": "https://zukan.pokemon.co.jp/detail/0355",
+    "sha256": "dc2b8ef943840266ef0e32dd4c0ef175e8df81644163579aba70e923cbeaf981",
+    "bytes": 37128
+  },
+  {
+    "species": 356,
+    "url": "https://zukan.pokemon.co.jp/detail/0356",
+    "sha256": "1a778a27039b9bd1621854a9005191b2e2fe58efc160b18de65f5fbc3fd2a7a3",
+    "bytes": 37180
+  },
+  {
+    "species": 357,
+    "url": "https://zukan.pokemon.co.jp/detail/0357",
+    "sha256": "6595f032d8befc0ca2d81f8f6d5d466047e8d601df56898daaecdbb93e441557",
+    "bytes": 34535
+  },
+  {
+    "species": 358,
+    "url": "https://zukan.pokemon.co.jp/detail/0358",
+    "sha256": "8a85da861ff5437eb829f231c0496c82b91bef1cb7c0080c1502b31702a88b9f",
+    "bytes": 37791
+  },
+  {
+    "species": 359,
+    "url": "https://zukan.pokemon.co.jp/detail/0359",
+    "sha256": "e3a37577cf1ac5362a88523964113000f709b855302ecabc614c2ade96925c2d",
+    "bytes": 36864
+  },
+  {
+    "species": 360,
+    "url": "https://zukan.pokemon.co.jp/detail/0360",
+    "sha256": "5a8669f9988134783fd074fbe7536d4a5c08b12c060445864a994218d73f8c30",
+    "bytes": 34977
+  },
+  {
+    "species": 361,
+    "url": "https://zukan.pokemon.co.jp/detail/0361",
+    "sha256": "6cbfd21979d0e9221645cf7f472f10e65dc6a4fea8982351bf30ceb1aef07b51",
+    "bytes": 38635
+  },
+  {
+    "species": 363,
+    "url": "https://zukan.pokemon.co.jp/detail/0363",
+    "sha256": "38728dc05df66776162af0edb09db75ed2aad7e23578044dcdf328d528624295",
+    "bytes": 38168
+  },
+  {
+    "species": 364,
+    "url": "https://zukan.pokemon.co.jp/detail/0364",
+    "sha256": "c496d347b6195a66551a72b9a3e25dd77a797391b9e19a52d369c4defd8011c3",
+    "bytes": 38166
+  },
+  {
+    "species": 365,
+    "url": "https://zukan.pokemon.co.jp/detail/0365",
+    "sha256": "7df6149245e36402a3efd9ba9647cc611306c7bec2576063b1dd3e15e786da5e",
+    "bytes": 38179
+  },
+  {
+    "species": 366,
+    "url": "https://zukan.pokemon.co.jp/detail/0366",
+    "sha256": "5f0f3fb86d14ed259fe99bc1bd783e6c5c47eb5da5911923b3145cc50ea357c3",
+    "bytes": 34700
+  },
+  {
+    "species": 367,
+    "url": "https://zukan.pokemon.co.jp/detail/0367",
+    "sha256": "b4025aa75d2b5a71c830a96a7a66215a6bbcf2f206dc91d044d50cbff2f4c328",
+    "bytes": 34682
+  },
+  {
+    "species": 368,
+    "url": "https://zukan.pokemon.co.jp/detail/0368",
+    "sha256": "f846b2394b008a52a1202ec310492adda4e58149b41fa7df5fb0e1e648bc3a1a",
+    "bytes": 34670
+  },
+  {
+    "species": 369,
+    "url": "https://zukan.pokemon.co.jp/detail/0369",
+    "sha256": "c84903696346a9207e358495ae13548702d4c1007508a04b324e8aad6845ca6a",
+    "bytes": 34343
+  },
+  {
+    "species": 370,
+    "url": "https://zukan.pokemon.co.jp/detail/0370",
+    "sha256": "b80543ae90b8b923d18c550a0041ae9a4f02f9c5eeae845420f623112915c064",
+    "bytes": 33445
+  },
+  {
+    "species": 371,
+    "url": "https://zukan.pokemon.co.jp/detail/0371",
+    "sha256": "57accc8851116ed0965b4031411582de7ba1781a2514a7fdf51ba1fdc8d55000",
+    "bytes": 36983
+  },
+  {
+    "species": 372,
+    "url": "https://zukan.pokemon.co.jp/detail/0372",
+    "sha256": "486a2c2142501dda33c81068ad623aeee334404fe56f7d77ca1883589ae124d1",
+    "bytes": 36999
+  },
+  {
+    "species": 373,
+    "url": "https://zukan.pokemon.co.jp/detail/0373",
+    "sha256": "9bdfc77fc1c803056f03f0248f958beb4e9505d98203dfaab4b34f078355aea5",
+    "bytes": 38901
+  },
+  {
+    "species": 374,
+    "url": "https://zukan.pokemon.co.jp/detail/0374",
+    "sha256": "dbc00e0ef5ea946b1cfcb304ae1051f4537ed0c565a98d4ddf735f953019bee8",
+    "bytes": 37383
+  },
+  {
+    "species": 375,
+    "url": "https://zukan.pokemon.co.jp/detail/0375",
+    "sha256": "e3c2f56d2a5469d19fa5bfa46178c33ea5937fd80669848426f0e09ef1d6ffda",
+    "bytes": 37382
+  },
+  {
+    "species": 376,
+    "url": "https://zukan.pokemon.co.jp/detail/0376",
+    "sha256": "3cf9963d0bf6bcf4af83e073fe1bfe3fb53363c231bb62c5218a8659cb513792",
+    "bytes": 39124
+  },
+  {
+    "species": 377,
+    "url": "https://zukan.pokemon.co.jp/detail/0377",
+    "sha256": "74eb1ec41e4815cee49c96568639d61414329bc77730214d3abbecb2c1966c80",
+    "bytes": 33211
+  },
+  {
+    "species": 378,
+    "url": "https://zukan.pokemon.co.jp/detail/0378",
+    "sha256": "a1b45a0c0a35ca2b45e2b3f8713ea5455855120649bcc28af475b18975d665be",
+    "bytes": 33216
+  },
+  {
+    "species": 379,
+    "url": "https://zukan.pokemon.co.jp/detail/0379",
+    "sha256": "20f7990800c00486200d1f04ec4b77a1228fc26a067396d9de855bee9c0dbf5b",
+    "bytes": 33205
+  },
+  {
+    "species": 380,
+    "url": "https://zukan.pokemon.co.jp/detail/0380",
+    "sha256": "d0fc5c30b12f5b3eae319aa5d71336dac8b513ae94bb2ace6678e4804abd2f25",
+    "bytes": 35049
+  },
+  {
+    "species": 381,
+    "url": "https://zukan.pokemon.co.jp/detail/0381",
+    "sha256": "e935d16100107eb3f8a4ff8b6ba90400f7777e134a280e6eb27286c7cb14700b",
+    "bytes": 35041
+  },
+  {
+    "species": 382,
+    "url": "https://zukan.pokemon.co.jp/detail/0382",
+    "sha256": "dd46f56cbdc6bbd481b8133004e8951f481db237c7e2a93bbcc9da2fda8fcf2e",
+    "bytes": 34428
+  },
+  {
+    "species": 383,
+    "url": "https://zukan.pokemon.co.jp/detail/0383",
+    "sha256": "a318f04fd2f98ccee85643344b037527799d0ccda770d3d215a4048bfc49cc35",
+    "bytes": 34603
+  },
+  {
+    "species": 384,
+    "url": "https://zukan.pokemon.co.jp/detail/0384",
+    "sha256": "e05d290e060fff5ab95dff65606f0cef4384b1f18203adac6b9f1bde4da6794a",
+    "bytes": 34965
+  },
+  {
+    "species": 385,
+    "url": "https://zukan.pokemon.co.jp/detail/0385",
+    "sha256": "485fae5032ba59b12d1649579f3f1168bf8ac69ba075011b4e17b51094eb042f",
+    "bytes": 32477
+  },
+  {
+    "species": 386,
+    "url": "https://zukan.pokemon.co.jp/detail/0386",
+    "sha256": "6ae48d73c6ec2e1805253d77825e5363468cb6f1eee771f683f66eed5578a6cf",
+    "bytes": 34480
+  },
+  {
+    "species": 387,
+    "url": "https://zukan.pokemon.co.jp/detail/0387",
+    "sha256": "b7c1fd32fc4332995c073c90027beeb7c91ff9d6f3132b7e5679a7b7b2bf0d30",
+    "bytes": 36269
+  },
+  {
+    "species": 388,
+    "url": "https://zukan.pokemon.co.jp/detail/0388",
+    "sha256": "15381995cab47dcf01a76af6ecb74b5aec02f82ab64bf915aeb4b8bd5e5a0c00",
+    "bytes": 36291
+  },
+  {
+    "species": 389,
+    "url": "https://zukan.pokemon.co.jp/detail/0389",
+    "sha256": "029ceaca4f696b6a1fdeb60b2b3d8e5cfc171aa73962f6d3a1b7059e84a4e9ce",
+    "bytes": 36435
+  },
+  {
+    "species": 390,
+    "url": "https://zukan.pokemon.co.jp/detail/0390",
+    "sha256": "7a3871541ca404663fb846807f05a8d6e71062cfa7b19b6b6923e7c018e77c17",
+    "bytes": 36408
+  },
+  {
+    "species": 391,
+    "url": "https://zukan.pokemon.co.jp/detail/0391",
+    "sha256": "920187d516e6c2202764d9ac9ce60e9fd5ca6ff5c4614cea109df148644904f8",
+    "bytes": 36621
+  },
+  {
+    "species": 393,
+    "url": "https://zukan.pokemon.co.jp/detail/0393",
+    "sha256": "40b653c225f9d0fd151a90e4f08ebb83c2e919935f2b379b997999464f1b5584",
+    "bytes": 36301
+  },
+  {
+    "species": 394,
+    "url": "https://zukan.pokemon.co.jp/detail/0394",
+    "sha256": "8f69fd195e7c2ef50463b168ea5c42db10c305d9db2ad13af09e6002fe9ced85",
+    "bytes": 36263
+  },
+  {
+    "species": 395,
+    "url": "https://zukan.pokemon.co.jp/detail/0395",
+    "sha256": "e6a03d0325f15d58d6868468fbbad7d311ae35f7447040219599fef9d6f4dcf4",
+    "bytes": 36414
+  },
+  {
+    "species": 396,
+    "url": "https://zukan.pokemon.co.jp/detail/0396",
+    "sha256": "c422bea81ca9dc8125f1f01900e6d4e77d12e4e932a728a8604f014886cf151d",
+    "bytes": 37096
+  },
+  {
+    "species": 397,
+    "url": "https://zukan.pokemon.co.jp/detail/0397",
+    "sha256": "385748c78cc5376c409dfa67af1e4daaad6fd2cfb054e7725cb696e808bee918",
+    "bytes": 37154
+  },
+  {
+    "species": 398,
+    "url": "https://zukan.pokemon.co.jp/detail/0398",
+    "sha256": "82b33ba4a4d903b76355bdef412d6c2f98f4e1c0a65a6d2300bf6cbc64401ac5",
+    "bytes": 38844
+  },
+  {
+    "species": 399,
+    "url": "https://zukan.pokemon.co.jp/detail/0399",
+    "sha256": "4a21cc4baa34d29d8e09c90774f96b7ea03d8a9469b8f352cbe053cba8c35e93",
+    "bytes": 35460
+  },
+  {
+    "species": 400,
+    "url": "https://zukan.pokemon.co.jp/detail/0400",
+    "sha256": "4da4b85bc0a1512d4fdfc12d4d967000b3ae567d1c54446d9c1d4f58c9d20257",
+    "bytes": 35613
+  },
+  {
+    "species": 401,
+    "url": "https://zukan.pokemon.co.jp/detail/0401",
+    "sha256": "75c019d20c8b59e4a5a87158a07324b693bc57a4208c8c2ddd45be543578b996",
+    "bytes": 35307
+  },
+  {
+    "species": 402,
+    "url": "https://zukan.pokemon.co.jp/detail/0402",
+    "sha256": "10b5d25b77f59a29c998ae4dc0887c14a2781f2aa8f9b047538c0a46e7e8de71",
+    "bytes": 35308
+  },
+  {
+    "species": 403,
+    "url": "https://zukan.pokemon.co.jp/detail/0403",
+    "sha256": "47c8a2d13dea9a81c54a0d4ea8b5fcd664532398ed65896a48bc782cfe00cf93",
+    "bytes": 37618
+  },
+  {
+    "species": 404,
+    "url": "https://zukan.pokemon.co.jp/detail/0404",
+    "sha256": "8ef105a3753ea5310ad152775eba1ddaacd45837d5f33cc5938f792c6c458fe1",
+    "bytes": 37610
+  },
+  {
+    "species": 405,
+    "url": "https://zukan.pokemon.co.jp/detail/0405",
+    "sha256": "a45af83eac83f05d5f41cf10b819ed1f8f601fd01fd5ba4b6f07a6ef70ab37de",
+    "bytes": 37631
+  },
+  {
+    "species": 406,
+    "url": "https://zukan.pokemon.co.jp/detail/0406",
+    "sha256": "773dc5f068872d8e9068dc31716665a539d8b6dd7271401c3ef3d28829488d25",
+    "bytes": 37908
+  },
+  {
+    "species": 407,
+    "url": "https://zukan.pokemon.co.jp/detail/0407",
+    "sha256": "c5171d2dad828b871bb667a028b0b9b31cfce5e50b47371db1deb1f2052fa9ed",
+    "bytes": 37927
+  },
+  {
+    "species": 408,
+    "url": "https://zukan.pokemon.co.jp/detail/0408",
+    "sha256": "30dfcefbdaf3709002b581bc8c26bc991f7264679709578a10f7654fa3097758",
+    "bytes": 35339
+  },
+  {
+    "species": 409,
+    "url": "https://zukan.pokemon.co.jp/detail/0409",
+    "sha256": "7021481f57295baf5af0c457a4391c6324df0b3dce076e8ce05d4bd0bc4afea3",
+    "bytes": 35368
+  },
+  {
+    "species": 410,
+    "url": "https://zukan.pokemon.co.jp/detail/0410",
+    "sha256": "c2ebbcf3aa3d6cea7271d2928ffa86ff85c7d9ac752d0565f296ef5bc04ad256",
+    "bytes": 35891
+  },
+  {
+    "species": 411,
+    "url": "https://zukan.pokemon.co.jp/detail/0411",
+    "sha256": "ef49bae9af3f9b63390d33ec9f45b5172cdc6e697bde4f4dc175c9b7f2b429f9",
+    "bytes": 35887
+  },
+  {
+    "species": 412,
+    "url": "https://zukan.pokemon.co.jp/detail/0412",
+    "sha256": "47be7c326317552bfc576ddc00c33ca649b8eb6dc813a340c8fbf9534d0edcaf",
+    "bytes": 37648
+  },
+  {
+    "species": 413,
+    "url": "https://zukan.pokemon.co.jp/detail/0413",
+    "sha256": "00290126594ed2d30ae368daa733a82b4551572086fa56d9dc623cf158caf987",
+    "bytes": 38273
+  },
+  {
+    "species": 414,
+    "url": "https://zukan.pokemon.co.jp/detail/0414",
+    "sha256": "0d5dd7801826c1e6584fbcd0711400db1cb2b08beeab82183dfda18447fea52f",
+    "bytes": 35597
+  },
+  {
+    "species": 415,
+    "url": "https://zukan.pokemon.co.jp/detail/0415",
+    "sha256": "d0690b14048e9ec7b47ad5efd18327ff75cc2f524c05a2e9102c66e0946e0831",
+    "bytes": 36444
+  },
+  {
+    "species": 416,
+    "url": "https://zukan.pokemon.co.jp/detail/0416",
+    "sha256": "4c6329399a0eb301de1f84594ec6d7e334c0dc8dcd39f893f1abcb48ab8af233",
+    "bytes": 36376
+  },
+  {
+    "species": 417,
+    "url": "https://zukan.pokemon.co.jp/detail/0417",
+    "sha256": "42e09368b53cfe28dd98eb44f5264608b4a2b521da48fd7a06ae827583a17ca1",
+    "bytes": 34547
+  },
+  {
+    "species": 418,
+    "url": "https://zukan.pokemon.co.jp/detail/0418",
+    "sha256": "f0dc765deae80addc9a5f467305995ab67c39ff13740ecbdd309056149e217b7",
+    "bytes": 35279
+  },
+  {
+    "species": 419,
+    "url": "https://zukan.pokemon.co.jp/detail/0419",
+    "sha256": "a5d940aea4348d068b82fce3b0b1a9ede51c9693b6687cecf81482c26581808a",
+    "bytes": 35285
+  },
+  {
+    "species": 420,
+    "url": "https://zukan.pokemon.co.jp/detail/0420",
+    "sha256": "b4c6c21127313a4e0a5ef927165325cfd3a40a35b64bfde0d721889650e5dc63",
+    "bytes": 35426
+  },
+  {
+    "species": 421,
+    "url": "https://zukan.pokemon.co.jp/detail/0421",
+    "sha256": "18bead84ee7def661234257559cbfa4de262d18b7f095f727efbac10bf228d35",
+    "bytes": 36921
+  },
+  {
+    "species": 422,
+    "url": "https://zukan.pokemon.co.jp/detail/0422",
+    "sha256": "0c16e42a5f7c60faa78bd3e606463d94670aae6f47986a2e3c6080b02743c940",
+    "bytes": 38472
+  },
+  {
+    "species": 423,
+    "url": "https://zukan.pokemon.co.jp/detail/0423",
+    "sha256": "c2fa3b67fec8324ccd7d644b8a15bbaede4ad7cc43226b159173b172deecceef",
+    "bytes": 38974
+  },
+  {
+    "species": 424,
+    "url": "https://zukan.pokemon.co.jp/detail/0424",
+    "sha256": "105079bdba1fc698496e198635f2dd60f22be6917bf5b0dfaad9a6999091265c",
+    "bytes": 36268
+  },
+  {
+    "species": 425,
+    "url": "https://zukan.pokemon.co.jp/detail/0425",
+    "sha256": "87607d0514bdc88e3adfb35685d497272a4bafd6239acf5ab569eade8c3955f9",
+    "bytes": 37289
+  },
+  {
+    "species": 426,
+    "url": "https://zukan.pokemon.co.jp/detail/0426",
+    "sha256": "7fdf9a2219db4bb1325f69d8aa183669d4baf6ee9ebfa86a8a656c35c654480d",
+    "bytes": 37284
+  },
+  {
+    "species": 427,
+    "url": "https://zukan.pokemon.co.jp/detail/0427",
+    "sha256": "00654cf12f087fc916cf2c978ae60e446669d32f50209cc6adee3a8b981b98f2",
+    "bytes": 36451
+  },
+  {
+    "species": 428,
+    "url": "https://zukan.pokemon.co.jp/detail/0428",
+    "sha256": "2839e7c8db4cf9dc53259b2f6d6d46c00f6a37e74f950112e99ef17e2c5db84a",
+    "bytes": 38064
+  },
+  {
+    "species": 429,
+    "url": "https://zukan.pokemon.co.jp/detail/0429",
+    "sha256": "8ece85743b812f3fd8c644e5172ffbbc798ac2fb3aae7230bc906a0a80258c31",
+    "bytes": 35330
+  },
+  {
+    "species": 430,
+    "url": "https://zukan.pokemon.co.jp/detail/0430",
+    "sha256": "6828e60763238cd0e50ebb585c3dd450be0cf8291b0ed032ccebb72dd22e3a16",
+    "bytes": 36681
+  },
+  {
+    "species": 431,
+    "url": "https://zukan.pokemon.co.jp/detail/0431",
+    "sha256": "81d8d2ee17c928e5e208b97c5b652d38ffc735ba163c88e34af37e3be55b5487",
+    "bytes": 35381
+  },
+  {
+    "species": 432,
+    "url": "https://zukan.pokemon.co.jp/detail/0432",
+    "sha256": "2fdb295e453a8bed7d2ba2e9b0842904f8feaa4da2db2aaf3692e78f490da40e",
+    "bytes": 35458
+  },
+  {
+    "species": 433,
+    "url": "https://zukan.pokemon.co.jp/detail/0433",
+    "sha256": "83000220aba5e3a0d57d3876b4f83389749df8e23dc073947eb4fd4064b0d844",
+    "bytes": 35667
+  },
+  {
+    "species": 434,
+    "url": "https://zukan.pokemon.co.jp/detail/0434",
+    "sha256": "2237c70f2923a687882dad75688153197cc782080c8e304ac8af92750e801918",
+    "bytes": 37327
+  },
+  {
+    "species": 435,
+    "url": "https://zukan.pokemon.co.jp/detail/0435",
+    "sha256": "256f68a9648a24ad8e013f4b3480902db6ce4386ae9af80ebf2d0bf0e16779b2",
+    "bytes": 37315
+  },
+  {
+    "species": 436,
+    "url": "https://zukan.pokemon.co.jp/detail/0436",
+    "sha256": "073b09255dc9b3d100d4a225e8470f634eccc1817be11d0e06c4964b74e22781",
+    "bytes": 37222
+  },
+  {
+    "species": 437,
+    "url": "https://zukan.pokemon.co.jp/detail/0437",
+    "sha256": "6fbdd08c0768620485011b0a95d296a1b3e391b2b19651ce729b5648438417bb",
+    "bytes": 37235
+  },
+  {
+    "species": 438,
+    "url": "https://zukan.pokemon.co.jp/detail/0438",
+    "sha256": "cd0df3cafd1a1ecdf8a8d0933607a527b261e4428d1dec7e950f65d0f4af0d32",
+    "bytes": 36817
+  },
+  {
+    "species": 439,
+    "url": "https://zukan.pokemon.co.jp/detail/0439",
+    "sha256": "6bfc3ad67305d0817185b4e4021dbbf53d46daf07cdb7e4cc2e6e4a0aee89270",
+    "bytes": 38900
+  },
+  {
+    "species": 440,
+    "url": "https://zukan.pokemon.co.jp/detail/0440",
+    "sha256": "4336f8706b89b26364023abf731ba53b914d8d9faba398ffe767eff4a43e3489",
+    "bytes": 37532
+  },
+  {
+    "species": 441,
+    "url": "https://zukan.pokemon.co.jp/detail/0441",
+    "sha256": "d2df1b77bfac500015cb6982253c15e47c866d96d1e3c616f322d0c0ed7aa12d",
+    "bytes": 33862
+  },
+  {
+    "species": 442,
+    "url": "https://zukan.pokemon.co.jp/detail/0442",
+    "sha256": "ecfb6b452804261306ac94ac46635fe9cc374c98f0c955acf891a84f27e5f6c7",
+    "bytes": 34476
+  },
+  {
+    "species": 443,
+    "url": "https://zukan.pokemon.co.jp/detail/0443",
+    "sha256": "a4fda1e9c4c202a03c8cdd0d360de86b4413e4a23e0fb484c34afa2b1e2da22c",
+    "bytes": 37676
+  },
+  {
+    "species": 444,
+    "url": "https://zukan.pokemon.co.jp/detail/0444",
+    "sha256": "28fcce1e6eb3c0710ad4b84f6606a1f899675ab9c40510c291422b8f534e8f12",
+    "bytes": 37664
+  },
+  {
+    "species": 445,
+    "url": "https://zukan.pokemon.co.jp/detail/0445",
+    "sha256": "b03bc6dbcd84fdd92d5e98995889e01f21189b3e2c5d9aa79f7c6b6321deae75",
+    "bytes": 40052
+  },
+  {
+    "species": 446,
+    "url": "https://zukan.pokemon.co.jp/detail/0446",
+    "sha256": "df7f69ab6abb7a4d76a25fe22fd9a25d1f0dcffce1f2a38b81f3c2670018b09b",
+    "bytes": 36856
+  },
+  {
+    "species": 447,
+    "url": "https://zukan.pokemon.co.jp/detail/0447",
+    "sha256": "cc69e54f0f00360a27fdd156228aa1b9fa2450d0504a1127fb4a25b5623e7a37",
+    "bytes": 37317
+  },
+  {
+    "species": 448,
+    "url": "https://zukan.pokemon.co.jp/detail/0448",
+    "sha256": "e1a6d0ab13d920278d4c3f506218107856dd5d59f188e9cff81ecd1777bcf74f",
+    "bytes": 40051
+  },
+  {
+    "species": 449,
+    "url": "https://zukan.pokemon.co.jp/detail/0449",
+    "sha256": "d877c6326f5481ebb1a046cb2a6024ec5819915c10bd04592860ddf917bb80fa",
+    "bytes": 36235
+  },
+  {
+    "species": 450,
+    "url": "https://zukan.pokemon.co.jp/detail/0450",
+    "sha256": "030cbd2d0c5e73bc7f5d94ebe78b46057fe550f09c4cecfccfb2a8e2dac41847",
+    "bytes": 36210
+  },
+  {
+    "species": 451,
+    "url": "https://zukan.pokemon.co.jp/detail/0451",
+    "sha256": "9b0d721e49597130d0805ec49a2bec6de396302acdf81ad382946399cd878561",
+    "bytes": 36744
+  },
+  {
+    "species": 452,
+    "url": "https://zukan.pokemon.co.jp/detail/0452",
+    "sha256": "2d175dd7ff0dac781e6a8f587fb2c56e118ac10030a94cd2950a28f2751720a5",
+    "bytes": 36750
+  },
+  {
+    "species": 453,
+    "url": "https://zukan.pokemon.co.jp/detail/0453",
+    "sha256": "c6621100a1857c6f6e84ec820d98211c0a94c60c3876b74e93bf5f7ad7061c0a",
+    "bytes": 37381
+  },
+  {
+    "species": 454,
+    "url": "https://zukan.pokemon.co.jp/detail/0454",
+    "sha256": "dde889b43c1aa94dec421aea4d2765ae30a5b02d359e20b31453c29a6351f9a6",
+    "bytes": 37378
+  },
+  {
+    "species": 455,
+    "url": "https://zukan.pokemon.co.jp/detail/0455",
+    "sha256": "859ed0611dc0e68d24559b4647baa1b863e0380c71bd2fde3178ea8b3b18103b",
+    "bytes": 32834
+  },
+  {
+    "species": 456,
+    "url": "https://zukan.pokemon.co.jp/detail/0456",
+    "sha256": "8b514e7d0fd708489b2f3ef4eab565111c9e47c586bee2b6e6ab008fc5b1079f",
+    "bytes": 36182
+  },
+  {
+    "species": 457,
+    "url": "https://zukan.pokemon.co.jp/detail/0457",
+    "sha256": "66ddfc1d2048adf4239e7e73f5fbcb5d7ed647422f08393891ebd887216c2c42",
+    "bytes": 36171
+  },
+  {
+    "species": 458,
+    "url": "https://zukan.pokemon.co.jp/detail/0458",
+    "sha256": "5ecebe2d201c2eff8120c5ab48c37ef7d31e44e05df99187be148e45036c1a33",
+    "bytes": 36734
+  },
+  {
+    "species": 459,
+    "url": "https://zukan.pokemon.co.jp/detail/0459",
+    "sha256": "7aa6c136f375c89eff7f883a20dfd7691bec0bb4583110b29cb2bce6652df150",
+    "bytes": 36712
+  },
+  {
+    "species": 460,
+    "url": "https://zukan.pokemon.co.jp/detail/0460",
+    "sha256": "caf59ca2bdfc2bbd71bbd5a167ab2ab8dd8caadb074986195f7aac1af52fa7c4",
+    "bytes": 38405
+  },
+  {
+    "species": 461,
+    "url": "https://zukan.pokemon.co.jp/detail/0461",
+    "sha256": "40b36c206594cfdefc2b2c009fc60aad7fe4fef80715e618f47ccf2b0710066f",
+    "bytes": 36477
+  },
+  {
+    "species": 462,
+    "url": "https://zukan.pokemon.co.jp/detail/0462",
+    "sha256": "1c81ca55613e7c874799bb1fa6157d3f634cc471c0bd44d1c0ff8160d2244445",
+    "bytes": 38191
+  },
+  {
+    "species": 463,
+    "url": "https://zukan.pokemon.co.jp/detail/0463",
+    "sha256": "a8fada825493ec0d21a7d1a6f48ff2388a2c97747ba7318159ce52811b0a3bc7",
+    "bytes": 36138
+  },
+  {
+    "species": 464,
+    "url": "https://zukan.pokemon.co.jp/detail/0464",
+    "sha256": "ddc987f5cdbeb5b99e1402b9ec17a4f5736112436c49596e175ef9ac5658ce14",
+    "bytes": 38082
+  },
+  {
+    "species": 465,
+    "url": "https://zukan.pokemon.co.jp/detail/0465",
+    "sha256": "c9b23285743582323489d54f29631749b0c5e7700a5f30ac9e230cf53fa9f7e6",
+    "bytes": 36024
+  },
+  {
+    "species": 466,
+    "url": "https://zukan.pokemon.co.jp/detail/0466",
+    "sha256": "8919256057d39a719f33fa0e004f74d6a76bc075f13ce2163b2c98db609b3494",
+    "bytes": 36535
+  },
+  {
+    "species": 467,
+    "url": "https://zukan.pokemon.co.jp/detail/0467",
+    "sha256": "5568aea0fe1ff3ff942694679338205cad316a7ac06d3a8523db6cb5db932986",
+    "bytes": 36510
+  },
+  {
+    "species": 468,
+    "url": "https://zukan.pokemon.co.jp/detail/0468",
+    "sha256": "a91cb96bdb0fe615c7f29656e2a0c42199f7cbe6547090e9a025f43a84d8a0bd",
+    "bytes": 37371
+  },
+  {
+    "species": 469,
+    "url": "https://zukan.pokemon.co.jp/detail/0469",
+    "sha256": "f3ce38eeb6ba3ac10fe7fdd154a813f0b4f715a600681110f16ed2c2393e51e3",
+    "bytes": 36433
+  },
+  {
+    "species": 470,
+    "url": "https://zukan.pokemon.co.jp/detail/0470",
+    "sha256": "c653094cf6ac02d34bb6e929a88816b9011622835345663f28a0b0508acf7cfc",
+    "bytes": 40872
+  },
+  {
+    "species": 471,
+    "url": "https://zukan.pokemon.co.jp/detail/0471",
+    "sha256": "fc9f5322568ad11a6e46f291be67234ffceb4b5290f93fa1818c8e5874a22ebe",
+    "bytes": 40869
+  },
+  {
+    "species": 472,
+    "url": "https://zukan.pokemon.co.jp/detail/0472",
+    "sha256": "c3bb0135991fb5e5cef821cf371ff94876c96034a828e27918836334539d8f1d",
+    "bytes": 36481
+  },
+  {
+    "species": 473,
+    "url": "https://zukan.pokemon.co.jp/detail/0473",
+    "sha256": "d7045a65fcff110114f25dd6f2ea5d7d4a89221ebb1530db9fe0f7be74274167",
+    "bytes": 37987
+  },
+  {
+    "species": 474,
+    "url": "https://zukan.pokemon.co.jp/detail/0474",
+    "sha256": "60f366dcb7f55464b8e0e25dcf936a0dfa28406090d8b767c4fa915655c24466",
+    "bytes": 37656
+  },
+  {
+    "species": 475,
+    "url": "https://zukan.pokemon.co.jp/detail/0475",
+    "sha256": "4eda85802b19fd336a55e188774b9d417a7408806cd63d727382f5a523c0c549",
+    "bytes": 41064
+  },
+  {
+    "species": 476,
+    "url": "https://zukan.pokemon.co.jp/detail/0476",
+    "sha256": "d7777f07ecf113424d2d08197578f20dd5b0b5622ddfc8590f5a571681b7c4df",
+    "bytes": 36381
+  },
+  {
+    "species": 477,
+    "url": "https://zukan.pokemon.co.jp/detail/0477",
+    "sha256": "4d5c7b041bb8c7247a3c73035d7658cf725dcb5577a81eec7dfd41fc4b92298f",
+    "bytes": 36567
+  },
+  {
+    "species": 478,
+    "url": "https://zukan.pokemon.co.jp/detail/0478",
+    "sha256": "637ed1e80a2b73085d9477ab7b17b840369469cc22303666e4b04d09f6a50445",
+    "bytes": 38908
+  },
+  {
+    "species": 479,
+    "url": "https://zukan.pokemon.co.jp/detail/0479",
+    "sha256": "30dbb5eeb80237cb38cac0c9c8deac7364189eb26a4e4bfc3a5dffa6fce20814",
+    "bytes": 39750
+  },
+  {
+    "species": 480,
+    "url": "https://zukan.pokemon.co.jp/detail/0480",
+    "sha256": "176e06ae16dea65149802e5e9275cb410ec302f1a938fc846eb5a24e0ebb2403",
+    "bytes": 32716
+  },
+  {
+    "species": 481,
+    "url": "https://zukan.pokemon.co.jp/detail/0481",
+    "sha256": "2d69e1fa09b5cd5367900c483640ec8acd2b045ae6632bd9b8d0b92dcfbacfc0",
+    "bytes": 32735
+  },
+  {
+    "species": 482,
+    "url": "https://zukan.pokemon.co.jp/detail/0482",
+    "sha256": "b512297d87117f24a74f71e7086d7d177985819432300dece42c1e0b195643a6",
+    "bytes": 32693
+  },
+  {
+    "species": 483,
+    "url": "https://zukan.pokemon.co.jp/detail/0483",
+    "sha256": "c89e87f771de22f406f080d36de0ba178fa2247a718cf9f17b501acb2d7ba153",
+    "bytes": 34639
+  },
+  {
+    "species": 484,
+    "url": "https://zukan.pokemon.co.jp/detail/0484",
+    "sha256": "1510ae1d2db3db80e79789b08ea8f29b7b6b722f66f9f2961dfeac1bbea75ca2",
+    "bytes": 34632
+  },
+  {
+    "species": 485,
+    "url": "https://zukan.pokemon.co.jp/detail/0485",
+    "sha256": "09471bc475af73c1f7ca4d770245f0047bc69a52377d75c8ebf44ff2cae8cc12",
+    "bytes": 35332
+  },
+  {
+    "species": 486,
+    "url": "https://zukan.pokemon.co.jp/detail/0486",
+    "sha256": "713a8b6b2c9dce683d5a8fc13abf6ccc8f3d47df49219f1836203ada90a6fec6",
+    "bytes": 32494
+  },
+  {
+    "species": 487,
+    "url": "https://zukan.pokemon.co.jp/detail/0487",
+    "sha256": "141552f720312b50c6ac5cecf2ee115f0d4610779d2491b93ad77a832a3502bc",
+    "bytes": 34609
+  },
+  {
+    "species": 488,
+    "url": "https://zukan.pokemon.co.jp/detail/0488",
+    "sha256": "08f3de24446b9da9df45153feed6c2f98d6b103f383b28518df129cd2772d3ad",
+    "bytes": 32581
+  },
+  {
+    "species": 489,
+    "url": "https://zukan.pokemon.co.jp/detail/0489",
+    "sha256": "c7ebd578ffe04ebc18930ee6a52b6110962c72075494b8aec84efc2134e6492d",
+    "bytes": 32495
+  },
+  {
+    "species": 490,
+    "url": "https://zukan.pokemon.co.jp/detail/0490",
+    "sha256": "59d2122ebda156c0661c0a6868029cff03b4e3ee4516e2fe1fcb6294ed1ad07b",
+    "bytes": 32725
+  },
+  {
+    "species": 491,
+    "url": "https://zukan.pokemon.co.jp/detail/0491",
+    "sha256": "0c9376168e26d1237fbf841c6a64922013ec674c940f021f3f23a9fc9b90f8b3",
+    "bytes": 34647
+  },
+  {
+    "species": 492,
+    "url": "https://zukan.pokemon.co.jp/detail/0492",
+    "sha256": "25c51d233981cb710452c1a3b7d413a70f081029bd6ac1aa906e052d47780c04",
+    "bytes": 34385
+  },
+  {
+    "species": 493,
+    "url": "https://zukan.pokemon.co.jp/detail/0493",
+    "sha256": "5b76374a3802733d2a4482b9eaa2248a8118fe040ed602c94ab9fd13a6cd01b1",
+    "bytes": 32865
+  },
+  {
+    "species": 494,
+    "url": "https://zukan.pokemon.co.jp/detail/0494",
+    "sha256": "80827874f65acd870b0bb6502fb7c5545229e81d0e6fd692969ca4be8c3efa31",
+    "bytes": 28975
+  },
+  {
+    "species": 495,
+    "url": "https://zukan.pokemon.co.jp/detail/0495",
+    "sha256": "48dbce6d464c74aaf96d3ed765038211eadae3d7083147fee11385dec6ce79a4",
+    "bytes": 34054
+  },
+  {
+    "species": 496,
+    "url": "https://zukan.pokemon.co.jp/detail/0496",
+    "sha256": "5b76d11266f338f4856ee79039b000e1be81591d957ab20255ce68daef3f17ed",
+    "bytes": 34037
+  },
+  {
+    "species": 497,
+    "url": "https://zukan.pokemon.co.jp/detail/0497",
+    "sha256": "a70ae8fcc7ad43bd776dc5347c07357c219712267416775b5070d9984e045dc8",
+    "bytes": 34010
+  },
+  {
+    "species": 498,
+    "url": "https://zukan.pokemon.co.jp/detail/0498",
+    "sha256": "b4b471b1a1e246f7ff892f4625ba67778cf0d832496dca019c92e5be12dfce9a",
+    "bytes": 34969
+  },
+  {
+    "species": 499,
+    "url": "https://zukan.pokemon.co.jp/detail/0499",
+    "sha256": "d47c3489cb67e5ea958abb0cd11b1fa94a166c225b29032230efaf72f1976a24",
+    "bytes": 35188
+  },
+  {
+    "species": 500,
+    "url": "https://zukan.pokemon.co.jp/detail/0500",
+    "sha256": "39c66f5bf9cecdb7a3a6ad969d9255244ce84ac1b4a97ab69381ccf880271e7d",
+    "bytes": 36890
+  },
+  {
+    "species": 501,
+    "url": "https://zukan.pokemon.co.jp/detail/0501",
+    "sha256": "8b20a945d76da786fc4a7b177d3103c4b3619cd5f62891d0d7c323d1e1d54413",
+    "bytes": 36038
+  },
+  {
+    "species": 502,
+    "url": "https://zukan.pokemon.co.jp/detail/0502",
+    "sha256": "26d9a57f70c90d49e62e1c9c7d5ea32f1b223ff1a6076941fbec1321c7090bb7",
+    "bytes": 35986
+  },
+  {
+    "species": 503,
+    "url": "https://zukan.pokemon.co.jp/detail/0503",
+    "sha256": "72ce5cba489d36c7179419924a9c9c1cbee8768ad24c50786e7f18118ff5d215",
+    "bytes": 36384
+  },
+  {
+    "species": 504,
+    "url": "https://zukan.pokemon.co.jp/detail/0504",
+    "sha256": "d66afd0c2916bc3defb47c261644e937257d05305be9f148bdeb9173781c60c6",
+    "bytes": 33777
+  },
+  {
+    "species": 505,
+    "url": "https://zukan.pokemon.co.jp/detail/0505",
+    "sha256": "75b0b572d396e5c28048d785cfefe75d481d27599a2bb62bc1046edd44b3b1b3",
+    "bytes": 33793
+  },
+  {
+    "species": 506,
+    "url": "https://zukan.pokemon.co.jp/detail/0506",
+    "sha256": "cef4f46134b93940fd04729c9242544b79177e7e7349ebb129c3daca24fa39d6",
+    "bytes": 34953
+  },
+  {
+    "species": 507,
+    "url": "https://zukan.pokemon.co.jp/detail/0507",
+    "sha256": "b416cc4e9bd3bcf1e93005508375b286b069f0a05a142176526e47e2af055d7c",
+    "bytes": 34959
+  },
+  {
+    "species": 508,
+    "url": "https://zukan.pokemon.co.jp/detail/0508",
+    "sha256": "00c25561420bc290eb55f30afc21a9c43553a4e7270e4bda60650feb541229d1",
+    "bytes": 34947
+  },
+  {
+    "species": 509,
+    "url": "https://zukan.pokemon.co.jp/detail/0509",
+    "sha256": "f1814a09ea126b2470f68d59fdeb0f0ba23ef886fdd5e9540c4507ee6984df42",
+    "bytes": 34720
+  },
+  {
+    "species": 510,
+    "url": "https://zukan.pokemon.co.jp/detail/0510",
+    "sha256": "654999800542271b91711a5e1314844d0426431c9f4cda4618001be5a2fbba24",
+    "bytes": 34717
+  },
+  {
+    "species": 511,
+    "url": "https://zukan.pokemon.co.jp/detail/0511",
+    "sha256": "3f6ecf7b82cba434f047697573162742027513caf4abd465c4e37be0a5ee50f3",
+    "bytes": 32970
+  },
+  {
+    "species": 512,
+    "url": "https://zukan.pokemon.co.jp/detail/0512",
+    "sha256": "d9dc5267a56f109c4d938b848936543c34663892194655bd64ca4de9a1a0c4c2",
+    "bytes": 32991
+  },
+  {
+    "species": 513,
+    "url": "https://zukan.pokemon.co.jp/detail/0513",
+    "sha256": "a46477ac351872e0fc6a2a5a6e84ce4508046d7fcccf02cef4abe99dcca1a485",
+    "bytes": 32970
+  },
+  {
+    "species": 514,
+    "url": "https://zukan.pokemon.co.jp/detail/0514",
+    "sha256": "bfecff70bc3ba1b8a40d84ec21492d3454f8e0c2f292ccfe6348b4193d2879a7",
+    "bytes": 33000
+  },
+  {
+    "species": 515,
+    "url": "https://zukan.pokemon.co.jp/detail/0515",
+    "sha256": "b94eb797b05e0f409b90fc5c6ccc9a4db9496796fe8569e458f5c1a19905bf84",
+    "bytes": 32973
+  },
+  {
+    "species": 516,
+    "url": "https://zukan.pokemon.co.jp/detail/0516",
+    "sha256": "33c3152ffdfe8a318e513c463445ed66ea5912970cfbdac0503f7ef3bc4389f8",
+    "bytes": 32988
+  },
+  {
+    "species": 517,
+    "url": "https://zukan.pokemon.co.jp/detail/0517",
+    "sha256": "023e4e2326a8e5b699f00b3d69f4f7a14692845bb6d2174637ae60b04ac20e99",
+    "bytes": 34743
+  },
+  {
+    "species": 518,
+    "url": "https://zukan.pokemon.co.jp/detail/0518",
+    "sha256": "693097ecd8e09ab4708b6e540f8487fca099c5dfdafe4af2d36db336b1840b1d",
+    "bytes": 34782
+  },
+  {
+    "species": 519,
+    "url": "https://zukan.pokemon.co.jp/detail/0519",
+    "sha256": "15a937b4fbac09181c61a5c6229292b5848655cee527b237a61ca2039e28f926",
+    "bytes": 36432
+  },
+  {
+    "species": 520,
+    "url": "https://zukan.pokemon.co.jp/detail/0520",
+    "sha256": "7eb8d9784388eafee3a43e973539b204dc86dcbb87575a93c82cd62afb04b35b",
+    "bytes": 36430
+  },
+  {
+    "species": 521,
+    "url": "https://zukan.pokemon.co.jp/detail/0521",
+    "sha256": "0cf30d07d08e65454799595b91c580023cafcd37d498745e4b7d3c650a78bee2",
+    "bytes": 38217
+  },
+  {
+    "species": 522,
+    "url": "https://zukan.pokemon.co.jp/detail/0522",
+    "sha256": "b5e0768294967e605e52b1496da041813745e2b0d315f4a3bf113083fb12b31a",
+    "bytes": 34130
+  },
+  {
+    "species": 523,
+    "url": "https://zukan.pokemon.co.jp/detail/0523",
+    "sha256": "f7cd0c5e7a0f7b1efc9dd4d7b741ddf3a56f699820fe1ee3863611fced4f3bea",
+    "bytes": 34167
+  },
+  {
+    "species": 524,
+    "url": "https://zukan.pokemon.co.jp/detail/0524",
+    "sha256": "26f43357bf1560808a6a24173bbb80f9a0d78363feff3e4adedb2b1c81d9df10",
+    "bytes": 34991
+  },
+  {
+    "species": 525,
+    "url": "https://zukan.pokemon.co.jp/detail/0525",
+    "sha256": "25c4a4213a83e46954edbe692e3ce6b1c1ec456446b54f4fd6849e327fd06ab0",
+    "bytes": 34983
+  },
+  {
+    "species": 527,
+    "url": "https://zukan.pokemon.co.jp/detail/0527",
+    "sha256": "d138e3a7b69b94da9337ad964ec59c4a61437e1d88641d83b38e59fd56d694d0",
+    "bytes": 34573
+  },
+  {
+    "species": 528,
+    "url": "https://zukan.pokemon.co.jp/detail/0528",
+    "sha256": "810c4811d50584fbf7ef98a5d683cca633f0dfed0a8563f8adb600513260a092",
+    "bytes": 34583
+  },
+  {
+    "species": 529,
+    "url": "https://zukan.pokemon.co.jp/detail/0529",
+    "sha256": "95a39b9a1150839281f9df1f28ee4bcbce0176bc4d3291b2ff717659337a2ad5",
+    "bytes": 35872
+  },
+  {
+    "species": 530,
+    "url": "https://zukan.pokemon.co.jp/detail/0530",
+    "sha256": "6c97b3c382b3970bda89ca6f1f7298fccec23181302dec1836650ebbfd430c1b",
+    "bytes": 37756
+  },
+  {
+    "species": 531,
+    "url": "https://zukan.pokemon.co.jp/detail/0531",
+    "sha256": "5d5eccc718be6c5c7aa01752b8043b49cec10464c044a0860a9d55881973e1d8",
+    "bytes": 34612
+  },
+  {
+    "species": 532,
+    "url": "https://zukan.pokemon.co.jp/detail/0532",
+    "sha256": "122c6e24c5f8f406929c7f455bc792d3a70cfcc5081db456fe97eeecc4f19ea5",
+    "bytes": 35872
+  },
+  {
+    "species": 533,
+    "url": "https://zukan.pokemon.co.jp/detail/0533",
+    "sha256": "0b866eae5bb6238e8ed6a71c9bd7785c63ffcd2e139b59d2287a2c6d4939a527",
+    "bytes": 35870
+  },
+  {
+    "species": 534,
+    "url": "https://zukan.pokemon.co.jp/detail/0534",
+    "sha256": "047bed1183c7ca6ba01fba73500c230c73c4e3e53e64ad02b02932d86c7bd0d4",
+    "bytes": 35888
+  },
+  {
+    "species": 535,
+    "url": "https://zukan.pokemon.co.jp/detail/0535",
+    "sha256": "88afb077a05fff38e21c1dcc9b41b5b6e3249701c73dd10b5650491d34d74a63",
+    "bytes": 35142
+  },
+  {
+    "species": 536,
+    "url": "https://zukan.pokemon.co.jp/detail/0536",
+    "sha256": "79d6eb026cb89ecd6debf0eb81bb95b5dbd82004ac9c9bea4cf23b160c99fbdd",
+    "bytes": 35337
+  },
+  {
+    "species": 537,
+    "url": "https://zukan.pokemon.co.jp/detail/0537",
+    "sha256": "7750665e76c05c48838b2861dad6fefb6c943c2e9b9a91dfbb286d2711ca62fb",
+    "bytes": 35345
+  },
+  {
+    "species": 538,
+    "url": "https://zukan.pokemon.co.jp/detail/0538",
+    "sha256": "58cc75dca5adbadda0f9b41ee1048dcbfdfb909949ef6be95562fedb39249661",
+    "bytes": 33081
+  },
+  {
+    "species": 539,
+    "url": "https://zukan.pokemon.co.jp/detail/0539",
+    "sha256": "e65908e01b76dee7d494adfec4c6eddd432565b8f17155a7f37e1e0ec6a56f2d",
+    "bytes": 33129
+  },
+  {
+    "species": 540,
+    "url": "https://zukan.pokemon.co.jp/detail/0540",
+    "sha256": "79326f1c763917cdf618aa57e4762b964d21f83e19bc0224ee4b78eeb8c7daa6",
+    "bytes": 35507
+  },
+  {
+    "species": 541,
+    "url": "https://zukan.pokemon.co.jp/detail/0541",
+    "sha256": "1d476f1d7c05ace2f83b5885f1069216e74edb64e011d625e99c227ac40b14a3",
+    "bytes": 35492
+  },
+  {
+    "species": 542,
+    "url": "https://zukan.pokemon.co.jp/detail/0542",
+    "sha256": "85b09f3769cd610209bed2fe36ae1506c80b3e27157706217593ee742c03400f",
+    "bytes": 35490
+  },
+  {
+    "species": 543,
+    "url": "https://zukan.pokemon.co.jp/detail/0543",
+    "sha256": "26a642a5e048891e676a7de666d6724fea73d6db13069054a8d9a0d1f0604123",
+    "bytes": 36130
+  },
+  {
+    "species": 544,
+    "url": "https://zukan.pokemon.co.jp/detail/0544",
+    "sha256": "1f3c71a546fd88e21475e5b3e61fbcd109903faf624eac4784516b8c811f8b51",
+    "bytes": 36140
+  },
+  {
+    "species": 545,
+    "url": "https://zukan.pokemon.co.jp/detail/0545",
+    "sha256": "880a0c5d3e65b8024af8024f899b42ba076c3fe77154bcfdebf471cf3be60360",
+    "bytes": 37834
+  },
+  {
+    "species": 546,
+    "url": "https://zukan.pokemon.co.jp/detail/0546",
+    "sha256": "9b07e149cae6230156546d7d9124fd7cd3768204933278edd0a0d8edcd9f5c5a",
+    "bytes": 35507
+  },
+  {
+    "species": 547,
+    "url": "https://zukan.pokemon.co.jp/detail/0547",
+    "sha256": "75a88014c42a46430700c8f01d962d763e0d167f712c9bee333f2e592bbb99a3",
+    "bytes": 35523
+  },
+  {
+    "species": 548,
+    "url": "https://zukan.pokemon.co.jp/detail/0548",
+    "sha256": "8464e10fe1e3f37ba8488d883f6d7cebebbd00ed39d4f5650149eb81f047fc8d",
+    "bytes": 36949
+  },
+  {
+    "species": 549,
+    "url": "https://zukan.pokemon.co.jp/detail/0549",
+    "sha256": "625e96aded4ec61099ccce4537a6e8e690145c7329afc96583ab2b2c2a0bce0a",
+    "bytes": 37370
+  },
+  {
+    "species": 550,
+    "url": "https://zukan.pokemon.co.jp/detail/0550",
+    "sha256": "043cd7a7df28125f26785231fc2ca90aa02fbb4c4f8b53fb12980d923c27b935",
+    "bytes": 35528
+  },
+  {
+    "species": 551,
+    "url": "https://zukan.pokemon.co.jp/detail/0551",
+    "sha256": "778b647849c0145a4797b6bdaceda2e1e2988e03a53742b162a6c71e67e91c6c",
+    "bytes": 37098
+  },
+  {
+    "species": 552,
+    "url": "https://zukan.pokemon.co.jp/detail/0552",
+    "sha256": "4f15fd4e365905c9a2af702eb53401c0b1577257966523294a3ecb33f2b290cf",
+    "bytes": 37108
+  },
+  {
+    "species": 553,
+    "url": "https://zukan.pokemon.co.jp/detail/0553",
+    "sha256": "192913c9e2391dba2f69d7977b4fe517a107909771c78e6917b5b448ad256524",
+    "bytes": 37114
+  },
+  {
+    "species": 554,
+    "url": "https://zukan.pokemon.co.jp/detail/0554",
+    "sha256": "0dba5ba0cc4bf146c94090b5045df3b6f070464a5647bc95278921b0a9e4611a",
+    "bytes": 34638
+  },
+  {
+    "species": 555,
+    "url": "https://zukan.pokemon.co.jp/detail/0555",
+    "sha256": "0b701c9816fc3f6d0c2947f1e0e161b40b372e758f37d2d1820edca10fc0148b",
+    "bytes": 36782
+  },
+  {
+    "species": 556,
+    "url": "https://zukan.pokemon.co.jp/detail/0556",
+    "sha256": "c391fe783ef9f02eca339f820bc12bd1a112248c64c05bdf4b0a576070cc5a81",
+    "bytes": 32495
+  },
+  {
+    "species": 557,
+    "url": "https://zukan.pokemon.co.jp/detail/0557",
+    "sha256": "113dc22e50e25c2ba85492ee4a98c3c820f5eb5b9ce099536ecc7e94ece830db",
+    "bytes": 34663
+  },
+  {
+    "species": 558,
+    "url": "https://zukan.pokemon.co.jp/detail/0558",
+    "sha256": "4421b151eef327f909b9337a32b224d7b1e966ac1eaf937a3d5d5e5bd29ad8d6",
+    "bytes": 34670
+  },
+  {
+    "species": 559,
+    "url": "https://zukan.pokemon.co.jp/detail/0559",
+    "sha256": "22946bf42df9a870fe09da24d4576d4bc278505c3d63c6cd3246ab4803409473",
+    "bytes": 36153
+  },
+  {
+    "species": 560,
+    "url": "https://zukan.pokemon.co.jp/detail/0560",
+    "sha256": "6a871df0db512199f0c36acb280766e8a58d61e525adaad253394e6b358dd5da",
+    "bytes": 37879
+  },
+  {
+    "species": 561,
+    "url": "https://zukan.pokemon.co.jp/detail/0561",
+    "sha256": "8f297fd6d613d105a4294a9a44a18ab28690088a8ef929c4a65dc662db09fe8a",
+    "bytes": 32657
+  },
+  {
+    "species": 562,
+    "url": "https://zukan.pokemon.co.jp/detail/0562",
+    "sha256": "e1c82a988bec5e197fb7a28c694dfd5d77a1e24139a00524c6c5cab8daf2676f",
+    "bytes": 35408
+  },
+  {
+    "species": 563,
+    "url": "https://zukan.pokemon.co.jp/detail/0563",
+    "sha256": "e57a63ff0c8287db400a652fc656846ae445189685e2260b49e3570277e903ea",
+    "bytes": 33882
+  },
+  {
+    "species": 564,
+    "url": "https://zukan.pokemon.co.jp/detail/0564",
+    "sha256": "214115fa8a98043124596307d8b302a9bb605290532354f0de95bdd1f1770435",
+    "bytes": 34686
+  },
+  {
+    "species": 565,
+    "url": "https://zukan.pokemon.co.jp/detail/0565",
+    "sha256": "9619066cb8929eccc0a41ebdfdebe2732722e2975f4e747a8d7e559beb36e207",
+    "bytes": 34701
+  },
+  {
+    "species": 566,
+    "url": "https://zukan.pokemon.co.jp/detail/0566",
+    "sha256": "c2716e499c4e9a10a5a78034907465584ce026811e4796bbf3740fd75a6154ce",
+    "bytes": 33747
+  },
+  {
+    "species": 567,
+    "url": "https://zukan.pokemon.co.jp/detail/0567",
+    "sha256": "5b2c8a44983e675d0773187b3f538f84c5abec8c91ca94338b33fcbebc04dea3",
+    "bytes": 33751
+  },
+  {
+    "species": 568,
+    "url": "https://zukan.pokemon.co.jp/detail/0568",
+    "sha256": "f3de767ee3cb28e4ddd9c0fd2990207db61c4c72dddb8e9d4afea809774d9bbe",
+    "bytes": 34810
+  },
+  {
+    "species": 569,
+    "url": "https://zukan.pokemon.co.jp/detail/0569",
+    "sha256": "4670c9acad75d5d4ee905de584846375a61ceb389ab8354d2c3e358cf9369b2b",
+    "bytes": 36215
+  },
+  {
+    "species": 570,
+    "url": "https://zukan.pokemon.co.jp/detail/0570",
+    "sha256": "99d8a9c01d163dca7c9334772265cc242fa3b4d78ae36c0c14cfd4da58c083e3",
+    "bytes": 35718
+  },
+  {
+    "species": 571,
+    "url": "https://zukan.pokemon.co.jp/detail/0571",
+    "sha256": "3dc5893104fe14ba8113cb01e0726904cf13e8787687a473c780339cf080fd85",
+    "bytes": 35760
+  },
+  {
+    "species": 572,
+    "url": "https://zukan.pokemon.co.jp/detail/0572",
+    "sha256": "eafd03450fa7fcd7acc4c23b570e09c3b176a738cc7a9b64b4be9fe833acb4ae",
+    "bytes": 35070
+  },
+  {
+    "species": 573,
+    "url": "https://zukan.pokemon.co.jp/detail/0573",
+    "sha256": "e2ab77e94130e1e049256a9e71c94934ab44e543bb18700fac252fa7ba3aa1d4",
+    "bytes": 35050
+  },
+  {
+    "species": 574,
+    "url": "https://zukan.pokemon.co.jp/detail/0574",
+    "sha256": "9e35e48f8f43511333c525e5d0bed7fe395d4dd0492f44418285548f509bec95",
+    "bytes": 35818
+  },
+  {
+    "species": 575,
+    "url": "https://zukan.pokemon.co.jp/detail/0575",
+    "sha256": "0d195304c89685315863f17b0f6aa49bbf7dabeaaf638b60ae2e0b8d34706722",
+    "bytes": 35810
+  },
+  {
+    "species": 576,
+    "url": "https://zukan.pokemon.co.jp/detail/0576",
+    "sha256": "41e0fe62154c6bd225653084924faf389b38ea853a29c3f0b59cc9f0ae8d240e",
+    "bytes": 35855
+  },
+  {
+    "species": 577,
+    "url": "https://zukan.pokemon.co.jp/detail/0577",
+    "sha256": "34e766db6412595e90673b8f7d89588d1b3d56ea983bc3699c0eca74a6409324",
+    "bytes": 35804
+  },
+  {
+    "species": 578,
+    "url": "https://zukan.pokemon.co.jp/detail/0578",
+    "sha256": "f1a245ccff26d97d8ce13d413922067df812b865a1da1c148dbc9c2bfd8188db",
+    "bytes": 35825
+  },
+  {
+    "species": 579,
+    "url": "https://zukan.pokemon.co.jp/detail/0579",
+    "sha256": "6f708bab16a8376365b47ff17f07c5c04134221341f16e3eba68b50af90755c7",
+    "bytes": 35862
+  },
+  {
+    "species": 580,
+    "url": "https://zukan.pokemon.co.jp/detail/0580",
+    "sha256": "c531f298d49aed0819fc43d5b63801a937d7929788445d71596f97717e022de7",
+    "bytes": 34536
+  },
+  {
+    "species": 581,
+    "url": "https://zukan.pokemon.co.jp/detail/0581",
+    "sha256": "5fc9fb1b65e880f03bb48eba63d23abfdebd6c7b9b53dfe3369839c9f7260dbd",
+    "bytes": 34528
+  },
+  {
+    "species": 582,
+    "url": "https://zukan.pokemon.co.jp/detail/0582",
+    "sha256": "37d881f470205443a1238a1c11cf095765e12f70f14f078e2f378abc4a0d7e05",
+    "bytes": 35513
+  },
+  {
+    "species": 583,
+    "url": "https://zukan.pokemon.co.jp/detail/0583",
+    "sha256": "ebe66e9f5bad2b5186ade032cbbfd53b4c1fa04ee0bc46b05d0319d4e3ee3afd",
+    "bytes": 35514
+  },
+  {
+    "species": 584,
+    "url": "https://zukan.pokemon.co.jp/detail/0584",
+    "sha256": "896e3a6bf7a9b9f190f85a2aa4c89fe0b5e91db7c0a174b565d8e8f64d14bb33",
+    "bytes": 35541
+  },
+  {
+    "species": 585,
+    "url": "https://zukan.pokemon.co.jp/detail/0585",
+    "sha256": "8df7d9a49d68f9c6ca8cfd9c3936e14f2aa4ea0e5298f4787b4fd818f1a5a091",
+    "bytes": 38072
+  },
+  {
+    "species": 586,
+    "url": "https://zukan.pokemon.co.jp/detail/0586",
+    "sha256": "289e1c9bb3d25291d0d8992564fab68ab6a9be3ba1f473eecc9254371ba31a36",
+    "bytes": 38113
+  },
+  {
+    "species": 587,
+    "url": "https://zukan.pokemon.co.jp/detail/0587",
+    "sha256": "cdbbad25dd8eab96bab6a050dcbe4e241a92ba790b44d8dd537d670a3ba3d4a9",
+    "bytes": 32413
+  },
+  {
+    "species": 588,
+    "url": "https://zukan.pokemon.co.jp/detail/0588",
+    "sha256": "aad804d461e123cea8b4e84d0b87dd6cbbe038f947f8f27ca17555cd2019f9ce",
+    "bytes": 34265
+  },
+  {
+    "species": 589,
+    "url": "https://zukan.pokemon.co.jp/detail/0589",
+    "sha256": "8c79e40c857984f0e9c169524886cfcca5fc8746b120a0b5fbfced771263d52c",
+    "bytes": 34472
+  },
+  {
+    "species": 590,
+    "url": "https://zukan.pokemon.co.jp/detail/0590",
+    "sha256": "bb670629052b000cf0031b5de04c9bd8303aa03db5c3f9034c3bc088ba95039e",
+    "bytes": 35310
+  },
+  {
+    "species": 591,
+    "url": "https://zukan.pokemon.co.jp/detail/0591",
+    "sha256": "e6c1636443c4c3e38eade9c640bd5d1bdc07902d7e413f64dfd6b1a0555a2417",
+    "bytes": 35317
+  },
+  {
+    "species": 592,
+    "url": "https://zukan.pokemon.co.jp/detail/0592",
+    "sha256": "41442c2c2e47eafc7ba3deeafa6ebc0edc16d7c9d165399538a9603602f14ef1",
+    "bytes": 36445
+  },
+  {
+    "species": 593,
+    "url": "https://zukan.pokemon.co.jp/detail/0593",
+    "sha256": "2e472eae4c0d22f769add73826876af64419ef701d73f487a7eaa806c12b7307",
+    "bytes": 36472
+  },
+  {
+    "species": 594,
+    "url": "https://zukan.pokemon.co.jp/detail/0594",
+    "sha256": "a0a6fab55142a5efb86fd10ee38f0aa42953dc5a1d26bea881520083ef4a4060",
+    "bytes": 32442
+  },
+  {
+    "species": 595,
+    "url": "https://zukan.pokemon.co.jp/detail/0595",
+    "sha256": "a6d0f9005d1e27f8f811bac7348a5ff43464fbea4a7f3aeb634810d6d27a5210",
+    "bytes": 35501
+  },
+  {
+    "species": 596,
+    "url": "https://zukan.pokemon.co.jp/detail/0596",
+    "sha256": "1efa92c75c4a1d52c29593121b079c25f2533dda257eacd46de03fbb60985fe4",
+    "bytes": 35520
+  },
+  {
+    "species": 597,
+    "url": "https://zukan.pokemon.co.jp/detail/0597",
+    "sha256": "fb6c940cc8b29095a5aac72d89632573daf49d9c3d837f504a20ca724c388db7",
+    "bytes": 33769
+  },
+  {
+    "species": 598,
+    "url": "https://zukan.pokemon.co.jp/detail/0598",
+    "sha256": "720738b4b9449b2a7eb3b298c4ac8a4a9a7aab6eda16f438445b492eaa40c18f",
+    "bytes": 33764
+  },
+  {
+    "species": 599,
+    "url": "https://zukan.pokemon.co.jp/detail/0599",
+    "sha256": "0270eb04712aaad34a9becd0f0f2af62c6f95c71c4897dda56c549692859f9bf",
+    "bytes": 34853
+  },
+  {
+    "species": 600,
+    "url": "https://zukan.pokemon.co.jp/detail/0600",
+    "sha256": "e2a2e051b4e82ea015c7fe2b1d1e306d54ff31c17e157f82e0ad02bc2d91891b",
+    "bytes": 34892
+  },
+  {
+    "species": 601,
+    "url": "https://zukan.pokemon.co.jp/detail/0601",
+    "sha256": "05c43818bc28ffd7ea50b05d32985ad622b23052c31b3e4cc5b3f6fdaa6d4fd1",
+    "bytes": 34901
+  },
+  {
+    "species": 602,
+    "url": "https://zukan.pokemon.co.jp/detail/0602",
+    "sha256": "c5219812f3cf43722e7e272be00247fb60846bf85cb8c0a3352f44223146f4a2",
+    "bytes": 34683
+  },
+  {
+    "species": 603,
+    "url": "https://zukan.pokemon.co.jp/detail/0603",
+    "sha256": "ea1fe111fd10ee23667bd6f444aaf1ced04fb1aedc644a4a8cf6a9d1cdbca645",
+    "bytes": 34687
+  },
+  {
+    "species": 604,
+    "url": "https://zukan.pokemon.co.jp/detail/0604",
+    "sha256": "3079cb56104f903c5d9fc9a2a0d85229ef0afdf7a9d77962f117d1d3b0b91578",
+    "bytes": 36048
+  },
+  {
+    "species": 605,
+    "url": "https://zukan.pokemon.co.jp/detail/0605",
+    "sha256": "41837388c24e052e24f24b8df2e5b4f5f3025d9f400b67cbd6c75934bec809f5",
+    "bytes": 34141
+  },
+  {
+    "species": 606,
+    "url": "https://zukan.pokemon.co.jp/detail/0606",
+    "sha256": "d7b5962a54a0b54f2b8a8d4730658d9259a06febfa8cf587cf174d4a480f0d5d",
+    "bytes": 34137
+  },
+  {
+    "species": 607,
+    "url": "https://zukan.pokemon.co.jp/detail/0607",
+    "sha256": "638dcd16d2e570a8dc4b6ccf3cdb2f7a89146131b9c066c1f171f1ecf3ef3bd4",
+    "bytes": 37189
+  },
+  {
+    "species": 608,
+    "url": "https://zukan.pokemon.co.jp/detail/0608",
+    "sha256": "da0ed587a70dae5ad3760f6e68075f5363c7e126448fba716d800371013b5096",
+    "bytes": 37193
+  },
+  {
+    "species": 609,
+    "url": "https://zukan.pokemon.co.jp/detail/0609",
+    "sha256": "811f9b0f4091d14d96176170fc3fa6d586777a54f9f1577ce0529f9b40fbdcb4",
+    "bytes": 38910
+  },
+  {
+    "species": 610,
+    "url": "https://zukan.pokemon.co.jp/detail/0610",
+    "sha256": "4cb429ae9052cf2c899cd4f29b42a73c5ecddbb5db0b906952f1337712cdcb8e",
+    "bytes": 35847
+  },
+  {
+    "species": 611,
+    "url": "https://zukan.pokemon.co.jp/detail/0611",
+    "sha256": "767b7266b7ac15923c1222c7d3c2773f1d07739a1933e4c417444158cf3bce32",
+    "bytes": 35908
+  },
+  {
+    "species": 612,
+    "url": "https://zukan.pokemon.co.jp/detail/0612",
+    "sha256": "8576d5b8f4e153836aeff4bf298c5833af25b6ba9196cf50b13a24b5e85afbd1",
+    "bytes": 35900
+  },
+  {
+    "species": 613,
+    "url": "https://zukan.pokemon.co.jp/detail/0613",
+    "sha256": "0e29849aeecbca948d21f662c2635f598f64a9d5f09e66ecf34e86df88ec2c75",
+    "bytes": 34972
+  },
+  {
+    "species": 614,
+    "url": "https://zukan.pokemon.co.jp/detail/0614",
+    "sha256": "5634ec4428ed4c67282e5ab0479f5ce5d05bdf6be2b0341d2064967755970d27",
+    "bytes": 34983
+  },
+  {
+    "species": 615,
+    "url": "https://zukan.pokemon.co.jp/detail/0615",
+    "sha256": "6fda31e7c3b2327592d8e462a649767ee39de93f9eeddc8a4c5b091b62a5cd0f",
+    "bytes": 33038
+  },
+  {
+    "species": 616,
+    "url": "https://zukan.pokemon.co.jp/detail/0616",
+    "sha256": "77d769e92591250fb4553f307b03e469beae5731c67bb71aacffbb0847ab76ff",
+    "bytes": 34143
+  },
+  {
+    "species": 617,
+    "url": "https://zukan.pokemon.co.jp/detail/0617",
+    "sha256": "5c16d011ff19f865da3f5af42fd0570a6afe147d7a195fb0656bfaa0a1ff0c05",
+    "bytes": 34155
+  },
+  {
+    "species": 618,
+    "url": "https://zukan.pokemon.co.jp/detail/0618",
+    "sha256": "e47ddde7b6d4eb892372c24757584b2b6e676cb7e10e83f0859b913624bd68ed",
+    "bytes": 34967
+  },
+  {
+    "species": 619,
+    "url": "https://zukan.pokemon.co.jp/detail/0619",
+    "sha256": "8f7433fea1f370c487bca4eeea2257f8ca1cb4c3ba19fbac45342324714b203e",
+    "bytes": 35108
+  },
+  {
+    "species": 620,
+    "url": "https://zukan.pokemon.co.jp/detail/0620",
+    "sha256": "ef6e7a990d08d67273dd02b1387c7bce965823203a6b7477b750fd151e261bbc",
+    "bytes": 35106
+  },
+  {
+    "species": 621,
+    "url": "https://zukan.pokemon.co.jp/detail/0621",
+    "sha256": "8cf6a9ce64da1a7e805978a71fc9fa1fd1fa9a4102936563c90eeb82376973a2",
+    "bytes": 32530
+  },
+  {
+    "species": 622,
+    "url": "https://zukan.pokemon.co.jp/detail/0622",
+    "sha256": "a622b7918daa260efc57fa58c9e4e340400669799dcad244ef2ee713d5cff00c",
+    "bytes": 36013
+  },
+  {
+    "species": 623,
+    "url": "https://zukan.pokemon.co.jp/detail/0623",
+    "sha256": "441def357790690a74b0f756cce66bc81ff69662d7cabf24f10b6115cf4f0bff",
+    "bytes": 37701
+  },
+  {
+    "species": 624,
+    "url": "https://zukan.pokemon.co.jp/detail/0624",
+    "sha256": "a71bc47297529a42a42d61373f4c724f5327a7b4f60a33b378722dc9ac7ae62f",
+    "bytes": 36504
+  },
+  {
+    "species": 625,
+    "url": "https://zukan.pokemon.co.jp/detail/0625",
+    "sha256": "9e4df92b07cfa484a3c45166395fe301ee7927934deb437af0660643ea319111",
+    "bytes": 36532
+  },
+  {
+    "species": 626,
+    "url": "https://zukan.pokemon.co.jp/detail/0626",
+    "sha256": "5c13279a26506bab0eb7b5f2926442498a88b742c102ec4a7d07b7ed46978db0",
+    "bytes": 32494
+  },
+  {
+    "species": 627,
+    "url": "https://zukan.pokemon.co.jp/detail/0627",
+    "sha256": "f5a4d3ccc89ee5cd592897f65bbf0248a0b6d69bb147fc0622893ec6d89de877",
+    "bytes": 37500
+  },
+  {
+    "species": 628,
+    "url": "https://zukan.pokemon.co.jp/detail/0628",
+    "sha256": "b62f07c5fb4af209f0d10407752387429fe47a634ae5850f00a2006f32eba40f",
+    "bytes": 38039
+  },
+  {
+    "species": 629,
+    "url": "https://zukan.pokemon.co.jp/detail/0629",
+    "sha256": "606d72e09b519bf3f2614611d906ada1f5d4005adbaadad8d4013f75db71ff8c",
+    "bytes": 35448
+  },
+  {
+    "species": 630,
+    "url": "https://zukan.pokemon.co.jp/detail/0630",
+    "sha256": "fb5c368a42fc34d815d62e17c0908a5b2740b99449b833e15922174a4e4ecf11",
+    "bytes": 35459
+  },
+  {
+    "species": 631,
+    "url": "https://zukan.pokemon.co.jp/detail/0631",
+    "sha256": "0553976dfa94e9e556cd15ccda9e714d44b3a6c4f03adaa6010af8d62a15951e",
+    "bytes": 32596
+  },
+  {
+    "species": 632,
+    "url": "https://zukan.pokemon.co.jp/detail/0632",
+    "sha256": "08674e3f07090bff5de151aa0ec41aa4c43ee9ae05a11ec0d2d94059b798fd29",
+    "bytes": 32667
+  },
+  {
+    "species": 633,
+    "url": "https://zukan.pokemon.co.jp/detail/0633",
+    "sha256": "b95e393820c15d7f41410febcdcd81b919ea23e5beafa93a173cc97db8b9e0c8",
+    "bytes": 35598
+  },
+  {
+    "species": 634,
+    "url": "https://zukan.pokemon.co.jp/detail/0634",
+    "sha256": "4dabbc469b6715eae08293e4af37fb83d48db71ad6743bbe6713334cdec5d795",
+    "bytes": 35583
+  },
+  {
+    "species": 635,
+    "url": "https://zukan.pokemon.co.jp/detail/0635",
+    "sha256": "0413288587e8cf8970f1ac4c60fa30d7461c52c0c83c592ab78d1c37c8efd1d5",
+    "bytes": 35617
+  },
+  {
+    "species": 636,
+    "url": "https://zukan.pokemon.co.jp/detail/0636",
+    "sha256": "881d3d5c246f87d5ebadd7bc2434894e6734c776a2fecf722fc69944a5c9c0c7",
+    "bytes": 34648
+  },
+  {
+    "species": 637,
+    "url": "https://zukan.pokemon.co.jp/detail/0637",
+    "sha256": "c4dae62c3fd638676aa845c0954b871e68e55834f8c8aa67f853a60b56c577d0",
+    "bytes": 34666
+  },
+  {
+    "species": 638,
+    "url": "https://zukan.pokemon.co.jp/detail/0638",
+    "sha256": "a133625fbc166c4a462847570eff01fd96a70bf16fa8096162f8bb8a6a609a91",
+    "bytes": 32319
+  },
+  {
+    "species": 639,
+    "url": "https://zukan.pokemon.co.jp/detail/0639",
+    "sha256": "a72a3dfc07eea4e6381344dc199f95319bca1087941e774acf2e0ff35afc6416",
+    "bytes": 32307
+  },
+  {
+    "species": 640,
+    "url": "https://zukan.pokemon.co.jp/detail/0640",
+    "sha256": "da70a089e65f93692a3389fc8eab3d5b69f237c624c4da23dfccc9e0e15186a4",
+    "bytes": 32323
+  },
+  {
+    "species": 641,
+    "url": "https://zukan.pokemon.co.jp/detail/0641",
+    "sha256": "2f2cd811be375b03e85d61a085f78ca9adf4b4246ad3d040c70e9ebc6baa0576",
+    "bytes": 33299
+  },
+  {
+    "species": 642,
+    "url": "https://zukan.pokemon.co.jp/detail/0642",
+    "sha256": "a5c901ba156de246d2c112b66a4cc7fd78c6a4daaaced4303e1855e1bd101318",
+    "bytes": 33778
+  },
+  {
+    "species": 643,
+    "url": "https://zukan.pokemon.co.jp/detail/0643",
+    "sha256": "d710a0ad31390b9d8b918461a527236393578ddf130ba6cfdc95ff92a8d8ac32",
+    "bytes": 29011
+  },
+  {
+    "species": 644,
+    "url": "https://zukan.pokemon.co.jp/detail/0644",
+    "sha256": "1f838cf28d2e53d3da3d46ee21273b3ef2291746f49d48f7b5ba33c5dbfae7b1",
+    "bytes": 29009
+  },
+  {
+    "species": 645,
+    "url": "https://zukan.pokemon.co.jp/detail/0645",
+    "sha256": "1e2c9fe7910a6bc0c610cf014bb229a99d11d2e1ba04599c64cd64526775ec12",
+    "bytes": 33869
+  },
+  {
+    "species": 647,
+    "url": "https://zukan.pokemon.co.jp/detail/0647",
+    "sha256": "df3cb37b075f018471430a30e3a35fef87460be757b3606d8c5e5e007d547128",
+    "bytes": 33227
+  },
+  {
+    "species": 648,
+    "url": "https://zukan.pokemon.co.jp/detail/0648",
+    "sha256": "b1adea1765e4cc043e71396cd511011f4664a9c22197afb7687557136ac974a1",
+    "bytes": 33218
+  },
+  {
+    "species": 649,
+    "url": "https://zukan.pokemon.co.jp/detail/0649",
+    "sha256": "2f480c1951ae320238efb45df79d6e44a56f86818d51c81879cf913ba1de2085",
+    "bytes": 31447
+  },
+  {
+    "species": 650,
+    "url": "https://zukan.pokemon.co.jp/detail/0650",
+    "sha256": "20814c254876cdb70fb79745a69f11becceec8dc69151e69fdd69ae2d6bd443b",
+    "bytes": 34842
+  },
+  {
+    "species": 651,
+    "url": "https://zukan.pokemon.co.jp/detail/0651",
+    "sha256": "d6367b684ce3ce9ae16496570b6a429c6cc3180f1262ba373c3b6f61c818d99c",
+    "bytes": 34834
+  },
+  {
+    "species": 652,
+    "url": "https://zukan.pokemon.co.jp/detail/0652",
+    "sha256": "ee112bea13a5b398d38a0a34de6cbc88259a73b646667aa33ac33a6a9ec43e33",
+    "bytes": 36714
+  },
+  {
+    "species": 653,
+    "url": "https://zukan.pokemon.co.jp/detail/0653",
+    "sha256": "44c0ffe276fc43348fa56580fcaaa2806bc81746852e4388efb86c7a0beaf5ca",
+    "bytes": 34833
+  },
+  {
+    "species": 654,
+    "url": "https://zukan.pokemon.co.jp/detail/0654",
+    "sha256": "ccdc2374abe51c8d517a67caf0e3a11aa65fd20da4376bcf0d6a986e5ce27ab7",
+    "bytes": 34832
+  },
+  {
+    "species": 655,
+    "url": "https://zukan.pokemon.co.jp/detail/0655",
+    "sha256": "b1af3160f7d0b7d37fbc3fa446b661bd1cc4a42ffba52be9b93cf7a2c65673e4",
+    "bytes": 36739
+  },
+  {
+    "species": 656,
+    "url": "https://zukan.pokemon.co.jp/detail/0656",
+    "sha256": "c910bfe9f512285d2edf5c51e143477b0c4225b74864e888b50a8548970756e3",
+    "bytes": 34813
+  },
+  {
+    "species": 657,
+    "url": "https://zukan.pokemon.co.jp/detail/0657",
+    "sha256": "3ff41f895b9e05c2797545f96b944c2901c7d8be702ee606f7af730a73487eda",
+    "bytes": 34836
+  },
+  {
+    "species": 658,
+    "url": "https://zukan.pokemon.co.jp/detail/0658",
+    "sha256": "8782d074ce87e98238711777e955065c75137db7af7cad21045df961f728c21d",
+    "bytes": 36650
+  },
+  {
+    "species": 659,
+    "url": "https://zukan.pokemon.co.jp/detail/0659",
+    "sha256": "5b0f9ee323eafd3b42ab6a980b77cf9e298085221cd476832db988381925c3cd",
+    "bytes": 34907
+  },
+  {
+    "species": 660,
+    "url": "https://zukan.pokemon.co.jp/detail/0660",
+    "sha256": "25e4c575c6857b2b540406f5c06ef5cd6389bd8dd9c72f7ea9f5c2ef8cfd3405",
+    "bytes": 35097
+  },
+  {
+    "species": 661,
+    "url": "https://zukan.pokemon.co.jp/detail/0661",
+    "sha256": "bcb1da4c1dd5ea25369abdeee36dcd6d8cb9404f2ee3e24307b17823c6dc0390",
+    "bytes": 36207
+  },
+  {
+    "species": 662,
+    "url": "https://zukan.pokemon.co.jp/detail/0662",
+    "sha256": "8eca292fe4430ca19fba2d7e4b81b4f8fae08495dc7a2ecd5e272d408510f034",
+    "bytes": 36274
+  },
+  {
+    "species": 663,
+    "url": "https://zukan.pokemon.co.jp/detail/0663",
+    "sha256": "6b5fe77dab1e514d90a784857ec63cdf4891fd9342b3538107f464fcc02aab28",
+    "bytes": 36295
+  },
+  {
+    "species": 664,
+    "url": "https://zukan.pokemon.co.jp/detail/0664",
+    "sha256": "6c447ecd087c5bcd417964e9f7ce197905507f1102636d44a2dad8294cea7b5e",
+    "bytes": 35876
+  },
+  {
+    "species": 665,
+    "url": "https://zukan.pokemon.co.jp/detail/0665",
+    "sha256": "bf4668ac03e46b1debcf698e602d5c01d45fb0c6b0c9e817d95f1660afa8c41a",
+    "bytes": 35035
+  },
+  {
+    "species": 666,
+    "url": "https://zukan.pokemon.co.jp/detail/0666",
+    "sha256": "1cdd2227040912fdb35e124d1e55a42877fbb0c89c58dc68fba43da7c68bbfe4",
+    "bytes": 53048
+  },
+  {
+    "species": 667,
+    "url": "https://zukan.pokemon.co.jp/detail/0667",
+    "sha256": "12a78d2d2a85692b51c04511d16279ae2b5700140b0473da54a063b006b43194",
+    "bytes": 36144
+  },
+  {
+    "species": 668,
+    "url": "https://zukan.pokemon.co.jp/detail/0668",
+    "sha256": "df5f0d9c3994a8de7d80597c3c62d51ee5cf79fbf85df37efb953e426ffae5df",
+    "bytes": 38779
+  },
+  {
+    "species": 669,
+    "url": "https://zukan.pokemon.co.jp/detail/0669",
+    "sha256": "1476584d78be48ba98ff479f84235443d7d53b1ebd8c9da0e8012f7e511cd651",
+    "bytes": 34777
+  },
+  {
+    "species": 670,
+    "url": "https://zukan.pokemon.co.jp/detail/0670",
+    "sha256": "acb5c550bd21098e857fcbe742a822f454b1cbd289013381d107756a4a2d2776",
+    "bytes": 36933
+  },
+  {
+    "species": 671,
+    "url": "https://zukan.pokemon.co.jp/detail/0671",
+    "sha256": "af97a751c7e6437e3dd788e09a640fd90a534751f6d5a45ac11346f5717ce5de",
+    "bytes": 34815
+  },
+  {
+    "species": 672,
+    "url": "https://zukan.pokemon.co.jp/detail/0672",
+    "sha256": "165f0a0c1515d421e341856bda113f35d394f2d94b4730636dec391b97d2ebe7",
+    "bytes": 33914
+  },
+  {
+    "species": 673,
+    "url": "https://zukan.pokemon.co.jp/detail/0673",
+    "sha256": "84f5abf4b16ce0422d902a65d8290d43805f614c81d62abd9004e1a3317ebf37",
+    "bytes": 33911
+  },
+  {
+    "species": 674,
+    "url": "https://zukan.pokemon.co.jp/detail/0674",
+    "sha256": "0f3f61b55263328a0bf7329f5478859405bd70cbe56770d288ec5c10ad4a4c81",
+    "bytes": 34926
+  },
+  {
+    "species": 675,
+    "url": "https://zukan.pokemon.co.jp/detail/0675",
+    "sha256": "6bbeb6169d2afdc679b912f04a33bb982a853a2e72598ee4ddb1ffe661130113",
+    "bytes": 35088
+  },
+  {
+    "species": 676,
+    "url": "https://zukan.pokemon.co.jp/detail/0676",
+    "sha256": "808deb8e19319d1838fbd855378a1b303ca5727047ccb445719e748dfb37eb4b",
+    "bytes": 31374
+  },
+  {
+    "species": 677,
+    "url": "https://zukan.pokemon.co.jp/detail/0677",
+    "sha256": "cdbdd189019f34da29cdebc5e4c83fbb75e5ce3070e9deb97a404dfafadcf0c1",
+    "bytes": 36400
+  },
+  {
+    "species": 678,
+    "url": "https://zukan.pokemon.co.jp/detail/0678",
+    "sha256": "84c043e4724609b2a594756d6758e9ae2b23c7e804798ffb9749f43307dd656a",
+    "bytes": 38578
+  },
+  {
+    "species": 679,
+    "url": "https://zukan.pokemon.co.jp/detail/0679",
+    "sha256": "6956579632b36e717a1a0e447fb83449370b4187803af12a4acbc4fd8307c051",
+    "bytes": 35407
+  },
+  {
+    "species": 680,
+    "url": "https://zukan.pokemon.co.jp/detail/0680",
+    "sha256": "2a9a363381a1623132046597cfe10dfc7df9dd3efa1307f61b29f9c84ab46fa5",
+    "bytes": 35420
+  },
+  {
+    "species": 681,
+    "url": "https://zukan.pokemon.co.jp/detail/0681",
+    "sha256": "eeb96b4fb289e6d529251132e85521b0aa687633d31525330579df91fedc5571",
+    "bytes": 37351
+  },
+  {
+    "species": 682,
+    "url": "https://zukan.pokemon.co.jp/detail/0682",
+    "sha256": "5c647ca0b67df3f040fd16bd861402b41cce6ced54f5c8244e37e3f7183b6ed6",
+    "bytes": 33918
+  },
+  {
+    "species": 683,
+    "url": "https://zukan.pokemon.co.jp/detail/0683",
+    "sha256": "610557a4a856c8f340c4938a6e7174edc2cfcf2439c0bc2c54f38d1af7375a46",
+    "bytes": 33917
+  },
+  {
+    "species": 684,
+    "url": "https://zukan.pokemon.co.jp/detail/0684",
+    "sha256": "c86a44b08bebdf6f548bdaee278796a47d2a93121848397654ad0a446487edd2",
+    "bytes": 33913
+  },
+  {
+    "species": 685,
+    "url": "https://zukan.pokemon.co.jp/detail/0685",
+    "sha256": "7828eda5e8fbc7c09cd9a413c20f661549cd8201b85bde39f13a9f8a02d7c4dd",
+    "bytes": 33919
+  },
+  {
+    "species": 686,
+    "url": "https://zukan.pokemon.co.jp/detail/0686",
+    "sha256": "c7163baf80cea6364f2daa7a379c2dc57bcb9cfbe294f745f31ef4ce010cc73e",
+    "bytes": 36259
+  },
+  {
+    "species": 687,
+    "url": "https://zukan.pokemon.co.jp/detail/0687",
+    "sha256": "66c85cbe058372e718dc2adb96225903e2c9fc857a864edeaa18baf963d06356",
+    "bytes": 37948
+  },
+  {
+    "species": 688,
+    "url": "https://zukan.pokemon.co.jp/detail/0688",
+    "sha256": "3b6f713bfc79fddcd9e9366aa174379f5a2886b7cc56ade6858ba235e7e2bb1f",
+    "bytes": 35181
+  },
+  {
+    "species": 689,
+    "url": "https://zukan.pokemon.co.jp/detail/0689",
+    "sha256": "7a9e7e0bab2cf209b01edef39a0b1c079c1d0a70f99138d80031f72c04f14183",
+    "bytes": 36866
+  },
+  {
+    "species": 690,
+    "url": "https://zukan.pokemon.co.jp/detail/0690",
+    "sha256": "69298c38af89f172ce2f663e2cc28f7c8d4a3f3af132414b52e80d3eb0cd9fb5",
+    "bytes": 36131
+  },
+  {
+    "species": 691,
+    "url": "https://zukan.pokemon.co.jp/detail/0691",
+    "sha256": "0dce72ba2abbe888ca73e5e8e9d808f45dc03f5ecf31e3308fe4631b94334674",
+    "bytes": 37852
+  },
+  {
+    "species": 692,
+    "url": "https://zukan.pokemon.co.jp/detail/0692",
+    "sha256": "2eb789ed6c26b1adc3497152a07eac3deac6b9372caf222053658123904a3fbe",
+    "bytes": 34799
+  },
+  {
+    "species": 693,
+    "url": "https://zukan.pokemon.co.jp/detail/0693",
+    "sha256": "06f5b2d5dfab6a7724ce7f84bd2be0fe2984d96964834a56102861431c3bae5f",
+    "bytes": 34783
+  },
+  {
+    "species": 694,
+    "url": "https://zukan.pokemon.co.jp/detail/0694",
+    "sha256": "b5c174ce998729ca9d4f987e1ead8c53c2c197a81925b3ff36b5ecb3ec137bbd",
+    "bytes": 35298
+  },
+  {
+    "species": 695,
+    "url": "https://zukan.pokemon.co.jp/detail/0695",
+    "sha256": "cdf45705d6136360334e2e050a16b07f2859e527b8fe0f043e8bdd6cf00868b4",
+    "bytes": 35320
+  },
+  {
+    "species": 696,
+    "url": "https://zukan.pokemon.co.jp/detail/0696",
+    "sha256": "3ba568af88c036a47f1257d60b6e53d383ac950e15549704a2e086e596aaf55a",
+    "bytes": 34382
+  },
+  {
+    "species": 697,
+    "url": "https://zukan.pokemon.co.jp/detail/0697",
+    "sha256": "c2659fe5b958a9fa7e888dc85939865def6b975757d687195e75eadc9e93dd37",
+    "bytes": 34380
+  },
+  {
+    "species": 698,
+    "url": "https://zukan.pokemon.co.jp/detail/0698",
+    "sha256": "811e45fd294370e48ee467a51c4a5c62dd1f007844b50adf18f274ef0d8fc376",
+    "bytes": 34378
+  },
+  {
+    "species": 699,
+    "url": "https://zukan.pokemon.co.jp/detail/0699",
+    "sha256": "49859a578bd6219776b64a351b19fecdd18ee23ba63cc4aedba81332865b24b3",
+    "bytes": 34397
+  },
+  {
+    "species": 700,
+    "url": "https://zukan.pokemon.co.jp/detail/0700",
+    "sha256": "6414c30dcd4053d8420d5053729c9606ce22edff89f6a150a51730aed80a56bf",
+    "bytes": 40276
+  },
+  {
+    "species": 701,
+    "url": "https://zukan.pokemon.co.jp/detail/0701",
+    "sha256": "c4dd04ecf2bc150f7a22b184749e455367339d2cec16abe89b2668a953aa383a",
+    "bytes": 35863
+  },
+  {
+    "species": 702,
+    "url": "https://zukan.pokemon.co.jp/detail/0702",
+    "sha256": "17fbbdbaaddec0d6f4987c6a224f255098820b988b9da3255e44ea42d3e27008",
+    "bytes": 34226
+  },
+  {
+    "species": 703,
+    "url": "https://zukan.pokemon.co.jp/detail/0703",
+    "sha256": "bb6363f52e4298293330171f5ac7f63a405b6e8522b51f5f725e91a6a9ec51cb",
+    "bytes": 33196
+  },
+  {
+    "species": 704,
+    "url": "https://zukan.pokemon.co.jp/detail/0704",
+    "sha256": "2e80590040a543f01e42a26358c0970400cbbc3707d44c4a95a612ee866f722a",
+    "bytes": 39002
+  },
+  {
+    "species": 705,
+    "url": "https://zukan.pokemon.co.jp/detail/0705",
+    "sha256": "2e7a39b1fc62a5ae0ceb6c0dd1f1e982671ae6e637468a5e3efac07df4a33721",
+    "bytes": 39722
+  },
+  {
+    "species": 706,
+    "url": "https://zukan.pokemon.co.jp/detail/0706",
+    "sha256": "7214bd1f9411871d78a8105a69168ac79bedbd7619a9924440777e610e7dbcaa",
+    "bytes": 39770
+  },
+  {
+    "species": 707,
+    "url": "https://zukan.pokemon.co.jp/detail/0707",
+    "sha256": "b6f0955b76f3802c04cb10fbbe7535cdcb145d1c5e304755379d929e980034b4",
+    "bytes": 33346
+  },
+  {
+    "species": 708,
+    "url": "https://zukan.pokemon.co.jp/detail/0708",
+    "sha256": "b7ad70e0426ec14b69cb50cfb48df238d0e079f9aa6685ad5cc45ce62edd2607",
+    "bytes": 36141
+  },
+  {
+    "species": 709,
+    "url": "https://zukan.pokemon.co.jp/detail/0709",
+    "sha256": "f410061eb7778d3b1d45675194e94d9f21b1b164dcf3dd41edbb44ae642d2b53",
+    "bytes": 36160
+  },
+  {
+    "species": 710,
+    "url": "https://zukan.pokemon.co.jp/detail/0710",
+    "sha256": "bb546e36ee201cfef3b08e9e3f36a13b9882eee348eeea07c028f9dec365ed74",
+    "bytes": 35273
+  },
+  {
+    "species": 711,
+    "url": "https://zukan.pokemon.co.jp/detail/0711",
+    "sha256": "3f7f28d0b09a075232530f6b58c894c7f306670239249e7012f29d4371b43fb1",
+    "bytes": 35283
+  },
+  {
+    "species": 712,
+    "url": "https://zukan.pokemon.co.jp/detail/0712",
+    "sha256": "c7efff8535725c600f34c1864a07bbe326d3c23b84f73241d89b06dd45f674ca",
+    "bytes": 37351
+  },
+  {
+    "species": 713,
+    "url": "https://zukan.pokemon.co.jp/detail/0713",
+    "sha256": "72b211e78683f6b0a1d5978519165a84ddbf40a56d4b8c618cdf3160dbe527c7",
+    "bytes": 38080
+  },
+  {
+    "species": 714,
+    "url": "https://zukan.pokemon.co.jp/detail/0714",
+    "sha256": "d2bccb94457301366047f564bd4a43a6be569d640f1c79d367a52fe8d5a6a957",
+    "bytes": 36194
+  },
+  {
+    "species": 715,
+    "url": "https://zukan.pokemon.co.jp/detail/0715",
+    "sha256": "7d3060fcfcfae2b610eea0ae920152d96fb8ed29234101748cd7d2b39e27a1d4",
+    "bytes": 36193
+  },
+  {
+    "species": 716,
+    "url": "https://zukan.pokemon.co.jp/detail/0716",
+    "sha256": "4516843fd6f5666a9169b48ab420a8e6a24b0c8c77118a16b31ff79ad26990bd",
+    "bytes": 31199
+  },
+  {
+    "species": 717,
+    "url": "https://zukan.pokemon.co.jp/detail/0717",
+    "sha256": "493ed28cbf660b6978945c64d12384e1c5d8368690ac185af877ea027b653a34",
+    "bytes": 31347
+  },
+  {
+    "species": 718,
+    "url": "https://zukan.pokemon.co.jp/detail/0718",
+    "sha256": "6e211a41dcf7e467f440f337ba76a013f7a312c7b69b59d535ff4c89051b042d",
+    "bytes": 35812
+  },
+  {
+    "species": 719,
+    "url": "https://zukan.pokemon.co.jp/detail/0719",
+    "sha256": "c3d6a04a60c609a429bd6982ec42b3bf8b6c64a1286774a064729513a02c8cf6",
+    "bytes": 33096
+  },
+  {
+    "species": 720,
+    "url": "https://zukan.pokemon.co.jp/detail/0720",
+    "sha256": "41d8b75e77c4fd9a1198375363d67a066d91c0d9525c71588a743169e0edd999",
+    "bytes": 33244
+  },
+  {
+    "species": 721,
+    "url": "https://zukan.pokemon.co.jp/detail/0721",
+    "sha256": "612a683d40f578ebb358ab0d42d432f608dac957f846414ce2c1280bf394dd89",
+    "bytes": 31384
+  },
+  {
+    "species": 722,
+    "url": "https://zukan.pokemon.co.jp/detail/0722",
+    "sha256": "f6d2d175403dc051dfdc8fc6fab8aaaac0628912d166c4872b04c32e92da8f87",
+    "bytes": 36710
+  },
+  {
+    "species": 723,
+    "url": "https://zukan.pokemon.co.jp/detail/0723",
+    "sha256": "1aaffab216237d36250bea64139c641784af3fe29adfc4a869c4f77faa1b6799",
+    "bytes": 36714
+  },
+  {
+    "species": 724,
+    "url": "https://zukan.pokemon.co.jp/detail/0724",
+    "sha256": "867aec82c67613080390e29f5bf21717cb36ddd0f72c2c17433b90a9ab864d34",
+    "bytes": 37279
+  },
+  {
+    "species": 725,
+    "url": "https://zukan.pokemon.co.jp/detail/0725",
+    "sha256": "1ae31d8a3098eed49bfc7739c535ec2c96dc7b51f83a6f0426b936196e6e4ecd",
+    "bytes": 34191
+  },
+  {
+    "species": 726,
+    "url": "https://zukan.pokemon.co.jp/detail/0726",
+    "sha256": "9440db3cb929d4497f09024613f92bacf2361fabb8adb32cbee427b77f65e254",
+    "bytes": 34184
+  },
+  {
+    "species": 727,
+    "url": "https://zukan.pokemon.co.jp/detail/0727",
+    "sha256": "84e550353252709fd24db228d0ae6b4934755f7c055de212646cab7bdd99bff5",
+    "bytes": 34359
+  },
+  {
+    "species": 728,
+    "url": "https://zukan.pokemon.co.jp/detail/0728",
+    "sha256": "8b6cb68c0b497b4c7281a4c9bd058d6926ea77f9183a182e2ccc7a3eb80339f4",
+    "bytes": 34175
+  },
+  {
+    "species": 729,
+    "url": "https://zukan.pokemon.co.jp/detail/0729",
+    "sha256": "1227e8e99d4a638ef7a1345eb3440ca1122853f52c20442064849adf356dcb95",
+    "bytes": 34206
+  },
+  {
+    "species": 730,
+    "url": "https://zukan.pokemon.co.jp/detail/0730",
+    "sha256": "98029413f32a0b82a9b8b04c68c980e0b8efcea1e6f8144dab5aa7aa71274d25",
+    "bytes": 34360
+  },
+  {
+    "species": 731,
+    "url": "https://zukan.pokemon.co.jp/detail/0731",
+    "sha256": "3dba2b889fb96dced50ec747927bae4b9e1c6fcf2a49e1c6d3a4c90c120c09ee",
+    "bytes": 35542
+  },
+  {
+    "species": 732,
+    "url": "https://zukan.pokemon.co.jp/detail/0732",
+    "sha256": "baf46d8e9e94ee4c879237e2cfa93576b550ddcb5becfbef0b052b86aecb6f36",
+    "bytes": 35579
+  },
+  {
+    "species": 733,
+    "url": "https://zukan.pokemon.co.jp/detail/0733",
+    "sha256": "098ac5d547f53f79b301645e16cf43e0b33a8438d03c9da47fb106e3a913ffd4",
+    "bytes": 35591
+  },
+  {
+    "species": 734,
+    "url": "https://zukan.pokemon.co.jp/detail/0734",
+    "sha256": "7907c715134a4f5884028a0403db0ca68e43f4eb12fed10a201a06a32ab0c504",
+    "bytes": 34137
+  },
+  {
+    "species": 735,
+    "url": "https://zukan.pokemon.co.jp/detail/0735",
+    "sha256": "00c30b0e99af24d848f04789457358d0bc1f72feddc74a35b2c5fdc6fd2d089b",
+    "bytes": 34126
+  },
+  {
+    "species": 736,
+    "url": "https://zukan.pokemon.co.jp/detail/0736",
+    "sha256": "9a0834c850fdeb4aa50cedd85f8b7b86045e3cd9bc9ef2cc8f2c262fcd378921",
+    "bytes": 35306
+  },
+  {
+    "species": 737,
+    "url": "https://zukan.pokemon.co.jp/detail/0737",
+    "sha256": "ad29f1e07d1a1643ec330841d08dc368f76f7c726f545ac184ae0b04d631ab2e",
+    "bytes": 35429
+  },
+  {
+    "species": 738,
+    "url": "https://zukan.pokemon.co.jp/detail/0738",
+    "sha256": "537480f4c5a11e3d472d98fc3674a495427bf42a3096ce1af92e1329496588f2",
+    "bytes": 35438
+  },
+  {
+    "species": 739,
+    "url": "https://zukan.pokemon.co.jp/detail/0739",
+    "sha256": "e68c57767436a0343a664755e3f5bab3dd72edb42ce0097d1ac03d169cb6607c",
+    "bytes": 34940
+  },
+  {
+    "species": 740,
+    "url": "https://zukan.pokemon.co.jp/detail/0740",
+    "sha256": "24ac8de25df0cba10e799888e6615186d52c321b897beb8a8dcb991d86abf522",
+    "bytes": 36819
+  },
+  {
+    "species": 741,
+    "url": "https://zukan.pokemon.co.jp/detail/0741",
+    "sha256": "9b6a52a817d2b77b539409f8bbc3a25914e55d4976dd1c7304b911e801710788",
+    "bytes": 35348
+  },
+  {
+    "species": 742,
+    "url": "https://zukan.pokemon.co.jp/detail/0742",
+    "sha256": "ff40526ab56bc85b445f6ea29a7e592e807c917835e964c66a3be02729a4c707",
+    "bytes": 35541
+  },
+  {
+    "species": 743,
+    "url": "https://zukan.pokemon.co.jp/detail/0743",
+    "sha256": "196593a089ecc3bd594be3ca60b05f3947a2c640ff56c381176a0da21fb02acc",
+    "bytes": 35566
+  },
+  {
+    "species": 744,
+    "url": "https://zukan.pokemon.co.jp/detail/0744",
+    "sha256": "35a0b8dfe99f4e50371cfacca8e82c1219c835bd05f5e146ebbf99ba8006d47f",
+    "bytes": 36387
+  },
+  {
+    "species": 745,
+    "url": "https://zukan.pokemon.co.jp/detail/0745",
+    "sha256": "f3e82ffff43e16e7d56ed41f15ab90d8c7c34e93846741e1221d8538d604339f",
+    "bytes": 38608
+  },
+  {
+    "species": 746,
+    "url": "https://zukan.pokemon.co.jp/detail/0746",
+    "sha256": "498e499f0d7ade32869e1b03900b695f9b9e2cac1d436295ba29db9d819c5298",
+    "bytes": 33161
+  },
+  {
+    "species": 747,
+    "url": "https://zukan.pokemon.co.jp/detail/0747",
+    "sha256": "d60e5f5a60e90e8d112aff3bcd82e3d6831c6506fc4a38d9d6d657a12d656e42",
+    "bytes": 35479
+  },
+  {
+    "species": 748,
+    "url": "https://zukan.pokemon.co.jp/detail/0748",
+    "sha256": "b7ef7a9d85d38105a98afecd39e9a1d57bce074f31dbd88578cf50e2e76bfdeb",
+    "bytes": 35475
+  },
+  {
+    "species": 749,
+    "url": "https://zukan.pokemon.co.jp/detail/0749",
+    "sha256": "3165b80b6ed512560729d5456bfba5f9248cc66e3275878c4afbeb4f96c49e83",
+    "bytes": 35050
+  },
+  {
+    "species": 750,
+    "url": "https://zukan.pokemon.co.jp/detail/0750",
+    "sha256": "1a4a26a28d2a855f6fb2a4cd12ce81f973f66e6bdc3ae8caa62bfcea85657f12",
+    "bytes": 35044
+  },
+  {
+    "species": 751,
+    "url": "https://zukan.pokemon.co.jp/detail/0751",
+    "sha256": "c8407016eb30129b56f51ef4e4512fc59eace73144214b80a3742beee8b14843",
+    "bytes": 34639
+  },
+  {
+    "species": 752,
+    "url": "https://zukan.pokemon.co.jp/detail/0752",
+    "sha256": "6c734914b7a561f57040b88bc2282d486a081a79d3e12588cd38e4e128a95037",
+    "bytes": 34664
+  },
+  {
+    "species": 753,
+    "url": "https://zukan.pokemon.co.jp/detail/0753",
+    "sha256": "2bb33a797810381cb9b5aec0f313bf55227437e10f56abe5e529022fa9d78a10",
+    "bytes": 34140
+  },
+  {
+    "species": 754,
+    "url": "https://zukan.pokemon.co.jp/detail/0754",
+    "sha256": "bfb9871774ce9a22ba0506174049a2a037027a7337ac6c92df7fcca673d567ce",
+    "bytes": 34156
+  },
+  {
+    "species": 755,
+    "url": "https://zukan.pokemon.co.jp/detail/0755",
+    "sha256": "45dd056b8866e9d4d1467a706c8aedc1aae52a61c17d951d9922507fa1b3e962",
+    "bytes": 34666
+  },
+  {
+    "species": 756,
+    "url": "https://zukan.pokemon.co.jp/detail/0756",
+    "sha256": "6f8123272109806fd32fd52ff29a50fea1d66c5bb883974e8d2c329de743211b",
+    "bytes": 34694
+  },
+  {
+    "species": 757,
+    "url": "https://zukan.pokemon.co.jp/detail/0757",
+    "sha256": "4df081c397cd0b68025976d33147b1d1097d49f32ae5618918c4bd528d7308fd",
+    "bytes": 34692
+  },
+  {
+    "species": 758,
+    "url": "https://zukan.pokemon.co.jp/detail/0758",
+    "sha256": "2eb7d935f1abbc2d4b7125ab9feaeafc24b827a83680106cabfba79bf7420059",
+    "bytes": 34633
+  },
+  {
+    "species": 759,
+    "url": "https://zukan.pokemon.co.jp/detail/0759",
+    "sha256": "e683bd2fee9018f81c395887c7c78a19b897755c47da96ef8a80a02f7cfa1778",
+    "bytes": 34726
+  },
+  {
+    "species": 760,
+    "url": "https://zukan.pokemon.co.jp/detail/0760",
+    "sha256": "cb719bead07981cc1234feb9338692b15f7ded90e7bdb9bae58c5ddca37be75f",
+    "bytes": 34710
+  },
+  {
+    "species": 761,
+    "url": "https://zukan.pokemon.co.jp/detail/0761",
+    "sha256": "4ef00f7737a5caefca6ff2bc787e7e02c1ba4a39a5801631c19cb3e7c195c487",
+    "bytes": 35769
+  },
+  {
+    "species": 762,
+    "url": "https://zukan.pokemon.co.jp/detail/0762",
+    "sha256": "814e65d6acbb54ccb300fffd006a1700f0ea5c4f09d03fb78fc14631b39c93b6",
+    "bytes": 35781
+  },
+  {
+    "species": 763,
+    "url": "https://zukan.pokemon.co.jp/detail/0763",
+    "sha256": "5164b7670bd1688087fadf03a67566629f9acbb1fab95c67aaf70b62441345b9",
+    "bytes": 35804
+  },
+  {
+    "species": 764,
+    "url": "https://zukan.pokemon.co.jp/detail/0764",
+    "sha256": "c4ab6912420fd5373b4c80dda5b7bc6ff1e6a0389374445987a0f9b1df0cfed4",
+    "bytes": 33418
+  },
+  {
+    "species": 765,
+    "url": "https://zukan.pokemon.co.jp/detail/0765",
+    "sha256": "bfba8f26a0af6723bf8b74df7d204b9e972612ce862a00b7b59df00d667871ac",
+    "bytes": 33628
+  },
+  {
+    "species": 766,
+    "url": "https://zukan.pokemon.co.jp/detail/0766",
+    "sha256": "bb89f2d1437fc0346b67139317dec202444390b92789bd3253801e8e375642c3",
+    "bytes": 32585
+  },
+  {
+    "species": 767,
+    "url": "https://zukan.pokemon.co.jp/detail/0767",
+    "sha256": "7d73155901d4bba132f4d8cf81162b1bc7b245413e0b3b120d14fed3a906d6a6",
+    "bytes": 34390
+  },
+  {
+    "species": 768,
+    "url": "https://zukan.pokemon.co.jp/detail/0768",
+    "sha256": "815b1ba2aa0a1ef652e174b215b414d385f827161940f793645cf4d8015e9026",
+    "bytes": 36066
+  },
+  {
+    "species": 769,
+    "url": "https://zukan.pokemon.co.jp/detail/0769",
+    "sha256": "cce712233c5bc5eed2237d4248cac18d021656593081683951df42b3f7fa961a",
+    "bytes": 35298
+  },
+  {
+    "species": 770,
+    "url": "https://zukan.pokemon.co.jp/detail/0770",
+    "sha256": "c3f62ef779799b311c217d401ba6979361e0717c193d3fe42ff818ce515059b9",
+    "bytes": 35312
+  },
+  {
+    "species": 771,
+    "url": "https://zukan.pokemon.co.jp/detail/0771",
+    "sha256": "ac98061513a0ff066464f9d2ed178368770047b223bbae92bb7b15d19f83906f",
+    "bytes": 31672
+  },
+  {
+    "species": 772,
+    "url": "https://zukan.pokemon.co.jp/detail/0772",
+    "sha256": "7ead8e467c4d61094befbe8d0972021c2bb5cf3ad679fd4135454dbc2fd916d4",
+    "bytes": 33254
+  },
+  {
+    "species": 773,
+    "url": "https://zukan.pokemon.co.jp/detail/0773",
+    "sha256": "e29cf3fab699d29747eed79d2e9a0ce5ae98ff3d274b3e3992da4ff45c307532",
+    "bytes": 33448
+  },
+  {
+    "species": 774,
+    "url": "https://zukan.pokemon.co.jp/detail/0774",
+    "sha256": "5229bac7e96640977cb3f607012d3e3afcdcb093e2d348ed74a13b83dae469f2",
+    "bytes": 33821
+  },
+  {
+    "species": 775,
+    "url": "https://zukan.pokemon.co.jp/detail/0775",
+    "sha256": "647b694af51a51b1a57035d29a4d26a53157e793bf070eb21ad877a8df992a1f",
+    "bytes": 31655
+  },
+  {
+    "species": 776,
+    "url": "https://zukan.pokemon.co.jp/detail/0776",
+    "sha256": "b3e6cb219265c3049ae1bb190d5d44996425174f7ddcc8c5f9bf0a959a9ef200",
+    "bytes": 31844
+  },
+  {
+    "species": 777,
+    "url": "https://zukan.pokemon.co.jp/detail/0777",
+    "sha256": "306ac029427e90a02fb41bc65a162bc58d3f6475148c3161238def211fceb940",
+    "bytes": 32730
+  },
+  {
+    "species": 778,
+    "url": "https://zukan.pokemon.co.jp/detail/0778",
+    "sha256": "3209462c9a3aa7bab8dd8971adb1542f79e9dc66adf5401cf68b30723a57b6aa",
+    "bytes": 33492
+  },
+  {
+    "species": 779,
+    "url": "https://zukan.pokemon.co.jp/detail/0779",
+    "sha256": "7f4cd315d8bc5af174ec5656fd4a6532bcd7485b500c4bf4bf2471557045c19f",
+    "bytes": 32712
+  },
+  {
+    "species": 780,
+    "url": "https://zukan.pokemon.co.jp/detail/0780",
+    "sha256": "2618ae41c83d51c0a3093273d530189fbf6a15c853498a4a324c68b831e387b6",
+    "bytes": 35041
+  },
+  {
+    "species": 781,
+    "url": "https://zukan.pokemon.co.jp/detail/0781",
+    "sha256": "8f2ff9bd19f4f440a749ce1a6d03e45378fe6107dba3e2aee4a271bc94198b6c",
+    "bytes": 31670
+  },
+  {
+    "species": 782,
+    "url": "https://zukan.pokemon.co.jp/detail/0782",
+    "sha256": "db7f5eb548f94dbd7c2d52190d73b6e0aa4a085f7b2fdf348b885d2a8ab9c727",
+    "bytes": 36163
+  },
+  {
+    "species": 783,
+    "url": "https://zukan.pokemon.co.jp/detail/0783",
+    "sha256": "43f5be8d60182e4e09d262b5af00f48efc4d2b5d773522dfd614704795c03cd9",
+    "bytes": 36345
+  },
+  {
+    "species": 784,
+    "url": "https://zukan.pokemon.co.jp/detail/0784",
+    "sha256": "bfd806e0e943374cb18730e6d4426d7deb8f20ef45313aa23eff3e23a00aa8b7",
+    "bytes": 36366
+  },
+  {
+    "species": 785,
+    "url": "https://zukan.pokemon.co.jp/detail/0785",
+    "sha256": "71fd92e5cd2f62adaf721a85e946ab9e5ff8a8fc50f0c8f3d9b6a6b8cc9ab60b",
+    "bytes": 29048
+  },
+  {
+    "species": 786,
+    "url": "https://zukan.pokemon.co.jp/detail/0786",
+    "sha256": "e98d7908c4e7eff4c25244cda77451b792a30c16475262f1f0e5add17e5eb8ad",
+    "bytes": 29059
+  },
+  {
+    "species": 787,
+    "url": "https://zukan.pokemon.co.jp/detail/0787",
+    "sha256": "5a63f870f0627114ae6b41250364145b9f4a44134367ceca2bc4d9697cdfcf23",
+    "bytes": 29042
+  },
+  {
+    "species": 788,
+    "url": "https://zukan.pokemon.co.jp/detail/0788",
+    "sha256": "0f0c5c931817a0c621105d6ebd57e34b203e5616a9f78d77742ace26a2eefc7c",
+    "bytes": 29038
+  },
+  {
+    "species": 789,
+    "url": "https://zukan.pokemon.co.jp/detail/0789",
+    "sha256": "0273513842e80a617d966fd5bad76a82a2e52bdd51dc515f2e9a665a396e5893",
+    "bytes": 32271
+  },
+  {
+    "species": 790,
+    "url": "https://zukan.pokemon.co.jp/detail/0790",
+    "sha256": "bb1fcdc0d3456dde3432f59efcf6dc352e79b270f3fa8324fd503fc82b30dd87",
+    "bytes": 32358
+  },
+  {
+    "species": 791,
+    "url": "https://zukan.pokemon.co.jp/detail/0791",
+    "sha256": "0a85d547f6e4640b775d9b2621faf8609b493e8382820682a4d0696d788e9eec",
+    "bytes": 32478
+  },
+  {
+    "species": 792,
+    "url": "https://zukan.pokemon.co.jp/detail/0792",
+    "sha256": "92899a0afdad1ff50c8a5458990a7afa9afc305e8d4c35552876d19c756894b5",
+    "bytes": 32484
+  },
+  {
+    "species": 793,
+    "url": "https://zukan.pokemon.co.jp/detail/0793",
+    "sha256": "365e7418cd6a98d7644b58304666baa932ea5c74b45f57f1ce6289e3e1bab804",
+    "bytes": 29008
+  },
+  {
+    "species": 794,
+    "url": "https://zukan.pokemon.co.jp/detail/0794",
+    "sha256": "6c07b2b8430abef996c30c034323e9cf4b31af3745bff70810f3b23de98c49d1",
+    "bytes": 29057
+  },
+  {
+    "species": 795,
+    "url": "https://zukan.pokemon.co.jp/detail/0795",
+    "sha256": "85104afe350e970d6582dcc2e398e7f3e77a971db5dc8ff4b4d574e24add95a6",
+    "bytes": 29035
+  },
+  {
+    "species": 796,
+    "url": "https://zukan.pokemon.co.jp/detail/0796",
+    "sha256": "29ae853b3c1ec2e4dee69ec87a3b13f47cdeaae8d7ecfd71fbeb8b22e8d27ace",
+    "bytes": 28895
+  },
+  {
+    "species": 797,
+    "url": "https://zukan.pokemon.co.jp/detail/0797",
+    "sha256": "885defc2352f2f4e5a94bbb951c659361623b5f30289082eef2debd4d1e52c4c",
+    "bytes": 29038
+  },
+  {
+    "species": 798,
+    "url": "https://zukan.pokemon.co.jp/detail/0798",
+    "sha256": "1001dc41ccb5c1f5fd5cf1101df3404555d71b52ebde72778a9f183cb0f84bf3",
+    "bytes": 29029
+  },
+  {
+    "species": 799,
+    "url": "https://zukan.pokemon.co.jp/detail/0799",
+    "sha256": "c9c9f49a7d76e8ff117d4e2dfc8abb0db61875a12c69e2049e038b70660e9ae4",
+    "bytes": 29045
+  },
+  {
+    "species": 800,
+    "url": "https://zukan.pokemon.co.jp/detail/0800",
+    "sha256": "ea4b4afb55c888fb45636b18f69c4e1ab49f5abacd05596c8bda8430b3616f54",
+    "bytes": 32157
+  },
+  {
+    "species": 801,
+    "url": "https://zukan.pokemon.co.jp/detail/0801",
+    "sha256": "13cd659d5f550c73828392b271d13602c082d1d47c9958deb084fc1a91923bf4",
+    "bytes": 34835
+  },
+  {
+    "species": 802,
+    "url": "https://zukan.pokemon.co.jp/detail/0802",
+    "sha256": "ed1b05a30ece702585bce783255e8328ee5658d547550305ee68b49708113105",
+    "bytes": 31412
+  },
+  {
+    "species": 803,
+    "url": "https://zukan.pokemon.co.jp/detail/0803",
+    "sha256": "0c2636967059168a87fc6a86c4223cea525e072eca2b8649382e27d703dfd538",
+    "bytes": 30650
+  },
+  {
+    "species": 804,
+    "url": "https://zukan.pokemon.co.jp/detail/0804",
+    "sha256": "f8cc528cb12a4ffeb56b5d0bec1d17854596f567438f1108e159f5f9532022d7",
+    "bytes": 30833
+  },
+  {
+    "species": 805,
+    "url": "https://zukan.pokemon.co.jp/detail/0805",
+    "sha256": "8594277f98f35caa1fe0ae5e16d95d870dc62239dd0d6254f9eada0b6dba8328",
+    "bytes": 29078
+  },
+  {
+    "species": 806,
+    "url": "https://zukan.pokemon.co.jp/detail/0806",
+    "sha256": "eca01b0e317a81cb2a49122c407d69c32ad45ec08fa862b76f736b1c4447b35d",
+    "bytes": 29068
+  },
+  {
+    "species": 807,
+    "url": "https://zukan.pokemon.co.jp/detail/0807",
+    "sha256": "f1c1604871b6ed8b30f7ada9821ad189d72b8a63fb38a6b2f07af09c71827f84",
+    "bytes": 32539
+  },
+  {
+    "species": 808,
+    "url": "https://zukan.pokemon.co.jp/detail/0808",
+    "sha256": "b8f1f08f3fcfc0357f998a17076a3572411badf112c1268e7fdf253821fc7b60",
+    "bytes": 33765
+  },
+  {
+    "species": 809,
+    "url": "https://zukan.pokemon.co.jp/detail/0809",
+    "sha256": "1a037809187a6de0d2cd212800f6109c276e5409160a3f5ac2836cb72cc0925e",
+    "bytes": 35179
+  },
+  {
+    "species": 810,
+    "url": "https://zukan.pokemon.co.jp/detail/0810",
+    "sha256": "236ad1de8822e62dc167d1933444111a82c3c25b3ed7e1a041ed2e07ff80e348",
+    "bytes": 34979
+  },
+  {
+    "species": 811,
+    "url": "https://zukan.pokemon.co.jp/detail/0811",
+    "sha256": "4f6d2915fab17f5993c69a7fcd493a207828e5fbe294d276a97770a50c1bc06a",
+    "bytes": 34981
+  },
+  {
+    "species": 812,
+    "url": "https://zukan.pokemon.co.jp/detail/0812",
+    "sha256": "acf8e851c9c2f640f50e362294e7f5cc98743d606b82124e32df0af73cd21f84",
+    "bytes": 36366
+  },
+  {
+    "species": 813,
+    "url": "https://zukan.pokemon.co.jp/detail/0813",
+    "sha256": "b35f107346ff06f7a127a022084d672b1c343e85b9409c80145ae45f531d8b09",
+    "bytes": 34924
+  },
+  {
+    "species": 814,
+    "url": "https://zukan.pokemon.co.jp/detail/0814",
+    "sha256": "e83aa88a2c059b5dfefcc13df7fa90db099af8ea2e32a309b535533d7f8ee7bc",
+    "bytes": 34943
+  },
+  {
+    "species": 815,
+    "url": "https://zukan.pokemon.co.jp/detail/0815",
+    "sha256": "2faac049a441a9abc4f75bfeca90e0a83241b43ed46134ead3ac472d50f229c8",
+    "bytes": 36371
+  },
+  {
+    "species": 816,
+    "url": "https://zukan.pokemon.co.jp/detail/0816",
+    "sha256": "2b0a46ba464648e6a57682f3708ea1f7ac8db62f84677e69c9e55bd585bb5061",
+    "bytes": 34931
+  },
+  {
+    "species": 817,
+    "url": "https://zukan.pokemon.co.jp/detail/0817",
+    "sha256": "1cef820c3363a518c74bab58a8809fc35255339016ee312809927a3934eabbb1",
+    "bytes": 34963
+  },
+  {
+    "species": 818,
+    "url": "https://zukan.pokemon.co.jp/detail/0818",
+    "sha256": "1586dcd2919fc95f88c16e24e65e05023bccc9b0f50a46ccd904ef2d2d961976",
+    "bytes": 36387
+  },
+  {
+    "species": 819,
+    "url": "https://zukan.pokemon.co.jp/detail/0819",
+    "sha256": "6ff28a46ddd4160495e15ccad56195a91b0d46e200574a45ea69121ac4a7c06d",
+    "bytes": 34196
+  },
+  {
+    "species": 820,
+    "url": "https://zukan.pokemon.co.jp/detail/0820",
+    "sha256": "484631ca0e7643d6725282a93249246ccd29461c43f6b7e968660e4b42271b90",
+    "bytes": 34170
+  },
+  {
+    "species": 821,
+    "url": "https://zukan.pokemon.co.jp/detail/0821",
+    "sha256": "3f5919b13fc718c22a3f9c212cd005126cb004084b4a154d024f3227f64d3aa1",
+    "bytes": 36620
+  },
+  {
+    "species": 822,
+    "url": "https://zukan.pokemon.co.jp/detail/0822",
+    "sha256": "956fc5f6153d43356dd38b34f926b0e8813c35189f860255c3c73eb031ded947",
+    "bytes": 36651
+  },
+  {
+    "species": 823,
+    "url": "https://zukan.pokemon.co.jp/detail/0823",
+    "sha256": "78bb8f97f4d290de2255ecfd6e1937bce2439ac813cc38672f493bb8929f301d",
+    "bytes": 38597
+  },
+  {
+    "species": 827,
+    "url": "https://zukan.pokemon.co.jp/detail/0827",
+    "sha256": "f48e460e9a66c8f2b29aa6b693f4b064ceabfd48151dce152619f6ad87fc9a86",
+    "bytes": 34678
+  },
+  {
+    "species": 828,
+    "url": "https://zukan.pokemon.co.jp/detail/0828",
+    "sha256": "723b4c1daaeb233ecd610b6964b6b700350a48230a0274295e94e3f357863064",
+    "bytes": 34728
+  },
+  {
+    "species": 829,
+    "url": "https://zukan.pokemon.co.jp/detail/0829",
+    "sha256": "8e9b9631c6b73e864e23e232401e68d0a76aa7d84e22e4e6b38e4ae67fb80457",
+    "bytes": 34160
+  },
+  {
+    "species": 830,
+    "url": "https://zukan.pokemon.co.jp/detail/0830",
+    "sha256": "224175c7a49b228f447e332f7431ee071ab71e399a7cf254d8a9126f7fa93485",
+    "bytes": 34178
+  },
+  {
+    "species": 831,
+    "url": "https://zukan.pokemon.co.jp/detail/0831",
+    "sha256": "77fcf86453e151541b19325f1e2ac1085d36004792374cb06dca82cd1431ac01",
+    "bytes": 34168
+  },
+  {
+    "species": 832,
+    "url": "https://zukan.pokemon.co.jp/detail/0832",
+    "sha256": "4d122bf890ec7ed3bbdc092482ea122f827d13e82ec3a409b0f28ae2858583cd",
+    "bytes": 34250
+  },
+  {
+    "species": 833,
+    "url": "https://zukan.pokemon.co.jp/detail/0833",
+    "sha256": "6d84b77e72800f75b5d3fd6fe58c18eb1d8698fd5f87451e709c197166886c46",
+    "bytes": 35200
+  },
+  {
+    "species": 834,
+    "url": "https://zukan.pokemon.co.jp/detail/0834",
+    "sha256": "334f6e083c39a48ece2ca941228bf63b8d16ab6873c6b6938eb4a8c88f17275f",
+    "bytes": 37052
+  },
+  {
+    "species": 835,
+    "url": "https://zukan.pokemon.co.jp/detail/0835",
+    "sha256": "7f855365ebaffbaa6a243750e7d813f44ec8a0a62aa15e99af03c265f5d67ac1",
+    "bytes": 33315
+  },
+  {
+    "species": 836,
+    "url": "https://zukan.pokemon.co.jp/detail/0836",
+    "sha256": "c83290308de851c98150629451e5cbf62114ef41ef855603b8fe8d5327315fc7",
+    "bytes": 33254
+  },
+  {
+    "species": 837,
+    "url": "https://zukan.pokemon.co.jp/detail/0837",
+    "sha256": "70779e187b3774535a2d3cee371915aeff9e82e732bccf110f0e9db9ae77509b",
+    "bytes": 36179
+  },
+  {
+    "species": 838,
+    "url": "https://zukan.pokemon.co.jp/detail/0838",
+    "sha256": "bf5e70820af9c64ee5f0f1a3a07ef50168cf2da78ab83275d24445c3a0e2b773",
+    "bytes": 36358
+  },
+  {
+    "species": 839,
+    "url": "https://zukan.pokemon.co.jp/detail/0839",
+    "sha256": "94785755dfc0e9fb65f92be8e9d4151532b5ba654cb2b0fe8ca26a649ba5bb97",
+    "bytes": 38112
+  },
+  {
+    "species": 840,
+    "url": "https://zukan.pokemon.co.jp/detail/0840",
+    "sha256": "0b65d1349c0cf26691294c5c223e1ef5a76f9ab68e75ad15ca6b6b9fc81edf11",
+    "bytes": 38368
+  },
+  {
+    "species": 841,
+    "url": "https://zukan.pokemon.co.jp/detail/0841",
+    "sha256": "6d7608e3baa2cfdd87faabbab378f6c94adc1c491c47965f30d54fb4b1ef56a1",
+    "bytes": 40083
+  },
+  {
+    "species": 842,
+    "url": "https://zukan.pokemon.co.jp/detail/0842",
+    "sha256": "0c80b7557e273a7ec0c8cff7b00a9f8541dee7361b07a50193b1c7a017208121",
+    "bytes": 40083
+  },
+  {
+    "species": 843,
+    "url": "https://zukan.pokemon.co.jp/detail/0843",
+    "sha256": "451850b9c9142eb966f0794f2ae9ab119f32d9a0b011231198d7b29e57d88516",
+    "bytes": 34969
+  },
+  {
+    "species": 844,
+    "url": "https://zukan.pokemon.co.jp/detail/0844",
+    "sha256": "ab3f2acd3c4772d5e21e1b9172ba6b547ce34bdedc5743e6bdfd1c677c22acd6",
+    "bytes": 36371
+  },
+  {
+    "species": 845,
+    "url": "https://zukan.pokemon.co.jp/detail/0845",
+    "sha256": "e54c44aac9c7b9b8bb704186dcb215d7bf05ff37c1994c55dc1178f345fb8b64",
+    "bytes": 32766
+  },
+  {
+    "species": 846,
+    "url": "https://zukan.pokemon.co.jp/detail/0846",
+    "sha256": "c214bf952853f3e8cc534d5a628defdb71094752113ab5781a2a342cc8a39931",
+    "bytes": 34138
+  },
+  {
+    "species": 847,
+    "url": "https://zukan.pokemon.co.jp/detail/0847",
+    "sha256": "35ee8da161b685a27432172d8497ff57fe6560b01fad538f32210a1f2bf5c779",
+    "bytes": 34160
+  },
+  {
+    "species": 848,
+    "url": "https://zukan.pokemon.co.jp/detail/0848",
+    "sha256": "41e8a5a7f61ea57ff6bc822c74c25a1ecf37f72ac47bde3794eaed1c97c88a17",
+    "bytes": 37054
+  },
+  {
+    "species": 849,
+    "url": "https://zukan.pokemon.co.jp/detail/0849",
+    "sha256": "8ea09cd0e5fa16b3d0c4478a004f16f99eff2c391af8dd2cb79d040c0f89ce23",
+    "bytes": 40662
+  },
+  {
+    "species": 850,
+    "url": "https://zukan.pokemon.co.jp/detail/0850",
+    "sha256": "19e69ab2a92adb3185ba65eca30f7b1751702c71af3302caf7f9665101aac111",
+    "bytes": 34609
+  },
+  {
+    "species": 851,
+    "url": "https://zukan.pokemon.co.jp/detail/0851",
+    "sha256": "c50c74ceb2eb0dc17eb2a45918e5173f7bd7d12cc52bf0714311937262d3eb6e",
+    "bytes": 36338
+  },
+  {
+    "species": 852,
+    "url": "https://zukan.pokemon.co.jp/detail/0852",
+    "sha256": "d55da5bf48bcd0ce4b39ce294ec0b2bd0b2ba66d3a5a74a1ecec42b67828615c",
+    "bytes": 33858
+  },
+  {
+    "species": 853,
+    "url": "https://zukan.pokemon.co.jp/detail/0853",
+    "sha256": "5e7fbe27e7744eb9fd463d17a99453be6e00edf79c7c63c0cff68382a85701c8",
+    "bytes": 33881
+  },
+  {
+    "species": 854,
+    "url": "https://zukan.pokemon.co.jp/detail/0854",
+    "sha256": "b7fdb012483515ecfd65c64cd9152896d4d89a4d3ebac43e130dba3503910057",
+    "bytes": 35669
+  },
+  {
+    "species": 855,
+    "url": "https://zukan.pokemon.co.jp/detail/0855",
+    "sha256": "6c114446509d416b27ea3855edb5e9f0390072d7cb68222edd88727aa9beb94e",
+    "bytes": 35689
+  },
+  {
+    "species": 856,
+    "url": "https://zukan.pokemon.co.jp/detail/0856",
+    "sha256": "5efd3d83bd1647f97116376891056287e7dc3f80693b25d4c0c0dd948628c517",
+    "bytes": 35932
+  },
+  {
+    "species": 857,
+    "url": "https://zukan.pokemon.co.jp/detail/0857",
+    "sha256": "0b02965c6e3fc5ce54603773cf54925293b3706490934ba63e6d3244d323607c",
+    "bytes": 35933
+  },
+  {
+    "species": 858,
+    "url": "https://zukan.pokemon.co.jp/detail/0858",
+    "sha256": "05eea8dbd112aa8c6626b062d8091079a770ff03bbf2a08b7599ab9943efa6c5",
+    "bytes": 37892
+  },
+  {
+    "species": 859,
+    "url": "https://zukan.pokemon.co.jp/detail/0859",
+    "sha256": "ac352c7f9eef4406d2d59bf8fc5f1c40c0b52fc29372da4dcdab4a60c431ebc4",
+    "bytes": 36441
+  },
+  {
+    "species": 860,
+    "url": "https://zukan.pokemon.co.jp/detail/0860",
+    "sha256": "1906ebd2cf6213dc2f94384a0d2f0519b03a7a589971cf4da3dd351b620cc49e",
+    "bytes": 36395
+  },
+  {
+    "species": 861,
+    "url": "https://zukan.pokemon.co.jp/detail/0861",
+    "sha256": "aa7d0e95d370147cbc7a375b3d81e87a53b573aef948fe4a3b7429bc6a3fa953",
+    "bytes": 38173
+  },
+  {
+    "species": 862,
+    "url": "https://zukan.pokemon.co.jp/detail/0862",
+    "sha256": "738103bdffe84f53c4374e5cf23eff144c132d892343cbc2b530767febf93235",
+    "bytes": 35649
+  },
+  {
+    "species": 863,
+    "url": "https://zukan.pokemon.co.jp/detail/0863",
+    "sha256": "5b93143e2348f1521c07b7176a41c7b2858fc2cd5ae22866c5d5baf920eb461f",
+    "bytes": 34798
+  },
+  {
+    "species": 864,
+    "url": "https://zukan.pokemon.co.jp/detail/0864",
+    "sha256": "4a93e634ab5d2181eec15cd1120a4ff465d4bc4f2df343c29844e5c0ac45e878",
+    "bytes": 33343
+  },
+  {
+    "species": 866,
+    "url": "https://zukan.pokemon.co.jp/detail/0866",
+    "sha256": "ffcc892d0aa2f1de0abaae0a4413e724a80b470326dbb5c3706952c00ddbb4ea",
+    "bytes": 37194
+  },
+  {
+    "species": 868,
+    "url": "https://zukan.pokemon.co.jp/detail/0868",
+    "sha256": "2160d98b1fe66c656049703c510abbaea07f48f1726e00feebae324f4ea90b1a",
+    "bytes": 34135
+  },
+  {
+    "species": 869,
+    "url": "https://zukan.pokemon.co.jp/detail/0869",
+    "sha256": "75fee5ed71d8405d69bd3f5d8e9cf050f8c1f04c893952e43d760afdceaf021a",
+    "bytes": 35744
+  },
+  {
+    "species": 870,
+    "url": "https://zukan.pokemon.co.jp/detail/0870",
+    "sha256": "536dc37c906b1f71b6d3b65894545a02416484c31ae1cb0ee6363d94315ee732",
+    "bytes": 34461
+  },
+  {
+    "species": 871,
+    "url": "https://zukan.pokemon.co.jp/detail/0871",
+    "sha256": "f3b31c95ae7ab32d25ee4bdf1ceb65994b05495c2531be9a6aac5e304de53950",
+    "bytes": 32553
+  },
+  {
+    "species": 872,
+    "url": "https://zukan.pokemon.co.jp/detail/0872",
+    "sha256": "c96b5cba2725e0b88ec27b6d296785c439776d72a6f1af94a4390d6901c41057",
+    "bytes": 34602
+  },
+  {
+    "species": 873,
+    "url": "https://zukan.pokemon.co.jp/detail/0873",
+    "sha256": "14bf8172b0c9dbd8a47bbec52f835c87fc98a63945c97ecbb03bc43e21a103cf",
+    "bytes": 34618
+  },
+  {
+    "species": 874,
+    "url": "https://zukan.pokemon.co.jp/detail/0874",
+    "sha256": "270da22e4ff05989f52051be5d34f184928a5c46d33092712afc67d3e3b904f8",
+    "bytes": 32519
+  },
+  {
+    "species": 875,
+    "url": "https://zukan.pokemon.co.jp/detail/0875",
+    "sha256": "02ff56ed67e3e1c03596db823c3628a0004d5b255036a1bb3ed3a2dc226c558e",
+    "bytes": 34109
+  },
+  {
+    "species": 876,
+    "url": "https://zukan.pokemon.co.jp/detail/0876",
+    "sha256": "ae3ee5795272c6d00f9d7d306f73265f42d34f09567d1c33fcf443df3fc978b2",
+    "bytes": 36048
+  },
+  {
+    "species": 877,
+    "url": "https://zukan.pokemon.co.jp/detail/0877",
+    "sha256": "66f1e52180969deaf7b51cfeb573bb6d1e70d8e54bbde989e362b9d57a36b742",
+    "bytes": 35227
+  },
+  {
+    "species": 878,
+    "url": "https://zukan.pokemon.co.jp/detail/0878",
+    "sha256": "095664f44d9962681286bcc8212d92593959f4ca9c72bfb7cc930a6f5ccd065c",
+    "bytes": 34207
+  },
+  {
+    "species": 879,
+    "url": "https://zukan.pokemon.co.jp/detail/0879",
+    "sha256": "bbd781ccffc52612b656b4208510b291736a3e1c5c080c14d93943cb85985f81",
+    "bytes": 35630
+  },
+  {
+    "species": 884,
+    "url": "https://zukan.pokemon.co.jp/detail/0884",
+    "sha256": "81e11ccf6db58b89fa2771949c034d5fc9d5ecf40147e3b9cc93a7859297947b",
+    "bytes": 37255
+  },
+  {
+    "species": 891,
+    "url": "https://zukan.pokemon.co.jp/detail/0891",
+    "sha256": "feca1866781adaf364297e5faef2aabf7856f0c069e31fdacccd862ebb07a8d5",
+    "bytes": 34336
+  },
+  {
+    "species": 892,
+    "url": "https://zukan.pokemon.co.jp/detail/0892",
+    "sha256": "de365f2edbe9be7c9725a419da051f6ad5fdf997c67dccfff60b5189914a696a",
+    "bytes": 38112
+  },
+  {
+    "species": 893,
+    "url": "https://zukan.pokemon.co.jp/detail/0893",
+    "sha256": "8d67bbe041f7e84e76d06d21447e068456e97f95769b7cb7be85eff4e63011dc",
+    "bytes": 31675
+  },
+  {
+    "species": 895,
+    "url": "https://zukan.pokemon.co.jp/detail/0895",
+    "sha256": "c4d9daba319fae0ab3bfe4943b7e0a9c59a0dc5e97e27630d30cac48532584ca",
+    "bytes": 31526
+  },
+  {
+    "species": 901,
+    "url": "https://zukan.pokemon.co.jp/detail/0901",
+    "sha256": "a87295a06a2de84ca2e7147e7acc721f38d897ef90a0e8346b132e55b11f9c58",
+    "bytes": 36686
+  },
+  {
+    "species": 902,
+    "url": "https://zukan.pokemon.co.jp/detail/0902",
+    "sha256": "a5ef39c430df6874bcdb388ae64156f166af258b6faf0b2aad4043b5110404d3",
+    "bytes": 38242
+  },
+  {
+    "species": 905,
+    "url": "https://zukan.pokemon.co.jp/detail/0905",
+    "sha256": "da51ffa892a92835124b9c46b6238121938d044f3e9e843cf92f2be7f1a68b66",
+    "bytes": 33385
+  },
+  {
+    "species": 906,
+    "url": "https://zukan.pokemon.co.jp/detail/0906",
+    "sha256": "d06008053f3557cb4c029360b65bb3a7561fda3644c5100868bb9181e196d17e",
+    "bytes": 34162
+  },
+  {
+    "species": 907,
+    "url": "https://zukan.pokemon.co.jp/detail/0907",
+    "sha256": "ac9915ce676fbef1e4f99d94e4fe07ab3287c10fff758ebb6003326a81a6b06b",
+    "bytes": 34164
+  },
+  {
+    "species": 908,
+    "url": "https://zukan.pokemon.co.jp/detail/0908",
+    "sha256": "dd9996ef0928b204a70b58828d2b19b79720913cee34e3e31f76f736e737c881",
+    "bytes": 34387
+  },
+  {
+    "species": 909,
+    "url": "https://zukan.pokemon.co.jp/detail/0909",
+    "sha256": "df43cdf10bc748676de11d96e9042c748781e2a27d4bde7d161418dc55c62efb",
+    "bytes": 34189
+  },
+  {
+    "species": 910,
+    "url": "https://zukan.pokemon.co.jp/detail/0910",
+    "sha256": "830b361e6eaa5a476c02f83d84455c8d7669412553db0de0ccdaf910ba082df9",
+    "bytes": 34181
+  },
+  {
+    "species": 911,
+    "url": "https://zukan.pokemon.co.jp/detail/0911",
+    "sha256": "38ccd504bd7f6d57a2d2d3b831df97704abc52f35fdbc6898b35e6a7bea3a2f0",
+    "bytes": 34384
+  },
+  {
+    "species": 912,
+    "url": "https://zukan.pokemon.co.jp/detail/0912",
+    "sha256": "7ff8c50a04204995883684e68347e1044dceffefb10e36e28d74aa415cf2589f",
+    "bytes": 34185
+  },
+  {
+    "species": 913,
+    "url": "https://zukan.pokemon.co.jp/detail/0913",
+    "sha256": "1a05472dbcf50e29abb702904dd3c844bfe7eb896f807cfe7617da9b0301bd6c",
+    "bytes": 34186
+  },
+  {
+    "species": 914,
+    "url": "https://zukan.pokemon.co.jp/detail/0914",
+    "sha256": "56ee0cdec37b54185be122ea60b4af881699160dfd7e79539f013474b3120242",
+    "bytes": 34401
+  },
+  {
+    "species": 915,
+    "url": "https://zukan.pokemon.co.jp/detail/0915",
+    "sha256": "a9cd5a694c24b7497725611d3b66855d4de0eb976b873074556c6475f082c5f6",
+    "bytes": 34859
+  },
+  {
+    "species": 916,
+    "url": "https://zukan.pokemon.co.jp/detail/0916",
+    "sha256": "6a0b884c36445f9ba99b3a608f77689bbc8db361aaea002423d25d6eb3ce24c8",
+    "bytes": 36338
+  },
+  {
+    "species": 917,
+    "url": "https://zukan.pokemon.co.jp/detail/0917",
+    "sha256": "4466c16414a6e209de6c26411cba1883daec3274d29a1a7df99e0c92badf1d3f",
+    "bytes": 33231
+  },
+  {
+    "species": 918,
+    "url": "https://zukan.pokemon.co.jp/detail/0918",
+    "sha256": "4049a9ec9d07e77fcde12ccca4fd2299094331e20bc15412091d47269889341a",
+    "bytes": 33215
+  },
+  {
+    "species": 919,
+    "url": "https://zukan.pokemon.co.jp/detail/0919",
+    "sha256": "01d0f3e255a071f868148fdfec94f0da84e5eaecad55817180b90a59a2c21f15",
+    "bytes": 33413
+  },
+  {
+    "species": 920,
+    "url": "https://zukan.pokemon.co.jp/detail/0920",
+    "sha256": "346e14bb3d116801c3e2febdabb6288b2d0530a93169b86957e3752bca9912a8",
+    "bytes": 33595
+  },
+  {
+    "species": 921,
+    "url": "https://zukan.pokemon.co.jp/detail/0921",
+    "sha256": "b4c69828ea30b832815da335f1d8e1c0606df2e7a9e713a5d1bb8c50424ec482",
+    "bytes": 35160
+  },
+  {
+    "species": 922,
+    "url": "https://zukan.pokemon.co.jp/detail/0922",
+    "sha256": "ba030716ceb8ac81cd0bd5c053397e396bcc0d8e2752298e5f95ef8134f83efb",
+    "bytes": 35366
+  },
+  {
+    "species": 923,
+    "url": "https://zukan.pokemon.co.jp/detail/0923",
+    "sha256": "0fb0d2ac97248fba4a72c4785211d42468e6b895a05cb5f0fdbe6be0ec7b34dc",
+    "bytes": 35400
+  },
+  {
+    "species": 924,
+    "url": "https://zukan.pokemon.co.jp/detail/0924",
+    "sha256": "de0df9d40b63d55ff7bc98ab7a7887c409c1f50488b5dbabf0c9044fcc5ed374",
+    "bytes": 34765
+  },
+  {
+    "species": 925,
+    "url": "https://zukan.pokemon.co.jp/detail/0925",
+    "sha256": "9ea6e68da10c6c036e6d9ec95f882d627e1e19f6607f19ca8d6f3a749c0c2c91",
+    "bytes": 36284
+  },
+  {
+    "species": 926,
+    "url": "https://zukan.pokemon.co.jp/detail/0926",
+    "sha256": "8d23632143a8c4cd9392400a2eafc7a59585f9a198f4d25687315dbdb56e7e2d",
+    "bytes": 33934
+  },
+  {
+    "species": 927,
+    "url": "https://zukan.pokemon.co.jp/detail/0927",
+    "sha256": "879951d6e29931618a15785545994605e67cd6b801b2d123b0e1a7ca5ac89461",
+    "bytes": 33971
+  },
+  {
+    "species": 928,
+    "url": "https://zukan.pokemon.co.jp/detail/0928",
+    "sha256": "3dc4a103be26988c370dcf89943d194a6fc2307caba0a19691bb6469b430e6bc",
+    "bytes": 34697
+  },
+  {
+    "species": 929,
+    "url": "https://zukan.pokemon.co.jp/detail/0929",
+    "sha256": "4d281aba57fcdbbda0195ab2c9ac6791aaaac633bb9df9616cc891fc5a8da0a4",
+    "bytes": 34695
+  },
+  {
+    "species": 930,
+    "url": "https://zukan.pokemon.co.jp/detail/0930",
+    "sha256": "8dd133193fb042dda06ae9fb3b9cd163f7ba97c3c77350c3ead9adb85c1b6f62",
+    "bytes": 34674
+  },
+  {
+    "species": 931,
+    "url": "https://zukan.pokemon.co.jp/detail/0931",
+    "sha256": "8b02e58c2b9740db88bc4dd78d1c09e1eb540febbaef37e18e88513536b80e7e",
+    "bytes": 36852
+  },
+  {
+    "species": 932,
+    "url": "https://zukan.pokemon.co.jp/detail/0932",
+    "sha256": "0d6db2a35044cf9d9c982a9deaecc6ab45452aed47840c7f0db552ee5cc1bf4c",
+    "bytes": 35623
+  },
+  {
+    "species": 933,
+    "url": "https://zukan.pokemon.co.jp/detail/0933",
+    "sha256": "e1b873b247c9dd5ba4b6badbb0433fb024b68f4c72e35086f5a05fd0e48d31d2",
+    "bytes": 35643
+  },
+  {
+    "species": 934,
+    "url": "https://zukan.pokemon.co.jp/detail/0934",
+    "sha256": "7f3c5923d570777cfe75f0d43b1e7ee09f1c46bce081012c513df721e8083841",
+    "bytes": 35667
+  },
+  {
+    "species": 935,
+    "url": "https://zukan.pokemon.co.jp/detail/0935",
+    "sha256": "2c4b3420257bf0bcb8c50cc3da60fefa08ebae6ad78fc7c36e21e1b0a2d094b7",
+    "bytes": 34903
+  },
+  {
+    "species": 936,
+    "url": "https://zukan.pokemon.co.jp/detail/0936",
+    "sha256": "2eddee931cc9cbcd547e2739a61e3fd088c582af1da67089c6c8c1a31b55a1f1",
+    "bytes": 35153
+  },
+  {
+    "species": 937,
+    "url": "https://zukan.pokemon.co.jp/detail/0937",
+    "sha256": "4666f80729f55eff09fb3327a85dd287ce5505a4b0b08a9de2920c7644987a58",
+    "bytes": 35144
+  },
+  {
+    "species": 938,
+    "url": "https://zukan.pokemon.co.jp/detail/0938",
+    "sha256": "287dc6cbe04380e5a0c80c6005a6932b21da2d51c2eee7597c08e2e69b778881",
+    "bytes": 34094
+  },
+  {
+    "species": 939,
+    "url": "https://zukan.pokemon.co.jp/detail/0939",
+    "sha256": "f534a1a5e6736702be1708f97c1e5109bf878cfbaf2c0bc2a445056a5e544636",
+    "bytes": 34135
+  },
+  {
+    "species": 940,
+    "url": "https://zukan.pokemon.co.jp/detail/0940",
+    "sha256": "bb9dc136a648cef423d01f01688b08e758c1bf946cc6b10988493a0651d80780",
+    "bytes": 34610
+  },
+  {
+    "species": 941,
+    "url": "https://zukan.pokemon.co.jp/detail/0941",
+    "sha256": "b85eb70b0cfb50031ce6184f08a2865dedf26c56e06418808e49f1a3d135fd21",
+    "bytes": 34650
+  },
+  {
+    "species": 942,
+    "url": "https://zukan.pokemon.co.jp/detail/0942",
+    "sha256": "c933a0c55e61167e0fa5ca5cadce92941507f4485c4e34884a1aafa7bae583e4",
+    "bytes": 34738
+  },
+  {
+    "species": 943,
+    "url": "https://zukan.pokemon.co.jp/detail/0943",
+    "sha256": "da3836cf53b082a6b986199afdd9218f5fedc47e7dd5da62cccb2c87ed5db67e",
+    "bytes": 34828
+  },
+  {
+    "species": 944,
+    "url": "https://zukan.pokemon.co.jp/detail/0944",
+    "sha256": "57ae133fe3a6589d36a5cb09c9ce8a35d6f069a945bf086b1705c53f8468273b",
+    "bytes": 35247
+  },
+  {
+    "species": 945,
+    "url": "https://zukan.pokemon.co.jp/detail/0945",
+    "sha256": "879fffe0dbc06435b77fb619f42eccccb18023188c024b22248cb78128e93944",
+    "bytes": 35239
+  },
+  {
+    "species": 946,
+    "url": "https://zukan.pokemon.co.jp/detail/0946",
+    "sha256": "89935c0026a77d6811b8e5d5c0f865c24ac17d2127fa2b87fa4a38062db3c378",
+    "bytes": 33766
+  },
+  {
+    "species": 947,
+    "url": "https://zukan.pokemon.co.jp/detail/0947",
+    "sha256": "bd66a619e2b683c9cd2b9e18b978352fdee718c623f85b7309f4439256f1c5be",
+    "bytes": 33799
+  },
+  {
+    "species": 948,
+    "url": "https://zukan.pokemon.co.jp/detail/0948",
+    "sha256": "1daba17b7faa3d0d88bbe6b6bdf7a64b7e9f6c5d633a616153e3f4bea686e886",
+    "bytes": 33803
+  },
+  {
+    "species": 949,
+    "url": "https://zukan.pokemon.co.jp/detail/0949",
+    "sha256": "604a6ad24700624217356e1506b493bbb2cd6ecdc8966b098e713c33885a6e26",
+    "bytes": 33764
+  },
+  {
+    "species": 950,
+    "url": "https://zukan.pokemon.co.jp/detail/0950",
+    "sha256": "ba7855e2b1f7df2b5c6bef4dc1d1aa819f6c5a974231f36e9d90144b732a775d",
+    "bytes": 32545
+  },
+  {
+    "species": 951,
+    "url": "https://zukan.pokemon.co.jp/detail/0951",
+    "sha256": "114fabc9ead3c7160623180d06d4fa9cf15944bc106e5cb3ff3d89b106003334",
+    "bytes": 34864
+  },
+  {
+    "species": 952,
+    "url": "https://zukan.pokemon.co.jp/detail/0952",
+    "sha256": "87d1785c92b540fd749d1de1c0272cd267804a6683dcb42932f5683de00bef93",
+    "bytes": 36736
+  },
+  {
+    "species": 953,
+    "url": "https://zukan.pokemon.co.jp/detail/0953",
+    "sha256": "4b50fb28a408a7bbe7fceb3817ab41be21ff9cbe10ff70da444a068a5f5b472e",
+    "bytes": 33367
+  },
+  {
+    "species": 954,
+    "url": "https://zukan.pokemon.co.jp/detail/0954",
+    "sha256": "b8d1710e64bb3ca78f8913ea1c397049f40f586a727783dee7c6ade9d1462446",
+    "bytes": 33574
+  },
+  {
+    "species": 955,
+    "url": "https://zukan.pokemon.co.jp/detail/0955",
+    "sha256": "4a951f468b1d7bd1185c941e9a1cdadf7b25c8a3f13b636567a6007d48e5740d",
+    "bytes": 34141
+  },
+  {
+    "species": 956,
+    "url": "https://zukan.pokemon.co.jp/detail/0956",
+    "sha256": "d749730ccf6d38fd73836c776937d9bbd628f15d0a1dccbad0f5fa7074bffe93",
+    "bytes": 34195
+  },
+  {
+    "species": 957,
+    "url": "https://zukan.pokemon.co.jp/detail/0957",
+    "sha256": "9dbb480ba11ac6ddf20e8a8e44f9fba4ccc24fc3bb8370830c8baf2bdc5d774f",
+    "bytes": 36248
+  },
+  {
+    "species": 958,
+    "url": "https://zukan.pokemon.co.jp/detail/0958",
+    "sha256": "92784eda5a221abbd38a7cf88e77931494b966b59a7d528603379fea59e1b72a",
+    "bytes": 36252
+  },
+  {
+    "species": 959,
+    "url": "https://zukan.pokemon.co.jp/detail/0959",
+    "sha256": "1128e7e470d66020db8c24817824c07caced18bf9f92d88c6d6890d9fa90e829",
+    "bytes": 36256
+  },
+  {
+    "species": 960,
+    "url": "https://zukan.pokemon.co.jp/detail/0960",
+    "sha256": "a8d966cbbe44697d037eaef778e7230ecf62e188004d9a2a128a4af4fd374625",
+    "bytes": 34148
+  },
+  {
+    "species": 961,
+    "url": "https://zukan.pokemon.co.jp/detail/0961",
+    "sha256": "47ee46bd9c3946a90872162dc1b679f5326dd839bcc47cd526889e84d4688c2a",
+    "bytes": 34142
+  },
+  {
+    "species": 962,
+    "url": "https://zukan.pokemon.co.jp/detail/0962",
+    "sha256": "51a00b08a519645e448bf3623f253abe1da82f2d612c5cff1fcf254eaefe1414",
+    "bytes": 32606
+  },
+  {
+    "species": 963,
+    "url": "https://zukan.pokemon.co.jp/detail/0963",
+    "sha256": "c19294afc160677750b2ea6c10b46fd1a135f7579e0c62d84fdd0eda59327732",
+    "bytes": 33254
+  },
+  {
+    "species": 964,
+    "url": "https://zukan.pokemon.co.jp/detail/0964",
+    "sha256": "ec4dbc1c3228352a045a7ee9a2e2ab1fdd61c9fb20b95454222406dad88cd430",
+    "bytes": 34800
+  },
+  {
+    "species": 965,
+    "url": "https://zukan.pokemon.co.jp/detail/0965",
+    "sha256": "13a7a7628982f7c98894dd2c539bfbf560b4f769d22be0d962bfb4e7667a171f",
+    "bytes": 33736
+  },
+  {
+    "species": 966,
+    "url": "https://zukan.pokemon.co.jp/detail/0966",
+    "sha256": "8ba58e0a8755a91765188c3e72dadd29ff6180ed14cb9b1ffda14545a71fc317",
+    "bytes": 33771
+  },
+  {
+    "species": 967,
+    "url": "https://zukan.pokemon.co.jp/detail/0967",
+    "sha256": "7917873a028a390906c85420ad7ad723a1668eee3c0312a1605a2078c5236c79",
+    "bytes": 32428
+  },
+  {
+    "species": 968,
+    "url": "https://zukan.pokemon.co.jp/detail/0968",
+    "sha256": "f148b9f6a0a89c1b297ae57ce7e3d78214b77bd250c4dc741f5d736b4cda70ec",
+    "bytes": 31581
+  },
+  {
+    "species": 969,
+    "url": "https://zukan.pokemon.co.jp/detail/0969",
+    "sha256": "18a73c1632e0056d9da34812a794bfb8a27a04dad2190c85180858be80a24600",
+    "bytes": 34363
+  },
+  {
+    "species": 970,
+    "url": "https://zukan.pokemon.co.jp/detail/0970",
+    "sha256": "99c574f5aa28c7b4507abf2cf7d836132dca6f7fcf5af00a684c580c1720f485",
+    "bytes": 36048
+  },
+  {
+    "species": 971,
+    "url": "https://zukan.pokemon.co.jp/detail/0971",
+    "sha256": "e68c39df697b9ca26e7ff94af4565d581284b4f08a3074671ad9e9f7e5a04893",
+    "bytes": 33883
+  },
+  {
+    "species": 972,
+    "url": "https://zukan.pokemon.co.jp/detail/0972",
+    "sha256": "6f3c986ba388f1f3a24c6e12ab8e7e9105180d873b0786c5fe1fceab05998c53",
+    "bytes": 33879
+  },
+  {
+    "species": 973,
+    "url": "https://zukan.pokemon.co.jp/detail/0973",
+    "sha256": "8a76b179a15f9af743c337413a5afc0fa390aa3ba49421c3798c7594c7703056",
+    "bytes": 33360
+  },
+  {
+    "species": 974,
+    "url": "https://zukan.pokemon.co.jp/detail/0974",
+    "sha256": "a78052b2ff47109a8647f646266efe2b2bedc829c8a1800ef7b049b5177c1029",
+    "bytes": 34163
+  },
+  {
+    "species": 975,
+    "url": "https://zukan.pokemon.co.jp/detail/0975",
+    "sha256": "bcdb77ea32d616b5483dd503d38c6f7478260ccfa5eef6be37cb0eb8c229d9dc",
+    "bytes": 34117
+  },
+  {
+    "species": 976,
+    "url": "https://zukan.pokemon.co.jp/detail/0976",
+    "sha256": "eeed8b555c605e4e2d022d254218e8b2e8cc4765834d58f028f777c06002bea1",
+    "bytes": 31808
+  },
+  {
+    "species": 977,
+    "url": "https://zukan.pokemon.co.jp/detail/0977",
+    "sha256": "509f8b11d90d6a522358ed1fd29b2ed23c0383b302259428c20349daa222ec58",
+    "bytes": 33147
+  },
+  {
+    "species": 978,
+    "url": "https://zukan.pokemon.co.jp/detail/0978",
+    "sha256": "6b97462026c8820bd4fe185a65141304f77140b59d285ee632748eaa353b2dbe",
+    "bytes": 37686
+  },
+  {
+    "species": 979,
+    "url": "https://zukan.pokemon.co.jp/detail/0979",
+    "sha256": "ba691dba812d9ca3fac71ac5edaa379d4db54c5ea66f1b9a981c8673acb4b4ec",
+    "bytes": 35964
+  },
+  {
+    "species": 980,
+    "url": "https://zukan.pokemon.co.jp/detail/0980",
+    "sha256": "5a281d1bbedd68ef04ef85b9c02e95b7bbf92d5726e16935b9c35d15e01a97ff",
+    "bytes": 34576
+  },
+  {
+    "species": 981,
+    "url": "https://zukan.pokemon.co.jp/detail/0981",
+    "sha256": "1e5fdef864bdbf91d013dbf9eb8b826623804b4a779a315926746a1e9b6e1dff",
+    "bytes": 34750
+  },
+  {
+    "species": 982,
+    "url": "https://zukan.pokemon.co.jp/detail/0982",
+    "sha256": "171b59f3e99b8053294f11b85eaf3edc873d74f64d367f755eb0ee6f25f3a0f5",
+    "bytes": 36388
+  },
+  {
+    "species": 983,
+    "url": "https://zukan.pokemon.co.jp/detail/0983",
+    "sha256": "100836f5de474993088c3cf18335395663ee35bf6b26bf58fda16b212aa5560d",
+    "bytes": 35615
+  },
+  {
+    "species": 984,
+    "url": "https://zukan.pokemon.co.jp/detail/0984",
+    "sha256": "a9b36ec9560a9d0fc94713eeffd1689cbb55a66914059fb6f7a98b67f0652808",
+    "bytes": 31736
+  },
+  {
+    "species": 985,
+    "url": "https://zukan.pokemon.co.jp/detail/0985",
+    "sha256": "223613816b31df7f9356d6134103810d01bcada5522c11579bf2288088d66138",
+    "bytes": 31735
+  },
+  {
+    "species": 986,
+    "url": "https://zukan.pokemon.co.jp/detail/0986",
+    "sha256": "4bebaa4a09b0dfc10d0e8d36462ae9f7f78b06e385bd4ad40b72e5c62566c1d9",
+    "bytes": 31710
+  },
+  {
+    "species": 987,
+    "url": "https://zukan.pokemon.co.jp/detail/0987",
+    "sha256": "18e179df540daca5396691fe782d0552ef11daf37f504bb031cd9c9395c1d65f",
+    "bytes": 31729
+  },
+  {
+    "species": 988,
+    "url": "https://zukan.pokemon.co.jp/detail/0988",
+    "sha256": "a7e7754a7bb274ede03c2a8b938bc413deb334a6252c7f0adec68c4298473bd5",
+    "bytes": 31719
+  },
+  {
+    "species": 989,
+    "url": "https://zukan.pokemon.co.jp/detail/0989",
+    "sha256": "e599a776c254b7b3ee3ad869838469bfcaabc9207f5f2943c0673a0ba89ffbb6",
+    "bytes": 31720
+  },
+  {
+    "species": 990,
+    "url": "https://zukan.pokemon.co.jp/detail/0990",
+    "sha256": "5e66bbfa7f7e07362edb4553218f3f3972a75b53fab0a15ad6c21a0d835e66c8",
+    "bytes": 31726
+  },
+  {
+    "species": 991,
+    "url": "https://zukan.pokemon.co.jp/detail/0991",
+    "sha256": "7d4cb97a45ecb2826c6ffe8c92b5fee9904cab553f14f9224ee6ad80ba2c767d",
+    "bytes": 31729
+  },
+  {
+    "species": 992,
+    "url": "https://zukan.pokemon.co.jp/detail/0992",
+    "sha256": "bb1753c96f17aff6b54c1731de859a9b291c1c08691cedfa539130a8855c8d84",
+    "bytes": 31740
+  },
+  {
+    "species": 993,
+    "url": "https://zukan.pokemon.co.jp/detail/0993",
+    "sha256": "f29f9a60d2eb95433f452f6f433233e60abdf56fa56359986960a9d9887d2261",
+    "bytes": 31743
+  },
+  {
+    "species": 994,
+    "url": "https://zukan.pokemon.co.jp/detail/0994",
+    "sha256": "df172622b8dcf9db5ad32a1a448c13db21337d19f8646f885ddc5cf24da6d514",
+    "bytes": 31717
+  },
+  {
+    "species": 995,
+    "url": "https://zukan.pokemon.co.jp/detail/0995",
+    "sha256": "c41731fde11687e4d986b9f59a3b3a2e22fbc874314bbc24c74088d1c107e8ac",
+    "bytes": 31762
+  },
+  {
+    "species": 996,
+    "url": "https://zukan.pokemon.co.jp/detail/0996",
+    "sha256": "bc0aa7241abfb911264e5b4696dbed388b1f54187b2ee58d5e8ca3d93ddcef20",
+    "bytes": 35354
+  },
+  {
+    "species": 997,
+    "url": "https://zukan.pokemon.co.jp/detail/0997",
+    "sha256": "f0a8abaf3c2c0d2de3df5d9e3005323a245968abc0ebc4b99c6f6cad4fa98c58",
+    "bytes": 35369
+  },
+  {
+    "species": 998,
+    "url": "https://zukan.pokemon.co.jp/detail/0998",
+    "sha256": "6c72fbbeb751f4645d7c6c1e051077a8d45c9f148d6360113dc5859d5a5eef66",
+    "bytes": 37078
+  },
+  {
+    "species": 999,
+    "url": "https://zukan.pokemon.co.jp/detail/0999",
+    "sha256": "097195c9ff3a0645ef15a8fa47ef0964cca89d2cef2820093ba4695c7b009a01",
+    "bytes": 35515
+  },
+  {
+    "species": 1000,
+    "url": "https://zukan.pokemon.co.jp/detail/1000",
+    "sha256": "72e241e61d352b0253866919562ac0120ae5052a3578ebcbd0c97347ec408d22",
+    "bytes": 36055
+  },
+  {
+    "species": 1001,
+    "url": "https://zukan.pokemon.co.jp/detail/1001",
+    "sha256": "cd922677a4e29d4ca73894618566edc189d0192dc3880651e38b764c65c99d57",
+    "bytes": 31695
+  },
+  {
+    "species": 1003,
+    "url": "https://zukan.pokemon.co.jp/detail/1003",
+    "sha256": "37f350a17b07027c558f354e89a960f5e024323925613cb5f4ba0499ba81282e",
+    "bytes": 31676
+  },
+  {
+    "species": 1004,
+    "url": "https://zukan.pokemon.co.jp/detail/1004",
+    "sha256": "a4b8735abaf5dcc52fe99899c9caa22a39eb852edfd52451bd8cfbb5ed8b992e",
+    "bytes": 31661
+  },
+  {
+    "species": 1005,
+    "url": "https://zukan.pokemon.co.jp/detail/1005",
+    "sha256": "7fa1c7c93118de2349fa08c485fe5a0817b79e6ab91d83aac2043bf52c7f34e6",
+    "bytes": 31734
+  },
+  {
+    "species": 1006,
+    "url": "https://zukan.pokemon.co.jp/detail/1006",
+    "sha256": "2a12b93c546cb17f0d3cccb3174580869dd766e99ac170fcba7e80d87f9bc5fc",
+    "bytes": 31791
+  },
+  {
+    "species": 1007,
+    "url": "https://zukan.pokemon.co.jp/detail/1007",
+    "sha256": "e401335eff3bc653406cc1f3cd33e1f64047ca8ca2d002e1d0543faad1911f32",
+    "bytes": 31738
+  },
+  {
+    "species": 1008,
+    "url": "https://zukan.pokemon.co.jp/detail/1008",
+    "sha256": "4034e31b0250e3f0a9286537060b7d8f77ecf2b9fb5715f8da1b39ff6633c64e",
+    "bytes": 31756
+  },
+  {
+    "species": 1009,
+    "url": "https://zukan.pokemon.co.jp/detail/1009",
+    "sha256": "e81d89eb1f2b3b86399b9b54d03312ddf3fec978e0128537b911def272ed7bcb",
+    "bytes": 31747
+  },
+  {
+    "species": 1010,
+    "url": "https://zukan.pokemon.co.jp/detail/1010",
+    "sha256": "34c97bf9696ae5c474d7df7fc31240fbaee57fa35a466b8d4433aa965b348b5f",
+    "bytes": 31756
+  },
+  {
+    "species": 1011,
+    "url": "https://zukan.pokemon.co.jp/detail/1011",
+    "sha256": "af6d3a33d386652073a30c52d32d60caef2eedf6802bce22cf24b634b1a2c43e",
+    "bytes": 37738
+  },
+  {
+    "species": 1012,
+    "url": "https://zukan.pokemon.co.jp/detail/1012",
+    "sha256": "7e890f50bd5ea5b9e4bfa4378d423e28cc6f3541b6000f7d9383138961258142",
+    "bytes": 35773
+  },
+  {
+    "species": 1013,
+    "url": "https://zukan.pokemon.co.jp/detail/1013",
+    "sha256": "ab6725c962a756b3d98b1c21bb1b13b6c6bfcdfea470a47d236addb682c8871c",
+    "bytes": 35775
+  },
+  {
+    "species": 1017,
+    "url": "https://zukan.pokemon.co.jp/detail/1017",
+    "sha256": "4f59218128d072d99d972144fc3e366dbd622eafd38601d84ddd80e460f40f78",
+    "bytes": 35068
+  },
+  {
+    "species": 1018,
+    "url": "https://zukan.pokemon.co.jp/detail/1018",
+    "sha256": "8af5e7c72c481fd483e6e5fb1d3ec2d21837cf56954ad7a7933d9533cd058954",
+    "bytes": 34926
+  },
+  {
+    "species": 1019,
+    "url": "https://zukan.pokemon.co.jp/detail/1019",
+    "sha256": "5ad9264b237b7de7d18aee8722b8649edb6fda8bfc65b3441c9c193425dd6361",
+    "bytes": 37724
+  },
+  {
+    "species": 1020,
+    "url": "https://zukan.pokemon.co.jp/detail/1020",
+    "sha256": "eb483a66acfbf0a7dd51f07f105627da8c7239115e6c6794abc5978f80048ecf",
+    "bytes": 31735
+  },
+  {
+    "species": 1021,
+    "url": "https://zukan.pokemon.co.jp/detail/1021",
+    "sha256": "033876184af283b63864b6bc07f93ae4cd05ec2979c55dc4095632102e22ebf5",
+    "bytes": 31741
+  },
+  {
+    "species": 1022,
+    "url": "https://zukan.pokemon.co.jp/detail/1022",
+    "sha256": "69b933b493b4bcf61c1cd27f28381440285736fc9b34801d431fe877bf6ff927",
+    "bytes": 31749
+  },
+  {
+    "species": 1023,
+    "url": "https://zukan.pokemon.co.jp/detail/1023",
+    "sha256": "4367481ea87a7d600299620b3686997d9d028316496c388c1de999104f67498d",
+    "bytes": 31755
+  }
+]

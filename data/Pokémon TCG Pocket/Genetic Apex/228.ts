@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/228",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/228",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/228",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/228"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/228",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/228"
     },
     name: {
         en: "Gloom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gloom",
         de: "Duflor",
         'pt-br': "Gloom",
+        ja: "クサイハナ",
         ko: "냄새꼬",
         "zh-tw": "臭臭花",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Oddish",
         "de": "Myrapla",
         "pt-br": "Oddish",
-        "zh-tw": "走路草"
+        "zh-tw": "走路草",
+        ja: "ナゾノクサ"
     },
     attacks: [{
             cost: ["Grass", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Sbavare",
                 de: "Sabbern",
                 'pt-br': "Babar",
+                ja: "よだれ",
                 ko: "침",
                 "zh-tw": "流口水"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "I pistilli emanano un puzzo orribile, capace\ndi far svenire chiunque nel raggio di 2 km.",
         de: "Sein Stempel sondert einen unglaublich faulen\nGestank ab. Dieser stechende Geruch kann selbst\nbis zu 2 km entfernte Gegner bewusstlos machen.",
         'pt-br': "Seus pistilos exalam um odor incrivelmente\ndesagradável. Este mau cheiro pode causar\ndesmaios a 2 km de distância.",
+        ja: "めしべが 放つ とてつもなく 臭い においは ２キロ先まで とどき 気を 失わせる。",
         ko: "암술에서 내뿜는 지독하게\n구린 냄새는 2km 떨어진 곳까지\n퍼져 정신을 잃게 만든다.",
         "zh-tw": "它的雌蕊散發著令人難以置信的惡臭。可怕的惡臭可導致 1.25 英里外的人暈厥。"
     },

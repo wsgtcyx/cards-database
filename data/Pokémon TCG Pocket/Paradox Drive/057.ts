@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/057",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/057",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/057"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/057"
     },
     name: {
         en: "Girafarig",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "La coda di Girafarig ha una testa piccola. Morde istintivamente qualsiasi nemico che si avvicini al Pokémon da dietro.",
         de: "Der Schwanz von Girafarig hat einen kleinen Kopf. Es beißt instinktiv jeden Gegner an, der sich dem Pokémon von hinten nähert.",
         "pt-br": "A cauda de Girafarig tem uma cabeça pequena. Ele morde instintivamente qualquer inimigo que se aproxime do Pokémon por trás.",
-        "zh-tw": "麒麟奇的尾巴上有一個小頭。它本能地咬住任何從後面接近寶可夢的敵人。"
+        "zh-tw": "麒麟奇的尾巴上有一個小頭。它本能地咬住任何從後面接近寶可夢的敵人。",
+        ja: "尻尾にも 小さな 頭がある。 背後から 近づく 敵がいると 本能的に 噛みついてくる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Scuotitesta",
                 de: "Headbangen",
                 "pt-br": "Baque de Cabeça",
-                "zh-tw": "鐵頭碰"
+                "zh-tw": "鐵頭碰",
+                ja: "ヘッドバング"
             },
             damage: 30
         }

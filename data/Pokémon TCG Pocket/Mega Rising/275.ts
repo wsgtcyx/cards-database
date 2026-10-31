@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/275",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/275",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/275",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/275"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/275",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/275"
     },
     name: {
         en: "Greninja ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quajutsu-ex",
         "pt-br": "Greninja ex",
         "zh-tw": "甲賀忍蛙ex",
+        ja: "ゲッコウガex",
     },
     illustrator: "Raita Kazama",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Amphizel",
         "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
+        ja: "ゲコガシラ",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Flusso mutevole",
                 "de": "Wechselnder Strom",
                 "pt-br": "Mudança de fluxo",
-                "zh-tw": "轉移流"
+                "zh-tw": "轉移流",
+                ja: "すいりゅうへんげ"
             },
             effect: {
                 en: "Once during your turn, you may switch your Active {W} Pokémon with 1 of your Benched Pokémon.",
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, puoi scambiare il tuo Pokémon attivo {W} con 1 dei tuoi Pokémon in panchina.",
                 "de": "Einmal während deines Zuges kannst du dein Aktives {W}-Pokémon gegen 1 Pokémon auf deiner Bank austauschen.",
                 "pt-br": "Uma vez durante o seu turno, você pode trocar seu Pokémon Ativo {W} por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "在你的回合中，你可以將你的活躍 {W} 神奇寶貝與你的 1 只後備神奇寶貝交換。"
+                "zh-tw": "在你的回合中，你可以將你的活躍 {W} 神奇寶貝與你的 1 只後備神奇寶貝交換。",
+                ja: "自分の番に1回使える。自分のバトル場の{W}ポケモンを、ベンチポケモンと入れ替える。"
             }
         }],
     attacks: [{
@@ -65,7 +70,8 @@ const card: Card = {
                 "it": "Bordo acquatico",
                 "de": "Aqua Edge",
                 "pt-br": "Borda Aqua",
-                "zh-tw": "水色邊緣"
+                "zh-tw": "水色邊緣",
+                ja: "アクアエッジ"
             },
             damage: 100,
             cost: ["Water", "Water"]

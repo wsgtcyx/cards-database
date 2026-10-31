@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/056",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/056",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/056",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/056"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/056",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/056"
     },
     name: {
         en: "Blastoise ex",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Blastoise ex",
         it: "Blastoise-ex",
         de: "Turtok-ex",
+        ja: "カメックスex",
         ko: "거북왕 ex",
         'pt-br': "Blastoise ex",
         "zh-tw": "水箭龜ex",
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Wartortle",
         "de": "Schillok",
         "pt-br": "Wartortle",
-        "zh-tw": "卡咪龜"
+        "zh-tw": "卡咪龜",
+        ja: "カメール"
     },
     suffix: "EX",
     attacks: [{
@@ -44,6 +47,7 @@ const card: Card = {
                 es: "Surf",
                 it: "Surf",
                 de: "Surfer",
+                ja: "なみのり",
                 ko: "파도타기",
                 'pt-br': "Surfar",
                 "zh-tw": "衝浪"
@@ -57,6 +61,7 @@ const card: Card = {
                 es: "Hidrobazuca",
                 it: "Idrobazooka",
                 de: "Hydro-Bazooka",
+                ja: "ハイドロバズーカ",
                 ko: "하이드로 바주카",
                 'pt-br': "Bazuca d'Água",
                 "zh-tw": "水力火箭筒"
@@ -67,6 +72,7 @@ const card: Card = {
                 es: "Si este Pokémon tiene por lo menos 2 Energías {W} adicionales unidas a él, este ataque hace 60 puntos de daño más.",
                 it: "Se questo Pokémon ha almeno 2 Energie {W} extra assegnate, questo attacco infligge 60 danni in più.",
                 de: "Wenn an dieses Pokémon mindestens 2 extra {W}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu.",
+                ja: "追加で{W}エネルギーが2個ついているなら、60ダメージ追加。",
                 ko: "{W}에너지 2개가 추가로 붙어 있다면 60데미지를 추가한다.",
                 'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {W} extra ligada a ele, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {W} 能量，則此攻擊造成的傷害增加 60 點。"

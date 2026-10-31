@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/013"
     },
     name: {
         en: "Incineroar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Fuegro",
         "pt-br": "Incineroar",
         "zh-tw": "熾焰咆哮虎",
+        ja: "ガオガエン",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Miezunder",
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
+        ja: "ニャヒート",
     },
     description: {
         en: "Although it's rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Anche se è rozzo ed egoista, lo è\ntrova noioso abbattere avversari indegni.\nViene motivato per gli avversari più forti.",
         "de": "Obwohl es unhöflich und egoistisch ist, ist es\nfindet es langweilig, unwürdige Gegner niederzuschlagen.\nEs wird für stärkere Gegner motiviert.",
         "pt-br": "Embora seja rude e egoísta,\nacha chato derrotar oponentes indignos.\nFica motivado para oponentes mais fortes.",
-        "zh-tw": "雖然態度粗魯而且自負，但\n覺得打敗不值得的對手很無聊。\n它會為更強大的對手提供動力。"
+        "zh-tw": "雖然態度粗魯而且自負，但\n覺得打敗不值得的對手很無聊。\n它會為更強大的對手提供動力。",
+        ja: "荒っぽく わがままだが 格下を なぶることは つまらないので キライ。 格上の 相手に やる気を 出す。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Lariat più oscuro",
                 "de": "Dunkelstes Lariat",
                 "pt-br": "Lariat mais escuro",
-                "zh-tw": "黑暗套索"
+                "zh-tw": "黑暗套索",
+                ja: "DDラリアット"
             },
             damage: "100×",
             cost: ["Fire", "Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 100 danni per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 100 Schaden pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa 100 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。"
+                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 100 點傷害。",
+                ja: "コインを2回投げ、オモテの数×100ダメージ。"
             }
         }],
     weaknesses: [{

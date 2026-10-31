@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/134",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/134"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/134"
     },
     name: {
         en: "Eevee",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     illustrator: "sowsow",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua capacità di evolversi in molte forme glielo consente\nadattarsi agevolmente e perfettamente a qualsiasi ambiente.",
         "de": "Seine Fähigkeit, sich in viele Formen zu entwickeln, ermöglicht es ihm\npassen sich jeder Umgebung reibungslos und perfekt an.",
         "pt-br": "Sua capacidade de evoluir em muitas formas permite que ele\nadapta-se suavemente e perfeitamente a qualquer ambiente.",
-        "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。"
+        "zh-tw": "它能夠進化成多種形式，使其能夠\n順利、完美地適應任何環境。",
+        ja: "環境の 変化に すぐさま 合わせられるよう いくつもの 進化の 可能性を 秘めている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Trova un amico",
                 "de": "Finde einen Freund",
                 "pt-br": "Encontre um amigo",
-                "zh-tw": "找朋友"
+                "zh-tw": "找朋友",
+                ja: "ともだちをさがす"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Metti nella tua mano un Pokémon casuale dal tuo mazzo.",
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
-                "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。"
+                "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/052"
     },
     name: {
         en: "Plusle",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Plusle",
         "de": "Plusle",
         "pt-br": "Plusle",
-        "zh-tw": "正電拍拍"
+        "zh-tw": "正電拍拍",
+        ja: "プラスル"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon assorbe l'elettricità dal telefono\npoli. Mette in cortocircuito l'elettricità immagazzinata al suo interno\ncorpo per creare rumori.",
         "de": "Dieses Pokémon absorbiert Elektrizität vom Telefon\nStangen. Dadurch wird der darin gespeicherte Strom kurzgeschlossen\nKörper, um Geräusche zu erzeugen.",
         "pt-br": "Este Pokémon absorve eletricidade do telefone\npólos. Ele causa um curto-circuito na eletricidade armazenada dentro de seu\ncorpo para criar ruídos.",
-        "zh-tw": "這個神奇寶貝可以吸收電話的電力\n兩極。它使內部存儲的電力短路\n身體產生噪音。"
+        "zh-tw": "這個神奇寶貝可以吸收電話的電力\n兩極。它使內部存儲的電力短路\n身體產生噪音。",
+        ja: "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Coda elettrica",
                 "de": "Elektrischer Schwanz",
                 "pt-br": "Cauda Elétrica",
-                "zh-tw": "電動尾翼"
+                "zh-tw": "電動尾翼",
+                ja: "でんきしっぽ"
             },
             damage: 10,
             cost: ["Lightning"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

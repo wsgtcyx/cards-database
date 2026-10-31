@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/220",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/220"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/220"
     },
     name: {
         en: "Gastly",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gastly",
         de: "Nebulak",
         'pt-br': "Gastly",
+        ja: "ゴース",
         ko: "고오스",
         "zh-tw": "鬼斯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Avvolge le prede nel corpo gassoso\ne le indebolisce lentamente facendo\npenetrare il veleno nella loro pelle.",
         de: "Es hüllt seine Beute in seinen Gaskörper ein\nund schwächt sie, indem es sie nach und nach\nüber die Haut vergiftet.",
         'pt-br': "Envolve o oponente em seu corpo gasoso,\nenfraquecendo sua presa lentamente\ne a envenenando pela pele.",
+        ja: "ガス状の 体で まとわりつき 獲物の 皮膚から 少しずつ 毒を 送り込んで 弱らせる。",
         ko: "가스로 된 몸으로 휘감은 다음\n먹이의 피부를 통해 조금씩\n독을 흘려보내어 약하게 만든다.",
         "zh-tw": "它將對手包裹在氣體般的身體中，通過皮膚毒害獵物，慢慢削弱獵物的力量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Sgomento",
                 de: "Erstauner",
                 'pt-br': "Abismar",
+                ja: "おどろかす",
                 ko: "놀래키기",
                 "zh-tw": "震驚"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, tu rival enseña 1 carta aleatoria de su mano, la pone de nuevo en su baraja y las baraja todas.",
                 it: "Lancia una moneta. Se esce testa, il tuo avversario mostra una carta a caso dalla sua mano e la rimischia nel suo mazzo.",
                 de: "Wirf 1 Münze. Bei Kopf zeigt dein Gegner dir 1 zufällige Karte aus seiner Hand und mischt sie in sein Deck.",
+                ja: "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 패를 랜덤으로 1장 앞면을 보고 상대의 덱으로 되돌린다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, seu oponente revelará 1 carta aleatória da mão dele e a embaralhará no baralho dele.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則對手從手中隨機展示一張牌並將其洗入牌庫。"

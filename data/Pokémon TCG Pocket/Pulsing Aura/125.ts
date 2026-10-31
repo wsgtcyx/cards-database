@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/125",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/125",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/125"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/125"
     },
     name: {
         en: "Vibrava",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Genera onde ultrasoniche facendo vibrare vigorosamente le sue ali. Dopo aver fatto svenire la preda, la dissolve con i suoi succhi digestivi.",
         de: "Es erzeugt Ultraschallwellen, indem es seine Flügel kräftig vibrieren lässt. Nachdem es seine Beute ohnmächtig gemacht hat, löst es die Beute mit seinen Verdauungssäften auf.",
         "pt-br": "Ele gera ondas ultrassônicas vibrando vigorosamente suas asas. Depois de desmaiar sua presa, ele a dissolve com seus sucos digestivos.",
-        "zh-tw": "它透過劇烈振動翅膀來產生超音波。使獵物暈倒後，用消化液溶解獵物。"
+        "zh-tw": "它透過劇烈振動翅膀來產生超音波。使獵物暈倒後，用消化液溶解獵物。",
+        ja: "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vento di Sabbia",
                 de: "Flugsand",
                 "pt-br": "Vento de Areia",
-                "zh-tw": "沙風"
+                "zh-tw": "沙風",
+                ja: "すなかぜ"
             },
             effect: {
                 en: "This attack does 10 damage to each of your opponent's Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni a ciascuno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的每隻寶可夢造成 10 點傷害。"
+                "zh-tw": "這次攻擊對對手的每隻寶可夢造成 10 點傷害。",
+                ja: "相手のポケモン全員に10ダメージ。"
             }
         }
     ],

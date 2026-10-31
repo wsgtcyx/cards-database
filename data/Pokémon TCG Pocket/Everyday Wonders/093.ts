@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/093",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/093",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/093"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/093"
     },
     name: {
         en: "Butterfree",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Raccoglie nettare tutti i giorni e lo spalma sulla\npeluria che ricopre le sue zampe per trasportarlo\nal nido.",
         de: "Es sammelt täglich Honig. Es reibt ihn in seine\nBeinhaare, um ihn in sein Nest zu transportieren.",
         "pt-br": "Coleta mel todos os dias. Ele esfrega mel nos pelos das pernas para carregá-lo de volta ao ninho.",
-        "zh-tw": "每天都忙著採集花蜜。\n習慣在腿部的細毛上塗滿花蜜，\n然後帶回巢穴裡。"
+        "zh-tw": "每天都忙著採集花蜜。\n習慣在腿部的細毛上塗滿花蜜，\n然後帶回巢穴裡。",
+        ja: "毎日 ミツを 集めまわる。 脚の 産毛に ミツを 塗りこんで 巣に 持ち帰る 習性をもつ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Vento soleggiato",
                 de: "Sonniger Wind",
                 "pt-br": "Vento ensolarado",
-                "zh-tw": "太陽之風"
+                "zh-tw": "太陽之風",
+                ja: "おひさまウインド"
             },
             effect: {
                 en: "Heal 20 damage from this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
-                "zh-tw": "治療該寶可夢造成的 20 點傷害。"
+                "zh-tw": "治療該寶可夢造成的 20 點傷害。",
+                ja: "このポケモンのHPを20回復。"
             },
             damage: 60
         }

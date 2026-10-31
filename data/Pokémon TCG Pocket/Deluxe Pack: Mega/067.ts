@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/067",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/067"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/067"
     },
     name: {
         en: "Wailmer",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Verschluckt es eine große Menge Meerwasser, wird sein Körper elastisch wie ein Ball. Es frisst täglich eine Tonne Nahrung.",
         "zh-tw": "喝入大量的海水之後，身體會鼓成像球一樣。每天要吃掉１噸的食物。",
         "pt-br": "Quando suga um grande volume de água do mar, transforma-se em uma bola grande e saltitante. Come uma tonelada de comida diariamente.",
-        ja: "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+        ja: "海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 １トンの エサを 食べる。",
         ko: "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily."
     },
     attacks: [
@@ -60,7 +61,7 @@ const card: Card = {
                 de: "Wellenplatscher",
                 "pt-br": "Onda Borrifante",
                 "zh-tw": "飛濺",
-                ja: "Wave Splash",
+                ja: "スプラッシュ",
                 ko: "Wave Splash"
             },
             damage: 60

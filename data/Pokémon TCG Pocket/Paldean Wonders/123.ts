@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/123",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/123",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/123",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/123"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/123",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/123"
     },
     name: {
         en: "Tinkatink",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Forgita",
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠",
+        ja: "カヌチャン",
         pt: "Tinkatink",
         'es-mx': "Tinkatink"
     },
@@ -35,7 +37,8 @@ const card: Card = {
         "it": "Questo Pokémon unisce pezzi di ferro per creare un martello. Rifarà il martello ancora e ancora finché non sarà soddisfatto del risultato.",
         "de": "Dieses Pokémon schlägt Eisenreste zu einem Hammer zusammen. Es wird den Hammer immer wieder neu machen, bis es mit dem Ergebnis zufrieden ist.",
         "pt-br": "Este Pokémon junta pedaços de ferro para fazer um martelo. Ele irá refazer o martelo repetidas vezes até ficar satisfeito com o resultado.",
-        "zh-tw": "這隻寶可夢將鐵屑搗碎在一起製成鐵鎚。它會一次又一次地重新製作錘子，直到對結果滿意為止。"
+        "zh-tw": "這隻寶可夢將鐵屑搗碎在一起製成鐵鎚。它會一次又一次地重新製作錘子，直到對結果滿意為止。",
+        ja: "鉄くずを 叩いて ハンマーを 作る。 納得がいく ものが できるまで 何度も 作り直す。"
     },
     stage: "Basic",
     attacks: [
@@ -48,6 +51,7 @@ const card: Card = {
                 de: "Verprügler",
                 "pt-br": "Bater",
                 "zh-tw": "打",
+                ja: "たたく",
                 pt: "Pulso",
                 'es-mx': "Golpeteo"
             },

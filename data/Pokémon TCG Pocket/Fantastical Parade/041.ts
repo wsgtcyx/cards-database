@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/041"
     },
     name: {
         en: "Amaura",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Amaura",
         "de": "Amarino",
         "pt-br": "Amaura",
-        "zh-tw": "冰雪龍"
+        "zh-tw": "冰雪龍",
+        ja: "アマルス"
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Fossilpinna",
         "de": "Flossenfossil",
         "pt-br": "Fóssil de Vela",
-        "zh-tw": "鰭之化石"
+        "zh-tw": "鰭之化石",
+        ja: "ヒレの化石"
     },
     description: {
         en: "Amaura is an ancient Pokémon that has gone\nextinct. Specimens of this species can sometimes\nbe found frozen in ice.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Amaura è un Pokémon antico scomparso\nestinto. Gli esemplari di questa specie a volte possono\nessere trovato congelato nel ghiaccio.",
         "de": "Amaura ist ein uraltes Pokémon, das nicht mehr existiert\nausgestorben. Exemplare dieser Art können manchmal\nim Eis eingefroren gefunden werden.",
         "pt-br": "Amaura é um Pokémon antigo que desapareceu\nextinto. Espécimes desta espécie podem às vezes\nser encontrado congelado no gelo.",
-        "zh-tw": "阿瑪烏拉（Amaura）是一種古老的神奇寶貝，現已消失\n滅絕了。該物種的標本有時可以\n被發現被冰凍住了。"
+        "zh-tw": "阿瑪烏拉（Amaura）是一種古老的神奇寶貝，現已消失\n滅絕了。該物種的標本有時可以\n被發現被冰凍住了。",
+        ja: "全滅した 古代の ポケモン。 氷漬けの 状態で 発見されることも あるぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Fascio dell'Aurora",
                 "de": "Aurora-Strahl",
                 "pt-br": "Feixe Aurora",
-                "zh-tw": "極光光束"
+                "zh-tw": "極光光束",
+                ja: "オーロラビーム"
             },
             damage: 50,
             cost: ["Water", "Colorless"]

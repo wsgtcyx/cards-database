@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/048",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/048",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/048",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/048"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/048",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/048"
     },
     name: {
         en: "Seviper",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Vipitis",
         "pt-br": "Seviper",
         "zh-tw": "飯匙蛇",
+        ja: "ハブネーク",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La lucidatura costante rende il filo della lama affilato\nla sua coda estremamente affilata. È l'arcinemico rivale di Zangoose.",
         "de": "Ständiges Polieren macht die Schneide der Klinge fit\nsein Schwanz ist extrem scharf. Es ist Zangooses Erzrivale.",
         "pt-br": "O polimento constante faz com que o fio da lâmina fique\nsua cauda extremamente afiada. É o arquirrival de Zangoose.",
-        "zh-tw": "不斷的拋光使刀刃鋒利\n它的尾巴極其鋒利。這是Zangoose的主要競爭對手。"
+        "zh-tw": "不斷的拋光使刀刃鋒利\n它的尾巴極其鋒利。這是Zangoose的主要競爭對手。",
+        ja: "尻尾の 刀は いつも 岩で 研いでいるので 切れ味 ばつぐん。 ザングースとは 因縁の あいだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Zanna fatale",
                 "de": "Schicksalhafter Fangzahn",
                 "pt-br": "Presa Fatídica",
-                "zh-tw": "宿命之牙"
+                "zh-tw": "宿命之牙",
+                ja: "いんねんのキバ"
             },
             damage: "40+",
             cost: ["Darkness", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è Zangoose, questo attacco infligge 40 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners Zangoose ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for Zangoose, este ataque causará 40 de dano a mais.",
-                "zh-tw": "如果對手的出戰寶可夢是讚鵝，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果對手的出戰寶可夢是讚鵝，則這次攻擊造成的傷害增加 40 點。",
+                ja: "相手のバトルポケモンが「ザングース」なら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

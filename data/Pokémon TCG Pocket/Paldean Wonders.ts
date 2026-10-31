@@ -12,6 +12,7 @@ const set: Set = {
 		de: "Wundervolles Paldea",
 		'pt-br': "Maravilhas de Paldea",
 		'zh-tw': "帕底亞驚奇",
+		ja: "パルデアワンダー",
 		ko: "Paldean Wonders",
 	},
 
@@ -31,6 +32,7 @@ const set: Set = {
 				de: "Paldea",
 				'pt-br': "Paldea",
 				'zh-tw': "帕底亞",
+				ja: "パルデアワンダー",
 				ko: "Paldea",
 			}
 		}

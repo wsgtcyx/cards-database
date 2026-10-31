@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/046",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/046"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/046"
     },
     name: {
         en: "Forretress",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Il suo intero corpo è protetto da un guscio duro come l'acciaio. Ciò che si nasconde all'interno di questo guscio è un mistero totale.",
         de: "Sein gesamter Körper ist von einer stahlharten Schale abgeschirmt. Was sich in dieser Hülle verbirgt, ist ein absolutes Rätsel.",
         "pt-br": "Todo o seu corpo é protegido por uma casca dura de aço. O que se esconde dentro desta concha é um mistério total.",
-        "zh-tw": "它的整個身體都被鋼鐵般堅硬的外殼所保護。這個殼裡面潛藏著什麼，完全是個謎。"
+        "zh-tw": "它的整個身體都被鋼鐵般堅硬的外殼所保護。這個殼裡面潛藏著什麼，完全是個謎。",
+        ja: "鋼鉄のように 硬い 殻で 全身を 覆っている。 中の 正体は 不明。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Esplosione Titanica",
                 de: "Enorme Explosion",
                 "pt-br": "Explosão Gigantesca",
-                "zh-tw": "特大號爆炸"
+                "zh-tw": "特大號爆炸",
+                ja: "とくだいばくはつ"
             },
             effect: {
                 en: "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's).",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge inoltre 100 danni a se stesso e 50 danni a tutti i Pokémon in panchina (sia i tuoi che quelli del tuo avversario).",
                 de: "Dieses Pokémon fügt sich selbst 100 Schadenspunkte und allen Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 50 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 100 de dano a si mesmo e 50 de dano a todos os Pokémon no Banco (seus e do seu oponente).",
-                "zh-tw": "該寶可夢還會對其造成 100 點傷害，並對所有後備寶可夢（包括你的和對手的）造成 50 點傷害。"
+                "zh-tw": "該寶可夢還會對其造成 100 點傷害，並對所有後備寶可夢（包括你的和對手的）造成 50 點傷害。",
+                ja: "このポケモンにも100ダメージ。おたがいのベンチポケモン全員にも50ダメージ。"
             },
             damage: 100
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/311",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/311",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/311",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/311"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/311",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/311"
     },
     name: {
         en: "Alolan Diglett",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Alola-Digda",
         "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
+        ja: "アローラディグダ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La geologia ricca di metalli dell'habitat di questo Pokémon\ngli ha fatto sviluppare baffi d'acciaio sulla testa.",
         "de": "Die metallreiche Geologie des Lebensraums dieses Pokémon\nverursachte, dass es stählerne Barthaare auf seinem Kopf entwickelte.",
         "pt-br": "A geologia rica em metais do habitat deste Pokémon\nfez com que desenvolvesse bigodes de aço em sua cabeça.",
-        "zh-tw": "該神奇寶貝棲息地富含金屬的地質\n導致它的頭上長出了鋼須。"
+        "zh-tw": "該神奇寶貝棲息地富含金屬的地質\n導致它的頭上長出了鋼須。",
+        ja: "金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 20,
             cost: ["Metal"]

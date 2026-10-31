@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/016",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/016",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/016",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/016"
     },
     name: {
         en: "Venonat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Venonat",
         de: "Bluzuk",
         'pt-br': "Venonat",
+        ja: "コンパン",
         ko: "콘팡",
         "zh-tw": "毛球",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Da tutto il suo corpo trasuda veleno.\nDi notte cattura piccoli Pokémon\nColeottero attratti dalla luce.",
         de: "Aus seinem ganzen Körper tritt Gift aus.\nEs fängt und frisst nachts kleine Käfer-Pokémon,\ndie von Licht angelockt wurden.",
         'pt-br': "Veneno escorre de todo o seu corpo. Durante a\nnoite, captura pequenos Pokémon inseto que são\natraídos pela luz.",
+        ja: "全身から 毒が にじみでる。 暗くなると 灯りに 群がった 小さな 虫ポケモンを 捕らえる。",
         ko: "전신에서 독이 스며 나온다.\n어두워지면 밝은 곳에 모인\n작은 벌레포켓몬을 잡아먹는다.",
         "zh-tw": "毒液從它的全身散發出來。在夜間捕捉被光吸引的小蟲子寶可夢。"
     },

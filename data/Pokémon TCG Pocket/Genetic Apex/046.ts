@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/046",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/046",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/046",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/046"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/046",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/046"
     },
     name: {
         en: "Moltres",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Moltres",
         de: "Lavados",
         'pt-br': "Moltres",
+        ja: "ファイヤー",
         ko: "파이어",
         "zh-tw": "火焰鳥",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Aeroattacco",
                 de: "Himmelsfeger",
                 'pt-br': "Ataque do Céu",
+                ja: "ゴッドバード",
                 ko: "불새",
                 "zh-tw": "天空攻擊"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Uno dei leggendari Pokémon alati. Quando\nsbatte le ali, le fiamme che le circondano\nbrillano di uno splendido rosso acceso.",
         de: "Schlägt dieses Legendäre Vogel-Pokémon mit\nden Flügeln, so leuchten die Flammen an seinen\nSchwingen in einem bezaubernden Rot.",
         'pt-br': "É um dos lendários Pokémon pássaro.\nQuando Moltres bate suas asas em chamas,\nsolta faíscas vermelhas brilhantes.",
+        ja: "羽ばたくと 翼の 炎が 赤く 美しく きらめく 伝説の 鳥ポケモンの １匹。",
         ko: "날갯짓을 하면 날개의 불꽃이\n빨갛고 아름답게 빛나는\n전설의 새포켓몬 중 1마리다.",
         "zh-tw": "是傳說中的鳥神奇寶貝之一。當莫爾特雷斯拍動它的火焰翅膀時，它們會閃爍出耀眼的紅光。"
     },

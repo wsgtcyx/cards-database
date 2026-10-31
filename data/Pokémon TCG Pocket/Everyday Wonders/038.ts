@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/038",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/038",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/038"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/038"
     },
     name: {
         en: "Rockruff",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon viaggia in branco con altri finché non cresce. Quando il suo umore diventa acido, comincia a colpire il terreno con le rocce che ha sul collo.",
         de: "Dieses Pokémon reist in einem Rudel mit anderen, bis es erwachsen ist. Wenn seine Stimmung schlecht wird, fängt es an, mit den Steinen an seinem Hals auf den Boden zu schlagen.",
         "pt-br": "Este Pokémon viaja em grupo com outros até crescer. Quando seu humor piora, ele começa a bater no chão com as pedras em seu pescoço.",
-        "zh-tw": "這隻寶可夢會與其他寶可夢一起旅行，直到長大。當它的心情變壞時，它就會開始用脖子上的石頭敲擊地面。"
+        "zh-tw": "這隻寶可夢會與其他寶可夢一起旅行，直到長大。當它的心情變壞時，它就會開始用脖子上的石頭敲擊地面。",
+        ja: "大きくなるまで 群れで 行動。 機嫌が 悪くなると 首の 岩で 地面を 叩きはじめる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Cucciolata",
                 de: "Welpenhaufen",
                 "pt-br": "Pilha de Filhotes",
-                "zh-tw": "小狗滿地跑"
+                "zh-tw": "小狗滿地跑",
+                ja: "こいぬまみれ"
             },
             effect: {
                 en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Rivela tutti i tuoi Pokémon in gioco e nella tua mano che hanno l'attacco Cuccioli Pile, e questo attacco infligge 20 danni per ogni Pokémon che hai rivelato in questo modo.",
                 de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
                 "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
-                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。"
+                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。",
+                ja: "自分の場と手札にあるワザ「こいぬまみれ」を持つポケモンをすべて相手に見せ、見せたポケモンの数×20ダメージ。"
             },
             damage: "20x"
         }

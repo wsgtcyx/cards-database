@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/014"
     },
     name: {
         en: "Volcarona",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Volcarona",
         de: "Ramoth",
         'pt-br': "Volcarona",
+        ja: "ウルガモス",
         ko: "불카모스",
         "zh-tw": "火神蛾",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Ignivor",
         "pt-br": "Larvesta",
         "zh-tw": "燃燒蟲",
+        ja: "メラルバ",
     },
     description: {
         en: "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Chi vive in regioni calde odia il suo corpo\ninfuocato, ma nelle terre più fredde viene\nvenerato come l'incarnazione stessa del sole.",
         de: "In heißen Gebieten ist sein brennender Körper\nunbeliebt, aber in kalten Gegenden wird es als\nVerkörperung der Sonne verehrt.",
         'pt-br': "Seu corpo em chamas faz com que seja impopular em partes quentes\ndo mundo. Mas, em lugares frios, Volcarona é reverenciado como\numa personificação do sol.",
+        ja: "暑い 土地では 燃える 体は 嫌がられるが 寒い 土地では 太陽の化身 と 崇められる。",
         ko: "더운 곳에서는 타오르는 몸 때문에\n미움을 받지만, 추운 곳에서는\n태양의 화신이라며 받들어진다.",
         "zh-tw": "它燃燒的身體使其在世界炎熱的地區不受歡迎，但在寒冷的地區，沃爾卡羅納被尊為太陽的化身。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Vulcanocenere",
                 de: "Vulkanasche",
                 'pt-br': "Cinza Vulcânica",
+                ja: "かさいりゅう",
                 ko: "화쇄류",
                 "zh-tw": "火山灰"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {R} da questo Pokémon. Questo attacco infligge 80 danni a uno dei Pokémon del tuo avversario.",
                 de: "Lege 2 {R}-Energien von diesem Pokémon ab. Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu.",
                 'pt-br': "Descarte 2 Energias de {R} deste Pokémon. Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュし、相手のポケモン1匹に80ダメージ。",
                 ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 80데미지를 준다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。這次攻擊對對手的 1 只神奇寶貝造成 80 點傷害。"
             }

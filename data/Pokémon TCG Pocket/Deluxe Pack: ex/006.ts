@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/006",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/006",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/006",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/006"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/006",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/006"
 	},
 	name: {
 		en: "Weedle",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Weedle",
 		de: "Hornliu",
 		"pt-br": "Weedle",
-		"zh-tw": "獨角蟲"
+		"zh-tw": "獨角蟲",
+		ja: "ビードル"
 	},
 	illustrator: "Akira Komayama",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Vive soprattutto nei boschi e nei prati. Sul capo\nha un affilato e velenoso pungiglione lungo 5 cm.",
 		de: "Es lebt bevorzugt in Wäldern und in hohem Gras.\nAuf dem Kopf trägt es einen circa 5 cm langen,\nspitzen, giftigen Stachel.",
 		"pt-br": "Encontrado frequentemente em florestas e\npradarias. Possui uma farpa afiada e tóxica\nde cerca de 5 cm em cima da cabeça.",
+		ja: "森や 草地に 多く 生息。 頭の 先に ５センチぐらいの 小さく 鋭い 毒針を持つ。",
 		ko: "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다.",
 		"zh-tw": "常見於森林和草原。它的頭頂上有一個約兩英寸長的鋒利有毒倒刺。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Moltiplicazione",
 				de: "Vervielfachung",
 				"pt-br": "Multiplicar",
+				ja: "ふえる",
 				ko: "증식하기",
 				"zh-tw": "乘"
 			},
@@ -57,6 +61,7 @@ const card: Card = {
 				it: "Prendi un Weedle a caso dal tuo mazzo e mettilo nella tua panchina.",
 				de: "Lege 1 zufälliges Hornliu aus deinem Deck auf deine Bank.",
 				"pt-br": "Coloque 1 Weedle aleatório do seu baralho no seu Banco.",
+				ja: "自分の山札から「ビードル」をランダムに1枚、ベンチに出す。",
 				ko: "자신의 덱에서 「뿔충이」를 랜덤으로 1장 벤치로 내보낸다.",
 				"zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。"
 			}

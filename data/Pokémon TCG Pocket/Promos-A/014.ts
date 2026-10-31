@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/014",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/014"
     },
     name: {
         en: "Lapras ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lapras-ex",
         de: "Lapras-ex",
         'pt-br': "Lapras ex",
+        ja: "ラプラスex",
         ko: "라프라스 ex",
         "zh-tw": "拉普拉斯ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
                 it: "Assorbibolla",
                 de: "Blasengully",
                 'pt-br': "Dreno de Bolha",
+                ja: "バブルドレイン",
                 ko: "버블드레인",
                 "zh-tw": "氣泡排水管"
             },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 20 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを20回復。",
                 ko: "이 포켓몬의 HP를 20회복.",
                 "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/002"
     },
     name: {
         en: "Gloom",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Duflor",
         "pt-br": "Gloom",
         "zh-tw": "臭臭花",
+        ja: "クサイハナ",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Myrapla",
         "pt-br": "Oddish",
         "zh-tw": "走路草",
+        ja: "ナゾノクサ",
     },
     description: {
         en: "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "I suoi pistilli emanano un odore incredibilmente disgustoso.\nL'orrendo fetore può provocare svenimenti a distanza\ndi 1,25 miglia.",
         "de": "Seine Stempel verströmen einen unglaublich üblen Geruch.\nDer schreckliche Gestank kann aus der Ferne zu Ohnmachtsanfällen führen\nvon 1,25 Meilen.",
         "pt-br": "Seus pistilos exalam um odor incrivelmente desagradável.\nO fedor horrível pode causar desmaios à distância\nde 1,25 milhas.",
-        "zh-tw": "它的雌蕊散發著令人難以置信的惡臭。\n可怕的惡臭會導致遠處暈厥\n1.25 英里。"
+        "zh-tw": "它的雌蕊散發著令人難以置信的惡臭。\n可怕的惡臭會導致遠處暈厥\n1.25 英里。",
+        ja: "めしべが 放つ とてつもなく 臭い においは ２キロ先まで とどき 気を 失わせる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Passo delle foglie",
                 "de": "Blattschritt",
                 "pt-br": "Passo Folha",
-                "zh-tw": "葉步"
+                "zh-tw": "葉步",
+                ja: "リーフステップ"
             },
             damage: 40,
             cost: ["Grass", "Grass"]

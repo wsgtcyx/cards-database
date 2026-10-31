@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/173",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/173",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/173",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/173"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/173",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/173"
     },
     name: {
         en: "Meltan",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",
+        ja: "メルタン",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dissolve e mangia il metallo. Liquido circolante\nil metallo all'interno del suo corpo è il modo in cui genera energia.",
         "de": "Es löst sich auf und frisst Metall. Zirkulierende Flüssigkeit\nMetall in seinem Körper erzeugt Energie.",
         "pt-br": "Ele se dissolve e come metal. Líquido circulante\nmetal dentro de seu corpo é como ele gera energia.",
-        "zh-tw": "它會溶解併吞噬金屬。循環液\n它體內的金屬是它產生能量的方式。"
+        "zh-tw": "它會溶解併吞噬金屬。循環液\n它體內的金屬是它產生能量的方式。",
+        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Trave",
                 "de": "Strahl",
                 "pt-br": "Feixe",
-                "zh-tw": "光束"
+                "zh-tw": "光束",
+                ja: "ビーム"
             },
             damage: 20,
             cost: ["Metal"]

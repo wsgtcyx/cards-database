@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/017"
     },
     name: {
         en: "Squirtle",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Squirtle",
         "de": "Schiggy",
         "pt-br": "Squirtle",
-        "zh-tw": "傑尼龜"
+        "zh-tw": "傑尼龜",
+        ja: "ゼニガメ"
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando si sente minacciato, ritira le sue membra verso l'interno\nil suo guscio e spruzza acqua dalla bocca.",
         "de": "Wenn es sich bedroht fühlt, zieht es seine Gliedmaßen hinein\nsein Panzer und spritzt Wasser aus seinem Maul.",
         "pt-br": "Quando se sente ameaçado, ele puxa seus membros para dentro\nsua concha e espirra água pela boca.",
-        "zh-tw": "當它感到受到威脅時，它會把四肢縮進去\n它的殼並從嘴裡噴出水。"
+        "zh-tw": "當它感到受到威脅時，它會把四肢縮進去\n它的殼並從嘴裡噴出水。",
+        ja: "危なくなると 甲羅に 手足を 引っこめて 身を 守りながら 口から 水を 吹き出している。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo di coda",
                 "de": "Tail Whap",
                 "pt-br": "Golpe de cauda",
-                "zh-tw": "尾擊"
+                "zh-tw": "尾擊",
+                ja: "しっぽではたく"
             },
             damage: 40,
             cost: ["Water", "Colorless"]

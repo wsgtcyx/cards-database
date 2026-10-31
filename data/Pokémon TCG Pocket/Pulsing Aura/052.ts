@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/052",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/052",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/052"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/052"
     },
     name: {
         en: "Magnemite",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si muove restando costantemente sospeso. Scarica le onde elettromagnetiche e così via dalle unità ai suoi lati.",
         de: "Es bewegt sich, während es ständig schwebt. Es leitet elektromagnetische Wellen usw. von den Einheiten an seinen Seiten ab.",
         "pt-br": "Ele se move enquanto paira constantemente. Ele descarrega ondas eletromagnéticas e assim por diante das unidades laterais.",
-        "zh-tw": "它在不斷懸停的同時移動。從其側面的單元釋放電磁波等。"
+        "zh-tw": "它在不斷懸停的同時移動。從其側面的單元釋放電磁波等。",
+        ja: "空中に 浮いたまま 移動して 左右の ユニットから 電磁波などを 放射する。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Tuonoshock",
                 de: "Donnerschock",
                 "pt-br": "Trovoada de Choques",
-                "zh-tw": "電擊"
+                "zh-tw": "電擊",
+                ja: "でんきショック"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 20
         }

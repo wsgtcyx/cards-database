@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/047"
     },
     name: {
         en: "Barraskewda",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Barraskewda",
         "de": "Barrakiefa",
         "pt-br": "Barraskewda",
-        "zh-tw": "戽斗尖梭"
+        "zh-tw": "戽斗尖梭",
+        ja: "カマスジョー"
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Arrokuda",
         "de": "Pikuda",
         "pt-br": "Arrokuda",
-        "zh-tw": "刺梭魚"
+        "zh-tw": "刺梭魚",
+        ja: "サシカマス"
     },
     description: {
         en: "It spins its tail fins to propel itself, surging\nforward at speeds of over 100 knots before\nramming prey and spearing into them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Ruota le pinne caudali per spingersi, impennandosi\navanti a velocità superiori a 100 nodi prima\nsperonando la preda e trafiggendola.",
         "de": "Es dreht seine Schwanzflossen, um sich fortzubewegen\nVorwärts mit Geschwindigkeiten von über 100 Knoten\nBeute rammen und in sie hineinspießen.",
         "pt-br": "Ele gira suas barbatanas caudais para se impulsionar, surgindo\navançar a velocidades superiores a 100 nós antes\natacando as presas e atacando-as.",
-        "zh-tw": "它旋轉尾鰭來推動自己，洶湧澎湃\n之前以超過100節的速度前進\n撞擊獵物並用矛刺入其中。"
+        "zh-tw": "它旋轉尾鰭來推動自己，洶湧澎湃\n之前以超過100節的速度前進\n撞擊獵物並用矛刺入其中。",
+        ja: "尾びれを 回転させ 一気に 突撃。 １００ノットを 超える 速度で 獲物を つらぬくぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Testata a getto",
                 "de": "Jet-Kopfstoß",
                 "pt-br": "Cabeçada de jato",
-                "zh-tw": "噴射頭撞"
+                "zh-tw": "噴射頭撞",
+                ja: "ジェットヘッド"
             },
             damage: 40,
             cost: ["Water"]

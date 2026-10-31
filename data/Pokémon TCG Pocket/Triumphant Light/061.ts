@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/061"
     },
     name: {
         en: "Giratina",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Giratina",
         de: "Giratina",
         'pt-br': "Giratina",
+        ja: "ギラティナ",
         ko: "기라티나",
         "zh-tw": "騎拉帝納"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive nel Mondo Distorto che, sfidando l'ordine\ncosmico, si trova sul lato opposto al nostro.",
         de: "Es lebt in einer Zerrwelt, die auf der Kehrseite\nder unseren liegt und die sich aller Logik entzieht.",
         'pt-br': "Dizem que este Pokémon vive em um mundo reverso\nao nosso, onde o senso comum é distorcido e estranho.",
+        ja: "常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。",
         ko: "상식이 통하지 않는\n이 세상의 이면에 있다고 불리는\n깨어진 세계에 서식한다.",
         "zh-tw": "據說這只神奇寶貝生活在與我們相反的世界，那裡的常識被扭曲和奇怪。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Picchiata Critica",
                 de: "Krisensprung",
                 'pt-br': "Mergulho de Calamidade",
+                ja: "クライシスダイブ",
                 ko: "크라이시스 다이브",
                 "zh-tw": "危機潛水"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Descarta 2 Energías aleatorias de este Pokémon.",
                 it: "Rimuovi 2 Energie a caso da questo Pokémon.",
                 de: "Lege 2 zufällige Energien von diesem Pokémon ab.",
+                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。",
                 ko: "이 포켓몬에서 에너지를 랜덤으로 2개 트래쉬한다.",
                 'pt-br': "Descarte 2 Energias aleatórias deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個隨機能量。"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/073"
     },
     name: {
         en: "Seaking",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Seaking",
         de: "Golking",
         'pt-br': "Seaking",
+        ja: "アズマオウ",
         ko: "왕콘치",
         "zh-tw": "金魚王",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Goldeen",
         "de": "Goldini",
         "pt-br": "Goldeen",
-        "zh-tw": "角金魚"
+        "zh-tw": "角金魚",
+        ja: "トサキント"
     },
     attacks: [{
             cost: ["Water"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Incorna-Rischio",
                 de: "Gefährliches Horn",
                 'pt-br': "Chifre Perigoso",
+                ja: "つのでつつく",
                 ko: "뿔로쪼기",
                 "zh-tw": "霍恩·哈扎德"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha effetto.",
                 de: "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen.",
                 'pt-br': "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                ja: "コインを1回投げウラなら、このワザは失敗。",
                 ko: "동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.",
                 "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
             },
@@ -72,6 +77,7 @@ const card: Card = {
         it: "In autunno ingrassa in previsione della stagione\ndegli amori e assume colori sgargianti.",
         de: "Im Herbst legt es an Gewicht zu\nund erscheint in prächtigen Farben,\num so einen Partner anzulocken.",
         'pt-br': "No outono, ganha peso para atrair\npossíveis companheiros. Adorna-se\nem lindas cores.",
+        ja: "秋になると プロポーズのため 体に 脂が のってきて とても きれいな色に 変化する。",
         ko: "가을이 되면 짝짓기를 위해\n몸에 윤기가 돌게 되며\n매우 아름다운 색으로 변화한다.",
         "zh-tw": "到了秋天，它的身體會變得更加肥胖，準備向伴侶求婚。它呈現出美麗的色彩。"
     },

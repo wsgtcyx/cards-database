@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/040"
     },
     name: {
         en: "Darmanitan",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flampivian",
         "pt-br": "Darmanitan",
         "zh-tw": "達摩狒狒",
+        ja: "ヒヒダルマ",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flampion",
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
+        ja: "ダルマッカ",
     },
     description: {
         en: "This Pokémon's power level rises along with the\ntemperature of its fire, which can reach 2,500\ndegrees Fahrenheit.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il livello di potenza di questo Pokémon aumenta insieme a\ntemperatura del suo fuoco, che può raggiungere i 2.500\ngradi Fahrenheit.",
         "de": "Die Kraftstufe dieses Pokémon steigt mit der Zeit\nDie Temperatur seines Feuers kann 2.500 erreichen\nGrad Fahrenheit.",
         "pt-br": "O nível de poder deste Pokémon aumenta junto com o\ntemperatura do seu fogo, que pode chegar a 2.500\ngraus Fahrenheit.",
-        "zh-tw": "該寶可夢的力量等級隨著\n火的溫度可達2,500\n華氏度。"
+        "zh-tw": "該寶可夢的力量等級隨著\n火的溫度可達2,500\n華氏度。",
+        ja: "体内の 炎が 燃え盛るほど パワーが 高まる。 その 温度は １４００度を 超える ことも。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Darmani-Mani",
                 "de": "Darmani-Hände",
                 "pt-br": "Darmani-Mãos",
-                "zh-tw": "達瑪尼手"
+                "zh-tw": "達瑪尼手",
+                ja: "だるまれんだん"
             },
             damage: "80+",
             cost: ["Fire", "Fire", "Fire", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Lancia 2 monete. Questo attacco infligge 30 danni in più per ogni testa.",
                 "de": "Wirf 2 Münzen. Dieser Angriff verursacht 30 weitere Schadenspunkte pro Kopf.",
                 "pt-br": "Jogue 2 moedas. Este ataque causa mais 30 danos para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 30 點額外傷害。"
+                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 30 點額外傷害。",
+                ja: "コインを2回投げ、オモテの数×30ダメージ追加。"
             }
         }],
     weaknesses: [{

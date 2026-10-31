@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/107",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/107",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/107"
     },
     name: {
         en: "Croagunk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Croagunk",
         de: "Glibunkel",
         'pt-br': "Croagunk",
+        ja: "グレッグル",
         ko: "삐딱구리",
         "zh-tw": "不良蛙",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gonfia le sue sacche di veleno emettendo un verso\nsinistro che fa impietrire l'avversario, poi lo avvelena.",
         de: "Bläst es seine Giftbeutel auf, ertönt ein\nunheimliches Geräusch. Wenn Gegner\ndadurch zurückschrecken, vergiftet es sie.",
         'pt-br': "Ao inflar suas bolsas de veneno, preenche a área\ncom um som peculiar e acerta os oponentes assustados\ncom um soco venenoso.",
+        ja: "毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。",
         ko: "독주머니를 부풀리며 울어서\n주변에 으스스한 소리를 퍼트린 후\n상대가 풀죽으면 독찌르기를 한다.",
         "zh-tw": "它會膨脹毒囊，使整個區域充滿奇怪的聲音，並用毒刺攻擊畏縮的對手。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rissa",
                 de: "Gruppenprügler",
                 'pt-br': "Abater em Grupo",
+                ja: "みんなでしばく",
                 ko: "다함께 때려잡기",
                 "zh-tw": "團體毆打"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta per ogni Pokémon che hai in gioco. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf 1 Münze für jedes Pokémon, das du im Spiel hast. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 20 pontos de dano para cada cara.",
+                ja: "自分の場のポケモンの数ぶんコインを投げ、オモテの数×20ダメージ。",
                 ko: "자신의 필드의 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 20× 20데미지를[/Ctrl:NoBreak] 준다.",
                 "zh-tw": "為遊戲中的每個神奇寶貝投一枚硬幣。這次攻擊對每個頭造成 20 點傷害。"
             }

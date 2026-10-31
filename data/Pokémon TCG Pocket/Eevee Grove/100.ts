@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/100"
     },
     name: {
         en: "Ekans",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Rettan",
         "pt-br": "Ekans",
         "zh-tw": "阿柏蛇",
+        ja: "アーボ",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Lussando la mascella può inghiottire prede più grandi\ndi se stesso. Dopo il pasto si rannicchia e riposa.",
         "de": "Durch die Ausrenkung seines Kiefers kann er größere Beutetiere verschlingen\nals sich selbst. Nach dem Essen rollt es sich zusammen und ruht.",
         "pt-br": "Ao deslocar a mandíbula, ele pode engolir presas maiores\ndo que ele mesmo. Depois de uma refeição, ele se enrola e descansa.",
-        "zh-tw": "通過使下巴脫臼，它可以吞下更大的獵物\n比它本身。吃完飯後，它會蜷縮起來休息。"
+        "zh-tw": "通過使下巴脫臼，它可以吞下更大的獵物\n比它本身。吃完飯後，它會蜷縮起來休息。",
+        ja: "顎を 外すことで 自分より 大きな 獲物も 丸呑みに する。 食後は 身体を 丸め 休む。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Darkness"]

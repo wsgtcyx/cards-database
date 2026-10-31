@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/118",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/118"
     },
     name: {
         en: "Slurpuff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sabbaione",
         "pt-br": "Slurpuff",
         "zh-tw": "胖甜妮",
+        ja: "ペロリーム",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flauschling",
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
+        ja: "ペロッパフ",
     },
     description: {
         en: "Slurpuff's fur contains a lot of air, making it soft\nto the touch and lighter than it looks.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La pelliccia di Slurpuff contiene molta aria, il che la rende morbida\nal tatto e più leggero di quanto sembri.",
         "de": "Das Fell von Slurpuff enthält viel Luft und ist dadurch weich\nfühlt sich angenehm an und ist leichter als es aussieht.",
         "pt-br": "O pelo do Slurpuff contém muito ar, o que o torna macio\nao toque e mais leve do que parece.",
-        "zh-tw": "slurpuff的皮毛含有大量空氣，使其柔軟\n摸起來比看起來更輕。"
+        "zh-tw": "slurpuff的皮毛含有大量空氣，使其柔軟\n摸起來比看起來更輕。",
+        ja: "体毛に たくさん 空気を 含んでいるので 触り心地は 柔らかく 見た目より 軽い。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bacio drenante",
                 "de": "Erschöpfender Kuss",
                 "pt-br": "Drenando Beijo",
-                "zh-tw": "排水之吻"
+                "zh-tw": "排水之吻",
+                ja: "ドレインキッス"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 30 danni.",
                 "de": "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 30 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 30 點傷害。",
+                ja: "このポケモンのHPを30回復。"
             }
         }],
     weaknesses: [{

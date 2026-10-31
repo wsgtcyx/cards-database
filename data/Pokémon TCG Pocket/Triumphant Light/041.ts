@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/041"
     },
     name: {
         en: "Tyranitar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tyranitar",
         de: "Despotar",
         'pt-br': "Tyranitar",
+        ja: "バンギラス",
         ko: "마기라스",
         "zh-tw": "班基拉斯",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Pupitar",
         "pt-br": "Pupitar",
         "zh-tw": "沙基拉斯",
+        ja: "サナギラス",
     },
     description: {
         en: "Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Con la sua forza smisurata riesce a trasformare\nil paesaggio con estrema facilità. La sua indole\ninsolente lo rende indifferente al mondo.",
         de: "Dieses kaltblütige und rücksichtslose Pokémon ist\nso stark, dass es mit Leichtigkeit das Aussehen\nganzer Landstriche verändern kann.",
         'pt-br': "Extremamente forte, pode modificar a paisagem.\nÉ tão insolente que não se preocupa com os outros.",
+        ja: "あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。",
         ko: "주변 지형을 바꾸는 정도쯤은\n쉽게 해낼 정도의 힘을 가지고 있다.\n주위를 신경 쓰지 않는 대담한 성격.",
         "zh-tw": "極其強大，可以改變地貌。它太囂張了，根本不關心別人。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Potenza Simbiotica",
                 de: "Kraftkopplung",
                 'pt-br': "Elo de Poder",
+                ja: "パワーリンク",
                 ko: "파워 링크",
                 "zh-tw": "電源連接"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se hai in gioco Arceus o Arceus-ex, gli attacchi usati da questo Pokémon infliggono +30 danni al Pokémon attivo del tuo avversario.",
                 de: "Wenn du Arceus oder Arceus-ex im Spiel hast, fügen die von diesem Pokémon eingesetzten Attacken dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu.",
                 'pt-br': "Se você tiver Arceus ou Arceus ex em jogo, os ataques usados por este Pokémon causarão +30 pontos de dano ao Pokémon Ativo do seu oponente.",
+                ja: "自分の場に「アルセウス」または「アルセウスex」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
                 ko: "자신의 필드에 「아르세우스」 또는 「아르세우스 ex」 있다면 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지를 Arceus+30[/Ctrl:NoBreak]한다.",
                 "zh-tw": "如果你場上有阿爾宙斯或阿爾宙斯 ex，該神奇寶貝使用的攻擊會對對手的活躍神奇寶貝造成 +30 點傷害。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Schiacciaterra",
                 de: "Schollenbrecher",
                 'pt-br': "Aperto de Terra",
+                ja: "ランドクラッシュ",
                 ko: "랜드크래시",
                 "zh-tw": "土地擠壓"
             },

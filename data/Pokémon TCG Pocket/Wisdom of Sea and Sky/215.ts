@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/215",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/215"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/215"
     },
     name: {
         en: "Gyarados",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Gyarados",
         "de": "Garados",
         "pt-br": "Gyarados",
-        "zh-tw": "暴鯉龍"
+        "zh-tw": "暴鯉龍",
+        ja: "ギャラドス"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     description: {
         en: "Once it appears, it goes on a rampage.\nIt remains enraged until it demolishes\neverything around it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Una volta apparso, va su tutte le furie.\nRimane infuriato finché non demolisce\ntutto ciò che lo circonda.",
         "de": "Sobald es auftaucht, tobt es.\nEs bleibt wütend, bis es zerstört wird\nalles drumherum.",
         "pt-br": "Uma vez que aparece, ele fica furioso.\nEle permanece enfurecido até destruir\ntudo ao seu redor.",
-        "zh-tw": "一旦出現，就會橫衝直撞。\n它仍然憤怒，直到它被摧毀\n它周圍的一切。"
+        "zh-tw": "一旦出現，就會橫衝直撞。\n它仍然憤怒，直到它被摧毀\n它周圍的一切。",
+        ja: "一度 姿を 現すと まわりを すべて 焼き尽くさないと 怒りが 鎮まらない という。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Altalena selvaggia",
                 "de": "Wilder Swing",
                 "pt-br": "Balanço Selvagem",
-                "zh-tw": "狂野搖擺"
+                "zh-tw": "狂野搖擺",
+                ja: "あばれスイング"
             },
             damage: "20+",
             cost: ["Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Puoi scartare un qualsiasi numero dei tuoi Pokémon {W} in panchina. Questo attacco infligge 40 danni in più per ogni Pokémon in panchina che hai scartato in questo modo.",
                 "de": "Du kannst eine beliebige Anzahl deiner {W}-Pokémon auf deiner Bank abwerfen. Dieser Angriff verursacht 40 weitere Schadenspunkte für jedes Bank-Pokémon, das du auf diese Weise abgeworfen hast.",
                 "pt-br": "Você pode descartar qualquer número dos seus Pokémon {W} no Banco. Este ataque causa 40 pontos de dano a mais para cada Pokémon no Banco que você descartou dessa forma.",
-                "zh-tw": "您可以丟棄任意數量的替補 {W} 神奇寶貝。你以這種方式丟棄的每個後備神奇寶貝都會額外受到 40 點傷害。"
+                "zh-tw": "您可以丟棄任意數量的替補 {W} 神奇寶貝。你以這種方式丟棄的每個後備神奇寶貝都會額外受到 40 點傷害。",
+                ja: "自分のベンチの{W}ポケモンを好きなだけトラッシュし、トラッシュしたベンチポケモンの数×40ダメージ追加。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/094",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/094",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/094"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/094"
     },
     name: {
         en: "Lapras",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Lapras",
         "de": "Lapras",
         "pt-br": "Lapras",
-        "zh-tw": "拉普拉斯"
+        "zh-tw": "拉普拉斯",
+        ja: "ラプラス"
     },
     illustrator: "Nelnal",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un Pokémon intelligente e di buon cuore,\nscivola sulla superficie del mare mentre\nintorno ad esso risuona il suo bel canto.",
         "de": "Ein kluges und gutherziges Pokémon,\nes gleitet dabei über die Meeresoberfläche\nSein wunderschönes Lied hallt um ihn herum wider.",
         "pt-br": "Um Pokémon inteligente e de bom coração,\nele desliza pela superfície do mar enquanto\nsua bela canção ecoa ao seu redor.",
-        "zh-tw": "聰明又善良的寶可夢，\n它滑過海面，同時\n它優美的歌聲在周圍迴響。"
+        "zh-tw": "聰明又善良的寶可夢，\n它滑過海面，同時\n它優美的歌聲在周圍迴響。",
+        ja: "賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pompa idroelettrica",
                 "de": "Hydropumpe",
                 "pt-br": "Bomba Hidro",
-                "zh-tw": "液壓泵"
+                "zh-tw": "液壓泵",
+                ja: "ハイドロポンプ"
             },
             damage: "20+",
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha almeno tre Energie {W} extra assegnate, questo attacco infligge 70 danni in più.",
                 "de": "Wenn an dieses Pokémon mindestens 3 zusätzliche {W}-Energien angelegt sind, fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver pelo menos 3 energias {W} extras anexadas, este ataque causará 70 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊造成的傷害增加 70 點。"
+                "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊造成的傷害增加 70 點。",
+                ja: "追加で{W}エネルギーが3個ついているなら、70ダメージ追加。"
             }
         }],
     weaknesses: [{

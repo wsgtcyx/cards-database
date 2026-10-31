@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/025"
     },
     name: {
         en: "Raboot",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Raboot",
         "de": "Kickerlo",
         "pt-br": "Raboot",
-        "zh-tw": "騰蹴小將"
+        "zh-tw": "騰蹴小將",
+        ja: "ラビフット"
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scorbunny",
         "de": "Hopplo",
         "pt-br": "Scorbunny",
-        "zh-tw": "炎兔兒"
+        "zh-tw": "炎兔兒",
+        ja: "ヒバニー"
     },
     description: {
         en: "While it prides itself on its varied kicking moves,\nit can also deliver powerful headbutts once its\nflames have heated up its forehead.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sebbene sia orgoglioso delle sue varie mosse di calci,\npuò anche sferrare potenti testate una volta che lo ha colpito\nle fiamme gli hanno riscaldato la fronte.",
         "de": "Während es stolz auf seine abwechslungsreichen Trittbewegungen ist,\nEs kann auch kraftvolle Kopfstöße ausführen, sobald es soweit ist\nFlammen haben seine Stirn erhitzt.",
         "pt-br": "Embora se orgulhe de seus variados movimentos de chute,\nele também pode desferir cabeçadas poderosas quando estiver\nas chamas aqueceram sua testa.",
-        "zh-tw": "雖然它以其多樣化的踢腿動作而自豪，\n一旦它被擊中，它還可以提供強有力的頭撞\n火焰已經加熱了它的額頭。"
+        "zh-tw": "雖然它以其多樣化的踢腿動作而自豪，\n一旦它被擊中，它還可以提供強有力的頭撞\n火焰已經加熱了它的額頭。",
+        ja: "多彩な キック技が 自慢だが 炎で 熱くなった 額で 繰り出す 頭突きも 強力。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio",
                 "de": "Tritt",
                 "pt-br": "Chute",
-                "zh-tw": "踢"
+                "zh-tw": "踢",
+                ja: "キック"
             },
             damage: 40,
             cost: ["Fire"]

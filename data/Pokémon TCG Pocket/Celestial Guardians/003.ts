@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/003"
     },
     name: {
         en: "Surskit",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Surskit",
         de: "Gehweiher",
         'pt-br': "Surskit",
+        ja: "アメタマ",
         ko: "비구술",
         "zh-tw": "溜溜糖球",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Normalmente vivono negli stagni, ma dopo un acquazzone\npossono comparire persino nelle pozzanghere delle città.",
         de: "Normalerweise leben sie in Teichen, aber nach\neinem Schauer am Abend kann man sie auch in\nPfützen in den Städten finden.",
         'pt-br': "Normalmente vivem em lagos, mas, após uma chuva\nnoturna, podem aparecer em poças nas cidades.",
+        ja: "普段は 池に 住んでいるが 夕立の 後には 街中の 水たまりに 姿を 現す。",
         ko: "보통은 연못에서 살고 있지만\n소나기가 온 뒤에는 마을 안의\n물웅덩이에 모습을 드러낸다.",
         "zh-tw": "它們通常生活在池塘里，但晚上陣雨後，它們可能會出現在城鎮的水坑里。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Attacco Rapido",
                 de: "Ruckzuckhieb",
                 'pt-br': "Ataque Rápido",
+                ja: "でんこうせっか",
                 ko: "전광석화",
                 "zh-tw": "快速攻擊"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 20 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、20ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。"
             }

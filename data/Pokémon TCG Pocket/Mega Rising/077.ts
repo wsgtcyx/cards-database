@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/077",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/077",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/077",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/077",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/077"
     },
     name: {
         en: "Drednaw",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kamalm",
         "pt-br": "Drednaw",
         "zh-tw": "暴噬龜",
+        ja: "カジリガメ",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kamehaps",
         "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
+        ja: "カムカメ",
     },
     description: {
         en: "Drednaw lurks along the shoreline. When prey\ncome to drink water, Drednaw stretches its neck\nout and chomps down on them.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Drednaw si nasconde lungo la costa. Quando preda\nvenuto a bere acqua, Drednaw allunga il collo\nfuori e li mastica.",
         "de": "Drednaw lauert an der Küste. Wenn Beute\nDrednaw kommt, um Wasser zu trinken, und streckt seinen Hals\nraus und kaut auf ihnen herum.",
         "pt-br": "Drednaw espreita ao longo da costa. Quando presa\nvem beber água, Drednaw estica o pescoço\ne os mastiga.",
-        "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。"
+        "zh-tw": "雷德諾潛伏在海岸線上。當獵物\n來喝水了，Drednaw 伸長了脖子\n出來並咬住它們。",
+        ja: "岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Blocco della mascella",
                 "de": "Kiefersperre",
                 "pt-br": "Bloqueio de mandíbula",
-                "zh-tw": "顎鎖"
+                "zh-tw": "顎鎖",
+                ja: "くらいつく"
             },
             damage: 70,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

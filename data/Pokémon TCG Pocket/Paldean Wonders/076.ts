@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/076",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/076",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/076",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/076"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/076",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/076"
     },
     name: {
         en: "Revavroom",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Knattatox",
         'pt-br': "Revavroom",
         "zh-tw": "普隆隆姆",
+        ja: "ブロロローム",
         ko: "부르르룸"
     },
     illustrator: "Anesaki Dynamic",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Knattox",
         "pt-br": "Varoom",
         "zh-tw": "噗隆隆",
+        ja: "ブロロン",
         pt: "Varoom"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Revavroom minaccia ferocemente gli altri con il suono del suo scarico. Tira fuori la lingua dalla bocca cilindrica e spruzza fluidi tossici.",
         "de": "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
-        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。"
+        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Giftwolke",
                 'pt-br': "Gás Venenoso",
                 "zh-tw": "毒氣",
+                ja: "どくガス",
                 ko: "독가스"
             },
             damage: "50",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的戰鬥寶可夢現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。",
                 pt: "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 'es-mx': "El Pokémon Activo de tu rival ahora está Envenenado."
             },

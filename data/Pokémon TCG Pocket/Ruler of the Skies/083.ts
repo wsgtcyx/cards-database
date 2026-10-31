@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/083",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/083",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/083",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/083"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/083",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/083"
     },
     name: {
         en: "Groudon",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Pokémon leggendario che rappresenta la terra. Dopo aver sfidato Kyogre, è caduto in un sonno profondo.",
         de: "Dieses Legendäre Pokémon soll das Land verkörpern. Es ist in einen Schlaf gefallen, nachdem es mit Kyogre gekämpft hat.",
         "pt-br": "Acredita-se que este Pokémon lendário represente a terra. Adormeceu após enfrentar Kyogre.",
-        "zh-tw": "與蓋歐卡殊死戰鬥後，\n便一直沉睡著。\n被稱為大地化身的傳說的寶可夢。"
+        "zh-tw": "與蓋歐卡殊死戰鬥後，\n便一直沉睡著。\n被稱為大地化身的傳說的寶可夢。",
+        ja: "カイオーガと 死闘の末 長い 眠りに ついた。大地の 化身と 言われる 伝説の ポケモン。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Terremoto",
                 de: "Erdbeben",
                 "pt-br": "Terremoto",
-                "zh-tw": "地震"
+                "zh-tw": "地震",
+                ja: "じしん"
             },
             effect: {
                 en: "This attack also does 10 damage to each of your Benched Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei tuoi Pokémon in panchina.",
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 10 pontos de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "自己的所有備戰寶可夢也受到10點傷害。"
+                "zh-tw": "自己的所有備戰寶可夢也受到10點傷害。",
+                ja: "自分のベンチポケモン全員にも10ダメージ。"
             },
             damage: 100
         }

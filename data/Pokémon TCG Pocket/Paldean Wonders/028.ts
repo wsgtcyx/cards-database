@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/028",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/028",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/028"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/028"
     },
     name: {
         en: "Palafin",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Delfinator",
         "pt-br": "Palafin",
         "zh-tw": "海豚俠",
+        ja: "イルカマン",
         pt: "Palafin"
     },
     illustrator: "Souichirou Gunjima",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Normifin",
         "pt-br": "Finizen",
         "zh-tw": "波普海豚",
+        ja: "ナミイルカ",
         pt: "Finizen"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "Questo eroe dell'oceano nuota ad una velocità di 50 nodi e salva persone e Pokémon che stanno annegando.",
         "de": "Dieser Held des Ozeans schwimmt mit einer Geschwindigkeit von 50 Knoten und rettet Ertrinkende und Pokémon.",
         "pt-br": "Este herói do oceano nada a uma velocidade de 50 nós e salva pessoas e Pokémon que estão se afogando.",
-        "zh-tw": "這位海洋英雄以 50 節的速度游泳，拯救溺水者和寶可夢。"
+        "zh-tw": "這位海洋英雄以 50 節的速度游泳，拯救溺水者和寶可夢。",
+        ja: "50ノットの 速さで 泳ぎ 溺れている 人や ポケモンを 助ける 海の ヒーロー。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Düsenhieb",
                 "pt-br": "Soco a Jato",
                 "zh-tw": "噴射沖床",
+                ja: "ジェットパンチ",
                 pt: "Soco Jato"
             },
             damage: 50,
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 50 de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊也會對對手後備的 1 隻寶可夢造成 50 點傷害。",
+                ja: "相手のベンチポケモン1匹にも50ダメージ。",
                 pt: "Este ataque também causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 'es-mx': "Este ataque también hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival."
             },

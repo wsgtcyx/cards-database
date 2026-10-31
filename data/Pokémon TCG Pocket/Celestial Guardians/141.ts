@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/141",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/141",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/141",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/141"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/141",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/141"
     },
     name: {
         en: "Komala",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Komala",
         de: "Koalelu",
         'pt-br': "Komala",
+        ja: "ネッコアラ",
         ko: "자말라",
         "zh-tw": "樹枕尾熊",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Trascorre la sua intera vita addormentato.\nNelle foglie di cui si nutre è presente un veleno\nche solo questo Pokémon riesce a decomporre.",
         de: "Koalelu verbringt sein ganzes Leben schlafend\nund ernährt sich von hochgiftigen Blättern, deren\nToxine kein anderes Pokémon abbauen kann.",
         'pt-br': "Komala passa a vida toda dormindo. Alimenta-se de folhas\nque contêm um veneno potente que só Komala\nconsegue digerir.",
+        ja: "一生を 眠ったまま 過ごす。 ネッコアラのみが 毒を 分解できる 猛毒の 葉っぱが エサ。",
         ko: "일생을 잠든 채로 보낸다.\n자말라만이 분해할 수 있는\n맹독성의 잎사귀를 먹이로 삼는다.",
         "zh-tw": "科馬拉一生都在睡覺。它以葉子為食，葉子中含有隻有科馬拉才能分解的劇毒。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Sonno Assoluto",
                 de: "Dauerschlaf",
                 'pt-br': "Comatoso",
+                ja: "ぜったいねむり",
                 ko: "절대안깸",
                 "zh-tw": "昏迷"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Mientras este Pokémon esté en el Puesto Activo, cada vez que le unas 1 Energía de tu área de Energía, pasa a estar Dormido.",
                 it: "Fintanto che questo Pokémon è in posizione attiva, ogni volta che gli assegni un'Energia dalla tua Zona Energia, il Pokémon viene addormentato.",
                 de: "Jedes Mal, wenn du 1 Energie aus dem Energiebereich an dieses Pokémon anlegst und es sich in der Aktiven Position befindet, ist dieses Pokémon jetzt schläft.",
+                ja: "このポケモンがバトル場にいるかぎり、自分のエネルギーゾーンからこのポケモンにエネルギーをつけるたび、このポケモンをねむりにする。",
                 ko: "이 포켓몬이 배틀필드에 있는 한, 자신의 에너지존에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "Enquanto este Pokémon estiver no Campo Ativo, sempre que você ligar uma Energia da sua Zona de Energia a ele, ele agora estará Adormecido.",
                 "zh-tw": "只要該神奇寶貝位於活動點，每當您從能量區向其附加能量時，它就會處於睡眠狀態。"
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 'pt-br': "Golpe de Colisão Rolante",
+                ja: "ころがりタックル",
                 ko: "구르기 태클",
                 "zh-tw": "滾動釣具"
             },

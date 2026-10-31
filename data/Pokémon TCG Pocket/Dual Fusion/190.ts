@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/190",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/190",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/190"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/190",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/190"
     },
     name: {
         en: "Cyndaquil",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Versengung",
                 "pt-br": "Chamuscada",
                 "zh-tw": "灼熱",
-                ja: "Singe",
+                ja: "こがす",
                 ko: "Singe"
             },
             cost: [
@@ -65,7 +66,7 @@ const card: Card = {
                 de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
                 "zh-tw": "將對手的戰鬥寶可夢灼傷。",
-                ja: "Your opponent's Active Pokémon is now Burned.",
+                ja: "相手のバトルポケモンをやけどにする。",
                 ko: "Your opponent's Active Pokémon is now Burned."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
         de: "Die Flammen auf seinem Rücken lodern am stärksten, wenn es zornig ist. Dadurch schüchtert es seine Feinde ein.",
         "pt-br": "O fogo que sai de suas costas queima mais forte quando este Pokémon está com raiva. As chamas intimidam os inimigos.",
         "zh-tw": "從背上噴出的火焰會在生氣時燃燒得最猛烈，令敵手大嚇一跳。",
-        ja: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+        ja: "背中から 吹き出す 炎は 怒ったときが いちばん 強く 燃え上がり 敵を 驚かせる。",
         ko: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
     }
 };

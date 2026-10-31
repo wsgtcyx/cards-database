@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/057",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/057",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/057"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/057"
     },
     name: {
         en: "Regidrago",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo corpo è formato da energia Drago cristallizzata. Pare che possieda i poteri di tutti i Pokémon di tipo Drago.",
         de: "Sein ganzer Körper besteht aus kristallisierter Drachen-Energie. Es soll über die Kräfte aller Drachen-Pokémon verfügen.",
         "pt-br": "Seu corpo é composto por energia de dragão cristalizada. Dizem que Regidrago possui os poderes de todos os Pokémon dragão.",
-        "zh-tw": "全身是由龍之能量的結晶打造而成。據說牠擁有所有的龍寶可夢的力量。"
+        "zh-tw": "全身是由龍之能量的結晶打造而成。據說牠擁有所有的龍寶可夢的力量。",
+        ja: "全身が ドラゴンエネルギーの 結晶。 すべての ドラゴン ポケモンの 力を 持つらしい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Schianto del Drago",
                 de: "Dracowucht",
                 "pt-br": "Pancada Dracônica",
-                "zh-tw": "龍之重擊"
+                "zh-tw": "龍之重擊",
+                ja: "ドラゴンスラム"
             },
             effect: {
                 en: "If this Pokémon has damage on it, this attack does -100 damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se questo Pokémon è danneggiato, questo attacco infligge -100 danni.",
                 de: "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke – 100 Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará -100 pontos de dano.",
-                "zh-tw": "若這隻寶可夢有受到傷害,則這個招式的傷害-100點。"
+                "zh-tw": "若這隻寶可夢有受到傷害,則這個招式的傷害-100點。",
+                ja: "このポケモンがダメージを受けているなら、このワザのダメージを-100する。"
             },
             damage: "140-"
         }

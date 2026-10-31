@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/003"
     },
     name: {
         en: "Mothim",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mothim",
         de: "Moterpel",
         'pt-br': "Mothim",
+        ja: "ガーメイル",
         ko: "나메일",
         "zh-tw": "紳士蛾",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Burmy",
         "pt-br": "Burmy",
         "zh-tw": "結草兒",
+        ja: "ミノムッチ",
     },
     description: {
         en: "It loves the honey of flowers and steals honey collected by Combee.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Ama il nettare dei fiori. Ruba e mangia\nil nettare raccolto da Combee.",
         de: "Es liebt Honig und stiehlt den Honig,\nder von Wadribie gesammelt wurde.",
         'pt-br': "Adora o néctar das flores e rouba mel\ncoletado por Combee.",
+        ja: "花の ミツが 大好き。 ミツハニーの 集めた ミツを 横取りして 食べてしまう。",
         ko: "꽃의 꿀을 매우 좋아한다.\n세꿀버리가 모아둔 꿀을\n가로채어 먹어 버린다.",
         "zh-tw": "牠喜愛花蜜，並偷取Combee採集的蜂蜜。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Raffica",
                 de: "Windstoß",
                 'pt-br': "Lufada de Vento",
+                ja: "かぜおこし",
                 ko: "바람일으키기",
                 "zh-tw": "陣風"
             },

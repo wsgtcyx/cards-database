@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/134",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/134",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/134",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/134"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/134",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/134"
     },
     name: {
         en: "Staraptor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Staraptor",
         de: "Staraptor",
         'pt-br': "Staraptor",
+        ja: "ムクホーク",
         ko: "찌르호크",
         "zh-tw": "姆克鷹",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Staravia",
         "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
+        ja: "ムクバード",
     },
     description: {
         en: "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Non appena si evolve, lascia lo stormo e affronta la\nvita da solo. Le sue ali sono estremamente robuste.",
         de: "Entwickelt sich Staravia zu Staraptor, verlässt es\nden Schwarm und lebt allein. Die Spannweite\nseiner Flügel ist gigantisch.",
         'pt-br': "Quando um Staravia evolui para Staraptor,\ndeixa o bando para viver sozinho. Têm asas robustas.",
+        ja: "ムクホークに なると 群れから 離れて １匹で 生きていく。 強靭な 翼を 持っている。",
         ko: "찌르호크가 되면 무리에서\n떨어져 혼자서 살아간다.\n강인한 날개를 가지고 있다.",
         "zh-tw": "當 Staravia 進化成 Staraptor 時，它們會離開羊群獨自生活。它們有堅固的翅膀。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Grinfie",
                 de: "Greifer",
                 'pt-br': "Agarramento",
+                ja: "わしづかみ",
                 ko: "꽉쥐기",
                 "zh-tw": "離合器"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 'pt-br': "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
             }

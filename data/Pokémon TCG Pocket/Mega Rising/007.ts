@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/007"
     },
     name: {
         en: "Dustox",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pudox",
         "pt-br": "Dustox",
         "zh-tw": "毒粉蛾",
+        ja: "ドクケイル",
     },
     illustrator: "Midori Harada",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Panekon",
         "pt-br": "Cascoon",
         "zh-tw": "盾甲繭",
+        ja: "マユルド",
     },
     description: {
         en: "It violently flutters its wings to scatter toxic dust\nwhen attacked. It becomes active after sunset.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sbatte violentemente le ali per disperdere polvere tossica\nquando attaccato. Diventa attivo dopo il tramonto.",
         "de": "Es schlägt heftig mit den Flügeln, um giftigen Staub zu verstreuen\nwenn angegriffen. Es wird nach Sonnenuntergang aktiv.",
         "pt-br": "Ele bate as asas violentamente para espalhar poeira tóxica\nquando atacado. Torna-se ativo após o pôr do sol.",
-        "zh-tw": "它猛烈地扇動翅膀，驅散有毒的粉塵\n當受到攻擊時。日落後它變得活躍。"
+        "zh-tw": "它猛烈地扇動翅膀，驅散有毒的粉塵\n當受到攻擊時。日落後它變得活躍。",
+        ja: "襲われると 激しく 羽ばたいて 猛毒の 粉を まき散らす。 日が暮れると 行動を はじめる。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Seleziona Polvere",
                 "de": "Wählen Sie Pulver",
                 "pt-br": "Selecione Pó",
-                "zh-tw": "選擇粉末"
+                "zh-tw": "選擇粉末",
+                ja: "セレクトパウダー"
             },
             damage: 60,
             cost: ["Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scegli Avvelenato o Confuso. Il Pokémon attivo del tuo avversario è ora influenzato da quella condizione speciale.",
                 "de": "Wählen Sie entweder „Vergiftet“ oder „Verwirrt“. Das Aktive Pokémon deines Gegners ist nun von diesem Sonderzustand betroffen.",
                 "pt-br": "Escolha Envenenado ou Confuso. O Pokémon Ativo do seu oponente agora é afetado por essa Condição Especial.",
-                "zh-tw": "選擇中毒或困惑。你對手的活躍神奇寶貝現在受到該特殊狀態的影響。"
+                "zh-tw": "選擇中毒或困惑。你對手的活躍神奇寶貝現在受到該特殊狀態的影響。",
+                ja: "どくまたはこんらんのどちらかを選び、相手のバトルポケモンをその状態にする。"
             }
         }],
     weaknesses: [{

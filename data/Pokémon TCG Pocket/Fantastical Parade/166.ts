@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/166",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/166"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/166"
     },
     name: {
         en: "Toxel",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Toxel",
         "de": "Toxel",
         "pt-br": "Toxel",
-        "zh-tw": "毒電嬰"
+        "zh-tw": "毒電嬰",
+        ja: "エレズン"
     },
     illustrator: "Taiga Kayama",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo negozio Pokémon egoista e in cerca di attenzione\nveleno ed elettricità in due diverse sacche all'interno\nil suo corpo.",
         "de": "Diese egoistischen, aufmerksamkeitsstarken Pokémon-Shops\nGift und Elektrizität in zwei verschiedenen Säcken im Inneren\nsein Körper.",
         "pt-br": "Este Pokémon egoísta e em busca de atenção armazena\nveneno e eletricidade em dois sacos diferentes dentro\nseu corpo.",
-        "zh-tw": "這家自私、尋求關注的神奇寶貝商店\n裡面有兩個不同的毒囊和電\n它的身體。"
+        "zh-tw": "這家自私、尋求關注的神奇寶貝商店\n裡面有兩個不同的毒囊和電\n它的身體。",
+        ja: "わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Shock statico",
                 "de": "Statischer Schock",
                 "pt-br": "Choque Estático",
-                "zh-tw": "靜電衝擊"
+                "zh-tw": "靜電衝擊",
+                ja: "バチバチ"
             },
             damage: 30,
             cost: ["Lightning", "Colorless"]

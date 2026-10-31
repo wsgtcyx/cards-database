@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/032"
     },
     name: {
         en: "Misdreavus",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon spaventa le persone nel mezzo\nla notte. Raccoglie la paura come energia.",
         "de": "Dieses Pokémon erschreckt die Leute mittendrin\ndie Nacht. Es sammelt Angst als seine Energie.",
         "pt-br": "Este Pokémon assusta as pessoas no meio de\na noite. Ele reúne o medo como sua energia.",
-        "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。"
+        "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。",
+        ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。"
     },
     stage: "Basic",
     abilities: [{
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Ispezione infiltrante",
                 "de": "Infiltrierende Inspektion",
                 "pt-br": "Inspeção de infiltração",
-                "zh-tw": "滲透檢查"
+                "zh-tw": "滲透檢查",
+                ja: "すりぬけチェック"
             },
             effect: {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand.",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Una sola volta durante il tuo turno, quando metti questo Pokémon dalla tua mano nella tua panchina, puoi chiedere al tuo avversario di rivelare la sua mano.",
                 "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank legst, kannst du deinen Gegner seine Hand aufdecken lassen.",
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá fazer com que seu oponente revele a mão dele.",
-                "zh-tw": "在你的回合中，當你將這只神奇寶貝從你的手牌放到你的替補席上時，你可能會讓對手亮出他們的手牌。"
+                "zh-tw": "在你的回合中，當你將這只神奇寶貝從你的手牌放到你的替補席上時，你可能會讓對手亮出他們的手牌。",
+                ja: "自分の番に、このカードを手札からベンチに出したとき、1回使える。相手の手札のオモテをすべて見る。"
             }
         }],
     attacks: [{
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "Fuoco fatuo",
                 "de": "Irrlicht",
                 "pt-br": "Will-O-Wisp",
-                "zh-tw": "鬼火"
+                "zh-tw": "鬼火",
+                ja: "おにび"
             },
             damage: 20,
             cost: ["Psychic"]

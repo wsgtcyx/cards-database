@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/131",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/131"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/131"
     },
     name: {
         en: "Ambipom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ambipom",
         de: "Ambidiffel",
         'pt-br': "Ambipom",
+        ja: "エテボース",
         ko: "겟핸보숭",
         "zh-tw": "雙尾怪手",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
+        ja: "エイパム",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Usa le code per fare tutto. Se abbraccia\nqualcuno con entrambe le code, significa che\nprova un grande affetto per questa persona.",
         de: "Es benutzt seine zwei Schweife für alles, was es tut.\nWenn es jemanden mit ihnen umarmt, ist das ein\nBeweis seiner Zuneigung.",
         'pt-br': "Usa suas caudas para tudo. Se enroscar você com suas\nduas caudas e der um apertão, é sinal de que gosta muito\nde você.",
+        ja: "なにを するにも シッポを 使う。 ２本の シッポで 抱きしめられたら 本当に 懐かれた 証。",
         ko: "무엇을 하더라도 꼬리를 사용한다.\n2개의 꼬리로 껴안는다면\n정말로 친밀해졌다는 증거다.",
         "zh-tw": "它用尾巴做一切事情。如果它用兩條尾巴纏住你並擠壓你，那就證明它真的喜歡你。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Doppiosmash",
                 de: "Doppelschlag",
                 'pt-br': "Golpe Duplo",
+                ja: "ダブルアタック",
                 ko: "더블어택",
                 "zh-tw": "雙重打擊"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×40ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 40데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 40 點傷害。"
             }

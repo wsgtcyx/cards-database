@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/069",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/069",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/069",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/069"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/069",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/069"
     },
     name: {
         en: "Kirlia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kirlia",
         de: "Kirlia",
         'pt-br': "Kirlia",
+        ja: "キルリア",
         ko: "킬리아",
         "zh-tw": "奇魯莉安",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Trasla",
         "pt-br": "Ralts",
         "zh-tw": "拉魯拉絲",
+        ja: "ラルトス",
     },
     description: {
         en: "It has a psychic power that enables it to distort the space around it and see into the future.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Sfruttando i suoi poteri psichici, può distorcere\nlo spazio circostante per prevedere l'avvenire.",
         de: "Seine Psycho-Kräfte erlauben es ihm,\nden Raum um sich selbst zu verformen\nund so in die Zukunft zu sehen.",
         'pt-br': "Possui um poder psíquico que lhe permite distorcer\no espaço ao seu redor e ver o futuro.",
+        ja: "サイコパワーを 操り まわりの 空間を ねじ曲げる ことで 未来を 見通す ことが できる。",
         ko: "사이코 파워를 조작해\n주변의 공간을 일그러뜨려\n미래를 내다볼 수 있다.",
         "zh-tw": "它擁有一種精神力量，能夠扭曲周圍的空間並預見未來。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Sberla",
                 de: "Hieb",
                 'pt-br': "Tapa",
+                ja: "ビンタ",
                 ko: "뺨치기",
                 "zh-tw": "拍擊"
             },

@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Réjouissances Rayonnantes",
 		it: "Tripudio Splendente",
 		'pt-br': "Festival Brilhante",
+		ja: "シャイニングハイ",
 		ko: '샤이닝 하이',
 		'zh-tw': "閃耀盛典"
 	},

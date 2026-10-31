@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/008",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/008",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/008"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/008"
     },
     name: {
         en: "Torchic",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Pikser",
                 "pt-br": "Bicada",
                 "zh-tw": "啄",
-                ja: "Peck",
+                ja: "つつく",
                 ko: "Peck"
             },
             cost: [
@@ -67,7 +68,7 @@ const card: Card = {
         de: "Flemmli hängt an seinem Trainer wie eine Klette. Es watschelt immer hinter ihm her. Dieses Pokémon spuckt 1000 °C heiße Feuerbälle, die seinen Feind vollständig verkohlen.",
         "pt-br": "Torchic acompanha seu Treinador de perto, equilibrando-se com passos incertos. Esse Pokémon cospe fogo a mais de 1.000 °C, incluindo bolas de fogo que carbonizam seus oponentes.",
         "zh-tw": "牠會緊跟在訓練家的身後搖搖晃晃地走路。會從腹部吐出攝氏１０００度的火焰和火球，把對手燒成焦黑。",
-        ja: "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
+        ja: "トレーナーに くっついて ちょこちょこ 歩く。 口から 飛ばす 炎は 摂氏 １０００度。 相手を 黒コゲにする 灼熱の 玉だ。",
         ko: "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black."
     }
 };

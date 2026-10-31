@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/250",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/250",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/250",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/250"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/250",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/250"
     },
     name: {
         en: "Snorlax",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Snorlax",
         de: "Relaxo",
         'pt-br': "Snorlax",
+        ja: "カビゴン",
         ko: "잠만보",
         "zh-tw": "卡比獸",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Rotolamento",
                 de: "Walzer",
                 'pt-br': "Rolagem",
+                ja: "ころがる",
                 ko: "구르기",
                 "zh-tw": "推出"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo.",
         de: "Es muss über 400 kg Nahrung am Tag fressen,\num satt zu werden. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
         'pt-br': "Não se satisfaz a menos que coma mais de\n400 kg de alimentos todos os dias. Quando\ntermina de comer, dorme imediatamente.",
+        ja: "１日に 食べ物を ４００キロ 食べないと 気がすまない。 食べ終わると 眠ってしまう。",
         ko: "하루에 400kg의 음식을\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
         "zh-tw": "它每天不吃超過880磅的食物就不會滿足。當牠吃完飯後，它會立即睡覺。"
     },

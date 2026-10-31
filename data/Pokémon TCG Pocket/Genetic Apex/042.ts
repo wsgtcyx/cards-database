@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/042"
     },
     name: {
         en: "Ponyta",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ponyta",
         de: "Ponita",
         'pt-br': "Ponyta",
+        ja: "ポニータ",
         ko: "포니타",
         "zh-tw": "小火馬",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Fiammata",
                 de: "Flackern",
                 'pt-br': "Chama",
+                ja: "ほのお",
                 ko: "불꽃",
                 "zh-tw": "耀斑"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Appena nato non è un buon corridore, ma col tempo\nirrobustisce le sue zampe rincorrendo i suoi simili.",
         de: "Nach der Geburt fällt ihm das Laufen schwer.\nDie Wettrennen, die es sich mit seinen Freunden\nliefert, stärken jedoch seine Beinmuskulatur.",
         'pt-br': "Nasce sem saber correr muito bem, mas, à medida\nque corre com outros da sua espécie, suas pernas\nvão ficando mais fortes.",
+        ja: "生まれたばかりは 走るのが へた。 仲間と かけっこを するうちに 足腰が 強く 育っていく。",
         ko: "갓 태어났을 때는 달리는 것이 서툴다.\n동료와 달리기 경주를 하는 사이에\n하반신이 튼튼하게 성장한다.",
         "zh-tw": "剛出生的時候是不能正常運行的。當它與其他同類賽跑時，它的腿會變得更加強壯。"
     },

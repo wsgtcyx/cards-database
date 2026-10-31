@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/005",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/005",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/005"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/005",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/005"
     },
     name: {
         en: "Maractus",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Maractus",
         de: "Maracamba",
         'pt-br': "Maractus",
+        ja: "マラカッチ",
         ko: "마라카치",
         "zh-tw": "沙鈴仙人掌",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Emette un suono di maracas. Sfrutta il suo\nritmo vivace per prendere alla sprovvista i\nPokémon alati, che volano via in tutta fretta.",
         de: "Es erzeugt Laute, die dem Klang von Maracas ähneln,\nund weiß sich Vogel-Pokémon mit flotten Rhythmen\nvom Leib zu halten.",
         'pt-br': "Este Pokémon produz um ritmo animado com sons que\npoderiam ser confundidos com os de maracas, assustando\nos Pokémon pássaro, que saem voando imediatamente.",
+        ja: "マラカスの ような 音を だす。 陽気な リズムに 鳥ポケモンは 驚き 慌て 飛び去っていく。",
         ko: "마라카스 같은 소리를 낸다.\n리듬이 경쾌해서 새포켓몬은\n깜짝 놀라 허둥지둥 날아가버린다.",
         "zh-tw": "它發出的聲音可能會被誤認為是沙球的嘎嘎聲，它會產生一種歡快的節奏，驚動鳥類神奇寶貝並讓它們匆忙飛走。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Puntura",
                 de: "Einstich",
                 'pt-br': "Ferroada",
+                ja: "チクチクさす",
                 ko: "따끔따끔찌르기",
                 "zh-tw": "蜇"
             },

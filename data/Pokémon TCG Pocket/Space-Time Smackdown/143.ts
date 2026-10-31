@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/143",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/143"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/143"
     },
     name: {
         en: "Regigigas",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Regigigas",
         de: "Regigigas",
         'pt-br': "Regigigas",
+        ja: "レジギガス",
         ko: "레지기가스",
         "zh-tw": "雷吉奇卡斯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Si dice che abbia creato dei Pokémon simili a sé\nusando una montagna ghiacciata, rocce e magma.",
         de: "Man sagt, es habe Pokémon aus einem Eisberg,\nFelsen und Magma nach seinem Abbild geschaffen.",
         'pt-br': "Diz-se que criaram Pokémon parecidos com eles mesmos\nde uma montanha de gelo especial, rochas e magma.",
+        ja: "特殊な 氷山や 岩石 マグマから 自分の 姿に 似た ポケモンを つくったと 言われる。",
         ko: "특수한 빙산이나 암석,\n마그마에서 자신의 모습과 닮은\n포켓몬을 만들었다고 전해진다.",
         "zh-tw": "據說，它用特殊的冰山、岩石和岩漿創造了與自己相似的神奇寶貝。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Martelfuria",
                 de: "Wuthammer",
                 'pt-br': "Martelo Feroz",
+                ja: "レイジングハンマー",
                 ko: "레이징해머",
                 "zh-tw": "狂怒之鎚"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Questo attacco infligge danni aggiuntivi pari alla quantità di danni subiti al momento da questo Pokémon.",
                 de: "Diese Attacke fügt zusätzlichen Schaden in Höhe des Schadens zu, der diesem Pokémon bereits zugefügt wurde.",
                 'pt-br': "Este ataque causa dano a mais, equivalente ao dano que este Pokémon tiver nele.",
+                ja: "このポケモンが受けているダメージぶん、ダメージ追加。",
                 ko: "이 포켓몬이 받고 있는 데미지만큼 데미지를 추가한다.",
                 "zh-tw": "這次攻擊造成的傷害等於該神奇寶貝對其造成的傷害。"
             }

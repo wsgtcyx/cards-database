@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/096"
     },
     name: {
         en: "Conkeldurr",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Conkeldurr",
         de: "Meistagrif",
         'pt-br': "Conkeldurr",
+        ja: "ローブシン",
         ko: "노보청",
         "zh-tw": "修建老匠",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Strepoli",
         "pt-br": "Gurdurr",
         "zh-tw": "鐵骨土人",
+        ja: "ドテッコツ",
     },
     description: {
         en: "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Il cemento preparato da Conkeldurr è molto più duro e resistente\ndella media, anche se la sua composizione non ha nulla di diverso.",
         de: "Beton, der von Meistagrif angerührt wurde,\nist härter und robuster als jeder andere Beton,\nselbst wenn die Inhaltsstoffe identisch sind.",
         'pt-br': "O concreto misturado por Conkeldurr é muito mais\nduradouro do que o concreto normal, mesmo quando\na composição dos dois materiais é a mesma.",
+        ja: "同じ 成分でも ローブシンが 混ぜた コンクリートの ほうが ずっと 硬く 丈夫だ。",
         ko: "같은 성분이라도 노보청이\n배합한 콘크리트가\n훨씬 견고하고 튼튼하다.",
         "zh-tw": "即使兩種材料的成分相同，Conkeldurr 混合的混凝土也比普通混凝土更耐用。"
     },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Dentistretti",
                 de: "Adrenalin",
                 'pt-br': "Tenacidade",
+                ja: "こんじょう",
                 ko: "근성",
                 "zh-tw": "膽量"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Se questo Pokémon sta per essere messo KO dai danni di un attacco, lancia una moneta. Se esce testa, il Pokémon non viene messo KO e i suoi PS rimanenti diventano 10.",
                 de: "Wenn dieses Pokémon durch Schaden einer Attacke kampfunfähig würde, wirf 1 Münze. Bei Kopf wird dieses Pokémon nicht kampfunfähig und seine verbleibenden KP sind gleich 10.",
                 'pt-br': "Se este Pokémon estiver prestes a ser Nocauteado pelo dano de um ataque, jogue uma moeda. Se sair cara, este Pokémon não será Nocauteado e o PS restante dele será 10.",
+                ja: "このポケモンが、ワザのダメージを受けてきぜつするとき、自分はコインを1回投げる。オモテなら、このポケモンはきぜつせず、残りHPが10の状態で場に残る。",
                 ko: "이 포켓몬이 기술의 데미지를 받아 기절할 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 기절하지 않고 남은 HP가 10인 상태로 필드에 남는다.",
                 "zh-tw": "如果這只神奇寶貝因攻擊造成的傷害而被擊倒，則擲硬幣。如果正面，則該寶可夢不會被擊倒，其剩餘 HP 變為 10。"
             }
@@ -77,6 +83,7 @@ const card: Card = {
                 it: "Megapugno",
                 de: "Megahieb",
                 'pt-br': "Megassoco",
+                ja: "メガトンパンチ",
                 ko: "메가톤펀치",
                 "zh-tw": "超級沖床"
             },

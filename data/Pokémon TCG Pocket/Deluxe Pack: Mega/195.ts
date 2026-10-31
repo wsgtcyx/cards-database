@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/195",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/195",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/195"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/195"
     },
     name: {
         en: "Rookidee",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Weibliche Meikro sind deutlich empfindlicher als männliche. Beschmutzt jemand ihre Flügel, picken sie ihn wutentbrannt mit dem Schnabel nieder.",
         "pt-br": "As fêmeas são mais agitadas que os machos. Se outra criatura sujar as asas de uma Rookidee fêmea, ela bicará o agressor implacavelmente com uma fúria brutal.",
         "zh-tw": "雌性比雄性還要神經質。一旦羽毛被弄髒了，就會滿腔怒火地用鳥嘴猛啄。",
-        ja: "The females are fussier than the males. If another creature dirties a female Rookidee’s wings, it’ll peck the offender relentlessly in a burning rage.",
+        ja: "メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。",
         ko: "The females are fussier than the males. If another creature dirties a female Rookidee’s wings, it’ll peck the offender relentlessly in a burning rage."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Pflücker",
                 "pt-br": "Colher",
                 "zh-tw": "啄食",
-                ja: "Pluck",
+                ja: "ついばむ",
                 ko: "Pluck"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Bevor du Schaden zufügst, lege alle Pokémon-Ausrüstungen vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Antes de causar dano, descarte todas as Ferramentas Pokémon do Pokémon Ativo do seu oponente.",
                 "zh-tw": "在造成傷害前,將對手的戰鬥寶可夢身上的「寶可夢道具」丟棄。",
-                ja: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
+                ja: "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
                 ko: "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
             },
             damage: 10

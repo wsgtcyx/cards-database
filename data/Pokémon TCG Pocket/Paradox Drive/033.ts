@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/033",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/033",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/033"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/033"
     },
     name: {
         en: "Garganacl",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Molti Pokémon si radunano attorno a Garganacl, sperando di leccare il suo sale ricco di minerali.",
         de: "Viele Pokémon versammeln sich um Saltigant und hoffen, das mineralreiche Salz zu lecken.",
         "pt-br": "Muitos Pokémon se reúnem em torno de Garganacl, na esperança de lamber seu sal rico em minerais.",
-        "zh-tw": "許多寶可夢聚集在 鹽石巨靈 周圍，希望舔食其富含礦物質的鹽。"
+        "zh-tw": "許多寶可夢聚集在 鹽石巨靈 周圍，希望舔食其富含礦物質的鹽。",
+        ja: "ミネラル豊富な 塩を 舐めたくて キョジオーンの まわりに たくさんの ポケモンが 集まってくる。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Sale benedetto",
                 de: "Gesegnetes Salz",
                 "pt-br": "Sal Abençoado",
-                "zh-tw": "恩澤之鹽"
+                "zh-tw": "恩澤之鹽",
+                ja: "めぐみのしお"
             },
             effect: {
                 en: "During Pokémon Checkup, heal 10 damage from each of your Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il Controllo Pokémon, cura 10 danni a ciascuno dei tuoi Pokémon.",
                 de: "Heile während des Pokémon-Checks 10 Schadenspunkte bei jedem deiner Pokémon.",
                 "pt-br": "Durante o Pokémon Checkup, cure 10 pontos de dano de cada um dos seus Pokémon.",
-                "zh-tw": "在寶可夢檢查期間，每隻寶可夢治療 10 點傷害。"
+                "zh-tw": "在寶可夢檢查期間，每隻寶可夢治療 10 點傷害。",
+                ja: "このポケモンがいるかぎり、ポケモンチェックのたび、自分のポケモン全員のHPを10回復。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Schiacciaterra",
                 de: "Schollenbrecher",
                 "pt-br": "Aperto de Terra",
-                "zh-tw": "大地粉碎"
+                "zh-tw": "大地粉碎",
+                ja: "ランドクラッシュ"
             },
             damage: 90
         }

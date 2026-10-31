@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/011",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/011",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/011",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/011"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/011",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/011"
     },
     name: {
         en: "Vespiquen ex",
@@ -50,7 +51,8 @@ const card: Card = {
                 "pt-br": "Ordem de Perseguição",
                 "zh-tw": "追擊指令",
                 "it": "Ordine di Inseguimento",
-                "de": "Jagdbefehl"
+                "de": "Jagdbefehl",
+                ja: "ついげきしれい"
             },
             effect: {
                 en: "You may discard 1 of your Benched Basic {G} Pokémon. If you do, this attack does 70 more damage.",
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Puoi scartare uno dei tuoi Pokémon Base {G} in panchina. Se lo fai, questo attacco infligge 70 danni in più.",
                 "pt-br": "Você pode descartar 1 dos seus Pokémon {G} Básicos no Banco. Se fizer isso, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若希望,選擇1隻自己的備戰區的{G}屬性基礎寶可夢,將其丟棄。這個情況下,增加70點傷害。",
-                "de": "Du kannst 1 Basis-{G}-Pokémon von deiner Bank auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke 70 Schadenspunkte mehr zu."
+                "de": "Du kannst 1 Basis-{G}-Pokémon von deiner Bank auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+                ja: "のぞむなら、自分のベンチの{G}タイプのたねポケモンを1匹選び、トラッシュ。その場合、70ダメージ追加。"
             },
             damage: "70+"
         }

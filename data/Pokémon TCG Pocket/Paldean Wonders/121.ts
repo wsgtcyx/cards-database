@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/121",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/121",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/121"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/121"
     },
     name: {
         en: "Pawmot",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Pamomamo",
         'pt-br': "Pawmot",
         "zh-tw": "巴布土撥",
+        ja: "パーモット",
         ko: "빠르모트"
     },
     illustrator: "whomor Inc.",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Pamamo",
         "pt-br": "Pawmo",
         "zh-tw": "布土撥",
+        ja: "パモット",
         'es-mx': "Pawmo",
         pt: "Pawmo"
     },
@@ -46,7 +49,8 @@ const card: Card = {
         "it": "La soffice pelliccia di Pawmot funge da batteria. Può immagazzinare la stessa quantità di elettricità di un’auto elettrica.",
         "de": "Das flauschige Fell von Pamomamo fungiert als Batterie. Es kann die gleiche Menge Strom speichern wie ein Elektroauto.",
         "pt-br": "O pelo fofo do Pawmot funciona como uma bateria. Ele pode armazenar a mesma quantidade de eletricidade que um carro elétrico.",
-        "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。"
+        "zh-tw": "巴布土撥 蓬鬆的毛皮充當電池。它可以儲存與電動車相同的電力。",
+        ja: "ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。"
     },
     attacks: [
         {
@@ -58,6 +62,7 @@ const card: Card = {
                 de: "Donnerkeil",
                 "pt-br": "Explosão de trovão",
                 "zh-tw": "雷霆衝擊",
+                ja: "サンダーブラスト",
                 'es-mx': "Explosión Atronadora",
                 pt: "Explosão de Trovões"
             },
@@ -70,7 +75,8 @@ const card: Card = {
                 "it": "Scarta un'Energia Lightning da questo Pokémon.",
                 "de": "Lege eine Lightning-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte uma Energia Relâmpago deste Pokémon.",
-                "zh-tw": "丟棄這隻寶可夢的閃電能量。"
+                "zh-tw": "丟棄這隻寶可夢的閃電能量。",
+                ja: "このポケモンから{L}エネルギーを1個トラッシュ。"
             },
         },
     ],

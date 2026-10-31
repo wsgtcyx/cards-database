@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/117",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/117",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/117",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/117"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/117"
     },
     name: {
         en: "Metal Core Barrier",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Se questa carta è assegnata a 1 dei tuoi Pokémon, scartala alla fine del turno del tuo avversario. Il Pokémon {M} a cui è assegnata questa carta subisce -50 danni dagli attacchi dei Pokémon del tuo avversario.",
         de: "Wenn diese Karte an 1 deiner Pokémon angelegt ist, wirf sie am Ende des Zuges deines Gegners ab. Das {M}-Pokémon, an das diese Karte angelegt ist, erleidet -50 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Se esta carta estiver ligada a 1 dos seus Pokémon, descarte-a no final do turno do seu oponente. O Pokémon {M} ao qual esta carta está ligada sofre -50 de dano dos ataques dos Pokémon do seu oponente.",
-        "zh-tw": "自己的1隻寶可夢身上有這張卡的場合，對手回合結束時將其捨棄。這張卡所附著的{M}寶可夢因對方寶可夢的攻擊而受到-50點傷害。"
+        "zh-tw": "自己的1隻寶可夢身上有這張卡的場合，對手回合結束時將其捨棄。這張卡所附著的{M}寶可夢因對方寶可夢的攻擊而受到-50點傷害。",
+        ja: "ポケモンについているこのカードは、相手の番の終わりにトラッシュ。 このカードをつけている{M}ポケモンが、相手のポケモンから受けるワザのダメージを-50する。"
     },
     trainerType: "Tool"
 };

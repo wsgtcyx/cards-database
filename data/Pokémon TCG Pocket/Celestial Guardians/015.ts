@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/015"
     },
     name: {
         en: "Lurantis",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lurantis",
         de: "Mantidea",
         'pt-br': "Lurantis",
+        ja: "ラランテス",
         ko: "라란티스",
         "zh-tw": "蘭螳花",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Imantis",
         "pt-br": "Fomantis",
         "zh-tw": "偽螳草",
+        ja: "カリキリ",
     },
     description: {
         en: "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Sfrutta il suo dolce profumo floreale per attrarre\ni Pokémon Coleottero e li inganna fingendosi uno\ndi loro. Dopodiché, li abbatte con le sue falci.",
         de: "Es täuscht die von süßem Blumenduft angelockten\nKäfer-Pokémon, indem es sich als eines von ihnen\nausgibt, und erlegt sie dann mit seinen Sicheln.",
         'pt-br': "Ao se passar por um Pokémon inseto, baixa a guarda\ndos verdadeiros Pokémon inseto atraídos pelo aroma\ndoce das flores. Suas foices são aniquiladoras.",
+        ja: "花の 甘い 香りに 誘われて 寄ってきた 虫ポケモンを 仲間と 油断させ カマで 仕留める。",
         ko: "꽃의 달콤한 향기에 이끌려 찾아온\n벌레포켓몬을 동료인 척 방심시키고는\n낫으로 마무리한다.",
         "zh-tw": "通過偽裝成蟲子寶可夢，它會降低被甜美花香引誘的真正蟲子寶可夢的警惕性。它的鐮刀將他們打倒。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Fiortempesta",
                 de: "Blütenwirbel",
                 'pt-br': "Nevasca de Pétalas",
+                ja: "はなふぶき",
                 ko: "꽃보라",
                 "zh-tw": "花瓣暴風雪"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni a ciascuno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt jedem Pokémon deines Gegners 20 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a cada um dos Pokémon do seu oponente.",
+                ja: "相手のポケモン全員に20ダメージ。",
                 ko: "상대의 포켓몬 전원에게 20데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。"
             }

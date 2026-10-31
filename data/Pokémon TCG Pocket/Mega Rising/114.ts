@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/114"
     },
     name: {
         en: "Gothitelle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Morbitesse",
         "pt-br": "Gothitelle",
         "zh-tw": "哥德小姐",
+        ja: "ゴチルゼル",
     },
     illustrator: "Eri Yamaki",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Hypnomorba",
         "pt-br": "Gothorita",
         "zh-tw": "哥德小童",
+        ja: "ゴチミル",
     },
     description: {
         en: "It gazes at the stars to predict the future. It acts\nsomewhat detached because it has seen the end\nof all existence.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Guarda le stelle per predire il futuro. Agisce\nun po’ distaccato perché ha visto la fine\ndi tutta l'esistenza.",
         "de": "Es blickt in die Sterne, um die Zukunft vorherzusagen. Es wirkt\netwas distanziert, weil es das Ende gesehen hat\naller Existenz.",
         "pt-br": "Ele olha para as estrelas para prever o futuro. Ele atua\num pouco desapegado porque viu o fim\nde toda a existência.",
-        "zh-tw": "它凝視星星來預測未來。它的作用\n有點超然，因為它已經看到了結局\n所有存在的。"
+        "zh-tw": "它凝視星星來預測未來。它的作用\n有點超然，因為它已經看到了結局\n所有存在的。",
+        ja: "星を 眺め 未来を 予知する。 どこか 冷めた 態度を とるのは すべての 終わりを 知っているから。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Culla stellare",
                 "de": "Stellare Wiege",
                 "pt-br": "Berço Estelar",
-                "zh-tw": "恆星搖籃"
+                "zh-tw": "恆星搖籃",
+                ja: "ほしのゆりかご"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se assegna Energia dalla sua Zona di Energia al Pokémon Difensore, quel Pokémon sarà Addormentato.",
                 "de": "Wenn dein Gegner im nächsten Zug Energie aus seiner Energiezone an das verteidigende Pokémon anlegt, schläft dieses Pokémon.",
                 "pt-br": "Durante o próximo turno do seu oponente, se ele anexar Energia da sua Zona de Energia ao Pokémon Defensor, esse Pokémon ficará Adormecido.",
-                "zh-tw": "在對手的下一個回合中，如果他們將能量區中的能量附加到防守神奇寶貝上，該神奇寶貝將進入睡眠狀態。"
+                "zh-tw": "在對手的下一個回合中，如果他們將能量區中的能量附加到防守神奇寶貝上，該神奇寶貝將進入睡眠狀態。",
+                ja: "次の相手の番、このワザを受けたポケモンに、相手がエネルギーゾーンからエネルギーをつけたなら、そのポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/054"
     },
     name: {
         en: "Pyukumuku",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pyukumuku",
         de: "Gufa",
         'pt-br': "Pyukumuku",
+        ja: "ナマコブシ",
         ko: "해무기",
         "zh-tw": "拳海參",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vive vicino alle spiagge in acque calde e poco\nprofonde. Quando si imbatte in un nemico, lo\nattacca espellendo gli organi interni dalla bocca.",
         de: "Es lebt in warmen Küstengewässern. Trifft es auf\neinen Gegner, öffnet es den Mund und lässt zum\nAngriff seine Organe hervorschnellen.",
         'pt-br': "Vive em águas rasas e quentes. Se encontra\num inimigo, cospe seus órgãos internos\npara enchê-lo de socos.",
+        ja: "温かい 浅瀬で 暮らす。 敵に 出会うと 体内器官を 口から 出して 殴りつける。",
         ko: "따뜻하고 얕은 여울에 산다.\n상대와 마주치면 체내 기관을\n입으로 뿜어서 때려눕힌다.",
         "zh-tw": "它生活在溫暖的淺水中。如果遇到敵人，它會吐出內臟來攻擊敵人。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Espellinterno",
                 de: "Magenkrempler",
                 'pt-br': "Extensão de Vísceras",
+                ja: "とびだすなかみ",
                 ko: "내용물분출",
                 "zh-tw": "內臟出來"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Se questo Pokémon è in posizione attiva e viene messo KO dai danni inflitti da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 50 danni.",
                 de: "Wenn dieses Pokémon in der Aktiven Position ist und durch Schaden einer Attacke von Pokémon deines Gegners kampfunfähig wird, füge dem Angreifenden Pokémon 50 Schadenspunkte zu.",
                 'pt-br': "Se este Pokémon estiver no Campo Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, cause 50 pontos de dano ao Pokémon Atacante.",
+                ja: "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、ワザを使ったポケモンに50ダメージ。",
                 ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 기술을 사용한 포켓몬에게 50데미지를 준다.",
                 "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而被擊倒，則對攻擊的寶可夢造成 50 點傷害。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Goccioline",
                 de: "Wassersprüher",
                 'pt-br': "Aspergir Água",
+                ja: "うちみず",
                 ko: "물뿌려대기",
                 "zh-tw": "灑水"
             },

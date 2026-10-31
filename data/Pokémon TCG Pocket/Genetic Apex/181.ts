@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/181",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/181",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/181",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/181"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/181",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/181"
     },
     name: {
         en: "Meltan",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Meltan",
         de: "Meltan",
         'pt-br': "Meltan",
+        ja: "メルタン",
         ko: "멜탄",
         "zh-tw": "美錄坦",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Ammasso",
                 de: "Anhäufen",
                 'pt-br': "Acumular",
+                ja: "ためる",
                 ko: "저축하기",
                 "zh-tw": "積聚"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Prendi un'Energia {M} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {M}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 'pt-br': "Pegue 1 Energia {M} da sua Zona de Energia e ligue-a a este Pokémon.",
+                ja: "自分のエネルギーゾーンから{M}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 에너지존에서 {M}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出 1 {M} 能量並將其附加到這只神奇寶貝身上。"
             }
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Fonde il metallo per cibarsene, e lo fa\ncircolare nel suo corpo per produrre energia.",
         de: "Es schmilzt Metall ein und frisst es.\nIn seinem Körper wandelt es das flüssig\ngewordene Metall in Energie um.",
         'pt-br': "Dissolve e come metal. Este Pokémon gera energia\nquando metal líquido corre pelo seu corpo.",
+        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。",
         ko: "금속을 녹여서 먹어버린다.\n액체 금속을 순환시켜서\n체내에서 에너지를 만든다.",
         "zh-tw": "它會溶解併吞噬金屬。它通過在體內循環液態金屬來產生能量。"
     },

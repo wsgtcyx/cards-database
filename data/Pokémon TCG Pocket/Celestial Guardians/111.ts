@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/111",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/111",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/111",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/111"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/111",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/111"
     },
     name: {
         en: "Alolan Muk ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Muk di Alola-ex",
         de: "Alola-Sleimok-ex",
         'pt-br': "Muk de Alola ex",
+        ja: "アローラベトベトンex",
         ko: "알로라질뻐기 ex",
         "zh-tw": "阿羅拉臭臭泥ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Sleima",
         "pt-br": "Grimer de Alola",
         "zh-tw": "阿羅拉臭泥",
+        ja: "アローラベトベター",
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Miscuglio Chimico",
                 de: "Chemische Panik",
                 'pt-br': "Pânico Químico",
+                ja: "ケミカルパニック",
                 ko: "케미컬패닉",
                 "zh-tw": "化學恐慌"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Il Pokémon attivo dell'avversario viene influenzato da una condizione speciale scelta a caso tra addormentato, bruciato, confuso, paralizzato e avvelenato. Eventuali condizioni speciali da cui è già influenzato il Pokémon non verranno scelte.",
                 de: "1 Spezieller Zustand wird zufällig aus Schlaf, Verbrennung, Verwirrung, Paralyse und Vergiftung ausgewählt. Das Aktive Pokémon deines Gegners ist jetzt von diesem Zustand betroffen. Spezielle Zustände, von denen das Pokémon bereits betroffen ist, werden nicht ausgewählt.",
                 'pt-br': "1 Condição Especial entre Adormecido, Confuso, Envenenado, Paralisado e Queimado é escolhida aleatoriamente, e o Pokémon Ativo do seu oponente agora estará afetado por aquela Condição Especial. Nenhuma Condição Especial que já estiver afetando aquele Pokémon será escolhida.",
+                ja: "どく・やけど・ねむり・マヒ・こんらんの中からランダムに1つが選ばれ、相手のバトルポケモンをその特殊状態にする。すでに受けている特殊状態は、選ばれない。",
                 ko: "독・화상・잠듦・마비・혼란 중에서 랜덤으로 1개가 선택되어 상대의 배틀 포켓몬을 그 특수 상태로 만든다. 이미 받고 있는 특수 상태는 선택되지 않는다.",
                 "zh-tw": "從睡眠、燒傷、混亂、麻痺和中毒中隨機選擇 1 個特殊狀態，對手的活躍神奇寶貝現在受到該特殊狀態的影響。任何已經影響該神奇寶貝的特殊情況都不會被選擇。"
             }

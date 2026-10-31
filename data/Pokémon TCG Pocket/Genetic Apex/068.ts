@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/068"
     },
     name: {
         en: "Krabby",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Krabby",
         de: "Krabby",
         'pt-br': "Krabby",
+        ja: "クラブ",
         ko: "크랩",
         "zh-tw": "大鉗蟹",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Presa",
                 de: "Klammer",
                 'pt-br': "Agarramento Compressor",
+                ja: "はさむ",
                 ko: "찝기",
                 "zh-tw": "虎鉗夾具"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Lo si può trovare vicino al mare. Le grandi\nchele, se si staccano, ricrescono.",
         de: "Es kommt vor allem nahe dem Meer vor.\nDie großen Scheren wachsen nach, wenn\nsie vom Körper abgetrennt wurden.",
         'pt-br': "Estes Pokémon vivem perto do mar e\nsuas grandes pinças crescem de volta\nse forem arrancadas.",
+        ja: "海の 近くで 見つかる。 大きな ハサミは もぎとっても あとから また 生えてくる。",
         ko: "바다 근처에서 발견된다.\n커다란 집게는 뜯겨도\n나중에 다시 자라난다.",
         "zh-tw": "它可以在海邊附近找到。如果將大鉗子從插座中拔出，它們就會重新長出來。"
     },

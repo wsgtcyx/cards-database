@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/058",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/058",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/058"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/058",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/058"
     },
     name: {
         en: "Pachirisu",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pachirisu",
         de: "Pachirisu",
         'pt-br': "Pachirisu",
+        ja: "パチリス",
         ko: "파치리스",
         "zh-tw": "帕奇利茲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Appartiene alla tipologia di Pokémon\nmuniti di sacche elettriche sulle guance.\nRilascia dalla coda l'elettricità accumulata.",
         de: "Pachirisu ist eines der Pokémon, die mit ihren\nBackentaschen Elektrizität erzeugen. Den so\ngesammelten Strom gibt es über den Schweif ab.",
         'pt-br': "É um dos tipos de Pokémon com bolsas elétricas\nnas bochechas. Ele dispara cargas de sua cauda.",
+        ja: "ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。",
         ko: "볼에 전기 주머니를 가진 포켓몬의 일종.\n꼬리에 모인 전기를 방출한다.",
         "zh-tw": "它是帶有電力的神奇寶貝之一\n頰袋。它從尾巴發射電荷。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Plasma",
                 de: "Plasma",
                 'pt-br': "Plasma",
+                ja: "プラズマ",
                 ko: "플라스마",
                 "zh-tw": "電漿"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon {L} in panchina.",
                 de: "Lege 1 {L}-Energie aus deinem Energiebereich an 1 {L}-Pokémon auf deiner Bank an.",
                 'pt-br': "Pegue 1 Energia {L} da sua Zona de Energia e a 1 dos seus Pokémon {L} no Banco.",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
                 ko: "자신의 에너지존에서 {L}에너지를 1개 내보내 벤치의 {L} 포켓몬에게 붙인다.",
                 "zh-tw": "從你的能量區取出一個 {L} 能量並將其附加到你後備的 1 個 {L} 神奇寶貝上。"
             }

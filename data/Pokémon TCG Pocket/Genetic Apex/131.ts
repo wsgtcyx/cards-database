@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/131",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/131",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/131"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/131",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/131"
     },
     name: {
         en: "Kirlia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Kirlia",
         de: "Kirlia",
         'pt-br': "Kirlia",
+        ja: "キルリア",
         ko: "킬리아",
         "zh-tw": "奇魯莉安",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ralts",
         "de": "Trasla",
         "pt-br": "Ralts",
-        "zh-tw": "拉魯拉絲"
+        "zh-tw": "拉魯拉絲",
+        ja: "ラルトス"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Schiaffo",
                 de: "Klatscher",
                 'pt-br': "Estalo",
+                ja: "ひらてうち",
                 ko: "수벽치기",
                 "zh-tw": "斯馬克"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Sfruttando i suoi poteri psichici, può distorcere\nlo spazio circostante per prevedere l'avvenire.",
         de: "Seine Psycho-Kräfte erlauben es ihm,\nden Raum um sich selbst zu verformen\nund so in die Zukunft zu sehen.",
         'pt-br': "Possui um poder psíquico que lhe permite distorcer\no espaço ao seu redor e ver o futuro.",
+        ja: "サイコパワーを 操り まわりの 空間を ねじ曲げる ことで 未来を 見通す ことが できる。",
         ko: "사이코 파워를 조작해\n주변의 공간을 일그러뜨려\n미래를 내다볼 수 있다.",
         "zh-tw": "它擁有一種精神力量，能夠扭曲周圍的空間並預見未來。"
     },

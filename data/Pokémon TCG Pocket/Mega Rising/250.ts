@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/250",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/250",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/250",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/250"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/250",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/250"
     },
     name: {
         en: "Rufflet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Geronimatz",
         "pt-br": "Rufflet",
         "zh-tw": "毛頭小鷹",
+        ja: "ワシボン",
     },
     illustrator: "Saboteri",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Con i suoi artigli affilati, questo Pokémon lo trafigge\npreda, e poi li becca. Anche se anche\nconsuma bacche, è un carnivoro in fondo.",
         "de": "Mit seinen scharfen Krallen durchbohrt dieses Pokémon seine\nBeute, und dann pickt es nach ihnen. Obwohl es auch\nisst Beeren, ist im Herzen ein Fleischfresser.",
         "pt-br": "Com suas garras afiadas, este Pokémon perfura seus\npresa, e então ele os bica. Embora também\nconsome frutas vermelhas, é um carnívoro de coração.",
-        "zh-tw": "這只神奇寶貝用鋒利的爪子刺穿自己的身體\n獵物，然後啄食它們。雖然這也\n以漿果為食，本質上是肉食動物。"
+        "zh-tw": "這只神奇寶貝用鋒利的爪子刺穿自己的身體\n獵物，然後啄食它們。雖然這也\n以漿果為食，本質上是肉食動物。",
+        ja: "尖ったツメを 獲物に 突き立て ついばんでいる。 木の実も 食べるが 基本的に 肉食のポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attacco d'ala",
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
-                "zh-tw": "翼攻擊"
+                "zh-tw": "翼攻擊",
+                ja: "つばさでうつ"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

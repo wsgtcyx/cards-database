@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/198",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/198",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/198",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/198"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/198",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/198"
     },
     name: {
         en: "Chatot",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Plaudagei",
         "pt-br": "Chatot",
         "zh-tw": "聒噪鳥",
+        ja: "ペラップ",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Può imparare e pronunciare parole umane. Se si riuniscono,\nimparano tutti lo stesso detto.",
         "de": "Es kann menschliche Wörter lernen und sprechen. Wenn sie sich versammeln,\nSie alle lernen das gleiche Sprichwort.",
         "pt-br": "Ele pode aprender e falar palavras humanas. Se eles se reunirem,\ntodos eles aprendem o mesmo ditado.",
-        "zh-tw": "它可以學習並說出人類語言。如果他們聚集在一起，\n他們都學著同樣的一句話。"
+        "zh-tw": "它可以學習並說出人類語言。如果他們聚集在一起，\n他們都學著同樣的一句話。",
+        ja: "人の 言葉を 覚えて 鳴く。 仲間が 一か所に 集まると みんな 同じ 言葉を 覚える。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Canzone assonnata",
                 "de": "Schlafendes Lied",
                 "pt-br": "Canção Sonolenta",
-                "zh-tw": "昏昏欲睡的歌"
+                "zh-tw": "昏昏欲睡的歌",
+                ja: "スリーピーソング"
             },
             damage: 30,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario è addormentato.",
                 "de": "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             }
         }],
     weaknesses: [{

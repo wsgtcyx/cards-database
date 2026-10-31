@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/142",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/142",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/142",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/142"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/142",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/142"
     },
     name: {
         en: "Fan Rotom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rotom Vortice",
         de: "Wirbel-Rotom",
         'pt-br': "Rotom Ventilador",
+        ja: "スピンロトム",
         ko: "스핀로토무",
         "zh-tw": "旋轉洛托姆",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha assunto questa forma entrando in\nun ventilatore. Fa volare via tutto ciò che ha\nintorno per poi gioire compiaciuto del risultato.",
         de: "Dieses Rotom ist in einen Ventilator eingedrungen.\nEs wirbelt Dinge ringsum wild durch die Luft und\nlächelt dann hämisch.",
         'pt-br': "Este Rotom entrou em um ventilador.\nSorri com satisfação de sua travessura após soprar\npara longe tudo que estiver ao seu redor.",
+        ja: "扇風機に 入った 姿。 あたりのものを 吹き飛ばしては してやったりと ほくそ笑んでいる。",
         ko: "선풍기에 들어간 모습.\n주위에 있는 물건을 날려 버리고는\n해냈다는 듯이 싱글벙글하고 있다.",
         "zh-tw": "這個洛托姆已經進入了電風扇之中。當它吹走了周圍的一切後，它對一個精心策劃的惡作劇感到滿意地傻笑。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Vortempesta",
                 de: "Sturmwirbel",
                 'pt-br': "Tempestade Giratória",
+                ja: "せんぷう",
                 ko: "선풍",
                 "zh-tw": "旋轉風暴"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, aggiungi il Pokémon attivo del tuo avversario alle carte che ha in mano.",
                 de: "Wirf 1 Münze. Gib bei Kopf deinem Gegner sein Aktives Pokémon auf seine Hand.",
                 'pt-br': "Jogue uma moeda. Se sair cara, coloque o Pokémon Ativo do seu oponente na mão dele.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンを手札にもどす。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 패로 되돌린다.",
                 "zh-tw": "拋一枚硬幣。如果正面，則將對手的活躍寶可夢放入手牌。"
             }

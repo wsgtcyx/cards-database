@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/057",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/057",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/057",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/057"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/057",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/057"
     },
     name: {
         en: "Slowpoke",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Flegmon ist stets in Gedanken versunken, aber niemand weiß, worüber es nachdenkt. Seine Rute nutzt es geschickt zum Angeln.",
         "pt-br": "Está sempre distraidamente perdido em pensamentos, mas ninguém sabe o que ele está pensando. Tem muita habilidade em pescar com a cauda.",
         "zh-tw": "總是一副在發呆的樣子，不知道在想些什麼。擅長用尾巴來釣食物。",
-        ja: "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+        ja: "いつも ボーッとしていて なにを 考えているか わからない。 尻尾で エサを 釣るのが 得意。",
         ko: "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail."
     },
     attacks: [
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Kopfnuss",
                 "pt-br": "Cabeçada",
                 "zh-tw": "頭錘",
-                ja: "Headbutt",
+                ja: "ずつき",
                 ko: "Headbutt"
             },
             damage: 30

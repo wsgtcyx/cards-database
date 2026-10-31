@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/018",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/018"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/018"
     },
     name: {
         en: "Froakie",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Klaps",
                 "pt-br": "Pancada",
                 "zh-tw": "拍擊",
-                ja: "Pound",
+                ja: "はたく",
                 ko: "Pound"
             },
             cost: [
@@ -66,7 +67,7 @@ const card: Card = {
         de: "Es stößt aus Brust und Rücken elastische Blasen aus, mit denen es gegnerische Angriffe abfängt und so den erlittenen Schaden verringert.",
         "pt-br": "Libera bolhas flexíveis do peito e das costas. As bolhas reduzem os danos que sofreria ao serem atacadas.",
         "zh-tw": "從胸口和背部製造泡泡。利用有彈性的泡泡承受攻擊，降低所受的傷害。",
-        ja: "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+        ja: "胸と 背中から 泡を 出す。 弾力のある 泡で 攻撃を 受け止めて ダメージを 減らす。",
         ko: "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked."
     }
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/061",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/061",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/061",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/061"
     },
     name: {
         en: "Ursaring",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Ursaring",
         "pt-br": "Ursaring",
         "zh-tw": "圈圈熊",
+        ja: "リングマ",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Teddiursa",
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
+        ja: "ヒメグマ",
     },
     description: {
         en: "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Di solito ha un'espressione indurita, ma quando\nè leccare il miele, che ama, la gioia\nsente lo farà scoppiare in un ampio sorriso.",
         "de": "Normalerweise trägt es einen verhärteten Gesichtsausdruck, aber wann\nEs ist das Lecken von Honig – was es liebt – die Freude daran\nfühlt, wird ein breites Grinsen auslösen.",
         "pt-br": "Geralmente usa uma expressão endurecida, mas quando\nestá lambendo mel - que adora - a alegria que\nsente fará com que ele abra um amplo sorriso.",
-        "zh-tw": "平時表情都比較冷酷，但當\n它正在舔蜜——它所愛的——它的快樂\n感覺會讓它咧開嘴笑。"
+        "zh-tw": "平時表情都比較冷酷，但當\n它正在舔蜜——它所愛的——它的快樂\n感覺會讓它咧開嘴笑。",
+        ja: "不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo d'artiglio",
                 "de": "Klauenhieb",
                 "pt-br": "Corte de Garra",
-                "zh-tw": "利爪斬"
+                "zh-tw": "利爪斬",
+                ja: "ツメできりさく"
             },
             damage: 110,
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"]

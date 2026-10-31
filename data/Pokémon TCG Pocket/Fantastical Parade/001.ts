@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/001"
     },
     name: {
         en: "Ledyba",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ledyba",
         "de": "Ledyba",
         "pt-br": "Ledyba",
-        "zh-tw": "芭瓢蟲"
+        "zh-tw": "芭瓢蟲",
+        ja: "レディバ"
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questi Pokémon molto codardi si uniscono e\nusa Reflect per proteggere il loro nido.",
         "de": "Diese sehr feigen Pokémon schließen sich zusammen und\nVerwenden Sie Reflect, um ihr Nest zu schützen.",
         "pt-br": "Esses Pokémon muito covardes se unem e\nuse Reflect para proteger seu ninho.",
-        "zh-tw": "這些非常膽小的神奇寶貝聯合起來，\n使用反射來保護它們的巢穴。"
+        "zh-tw": "這些非常膽小的神奇寶貝聯合起來，\n使用反射來保護它們的巢穴。",
+        ja: "とっても 臆病な ポケモン。 仲間と 一緒に リフレクターを 張って 巣を 守って いるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Punch",
                 "de": "Stempel",
                 "pt-br": "Soco",
-                "zh-tw": "沖床"
+                "zh-tw": "沖床",
+                ja: "パンチ"
             },
             damage: 10,
             cost: ["Colorless"]

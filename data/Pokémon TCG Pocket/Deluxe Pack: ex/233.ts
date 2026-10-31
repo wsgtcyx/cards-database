@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/233",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/233",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/233",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/233"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/233",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/233"
 	},
 	name: {
 		en: "Alolan Grimer",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Grimer di Alola",
 		de: "Alola-Sleima",
 		"pt-br": "Grimer de Alola",
-		"zh-tw": "阿羅拉臭泥"
+		"zh-tw": "阿羅拉臭泥",
+		ja: "アローラベトベター"
 	},
 	illustrator: "Akira Komayama",
 	rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
 		it: "Negli impianti di smaltimento rifiuti di Alola ne vivono circa\n100 esemplari che lavorano sodo mangiando rifiuti in quantità.",
 		de: "Die Müllanlagen Alolas beherbergen rund hundert\nExemplare dieses Pokémon. Sie sind fleißig dabei,\nriesige Mengen an Müll zu vertilgen.",
 		"pt-br": "Há cerca de cem deles vivendo no lixão de Alola.\nEles todos trabalham duro e comem muito lixo.",
+		ja: "アローラの ゴミ処分場 には 100匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。",
 		ko: "알로라의 쓰레기 처리장에서는\n약 100마리가 살고 있다. 모두\n쓰레기를 많이 먹는 유능한 일꾼이다.",
 		"zh-tw": "阿羅拉的垃圾處理場裡生活著大約一百人。他們都是吃很多垃圾的勤勞工人。"
 	},
@@ -46,6 +49,7 @@ const card: Card = {
 				it: "Lanciamelma",
 				de: "Schleimwurf",
 				"pt-br": "Arremesso de Lodo",
+				ja: "ヘドロなげ",
 				ko: "오물던지기",
 				"zh-tw": "污泥拋擲"
 			},

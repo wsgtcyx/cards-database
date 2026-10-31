@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/032",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/032",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/032",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/032"
     },
     name: {
         en: "Mr. Mime",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mr. Mime",
         de: "Pantimos",
         'pt-br': "Mr. Mime",
+        ja: "バリヤード",
         ko: "마임맨",
         "zh-tw": "魔牆人偶"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Molti studiosi ritengono che abbia sviluppato mani\ncosì grandi perché gli sono utili per la mimica.",
         de: "Viele Forscher glauben, seine Hände hätten nur\ndeshalb so eine beachtliche Größe angenommen,\ndamit es Pantomime praktizieren kann.",
         'pt-br': "Suas mãos talvez não sejam grandes\npor acaso: muitos cientistas acreditam que\nas palmas se alargaram para fazer mímica.",
+        ja: "大きな 手のひらは パントマイムを するために 発達 したと 考える 学者も 多い。",
         ko: "커다란 손바닥은 팬터마임을\n하기 위해 발달했다고\n생각하는 학자도 많다.",
         "zh-tw": "它的手如此寬大可能並非巧合——許多科學家認為它的手掌變大是為了表演啞劇。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Giocoleria",
             de: "Jongleur",
             'pt-br': "Malabarismo",
+            ja: "ジャグリング",
             ko: "저글링",
             "zh-tw": "戲法"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Lancia 4 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa.",
             de: "Wirf 4 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
             'pt-br': "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+            ja: "コインを4回投げ、オモテの数×20ダメージ。",
             ko: "동전을 4번 던져서 앞면이 나온 수 × 20데미지를 준다.",
             "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
         }

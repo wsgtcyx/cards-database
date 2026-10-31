@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/122",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/122",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/122",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/122"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/122",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/122"
     },
     name: {
         en: "Sandshrew",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
+        ja: "サンド",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Scava nel terreno per creare il suo nido. Se\nle pietre dure gli impediscono di scavare tunnel, usa il suo tagliente\nartigli per frantumarli e poi continua a scavare.",
         "de": "Es gräbt sich in den Boden ein, um sein Nest zu bauen. Wenn\nHarte Steine erschweren ihm den Tunnelbau, er nutzt seine Schärfe\nKrallen, um sie zu zerschmettern, und gräbt dann weiter.",
         "pt-br": "Ele se enterra no solo para criar seu ninho. Se\npedras duras impedem a sua construção de túneis, ele usa suas pontas afiadas\ngarras para quebrá-los e depois continua cavando.",
-        "zh-tw": "它鑽入地下以築巢。如果\n堅硬的石頭阻礙了它的隧道挖掘，它利用其鋒利的\n用爪子把它們打碎，然後繼續挖掘。"
+        "zh-tw": "它鑽入地下以築巢。如果\n堅硬的石頭阻礙了它的隧道挖掘，它利用其鋒利的\n用爪子把它們打碎，然後繼續挖掘。",
+        ja: "地面を 掘って 巣穴を つくる。 地中の 硬い 岩も 鋭い ツメで 砕いて 掘り進むぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spruzzo di sabbia",
                 "de": "Sandspray",
                 "pt-br": "Spray de areia",
-                "zh-tw": "噴砂"
+                "zh-tw": "噴砂",
+                ja: "すなしぶき"
             },
             damage: 20,
             cost: ["Fighting"]

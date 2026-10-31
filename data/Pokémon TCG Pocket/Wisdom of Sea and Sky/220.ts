@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/220",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/220",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/220"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/220",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/220"
     },
     name: {
         en: "Misdreavus",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon spaventa le persone nel mezzo\nla notte. Raccoglie la paura come energia.",
         "de": "Dieses Pokémon erschreckt die Leute mittendrin\ndie Nacht. Es sammelt Angst als seine Energie.",
         "pt-br": "Este Pokémon assusta as pessoas no meio de\na noite. Ele reúne o medo como sua energia.",
-        "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。"
+        "zh-tw": "這個神奇寶貝在中間嚇到了人們\n那個晚上。它聚集恐懼作為能量。",
+        ja: "真夜中 人を 驚かせては 怖がる心を 集めて 自分の エネルギーに している ポケモン。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Mumble",
                 "de": "Murmeln",
                 "pt-br": "Resmungar",
-                "zh-tw": "咕噥"
+                "zh-tw": "咕噥",
+                ja: "つぶやく"
             },
             damage: 20,
             cost: ["Psychic"]

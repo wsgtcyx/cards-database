@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/408",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/408",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/408",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/408"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/408",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/408"
     },
     name: {
         en: "Eevee",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.",
         "pt-br": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
         "zh-tw": "有著不規則的基因。石頭散發出的放射線，會使牠的身體發生突變。",
-        ja: "Its genetic code is irregular. It may mutate if it is\nexposed to radiation from element stones.",
+        ja: "不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。",
         ko: "Its genetic code is irregular. It may mutate if it is\nexposed to radiation from element stones."
     },
     stage: "Basic",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Evolutionsschub",
                 "pt-br": "Impulso da Evolução",
                 "zh-tw": "提升進化",
-                ja: "Boosted Evolution",
+                ja: "ブーストしんか",
                 ko: "Boosted Evolution"
             },
             effect: {
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Solange dieses Pokémon in der Aktiven Position ist, kann es sich während deines ersten Zuges oder während des Zuges, in dem du es spielst, entwickeln.",
                 "pt-br": "Enquanto este Pokémon estiver no Campo Ativo, ele poderá evoluir durante o seu primeiro turno ou durante o turno em que for colocado em jogo.",
                 "zh-tw": "只要這隻寶可夢在戰鬥場上,就算在自己的最初回合或者剛使出的回合,也可進化。",
-                ja: "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.",
+                ja: "このポケモンは、バトル場にいるかぎり、最初の自分の番や、出したばかりの番でも進化できる。",
                 ko: "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it."
             }
         }
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Zertrampeln",
                 "pt-br": "Estouro",
                 "zh-tw": "踩",
-                ja: "Stampede",
+                ja: "ふむ",
                 ko: "Stampede"
             },
             damage: 10,

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/133",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/133"
     },
     name: {
         en: "Archen",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flapteryx",
         "pt-br": "Archen",
         "zh-tw": "始祖小鳥",
+        ja: "アーケン",
     },
     illustrator: "0313",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Federfossil",
         "pt-br": "Fóssil Pluma",
         "zh-tw": "羽毛化石",
+        ja: "はねの化石",
     },
     description: {
         en: "Archen is said to be the ancestor of bird\nPokémon. It lived in treetops, eating berries\nand bug Pokémon.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che Archen sia l'antenato dell'uccello\nPokemon. Viveva sulle cime degli alberi, mangiando bacche\ne Pokémon coleottero.",
         "de": "Archen soll der Vorfahre des Vogels sein\nPokémon. Es lebte in Baumwipfeln und ernährte sich von Beeren\nund Käfer-Pokémon.",
         "pt-br": "Diz-se que Archen é o ancestral do pássaro\nPokémon. Vivia nas copas das árvores, comendo frutas\ne insetos Pokémon.",
-        "zh-tw": "據說Archen是鳥類的祖先\n神奇寶貝。它住在樹頂，吃漿果\n和蟲子神奇寶貝。"
+        "zh-tw": "據說Archen是鳥類的祖先\n神奇寶貝。它住在樹頂，吃漿果\n和蟲子神奇寶貝。",
+        ja: "鳥ポケモンの 祖先と 言われる。 木の上で 暮らし 木の実や 虫ポケモンを 食っていた。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Lancio di roccia",
                 "de": "Steinwurf",
                 "pt-br": "Lançamento de pedra",
-                "zh-tw": "扔石頭"
+                "zh-tw": "扔石頭",
+                ja: "いわおとし"
             },
             damage: 40,
             cost: ["Fighting"]

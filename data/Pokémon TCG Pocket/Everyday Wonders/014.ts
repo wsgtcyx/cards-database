@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/014",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/014"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/014",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/014"
     },
     name: {
         en: "Feebas",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È il Pokémon più squallido di tutti. Forma banchi e vive sul fondo dei fiumi brulicanti di vita vegetale.",
         de: "Es ist das schäbigste Pokémon von allen. Es bildet Schulen und lebt am Grund von Flüssen, in denen es von Pflanzen nur so wimmelt.",
         "pt-br": "É o Pokémon mais pobre de todos. Forma cardumes e vive no fundo de rios repletos de plantas.",
-        "zh-tw": "它是所有寶可夢中最破舊的。它在充滿植物生命的河流底部形成學校和生活。"
+        "zh-tw": "它是所有寶可夢中最破舊的。它在充滿植物生命的河流底部形成學校和生活。",
+        ja: "一番 みすぼらしい ポケモン。 水草の 多い 川底で 大勢 集まって 暮らしている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Splash",
                 de: "Platscher",
                 "pt-br": "Borrifada",
-                "zh-tw": "躍起"
+                "zh-tw": "躍起",
+                ja: "はねる"
             },
             damage: 10
         }

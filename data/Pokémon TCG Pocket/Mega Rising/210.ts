@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/210",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/210",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/210",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/210"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/210",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/210"
     },
     name: {
         en: "Corvisquire",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kranoviz",
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
+        ja: "アオガラス",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Meikro",
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
+        ja: "ココガラ",
     },
     description: {
         en: "This intelligent Pokémon will quickly learn how to\nuse any tool it can hold in its beak or its talons.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Questo Pokémon intelligente imparerà presto a farlo\nusa qualsiasi strumento che può tenere nel becco o negli artigli.",
         "de": "Dieses intelligente Pokémon wird es schnell lernen\nVerwenden Sie jedes Werkzeug, das es in seinem Schnabel oder seinen Krallen halten kann.",
         "pt-br": "Este Pokémon inteligente aprenderá rapidamente como\nuse qualquer ferramenta que ele possa segurar no bico ou nas garras.",
-        "zh-tw": "這個聰明的神奇寶貝會很快學會如何\n使用它的喙或爪子可以握住的任何工具。"
+        "zh-tw": "這個聰明的神奇寶貝會很快學會如何\n使用它的喙或爪子可以握住的任何工具。",
+        ja: "頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Perforare Peck",
                 "de": "Drill Peck",
                 "pt-br": "Broca Peck",
-                "zh-tw": "鑽啄"
+                "zh-tw": "鑽啄",
+                ja: "ドリルくちばし"
             },
             damage: 40,
             cost: ["Colorless", "Colorless"]

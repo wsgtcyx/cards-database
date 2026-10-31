@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/062"
     },
     name: {
         en: "Helioptile",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Helioptile",
         de: "Eguana",
         'pt-br': "Helioptile",
+        ja: "エリキテル",
         ko: "목도리키텔",
         "zh-tw": "傘電蜥",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Distende le pieghe sulla testa per raccogliere\nla luce solare e produrre energia elettrica che\nusa per sferrare potenti mosse di tipo Elettro.",
         de: "Es breitet die Hautlappen an seinem Kopf aus,\num mithilfe des Sonnenlichts Strom zu erzeugen\nund mächtige Elektro-Attacken einzusetzen.",
         'pt-br': "Quando abertas, as extensões na sua cabeça\nservem como painéis solares, gerando a energia\nusada em seus movimentos elétricos.",
+        ja: "頭の ひだを 広げ 太陽の 光で 発電すると パワフルな 電気技を 出せるようになる。",
         ko: "머리에 있는 주름을 펼쳐서\n태양의 빛으로 발전하면 파워풀한\n전기 기술을 쓸 수 있게 된다.",
         "zh-tw": "當展開時，它頭上的褶邊就像太陽能電池板一樣，為神奇寶貝的電動動作提供動力。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Calcio Esplosivo",
                 de: "Schmetterkick",
                 'pt-br': "Chute Poderoso",
+                ja: "けとばす",
                 ko: "걷어차기",
                 "zh-tw": "粉碎踢"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/062",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/062"
     },
     name: {
         en: "Granbull",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Granbull",
         "de": "Granbull",
         "pt-br": "Granbull",
-        "zh-tw": "布魯皇"
+        "zh-tw": "布魯皇",
+        ja: "グランブル"
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Snubbull",
         "de": "Snubbull",
         "pt-br": "Snubbull",
-        "zh-tw": "布魯"
+        "zh-tw": "布魯",
+        ja: "ブルー"
     },
     description: {
         en: "It can make most any Pokémon run away\nby opening its big mouth to reveal its\nthick fangs.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Può far scappare la maggior parte dei Pokémon\naprendo la sua grande bocca per rivelare la sua\nzanne spesse.",
         "de": "Es kann fast jedes Pokémon dazu bringen, wegzulaufen\nindem er seinen großen Mund öffnet, um ihn zu enthüllen\ndicke Reißzähne.",
         "pt-br": "Pode fazer quase qualquer Pokémon fugir\nabrindo sua boca grande para revelar seu\npresas grossas.",
-        "zh-tw": "它可以讓大多數神奇寶貝逃跑\n張開大嘴露出它的\n厚厚的獠牙。"
+        "zh-tw": "它可以讓大多數神奇寶貝逃跑\n張開大嘴露出它的\n厚厚的獠牙。",
+        ja: "大きな 口を 開いて 太い キバを 見せつければ たいていの ポケモンは 逃げ出す。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Forza",
                 "de": "Stärke",
                 "pt-br": "Força",
-                "zh-tw": "力量"
+                "zh-tw": "力量",
+                ja: "かいりき"
             },
             damage: 90,
             cost: ["Psychic", "Psychic", "Psychic"]

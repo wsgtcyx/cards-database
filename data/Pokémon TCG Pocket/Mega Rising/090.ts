@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/090",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/090",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/090",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/090"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/090",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/090"
     },
     name: {
         en: "Blitzle",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Elezeba",
         "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
+        ja: "シママ",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua criniera brilla quando scarica elettricità.\nUsano la frequenza e il ritmo di questi lampi\ncomunicare.",
         "de": "Seine Mähne glänzt, wenn er Elektrizität abgibt.\nSie nutzen die Frequenz und den Rhythmus dieser Blitze\nzu kommunizieren.",
         "pt-br": "Sua juba brilha quando descarrega eletricidade.\nEles usam a frequência e o ritmo desses flashes\npara se comunicar.",
-        "zh-tw": "當它放電時，它的鬃毛會發光。\n他們利用這些閃光的頻率和節奏\n進行溝通。"
+        "zh-tw": "當它放電時，它的鬃毛會發光。\n他們利用這些閃光的頻率和節奏\n進行溝通。",
+        ja: "放電すると たてがみが 光る。 たてがみが 輝く 回数や リズムで 仲間と 会話している。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Piccola carica",
                 "de": "Winzige Ladung",
                 "pt-br": "Carga minúscula",
-                "zh-tw": "微小的電荷"
+                "zh-tw": "微小的電荷",
+                ja: "プチでんき"
             },
             damage: 10,
             cost: ["Lightning"]

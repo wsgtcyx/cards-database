@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/064"
     },
     name: {
         en: "Bouffalant",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Bouffalant",
         "de": "Bisofank",
         "pt-br": "Bouffalant",
-        "zh-tw": "爆炸頭水牛"
+        "zh-tw": "爆炸頭水牛",
+        ja: "バッフロン"
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questi Pokémon vivono in branchi di circa 20 esemplari\nindividui. Bouffalant che tradiscono la volontà del gregge\nperdere i capelli in testa per qualche motivo.",
         "de": "Diese Pokémon leben in Herden von etwa 20 Tieren\nEinzelpersonen. Bouffalant, der den Herdenwillen verrät\naus irgendeinem Grund die Haare auf dem Kopf verlieren.",
         "pt-br": "Esses Pokémon vivem em rebanhos de cerca de 20\nindivíduos. Bouffalant que trai o rebanho vai\nperder o cabelo da cabeça por algum motivo.",
-        "zh-tw": "這些神奇寶貝生活在大約 20 隻的群體中\n個人。背叛牛群的蓬法蘭將會\n由於某種原因失去了頭上的頭髮。"
+        "zh-tw": "這些神奇寶貝生活在大約 20 隻的群體中\n個人。背叛牛群的蓬法蘭將會\n由於某種原因失去了頭上的頭髮。",
+        ja: "２０匹程度の 群れで 暮らす。 群れを 裏切った バッフロンは なぜか 頭の 毛が 抜ける。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Vendetta",
                 "de": "Rache",
                 "pt-br": "Vingança",
-                "zh-tw": "復仇"
+                "zh-tw": "復仇",
+                ja: "リベンジ"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni di un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 40 danni in più.",
                 "de": "Wenn eines deiner Pokémon im letzten Zug deines Gegners durch Schaden durch einen Angriff kampfunfähig gemacht wurde, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se algum dos seus Pokémon foi nocauteado pelo dano de um ataque durante o último turno do seu oponente, esse ataque causará 40 de dano a mais.",
-                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果你的任何一隻神奇寶貝在對手的最後回合中因攻擊傷害而被擊倒，則這次攻擊造成的傷害增加 40 點。",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

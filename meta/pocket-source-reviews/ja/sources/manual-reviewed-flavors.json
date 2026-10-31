@@ -1,0 +1,552 @@
+{
+  "B3a-044": {
+    "value": "毒成分の 結晶が まるで 花びらに 見える。 花粉のように 毒の粉を ばらまき 身を守る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 0
+  },
+  "B3a-061": {
+    "value": "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 1
+  },
+  "B3a-033": {
+    "value": "ミネラル豊富な 塩を 舐めたくて キョジオーンの まわりに たくさんの ポケモンが 集まってくる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 2
+  },
+  "B3a-032": {
+    "value": "体内で 岩塩を 圧縮。 固めた 塩の弾を 撃ちだすと 鉄板も 貫く 威力。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 3
+  },
+  "B3a-038": {
+    "value": "ずる賢く １匹が 親を 誘き寄せ もう１匹が タマゴを 取るという チームプレーも 見せる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 4
+  },
+  "A1-121": {
+    "value": "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 5
+  },
+  "A1-069": {
+    "value": "硬い ハサミは １万馬力の パワーを もっているが 大きすぎて 動きが 鈍い。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 6
+  },
+  "B3-005": {
+    "value": "垂直の 壁も すいすい 登る。 尻尾で 空気の 湿度を 感じ 明日の 天気を 当てる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 7
+  },
+  "B3-110": {
+    "value": "空から 地上を 観察して 弱った 獲物に 襲いかかる。 骨で 着飾る 習性。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 9
+  },
+  "B3-125": {
+    "value": "翅を 激しく 振動させて 超音波を 発生。 気絶した 獲物を 消化液で 溶かす。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 10
+  },
+  "B3-101": {
+    "value": "薄い バルーン状の 体に 猛毒の ガスが 詰まっているので ときどき 大爆発を 起こす。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 11
+  },
+  "B3-142": {
+    "value": "きれい好きな 性格の ポケモン。 尻尾を ほうきがわりに いつも 棲み処の ほこりを 払っている。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 12
+  },
+  "B3-103": {
+    "value": "毒針を 撃ち出した 直後の 無防備な 状態を 狙うと ベテランの 漁師は 語る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 13
+  },
+  "B3-012": {
+    "value": "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 14
+  },
+  "A2a-040": {
+    "value": "岩盤のような 硬い 殻に 覆われているが 力は 強く 暴れると 山も 崩れてしまう。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-0.png",
+    "reviewIndex": 15
+  },
+  "P-A-087": {
+    "value": "信頼する トレーナーには クリームで デコレーションした 木の実を ふるまって くれるのだ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 16
+  },
+  "P-A-020": {
+    "value": "暗闇にまぎれ ガスの手を 伸ばし 人の肩を 叩くのが 好き。 触られると 震えが 止まらない。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 17
+  },
+  "P-A-105": {
+    "value": "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 18
+  },
+  "P-A-072": {
+    "value": "アローラの ゴミ処分場 には 100匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 19
+  },
+  "A3-110": {
+    "value": "アローラの ゴミ処分場 には 100匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 21
+  },
+  "A3-115": {
+    "value": "エサを 探し 海辺を うろつく。 折れた バチンウニの トゲを 食べようとして よく 痺れている。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 22
+  },
+  "A3-116": {
+    "value": "自分の 脚で 作った ドームが 棲み処。 潮の 流れを ツノで 察知して 周囲を 探る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 23
+  },
+  "A3-107": {
+    "value": "とても 欲張りな 性質。巣には コラッタたちに 集めさせた エサが 食べきれないほど たんまり あるぞ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 24
+  },
+  "A2-104": {
+    "value": "いつも 悪さばかり していたら 不思議な 術で 本体を 要石に 縛りつけられた。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 25
+  },
+  "A2-040": {
+    "value": "昔は 背中に 貝がらを 背負っていた。 シェルダーなどに 近い 種類の ポケモン。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 26
+  },
+  "A2-103": {
+    "value": "尻尾の 先から ひどい 臭いの 液体を 飛ばして 攻撃するが 上から 狙われると 戸惑う。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 27
+  },
+  "B4b-306": {
+    "value": "群れで 行動する 習性。 眠る ときは 洞窟の 中で 仲間たちと 体を 寄せあう。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 28
+  },
+  "B4b-186": {
+    "value": "自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 29
+  },
+  "B4b-055": {
+    "value": "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 30
+  },
+  "B4b-325": {
+    "value": "キバや ツメに 見えるのは 毒素の 結晶。 触れるだけで 毒に 侵されるので 近付くのは 危険。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-1.png",
+    "reviewIndex": 31
+  },
+  "B4a-024": {
+    "value": "藻屑が 触っただけで 驚き 放電してしまうほど 臆病。 唇は 電気を 通さない。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 32
+  },
+  "B4a-039": {
+    "value": "とても 執念深い 性格。 一度 ターゲットに 決めた 獲物は どこまでも 追い続ける。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 33
+  },
+  "B4a-038": {
+    "value": "草地などに 多く 生息する。 舌を チロチロ させて まわりの 危険を 感じとる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 34
+  },
+  "B2a-070": {
+    "value": "タギングルが 描く 模様は 個体によって 異なり 生涯 同じ 模様を 描き続ける。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 35
+  },
+  "B2a-097": {
+    "value": "単独行動は 危険なので 3、4匹が 一列に 並んで 助け合いながら 沼地を 歩く。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 36
+  },
+  "B2a-067": {
+    "value": "発達した あごと キバは 岩を 噛み砕く 力強さ。 厚い 脂肪は 防御力 抜群。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 37
+  },
+  "B2a-068": {
+    "value": "子どもと 遊ぶことが 大好き。 普段は 温厚だが 家族を 守るとき 形相が 変わる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 38
+  },
+  "B2a-069": {
+    "value": "縄張りに 敵が 近づかないよう 刺激臭がする 毒液で 巣の まわりに 図形を 描く。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 39
+  },
+  "B2-099": {
+    "value": "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 41
+  },
+  "B2-095": {
+    "value": "高い 身体能力を もつ うえに 卑劣な 戦いかたを するので 手に負えない 強さ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 45
+  },
+  "B2-052": {
+    "value": "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 46
+  },
+  "B2-102": {
+    "value": "尻尾の 先から くさい 臭いの 液体を 飛ばして 攻撃。 連射すると 臭いは 弱まる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-2.png",
+    "reviewIndex": 47
+  },
+  "B2-106": {
+    "value": "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。とても 硬い 頭がい骨を 持つ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 48
+  },
+  "B2-094": {
+    "value": "プライドと 知能が 高い。 ずる賢く 立ちまわり 相手の 弱点を 執拗に 攻める。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 49
+  },
+  "B2-103": {
+    "value": "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 50
+  },
+  "B2-109": {
+    "value": "ＵＢと 呼ばれる 未知の 生命。 常に 腹を すかせているのか ずっと なにかを 喰らっている。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 51
+  },
+  "B4-099": {
+    "value": "タイヤも ひと口で 丸呑み。 体の 毛穴から 猛毒の 体液を 分泌する。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 57
+  },
+  "B4-209": {
+    "value": "電柱から 電気を 吸い取る。 体に 溜めた 電気を ショートさせて 音を 出す。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 58
+  },
+  "B4-096": {
+    "value": "とても 好戦的な 性質。自分より 格上の 相手にも 平気で 挑む むこうみず。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 59
+  },
+  "B4-204": {
+    "value": "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 60
+  },
+  "B1-161": {
+    "value": "再生力が とても 強い。 ちぎれた 脚は 苦味と 渋味が 強く 食材には むかない。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-3.png",
+    "reviewIndex": 63
+  },
+  "B1-155": {
+    "value": "棲み処は 洞窟の 奥深く。 エサも 少ないので 動くものは なんでも 食いつき 食べようとする。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 64
+  },
+  "B1-153": {
+    "value": "砂の悪魔と 呼ばれるほど 獰猛だが カバルドンには ケンカも 売らず おとなしい。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 67
+  },
+  "B1-163": {
+    "value": "群れを 作って 暮らし おたがいに 悪戯や 嫌がらせを 仕掛けて その腕を 磨いているぞ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 68
+  },
+  "B1-156": {
+    "value": "２つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 69
+  },
+  "B1-012": {
+    "value": "尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 70
+  },
+  "B3b-044": {
+    "value": "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。とても 硬い 頭がい骨を 持つ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 71
+  },
+  "B3b-074": {
+    "value": "再生力が とても 強い。 ちぎれた 脚は 苦味と 渋味が 強く 食材には むかない。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 72
+  },
+  "B3b-017": {
+    "value": "マイナス50度の 息を 吹きかけ 凍らせた 獲物を 秘密の 場所に 飾っていると 言われる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 73
+  },
+  "B3b-043": {
+    "value": "１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 74
+  },
+  "A4a-054": {
+    "value": "縄張りに 入り込んだ 相手を 見境なく 毒液で 攻撃。 船底を 腐らせる 猛毒だ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 75
+  },
+  "A4a-096": {
+    "value": "硬い ハサミは １万馬力の パワーを もっているが 大きすぎて 動きが 鈍い。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 76
+  },
+  "A4a-065": {
+    "value": "ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 77
+  },
+  "A4a-053": {
+    "value": "海に 漂う 藻屑に 紛れて 敵の 目を ごまかす。 腐った 海藻を 食べて 毒を 作る。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 78
+  },
+  "C1-088": {
+    "value": "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-4.png",
+    "reviewIndex": 79
+  },
+  "C1-087": {
+    "value": "相手の 姿に 化けてみせて 驚かせる。 無口な 子どもに 化けていることが 多いらしい。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 80
+  },
+  "C1-086": {
+    "value": "硬い 岩で 刀の 尻尾を 研ぐ。 しげみに 隠れて 獲物に 近寄り 毒の キバで 襲う。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 81
+  },
+  "C1-112": {
+    "value": "ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 82
+  },
+  "C1-026": {
+    "value": "焼けた 木炭に 命が 宿り ポケモンになった。 燃える 闘志で 強敵にも 戦いを 挑む。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 83
+  },
+  "B2b-031": {
+    "value": "尻尾を バネがわりにして 飛び跳ねることで 心臓を 動かしているので 止まると 死ぬ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 84
+  },
+  "B2b-041": {
+    "value": "ゴミの 詰まった ゴミ袋から 生まれた。 吐き出す 毒ガスは ガラルの マタドガスの 好物。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 85
+  },
+  "P-B-067": {
+    "value": "刃の 刃こぼれは 命取り。 戦いが 終わると お気に入りの 砥石で 念入りに 手入れする。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 86
+  },
+  "A2b-050": {
+    "value": "温厚だが 怒らせると 毒が 染みこんだ 鋭い 前歯で 咬みつき 痺れさせてくるぞ。",
+    "reason": "Read the native Japanese printed description in the original 367x512 card image; chose the source quotation matching its wording and kanji/kana spelling, not the nearest English translation.",
+    "reviewSheet": "review-sheet-5.png",
+    "reviewIndex": 87
+  },
+  "B3-175": {
+    "value": "発光体の 点滅によって 相手を 催眠状態にして 自由自在に 操ってしまう。",
+    "reason": "Read the native Japanese card-face prose and matched the corresponding Japanese game-Pokedex quotation.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%A9%E3%83%9E%E3%83%8D%E3%83%AD",
+      "pageSha256": "166d2c59c00b4a7ea09cde08935e1c948eec53dbff8bc887c5316ca3855b7571"
+    }
+  },
+  "P-A-106": {
+    "value": "ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。",
+    "reason": "Read the native Japanese card-face prose and matched the corresponding Japanese game-Pokedex quotation.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%BE%E3%83%AD%E3%82%A2%E3%83%BC%E3%82%AF",
+      "pageSha256": "f6e2159a77da23b93eb008d4047c133eb09fb9181da795b7ae8a76f2fcc42d39"
+    }
+  },
+  "B2-188": {
+    "value": "2つの アゴは 意思が あるように 激しく 暴れまくっている。 ひと噛みで 岩石も コナゴナだ。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AF%E3%83%81%E3%83%BC%E3%83%88",
+      "pageSha256": "cd4e15618988d6fee7cff3e6abcbc7dbc3a509d5862cbe0b4340ab511339eccf"
+    }
+  },
+  "B2-189": {
+    "value": "メガガルーラが 強い 理由は 子どもの 成長に 喜び 張り切っている ママの せい。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AC%E3%83%AB%E3%83%BC%E3%83%A9",
+      "pageSha256": "88d50888641fbd3ba64a119b007a54d2094983465567bf9662f22f03f614d3e3"
+    }
+  },
+  "B2-203": {
+    "value": "胸の 赤い プレートを 開いて 心を 解放すると 最大の サイコパワーが 放出される。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%B5%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88",
+      "pageSha256": "651edc2c164bfb2c43290d22eae807e782e10768e41bc5aafe97c62e8e5841e8"
+    }
+  },
+  "B1a-083": {
+    "value": "メガシンカして さらに 大きく 成長した 花を 支えるため 足腰も たくましく なったのだ。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%95%E3%82%B7%E3%82%AE%E3%83%90%E3%83%8A",
+      "pageSha256": "7338887a34745c60b65ccb5c8c50785f984af8507722bd30e4b0ddb97743371d"
+    }
+  },
+  "B1a-087": {
+    "value": "トレーナーとの 絆が パワーの 源。 ジェット機を しのぐ 飛行能力を 誇る。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89%E3%83%B3",
+      "pageSha256": "80c95e0f9fc1869bd670eec35f536b5c28c45977dbd766c1f48f5f91e59d7979"
+    }
+  },
+  "B1a-086": {
+    "value": "はがれおちた 硬い 身体の 表面を 磁力で 操り 相手からの 攻撃を 防ぐ。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BC%E3%83%AB",
+      "pageSha256": "494d0171d382a50932658e2fc5e808dc91f0bd77d77098fb9b2344f6c79ea9e1"
+    }
+  },
+  "B1a-020": {
+    "value": "甲羅の 大砲は 戦車並みの 威力。 発射の 衝撃を 強靭な 足腰で 踏ん張る。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9",
+      "pageSha256": "bb2f88eb01e31df49435a955dabcabd17e128bdacea95432abc6b1dc67c9e1b9"
+    }
+  },
+  "B1a-042": {
+    "value": "耳を ムチのように しならせて 敵に 打ちつける。 気性は 激しく 好戦的な 気質。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%83%9F%E3%83%AD%E3%83%83%E3%83%97",
+      "pageSha256": "a226af109457095a20f0c625207af89125c9b575c8334d8f511754f7ab7c820d"
+    }
+  },
+  "B1-285": {
+    "value": "メガシンカが 脳にも 作用。 すべてを 焼き尽す 破壊の 本能しか 残っていない。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%89%E3%82%B9",
+      "pageSha256": "618037dae131105c121aa85670ea4a71c98b3ca7297bf032c750a276cad6c17d"
+    }
+  },
+  "B1-272": {
+    "value": "メガシンカの 影響で 常に 興奮。 2本の 大角で 敵を 刺し貫いてから 引き裂く。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%B9",
+      "pageSha256": "d3f2719e952aa80a946242e0e5a4616106b2497141335a46044736c3465a6836"
+    }
+  },
+  "B1-151": {
+    "value": "メガシンカの エネルギーが みなぎり 全身の 体毛が 逆立つ。 翼では ないので 飛べは しない。",
+    "reason": "Native Japanese game-Pokedex quotation manually aligned with the exact existing English paragraph and form. Mega ex cards do not print flavor prose; this is supplemental game-Pokedex metadata, not a claimed card-face transcription.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%A2%E3%83%96%E3%82%BD%E3%83%AB",
+      "pageSha256": "d427f27b350a544d680fbc221c9dfb5ec7952ef422a635a5e7e7cd342a2a525d"
+    }
+  },
+  "B2-197": {
+    "value": "岩の ように 硬い 腕を 一振り するだけで 巨大な 岩を コナゴナに 砕くぞ。",
+    "reason": "Mega ex card has no printed flavor prose. Existing English paragraph exactly corresponds to this native Japanese game-Pokedex quotation; supplemental metadata retains that exact paragraph rather than substituting a different Mega description."
+  },
+  "B1-258": {
+    "value": "尻尾の先が 光り輝く。 光は はるか 遠くまで 届き 迷った者の 道標となる。",
+    "reason": "Mega ex card has no printed flavor prose. Existing English paragraph exactly corresponds to this native Japanese game-Pokedex quotation; supplemental metadata retains that exact paragraph rather than substituting a different Mega description."
+  }
+}

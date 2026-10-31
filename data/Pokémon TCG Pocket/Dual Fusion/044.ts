@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/044",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/044",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/044"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/044"
     },
     name: {
         en: "Voltorb",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Walzer",
                 "pt-br": "Rolagem",
                 "zh-tw": "滾動",
-                ja: "Rollout",
+                ja: "ころがる",
                 ko: "Rollout"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
         de: "Es bewegt sich rollend fort. Rollt es über unebenen Boden, kann es plötzlich explodieren.",
         "pt-br": "Ele rola para se mover. Quando o solo está desnivelado, um solavanco repentino após um baque pode fazê-lo explodir.",
         "zh-tw": "靠著滾來滾去移動，如果地面凹凸不平，就會受到衝擊而爆炸。",
-        ja: "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+        ja: "転がって 移動するので 地面が デコボコだと ショックで 爆発してしまう。",
         ko: "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode."
     }
 };

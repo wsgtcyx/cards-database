@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/150",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/150",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/150",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/150"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/150",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/150"
     },
     name: {
         en: "Bouffalant",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bisofank",
         "pt-br": "Bouffalant",
         "zh-tw": "爆炸頭水牛",
+        ja: "バッフロン",
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questi Pokémon possono schiacciare un'auto senza altro\npiù di una testata. Bouffalant con più peli\nle loro teste occupano posizioni più alte all'interno della mandria.",
         "de": "Diese Pokémon können ohne weiteres ein Auto zerquetschen\nals ein Kopfstoß. Bouffalant mit mehr Haaren\nIhre Köpfe nehmen innerhalb der Herde eine höhere Position ein.",
         "pt-br": "Esses Pokémon podem esmagar um carro sem mais\ndo que uma cabeçada. Bouffalant com mais cabelo\nsuas cabeças ocupam posições mais altas dentro do rebanho.",
-        "zh-tw": "這些神奇寶貝可以壓碎一輛汽車\n比用頭撞。蓬鬆的頭髮更多\n他們的頭部在牛群中佔據較高的位置。"
+        "zh-tw": "這些神奇寶貝可以壓碎一輛汽車\n比用頭撞。蓬鬆的頭髮更多\n他們的頭部在牛群中佔據較高的位置。",
+        ja: "頭突きだけで 車を 潰す。 頭の 毛が 大きいほど 群れでの 地位が 上がるのだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata continua",
                 "de": "Kontinuierlicher Kopfstoß",
                 "pt-br": "Cabeçada Contínua",
-                "zh-tw": "連續頭撞"
+                "zh-tw": "連續頭撞",
+                ja: "れんぞくずつき"
             },
             damage: "70×",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta finché non esce croce. Questo attacco infligge 70 danni per ogni testa.",
                 "de": "Wirf eine Münze, bis du „Zahl“ erhältst. Dieser Angriff verursacht 70 Schaden pro Kopf.",
                 "pt-br": "Jogue uma moeda até obter coroa. Este ataque causa 70 de dano para cada cabeça.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 70 點傷害。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 70 點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×70ダメージ。"
             }
         }],
     weaknesses: [{

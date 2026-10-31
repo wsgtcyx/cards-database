@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/012"
     },
     name: {
         en: "Magmar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Magmar",
         de: "Magmar",
         'pt-br': "Magmar",
+        ja: "ブーバー",
         ko: "마그마",
         "zh-tw": "鴨嘴火獸",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Abbatte le sue prede con le fiamme, ma\nfinisce per carbonizzarle accidentalmente,\ncon suo grande rammarico.",
         de: "Magmar erlegt seine Beute mit Feuer. Manchmal\nröstet es diese zu seinem Bedauern so stark,\ndass sie versehentlich verkohlt.",
         'pt-br': "Magmar incendeia suas presas, mas sempre se\narrepende ao perceber que as reduziu a cinzas.",
+        ja: "炎で 獲物を しとめる。 ついつい 焼きすぎて 黒コゲに してしまい 後悔する。",
         ko: "불꽃으로 먹이를 꼼짝 못 하게 한다.\n무의식중에 너무 오래 익혀서\n까맣게 태우고는 후회한다.",
         "zh-tw": "瑪格瑪用火消滅獵物。但一旦它意識到自己已經把它想要的獵物燒成了焦脆的東西，它就會後悔這個習慣。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fuocobomba",
                 de: "Feuersturm",
                 'pt-br': "Rajada de Fogo",
+                ja: "だいもんじ",
                 ko: "불대문자",
                 "zh-tw": "火爆"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie {R} da questo Pokémon.",
                 de: "Lege 2 {R}-Energien von diesem Pokémon ab.",
                 'pt-br': "Descarte 2 Energias {R} deste Pokémon.",
+                ja: "このポケモンから{R}エネルギーを2個トラッシュ。",
                 ko: "이 포켓몬에서 {R}에너지를 2개 트래쉬한다.",
                 "zh-tw": "丟棄該神奇寶貝的 2 個 {R} 能量。"
             }

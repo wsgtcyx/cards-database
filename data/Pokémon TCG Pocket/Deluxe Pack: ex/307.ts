@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/307",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/307",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/307",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/307"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/307",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/307"
 	},
 	name: {
         en: "Cyclizar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mopex",
         "pt-br": "Cyclizar",
         "zh-tw": "摩托蜥",
+        ja: "モトトカゲ",
     },
     illustrator: "HAGIYA Kaoru",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Apparentemente Cyclizar ha permesso alle persone di farlo\ncavalca sul suo dorso fin dai tempi antichi. Raffigurazioni di\nquesto è stato trovato in murales di 10.000 anni.",
         "de": "Anscheinend hat Cyclizar es den Leuten erlaubt\nseit der Antike auf dem Rücken reiten. Darstellungen von\nDies wurde in 10.000 Jahre alten Wandgemälden gefunden.",
         "pt-br": "Aparentemente, o Cyclizar tem permitido que as pessoas\nandar de costas desde os tempos antigos. Representações de\nisso foi encontrado em murais de 10.000 anos.",
-        "zh-tw": "顯然 Cyclizar 一直在允許人們\n自古就騎在它的背上。的描述\n這是在一萬年前的壁畫中發現的。"
+        "zh-tw": "顯然 Cyclizar 一直在允許人們\n自古就騎在它的背上。的描述\n這是在一萬年前的壁畫中發現的。",
+        ja: "大昔から 人を 背中に 乗せていたらしい。 1万年前の 壁画に 様子が 描かれている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Accelerazione eccessiva",
                 "de": "Überbeschleunigung",
                 "pt-br": "Superaceleração",
-                "zh-tw": "超加速"
+                "zh-tw": "超加速",
+                ja: "オーバーアクセル"
             },
             damage: 20,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, l'attacco Accelerazione eccessiva di questo Pokémon infligge +20 danni.",
                 "de": "Während deines nächsten Zuges verursacht der Überbeschleunigungsangriff dieses Pokémon +20 Schaden.",
                 "pt-br": "Durante o seu próximo turno, o ataque de Superaceleração deste Pokémon causará +20 de dano.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。",
+                ja: "次の自分の番、このポケモンの「オーバーアクセル」のダメージを+20する。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/002"
     },
     name: {
         en: "X Speed",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Velocità X",
         de: "X-Initiative",
         'pt-br': "Velocidade X",
+        ja: "スピーダー",
         ko: "스피드업",
         "zh-tw": "速度強化",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Durante questo turno, il costo di ritirata del tuo Pokémon attivo è ridotto di 1.",
         de: "Während dieses Zuges verringern sich die Rückzugskosten deines Aktiven Pokémon um 1.",
         'pt-br': "Durante este turno, o custo de Recuo do seu Pokémon Ativo é 1 a menos.",
+        ja: "この番、自分のバトルポケモンのにげるためのエネルギーを、1個少なくする。",
         ko: "이 차례에 자신의 배틀 포켓몬의 후퇴에 필요한 에너지를 1개 적게 만든다.",
         "zh-tw": "這個回合中，你的活躍寶可夢的撤退費用減少 1。"
     },

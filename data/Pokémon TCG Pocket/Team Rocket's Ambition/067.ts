@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/067",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/067"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/067"
     },
     name: {
         en: "Team Rocket's Thieving Machine",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Prendi una carta Strumento a caso, a eccezione di qualsiasi Ladrobot del Team Rocket, dalla pila degli scarti del tuo avversario e aggiungila alle carte che hai in mano.",
         de: "Nimm 1 zufällige Itemkarte, außer Team Rockets Raubmaschine, aus dem Ablagestapel deines Gegners auf deine Hand.",
         "pt-br": "Coloque carta de Item aleatória, exceto por quaisquer Máquina de Roubo da Equipe Rocket, da pilha de descarte do seu oponente na sua mão.",
-        "zh-tw": "從對手的棄牌區隨機將張物品卡(「火箭隊的竊盜機」除外)加入自己的手牌。"
+        "zh-tw": "從對手的棄牌區隨機將張物品卡(「火箭隊的竊盜機」除外)加入自己的手牌。",
+        ja: "相手のトラッシュからグッズ(「ロケット団のどろぼうマシン」をのぞく)をランダムに1枚、自分の手札に加える。"
     },
     trainerType: "Item"
 };

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/057",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/057",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/057",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/057"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/057",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/057"
 	},
 	name: {
 		en: "Charmeleon",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Charmeleon",
 		de: "Glutexo",
 		"pt-br": "Charmeleon",
-		"zh-tw": "火恐龍"
+		"zh-tw": "火恐龍",
+		ja: "リザード"
 	},
 	illustrator: "kantaro",
 	category: "Pokemon",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Charmander",
 		de: "Glumanda",
 		"pt-br": "Charmander",
-		"zh-tw": "小火龍"
+		"zh-tw": "小火龍",
+		ja: "ヒトカゲ"
 	},
 	attacks: [
 		{
@@ -45,6 +48,7 @@ const card: Card = {
 				it: "Artigli Infuocati",
 				de: "Feuerkrallen",
 				"pt-br": "Garras de Fogo",
+				ja: "ほのおのツメ",
 				ko: "불꽃의발톱",
 				"zh-tw": "火爪"
 			},
@@ -66,6 +70,7 @@ const card: Card = {
 		it: "Ha un'indole feroce. Usa la coda fiammeggiante come\nuna frusta e lacera l'avversario con gli artigli affilati.",
 		de: "Es ist brutal veranlagt. Im Kampf schlägt es mit\nseinem brennenden Schweif um sich und schlitzt\nGegner mit seinen scharfen Klauen auf.",
 		"pt-br": "Possui uma natureza bárbara. Em batalha, chicoteia\ncom sua cauda de fogo e corta com suas garras afiadas.",
+		ja: "燃える しっぽを 振りまわし するどい ツメで 相手を 切り裂く 荒々しい 性格。",
 		ko: "불타는 꼬리를 휘두르며\n날카로운 발톱으로 상대를\n베어 가르는 몹시 거친 성격이다.",
 		"zh-tw": "它具有野蠻的本質。在戰鬥中，它會揮舞著火焰般的尾巴，並用鋒利的爪子進行砍殺。"
 	}

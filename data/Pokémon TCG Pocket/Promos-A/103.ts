@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/103",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/103",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/103",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/103"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/103",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/103"
 	},
 	name: {
 		en: "Poliwag",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Poliwag",
 		de: "Quapsel",
 		"pt-br": "Poliwag",
-		"zh-tw": "蚊香蝌蚪"
+		"zh-tw": "蚊香蝌蚪",
+		ja: "ニョロモ"
 	},
 	illustrator: "MAHOU",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Per Poliwag nuotare è più facile che camminare.\nIl motivo a vortice sulla sua pancia ne è in realtà parte\nle viscere del Pokémon si vedono attraverso la pelle.",
 		de: "Für Poliwag ist Schwimmen einfacher als Gehen.\nDas Wirbelmuster auf seinem Bauch ist tatsächlich ein Teil davon\nDie Innereien des Pokémon sind durch die Haut sichtbar.",
 		"pt-br": "Para Poliwag, nadar é mais fácil do que caminhar.\nO padrão de redemoinho em sua barriga é na verdade parte\nas entranhas do Pokémon aparecendo através da pele.",
-		"zh-tw": "對於 Poliwag 來說，游泳比走路更容易。\n它腹部的漩渦圖案實際上是\n神奇寶貝的內臟透過皮膚顯現出來。"
+		"zh-tw": "對於 Poliwag 來說，游泳比走路更容易。\n它腹部的漩渦圖案實際上是\n神奇寶貝的內臟透過皮膚顯現出來。",
+		ja: "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Attacco a sorpresa",
 				de: "Überraschungsangriff",
 				"pt-br": "Ataque surpresa",
-				"zh-tw": "偷襲"
+				"zh-tw": "偷襲",
+				ja: "ふいをつく"
 			},
 			damage: 40,
 			cost: ["Colorless"],
@@ -56,7 +60,8 @@ const card: Card = {
 				it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
 				de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
 				"pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-				"zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+				"zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。",
+				ja: "コインを1回投げウラなら、このワザは失敗。"
 			}
 		}
 	],

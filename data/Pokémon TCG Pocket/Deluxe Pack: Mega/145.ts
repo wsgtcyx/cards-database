@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/145",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/145",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/145"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/145"
     },
     name: {
         en: "Zorua",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es schützt sich vor Gefahren, indem es seine wahre Gestalt geheim hält und sich in Menschen oder andere Pokémon verwandelt.",
         "pt-br": "Para se protegerem de perigos, eles escondem suas verdadeiras identidades ao se transformarem em pessoas e Pokémon.",
         "zh-tw": "會化為人類或其他的寶可夢，藉此隱藏自己本來的面貌，保護自己不受危險。",
-        ja: "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+        ja: "人や ほかの ポケモンに 化ける。 自分の 正体を 隠すことで 危険から 身を 守っているのだ。",
         ko: "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Aufstieg",
                 "pt-br": "Ascensão",
                 "zh-tw": "覺醒",
-                ja: "Ascension",
+                ja: "かくせい",
                 ko: "Ascension"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Lege eine zufällige Karte aus deinem Deck, die sich aus diesem Pokémon entwickelt, auf dieses Pokémon, um es zu entwickeln.",
                 "pt-br": "Coloque uma carta aleatória do seu baralho que evolua deste Pokémon sobre este Pokémon para evoluí-lo.",
                 "zh-tw": "從自己的牌庫隨機將1張從這隻寶可夢進化而來的卡,放置於這隻寶可夢身上完成進化。",
-                ja: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.",
+                ja: "このポケモンから進化するカードを、自分の山札からランダムに1枚、このポケモンにのせて進化させる。",
                 ko: "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
             }
         }

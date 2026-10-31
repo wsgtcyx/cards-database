@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/026",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/026",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/026"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/026"
     },
     name: {
         en: "Pawmi",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pawmi",
         de: "Pamo",
         'pt-br': "Pawmi",
+        ja: "パモ",
         ko: "빠모",
         "zh-tw": "布撥"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Le sacche elettriche sulle sue guance non si sono\nsviluppate del tutto e per generare energia deve\nsfregarle vigorosamente con le zampe anteriori.",
         de: "Seine elektrischen Backentaschen sind nicht ganz\nausgebildet. Um Strom zu erzeugen, muss es mit\nden Ballen der Vorderpfoten kräftig daran reiben.",
         'pt-br': "Possui bolsas de eletricidade subdesenvolvidas em suas\nbochechas. Elas só produzem eletricidade se Pawmi esfregá-las\nfuriosamente com as almofadas de suas patas dianteiras.",
+        ja: "頬の 電気袋は 未発達。 前脚の 肉球で 懸命に 擦ると ようやく 発電できる。",
         ko: "볼의 전기 주머니가 아직 발달하지 않았다.\n앞발의 볼록살을 열심히 비벼야\n겨우 전기가 만들어진다.",
         "zh-tw": "它的臉頰上有不發達的電囊。只有當波米用前爪上的肉墊猛烈摩擦時，這些囊才能產生電力。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Pugno",
             de: "Boxhieb",
             'pt-br': "Soco",
+            ja: "パンチ",
             ko: "펀치",
             "zh-tw": "沖床"
         },

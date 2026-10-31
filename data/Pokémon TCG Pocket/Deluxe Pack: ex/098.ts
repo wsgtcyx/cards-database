@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/098"
     },
     name: {
         en: "Gyarados ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Garados-ex",
         "pt-br": "Gyarados ex",
         "zh-tw": "暴鯉龍ex",
+        ja: "ギャラドスex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Vortice scatenato",
                 "de": "Tobender Whirlpool",
                 "pt-br": "Redemoinho furioso",
-                "zh-tw": "狂暴漩渦"
+                "zh-tw": "狂暴漩渦",
+                ja: "あばれうずしお"
             },
             damage: 140,
             cost: ["Water", "Water", "Water", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 "de": "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
+                "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

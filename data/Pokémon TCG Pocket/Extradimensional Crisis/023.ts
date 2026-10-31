@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/023"
     },
     name: {
         en: "Clefable",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pixi",
         "pt-br": "Clefable",
         "zh-tw": "皮可西",
+        ja: "ピクシー",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Piepi",
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
+        ja: "ピッピ",
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un timido Pokémon fatato che si vede raramente, lo farà\nscappa e nasconditi nel momento in cui percepisce la gente.",
         "de": "Es ist ein schüchternes Feen-Pokémon, das man selten sieht\nrenne und verstecke dich, sobald es Menschen wahrnimmt.",
         "pt-br": "Um Pokémon fada tímido que raramente é visto, ele irá\ncorra e se esconda no momento em que sente as pessoas.",
-        "zh-tw": "很少見到的膽怯的精靈寶可夢，它會\n當它感知到有人的時候就逃跑並躲起來。"
+        "zh-tw": "很少見到的膽怯的精靈寶可夢，它會\n當它感知到有人的時候就逃跑並躲起來。",
+        ja: "妖精の 仲間で めったに 人前に 出てこない。 気配を 感じて すぐに 逃げてしまうようだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio della Luna",
                 "de": "Mondkick",
                 "pt-br": "Chute da Lua",
-                "zh-tw": "月踢"
+                "zh-tw": "月踢",
+                ja: "ムーンキック"
             },
             damage: 60,
             cost: ["Psychic", "Colorless"]

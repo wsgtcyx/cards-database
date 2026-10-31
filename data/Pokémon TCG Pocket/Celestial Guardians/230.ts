@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/230",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/230",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/230",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/230"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/230",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/230"
     },
     name: {
         en: "Venusaur ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Venusaur-ex",
         de: "Bisaflor-ex",
         'pt-br': "Venusaur ex",
+        ja: "フシギバナex",
         ko: "이상해꽃 ex",
         "zh-tw": "妙蛙花ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
+        ja: "フシギソウ",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Foglielama",
                 de: "Rasierblatt",
                 'pt-br': "Folha Navalha",
+                ja: "はっぱカッター",
                 ko: "잎날가르기",
                 "zh-tw": "剃刀葉"
             },
@@ -58,6 +62,7 @@ const card: Card = {
                 it: "Gigafioritura",
                 de: "Riesenblüte",
                 'pt-br': "Florescimento Gigante",
+                ja: "ジャイアントブルーム",
                 ko: "자이언트 블룸",
                 "zh-tw": "巨型綻放"
             },
@@ -70,6 +75,7 @@ const card: Card = {
                 it: "Cura questo Pokémon da 30 danni.",
                 de: "Heile 30 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Cure 30 pontos de dano deste Pokémon.",
+                ja: "このポケモンのHPを30回復。",
                 ko: "이 포켓몬의 HP를 30회복.",
                 "zh-tw": "治療該神奇寶貝造成的 30 點傷害。"
             }

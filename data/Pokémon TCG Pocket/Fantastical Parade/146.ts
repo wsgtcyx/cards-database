@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/146",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/146"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/146"
     },
     name: {
         en: "Sail Fossil",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Fossilpinna",
         "de": "Flossenfossil",
         "pt-br": "Fóssil de Vela",
-        "zh-tw": "鰭之化石"
+        "zh-tw": "鰭之化石",
+        ja: "ヒレの化石"
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Gioca questa carta come se fosse un Pokémon Base {C} da 40 PS.\nIn qualsiasi momento durante il tuo turno, puoi scartare questa carta dal gioco.\nQuesta carta non può ritirarsi.",
         "de": "Spiele diese Karte, als wäre sie ein 40-HP-Basis-{C}-Pokémon.\nWährend deines Zuges kannst du diese Karte jederzeit aus dem Spiel abwerfen.\nDiese Karte kann nicht zurückgezogen werden.",
         "pt-br": "Jogue esta carta como se fosse um Pokémon Básico {C} de 40 HP.\nA qualquer momento durante o seu turno, você pode descartar esta carta do jogo.\nEsta carta não pode recuar.",
-        "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。"
+        "zh-tw": "像使用 40 HP 基本 {C} 神奇寶貝一樣使用這張卡。\n在你回合中的任何時候，你都可以將這張牌從遊戲中丟棄。\n這張卡不能撤退。",
+        ja: "このカードは、HP40の{C}タイプのたねポケモンとして、場に出すことができる。 自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。 このカードはにげるができない。"
     },
     trainerType: "Item"
 };

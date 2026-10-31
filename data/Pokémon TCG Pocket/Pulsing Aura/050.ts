@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/050"
     },
     name: {
         en: "Inteleon",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Può sembrare educato, ma nel profondo ha ancora un lato pigro. Si rallenterà quando il suo Allenatore non lo guarderà.",
         de: "Es mag sich als gut erzogen präsentieren, aber tief im Inneren hat es immer noch eine faule Seite. Es lässt nach, wenn sein Trainer nicht hinschaut.",
         "pt-br": "Pode se apresentar como bem-educado, mas no fundo ainda tem um lado preguiçoso. Ele irá relaxar quando seu Treinador não estiver olhando.",
-        "zh-tw": "它可能表面上表現得彬彬有禮，但內心深處仍然有懶惰的一面。當訓練家不注意時，它就會懈怠。"
+        "zh-tw": "它可能表面上表現得彬彬有禮，但內心深處仍然有懶惰的一面。當訓練家不注意時，它就會懈怠。",
+        ja: "紳士的な 振る舞いを みせるが 根っこは 怠け者のまま なので トレーナーが 見ていないと さぼる。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Tiro rapido",
                 de: "Schneller Schuss",
                 "pt-br": "Tiro Rápido",
-                "zh-tw": "快攻"
+                "zh-tw": "快攻",
+                ja: "はやうち"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi infliggere 30 danni al Pokémon attivo del tuo avversario.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante a sua vez de jogar, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 30 de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這隻寶可夢來進化你的一隻寶可夢時，你可以對對手的活躍寶可夢造成30點傷害。"
+                "zh-tw": "在你的回合中，當你從手牌中使用這隻寶可夢來進化你的一隻寶可夢時，你可以對對手的活躍寶可夢造成30點傷害。",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに30ダメージ。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Acquataglio",
                 de: "Aquaschneide",
                 "pt-br": "Aqua Gume",
-                "zh-tw": "水之刀鋒"
+                "zh-tw": "水之刀鋒",
+                ja: "アクアエッジ"
             },
             damage: 70
         }

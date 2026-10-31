@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/287",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/287",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/287",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/287"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/287",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/287"
     },
     name: {
         en: "Inteleon",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Phlegleon",
         "pt-br": "Drizzile",
         "zh-tw": "變澀蜥",
-        ja: "Drizzile",
+        ja: "ジメレオン",
         ko: "Drizzile"
     },
     stage: "Stage2",
@@ -53,7 +54,7 @@ const card: Card = {
         de: "Es präsentiert sich gern gesittet, aber im Herzen ist und bleibt es ein Faulpelz. Lässt sein Trainer es aus den Augen, gönnt es sich eine Auszeit.",
         "pt-br": "Aparenta ter boas maneiras, mas, no fundo, tem um lado preguiçoso. Vai mandriar quando seu Treinador não estiver de olho.",
         "zh-tw": "雖然表現得很有紳士風度，但生性懶惰的部分依舊沒變，因此在訓練家沒看著牠時就會偷懶。",
-        ja: "It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn’t looking.",
+        ja: "紳士的な 振る舞いを みせるが 根っこは 怠け者のまま なので トレーナーが 見ていないと さぼる。",
         ko: "It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn’t looking."
     },
     abilities: [
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Schneller Schuss",
                 "pt-br": "Disparo Diligente",
                 "zh-tw": "快攻",
-                ja: "Swift Shot",
+                ja: "はやうち",
                 ko: "Swift Shot"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zufügen.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá causar 30 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。對手的戰鬥寶可夢受到30點傷害。",
-                ja: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon.",
+                ja: "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンに30ダメージ。",
                 ko: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may do 30 damage to your opponent's Active Pokémon."
             }
         }
@@ -97,7 +98,7 @@ const card: Card = {
                 de: "Aquaschneide",
                 "pt-br": "Aqua Gume",
                 "zh-tw": "水之刀鋒",
-                ja: "Aqua Edge",
+                ja: "アクアエッジ",
                 ko: "Aqua Edge"
             },
             damage: 70

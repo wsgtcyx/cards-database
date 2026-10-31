@@ -33,7 +33,8 @@ const card: Card = {
                 it: "Falci Implacabili",
                 de: "Fallende Klinge",
                 "pt-br": "Gume Descendente",
-                "zh-tw": "劈斬刀鋒"
+                "zh-tw": "劈斬刀鋒",
+                ja: "フォーリングエッジ"
             },
             effect: {
                 en: "Discard 2 random Energy from this Pokémon.",
@@ -42,7 +43,8 @@ const card: Card = {
                 it: "Rimuovi 2 Energie a caso da questo Pokémon.",
                 de: "Lege 2 zufällige Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
-                "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。"
+                "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。",
+                ja: "このポケモンからエネルギーをランダムに2個トラッシュ。"
             },
             damage: 190,
             cost: [
@@ -73,7 +75,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/099",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/099"
     },
     boosters: [
         "vol13"

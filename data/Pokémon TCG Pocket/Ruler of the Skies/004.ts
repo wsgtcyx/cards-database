@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/004",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/004",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/004"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/004"
     },
     name: {
         en: "Cascoon",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Non dimentica mai gli attacchi subiti dentro il bozzolo.\nDopo l’evoluzione cerca di vendicarsi.",
         de: "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache.",
         "pt-br": "Ele nunca se esquece dos ataques sofridos enquanto estava no casulo. Após evoluir, ele procura vingança.",
-        "zh-tw": "就算進化了也不會忘記\n待在繭中時受到的攻擊。\n一定會設法進行報復。"
+        "zh-tw": "就算進化了也不會忘記\n待在繭中時受到的攻擊。\n一定會設法進行報復。",
+        ja: "マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Colecionador de Casulos",
                 "zh-tw": "繭聚一堂",
                 "it": "Collezionista di Crisalidi",
-                "de": "Kokonsammler"
+                "de": "Kokonsammler",
+                ja: "まゆがあつまる"
             },
             effect: {
                 en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
@@ -68,7 +71,8 @@ const card: Card = {
                 "pt-br": "Coloque 3 cartas aleatórias dentre Silcoon e Cascoon do seu baralho no seu Banco.",
                 "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。",
                 "it": "Prendi 3 Pokémon a caso tra Silcoon e Cascoon dal tuo mazzo e mettili nella tua panchina.",
-                "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank."
+                "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank.",
+                ja: "自分の山札から「カラサリス」または「マユルド」をランダムに3枚、ベンチに出す。"
             }
         }
     ],

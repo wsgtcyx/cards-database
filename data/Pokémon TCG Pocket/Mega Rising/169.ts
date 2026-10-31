@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/169",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/169",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/169"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/169",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/169"
     },
     name: {
         en: "Cobalion",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kobalium",
         "pt-br": "Cobalion",
         "zh-tw": "勾帕路翁",
+        ja: "コバルオン",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ha un corpo e un cuore d'acciaio. Ha funzionato con il suo\nalleati per punire le persone quando feriscono i Pokémon.",
         "de": "Es hat einen Körper und ein Herz aus Stahl. Es hat mit seinem funktioniert\nVerbündete, um Menschen zu bestrafen, wenn sie Pokémon verletzen.",
         "pt-br": "Tem corpo e coração de aço. Funcionou com seu\naliados para punir as pessoas quando elas machucam Pokémon.",
-        "zh-tw": "它有鋼鐵般的身體和鋼鐵般的心臟。它與它的\n當人們傷害神奇寶貝時，盟友會懲罰他們。"
+        "zh-tw": "它有鋼鐵般的身體和鋼鐵般的心臟。它與它的\n當人們傷害神奇寶貝時，盟友會懲罰他們。",
+        ja: "鋼の 心と 体を 持つ。 人が ポケモンを 傷つけたとき 仲間とともに 人を こらしめた。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spada Sacra",
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
-                "zh-tw": "聖劍"
+                "zh-tw": "聖劍",
+                ja: "せいなるつるぎ"
             },
             damage: 110,
             cost: ["Metal", "Metal", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può usare la Spada Sacra.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/146",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/146",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/146",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/146"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/146",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/146"
     },
     name: {
         en: "Pokémon Communication",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Comunicazione Pokémon",
         de: "Pokémon-Kommunikation",
         'pt-br': "Comunicação Pokémon",
+        ja: "ポケモン通信",
         ko: "포켓몬통신",
         "zh-tw": "寶可夢通信",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scegli un Pokémon fra quelli che hai in mano e sostituiscilo con un Pokémon a caso del mazzo.",
         de: "Wähle 1 Pokémon aus deiner Hand und tausche es mit 1 zufälligen Pokémon aus deinem Deck aus.",
         'pt-br': "Escolha 1 Pokémon na sua mão e troque-o por 1 Pokémon aleatório no seu baralho.",
+        ja: "自分の手札からポケモンを1枚選び、山札にあるランダムなポケモン1枚と入れ替える。",
         ko: "자신의 패에서 포켓몬을 1장 선택해서 덱에서 랜덤하게 포켓몬 1장과 교체한다.",
         "zh-tw": "選擇你手中的一隻神奇寶貝，然後將其與你牌組中隨機的一隻神奇寶貝進行交換。"
     },

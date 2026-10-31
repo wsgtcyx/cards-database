@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/267",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/267",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/267",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/267"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/267",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/267"
 	},
 	name: {
 		en: "Dratini",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Dratini",
 		de: "Dratini",
 		"pt-br": "Dratini",
-		"zh-tw": "迷你龍"
+		"zh-tw": "迷你龍",
+		ja: "ミニリュウ"
 	},
 	illustrator: "Naoyo Kimura",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Perde molti strati di pelle man mano che diventa più grande.\nDurante questo processo, è protetto da una rapida\ncascata.",
 		de: "Mit zunehmender Größe wirft es viele Hautschichten ab.\nWährend dieses Vorgangs wird es durch einen Schnellverschluss geschützt\nWasserfall.",
 		"pt-br": "Ele perde muitas camadas de pele à medida que cresce.\nDurante este processo, é protegido por uma rápida\ncachoeira.",
-		"zh-tw": "隨著它變大，它會脫落多層皮膚。\n在此過程中，它受到快速保護\n瀑布。"
+		"zh-tw": "隨著它變大，它會脫落多層皮膚。\n在此過程中，它受到快速保護\n瀑布。",
+		ja: "激しく 流れ落ちる 滝に 守られながら 脱皮を 繰り返し どんどん 大きくなる。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Colpo",
 				de: "Schlagen",
 				"pt-br": "Bater",
-				"zh-tw": "打"
+				"zh-tw": "打",
+				ja: "たたく"
 			},
 			damage: 20,
 			cost: ["Colorless"]

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/081",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/081",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/081",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/081"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/081"
     },
     name: {
         en: "Mega Sableye ex",
@@ -40,7 +41,8 @@ const card: Card = {
                 it: "Gioiello Maledetto",
                 de: "Verfluchtes Juwel",
                 "pt-br": "Jóia Amaldiçoada",
-                "zh-tw": "咒詛寶石"
+                "zh-tw": "咒詛寶石",
+                ja: "カースドジュエル"
             },
             effect: {
                 en: "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.",
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, se questo Pokémon viene danneggiato da un attacco, il Pokémon attaccante subisce 40 danni.",
                 de: "Wenn diesem Pokémon während des nächsten Zuges deines Gegners durch eine Attacke Schaden zugefügt wird, füge dem Angreifenden Pokémon 40 Schadenspunkte zu.",
                 "pt-br": "Durante o próximo turno do seu oponente, se este Pokémon for danificado por um ataque, cause 40 pontos de dano ao Pokémon Atacante.",
-                "zh-tw": "在對手的下一個回合中，如果這只寶可夢因攻擊而受到傷害，則對攻擊的寶可夢造成 40 點傷害。"
+                "zh-tw": "在對手的下一個回合中，如果這只寶可夢因攻擊而受到傷害，則對攻擊的寶可夢造成 40 點傷害。",
+                ja: "次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンに40ダメージ。"
             },
             damage: 80
         }

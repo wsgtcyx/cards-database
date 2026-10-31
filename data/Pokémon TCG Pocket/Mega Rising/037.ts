@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/037"
     },
     name: {
         en: "Pansear",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Grillmak",
         "pt-br": "Pansear",
         "zh-tw": "爆香猴",
+        ja: "バオップ",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon vive nelle caverne dei vulcani.\nIl fuoco all'interno del ciuffo sulla sua testa può raggiungere\n600 gradi Fahrenheit.",
         "de": "Dieses Pokémon lebt in Höhlen in Vulkanen.\nDas Feuer im Büschel auf seinem Kopf kann reichen\n600 Grad Fahrenheit.",
         "pt-br": "Este Pokémon vive em cavernas de vulcões.\nO fogo dentro do tufo em sua cabeça pode atingir\n600 graus Fahrenheit.",
-        "zh-tw": "這只神奇寶貝生活在火山的洞穴中。\n其頭上毛簇內的火焰可達到\n600 華氏度。"
+        "zh-tw": "這只神奇寶貝生活在火山的洞穴中。\n其頭上毛簇內的火焰可達到\n600 華氏度。",
+        ja: "火山の 洞穴で 暮らす。 頭の ふさの 中が 燃えていて ３００度の 高温になる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo",
                 "de": "Schlagen",
                 "pt-br": "Bater",
-                "zh-tw": "打"
+                "zh-tw": "打",
+                ja: "たたく"
             },
             damage: 10,
             cost: ["Colorless"]

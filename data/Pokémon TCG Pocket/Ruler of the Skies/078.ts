@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/078",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/078",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/078",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/078"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/078",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/078"
     },
     name: {
         en: "Oricorio",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A Paldea non si vede quasi mai. La sua danza affascinante e raffinata ha un grande successo tra gli adulti.",
         de: "Sein faszinierender, eleganter Tanzstil macht dieses Pokémon zwar bei Erwachsenen beliebt, doch in Paldea trifft man es kaum an.",
         "pt-br": "A dança elegante e atraente destes Oricorio é popular entre os adultos, mas estes Pokémon são raramente encontrados em Paldea.",
-        "zh-tw": "這個風格的舞蹈豔麗高雅，\n相當受到大人的歡迎，\n但在帕底亞卻很少見。"
+        "zh-tw": "這個風格的舞蹈豔麗高雅，\n相當受到大人的歡迎，\n但在帕底亞卻很少見。",
+        ja: "艶やか かつ 雅な ダンスで 大人に 人気の スタイルだが パルデアでは あまり 見かけない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Piume Soprannaturali",
                 de: "Übernatürliche Feder",
                 "pt-br": "Pena Sobrenatural",
-                "zh-tw": "妖異羽毛"
+                "zh-tw": "妖異羽毛",
+                ja: "あやかしフェザー"
             },
             effect: {
                 en: "Discard a card from your hand. If you can't, this attack does nothing.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scarta una carta dalla tua mano. Se non puoi, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não puder fazer isso, este ataque não fará nada.",
-                "zh-tw": "從自己的手牌抽出1張丟棄。若無法丟棄,則這個招式失敗。"
+                "zh-tw": "從自己的手牌抽出1張丟棄。若無法丟棄,則這個招式失敗。",
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
             },
             damage: 50
         }

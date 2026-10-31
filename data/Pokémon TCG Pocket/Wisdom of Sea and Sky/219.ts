@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/219",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/219",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/219",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/219"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/219",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/219"
     },
     name: {
         en: "Jolteon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Blitza",
         "pt-br": "Jolteon",
         "zh-tw": "雷伊布",
+        ja: "サンダース",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Eevee",
         "de": "Evoli",
         "pt-br": "Eevee",
-        "zh-tw": "伊布"
+        "zh-tw": "伊布",
+        ja: "イーブイ"
     },
     description: {
         en: "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Concentra le deboli cariche elettriche emesse\ndalle sue cellule e lancia fulmini malvagi.",
         "de": "Es konzentriert die emittierten schwachen elektrischen Ladungen\ndurch seine Zellen und feuert böse Blitze ab.",
         "pt-br": "Ele concentra as cargas elétricas fracas emitidas\npor suas células e lança relâmpagos perversos.",
-        "zh-tw": "它集中發射的微弱電荷\n通過它的細胞並發射邪惡的閃電。"
+        "zh-tw": "它集中發射的微弱電荷\n通過它的細胞並發射邪惡的閃電。",
+        ja: "細胞が 出している 弱い 電気を ひとまとめにして 強力な 電撃を 放つ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Bullone iniziale",
                 "de": "Anfangsbolzen",
                 "pt-br": "Parafuso Inicial",
-                "zh-tw": "起始螺栓"
+                "zh-tw": "起始螺栓",
+                ja: "ビギニングボルト"
             },
             damage: "40+",
             cost: ["Lightning"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se questo Pokémon si è evoluto durante questo turno, questo attacco infligge 20 danni in più.",
                 "de": "Wenn sich dieses Pokémon in diesem Zug weiterentwickelt hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon evoluiu durante este turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果這只寶可夢在本回合中進化，則這次攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果這只寶可夢在本回合中進化，則這次攻擊造成的傷害增加 20 點。",
+                ja: "この番、このポケモンに進化していたなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

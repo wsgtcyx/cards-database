@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/059",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/059",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/059"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/059"
     },
     name: {
         en: "Dunsparce",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Se avvistato scappa scavando con la coda. Può galleggiare leggermente usando le ali.",
         de: "Wenn es entdeckt wird, entkommt es, indem es sich mit seinem Schwanz eingräbt. Mit seinen Flügeln kann es leicht schweben.",
         "pt-br": "Se for avistado, ele escapa cavando com a cauda. Ele pode flutuar ligeiramente usando suas asas.",
-        "zh-tw": "如果被發現，它會用尾巴挖洞逃脫。它可以用翅膀輕微漂浮。"
+        "zh-tw": "如果被發現，它會用尾巴挖洞逃脫。它可以用翅膀輕微漂浮。",
+        ja: "だれかに 姿を 見られると 尻尾で 穴を掘って 逃げだす。 羽で 少しだけ 浮かべる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rotolamento",
                 de: "Walzer",
                 "pt-br": "Rolagem",
-                "zh-tw": "滾動"
+                "zh-tw": "滾動",
+                ja: "ころがる"
             },
             damage: 30
         }

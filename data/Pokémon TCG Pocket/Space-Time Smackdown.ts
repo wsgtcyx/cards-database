@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Choc Spatio-Temporel",
 		it: "Scontro Spaziotemporale",
 		"pt-br": "Embate do Tempo e Espaço",
+		ja: "時空の激闘",
 		ko: "시공의 격투",
 		"zh-tw": "時空激戰"
 	},
@@ -30,6 +31,7 @@ const set: Set = {
 				es: "Palkia",
 				it: "Palkia",
 				"pt-br": "Palkia",
+				ja: "時空の激闘 パルキア",
 				ko: "펄기아",
 				"zh-tw": "帕路奇犽",
 			},
@@ -42,6 +44,7 @@ const set: Set = {
 				es: "Dialga",
 				it: "Dialga",
 				"pt-br": "Dialga",
+				ja: "時空の激闘 ディアルガ",
 				ko: "디아루가",
 				"zh-tw": "帝牙盧卡",
 			},

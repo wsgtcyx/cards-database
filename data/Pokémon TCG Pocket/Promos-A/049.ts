@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/049",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/049",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/049"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/049"
     },
     name: {
         en: "Snorlax",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Snorlax",
         de: "Relaxo",
         'pt-br': "Snorlax",
+        ja: "カビゴン",
         ko: "잠만보",
         "zh-tw": "卡比獸",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Dopo aver trangugiato i suoi immancabili 400 kg\ndi cibo quotidiani, cade in un sonno profondo.",
         de: "Es muss über 400 kg Nahrung am Tag fressen,\num satt zu werden. Ist es mit dem Essen fertig,\nschläft es sofort ein.",
         'pt-br': "Não se satisfaz a menos que coma mais de\n400 kg de alimentos todos os dias. Quando\ntermina de comer, dorme imediatamente.",
+        ja: "１日に 食べ物を ４００キロ 食べないと 気がすまない。 食べ終わると 眠ってしまう。",
         ko: "하루에 400kg의 음식을\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
         "zh-tw": "不吃超過880磅就不會滿足\n每天的食物。當牠吃完後，\n很快就去睡覺了。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Collassare",
                 de: "Kollaps",
                 'pt-br': "Colapso",
+                ja: "たおれこむ",
                 ko: "쓰러지기",
                 "zh-tw": "坍塌"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 es: "Este Pokémon pasa a estar Dormido.",
                 it: "Questo Pokémon viene addormentato.",
                 de: "Dieses Pokémon ist jetzt schläft.",
+                ja: "このポケモンをねむりにする。",
                 ko: "이 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "Este Pokémon agora está Adormecido.",
                 "zh-tw": "這只神奇寶貝現在已經睡著了。"

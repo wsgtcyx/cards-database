@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/054",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/054",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/054",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/054",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/054"
     },
     name: {
         en: "Drampa",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sen-Long",
         "pt-br": "Drampa",
         "zh-tw": "老翁龍",
+        ja: "ジジーロン",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le montagne che chiama casa sono quasi due miglia\ndi altezza. In rare occasioni scende per giocare\ncon i bambini che vivono nelle città sottostanti.",
         "de": "Die Berge, die es sein Zuhause nennt, sind fast zwei Meilen groß\nin der Höhe. In seltenen Fällen steigt es zum Spielen hinab\nmit den Kindern, die in den Städten unten leben.",
         "pt-br": "As montanhas que ele chama de lar têm quase três quilômetros\nem altura. Em raras ocasiões, desce para brincar\ncom as crianças que vivem nas cidades abaixo.",
-        "zh-tw": "它稱之為家的山脈近兩英里\n在高度上。在極少數情況下，它會下降玩耍\n和住在下面城鎮的孩子們。"
+        "zh-tw": "它稱之為家的山脈近兩英里\n在高度上。在極少數情況下，它會下降玩耍\n和住在下面城鎮的孩子們。",
+        ja: "標高３０００メートルを 超える 山で 暮らす。 まれに 街へ やって来て 子どもたちと 遊ぶ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Il respiro del drago",
                 "de": "Drachenatem",
                 "pt-br": "Sopro de Dragão",
-                "zh-tw": "龍息"
+                "zh-tw": "龍息",
+                ja: "りゅうのいぶき"
             },
             damage: 70,
             cost: ["Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 "de": "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。",
+                ja: "コインを1回投げウラなら、このワザは失敗。オモテなら、相手のバトルポケモンをマヒにする。"
             }
         }],
     retreat: 2

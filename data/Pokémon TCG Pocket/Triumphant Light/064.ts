@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/064"
     },
     name: {
         en: "Hoothoot",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hoothoot",
         de: "Hoothoot",
         'pt-br': "Hoothoot",
+        ja: "ホーホー",
         ko: "부우부",
         "zh-tw": "咕咕",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Sta sempre su una zampa sola. Cambia\nzampa così rapidamente che è quasi\nimpossibile seguirne i movimenti.",
         de: "Es steht immer auf einem Bein. Es wechselt sein\nStandbein so schnell, dass man es kaum sieht.",
         'pt-br': "Sempre fica sobre um pé e troca de pé tão rápido\nque o movimento raramente é percebido.",
+        ja: "いつも 一本足で 立っている。 脚を 入れ替える 瞬間は 素早くて なかなか 見られない。",
         ko: "항상 한 발로 서 있다.\n발을 교체하는 순간이\n빨라서 좀처럼 볼 수 없다.",
         "zh-tw": "它總是用一隻腳站立。它換腳的速度如此之快，幾乎看不到動作。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/052",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/052",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/052"
     },
     name: {
         en: "Toxicroak",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Toxicroak",
         de: "Toxiquak",
         'pt-br': "Toxicroak",
+        ja: "ドクロッグ",
         ko: "독개굴",
         "zh-tw": "毒骷蛙",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Glibunkel",
         "pt-br": "Croagunk",
         "zh-tw": "不良蛙",
+        ja: "グレッグル",
     },
     description: {
         en: "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Con il suo corpo flessibile schiva l'attacco del\nnemico e lo trafigge al volo con spine velenose.",
         de: "Mit seinem geschmeidigen Körper weicht es\nAttacken aus und durchbricht die Deckung des\nGegners, um mit seinen Giftklauen zuzustechen.",
         'pt-br': "Balançando e desviando dos ataques dos inimigos,\neste Pokémon usa seu corpo flexível para se aproximar\ne, em seguida, atacar com suas garras venenosas.",
+        ja: "柔らかい 体で 相手の 攻撃を かわしながら ふところに 飛び込み 毒の トゲを 突き刺す。",
         ko: "유연한 몸으로 상대의 공격을 피하며\n깊숙이 뛰어들어 독가시를 꿰찌른다.",
         "zh-tw": "它搖擺著躲避敵人的攻擊，將靈活的身體緊緊地纏繞在一起，然後用有毒的爪子猛扑出去。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Tossina",
                 de: "Toxin",
                 'pt-br': "Tóxico",
+                ja: "どくどく",
                 ko: "맹독",
                 "zh-tw": "有毒的"
             },
@@ -64,6 +69,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado. Ese Pokémon sufre 20 puntos de daño en vez de la cantidad habitual por esta Condición Especial.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato. Infliggi 20 danni a quel Pokémon invece della quantità normalmente prevista per questa condizione speciale.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Füge dem Pokémon 20 Schadenspunkte zu anstelle der für diesen Speziellen Zustand üblichen Menge an Schadenspunkten.",
+                ja: "相手のバトルポケモンをどくにする。このどくのダメージは20になる。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다. 이 독의 데미지는 20이 된다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado. Cause 20 pontos de dano a este Pokémon em vez da quantidade normal desta Condição Especial.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。對該神奇寶貝造成 20 點傷害，而不是此特殊條件下的通常傷害。"

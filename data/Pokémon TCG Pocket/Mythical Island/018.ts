@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/018"
     },
     name: {
         en: "Gyarados ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gyarados-ex",
         de: "Garados-ex",
         'pt-br': "Gyarados ex",
+        ja: "ギャラドスex",
         ko: "갸라도스 ex",
         "zh-tw": "暴鯉龍ex",
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Magikarp",
         "de": "Karpador",
         "pt-br": "Magikarp",
-        "zh-tw": "鯉魚王"
+        "zh-tw": "鯉魚王",
+        ja: "コイキング"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Vortice Impetuoso",
                 de: "Tosender Strudel",
                 'pt-br': "Redemoinho Furioso",
+                ja: "あばれうずしお",
                 ko: "난동 바다회오리",
                 "zh-tw": "狂暴漩渦"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia a caso fra quelle assegnate a tutti i Pokémon, sia tuoi che del tuo avversario.",
                 de: "Lege 1 zufällige Energie von allen Energien, die an alle Pokémon (deine und die deines Gegners) angelegt sind, ab.",
                 'pt-br': "Descarte 1 Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
                 ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
             }

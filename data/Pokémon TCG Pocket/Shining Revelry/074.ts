@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/074",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/074",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/074",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/074"
     },
     name: {
         en: "Buizel",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Buizel",
         de: "Bamelin",
         'pt-br': "Buizel",
+        ja: "ブイゼル",
         ko: "브이젤",
         "zh-tw": "泳圈鼬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Gonfia il suo collare galleggiante e\nrimane con la testa fuori dall'acqua\nin cerca di prede sulla terraferma.",
         de: "Füllt es die Schwimmblase um seinen Hals mit Luft,\nragt sein Kopf aus dem Wasser und es kann die\nBewegungen von Beute an Land beobachten.",
         'pt-br': "Infla sua bolsa de flutuação e mantém o rosto acima\nda água para procurar o movimento de presas.",
+        ja: "首の 浮き袋を ふくらませて 水面に 顔を 出し 地上の 獲物の 動きを 探るのだ。",
         ko: "목의 부낭을 부풀려\n수면에 얼굴을 내밀고 지상에 있는\n먹이의 움직임을 살핀다.",
         "zh-tw": "它會膨脹浮囊，將臉保持在水面以上，以觀察獵物的運動。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Pistolacqua",
             de: "Aquaknarre",
             'pt-br': "Revólver d'Água",
+            ja: "みずでっぽう",
             ko: "물대포",
             "zh-tw": "水槍"
         },

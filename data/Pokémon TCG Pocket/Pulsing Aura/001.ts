@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/001",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/001",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/001"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/001"
     },
     name: {
         en: "Tangela",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Non è ancora chiaro quale sia il vero aspetto\ncelato dietro alle sue liane, che crescono\nall’infinito anche dopo essere state recise.",
         de: "Seine wahre Gestalt ist weiterhin ein Mysterium,\nda sie von Ranken verdeckt wird, die unaufhörlich\nnachwachsen, selbst wenn sie abreißen.",
         "pt-br": "Escondido sob um emaranhado de vinhas que cresce sem parar mesmo que as vinhas sejam arrancadas, a verdadeira aparência deste Pokémon permanece um mistério.",
-        "zh-tw": "藤蔓即使斷了也會繼續\n無限地生長。藤蔓下的\n真面目至今仍是個謎。"
+        "zh-tw": "藤蔓即使斷了也會繼續\n無限地生長。藤蔓下的\n真面目至今仍是個謎。",
+        ja: "ちぎれても 無限に 伸びる ツルの 奥の 正体は いまだ 解明されていない。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Legatutto",
                 de: "Klammergriff",
                 "pt-br": "Ligação",
-                "zh-tw": "綁緊"
+                "zh-tw": "綁緊",
+                ja: "しめつける"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 20
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/040",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/040",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/040"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/040"
     },
     name: {
         en: "Paldean Clodsire",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Clodsire de Paldea",
         "zh-tw": "帕底亞土王",
         ko: "팔데아 토오",
-        ja: "パルデア ドオー"
+        ja: "パルデアドオー"
     },
     illustrator: "Kouki Saitou",
     rarity: "None",
@@ -38,7 +39,7 @@ const card: Card = {
         "pt-br": "Wooper",
         "zh-tw": "烏波",
         ko: "팔데아 우파",
-        ja: "パルデア ウパー"
+        ja: "パルデアウパー"
     },
     stage: "Stage1",
     description: {
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Vive sul fondo di stagni e paludi. Trasporterà Wooper sul dorso e li traghetterà attraverso l'acqua da una riva all'altra.",
         de: "Es lebt am Grund von Teichen und Sümpfen. Es wird Wooper auf seinem Rücken tragen und sie über das Wasser von einem Ufer zum anderen befördern.",
         "pt-br": "Vive no fundo de lagoas e pântanos. Ele carregará Wooper nas costas e os transportará através da água de uma margem a outra.",
-        "zh-tw": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。"
+        "zh-tw": "它生活在池塘和沼澤的底部。它將把伍珀背在背上，並將他們從一岸運送到另一岸。",
+        ja: "池や 沼の 水底で 暮らす。 背中に ウパーを 乗せて 泳ぎ 対岸まで 運んであげる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fangomartello",
                 de: "Schlammhammer",
                 "pt-br": "Martelo Lamacento",
-                "zh-tw": "泥水之錘"
+                "zh-tw": "泥水之錘",
+                ja: "どろんこハンマー"
             },
             effect: {
                 en: "Discard the top card of your opponent's deck.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Scarta la prima carta del mazzo del tuo avversario.",
                 de: "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
-                "zh-tw": "丟棄對手牌組頂牌。"
+                "zh-tw": "丟棄對手牌組頂牌。",
+                ja: "相手の山札を上から1枚トラッシュ。"
             },
             damage: 70
         }

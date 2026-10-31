@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/153",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/153",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/153",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/153"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/153",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/153"
     },
     name: {
         en: "Wally",
@@ -32,7 +33,8 @@ const card: Card = {
         "pt-br": "Pegue uma Energia {C} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Estágio 2.",
         "zh-tw": "從自己的能量區抽出1個{C}能量,附於2階進化寶可夢身上。",
         "it": "Prendi un'Energia {C} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon di Fase 2.",
-        "de": "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase 2 Pokémon an."
+        "de": "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase 2 Pokémon an.",
+        ja: "自分のエネルギーゾーンから{C}エネルギーを1個出し、2進化ポケモンにつける。"
     },
     trainerType: "Supporter"
 };

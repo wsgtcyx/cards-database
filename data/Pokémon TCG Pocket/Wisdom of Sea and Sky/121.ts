@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/121",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/121"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/121"
     },
     name: {
         en: "Forretress",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Forstellka",
         "pt-br": "Forretress",
         "zh-tw": "佛烈托斯",
+        ja: "フォレトス",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Tannza",
         "pt-br": "Pineco",
         "zh-tw": "榛果球",
+        ja: "クヌギダマ",
     },
     description: {
         en: "It remains immovably rooted to its tree. It scatters\npieces of its hard shell to drive its enemies away.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Rimane inamovibilmente radicato al suo albero. Si disperde\npezzi del suo duro guscio per scacciare i suoi nemici.",
         "de": "Es bleibt unbeweglich mit seinem Baum verwurzelt. Es zerstreut\nTeile seiner harten Schale, um seine Feinde zu vertreiben.",
         "pt-br": "Permanece firmemente enraizado em sua árvore. Ele se espalha\npedaços de sua casca dura para afastar seus inimigos.",
-        "zh-tw": "它仍然牢牢地紮根於樹上。它散開\n其堅硬的外殼碎片可以驅趕敵人。"
+        "zh-tw": "它仍然牢牢地紮根於樹上。它散開\n其堅硬的外殼碎片可以驅趕敵人。",
+        ja: "木に くっついたまま 動かない。 硬い殻の 破片を ばらまいて 近づくものを 追い払う。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Crash della conchiglia",
                 "de": "Shell-Absturz",
                 "pt-br": "Quebra de concha",
-                "zh-tw": "外殼碰撞"
+                "zh-tw": "外殼碰撞",
+                ja: "シェルクラッシュ"
             },
             damage: 80,
             cost: ["Metal", "Metal", "Colorless"]

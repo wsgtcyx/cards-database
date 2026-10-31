@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/088",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/088",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/088",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/088"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/088",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/088"
     },
     name: {
         en: "Necrozma",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Necrozma",
         de: "Necrozma",
         'pt-br': "Necrozma",
+        ja: "ネクロズマ",
         ko: "네크로즈마",
         "zh-tw": "奈克洛茲瑪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Pare che sia una creatura di un altro mondo. La luce è la\nsua fonte d'energia e la cerca con furia, rivelando sofferenza.",
         de: "Diese Kreatur stammt wohl aus einer anderen Welt.\nSie wirkt gequält, wenn sie auf der Suche nach Licht,\nseiner Energiequelle, herumwütet.",
         'pt-br': "Parece sentir dor ao buscar furiosamente por luz, que é a\nsua fonte de energia. Aparentemente, vem de outro mundo.",
+        ja: "エネルギーとなる 光を 求めて 暴れる 姿は どこか 苦しげ。 別の 世界の 存在 らしい。",
         ko: "에너지인 빛을 찾아 날뛰는 모습은\n어딘지 모르게 괴로워 보인다.\n다른 세계의 존재인 듯하다.",
         "zh-tw": "當它四處尋找光作為它的能量時，它看上去有些痛苦。顯然是來自另一個世界。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Prismalaser",
                 de: "Prisma-Laser",
                 'pt-br': "Laser Prismático",
+                ja: "プリズムレーザー",
                 ko: "프리즘레이저",
                 "zh-tw": "棱鏡激光器"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 'pt-br': "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+                ja: "次の自分の番、このポケモンはワザが使えない。",
                 ko: "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
             }

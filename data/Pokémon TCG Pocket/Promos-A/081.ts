@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/081",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/081",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/081",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/081"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/081",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/081"
     },
     name: {
         en: "Ultra Necrozma ex",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "UltraNecrozma-ex",
         "de": "Ultra-Necrozma-ex",
         "pt-br": "Ultra Necrozma ex",
-        "zh-tw": "究極奈克洛茲瑪ex"
+        "zh-tw": "究極奈克洛茲瑪ex",
+        ja: "ウルトラネクロズマex"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Artiglio fotonico",
                 "de": "Photonenklaue",
                 "pt-br": "Garra de Fóton",
-                "zh-tw": "光子爪"
+                "zh-tw": "光子爪",
+                ja: "フォトンクロー"
             },
             damage: 60,
             cost: ["Colorless", "Colorless", "Colorless"]
@@ -48,7 +51,8 @@ const card: Card = {
                 "it": "Shoegaze",
                 "de": "Shoegaze",
                 "pt-br": "Sapato",
-                "zh-tw": "凝視鞋"
+                "zh-tw": "凝視鞋",
+                ja: "シューゲイザー"
             },
             damage: 120,
             cost: ["Psychic", "Psychic", "Metal", "Metal"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "it": "Scarta le prime 5 carte del mazzo di ogni giocatore.",
                 "de": "Wirf die obersten 5 Karten des Decks jedes Spielers ab.",
                 "pt-br": "Descarte as 5 primeiras cartas do baralho de cada jogador.",
-                "zh-tw": "丟棄每個玩家牌組頂部的 5 張牌。"
+                "zh-tw": "丟棄每個玩家牌組頂部的 5 張牌。",
+                ja: "おたがいの山札を上から5枚ずつトラッシュ。"
             }
         }],
     retreat: 2,

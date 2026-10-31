@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/039",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/039",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/039"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/039"
     },
     name: {
         en: "Vanilluxe",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vanilluxe",
         "de": "Gelatwino",
         "pt-br": "Vanilluxe",
-        "zh-tw": "雙倍多多冰"
+        "zh-tw": "雙倍多多冰",
+        ja: "バイバニラ"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Vanillish",
         "de": "Gelatroppo",
         "pt-br": "Vanillish",
-        "zh-tw": "多多冰"
+        "zh-tw": "多多冰",
+        ja: "バニリッチ"
     },
     description: {
         en: "People believe this Pokémon formed when two\nVanillish stuck together. Its body temperature is\nroughly 21 degrees Fahrenheit.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La gente crede che questo Pokémon si sia formato quando aveva due anni\nI Vanillish sono rimasti uniti. La sua temperatura corporea è\ncirca 21 gradi Fahrenheit.",
         "de": "Die Leute glauben, dass sich dieses Pokémon zu zweit gebildet hat\nVanillin klebte zusammen. Seine Körpertemperatur beträgt\nungefähr 21 Grad Fahrenheit.",
         "pt-br": "As pessoas acreditam que este Pokémon se formou quando dois\nVanillish grudado. Sua temperatura corporal é\ncerca de 21 graus Fahrenheit.",
-        "zh-tw": "人們相信這個神奇寶貝是由兩個\n瓦尼利甚粘在一起了。它的體溫是\n大約 21 華氏度。"
+        "zh-tw": "人們相信這個神奇寶貝是由兩個\n瓦尼利甚粘在一起了。它的體溫是\n大約 21 華氏度。",
+        ja: "体温は マイナス６度 前後。 ２匹の バニリッチが くっつき 生まれたと いわれている。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "60+",
             cost: ["Water", "Water"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 60 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 60 de dano a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 60 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、60ダメージ追加。"
             }
         }],
     weaknesses: [{

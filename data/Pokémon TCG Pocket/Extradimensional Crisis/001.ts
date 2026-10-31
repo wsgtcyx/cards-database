@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/001",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/001"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/001",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/001"
     },
     name: {
         en: "Petilil",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
+        ja: "チュリネ",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le foglie sulla sua testa ricrescono anche se\ncadono. Queste foglie amare li rinfrescano\nche li mangiano.",
         "de": "Die Blätter auf seinem Kopf wachsen gleich wieder nach, auch wenn\nsie fallen heraus. Diese bitteren Blätter erfrischen diese\nwer sie isst.",
         "pt-br": "As folhas em sua cabeça voltam a crescer, mesmo que\neles caem. Estas folhas amargas refrescam aqueles\nquem os come.",
-        "zh-tw": "即使它頭上的葉子馬上又長出來\n他們會掉下來。這些苦澀的葉子使那些\n誰吃它們。"
+        "zh-tw": "即使它頭上的葉子馬上又長出來\n他們會掉下來。這些苦澀的葉子使那些\n誰吃它們。",
+        ja: "抜け落ちても すぐに 生えてくる 頭の 葉っぱは とても 苦いが かじれば すぐ 元気に なれる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Bomba di semi",
                 "de": "Samenbombe",
                 "pt-br": "Bomba de sementes",
-                "zh-tw": "種子炸彈"
+                "zh-tw": "種子炸彈",
+                ja: "タネばくだん"
             },
             damage: 20,
             cost: ["Grass"]

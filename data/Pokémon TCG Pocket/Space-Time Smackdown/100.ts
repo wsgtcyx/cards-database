@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/100"
     },
     name: {
         en: "Poochyena",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Poochyena",
         de: "Fiffyen",
         'pt-br': "Poochyena",
+        ja: "ポチエナ",
         ko: "포챠나",
         "zh-tw": "土狼犬",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Pokémon di natura ostinata. Insegue la\npreda prescelta finché questa non è esausta.",
         de: "Ein beharrliches Pokémon, das seine Beute jagt,\nbis diese erschöpft ist.",
         'pt-br': "Pokémon de natureza persistente,\ncaça sua presa escolhida até ela ficar exausta.",
+        ja: "しつこい 性格の ポケモン。 目をつけた 獲物が ヘトヘトに 疲れるまで 追いかけ回す。",
         ko: "집요한 성격의 포켓몬이다.\n점찍은 먹이가 기진맥진\n지칠 때까지 뒤쫓아간다.",
         "zh-tw": "性格頑強的寶可夢，會追逐選定的獵物直至獵物筋疲力盡。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Morso",
                 de: "Biss",
                 'pt-br': "Mordida",
+                ja: "かみつく",
                 ko: "물기",
                 "zh-tw": "咬"
             },

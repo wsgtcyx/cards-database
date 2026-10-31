@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/226",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/226",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/226",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/226"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/226",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/226"
     },
     name: {
         en: "Mega Blaziken ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Megabruciatura",
                 de: "Mega-Brand",
                 "pt-br": "Megaqueimação",
-                "zh-tw": "超級燃燒"
+                "zh-tw": "超級燃燒",
+                ja: "メガバーニング"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Scarta un'Energia {R} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Wirf eine {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "Descarte uma Energia {R} deste Pokémon. O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "丟棄該寶可夢的 {R} 能量。你對手的活躍寶可夢現在被燒毀了。"
+                "zh-tw": "丟棄該寶可夢的 {R} 能量。你對手的活躍寶可夢現在被燒毀了。",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。"
             },
             damage: 120
         }

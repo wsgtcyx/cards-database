@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/154",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/154",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/154"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/154",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/154"
     },
     name: {
         en: "Darkrai",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Darkrai",
         "de": "Darkrai",
         "pt-br": "Darkrai",
-        "zh-tw": "達克萊伊"
+        "zh-tw": "達克萊伊",
+        ja: "ダークライ"
     },
     illustrator: "Uta",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Può far addormentare le persone e farle sognare.\nÈ attivo durante le notti di luna nuova.",
         "de": "Es kann Menschen in den Schlaf wiegen und zum Träumen bringen.\nEs ist in den Nächten des Neumondes aktiv.",
         "pt-br": "Pode acalmar as pessoas para dormir e fazê-las sonhar.\nEstá ativo durante as noites de lua nova.",
-        "zh-tw": "它可以使人入睡並做夢。\n它在新月的夜晚很活躍。"
+        "zh-tw": "它可以使人入睡並做夢。\n它在新月的夜晚很活躍。",
+        ja: "人々を 深い 眠りに 誘い 夢を 見せる 能力を 持つ。 新月の 夜に 活動する。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Gabbia dell'Ombra",
                 "de": "Schattenkäfig",
                 "pt-br": "Jaula das Sombras",
-                "zh-tw": "暗影牢籠"
+                "zh-tw": "暗影牢籠",
+                ja: "シャドーコープ"
             },
             damage: 70,
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 "de": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/007"
     },
     name: {
         en: "Appletun",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schlapfel",
         "pt-br": "Appletun",
         "zh-tw": "豐蜜龍",
+        ja: "タルップル",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Knapfel",
         "pt-br": "Applin",
         "zh-tw": "啃果蟲",
+        ja: "カジッチュ",
     },
     description: {
         en: "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si nutre principalmente di mele dolci. Mangerà anche\npiccoli Pokémon bug che sono attratti dai suoi\ndolce nettare.",
         "de": "Es ernährt sich hauptsächlich von süßen Äpfeln. Es wird auch fressen\nkleine Käfer-Pokémon, die davon angezogen werden\nsüßer Nektar.",
         "pt-br": "Alimenta-se principalmente de maçãs doces. Também vai comer\npequenos insetos Pokémon que são atraídos por seu\ndoce néctar.",
-        "zh-tw": "它主要以甜蘋果為食。它也會吃\n被其吸引的小蟲子神奇寶貝\n甜蜜的花蜜。"
+        "zh-tw": "它主要以甜蘋果為食。它也會吃\n被其吸引的小蟲子神奇寶貝\n甜蜜的花蜜。",
+        ja: "主食は 甘い りんご。 甘い 蜜に 誘われ 寄ってくる 小型の 虫ポケモンも 食べる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "40+",
             cost: ["Grass"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 30 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 30 de dano a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 30 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、30ダメージ追加。"
             }
         }],
     weaknesses: [{

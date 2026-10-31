@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/010",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/010",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/010"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/010",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/010"
     },
     name: {
         en: "Ponyta",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Una volta conquistata la fiducia di Ponyta,\nè possibile toccare la sua criniera infuocata\nsenza scottarsi.",
         de: "Hat man erst einmal das Vertrauen eines Ponitas\ngewonnen, kann man seltsamerweise sogar seine\nfeurige Mähne anfassen, ohne sich zu verbrennen.",
         "pt-br": "Se você foi aceito por Ponyta, sua juba ardente misteriosamente não está mais quente ao toque.",
-        "zh-tw": "得到了小火馬認可的人，\n在觸摸牠燃燒著的鬃毛時\n不會覺得燙手，真是不可思議。"
+        "zh-tw": "得到了小火馬認可的人，\n在觸摸牠燃燒著的鬃毛時\n不會覺得燙手，真是不可思議。",
+        ja: "ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Scottata",
                 de: "Versengung",
                 "pt-br": "Chamuscada",
-                "zh-tw": "灼熱"
+                "zh-tw": "灼熱",
+                ja: "こがす"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "你對手的活躍寶可夢現在被燒毀了。"
+                "zh-tw": "你對手的活躍寶可夢現在被燒毀了。",
+                ja: "相手のバトルポケモンをやけどにする。"
             }
         }
     ],

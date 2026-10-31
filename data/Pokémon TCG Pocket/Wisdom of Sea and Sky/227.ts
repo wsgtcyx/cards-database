@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/227",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/227",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/227",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/227"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/227",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/227"
     },
     name: {
         en: "Nidorino",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nidorino",
         "pt-br": "Nidorino",
         "zh-tw": "尼多力諾",
+        ja: "ニドリーノ",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Nidoran♂",
         "pt-br": "Nidoran♂",
         "zh-tw": "尼多朗",
+        ja: "ニドラン♂",
     },
     description: {
         en: "With a horn that's harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Con un corno più duro del diamante, questo\nI Pokémon vanno in giro frantumando i massi\ncerca una pietra di luna.",
         "de": "Mit einem Horn, das härter als Diamant ist\nPokémon geht umher und zerschmettert dabei Felsbrocken\nsucht nach einem Mondstein.",
         "pt-br": "Com um chifre mais duro que o diamante, este\nPokémon anda quebrando pedras enquanto\nprocura por uma pedra da lua.",
-        "zh-tw": "擁有比鑽石還硬的號角，這\n神奇寶貝四處走動，粉碎巨石\n尋找月光石。"
+        "zh-tw": "擁有比鑽石還硬的號角，這\n神奇寶貝四處走動，粉碎巨石\n尋找月光石。",
+        ja: "ダイヤモンドより 硬い ツノで 岩石を 砕いて まわる。 つきのいしを 探しているのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Attacco di corno",
                 "de": "Hornangriff",
                 "pt-br": "Ataque de chifre",
-                "zh-tw": "號角攻擊"
+                "zh-tw": "號角攻擊",
+                ja: "つのでつく"
             },
             damage: 40,
             cost: ["Darkness", "Colorless"]

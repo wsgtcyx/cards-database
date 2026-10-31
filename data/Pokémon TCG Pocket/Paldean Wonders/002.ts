@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/002",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/002",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/002"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/002"
     },
     name: {
         en: "Floragato",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Feliospa",
         'pt-br': "Floragato",
         "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ",
         ko: "나로테"
     },
     illustrator: "Kouki Saitou",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Felori",
         'pt-br': "Sprigatito",
         "zh-tw": "新葉喵",
+        ja: "ニャオハ",
         ko: "나오하"
     },
     description: {
@@ -44,7 +47,8 @@ const card: Card = {
         "it": "La durezza della pelliccia di Floragato dipende dall'umore del Pokémon. Quando Floragato è pronto a combattere, la sua pelliccia diventa appuntita e affilata.",
         "de": "Die Härte des Fells von Feliospa hängt von der Stimmung des Pokémon ab. Wenn Feliospa zum Kampf bereit ist, wird sein Fell spitz und nadelscharf.",
         "pt-br": "A dureza do pelo de Floragato depende do humor do Pokémon. Quando Floragato está preparado para a batalha, seu pelo fica pontudo e pontiagudo.",
-        "zh-tw": "蒂蕾喵 毛的硬度取決於寶可夢的心情。當蒂蕾喵準備戰鬥時，它的皮毛會變得尖如針鋒利。"
+        "zh-tw": "蒂蕾喵 毛的硬度取決於寶可夢的心情。當蒂蕾喵準備戰鬥時，它的皮毛會變得尖如針鋒利。",
+        ja: "体毛の 硬さは 気分で 変わる。 臨戦態勢になると 針のように 鋭利に 尖るぞ。"
     },
     stage: "Stage1",
     attacks: [
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Blattschritt",
                 "pt-br": "Passo Folha",
                 "zh-tw": "葉步",
+                ja: "リーフステップ",
                 'es-mx': "Paso de Hoja",
                 pt: "Passo de Folha"
             },

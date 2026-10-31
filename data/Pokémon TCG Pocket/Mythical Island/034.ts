@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/034"
     },
     name: {
         en: "Elgyem",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Elgyem",
         de: "Pygraulon",
         'pt-br': "Elgyem",
+        ja: "リグレー",
         ko: "리그레",
         "zh-tw": "小灰怪",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Quando si trova vicino a un televisore, sullo\nschermo appaiono paesaggi singolari. Si dice\nche siano vedute del luogo da cui proviene.",
         de: "Wenn es in der Nähe ist, beginnen Fernseher zu\nflackern und fremdartige Landschaften zu zeigen.\nDiese stellen angeblich seine Heimat dar.",
         'pt-br': "Se este Pokémon estiver próximo a uma televisão,\npaisagens estranhas aparecerão na tela. Dizem que essas\nimagens são do seu lar.",
+        ja: "テレビのそばに いると モニターに 奇妙な 景色が 映る。 リグレーの 故郷だと いわれる。",
         ko: "TV 근처에 있으면 모니터에\n기묘한 풍경이 비친다.\n리그레의 고향이라 여겨지고 있다.",
         "zh-tw": "如果這只神奇寶貝站在電視附近，屏幕上就會出現奇怪的風景。據說那風景是來自它的家鄉。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Bottintesta",
                 de: "Kopfnuss",
                 'pt-br': "Cabeçada",
+                ja: "ずつき",
                 ko: "박치기",
                 "zh-tw": "頭撞"
             },

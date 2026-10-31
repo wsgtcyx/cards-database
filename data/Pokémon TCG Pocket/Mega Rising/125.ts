@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/125",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/125",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/125"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/125",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/125"
     },
     name: {
         en: "Sudowoodo",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mogelbaum",
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
+        ja: "ウソッキー",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Per evitare di essere attaccato, non fa altro che\nimitare un albero. Odia l'acqua e fugge la pioggia.",
         "de": "Um nicht angegriffen zu werden, tut es nichts anderes als\neinen Baum nachahmen. Es hasst Wasser und flieht vor Regen.",
         "pt-br": "Para evitar ser atacado, ele não faz nada além de\nimitar uma árvore. Ele odeia água e foge da chuva.",
-        "zh-tw": "為了避免受到攻擊，它什麼也不做，只是\n模仿一棵樹。它討厭水並躲避雨。"
+        "zh-tw": "為了避免受到攻擊，它什麼也不做，只是\n模仿一棵樹。它討厭水並躲避雨。",
+        ja: "攻撃 されないように ひたすら 木のマネをしているが 水は苦手で 雨になると どこかに 逃げ出す。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Combatti",
                 "de": "Schlagen Sie zurück",
                 "pt-br": "Contra-atacar",
-                "zh-tw": "回擊"
+                "zh-tw": "回擊",
+                ja: "やりかえす"
             },
             damage: "30+",
             cost: ["Fighting", "Fighting"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha dei danni su di sé, questo attacco infligge 50 danni in più.",
                 "de": "Wenn dieses Pokémon Schaden hat, verursacht dieser Angriff 50 weitere Schadenspunkte.",
                 "pt-br": "Se este Pokémon sofrer dano, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 50 點傷害。"
+                "zh-tw": "如果這只神奇寶貝受到傷害，則這次攻擊會造成額外 50 點傷害。",
+                ja: "このポケモンがダメージを受けているなら、50ダメージ追加。"
             }
         }],
     weaknesses: [{

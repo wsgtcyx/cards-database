@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/040",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/040",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/040"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/040"
     },
     name: {
         en: "Darkrai",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Respinge umani e Pokémon dal suo\nterritorio inducendoli a un sonno\nprofondo e provocando incubi.",
         de: "Es vertreibt Eindringlinge aus seinem Revier, indem\nes sie in Schlaf versetzt und mit Alpträumen quält.",
         "pt-br": "Causa um sono profundo e cheio de pesadelos\nem pessoas e Pokémon para afugentá-los\nde seu território.",
-        "zh-tw": "它通過讓人類和寶可夢經歷噩夢般的深度睡眠來將他們驅逐出其領地。"
+        "zh-tw": "它通過讓人類和寶可夢經歷噩夢般的深度睡眠來將他們驅逐出其領地。",
+        ja: "深い 眠りに 誘う 力で 人や ポケモンに 悪夢を 見せて 自分の 縄張りから 追い出す。"
     },
     abilities: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Sogniamari",
                 de: "Alptraum",
                 "pt-br": "Sonhos ruins",
-                "zh-tw": "夢魘"
+                "zh-tw": "夢魘",
+                ja: "ナイトメア"
             },
             effect: {
                 en: "At the end of each turn, if your opponent's Active Pokémon is Asleep, do 20 damage to that Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Alla fine di ogni turno, se il Pokémon attivo del tuo avversario è addormentato, infliggi 20 danni a quel Pokémon.",
                 de: "Wenn das Aktive Pokémon deines Gegners am Ende jeder Runde schläft, füge diesem Pokémon 20 Schadenspunkte zu.",
                 "pt-br": "No final de cada turno, se o Pokémon Ativo do seu oponente estiver Adormecido, cause 20 pontos de dano a esse Pokémon.",
-                "zh-tw": "每回合結束時，如果對手的活躍寶可夢處於睡眠狀態，則對該寶可夢造成 20 點傷害。"
+                "zh-tw": "每回合結束時，如果對手的活躍寶可夢處於睡眠狀態，則對該寶可夢造成 20 點傷害。",
+                ja: "おたがいの番の終わりに、相手のバトルポケモンがねむりなら、そのポケモンに20ダメージ。"
             }
         }
     ],
@@ -72,7 +76,8 @@ const card: Card = {
                 it: "Sonno Oscuro",
                 de: "Dunkler Schlummer",
                 "pt-br": "Sono Sombrio",
-                "zh-tw": "黑色微寐"
+                "zh-tw": "黑色微寐",
+                ja: "くろいまどろみ"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Asleep.",
@@ -81,7 +86,8 @@ const card: Card = {
                 it: "Il Pokémon attivo del tuo avversario è addormentato.",
                 de: "Das aktive Pokémon deines Gegners schläft jetzt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
-                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。"
+                "zh-tw": "你對手的活躍寶可夢現在處於睡眠狀態。",
+                ja: "相手のバトルポケモンをねむりにする。"
             },
             damage: 40
         }

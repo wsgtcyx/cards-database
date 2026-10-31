@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/224",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/224",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/224",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/224"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/224",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/224"
     },
     name: {
         en: "Tauros",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tauros",
         "de": "Tauros",
         "pt-br": "Tauros",
-        "zh-tw": "肯泰羅"
+        "zh-tw": "肯泰羅",
+        ja: "ケンタロス"
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando Tauros comincia a frustarsi con la coda,\nè un avvertimento che il Pokémon sta per farlo\ncaricare con una velocità sorprendente.",
         "de": "Wenn Tauros anfängt, sich selbst mit seinen Schwänzen zu peitschen,\nEs ist eine Warnung, dass das Pokémon im Begriff ist, es zu tun\nmit erstaunlicher Geschwindigkeit aufladen.",
         "pt-br": "Quando Tauros começa a se chicotear com o rabo,\né um aviso de que o Pokémon está prestes a\ncarregue com uma velocidade surpreendente.",
-        "zh-tw": "當金牛座開始用尾巴鞭打自己時，\n這是神奇寶貝即將發生的警告\n以驚人的速度衝鋒。"
+        "zh-tw": "當金牛座開始用尾巴鞭打自己時，\n這是神奇寶貝即將發生的警告\n以驚人的速度衝鋒。",
+        ja: "しっぽで 自分の 体を 叩きだしたら 危険だぞ。 猛スピードで 突っ込んでくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Azione da Combattente",
                 "de": "Kampf-Tackle",
                 "pt-br": "Investida de Luta",
-                "zh-tw": "格鬥鏟球"
+                "zh-tw": "格鬥鏟球",
+                ja: "とうしのタックル"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon ex, questo attacco infligge 80 danni in più.",
                 "de": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-Ex ist, fügt dieser Angriff 80 weitere Schadenspunkte zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 80 de dano a mais.",
-                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 80 點。"
+                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 80 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、80ダメージ追加。"
             }
         }],
     weaknesses: [{

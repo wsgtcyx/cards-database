@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/181",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/181",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/181",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/181"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/181",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/181"
     },
     name: {
         en: "Cosmog",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Cosmog",
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
+        ja: "コスモッグ",
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Anche se il suo corpo indifeso e gassoso può essere fatto esplodere\nlontano dalla minima brezza, non sembra preoccuparsene.",
         "de": "Auch wenn sein hilfloser, gasförmiger Körper in die Luft gesprengt werden kann\nweg von der geringsten Brise, es scheint ihm egal zu sein.",
         "pt-br": "Mesmo que seu corpo indefeso e gasoso possa ser explodido\nafastado pela mais leve brisa, ele não parece se importar.",
-        "zh-tw": "縱然無助，氣體可吹\n微風吹過，它似乎並不在意。"
+        "zh-tw": "縱然無助，氣體可吹\n微風吹過，它似乎並不在意。",
+        ja: "頼りない ガス状の 身体は ちょっとの 風にも 流されるが 全然 気にして いない 様子。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Teletrasporto",
                 "de": "Teleportieren",
                 "pt-br": "Teleporte",
-                "zh-tw": "傳送"
+                "zh-tw": "傳送",
+                ja: "テレポート"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 "de": "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
+                "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。",
+                ja: "このポケモンをベンチポケモンと入れ替える。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/013"
     },
     name: {
         en: "Pansage",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Vegimak",
         "pt-br": "Pansage",
         "zh-tw": "花椰猴",
+        ja: "ヤナップ",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È bravo a trovare le bacche e a raccoglierle\ndappertutto. È così gentile condividerli\ncon gli amici.",
         "de": "Es ist gut darin, Beeren zu finden und sie zu pflücken\nüberall. Es ist so nett, sie zu teilen\nmit Freunden.",
         "pt-br": "É bom em encontrar frutas e colhê-las\ntudo acabado. É gentil o suficiente compartilhá-los\ncom amigos.",
-        "zh-tw": "它擅長尋找漿果並從中收集它們\n一切都結束了。很高興分享它們\n和朋友們。"
+        "zh-tw": "它擅長尋找漿果並從中收集它們\n一切都結束了。很高興分享它們\n和朋友們。",
+        ja: "木の実を 探すのが 上手で あちこちで 集めて 仲間に 分け与える 優しさを 持つ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo",
                 "de": "Schlagen",
                 "pt-br": "Bater",
-                "zh-tw": "打"
+                "zh-tw": "打",
+                ja: "たたく"
             },
             damage: 10,
             cost: ["Colorless"]

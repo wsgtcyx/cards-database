@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/024",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/024",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/024"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/024"
     },
     name: {
         en: "Houndstone",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Un Pokémon affettuosamente compianto è rinato come Houndstone. Non gli piace che qualcuno tocchi la protuberanza sulla sua testa.",
         de: "Ein liebevoll betrauertes Pokémon wurde als Friedwuff wiedergeboren. Es mag es nicht, wenn jemand die Ausstülpung auf seinem Kopf berührt.",
         "pt-br": "Um Pokémon carinhosamente lamentado renasceu como Houndstone. Não gosta que ninguém toque na protuberância no topo de sua cabeça.",
-        "zh-tw": "一隻備受哀悼的寶可夢重生為墓揚犬。它不喜歡任何人觸摸它頭頂的突起。"
+        "zh-tw": "一隻備受哀悼的寶可夢重生為墓揚犬。它不喜歡任何人觸摸它頭頂的突起。",
+        ja: "大切に 弔われた ポケモンが 生まれ変わった 姿。 頭の 突起を 触られるのは 嫌い。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpomistero",
                 de: "Spukschuss",
                 "pt-br": "Tiro Assustador",
-                "zh-tw": "陰森射擊"
+                "zh-tw": "陰森射擊",
+                ja: "ホロウショット"
             },
             damage: 70
         }

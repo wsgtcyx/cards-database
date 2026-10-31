@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/070",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/070",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/070"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/070",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/070"
     },
     name: {
         en: "Horsea",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Horsea",
         de: "Seeper",
         'pt-br': "Horsea",
+        ja: "タッツー",
         ko: "쏘드라",
         "zh-tw": "墨海馬",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Vive in mari dalle correnti tranquille.\nQuando viene attaccato spruzza inchiostro\nnero e ne approfitta per fuggire.",
         de: "Es lebt in Meeren mit ruhigem Gezeitenstrom.\nWird es angegriffen, versprüht es tiefschwarze\nTinte und ergreift daraufhin die Flucht.",
         'pt-br': "Horsea vive em oceanos com correntezas\ntranquilas. Quando está sob ataque, este\nPokémon cospe tinta preta e escapa.",
+        ja: "潮の 流れが 穏やかな 海に 棲む。 襲われると 真っ黒な 墨を吐いて その隙に 逃げだす。",
         ko: "잔잔하게 흐르는 고요한 바다에\n산다. 습격당하면 새까만\n먹물을 내뿜고 그 틈에 도망친다.",
         "zh-tw": "馬鞭草棲息在水流平緩的海洋中。如果這只神奇寶貝受到攻擊，它會吐出漆黑的墨水並逃跑。"
     },

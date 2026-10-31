@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/031"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/031",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/031"
     },
     name: {
         en: "Carbink",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si dice che da qualche parte nel mondo c’è\nuna miniera in cui i Carbink dormono assieme\nalla loro regina.",
         de: "Es heißt, irgendwo auf der Welt gäbe es eine\nGesteinsader aus schlafenden Rocara. Dort soll\nman auch ihre Königin antreffen können.",
         "pt-br": "Diz-se que em algum lugar do mundo existe um veio mineral que abriga um grande pacote de Carbink adormecidos. Também é dito que este bando tem uma rainha.",
-        "zh-tw": "據說在世界的某處，有個\n沉睡著許多小碎鑽的礦床，\n群體的女王也在那裡。"
+        "zh-tw": "據說在世界的某處，有個\n沉睡著許多小碎鑽的礦床，\n群體的女王也在那裡。",
+        ja: "世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Regalo scintillante",
                 de: "Glitzerndes Geschenk",
                 "pt-br": "Presente brilhante",
-                "zh-tw": "璀璨禮物"
+                "zh-tw": "璀璨禮物",
+                ja: "きらめくおくりもの"
             },
             effect: {
                 en: "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a {P} Energy from your Energy Zone and attach it to that Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scegli 2 dei tuoi Pokémon in panchina. Per ognuno di questi Pokémon, prendi un'Energia {P} dalla tua Zona Energetica e assegnala a quel Pokémon.",
                 de: "Wähle 2 deiner Bank-Pokémon. Nimm für jedes dieser Pokémon eine {P}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Escolha 2 dos seus Pokémon no Banco. Para cada um desses Pokémon, pegue uma Energia {P} da sua Zona de Energia e ligue-a àquele Pokémon.",
-                "zh-tw": "選擇 2 個後備寶可夢。對於每個寶可夢，從你的能量區域獲取一個 {P} 能量並將其附加到該寶可夢上。"
+                "zh-tw": "選擇 2 個後備寶可夢。對於每個寶可夢，從你的能量區域獲取一個 {P} 能量並將其附加到該寶可夢上。",
+                ja: "自分のベンチポケモンを2匹選び、エネルギーゾーンから{P}エネルギーを出し、1個ずつつける。"
             }
         }
     ],

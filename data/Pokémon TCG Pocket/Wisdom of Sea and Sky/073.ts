@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/073",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/073",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/073",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/073"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/073",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/073"
     },
     name: {
         en: "Slowpoke",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Slowpoke",
         "de": "Flegmon",
         "pt-br": "Slowpoke",
-        "zh-tw": "呆呆獸"
+        "zh-tw": "呆呆獸",
+        ja: "ヤドン"
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È incredibilmente lento e stupido. Ce ne vogliono cinque\nsecondi perché senta dolore quando è sotto attacco.",
         "de": "Es ist unglaublich langsam und blöd. Es dauert fünf\nEs dauert mehrere Sekunden, bis es bei einem Angriff Schmerzen verspürt.",
         "pt-br": "É incrivelmente lento e estúpido. Leva cinco\nsegundos para sentir dor quando estiver sob ataque.",
-        "zh-tw": "它非常緩慢且愚蠢。需要五個\n受到攻擊時它會感到疼痛幾秒鐘。"
+        "zh-tw": "它非常緩慢且愚蠢。需要五個\n受到攻擊時它會感到疼痛幾秒鐘。",
+        ja: "動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Riposo",
                 "de": "Ausruhen",
                 "pt-br": "Descansar",
-                "zh-tw": "休息"
+                "zh-tw": "休息",
+                ja: "ねむる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo Pokémon è addormentato. Cura 30 danni da esso.",
                 "de": "Dieses Pokémon schläft jetzt. Heile 30 Schaden davon.",
                 "pt-br": "Este Pokémon agora está dormindo. Cure 30 de dano dele.",
-                "zh-tw": "這只神奇寶貝現在已經睡著了。治療 30 點傷害。"
+                "zh-tw": "這只神奇寶貝現在已經睡著了。治療 30 點傷害。",
+                ja: "このポケモンをねむりにする。このポケモンのHPを30回復。"
             }
         }],
     weaknesses: [{

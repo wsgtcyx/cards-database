@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/127",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/127",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/127",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/127",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/127"
     },
     name: {
         en: "Jynx",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Jynx",
         de: "Rossana",
         'pt-br': "Jynx",
+        ja: "ルージュラ",
         ko: "루주라",
         "zh-tw": "迷唇姐",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Psichico",
                 de: "Psychokinese",
                 'pt-br': "Psíquico",
+                ja: "サイコキネシス",
                 ko: "사이코키네시스",
                 "zh-tw": "精神"
             },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
+                ja: "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
                 ko: "상대 배틀 포켓몬의 에너지의 개수 × 20데미지를 추가한다.",
                 "zh-tw": "對手的活躍寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
             },
@@ -63,6 +67,7 @@ const card: Card = {
         it: "Emette strani versi che ricordano il linguaggio\numano. Alcuni compositori scrivono melodie\nappositamente per farle cantare ai Jynx.",
         de: "Sein sonderbarer Ruf klingt fast wie die Sprache\nder Menschen. Manche Musiker schreiben sogar\neigens Lieder, damit Rossana sie singen kann.",
         'pt-br': "Seu grito estranho soa como fala humana.\nCertos músicos compõem canções\nespecificamente para Jynx cantar.",
+        ja: "人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。",
         ko: "인간의 언어를 닮은 이상한\n울음소리를 가졌다. 루주라가 부르는\n곡을 만드는 음악가도 있다.",
         "zh-tw": "它奇怪的叫聲聽起來像人類的語言。有一些音樂家為 Jynx 創作歌曲供其演唱。"
     },

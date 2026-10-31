@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/158",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/158"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/158",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/158"
     },
     name: {
         en: "Tsareena",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tsareena",
         de: "Fruyal",
         'pt-br': "Tsareena",
+        ja: "アマージョ",
         ko: "달코퀸",
         "zh-tw": "甜冷美后",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Frubaila",
         "pt-br": "Steenee",
         "zh-tw": "甜舞妮",
+        ja: "アママイコ",
     },
     description: {
         en: "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È un Pokémon aggressivo e orgoglioso,\nma si dice che sia sufficiente toccare la\ncoroncina che ha sul calice per farlo calmare.",
         de: "Zwar ist es stolz und aggressiv, aber wenn man seine\nKrone berührt, soll es sich augenblicklich beruhigen.",
         'pt-br': "Este Pokémon é orgulhoso e agressivo. Porém, dizem\nque uma Tsareena ficará instantaneamente calma\nse alguém tocar a coroa em seu cálice.",
+        ja: "気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。",
         ko: "자존심이 강하고 공격적이지만\n꼭지의 왕관을 건드리면\n금세 얌전해진다고 한다.",
         "zh-tw": "這只神奇寶貝驕傲且具有攻擊性。然而，據說，如果有人觸摸查雷納花萼上的王冠，查雷納就會立即變得平靜。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Triplice Calcio",
                 de: "Tripeltrittkombo",
                 'pt-br': "Combo de Três Chutes",
+                ja: "さんれんきゃく",
                 ko: "삼연각",
                 "zh-tw": "三踢組合"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia 3 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
                 de: "Wirf 3 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 3 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+                ja: "コインを3回投げ、オモテの数×50ダメージ。",
                 ko: "동전을 3번 던져서 앞면이 나온 수 × 50데미지를 준다.",
                 "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
             }

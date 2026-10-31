@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/069",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/069",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/069",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/069"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/069",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/069"
 	},
 	name: {
 		en: "Torkoal",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Torkoal",
 		de: "Qurtel",
 		"pt-br": "Torkoal",
-		"zh-tw": "煤炭龜"
+		"zh-tw": "煤炭龜",
+		ja: "コータス"
 	},
 	illustrator: "sui",
 	rarity: "One Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Brucia il carbone all'interno del suo guscio per produrre energia. Soffia\nfuori la fuliggine nera se è in pericolo.",
 		de: "Es verbrennt Kohle in seiner Hülle zur Energiegewinnung. Es bläst\nschwarzen Ruß entfernen, wenn dieser gefährdet ist.",
 		"pt-br": "Ele queima carvão dentro de sua casca para obter energia. Isso sopra\neliminar fuligem preta se estiver em perigo.",
-		"zh-tw": "它在殼內燃燒煤炭來獲取能量。吹起來\n如果它瀕臨滅絕，請清除黑色煙灰。"
+		"zh-tw": "它在殼內燃燒煤炭來獲取能量。吹起來\n如果它瀕臨滅絕，請清除黑色煙灰。",
+		ja: "甲羅の 内側で 石炭を 燃やし 敵に 襲われると 黒い煙を まき散らして 逃げる。"
 	},
 	stage: "Basic",
 	attacks: [
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Lanciafiamme",
 				de: "Flammenwerfer",
 				"pt-br": "Lança-chamas",
-				"zh-tw": "噴火器"
+				"zh-tw": "噴火器",
+				ja: "かえんほうしゃ"
 			},
 			damage: 70,
 			cost: ["Fire", "Fire"],
@@ -56,7 +60,8 @@ const card: Card = {
 				it: "Scarta un'Energia {R} da questo Pokémon.",
 				de: "Wirf eine {R}-Energie von diesem Pokémon ab.",
 				"pt-br": "Descarte uma Energia {R} deste Pokémon.",
-				"zh-tw": "丟棄該神奇寶貝的 {R} 能量。"
+				"zh-tw": "丟棄該神奇寶貝的 {R} 能量。",
+				ja: "このポケモンから{R}エネルギーを1個トラッシュ。"
 			}
 		}
 	],

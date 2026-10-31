@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/116",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/116",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/116"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/116",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/116"
     },
     name: {
         en: "Indeedee ex",
@@ -45,7 +46,7 @@ const card: Card = {
                 de: "Obhut",
                 "pt-br": "Cuidar",
                 "zh-tw": "貼心",
-                ja: "Watch Over",
+                ja: "こころくばり",
                 ko: "Watch Over"
             },
             effect: {
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, você poderá curar 20 pontos de dano do seu Pokémon Ativo.",
                 "zh-tw": "在自己的回合時,可使用1次。將自己的戰鬥寶可夢恢復20HP。",
-                ja: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
+                ja: "自分の番に1回使える。自分のバトルポケモンのHPを20回復。",
                 ko: "Once during your turn, you may heal 20 damage from your Active Pokémon."
             }
         }
@@ -75,7 +76,7 @@ const card: Card = {
                 de: "Psychokinese",
                 "pt-br": "Psíquico",
                 "zh-tw": "精神強念",
-                ja: "Psychic",
+                ja: "サイコキネシス",
                 ko: "Psychic"
             },
             effect: {
@@ -86,7 +87,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。",
-                ja: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+                ja: "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
                 ko: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
             },
             damage: "30+"

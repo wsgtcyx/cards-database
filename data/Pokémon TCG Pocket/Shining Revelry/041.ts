@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/041",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/041",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/041",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/041"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/041",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/041"
     },
     name: {
         en: "Hitmonchan",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Hitmonchan",
         de: "Nockchan",
         'pt-br': "Hitmonchan",
+        ja: "エビワラー",
         ko: "홍수몬",
         "zh-tw": "快拳郎"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "I suoi pugni fendono l'aria a una tale velocità che\nbasta venire sfiorati per riportare una scottatura.",
         de: "Seine Fäuste zerschneiden regelrecht die Luft.\nSie sind so schnell, dass selbst die geringste\nBerührung Verbrennungen verursacht.",
         'pt-br': "Seus murros cortam o ar. São tão\nvelozes que um simples toque pode\ncausar uma queimadura.",
+        ja: "空気を 切り裂く パンチ。 かすっただけで 火傷に なるほど パンチの スピードは 速いのだ。",
         ko: "주변의 공기를 가르는 펀치.\n스치기만 해도 화상을 입을 정도로\n펀치 스피드가 매우 빠르다.",
         "zh-tw": "它的拳頭劃破空氣。它們以如此高的速度發射，即使是輕微的擦傷也可能導致燒傷。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Superpugno",
             de: "Magnum-Schlag",
             'pt-br': "Soco Magnum",
+            ja: "マグナムパンチ",
             ko: "매그넘펀치",
             "zh-tw": "萬能沖床"
         },

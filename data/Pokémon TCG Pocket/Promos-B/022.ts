@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/022",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/022",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/022"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/022"
     },
     name: {
         en: "Hawlucha",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Hawlucha vivono tranquillamente senza accalcarsi insieme. Combattono costantemente con i loro nemici naturali: gruppi rumorosi di Primeape.",
         de: "Resladero leben ruhig, ohne sich zusammenzudrängen. Sie kämpfen ständig mit ihren natürlichen Feinden: lauten Gruppen von Rasaff.",
         "pt-br": "Hawlucha vivem silenciosamente, sem se reunirem. Eles lutam constantemente com seus inimigos naturais: grupos barulhentos de Primeape.",
-        "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。"
+        "zh-tw": "摔角鷹人 安靜地生活，不聚集。它們不斷地與天敵戰鬥：吵鬧的 火爆猴 群體。",
+        ja: "群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Aeroassalto",
                 de: "Aero-Ass",
                 "pt-br": "Ás dos Ares",
-                "zh-tw": "燕返"
+                "zh-tw": "燕返",
+                ja: "つばめがえし"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 30 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "40+"
         }

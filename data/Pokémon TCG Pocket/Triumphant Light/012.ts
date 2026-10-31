@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/012"
     },
     name: {
         en: "Houndoom",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Houndoom",
         de: "Hundemon",
         'pt-br': "Houndoom",
+        ja: "ヘルガー",
         ko: "헬가",
         "zh-tw": "黑魯加",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Hunduster",
         "pt-br": "Houndour",
         "zh-tw": "戴魯比",
+        ja: "デルビル",
     },
     description: {
         en: "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Se si viene ustionati dalle fiamme che sputa\ndalla bocca, il dolore rimarrà per sempre.",
         de: "Wird man von den Flammen getroffen, die es\naus seinem Maul schießt, so erleidet man eine\nBrandwunde, deren Schmerz nie nachlässt.",
         'pt-br': "Se você for queimado pelas chamas disparadas\nde sua boca, a dor nunca passará.",
+        ja: "口から 吹き出す 炎で 火傷すると いつまでたっても 傷口が うずいてしまう。",
         ko: "입에서 뿜어내는 불꽃에 의해\n화상을 입으면 시간이 아무리 지나도\n상처 난 자리가 욱신거린다.",
         "zh-tw": "如果你被它嘴裡噴出的火焰燒傷，疼痛將永遠不會消失。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Trappola",
                 de: "Bedrängen",
                 'pt-br': "Quina",
+                ja: "おいつめる",
                 ko: "몰아붙이기",
                 "zh-tw": "角落"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen.",
                 'pt-br': "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。",
                 ko: "상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.",
                 "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
             }

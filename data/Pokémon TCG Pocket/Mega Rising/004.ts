@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/004",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/004"
     },
     name: {
         en: "Silcoon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schaloko",
         "pt-br": "Silcoon",
         "zh-tw": "甲殼繭",
+        ja: "カラサリス",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waumpel",
         "pt-br": "Wurmple",
         "zh-tw": "刺尾蟲",
+        ja: "ケムッソ",
     },
     description: {
         en: "It drinks dew that collects on its silk and waits for\nevolution. Its hard cocoon repels attacks.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Beve la rugiada che si raccoglie sulla sua seta e attende\nevoluzione. Il suo duro bozzolo respinge gli attacchi.",
         "de": "Es trinkt Tau, der sich auf seiner Seide sammelt und darauf wartet\nEntwicklung. Sein harter Kokon wehrt Angriffe ab.",
         "pt-br": "Bebe o orvalho que se acumula na sua seda e espera\nevolução. Seu casulo duro repele ataques.",
-        "zh-tw": "它喝著絲上凝結的露水，等待著\n進化。它的硬繭可以抵禦攻擊。"
+        "zh-tw": "它喝著絲上凝結的露水，等待著\n進化。它的硬繭可以抵禦攻擊。",
+        ja: "糸に ついた 朝露を 飲んで 進化の ときを 待ち続ける。 硬い 繭が 攻撃を 防ぐ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Indurire",
                 "de": "Härten",
                 "pt-br": "Endurecer",
-                "zh-tw": "硬化"
+                "zh-tw": "硬化",
+                ja: "かたくなる"
             },
             cost: ["Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, previeni tutti i danni inflitti a questo Pokémon dagli attacchi se quel danno è pari o inferiore a 40.",
                 "de": "Verhindere im nächsten Zug deines Gegners jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird, wenn dieser Schaden 40 oder weniger beträgt.",
                 "pt-br": "Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques se o dano for igual ou inferior a 40.",
-                "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。"
+                "zh-tw": "在對手的下一個回合中，如果該寶可夢的攻擊傷害在 40 或以下，則防止該寶可夢受到的所有傷害。",
+                ja: "次の相手の番、このポケモンは40以下のワザのダメージを受けない。"
             }
         }],
     weaknesses: [{

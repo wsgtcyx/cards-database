@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/043",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/043",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/043"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/043"
     },
     name: {
         en: "Dewott",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Ha un'indole coscienziosa e austera. Padroneggia l'uso delle sue mollusciabole grazie a un costante e scrupoloso esercizio.",
         de: "Es ist fleißig und diszipliniert. Durch regelmäßiges sowie hingebungsvolles Training hat es sich die Handhabung seiner Muscheln zu eigen gemacht.",
         "pt-br": "Dewott tem uma personalidade rígida e aplicada. Domina o uso de suas scalchops treinando repetidamente e com muito esforço.",
-        "zh-tw": "性情勤勉，嚴以律己。\n會透過紮實的反覆練習，\n學成運用扇貝貝的刀法。"
+        "zh-tw": "性情勤勉，嚴以律己。\n會透過紮實的反覆練習，\n學成運用扇貝貝的刀法。",
+        ja: "勤勉で ストイックな 性質。 地道な 反復練習により ホタチ捌きを 自分のものにする。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Conchilama",
                 de: "Kalkklinge",
                 "zh-tw": "貝殼刃",
-                "pt-br": "Concha Navalha"
+                "pt-br": "Concha Navalha",
+                ja: "シェルブレード"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
                 de: "Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。"
+                "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。"
             },
             damage: "20+"
         }

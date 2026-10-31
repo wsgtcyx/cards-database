@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/044",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/044",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/044",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/044"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/044",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/044"
     },
     name: {
         en: "Lapras",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lapras",
         de: "Lapras",
         'pt-br': "Lapras",
+        ja: "ラプラス",
         ko: "라프라스",
         "zh-tw": "拉普拉斯"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È un Pokémon intelligente e dall'animo\ngentile. Solca i mari facendo riecheggiare\nil suo canto dolce e melodioso.",
         de: "Ein intelligentes und herzensgutes Pokémon.\nWährend es auf dem Meer schwimmt, lässt es\nseinen herrlichen Gesang erklingen.",
         'pt-br': "Este Pokémon esperto e bondoso flutua\nna superfície do oceano, enquanto sua\nlinda canção ecoa ao redor.",
+        ja: "賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。",
         ko: "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다.",
         "zh-tw": "聰明又善良的神奇寶貝，它在海面上滑行，周圍迴響著優美的歌聲。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Surf",
                 de: "Surfer",
                 'pt-br': "Surfar",
+                ja: "なみのり",
                 ko: "파도타기",
                 "zh-tw": "衝浪"
             },

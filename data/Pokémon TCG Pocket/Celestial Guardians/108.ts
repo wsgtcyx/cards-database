@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/108",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/108"
     },
     name: {
         en: "Alolan Meowth",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Meowth di Alola",
         de: "Alola-Mauzi",
         'pt-br': "Meowth de Alola",
+        ja: "アローラニャース",
         ko: "알로라나옹",
         "zh-tw": "阿羅拉喵喵",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "In passato viveva nel lusso assieme alla famiglia reale della\nregione di Alola. Per questo è molto schizzinoso riguardo al cibo.",
         de: "Vor langer Zeit führte es bei einer Dynastie der\nAlola-Region ein luxuriöses Leben, wodurch es\nin Bezug auf sein Futter sehr wählerisch wurde.",
         'pt-br': "Tem um estilo de vida luxuoso porque vivia com a realeza\nde Alola. Por isso, é muito exigente com comida.",
+        ja: "むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。",
         ko: "과거 알로라지방의 왕족과\n사치스러운 생활을 했기 때문에\n먹이의 취향이 상당히 까다롭다.",
         "zh-tw": "它習慣於奢華，因為它曾經與阿羅拉皇室住在一起。因此，它對食物非常挑剔。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Graffio",
                 de: "Kratzer",
                 'pt-br': "Arranhão",
+                ja: "ひっかく",
                 ko: "할퀴기",
                 "zh-tw": "划痕"
             },

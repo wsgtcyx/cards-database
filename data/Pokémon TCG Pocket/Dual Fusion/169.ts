@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/169",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/169",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/169",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/169"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/169",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/169"
     },
     name: {
         en: "Poké Mart Guy",
@@ -38,7 +39,7 @@ const card: Card = {
         "zh-tw": "從自己的牌庫隨機將2張「好傷藥」「黃金噴霧」「萬靈藥」加入手牌。",
         it: "Prendi 2 carte a caso dal tuo mazzo fra le seguenti: Superpozione, Repellente max e Cura totale. Poi aggiungile alle carte che hai in mano.",
         de: "Nimm von den Karten Supertrank, Top-Schutz und Hyperheiler 2 zufällige aus deinem Deck auf deine Hand.",
-        ja: "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand.",
+        ja: "自分の山札から「いいきずぐすり」「ゴールドスプレー」「なんでもなおし」をランダムに2枚、手札に加える。",
         ko: "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand."
     }
 };

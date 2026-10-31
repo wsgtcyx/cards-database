@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/053"
     },
     name: {
         en: "Tinkatuff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tinkatuff",
         de: "Tafforgita",
         'pt-br': "Tinkatuff",
+        ja: "ナカヌチャン",
         ko: "벼리짱",
         "zh-tw": "巧鍛匠"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Tinkatink",
         "de": "Forgita",
         "pt-br": "Tinkatink",
-        "zh-tw": "小鍛匠"
+        "zh-tw": "小鍛匠",
+        ja: "カヌチャン"
     },
     description: {
         en: "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Assalta i branchi capeggiati da Bisharp\nper procurarsi il metallo necessario a\nrealizzare il suo martello grande e resistente.",
         de: "Es überfällt Gruppen von Gladiantri und Caesurio,\num Metall zu sammeln, das es zum Herstellen seines\ngroßen, robusten Hammers benötigt.",
         'pt-br': "Este Pokémon ataca grupos de Pawniard e Bisharp com\no intuito de coletar metal deles e\ncriar um martelo grande e resistente.",
+        ja: "大きくて 頑丈な ハンマーを 作るために キリキザンの 群れを 襲って 金属を 集める。",
         ko: "크고 튼튼한 해머를 만들기 위해\n절각참 무리를 습격해서\n금속을 모은다.",
         "zh-tw": "這種神奇寶貝會攻擊成群的典當者和雙刃者，從他們身上收集金屬，以製造一把大而堅固的錘子。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Martello Tenace",
             de: "Hartnäckiger Hammer",
             'pt-br': "Martelo Tenaz",
+            ja: "がんばりハンマー",
             ko: "노력해머",
             "zh-tw": "頑強之鎚"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
             de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
             'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+            ja: "コインを1回投げオモテなら、30ダメージ追加。",
             ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
             "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
         }

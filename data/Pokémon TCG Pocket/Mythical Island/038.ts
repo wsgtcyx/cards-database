@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/038",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/038",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/038",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/038",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/038"
     },
     name: {
         en: "Florges",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Florges",
         de: "Florges",
         'pt-br': "Florges",
+        ja: "フラージェス",
         ko: "플라제스",
         "zh-tw": "花潔夫人",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Floette",
         "pt-br": "Floette",
         "zh-tw": "花葉蒂",
+        ja: "フラエッテ",
     },
     description: {
         en: "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",
@@ -41,6 +44,7 @@ const card: Card = {
         it: "Questo Pokémon trasforma il proprio territorio\nin uno splendido giardino fiorito. I suoi poteri\nderivano dai fiori rossi che ha attorno al collo.",
         de: "In seinem Revier legt Florges einen prächtigen\nBlumengarten an. Es schöpft seine Kraft aus\nden roten Blumen um seinen Hals.",
         'pt-br': "Este Pokémon cria um jardim de flores impressionante em seu território.\nTraz consigo o poder das flores vermelhas ao redor do seu pescoço.",
+        ja: "自分の テリトリーに 見事な 花園を 作る。 首まわりの 赤い花の パワーを 引き出す。",
         ko: "자신의 영역에 멋진 화원을 만든다.\n목을 감싸고 있는\n빨간 꽃의 파워를 끌어낸다.",
         "zh-tw": "這只神奇寶貝在它的領土上創造了一個令人印象深刻的花園。引出脖子上的紅色花朵的力量。"
     },
@@ -53,6 +57,7 @@ const card: Card = {
                 it: "Fioritura Splendente",
                 de: "Blütenglanz",
                 'pt-br': "Brilho Florido",
+                ja: "ブルームシャイン",
                 ko: "블룸샤인",
                 "zh-tw": "布盧姆希恩"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 it: "Cura ciascuno dei tuoi Pokémon da 20 danni.",
                 de: "Heile 20 Schadenspunkte bei jedem deiner Pokémon.",
                 'pt-br': "Cure 20 pontos de dano de cada um dos seus Pokémon.",
+                ja: "自分のポケモン全員のHPを20回復。",
                 ko: "자신의 포켓몬 전원의 HP를 20회복.",
                 "zh-tw": "治療每隻神奇寶貝造成的 20 點傷害。"
             }

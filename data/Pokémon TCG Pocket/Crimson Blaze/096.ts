@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/096"
     },
     name: {
         en: "Type: Null",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Tipo Zero",
         "de": "Typ:Null",
         "pt-br": "Tipo Nulo",
-        "zh-tw": "屬性：空"
+        "zh-tw": "屬性：空",
+        ja: "タイプ：ヌル"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Un'arma Pokémon sviluppata per uno scopo specifico\nmissione, è impazzito durante un esperimento,\nquindi è stato congelato criogenicamente.",
         "de": "Eine Pokémon-Waffe, die für einen bestimmten Zweck entwickelt wurde\nMission, es ging während eines Experiments durch,\nalso wurde es kryogen eingefroren.",
         "pt-br": "Uma arma Pokémon desenvolvida para um determinado\nmissão, ficou furioso durante um experimento,\nentão foi congelado criogenicamente.",
-        "zh-tw": "為特定的神奇寶貝開發的武器\n任務中，它在一次實驗中變得狂暴，\n所以它被低溫冷凍。"
+        "zh-tw": "為特定的神奇寶貝開發的武器\n任務中，它在一次實驗中變得狂暴，\n所以它被低溫冷凍。",
+        ja: "ある任務の ために 開発された ポケモン兵器。 実験中に 暴走した ため 凍結された。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Colpo veloce",
                 "de": "Schneller Schlag",
                 "pt-br": "Golpe Rápido",
-                "zh-tw": "快速打擊"
+                "zh-tw": "快速打擊",
+                ja: "クイックアタック"
             },
             damage: "20+",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Lancia una moneta. Se esce testa, questo attacco infligge 20 danni in più.",
                 "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se der cara, este ataque causa 20 de dano a mais.",
-                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。"
+                "zh-tw": "拋一枚硬幣。如果正面，這次攻擊會造成 20 點額外傷害。",
+                ja: "コインを1回投げオモテなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

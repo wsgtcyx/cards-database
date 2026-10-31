@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/086",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/086",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/086"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/086"
     },
     name: {
         en: "Excadrill",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La trivella si è evoluta diventando d'acciaio e può perforare una lastra di ferro. È molto utile per scavare tunnel.",
         de: "Seine zu Stahl weiterentwickelten Bohrer sind kräftig genug, um Eisenplatten zu durchbohren. Beim Tunnelbau ist es sehr hilfreich.",
         "pt-br": "Sua broca evoluiu para aço e é forte o suficiente para perfurar placas de ferro. Este Pokémon é muito útil em construções de túneis.",
-        "zh-tw": "進化為鋼的鑽頭有著\n能穿透鐵板的破壞力。\n在隧道工程裡可幫上大忙。"
+        "zh-tw": "進化為鋼的鑽頭有著\n能穿透鐵板的破壞力。\n在隧道工程裡可幫上大忙。",
+        ja: "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpodifango",
                 de: "Lehmschuss",
                 "pt-br": "Tiro de Lama",
-                "zh-tw": "泥巴射擊"
+                "zh-tw": "泥巴射擊",
+                ja: "マッドショット"
             },
             damage: 50
         }

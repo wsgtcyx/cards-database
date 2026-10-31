@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/006"
     },
     name: {
         en: "Cherubi",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cherubi",
         de: "Kikugi",
         'pt-br': "Cherubi",
+        ja: "チェリンボ",
         ko: "체리버",
         "zh-tw": "櫻花寶",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Fugge dai Pokémon alati, ghiotti della\nsua pallina ricca di sostanze nutritive.",
         de: "Sein nährstoffreiches Bällchen erfreut sich bei\nVogel-Pokémon großer Beliebtheit. Es ist ständig\nauf der Flucht, damit es nicht gefressen wird.",
         'pt-br': "Corre agilmente para evitar ser bicado por Pokémon\npássaro que adorariam fugir com sua bolinha\nde armazenamento rica em nutrientes.",
+        ja: "栄養の 詰まった 玉は 鳥ポケモンの 大好物。 ついばまれないよう 逃げまわる。",
         ko: "영양이 듬뿍 담긴 구슬을\n새포켓몬들이 아주 좋아한다.\n쪼이지 않기 위해 도망 다닌다.",
         "zh-tw": "它敏捷地衝來衝去，以避免被鳥類神奇寶貝啄食，這些神奇寶貝會喜歡用它營養豐富的小存儲球偷走。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fogliame",
                 de: "Blattwerk",
                 'pt-br': "Folhagem",
+                ja: "このは",
                 ko: "나뭇잎",
                 "zh-tw": "葉子"
             },

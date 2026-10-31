@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/043",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/043",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/043",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/043"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/043",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/043"
     },
     name: {
         en: "Rapidash",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rapidash",
         de: "Gallopa",
         'pt-br': "Rapidash",
+        ja: "ギャロップ",
         ko: "날쌩마",
         "zh-tw": "烈焰馬",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Ponyta",
         "de": "Ponita",
         "pt-br": "Ponyta",
-        "zh-tw": "小火馬"
+        "zh-tw": "小火馬",
+        ja: "ポニータ"
     },
     attacks: [{
             cost: ["Fire"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Criniera di Fuoco",
                 de: "Flammenmähne",
                 'pt-br': "Crina de Fogo",
+                ja: "ほのおのたてがみ",
                 ko: "불꽃의갈기",
                 "zh-tw": "火鬃毛"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Sfreccia nelle praterie a una velocità di 240 km/h,\nfacendo sventolare la sua criniera ardente.",
         de: "Die lodernde Mähne dieses Pokémon flattert im\nWind, wenn es mit einer Geschwindigkeit von\n240 km/h über Felder und Wiesen galoppiert.",
         'pt-br': "Este Pokémon pode ser encontrado galopando\nnas pradarias, com sua crina de fogo ao vento,\na velocidades de até 240 km/h.",
+        ja: "燃える たてがみを はためかせ 時速 ２４０キロの 速度で 大草原を 駆けぬけるのだ。",
         ko: "불타는 갈기를 휘날리며\n시속 240km의 속도로\n넓은 초원을 달려나간다.",
         "zh-tw": "這只神奇寶貝以高達 150 英里/小時的速度在田野中奔跑，火熱的鬃毛在風中飄揚。"
     },

@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/015",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/015"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/015"
     },
     name: {
         en: "Oshawott",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Kalkklinge",
                 "pt-br": "Concha Navalha",
                 "zh-tw": "貝殼刃",
-                ja: "Razor Shell",
+                ja: "シェルブレード",
                 ko: "Razor Shell"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "擲1次硬幣若為正面,則增加30點傷害。",
-                ja: "Flip a coin. If heads, this attack does 30 more damage.",
+                ja: "コインを1回投げオモテなら、30ダメージ追加。",
                 ko: "Flip a coin. If heads, this attack does 30 more damage."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Kämpft mit der Muschel auf seinem Bauch. Pariert es einen Angriff, schlägt es sofort mit einem Schalenhieb zurück.",
         "pt-br": "Luta usando a scalchop em sua barriga. Em resposta a uma agressão, retalia imediatamente atacando.",
         "zh-tw": "用腹部的扇貝貝戰鬥。面對攻擊時，會立刻用斬擊來反擊。",
-        ja: "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+        ja: "お腹の ホタチで 戦う。 攻撃を 受け止めてから すかさず 切りつけて 反撃するのだ。",
         ko: "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
     }
 };

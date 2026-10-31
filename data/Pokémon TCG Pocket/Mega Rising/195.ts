@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/195",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/195",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/195",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/195"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/195",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/195"
     },
     name: {
         en: "Spinda",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Pandir",
         "pt-br": "Spinda",
         "zh-tw": "晃晃斑",
+        ja: "パッチール",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Il modello di spot di ogni Spinda è diverso. Con il suo\nmovimenti incerti, elude gli avversari\nattacca brillantemente!",
         "de": "Das Fleckenmuster jedes Spindas ist anders. Mit seinem\nstolpernde Bewegungen, es weicht den Gegnern aus\ngreift brillant an!",
         "pt-br": "O padrão de pontos de cada Spinda é diferente. Com seu\nmovimentos cambaleantes, ele evita os adversários\nataca brilhantemente!",
-        "zh-tw": "每個 Spinda 的斑點圖案都不同。以其\n動作跌跌撞撞，躲避對手\n攻擊華麗！"
+        "zh-tw": "每個 Spinda 的斑點圖案都不同。以其\n動作跌跌撞撞，躲避對手\n攻擊華麗！",
+        ja: "１匹ずつ ブチ模様は 異なる。 フラフラした 動きで 相手の 攻撃を 絶妙に かわすぞ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata vertiginosa",
                 "de": "Schwindelerregender Kopfstoß",
                 "pt-br": "Cabeçada vertiginosa",
-                "zh-tw": "令人眼花繚亂的頭撞"
+                "zh-tw": "令人眼花繚亂的頭撞",
+                ja: "フラフラずつき"
             },
             damage: 30,
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Entrambi i Pokémon attivi sono ora confusi.",
                 "de": "Beide aktiven Pokémon sind jetzt verwirrt.",
                 "pt-br": "Ambos os Pokémon ativos agora estão confusos.",
-                "zh-tw": "兩隻活躍的神奇寶貝現在都處於混亂狀態。"
+                "zh-tw": "兩隻活躍的神奇寶貝現在都處於混亂狀態。",
+                ja: "おたがいのバトルポケモンをこんらんにする。"
             }
         }],
     weaknesses: [{

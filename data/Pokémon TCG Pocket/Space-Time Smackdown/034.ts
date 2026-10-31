@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/034",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/034",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/034",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/034"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/034",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/034"
     },
     name: {
         en: "Regice",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Regice",
         de: "Regice",
         'pt-br': "Regice",
+        ja: "レジアイス",
         ko: "레지아이스",
         "zh-tw": "雷吉艾斯",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Utilizza aria gelida fino a -200 ºC per\ncongelare all'istante chiunque gli si avvicini.",
         de: "Regice kontrolliert bis zu −200 ºC kalte Luft,\nmit der es alles und jeden in seiner Nähe im\nHandumdrehen gefrieren lässt.",
         'pt-br': "Regice usa um ar gelado, que pode alcançar temperaturas\nde até -200 °C, para congelar instantaneamente\nqualquer criatura que se aproximar.",
+        ja: "マイナス２００度まで 冷えこむ 冷気を 操り 近づいたものを あっという間に 氷漬けにする。",
         ko: "영하 200도까지 내려가는\n냉기를 조종해 다가오는 자를\n순식간에 얼려버린다.",
         "zh-tw": "雷吉斯的冷空氣溫度可低至-328華氏度，會立即凍結任何接近它的生物。"
     },
@@ -46,6 +49,7 @@ const card: Card = {
                 it: "Cristalcorpo",
                 de: "Kristallkörper",
                 'pt-br': "Corpo de Cristal",
+                ja: "クリスタルボディ",
                 ko: "크리스털 바디",
                 "zh-tw": "水晶身體"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Previeni tutti gli effetti inflitti a questo Pokémon dagli attacchi usati dai Pokémon del tuo avversario.",
                 de: "Verhindere alle Effekte der von Pokémon deines Gegners eingesetzten Attacken, die diesem Pokémon zugefügt werden.",
                 'pt-br': "Previna todos os efeitos de ataques usados pelos Pokémon do seu oponente causados a este Pokémon.",
+                ja: "このポケモンは、相手のポケモンが使うワザの効果を受けない。",
                 ko: "이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.",
                 "zh-tw": "阻止對方寶可夢對這只寶可夢的所有攻擊效果。"
             }
@@ -68,6 +73,7 @@ const card: Card = {
                 it: "Gelocolpo",
                 de: "Frostschlag",
                 'pt-br': "Pancada Congelada",
+                ja: "フロストスマッシュ",
                 ko: "프로스트 스매시",
                 "zh-tw": "冰霜粉碎"
             },

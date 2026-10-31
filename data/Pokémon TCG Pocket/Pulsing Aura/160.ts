@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/160",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/160",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/160",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/160"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/160",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/160"
     },
     name: {
         en: "Flapple",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Usa il proprio fluido corporeo per riparare la sua mela. I forti Flapple che hanno vinto molte battaglie hanno mele color argilla dappertutto.",
         de: "Es nutzt seine eigene Körperflüssigkeit, um seinen Apfel zu reparieren. Starke Drapfel, die viele Schlachten gewonnen haben, haben Äpfel, die überall lehmfarben sind.",
         "pt-br": "Ele usa seu próprio fluido corporal para reparar sua maçã. Flapple fortes que venceram muitas batalhas têm maçãs totalmente cor de argila.",
-        "zh-tw": "它用自己的體液來修復它的蘋果。屢戰屢勝的強者蘋裹龍擁有全身都是黏土色的蘋果。"
+        "zh-tw": "它用自己的體液來修復它的蘋果。屢戰屢勝的強者蘋裹龍擁有全身都是黏土色的蘋果。",
+        ja: "体液で りんごを 補修する。 歴戦の 強者の りんごは 全体的に 粘土色。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Asprosputo",
                 de: "Sauerspucke",
                 "pt-br": "Cuspe Azedo",
-                "zh-tw": "酸酸唾液"
+                "zh-tw": "酸酸唾液",
+                ja: "すっぱいだえき"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore costano 1 {C} in più.",
                 de: "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
-                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊額外花費 1 {C} 點。"
+                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊額外花費 1 {C} 點。",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。"
             },
             damage: 40
         }

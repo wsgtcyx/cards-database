@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/065",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/065"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/065",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/065"
     },
     name: {
         en: "Vaporeon",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "La sua composizione cellulare è simile alle molecole d'acqua. Di conseguenza, non può essere visto quando si scioglie nell’acqua.",
         de: "Seine Zellzusammensetzung ähnelt der von Wassermolekülen. Daher ist es nicht sichtbar, wenn es in Wasser schmilzt.",
         "pt-br": "Sua composição celular é semelhante às moléculas de água. Como resultado, não pode ser visto quando derrete na água.",
-        "zh-tw": "其細胞組成與水分子相似。因此，當它融化成水時就看不見了。"
+        "zh-tw": "其細胞組成與水分子相似。因此，當它融化成水時就看不見了。",
+        ja: "体の 細胞の つくりが 水の 分子に 似ているため 水に 溶けると 見えなくなる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Sequestrare",
                 de: "Beschlagnahmen",
                 "pt-br": "Apreender",
-                "zh-tw": "圍困"
+                "zh-tw": "圍困",
+                ja: "かこいこむ"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。",
+                ja: "次の相手の番、このワザを受けたポケモンはにげるができない。"
             },
             damage: 60
         }

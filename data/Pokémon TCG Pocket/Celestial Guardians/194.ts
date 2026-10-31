@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/194",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/194",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/194",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/194"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/194",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/194"
     },
     name: {
         en: "Lana",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Suiren",
         de: "Tracy",
         'pt-br': "Vitória",
+        ja: "スイレン",
         ko: "수련",
         "zh-tw": "水蓮",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Puoi usare questa carta solo se hai Araquanid in gioco. Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
         de: "Du kannst diese Karte nur einsetzen, wenn du Aranestro im Spiel hast. Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein.",
         'pt-br': "Você só pode usar esta carta se tiver Araquanid em jogo.\nMande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo.",
+        ja: "このカードは、自分の場に「オニシズクモ」がいるときにしか使えない。 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
         ko: "이 카드는 자신의 필드에 「깨비물거미」 있을 때만 사용할 수 있다.\n상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
         "zh-tw": "只有當你場上有阿拉奎尼德時你才能使用這張卡。將對手的 1 只後備神奇寶貝切換到活動位置。"
     },

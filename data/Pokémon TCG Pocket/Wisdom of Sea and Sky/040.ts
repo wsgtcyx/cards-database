@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/040",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/040",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/040",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/040",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/040"
     },
     name: {
         en: "Politoed",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quaxo",
         "pt-br": "Politoed",
         "zh-tw": "蚊香蛙皇",
+        ja: "ニョロトノ",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Quaputzi",
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
+        ja: "ニョロゾ",
     },
     description: {
         en: "At nightfall, these Pokémon appear on the shores\nof lakes. They announce their territorial claims by\nletting out cries that sound like shouting.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Al calar della notte, questi Pokémon appaiono sulle rive\ndei laghi. Annunciano le loro rivendicazioni territoriali\nemettendo grida che sembrano grida.",
         "de": "Bei Einbruch der Dunkelheit erscheinen diese Pokémon an den Ufern\nvon Seen. Sie kündigen ihre Gebietsansprüche an\nSchreie ausstoßen, die wie Schreien klingen.",
         "pt-br": "Ao anoitecer, esses Pokémon aparecem na costa\nde lagos. Eles anunciam suas reivindicações territoriais\nsoltando gritos que parecem gritos.",
-        "zh-tw": "夜幕降臨時，這些神奇寶貝會出現在海岸上\n湖泊。他們通過以下方式宣布領土主張\n發出聽起來像喊叫的叫聲。"
+        "zh-tw": "夜幕降臨時，這些神奇寶貝會出現在海岸上\n湖泊。他們通過以下方式宣布領土主張\n發出聽起來像喊叫的叫聲。",
+        ja: "夜になると 池の 畔に 現れる。 怒鳴るような 声で 鳴いて 縄張りを アピールするぞ。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Tifo signorile",
                 "de": "Herrlicher Jubel",
                 "pt-br": "Torcida Senhorial",
-                "zh-tw": "高貴的歡呼"
+                "zh-tw": "高貴的歡呼",
+                ja: "とのさまエール"
             },
             effect: {
                 en: "As long as this Pokémon is on your Bench, attacks used by your Pokémon that evolve from Poliwhirl do +40 damage to your opponent's Active Pokémon.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Fintanto che questo Pokémon è nella tua panchina, gli attacchi usati dai tuoi Pokémon che si evolvono da Poliwhirl infliggono +40 danni al Pokémon attivo del tuo avversario.",
                 "de": "Solange sich dieses Pokémon auf deiner Bank befindet, fügen Angriffe deines Pokémon, die sich aus Poliwhirl entwickeln, dem Aktiven Pokémon deines Gegners +40 Schaden zu.",
                 "pt-br": "Enquanto este Pokémon estiver no seu Banco, os ataques usados pelos seus Pokémon que evoluem de Poliwhirl causarão +40 de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "只要這只神奇寶貝在你的替補席上，從波利旋進化而來的你的神奇寶貝使用的攻擊就會對對手的活躍神奇寶貝造成 +40 點傷害。"
+                "zh-tw": "只要這只神奇寶貝在你的替補席上，從波利旋進化而來的你的神奇寶貝使用的攻擊就會對對手的活躍神奇寶貝造成 +40 點傷害。",
+                ja: "このポケモンがベンチにいるかぎり、自分の「ニョロゾ」から進化するポケモンが使うワザの、相手のバトルポケモンへのダメージを+40する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Ipervoce",
                 "de": "Hyperstimme",
                 "pt-br": "Hiper Voz",
-                "zh-tw": "超級語音"
+                "zh-tw": "超級語音",
+                ja: "ハイパーボイス"
             },
             damage: 60,
             cost: ["Water", "Colorless"]

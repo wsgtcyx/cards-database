@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/023",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/023",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/023"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/023"
     },
     name: {
         en: "Greavard",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "A questo amichevole Pokémon non piace stare da solo. Prestagli anche la minima attenzione e ti seguirà per sempre.",
         de: "Dieses freundliche Pokémon mag es nicht, allein zu sein. Schenken Sie ihm auch nur die geringste Aufmerksamkeit, und er wird Ihnen für immer folgen.",
         "pt-br": "Este Pokémon amigável não gosta de ficar sozinho. Preste a mínima atenção e ele o seguirá para sempre.",
-        "zh-tw": "這種友善的寶可夢不喜歡獨處。即使是最輕微的關注，它也會永遠跟隨你。"
+        "zh-tw": "這種友善的寶可夢不喜歡獨處。即使是最輕微的關注，它也會永遠跟隨你。",
+        ja: "人懐っこくて 寂しがり。 ちょっと かまっただけでも いつまでも 後を ついてくるぞ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Zannaffilata",
                 de: "Scharfe Fänge",
                 "pt-br": "Presa Afiada",
-                "zh-tw": "銳利之牙"
+                "zh-tw": "銳利之牙",
+                ja: "するどいキバ"
             },
             damage: 20
         }

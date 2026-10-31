@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/042",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/042",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/042",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/042",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/042"
     },
     name: {
         en: "Aurorus",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Aurorus",
         "de": "Amagarga",
         "pt-br": "Aurorus",
-        "zh-tw": "冰雪巨龍"
+        "zh-tw": "冰雪巨龍",
+        ja: "アマルルガ"
     },
     illustrator: "Suwama Chiaki",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Amaura",
         "de": "Amarino",
         "pt-br": "Amaura",
-        "zh-tw": "冰雪龍"
+        "zh-tw": "冰雪龍",
+        ja: "アマルス"
     },
     description: {
         en: "When gripped by rage, Aurorus will emanate\nfreezing air, covering everything around it in ice.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Quando preso dalla rabbia, emanerà Aurorus\naria gelida, ricoprendo tutto intorno di ghiaccio.",
         "de": "Wenn Aurorus von Wut gepackt wird, strahlt er aus\ngefrierende Luft, die alles um sich herum mit Eis bedeckt.",
         "pt-br": "Quando dominado pela raiva, Aurorus emanará\nar gelado, cobrindo tudo ao seu redor com gelo.",
-        "zh-tw": "當被憤怒抓住時，Aurorus 會散發出來\n空氣結冰，周圍的一切都被冰覆蓋。"
+        "zh-tw": "當被憤怒抓住時，Aurorus 會散發出來\n空氣結冰，周圍的一切都被冰覆蓋。",
+        ja: "激しい 怒りに かられると 猛烈な 冷気を 噴き出して あたり一面を 氷漬けにする。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Saluti Prigione",
                 "de": "Hagel-Gefängnis",
                 "pt-br": "Salve Prisão",
-                "zh-tw": "監獄萬歲"
+                "zh-tw": "監獄萬歲",
+                ja: "ヘイルプリズン"
             },
             damage: 90,
             cost: ["Water", "Water", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta Energia Water2 {W} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora paralizzato.",
                 "de": "Lege Water2 {W} Energie von diesem Pokémon ab. Das aktive Pokémon deines Gegners ist jetzt gelähmt.",
                 "pt-br": "Descarte a energia Water2 {W} deste Pokémon. O Pokémon Ativo do seu oponente agora está Paralisado.",
-                "zh-tw": "丟棄該神奇寶貝的 Water2 {W} 能量。你對手的主動神奇寶貝現在陷入麻痺狀態。"
+                "zh-tw": "丟棄該神奇寶貝的 Water2 {W} 能量。你對手的主動神奇寶貝現在陷入麻痺狀態。",
+                ja: "このポケモンから{W}エネルギーを2個トラッシュ。相手のバトルポケモンをマヒにする。"
             }
         }],
     weaknesses: [{

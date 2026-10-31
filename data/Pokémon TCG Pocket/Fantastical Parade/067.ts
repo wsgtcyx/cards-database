@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/067"
     },
     name: {
         en: "Litwick",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Litwick",
         "de": "Lichtel",
         "pt-br": "Litwick",
-        "zh-tw": "燭光靈"
+        "zh-tw": "燭光靈",
+        ja: "ヒトモシ"
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Mentre accendi una luce e fingi di essere a\nguida, prosciuga la forza vitale di chiunque\nseguilo.",
         "de": "Während ich ein Licht strahle und vorgebe, ein zu sein\nFührer, es entzieht jedem die Lebenskraft\nFolge ihm.",
         "pt-br": "Enquanto brilha uma luz e finge ser um\nguia, ele suga a força vital de qualquer um que\nsiga-o.",
-        "zh-tw": "一邊閃耀著光芒，一邊假裝自己是\n指導，它會吸取任何人的生命力\n跟隨它。"
+        "zh-tw": "一邊閃耀著光芒，一邊假裝自己是\n指導，它會吸取任何人的生命力\n跟隨它。",
+        ja: "明かりを 灯して 道案内を するように 見せかけながら 生命力を 吸い取っている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Mumble",
                 "de": "Murmeln",
                 "pt-br": "Resmungar",
-                "zh-tw": "咕噥"
+                "zh-tw": "咕噥",
+                ja: "つぶやく"
             },
             damage: 20,
             cost: ["Psychic"]

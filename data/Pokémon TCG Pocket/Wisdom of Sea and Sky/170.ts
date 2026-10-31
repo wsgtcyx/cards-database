@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/170",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/170",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/170",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/170"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/170",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/170"
     },
     name: {
         en: "Delibird",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Botogel",
         "pt-br": "Delibird",
         "zh-tw": "信使鳥",
+        ja: "デリバード",
     },
     illustrator: "Mékayu",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Trasporta cibo tutto il giorno. Ci sono storie su\npersone perse che furono salvate dal cibo che aveva.",
         "de": "Es trägt den ganzen Tag über Nahrung. Es gibt Geschichten darüber\nverlorene Menschen, die durch die Nahrung, die es gab, gerettet wurden.",
         "pt-br": "Ele carrega comida o dia todo. Existem contos sobre\nperdeu pessoas que foram salvas pela comida que tinha.",
-        "zh-tw": "它整天攜帶食物。有一些關於\n失去的人被它所擁有的食物拯救了。"
+        "zh-tw": "它整天攜帶食物。有一些關於\n失去的人被它所擁有的食物拯救了。",
+        ja: "１日 ずっと エサを運んでいる。 遭難した 人が デリバードの エサで 助かった 話もある。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pareggio inciampante",
                 "de": "Stolpernder Zug",
                 "pt-br": "Empate de tropeço",
-                "zh-tw": "跌跌撞撞的平局"
+                "zh-tw": "跌跌撞撞的平局",
+                ja: "ずっこけドロー"
             },
             damage: 10,
             cost: ["Water"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Pesca una carta.",
                 "de": "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
-                "zh-tw": "畫一張卡片。"
+                "zh-tw": "畫一張卡片。",
+                ja: "自分の山札を1枚引く。"
             }
         }],
     weaknesses: [{

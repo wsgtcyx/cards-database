@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/107",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/107",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/107",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/107"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/107",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/107"
     },
     name: {
         en: "Foongus",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon preferisce i luoghi umidi. Emette spore velenose per respingere i nemici in avvicinamento.",
         de: "Dieses Pokémon bevorzugt feuchte Orte. Es stößt Giftsporen aus, um sich nähernde Feinde abzuwehren.",
         "pt-br": "Este Pokémon prefere lugares úmidos. Ele jorra esporos venenosos para repelir os inimigos que se aproximam.",
-        "zh-tw": "該寶可夢喜歡潮濕的地方。它會噴出有毒孢子來擊退接近的敵人。"
+        "zh-tw": "該寶可夢喜歡潮濕的地方。它會噴出有毒孢子來擊退接近的敵人。",
+        ja: "湿った 土地を 好んでいる。 毒の 胞子を 吹き出して 近づく 敵を 追い払う。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 "pt-br": "Aríete",
-                "zh-tw": "衝撞"
+                "zh-tw": "衝撞",
+                ja: "ぶつかる"
             },
             damage: 20
         }

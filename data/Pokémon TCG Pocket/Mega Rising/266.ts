@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/266",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/266",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/266",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/266"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/266",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/266"
     },
     name: {
         en: "Marlon",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Benson",
         "pt-br": "Marlon",
         "zh-tw": "西子伊",
+        ja: "シズイ",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Cura 70 danni da 1 dei tuoi Carracosta o Jellicent.",
         "de": "Heile 70 Schaden durch 1 deiner Carracosta oder Jellicent.",
         "pt-br": "Cure 70 de dano de 1 de seus Carracosta ou Jellicent.",
-        "zh-tw": "治療 1 個卡拉科斯塔或傑利森特造成的 70 點傷害。"
+        "zh-tw": "治療 1 個卡拉科斯塔或傑利森特造成的 70 點傷害。",
+        ja: "自分の「アバゴーラ」または「ブルンゲル」1匹のHPを70回復。"
     },
     trainerType: "Supporter"
 };

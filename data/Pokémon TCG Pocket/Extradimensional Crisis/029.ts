@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/029"
     },
     name: {
         en: "Medicham",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Meditalis",
         "pt-br": "Medicham",
         "zh-tw": "恰雷姆",
+        ja: "チャーレム",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Meditie",
         "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
+        ja: "アサナン",
     },
     description: {
         en: "Through yoga training, it gained the psychic\npower to predict its foe's next move.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Attraverso l'allenamento yoga, ha acquisito la sensitività\npotere di prevedere la prossima mossa del suo nemico.",
         "de": "Durch Yoga-Training erlangte es das Hellseher\nMacht, den nächsten Schritt seines Gegners vorherzusagen.",
         "pt-br": "Através do treinamento de yoga, ganhou o psíquico\npoder de prever o próximo movimento de seu inimigo.",
-        "zh-tw": "通過瑜伽訓練，獲得了通靈的能力\n擁有預測敵人下一步行動的能力。"
+        "zh-tw": "通過瑜伽訓練，獲得了通靈的能力\n擁有預測敵人下一步行動的能力。",
+        ja: "ヨガの 修行で 鍛えられた サイコパワーで 相手の 動きを 予測することが できるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Calcio in salto alto",
                 "de": "Hochsprung-Kick",
                 "pt-br": "Chute de salto em altura",
-                "zh-tw": "跳高踢腿"
+                "zh-tw": "跳高踢腿",
+                ja: "とびひざげり"
             },
             damage: 50,
             cost: ["Fighting"]

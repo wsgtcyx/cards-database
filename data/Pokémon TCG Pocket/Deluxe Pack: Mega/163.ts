@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/163",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/163",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/163",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/163"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/163",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/163"
     },
     name: {
         en: "Aegislash",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Duokles",
         "pt-br": "Doublade",
         "zh-tw": "雙劍鞘",
-        ja: "Doublade",
+        ja: "ニダンギル",
         ko: "Doublade"
     },
     description: {
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Mithilfe seiner mysteriösen Kräfte kontrollierte es Menschen und Pokémon und ließ sie ein Land nach seinen Vorstellungen erschaffen.",
         "pt-br": "Seus formidáveis poderes espectrais permitem que Aegislash manipule os outros. Certa vez, usou seus poderes para forçar pessoas e Pokémon a construir um reino segundo os seus caprichos.",
         "zh-tw": "堅盾劍怪曾經用強大的靈力控制人和寶可夢，建立了適合自己生活的國家。",
-        ja: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking.",
+        ja: "強力な 霊力で 人や ポケモンを 操り ギルガルドに 都合の 良い 国を つくらせた。",
         ko: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking."
     },
     stage: "Stage2",
@@ -63,7 +64,7 @@ const card: Card = {
                 de: "Grandioser Schild",
                 "pt-br": "Escudo Espetacular",
                 "zh-tw": "卓越盾牌",
-                ja: "Superb Shield",
+                ja: "グレートシールド",
                 ko: "Superb Shield"
             },
             damage: 80,
@@ -80,7 +81,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken von Pokémon-ex deines Gegners -80 Schadenspunkte zugefügt.",
                 "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá −80 pontos de dano de ataques dos Pokémon ex do seu oponente.",
                 "zh-tw": "在下個對手的回合,這隻寶可夢受到對手的「寶可夢ex」招式的傷害-80點。",
-                ja: "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex.",
+                ja: "次の相手の番、このポケモンが相手の「ポケモンex」から受けるワザのダメージを-80する。",
                 ko: "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
             }
         }

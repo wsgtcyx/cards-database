@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/022",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/022",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/022",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/022"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/022",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/022"
     },
     name: {
         en: "Clefairy",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Piepi",
         "pt-br": "Clefairy",
         "zh-tw": "皮皮",
+        ja: "ピッピ",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Si dice che la felicità arriverà a coloro che\nvedere un raduno di Clefairy che balla sotto a\nluna piena.",
         "de": "Es wird gesagt, dass diejenigen, die glücklich sind, glücklich werden\nSehen Sie eine Versammlung von Clefairy, die unter einem tanzt\nVollmond.",
         "pt-br": "Diz-se que a felicidade virá para aqueles que\nveja uma reunião de Clefairy dançando sob um\nlua cheia.",
-        "zh-tw": "據說幸福會降臨到那些\n看到一群 Clefairy 在燈光下跳舞\n滿月。"
+        "zh-tw": "據說幸福會降臨到那些\n看到一群 Clefairy 在燈光下跳舞\n滿月。",
+        ja: "満月の夜 ピッピが 集まって ダンスを 踊るようすを 見ると しあわせに なれると 言われている。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Libbra",
                 "de": "Pfund",
                 "pt-br": "Libra",
-                "zh-tw": "磅"
+                "zh-tw": "磅",
+                ja: "はたく"
             },
             damage: 10,
             cost: ["Colorless"]

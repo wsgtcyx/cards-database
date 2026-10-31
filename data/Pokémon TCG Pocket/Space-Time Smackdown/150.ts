@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/150",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/150",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/150",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/150"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/150",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/150"
     },
     name: {
         en: "Cyrus",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cyrus",
         de: "Zyrus",
         'pt-br': "Cyrus",
+        ja: "アカギ",
         ko: "태홍",
         "zh-tw": "赤日",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Sostituisci uno dei Pokémon danneggiati nella panchina del tuo avversario con il suo Pokémon in posizione attiva.",
         de: "Wechsle 1 Pokémon von der Bank deines Gegners, dem bereits Schaden zugefügt wurde, in die Aktive Position ein.",
         'pt-br': "Mande 1 dos Pokémon no Banco do seu oponente que tiver algum dano nele para o Campo Ativo.",
+        ja: "相手のベンチのダメージを受けているポケモンを1匹選び、バトルポケモンと入れ替える。",
         ko: "상대 벤치의 데미지를 받고 있는 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.",
         "zh-tw": "將對手後備場的 1 只受到傷害的寶可夢切換到活躍點。"
     },

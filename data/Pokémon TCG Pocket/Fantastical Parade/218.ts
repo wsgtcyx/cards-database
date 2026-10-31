@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/218",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/218",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/218"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/218",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/218"
     },
     name: {
         en: "Hitmonlee",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Hitmonlee",
         "de": "Kicklee",
         "pt-br": "Hitmonlee",
-        "zh-tw": "飛腿郎"
+        "zh-tw": "飛腿郎",
+        ja: "サワムラー"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo fantastico Pokémon ha un fantastico senso di\nequilibrio. Può calciare in successione da qualsiasi posizione.",
         "de": "Dieses erstaunliche Pokémon hat ein unglaubliches Gespür für\nGleichgewicht. Es kann aus jeder Position nacheinander treten.",
         "pt-br": "Este incrível Pokémon tem um incrível senso de\nequilíbrio. Ele pode chutar sucessivamente de qualquer posição.",
-        "zh-tw": "這個神奇的神奇寶貝有一種很棒的感覺\n平衡。它可以從任何位置連續踢球。"
+        "zh-tw": "這個神奇的神奇寶貝有一種很棒的感覺\n平衡。它可以從任何位置連續踢球。",
+        ja: "見事な バランス感覚。 どんな 姿勢でも 連続で キックを 放てる すごい やつ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Calciallungo",
                 "de": "Streckkick",
                 "pt-br": "Chute Esticado",
-                "zh-tw": "伸展踢"
+                "zh-tw": "伸展踢",
+                ja: "のびるキック"
             },
             cost: ["Fighting"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 30 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。"
+                "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 30 點傷害。",
+                ja: "相手のベンチポケモン1匹に30ダメージ。"
             }
         }],
     weaknesses: [{

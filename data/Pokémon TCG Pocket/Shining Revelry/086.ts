@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/086"
     },
     name: {
         en: "Tinkaton ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tinkaton-ex",
         de: "Granforgita-ex",
         'pt-br': "Tinkaton ex",
+        ja: "デカヌチャンex",
         ko: "두드리짱 ex",
         "zh-tw": "巨鍛匠ex"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Tinkatuff",
         "de": "Tafforgita",
         "pt-br": "Tinkatuff",
-        "zh-tw": "巧鍛匠"
+        "zh-tw": "巧鍛匠",
+        ja: "ナカヌチャン"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Martellata Possente",
             de: "Heftiges Hämmern",
             'pt-br': "Batida Extraordinária",
+            ja: "ごうかいスタンプ",
             ko: "호쾌스탬프",
             "zh-tw": "很棒的重擊"
         },
@@ -57,6 +61,7 @@ const card: Card = {
             it: "Lancia una moneta. Se esce testa, questo attacco infligge 80 danni in più.",
             de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 80 Schadenspunkte mehr zu.",
             'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 80 pontos de dano a mais.",
+            ja: "コインを1回投げオモテなら、80ダメージ追加。",
             ko: "동전을 1번 던져서 앞면이 나오면 80데미지를 추가한다.",
             "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 80 點額外傷害。"
         }

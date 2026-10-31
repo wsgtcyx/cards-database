@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/274",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/274",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/274",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/274"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/274",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/274"
     },
     name: {
         en: "Pidgeotto",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     illustrator: "Taiga Kayama",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
+        ja: "ポッポ",
     },
     description: {
         en: "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Gli artigli sui piedi sono ben sviluppati.\nPuò trasportare prede come un Exeggcute\nal suo nido a oltre 60 miglia di distanza.",
         "de": "Die Krallen an den Füßen sind gut entwickelt.\nEs kann Beute wie einen Exeggcute tragen\nzu seinem über 60 Meilen entfernten Nest.",
         "pt-br": "As garras dos pés são bem desenvolvidas.\nPode carregar presas como um Exeggcute\nao seu ninho a mais de 60 milhas de distância.",
-        "zh-tw": "它腳上的爪子很發達。\n它可以攜帶獵物，例如Exeggcute\n到60多英里外的巢穴。"
+        "zh-tw": "它腳上的爪子很發達。\n它可以攜帶獵物，例如Exeggcute\n到60多英里外的巢穴。",
+        ja: "足の ツメが 発達している。 エサの タマタマを つかんで １００キロ先の 巣まで 運ぶ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Attacco d'ala",
                 "de": "Flügelangriff",
                 "pt-br": "Ataque de asa",
-                "zh-tw": "翼攻擊"
+                "zh-tw": "翼攻擊",
+                ja: "つばさでうつ"
             },
             damage: 50,
             cost: ["Colorless", "Colorless", "Colorless"]

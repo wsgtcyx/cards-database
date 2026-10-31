@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/165",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/165",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/165"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/165",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/165"
     },
     name: {
         en: "Minun",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Minun",
         "de": "Minun",
         "pt-br": "Minun",
-        "zh-tw": "負電拍拍"
+        "zh-tw": "負電拍拍",
+        ja: "マイナン"
     },
     illustrator: "Kariya",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "La sua avversione per l'acqua lo spinge a rifugiarsi sott'acqua\nle grondaie delle case sotto la pioggia. Utilizza i pompon\nfatto di scintille per il tifo.",
         "de": "Da es Wasser nicht mag, sucht es Unterschlupf\ndie Dachtraufe der Häuser im Regen. Es werden Pompons verwendet\naus Funken zum Jubeln.",
         "pt-br": "Sua aversão à água faz com que ele se abrigue sob\nos beirais das casas na chuva. Ele usa pompons\nfeito de faíscas para torcer.",
-        "zh-tw": "它不喜歡水，所以它躲在水下\n雨中的屋簷。它使用絨球\n由歡呼的火花組成。"
+        "zh-tw": "它不喜歡水，所以它躲在水下\n雨中的屋簷。它使用絨球\n由歡呼的火花組成。",
+        ja: "水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Amico Scintilla",
                 "de": "Kumpel Spark",
                 "pt-br": "Amigo Faísca",
-                "zh-tw": "巴迪·斯帕克"
+                "zh-tw": "巴迪·斯帕克",
+                ja: "バディスパーク"
             },
             damage: 30,
             cost: ["Lightning"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se Plusle è nella tua panchina, questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 "de": "Wenn sich Plusle auf deiner Bank befindet, fügt dieser Angriff außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Se Plusle estiver no seu Banco, este ataque também causará 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "如果Plusle在你的替補席上，這次攻擊也會對對手的替補席上的每隻神奇寶貝造成10點傷害。"
+                "zh-tw": "如果Plusle在你的替補席上，這次攻擊也會對對手的替補席上的每隻神奇寶貝造成10點傷害。",
+                ja: "自分のベンチに「プラスル」がいるなら、相手のベンチポケモン全員にも10ダメージ。"
             }
         }],
     weaknesses: [{

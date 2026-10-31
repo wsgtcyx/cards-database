@@ -1,0 +1,173 @@
+{
+  "SP1-015": {
+    "value": "お腹の ホタチで 戦う。 攻撃を 受け止めてから すかさず 切りつけて 反撃するのだ。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%82%B8%E3%83%A5%E3%83%9E%E3%83%AB",
+      "pageSha256": "d7c8dbfb828e04b343e74814902b2308014e6a31ca8fed79f37758ae4a1e4542",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-011": {
+    "value": "断崖絶壁を 身軽に 登り 岩山の 上で 生活する。 炎を 消して 眠る。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%92%E3%82%B3%E3%82%B6%E3%83%AB",
+      "pageSha256": "58f2a494aca400e5281f38f5bae9bcdcd4e5e28991214fdb9799676becb36009",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-010": {
+    "value": "土で できた 背中の 甲羅は 水を 飲むと さらに 硬くなる。 湖の ほとりで 暮らしている。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%8A%E3%82%A8%E3%83%88%E3%83%AB",
+      "pageSha256": "0a34eb3a140fd7e857937d46de49cff0466fd14e5a5c2051a6c1fe00665cb047",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-024": {
+    "value": "怯えると 玉ねぎ１００個分の 催涙成分を もつ 涙を 流して もらい泣き させる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%A1%E3%83%83%E3%82%BD%E3%83%B3",
+      "pageSha256": "8c45064831e29e7eb21bf5c6fc2d01f4a4a9b8194fda840aff99f81bac99e2d0",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-030": {
+    "value": "いまでも まぼろしの ポケモンと いわれる。そのすがたを みたものは ぜんこくでも ほとんど いない。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%83%A5%E3%82%A6",
+      "pageSha256": "340cb97236948af2179e19d60fbec9a7b93fc40b86a75321e35c9d04998e4609",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-020": {
+    "value": "毛づくろいで お腹に 溜まった 抜け毛を 燃やして 火を 吹く。 毛の 吐きかたで 炎も 変化。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%8B%E3%83%A3%E3%83%93%E3%83%BC",
+      "pageSha256": "544db40d292eb81da5ff29dadbef05a816a175a46b19fe5ebf337df3174239e1",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-014": {
+    "value": "鼻の 穴から 炎を 吹く。 カゼを ひくと 炎ではなく 真っ黒な 煙に なってしまう。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%AB%E3%83%96",
+      "pageSha256": "94435eb715bd7f16304b1bbc67470b7efc05d8bd05eb5b7c9cc2428ffb8cd4fd",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-013": {
+    "value": "知能が 高く とても 冷静。 太陽の 光を たっぷり 浴びると 動きが 鋭くなる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%84%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A3",
+      "pageSha256": "91bec2941746c302649a017185b10efe1424d185a9fb11c2425df19d9e8ce026",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-007": {
+    "value": "足の 裏の 小さな トゲを 引っ掛けて 垂直の カベを 登ることが できる。 太い 尻尾を たたきつけて 攻撃する。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AD%E3%83%A2%E3%83%AA",
+      "pageSha256": "1566fbde1a4b522739e0b1fe6c6a60186baf148dc8cab795a3fe8cb6f05683c2",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-023": {
+    "value": "走りまわって 体温を 上げると 炎エネルギーが 体を 巡り 本来の 力を 発揮できる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%92%E3%83%90%E3%83%8B%E3%83%BC",
+      "pageSha256": "7a93e4fd2e7dd5d746b957cac3240083ee2723bf8143315d34074c25227e7b31",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-017": {
+    "value": "小枝を 食べると 元気になって 摂氏２００度を 超える 熱気を 大きな 耳から 噴き出す。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%95%E3%82%A9%E3%83%83%E3%82%B3",
+      "pageSha256": "96254737d4ddb409bd3648d57754e91104c5bf30c32c9cbc5dd8dbe5a693d5d7",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-022": {
+    "value": "特別な スティックで リズムを 刻むと 草花を 元気にする パワーが 音波になって 広がる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%B5%E3%83%AB%E3%83%8E%E3%83%AA",
+      "pageSha256": "4690036a248aa3ed2ca6eacf3088f43e9261ebfd9e45cf5f8a9ab934f1e7f312",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-016": {
+    "value": "普段 やわらかい 頭の トゲは 力を こめると 鋭く とがり 岩をも つらぬくほど 硬くなる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%8F%E3%83%AA%E3%83%9E%E3%83%AD%E3%83%B3",
+      "pageSha256": "d5c47ca65563e477c75b219592aec471d94c08b62a7243bd41fbbff0bf7ba881",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-012": {
+    "value": "プライドが 高く 人から 食べ物を もらう ことを 嫌う。 長い 産毛が 寒さを 防ぐ。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%83%83%E3%83%81%E3%83%A3%E3%83%9E",
+      "pageSha256": "97719191a2654dfeb65bcd1c9b91403e0765548c541d104b11842d0a1668df63",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-009": {
+    "value": "頭の ひれは とても 敏感な レーダー。 水や 空気の 動きから 目を 使わずに 周りの 様子を キャッチすることが できる。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%82%BA%E3%82%B4%E3%83%AD%E3%82%A6",
+      "pageSha256": "d8022a43ba2a854b7765adadf190352666979926b8fcfb852c4fb70885794428",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-019": {
+    "value": "警戒心が 強い。 昼は 光合成で 力を 溜めて 夜になったら 活動開始。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%A2%E3%82%AF%E3%83%AD%E3%83%BC",
+      "pageSha256": "444335009e8d41e5d3a267247949edc7af89c1cfcbb5a59f5e3bc916288b79bb",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-008": {
+    "value": "トレーナーに くっついて ちょこちょこ 歩く。 口から 飛ばす 炎は 摂氏 １０００度。 相手を 黒コゲにする 灼熱の 玉だ。",
+    "reason": "Native Japanese original image visually inspected; exact same English game-version description and Japanese Pokedex/Wiki candidate cross-checked. Preserve native kanji/kana choice; not a translation of the English text.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%82%A2%E3%83%81%E3%83%A3%E3%83%A2",
+      "pageSha256": "c8d9254c98e92355d59d5948f870509d69900627be4c2ac77857988dbfce49ad",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-028": {
+    "value": "いまでも まぼろしの ポケモンと いわれる。そのすがたを みたものは ぜんこくでも ほとんど いない。",
+    "reason": "All three corrected SP1 Mew source IDs visually inspected; same native hiragana flavor, not the unrelated all-moves description.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%83%A5%E3%82%A6",
+      "pageSha256": "340cb97236948af2179e19d60fbec9a7b93fc40b86a75321e35c9d04998e4609",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  },
+  "SP1-029": {
+    "value": "いまでも まぼろしの ポケモンと いわれる。そのすがたを みたものは ぜんこくでも ほとんど いない。",
+    "reason": "All three corrected SP1 Mew source IDs visually inspected; same native hiragana flavor, not the unrelated all-moves description.",
+    "source": {
+      "url": "https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9F%E3%83%A5%E3%82%A6",
+      "pageSha256": "340cb97236948af2179e19d60fbec9a7b93fc40b86a75321e35c9d04998e4609",
+      "sourceFile": "wiki-flavor-texts.json"
+    }
+  }
+}

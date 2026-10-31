@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/015",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/015",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/015"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/015",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/015"
     },
     name: {
         en: "Cottonee",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Waumboll",
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
+        ja: "モンメン",
     },
     illustrator: "Yuka Tanaka",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Spara cotone dal corpo per proteggersi.\nSe viene travolto da venti forti come un uragano,\npuò essere inviato dall'altra parte della Terra.",
         "de": "Um sich zu schützen, schießt es Baumwolle von seinem Körper.\nWenn es von orkanstarken Winden erfasst wird,\nes kann auf die andere Seite der Erde geschickt werden.",
         "pt-br": "Ele atira algodão de seu corpo para se proteger.\nSe for apanhado por ventos com força de furacão,\nele pode ser enviado para o outro lado da Terra.",
-        "zh-tw": "它從體內射出棉花來保護自己。\n如果遭遇颶風強度的大風，\n它可以被發送到地球的另一邊。"
+        "zh-tw": "它從體內射出棉花來保護自己。\n如果遭遇颶風強度的大風，\n它可以被發送到地球的另一邊。",
+        ja: "綿を 飛ばして 身を 守る。 台風の 風に 流され 地球の 裏側に いくことも。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Foglia di rasoio",
                 "de": "Rasiermesserblatt",
                 "pt-br": "Folha Navalha",
-                "zh-tw": "剃刀葉"
+                "zh-tw": "剃刀葉",
+                ja: "はっぱカッター"
             },
             damage: 20,
             cost: ["Grass"]

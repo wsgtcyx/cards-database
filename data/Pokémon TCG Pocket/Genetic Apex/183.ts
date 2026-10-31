@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/183",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/183",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/183",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/183"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/183",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/183"
     },
     name: {
         en: "Dratini",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dratini",
         de: "Dratini",
         'pt-br': "Dratini",
+        ja: "ミニリュウ",
         ko: "미뇽",
         "zh-tw": "迷你龍",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },
@@ -49,6 +52,7 @@ const card: Card = {
         it: "Cresce cambiando ripetutamente la\npelle. Durante la muta, si protegge tra\nle acque impetuose di una cascata.",
         de: "Es häutet sich, um zu wachsen. Dabei wird es von\neinem tosenden Wasserfall beschützt.",
         'pt-br': "Troca de pele várias vezes à medida que cresce. Durante\neste processo, é protegido por uma cachoeira agitada.",
+        ja: "激しく 流れ落ちる 滝に 守られながら 脱皮を 繰り返し どんどん 大きくなる。",
         ko: "세차게 떨어지는 폭포의 보호를 받으며\n탈피를 거듭해 점점 크게 자란다.",
         "zh-tw": "隨著它變大，它會脫落多層皮膚。在此過程中，它受到急流瀑布的保護。"
     },

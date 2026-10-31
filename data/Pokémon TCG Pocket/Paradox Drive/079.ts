@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/079",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/079",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/079"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/079",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/079"
     },
     name: {
         en: "Raging Bolt",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Assomiglia a un Pokémon che è diventato un argomento caldo per un breve periodo dopo che una rivista sul paranormale lo ha pubblicizzato come l'antenato di Raikou.",
         de: "Es hat Ähnlichkeit mit einem Pokémon, das für kurze Zeit ein heißes Thema wurde, nachdem ein paranormales Magazin es als Raikous Vorfahren angepriesen hatte.",
         "pt-br": "Ele se parece com um Pokémon que se tornou um tema quente por um curto período de tempo depois que uma revista paranormal o considerou o ancestral de Raikou.",
-        "zh-tw": "它與一隻寶可夢很相似，在超自然雜誌將其吹捧為 雷公 的祖先後，該寶可夢一度成為熱門話題。"
+        "zh-tw": "它與一隻寶可夢很相似，在超自然雜誌將其吹捧為 雷公 的祖先後，該寶可夢一度成為熱門話題。",
+        ja: "オカルト雑誌が 取り上げて 短い あいだ 話題になった ライコウの 祖先に 似ている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Boom dannoso",
                 de: "Verhängnisvoller Boom",
                 "pt-br": "Boom Nefasto",
-                "zh-tw": "轟雷必殺"
+                "zh-tw": "轟雷必殺",
+                ja: "ごうらいひっさつ"
             },
             effect: {
                 en: "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Scarta tutte le Energie da questo Pokémon. Metti KO il Pokémon attivo del tuo avversario.",
                 de: "Lege die gesamte Energie dieses Pokémon ab. Knocke das aktive Pokémon deines Gegners aus.",
                 "pt-br": "Descarte todas as Energias deste Pokémon. Nocauteie o Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄該寶可夢的所有能量。擊倒對手的活躍寶可夢。"
+                "zh-tw": "丟棄該寶可夢的所有能量。擊倒對手的活躍寶可夢。",
+                ja: "このポケモンからエネルギーをすべてトラッシュ。相手のバトルポケモンをきぜつさせる。"
             }
         }
     ],

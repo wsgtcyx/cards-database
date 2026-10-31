@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/373",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/373",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/373",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/373"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/373",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/373"
 	},
 	name: {
         en: "Professor's Research",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Forschung des Professors",
         "pt-br": "Pesquisa de Professores",
         "zh-tw": "博士的研究",
+        ja: "博士の研究",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Star",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Pesca 2 carte.",
         "de": "Ziehe 2 Karten.",
         "pt-br": "Compre 2 cartas.",
-        "zh-tw": "抽 2 張牌。"
+        "zh-tw": "抽 2 張牌。",
+        ja: "自分の山札を2枚引く。"
     },
     trainerType: "Supporter"
 };

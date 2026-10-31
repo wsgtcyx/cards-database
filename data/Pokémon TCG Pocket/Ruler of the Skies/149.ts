@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/149",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/149",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/149",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/149"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/149",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/149"
     },
     name: {
         en: "Clear Veil",
@@ -20,7 +21,7 @@ const card: Card = {
         "pt-br": "Véu Transparente",
         "zh-tw": "恆淨薄紗",
         ko: "맑은베일",
-        ja: "クリアベール"
+        ja: "クリアヴェール"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -32,7 +33,8 @@ const card: Card = {
         "pt-br": "Previna todos os efeitos de ataques usados pelos Pokémon do seu oponente causados ao Pokémon ao qual esta carta está ligada. (Efeitos existentes não são removidos.)",
         "zh-tw": "附有這張卡的寶可夢不會受到對手的寶可夢使用招式的效果的影響。(已經受到的效果不會消除。)",
         "it": "Previeni tutti gli effetti degli attacchi usati dai Pokémon del tuo avversario inflitti al Pokémon a cui è assegnata questa carta. Gli effetti esistenti non vengono rimossi.",
-        "de": "Verhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist. (Bestehende Effekte werden nicht entfernt.)"
+        "de": "Verhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist. (Bestehende Effekte werden nicht entfernt.)",
+        ja: "このカードをつけているポケモンは、相手のポケモンが使うワザの効果を受けない。(すでに受けている効果は、なくならない。)"
     },
     trainerType: "Tool"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/175",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/175",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/175",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/175"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/175",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/175"
     },
     name: {
         en: "Muk",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Muk",
         de: "Sleimok",
         'pt-br': "Muk",
+        ja: "ベトベトン",
         ko: "질뻐기",
         "zh-tw": "臭臭泥",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Grimer",
         "de": "Sleima",
         "pt-br": "Grimer",
-        "zh-tw": "臭泥"
+        "zh-tw": "臭泥",
+        ja: "ベトベター"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Velenoshock",
                 de: "Giftschock",
                 'pt-br': "Venochoque",
+                ja: "ベノムショック",
                 ko: "베놈쇼크",
                 "zh-tw": "靜脈休克"
             },
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 50 puntos de daño más.",
                 it: "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 50 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+                ja: "相手のバトルポケモンがどくなら、50ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 독이라면 50데미지를 추가한다.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente estiver Envenenado, este ataque causará 50 pontos de dano a mais.",
                 "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 50 點。"
@@ -72,6 +77,7 @@ const card: Card = {
         it: "Coperto di melma sudicia, è così tossico\nche persino le sue impronte sono velenose.",
         de: "Der schmutzige Schleim dieses Pokémon\nist extrem toxisch. Selbst die Spuren,\ndie es hinterlässt, enthalten Gift.",
         'pt-br': "É coberto por uma camada grossa\nde lodo nojento. É tão tóxica que até\nseus rastros são venenosos.",
+        ja: "汚い ヘドロが 全身に まとわりつく。 足跡に 触っただけで 毒に 侵される。",
         ko: "더러운 오물이 온몸에 달라붙었다.\n지나간 자리를 건드리기만 해도\n독이 퍼져 버린다.",
         "zh-tw": "它厚厚地覆蓋著骯髒、邪惡的污泥。它的毒性如此之大，連它的腳印都含有毒。"
     },

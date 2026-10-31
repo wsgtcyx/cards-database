@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/218",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/218",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/218"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/218",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/218"
     },
     name: {
         en: "Skrelp",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon è un pessimo nuotatore. Se viene sorpreso da una violenta tempesta, a volte verrà trascinato lontano e non sarà più in grado di tornare a casa.",
         de: "Dieses Pokémon ist ein schlechter Schwimmer. Wenn es in einen heftigen Sturm gerät, wird es manchmal weit weggeschwemmt und kann nicht mehr in sein Zuhause zurückkehren.",
         "pt-br": "Este Pokémon é um péssimo nadador. Se for pego por uma forte tempestade, às vezes será levado para longe e não poderá retornar para sua casa.",
-        "zh-tw": "这只神奇宝贝游泳技术很差。如果遇到猛烈的暴風雨，有時它會被沖到很遠的地方，無法回到自己的家。"
+        "zh-tw": "这只神奇宝贝游泳技术很差。如果遇到猛烈的暴風雨，有時它會被沖到很遠的地方，無法回到自己的家。",
+        ja: "泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Pinnalama",
                 de: "Rasierflosse",
                 "pt-br": "Barbatana Cortante",
-                "zh-tw": "鰭快刀"
+                "zh-tw": "鰭快刀",
+                ja: "ひれカッター"
             },
             damage: 40
         }

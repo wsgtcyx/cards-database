@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/067",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/067",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/067"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/067"
     },
     name: {
         en: "Iris",
@@ -33,7 +34,8 @@ const card: Card = {
         it: "Durante questo turno, se il Pokémon attivo del tuo avversario viene messo KO dai danni di un attacco usato dal tuo Haxorus, ottieni 1 punto in più.",
         de: "Wenn das Aktive Pokémon deines Gegners in diesem Zug durch Schaden durch einen Angriff deines Maxax kampfunfähig wird, erhältst du 1 weiteren Punkt.",
         "pt-br": "Durante este turno, se o Pokémon Ativo do seu oponente for Nocauteado pelo dano de um ataque usado pelo seu Haxorus, você ganha 1 ponto a mais.",
-        "zh-tw": "在這個回合中，如果對手的活躍寶可夢因自己的 雙斧戰龍 的攻擊而被擊倒，自己再獲得 1 點。"
+        "zh-tw": "在這個回合中，如果對手的活躍寶可夢因自己的 雙斧戰龍 的攻擊而被擊倒，自己再獲得 1 點。",
+        ja: "この番、自分の「オノノクス」が使うワザのダメージで、相手のバトルポケモンがきぜつしたなら、1ポイント多くとる。"
     },
     trainerType: "Supporter"
 };

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/154",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/154",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/154"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/154",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/154"
     },
     name: {
         en: "Mallow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ibis",
         de: "Maho",
         'pt-br': "Lulú",
+        ja: "マオ",
         ko: "마오",
         "zh-tw": "瑪奧",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Cura uno dei tuoi Shiinotic o Tsareena da tutti i danni. Se lo fai, scarta tutte le Energie assegnate a quel Pokémon.",
         de: "Heile allen Schaden bei 1 deiner Lamellux oder Fruyal. Wenn du das machst, lege alle Energien von jenem Pokémon auf deinen Ablagestapel.",
         'pt-br': "Cure todo o dano de 1 dos seus Shiinotic ou Tsareena. Se fizer isto, descarte todas as Energias daquele Pokémon.",
+        ja: "自分の「マシェード」または「アマージョ」1匹のHPをすべて回復。その後、そのポケモンからエネルギーをすべてトラッシュ。",
         ko: "자신의 「마셰이드」 또는 「달코퀸」 1마리의 HP를 모두 회복. 그 뒤, 그 포켓몬에서 에너지를 모두 트래쉬한다.",
         "zh-tw": "治療 1 名 Shiinotic 或 Tsareena 造成的所有傷害。如果這樣做，則丟棄該神奇寶貝的所有能量。"
     },

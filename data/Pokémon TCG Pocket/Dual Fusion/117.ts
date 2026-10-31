@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/117",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/117",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/117"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/117",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/117"
     },
     name: {
         en: "Stufful",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Verprügler",
                 "pt-br": "Pulso",
                 "zh-tw": "敲擊",
-                ja: "Beat",
+                ja: "たたく",
                 ko: "Beat"
             },
             cost: [
@@ -69,7 +70,7 @@ const card: Card = {
         de: "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch, diesen zu berühren, setzt es sich ohne Rücksicht auf Verluste zur Wehr.",
         "pt-br": "O seu pelo fofinho é uma delícia de acariciar, mas tocá-lo sem muito cuidado pode resultar em uma retaliação dolorosa.",
         "zh-tw": "毛茸茸的毛皮摸起來觸感舒適，但粗心大意地向牠伸出手的人，基本上都會遭到牠的猛烈反擊。",
-        ja: "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+        ja: "ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。",
         ko: "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation."
     }
 };

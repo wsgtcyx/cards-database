@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/269",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/269",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/269",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/269"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/269",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/269"
     },
     name: {
         en: "Crocalor",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Krokel",
         "pt-br": "Fuecoco",
         "zh-tw": "呆火鱷",
-        ja: "Fuecoco",
+        ja: "ホゲータ",
         ko: "Fuecoco"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Das Ventil für seinen Flammensack ist eng mit den Stimmbändern verbunden. Wenn es Feuer spuckt, stößt es raue Laute aus.",
         "pt-br": "A válvula na bolsa de chamas de Crocalor está conectada às suas cordas vocais. Este Pokémon solta um grito do fundo de suas entranhas, liberando chamas para todos os lados.",
         "zh-tw": "聲帶和火囊的開關緊黏在一起。會一邊發出嘶啞的聲音，一邊噴灑火焰。",
-        ja: "The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way.",
+        ja: "声帯と 炎袋の 弁は 密接な 関係。 だみ声を 上げながら 炎を 吐き散らす。",
         ko: "The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
     },
     stage: "Stage1",
@@ -68,7 +69,7 @@ const card: Card = {
                 "zh-tw": "咬住",
                 pt: "Mordida",
                 "es-mx": "Mordida",
-                ja: "Bite",
+                ja: "かみつく",
                 ko: "Bite"
             },
             damage: 50,

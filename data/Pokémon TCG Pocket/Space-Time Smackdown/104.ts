@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/104",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/104"
     },
     name: {
         en: "Spiritomb",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Spiritomb",
         de: "Kryppuk",
         'pt-br': "Spiritomb",
+        ja: "ミカルゲ",
         ko: "화강돌",
         "zh-tw": "花岩怪",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "A causa del suo comportamento molesto\nè stato imprigionato in una Roccianima\ncon un misterioso incantesimo.",
         de: "Aufgrund seiner ständigen Untaten wurde es mit\nmysteriösen Künsten an einen Spiritkern gebunden.",
         'pt-br': "Sua constante malvadeza e seus delitos causaram\nsua ligação a uma pedra por um feitiço misterioso.",
+        ja: "いつも 悪さばかり していたら 不思議な 術で 本体を 要石に 縛りつけられた。",
         ko: "항상 나쁜 짓만 하고 있었기에\n신비한 술법에 의해 본모습을\n쐐기돌에 속박당했다.",
         "zh-tw": "它不斷的惡作劇和惡行導致它被一個神秘的咒語束縛在一個奇怪的基石上。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Turbine Catastrofico",
                 de: "Wirbelndes Desaster",
                 'pt-br': "Turbilhão do Desastre",
+                ja: "うずまくわざわい",
                 ko: "소용돌이재앙",
                 "zh-tw": "災難漩渦"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni a ciascuno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 10 pontos de dano a cada um dos Pokémon do seu oponente.",
+                ja: "相手のポケモン全員に10ダメージ。",
                 ko: "상대의 포켓몬 전원에게 10데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 10 點傷害。"
             }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/209",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/209",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/209",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/209"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/209",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/209"
     },
     name: {
         en: "Seadra",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Seadra",
         "de": "Seemon",
         "pt-br": "Seadra",
-        "zh-tw": "海刺龍"
+        "zh-tw": "海刺龍",
+        ja: "シードラ"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Horsea",
         "de": "Seeper",
         "pt-br": "Horsea",
-        "zh-tw": "墨海馬"
+        "zh-tw": "墨海馬",
+        ja: "タッツー"
     },
     description: {
         en: "It's the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Sono i maschi che allevano la prole. Mentre\nI Seadra stanno crescendo piccoli, con le spine sulle loro\ni dorsi secernono un veleno più denso e più forte.",
         "de": "Es sind die Männchen, die den Nachwuchs großziehen. Während\nSeadra ziehen junge Tiere mit Stacheln auf\nRücken scheiden dickeres und stärkeres Gift aus.",
         "pt-br": "São os machos que criam a prole. Enquanto\nSeadra está criando jovens, os espinhos em seus\ncostas secretam um veneno mais espesso e mais forte.",
-        "zh-tw": "養育後代的是雄性。同時\nSeadra 正在養育幼崽，它們身上的刺\n背部分泌出更濃烈的毒液。"
+        "zh-tw": "養育後代的是雄性。同時\nSeadra 正在養育幼崽，它們身上的刺\n背部分泌出更濃烈的毒液。",
+        ja: "オスが 子どもを 育てる。 子育て中は 背中の トゲの 毒素が 強く 濃くなるのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Pinna di rasoio",
                 "de": "Rasiermesserflosse",
                 "pt-br": "Barbatana Navalha",
-                "zh-tw": "刀鰭"
+                "zh-tw": "刀鰭",
+                ja: "ひれカッター"
             },
             damage: 50,
             cost: ["Water", "Water"]

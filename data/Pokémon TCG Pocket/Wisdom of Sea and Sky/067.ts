@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/067",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/067",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/067",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/067"
     },
     name: {
         en: "Mareep",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
+        ja: "メリープ",
     },
     illustrator: "0313",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Se l'elettricità statica si accumula nel suo corpo, il suo vello\nraddoppia di volume. Toccarlo ti sconvolgerà.",
         "de": "Wenn sich in seinem Körper statische Elektrizität aufbaut, entsteht ein Fell\nverdoppelt sich das Volumen. Wenn Sie es berühren, werden Sie schockiert sein.",
         "pt-br": "Se a eletricidade estática se acumular em seu corpo, seu velo\ndobra de volume. Tocá-lo irá chocá-lo.",
-        "zh-tw": "如果靜電在它的體內積聚，它的羊毛\n體積加倍。觸摸它會讓你震驚。"
+        "zh-tw": "如果靜電在它的體內積聚，它的羊毛\n體積加倍。觸摸它會讓你震驚。",
+        ja: "体に 静電気が 溜まると 体毛が いつもの 2倍ほどに ふくらむ。 触ると 痺れる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Shock statico",
                 "de": "Statischer Schock",
                 "pt-br": "Choque Estático",
-                "zh-tw": "靜電衝擊"
+                "zh-tw": "靜電衝擊",
+                ja: "バチバチ"
             },
             damage: 20,
             cost: ["Lightning"]

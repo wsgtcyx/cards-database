@@ -10,7 +10,8 @@ const card: Card = {
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/062",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/062",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/062",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/062"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/062"
     },
     name: {
         en: "Gallade",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando cerca di proteggere qualcuno, allunga i gomiti come se fossero spade e combatte ferocemente.",
         de: "Wenn es versucht, jemanden zu beschützen, streckt es seine Ellbogen aus, als wären es Schwerter, und kämpft brutal.",
         "pt-br": "Ao tentar proteger alguém, estende os cotovelos como se fossem espadas e luta ferozmente.",
-        "zh-tw": "當試圖保護某人時，它會像劍一樣伸出肘部並進行野蠻的戰鬥。"
+        "zh-tw": "當試圖保護某人時，它會像劍一樣伸出肘部並進行野蠻的戰鬥。",
+        ja: "だれかを 守ろうと したとき ひじを伸ばし 刀の ように 変化 させて 激しく 戦う。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Geospada",
                 de: "Irdenes Schwert",
                 "pt-br": "Espada Terrestre",
-                "zh-tw": "沙場之劍"
+                "zh-tw": "沙場之劍",
+                ja: "グラウンドソード"
             },
             effect: {
                 en: "If a Stadium is in play, this attack does 70 more damage.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Se è in gioco uno Stadio, questo attacco infligge 70 danni in più.",
                 de: "Wenn ein Stadion im Spiel ist, fügt dieser Angriff 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se um Estádio estiver em jogo, este ataque causa 70 de dano a mais.",
-                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 70 點以上的傷害。"
+                "zh-tw": "如果體育場正在進行中，則此攻擊會造成 70 點以上的傷害。",
+                ja: "場にスタジアムが出ているなら、70ダメージ追加。"
             },
             damage: "70+"
         }

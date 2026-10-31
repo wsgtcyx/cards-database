@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/047",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/047",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/047",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/047",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/047"
     },
     name: {
         en: "Garchomp ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Garchomp-ex",
         de: "Knakrack-ex",
         'pt-br': "Garchomp ex",
+        ja: "ガブリアスex",
         ko: "한카리아스 ex",
         "zh-tw": "烈咬陸鯊ex",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Knarksel",
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
+        ja: "ガバイト",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Attacco Lineare",
                 de: "Linearer Angriff",
                 'pt-br': "Ataque Linear",
+                ja: "ちょくげきだん",
                 ko: "직격탄",
                 "zh-tw": "線性攻擊"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に50ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 50데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 50 點傷害。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Dragartigli",
                 de: "Drachenklaue",
                 'pt-br': "Garra de Dragão",
+                ja: "ドラゴンクロー",
                 ko: "드래곤클로",
                 "zh-tw": "龍爪"
             },

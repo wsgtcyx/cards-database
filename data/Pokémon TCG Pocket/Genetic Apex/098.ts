@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/098"
     },
     name: {
         en: "Magneton",
@@ -17,6 +18,7 @@ const card: Card = {
         es: "Magneton",
         it: "Magneton",
         de: "Magneton",
+        ja: "レアコイル",
         ko: "레어코일",
         'pt-br': "Magneton",
         "zh-tw": "三合一磁怪",
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Magnemite",
         "de": "Magnetilo",
         "pt-br": "Magnemite",
-        "zh-tw": "小磁怪"
+        "zh-tw": "小磁怪",
+        ja: "コイル"
     },
     abilities: [{
             type: "Ability",
@@ -43,6 +46,7 @@ const card: Card = {
                 es: "Carga Voltio",
                 it: "Carica Volt",
                 de: "Voltladung",
+                ja: "ボルトチャージ",
                 ko: "볼트 차지",
                 'pt-br': "Carga Voltaica",
                 "zh-tw": "電壓充電"
@@ -53,6 +57,7 @@ const card: Card = {
                 es: "Una vez durante tu turno, puedes unir 1 Energía {L} de tu área de Energía a este Pokémon.",
                 it: "Una sola volta durante il tuo turno, puoi prendere un'Energia {L} dalla tua Zona Energia e assegnarla a questo Pokémon.",
                 de: "Einmal während deines Zuges kannst du 1 {L}-Energie aus deinem Energiebereich an dieses Pokémon anlegen.",
+                ja: "自分の番に1回使える。自分のエネルギーゾーンから{L}エネルギーを1個出し、このポケモンにつける。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 에너지존에서 {L}에너지를 1개 내보내 이 포켓몬에게 붙인다.",
                 'pt-br': "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e a este Pokémon.",
                 "zh-tw": "在你的回合中，你可以從你的能量區取出一個{L}能量並將其附加到這只神奇寶貝身上。"
@@ -66,6 +71,7 @@ const card: Card = {
                 es: "Ataque Giratorio",
                 it: "Attacco Rotante",
                 de: "Rundumangriff",
+                ja: "かいてんアタック",
                 ko: "회전어택",
                 'pt-br': "Ataque Giratório",
                 "zh-tw": "旋轉攻擊"
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Tre Magnemite sono uniti da una\npotente forza magnetica. Se ci si\navvicina troppo, le orecchie fischiano.",
         de: "Drei Magnetilo sind durch ein starkes\nMagnetfeld verbunden. In seiner Nähe\nbekommt man Ohrensausen.",
         'pt-br': "Três Magnemite estão vinculados por uma força\nmagnética muito poderosa. Se você chegar\nmuito perto, ficará com dor de ouvido.",
+        ja: "３つのコイルは 強い 磁力で 結びついている。 そばに寄ると 強い 耳鳴りに 襲われる。",
         ko: "3개의 코일은 강한 자력으로\n연결되어 있다. 가까이 다가가면\n강한 귀울림에 시달리게 된다.",
         "zh-tw": "三個磁鐵礦通過強大的磁力連接在一起。如果距離太近，就會出現耳痛。"
     },

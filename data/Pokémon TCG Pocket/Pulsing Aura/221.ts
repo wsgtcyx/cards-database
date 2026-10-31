@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/221",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/221",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/221"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/221",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/221"
     },
     name: {
         en: "Blissey",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando incontra un Pokémon indebolito,\ncondivide con lui il proprio uovo e lo accudisce\nfino alla completa guarigione.",
         de: "Stößt Heiteira auf geschwächte Pokémon, teilt es\nsein Ei mit ihnen und pflegt sie wieder gesund.",
         "pt-br": "Sempre que um Blissey encontra um Pokémon enfraquecido, ele compartilhará seu ovo e oferecerá cuidados até que o outro Pokémon melhore.",
-        "zh-tw": "發現虛弱的寶可夢時就會\n把自己的蛋分給牠，並且\n一直照顧對方直到牠痊癒。"
+        "zh-tw": "發現虛弱的寶可夢時就會\n把自己的蛋分給牠，並且\n一直照顧對方直到牠痊癒。",
+        ja: "弱った ポケモンを 見つけると 自分の タマゴを 分け与え 治るまで 看病を 続ける。"
     },
     abilities: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Supplemento di felicità",
                 de: "Glücksergänzung",
                 "pt-br": "Suplemento de Felicidade",
-                "zh-tw": "幸福補給"
+                "zh-tw": "幸福補給",
+                ja: "ハッピーサプリ"
             },
             effect: {
                 en: "Once during your turn, you may remove a random Special Condition from your Active Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi rimuovere una condizione speciale casuale dal tuo Pokémon attivo.",
                 de: "Einmal während deines Zuges kannst du einen zufälligen Spezialzustand von deinem Aktiven Pokémon entfernen.",
                 "pt-br": "Uma vez durante o seu turno, você pode remover uma Condição Especial aleatória do seu Pokémon Ativo.",
-                "zh-tw": "在你的回合中，你可以從你的活躍寶可夢中隨機移除一個特殊狀態。"
+                "zh-tw": "在你的回合中，你可以從你的活躍寶可夢中隨機移除一個特殊狀態。",
+                ja: "自分の番に1回使える。自分のバトルポケモンの特殊状態をランダムに1つ回復。"
             }
         }
     ],
@@ -83,7 +87,8 @@ const card: Card = {
                 it: "Rollazione",
                 de: "Rolltackle",
                 "pt-br": "Golpe de Colisão Rolante",
-                "zh-tw": "滾動衝撞"
+                "zh-tw": "滾動衝撞",
+                ja: "ころがりタックル"
             },
             damage: 70
         }

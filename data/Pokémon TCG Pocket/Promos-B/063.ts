@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/063",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/063",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/063"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/063"
     },
     name: {
         en: "Meowscarada ex",
@@ -51,7 +52,8 @@ const card: Card = {
                 it: "Prestigiafiore",
                 de: "Blumentrick",
                 "pt-br": "Truque Floral",
-                "zh-tw": "千變萬花"
+                "zh-tw": "千變萬花",
+                ja: "トリックフラワー"
             },
             effect: {
                 en: "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.",
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Scegli un posto tra il posto attivo e la panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, infliggi 70 danni al Pokémon nel punto che hai scelto.",
                 de: "Wählen Sie einen Platz aus dem aktiven Platz und der Bank Ihres Gegners. Füge am Ende des nächsten Zuges deines Gegners dem Pokémon an der von dir gewählten Stelle 70 Schadenspunkte zu.",
                 "pt-br": "Escolha um lugar entre o Ponto Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, cause 70 de dano ao Pokémon no local que você escolheu.",
-                "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。"
+                "zh-tw": "從對手的戰鬥場和備戰區中選擇一個位置。對手的下一回合結束時，對你選擇的位置的寶可夢造成 70 點傷害。",
+                ja: "相手のバトル場またはベンチを1か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンに70ダメージ。"
             }
         },
         {
@@ -72,7 +75,8 @@ const card: Card = {
                 it: "Solarraggio",
                 de: "Solarstrahl",
                 "pt-br": "Raio Solar",
-                "zh-tw": "日光束"
+                "zh-tw": "日光束",
+                ja: "ソーラービーム"
             },
             damage: 80
         }

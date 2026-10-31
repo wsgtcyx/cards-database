@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/113",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/113",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/113",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/113"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/113",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/113"
     },
     name: {
         en: "Bellibolt ex",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Wampitz-ex",
         "pt-br": "Bellibolt ex",
         "zh-tw": "電肚蛙ex",
+        ja: "ハラバリーex",
         pt: "Bellibolt ex"
     },
     suffix: "EX",
@@ -36,6 +38,7 @@ const card: Card = {
         de: "Blipp",
         "pt-br": "Tadbulb",
         "zh-tw": "光蚪仔",
+        ja: "ズピカ",
         pt: "Tadbulb"
     },
     stage: "Stage1",
@@ -48,7 +51,8 @@ const card: Card = {
                 "it": "Cannone ad alta tensione",
                 "de": "Hochspannungskanone",
                 "pt-br": "Canhão de alta tensão",
-                "zh-tw": "高壓砲"
+                "zh-tw": "高壓砲",
+                ja: "こうでんあつほう"
             },
             damage: "70+",
             cost: ["Lightning", "Lightning"],
@@ -59,7 +63,8 @@ const card: Card = {
                 "it": "Se hai 4 o più Energie Lightning in gioco, questo attacco infligge 70 danni in più.",
                 "de": "Wenn du 4 oder mehr Blitzenergie im Spiel hast, verursacht dieser Angriff 70 Schadenspunkte mehr.",
                 "pt-br": "Se você tiver 4 ou mais Energia Elétrica em jogo, este ataque causa 70 de dano a mais.",
-                "zh-tw": "如果你場上有 4 個或更多閃電能量，則此攻擊造成的傷害增加 70 點。"
+                "zh-tw": "如果你場上有 4 個或更多閃電能量，則此攻擊造成的傷害增加 70 點。",
+                ja: "自分の場に{L}エネルギーが4個以上あるなら、70ダメージ追加。"
             },
         },
     ],

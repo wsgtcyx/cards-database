@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/138",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/138",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/138"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/138",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/138"
     },
     name: {
         en: "Ceruledge",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Knarbon",
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
-        ja: "Charcadet",
+        ja: "カルボウ",
         ko: "Charcadet"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Aufholjagd",
                 "pt-br": "Responder à Altura",
                 "zh-tw": "捲土重來",
-                ja: "Rally Back",
+                ja: "まきかえす",
                 ko: "Rally Back"
             },
             cost: [
@@ -79,7 +80,7 @@ const card: Card = {
                 de: "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "在上個對手的回合,若自己的寶可夢因招式的傷害而昏厥了,則增加70點傷害。",
-                ja: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage.",
+                ja: "前の相手の番、ワザのダメージで、自分のポケモンがきぜつしていたなら、70ダメージ追加。",
                 ko: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
             }
         }
@@ -93,7 +94,7 @@ const card: Card = {
         de: "Die Flammenschwerter an beiden Armen lodern mit dem Groll eines Schwertkämpfers, der fiel, ehe er sein Ziel erreichen konnte.",
         "pt-br": "As lâminas de fogo em seus braços queimam com o ressentimento duradouro de um espadachim derrotado em batalha antes de alcançar seu objetivo.",
         "zh-tw": "雙臂的火焰之劍燃著在戰鬥中喪命的劍士的怨念。",
-        ja: "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+        ja: "両腕の 炎の剣は 志半ばで 力つきた 剣士の 怨念で 燃え上がる。",
         ko: "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal."
     }
 };

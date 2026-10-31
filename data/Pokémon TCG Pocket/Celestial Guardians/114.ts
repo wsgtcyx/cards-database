@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/114",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/114",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/114"
     },
     name: {
         en: "Garbodor",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Garbodor",
         de: "Deponitox",
         'pt-br': "Garbodor",
+        ja: "ダストダス",
         ko: "더스트나",
         "zh-tw": "灰塵山",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Unratütox",
         "pt-br": "Trubbish",
         "zh-tw": "破破袋",
+        ja: "ヤブクロン",
     },
     description: {
         en: "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Mangia spazzatura e la trasforma in un veleno la cui\ncomposizione cambia a seconda di cosa ha ingurgitato.",
         de: "Es frisst Müll und verdaut ihn in seinem Inneren zu Gift.\nJe nach Art des Mülls, den es verzehrt, ändern sich die\nHauptbestandteile des Giftes.",
         'pt-br': "Este Pokémon se alimenta de lixo, que transforma\nem veneno dentro do seu corpo. O componente principal\ndo veneno depende do tipo de lixo que comeu.",
+        ja: "食った ゴミが 体内で 毒に 変化する。 食う ゴミ しだいで 毒の 主成分も 変わる。",
         ko: "먹은 쓰레기가 체내에서 독으로\n변화한다. 먹은 쓰레기에 따라\n독의 주성분도 바뀐다.",
         "zh-tw": "這只神奇寶貝吃垃圾，垃圾在體內變成毒藥。毒物的主要成分取決於所吃的垃圾種類。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Super Velenospiro",
                 de: "Super-Gifthauch",
                 'pt-br': "Super-hálito Venenoso",
+                ja: "どくのいき",
                 ko: "독의숨",
                 "zh-tw": "超級毒息"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

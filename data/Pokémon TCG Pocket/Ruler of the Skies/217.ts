@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/217",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/217",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/217",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/217"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/217",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/217"
     },
     name: {
         en: "Weezing",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Quando inala gas velenosi dalla spazzatura, il suo corpo si espande e il suo interno ha un odore molto peggiore.",
         de: "Wenn es giftige Gase aus dem Müll einatmet, dehnt sich sein Körper aus und sein Inneres riecht viel schlimmer.",
         "pt-br": "Quando inala gases venenosos do lixo, seu corpo se expande e seu interior cheira muito pior.",
-        "zh-tw": "當它吸入垃圾中的有毒氣體時，它的身體會膨脹，裡面的氣味也會變得更難聞。"
+        "zh-tw": "當它吸入垃圾中的有毒氣體時，它的身體會膨脹，裡面的氣味也會變得更難聞。",
+        ja: "ゴミから出る 毒ガスを 吸うたび 体が ふくらみ 中の においが 臭く なっていく。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Fangobomba",
                 de: "Matschbombe",
                 "pt-br": "Bomba de Lodo",
-                "zh-tw": "污泥炸彈"
+                "zh-tw": "污泥炸彈",
+                ja: "ヘドロばくだん"
             },
             damage: 70
         }

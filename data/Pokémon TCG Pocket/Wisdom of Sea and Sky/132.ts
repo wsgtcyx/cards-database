@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/132",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/132",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/132",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/132",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/132"
     },
     name: {
         en: "Blissey",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Heiteira",
         "pt-br": "Blissey",
         "zh-tw": "幸福蛋",
+        ja: "ハピナス",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Chaneira",
         "pt-br": "Chansey",
         "zh-tw": "吉利蛋",
+        ja: "ラッキー",
     },
     description: {
         en: "Anyone who takes even one taste of Blissey's\negg becomes unfailingly caring and pleasant\nto everyone.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Chiunque prenda anche solo un assaggio di Blissey\nl'uovo diventa immancabilmente premuroso e piacevole\na tutti.",
         "de": "Jeder, der Blissey's auch nur einmal probiert\nEi wird stets fürsorglich und angenehm\nan alle.",
         "pt-br": "Qualquer um que experimente o Blissey's\novo torna-se infalivelmente carinhoso e agradável\npara todos.",
-        "zh-tw": "任何嚐過 Blissey’s 味道的人\n雞蛋變得始終如一的關懷和愉快\n給大家。"
+        "zh-tw": "任何嚐過 Blissey’s 味道的人\n雞蛋變得始終如一的關懷和愉快\n給大家。",
+        ja: "ハピナスが 産んだ タマゴを ひとくちでも 食べた 人は だれにでも 優しく なれる。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo energetico",
                 "de": "Energieschlag",
                 "pt-br": "Golpe de Energia",
-                "zh-tw": "能量打擊"
+                "zh-tw": "能量打擊",
+                ja: "エナジーブロー"
             },
             damage: "20+",
             cost: ["Colorless", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata a questo Pokémon.",
                 "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte Energie zu.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a este Pokémon.",
-                "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "該寶可夢身上每附加一個能量，該攻擊就會造成 20 點額外傷害。",
+                ja: "このポケモンのエネルギーの数×20ダメージ追加。"
             }
         }],
     weaknesses: [{

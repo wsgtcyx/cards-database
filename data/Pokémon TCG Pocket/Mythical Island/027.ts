@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/027",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/027",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/027",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/027"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/027",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/027"
     },
     name: {
         en: "Electabuzz",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electabuzz",
         de: "Elektek",
         'pt-br': "Electabuzz",
+        ja: "エレブー",
         ko: "에레브",
         "zh-tw": "電擊獸",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Molte centrali elettriche utilizzano\nPokémon di tipo Terra per difendersi\ndagli Electabuzz a caccia di elettricità.",
         de: "In vielen Elektrizitätswerken werden Pokémon\nvom Typ Boden eingesetzt, um Elektek davon\nabzuhalten, den dortigen Strom anzuzapfen.",
         'pt-br': "Muitas usinas mantêm Pokémon de tipo Terrestre\npor perto. Fazem isso para protegê-las de Electabuzz\nque aparecem em busca de eletricidade.",
+        ja: "電気を 狙う エレブーの 対策に じめんポケモンを 置く 発電所は 多い。",
         ko: "전기를 노리는 에레브를\n퇴치하고자 땅포켓몬을 두는\n발전소도 많다.",
         "zh-tw": "許多發電廠都飼養著地面型神奇寶貝，以防御前來尋求電力的電擊獸。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Tuonolancia",
                 de: "Donnerspeer",
                 'pt-br': "Lança do Trovão",
+                ja: "サンダーアロー",
                 ko: "썬더애로",
                 "zh-tw": "雷霆之矛"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 it: "Questo attacco infligge 40 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に40ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 40데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。"
             }

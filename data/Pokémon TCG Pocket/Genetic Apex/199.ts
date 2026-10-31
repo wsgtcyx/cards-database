@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/199"
     },
     name: {
         en: "Doduo",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Doduo",
         de: "Dodu",
         'pt-br': "Doduo",
+        ja: "ドードー",
         ko: "두두",
         "zh-tw": "嘟嘟",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Pokémon a due teste, scoperto a seguito di\nun'improvvisa mutazione. Può correre a 100 km/h.",
         de: "Dieses zweiköpfige Pokémon gilt als plötzliche\nMutation. Es rennt bis zu 100 km/h schnell.",
         'pt-br': "Um Pokémon com duas cabeças que foi\ndescoberto como uma mutação repentina.\nEle corre a mais de 100 km/h.",
+        ja: "突然変異で 見つかった ２つの 頭を 持つ ポケモン。 時速１００キロで 走る。",
         ko: "돌연변이로 발견된\n두 개의 머리를 지닌 포켓몬이다.\n시속 100km로 달린다.",
         "zh-tw": "由於突變而被發現的雙頭寶可夢。它的運行速度超過每小時 60 英里。"
     },

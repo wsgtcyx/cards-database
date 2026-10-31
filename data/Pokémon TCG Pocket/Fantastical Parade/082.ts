@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/082"
     },
     name: {
         en: "Cubone",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Cubone",
         "de": "Tragosso",
         "pt-br": "Cubone",
-        "zh-tw": "卡拉卡拉"
+        "zh-tw": "卡拉卡拉",
+        ja: "カラカラ"
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon indossa il teschio del suo defunto\nmadre. A volte i sogni di Cubone lo fanno piangere,\nma ogni lacrima che Cubone versa lo rende più forte.",
         "de": "Dieses Pokémon trägt den Schädel seines Verstorbenen\nMutter. Manchmal bringen Cubones Träume es zum Weinen,\nAber jede Träne, die Cubone vergießt, macht ihn stärker.",
         "pt-br": "Este Pokémon usa a caveira de seu falecido\nmãe. Às vezes os sonhos de Cubone o fazem chorar,\nmas cada lágrima que Cubone derrama o torna mais forte.",
-        "zh-tw": "這只神奇寶貝戴著死者的頭骨\n媽媽。有時庫博恩的夢會讓它哭泣，\n但庫博恩流下的每一滴眼淚都讓它變得更加堅強。"
+        "zh-tw": "這只神奇寶貝戴著死者的頭骨\n媽媽。有時庫博恩的夢會讓它哭泣，\n但庫博恩流下的每一滴眼淚都讓它變得更加堅強。",
+        ja: "死んだ 母親の 骨を 被る。 夢を 見て 泣くことも あるけど 涙を 流すたびに 強くなる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Testata",
                 "de": "Kopfstoß",
                 "pt-br": "Cabeçada",
-                "zh-tw": "頭撞"
+                "zh-tw": "頭撞",
+                ja: "ずつき"
             },
             damage: 10,
             cost: ["Colorless"]

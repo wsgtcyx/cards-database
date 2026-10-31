@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/380",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/380",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/380",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/380"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/380",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/380"
     },
     name: {
         en: "Diantha",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Heile 90 Schadenspunkte bei 1 deiner {P}-Pokémon, an das mindestens 2 oder mehr {P}-Energien angelegt sind. Wenn du auf diese Weise Schaden geheilt hast, lege 2 {P}-Energien von jenem Pokémon ab.",
         "pt-br": "Cure 90 pontos de dano de 1 dos seus Pokémon {P} que tiver 2 ou mais Energias {P} ligadas a ele. Se você curou qualquer dano desta forma, descarte 2 Energias {P} daquele Pokémon.",
         "zh-tw": "將自己的1隻身上附有2個以上{P}能量的{P}寶可夢恢復90HP。然後,將該寶可夢身上的2個{P}能量丟棄。",
-        ja: "Heal 90 damage from 1 of your {P} Pokémon that has 2 or more {P} Energy attached. If you healed any damage in this way, discard 2 {P} Energy from that Pokémon.",
+        ja: "{P}エネルギーが2個以上ついている自分の{P}ポケモン1匹のHPを90回復。その後、そのポケモンから{P}エネルギーを2個トラッシュ。",
         ko: "Heal 90 damage from 1 of your {P} Pokémon that has 2 or more {P} Energy attached. If you healed any damage in this way, discard 2 {P} Energy from that Pokémon."
     },
     trainerType: "Supporter"

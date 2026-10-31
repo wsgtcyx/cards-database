@@ -9,7 +9,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/118",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/118",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/118"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2a/118"
     },
     name: {
         en: "Meowscarada",
@@ -19,6 +20,7 @@ const card: Card = {
         de: "Maskagato",
         'pt-br': "Meowscarada",
         "zh-tw": "魔幻假面喵",
+        ja: "マスカーニャ",
         ko: "마스카나"
     },
     illustrator: "Souichirou Gunjima",
@@ -35,6 +37,7 @@ const card: Card = {
         de: "Feliospa",
         'pt-br': "Floragato",
         "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ",
         ko: "나로테"
     },
     stage: "Stage2",
@@ -45,7 +48,8 @@ const card: Card = {
         "it": "I riflessi del pelo all'interno del mantello\ncamuffano lo stelo del suo fiore, che\ncosì sembra fluttuare nell'aria.",
         "de": "Es erweckt den Eindruck, als würde seine Blume\nschweben, indem es ihren Stiel mit der Reflexion\ndes Fells an der Innenseite seines Mantels tarnt.",
         "pt-br": "Este Pokémon usa a pelugem reflexiva da sua capa\npara camuflar o caule da sua flor, criando a ilusão\nde que a flor está flutuando.",
-        "zh-tw": "這隻寶可夢使用斗篷內襯的反光毛皮來偽裝花莖，創造出花朵漂浮的錯覺。"
+        "zh-tw": "這隻寶可夢使用斗篷內襯的反光毛皮來偽裝花莖，創造出花朵漂浮的錯覺。",
+        ja: "浮いているように 見える 花は マント裏の 毛の 反射で 茎を カモフラージュしているのだ。"
     },
     attacks: [
         {
@@ -57,6 +61,7 @@ const card: Card = {
                 de: "Kampfkrallen",
                 'pt-br': "Garras de Luta",
                 "zh-tw": "戰鬥利爪",
+                ja: "とうしのツメ",
                 ko: "투지의손톱"
             },
             damage: "60+",
@@ -69,6 +74,7 @@ const card: Card = {
                 de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "如果對手的戰鬥寶可夢是寶可夢 {ex}，則此攻擊造成的傷害增加 70 點。",
+                ja: "相手のバトルポケモンが「ポケモンex」なら、70ダメージ追加。",
                 ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다."
             }
         },

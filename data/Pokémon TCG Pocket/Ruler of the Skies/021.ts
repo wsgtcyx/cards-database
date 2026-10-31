@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/021",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/021",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/021"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/021"
     },
     name: {
         en: "Rapidash",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "L’esemplare più veloce diventa il capo del\ngruppo e ne decide velocità e destinazione.",
         de: "Das schnellste Exemplar wird zum Anführer\nbestimmt und gibt als solcher den Zielort und\ndie Geschwindigkeit der Herde vor.",
         "pt-br": "O corredor mais rápido se torna o líder e decide o ritmo do rebanho e a direção da viagem.",
-        "zh-tw": "奔跑速度最快的烈焰馬\n會成為首領，決定族群\n前往的地點和奔跑速度。"
+        "zh-tw": "奔跑速度最快的烈焰馬\n會成為首領，決定族群\n前往的地點和奔跑速度。",
+        ja: "いちばん 脚が 速い ものが リーダー。 群れが 行く 場所や 走る 速度を 決めている。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Colpo di calore",
                 de: "Hitzestoß",
                 "pt-br": "Raio de Calor",
-                "zh-tw": "高溫爆破"
+                "zh-tw": "高溫爆破",
+                ja: "ヒートブラスト"
             },
             damage: 80
         }

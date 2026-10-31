@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/213",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/213",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/213",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/213"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/213",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/213"
     },
     name: {
         en: "Juliana",
@@ -34,7 +35,7 @@ const card: Card = {
         de: "Nimm 1 zufälliges Phase-2-Pokémon aus deinem Deck auf deine Hand.",
         "pt-br": "Coloque 1 Pokémon Estágio 2 aleatório do seu baralho na sua mão.",
         "zh-tw": "從自己的牌庫隨機將1張2階進化寶可夢卡加入手牌。",
-        ja: "Put a random Stage 2 Pokémon from your deck into your hand.",
+        ja: "自分の山札から2進化ポケモンをランダムに1枚、手札に加える。",
         ko: "Put a random Stage 2 Pokémon from your deck into your hand."
     },
     trainerType: "Supporter"

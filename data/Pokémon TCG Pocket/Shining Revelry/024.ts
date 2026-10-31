@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/024",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/024",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/024",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/024"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/024",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/024"
     },
     name: {
         en: "Electrode",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Electrode",
         de: "Lektrobal",
         'pt-br': "Electrode",
+        ja: "マルマイン",
         ko: "붐볼",
         "zh-tw": "頑皮雷彈"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Voltorb",
         "de": "Voltobal",
         "pt-br": "Voltorb",
-        "zh-tw": "霹靂電球"
+        "zh-tw": "霹靂電球",
+        ja: "ビリリダマ"
     },
     description: {
         en: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "L'energia Elettro che immagazzina\nlo fa andare sempre più veloce, ma\nlo fa anche esplodere più facilmente.",
         de: "Je mehr elektrische Energie es speichert, desto\nschneller ist es. Allerdings steigt dabei auch das\nRisiko, dass es explodiert.",
         'pt-br': "Quanto mais energia carrega, mais\nvelocidade ganha. Mas também aumenta\na sua probabilidade de explodir.",
+        ja: "電気エネルギーを 溜めこむほど 高速で 動けるようになるが そのぶん 爆発 しやすい。",
         ko: "전기 에너지를 모을수록\n고속으로 이동할 수 있게 되나\n그만큼 폭발하기도 쉬워진다.",
         "zh-tw": "它充電的能量越多，速度就越快。但這也使得它更容易爆炸。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Attacco Capriola",
             de: "Taumler",
             'pt-br': "Ataque Cambalhota",
+            ja: "ローリングアタック",
             ko: "롤링어택",
             "zh-tw": "翻滾攻擊"
         },
@@ -66,6 +71,7 @@ const card: Card = {
             it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
             de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
             'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+            ja: "コインを1回投げオモテなら、30ダメージ追加。",
             ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
             "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
         }

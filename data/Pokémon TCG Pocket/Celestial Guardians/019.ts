@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/019",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/019",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/019"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/019",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/019"
     },
     name: {
         en: "Steenee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Steenee",
         de: "Frubaila",
         'pt-br': "Steenee",
+        ja: "アママイコ",
         ko: "달무리나",
         "zh-tw": "甜舞妮",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Frubberl",
         "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
+        ja: "アマカジ",
     },
     description: {
         en: "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Sparge attorno a sé un dolce profumo che può donare\nil buonumore e che è molto apprezzato nei deodoranti.",
         de: "Es verströmt ein süßes Aroma, das für gute Laune sorgt\nund auch als Duftnote für Deodorants sehr beliebt ist.",
         'pt-br': "Steenee espalha um aroma doce que faz os outros\nse sentirem revigorados. Este mesmo aroma é popular\nem antitranspirantes.",
+        ja: "元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。",
         ko: "기운이 솟을 것만 같은\n달콤한 향기를 흩뿌린다.\n땀 억제제의 향료로 인기가 좋다.",
         "zh-tw": "Steenee 散發出一種甜美的香味，讓其他人感到精力充沛。同樣的氣味在止汗劑中也很受歡迎。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Doppioturbo",
                 de: "Doppeldreher",
                 'pt-br': "Giro Duplo",
+                ja: "ダブルスピン",
                 ko: "더블스핀",
                 "zh-tw": "雙旋轉"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia 2 volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
                 de: "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue 2 moedas. Este ataque causa 30 pontos de dano para cada cara.",
+                ja: "コインを2回投げ、オモテの数×30ダメージ。",
                 ko: "동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다.",
                 "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 30 點傷害。"
             }

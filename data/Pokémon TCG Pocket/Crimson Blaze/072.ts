@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/072"
     },
     name: {
         en: "Reuniclus",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Reuniclus",
         "de": "Zytomega",
         "pt-br": "Reuniclus",
-        "zh-tw": "人造細胞卵"
+        "zh-tw": "人造細胞卵",
+        ja: "ランクルス"
     },
     illustrator: "chibi",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Duosion",
         "de": "Mitodos",
         "pt-br": "Duosion",
-        "zh-tw": "雙卵細胞球"
+        "zh-tw": "雙卵細胞球",
+        ja: "ダブラン"
     },
     description: {
         en: "It's said that drinking the liquid surrounding\nReuniclus grants wisdom. Problem is, the liquid is\nhighly toxic to anything besides Reuniclus itself.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Si dice che bere il liquido circostante\nReuniclus garantisce saggezza. Il problema è che il liquido lo è\naltamente tossico per qualsiasi cosa oltre allo stesso Reuniclus.",
         "de": "Es wird gesagt, dass man die umgebende Flüssigkeit trinkt\nReuniclus gewährt Weisheit. Das Problem ist, dass die Flüssigkeit vorhanden ist\nhochgiftig für alles außer Reuniclus selbst.",
         "pt-br": "Diz-se que beber o líquido que rodeia\nReuniclus concede sabedoria. O problema é que o líquido é\naltamente tóxico para qualquer coisa além do próprio Reuniclus.",
-        "zh-tw": "據說喝了周圍的液體\nReuniclus 賦予智慧。問題是，液體是\n除團團本身外，對任何東西都有劇毒。"
+        "zh-tw": "據說喝了周圍的液體\nReuniclus 賦予智慧。問題是，液體是\n除團團本身外，對任何東西都有劇毒。",
+        ja: "特殊な 液体を 飲むと 知恵を 授かると いわれるが ランクルス以外には 猛毒。"
     },
     stage: "Stage2",
     abilities: [{
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Aumento infinito",
                 "de": "Unendliche Steigerung",
                 "pt-br": "Aumento infinito",
-                "zh-tw": "無限增加"
+                "zh-tw": "無限增加",
+                ja: "むげんぞうふく"
             },
             effect: {
                 en: "This Pokémon gets +30 HP for each {P} Energy attached to it.",
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Questo Pokémon ottiene +30 HP per ogni Energia {P} assegnata.",
                 "de": "Dieses Pokémon erhält +30 HP für jede an es angelegte {P}-Energie.",
                 "pt-br": "Este Pokémon recebe +30 HP para cada energia {P} ligada a ele.",
-                "zh-tw": "每附加一個 {P} 能量，該神奇寶貝就會獲得 +30 HP。"
+                "zh-tw": "每附加一個 {P} 能量，該神奇寶貝就會獲得 +30 HP。",
+                ja: "このポケモンについている{P}エネルギー1個につき、このポケモンの最大HPを+30する。"
             }
         }],
     attacks: [{
@@ -73,7 +79,8 @@ const card: Card = {
                 "it": "Psicopugno",
                 "de": "Psypunch",
                 "pt-br": "Psypunch",
-                "zh-tw": "靈拳"
+                "zh-tw": "靈拳",
+                ja: "サイコパンチ"
             },
             damage: 90,
             cost: ["Colorless", "Colorless", "Colorless"]

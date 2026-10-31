@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/086",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/086",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/086",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/086",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/086"
     },
     name: {
         en: "Shinx",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
+        ja: "コリンク",
     },
     illustrator: "Uta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "L'estensione e la contrazione dei suoi muscoli\ngenera elettricità. La sua pelliccia si illumina quando lo è\nnei guai.",
         "de": "Die Dehnung und Kontraktion seiner Muskeln\nerzeugt Strom. Sein Fell leuchtet, wenn es ist\nin Schwierigkeiten.",
         "pt-br": "A extensão e contração de seus músculos\ngera eletricidade. Seu pelo brilha quando está\nem apuros.",
-        "zh-tw": "肌肉的伸展和收縮\n發電。當它的皮毛髮光時\n遇到麻煩了。"
+        "zh-tw": "肌肉的伸展和收縮\n發電。當它的皮毛髮光時\n遇到麻煩了。",
+        ja: "筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Flop",
                 "de": "Flop",
                 "pt-br": "Fracasso",
-                "zh-tw": "翻牌"
+                "zh-tw": "翻牌",
+                ja: "はねまわる"
             },
             damage: 10,
             cost: ["Colorless"]

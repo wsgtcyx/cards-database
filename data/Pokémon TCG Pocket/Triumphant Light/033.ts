@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/033"
     },
     name: {
         en: "Gengar",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Gengar",
         de: "Gengar",
         'pt-br': "Gengar",
+        ja: "ゲンガー",
         ko: "팬텀",
         "zh-tw": "耿鬼"
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alpollo",
         "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
+        ja: "ゴースト",
     },
     description: {
         en: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Per sottrarre energia alla vittima si\nnasconde nella sua ombra e attende\nin silenzio il momento opportuno.",
         de: "Um Beute zu erlegen, versteckt es sich\nin deren Schatten und wartet still auf\neine günstige Gelegenheit.",
         'pt-br': "Este Pokémon aguarda pela oportunidade\nperfeita para se esconder na sombra de sua\npresa e roubar a vida dela.",
+        ja: "命を 奪おうと 決めた 獲物の 影に 潜り込み じっと チャンスを 狙ってる。",
         ko: "생명을 빼앗기로 정한 먹잇감의\n그림자에 숨어들어\n꼼짝하지 않고 기회를 노린다.",
         "zh-tw": "為了竊取目標的生命，它會潛入獵物的陰影中，靜靜地等待機會。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Ipnobomba",
                 de: "Hypnoschuss",
                 'pt-br': "Borrifada Hipnótica",
+                ja: "さいみんはどう",
                 ko: "최면파동",
                 "zh-tw": "催眠母細胞"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

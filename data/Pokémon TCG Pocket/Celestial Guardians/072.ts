@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/072"
     },
     name: {
         en: "Grumpig",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grumpig",
         de: "Groink",
         'pt-br': "Grumpig",
+        ja: "ブーピッグ",
         ko: "피그킹",
         "zh-tw": "噗噗豬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Spoink",
         "pt-br": "Spoink",
         "zh-tw": "跳跳豬",
+        ja: "バネブー",
     },
     description: {
         en: "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "La strana danza che esegue per controllare il nemico\nera di gran moda tempo fa, in una regione lontana.",
         de: "Die seltsamen Tanzschritte, mit denen es seine\nGegner kontrolliert, erfreuten sich einst in\nanderen Regionen großer Beliebtheit.",
         'pt-br': "Ele é capaz de executar passos de dança únicos\npara influenciar os inimigos. Seu estilo de dança se tornou\naltamente popular no mundo todo.",
+        ja: "相手を 操るときの 不思議な ステップは 昔 外国で 大流行したことが ある。",
         ko: "상대를 조종할 때 사용하는\n이상한 스텝은 옛날에 외국에서\n크게 유행했던 적이 있다.",
         "zh-tw": "它可以表演奇怪的舞步來影響敵人。它的舞蹈風格在海外非常流行。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Cozzata Zen",
                 de: "Zen-Kopfstoß",
                 'pt-br': "Cabeçada Zen",
+                ja: "しねんのずつき",
                 ko: "사념의박치기",
                 "zh-tw": "禪宗頭撞"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/215",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/215",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/215"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/215"
     },
     name: {
         en: "Squirtle",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Squirtle",
         de: "Schiggy",
         'pt-br': "Squirtle",
+        ja: "ゼニガメ",
         ko: "꼬부기",
         "zh-tw": "傑尼龜"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Quando ritrae il lungo collo dentro la\ncorazza sputa un vigoroso getto d'acqua.",
         de: "Zieht es seinen langen Hals in seinen Panzer\nzurück, verspritzt es Wasser mit unbändiger Kraft.",
         'pt-br': "Ao retrair o pescoço longo para dentro\ndo seu casco, lança um jato de água\nmuito poderoso.",
+        ja: "長い 首を 甲羅のなかに 引っこめるとき 勢いよく 水鉄砲を 発射する。",
         ko: "기다란 목을 등껍질 속에\n감춘 다음 기세 좋게\n물대포를 발사한다.",
         "zh-tw": "當它把長長的脖子縮進殼裡時，就會用力噴出水。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },

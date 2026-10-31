@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/115",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/115",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/115",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/115"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/115",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/115"
     },
     name: {
         en: "Revavroom",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Revavroom minaccia ferocemente gli altri con il suono del suo scarico. Tira fuori la lingua dalla bocca cilindrica e spruzza fluidi tossici.",
         de: "Knattatox bedroht andere brutal mit dem Geräusch seines Auspuffs. Es streckt seine Zunge aus seinem zylindrischen Mund heraus und versprüht giftige Flüssigkeiten.",
         "pt-br": "Revavroom ameaça violentamente os outros com o som de seu escapamento. Ele coloca a língua para fora da boca cilíndrica e borrifa fluidos tóxicos.",
-        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。"
+        "zh-tw": "普隆隆姆用排氣聲惡毒地威脅別人。它從圓柱形的嘴中伸出舌頭並噴出有毒液體。",
+        ja: "排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。"
     },
     abilities: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Doppia Customizzazione",
                 "pt-br": "Personalização Dupla",
                 "zh-tw": "雙重改造",
-                "de": "Doppel-Modifizierung"
+                "de": "Doppel-Modifizierung",
+                ja: "ダブルカスタム"
             },
             effect: {
                 en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Questo Pokémon può avere fino a 2 carte Oggetto Pokémon assegnate.",
                 de: "An dieses Pokémon können bis zu 2 Pokémon-Ausrüstungen angelegt sein.",
                 "pt-br": "Este Pokémon pode ter até 2 cartas de Ferramenta Pokémon ligadas a ele.",
-                "zh-tw": "這隻寶可夢身上最多可附有2張「寶可夢道具」卡。"
+                "zh-tw": "這隻寶可夢身上最多可附有2張「寶可夢道具」卡。",
+                ja: "このポケモンは、「ポケモンのどうぐ」を2枚までつけられる。"
             }
         }
     ],
@@ -82,7 +86,8 @@ const card: Card = {
                 it: "Accelerazione eccessiva",
                 de: "Überbeschleunigung",
                 "pt-br": "Superaceleração",
-                "zh-tw": "失控暴衝"
+                "zh-tw": "失控暴衝",
+                ja: "オーバーアクセル"
             },
             effect: {
                 en: "During your next turn, this Pokémon's Overacceleration attack does +70 damage.",
@@ -91,7 +96,8 @@ const card: Card = {
                 it: "Durante il tuo prossimo turno, l'attacco Iperaccelerazione di questo Pokémon infligge +70 danni.",
                 de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 70 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 70 pontos de dano.",
-                "zh-tw": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+70點。"
+                "zh-tw": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+70點。",
+                ja: "次の自分の番、このポケモンの「オーバーアクセル」のダメージを+70する。"
             },
             damage: 70
         }

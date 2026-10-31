@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/133",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/133",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/133",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/133",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/133"
     },
     name: {
         en: "Woobat",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Woobat",
         de: "Fleknoil",
         'pt-br': "Woobat",
+        ja: "コロモリ",
         ko: "또르박쥐",
         "zh-tw": "滾滾蝙蝠",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 'pt-br': "Roída",
+                ja: "かじる",
                 ko: "갉기",
                 "zh-tw": "啃"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Se alzando lo sguardo in una grotta si\nvedono impronte a forma di cuore sulle\npareti, è segno che vi abitano dei Woobat.",
         de: "Herzförmige Flecken an der Decke einer Höhle\nsind ein sicheres Zeichen dafür, dass sie von\nFleknoil behaust wird.",
         'pt-br': "Se você estiver em uma caverna e vir várias\nmarcas com formato de coração nas paredes,\né sinal de que Woobat vivem ali.",
+        ja: "洞窟を 見上げて 壁に ハート型の 跡が あれば コロモリが 棲んでいる 証拠。",
         ko: "동굴을 올려다봤을 때 벽에\n하트 모양 자국이 있다면\n또르박쥐가 살고 있다는 증거다.",
         "zh-tw": "在洞穴內，如果您抬頭看到牆壁上排列著許多心形標記，則證明 Woobat 居住在那裡。"
     },

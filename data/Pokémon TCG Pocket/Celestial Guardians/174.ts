@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/174",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/174",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/174",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/174"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/174",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/174"
     },
     name: {
         en: "Minior",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Minior",
         de: "Meteno",
         'pt-br': "Minior",
+        ja: "メテノ",
         ko: "메테노",
         "zh-tw": "小隕星",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Alola è uno dei rari luoghi in cui di notte è\npossibile vedere dei Minior cadere dal cielo.",
         de: "Alola ist einer der wenigen Orte, an denen es möglich ist,\ndieses Pokémon vom Nachthimmel herabfallen zu sehen.",
         'pt-br': "São raros os lugares em que Minior caem do céu noturno,\ne Alola faz parte desse grupo excepcional.",
+        ja: "夜空から 降ってくる メテノと 出会える スポットは 限られていて アローラは 貴重な そのひとつ。",
         ko: "밤하늘에서 떨어지는 메테노와\n만날 수 있는 장소는 제한되어 있다.\n알로라는 그 귀한 장소 중 한 곳이다.",
         "zh-tw": "米尼奧爾從夜空中墜落的地方很少而且相隔很遠，阿羅拉就是其中之一。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Caduta Astrale",
                 de: "Sternensturz",
                 'pt-br': "Queda de Estrela",
+                ja: "ほしおとし",
                 ko: "별떨구기",
                 "zh-tw": "星星掉落"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 40 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente.",
+                ja: "相手のポケモン1匹に40ダメージ。",
                 ko: "상대의 포켓몬 1마리에게 40데미지를 준다.",
                 "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。"
             }

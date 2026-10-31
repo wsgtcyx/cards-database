@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/085",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/085",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/085",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/085"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/085",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/085"
     },
     name: {
         en: "Mew",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Pare che il suo DNA contenga i codici genetici di tutti\ni Pokémon; per questo può usare qualsiasi tecnica.",
         de: "Seine DNS soll den genetischen Code aller Pokémon\nbeinhalten. Dadurch kann es alle Attacken erlernen.",
         "pt-br": "Diz-se que seu DNA contém os códigos genéticos de todos os Pokémon, por isso ele pode usar todos os tipos de técnicas.",
-        "zh-tw": "據說它的DNA包含所有寶可夢的遺傳密碼，因此它可以使用各種技術。"
+        "zh-tw": "據說它的DNA包含所有寶可夢的遺傳密碼，因此它可以使用各種技術。",
+        ja: "遺伝子には すべての ポケモンの 情報が 含まれているので あらゆる 技が 使えるという。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Memoria Miracolosa",
                 de: "Wundersames Gedächtnis",
                 "pt-br": "Memória Miraculosa",
-                "zh-tw": "奇跡記憶"
+                "zh-tw": "奇跡記憶",
+                ja: "ミラクルメモリー"
             },
             effect: {
                 en: "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "1 attacco tra i Pokémon nella mano e nel mazzo del tuo avversario viene scelto a caso e tu usi l'attacco scelto come questo attacco.",
                 de: "1 Angriff aus den Pokémon in der Hand und im Deck deines Gegners wird zufällig ausgewählt und du verwendest den gewählten Angriff als diesen Angriff.",
                 "pt-br": "1 ataque entre os Pokémon na mão e no baralho do seu oponente é escolhido aleatoriamente e você usa o ataque escolhido como este ataque.",
-                "zh-tw": "從對手的手牌和牌組中的寶可夢中隨機選擇 1 個攻擊，並使用所選的攻擊作為這次攻擊。"
+                "zh-tw": "從對手的手牌和牌組中的寶可夢中隨機選擇 1 個攻擊，並使用所選的攻擊作為這次攻擊。",
+                ja: "相手の手札と山札にあるポケモンが持つワザからランダムに1つが選ばれ、選ばれたワザを、このワザとして使う。"
             }
         }
     ],

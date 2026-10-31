@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/039",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/039",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/039",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/039"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/039",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/039"
     },
     name: {
         en: "Team Rocket's Arbok",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Estremamente tenace, se individua una preda non si dà pace finché non la raggiunge, a costo di seguirla in capo al mondo.",
         de: "Es ist sehr hartnackig und verfolgt seine Beute überallhin, wenn es sie einmal erspäht hat.",
         "pt-br": "Este Pokémon é extremamente tenaz. Uma vez que escolhe sua presa, não desiste da perseguição, não importa o quão longe ela vá.",
-        "zh-tw": "性情非常執著。一旦鎖定了獵物，便會窮追不捨。"
+        "zh-tw": "性情非常執著。一旦鎖定了獵物，便會窮追不捨。",
+        ja: "とても 執念深い 性格。 一度 ターゲットに 決めた 獲物は どこまでも 追い続ける。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 it: "Cercatore Oscuro",
                 de: "Schattensucher",
                 "pt-br": "Explorador das Sombras",
-                "zh-tw": "暗影追蹤"
+                "zh-tw": "暗影追蹤",
+                ja: "シャドーシーカー"
             },
             effect: {
                 en: "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Questo attacco infligge 10 danni in più per ogni Energia {C} nel costo di ritirata del Pokémon attivo del tuo avversario.",
                 de: "Diese Attacke fügt für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners 10 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
-                "zh-tw": "增加對手的戰鬥寶可夢撤退所需的能量的數量×10點傷害。"
+                "zh-tw": "增加對手的戰鬥寶可夢撤退所需的能量的數量×10點傷害。",
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×10ダメージ追加。"
             },
             damage: "70+"
         }

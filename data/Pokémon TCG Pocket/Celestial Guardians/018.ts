@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/018",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/018",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/018"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/018",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/018"
     },
     name: {
         en: "Bounsweet",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bounsweet",
         de: "Frubberl",
         'pt-br': "Bounsweet",
+        ja: "アマカジ",
         ko: "달콤아",
         "zh-tw": "甜竹竹",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "In tempi antichi, quando i cibi dolci erano rari,\nquesto Pokémon era molto apprezzato per via\ndel suo sudore dolce come marmellata.",
         de: "Sein Schweiß schmeckt so süß wie eingekochtes\nObst und wurde daher früher, als es nur wenige\nSüßungsmittel gab, sehr geschätzt.",
         'pt-br': "Seu suor é doce como a calda feita da fervura de frutas.\nDevido a isso, Bounsweet era altamente valorizado\nno passado, quando os adoçantes eram escassos.",
+        ja: "果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。",
         ko: "과일을 졸인 것만 같은 달콤한 땀을\n흘리기 때문에, 달콤한 음식이 적었던\n옛날에는 매우 귀하게 여겨졌다.",
         "zh-tw": "它的汗水很甜，就像煮水果製成的糖漿一樣。正因為如此，Bounsweet 在過去甜味劑匱乏的時期受到高度重視。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Fuggi Fuggi",
                 de: "Zertrampeln",
                 'pt-br': "Estouro",
+                ja: "ふむ",
                 ko: "밟기",
                 "zh-tw": "踩踏"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/066",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/066",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/066",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/066"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/066",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/066"
     },
     name: {
         en: "Pichu",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Pichu",
         "de": "Pichu",
         "pt-br": "Pichu",
-        "zh-tw": "皮丘"
+        "zh-tw": "皮丘",
+        ja: "ピチュー"
     },
     illustrator: "Kariya",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Non è abile nell’immagazzinare energia elettrica.\nQualsiasi tipo di shock ne provoca la scarica\nenergia spontaneamente.",
         "de": "Es ist nicht in der Lage, elektrische Energie zu speichern.\nJede Art von Erschütterung führt zur Entladung\nEnergie spontan.",
         "pt-br": "Não é qualificado para armazenar energia elétrica.\nQualquer tipo de choque faz com que ele descarregue\nenergia espontaneamente.",
-        "zh-tw": "它不擅長儲存電力。\n任何形式的衝擊都會導致其放電\n自發的能量。"
+        "zh-tw": "它不擅長儲存電力。\n任何形式的衝擊都會導致其放電\n自發的能量。",
+        ja: "電気を 溜めこむのが 下手。 なんらかの ショックを 受けると すぐに 放電 してしまう。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio scoppiettante",
                 "de": "Knisternder Wurf",
                 "pt-br": "Lançamento estaladiço",
-                "zh-tw": "爆裂拋擲"
+                "zh-tw": "爆裂拋擲",
+                ja: "ぱちぱちトス"
             },
             effect: {
                 en: "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Prendi un'Energia {L} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon Base in panchina.",
                 "de": "Nimm eine {L}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {L} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
-                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備基礎神奇寶貝上。"
+                "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備基礎神奇寶貝上。",
+                ja: "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチのたねポケモンにつける。"
             }
         }],
     retreat: 0,

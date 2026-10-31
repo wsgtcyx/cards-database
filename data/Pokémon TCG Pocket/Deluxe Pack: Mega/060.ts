@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/060",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/060",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/060"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/060",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/060"
     },
     name: {
         en: "Mega Gyarados ex",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Karpador",
         "pt-br": "Magikarp",
         "zh-tw": "鯉魚王",
-        ja: "Magikarp",
+        ja: "コイキング",
         ko: "Magikarp"
     },
     stage: "Stage1",
@@ -53,7 +54,7 @@ const card: Card = {
                 de: "Mega-Blaster",
                 "pt-br": "Megadetonador",
                 "zh-tw": "超級爆破",
-                ja: "Mega Blaster",
+                ja: "メガブラスター",
                 ko: "Mega Blaster"
             },
             damage: 140,
@@ -71,7 +72,7 @@ const card: Card = {
                 de: "Lege die obersten 3 Karten vom Deck deines Gegners ab.",
                 "pt-br": "Descarte as 3 cartas de cima do baralho do seu oponente.",
                 "zh-tw": "將對手的牌庫上方3張卡丟棄。",
-                ja: "Discard the top 3 cards of your opponent's deck.",
+                ja: "相手の山札を上から3枚トラッシュ。",
                 ko: "Discard the top 3 cards of your opponent's deck."
             }
         }

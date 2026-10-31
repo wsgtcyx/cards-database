@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/221",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/221",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/221",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/221"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/221",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/221"
     },
     name: {
         en: "Rockruff",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
+        ja: "イワンコ",
     },
     illustrator: "match",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Questo Pokémon è molto amichevole quando è giovane.\nLa sua indole diventa viziosa una volta maturata,\nma non dimentica mai la gentilezza del suo padrone.",
         "de": "Dieses Pokémon ist sehr freundlich, wenn es jung ist.\nSeine Veranlagung wird bösartig, sobald es erwachsen wird,\naber es vergisst nie die Freundlichkeit seines Meisters.",
         "pt-br": "Este Pokémon é muito amigável quando jovem.\nSua disposição se torna viciosa quando amadurece,\nmas nunca esquece a bondade do seu mestre.",
-        "zh-tw": "這只神奇寶貝年輕時非常友好。\n成熟後性情就變得惡毒，\n但它永遠不會忘記主人的恩德。"
+        "zh-tw": "這只神奇寶貝年輕時非常友好。\n成熟後性情就變得惡毒，\n但它永遠不會忘記主人的恩德。",
+        ja: "小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Lancio di roccia",
                 "de": "Steinwurf",
                 "pt-br": "Lançamento de pedra",
-                "zh-tw": "扔石頭"
+                "zh-tw": "扔石頭",
+                ja: "いわおとし"
             },
             damage: 40,
             cost: ["Fighting", "Colorless"]

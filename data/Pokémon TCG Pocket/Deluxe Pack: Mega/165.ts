@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/165",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/165",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/165",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/165"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/165",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/165"
     },
     name: {
         en: "Meltan",
@@ -38,7 +39,7 @@ const card: Card = {
         de: "Es schmilzt Metall ein und frisst es. In seinem Körper wandelt es das flüssig gewordene Metall in Energie um.",
         "pt-br": "Dissolve e come metal. Este Pokémon gera energia quando metal líquido corre pelo seu corpo.",
         "zh-tw": "會溶解金屬然後吃掉。透過讓液體金屬在體內循環來製造能量。",
-        ja: "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。",
         ko: "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy."
     },
     stage: "Basic",
@@ -52,7 +53,7 @@ const card: Card = {
                 de: "Strahl",
                 "pt-br": "Feixe",
                 "zh-tw": "光束",
-                ja: "Beam",
+                ja: "ビーム",
                 ko: "Beam"
             },
             damage: 20,

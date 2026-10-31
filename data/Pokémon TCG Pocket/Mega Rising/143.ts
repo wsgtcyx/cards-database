@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/143",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/143",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/143",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/143"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/143",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/143"
     },
     name: {
         en: "Sandygast",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
+        ja: "スナバァ",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Lancia la sabbia negli occhi della preda e ci prova\navvicinateli mentre sono accecati, ma da allora\nSandygast è così lento che la preda tende a scappare.",
         "de": "Es wirft Sand in die Augen seiner Beute und versucht es auch\nNähere dich ihnen, während sie geblendet sind, aber seitdem\nSandygast ist so langsam, dass die Beute dazu neigt, zu entkommen.",
         "pt-br": "Ele joga areia nos olhos de sua presa e tenta\naproxime-se deles enquanto estão cegos, mas desde\nSandygast é tão lento que a presa tende a escapar.",
-        "zh-tw": "它把沙子扔進獵物的眼睛裡，並試圖\n在他們失明的時候接近他們，但自從\n桑迪加斯特行動緩慢，獵物往往會逃跑。"
+        "zh-tw": "它把沙子扔進獵物的眼睛裡，並試圖\n在他們失明的時候接近他們，但自從\n桑迪加斯特行動緩慢，獵物往往會逃跑。",
+        ja: "獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Attacco di sabbia",
                 "de": "Sandangriff",
                 "pt-br": "Ataque de Areia",
-                "zh-tw": "沙土襲擊"
+                "zh-tw": "沙土襲擊",
+                ja: "すなかけ"
             },
             damage: 20,
             cost: ["Fighting", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, se il Pokémon difensore tenta di usare un attacco, il tuo avversario lancia una moneta. Se esce croce, l'attacco non avviene.",
                 "de": "Wenn das verteidigende Pokémon im nächsten Zug deines Gegners versucht, einen Angriff auszuführen, wirft dein Gegner eine Münze. Bei „Zahl“ findet dieser Angriff nicht statt.",
                 "pt-br": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar usar um ataque, seu oponente jogará uma moeda. Se der coroa, esse ataque não acontece.",
-                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。"
+                "zh-tw": "在對手的下一個回合中，如果防御神奇寶貝嘗試使用攻擊，對手會擲硬幣。如果是反面，則不會發生該攻擊。",
+                ja: "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
             }
         }],
     weaknesses: [{

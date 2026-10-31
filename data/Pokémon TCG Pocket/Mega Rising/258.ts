@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/258",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/258",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/258",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/258"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/258",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/258"
     },
     name: {
         en: "Mega Ampharos ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Mega-Ampharos-ex",
         "pt-br": "Mega Ampharos ex",
         "zh-tw": "超級電龍ex",
+        ja: "メガデンリュウex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Waaty",
         "pt-br": "Flaaffy",
         "zh-tw": "茸茸羊",
+        ja: "モココ",
     },
     description: {
         en: "The tail's tip shines brightly and can be seen from\nfar away. It acts as a beacon for lost people.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "La punta della coda brilla intensamente e può essere vista\nlontano. Funziona come un faro per le persone scomparse.",
         "de": "Die Schwanzspitze leuchtet hell und ist gut sichtbar\nweit weg. Es fungiert als Leuchtturm für verlorene Menschen.",
         "pt-br": "A ponta da cauda brilha intensamente e pode ser vista de\nlonge. Ele atua como um farol para pessoas perdidas.",
-        "zh-tw": "尾巴的尖端閃閃發光，可以從\n很遠。它充當迷失者的燈塔。"
+        "zh-tw": "尾巴的尖端閃閃發光，可以從\n很遠。它充當迷失者的燈塔。",
+        ja: "尻尾の 先が 光り輝く。 光は はるか 遠くまで 届き 迷った者の 道標となる。"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Lanciere Fulminante",
                 "de": "Lightning Lancer",
                 "pt-br": "Lanceiro Relâmpago",
-                "zh-tw": "閃電槍騎兵"
+                "zh-tw": "閃電槍騎兵",
+                ja: "ライトニングランサー"
             },
             damage: 100,
             cost: ["Lightning", "Lightning", "Colorless"],
@@ -64,7 +69,8 @@ const card: Card = {
                 "it": "1 dei Pokémon nella panchina del tuo avversario viene scelto casualmente 3 volte. Per ogni volta che viene scelto un Pokémon, infliggigli anche 20 danni.",
                 "de": "1 Pokémon auf der Bank deines Gegners wird dreimal zufällig ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, außerdem 20 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon no Banco do seu oponente é escolhido aleatoriamente 3 vezes. Para cada vez que um Pokémon for escolhido, cause também 20 de dano a ele.",
-                "zh-tw": "隨機選擇對手 1 只後備神奇寶貝 3 次。每次選擇一隻神奇寶貝，也會對其造成 20 點傷害。"
+                "zh-tw": "隨機選擇對手 1 只後備神奇寶貝 3 次。每次選擇一隻神奇寶貝，也會對其造成 20 點傷害。",
+                ja: "相手のベンチポケモンがランダムに3回選ばれ、選ばれたポケモン全員にも、選ばれた回数×20ダメージ。"
             }
         }],
     weaknesses: [{

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/049",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/049",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/049",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/049"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/049",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/049"
     },
     name: {
         en: "Hisuian Sliggoo",
@@ -21,7 +22,7 @@ const card: Card = {
         "pt-br": "Sliggoo de Hisui",
         "zh-tw": "洗翠黏美兒",
         ko: "히스이 미끄네일",
-        ja: "ヒスイ ヌメイル"
+        ja: "ヒスイヌメイル"
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Una creatura dedita alla malinconia. Sospetto che il suo guscio metallico si sia sviluppato a causa della reazione del muco sulla pelle con il ferro presente nell'acqua di Hisui.",
         de: "Ein Wesen, das zur Melancholie neigt. Ich vermute, dass seine metallische Hülle durch die Reaktion des Schleims auf seiner Haut mit dem Eisen in Hisuis Wasser entstanden ist.",
         "pt-br": "Uma criatura dada à melancolia. Suspeito que sua concha metálica se desenvolveu como resultado da reação do muco de sua pele com o ferro da água de Hisui.",
-        "zh-tw": "一種生來憂鬱的生物。我懷疑它的金屬外殼是由於其皮膚上的粘液與翡翠水中的鐵發生反應而形成的。"
+        "zh-tw": "一種生來憂鬱的生物。我懷疑它的金屬外殼是由於其皮膚上的粘液與翡翠水中的鐵發生反應而形成的。",
+        ja: "陰気な 性質。 ヒスイの地の 水に 含有する 鉄が 皮膚の粘液に 作用し 金属の殻へ 変容させたと 考察す。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Martello",
                 de: "Einhämmern",
                 "pt-br": "Martelada",
-                "zh-tw": "頭突"
+                "zh-tw": "頭突",
+                ja: "ぶちかます"
             },
             damage: 60
         }

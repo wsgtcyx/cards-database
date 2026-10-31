@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/157",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/157",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/157",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/157"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/157",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/157"
     },
     name: {
         en: "Lileep",
@@ -38,7 +39,7 @@ const card: Card = {
         "pt-br": "Fóssil Raiz",
         "zh-tw": "根狀化石",
         ko: "뿌리화석",
-        ja: "ねっこのカセキ"
+        ja: "ねっこの化石"
     },
     stage: "Stage1",
     description: {
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Si attacca alle rocce dei fondali marini e usa\ni tentacoli simili a petali per catturare le prede\nche si avvicinano.",
         de: "Liliep heftet sich an Felsen am Meeresgrund.\nNähert sich Beute, fängt es diese mit seinen\nwie Blütenblätter geformten Tentakeln.",
         "pt-br": "Lileep se agarra às rochas no fundo do mar. Quando a presa se aproxima, este Pokémon a envolve com tentáculos semelhantes apétalas.",
-        "zh-tw": "會吸附在海底的岩石上，\n並用花瓣般的觸手纏住\n接近自己的獵物。"
+        "zh-tw": "會吸附在海底的岩石上，\n並用花瓣般的觸手纏住\n接近自己的獵物。",
+        ja: "海底の 岩に 貼りつき 獲物が 近くにくると 花びらのような 触手で 絡めとる。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Macchia",
                 de: "Fleck",
                 "pt-br": "Borrão",
-                "zh-tw": "吸取一下"
+                "zh-tw": "吸取一下",
+                ja: "ちょっとすいとる"
             },
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "將這隻寶可夢恢復10HP。"
+                "zh-tw": "將這隻寶可夢恢復10HP。",
+                ja: "このポケモンのHPを10回復。"
             },
             damage: 40
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/008",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/008",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/008",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/008",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/008"
     },
     name: {
         en: "Roselia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Roselia",
         de: "Roselia",
         'pt-br': "Roselia",
+        ja: "ロゼリア",
         ko: "로젤리아",
         "zh-tw": "毒薔薇",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Dai suoi fiori si diffonde una fragranza rilassante. Più\nè intenso il suo profumo, più il Pokémon è in salute.",
         de: "Seine Blüten verströmen einen entspannenden Duft.\nJe stärker dieser Duft ist, desto gesünder ist Roselia.",
         'pt-br': "As suas flores exalam uma fragrância relaxante.\nQuanto mais forte for o seu aroma,\nmais saudável será Roselia.",
+        ja: "花の 香りを かぐと 気持ちが リラックスする。 香りの 強い ロゼリアは 元気な 証拠。",
         ko: "꽃향기를 맡으면 기분이\n편안해진다. 향이 강하면\n건강한 로젤리아라는 뜻이다.",
         "zh-tw": "它的花朵散發出令人放鬆的香味。 Roselia 的香氣越濃，就越健康。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Puntura",
                 de: "Einstich",
                 'pt-br': "Ferroada",
+                ja: "チクチクさす",
                 ko: "따끔따끔찌르기",
                 "zh-tw": "蜇"
             },

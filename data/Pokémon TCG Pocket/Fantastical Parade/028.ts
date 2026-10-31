@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/028",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/028",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/028"
     },
     name: {
         en: "Alolan Vulpix",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Vulpix di Alola",
         "de": "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
-        "zh-tw": "阿羅拉六尾"
+        "zh-tw": "阿羅拉六尾",
+        ja: "アローラロコン"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Quando fa caldo, questo Pokémon crea schegge di ghiaccio\ncon le sue sei code e le spruzza intorno per farle raffreddare\nstesso spento.",
         "de": "Bei heißem Wetter bildet dieses Pokémon Eissplitter\nmit seinen sechs Schwänzen und sprüht sie zum Abkühlen herum\nschaltet sich ab.",
         "pt-br": "Em clima quente, este Pokémon produz cacos de gelo\ncom suas seis caudas e espalha-as para esfriar\ndesligado.",
-        "zh-tw": "在炎熱的天氣裡，這只神奇寶貝會製造冰碎片\n用它的六個尾巴噴灑周圍以冷卻\n本身關閉。"
+        "zh-tw": "在炎熱的天氣裡，這只神奇寶貝會製造冰碎片\n用它的六個尾巴噴灑周圍以冷卻\n本身關閉。",
+        ja: "暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Rosicchiare",
                 "de": "Nagen",
                 "pt-br": "Roer",
-                "zh-tw": "啃"
+                "zh-tw": "啃",
+                ja: "かじる"
             },
             damage: 20,
             cost: ["Water"]

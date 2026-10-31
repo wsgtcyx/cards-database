@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/124",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/124",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/124",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/124"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/124",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/124"
     },
     name: {
         en: "Drowzee",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Drowzee",
         de: "Traumato",
         'pt-br': "Drowzee",
+        ja: "スリープ",
         ko: "슬리프",
         "zh-tw": "催眠貘",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Borbottio",
                 de: "Grummeln",
                 'pt-br': "Resmungo",
+                ja: "つぶやく",
                 ko: "중얼거리기",
                 "zh-tw": "咕噥"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Ricorda ogni singolo sogno che mangia.\nMangia raramente i sogni degli adulti,\nperché quelli dei bambini sono più buoni.",
         de: "Es kann sich an jeden gefressenen Traum erinnern.\nDie Träume von Kindern schmecken ihm besser,\nweshalb es die von Erwachsenen nur selten frisst.",
         'pt-br': "Ele lembra cada sonho que come. Raramente\ncome sonhos de adultos, pois os das crianças\nsão mais saborosos.",
+        ja: "食べた夢は 全部 覚えている。 子どもの 夢のほうが 美味しいので めったに 大人の 夢は食べない。",
         ko: "먹어 치운 꿈은 모두 기억하고 있다.\n아이들의 꿈이 맛있기 때문에\n어른들의 꿈은 거의 먹지 않는다.",
         "zh-tw": "它記得牠吃下的每一個夢。它很少吃掉成年人的夢想，因為孩子們的夢想更美味。"
     },

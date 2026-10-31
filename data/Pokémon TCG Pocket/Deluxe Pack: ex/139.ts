@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/139",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/139",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/139",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/139"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/139",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/139"
     },
     name: {
         en: "Zapdos ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Zapdos-ex",
         "pt-br": "Zapdos ex",
         "zh-tw": "閃電鳥ex",
+        ja: "サンダーex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -35,7 +37,8 @@ const card: Card = {
                 "it": "Pecca",
                 "de": "Picken",
                 "pt-br": "Peck",
-                "zh-tw": "啄"
+                "zh-tw": "啄",
+                ja: "つつく"
             },
             damage: 20,
             cost: ["Lightning"]
@@ -47,7 +50,8 @@ const card: Card = {
                 "it": "Uragano tonante",
                 "de": "Donnernder Hurrikan",
                 "pt-br": "Furacão Trovejante",
-                "zh-tw": "雷霆颶風"
+                "zh-tw": "雷霆颶風",
+                ja: "ハリケーンサンダー"
             },
             damage: "50×",
             cost: ["Lightning", "Lightning", "Lightning"],
@@ -58,7 +62,8 @@ const card: Card = {
                 "it": "Lancia 4 monete. Questo attacco infligge 50 danni per ogni testa.",
                 "de": "Wirf 4 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue 4 moedas. Este ataque causa 50 de dano para cada cabeça.",
-                "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
+                "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 50 點傷害。",
+                ja: "コインを4回投げ、オモテの数×50ダメージ。"
             }
         }],
     weaknesses: [{

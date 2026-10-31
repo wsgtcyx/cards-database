@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/021",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/021",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/021",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/021"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/021",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2b/021"
     },
     name: {
         en: "Phione",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Si sposta nei mari caldi. Torna sempre dove è nato, anche se\nsi trova molto lontano.",
         de: "Lässt sich in warmen Meeren treiben, kehrt aber immer\nan den Platz seiner Geburt zurück.",
         "pt-br": "Ele flutua em mares quentes. Ele sempre retorna ao lugar onde nasceu, não importa o quão longe tenha ido.",
-        "zh-tw": "它在溫暖的海洋中漂流。無論漂流多遠，它總會回到它誕生的地方。"
+        "zh-tw": "它在溫暖的海洋中漂流。無論漂流多遠，它總會回到它誕生的地方。",
+        ja: "暖かい 海を 漂っている。 どんな 遠くに 流されても 生まれた 場所に かならず戻る。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Idroturbina",
                 de: "Wasser-Turbo",
                 "pt-br": "Aqua Turbo",
-                "zh-tw": "水流渦輪"
+                "zh-tw": "水流渦輪",
+                ja: "アクアターボ"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Prendi un'Energia {W} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon {W} in panchina.",
                 de: "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner {W}-Pokémon auf deiner Bank an.",
                 "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {W} no Banco.",
-                "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只 {W} 寶可夢上。"
+                "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只 {W} 寶可夢上。",
+                ja: "自分のエネルギーゾーンから{W}エネルギーを1個出し、ベンチの{W}ポケモンにつける。"
             },
             damage: 10
         }

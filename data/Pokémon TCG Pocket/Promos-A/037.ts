@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/037",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/037",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/037",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/037",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/037"
     },
     name: {
         en: "Cresselia ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Cresselia-ex",
         de: "Cresselia-ex",
         'pt-br': "Cresselia ex",
+        ja: "クレセリアex",
         ko: "크레세리아 ex",
         "zh-tw": "克雷色利亞ex",
     },
@@ -37,6 +39,7 @@ const card: Card = {
                 it: "Piumaggio Lunare",
                 de: "Lunargefieder",
                 'pt-br': "Plumagem Lunar",
+                ja: "みかづきのはごろも",
                 ko: "초승달의 날개옷",
                 "zh-tw": "月球羽毛"
             },
@@ -47,6 +50,7 @@ const card: Card = {
                 it: "Ogni volta che assegni un'Energia {P} a questo Pokémon dalla tua Zona Energia, curalo da 20 danni.",
                 de: "Heile jedes Mal, wenn du 1 {P}-Energie aus dem Energiebereich an dieses Pokémon anlegst, 20 Schadenspunkte bei diesem Pokémon.",
                 'pt-br': "Sempre que você ligar uma Energia {P} da sua Zona de Energia a este Pokémon, cure 20 pontos de dano deste Pokémon.",
+                ja: "自分のエネルギーゾーンからこのポケモンに{P}エネルギーをつけるたび、このポケモンのHPを20回復。",
                 ko: "자신의 에너지존에서 이 포켓몬에게 {P}에너지를 붙일 때마다 이 포켓몬의 HP를 20회복.",
                 "zh-tw": "每當你將能量區中的 {P} 能量附加到該神奇寶貝上時，該神奇寶貝就會治療 20 點傷害。"
             }
@@ -59,6 +63,7 @@ const card: Card = {
                 it: "Psicoflash",
                 de: "Psycho-Blitz",
                 'pt-br': "Clarão Psíquico",
+                ja: "サイコフラッシュ",
                 ko: "사이코플래시",
                 "zh-tw": "心靈閃光"
             },

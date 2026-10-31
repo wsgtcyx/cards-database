@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/012",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/012",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/012"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3b/012"
     },
     name: {
         en: "Torracat",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Miezunder",
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
+        ja: "ニャヒート",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Flamiau",
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
+        ja: "ニャビー",
     },
     description: {
         en: "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Torracat lascerà che il suo Allenatore lo coccoli dopo averlo fatto\ncresciuto vicino, ma è potente e dagli artigli affilati\nPokémon, quindi il suo Allenatore si ricopre di graffi.",
         "de": "Torracat lässt sich von seinem Trainer verhätscheln, sobald er es getan hat\nnah herangewachsen, aber es ist ein kräftiger, scharfklauiger Mensch\nPokémon, sodass sein Trainer mit Kratzern übersät ist.",
         "pt-br": "Torracat deixará seu treinador mimá-lo assim que tiver\nse aproximou, mas é um poderoso e com garras afiadas\nPokémon, então seu Treinador fica coberto de arranhões.",
-        "zh-tw": "一旦他們完成任務，托拉貓就會讓訓練師寵愛它\n距離很近，但它是一隻強大的、鋒利的爪子\n神奇寶貝，所以它的訓練師佈滿了划痕。"
+        "zh-tw": "一旦他們完成任務，托拉貓就會讓訓練師寵愛它\n距離很近，但它是一隻強大的、鋒利的爪子\n神奇寶貝，所以它的訓練師佈滿了划痕。",
+        ja: "なつくと トレーナーにも 甘えるが 力は 強く ツメも 鋭い。 全身 傷だらけに されるぞ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo d'artiglio",
                 "de": "Klauenhieb",
                 "pt-br": "Corte de Garra",
-                "zh-tw": "利爪斬"
+                "zh-tw": "利爪斬",
+                ja: "ツメできりさく"
             },
             damage: 50,
             cost: ["Fire", "Colorless"]

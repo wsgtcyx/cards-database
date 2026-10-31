@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/068"
     },
     name: {
         en: "Lycanroc",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Lycanroc",
         de: "Wolwerock",
         'pt-br': "Lycanroc",
+        ja: "ルガルガン",
         ko: "루가루암",
         "zh-tw": "鬃岩狼人",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Rockruff",
         "de": "Wuffels",
         "pt-br": "Rockruff",
-        "zh-tw": "岩狗狗"
+        "zh-tw": "岩狗狗",
+        ja: "イワンコ"
     },
     description: {
         en: "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Caccia la sua preda usando le zanne e gli artigli affilatissimi.\nAscolta fedelmente le indicazioni degli Allenatori di cui si fida.",
         de: "Es greift seine Beute mit scharfen Fangzähnen\nund Krallen an. Vertraut es einem Trainer,\nbefolgt es treu dessen Anweisungen.",
         'pt-br': "Lycanroc ataca suas presas com seus caninos\ne garras afiadas. Obedece lealmente às instruções\nde um Treinador em quem confia.",
+        ja: "鋭い ツメや キバで 獲物を 襲う。 信頼する トレーナーの 指示には 忠実に 従う。",
         ko: "날카로운 발톱과 이빨로 먹이를 공격한다.\n신뢰하는 트레이너의 지시에는\n충실히 따른다.",
         "zh-tw": "狼人用其攻擊獵物\n鋒利的爪子和尖牙。它忠實地服從\n它信任的培訓師的指示。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Sgranocchio",
                 de: "Knirscher",
                 'pt-br': "Mastigada",
+                ja: "かみくだく",
                 ko: "깨물어부수기",
                 "zh-tw": "緊縮"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             }

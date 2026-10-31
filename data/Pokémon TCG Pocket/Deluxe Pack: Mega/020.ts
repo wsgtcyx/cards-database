@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/020",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/020",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/020"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/020"
     },
     name: {
         en: "Durant",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Ihre mächtigen Kiefer können Felsen zerbeißen. Sie rotten sich zu Gruppen zusammen, um ihre Eier vor Sanaconda zu beschützen.",
         "pt-br": "Estes Pokémon conseguem mastigar túneis nas rochas com suas mandíbulas enormes. Trabalham em equipe para proteger seus ovos de Sandaconda.",
         "zh-tw": "巨大的顎部能咬碎岩石。為了不讓沙螺蟒把蛋搶走，會和其他同類一起並肩戰鬥。",
-        ja: "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+        ja: "大きな顎は 岩石をも かみ砕く。 サダイジャから タマゴを 守るため 群れで 戦う。",
         ko: "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
     },
     attacks: [
@@ -58,7 +59,7 @@ const card: Card = {
                 de: "Kollektiver Biss",
                 "pt-br": "Mordida em Bando",
                 "zh-tw": "一起啃食",
-                ja: "Bite Together",
+                ja: "いっしょにかむ",
                 ko: "Bite Together"
             },
             effect: {
@@ -69,7 +70,7 @@ const card: Card = {
                 de: "Wenn sich Fermicula auf deiner Bank befindet, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se Durant estiver no seu Banco, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若自己的備戰區有「鐵蟻」,則增加30點傷害。",
-                ja: "If Durant is on your Bench, this attack does 30 more damage.",
+                ja: "自分のベンチに「アイアント」がいるなら、30ダメージ追加。",
                 ko: "If Durant is on your Bench, this attack does 30 more damage."
             },
             damage: "20+"

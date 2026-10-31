@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/176",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/176",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/176",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/176"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/176",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/176"
     },
     name: {
         en: "Gligar",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Skorgla",
         "pt-br": "Gligar",
         "zh-tw": "天蠍",
+        ja: "グライガー",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Di solito si aggrappa alle scogliere. Quando individua la sua preda,\nallarga le ali e plana per attaccare.",
         "de": "Es haftet normalerweise an Klippen. Wenn es seine Beute entdeckt,\nEs breitet seine Flügel aus und gleitet zum Angriff herab.",
         "pt-br": "Geralmente se agarra a penhascos. Quando avista sua presa,\nele abre as asas e desliza para atacar.",
-        "zh-tw": "它通常緊貼懸崖。當它發現獵物時，\n它展開翅膀並滑翔下來進行攻擊。"
+        "zh-tw": "它通常緊貼懸崖。當它發現獵物時，\n它展開翅膀並滑翔下來進行攻擊。",
+        ja: "いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Scivolare",
                 "de": "Gleiten",
                 "pt-br": "Deslizar",
-                "zh-tw": "滑行"
+                "zh-tw": "滑行",
+                ja: "かっくう"
             },
             damage: 10,
             cost: ["Colorless"]

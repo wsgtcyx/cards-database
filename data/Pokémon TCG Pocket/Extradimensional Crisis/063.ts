@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/063",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/063"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/063",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3a/063"
     },
     name: {
         en: "Beast Wall",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Bestienwand",
         "pt-br": "Muralha de Criatura",
         "zh-tw": "異獸防壁",
+        ja: "ビーストウォール",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Puoi utilizzare questa carta solo se il tuo avversario non ha ottenuto punti.\n\nDurante il prossimo turno del tuo avversario, tutte le tue Ultracreature subiscono -20 danni dagli attacchi dei Pokémon del tuo avversario.",
         "de": "Sie können diese Karte nur verwenden, wenn Ihr Gegner keine Punkte erhalten hat.\n\nWährend des nächsten Zuges deines Gegners erleiden alle deine Ultrabestien −20 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Você só pode usar esta carta se seu oponente não tiver obtido nenhum ponto.\n\nDurante o próximo turno do seu oponente, todas as suas Ultra Beasts sofrerão -20 de dano dos ataques dos Pokémon do seu oponente.",
-        "zh-tw": "只有當你的對手沒有獲得任何分數時你才能使用這張卡。\n\n在你對手的下一個回合中，你所有的究極異獸因對手神奇寶貝的攻擊而受到-20點傷害。"
+        "zh-tw": "只有當你的對手沒有獲得任何分數時你才能使用這張卡。\n\n在你對手的下一個回合中，你所有的究極異獸因對手神奇寶貝的攻擊而受到-20點傷害。",
+        ja: "このカードは、相手がポイントをとっていないときにしか使えない。 次の相手の番、自分の「ウルトラビースト」全員が、相手のポケモンから受けるワザのダメージを-20する。"
     },
     trainerType: "Item"
 };

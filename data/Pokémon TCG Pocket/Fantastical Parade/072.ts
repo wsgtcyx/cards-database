@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/072",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/072",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/072"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/072",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/072"
     },
     name: {
         en: "Gourgeist",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Gourgeist",
         "de": "Pumpdjinn",
         "pt-br": "Gourgeist",
-        "zh-tw": "南瓜怪人"
+        "zh-tw": "南瓜怪人",
+        ja: "パンプジン"
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pumpkaboo",
         "de": "Irrbis",
         "pt-br": "Pumpkaboo",
-        "zh-tw": "南瓜精"
+        "zh-tw": "南瓜精",
+        ja: "バケッチャ"
     },
     description: {
         en: "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Nell'oscurità di una notte di luna nuova, Gourgeist\nverrà a bussare. Chiunque risponda alla porta\nverrà spazzato via nell'aldilà.",
         "de": "In der Dunkelheit einer Neumondnacht, Gourgeist\nwird anklopfen. Wer auch immer die Tür öffnet\nwird ins Jenseits geschwemmt.",
         "pt-br": "Na escuridão de uma noite de lua nova, Gourgeist\nvirá bater. Quem atende a porta\nserá levado para a vida após a morte.",
-        "zh-tw": "在新月之夜的黑暗中，美食家\n會來敲門。誰來開門\n將會被掃到來世。"
+        "zh-tw": "在新月之夜的黑暗中，美食家\n會來敲門。誰來開門\n將會被掃到來世。",
+        ja: "新月の 夜 玄関の ドアを パンプジンが ノックする。 開けた 人を あの世へ 連れて行くのだ。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo dell'anima",
                 "de": "Seelenschuss",
                 "pt-br": "Tiro de alma",
-                "zh-tw": "靈魂射擊"
+                "zh-tw": "靈魂射擊",
+                ja: "ソウルシュート"
             },
             damage: 70,
             cost: ["Psychic"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Scarta una carta dalla tua mano. Se non puoi, questo attacco non ha alcun effetto.",
                 "de": "Wirf eine Karte aus deiner Hand ab. Wenn Sie das nicht können, bewirkt dieser Angriff nichts.",
                 "pt-br": "Descarte uma carta da sua mão. Se não conseguir, este ataque não fará nada.",
-                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。"
+                "zh-tw": "棄掉你手上的一張牌。如果你做不到，那麼這次攻擊就沒有任何作用。",
+                ja: "自分の手札を1枚トラッシュ。トラッシュできないなら、このワザは失敗。"
             }
         }],
     weaknesses: [{

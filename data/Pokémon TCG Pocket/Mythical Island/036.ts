@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/036",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/036",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/036",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/036"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/036",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/036"
     },
     name: {
         en: "Flabébé",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Flabébé",
         de: "Flabébé",
         'pt-br': "Flabébé",
+        ja: "フラベベ",
         ko: "플라베베",
         "zh-tw": "花蓓蓓",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Possiede il dono di estrarre la forza\nnascosta dei fiori che sbocciano nei campi.\nAma in particolar modo i fiori rossi.",
         de: "Dieses Pokémon ist in der Lage, Wildblumen\nihre geheimen Kräfte zu entlocken. Rote\nBlumen haben es ihm besonders angetan.",
         'pt-br': "Este Pokémon é capaz de trazer à tona o poder escondido\nno florescer das flores silvestres. Gosta especialmente de flores vermelhas.",
+        ja: "野に咲く 花の 秘めた 力を 引き出す 能力を 持っている。 とくに 赤い花が 好き。",
         ko: "들판에 핀 꽃에 숨겨진 힘을\n끌어내는 능력을 가지고 있다.\n특히 빨간 꽃을 좋아한다.",
         "zh-tw": "該寶可夢可以引出隱藏在盛開的野花中的力量。它特別喜歡紅色的花。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Ipnosguardo",
                 de: "Hypnotischer Blick",
                 'pt-br': "Olhar Hipnótico",
+                ja: "みつめる",
                 ko: "바라보기",
                 "zh-tw": "催眠凝視"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
                 it: "Il Pokémon attivo del tuo avversario viene addormentato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt schläft.",
+                ja: "相手のバトルポケモンをねむりにする。",
                 ko: "상대의 배틀 포켓몬을 잠듦으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"

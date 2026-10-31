@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/104",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/104",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/104",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/104"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/104",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/104"
     },
     name: {
         en: "Skarmory",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Le penne che perde sono sottili e affilate, e si dice che un tempo fossero usate come spade.",
         de: "Seine ausgefallenen Federn sind dünn und scharf. Es heißt, dass sie einst auch als Schwerter benutzt wurden.",
         "pt-br": "Como as penas que solta são finas e afiadas, as pessoas aparentemente já as usaram como espadas.",
-        "zh-tw": "由於脫落的羽毛又薄\n又銳利，據說以前曾\n被當成劍來使用。"
+        "zh-tw": "由於脫落的羽毛又薄\n又銳利，據說以前曾\n被當成劍來使用。",
+        ja: "抜け落ちた 羽根は 薄く 鋭いので 刀として 使われていたことも あったらしい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Perforare Peck",
                 de: "Drill Peck",
                 "pt-br": "Bico Broca",
-                "zh-tw": "啄鑽"
+                "zh-tw": "啄鑽",
+                ja: "ドリルくちばし"
             },
             damage: 40
         }

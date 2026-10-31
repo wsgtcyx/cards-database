@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/003",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/003",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/003",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/003"
     },
     name: {
         en: "Hand Scope",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Mirino Manuale",
         de: "Handperiskop",
         'pt-br': "Luneta",
+        ja: "ハンドスコープ",
         ko: "핸드스코프",
         "zh-tw": "窺手鏡"
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Il tuo avversario mostra le carte che ha in mano.",
         de: "Dein Gegner zeigt dir seine Handkarten.",
         'pt-br': "Seu oponente revela a mão dele.",
+        ja: "相手の手札のオモテをすべて見る。",
         ko: "상대의 패의 앞면을 모두 본다.",
         "zh-tw": "你的對手亮出了他們的牌。"
     },

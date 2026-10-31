@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/033",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/033",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/033",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/033"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/033",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/033"
     },
     name: {
         en: "Duosion",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Duosion",
         "de": "Mitodos",
         "pt-br": "Duosion",
-        "zh-tw": "雙卵細胞球"
+        "zh-tw": "雙卵細胞球",
+        ja: "ダブラン"
     },
     illustrator: "Pani Kobayashi",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Solosis",
         "de": "Monozyto",
         "pt-br": "Solosis",
-        "zh-tw": "單卵細胞球"
+        "zh-tw": "單卵細胞球",
+        ja: "ユニラン"
     },
     description: {
         en: "Its brain has split into two, and the two\nhalves rarely think alike. Its actions are\nutterly unpredictable.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Il suo cervello si è diviso in due, e i due\nle metà raramente pensano allo stesso modo. Le sue azioni sono\nassolutamente imprevedibile.",
         "de": "Sein Gehirn hat sich in zwei Teile gespalten, und zwar in die beiden\nHälften denken selten gleich. Seine Aktionen sind\nvöllig unvorhersehbar.",
         "pt-br": "Seu cérebro se dividiu em dois, e os dois\nmetades raramente pensam da mesma forma. Suas ações são\ntotalmente imprevisível.",
-        "zh-tw": "它的大腦一分為二，而這兩個\n一半的人很少有相同的想法。其動作是\n完全無法預測。"
+        "zh-tw": "它的大腦一分為二，而這兩個\n一半的人很少有相同的想法。其動作是\n完全無法預測。",
+        ja: "分裂した ２つの 脳みその 考えは ほぼ 一致せず まるで 行動が 読めない。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Psicocolpo",
                 "de": "Psyshot",
                 "pt-br": "Psyshot",
-                "zh-tw": "心理射擊"
+                "zh-tw": "心理射擊",
+                ja: "サイコショット"
             },
             damage: 50,
             cost: ["Psychic", "Colorless"]

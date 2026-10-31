@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/050",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/050",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/050",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/050"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/050",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/050"
     },
     name: {
         en: "Armarouge ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Knarbon",
         "pt-br": "Charcadet",
         "zh-tw": "炭小侍",
-        ja: "Charcadet",
+        ja: "カルボウ",
         ko: "Charcadet"
     },
     stage: "Stage1",
@@ -56,7 +57,7 @@ const card: Card = {
                 de: "Rüstung",
                 "pt-br": "Armadura",
                 "zh-tw": "裝甲",
-                ja: "Armor",
+                ja: "そうこう",
                 ko: "Armor"
             },
             effect: {
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Diesem Pokémon werden durch Attacken -30 Schadenspunkte zugefügt.",
                 "pt-br": "Este Pokémon recebe −30 pontos de dano de ataques.",
                 "zh-tw": "這隻寶可夢受到招式的傷害-30點。",
-                ja: "This Pokémon takes −30 damage from attacks.",
+                ja: "このポケモンが受けるワザのダメージを-30する。",
                 ko: "This Pokémon takes −30 damage from attacks."
             }
         }
@@ -87,7 +88,7 @@ const card: Card = {
                 de: "Rüstungskanone",
                 "pt-br": "Canhão de Armadura",
                 "zh-tw": "鎧農炮",
-                ja: "Armor Cannon",
+                ja: "アーマーキャノン",
                 ko: "Armor Cannon"
             },
             effect: {
@@ -98,7 +99,7 @@ const card: Card = {
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
-                ja: "Discard a {R} Energy from this Pokémon.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "Discard a {R} Energy from this Pokémon."
             },
             damage: 120

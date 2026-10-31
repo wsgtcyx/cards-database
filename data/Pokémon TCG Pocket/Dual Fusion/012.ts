@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/012",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/012",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/012",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/012"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/012",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/012"
     },
     name: {
         en: "Amoonguss",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Tarnpignon",
         "pt-br": "Foongus",
         "zh-tw": "哎呀球菇",
-        ja: "Foongus",
+        ja: "タマゲタケ",
         ko: "Foongus"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Erstauner",
                 "pt-br": "Abismar",
                 "zh-tw": "驚嚇",
-                ja: "Astonish",
+                ja: "おどろかす",
                 ko: "Astonish"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Schau dir 1 zufällige Karte aus der Hand deines Gegners an und mische sie in sein Deck.",
                 "pt-br": "Olhe 1 carta aleatória da mão do seu oponente e a embaralhe no baralho dele.",
                 "zh-tw": "從對手的手牌隨機查看1張卡的正面後,放回牌庫。",
-                ja: "Look at a random card from your opponent's hand and shuffle it into their deck.",
+                ja: "相手の手札からランダムに1枚、オモテを見て、山札にもどす。",
                 ko: "Look at a random card from your opponent's hand and shuffle it into their deck."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Vorsicht vor den Giftsporen, die Hutsassa versprüht! Wo auch immer diese landen, wachsen Pilze, die seinen Hüten ähneln.",
         "pt-br": "Tenha cuidado com os esporos venenosos que este Pokémon libera. Cogumelos semelhantes aos capuzes de Amoonguss crescerão em qualquer lugar que os esporos tocarem.",
         "zh-tw": "小心牠噴出的孢子。因為被噴到的地方會長出蘑菇，形狀像是敗露球菇的菌傘。",
-        ja: "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss’s caps will grow out of anywhere the spores touch.",
+        ja: "吹き出す 毒の胞子に 注意。 浴びた 部分から モロバレルの カサに 似た キノコが 生えてくる。",
         ko: "Be wary of the poisonous spores it releases. Mushrooms resembling Amoonguss’s caps will grow out of anywhere the spores touch."
     }
 };

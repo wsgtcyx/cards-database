@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/028",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/028",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/028",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/028"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/028",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/028"
     },
     name: {
         en: "Ralts",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "È molto sensibile agli umori delle persone e\ndegli altri Pokémon. Se avverte ostilità, va a\nnascondersi.",
         de: "Es hat ein feines Gespür für die Gefühle der\nMenschen und Pokémon. Wenn es Feindseligkeit\nwahrnimmt, versteckt es sich.",
         "pt-br": "Está altamente sintonizado com as emoções das pessoas e dos Pokémon. Ele se esconde se sentir hostilidade.",
-        "zh-tw": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。"
+        "zh-tw": "能敏銳地感知人和寶可夢\n的感情。一旦感受到敵意\n就會躲進暗處。",
+        ja: "人や ポケモンの 感情を 敏感に キャッチ。敵意を 感じると 物陰に 隠れる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Assorbibacio",
                 de: "Diebeskuss",
                 "pt-br": "Beijo Drenante",
-                "zh-tw": "吸取之吻"
+                "zh-tw": "吸取之吻",
+                ja: "ドレインキッス"
             },
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該寶可夢造成的 10 點傷害。"
+                "zh-tw": "治療該寶可夢造成的 10 點傷害。",
+                ja: "このポケモンのHPを10回復。"
             },
             damage: 10
         }

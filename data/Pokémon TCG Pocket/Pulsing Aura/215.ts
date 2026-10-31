@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/215",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/215",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/215",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/215"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/215",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/215"
     },
     name: {
         en: "Grimer",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Prospera in zone paludose. Cresce nutrendosi dei\nliquami di scarico delle fabbriche.",
         de: "Dieses Pokémon lebt vorwiegend in schmutzigen\nGebieten und ernährt sich von Industrieabfällen.",
         "pt-br": "Aparece em áreas sujas. Ela prospera sugando o lodo poluído que é bombeado para fora das fábricas.",
-        "zh-tw": "出現在骯髒的地方。它透過吸收從工廠抽出的污染污泥而茁壯成長。"
+        "zh-tw": "出現在骯髒的地方。它透過吸收從工廠抽出的污染污泥而茁壯成長。",
+        ja: "汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fangobomba",
                 de: "Matschbombe",
                 "pt-br": "Bomba de Lodo",
-                "zh-tw": "污泥炸彈"
+                "zh-tw": "污泥炸彈",
+                ja: "ヘドロばくだん"
             },
             damage: 40
         }

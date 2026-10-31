@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/137",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/137",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/137",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/137"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/137",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/137"
     },
     name: {
         en: "Terrakion",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Terrakium",
         "pt-br": "Terrakion",
         "zh-tw": "代拉基翁",
+        ja: "テラキオン",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ha un potere fenomenale. Lo schiaccerà senza pietà\nchiunque o qualunque cosa faccia il prepotente contro i Pokémon piccoli.",
         "de": "Es hat eine phänomenale Kraft. Es wird gnadenlos zermalmen\nirgendjemand oder irgendetwas, das kleine Pokémon schikaniert.",
         "pt-br": "Tem um poder fenomenal. Ele irá esmagar impiedosamente\nqualquer pessoa ou qualquer coisa que intimide pequenos Pokémon.",
-        "zh-tw": "它具有驚人的力量。它將無情地碾壓\n任何欺負小神奇寶貝的人或事物。"
+        "zh-tw": "它具有驚人的力量。它將無情地碾壓\n任何欺負小神奇寶貝的人或事物。",
+        ja: "けた外れの パワーの 持ち主。 小さな ポケモンを いじめる 相手は とことん 叩きのめす。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spada Sacra",
                 "de": "Heiliges Schwert",
                 "pt-br": "Espada Sagrada",
-                "zh-tw": "聖劍"
+                "zh-tw": "聖劍",
+                ja: "せいなるつるぎ"
             },
             damage: 110,
             cost: ["Fighting", "Fighting", "Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Durante il tuo prossimo turno, questo Pokémon non può usare la Spada Sacra.",
                 "de": "Während deines nächsten Zuges kann dieses Pokémon Sacred Sword nicht verwenden.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá usar Sacred Sword.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。"
+                "zh-tw": "在你的下一個回合中，這只神奇寶貝不能使用聖劍。",
+                ja: "次の自分の番、このポケモンは「せいなるつるぎ」が使えない。"
             }
         }],
     weaknesses: [{

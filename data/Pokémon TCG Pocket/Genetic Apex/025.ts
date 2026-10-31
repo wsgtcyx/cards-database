@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/025",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/025",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/025",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/025"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/025",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/025"
     },
     name: {
         en: "Scyther",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Scyther",
         de: "Sichlor",
         'pt-br': "Scyther",
+        ja: "ストライク",
         ko: "스라크",
         "zh-tw": "飛天螳螂",
     },
@@ -35,6 +37,7 @@ const card: Card = {
                 it: "Falcetagliente",
                 de: "Scharfe Sense",
                 'pt-br': "Foice Afiada",
+                ja: "するどいカマ",
                 ko: "날카로운낫",
                 "zh-tw": "鋒利的鐮刀"
             },
@@ -53,6 +56,7 @@ const card: Card = {
         it: "Si fa strada tra l'erba grazie alle\nlame affilate, muovendosi troppo\nvelocemente per l'occhio umano.",
         de: "Es bahnt sich mit seinen scharfen Sicheln so\nschnell einen Weg durch das Gras, dass es dabei\nfür das menschliche Auge unsichtbar ist.",
         'pt-br': "Corta a grama com suas foices afiadas\ne se move tão rápido que o olho humano\nnão consegue enxergá-lo.",
+        ja: "切れ味 鋭い カマを 使って 草むらを 切り進む。あまりに 速い 動きで 目が 追いつかない。",
         ko: "아주 예리한 낫을 이용해\n풀숲을 베며 나아간다.\n매우 빠른 움직임에 눈이 따라가지 못한다.",
         "zh-tw": "它用鋒利的鐮刀砍伐草地，移動速度太快，人眼無法追踪。"
     },

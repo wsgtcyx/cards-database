@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/017",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/017",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/017"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/017"
     },
     name: {
         en: "Whimsicott ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Waumboll",
         "pt-br": "Cottonee",
         "zh-tw": "木棉球",
-        ja: "Cottonee",
+        ja: "モンメン",
         ko: "Cottonee"
     },
     stage: "Stage1",
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Strauchler",
                 "pt-br": "Nó de Grama",
                 "zh-tw": "打草結",
-                ja: "Grass Knot",
+                ja: "くさむすび",
                 ko: "Grass Knot"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jede Energie in den Rückzugskosten des Aktiven Pokémon deines Gegners 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente.",
                 "zh-tw": "增加對手的戰鬥寶可夢撤退所需的能量的數量×30點傷害。",
-                ja: "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",
+                ja: "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。",
                 ko: "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
             },
             damage: "40+"

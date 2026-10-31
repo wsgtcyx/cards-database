@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/177",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/177",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/177",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/177"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/177",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/177"
     },
     name: {
         en: "Weezing",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Weezing",
         de: "Smogmog",
         'pt-br': "Weezing",
+        ja: "マタドガス",
         ko: "또도가스",
         "zh-tw": "雙彈瓦斯",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Koffing",
         "de": "Smogon",
         "pt-br": "Koffing",
-        "zh-tw": "瓦斯彈"
+        "zh-tw": "瓦斯彈",
+        ja: "ドガース"
     },
     abilities: [{
             type: "Ability",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Fuga di Gas",
                 de: "Gasleck",
                 'pt-br': "Vazamento de Gás",
+                ja: "もれだすガス",
                 ko: "새어나가는 가스",
                 "zh-tw": "煤氣洩漏"
             },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, se questo Pokémon è in posizione attiva, puoi lasciare il Pokémon attivo del tuo avversario avvelenato.",
                 de: "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du entscheiden, ob das Aktive Pokémon deines Gegners nun vergiftet ist.",
                 'pt-br': "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá deixar o Pokémon Ativo do seu oponente Envenenado.",
+                ja: "このポケモンがバトル場にいるなら、自分の番に1回使える。相手のバトルポケモンをどくにする。",
                 ko: "이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 상대의 배틀 포켓몬을 독으로 만든다.",
                 "zh-tw": "在你的回合中，如果這只神奇寶貝位於活躍位置，你可以使對手的活躍神奇寶貝中毒。"
             }
@@ -67,6 +72,7 @@ const card: Card = {
                 it: "Azione",
                 de: "Tackle",
                 'pt-br': "Investida",
+                ja: "たいあたり",
                 ko: "몸통박치기",
                 "zh-tw": "處理"
             },
@@ -85,6 +91,7 @@ const card: Card = {
         it: "Se un gemello Koffing si sgonfia, l'altro si gonfia.\nI gas velenosi dei due si mischiano continuamente.",
         de: "Pumpt sich eines der zwei Smogon auf, lässt das\nandere Luft ab. So findet ein Giftgasaustausch statt.",
         'pt-br': "Se um dos gêmeos Koffing inflar, o outro\nesvazia, misturando constantemente\nseus gases venenosos.",
+        ja: "どちらかが ふくらむと 片方は しぼむ 双子の ドガース。いつも 体内の 毒ガスを 混ぜている。",
         ko: "한쪽이 부풀어 오르면 다른 한쪽은\n오그라드는 쌍둥이 또가스. 항상\n체내의 독가스를 섞고 있다.",
         "zh-tw": "如果雙胞胎 Koffing 中的一個膨脹，另一個就會收縮。它不斷地混合有毒氣體。"
     },

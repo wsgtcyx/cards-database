@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/199",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/199",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/199",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/199",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/199"
     },
     name: {
         en: "Patrat",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Nagelotz",
         "pt-br": "Patrat",
         "zh-tw": "探探鼠",
+        ja: "ミネズミ",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Estremamente cauto, uno di loro sarà sempre attivo\nla vedetta, ma non si accorgerà dell'arrivo del nemico\nda dietro.",
         "de": "Äußerst vorsichtig, einer von ihnen wird immer eingeschaltet sein\nder Ausguck, aber er wird nicht bemerken, dass ein Feind kommt\nvon hinten.",
         "pt-br": "Extremamente cauteloso, um deles estará sempre ligado\no vigia, mas não notará um inimigo chegando\npor trás.",
-        "zh-tw": "極其謹慎，其中之一將始終處於開啟狀態\n瞭望者，但它不會注意到敵人的到來\n從後面。"
+        "zh-tw": "極其謹慎，其中之一將始終處於開啟狀態\n瞭望者，但它不會注意到敵人的到來\n從後面。",
+        ja: "警戒心が 強く かならず １匹は 見張りを しているのだが 後ろからの 敵には 気づかない。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Morso",
                 "de": "Beißen",
                 "pt-br": "Morder",
-                "zh-tw": "咬"
+                "zh-tw": "咬",
+                ja: "かみつく"
             },
             damage: 20,
             cost: ["Colorless"]

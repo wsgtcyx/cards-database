@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/219",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/219",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/219",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/219"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/219",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/219"
     },
     name: {
         en: "Heavy Helmet",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Schwerer Helm",
         "pt-br": "Capacete Compacto",
         "zh-tw": "沉重頭盔",
+        ja: "ヘビーメット",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",
@@ -30,7 +32,8 @@ const card: Card = {
         "it": "Se il Pokémon a cui è assegnata questa carta ha un costo di ritirata pari o superiore a 3, subisce -20 danni dagli attacchi dei Pokémon del tuo avversario.",
         "de": "Wenn das Pokémon, an das diese Karte angelegt ist, Rückzugskosten von 3 oder mehr hat, erleidet es −20 Schaden durch Angriffe der Pokémon deines Gegners.",
         "pt-br": "Se o Pokémon ao qual esta carta está ligada tiver um Custo de Recuo igual ou superior a 3, ele sofre -20 de dano dos ataques dos Pokémon do seu oponente.",
-        "zh-tw": "這張卡所附著的寶可夢的撤退費用為3以上的場合，對方寶可夢的攻擊造成-20點傷害。"
+        "zh-tw": "這張卡所附著的寶可夢的撤退費用為3以上的場合，對方寶可夢的攻擊造成-20點傷害。",
+        ja: "このカードをつけているにげるためのエネルギーが3個以上のポケモンが、相手のポケモンから受けるワザのダメージを-20する。"
     },
     trainerType: "Tool"
 };

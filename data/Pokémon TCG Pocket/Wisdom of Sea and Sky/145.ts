@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/145",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/145",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/145"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/145",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/145"
     },
     name: {
         en: "Teddiursa",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Teddiursa",
         "pt-br": "Teddiursa",
         "zh-tw": "熊寶寶",
+        ja: "ヒメグマ",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Le sue zampe sono inzuppate in una gran quantità di miele. Quando\nnervoso, Teddiursa si leccherà le zampe e presto\navere di nuovo il sorriso sulle labbra.",
         "de": "Seine Pfoten sind in Unmengen Honig getränkt. Wann\nnervös, Teddiursa wird sich bald die Pfoten lecken\nwieder ein Lächeln im Gesicht haben.",
         "pt-br": "Suas patas estão encharcadas de muito mel. Quando\nnervoso, Teddiursa lamberá as patas e logo\ntenha um sorriso de volta no rosto.",
-        "zh-tw": "它的爪子浸滿了蜂蜜。當\n緊張時，泰迪烏薩會舔它的爪子，很快\n臉上重新露出笑容。"
+        "zh-tw": "它的爪子浸滿了蜂蜜。當\n緊張時，泰迪烏薩會舔它的爪子，很快\n臉上重新露出笑容。",
+        ja: "手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Spuntino al miele",
                 "de": "Honigsnack",
                 "pt-br": "Lanche de mel",
-                "zh-tw": "蜂蜜零食"
+                "zh-tw": "蜂蜜零食",
+                ja: "みつをなめる"
             },
             cost: ["Colorless"],
             effect: {
@@ -53,7 +57,8 @@ const card: Card = {
                 "it": "Cura questo Pokémon da 20 danni.",
                 "de": "Heile 20 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 20 de dano deste Pokémon.",
-                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。"
+                "zh-tw": "治療該神奇寶貝造成的 20 點傷害。",
+                ja: "このポケモンのHPを20回復。"
             }
         }],
     weaknesses: [{

@@ -9,7 +9,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/108",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/108",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/108",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/108"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/108"
     },
     name: {
         en: "Metagross",
@@ -47,7 +48,8 @@ const card: Card = {
         it: "Blocca la preda al suolo con le quattro zampe\nartigliate e il corpo massiccio, poi la divora con i\ndenti sulla pancia.",
         de: "Mit seinen spitzen Beinkrallen und dem massigen\nKörper drückt es seine Beute zu Boden und\nzerkaut sie dann mit seinen Zähnen am Bauch.",
         "pt-br": "Imobiliza suas presas com suas quatro garras e o corpo grandioso. Em seguida, usa a boca em seu estômago para mastigar a presa em pedacinhos.",
-        "zh-tw": "用４隻爪子和龐大的身體\n牢牢地按住獵物後，\n用腹部的牙齒嚼食。"
+        "zh-tw": "用４隻爪子和龐大的身體\n牢牢地按住獵物後，\n用腹部的牙齒嚼食。",
+        ja: "４つの ツメと 大きな 身体で 獲物を しっかり 押さえつけると お腹の 歯で バリバリ かじる。"
     },
     attacks: [
         {
@@ -59,7 +61,8 @@ const card: Card = {
                 "pt-br": "Ataque Alinhado",
                 "zh-tw": "宏偉十字擊",
                 "it": "Attacco Squadrato",
-                "de": "Vierkantattacke"
+                "de": "Vierkantattacke",
+                ja: "グランドクロス"
             },
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",
@@ -68,7 +71,8 @@ const card: Card = {
                 it: "Lancia 4 monete. Questo attacco infligge 50 danni per ogni testa.",
                 de: "Wirf 4 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
                 "pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
-                "zh-tw": "擲4次硬幣,造成正面出現的次數×50點傷害。"
+                "zh-tw": "擲4次硬幣,造成正面出現的次數×50點傷害。",
+                ja: "コインを4回投げ、オモテの数×50ダメージ。"
             },
             damage: "50x"
         }

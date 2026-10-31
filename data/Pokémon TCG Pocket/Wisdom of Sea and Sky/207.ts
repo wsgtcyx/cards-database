@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/207",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/207",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/207",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/207"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/207",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4/207"
     },
     name: {
         en: "Crobat ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Iksbat-ex",
         "pt-br": "Crobat ex",
         "zh-tw": "叉字蝠ex",
+        ja: "クロバットex",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Star",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Golbat",
         "de": "Golbat",
         "pt-br": "Golbat",
-        "zh-tw": "大嘴蝠"
+        "zh-tw": "大嘴蝠",
+        ja: "ゴルバット"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Taglio velenoso",
                 "de": "Giftiger Hieb",
                 "pt-br": "Corte Venenoso",
-                "zh-tw": "劇毒斬"
+                "zh-tw": "劇毒斬",
+                ja: "ベノムスラッシュ"
             },
             damage: 70,
             cost: ["Darkness"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Il Pokémon attivo del tuo avversario ora è avvelenato.",
                 "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+                "zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+                ja: "相手のバトルポケモンをどくにする。"
             }
         }],
     weaknesses: [{

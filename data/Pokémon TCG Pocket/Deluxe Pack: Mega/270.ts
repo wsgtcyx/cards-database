@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/270",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/270",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/270",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/270"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/270",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/270"
     },
     name: {
         en: "Skeledirge",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Lokroko",
         "pt-br": "Crocalor",
         "zh-tw": "炙燙鱷",
-        ja: "Crocalor",
+        ja: "アチゲータ",
         ko: "Crocalor"
     },
     description: {
@@ -52,7 +53,7 @@ const card: Card = {
         de: "Sein sanfter Gesang beruhigt die Seelen all derer, die ihm lauschen. Feinde verbrennt es mit 3000 °C heißen Flammen zu Asche.",
         "pt-br": "O canto delicado de Skeledirge acalma o âmago de todos que o ouvem. Torra os inimigos com chamas de mais de 3.000 °C.",
         "zh-tw": "溫柔的歌聲能療癒聽者的靈魂。會使用3000度的火焰將敵人燒成灰燼。",
-        ja: "Skeledirge's gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit.",
+        ja: "優しい 歌声は 聴いた者の 魂を 癒す。 ３０００度の 炎で 敵を 焼き尽くす。",
         ko: "Skeledirge's gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
     },
     stage: "Stage2",
@@ -67,7 +68,7 @@ const card: Card = {
                 de: "Feurige Stimme",
                 "pt-br": "Voz Apaixonada",
                 "zh-tw": "熱情歌聲",
-                ja: "Passionate Voice",
+                ja: "パッションボイス",
                 ko: "Passionate Voice"
             },
             effect: {
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Einmal während deines Zuges kannst du 1 {R}-Energie von diesem Pokémon ablegen, um diese Fähigkeit einzusetzen. Während dieses Zuges fügen Attacken deiner {R}-Pokémon dem Aktiven Pokémon deines Gegners +50 Schadenspunkte zu.",
                 "pt-br": "Uma vez durante o seu turno, você poderá descartar 1 Energia {R} deste Pokémon para usar esta Habilidade. Durante este turno, os ataques usados pelos seus Pokémon {R} causam +50 pontos de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在自己的回合,若將這隻寶可夢身上的1個{R}能量丟棄,則可使用1次。在這個回合,自己的{R}寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+50點。",
-                ja: "Once during your turn, you may discard 1 {R} Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your {R} Pokémon do +50 damage to your opponent's Active Pokémon.",
+                ja: "自分の番に、このポケモンから{R}エネルギーを1個トラッシュするなら、1回使える。この番、自分の{R}ポケモンが使うワザの、相手のバトルポケモンへのダメージを+50する。",
                 ko: "Once during your turn, you may discard 1 {R} Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your {R} Pokémon do +50 damage to your opponent's Active Pokémon."
             }
         }
@@ -95,7 +96,7 @@ const card: Card = {
                 "zh-tw": "高溫重壓",
                 pt: "Choque de Calor",
                 "es-mx": "Golpe de Calor",
-                ja: "Heat Crash",
+                ja: "ヒートスタンプ",
                 ko: "Heat Crash"
             },
             damage: 70,

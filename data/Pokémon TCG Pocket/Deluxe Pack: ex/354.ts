@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/354",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/354",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/354",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/354"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/354",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/354"
 	},
 	name: {
         en: "Floragato",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Feliospa",
         "pt-br": "Floragato",
         "zh-tw": "蒂蕾喵",
+        ja: "ニャローテ",
     },
     illustrator: "Kariya",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Felori",
         "pt-br": "Sprigatito",
         "zh-tw": "新葉喵",
+        ja: "ニャオハ",
     },
     description: {
         en: "Floragato deftly wields the vine hidden beneath\nits long fur, slamming the hard flower bud against\nits opponents.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Floragato brandisce abilmente la vite nascosta sotto\nla sua lunga pelliccia, che sbatte contro il duro bocciolo del fiore\ni suoi avversari.",
         "de": "Floragato schwingt geschickt die darunter verborgene Rebe\nSein langes Fell schlägt gegen die harte Blütenknospe\nseine Gegner.",
         "pt-br": "Floragato maneja habilmente a videira escondida abaixo\nseu longo pêlo, batendo o duro botão da flor contra\nseus adversários.",
-        "zh-tw": "Floragato 巧妙地運用隱藏在下面的藤蔓\n它長長的毛皮，猛烈地撞擊著堅硬的花蕾\n它的對手。"
+        "zh-tw": "Floragato 巧妙地運用隱藏在下面的藤蔓\n它長長的毛皮，猛烈地撞擊著堅硬的花蕾\n它的對手。",
+        ja: "長い 体毛の下に 隠した ツタを 器用に 操り 硬い つぼみを 敵に 叩きつける。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Barra",
                 "de": "Schrägstrich",
                 "pt-br": "Barra",
-                "zh-tw": "削減"
+                "zh-tw": "削減",
+                ja: "きりさく"
             },
             damage: 40,
             cost: ["Grass", "Grass"]

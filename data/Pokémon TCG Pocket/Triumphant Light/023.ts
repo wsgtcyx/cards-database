@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/023",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/023",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/023"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/023",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2a/023"
     },
     name: {
         en: "Origin Forme Palkia",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Palkia Forma Originale",
         de: "Ur-Palkia",
         'pt-br': "Palkia Forma Origem",
+        ja: "オリジンパルキア",
         ko: "오리진펄기아",
         "zh-tw": "起源帕路奇亞",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Vederlo solcare i cieli mi riporta alla mente l'entità\ncreatrice. Che, imitandone la forma, stia forse\ncercando di impadronirsi del suo potere?",
         de: "Dem Schöpfer aller Dinge gleich gleitet es über das\nHimmelszelt. Womöglich gebärdet es sich auf diese Weise,\num sich die Macht der Schöpfergottheit zu eigen zu machen.",
         'pt-br': "Dispara pelos céus com uma forma que se assemelha\nmuito ao criador de todas as coisas. Pode ser que essa\nimitação de aparência de Palkia seja uma estratégia\npara conquistar os poderes de Arceus.",
+        ja: "天翔ける姿 万物を 創りし 存在を 想起す。 姿を 模すこと すなわち その力を 我がものとする術と 推察。",
         ko: "하늘을 나는 모습은 만물의 창조주를 연상케한다.\n창조주의 모습을 흉내 냄으로써\n그 힘을 자신의 것으로 만들었다고 추측된다.",
         "zh-tw": "它翱翔在天空，其形態酷似萬物的創造者。也許這種模仿外表的行為就是帕路奇犽為了獲得阿爾宙斯力量而採取的策略。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Urto Spaziale",
                 de: "Zonenbruch",
                 'pt-br': "Zona de Colisão",
+                ja: "ゾーンブレイク",
                 ko: "존브레이크",
                 "zh-tw": "區域粉碎"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 60 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、60ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 60데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 60 點額外傷害。"
             }

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/232",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/232",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/232",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/232"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/232",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/232"
 	},
 	name: {
 		en: "Crobat ex",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Crobat-ex",
 		de: "Iksbat-ex",
 		"pt-br": "Crobat ex",
-		"zh-tw": "叉字蝠ex"
+		"zh-tw": "叉字蝠ex",
+		ja: "クロバットex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",
@@ -33,7 +35,8 @@ const card: Card = {
 		it: "Golbat",
 		de: "Golbat",
 		"pt-br": "Golbat",
-		"zh-tw": "大嘴蝠"
+		"zh-tw": "大嘴蝠",
+		ja: "ゴルバット"
 	},
 	stage: "Stage2",
 	suffix: "EX",
@@ -46,7 +49,8 @@ const card: Card = {
 				it: "Taglio velenoso",
 				de: "Giftiger Hieb",
 				"pt-br": "Corte Venenoso",
-				"zh-tw": "劇毒斬"
+				"zh-tw": "劇毒斬",
+				ja: "ベノムスラッシュ"
 			},
 			damage: 70,
 			cost: ["Darkness"],
@@ -57,7 +61,8 @@ const card: Card = {
 				it: "Il Pokémon attivo del tuo avversario ora è avvelenato.",
 				de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
 				"pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado.",
-				"zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+				"zh-tw": "你對手的主動神奇寶貝現在中毒了。",
+				ja: "相手のバトルポケモンをどくにする。"
 			}
 		}
 	],

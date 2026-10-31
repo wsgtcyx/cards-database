@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/118",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/118",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/118",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/118",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/118"
     },
     name: {
         en: "Alolan Dugtrio",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Dugtrio di Alola",
         de: "Alola-Digdri",
         'pt-br': "Dugtrio de Alola",
+        ja: "アローラダグトリオ",
         ko: "알로라닥트리오",
         "zh-tw": "阿羅拉三地鼠",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Alola-Digda",
         "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
+        ja: "アローラディグダ",
     },
     description: {
         en: "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Oltre a proteggerlo come un casco, le sue meravigliose\nchiome metalliche fungono da sensori estremamente precisi.",
         de: "Seine prächtigen, metallischen Haare schützen seine\nKöpfe wie ein Helm. Gleichzeitig dienen sie ihm als\npräzise Sensoren.",
         'pt-br': "Os belíssimos bigodes metálicos deste Pokémon criam\num tipo de capacete protetivo em sua cabeça. Além disso,\nfuncionam como sensores extremamente precisos.",
+        ja: "美しい 金属質の ひげは ヘルメットのように 頭を 保護し かつ 高度な センサーでもある。",
         ko: "아름다운 금속질의 수염은\n헬멧처럼 머리를 보호하는 동시에\n고성능 센서이기도 하다.",
         "zh-tw": "它們美麗的金屬鬍鬚在頭上形成了一種防護頭盔，而且它們還充當高精度傳感器。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Metaltestata",
                 de: "Eisenschädel",
                 'pt-br': "Cabeça de Ferro",
+                ja: "アイアンヘッド",
                 ko: "아이언헤드",
                 "zh-tw": "鐵頭"
             },
@@ -66,6 +71,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 70 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 70 Schadenspunkte pro Kopf zu.",
                 'pt-br': "Jogue uma moeda até sair coroa. Este ataque causa 70 pontos de dano para cada cara.",
+                ja: "ウラが出るまでコインを投げ、オモテの数×70ダメージ。",
                 ko: "뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 70데미지를 준다.",
                 "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 70 點傷害。"
             }

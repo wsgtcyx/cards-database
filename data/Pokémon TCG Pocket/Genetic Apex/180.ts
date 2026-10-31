@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/180",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/180",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/180",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/180"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/180",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1/180"
     },
     name: {
         en: "Bisharp",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Bisharp",
         de: "Caesurio",
         'pt-br': "Bisharp",
+        ja: "キリキザン",
         ko: "절각참",
         "zh-tw": "劈斬司令",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Pawniard",
         "de": "Gladiantri",
         "pt-br": "Pawniard",
-        "zh-tw": "駒刀小兵"
+        "zh-tw": "駒刀小兵",
+        ja: "コマタナ"
     },
     attacks: [{
             cost: ["Metal", "Metal"],
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Ferrartigli",
                 de: "Metallklaue",
                 'pt-br': "Garra de Metal",
+                ja: "メタルクロー",
                 ko: "메탈클로",
                 "zh-tw": "金屬爪"
             },
@@ -62,6 +66,7 @@ const card: Card = {
         it: "Comanda dei gruppi di Pawniard. I gruppi\nche risultano perdenti nelle lotte per il\nterritorio vengono assorbiti dai vincitori.",
         de: "Es dient als Anführer einer Schar Gladiantri.\nNach Revierkämpfen werden die Verlierer in\ndie Gewinnerschar assimiliert.",
         'pt-br': "Este Pokémon lidera um grupo de Pawniard.\nOs grupos que são derrotados em disputas\nterritoriais são incorporados ao lado vencedor.",
+        ja: "コマタナを 率いて 群れを 成す。 縄張りを 賭けて 争い 負けた 群れは 吸収されていくのだ。",
         ko: "자망칼을 거느리며 무리를 만든다.\n영역을 건 싸움에서 진 무리는\n이긴 쪽에 흡수된다.",
         "zh-tw": "這只神奇寶貝指揮著一群由數名典當者組成的隊伍。在領土爭端中失敗的群體會被獲勝方吸收。"
     },

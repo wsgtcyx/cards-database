@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/004",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/004",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/004",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/004"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/004",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/004"
     },
     name: {
         en: "Slither Wing",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Questo Pokémon ricorda in qualche modo un'antica forma di Volcarona introdotta in una rivista dubbia.",
         de: "Dieses Pokémon ähnelt ein wenig einer alten Form von Ramoth, die in einer dubiosen Zeitschrift vorgestellt wurde.",
         "pt-br": "Este Pokémon lembra um pouco uma forma antiga de Volcarona que foi introduzida em uma revista duvidosa.",
-        "zh-tw": "這個寶可夢有點像是可疑雜誌中介紹的 火神蛾 的古老形式。"
+        "zh-tw": "這個寶可夢有點像是可疑雜誌中介紹的 火神蛾 的古老形式。",
+        ja: "怪しい 雑誌が 紹介した ウルガモスの 太古の 姿と 若干 似ている ポケモンだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Contorcersi selvaggiamente",
                 de: "Wild winden",
                 "pt-br": "Contorcer-se descontroladamente",
-                "zh-tw": "劇痛暴滾"
+                "zh-tw": "劇痛暴滾",
+                ja: "のたうちあばれる"
             },
             effect: {
                 en: "This Pokémon also does 60 damage to itself.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Questo Pokémon infligge anche 60 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 60 Schadenspunkte zu.",
                 "pt-br": "Este Pokémon também causa 60 de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也會對自身造成 60 點傷害。"
+                "zh-tw": "這隻寶可夢也會對自身造成 60 點傷害。",
+                ja: "このポケモンにも60ダメージ。"
             },
             damage: 120
         }

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/100",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/100",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/100",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/100",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/100"
     },
     name: {
         en: "Mismagius",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Traunmagil",
         "pt-br": "Mismagius",
         "zh-tw": "夢妖魔",
+        ja: "ムウマージ",
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
+        ja: "ムウマ",
     },
     description: {
         en: "Its cries sound like incantations to torment the\nfoe. It appears where you least expect it.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Le sue grida sembrano incantesimi per tormentare i\nnemico. Appare dove meno te lo aspetti.",
         "de": "Seine Schreie klingen wie Beschwörungsformeln zur Qual\nFeind. Es erscheint dort, wo Sie es am wenigsten erwarten.",
         "pt-br": "Seus gritos soam como encantamentos para atormentar o\ninimigo. Aparece onde você menos espera.",
-        "zh-tw": "它的叫聲聽起來就像是在折磨人的咒語\n敵人。它會出現在您最意想不到的地方。"
+        "zh-tw": "它的叫聲聽起來就像是在折磨人的咒語\n敵人。它會出現在您最意想不到的地方。",
+        ja: "じゅもんの ような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Colpo spettrale",
                 "de": "Gruseliger Schuss",
                 "pt-br": "Tiro assustador",
-                "zh-tw": "幽靈射擊"
+                "zh-tw": "幽靈射擊",
+                ja: "ホロウショット"
             },
             damage: 70,
             cost: ["Psychic", "Psychic"]

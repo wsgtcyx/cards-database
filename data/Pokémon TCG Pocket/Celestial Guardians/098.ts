@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/098",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/098",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/098"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/098"
     },
     name: {
         en: "Rockruff",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Rockruff",
         de: "Wuffels",
         'pt-br': "Rockruff",
+        ja: "イワンコ",
         ko: "암멍이",
         "zh-tw": "岩狗狗",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "I cuccioli di Rockruff si affezionano subito. Crescendo diventano più\nferoci, ma provano per sempre gratitudine verso chi li ha allenati.",
         de: "Wuffels ist sehr zutraulich, solange es jung ist.\nMit dem Alter wird es zunehmend wilder, doch es\nbleibt seinem Trainer auf ewig verbunden.",
         'pt-br': "Este Pokémon é amigável quando jovem. Adquire um\ntemperamento cruel ao crescer, mas nunca se esquece\nda bondade de seu mestre.",
+        ja: "小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。",
         ko: "어렸을 때는 매우 잘 따른다.\n자라면서 성질이 사나워지지만\n주인에게 입은 은혜는 잊지 않는다.",
         "zh-tw": "這只神奇寶貝年輕時非常友好。長大後性情變得惡毒，但它卻永遠不會忘記主人的恩德。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Evolvisegni",
                 de: "Spuren der Evolution",
                 'pt-br': "Sinais de Evolução",
+                ja: "しんかのきざし",
                 ko: "진화의징조",
                 "zh-tw": "進化的跡象"
             },
@@ -55,6 +59,7 @@ const card: Card = {
                 es: "Pon 1 carta aleatoria que evolucione de Rockruff de tu baraja en tu mano.",
                 it: "Prendi una carta a caso dal tuo mazzo che si evolve da Rockruff e aggiungila alle carte che hai in mano.",
                 de: "Nimm 1 zufällige Karte, die sich aus Wuffels entwickelt, aus deinem Deck auf deine Hand.",
+                ja: "「イワンコ」から進化するカードを、自分の山札からランダムに1枚、手札に加える。",
                 ko: "「암멍이」에서 진화하는 카드를 자신의 덱에서 랜덤으로 1장 패로 가져온다.",
                 'pt-br': "Coloque 1 carta aleatória que evolua de Rockruff do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機放置一張由洛克拉夫進化而來的卡牌置入你的手牌。"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/212",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/212",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/212",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/212"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/212",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B2/212"
     },
     name: {
         en: "Omastar",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Omastar",
         "de": "Amoroso",
         "pt-br": "Omastar",
-        "zh-tw": "多刺菊石獸"
+        "zh-tw": "多刺菊石獸",
+        ja: "オムスター"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Omanyte",
         "de": "Amonitas",
         "pt-br": "Omanyte",
-        "zh-tw": "菊石獸"
+        "zh-tw": "菊石獸",
+        ja: "オムナイト"
     },
     description: {
         en: "Weighed down by a large and heavy shell,\nOmastar couldn't move very fast. Some say it\nwent extinct because it was unable to catch food.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Appesantito da un guscio grande e pesante,\nOmastar non poteva muoversi molto velocemente. Alcuni lo dicono\nsi estinse perché incapace di procurarsi il cibo.",
         "de": "Beschwert von einer großen und schweren Muschel,\nOmastar konnte sich nicht sehr schnell bewegen. Manche sagen es\nist ausgestorben, weil es nicht in der Lage war, Nahrung zu fangen.",
         "pt-br": "Sobrecarregado por uma concha grande e pesada,\nOmastar não conseguia se mover muito rápido. Alguns dizem isso\nfoi extinto porque não conseguia pegar comida.",
-        "zh-tw": "被又大又重的外殼壓得喘不過氣來，\n奧馬斯塔無法快速移動。有人這麼說\n因為無法捕捉食物而滅絕。"
+        "zh-tw": "被又大又重的外殼壓得喘不過氣來，\n奧馬斯塔無法快速移動。有人這麼說\n因為無法捕捉食物而滅絕。",
+        ja: "大きく 重い 殻のせいで 動きが 鈍くなり 獲物を 獲れずに 絶滅した という。"
     },
     stage: "Stage2",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Gorgo Antico",
                 "de": "Urzeitsog",
                 "pt-br": "Redemoinho Ancestral",
-                "zh-tw": "遠古漩渦"
+                "zh-tw": "遠古漩渦",
+                ja: "こだいのうずしお"
             },
             damage: 70,
             cost: ["Water", "Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
                 "de": "Während des nächsten Zuges deines Gegners kann das Verteidigende Pokémon nicht angreifen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá atacar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能攻擊。"
+                "zh-tw": "在對手的下一個回合中，守方寶可夢不能攻擊。",
+                ja: "次の相手の番、このワザを受けたポケモンはワザが使えない。"
             }
         }],
     weaknesses: [{

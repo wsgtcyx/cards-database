@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/174",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/174",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/174",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/174"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/174",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/174"
     },
     name: {
         en: "Swirlix",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Flauschling",
         "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
+        ja: "ペロッパフ",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Ogni giorno mangia il proprio peso in zucchero.\nSe non riceve abbastanza zucchero, diventa\nincredibilmente scontroso.",
         "de": "Es frisst jeden Tag sein eigenes Gewicht an Zucker.\nWenn es nicht genug Zucker bekommt, wird es\nunglaublich mürrisch.",
         "pt-br": "Ele come seu próprio peso em açúcar todos os dias.\nSe não obtiver açúcar suficiente, torna-se\nincrivelmente mal-humorado.",
-        "zh-tw": "它每天吃掉與自身重量相同的糖。\n如果沒有獲得足夠的糖分，就會變成\n脾氣暴躁得令人難以置信。"
+        "zh-tw": "它每天吃掉與自身重量相同的糖。\n如果沒有獲得足夠的糖分，就會變成\n脾氣暴躁得令人難以置信。",
+        ja: "１日に 食べる 砂糖は 自分の 体重と 同じ。 糖分が 足りないと ひどく 不機嫌になる。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Relè dei dolci",
                 "de": "Süßigkeiten-Staffel",
                 "pt-br": "Revezamento de Doces",
-                "zh-tw": "糖果接力賽"
+                "zh-tw": "糖果接力賽",
+                ja: "スイーツリレー"
             },
             damage: "10+",
             cost: ["Colorless"],
@@ -54,7 +58,8 @@ const card: Card = {
                 "it": "Se 1 dei tuoi Pokémon ha utilizzato Sweets Relay durante il tuo ultimo turno, questo attacco infligge 20 danni in più.",
                 "de": "Wenn eines deiner Pokémon in deinem letzten Zug „Sweet Relay“ verwendet hat, fügt dieser Angriff 20 weitere Schadenspunkte zu.",
                 "pt-br": "Se 1 dos seus Pokémon usou Sweets Relay durante seu último turno, este ataque causará 20 danos a mais.",
-                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。"
+                "zh-tw": "如果你的 1 個神奇寶貝在你的最後回合中使用了糖果接力，則此攻擊造成的傷害增加 20 點。",
+                ja: "前の自分の番、自分のポケモンが「スイーツリレー」を使っていたなら、20ダメージ追加。"
             }
         }],
     weaknesses: [{

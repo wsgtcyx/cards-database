@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/059",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/059",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/059",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/059",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/059"
     },
     name: {
         en: "Pidgeot ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Pidgeot-ex",
         de: "Tauboss-ex",
         'pt-br': "Pidgeot ex",
+        ja: "ピジョットex",
         ko: "피죤투 ex",
         "zh-tw": "大比鳥ex",
     },
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Pidgeotto",
         "de": "Tauboga",
         "pt-br": "Pidgeotto",
-        "zh-tw": "比比鳥"
+        "zh-tw": "比比鳥",
+        ja: "ピジョン"
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Ciclone Travolgente",
                 de: "Wütender Zyklon",
                 'pt-br': "Ciclone Disperso",
+                ja: "けちらしサイクロン",
                 ko: "차흩뜨리기 사이클론",
                 "zh-tw": "散射旋風分離器"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Questo attacco infligge 20 danni in più per ogni Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 20 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 20 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente.",
+                ja: "相手のベンチポケモンの数×20ダメージ追加。",
                 ko: "상대의 벤치 포켓몬의 수 × 20데미지를 추가한다.",
                 "zh-tw": "這次攻擊對對手的後備神奇寶貝每造成 20 點額外傷害。"
             }

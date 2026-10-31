@@ -10,7 +10,8 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/121",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4/121",
-        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/121"
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/121",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4/121"
     },
     name: {
         en: "Noibat",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Può cambiare a piacimento la frequenza delle proprie onde sonore, fino a raggiungere ultrasuoni di un massimo di 200.000 hertz.",
         de: "Es kann die Frequenz seiner Schallwellen nach Belieben ändern und sogar Ultraschallwellen von bis zu 200 000 Hz freisetzen.",
         "pt-br": "Noibat pode mudar a frequência de suas ondas sonoras à vontade e gera ondas ultrassônicas de até 200.000 hertz.",
-        "zh-tw": "可以自由自在地改變\n音波的頻率，最高能夠\n發出20萬赫茲的超音波。"
+        "zh-tw": "可以自由自在地改變\n音波的頻率，最高能夠\n發出20萬赫茲的超音波。",
+        ja: "音波の 周波数を 自在に 変える。 最大 20万ヘルツの 超音波を 出すことができる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Attacco d'ala",
                 de: "Flügelangriff",
                 "pt-br": "Ataque de Asa",
-                "zh-tw": "翅膀攻擊"
+                "zh-tw": "翅膀攻擊",
+                ja: "つばさでうつ"
             },
             damage: 40
         }

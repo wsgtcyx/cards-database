@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/064",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/064",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/064"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/064",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/064"
     },
     name: {
         en: "Charjabug",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Charjabug",
         de: "Akkup",
         'pt-br': "Charjabug",
+        ja: "デンヂムシ",
         ko: "전지충이",
         "zh-tw": "蟲電寶",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Mabula",
         "pt-br": "Grubbin",
         "zh-tw": "強顎雞母蟲",
+        ja: "アゴジムシ",
     },
     description: {
         en: "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "È protetto da un robusto esoscheletro. Contrattacca con\nl'elettricità che rilascia dalle punte che ha sulla mandibola.",
         de: "Es schützt sich mithilfe seines robusten Panzers.\nDurch die Spitzen an seinem Kiefer leitet es Strom,\nmit dem es sich gegen Angreifer wehrt.",
         'pt-br': "Enquanto sua carapaça resistente o protege de ataques,\nCharjabug ataca oponentes com raios elétricos disparados\ndas pontas da sua mandíbula.",
+        ja: "頑丈な 殻で 身を 守る。 顎の 先端から 電気を 流して 反撃する。",
         ko: "튼튼한 껍질로 몸을 보호한다.\n턱의 끝부분에서 전기를\n흘려보내 반격한다.",
         "zh-tw": "雖然它堅固的外殼可以保護它免受攻擊，但 Charjabug 會用下巴尖端釋放出的電流來攻擊敵人。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Presa",
                 de: "Klammer",
                 'pt-br': "Agarramento Compressor",
+                ja: "はさむ",
                 ko: "찝기",
                 "zh-tw": "虎鉗夾具"
             },

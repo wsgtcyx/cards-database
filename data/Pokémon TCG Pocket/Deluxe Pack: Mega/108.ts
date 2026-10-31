@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/108",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/108",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/108",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/108"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/108",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/108"
     },
     name: {
         en: "Wynaut",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Sie ziehen normalerweise im Rudel umher. Zum Schlafen drängen sie sich ganz eng in einer Höhle zusammen.",
         "pt-br": "Costumam se mover em bandos. Aglomeram-se em grupos para dormir em cavernas.",
         "zh-tw": "具有集體行動的習性。睡覺的時候會在洞窟中和夥伴們把身體挨在一起。",
-        ja: "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+        ja: "群れで 行動する 習性。 眠る ときは 洞窟の 中で 仲間たちと 体を 寄せあう。",
         ko: "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave."
     },
     attacks: [
@@ -55,7 +56,7 @@ const card: Card = {
                 "zh-tw": "踩踩干擾",
                 it: "Impedipedata",
                 de: "Störender Stampfer",
-                ja: "Stompy Jammer",
+                ja: "ふみふみジャマー",
                 ko: "Stompy Jammer"
             },
             effect: {
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Während des nächsten Zuges deines Gegners erhöhen sich die Kosten der vom Verteidigenden Pokémon eingesetzten Attacken um 1 {C}.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
                 "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量增加1個{C}能量。",
-                ja: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
+                ja: "次の相手の番、このワザを受けたポケモンの、ワザを使うためのエネルギーを、{C}エネルギー1個ぶん多くする。",
                 ko: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more."
             },
             damage: 10

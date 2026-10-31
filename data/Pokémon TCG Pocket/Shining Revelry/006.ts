@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/006",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/006",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/006",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/006"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/006",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/006"
     },
     name: {
         en: "Floragato",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Floragato",
         de: "Feliospa",
         'pt-br': "Floragato",
+        ja: "ニャローテ",
         ko: "나로테",
         "zh-tw": "蒂蕾喵"
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Sprigatito",
         "de": "Felori",
         "pt-br": "Sprigatito",
-        "zh-tw": "新葉喵"
+        "zh-tw": "新葉喵",
+        ja: "ニャオハ"
     },
     description: {
         en: "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Muove con agilità la liana nascosta\nsotto il lungo pelo e sferza il nemico\ncon il duro bocciolo sulla punta.",
         de: "Es lenkt geschickt die Ranke, die es unter\nseinem langen Fell verbirgt, und schleudert\ndie harte Knospe an ihrem Ende auf Gegner.",
         'pt-br': "Floragato empunha com maestria o cipó escondido\nentre seus pelos longos. Golpeia seus oponentes\ncom o botão de flor rígido.",
+        ja: "長い 体毛の下に 隠した ツタを 器用に 操り 硬い つぼみを 敵に 叩きつける。",
         ko: "긴 털 아래 숨긴 덩굴을\n능숙하게 다뤄서\n단단한 꽃봉오리로 상대를 가격한다.",
         "zh-tw": "弗洛拉加托巧妙地揮舞著隱藏在長毛皮下的藤蔓，將堅硬的花蕾​​猛擊對手。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
             it: "Lacerazione",
             de: "Schlitzer",
             'pt-br': "Talho",
+            ja: "きりさく",
             ko: "베어가르기",
             "zh-tw": "削減"
         },

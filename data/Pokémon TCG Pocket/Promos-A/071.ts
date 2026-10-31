@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/071",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/071",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/071"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/071"
     },
     name: {
         en: "Crabrawler",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Crabrawler",
         de: "Krabbox",
         'pt-br': "Crabrawler",
+        ja: "マケンカニ",
         ko: "오기지게",
         "zh-tw": "好勝蟹",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Prende a pugni gli alberi, per poi cibarsi delle\nbacche che cadono dai rami. In questo modo,\nsi allena e si procaccia il cibo simultaneamente.",
         de: "Dieses Pokémon boxt Bäume und frisst dann die Beeren,\ndie von ihnen herabfallen. So gelangt es an Nahrung und\nkann gleichzeitig trainieren.",
         'pt-br': "Este Pokémon esmurra árvores e come as frutas que\ncaem, treinando e conseguindo comida ao mesmo tempo.",
+        ja: "木を 殴りつけ 木の実を 落として 食べる。 トレーニングしつつ エサも 採れて 一石二鳥 なのだ。",
         ko: "나무를 때려서 떨어진 나무열매를 먹는다.\n트레이닝도 되고 먹이도 구해져서\n그야말로 일석이조다.",
         "zh-tw": "這只神奇寶貝會打樹並吃東西\n掉落下來的漿果，自我訓練\n並同時獲取食物。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Pugno",
                 de: "Boxhieb",
                 'pt-br': "Soco",
+                ja: "パンチ",
                 ko: "펀치",
                 "zh-tw": "沖床"
             },

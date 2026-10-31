@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/062",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/062",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/062",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/062"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/062",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3/062"
     },
     name: {
         en: "Morpeko",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Ha uno stomaco piccolo. Se non mangia costantemente i semi che tiene in tasca, avrà subito fame.",
         de: "Es hat einen kleinen Magen. Wenn es nicht ständig die Samen frisst, die es in seinen Taschen hat, wird es sofort hungrig.",
         "pt-br": "Tem um estômago pequeno. Se não comer constantemente as sementes que guarda nos bolsos, ficará com fome imediatamente.",
-        "zh-tw": "它有一個小胃。如果它不經常吃口袋裡的種子，它會立即感到飢餓。"
+        "zh-tw": "它有一個小胃。如果它不經常吃口袋裡的種子，它會立即感到飢餓。",
+        ja: "胃袋が 小さいので ポケットに 入れた タネを いつも 食べてないと すぐに お腹が 空いてしまうのだ。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Fulmine Panciapiena",
                 de: "Voller-Bauch-Blitz",
                 "pt-br": "Raio de Barriga Cheia",
-                "zh-tw": "滿腹伏特"
+                "zh-tw": "滿腹伏特",
+                ja: "まんぷくボルト"
             },
             effect: {
                 en: "If this Pokémon has no damage on it, this attack does 30 more damage.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Se questo Pokémon non ha danni su di sé, questo attacco infligge 30 danni in più.",
                 de: "Wenn dieses Pokémon keinen Schaden hat, fügt dieser Angriff 30 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon não causar danos, este ataque causará 30 danos a mais.",
-                "zh-tw": "如果這隻寶可夢沒有受到任何傷害，這次攻擊會造成額外 30 點傷害。"
+                "zh-tw": "如果這隻寶可夢沒有受到任何傷害，這次攻擊會造成額外 30 點傷害。",
+                ja: "このポケモンがダメージを受けていないなら、30ダメージ追加。"
             },
             damage: "10+"
         }

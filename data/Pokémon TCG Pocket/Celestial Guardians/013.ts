@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/013",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/013",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/013",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/013"
     },
     name: {
         en: "Grubbin",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Grubbin",
         de: "Mabula",
         'pt-br': "Grubbin",
+        ja: "アゴジムシ",
         ko: "턱지충이",
         "zh-tw": "強顎雞母蟲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Può spezzare grossi rami con le robuste mandibole, che\nmettono in fuga persino il suo nemico naturale, Rookidee.",
         de: "Sein großer Kiefer ist stark genug, um selbst\ndicke Äste zu zerbrechen. Damit treibt es auch\nseinen natürlichen Feind Meikro in die Flucht.",
         'pt-br': "Às vezes, seus inimigos naturais, como Rookidee,\npreferem fugir a encarar suas mandíbulas enormes,\nque podem rachar galhos espessos.",
+        ja: "大きな 顎は 太い 枝を へし折る 威力。 天敵の ココガラも たまらず 逃げだす。",
         ko: "커다란 턱은 굵은 가지를 부러뜨릴\n정도의 위력을 가졌다. 천적인\n파라꼬도 견디지 못하고 도망친다.",
         "zh-tw": "它的天敵，比如 Rookidee，可能會逃跑，而不是冒險被它的大下頜抓住，因為它可以折斷粗樹枝。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Rosicchiamento",
                 de: "Nagen",
                 'pt-br': "Roída",
+                ja: "かじる",
                 ko: "갉기",
                 "zh-tw": "啃"
             },

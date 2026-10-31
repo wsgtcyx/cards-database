@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4a/098",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4a/098",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/098",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/098"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/098",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4a/098"
     },
     name: {
         en: "Seaking",
@@ -48,7 +49,8 @@ const card: Card = {
         it: "Perfora con il suo corno le rocce sul letto dei fiumi, costruendo tane che proteggono le Uova dalla corrente.",
         de: "Es laicht in Löchern, die es mit seinem Hom in Felsen des Flussbettes gebohrt hat, damit seine Eier nicht vom Wasser fortgespült werden.",
         "pt-br": "Seaking cava buracos nas rochas dos leitos dos rios com seu chifre, criando ninhos que impedem que seus ovos sejam carregados pela corrente.",
-        "zh-tw": "金魚王之所以會用角挖穿河底的岩石來築巢，是為了防止產下的卵被水流沖走。"
+        "zh-tw": "金魚王之所以會用角挖穿河底的岩石來築巢，是為了防止產下的卵被水流沖走。",
+        ja: "ツノで 川底の 岩を くりぬき 巣をつくるのは 産みつけた タマゴが 流されないように するためだ。"
     },
     attacks: [
         {
@@ -60,7 +62,8 @@ const card: Card = {
                 it: "Idrodardo",
                 de: "Aquageschoss",
                 "pt-br": "Projétil de Água",
-                "zh-tw": "水子彈"
+                "zh-tw": "水子彈",
+                ja: "アクアバレット"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -69,7 +72,8 @@ const card: Card = {
                 it: "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario.",
                 de: "Diese Attacke fügt auch 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。"
+                "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。",
+                ja: "相手のベンチポケモン1匹にも20ダメージ。"
             },
             damage: 30
         }

@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/112",
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/112",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/112",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/112"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/112",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/112"
 	},
 	name: {
 		en: "Raichu ex",
@@ -17,7 +18,8 @@ const card: Card = {
 		it: "Raichu-ex",
 		de: "Raichu-ex",
 		"pt-br": "Raichu ex",
-		"zh-tw": "雷丘ex"
+		"zh-tw": "雷丘ex",
+		ja: "ライチュウex"
 	},
 	illustrator: "PLANETA Mochizuki",
 	rarity: "Four Diamond",
@@ -34,7 +36,8 @@ const card: Card = {
 				it: "Locomovolt",
 				de: "Volttackle",
 				"pt-br": "Investida Volt",
-				"zh-tw": "伏特攻擊"
+				"zh-tw": "伏特攻擊",
+				ja: "ボルテッカー"
 			},
 			damage: 130,
 			cost: ["Lightning", "Lightning", "Lightning"],
@@ -45,7 +48,8 @@ const card: Card = {
 				it: "Questo Pokémon infligge anche 30 danni a se stesso.",
 				de: "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
 				"pt-br": "Este Pokémon também causa 30 pontos de dano a si mesmo.",
-				"zh-tw": "這隻寶可夢也會對自己造成30點傷害。"
+				"zh-tw": "這隻寶可夢也會對自己造成30點傷害。",
+				ja: "このポケモンにも30ダメージ。"
 			}
 		}
 	],
@@ -63,7 +67,8 @@ const card: Card = {
 		it: "Pikachu",
 		de: "Pikachu",
 		"pt-br": "Pikachu",
-		"zh-tw": "皮卡丘"
+		"zh-tw": "皮卡丘",
+		ja: "ピカチュウ"
 	},
 	boosters: ["vol13"]
 };

@@ -10,7 +10,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/034",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/034",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/034",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/034"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/034",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/034"
 	},
 	name: {
 		en: "Servine",
@@ -19,7 +20,8 @@ const card: Card = {
 		it: "Servine",
 		de: "Efoserp",
 		"pt-br": "Servine",
-		"zh-tw": "青藤蛇"
+		"zh-tw": "青藤蛇",
+		ja: "ジャノビー"
 	},
 	illustrator: "Shigenori Negishi",
 	category: "Pokemon",
@@ -32,7 +34,8 @@ const card: Card = {
 		it: "Snivy",
 		de: "Serpifeu",
 		"pt-br": "Snivy",
-		"zh-tw": "藤藤蛇"
+		"zh-tw": "藤藤蛇",
+		ja: "ツタージャ"
 	},
 	description: {
 		en: "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
@@ -41,6 +44,7 @@ const card: Card = {
 		it: "Corre quasi scivolando sulle superfici. Confonde il nemico\ncon i rapidi movimenti, per poi attaccarlo con una frustata.",
 		de: "Huscht beinahe gleitend über den Boden\nund täuscht Gegner mit agilen Manövern,\nbis es mithilfe seiner Efeurute obsiegt.",
 		"pt-br": "Move-se pelo chão como se estivesse deslizando.\nAtordoa seus inimigos com movimentos rápidos\ne os ataca com um chicote de vinha.",
+		ja: "地面を 滑るように 走る。 素早い 動きで 敵を まどわせ つるのムチで しとめるのだ。",
 		ko: "땅을 미끄러지듯 달린다.\n빠른 움직임으로 상대를 혼란시키고\n덩굴채찍으로 꼼짝 못하게 한다.",
 		"zh-tw": "它沿著地面移動，就像滑動一樣。它敏捷的動作迷惑了敵人，然後用藤鞭攻擊。"
 	},
@@ -54,6 +58,7 @@ const card: Card = {
 				it: "Frustata",
 				de: "Rankenhieb",
 				"pt-br": "Chicote de Vinha",
+				ja: "つるのムチ",
 				ko: "덩굴채찍",
 				"zh-tw": "藤鞭"
 			},

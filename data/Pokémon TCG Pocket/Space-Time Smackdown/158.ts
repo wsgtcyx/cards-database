@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/158",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/158",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/158",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/158"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/158",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/158"
     },
     name: {
         en: "Carnivine",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Carnivine",
         de: "Venuflibis",
         'pt-br': "Carnivine",
+        ja: "マスキッパ",
         ko: "무스틈니",
         "zh-tw": "尖牙籠",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Attira le prede con il dolce aroma della saliva e poi\nle ingoia. Impiega un giorno per mangiare una preda.",
         de: "Sein süßlich riechender Speichel zieht Beute an,\ndie es frisst. Es braucht einen Tag, sie zu fressen.",
         'pt-br': "Atrai presas com sua saliva doce e depois as mastiga.\nLeva um dia inteiro para comer uma presa.",
+        ja: "甘い においの だえきで 獲物を おびき寄せ おおあごで がぶり。 １日 かけて 獲物を 食べる。",
         ko: "달콤한 냄새의 타액으로 먹이를\n끌어들여 큰 턱으로 꿀꺽한다.\n하루에 걸쳐 먹이를 먹는다.",
         "zh-tw": "它用帶有甜味的唾液吸引獵物，然後將其咀嚼下來。吃掉獵物需要一整天的時間。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Scudiscio",
                 de: "Auspeitscher",
                 'pt-br': "Fustigar",
+                ja: "ウィップダウン",
                 ko: "휩다운",
                 "zh-tw": "鞭打"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 50 Schadenspunkte mehr zu.",
                 'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 50 pontos de dano a mais.",
+                ja: "コインを1回投げオモテなら、50ダメージ追加。",
                 ko: "동전을 1번 던져서 앞면이 나오면 50데미지를 추가한다.",
                 "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 50 點額外傷害。"
             }

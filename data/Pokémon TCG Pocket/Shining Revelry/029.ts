@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/029",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/029",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/029",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/029",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/029"
     },
     name: {
         en: "Abra",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Abra",
         de: "Abra",
         'pt-br': "Abra",
+        ja: "ケーシィ",
         ko: "캐이시",
         "zh-tw": "凱西"
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Il contenuto dei suoi sogni influisce sui suoi poteri\npsichici, che può utilizzare anche mentre dorme.",
         de: "Es setzt seine Psycho-Kräfte selbst im\nSchlaf ein. Der Inhalt seiner Träume hat\nEinfluss auf die Kräfte, die es verwendet.",
         'pt-br': "Usa seus poderes psíquicos enquanto dorme.\nO conteúdo dos sonhos de Abra afeta os\npoderes que este Pokémon possui.",
+        ja: "寝ながら 超能力を 操る。 夢の 内容が 使う 力に 影響する。",
         ko: "자면서 초능력을 구사한다.\n꿈의 내용이\n사용하는 힘에 영향을 준다.",
         "zh-tw": "這只神奇寶貝在睡覺時會使用其心靈力量。阿布拉的夢的內容會影響神奇寶貝所使用的力量。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Psicosparo",
             de: "Psychoschuss",
             'pt-br': "Tiro Psíquico",
+            ja: "サイコショット",
             ko: "사이코숏",
             "zh-tw": "心理射擊"
         },

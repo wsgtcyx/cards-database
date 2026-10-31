@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/053",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/053",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/053",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/053"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/053",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/053"
     },
     name: {
         en: "Venipede",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Venipede",
         de: "Toxiped",
         'pt-br': "Venipede",
+        ja: "フシデ",
         ko: "마디네",
         "zh-tw": "百足蜈蚣",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "Appartiene a una specie simile a quella di Sizzlipede, ma\nse le loro strade si incrociano si scatena il finimondo.",
         de: "Es ist zwar artverwandt mit Thermopod, aber\njedes Mal, wenn sich die beiden über den Weg\nkrabbeln, streiten sie erbittert miteinander.",
         'pt-br': "Venipede e Sizzlipede são espécies similares, mas,\nquando se encontram, travam uma briga daquelas.",
+        ja: "ヤクデは 種類の 近い 仲間だが おたがいが 出会うと 大げんかに なるぞ。",
         ko: "태우지네와는 종류가 다른\n동료지만 서로 만나면\n큰 싸움이 된다.",
         "zh-tw": "斑足蟲和西足足蟲是相似的物種，但當兩者相遇時，就會發生一場激烈的戰鬥。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Carica",
                 de: "Ramme",
                 'pt-br': "Aríete",
+                ja: "ぶつかる",
                 ko: "부딪치기",
                 "zh-tw": "內存"
             },

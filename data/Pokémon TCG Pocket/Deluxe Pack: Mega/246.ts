@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/246",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/246",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/246",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/246"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/246",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/246"
     },
     name: {
         en: "Budew",
@@ -42,7 +43,7 @@ const card: Card = {
         de: "Es hat ein feines Gespür für die kleinsten Temperaturveränderungen. Wenn sich seine Knospe öffnet, bricht bald der Frühling an.",
         "pt-br": "Este Pokémon é extremamente sensível a mudanças de temperatura. Quando seu botão começa a se abrir, é sinal de que a primavera está chegando.",
         "zh-tw": "對氣溫的變化很敏感。當牠開始打開花苞，便是冬去春來之時。",
-        ja: "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+        ja: "気温の 変化に 敏感。 つぼみが 開きはじめたら 春の 訪れは もうすぐだ。",
         ko: "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner."
     },
     attacks: [
@@ -55,7 +56,7 @@ const card: Card = {
                 de: "Stechender Puder",
                 "pt-br": "Pó Pinicante",
                 "zh-tw": "痛痛粉",
-                ja: "Prickly Powder",
+                ja: "ひりひりパウダー",
                 ko: "Prickly Powder"
             },
             effect: {
@@ -66,7 +67,7 @@ const card: Card = {
                 de: "Das Verteidigende Pokémon verliert alle Fähigkeiten. Dieser Effekt hält an, bis das Verteidigende Pokémon die Aktive Position verlässt.",
                 "pt-br": "O Pokémon Defensor perde todas as Habilidades. Este efeito dura até o Pokémon Defensor sair do Campo Ativo.",
                 "zh-tw": "將受到這個招式的寶可夢的特性全部消除。這個效果在受到這個招式的寶可夢離開戰鬥場前一直持續。",
-                ja: "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot.",
+                ja: "このワザを受けたポケモンの特性を、すべてなくす。この効果は、このワザを受けたポケモンがバトル場をはなれるまで続く。",
                 ko: "The Defending Pokémon loses all Abilities. This effect lasts until the Defending Pokémon leaves the Active Spot."
             },
             damage: 10

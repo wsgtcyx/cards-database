@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/068",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/068",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/068",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/068"
     },
     name: {
         en: "Ralts",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ralts",
         de: "Trasla",
         'pt-br': "Ralts",
+        ja: "ラルトス",
         ko: "랄토스",
         "zh-tw": "拉魯拉絲",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Ha la capacità di percepire le emozioni delle\npersone grazie alle corna rosse che ha sul capo.",
         de: "Mit den roten Hörnern auf seinem Kopf kann es\ndie Gefühle der Menschen genau erspüren.",
         'pt-br': "O chifre na sua cabeça lhe garante o poder\ngrandioso de sentir as emoções das pessoas.",
+        ja: "人の 感情を 頭の 赤い ツノで 敏感に キャッチする 力を 持つ。",
         ko: "사람의 감정을 머리의\n빨간 뿔로 민감하게\n감지하는 힘을 가졌다.",
         "zh-tw": "它頭上的角具有強大的力量，能夠感知人們的情緒。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Teletrasporto",
                 de: "Teleport",
                 'pt-br': "Teleporte",
+                ja: "テレポート",
                 ko: "순간이동",
                 "zh-tw": "傳送"
             },
@@ -56,6 +60,7 @@ const card: Card = {
                 it: "Scambia questo Pokémon con uno della tua panchina.",
                 de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
                 'pt-br': "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
+                ja: "このポケモンをベンチポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치 포켓몬과 교체한다.",
                 "zh-tw": "將此神奇寶貝與你的 1 個替補神奇寶貝交換。"
             }

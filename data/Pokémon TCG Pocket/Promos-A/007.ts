@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/007",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/007",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/007",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/007",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-A/007"
     },
     name: {
         en: "Professor's Research",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Ricerca Accademica",
         de: "Forschung des Professors",
         'pt-br': "Pesquisa de Professores",
+        ja: "博士の研究",
         ko: "박사의 연구",
         "zh-tw": "博士的研究",
     },
@@ -30,6 +32,7 @@ const card: Card = {
         es: "Roba 2 cartas.",
         it: "Pesca 2 carte.",
         de: "Ziehe 2 Karten.",
+        ja: "自分の山札を2枚引く。",
         ko: "자신의 덱을 2장 뽑는다.",
         'pt-br': "Compre 2 cartas.",
         "zh-tw": "抽 2 張牌。"

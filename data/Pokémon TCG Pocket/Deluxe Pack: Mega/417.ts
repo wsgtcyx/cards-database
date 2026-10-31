@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/417",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/417",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/417",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/417"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/417",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B4b/417"
     },
     name: {
         en: "Mega Altaria ex",
@@ -41,7 +42,7 @@ const card: Card = {
         de: "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
-        ja: "Swablu",
+        ja: "チルット",
         ko: "Swablu"
     },
     stage: "Stage1",
@@ -59,7 +60,7 @@ const card: Card = {
                 de: "Mega-Harmonie",
                 "pt-br": "Mega-harmonia",
                 "zh-tw": "超級和聲",
-                ja: "Mega Harmony",
+                ja: "メガハーモニー",
                 ko: "Mega Harmony"
             },
             effect: {
@@ -70,7 +71,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes Pokémon auf deiner Bank 30 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano a mais para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "增加自己備戰寶可夢的數量×30點傷害。",
-                ja: "This attack does 30 more damage for each of your Benched Pokémon.",
+                ja: "自分のベンチポケモンの数×30ダメージ追加。",
                 ko: "This attack does 30 more damage for each of your Benched Pokémon."
             },
             damage: "40+"

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/166",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/166",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/166"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/166",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/166"
     },
     name: {
         en: "Tapu Koko",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Tapu Koko",
         de: "Kapu-Riki",
         'pt-br': "Tapu Koko",
+        ja: "カプ・コケコ",
         ko: "카푸꼬꼬꼭",
         "zh-tw": "卡璞・鳴鳴",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "È considerato un nume protettore ma, se si offende, monta su\ntutte le furie e non esita ad attaccare Pokémon ed esseri umani.",
         de: "Trotz seiner Rolle als Schutzpatron kommt es vor,\ndass es wild wird und andere Pokémon oder Menschen\nangreift, die ihm die Laune verderben.",
         'pt-br': "Embora seja considerado um espírito guardião, se uma\npessoa ou Pokémon deixá-lo de mau humor, torna-se\num espírito malévolo e ataca.",
+        ja: "守り神と 呼ばれるが 気分を 害する 人間や ポケモンには 襲い掛かる 荒ぶる神 でもある。",
         ko: "수호신이라고 불리지만\n기분을 해치는 사람이나 포켓몬을\n공격하는 난폭한 신이기도 하다.",
         "zh-tw": "雖然被稱為守護神，但如果人或寶可夢心情不好的話，就會變成惡神並發起攻擊。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Invertivolt",
                 de: "Voltwechsel",
                 'pt-br': "Troca Elétrica",
+                ja: "ボルトチェンジ",
                 ko: "볼트체인지",
                 "zh-tw": "電壓開關"
             },
@@ -57,6 +61,7 @@ const card: Card = {
                 it: "Scambia questo Pokémon con un Pokémon {L} della tua panchina.",
                 de: "Tausche dieses Pokémon gegen 1 {L}-Pokémon auf deiner Bank aus.",
                 'pt-br': "Troque este Pokémon por 1 dos seus Pokémon {L} no Banco.",
+                ja: "このポケモンをベンチの{L}ポケモンと入れ替える。",
                 ko: "이 포켓몬을 벤치의 {L}포켓몬과 교체한다.",
                 "zh-tw": "將此神奇寶貝與你的 1 個後備 {L} 神奇寶貝交換。"
             }

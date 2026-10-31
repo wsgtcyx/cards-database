@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/096",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/096",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/096"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/096"
     },
     name: {
         en: "Murkrow",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Murkrow",
         de: "Kramurx",
         'pt-br': "Murkrow",
+        ja: "ヤミカラス",
         ko: "니로우",
         "zh-tw": "黑暗鴉",
     },
@@ -33,6 +35,7 @@ const card: Card = {
         it: "Molti lo temono e lo detestano credendo che\nporti sfortuna a chiunque lo veda di notte.",
         de: "Viele verabscheuen und hassen es, da sie\nglauben, es bringe Unglück, wenn sie ihm\nnachts begegnen.",
         'pt-br': "Temido e detestado por muitos, acredita-se que traz\nmá sorte para todos que o veem à noite.",
+        ja: "夜 姿を 見かけると 不吉なことが 起きると 信じられ 忌み嫌われている ポケモン。",
         ko: "밤에 모습을 보게 되면\n불길한 일이 생긴다고 여겨져\n몹시 미움받는 포켓몬이다.",
         "zh-tw": "許多人害怕和厭惡它，人們相信它會給所有在夜間看到它的人帶來不幸。"
     },
@@ -45,6 +48,7 @@ const card: Card = {
                 it: "Beccata",
                 de: "Pikser",
                 'pt-br': "Bicada",
+                ja: "つつく",
                 ko: "쪼기",
                 "zh-tw": "啄"
             },

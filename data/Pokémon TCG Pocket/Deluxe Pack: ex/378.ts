@@ -9,7 +9,8 @@ const card: Card = {
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/378",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/378",
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/378",
-		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/378"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/378",
+		ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4b/378"
 	},
 	name: {
         en: "Darkrai ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Darkrai-ex",
         "pt-br": "Darkrai ex",
         "zh-tw": "達克萊伊ex",
+        ja: "ダークライex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",
@@ -36,7 +38,8 @@ const card: Card = {
                 "it": "Aura da incubo",
                 "de": "Albtraum-Aura",
                 "pt-br": "Aura de Pesadelo",
-                "zh-tw": "夢魘光環"
+                "zh-tw": "夢魘光環",
+                ja: "ナイトメアオーラ"
             },
             effect: {
                 en: "Whenever you attach a {D} Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon.",
@@ -45,7 +48,8 @@ const card: Card = {
                 "it": "Ogni volta che assegni un'Energia {D} dalla tua Zona delle Energie a questo Pokémon, infliggi 20 danni al Pokémon attivo del tuo avversario.",
                 "de": "Immer wenn du diesem Pokémon eine {D}-Energie aus deiner Energiezone anlegst, füge dem Aktiven Pokémon deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Sempre que você associar uma Energia {D} da sua Zona de Energia a este Pokémon, cause 20 pontos de dano ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。"
+                "zh-tw": "每當你將能量區中的 {D} 能量附加到這只神奇寶貝上時，就會對對手的活躍神奇寶貝造成 20 點傷害。",
+                ja: "自分のエネルギーゾーンからこのポケモンに{D}エネルギーをつけるたび、相手のバトルポケモンに20ダメージ。"
             }
         }],
     attacks: [{
@@ -56,7 +60,8 @@ const card: Card = {
                 "it": "Prisma Oscuro",
                 "de": "Dunkles Prisma",
                 "pt-br": "Prisma Escuro",
-                "zh-tw": "黑暗棱鏡"
+                "zh-tw": "黑暗棱鏡",
+                ja: "ダークプリズム"
             },
             damage: 80,
             cost: ["Darkness", "Darkness", "Colorless"]

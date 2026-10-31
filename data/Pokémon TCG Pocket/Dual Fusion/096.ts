@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/096",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/096",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/096",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/096"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/096",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/096"
     },
     name: {
         en: "Meltan",
@@ -51,7 +52,7 @@ const card: Card = {
                 de: "Ramme",
                 "pt-br": "Aríete",
                 "zh-tw": "衝撞",
-                ja: "Ram",
+                ja: "ぶつかる",
                 ko: "Ram"
             },
             cost: [
@@ -70,7 +71,7 @@ const card: Card = {
         de: "Es schmilzt Metall ein und frisst es. In seinem Körper wandelt es das flüssig gewordene Metall in Energie um.",
         "pt-br": "Dissolve e come metal. Este Pokémon gera energia quando metal líquido corre pelo seu corpo.",
         "zh-tw": "會溶解金屬後吃掉，讓液態金屬在體內循環來製造能量。",
-        ja: "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+        ja: "金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。",
         ko: "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy."
     }
 };

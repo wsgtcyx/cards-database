@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/017",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/017",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/017"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/017",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/017"
     },
     name: {
         en: "Slowpoke",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Slowpoke",
         "de": "Flegmon",
         "pt-br": "Slowpoke",
-        "zh-tw": "呆呆獸"
+        "zh-tw": "呆呆獸",
+        ja: "ヤドン"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "È incredibilmente lento e stupido. Ce ne vogliono cinque\nsecondi perché senta dolore quando è sotto attacco.",
         "de": "Es ist unglaublich langsam und blöd. Es dauert fünf\nEs dauert mehrere Sekunden, bis es bei einem Angriff Schmerzen verspürt.",
         "pt-br": "É incrivelmente lento e estúpido. Leva cinco\nsegundos para sentir dor quando estiver sob ataque.",
-        "zh-tw": "它非常緩慢且愚蠢。需要五個\n受到攻擊時它會感到疼痛幾秒鐘。"
+        "zh-tw": "它非常緩慢且愚蠢。需要五個\n受到攻擊時它會感到疼痛幾秒鐘。",
+        ja: "動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。"
     },
     stage: "Basic",
     attacks: [{
@@ -43,7 +46,8 @@ const card: Card = {
                 "it": "Pistola ad acqua",
                 "de": "Wasserpistole",
                 "pt-br": "Pistola de água",
-                "zh-tw": "水槍"
+                "zh-tw": "水槍",
+                ja: "みずでっぽう"
             },
             damage: 20,
             cost: ["Water"]

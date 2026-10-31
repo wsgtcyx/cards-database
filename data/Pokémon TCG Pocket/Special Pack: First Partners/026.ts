@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/SP1/026",
         de: "https://game.pokemontcgpocket.app/de/tcgp/SP1/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/SP1/026",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/026"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/SP1/026",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/SP1/026"
     },
     name: {
         en: "Fuecoco",
@@ -48,7 +49,7 @@ const card: Card = {
                 de: "Flammenwurf",
                 "pt-br": "Lança-chamas",
                 "zh-tw": "噴射火焰",
-                ja: "Flamethrower",
+                ja: "かえんほうしゃ",
                 ko: "Flamethrower"
             },
             cost: [
@@ -64,7 +65,7 @@ const card: Card = {
                 de: "Lege 1 {R}-Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte 1 Energia {R} deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的1個{R}能量丟棄。",
-                ja: "Discard a {R} Energy from this Pokémon.",
+                ja: "このポケモンから{R}エネルギーを1個トラッシュ。",
                 ko: "Discard a {R} Energy from this Pokémon."
             }
         }
@@ -78,7 +79,7 @@ const card: Card = {
         de: "Sein Flammensack ist noch klein, weshalb überquellende Energie über die Vertiefung an seinem Kopf flackernd freigesetzt wird.",
         "pt-br": "Sua bolsa de chamas é pequenina e tem sempre energia vazando. Esta energia é liberada pela cavidade no topo da cabeça de Fuecoco e balança pra lá e pra cá.",
         "zh-tw": "火囊很小，因此能量會溢出來，在牠頭上的凹槽那裡搖曳晃動。",
-        ja: "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+        ja: "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。",
         ko: "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro."
     }
 };

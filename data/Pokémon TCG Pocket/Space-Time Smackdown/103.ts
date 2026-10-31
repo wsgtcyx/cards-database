@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/103",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/103",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/103"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/103",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2/103"
     },
     name: {
         en: "Skuntank",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Skuntank",
         de: "Skuntank",
         'pt-br': "Skuntank",
+        ja: "スカタンク",
         ko: "스컹탱크",
         "zh-tw": "坦克臭鼬",
     },
@@ -34,6 +36,7 @@ const card: Card = {
         "de": "Skunkapuh",
         "pt-br": "Stunky",
         "zh-tw": "臭鼬噗",
+        ja: "スカンプー",
     },
     description: {
         en: "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
@@ -42,6 +45,7 @@ const card: Card = {
         it: "Attacca spruzzando un fluido puzzolente dalla\npunta della coda. Gli attacchi dall'alto lo confondono.",
         de: "Es greift mit einer übel riechenden Substanz an,\ndie es aus der Spitze seines Schweifs versprüht.\nAngriffe von oben verblüffen es.",
         'pt-br': "Ele ataca ao espirrar um fluido com um cheiro horroroso\nda ponta de sua cauda.\nOs ataques de cima podem confundi-lo.",
+        ja: "尻尾の 先から ひどい 臭いの 液体を 飛ばして 攻撃するが 上から 狙われると 戸惑う。",
         ko: "꼬리 끝에서 심한 냄새가 나는\n액체를 날려 공격하지만\n위에서 공격을 받게 되면 당황한다.",
         "zh-tw": "它通過從尾尖噴出難聞的液體來進行攻擊。來自上方的攻擊使其感到困惑。"
     },
@@ -54,6 +58,7 @@ const card: Card = {
                 it: "Velenogas",
                 de: "Giftwolke",
                 'pt-br': "Gás Venenoso",
+                ja: "どくガス",
                 ko: "독가스",
                 "zh-tw": "毒氣"
             },
@@ -65,6 +70,7 @@ const card: Card = {
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
                 it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
                 de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+                ja: "相手のバトルポケモンをどくにする。",
                 ko: "상대의 배틀 포켓몬을 독으로 만든다.",
                 'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "你對手的主動神奇寶貝現在中毒了。"

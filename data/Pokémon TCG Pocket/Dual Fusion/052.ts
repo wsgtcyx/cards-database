@@ -10,7 +10,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/C1/052",
         de: "https://game.pokemontcgpocket.app/de/tcgp/C1/052",
         "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/052",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/052"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/052",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/C1/052"
     },
     name: {
         en: "Wigglytuff",
@@ -49,7 +50,7 @@ const card: Card = {
         de: "Pummeluff",
         "pt-br": "Jigglypuff",
         "zh-tw": "胖丁",
-        ja: "Jigglypuff",
+        ja: "プリン",
         ko: "Jigglypuff"
     },
     attacks: [
@@ -62,7 +63,7 @@ const card: Card = {
                 de: "Wellenreiten",
                 "pt-br": "Fazer a \"Ola\"",
                 "zh-tw": "朋友之環",
-                ja: "Do the Wave",
+                ja: "ともだちのわ",
                 ko: "Do the Wave"
             },
             cost: [
@@ -78,7 +79,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes Pokémon auf deiner Bank 30 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon no Banco.",
                 "zh-tw": "造成自己的備戰寶可夢的數量×30點傷害。",
-                ja: "This attack does 30 damage for each of your Benched Pokémon.",
+                ja: "自分のベンチポケモンの数×30ダメージ。",
                 ko: "This attack does 30 damage for each of your Benched Pokémon."
             }
         }
@@ -92,7 +93,7 @@ const card: Card = {
         de: "Es hat sehr feines Fell. Doch Vorsicht: Verärgert man Knuddeluff, bläst es sich stark auf und stürzt sich mit seinem ganzen Körper auf einen.",
         "pt-br": "Ele tem a pele muito fina. Tome cuidado para não zangá-lo ou ele pode inflar permanentemente e golpear com uma pancada de corpo.",
         "zh-tw": "擁有細膩的毛皮。小心別欺負牠，否則牠會不斷膨脹並用身體飛撞過來。",
-        ja: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+        ja: "キメ細やかな 毛皮の 持ち主。 怒らせると どんどん ふくらみ のしかかってくるので 注意。",
         ko: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam."
     }
 };

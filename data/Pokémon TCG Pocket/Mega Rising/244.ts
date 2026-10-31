@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/244",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/244",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/244",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/244"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/244",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1/244"
     },
     name: {
         en: "Honchkrow",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Kramshef",
         "pt-br": "Honchkrow",
         "zh-tw": "烏鴉頭頭",
+        ja: "ドンカラス",
     },
     illustrator: "IKEDA Saki",
     rarity: "One Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
+        ja: "ヤミカラス",
     },
     description: {
         en: "A single cry from this nocturnal Pokémon, and\nmore than 100 of its Murkrow cronies will\nassemble.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Un solo grido di questo Pokémon notturno, e\npiù di 100 dei suoi amici di Murkrow lo faranno\nassemblare.",
         "de": "Ein einziger Schrei dieses nachtaktiven Pokémon, und\nMehr als 100 seiner Murkrow-Kumpane werden es tun\nzusammenbauen.",
         "pt-br": "Um único grito deste Pokémon noturno, e\nmais de 100 de seus comparsas Murkrow irão\nmontar.",
-        "zh-tw": "這只夜間活動的神奇寶貝的一聲叫聲，以及\n超過 100 名暗鴉親信將\n組裝。"
+        "zh-tw": "這只夜間活動的神奇寶貝的一聲叫聲，以及\n超過 100 名暗鴉親信將\n組裝。",
+        ja: "夜行性。 一声 鳴けば １００匹を 超える 子分の ヤミカラスが 集結する。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Malvagio ammonimento",
                 "de": "Böse Ermahnung",
                 "pt-br": "Advertência maligna",
-                "zh-tw": "邪惡的警告"
+                "zh-tw": "邪惡的警告",
+                ja: "あくのいましめ"
             },
             damage: "40+",
             cost: ["Colorless", "Colorless"],
@@ -63,7 +68,8 @@ const card: Card = {
                 "it": "Questo attacco infligge 40 danni in più per ciascuno dei Pokémon in gioco del tuo avversario che ha un'abilità.",
                 "de": "Dieser Angriff fügt jedem Pokémon deines Gegners im Spiel, das über eine Fähigkeit verfügt, 40 weitere Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada Pokémon do seu oponente em jogo que tenha uma Habilidade.",
-                "zh-tw": "此攻擊對場上對手每隻具有技能的神奇寶貝造成 40 點額外傷害。"
+                "zh-tw": "此攻擊對場上對手每隻具有技能的神奇寶貝造成 40 點額外傷害。",
+                ja: "相手の場の特性を持つポケモンの数×40ダメージ追加。"
             }
         }],
     weaknesses: [{

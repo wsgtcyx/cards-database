@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/071",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/071",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/071",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/071"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/071",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/071"
     },
     name: {
         en: "Piplup",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Molto orgoglioso. Difficile farci amicizia perché non ascolta mai\ni consigli dell’Allenatore.",
         de: "Einmischung kann es gar nicht leiden. Es ist bockig und fasst\nnur schwer Zutrauen zu seinem Trainer.",
         "pt-br": "Não gosta de ser cuidado. É difícil criar um vínculo, pois ele não escuta seu Treinador.",
-        "zh-tw": "它不喜歡被照顧。它很難與它建立聯繫，因為它不聽訓練師的話。"
+        "zh-tw": "它不喜歡被照顧。它很難與它建立聯繫，因為它不聽訓練師的話。",
+        ja: "世話を 焼かれる ことが 大嫌い。 トレーナーの 指示を 聞かないので 仲良く なるのが 難しい。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Bollaraggio",
                 de: "Blubbstrahl",
                 "pt-br": "Feixe de bolha",
-                "zh-tw": "泡沫光線"
+                "zh-tw": "泡沫光線",
+                ja: "バブルこうせん"
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
                 "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
             },
             damage: 20
         }

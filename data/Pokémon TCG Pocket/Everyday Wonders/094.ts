@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/094",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/094"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3b/094"
     },
     name: {
         en: "Mareep",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Il suo vello cresce continuamente. In estate il vello cade completamente, ma ricresce in una settimana.",
         de: "Sein Fell wächst kontinuierlich. Im Sommer wird das Vlies vollständig abgeworfen, aber es wächst innerhalb einer Woche wieder nach.",
         "pt-br": "Seu velo cresce continuamente. No verão, o velo cai completamente, mas volta a crescer em uma semana.",
-        "zh-tw": "它的羊毛不斷生長。夏天，羊毛會完全脫落，但一週後又會長回來。"
+        "zh-tw": "它的羊毛不斷生長。夏天，羊毛會完全脫落，但一週後又會長回來。",
+        ja: "体毛は どんどん 伸びる。 夏になると 全部 抜け落ちるが 1週間で 元通りになる。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Retrocalcio",
                 de: "Rückwärtskick",
                 "pt-br": "Chute Traseiro",
-                "zh-tw": "後踢"
+                "zh-tw": "後踢",
+                ja: "うしろげり"
             },
             damage: 10
         }

@@ -10,7 +10,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/094",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/094",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/094"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/094",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B3a/094"
     },
     name: {
         en: "Rellor",
@@ -37,7 +38,8 @@ const card: Card = {
         it: "Fa rotolare la sua palla di fango mentre matura l'energia di cui ha bisogno per l'evoluzione. Alla fine arriva il momento di evolversi.",
         de: "Es rollt seinen Schlammball herum, während die Energie heranreift, die es für die Evolution braucht. Irgendwann ist die Zeit gekommen, dass es sich weiterentwickelt.",
         "pt-br": "Ele rola sua bola de lama enquanto a energia necessária para a evolução amadurece. Eventualmente chega a hora de evoluir.",
-        "zh-tw": "當它進化所需的能量成熟時，它會滾動它的泥球。最終，它進化的時刻來了。"
+        "zh-tw": "當它進化所需的能量成熟時，它會滾動它的泥球。最終，它進化的時刻來了。",
+        ja: "泥玉を 転がしながら 進化の エネルギーを 熟成させる。 やがて 進化のときを 迎える。"
     },
     attacks: [
         {
@@ -49,7 +51,8 @@ const card: Card = {
                 it: "Rotopalla",
                 de: "Ballrolle",
                 "pt-br": "Rolo Bola",
-                "zh-tw": "滾球"
+                "zh-tw": "滾球",
+                ja: "たまころがり"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 20 damage for each heads.",
@@ -58,7 +61,8 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 20 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 20 點傷害。"
+                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 20 點傷害。",
+                ja: "ウラが出るまでコインを投げ、オモテの数×20ダメージ。"
             },
             damage: "20x"
         }

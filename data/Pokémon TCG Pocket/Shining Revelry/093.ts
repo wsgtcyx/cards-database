@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/093",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/093",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/093",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/093"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/093",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A2b/093"
     },
     name: {
         en: "Paldean Clodsire ex",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Clodsire di Paldea-ex",
         de: "Paldea-Suelord-ex",
         'pt-br': "Clodsire de Paldea ex",
+        ja: "パルデアドオーex",
         ko: "팔데아토오 ex",
         "zh-tw": "帕底亞土王ex",
     },
@@ -33,7 +35,8 @@ const card: Card = {
         "it": "Wooper di Paldea",
         "de": "Paldea-Felino",
         "pt-br": "Wooper de Paldea",
-        "zh-tw": "帕底亞烏波"
+        "zh-tw": "帕底亞烏波",
+        ja: "パルデアウパー"
     },
     stage: "Stage1",
     suffix: "EX",
@@ -45,6 +48,7 @@ const card: Card = {
             it: "Velenoshock",
             de: "Giftschock",
             'pt-br': "Venochoque",
+            ja: "ベノムショック",
             ko: "베놈쇼크",
             "zh-tw": "靜脈休克"
         },
@@ -56,6 +60,7 @@ const card: Card = {
             es: "Si el Pokémon Activo de tu rival está Envenenado, este ataque hace 60 puntos de daño más.",
             it: "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 60 danni in più.",
             de: "Wenn das Aktive Pokémon deines Gegners vergiftet ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",
+            ja: "相手のバトルポケモンがどくなら、60ダメージ追加。",
             ko: "상대의 배틀 포켓몬이 독이라면 60데미지를 추가한다.",
             'pt-br': "Se o Pokémon Ativo do seu oponente estiver Envenenado, este ataque causará 60 pontos de dano a mais.",
             "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 60 點。"

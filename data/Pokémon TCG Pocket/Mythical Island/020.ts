@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/020",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/020",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A1a/020"
     },
     name: {
         en: "Finneon",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Finneon",
         de: "Finneon",
         'pt-br': "Finneon",
+        ja: "ケイコウオ",
         ko: "형광어",
         "zh-tw": "螢光魚",
     },
@@ -32,6 +34,7 @@ const card: Card = {
         it: "La linea che contorna il suo corpo immagazzina la luce\nsolare. Di notte si illumina di una luce splendente.",
         de: "Die Linie an seiner Seite kann Sonnenlicht\nspeichern. Nachts leuchtet es sehr intensiv.",
         'pt-br': "A linha na lateral de seu corpo armazena luz solar\ne brilha intensamente à noite.",
+        ja: "体の 横側にある ラインは 太陽の光を ためておける。 夜になると 鮮やかに 輝く。",
         ko: "몸 옆쪽에 있는 줄에\n태양 빛을 모아 둘 수 있다.\n밤이 되면 아름답게 빛난다.",
         "zh-tw": "沿著其側面延伸的線可以儲存陽光。它在夜間閃閃發光。"
     },
@@ -44,6 +47,7 @@ const card: Card = {
                 it: "Pistolacqua",
                 de: "Aquaknarre",
                 'pt-br': "Revólver d'Água",
+                ja: "みずでっぽう",
                 ko: "물대포",
                 "zh-tw": "水槍"
             },

@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/082",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/082",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/082",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A4a/082"
     },
     name: {
         en: "Poliwrath ex",
@@ -19,6 +20,7 @@ const card: Card = {
         "de": "Quappo-ex",
         "pt-br": "Poliwrath ex",
         "zh-tw": "蚊香泳士ex",
+        ja: "ニョロボンex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Two Star",
@@ -33,6 +35,7 @@ const card: Card = {
         "de": "Quaputzi",
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
+        ja: "ニョロゾ",
     },
     stage: "Stage2",
     suffix: "EX",
@@ -44,7 +47,8 @@ const card: Card = {
                 "it": "Idro Knuckle",
                 "de": "Hydroknöchel",
                 "pt-br": "Junta Hidrográfica",
-                "zh-tw": "液壓轉向節"
+                "zh-tw": "液壓轉向節",
+                ja: "ハイドロナックル"
             },
             damage: "100+",
             cost: ["Fighting", "Colorless", "Colorless"],
@@ -55,7 +59,8 @@ const card: Card = {
                 "it": "Se questo Pokémon ha delle Energie {W} assegnate, questo attacco infligge 40 danni in più.",
                 "de": "Wenn an dieses Pokémon {W}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
                 "pt-br": "Se este Pokémon tiver alguma Energia {W} anexada, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "如果該神奇寶貝附加了任何 {W} 能量，則此攻擊造成的傷害增加 40 點。"
+                "zh-tw": "如果該神奇寶貝附加了任何 {W} 能量，則此攻擊造成的傷害增加 40 點。",
+                ja: "このポケモンに{W}エネルギーがついているなら、40ダメージ追加。"
             }
         }],
     weaknesses: [{

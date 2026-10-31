@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/190",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/190",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/190"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/190",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/A3/190"
     },
     name: {
         en: "Acerola",
@@ -18,6 +19,7 @@ const card: Card = {
         it: "Malpi",
         de: "Lola",
         'pt-br': "Acerola",
+        ja: "アセロラ",
         ko: "아세로라",
         "zh-tw": "阿塞蘿拉",
     },
@@ -31,6 +33,7 @@ const card: Card = {
         it: "Scegli uno dei tuoi Palossand o Mimikyu danneggiati e sposta 40 dei suoi danni sul Pokémon attivo del tuo avversario.",
         de: "Wähle 1 deiner Colossand oder Mimigma, dem bereits Schaden zugefügt wurde, und verschiebe 40 der bereits zugefügten Schadenspunkte auf das Aktive Pokémon deines Gegners.",
         'pt-br': "Escolha 1 dos seus Palossand ou Mimikyu que estiver danificado e mova 40 dos seus pontos de dano para o Pokémon Ativo do seu oponente.",
+        ja: "ダメージを受けている自分の「シロデスナ」または「ミミッキュ」を1匹選び、選んだポケモンが受けているダメージを40、相手のバトルポケモンに移し替える。",
         ko: "데미지를 받고 있는 자신의 「모래성이당」 또는 「따라큐」 1마리 선택해서 선택한 포켓몬이 받고 있는 데미지를 40 상대의 배틀 포켓몬에게 옮긴다.",
         "zh-tw": "選擇自己的1只受到傷害的帕羅沙或秘擬獸，將其傷害的40點轉移到對手的活躍寶可夢身上。"
     },

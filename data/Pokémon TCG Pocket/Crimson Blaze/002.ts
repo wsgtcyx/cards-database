@@ -9,7 +9,8 @@ const card: Card = {
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/002",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/002",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/002",
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/002"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/002",
+        ja: "https://game.pokemontcgpocket.app/ja/tcgp/B1a/002"
     },
     name: {
         en: "Ivysaur",
@@ -18,7 +19,8 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Bisaknosp",
         "pt-br": "Ivysaur",
-        "zh-tw": "妙蛙草"
+        "zh-tw": "妙蛙草",
+        ja: "フシギソウ"
     },
     illustrator: "Kanako Eo",
     rarity: "Two Diamond",
@@ -32,7 +34,8 @@ const card: Card = {
         "it": "Bulbasaur",
         "de": "Bisasam",
         "pt-br": "Bulbasaur",
-        "zh-tw": "妙蛙種子"
+        "zh-tw": "妙蛙種子",
+        ja: "フシギダネ"
     },
     description: {
         en: "The more sunlight Ivysaur bathes in, the more\nstrength wells up within it, allowing the bud\non its back to grow larger.",
@@ -41,7 +44,8 @@ const card: Card = {
         "it": "Più Ivysaur si immerge nella luce del sole, più sarà\nla forza sgorga al suo interno, permettendo il germoglio\nsul dorso per ingrandirsi.",
         "de": "Je mehr Sonnenlicht Ivysaurier einnimmt, desto mehr\nIn ihm strömt Kraft auf, die die Knospe ermöglicht\nauf dem Rücken, um größer zu werden.",
         "pt-br": "Quanto mais luz solar Ivysaur banha, mais\na força brota dentro dele, permitindo que o botão\nde costas para crescer.",
-        "zh-tw": "Ivysaur 沐浴的陽光越多，\n力量在裡面湧動，讓花蕾\n在它的背上變大。"
+        "zh-tw": "Ivysaur 沐浴的陽光越多，\n力量在裡面湧動，讓花蕾\n在它的背上變大。",
+        ja: "太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。"
     },
     stage: "Stage1",
     attacks: [{
@@ -52,7 +56,8 @@ const card: Card = {
                 "it": "Sintesi",
                 "de": "Synthese",
                 "pt-br": "Síntese",
-                "zh-tw": "光合作用"
+                "zh-tw": "光合作用",
+                ja: "こうごうせい"
             },
             cost: ["Grass"],
             effect: {
@@ -62,7 +67,8 @@ const card: Card = {
                 "it": "Prendi 2 Energie {G} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 "de": "Nimm 2 {G}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",
                 "pt-br": "Pegue 2 {G} Energias da sua Zona de Energia e ligue-as a este Pokémon.",
-                "zh-tw": "從你的能量區取出 2 個 {G} 能量並將其附加到這只神奇寶貝身上。"
+                "zh-tw": "從你的能量區取出 2 個 {G} 能量並將其附加到這只神奇寶貝身上。",
+                ja: "自分のエネルギーゾーンから{G}エネルギーを2個出し、このポケモンにつける。"
             }
         }],
     weaknesses: [{
