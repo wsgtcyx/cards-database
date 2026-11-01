@@ -1,6 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { pathToFileURL } from 'node:url'
+import { loadSharp } from '../../../../scripts/utils/load-sharp.mjs'
 
 function getArg(name) {
 	const exact = process.argv.indexOf(`--${name}`)
@@ -30,16 +30,7 @@ const INPUT_ROOT = getArg('input')
 const OUTPUT_ROOT = getArg('output')
 	?? process.env.POCKET_ASSET_OUTPUT
 	?? `/tmp/tcgp-r2-${config.set.id}`
-const sharpCandidates = [
-	process.env.SHARP_ENTRY,
-	path.resolve(process.cwd(), 'node_modules/sharp/lib/index.js'),
-	path.resolve(process.cwd(), '../tcgp/node_modules/sharp/lib/index.js'),
-].filter(Boolean)
-const SHARP_ENTRY = sharpCandidates.find(candidate => fs.existsSync(candidate))
-if (!SHARP_ENTRY) {
-	throw new Error(`Sharp not found. Set SHARP_ENTRY. Checked: ${sharpCandidates.join(', ')}`)
-}
-const sharp = (await import(pathToFileURL(SHARP_ENTRY).href)).default
+const sharp = await loadSharp(process.cwd(), path.resolve('../tcgp'))
 
 const CARD_LANGUAGES = config.images.cardLanguages
 const CARD_SOURCE_FORMATS = config.images.cardSourceFormats
