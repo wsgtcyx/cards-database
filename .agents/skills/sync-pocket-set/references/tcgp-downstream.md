@@ -42,7 +42,8 @@
 2. 英语卡表、合并 rarity、entity 和 filter index key 集完全一致。
 3. 从目标 pack pool 实际抽五张，全部属于该 set，数量和第五张 rarity contract 正确。
 4. set/pack/catalog/collection/card-detail/deck-builder 测试通过。
-5. `pnpm test`、`pnpm type-check`、`pnpm build` 通过，构建产物包含目标 set/pack 路由。
+5. 从 tcgp 根目录运行 `pnpm test`、`pnpm run lint`、`pnpm run type-check`、`pnpm run build`。用独立工作树构建和启动，避免覆盖正在使用的 `dist/`。
+6. 用 `pnpm run start` 验证 TanStack Start 的 SSR 动态路由。按 tcgp 仓库 `.agents/skills/add-set-pack-metadata/references/project-contract.md` 的“路由验收”检查本次 set 和每个 pack；构建文件和预热列表均不能证明新 slug 实际可用。
 
 commit/push 分仓授权：cards-database 和 tcgp 分别复核分支、HEAD、远端、staged paths 和测试；
 只有用户明确要求对应仓库的 commit/push 才执行，不因一个仓库获批推送另一个。

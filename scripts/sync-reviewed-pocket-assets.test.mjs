@@ -1,5 +1,9 @@
 import assert from 'node:assert/strict'
 import test from 'node:test'
+import fs from 'node:fs'
+import os from 'node:os'
+import path from 'node:path'
+import { loadSharp } from './utils/load-sharp.mjs'
 
 import {
 	assertBoosterAssetKey,
@@ -7,6 +11,17 @@ import {
 	boosterAssetKey,
 	probePreflightRemote,
 } from './sync-reviewed-pocket-assets.mjs'
+
+test('asset preparation finds the downstream Sharp package through its public entry', { skip: Boolean(process.env.SHARP_ENTRY) }, async t => {
+	const root = fs.mkdtempSync(path.join(os.tmpdir(), 'pocket-sharp-'))
+	t.after(() => fs.rmSync(root, { recursive: true, force: true }))
+	const downstream = path.join(root, 'tcgp')
+	const pkg = path.join(downstream, 'node_modules', 'sharp')
+	fs.mkdirSync(pkg, { recursive: true })
+	fs.writeFileSync(path.join(pkg, 'package.json'), JSON.stringify({ exports: './entry.cjs' }))
+	fs.writeFileSync(path.join(pkg, 'entry.cjs'), "module.exports = 'downstream sharp'")
+	assert.equal(await loadSharp(path.join(root, 'api'), downstream), 'downstream sharp')
+})
 
 test('booster asset keys are exact and locale-scoped', () => {
 	assert.equal(boosterAssetKey('fr', 'logo'), 'fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp')

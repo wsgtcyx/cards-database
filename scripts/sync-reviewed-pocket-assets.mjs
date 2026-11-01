@@ -15,7 +15,8 @@ import fsp from 'node:fs/promises'
 import os from 'node:os'
 import path from 'node:path'
 import { spawn } from 'node:child_process'
-import { fileURLToPath, pathToFileURL } from 'node:url'
+import { fileURLToPath } from 'node:url'
+import { loadSharp } from './utils/load-sharp.mjs'
 
 const ROOT = path.resolve(fileURLToPath(new URL('..', import.meta.url)))
 const R2_ORIGIN = 'https://game.pokemontcgpocket.app'
@@ -167,17 +168,6 @@ async function fetchWithRetry(url, init = {}, allowed = []) {
 	}
 }
 
-async function loadSharp() {
-	const candidates = [
-		process.env.SHARP_ENTRY,
-		path.join(ROOT, '..', 'tcgp', 'node_modules', 'sharp', 'lib', 'index.js'),
-		path.join(ROOT, 'node_modules', 'sharp', 'lib', 'index.js'),
-	].filter(Boolean)
-	const entry = candidates.find(candidate => fs.existsSync(candidate))
-	if (!entry) throw new Error(`sharp not found; checked ${candidates.join(', ')}`)
-	return (await import(pathToFileURL(entry).href)).default
-}
-
 function reviewedEntries() {
 	const logo = readPinnedSource(SOURCE_FILES.logo)
 	assertArtifactDigest(logo.value, logo.relativeFile)
@@ -236,7 +226,7 @@ async function mapWithConcurrency(values, concurrency, fn) {
 
 async function prepare(options) {
 	const { runDir, workRoot } = pathsFor(options)
-	const sharp = await loadSharp()
+	const sharp = await loadSharp(path.join(ROOT, '..', 'tcgp'), ROOT)
 	const reviewed = reviewedEntries()
 	const sourceCache = new Map()
 	const objects = await mapWithConcurrency(reviewed.records, 6, async record => {

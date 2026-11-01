@@ -15,7 +15,8 @@ import fsp from 'node:fs/promises'
 import os from 'node:os'
 import path from 'node:path'
 import { spawn } from 'node:child_process'
-import { fileURLToPath, pathToFileURL } from 'node:url'
+import { fileURLToPath } from 'node:url'
+import { loadSharp } from './utils/load-sharp.mjs'
 
 const ROOT = path.resolve(fileURLToPath(new URL('..', import.meta.url)))
 const DOWNSTREAM = path.resolve(ROOT, '../tcgp')
@@ -1300,14 +1301,7 @@ async function prepare(options) {
 	assertSelection(downloadManifest.selection, options, 'downloads.json')
 	const allowed = new Set(options.cards)
 	const records = downloadManifest.records.filter((record) => allowed.size === 0 || allowed.has(record.id))
-	const sharpCandidates = [
-		process.env.SHARP_ENTRY,
-		path.join(DOWNSTREAM, 'node_modules/sharp/lib/index.js'),
-		path.join(ROOT, 'node_modules/sharp/lib/index.js'),
-	].filter(Boolean)
-	const sharpEntry = sharpCandidates.find((candidate) => fs.existsSync(candidate))
-	if (!sharpEntry) throw new Error(`sharp not found; checked ${sharpCandidates.join(', ')}`)
-	const sharp = (await import(pathToFileURL(sharpEntry).href)).default
+	const sharp = await loadSharp(DOWNSTREAM, ROOT)
 	const outputRoot = path.join(WORK_ROOT, 'r2')
 	const prepared = await mapWithConcurrency(records, 6, async (record) => {
 		const target = audit.targets.find((item) => item.id === record.id && item.locale === record.locale && item.status === 'source-available')
